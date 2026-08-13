@@ -35,7 +35,7 @@
 | Evaluaciones de clase | 288 |
 | Proyectos de parte | 24 |
 | Casos integradores | 24 |
-| Plantillas de trabajo | 40 |
+| Plantillas de trabajo | 39 |
 | Escenarios del simulador | 48 |
 | Documentos Markdown | 814 |
 

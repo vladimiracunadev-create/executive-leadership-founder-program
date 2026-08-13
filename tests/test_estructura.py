@@ -84,3 +84,41 @@ def test_la_version_dice_lo_mismo_en_todos_los_archivos(raiz: Path):
 
     problemas = validate_repository.validar_version()
     assert not problemas, f"la versión no está sincronizada: {problemas}"
+
+
+def test_el_readme_lista_las_24_partes_con_su_rango_real(raiz: Path, partes):
+    """La tabla de partes del README se escribe a mano y se desincroniza sola.
+
+    Ya pasó con el título de la parte 19, que el README traía recortado. Aquí se
+    comprueba fila por fila contra el árbol: número, título exacto, número de
+    clases, rango de numeración y enlace al README de la parte.
+    """
+    readme = (raiz / "README.md").read_text(encoding="utf-8")
+    problemas = []
+    for parte in partes:
+        primera, ultima = parte.clases[0].numero, parte.clases[-1].numero
+        fila = (f"| {parte.numero:02d} | {parte.titulo} | "
+                f"{len(parte.clases)} ({primera:03d}–{ultima:03d}) |")
+        if fila not in readme:
+            problemas.append(f"parte {parte.numero:02d}: fila ausente o desactualizada")
+        if f"({parte.ruta_md})" not in readme:
+            problemas.append(f"parte {parte.numero:02d}: falta el enlace a su README")
+    assert not problemas, f"el README no refleja las partes reales: {problemas}"
+
+
+def test_el_readme_no_anuncia_cifras_que_no_existen(raiz: Path, resumen):
+    """Las cifras de la cabecera y de la tabla resumen salen del recuento real."""
+    readme = (raiz / "README.md").read_text(encoding="utf-8")
+    esperadas = {
+        "clases": resumen.clases,
+        "partes": resumen.partes,
+        "horas": resumen.horas,
+        "laboratorios": resumen.labs,
+        "casos": resumen.casos,
+        "plantillas": resumen.plantillas,
+        "escenarios": resumen.escenarios,
+        "obras": resumen.bibliografia,
+    }
+    ausentes = [f"{nombre}={valor}" for nombre, valor in esperadas.items()
+                if str(valor) not in readme]
+    assert not ausentes, f"el README no menciona estas cifras reales: {ausentes}"

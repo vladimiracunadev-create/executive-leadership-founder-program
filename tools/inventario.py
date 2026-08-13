@@ -249,7 +249,10 @@ def resumen(datos: list[Parte] | None = None) -> Resumen:
         labs=sum(len(p.labs) for p in datos),
         proyectos=len(list(MODULES.glob("*/project.md"))),
         casos=len(list((ROOT / "cases").glob("*.md"))),
-        plantillas=len(list((ROOT / "templates").glob("*.md"))),
+        # El índice de la carpeta no es una plantilla; contarlo inflaba la cifra
+        # en uno y la dejaba discrepando con la que anuncia el README.
+        plantillas=len([p for p in (ROOT / "templates").glob("*.md")
+                        if p.name != "README.md"]),
         escenarios=len(escenarios),
         bibliografia=bibliografia,
         referencias_en_clase=sum(len(c.referencias) for c in todas),

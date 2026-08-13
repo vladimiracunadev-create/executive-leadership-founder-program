@@ -38,6 +38,11 @@ SALIDA = ROOT / "site"
 EXCLUIDOS = {".git", ".github", "node_modules", ".venv", "site",
              "__pycache__", ".pytest_cache", ".ruff_cache"}
 
+# `.github` no aporta páginas al portal, pero el README enlaza sus workflows
+# para que se puedan leer. Un archivo que la documentación enlaza a propósito
+# tiene que viajar con el sitio, viva donde viva.
+EXCLUIDOS_ADJUNTOS = EXCLUIDOS - {".github"}
+
 TITULO = "Executive Leadership & Founder Program"
 REPO = "https://github.com/vladimiracunadev-create/executive-leadership-founder-program"
 DESCRIPCION = (
@@ -59,7 +64,23 @@ MERMAID = re.compile(r"^```mermaid[ \t]*\n(.*?)^```[ \t]*$", re.S | re.M)
 # las insignias y las tablas como texto plano. La extensión `md_in_html` sí
 # convierte el interior, pero solo cuando el elemento declara `markdown="1"`;
 # ese atributo se pone aquí y no en el Markdown, porque en GitHub no hace falta.
-ABRIR_HTML = re.compile(r"<(div|td|th|details|summary)((?:\s[^>]*)?)>")
+#
+# `table`, `tr` y `tbody` están en la lista aunque no lleven Markdown propio:
+# md_in_html solo entra en un hijo si la cadena de padres también está marcada.
+#
+# Y `td`/`th` necesitan `markdown="block"`, no `markdown="1"`: md_in_html los
+# clasifica como elementos de línea, así que con `="1"` convertía las negritas
+# pero dejaba los encabezados y las listas en crudo. Es lo que hacía que el
+# bloque de dos columnas «lo que sí es / lo que no es» del README se sirviera
+# con sus guiones y sus almohadillas a la vista.
+ABRIR_HTML = re.compile(r"<(div|table|thead|tbody|tr|td|th|details|summary)((?:\s[^>]*)?)>")
+CONTENIDO_DE_BLOQUE = {"td", "th"}
+
+
+def _marcar(coincidencia: re.Match[str]) -> str:
+    etiqueta, atributos = coincidencia.group(1), coincidencia.group(2)
+    modo = "block" if etiqueta in CONTENIDO_DE_BLOQUE else "1"
+    return f'<{etiqueta} markdown="{modo}"{atributos}>'
 
 # Avisos de GitHub (> [!IMPORTANT]) que el conversor no conoce.
 AVISO = re.compile(r"^>\s*\[!(NOTE|TIP|IMPORTANT|WARNING|CAUTION)\]\s*$", re.M)
@@ -107,7 +128,7 @@ def adjuntos_enlazados() -> list[Path]:
                 relativa = resuelto.relative_to(ROOT)
             except ValueError:
                 continue
-            if any(parte in EXCLUIDOS for parte in relativa.parts):
+            if any(parte in EXCLUIDOS_ADJUNTOS for parte in relativa.parts):
                 continue
             encontrados.add(relativa)
     return sorted(encontrados)
@@ -129,7 +150,7 @@ def convertir(cuerpo: str) -> str:
 
     cuerpo = MERMAID.sub(apartar, cuerpo)
     cuerpo = AVISO.sub(lambda m: f"> **{ETIQUETA_AVISO[m.group(1)]}**  ", cuerpo)
-    cuerpo = ABRIR_HTML.sub(r'<\1 markdown="1"\2>', cuerpo)
+    cuerpo = ABRIR_HTML.sub(_marcar, cuerpo)
 
     md = markdown.Markdown(
         extensions=["tables", "fenced_code", "codehilite", "sane_lists",

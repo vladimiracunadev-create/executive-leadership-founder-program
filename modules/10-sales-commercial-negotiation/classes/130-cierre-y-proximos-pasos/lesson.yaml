@@ -1,0 +1,31 @@
+id: 130
+part: 10
+title: "Cierre y próximos pasos"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "construir ingresos mediante un proceso comercial medible y negociación disciplinada"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir commitment de mutual action plan mediante evidencia observable."
+  - "Aplicar la secuencia: confirmar problema y valor → mapear pasos restantes → crear mutual action plan → resolver términos y aprobaciones → registrar cierre solo con evidencia definida."
+  - "Interpretar verbal-to-contract, contract cycle, close date slippage sin atribuir causalidad automática."
+  - "Resolver el caso de cierre y próximos pasos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Neil Rackham — *SPIN Selling*"
+  - "Matthew Dixon & Brent Adamson — *The Challenger Sale*"
+  - "Deepak Malhotra & Max H. Bazerman — *Negotiation Genius*"
+  - "Mark Roberge — *The Sales Acceleration Formula*"
+  - "Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing*"
+  - "Roger Fisher, William Ury & Bruce Patton — *Getting to Yes*"
+limits:
+  - "No uses urgencia artificial o patrones de cierre manipulativos. Un cierre de mala calidad aumenta cancelación, disputa y churn."
+evidence_signals:
+  - "verbal-to-contract"
+  - "contract cycle"
+  - "close date slippage"
+  - "next-step gaps"
+  - "won-to-live time"

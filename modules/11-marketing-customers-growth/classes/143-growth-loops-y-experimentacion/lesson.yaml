@@ -1,0 +1,31 @@
+id: 143
+part: 11
+title: "Growth loops y experimentación"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir growth loop de viral loop mediante evidencia observable."
+  - "Aplicar la secuencia: mapear input-action-output-reinvestment → identificar tasa de ciclo → formular palanca → experimentar con control o baseline → escalar solo efecto incremental sostenible."
+  - "Interpretar loop coefficient, cycle time, incremental lift sin atribuir causalidad automática."
+  - "Resolver el caso de growth loops y experimentación con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
+  - "Byron Sharp — *How Brands Grow*"
+  - "Sean Ellis & Morgan Brown — *Hacking Growth*"
+  - "Gabriel Weinberg & Justin Mares — *Traction*"
+  - "Alexander Osterwalder & Yves Pigneur — *Business Model Generation*"
+  - "April Dunford — *Obviously Awesome*"
+limits:
+  - "No todo negocio tiene loops fuertes y forzarlos puede producir spam. A veces canales lineales rentables son suficientes; el crecimiento debe preservar calidad y confianza."
+evidence_signals:
+  - "loop coefficient"
+  - "cycle time"
+  - "incremental lift"
+  - "retention of acquired users"
+  - "payback"

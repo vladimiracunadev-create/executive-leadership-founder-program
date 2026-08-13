@@ -1,0 +1,31 @@
+id: 281
+part: 23
+title: "Producto digital y propiedad intelectual"
+duration_minutes: 150
+level: "Etapa 6 — Independencia"
+outcome: "construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir digital product de IP mediante evidencia observable."
+  - "Aplicar la secuencia: elegir problema repetible → crear minimum paid asset → definir IP y license → probar distribution y price → medir support y maintenance e iterate."
+  - "Interpretar paid conversion, refund rate, support time sin atribuir causalidad automática."
+  - "Resolver el caso de producto digital y propiedad intelectual con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "product-evidence-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Eric Ries — *The Lean Startup*"
+  - "Greg McKeown — *Essentialism*"
+  - "Noam Wasserman — *The Founder's Dilemmas*"
+limits:
+  - "Digital no significa pasivo. Productos requieren marketing, soporte, actualización y defensa de reputación; modela carga futura antes de escalar catálogo."
+evidence_signals:
+  - "paid conversion"
+  - "refund rate"
+  - "support time"
+  - "distribution CAC"
+  - "maintenance hours"

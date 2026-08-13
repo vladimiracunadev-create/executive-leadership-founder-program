@@ -1,0 +1,31 @@
+id: 227
+part: 18
+title: "Integración post-adquisición"
+duration_minutes: 150
+level: "Etapa 5 — CEO → Capital allocator"
+outcome: "decidir estructura de capital, valoración, fundraising y transacciones"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir Day 1 de integration management office mediante evidencia observable."
+  - "Aplicar la secuencia: traducir deal thesis a integration priorities → proteger clientes y talento → definir Day 1 governance → secuenciar synergies y systems → medir value capture y culture risks."
+  - "Interpretar synergy realized, critical talent retention, customer churn sin atribuir causalidad automática."
+  - "Resolver el caso de integración post-adquisición con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
+  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Aswath Damodaran — *Investment Valuation*"
+  - "Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+limits:
+  - "Integración rápida puede destruir la capacidad comprada; integración lenta puede dejar duplicación y riesgo. El archetype debe derivarse de la deal thesis."
+evidence_signals:
+  - "synergy realized"
+  - "critical talent retention"
+  - "customer churn"
+  - "integration cost"
+  - "system migration progress"

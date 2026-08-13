@@ -1,0 +1,31 @@
+id: 35
+part: 02
+title: "Presencia ejecutiva"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "convertir comunicación, influencia y negociación en sistemas de decisión y relación"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir gravitas de claridad mediante evidencia observable."
+  - "Aplicar la secuencia: preparar tres mensajes y datos clave → regular ritmo, respiración y lenguaje → responder primero a la pregunta central → declarar incertidumbre y compromiso de seguimiento → solicitar feedback sobre impacto real."
+  - "Interpretar respuestas evasivas, tiempo para llegar al punto, follow-ups cumplidos sin atribuir causalidad automática."
+  - "Resolver el caso de presencia ejecutiva con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Chip Heath & Dan Heath — *Made to Stick*"
+  - "Robert B. Cialdini — *Influence*"
+  - "Nancy Duarte — *Resonate*"
+  - "Chris Voss & Tahl Raz — *Never Split the Difference*"
+  - "Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations*"
+  - "Roger Fisher, William Ury & Bruce Patton — *Getting to Yes*"
+limits:
+  - "Trabajar presencia no debe imponer un molde cultural único ni penalizar estilos introvertidos, neurodiversos o no dominantes. Evalúa calidad de comunicación y decisión, no teatralidad."
+evidence_signals:
+  - "respuestas evasivas"
+  - "tiempo para llegar al punto"
+  - "follow-ups cumplidos"
+  - "feedback de audiencia"
+  - "decisiones entendidas"

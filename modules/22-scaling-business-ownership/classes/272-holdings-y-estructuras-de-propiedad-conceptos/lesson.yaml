@@ -1,0 +1,31 @@
+id: 272
+part: 22
+title: "Holdings y estructuras de propiedad: conceptos"
+duration_minutes: 150
+level: "Etapa 6 — Business Owner"
+outcome: "reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir holding company de subsidiary mediante evidencia observable."
+  - "Aplicar la secuencia: definir objetivos de propiedad → mapear entidades y riesgos → analizar cash y contract flows → identificar intercompany y governance → validar legal y tributario antes de implementar."
+  - "Interpretar entity count, intercompany balances, risk segregation sin atribuir causalidad automática."
+  - "Resolver el caso de holdings y estructuras de propiedad: conceptos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "founder-owner-decision-brief.md"
+references:
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Verne Harnish — *Scaling Up*"
+  - "Reid Hoffman & Chris Yeh — *Blitzscaling*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*"
+limits:
+  - "Las estructuras no son herramientas genéricas de optimización fiscal. Requieren análisis legal y tributario específico y sustancia real; evita esquemas artificiales."
+evidence_signals:
+  - "entity count"
+  - "intercompany balances"
+  - "risk segregation"
+  - "governance clarity"
+  - "compliance cost"

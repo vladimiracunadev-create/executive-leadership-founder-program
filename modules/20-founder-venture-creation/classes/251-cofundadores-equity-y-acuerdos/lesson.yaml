@@ -1,0 +1,31 @@
+id: 251
+part: 20
+title: "Cofundadores, equity y acuerdos"
+duration_minutes: 150
+level: "Etapa 6 — Founder"
+outcome: "descubrir, validar y lanzar una empresa antes de escalarla"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir cofounder agreement de vesting mediante evidencia observable."
+  - "Aplicar la secuencia: alinear visión y compromiso → definir roles y decision rights → negociar equity y vesting → establecer IP y confidentiality → planificar departure deadlock y dispute."
+  - "Interpretar founder time commitment, equity split, vesting coverage sin atribuir causalidad automática."
+  - "Resolver el caso de cofundadores, equity y acuerdos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "founder-owner-decision-brief.md"
+references:
+  - "Steve Blank — *The Four Steps to the Epiphany*"
+  - "Alexander Osterwalder & Yves Pigneur — *Business Model Generation*"
+  - "Bill Aulet — *Disciplined Entrepreneurship*"
+  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
+  - "Alexander Osterwalder et al. — *Value Proposition Design*"
+  - "Peter F. Drucker — *The Effective Executive*"
+limits:
+  - "No existe fórmula universal de equity. Considera aportes, riesgo futuro y compromiso, y formaliza con asesoría jurídica según jurisdicción."
+evidence_signals:
+  - "founder time commitment"
+  - "equity split"
+  - "vesting coverage"
+  - "decision rights"
+  - "IP assignment status"

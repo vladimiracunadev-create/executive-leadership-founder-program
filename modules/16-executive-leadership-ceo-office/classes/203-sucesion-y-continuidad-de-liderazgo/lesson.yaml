@@ -1,0 +1,31 @@
+id: 203
+part: 16
+title: "Sucesión y continuidad de liderazgo"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir CEO succession de emergency succession mediante evidencia observable."
+  - "Aplicar la secuencia: definir escenarios de sucesión → construir profile por estrategia futura → evaluar candidatos internos o externos → crear emergency plan y desarrollo → ensayar transición y comunicaciones."
+  - "Interpretar ready-now candidates, critical-role coverage, emergency plan readiness sin atribuir causalidad automática."
+  - "Resolver el caso de sucesión y continuidad de liderazgo con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "people-decision-brief.md"
+references:
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Matt Mochary — *The Great CEO Within*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Ram Charan — *What the CEO Wants You to Know*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+  - "Larry Bossidy & Ram Charan — *Execution*"
+limits:
+  - "Un plan de sucesión no debe anunciar un heredero prematuramente ni congelar estrategia. Mantén opciones, criterios y desarrollo, con confidencialidad proporcional."
+evidence_signals:
+  - "ready-now candidates"
+  - "critical-role coverage"
+  - "emergency plan readiness"
+  - "candidate development"
+  - "transition risk"

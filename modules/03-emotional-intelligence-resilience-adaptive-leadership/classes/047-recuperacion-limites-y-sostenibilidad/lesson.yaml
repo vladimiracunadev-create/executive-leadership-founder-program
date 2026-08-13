@@ -1,0 +1,31 @@
+id: 47
+part: 03
+title: "Recuperación, límites y sostenibilidad"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "regularse, sostener exigencia humana y liderar adaptación bajo presión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir boundary de recovery debt mediante evidencia observable."
+  - "Aplicar la secuencia: mapear demandas fuera de horario → definir qué es realmente emergencia → crear rotación y escalamiento → proteger recuperación después de picos → medir dependencia y rediseñar."
+  - "Interpretar contactos fuera de horario, incidentes por fatiga, bus factor sin atribuir causalidad automática."
+  - "Resolver el caso de recuperación, límites y sostenibilidad con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Goleman — *Emotional Intelligence*"
+  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
+  - "Adam Grant — *Think Again*"
+  - "Ronald A. Heifetz — *Leadership Without Easy Answers*"
+  - "Angela Duckworth — *Grit*"
+  - "Ronald Heifetz & Marty Linsky — *Leadership on the Line*"
+limits:
+  - "Los límites no son absolutos en crisis reales ni en roles con guardia. Deben combinar continuidad, obligaciones laborales y salud; lo irresponsable es que la excepción sea invisible y permanente."
+evidence_signals:
+  - "contactos fuera de horario"
+  - "incidentes por fatiga"
+  - "bus factor"
+  - "vacaciones interrumpidas"
+  - "decisiones centralizadas"

@@ -1,0 +1,120 @@
+{
+  "verified_on": "2026-08-12",
+  "verify_before_real_use": true,
+  "laws": [
+    {
+      "id": "codigo-trabajo",
+      "name": "Código del Trabajo (DFL 1/2002)",
+      "area": "marco laboral general",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=207436",
+      "manager_focus": [
+        "contrato",
+        "jornada",
+        "remuneraciones",
+        "descansos",
+        "terminación",
+        "derechos colectivos",
+        "tutela"
+      ]
+    },
+    {
+      "id": "ley-21561",
+      "name": "Ley 21.561",
+      "area": "reducción de jornada",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1191554",
+      "current_note_2026_08_12": "Límite general gradual: 42 horas semanales desde 2026-04-26; 40 horas desde 2028-04-26, sujeto a reglas y regímenes aplicables."
+    },
+    {
+      "id": "ley-21643",
+      "name": "Ley 21.643 (Ley Karin)",
+      "area": "acoso laboral, sexual y violencia en el trabajo",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1200096"
+    },
+    {
+      "id": "ley-16744",
+      "name": "Ley 16.744",
+      "area": "accidentes del trabajo y enfermedades profesionales",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=28650"
+    },
+    {
+      "id": "ds-44",
+      "name": "Decreto Supremo 44",
+      "area": "gestión preventiva de riesgos laborales",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1205298"
+    },
+    {
+      "id": "ley-21220",
+      "name": "Ley 21.220",
+      "area": "trabajo a distancia y teletrabajo",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1143741"
+    },
+    {
+      "id": "ley-21645",
+      "name": "Ley 21.645",
+      "area": "conciliación de vida personal, familiar y laboral",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1199604"
+    },
+    {
+      "id": "ley-21015-21690",
+      "name": "Leyes 21.015 y 21.690",
+      "area": "inclusión laboral de personas con discapacidad",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1206100"
+    },
+    {
+      "id": "ley-20348",
+      "name": "Ley 20.348",
+      "area": "igualdad de remuneraciones",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1003601"
+    },
+    {
+      "id": "ley-20609",
+      "name": "Ley 20.609",
+      "area": "no discriminación arbitraria",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1042092"
+    },
+    {
+      "id": "ley-20123",
+      "name": "Ley 20.123",
+      "area": "subcontratación y servicios transitorios",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=254080"
+    },
+    {
+      "id": "ley-19728",
+      "name": "Ley 19.728",
+      "area": "seguro de cesantía",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=184979"
+    },
+    {
+      "id": "ley-21327",
+      "name": "Ley 21.327",
+      "area": "modernización de la Dirección del Trabajo y registros electrónicos",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1158983"
+    },
+    {
+      "id": "ley-20545",
+      "name": "Ley 20.545",
+      "area": "postnatal parental",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1030936"
+    },
+    {
+      "id": "ley-21735",
+      "name": "Ley 21.735",
+      "area": "reforma previsional",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1212060",
+      "current_note_2026_08_12": "Implementación gradual; verificar tasas, topes y fechas vigentes antes de calcular costo empresa."
+    },
+    {
+      "id": "ley-21325",
+      "name": "Ley 21.325",
+      "area": "migración y extranjería",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1158549"
+    },
+    {
+      "id": "ley-21719",
+      "name": "Ley 21.719",
+      "area": "protección y tratamiento de datos personales",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1209272",
+      "current_note_2026_08_12": "Entrada en vigencia: 2026-12-01."
+    }
+  ]
+}

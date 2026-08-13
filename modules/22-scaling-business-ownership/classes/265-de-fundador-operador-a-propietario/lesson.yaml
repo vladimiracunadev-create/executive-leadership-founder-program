@@ -1,0 +1,31 @@
+id: 265
+part: 22
+title: "De fundador-operador a propietario"
+duration_minutes: 150
+level: "Etapa 6 — Business Owner"
+outcome: "reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir founder dependency de owner role mediante evidencia observable."
+  - "Aplicar la secuencia: medir dependencia del founder → separar owner CEO y operator tasks → documentar critical decisions → construir líderes y controls → retirar founder gradualmente y medir performance."
+  - "Interpretar owner hours, founder approvals, key-person concentration sin atribuir causalidad automática."
+  - "Resolver el caso de de fundador-operador a propietario con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "founder-owner-decision-brief.md"
+references:
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Verne Harnish — *Scaling Up*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Reid Hoffman & Chris Yeh — *Blitzscaling*"
+  - "Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*"
+limits:
+  - "Eliminar al fundador demasiado pronto puede destruir relaciones y conocimiento. Transfiere progresivamente, observando calidad y construyendo contexto."
+evidence_signals:
+  - "owner hours"
+  - "founder approvals"
+  - "key-person concentration"
+  - "leadership coverage"
+  - "performance without founder"

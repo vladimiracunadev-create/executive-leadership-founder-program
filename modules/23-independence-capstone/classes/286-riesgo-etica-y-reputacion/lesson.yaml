@@ -1,0 +1,31 @@
+id: 286
+part: 23
+title: "Riesgo, ética y reputación"
+duration_minutes: 150
+level: "Etapa 6 — Independencia"
+outcome: "construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir professional ethics de conflict of interest mediante evidencia observable."
+  - "Aplicar la secuencia: identificar stakeholders y deberes → declarar conflictos y límites → proteger datos e IP → hacer claims verificables → crear incident y escalation process."
+  - "Interpretar complaints, conflict disclosures, security incidents sin atribuir causalidad automática."
+  - "Resolver el caso de riesgo, ética y reputación con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Greg McKeown — *Essentialism*"
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Bill Aulet — *Disciplined Entrepreneurship*"
+  - "Nassim Nicholas Taleb — *Antifragile*"
+limits:
+  - "Ser independiente no elimina obligaciones legales ni profesionales. Cuando un encargo excede competencia o habilitación, deriva o trabaja con especialista."
+evidence_signals:
+  - "complaints"
+  - "conflict disclosures"
+  - "security incidents"
+  - "claim substantiation"
+  - "repeat referrals"

@@ -1,0 +1,31 @@
+id: 62
+part: 05
+title: "Planificación de dotación"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir workforce planning de headcount mediante evidencia observable."
+  - "Aplicar la secuencia: proyectar demanda por escenario → inventariar capacidad y skills → calcular brechas y timing → comparar build-buy-borrow-automate → aprobar hiring plan con triggers."
+  - "Interpretar capacidad requerida, time-to-hire, time-to-productivity sin atribuir causalidad automática."
+  - "Resolver el caso de planificación de dotación con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
+  - "Raymond Noe et al. — *Human Resource Management*"
+  - "Robert I. Sutton — *Good Boss, Bad Boss*"
+  - "Kim Scott — *Radical Candor*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+limits:
+  - "La planificación no debe asumir productividad lineal. Agregar personas puede aumentar coordinación y onboarding; usa rangos y secuencia, no una razón fija de empleados por ingreso."
+evidence_signals:
+  - "capacidad requerida"
+  - "time-to-hire"
+  - "time-to-productivity"
+  - "coste total por rol"
+  - "utilización y burnout"

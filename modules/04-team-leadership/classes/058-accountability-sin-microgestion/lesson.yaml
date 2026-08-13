@@ -1,0 +1,31 @@
+id: 58
+part: 04
+title: "Accountability sin microgestión"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir accountability de microgestión mediante evidencia observable."
+  - "Aplicar la secuencia: definir outcome y estándar → acordar guardrails y señales → delegar método dentro del marco → revisar por excepción → usar postmortem para ajustar autonomía."
+  - "Interpretar escalamientos por excepción, intervenciones no planificadas, decisiones anuladas sin atribuir causalidad automática."
+  - "Resolver el caso de accountability sin microgestión con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "J. Richard Hackman — *Leading Teams*"
+  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
+  - "Stanley McChrystal et al. — *Team of Teams*"
+  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+  - "Kim Scott — *Radical Candor*"
+  - "Michael Bungay Stanier — *The Coaching Habit*"
+limits:
+  - "Menos control no siempre es mejor. Riesgo alto, novedad, compliance o baja competencia pueden justificar checkpoints frecuentes; el criterio es proporcionalidad, no una ideología de autonomía."
+evidence_signals:
+  - "escalamientos por excepción"
+  - "intervenciones no planificadas"
+  - "decisiones anuladas"
+  - "retrabajo"
+  - "autonomía por nivel de riesgo"

@@ -1,0 +1,31 @@
+id: 250
+part: 20
+title: "Primeros diez clientes"
+duration_minutes: 150
+level: "Etapa 6 — Founder"
+outcome: "descubrir, validar y lanzar una empresa antes de escalarla"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir founder-led sales de ideal customer profile mediante evidencia observable."
+  - "Aplicar la secuencia: definir ICP provisional → crear lista de cuentas → hacer outreach y discovery → cerrar con scope y success criteria → documentar patrón antes de delegar."
+  - "Interpretar meetings booked, close rate, time-to-first-value sin atribuir causalidad automática."
+  - "Resolver el caso de primeros diez clientes con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "commercial-decision-brief.md"
+references:
+  - "Steve Blank — *The Four Steps to the Epiphany*"
+  - "Alexander Osterwalder & Yves Pigneur — *Business Model Generation*"
+  - "Eric Ries — *The Lean Startup*"
+  - "Rob Fitzpatrick — *The Mom Test*"
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Bill Aulet — *Disciplined Entrepreneurship*"
+limits:
+  - "No fuerces homogeneidad demasiado pronto; algunos outliers enseñan oportunidades. Pero distingue aprendizaje deliberado de aceptar cualquier ingreso por necesidad."
+evidence_signals:
+  - "meetings booked"
+  - "close rate"
+  - "time-to-first-value"
+  - "referenceable customers"
+  - "founder sales hours"

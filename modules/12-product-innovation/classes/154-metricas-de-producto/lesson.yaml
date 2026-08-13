@@ -1,0 +1,31 @@
+id: 154
+part: 12
+title: "Métricas de producto"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir north star metric de activation mediante evidencia observable."
+  - "Aplicar la secuencia: definir valor entregado → mapear funnel y eventos → seleccionar métrica de outcome y drivers → segmentar cohortes y ventanas → establecer review y decisiones asociadas."
+  - "Interpretar activation rate, cohort retention, frequency of value event sin atribuir causalidad automática."
+  - "Resolver el caso de métricas de producto con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "product-evidence-brief.md"
+references:
+  - "Marty Cagan — *Inspired*"
+  - "Teresa Torres — *Continuous Discovery Habits*"
+  - "Melissa Perri — *Escaping the Build Trap*"
+  - "Alexander Osterwalder et al. — *Value Proposition Design*"
+  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
+  - "Clayton M. Christensen et al. — *Competing Against Luck*"
+limits:
+  - "Una North Star puede inducir gaming si se desconecta de calidad, margen o bienestar. Acompáñala con guardrails y análisis de cohortes."
+evidence_signals:
+  - "activation rate"
+  - "cohort retention"
+  - "frequency of value event"
+  - "conversion"
+  - "support-adjusted margin"

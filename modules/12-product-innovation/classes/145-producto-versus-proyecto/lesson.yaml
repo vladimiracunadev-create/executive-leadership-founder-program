@@ -1,0 +1,31 @@
+id: 145
+part: 12
+title: "Producto versus proyecto"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir product de project mediante evidencia observable."
+  - "Aplicar la secuencia: identificar problema y usuario persistente → separar outputs de outcomes → definir ownership continuo → alinear funding y métricas al ciclo de vida → decidir continuar, pivotar o retirar según evidencia."
+  - "Interpretar adoption, outcome metric, time-to-value sin atribuir causalidad automática."
+  - "Resolver el caso de producto versus proyecto con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "product-evidence-brief.md"
+references:
+  - "Marty Cagan — *Inspired*"
+  - "Teresa Torres — *Continuous Discovery Habits*"
+  - "Dan Olsen — *The Lean Product Playbook*"
+  - "Clayton M. Christensen — *The Innovator's Dilemma*"
+  - "Clayton M. Christensen et al. — *Competing Against Luck*"
+  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
+limits:
+  - "No todo trabajo debe convertirse en producto permanente. Migraciones, cumplimiento puntual o infraestructura con final claro pueden gestionarse mejor como proyectos; evita productizar por moda."
+evidence_signals:
+  - "adoption"
+  - "outcome metric"
+  - "time-to-value"
+  - "cost-to-serve"
+  - "retention"

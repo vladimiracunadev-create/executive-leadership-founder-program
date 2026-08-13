@@ -1,0 +1,31 @@
+id: 11
+part: 00
+title: "Mapa de fortalezas, brechas y riesgos personales"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "pasar de ejecutar tareas a producir contribución, criterio y confianza"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir fortaleza de brecha mediante evidencia observable."
+  - "Aplicar la secuencia: definir requisitos del rol siguiente → recolectar evidencia de desempeño y feedback → clasificar fortalezas, brechas y derailers → priorizar dos brechas de alto impacto → diseñar mitigación mediante práctica, delegación o complemento."
+  - "Interpretar feedback convergente, errores repetidos bajo presión, roles evitados sin atribuir causalidad automática."
+  - "Resolver el caso de mapa de fortalezas, brechas y riesgos personales con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "Cal Newport — *Deep Work*"
+  - "James Clear — *Atomic Habits*"
+  - "Gary Yukl — *Leadership in Organizations*"
+limits:
+  - "No todas las debilidades merecen reparación. Algunas pueden neutralizarse con diseño de rol o complementariedad; invertir años en una debilidad de bajo impacto puede ser peor que profundizar una ventaja crítica."
+evidence_signals:
+  - "feedback convergente"
+  - "errores repetidos bajo presión"
+  - "roles evitados"
+  - "dependencia de una sola fortaleza"
+  - "progreso de competencias objetivo"

@@ -1,0 +1,34 @@
+name: "📕 Error de contenido"
+description: Algo del material es incorrecto, impreciso o contradictorio.
+labels: ["contenido"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por revisar el material. Cuanto más concreta sea la ubicación,
+        antes se corrige.
+  - type: input
+    id: ubicacion
+    attributes:
+      label: Ubicación
+      description: Ruta del archivo, y sección si aplica.
+      placeholder: modules/09-managerial-finance-accounting/classes/105-.../README.md — sección «Ejemplo trabajado»
+    validations:
+      required: true
+  - type: textarea
+    id: problema
+    attributes:
+      label: Qué está mal
+      description: Cita el texto actual y explica por qué es incorrecto.
+    validations:
+      required: true
+  - type: textarea
+    id: correccion
+    attributes:
+      label: Corrección propuesta
+      description: Cómo debería decirlo, si ya lo tienes claro.
+  - type: textarea
+    id: fuente
+    attributes:
+      label: Fuente que lo respalda
+      description: Enlace a la obra, norma o documento oficial, con su fecha.

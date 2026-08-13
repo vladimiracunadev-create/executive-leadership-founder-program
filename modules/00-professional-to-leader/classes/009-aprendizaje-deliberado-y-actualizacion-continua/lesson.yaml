@@ -1,0 +1,31 @@
+id: 9
+part: 00
+title: "Aprendizaje deliberado y actualización continua"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "pasar de ejecutar tareas a producir contribución, criterio y confianza"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir competencia de brecha mediante evidencia observable."
+  - "Aplicar la secuencia: definir una competencia observable → diagnosticar una brecha concreta → diseñar práctica con dificultad adecuada → obtener feedback y corregir → probar transferencia en un caso distinto."
+  - "Interpretar errores por intento, tiempo hasta criterio de dominio, retención después de semanas sin atribuir causalidad automática."
+  - "Resolver el caso de aprendizaje deliberado y actualización continua con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Herminia Ibarra — *Act Like a Leader, Think Like a Leader*"
+  - "Cal Newport — *Deep Work*"
+  - "James Clear — *Atomic Habits*"
+  - "Andrew S. Grove — *High Output Management*"
+limits:
+  - "Aprender más no siempre es la prioridad. Si la brecha es de práctica, incentivo, entorno o autoridad, otro curso puede aumentar conocimiento sin cambiar desempeño."
+evidence_signals:
+  - "errores por intento"
+  - "tiempo hasta criterio de dominio"
+  - "retención después de semanas"
+  - "transferencia a casos nuevos"
+  - "feedback incorporado"

@@ -1,0 +1,31 @@
+id: 69
+part: 05
+title: "Aprendizaje y upskilling"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir upskilling de reskilling mediante evidencia observable."
+  - "Aplicar la secuencia: mapear capacidades críticas futuras → diagnosticar nivel actual → priorizar brechas por impacto → combinar estudio, práctica y coaching → validar transferencia con evidencia laboral."
+  - "Interpretar skill assessments, transferencia a proyectos, movilidad interna sin atribuir causalidad automática."
+  - "Resolver el caso de aprendizaje y upskilling con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
+  - "Raymond Noe et al. — *Human Resource Management*"
+  - "Robert I. Sutton — *Good Boss, Bad Boss*"
+  - "John Boudreau & Peter Ramstad — *Beyond HR*"
+  - "John Whitmore — *Coaching for Performance*"
+  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+limits:
+  - "No todas las capacidades deben construirse. Skills raras o temporales pueden adquirirse mediante socios; también hay que evitar entrenar personas en tecnología que no tendrán oportunidad real de usar."
+evidence_signals:
+  - "skill assessments"
+  - "transferencia a proyectos"
+  - "movilidad interna"
+  - "tiempo hasta competencia"
+  - "uso de capacidades nuevas"

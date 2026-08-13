@@ -1,0 +1,31 @@
+id: 266
+part: 22
+title: "Sistemas antes que heroicidad"
+duration_minutes: 150
+level: "Etapa 6 — Business Owner"
+outcome: "reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir business system de standard work mediante evidencia observable."
+  - "Aplicar la secuencia: identificar procesos críticos → capturar standard y exceptions → asignar process owners → instrumentar métricas y controls → mejorar desde incidentes y feedback."
+  - "Interpretar process adherence, exception rate, cycle time sin atribuir causalidad automática."
+  - "Resolver el caso de sistemas antes que heroicidad con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "modelo-financiero-y-memo-de-decision.md"
+references:
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Verne Harnish — *Scaling Up*"
+  - "Jay R. Galbraith — *Designing Organizations*"
+  - "Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*"
+  - "Elad Gil — *High Growth Handbook*"
+  - "Reid Hoffman & Chris Yeh — *Blitzscaling*"
+limits:
+  - "No sistematices trabajo exploratorio prematuramente. Estandariza lo repetible y conserva autonomía donde el valor depende de judgment o innovación."
+evidence_signals:
+  - "process adherence"
+  - "exception rate"
+  - "cycle time"
+  - "owner interventions"
+  - "defect rate"

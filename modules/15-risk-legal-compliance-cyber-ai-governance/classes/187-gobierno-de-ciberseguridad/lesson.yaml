@@ -1,0 +1,32 @@
+id: 187
+part: 15
+title: "Gobierno de ciberseguridad"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir cyber risk de NIST CSF mediante evidencia observable."
+  - "Aplicar la secuencia: mapear activos y procesos críticos → definir escenarios e impacto → establecer governance y controles → medir detección respuesta y recuperación → reportar exposición residual y decisiones."
+  - "Interpretar critical asset coverage, MFA coverage, MTTD sin atribuir causalidad automática."
+  - "Resolver el caso de gobierno de ciberseguridad con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
+  - "John C. Hull — *Risk Management and Financial Institutions*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "NIST — *AI Risk Management Framework (AI RMF 1.0)*"
+  - "ISO — *ISO 31000 Risk management*"
+  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
+  - "NIST — *Cybersecurity Framework 2.0*. Fuente primaria: <https://www.nist.gov/cyberframework>."
+limits:
+  - "Framework compliance no equivale a seguridad. Prioriza escenarios y pruebas reales; evita convertir CSF en una lista de casillas sin relación con riesgos materiales."
+evidence_signals:
+  - "critical asset coverage"
+  - "MFA coverage"
+  - "MTTD"
+  - "MTTR"
+  - "recovery test success"

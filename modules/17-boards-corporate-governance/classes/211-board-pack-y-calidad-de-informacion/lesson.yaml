@@ -1,0 +1,32 @@
+id: 211
+part: 17
+title: "Board pack y calidad de información"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir board pack de pre-read mediante evidencia observable."
+  - "Aplicar la secuencia: partir de preguntas del board → seleccionar información material → explicar variancias y drivers → separar decisiones de updates → distribuir temprano y cerrar action log."
+  - "Interpretar pack delivery lead time, pages per decision, action closure sin atribuir causalidad automática."
+  - "Resolver el caso de board pack y calidad de información con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "operating-improvement-brief.md"
+references:
+  - "Bob Tricker — *Corporate Governance*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
+  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
+  - "Michael E. Porter & Mark R. Kramer — *Creating Shared Value*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+limits:
+  - "Reducir páginas no basta; un pack breve puede omitir riesgos. La calidad depende de materialidad, comparabilidad y narrativa causal, no solo longitud."
+evidence_signals:
+  - "pack delivery lead time"
+  - "pages per decision"
+  - "action closure"
+  - "forecast variance"
+  - "board questions"

@@ -1,0 +1,31 @@
+id: 200
+part: 16
+title: "Comunicación del CEO"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir CEO narrative de message architecture mediante evidencia observable."
+  - "Aplicar la secuencia: definir objetivo y audiencia → estructurar situación elección evidencia → anticipar preguntas y objeciones → alinear mensajes entre canales → cerrar con acción y seguimiento."
+  - "Interpretar message recall, employee understanding, investor questions sin atribuir causalidad automática."
+  - "Resolver el caso de comunicación del CEO con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "board-or-executive-memo.md"
+references:
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Matt Mochary — *The Great CEO Within*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
+  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
+  - "Larry Bossidy & Ram Charan — *Execution*"
+limits:
+  - "No conviertas comunicación en spin. La reputación de largo plazo depende de no prometer aquello que los hechos o decisiones internas contradicen."
+evidence_signals:
+  - "message recall"
+  - "employee understanding"
+  - "investor questions"
+  - "trust"
+  - "commitment follow-through"

@@ -1,0 +1,31 @@
+id: 245
+part: 20
+title: "Propuesta de valor"
+duration_minutes: 150
+level: "Etapa 6 — Founder"
+outcome: "descubrir, validar y lanzar una empresa antes de escalarla"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir value proposition de gain mediante evidencia observable."
+  - "Aplicar la secuencia: priorizar job o pain → mapear alternativas actuales → diseñar beneficio y mecanismo → probar mensaje y proof → cuantificar value y trade-offs."
+  - "Interpretar message resonance, demo-to-commitment, time saved sin atribuir causalidad automática."
+  - "Resolver el caso de propuesta de valor con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "modelo-financiero-y-memo-de-decision.md"
+references:
+  - "Steve Blank — *The Four Steps to the Epiphany*"
+  - "Alexander Osterwalder & Yves Pigneur — *Business Model Generation*"
+  - "Rob Fitzpatrick — *The Mom Test*"
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Noam Wasserman — *The Founder's Dilemmas*"
+  - "Bill Aulet — *Disciplined Entrepreneurship*"
+limits:
+  - "Una promesa demasiado agresiva puede crear riesgo reputacional o legal. No cuantifiques beneficios sin evidencia y explicita condiciones de aplicación."
+evidence_signals:
+  - "message resonance"
+  - "demo-to-commitment"
+  - "time saved"
+  - "cost avoided"
+  - "switching intent"

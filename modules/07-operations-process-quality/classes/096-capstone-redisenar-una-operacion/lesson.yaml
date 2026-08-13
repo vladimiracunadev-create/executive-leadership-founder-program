@@ -1,0 +1,31 @@
+id: 96
+part: 07
+title: "Capstone: rediseñar una operación"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "operar procesos end-to-end con capacidad, calidad, continuidad y mejora"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir target operating model de baseline mediante evidencia observable."
+  - "Aplicar la secuencia: medir baseline end-to-end → identificar constraint y causas → diseñar future state → calcular beneficio y riesgos → pilotear, migrar y estabilizar."
+  - "Interpretar lead time, throughput, quality sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: rediseñar una operación con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "operating-improvement-brief.md"
+references:
+  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "ISO — *ISO 9001 Quality management systems*"
+  - "James P. Womack & Daniel T. Jones — *Lean Thinking*"
+  - "Geary A. Rummler & Alan P. Brache — *Improving Performance*"
+  - "W. Edwards Deming — *Out of the Crisis*"
+limits:
+  - "Rediseño puede fallar por perseguir un diagrama ideal sin capacidad de transición. Protege servicio durante migración y valida con pilotos antes de cambios irreversibles."
+evidence_signals:
+  - "lead time"
+  - "throughput"
+  - "quality"
+  - "cost-to-serve"
+  - "resilience"

@@ -1,0 +1,32 @@
+id: 208
+part: 17
+title: "Comités de auditoría, riesgo y compensación"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir board committee de audit committee mediante evidencia observable."
+  - "Aplicar la secuencia: mapear riesgos y requisitos → crear charters → seleccionar independencia y expertise → definir calendario e información → reportar recomendaciones y excepciones al board."
+  - "Interpretar committee attendance, open findings, control assurance sin atribuir causalidad automática."
+  - "Resolver el caso de comités de auditoría, riesgo y compensación con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Bob Tricker — *Corporate Governance*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
+  - "Robert A. G. Monks & Nell Minow — *Corporate Governance*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+limits:
+  - "Más comités pueden fragmentar accountability y duplicar trabajo. Crea solo donde escala, regulación o complejidad justifican profundidad adicional."
+evidence_signals:
+  - "committee attendance"
+  - "open findings"
+  - "control assurance"
+  - "compensation alignment"
+  - "escalation timeliness"

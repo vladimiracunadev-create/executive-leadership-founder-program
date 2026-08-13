@@ -1,0 +1,31 @@
+id: 269
+part: 22
+title: "Controles financieros para crecer"
+duration_minutes: 150
+level: "Etapa 6 — Business Owner"
+outcome: "reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir financial control de cash forecast mediante evidencia observable."
+  - "Aplicar la secuencia: cerrar información mensual → crear 13-week cash forecast → definir approval matrix → gestionar AR AP e inventory → revisar variances y control exceptions."
+  - "Interpretar cash forecast error, DSO, days to close sin atribuir causalidad automática."
+  - "Resolver el caso de controles financieros para crecer con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "modelo-financiero-y-memo-de-decision.md"
+references:
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Verne Harnish — *Scaling Up*"
+  - "Reid Hoffman & Chris Yeh — *Blitzscaling*"
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Jay R. Galbraith — *Designing Organizations*"
+  - "Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*"
+limits:
+  - "Controles demasiado centralizados frenan operación. Diseña límites y monitoreo por riesgo, permitiendo decisiones locales dentro de presupuesto."
+evidence_signals:
+  - "cash forecast error"
+  - "DSO"
+  - "days to close"
+  - "approval exceptions"
+  - "working capital"

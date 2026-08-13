@@ -1,0 +1,31 @@
+id: 44
+part: 03
+title: "Liderar en incertidumbre"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "regularse, sostener exigencia humana y liderar adaptación bajo presión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir ambigüedad de incertidumbre mediante evidencia observable."
+  - "Aplicar la secuencia: declarar qué se sabe y no → definir norte y no microplan falso → establecer decisiones reversibles → crear triggers y cadencia → actualizar narrativa cuando cambia evidencia."
+  - "Interpretar forecast ranges, decisiones reversibles, frecuencia de actualización sin atribuir causalidad automática."
+  - "Resolver el caso de liderar en incertidumbre con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Goleman — *Emotional Intelligence*"
+  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
+  - "Angela Duckworth — *Grit*"
+  - "Adam Grant — *Think Again*"
+  - "Ronald Heifetz & Marty Linsky — *Leadership on the Line*"
+  - "Ronald A. Heifetz — *Leadership Without Easy Answers*"
+limits:
+  - "Demasiada provisionalidad también desgasta. Aunque el futuro sea incierto, algunas prioridades y límites deben permanecer estables para que la organización pueda coordinar."
+evidence_signals:
+  - "forecast ranges"
+  - "decisiones reversibles"
+  - "frecuencia de actualización"
+  - "rumores"
+  - "acciones detenidas por falta de dirección"

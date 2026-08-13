@@ -1,0 +1,31 @@
+id: 157
+part: 13
+title: "Qué es y qué no es estrategia"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir strategy de goal mediante evidencia observable."
+  - "Aplicar la secuencia: definir desafío y evidencia → formular diagnóstico causal → generar políticas alternativas → hacer trade-offs explícitos → alinear acciones y métricas."
+  - "Interpretar strategic choice clarity, resource concentration, initiative coherence sin atribuir causalidad automática."
+  - "Resolver el caso de qué es y qué no es estrategia con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "strategy-memo.md"
+references:
+  - "Michael E. Porter — *Competitive Strategy*"
+  - "Michael E. Porter — *Competitive Advantage*"
+  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
+  - "A.G. Lafley & Roger L. Martin — *Playing to Win*"
+  - "Rita Gunther McGrath — *The End of Competitive Advantage*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+limits:
+  - "Una estrategia muy cerrada puede volverse frágil ante cambios. Las elecciones deben ser claras pero acompañadas de supuestos, señales de revisión y opciones contingentes."
+evidence_signals:
+  - "strategic choice clarity"
+  - "resource concentration"
+  - "initiative coherence"
+  - "advantage indicators"
+  - "assumption validity"

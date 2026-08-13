@@ -1,0 +1,31 @@
+id: 30
+part: 02
+title: "Feedback útil y accionable"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "convertir comunicación, influencia y negociación en sistemas de decisión y relación"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir observación de impacto mediante evidencia observable."
+  - "Aplicar la secuencia: preparar hechos y propósito → describir conducta concreta → explicar impacto sin leer mente → escuchar contexto y comprobar comprensión → acordar conducta futura y seguimiento."
+  - "Interpretar tiempo entre evento y feedback, conductas observables acordadas, reincidencia sin atribuir causalidad automática."
+  - "Resolver el caso de feedback útil y accionable con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "people-decision-brief.md"
+references:
+  - "Chip Heath & Dan Heath — *Made to Stick*"
+  - "Robert B. Cialdini — *Influence*"
+  - "Kerry Patterson et al. — *Crucial Conversations*"
+  - "Nancy Duarte — *Resonate*"
+  - "Dale Carnegie — *How to Win Friends and Influence People*"
+  - "Roger Fisher, William Ury & Bruce Patton — *Getting to Yes*"
+limits:
+  - "Feedback informal no reemplaza procesos formales cuando existen riesgos de desempeño, acoso, discriminación o consecuencias laborales. La documentación y asesoría apropiada importan."
+evidence_signals:
+  - "tiempo entre evento y feedback"
+  - "conductas observables acordadas"
+  - "reincidencia"
+  - "feedback bidireccional"
+  - "planes de mejora cerrados"

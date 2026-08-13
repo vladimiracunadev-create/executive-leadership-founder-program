@@ -1,0 +1,31 @@
+id: 196
+part: 16
+title: "Arquitectura de decisiones ejecutivas"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir decision architecture de reversibility mediante evidencia observable."
+  - "Aplicar la secuencia: inventariar decisiones materiales → clasificar reversibilidad y frecuencia → asignar owner y autoridad → diseñar pre-read y foro → medir latencia overrides y calidad."
+  - "Interpretar decision latency, CEO escalations, override rate sin atribuir causalidad automática."
+  - "Resolver el caso de arquitectura de decisiones ejecutivas con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Matt Mochary — *The Great CEO Within*"
+  - "Ram Charan — *What the CEO Wants You to Know*"
+  - "Larry Bossidy & Ram Charan — *Execution*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Peter F. Drucker — *The Effective Executive*"
+limits:
+  - "Descentralizar decisiones sin capacidades, datos o límites puede aumentar riesgo. Delegación requiere contexto, controles y feedback, no solo permiso."
+evidence_signals:
+  - "decision latency"
+  - "CEO escalations"
+  - "override rate"
+  - "reopened decisions"
+  - "decision outcome"

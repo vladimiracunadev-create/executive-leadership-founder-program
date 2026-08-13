@@ -1,0 +1,31 @@
+id: 55
+part: 04
+title: "One-on-ones que producen información"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir one-on-one de agenda compartida mediante evidencia observable."
+  - "Aplicar la secuencia: mantener cadencia estable → recoger temas antes de la reunión → escuchar antes de convertirlo en status → tratar un tema de desarrollo → registrar compromisos y volver a ellos."
+  - "Interpretar cancelaciones, ratio status versus desarrollo, temas repetidos sin cierre sin atribuir causalidad automática."
+  - "Resolver el caso de one-on-ones que producen información con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "J. Richard Hackman — *Leading Teams*"
+  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
+  - "Michael Bungay Stanier — *The Coaching Habit*"
+  - "Stanley McChrystal et al. — *Team of Teams*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+limits:
+  - "Los one-on-ones no deben ser canales secretos para decisiones que afectan a otros. Mantén privacidad personal, pero documenta acuerdos operativos y usa procesos formales cuando corresponda."
+evidence_signals:
+  - "cancelaciones"
+  - "ratio status versus desarrollo"
+  - "temas repetidos sin cierre"
+  - "bloqueos detectados temprano"
+  - "acciones de carrera"

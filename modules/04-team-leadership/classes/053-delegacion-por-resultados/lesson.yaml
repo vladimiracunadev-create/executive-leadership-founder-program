@@ -1,0 +1,31 @@
+id: 53
+part: 04
+title: "Delegación por resultados"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir delegación de outcome delegado mediante evidencia observable."
+  - "Aplicar la secuencia: definir outcome y por qué importa → acordar autoridad y guardrails → comprobar recursos y competencia → definir checkpoints por riesgo → revisar resultado y aprendizaje."
+  - "Interpretar decisiones devueltas al jefe, checkpoints extraordinarios, retrabajo sin atribuir causalidad automática."
+  - "Resolver el caso de delegación por resultados con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "J. Richard Hackman — *Leading Teams*"
+  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
+  - "Kim Scott — *Radical Candor*"
+  - "Patrick Lencioni — *Death by Meeting*"
+  - "Stanley McChrystal et al. — *Team of Teams*"
+  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+limits:
+  - "Delegar no es apropiado cuando falta capacidad crítica, cuando la ley exige una decisión específica del cargo o cuando el riesgo no puede tolerar aprendizaje sin supervisión."
+evidence_signals:
+  - "decisiones devueltas al jefe"
+  - "checkpoints extraordinarios"
+  - "retrabajo"
+  - "tiempo del manager liberado"
+  - "autonomía creciente"

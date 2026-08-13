@@ -1,0 +1,31 @@
+id: 285
+part: 23
+title: "Sistema semanal de ventas"
+duration_minutes: 150
+level: "Etapa 6 — Independencia"
+outcome: "construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir sales cadence de pipeline mediante evidencia observable."
+  - "Aplicar la secuencia: definir ICP y oferta → crear target list semanal → ejecutar outreach y referrals → hacer discovery y proposals → revisar pipeline y conversion cada semana."
+  - "Interpretar new conversations, qualified opportunities, proposal rate sin atribuir causalidad automática."
+  - "Resolver el caso de sistema semanal de ventas con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "commercial-decision-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Cal Newport — *Deep Work*"
+  - "Noam Wasserman — *The Founder's Dilemmas*"
+  - "Nassim Nicholas Taleb — *Antifragile*"
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+limits:
+  - "Volumen sin targeting puede dañar reputación y producir spam. Prioriza relevancia, consentimiento y relación; adapta canales a normativa y contexto."
+evidence_signals:
+  - "new conversations"
+  - "qualified opportunities"
+  - "proposal rate"
+  - "win rate"
+  - "pipeline coverage"

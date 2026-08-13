@@ -1,0 +1,31 @@
+id: 135
+part: 11
+title: "Segmentación y cliente ideal"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir segmentation de needs-based segment mediante evidencia observable."
+  - "Aplicar la secuencia: analizar jobs y comportamiento → crear segmentos accionables → medir tamaño y economics → seleccionar target → definir no-targets y testear mensajes."
+  - "Interpretar CAC by segment, LTV by segment, retention sin atribuir causalidad automática."
+  - "Resolver el caso de segmentación y cliente ideal con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "commercial-decision-brief.md"
+references:
+  - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
+  - "Byron Sharp — *How Brands Grow*"
+  - "David Aaker — *Building Strong Brands*"
+  - "Alexander Osterwalder & Yves Pigneur — *Business Model Generation*"
+  - "Geoffrey A. Moore — *Crossing the Chasm*"
+  - "April Dunford — *Obviously Awesome*"
+limits:
+  - "El segmento ideal de hoy puede limitar crecimiento futuro. Mantén exploración controlada y evita excluir mercados por proxies discriminatorios o irrelevantes."
+evidence_signals:
+  - "CAC by segment"
+  - "LTV by segment"
+  - "retention"
+  - "win rate"
+  - "cost-to-serve"

@@ -1,0 +1,31 @@
+id: 115
+part: 09
+title: "Presupuesto y forecast"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir budget de forecast mediante evidencia observable."
+  - "Aplicar la secuencia: definir drivers y baseline → construir budget con recursos → actualizar actuals → reforecast sin manipular para alcanzar plan → usar escenarios para decisiones de capacidad y caja."
+  - "Interpretar forecast error, budget variance, driver accuracy sin atribuir causalidad automática."
+  - "Resolver el caso de presupuesto y forecast con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "modelo-financiero-y-memo-de-decision.md"
+references:
+  - "Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis*"
+  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
+  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
+  - "Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*"
+  - "Stephen H. Penman — *Financial Statement Analysis and Security Valuation*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+limits:
+  - "Forecast no debe convertirse en target que la gente tema cambiar. Si se usa para evaluar a quien lo produce, se incentiva precisión política en vez de económica."
+evidence_signals:
+  - "forecast error"
+  - "budget variance"
+  - "driver accuracy"
+  - "cash runway"
+  - "reforecast frequency"

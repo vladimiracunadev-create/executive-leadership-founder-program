@@ -1,0 +1,31 @@
+id: 236
+part: 19
+title: "Build, buy, partner o retire"
+duration_minutes: 150
+level: "Etapa 5 — CEO → Transformador digital"
+outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir build de buy mediante evidencia observable."
+  - "Aplicar la secuencia: definir capability y diferenciación → modelar time y TCO → analizar control data y lock-in → evaluar talent e integration → decidir y diseñar exit strategy."
+  - "Interpretar time-to-value, TCO, vendor concentration sin atribuir causalidad automática."
+  - "Resolver el caso de build, buy, partner o retire con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
+  - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
+  - "Foster Provost & Tom Fawcett — *Data Science for Business*"
+  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
+  - "Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*"
+  - "Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd*"
+limits:
+  - "Comprar no transfiere accountability ni elimina integración. Para capabilities centrales, dependencia estratégica de vendor puede ser más costosa que desarrollar."
+evidence_signals:
+  - "time-to-value"
+  - "TCO"
+  - "vendor concentration"
+  - "engineering capacity"
+  - "switching cost"

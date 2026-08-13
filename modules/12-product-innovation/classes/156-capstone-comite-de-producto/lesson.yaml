@@ -1,0 +1,31 @@
+id: 156
+part: 12
+title: "Capstone: comité de producto"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir product portfolio de product thesis mediante evidencia observable."
+  - "Aplicar la secuencia: presentar tesis y evidencia → comparar outcomes y economics → examinar riesgos y dependencias → asignar capacidad con kill criteria → registrar decisiones y próximas pruebas."
+  - "Interpretar portfolio outcome, capital per bet, retention sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: comité de producto con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "product-evidence-brief.md"
+references:
+  - "Marty Cagan — *Inspired*"
+  - "Teresa Torres — *Continuous Discovery Habits*"
+  - "Rob Fitzpatrick — *The Mom Test*"
+  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
+  - "Eric Ries — *The Lean Startup*"
+  - "Clayton M. Christensen et al. — *Competing Against Luck*"
+limits:
+  - "Un comité no debe convertirse en microgestión semanal. La gobernanza define tesis, límites y recursos; los equipos conservan autonomía sobre aprendizaje y solución dentro de esos límites."
+evidence_signals:
+  - "portfolio outcome"
+  - "capital per bet"
+  - "retention"
+  - "learning velocity"
+  - "kill-continue ratio"

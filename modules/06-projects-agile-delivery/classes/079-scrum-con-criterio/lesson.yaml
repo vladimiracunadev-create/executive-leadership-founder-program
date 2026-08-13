@@ -1,0 +1,31 @@
+id: 79
+part: 06
+title: "Scrum con criterio"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir Product Goal de Sprint Goal mediante evidencia observable."
+  - "Aplicar la secuencia: definir Product Goal → ordenar backlog por valor y riesgo → seleccionar Sprint Goal y trabajo → construir Increment Done → inspeccionar producto y proceso antes de adaptar."
+  - "Interpretar Sprint Goal success, Done versus carryover, release frequency sin atribuir causalidad automática."
+  - "Resolver el caso de scrum con criterio con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
+  - "Harold Kerzner — *Project Management*"
+  - "David J. Anderson — *Kanban*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "Gene Kim et al. — *The Phoenix Project*"
+  - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
+limits:
+  - "Scrum no es universal ni una metodología contractual rígida. Equipos de flujo continuo, operaciones o trabajo altamente interruptivo pueden requerir Kanban u otro sistema."
+evidence_signals:
+  - "Sprint Goal success"
+  - "Done versus carryover"
+  - "release frequency"
+  - "backlog age"
+  - "review feedback"

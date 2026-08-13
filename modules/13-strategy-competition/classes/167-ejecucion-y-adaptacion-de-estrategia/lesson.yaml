@@ -1,0 +1,31 @@
+id: 167
+part: 13
+title: "Ejecución y adaptación de estrategia"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir strategic initiative de leading indicator mediante evidencia observable."
+  - "Aplicar la secuencia: traducir choices a capacidades e iniciativas → asignar owners y recursos → definir leading y lagging indicators → revisar hipótesis en cadencia → reallocate o pivotar según evidencia."
+  - "Interpretar resource alignment, initiative outcome, leading indicator movement sin atribuir causalidad automática."
+  - "Resolver el caso de ejecución y adaptación de estrategia con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "strategy-memo.md"
+references:
+  - "Michael E. Porter — *Competitive Strategy*"
+  - "Michael E. Porter — *Competitive Advantage*"
+  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
+  - "A.G. Lafley & Roger L. Martin — *Playing to Win*"
+  - "Rita Gunther McGrath — *The End of Competitive Advantage*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+limits:
+  - "Una cadencia de estrategia puede degenerar en PMO. Protege tiempo para hipótesis, trade-offs y reasignación, y evita exigir métricas prematuras a apuestas exploratorias."
+evidence_signals:
+  - "resource alignment"
+  - "initiative outcome"
+  - "leading indicator movement"
+  - "assumption status"
+  - "kill-continue decisions"

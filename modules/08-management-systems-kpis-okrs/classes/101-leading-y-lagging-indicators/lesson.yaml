@@ -1,0 +1,31 @@
+id: 101
+part: 08
+title: "Leading y lagging indicators"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir leading indicator de lagging indicator mediante evidencia observable."
+  - "Aplicar la secuencia: definir outcome lagging → formular drivers plausibles → buscar evidencia histórica o experimental → seleccionar leading controllable → revisar si la relación se sostiene."
+  - "Interpretar correlación driver-outcome, lead time de señal, acciones por driver sin atribuir causalidad automática."
+  - "Resolver el caso de leading y lagging indicators con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "John Doerr — *Measure What Matters*"
+  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
+  - "Bernard Marr — *Key Performance Indicators*"
+  - "Larry Bossidy & Ram Charan — *Execution*"
+  - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+limits:
+  - "Un leading indicator fácil de mover es especialmente vulnerable a gaming. Nunca confíes en proxy sin volver periódicamente al outcome que pretende anticipar."
+evidence_signals:
+  - "correlación driver-outcome"
+  - "lead time de señal"
+  - "acciones por driver"
+  - "falsos positivos"
+  - "outcome final"

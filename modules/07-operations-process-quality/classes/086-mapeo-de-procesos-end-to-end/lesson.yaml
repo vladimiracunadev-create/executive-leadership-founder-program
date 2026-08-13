@@ -1,0 +1,31 @@
+id: 86
+part: 07
+title: "Mapeo de procesos end-to-end"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "operar procesos end-to-end con capacidad, calidad, continuidad y mejora"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir end-to-end process de handoff mediante evidencia observable."
+  - "Aplicar la secuencia: definir inicio, fin y cliente → recorrer casos reales → registrar pasos, handoffs y tiempos → marcar rework y decisiones → calcular lead time versus touch time."
+  - "Interpretar lead time, touch-time ratio, handoffs sin atribuir causalidad automática."
+  - "Resolver el caso de mapeo de procesos end-to-end con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "operating-improvement-brief.md"
+references:
+  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "ISO — *ISO 9001 Quality management systems*"
+  - "James P. Womack & Daniel T. Jones — *Lean Thinking*"
+  - "Geary A. Rummler & Alan P. Brache — *Improving Performance*"
+  - "W. Edwards Deming — *Out of the Crisis*"
+limits:
+  - "Un mapa detallado no cambia nada por sí mismo. Debe terminar en hipótesis de mejora y owner; evita documentar cada excepción antes de entender el flujo dominante."
+evidence_signals:
+  - "lead time"
+  - "touch-time ratio"
+  - "handoffs"
+  - "rework"
+  - "queue time"

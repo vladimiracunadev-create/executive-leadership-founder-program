@@ -1,0 +1,31 @@
+id: 139
+part: 11
+title: "Canales y distribución"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir channel de direct channel mediante evidencia observable."
+  - "Aplicar la secuencia: mapear comportamiento de compra → listar canales plausibles → modelar economics y control → pilotear uno o dos → escalar donde existe repetibilidad."
+  - "Interpretar CAC by channel, conversion, gross margin after channel sin atribuir causalidad automática."
+  - "Resolver el caso de canales y distribución con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "commercial-decision-brief.md"
+references:
+  - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
+  - "Byron Sharp — *How Brands Grow*"
+  - "Geoffrey A. Moore — *Crossing the Chasm*"
+  - "Al Ries & Jack Trout — *Positioning*"
+  - "Gabriel Weinberg & Justin Mares — *Traction*"
+  - "April Dunford — *Obviously Awesome*"
+limits:
+  - "Canal barato puede crear dependencia o acceso limitado a datos del cliente. Evalúa poder de negociación y salida, no solo CAC inicial."
+evidence_signals:
+  - "CAC by channel"
+  - "conversion"
+  - "gross margin after channel"
+  - "time-to-scale"
+  - "channel concentration"

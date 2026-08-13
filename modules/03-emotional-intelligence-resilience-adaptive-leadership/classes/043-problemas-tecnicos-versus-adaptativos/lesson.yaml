@@ -1,0 +1,31 @@
+id: 43
+part: 03
+title: "Problemas técnicos versus adaptativos"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "regularse, sostener exigencia humana y liderar adaptación bajo presión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir problema técnico de desafío adaptativo mediante evidencia observable."
+  - "Aplicar la secuencia: diagnosticar qué parte es técnica y cuál adaptativa → mapear pérdidas y grupos afectados → regular tensión sin eliminarla → devolver trabajo a quienes deben aprender → proteger voces marginales y revisar adaptación."
+  - "Interpretar adopción real, conductas nuevas, resistencia por grupo sin atribuir causalidad automática."
+  - "Resolver el caso de problemas técnicos versus adaptativos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Goleman — *Emotional Intelligence*"
+  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
+  - "Amy C. Edmondson — *The Fearless Organization*"
+  - "Brené Brown — *Dare to Lead*"
+  - "Clayton Christensen et al. — *How Will You Measure Your Life?*"
+  - "Ronald Heifetz & Marty Linsky — *Leadership on the Line*"
+limits:
+  - "No uses 'adaptativo' para justificar falta de expertise técnico. Muchos desafíos mezclan ambos; arreglar infraestructura defectuosa puede ser condición previa para el trabajo cultural."
+evidence_signals:
+  - "adopción real"
+  - "conductas nuevas"
+  - "resistencia por grupo"
+  - "pérdidas reconocidas"
+  - "dependencia de expertos"

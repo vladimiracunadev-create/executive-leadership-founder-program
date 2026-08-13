@@ -1,0 +1,31 @@
+id: 92
+part: 07
+title: "SLA, SLO y niveles de servicio"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "operar procesos end-to-end con capacidad, calidad, continuidad y mejora"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir SLI de SLO mediante evidencia observable."
+  - "Aplicar la secuencia: seleccionar experiencia crítica y SLI → definir SLO según usuario y costo → crear buffer antes del SLA → medir error budget → tocar capacidad o cambios cuando se consume."
+  - "Interpretar availability, latency percentiles, error budget burn sin atribuir causalidad automática."
+  - "Resolver el caso de sLA, SLO y niveles de servicio con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "operating-improvement-brief.md"
+references:
+  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "W. Edwards Deming — *Out of the Crisis*"
+  - "James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World*"
+  - "ISO — *ISO 22301 Business continuity management systems*"
+  - "James P. Womack & Daniel T. Jones — *Lean Thinking*"
+limits:
+  - "Más nueves cuestan mucho y pueden no crear valor. La confiabilidad objetivo debe responder al impacto del usuario, no al deseo abstracto de perfección."
+evidence_signals:
+  - "availability"
+  - "latency percentiles"
+  - "error budget burn"
+  - "SLA breaches"
+  - "customer impact"

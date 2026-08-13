@@ -1,0 +1,33 @@
+id: 253
+part: 21
+title: "Mapa del ciclo empresarial en Chile"
+duration_minutes: 150
+level: "Etapa 6 — Founder en Chile"
+outcome: "formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir formalization de RES mediante evidencia observable."
+  - "Aplicar la secuencia: definir actividad y riesgos → seleccionar estructura y constituir → iniciar ciclo tributario → resolver permisos y registro sectorial → crear calendario laboral tributario y corporativo."
+  - "Interpretar registration status, SII status, permit coverage sin atribuir causalidad automática."
+  - "Resolver el caso de mapa del ciclo empresarial en Chile con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*"
+  - "Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Dirección del Trabajo (Chile) — *Normativa y orientación oficial*"
+  - "Subsecretaría de Previsión Social (Chile) — *Seguridad y Salud Laboral / Decreto Supremo N°44*"
+  - "AFC Chile — *Seguro de Cesantía: información y operación oficial*"
+  - "SII Educa — formalización de negocios: <https://www.sii.cl/siieduca/aprende-con-nosotros/inicio-de-actividades-y-formalizacion-de-un-negocio.html>."
+  - "Registro de Empresas y Sociedades — portal oficial: <https://www.registrodeempresasysociedades.cl/>."
+limits:
+  - "Los requisitos cambian por actividad, comuna y fecha. Este mapa enseña secuencia y preguntas; no sustituye revisión oficial ni asesoría contable o legal para el caso real."
+evidence_signals:
+  - "registration status"
+  - "SII status"
+  - "permit coverage"
+  - "deadline compliance"
+  - "open obligations"

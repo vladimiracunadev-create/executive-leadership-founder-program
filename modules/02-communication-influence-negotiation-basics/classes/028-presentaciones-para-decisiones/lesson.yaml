@@ -1,0 +1,31 @@
+id: 28
+part: 02
+title: "Presentaciones para decisiones"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "convertir comunicación, influencia y negociación en sistemas de decisión y relación"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir decision ask de storyline mediante evidencia observable."
+  - "Aplicar la secuencia: definir quién decide y qué necesita decidir → construir storyline de cinco a siete mensajes → usar headlines que expresen conclusiones → mostrar evidencia mínima suficiente → ensayar objeciones y cerrar con ask."
+  - "Interpretar tiempo hasta llegar a la decisión, slides por mensaje, preguntas resueltas en appendix sin atribuir causalidad automática."
+  - "Resolver el caso de presentaciones para decisiones con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Chip Heath & Dan Heath — *Made to Stick*"
+  - "Robert B. Cialdini — *Influence*"
+  - "Chris Voss & Tahl Raz — *Never Split the Difference*"
+  - "Roger Fisher, William Ury & Bruce Patton — *Getting to Yes*"
+  - "Kerry Patterson et al. — *Crucial Conversations*"
+  - "Nancy Duarte — *Resonate*"
+limits:
+  - "No todas las decisiones requieren slides. Un memo puede ser superior cuando se necesita precisión, lectura asincrónica o discusión detallada; el medio debe servir al problema."
+evidence_signals:
+  - "tiempo hasta llegar a la decisión"
+  - "slides por mensaje"
+  - "preguntas resueltas en appendix"
+  - "claridad del ask"
+  - "decisiones pospuestas por ambigüedad"

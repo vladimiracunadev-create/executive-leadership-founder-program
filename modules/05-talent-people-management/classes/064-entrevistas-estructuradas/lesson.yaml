@@ -1,0 +1,31 @@
+id: 64
+part: 05
+title: "Entrevistas estructuradas"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir entrevista estructurada de behavioral question mediante evidencia observable."
+  - "Aplicar la secuencia: seleccionar competencias del scorecard → crear preguntas conductuales y situacionales → definir anchors antes de entrevistar → puntuar independientemente antes de debatir → calibrar discrepancias y guardar evidencia."
+  - "Interpretar dispersión entre entrevistadores, predicción de desempeño, preguntas omitidas sin atribuir causalidad automática."
+  - "Resolver el caso de entrevistas estructuradas con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
+  - "Raymond Noe et al. — *Human Resource Management*"
+  - "John Boudreau & Peter Ramstad — *Beyond HR*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+  - "Robert I. Sutton — *Good Boss, Bad Boss*"
+limits:
+  - "Estructura no elimina sesgo ni prueba causalidad. Debe complementarse con muestras de trabajo, referencias y revisión continua de validez."
+evidence_signals:
+  - "dispersión entre entrevistadores"
+  - "predicción de desempeño"
+  - "preguntas omitidas"
+  - "tiempo de debrief"
+  - "sesgos detectados"

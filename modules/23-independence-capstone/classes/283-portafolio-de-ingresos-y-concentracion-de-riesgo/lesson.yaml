@@ -1,0 +1,31 @@
+id: 283
+part: 23
+title: "Portafolio de ingresos y concentración de riesgo"
+duration_minutes: 150
+level: "Etapa 6 — Independencia"
+outcome: "construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir income portfolio de concentration risk mediante evidencia observable."
+  - "Aplicar la secuencia: mapear fuentes y margen → medir concentración y correlación → clasificar effort y recurrence → priorizar 2 o 3 engines complementarios → retirar fuentes que destruyen foco."
+  - "Interpretar top-client share, top-source share, gross margin sin atribuir causalidad automática."
+  - "Resolver el caso de portafolio de ingresos y concentración de riesgo con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "strategy-memo.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Bill Aulet — *Disciplined Entrepreneurship*"
+  - "Greg McKeown — *Essentialism*"
+  - "Noam Wasserman — *The Founder's Dilemmas*"
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+limits:
+  - "Diversificación nominal puede no diversificar riesgo. Analiza drivers comunes y no sacrifiques profundidad de una fuente rentable por reducir un porcentaje abstracto."
+evidence_signals:
+  - "top-client share"
+  - "top-source share"
+  - "gross margin"
+  - "owner hours"
+  - "recurring share"

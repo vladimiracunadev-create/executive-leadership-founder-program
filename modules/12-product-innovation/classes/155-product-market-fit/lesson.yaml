@@ -1,0 +1,31 @@
+id: 155
+part: 12
+title: "Product-market fit"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir product-market fit de retention curve mediante evidencia observable."
+  - "Aplicar la secuencia: definir segmento específico → examinar retención y uso repetido → analizar demanda y referencias → validar unit economics iniciales → decidir escalar profundizar o seguir buscando fit."
+  - "Interpretar cohort retention, organic-referral share, sales cycle sin atribuir causalidad automática."
+  - "Resolver el caso de product-market fit con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "product-evidence-brief.md"
+references:
+  - "Marty Cagan — *Inspired*"
+  - "Teresa Torres — *Continuous Discovery Habits*"
+  - "Dan Olsen — *The Lean Product Playbook*"
+  - "Clayton M. Christensen — *The Innovator's Dilemma*"
+  - "Clayton M. Christensen et al. — *Competing Against Luck*"
+  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
+limits:
+  - "PMF puede existir en un nicho y no transferirse a otro. Escalar canales o equipo antes de entender qué segmento retiene puede amplificar churn y costos."
+evidence_signals:
+  - "cohort retention"
+  - "organic-referral share"
+  - "sales cycle"
+  - "expansion"
+  - "gross margin"

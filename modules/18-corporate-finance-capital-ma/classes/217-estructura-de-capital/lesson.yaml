@@ -1,0 +1,31 @@
+id: 217
+part: 18
+title: "Estructura de capital"
+duration_minutes: 150
+level: "Etapa 5 — CEO → Capital allocator"
+outcome: "decidir estructura de capital, valoración, fundraising y transacciones"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir capital structure de financial leverage mediante evidencia observable."
+  - "Aplicar la secuencia: modelar cash flows y downside → estimar debt capacity → comparar costo y control → stress-test covenants y liquidez → definir rango objetivo y contingencias."
+  - "Interpretar net debt-EBITDA, interest coverage, free cash flow sin atribuir causalidad automática."
+  - "Resolver el caso de estructura de capital con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "modelo-financiero-y-memo-de-decision.md"
+references:
+  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
+  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Aswath Damodaran — *Investment Valuation*"
+  - "Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+limits:
+  - "Ratios sectoriales son referencia, no respuesta. Deuda tolerable depende de volatilidad, activos, moneda, vencimientos, regulación y acceso a capital."
+evidence_signals:
+  - "net debt-EBITDA"
+  - "interest coverage"
+  - "free cash flow"
+  - "liquidity headroom"
+  - "covenant headroom"

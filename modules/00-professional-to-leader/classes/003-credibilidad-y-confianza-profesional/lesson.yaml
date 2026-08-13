@@ -1,0 +1,31 @@
+id: 3
+part: 00
+title: "Credibilidad y confianza profesional"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "pasar de ejecutar tareas a producir contribución, criterio y confianza"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir credibilidad de confianza mediante evidencia observable."
+  - "Aplicar la secuencia: hacer compromisos explícitos y realistas → cumplir o renegociar antes del vencimiento → mostrar evidencia y separar hechos de opiniones → admitir límites y errores sin ocultarlos → reparar confianza con conducta verificable sostenida."
+  - "Interpretar promesas cumplidas a tiempo, correcciones proactivas antes de fallar, calidad de datos entregados sin atribuir causalidad automática."
+  - "Resolver el caso de credibilidad y confianza profesional con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "James Clear — *Atomic Habits*"
+  - "Gary Yukl — *Leadership in Organizations*"
+  - "Andrew S. Grove — *High Output Management*"
+limits:
+  - "La confianza no exige revelar todo ni ser siempre agradable. Existen datos confidenciales, deberes fiduciarios y conversaciones que requieren discreción; transparencia no es indiscreción."
+evidence_signals:
+  - "promesas cumplidas a tiempo"
+  - "correcciones proactivas antes de fallar"
+  - "calidad de datos entregados"
+  - "retrabajo atribuible a información poco fiable"
+  - "stakeholders que vuelven a pedir tu criterio"

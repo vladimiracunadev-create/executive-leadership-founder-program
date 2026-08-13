@@ -1,0 +1,31 @@
+id: 153
+part: 12
+title: "Experimentos y evidencia"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir experiment de control mediante evidencia observable."
+  - "Aplicar la secuencia: formular hipótesis causal o conductual → elegir diseño proporcional → predefinir métrica y guardrails → ejecutar sin cambiar reglas a mitad → interpretar efecto incertidumbre y transferencia."
+  - "Interpretar primary metric, guardrail metrics, effect size sin atribuir causalidad automática."
+  - "Resolver el caso de experimentos y evidencia con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "product-evidence-brief.md"
+references:
+  - "Marty Cagan — *Inspired*"
+  - "Teresa Torres — *Continuous Discovery Habits*"
+  - "Eric Ries — *The Lean Startup*"
+  - "Rob Fitzpatrick — *The Mom Test*"
+  - "Clayton M. Christensen — *The Innovator's Dilemma*"
+  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
+limits:
+  - "No todo puede o debe randomizarse. Experimentos pequeños, B2B enterprise o cambios irreversibles requieren métodos alternativos y mucha cautela al atribuir causalidad."
+evidence_signals:
+  - "primary metric"
+  - "guardrail metrics"
+  - "effect size"
+  - "confidence interval"
+  - "segment heterogeneity"

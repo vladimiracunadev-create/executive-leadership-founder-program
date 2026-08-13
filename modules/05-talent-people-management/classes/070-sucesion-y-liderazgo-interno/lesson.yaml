@@ -1,0 +1,31 @@
+id: 70
+part: 05
+title: "Sucesión y liderazgo interno"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir critical role de succession slate mediante evidencia observable."
+  - "Aplicar la secuencia: identificar roles críticos → definir requisitos futuros del rol → crear slate y evaluar readiness → asignar experiencias reales de desarrollo → revisar contingencia y cambios semestralmente."
+  - "Interpretar roles sin sucesor, readiness distribution, movilidad interna sin atribuir causalidad automática."
+  - "Resolver el caso de sucesión y liderazgo interno con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "people-decision-brief.md"
+references:
+  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
+  - "Raymond Noe et al. — *Human Resource Management*"
+  - "Dave Ulrich — *Human Resource Champions*"
+  - "Kim Scott — *Radical Candor*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+limits:
+  - "Sucesión puede reforzar sesgos si replica perfiles históricos. Evalúa potencial con criterios y oportunidades equitativas; no conviertas confidencialidad en opacidad arbitraria."
+evidence_signals:
+  - "roles sin sucesor"
+  - "readiness distribution"
+  - "movilidad interna"
+  - "bus factor"
+  - "vacantes críticas cubiertas"

@@ -1,0 +1,31 @@
+id: 119
+part: 09
+title: "Valoración: fundamentos"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir enterprise value de equity value mediante evidencia observable."
+  - "Aplicar la secuencia: normalizar histórico → proyectar drivers y free cash flow → estimar tasa de descuento → calcular terminal y valor presente → contrastar con múltiplos y sensibilidad."
+  - "Interpretar revenue growth, EBIT margin, free cash flow sin atribuir causalidad automática."
+  - "Resolver el caso de valoración: fundamentos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "modelo-financiero-y-memo-de-decision.md"
+references:
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Aswath Damodaran — *Investment Valuation*"
+  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
+  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
+  - "Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*"
+  - "Stephen H. Penman — *Financial Statement Analysis and Security Valuation*"
+limits:
+  - "La valoración es particularmente sensible a supuestos lejanos. No presentes una cifra puntual sin rango, escenarios y explicación de drivers."
+evidence_signals:
+  - "revenue growth"
+  - "EBIT margin"
+  - "free cash flow"
+  - "WACC"
+  - "terminal growth"

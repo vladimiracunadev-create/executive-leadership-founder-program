@@ -1,0 +1,31 @@
+id: 186
+part: 15
+title: "Privacidad y gobierno de datos"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir data governance de data minimization mediante evidencia observable."
+  - "Aplicar la secuencia: inventariar datos y finalidades → clasificar sensibilidad y bases → definir acceso retención y sharing → implementar derechos y controles → monitorear incidentes y cambios de uso."
+  - "Interpretar data inventory coverage, access exceptions, retention violations sin atribuir causalidad automática."
+  - "Resolver el caso de privacidad y gobierno de datos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
+  - "John C. Hull — *Risk Management and Financial Institutions*"
+  - "Richard A. Clarke & Robert K. Knake — *The Fifth Domain*"
+  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
+  - "OECD — *OECD AI Principles*"
+  - "NIST — *AI Risk Management Framework (AI RMF 1.0)*"
+limits:
+  - "Las obligaciones varían por jurisdicción y cambian. En Chile la Ley 21.719 entra en vigor el 1 de diciembre de 2026; verifica siempre fuente oficial vigente antes de operar."
+evidence_signals:
+  - "data inventory coverage"
+  - "access exceptions"
+  - "retention violations"
+  - "privacy requests"
+  - "data incidents"

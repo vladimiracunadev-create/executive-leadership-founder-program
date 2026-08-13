@@ -1,0 +1,31 @@
+id: 15
+part: 01
+title: "Pensamiento sistémico para líderes"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "decidir con evidencia, incertidumbre, causalidad y pensamiento sistémico"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir sistema de feedback loop mediante evidencia observable."
+  - "Aplicar la secuencia: definir frontera y propósito del sistema → mapear variables y relaciones causales → identificar loops reforzadores y balanceadores → localizar demoras y acumulaciones → probar intervenciones en puntos de apalancamiento."
+  - "Interpretar backlog acumulado, tiempo de ciclo, demoras de contratación sin atribuir causalidad automática."
+  - "Resolver el caso de pensamiento sistémico para líderes con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Kahneman — *Thinking, Fast and Slow*"
+  - "Gary Klein — *Sources of Power*"
+  - "Philip Tetlock & Dan Gardner — *Superforecasting*"
+  - "Richard Thaler & Cass Sunstein — *Nudge*"
+  - "Annie Duke — *How to Decide*"
+  - "Annie Duke — *Thinking in Bets*"
+limits:
+  - "Un mapa causal puede volverse una historia elegante sin datos. Los loops son hipótesis sobre estructura; deben contrastarse con series temporales, observación y experimentos cuando sea posible."
+evidence_signals:
+  - "backlog acumulado"
+  - "tiempo de ciclo"
+  - "demoras de contratación"
+  - "rotación y carga"
+  - "efectos de políticas a varios periodos"

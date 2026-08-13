@@ -1,0 +1,31 @@
+id: 61
+part: 05
+title: "Diseño de cargos y resultados esperados"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir job architecture de outcome del cargo mediante evidencia observable."
+  - "Aplicar la secuencia: definir problema de negocio del rol → escribir 3–5 outcomes → identificar decisiones y interfaces → derivar competencias y nivel → validar scorecard con manager y stakeholders."
+  - "Interpretar tiempo para cubrir vacante, calidad de contratación, claridad de expectativas sin atribuir causalidad automática."
+  - "Resolver el caso de diseño de cargos y resultados esperados con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "people-decision-brief.md"
+references:
+  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
+  - "Raymond Noe et al. — *Human Resource Management*"
+  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+  - "John Boudreau & Peter Ramstad — *Beyond HR*"
+  - "John Whitmore — *Coaching for Performance*"
+  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
+limits:
+  - "Una descripción perfecta no arregla un diseño organizacional incoherente. Si varios roles compiten por el mismo outcome, primero corrige derechos de decisión."
+evidence_signals:
+  - "tiempo para cubrir vacante"
+  - "calidad de contratación"
+  - "claridad de expectativas"
+  - "retrabajo por rol"
+  - "promociones inconsistentes"

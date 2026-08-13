@@ -1,0 +1,31 @@
+id: 276
+part: 22
+title: "Capstone: empresa menos dependiente del fundador"
+duration_minutes: 150
+level: "Etapa 6 — Business Owner"
+outcome: "reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir founder independence de operating autonomy mediante evidencia observable."
+  - "Aplicar la secuencia: mapear dependencies → instalar leaders y process owners → definir guardrails y dashboard → ejecutar 2 a 4 week absence simulation → analizar failures y remediar."
+  - "Interpretar owner contacts during test, service continuity, decision backlog sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: empresa menos dependiente del fundador con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "founder-owner-decision-brief.md"
+references:
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Verne Harnish — *Scaling Up*"
+  - "Jay R. Galbraith — *Designing Organizations*"
+  - "Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*"
+  - "Elad Gil — *High Growth Handbook*"
+  - "Reid Hoffman & Chris Yeh — *Blitzscaling*"
+limits:
+  - "La meta no siempre es ausencia total: algunas empresas se benefician de founder en producto o relaciones. Define qué rol agrega valor versus dependencia involuntaria."
+evidence_signals:
+  - "owner contacts during test"
+  - "service continuity"
+  - "decision backlog"
+  - "cash-control incidents"
+  - "leader confidence"

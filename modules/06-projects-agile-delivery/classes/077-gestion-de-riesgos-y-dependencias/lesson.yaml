@@ -1,0 +1,31 @@
+id: 77
+part: 06
+title: "Gestión de riesgos y dependencias"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir risk de issue mediante evidencia observable."
+  - "Aplicar la secuencia: identificar riesgos por objetivo → priorizar exposición material → asignar mitigación y contingency → mapear dependencias con fechas y owners → revisar triggers semanalmente."
+  - "Interpretar riesgos vencidos, issues que antes eran riesgos, dependencias sin compromiso sin atribuir causalidad automática."
+  - "Resolver el caso de gestión de riesgos y dependencias con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
+  - "Harold Kerzner — *Project Management*"
+  - "Gene Kim — *The Unicorn Project*"
+  - "David J. Anderson — *Kanban*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
+limits:
+  - "Un risk register enorme puede ocultar lo material. Distingue riesgos de proyecto de incertidumbre normal y escala los que afectan estrategia, seguridad o compliance."
+evidence_signals:
+  - "riesgos vencidos"
+  - "issues que antes eran riesgos"
+  - "dependencias sin compromiso"
+  - "exposición residual"
+  - "contingencias activadas"

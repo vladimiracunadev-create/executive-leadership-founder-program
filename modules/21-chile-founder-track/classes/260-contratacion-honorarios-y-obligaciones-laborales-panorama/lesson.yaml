@@ -1,0 +1,38 @@
+id: 260
+part: 21
+title: "Contratación, honorarios y obligaciones laborales: panorama"
+duration_minutes: 150
+level: "Etapa 6 — Founder en Chile"
+outcome: "formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir contrato indefinido de plazo fijo mediante evidencia observable."
+  - "Aplicar la secuencia: clasificar hechos de la relación → elegir contrato y modalidad → redactar cláusulas y anexos → registrar y operar jornada cotizaciones y prevención → gestionar cambios y término con evidencia."
+  - "Interpretar contract registration, working hours, payroll-cotization status sin atribuir causalidad automática."
+  - "Resolver el caso de contratación, honorarios y obligaciones laborales: panorama con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "founder-owner-decision-brief.md"
+references:
+  - "Dirección del Trabajo (Chile) — *Normativa y orientación oficial*"
+  - "Biblioteca del Congreso Nacional de Chile — *LeyChile: Código del Trabajo y legislación laboral vigente*"
+  - "Superintendencia de Seguridad Social (Chile) — *Normativa del Seguro de Accidentes del Trabajo y Enfermedades Profesionales*"
+  - "Subsecretaría de Previsión Social (Chile) — *Seguridad y Salud Laboral / Decreto Supremo N°44*"
+  - "Raymond Noe et al. — *Human Resource Management*"
+  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
+  - "Dirección del Trabajo — Contrato Individual de Trabajo: <https://dt.gob.cl/portal/1626/w3-article-100172.html>."
+  - "Dirección del Trabajo — cláusulas mínimas del contrato: <https://www.dt.gob.cl/portal/1628/w3-article-60800.html>."
+  - "Dirección del Trabajo — implementación de la rebaja a 42 horas desde 26-04-2026 (Ord. N°253/21): <https://dt.gob.cl/legislacion/1624/w3-article-129189.html>."
+  - "Dirección del Trabajo — Ley Karin y dictámenes asociados: <https://www.dt.gob.cl/legislacion/1624/w3-propertyvalue-194488.html>."
+  - "Código del Trabajo, texto vigente en BCN LeyChile: <https://www.bcn.cl/leychile/navegar?idNorma=207436>."
+  - "Subsecretaría de Previsión Social — Decreto Supremo N°44 y material de implementación: <https://previsionsocial.gob.cl/ds44/>."
+  - "SUSESO — normativa de seguridad y salud laboral y Ley N°16.744: <https://www.suseso.cl/>."
+limits:
+  - "Derecho laboral es sensible a hechos y cambia. A agosto de 2026 la jornada máxima general ya está en 42 horas; Ley Karin y DS 44 requieren controles específicos. Verifica DT y BCN y usa asesoría laboral para casos reales."
+evidence_signals:
+  - "contract registration"
+  - "working hours"
+  - "payroll-cotization status"
+  - "safety obligations"
+  - "termination exceptions"

@@ -1,0 +1,33 @@
+id: 254
+part: 21
+title: "Persona natural y persona jurídica: decisiones iniciales"
+duration_minutes: 150
+level: "Etapa 6 — Founder en Chile"
+outcome: "formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir persona natural de persona jurídica mediante evidencia observable."
+  - "Aplicar la secuencia: mapear actividad y exposición → definir necesidad de socios y capital → comparar administración y costos → revisar responsabilidad y contratos → validar alternativa con fuentes y asesoría."
+  - "Interpretar owner liability exposure, setup cost, ongoing compliance sin atribuir causalidad automática."
+  - "Resolver el caso de persona natural y persona jurídica: decisiones iniciales con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*"
+  - "Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*"
+  - "Dirección del Trabajo (Chile) — *Normativa y orientación oficial*"
+  - "Biblioteca del Congreso Nacional de Chile — *LeyChile: Código del Trabajo y legislación laboral vigente*"
+  - "Superintendencia de Pensiones (Chile) — *Normativa y sistema previsional*"
+  - "INAPI (Chile) — *Propiedad industrial y orientación oficial*"
+  - "Registro de Empresas y Sociedades — información oficial sobre formas societarias: <https://www.registrodeempresasysociedades.cl/FAQ.aspx>."
+  - "SII — Portal Emprendedor: <https://www.sii.cl/portales/emprendedor/>."
+limits:
+  - "La forma jurídica no protege frente a toda responsabilidad ni corrige mala gestión. La elección tributaria y legal depende de hechos; verifica con profesionales."
+evidence_signals:
+  - "owner liability exposure"
+  - "setup cost"
+  - "ongoing compliance"
+  - "capital needs"
+  - "contracting requirements"

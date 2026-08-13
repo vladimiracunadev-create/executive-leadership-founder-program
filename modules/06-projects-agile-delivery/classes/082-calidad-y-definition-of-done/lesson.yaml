@@ -1,0 +1,31 @@
+id: 82
+part: 06
+title: "Calidad y Definition of Done"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir quality de Definition of Done mediante evidencia observable."
+  - "Aplicar la secuencia: definir calidad relevante al usuario y riesgo → crear DoD común → automatizar controles repetibles → detectar defectos cerca de origen → medir defect escape y rework."
+  - "Interpretar defect escape rate, rework, automated checks sin atribuir causalidad automática."
+  - "Resolver el caso de calidad y Definition of Done con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "operating-improvement-brief.md"
+references:
+  - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
+  - "Harold Kerzner — *Project Management*"
+  - "David J. Anderson — *Kanban*"
+  - "Atul Gawande — *The Checklist Manifesto*"
+  - "Gene Kim — *The Unicorn Project*"
+  - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
+limits:
+  - "Una DoD maximalista puede bloquear aprendizaje temprano. Diferencia prototipo experimental de incremento de producción y aplica estándares acordes al propósito."
+evidence_signals:
+  - "defect escape rate"
+  - "rework"
+  - "automated checks"
+  - "DoD compliance"
+  - "customer incidents"

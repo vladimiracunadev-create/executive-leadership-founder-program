@@ -1,0 +1,31 @@
+id: 140
+part: 11
+title: "Adquisición digital y contenido"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir intent de organic acquisition mediante evidencia observable."
+  - "Aplicar la secuencia: definir audiencia e intención → seleccionar problemas y formatos → crear distribución orgánica/pagada → instrumentar conversiones → comparar CAC y calidad downstream."
+  - "Interpretar qualified traffic, content conversion, CAC sin atribuir causalidad automática."
+  - "Resolver el caso de adquisición digital y contenido con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
+  - "Byron Sharp — *How Brands Grow*"
+  - "Sean Ellis & Morgan Brown — *Hacking Growth*"
+  - "David Aaker — *Building Strong Brands*"
+  - "Aaron Ross & Jason Lemkin — *From Impossible to Inevitable*"
+  - "April Dunford — *Obviously Awesome*"
+limits:
+  - "Attribution exacta es difícil en journeys multicanal. Usa modelos como herramientas, experimentos y señales incrementales; no trates last-click como causalidad."
+evidence_signals:
+  - "qualified traffic"
+  - "content conversion"
+  - "CAC"
+  - "pipeline sourced"
+  - "assisted revenue"

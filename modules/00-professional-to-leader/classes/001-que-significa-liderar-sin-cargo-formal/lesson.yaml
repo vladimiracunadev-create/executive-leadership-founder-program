@@ -1,0 +1,31 @@
+id: 1
+part: 00
+title: "Qué significa liderar sin cargo formal"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "pasar de ejecutar tareas a producir contribución, criterio y confianza"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir influencia sin autoridad de legitimidad mediante evidencia observable."
+  - "Aplicar la secuencia: detectar una brecha relevante → formular un resultado y no solo una actividad → construir apoyo con evidencia y contexto → proponer una acción proporcional a la autoridad disponible → cerrar el ciclo informando resultado y aprendizaje."
+  - "Interpretar aceptación de propuestas, tiempo desde problema a acción, retrabajo por desalineamiento sin atribuir causalidad automática."
+  - "Resolver el caso de qué significa liderar sin cargo formal con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "people-decision-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "Cal Newport — *Deep Work*"
+  - "James Clear — *Atomic Habits*"
+  - "Gary Yukl — *Leadership in Organizations*"
+limits:
+  - "Influir sin autoridad no autoriza a saltarse derechos de decisión. La iniciativa madura reduce fricción y propone; no captura decisiones que pertenecen legítimamente a otra función."
+evidence_signals:
+  - "aceptación de propuestas"
+  - "tiempo desde problema a acción"
+  - "retrabajo por desalineamiento"
+  - "confianza de stakeholders"
+  - "escalamientos correctos versus tardíos"

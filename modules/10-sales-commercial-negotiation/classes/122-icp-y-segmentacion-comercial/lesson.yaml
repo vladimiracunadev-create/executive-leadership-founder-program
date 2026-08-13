@@ -1,0 +1,31 @@
+id: 122
+part: 10
+title: "ICP y segmentación comercial"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "construir ingresos mediante un proceso comercial medible y negociación disciplinada"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir ICP de segment mediante evidencia observable."
+  - "Aplicar la secuencia: analizar clientes ganados y perdidos → identificar atributos de éxito → definir ICP y disqualifiers → priorizar segmentos por valor y acceso → probar messaging y win rate."
+  - "Interpretar win rate by segment, CAC by segment, retention by segment sin atribuir causalidad automática."
+  - "Resolver el caso de iCP y segmentación comercial con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Neil Rackham — *SPIN Selling*"
+  - "Matthew Dixon & Brent Adamson — *The Challenger Sale*"
+  - "Chris Voss & Tahl Raz — *Never Split the Difference*"
+  - "Mark Roberge — *The Sales Acceleration Formula*"
+  - "Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing*"
+  - "Roger Fisher, William Ury & Bruce Patton — *Getting to Yes*"
+limits:
+  - "Un ICP demasiado estrecho puede ocultar mercados emergentes. Reserva experimentos fuera del core y actualiza con datos, sin diluir el foco principal."
+evidence_signals:
+  - "win rate by segment"
+  - "CAC by segment"
+  - "retention by segment"
+  - "deal size"
+  - "sales cycle"

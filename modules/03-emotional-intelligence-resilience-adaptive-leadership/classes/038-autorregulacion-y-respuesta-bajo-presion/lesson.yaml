@@ -1,0 +1,31 @@
+id: 38
+part: 03
+title: "Autorregulación y respuesta bajo presión"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "regularse, sostener exigencia humana y liderar adaptación bajo presión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir activación de impulso mediante evidencia observable."
+  - "Aplicar la secuencia: reconocer señal corporal y trigger → nombrar emoción y objetivo → crear pausa física o temporal → elegir reencuadre y respuesta → revisar después si la respuesta produjo el resultado."
+  - "Interpretar interrupciones impulsivas, correos enviados en activación, conflictos escalados sin atribuir causalidad automática."
+  - "Resolver el caso de autorregulación y respuesta bajo presión con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Goleman — *Emotional Intelligence*"
+  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
+  - "Clayton Christensen et al. — *How Will You Measure Your Life?*"
+  - "Ronald Heifetz & Marty Linsky — *Leadership on the Line*"
+  - "Amy C. Edmondson — *The Fearless Organization*"
+  - "Daniel H. Pink — *Drive*"
+limits:
+  - "Autorregular no significa tolerar abuso ni evitar límites. A veces la respuesta correcta es detener la interacción o escalar; la pausa mejora elección, no obliga a ser pasivo."
+evidence_signals:
+  - "interrupciones impulsivas"
+  - "correos enviados en activación"
+  - "conflictos escalados"
+  - "tiempo de recuperación"
+  - "decisiones revertidas al día siguiente"

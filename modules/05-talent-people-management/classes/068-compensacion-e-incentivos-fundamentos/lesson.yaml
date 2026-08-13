@@ -1,0 +1,31 @@
+id: 68
+part: 05
+title: "Compensación e incentivos: fundamentos"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir total rewards de pay band mediante evidencia observable."
+  - "Aplicar la secuencia: definir filosofía de compensación → benchmarkear sin delegar decisión al mercado → construir bandas y criterios → diseñar variable con guardrails → auditar equidad y gaming."
+  - "Interpretar compa-ratio, pay gaps, turnover por compensación sin atribuir causalidad automática."
+  - "Resolver el caso de compensación e incentivos: fundamentos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
+  - "Raymond Noe et al. — *Human Resource Management*"
+  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
+  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+  - "Dave Ulrich — *Human Resource Champions*"
+  - "Kim Scott — *Radical Candor*"
+limits:
+  - "Compensación es materia legal y cultural. No ajustes salarios, beneficios o equity basándote solo en un modelo educativo; verifica contratos, impuestos, igualdad y regulación local."
+evidence_signals:
+  - "compa-ratio"
+  - "pay gaps"
+  - "turnover por compensación"
+  - "variable versus outcome"
+  - "gaming o reclamos"

@@ -1,0 +1,31 @@
+id: 99
+part: 08
+title: "OKR: cuándo sirven y cuándo no"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir Objective de Key Result mediante evidencia observable."
+  - "Aplicar la secuencia: seleccionar pocos Objectives → escribir KRs de outcome o driver → separar iniciativas → etiquetar commitments → hacer check-ins y cambiar iniciativas según evidencia."
+  - "Interpretar KRs de actividad, confidence score, initiatives changed sin atribuir causalidad automática."
+  - "Resolver el caso de oKR: cuándo sirven y cuándo no con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "John Doerr — *Measure What Matters*"
+  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "Larry Bossidy & Ram Charan — *Execution*"
+  - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
+  - "Bernard Marr — *Key Performance Indicators*"
+limits:
+  - "OKR no reemplaza presupuestos, SLA, compliance ni gestión operativa. Úsalo donde foco y aprendizaje agreguen valor, no como lenguaje obligatorio para toda tarea."
+evidence_signals:
+  - "KRs de actividad"
+  - "confidence score"
+  - "initiatives changed"
+  - "objective count"
+  - "commitment misses"

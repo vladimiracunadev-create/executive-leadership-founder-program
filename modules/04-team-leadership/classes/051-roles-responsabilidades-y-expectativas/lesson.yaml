@@ -1,0 +1,31 @@
+id: 51
+part: 04
+title: "Roles, responsabilidades y expectativas"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir rol de responsabilidad mediante evidencia observable."
+  - "Aplicar la secuencia: definir outcomes del rol → separar responsabilidades recurrentes de proyectos → asignar autoridad y límites → mapear interfaces y handoffs → validar expectativas con la persona."
+  - "Interpretar decisiones escaladas innecesariamente, duplicidad de trabajo, huecos de responsabilidad sin atribuir causalidad automática."
+  - "Resolver el caso de roles, responsabilidades y expectativas con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "J. Richard Hackman — *Leading Teams*"
+  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
+  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+  - "John Whitmore — *Coaching for Performance*"
+  - "Patrick Lencioni — *Death by Meeting*"
+  - "Stanley McChrystal et al. — *Team of Teams*"
+limits:
+  - "Claridad de roles no debe congelar colaboración. En entornos dinámicos algunas responsabilidades cambian; el marco debe permitir negociar fronteras sin volver a la ambigüedad total."
+evidence_signals:
+  - "decisiones escaladas innecesariamente"
+  - "duplicidad de trabajo"
+  - "huecos de responsabilidad"
+  - "retrabajo en handoffs"
+  - "claridad en evaluación"

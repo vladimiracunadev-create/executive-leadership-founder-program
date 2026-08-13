@@ -1,0 +1,33 @@
+id: 261
+part: 21
+title: "Propiedad intelectual e INAPI"
+duration_minutes: 150
+level: "Etapa 6 — Founder en Chile"
+outcome: "formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir trademark de patent mediante evidencia observable."
+  - "Aplicar la secuencia: inventariar activos IP → clasificar mecanismo de protección → verificar ownership y assignments → buscar y registrar cuando aporta → crear controles de confidencialidad y renovación."
+  - "Interpretar registered marks, IP assignment coverage, renewal deadlines sin atribuir causalidad automática."
+  - "Resolver el caso de propiedad intelectual e INAPI con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "founder-owner-decision-brief.md"
+references:
+  - "INAPI (Chile) — *Propiedad industrial y orientación oficial*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*"
+  - "Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*"
+  - "Dirección ChileCompra — *Mercado Público y normativa de compras públicas*"
+  - "INAPI — portal oficial de propiedad industrial: <https://www.inapi.cl/>."
+  - "Departamento de Derechos Intelectuales / Servicio Nacional del Patrimonio Cultural — derecho de autor: <https://www.propiedadintelectual.gob.cl/>."
+limits:
+  - "Registrar una marca no protege todas las categorías ni garantiza libertad de operar. Patentes y conflictos complejos requieren búsqueda y asesoría especializada."
+evidence_signals:
+  - "registered marks"
+  - "IP assignment coverage"
+  - "renewal deadlines"
+  - "confidentiality controls"
+  - "IP disputes"

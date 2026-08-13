@@ -1,0 +1,31 @@
+id: 18
+part: 01
+title: "Trade-offs y costo de oportunidad"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "decidir con evidencia, incertidumbre, causalidad y pensamiento sistémico"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir trade-off de coste de oportunidad mediante evidencia observable."
+  - "Aplicar la secuencia: definir recurso escaso → listar alternativas mutuamente excluyentes → estimar beneficio y costo de oportunidad → comparar reversibilidad y timing → documentar qué se deja de hacer."
+  - "Interpretar presupuesto comprometido, capacidad asignada, iniciativas detenidas sin atribuir causalidad automática."
+  - "Resolver el caso de trade-offs y costo de oportunidad con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Kahneman — *Thinking, Fast and Slow*"
+  - "Gary Klein — *Sources of Power*"
+  - "Richard Thaler & Cass Sunstein — *Nudge*"
+  - "Annie Duke — *Thinking in Bets*"
+  - "Howard Raiffa — *Decision Analysis*"
+  - "Philip Tetlock & Dan Gardner — *Superforecasting*"
+limits:
+  - "No todo dilema es un trade-off permanente. A veces una innovación cambia la frontera; antes de aceptar la renuncia como inevitable, pregunta si diseño, secuencia o tecnología pueden aliviarla."
+evidence_signals:
+  - "presupuesto comprometido"
+  - "capacidad asignada"
+  - "iniciativas detenidas"
+  - "valor perdido por demora"
+  - "porcentaje de recursos en top priorities"

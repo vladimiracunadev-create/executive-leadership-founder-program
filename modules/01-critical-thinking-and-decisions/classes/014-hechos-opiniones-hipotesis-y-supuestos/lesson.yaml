@@ -1,0 +1,31 @@
+id: 14
+part: 01
+title: "Hechos, opiniones, hipótesis y supuestos"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "decidir con evidencia, incertidumbre, causalidad y pensamiento sistémico"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir hecho de opinión mediante evidencia observable."
+  - "Aplicar la secuencia: inventariar afirmaciones clave → clasificarlas por tipo → registrar fuente y calidad → convertir explicaciones en hipótesis refutables → definir qué evidencia cambiaría la decisión."
+  - "Interpretar porcentaje de afirmaciones con fuente, supuestos sin validar, hipótesis refutadas sin atribuir causalidad automática."
+  - "Resolver el caso de hechos, opiniones, hipótesis y supuestos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Kahneman — *Thinking, Fast and Slow*"
+  - "Gary Klein — *Sources of Power*"
+  - "Max H. Bazerman & Don A. Moore — *Judgment in Managerial Decision Making*"
+  - "Donella H. Meadows — *Thinking in Systems*"
+  - "Annie Duke — *Thinking in Bets*"
+  - "Annie Duke — *How to Decide*"
+limits:
+  - "Etiquetar una afirmación no la vuelve verdadera. Incluso un 'hecho' puede estar mal medido, desactualizado o sesgado por selección; la calidad de la fuente importa tanto como la categoría."
+evidence_signals:
+  - "porcentaje de afirmaciones con fuente"
+  - "supuestos sin validar"
+  - "hipótesis refutadas"
+  - "decisiones cambiadas por nueva evidencia"
+  - "conflictos originados en definiciones distintas"

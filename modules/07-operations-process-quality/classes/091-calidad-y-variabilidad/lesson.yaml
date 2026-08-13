@@ -1,0 +1,31 @@
+id: 91
+part: 07
+title: "Calidad y variabilidad"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "operar procesos end-to-end con capacidad, calidad, continuidad y mejora"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir quality de variation mediante evidencia observable."
+  - "Aplicar la secuencia: definir características críticas → medir proceso en el tiempo → distinguir causas comunes y especiales → corregir causa adecuada → estandarizar mejora y monitorear."
+  - "Interpretar defect rate, first-pass yield, rework sin atribuir causalidad automática."
+  - "Resolver el caso de calidad y variabilidad con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "operating-improvement-brief.md"
+references:
+  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "James P. Womack & Daniel T. Jones — *Lean Thinking*"
+  - "Jeffrey K. Liker — *The Toyota Way*"
+  - "ISO — *ISO 9001 Quality management systems*"
+  - "Michael Hammer & James Champy — *Reengineering the Corporation*"
+limits:
+  - "No conviertas calidad en solo conformidad interna. Un proceso estable puede producir consistentemente algo que el cliente no necesita; conecta control con valor y outcome."
+evidence_signals:
+  - "defect rate"
+  - "first-pass yield"
+  - "rework"
+  - "control limits"
+  - "customer complaints"

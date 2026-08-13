@@ -1,0 +1,31 @@
+id: 59
+part: 04
+title: "Equipos híbridos y distribuidos"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir remote-first de asincronía mediante evidencia observable."
+  - "Aplicar la secuencia: clasificar trabajo síncrono y asíncrono → definir fuente de verdad documental → establecer overlap y tiempos de respuesta → diseñar reuniones inclusivas → medir acceso y oportunidades sin proximity bias."
+  - "Interpretar decisiones documentadas, tiempo de respuesta, participación remota sin atribuir causalidad automática."
+  - "Resolver el caso de equipos híbridos y distribuidos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "people-decision-brief.md"
+references:
+  - "J. Richard Hackman — *Leading Teams*"
+  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "John Whitmore — *Coaching for Performance*"
+  - "Patrick Lencioni — *Death by Meeting*"
+  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+limits:
+  - "Remote-first no implica que toda interacción deba ser asíncrona. Conflictos, creatividad compleja y vínculos pueden beneficiarse de alta riqueza; el diseño elige intencionalmente."
+evidence_signals:
+  - "decisiones documentadas"
+  - "tiempo de respuesta"
+  - "participación remota"
+  - "promociones por modalidad"
+  - "reuniones fuera de horario"

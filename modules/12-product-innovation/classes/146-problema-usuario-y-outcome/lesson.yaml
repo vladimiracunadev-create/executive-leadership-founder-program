@@ -1,0 +1,31 @@
+id: 146
+part: 12
+title: "Problema, usuario y outcome"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir problem statement de need mediante evidencia observable."
+  - "Aplicar la secuencia: observar contexto y conducta → formular problema sin solución embebida → definir outcome observable → recoger evidencia de frecuencia e intensidad → priorizar por valor alcance y riesgo."
+  - "Interpretar problem frequency, severity, current workaround sin atribuir causalidad automática."
+  - "Resolver el caso de problema, usuario y outcome con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Marty Cagan — *Inspired*"
+  - "Teresa Torres — *Continuous Discovery Habits*"
+  - "Rob Fitzpatrick — *The Mom Test*"
+  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
+  - "Eric Ries — *The Lean Startup*"
+  - "Clayton M. Christensen et al. — *Competing Against Luck*"
+limits:
+  - "Un outcome demasiado abstracto no guía decisiones; uno demasiado específico congela la solución. Debe expresar progreso sin predeterminar la interfaz."
+evidence_signals:
+  - "problem frequency"
+  - "severity"
+  - "current workaround"
+  - "desired outcome"
+  - "segment prevalence"

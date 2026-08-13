@@ -1,0 +1,35 @@
+id: 264
+part: 21
+title: "Capstone: empresa operable y checklist de cumplimiento"
+duration_minutes: 150
+level: "Etapa 6 — Founder en Chile"
+outcome: "formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir operability de compliance checklist mediante evidencia observable."
+  - "Aplicar la secuencia: mapear modelo y actividades → validar sociedad SII y permisos → validar laboral IP y contratos → crear calendario y controls → hacer mock due diligence y cerrar gaps."
+  - "Interpretar open compliance gaps, deadline coverage, document completeness sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: empresa operable y checklist de cumplimiento con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "founder-owner-decision-brief.md"
+references:
+  - "Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*"
+  - "Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*"
+  - "Dirección del Trabajo (Chile) — *Normativa y orientación oficial*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Biblioteca del Congreso Nacional de Chile — *LeyChile: Código del Trabajo y legislación laboral vigente*"
+  - "SII — Portal Emprendedor: <https://www.sii.cl/portales/emprendedor/>."
+  - "Registro de Empresas y Sociedades: <https://www.registrodeempresasysociedades.cl/>."
+  - "Dirección del Trabajo: <https://www.dt.gob.cl/>."
+  - "INAPI: <https://www.inapi.cl/>."
+limits:
+  - "Una checklist completa hoy puede quedar obsoleta mañana. El entregable debe registrar fuente, fecha de verificación y responsable de actualización."
+evidence_signals:
+  - "open compliance gaps"
+  - "deadline coverage"
+  - "document completeness"
+  - "owner assignment"
+  - "professional reviews"

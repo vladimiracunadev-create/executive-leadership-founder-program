@@ -1,0 +1,31 @@
+id: 278
+part: 23
+title: "Inventario de capacidades monetizables"
+duration_minutes: 150
+level: "Etapa 6 — Independencia"
+outcome: "construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir skill de domain knowledge mediante evidencia observable."
+  - "Aplicar la secuencia: inventariar experiencia y resultados → extraer problemas resueltos → mapear proof y network → combinar capabilities por demanda → probar con conversaciones y ofertas."
+  - "Interpretar proof assets, inbound requests, problem frequency sin atribuir causalidad automática."
+  - "Resolver el caso de inventario de capacidades monetizables con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "operating-improvement-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Noam Wasserman — *The Founder's Dilemmas*"
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Bill Aulet — *Disciplined Entrepreneurship*"
+  - "Cal Newport — *Deep Work*"
+limits:
+  - "No toda habilidad que disfrutas tiene mercado accesible. Contrasta inventario con demanda, competencia y canal antes de invertir meses en posicionamiento."
+evidence_signals:
+  - "proof assets"
+  - "inbound requests"
+  - "problem frequency"
+  - "willingness to pay"
+  - "network reach"

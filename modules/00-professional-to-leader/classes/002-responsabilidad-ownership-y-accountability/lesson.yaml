@@ -1,0 +1,31 @@
+id: 2
+part: 00
+title: "Responsabilidad, ownership y accountability"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "pasar de ejecutar tareas a producir contribución, criterio y confianza"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir ownership de accountability mediante evidencia observable."
+  - "Aplicar la secuencia: definir el outcome y su dueño → identificar tareas y dependencias → alinear autoridad con responsabilidad → establecer criterios de aceptación en handoffs → revisar desviaciones sin diluir accountability."
+  - "Interpretar porcentaje de outcomes con owner único, handoffs fallidos, decisiones bloqueadas por falta de autoridad sin atribuir causalidad automática."
+  - "Resolver el caso de responsabilidad, ownership y accountability con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Herminia Ibarra — *Act Like a Leader, Think Like a Leader*"
+  - "Greg McKeown — *Essentialism*"
+  - "Peter G. Northouse — *Leadership: Theory and Practice*"
+  - "Andrew S. Grove — *High Output Management*"
+limits:
+  - "Ownership no significa absorber todo el trabajo ni convertirse en héroe. Si responsabilidad y autoridad están desalineadas, el sistema debe corregirse; la sobrecarga personal no es una solución de gobierno."
+evidence_signals:
+  - "porcentaje de outcomes con owner único"
+  - "handoffs fallidos"
+  - "decisiones bloqueadas por falta de autoridad"
+  - "retrabajo"
+  - "acciones correctivas cerradas"

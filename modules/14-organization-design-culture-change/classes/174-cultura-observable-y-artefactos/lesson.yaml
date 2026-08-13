@@ -1,0 +1,31 @@
+id: 174
+part: 14
+title: "Cultura observable y artefactos"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "diseñar estructura, derechos de decisión, cultura y cambio como un sistema"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir artifact de espoused value mediante evidencia observable."
+  - "Aplicar la secuencia: observar artefactos y decisiones → comparar valores declarados con conducta → identificar supuestos detrás de patrones → seleccionar conductas críticas → alinear sistemas líderes y consecuencias."
+  - "Interpretar speak-up behavior, decision patterns, promotion signals sin atribuir causalidad automática."
+  - "Resolver el caso de cultura observable y artefactos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Jay R. Galbraith — *Designing Organizations*"
+  - "Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*"
+  - "Frederic Laloux — *Reinventing Organizations*"
+  - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
+  - "John P. Kotter — *Leading Change*"
+  - "Chip Heath & Dan Heath — *Switch*"
+limits:
+  - "Cultura no explica todo y puede fragmentarse por subculturas. Evita atribuir cualquier problema a la cultura cuando existe una causa estructural, de capacidad o incentivos."
+evidence_signals:
+  - "speak-up behavior"
+  - "decision patterns"
+  - "promotion signals"
+  - "turnover by team"
+  - "policy exceptions"

@@ -1,0 +1,33 @@
+id: 259
+part: 21
+title: "Cuenta bancaria, pagos y medios de cobro"
+duration_minutes: 150
+level: "Etapa 6 — Founder en Chile"
+outcome: "formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir business bank account de merchant acquiring mediante evidencia observable."
+  - "Aplicar la secuencia: seleccionar medios por cliente y costo → definir cuentas y roles → mapear settlement y fees → implementar approvals y reconciliation → monitorear fraude y chargebacks."
+  - "Interpretar settlement delay, payment fees, chargeback rate sin atribuir causalidad automática."
+  - "Resolver el caso de cuenta bancaria, pagos y medios de cobro con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Comisión para el Mercado Financiero (Chile) — *Normativa e información del mercado financiero*"
+  - "Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*"
+  - "Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "INAPI (Chile) — *Propiedad industrial y orientación oficial*"
+  - "Corporación de Fomento de la Producción (Chile) — *Programas, instrumentos y apoyo empresarial*"
+  - "CMF — información y normativa del sistema financiero: <https://www.cmfchile.cl/>."
+  - "SII — acreditación de Inicio de Actividades y obligaciones tributarias: <https://www.sii.cl/destacados/ley_cumplimiento_obligaciones_tributarias/inicio_actividades.html>."
+limits:
+  - "Productos bancarios y condiciones cambian por proveedor. Compara contratos, seguridad y costos vigentes y no dependas de una sola persona para accesos críticos."
+evidence_signals:
+  - "settlement delay"
+  - "payment fees"
+  - "chargeback rate"
+  - "cash concentration"
+  - "approval exceptions"

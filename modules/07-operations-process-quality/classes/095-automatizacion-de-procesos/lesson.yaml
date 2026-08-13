@@ -1,0 +1,31 @@
+id: 95
+part: 07
+title: "Automatización de procesos"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "operar procesos end-to-end con capacidad, calidad, continuidad y mejora"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir automation de straight-through processing mediante evidencia observable."
+  - "Aplicar la secuencia: mapear proceso y eliminar desperdicio → segmentar casos estándar y excepciones → cuantificar costo, volumen y error → automatizar con controles y fallback → medir beneficio y nuevos riesgos."
+  - "Interpretar horas manuales, error rate, STP rate sin atribuir causalidad automática."
+  - "Resolver el caso de automatización de procesos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "operating-improvement-brief.md"
+references:
+  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World*"
+  - "Michael Hammer & James Champy — *Reengineering the Corporation*"
+  - "W. Edwards Deming — *Out of the Crisis*"
+  - "James P. Womack & Daniel T. Jones — *Lean Thinking*"
+limits:
+  - "No automatices decisiones sensibles solo porque son posibles. Privacidad, sesgo, seguridad y responsabilidad pueden exigir revisión humana y gobernanza especial."
+evidence_signals:
+  - "horas manuales"
+  - "error rate"
+  - "STP rate"
+  - "exception rate"
+  - "payback"

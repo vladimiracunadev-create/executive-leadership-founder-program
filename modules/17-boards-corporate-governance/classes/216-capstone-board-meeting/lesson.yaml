@@ -1,0 +1,32 @@
+id: 216
+part: 17
+title: "Capstone: board meeting"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir board agenda de decision paper mediante evidencia observable."
+  - "Aplicar la secuencia: preparar board pack → identificar 2 o 3 decisiones → conducir challenge y deliberación → registrar acuerdos y dissent → cerrar con actions y executive session."
+  - "Interpretar decision quality, pre-read timeliness, action closure sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: board meeting con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "board-or-executive-memo.md"
+references:
+  - "Bob Tricker — *Corporate Governance*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Michael E. Porter & Mark R. Kramer — *Creating Shared Value*"
+  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
+  - "Robert A. G. Monks & Nell Minow — *Corporate Governance*"
+  - "Ram Charan — *Boards That Deliver*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+limits:
+  - "Una simulación educativa no reproduce deberes legales de un directorio real. Para actas, quórums, materias reservadas y conflictos, verifica estatutos y legislación aplicable."
+evidence_signals:
+  - "decision quality"
+  - "pre-read timeliness"
+  - "action closure"
+  - "agenda allocation"
+  - "board-management boundary"

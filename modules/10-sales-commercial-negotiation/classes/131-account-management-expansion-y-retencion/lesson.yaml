@@ -1,0 +1,31 @@
+id: 131
+part: 10
+title: "Account management, expansión y retención"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "construir ingresos mediante un proceso comercial medible y negociación disciplinada"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir adoption de renewal mediante evidencia observable."
+  - "Aplicar la secuencia: definir outcomes post-venta → medir adopción y valor → mapear stakeholders y riesgos → hacer executive reviews → expandir desde problemas nuevos y éxito demostrado."
+  - "Interpretar NRR, renewal rate, adoption sin atribuir causalidad automática."
+  - "Resolver el caso de account management, expansión y retención con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "commercial-decision-brief.md"
+references:
+  - "Neil Rackham — *SPIN Selling*"
+  - "Matthew Dixon & Brent Adamson — *The Challenger Sale*"
+  - "Roger Fisher, William Ury & Bruce Patton — *Getting to Yes*"
+  - "Neil Rackham — *Major Account Sales Strategy*"
+  - "Aaron Ross & Marylou Tyler — *Predictable Revenue*"
+  - "Robert B. Cialdini — *Influence*"
+limits:
+  - "Expansion sin valor realizado puede parecer venta oportunista y aumentar churn. También controla concentración: crecer demasiado en una cuenta puede elevar riesgo de cartera."
+evidence_signals:
+  - "NRR"
+  - "renewal rate"
+  - "adoption"
+  - "stakeholder coverage"
+  - "expansion pipeline"

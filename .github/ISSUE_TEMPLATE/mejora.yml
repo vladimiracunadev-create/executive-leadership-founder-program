@@ -1,0 +1,30 @@
+name: "💡 Mejora o propuesta"
+description: Una idea para el programa, el portal o las herramientas.
+labels: ["mejora"]
+body:
+  - type: textarea
+    id: problema
+    attributes:
+      label: Qué problema resuelve
+      description: Empieza por el problema, no por la solución.
+    validations:
+      required: true
+  - type: textarea
+    id: propuesta
+    attributes:
+      label: Propuesta
+    validations:
+      required: true
+  - type: dropdown
+    id: superficie
+    attributes:
+      label: Qué superficie afecta
+      options:
+        - Contenido de las clases
+        - Documentación
+        - Portal de estudio
+        - Herramientas y validadores
+        - Simulador ejecutivo
+        - Otra
+    validations:
+      required: true

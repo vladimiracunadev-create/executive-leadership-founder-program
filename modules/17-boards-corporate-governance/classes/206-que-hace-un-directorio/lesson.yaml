@@ -1,0 +1,32 @@
+id: 206
+part: 17
+title: "Qué hace un directorio"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir board mandate de oversight mediante evidencia observable."
+  - "Aplicar la secuencia: definir mandato y reserved matters → crear calendario anual → establecer información mínima → desafiar estrategia riesgo y performance → seguir acciones sin microgestión."
+  - "Interpretar board time allocation, decision quality, management follow-up sin atribuir causalidad automática."
+  - "Resolver el caso de qué hace un directorio con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "board-or-executive-memo.md"
+references:
+  - "Bob Tricker — *Corporate Governance*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Michael E. Porter & Mark R. Kramer — *Creating Shared Value*"
+  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
+  - "Robert A. G. Monks & Nell Minow — *Corporate Governance*"
+  - "Ram Charan — *Boards That Deliver*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+limits:
+  - "Un board demasiado distante también falla. Oversight requiere profundidad suficiente para detectar problemas sin reemplazar a management; ajusta según tamaño, crisis y regulación."
+evidence_signals:
+  - "board time allocation"
+  - "decision quality"
+  - "management follow-up"
+  - "agenda balance"
+  - "information timeliness"

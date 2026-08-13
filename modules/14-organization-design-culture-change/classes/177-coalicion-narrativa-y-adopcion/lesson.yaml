@@ -1,0 +1,31 @@
+id: 177
+part: 14
+title: "Coalición, narrativa y adopción"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "diseñar estructura, derechos de decisión, cultura y cambio como un sistema"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir guiding coalition de narrative mediante evidencia observable."
+  - "Aplicar la secuencia: construir coalición con poder y credibilidad → segmentar audiencias y pérdidas → crear narrativa específica → activar pilotos y champions → medir adopción y resolver barreras."
+  - "Interpretar coalition coverage, message comprehension, pilot adoption sin atribuir causalidad automática."
+  - "Resolver el caso de coalición, narrativa y adopción con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Jay R. Galbraith — *Designing Organizations*"
+  - "Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*"
+  - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
+  - "Chip Heath & Dan Heath — *Switch*"
+  - "Frederic Laloux — *Reinventing Organizations*"
+  - "John P. Kotter — *Leading Change*"
+limits:
+  - "Una narrativa fuerte puede convertirse en propaganda si oculta costos o incertidumbres. La confianza aumenta cuando la comunicación reconoce trade-offs y problemas reales."
+evidence_signals:
+  - "coalition coverage"
+  - "message comprehension"
+  - "pilot adoption"
+  - "champion activity"
+  - "behavior persistence"

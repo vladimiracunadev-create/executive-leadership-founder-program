@@ -1,0 +1,34 @@
+id: 263
+part: 21
+title: "ChileCompra, Sercotec, Corfo y ecosistema público"
+duration_minutes: 150
+level: "Etapa 6 — Founder en Chile"
+outcome: "formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir Mercado Público de ChileCompra mediante evidencia observable."
+  - "Aplicar la secuencia: definir objetivo empresarial → buscar instrumento o licitación oficial → leer bases y elegibilidad → modelar esfuerzo cash y obligaciones → postular u ofertar con controls y rendición."
+  - "Interpretar eligible opportunities, bid win rate, grant leverage sin atribuir causalidad automática."
+  - "Resolver el caso de chileCompra, Sercotec, Corfo y ecosistema público con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "founder-owner-decision-brief.md"
+references:
+  - "Dirección ChileCompra — *Mercado Público y normativa de compras públicas*"
+  - "Sercotec (Chile) — *Programas, capacitación y Centros de Desarrollo de Negocios*"
+  - "Corporación de Fomento de la Producción (Chile) — *Programas, instrumentos y apoyo empresarial*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*"
+  - "Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*"
+  - "ChileCompra / Mercado Público — portal oficial: <https://www.chilecompra.cl/>."
+  - "Sercotec — portal oficial: <https://www.sercotec.cl/>."
+  - "Corfo — portal oficial: <https://www.corfo.cl/>."
+limits:
+  - "Programas y bases cambian frecuentemente. Nunca enseñes montos o fechas como permanentes: verifica sitio oficial y bases de la convocatoria específica."
+evidence_signals:
+  - "eligible opportunities"
+  - "bid win rate"
+  - "grant leverage"
+  - "reporting compliance"
+  - "cash timing"

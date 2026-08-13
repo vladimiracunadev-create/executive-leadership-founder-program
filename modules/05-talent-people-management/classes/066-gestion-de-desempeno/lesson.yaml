@@ -1,0 +1,31 @@
+id: 66
+part: 05
+title: "Gestión de desempeño"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir performance management de goal mediante evidencia observable."
+  - "Aplicar la secuencia: definir outcomes y conductas al inicio → observar y guardar ejemplos durante el periodo → dar feedback cercano → hacer check-ins y ajustar metas → calibrar y cerrar evaluación con próximos pasos."
+  - "Interpretar goal attainment, feedback frequency, rating distribution sin atribuir causalidad automática."
+  - "Resolver el caso de gestión de desempeño con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "people-decision-brief.md"
+references:
+  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
+  - "Raymond Noe et al. — *Human Resource Management*"
+  - "John Whitmore — *Coaching for Performance*"
+  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+  - "Dave Ulrich — *Human Resource Champions*"
+  - "Robert I. Sutton — *Good Boss, Bad Boss*"
+limits:
+  - "Las métricas no deben convertirse en scoring automático de personas. Contexto, interdependencia y cambios de prioridad importan; además, los procesos deben respetar legislación y no discriminar."
+evidence_signals:
+  - "goal attainment"
+  - "feedback frequency"
+  - "rating distribution"
+  - "appeals"
+  - "performance improvement"

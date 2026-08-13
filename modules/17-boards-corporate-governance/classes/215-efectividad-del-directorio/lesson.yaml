@@ -1,0 +1,32 @@
+id: 215
+part: 17
+title: "Efectividad del directorio"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir board effectiveness de skills matrix mediante evidencia observable."
+  - "Aplicar la secuencia: definir mandato y skills → observar agenda y conducta → recoger feedback individual y colectivo → elegir 2 o 3 mejoras → revisar composición y progreso."
+  - "Interpretar meeting effectiveness, challenge quality, skills gaps sin atribuir causalidad automática."
+  - "Resolver el caso de efectividad del directorio con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "board-or-executive-memo.md"
+references:
+  - "Bob Tricker — *Corporate Governance*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Ram Charan — *Boards That Deliver*"
+  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+limits:
+  - "Diversidad de CV no garantiza diversidad cognitiva ni challenge. Evalúa cómo se usa la experiencia en decisiones reales y si el chair habilita conflicto productivo."
+evidence_signals:
+  - "meeting effectiveness"
+  - "challenge quality"
+  - "skills gaps"
+  - "action closure"
+  - "director contribution"

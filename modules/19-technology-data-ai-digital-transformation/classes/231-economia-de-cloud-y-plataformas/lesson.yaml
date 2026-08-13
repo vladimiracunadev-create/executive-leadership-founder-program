@@ -1,0 +1,32 @@
+id: 231
+part: 19
+title: "Economía de cloud y plataformas"
+duration_minutes: 150
+level: "Etapa 5 — CEO → Transformador digital"
+outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir cloud economics de elasticity mediante evidencia observable."
+  - "Aplicar la secuencia: mapear workloads y value drivers → calcular unit cost → identificar waste y commitments → modelar resilience y lock-in → optimizar arquitectura y governance."
+  - "Interpretar cloud cost per transaction, utilization, commitment coverage sin atribuir causalidad automática."
+  - "Resolver el caso de economía de cloud y plataformas con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
+  - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
+  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
+  - "Martin Kleppmann — *Designing Data-Intensive Applications*"
+  - "Foster Provost & Tom Fawcett — *Data Science for Business*"
+  - "NIST — *AI Risk Management Framework (AI RMF 1.0)*"
+  - "NIST — *AI Risk Management Framework*. <https://www.nist.gov/itl/ai-risk-management-framework>."
+limits:
+  - "Optimizar costo no significa migrar todo on-premise ni eliminar managed services. Considera velocidad, talento, riesgo y costo total, no solo factura mensual."
+evidence_signals:
+  - "cloud cost per transaction"
+  - "utilization"
+  - "commitment coverage"
+  - "egress spend"
+  - "availability"

@@ -1,0 +1,31 @@
+id: 80
+part: 06
+title: "Kanban y flujo"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir WIP de cycle time mediante evidencia observable."
+  - "Aplicar la secuencia: mapear flujo real → visualizar estados y bloqueos → establecer límites WIP → definir políticas de pull y clases → medir cycle time y mejorar cuello."
+  - "Interpretar WIP, cycle time percentiles, throughput sin atribuir causalidad automática."
+  - "Resolver el caso de kanban y flujo con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "modelo-financiero-y-memo-de-decision.md"
+references:
+  - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
+  - "Harold Kerzner — *Project Management*"
+  - "Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*"
+  - "Atul Gawande — *The Checklist Manifesto*"
+  - "Gene Kim — *The Unicorn Project*"
+  - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
+limits:
+  - "Límites WIP no deben impedir respuesta a incidentes críticos. Define clases de servicio y políticas de expedite con costo visible para evitar que la excepción destruya el sistema."
+evidence_signals:
+  - "WIP"
+  - "cycle time percentiles"
+  - "throughput"
+  - "blocked time"
+  - "aging WIP"

@@ -1,0 +1,31 @@
+id: 85
+part: 07
+title: "Pensar la empresa como sistema operativo"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "operar procesos end-to-end con capacidad, calidad, continuidad y mejora"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir operating system de flow mediante evidencia observable."
+  - "Aplicar la secuencia: mapear demanda a outcome → identificar flujos end-to-end → medir capacidad y cuellos → definir controles y decision rights → instalar cadencias de revisión."
+  - "Interpretar throughput, cycle time, backlog sin atribuir causalidad automática."
+  - "Resolver el caso de pensar la empresa como sistema operativo con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World*"
+  - "Michael Hammer & James Champy — *Reengineering the Corporation*"
+  - "W. Edwards Deming — *Out of the Crisis*"
+  - "James P. Womack & Daniel T. Jones — *Lean Thinking*"
+limits:
+  - "Un operating model no debe petrificar una empresa. Mantén procesos estables donde la repetición crea valor y espacios adaptativos donde todavía existe aprendizaje."
+evidence_signals:
+  - "throughput"
+  - "cycle time"
+  - "backlog"
+  - "quality"
+  - "service reliability"

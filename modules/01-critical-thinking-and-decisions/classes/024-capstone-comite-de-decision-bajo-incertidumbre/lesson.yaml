@@ -1,0 +1,31 @@
+id: 24
+part: 01
+title: "Capstone: comité de decisión bajo incertidumbre"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "decidir con evidencia, incertidumbre, causalidad y pensamiento sistémico"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir decision brief de red team mediante evidencia observable."
+  - "Aplicar la secuencia: formular el problema sin solución oculta → construir opciones y escenarios → debatir supuestos con red team → decidir con criterios explícitos → registrar riesgos, owner y revisión."
+  - "Interpretar calidad de alternativas, supuestos identificados, riesgo residual aceptado sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: comité de decisión bajo incertidumbre con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Kahneman — *Thinking, Fast and Slow*"
+  - "Gary Klein — *Sources of Power*"
+  - "Max H. Bazerman & Don A. Moore — *Judgment in Managerial Decision Making*"
+  - "Donella H. Meadows — *Thinking in Systems*"
+  - "Annie Duke — *Thinking in Bets*"
+  - "Annie Duke — *How to Decide*"
+limits:
+  - "Un comité no debe usar análisis como sustituto de accountability. Después de escuchar perspectivas, alguien debe tener derecho y obligación de decidir dentro del marco de gobierno."
+evidence_signals:
+  - "calidad de alternativas"
+  - "supuestos identificados"
+  - "riesgo residual aceptado"
+  - "tiempo de decisión"
+  - "revisión posterior versus forecast"

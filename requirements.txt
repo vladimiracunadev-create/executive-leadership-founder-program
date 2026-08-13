@@ -1,0 +1,4 @@
+# Dependencias para ejecutar las pruebas del programa.
+# Las herramientas de validacion (tools/) usan solo la biblioteca estandar:
+# validar el material no debe exigir instalar nada.
+pytest>=8.2,<10.0

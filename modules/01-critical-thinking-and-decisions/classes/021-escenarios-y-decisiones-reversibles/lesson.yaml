@@ -1,0 +1,31 @@
+id: 21
+part: 01
+title: "Escenarios y decisiones reversibles"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "decidir con evidencia, incertidumbre, causalidad y pensamiento sistémico"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir reversibilidad de opción mediante evidencia observable."
+  - "Aplicar la secuencia: clasificar costo de reversa → dividir decisión en etapas → diseñar experimento y criterio de éxito → preservar opciones donde exista incertidumbre → escalar cuando la evidencia alcance umbral."
+  - "Interpretar costo de reversa, tiempo para aprender, capital comprometido sin atribuir causalidad automática."
+  - "Resolver el caso de escenarios y decisiones reversibles con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Kahneman — *Thinking, Fast and Slow*"
+  - "Gary Klein — *Sources of Power*"
+  - "Annie Duke — *Thinking in Bets*"
+  - "Max H. Bazerman & Don A. Moore — *Judgment in Managerial Decision Making*"
+  - "Peter M. Senge — *The Fifth Discipline*"
+  - "Richard Thaler & Cass Sunstein — *Nudge*"
+limits:
+  - "Reversibilidad no justifica experimentar eternamente. Algunas oportunidades caducan; el valor de información debe compararse con el costo de esperar y con la velocidad competitiva."
+evidence_signals:
+  - "costo de reversa"
+  - "tiempo para aprender"
+  - "capital comprometido"
+  - "opciones preservadas"
+  - "experimentos que cambian decisión"

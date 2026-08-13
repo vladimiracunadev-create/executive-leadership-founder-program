@@ -1,0 +1,31 @@
+id: 149
+part: 12
+title: "Prototipos y aprendizaje temprano"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir prototype de fidelity mediante evidencia observable."
+  - "Aplicar la secuencia: formular pregunta de aprendizaje → elegir incertidumbre dominante → seleccionar fidelidad mínima → observar conducta durante prueba → registrar evidencia y decidir siguiente incremento."
+  - "Interpretar task success, time-on-task, critical misunderstandings sin atribuir causalidad automática."
+  - "Resolver el caso de prototipos y aprendizaje temprano con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "product-evidence-brief.md"
+references:
+  - "Marty Cagan — *Inspired*"
+  - "Teresa Torres — *Continuous Discovery Habits*"
+  - "Clayton M. Christensen et al. — *Competing Against Luck*"
+  - "Melissa Perri — *Escaping the Build Trap*"
+  - "Rob Fitzpatrick — *The Mom Test*"
+  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
+limits:
+  - "Prototipos de baja fidelidad no responden bien preguntas de performance, seguridad o confianza visual. El tipo de prototipo debe corresponder al riesgo que se intenta reducir."
+evidence_signals:
+  - "task success"
+  - "time-on-task"
+  - "critical misunderstandings"
+  - "prototype iteration count"
+  - "learning cost"

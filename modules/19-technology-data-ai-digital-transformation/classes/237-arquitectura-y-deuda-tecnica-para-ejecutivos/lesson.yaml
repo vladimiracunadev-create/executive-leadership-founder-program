@@ -1,0 +1,31 @@
+id: 237
+part: 19
+title: "Arquitectura y deuda técnica para ejecutivos"
+duration_minutes: 150
+level: "Etapa 5 — CEO → Transformador digital"
+outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir architecture de technical debt mediante evidencia observable."
+  - "Aplicar la secuencia: traducir estrategia a quality attributes → mapear bottlenecks y dependencies → cuantificar debt impact → priorizar remediation por value y risk → crear guardrails y evolución incremental."
+  - "Interpretar change failure rate, lead time, incident rate sin atribuir causalidad automática."
+  - "Resolver el caso de arquitectura y deuda técnica para ejecutivos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
+  - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
+  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
+  - "Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd*"
+  - "Martin Kleppmann — *Designing Data-Intensive Applications*"
+  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
+limits:
+  - "No toda deuda debe pagarse. Si un sistema está cerca de retiro o el costo de cambio supera beneficio, gestionar el riesgo puede ser mejor que reescribir."
+evidence_signals:
+  - "change failure rate"
+  - "lead time"
+  - "incident rate"
+  - "maintenance share"
+  - "dependency count"

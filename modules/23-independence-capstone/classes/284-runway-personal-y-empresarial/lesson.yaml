@@ -1,0 +1,31 @@
+id: 284
+part: 23
+title: "Runway personal y empresarial"
+duration_minutes: 150
+level: "Etapa 6 — Independencia"
+outcome: "construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir personal runway de business runway mediante evidencia observable."
+  - "Aplicar la secuencia: separar personal y empresa → calcular gastos y burn → definir cash floors → construir base y downside → ligar runway a acciones y trigger dates."
+  - "Interpretar months runway, burn, cash floor sin atribuir causalidad automática."
+  - "Resolver el caso de runway personal y empresarial con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Eric Ries — *The Lean Startup*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Nassim Nicholas Taleb — *Antifragile*"
+limits:
+  - "Runway no debe justificar postergar indefinidamente una decisión. Define triggers de reducción de gasto, venta o búsqueda laboral antes de llegar al cash floor."
+evidence_signals:
+  - "months runway"
+  - "burn"
+  - "cash floor"
+  - "receivables timing"
+  - "fixed commitments"

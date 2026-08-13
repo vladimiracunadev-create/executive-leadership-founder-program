@@ -1,0 +1,31 @@
+id: 238
+part: 19
+title: "Métricas de entrega tecnológica"
+duration_minutes: 150
+level: "Etapa 5 — CEO → Transformador digital"
+outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir deployment frequency de lead time for changes mediante evidencia observable."
+  - "Aplicar la secuencia: definir flujo de valor de software → instrumentar velocidad y estabilidad → segmentar por producto y contexto → identificar constraint → experimentar mejora y medir outcome."
+  - "Interpretar deployment frequency, lead time, change failure rate sin atribuir causalidad automática."
+  - "Resolver el caso de métricas de entrega tecnológica con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
+  - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
+  - "NIST — *AI Risk Management Framework (AI RMF 1.0)*"
+  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
+  - "Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*"
+  - "Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics*"
+limits:
+  - "No conviertas DORA en cuota individual. Son señales de sistema y deben interpretarse con calidad, seguridad, customer outcomes y contexto."
+evidence_signals:
+  - "deployment frequency"
+  - "lead time"
+  - "change failure rate"
+  - "recovery time"
+  - "developer satisfaction"

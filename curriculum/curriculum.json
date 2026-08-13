@@ -1,0 +1,1971 @@
+{
+  "program": "Executive Leadership & Founder Program",
+  "version": "2.1.0",
+  "hours": 720,
+  "parts": 24,
+  "classes": 288,
+  "stages": [
+    {
+      "id": "01",
+      "name": "Autoliderazgo y fundamentos ejecutivos",
+      "outcome": "Profesional → Líder",
+      "modules": [
+        {
+          "id": "00",
+          "slug": "professional-to-leader",
+          "title": "De profesional a líder",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "001",
+              "title": "Qué significa liderar sin cargo formal",
+              "duration_minutes": 150,
+              "path": "modules/00-professional-to-leader/classes/001-que-significa-liderar-sin-cargo-formal/README.md"
+            },
+            {
+              "id": "002",
+              "title": "Responsabilidad, ownership y accountability",
+              "duration_minutes": 150,
+              "path": "modules/00-professional-to-leader/classes/002-responsabilidad-ownership-y-accountability/README.md"
+            },
+            {
+              "id": "003",
+              "title": "Credibilidad y confianza profesional",
+              "duration_minutes": 150,
+              "path": "modules/00-professional-to-leader/classes/003-credibilidad-y-confianza-profesional/README.md"
+            },
+            {
+              "id": "004",
+              "title": "Ética, integridad y límites del poder",
+              "duration_minutes": 150,
+              "path": "modules/00-professional-to-leader/classes/004-etica-integridad-y-limites-del-poder/README.md"
+            },
+            {
+              "id": "005",
+              "title": "De tareas a resultados: pensar en contribución",
+              "duration_minutes": 150,
+              "path": "modules/00-professional-to-leader/classes/005-de-tareas-a-resultados-pensar-en-contribucion/README.md"
+            },
+            {
+              "id": "006",
+              "title": "Prioridades y gestión de atención",
+              "duration_minutes": 150,
+              "path": "modules/00-professional-to-leader/classes/006-prioridades-y-gestion-de-atencion/README.md"
+            },
+            {
+              "id": "007",
+              "title": "Sistema personal de ejecución",
+              "duration_minutes": 150,
+              "path": "modules/00-professional-to-leader/classes/007-sistema-personal-de-ejecucion/README.md"
+            },
+            {
+              "id": "008",
+              "title": "Gestión de energía y sostenibilidad personal",
+              "duration_minutes": 150,
+              "path": "modules/00-professional-to-leader/classes/008-gestion-de-energia-y-sostenibilidad-personal/README.md"
+            },
+            {
+              "id": "009",
+              "title": "Aprendizaje deliberado y actualización continua",
+              "duration_minutes": 150,
+              "path": "modules/00-professional-to-leader/classes/009-aprendizaje-deliberado-y-actualizacion-continua/README.md"
+            },
+            {
+              "id": "010",
+              "title": "Marca profesional basada en evidencia",
+              "duration_minutes": 150,
+              "path": "modules/00-professional-to-leader/classes/010-marca-profesional-basada-en-evidencia/README.md"
+            },
+            {
+              "id": "011",
+              "title": "Mapa de fortalezas, brechas y riesgos personales",
+              "duration_minutes": 150,
+              "path": "modules/00-professional-to-leader/classes/011-mapa-de-fortalezas-brechas-y-riesgos-personales/README.md"
+            },
+            {
+              "id": "012",
+              "title": "Capstone: tu sistema operativo de liderazgo",
+              "duration_minutes": 150,
+              "path": "modules/00-professional-to-leader/classes/012-capstone-tu-sistema-operativo-de-liderazgo/README.md"
+            }
+          ]
+        },
+        {
+          "id": "01",
+          "slug": "critical-thinking-and-decisions",
+          "title": "Pensamiento crítico y toma de decisiones",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "013",
+              "title": "Formular bien el problema",
+              "duration_minutes": 150,
+              "path": "modules/01-critical-thinking-and-decisions/classes/013-formular-bien-el-problema/README.md"
+            },
+            {
+              "id": "014",
+              "title": "Hechos, opiniones, hipótesis y supuestos",
+              "duration_minutes": 150,
+              "path": "modules/01-critical-thinking-and-decisions/classes/014-hechos-opiniones-hipotesis-y-supuestos/README.md"
+            },
+            {
+              "id": "015",
+              "title": "Pensamiento sistémico para líderes",
+              "duration_minutes": 150,
+              "path": "modules/01-critical-thinking-and-decisions/classes/015-pensamiento-sistemico-para-lideres/README.md"
+            },
+            {
+              "id": "016",
+              "title": "Sesgos cognitivos en decisiones",
+              "duration_minutes": 150,
+              "path": "modules/01-critical-thinking-and-decisions/classes/016-sesgos-cognitivos-en-decisiones/README.md"
+            },
+            {
+              "id": "017",
+              "title": "Probabilidad, incertidumbre y riesgo",
+              "duration_minutes": 150,
+              "path": "modules/01-critical-thinking-and-decisions/classes/017-probabilidad-incertidumbre-y-riesgo/README.md"
+            },
+            {
+              "id": "018",
+              "title": "Trade-offs y costo de oportunidad",
+              "duration_minutes": 150,
+              "path": "modules/01-critical-thinking-and-decisions/classes/018-trade-offs-y-costo-de-oportunidad/README.md"
+            },
+            {
+              "id": "019",
+              "title": "Análisis de causa raíz",
+              "duration_minutes": 150,
+              "path": "modules/01-critical-thinking-and-decisions/classes/019-analisis-de-causa-raiz/README.md"
+            },
+            {
+              "id": "020",
+              "title": "Efectos de segundo orden",
+              "duration_minutes": 150,
+              "path": "modules/01-critical-thinking-and-decisions/classes/020-efectos-de-segundo-orden/README.md"
+            },
+            {
+              "id": "021",
+              "title": "Escenarios y decisiones reversibles",
+              "duration_minutes": 150,
+              "path": "modules/01-critical-thinking-and-decisions/classes/021-escenarios-y-decisiones-reversibles/README.md"
+            },
+            {
+              "id": "022",
+              "title": "Decision journal y trazabilidad",
+              "duration_minutes": 150,
+              "path": "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad/README.md"
+            },
+            {
+              "id": "023",
+              "title": "After Action Review y aprendizaje",
+              "duration_minutes": 150,
+              "path": "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje/README.md"
+            },
+            {
+              "id": "024",
+              "title": "Capstone: comité de decisión bajo incertidumbre",
+              "duration_minutes": 150,
+              "path": "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre/README.md"
+            }
+          ]
+        },
+        {
+          "id": "02",
+          "slug": "communication-influence-negotiation-basics",
+          "title": "Comunicación, influencia y presencia ejecutiva",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "025",
+              "title": "Comunicación como sistema de liderazgo",
+              "duration_minutes": 150,
+              "path": "modules/02-communication-influence-negotiation-basics/classes/025-comunicacion-como-sistema-de-liderazgo/README.md"
+            },
+            {
+              "id": "026",
+              "title": "Escucha activa y preguntas de calidad",
+              "duration_minutes": 150,
+              "path": "modules/02-communication-influence-negotiation-basics/classes/026-escucha-activa-y-preguntas-de-calidad/README.md"
+            },
+            {
+              "id": "027",
+              "title": "Escritura ejecutiva: claridad y síntesis",
+              "duration_minutes": 150,
+              "path": "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis/README.md"
+            },
+            {
+              "id": "028",
+              "title": "Presentaciones para decisiones",
+              "duration_minutes": 150,
+              "path": "modules/02-communication-influence-negotiation-basics/classes/028-presentaciones-para-decisiones/README.md"
+            },
+            {
+              "id": "029",
+              "title": "Storytelling empresarial",
+              "duration_minutes": 150,
+              "path": "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial/README.md"
+            },
+            {
+              "id": "030",
+              "title": "Feedback útil y accionable",
+              "duration_minutes": 150,
+              "path": "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable/README.md"
+            },
+            {
+              "id": "031",
+              "title": "Conversaciones difíciles",
+              "duration_minutes": 150,
+              "path": "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles/README.md"
+            },
+            {
+              "id": "032",
+              "title": "Conflicto productivo",
+              "duration_minutes": 150,
+              "path": "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo/README.md"
+            },
+            {
+              "id": "033",
+              "title": "Persuasión ética e influencia",
+              "duration_minutes": 150,
+              "path": "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia/README.md"
+            },
+            {
+              "id": "034",
+              "title": "Mapa de stakeholders y poder",
+              "duration_minutes": 150,
+              "path": "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder/README.md"
+            },
+            {
+              "id": "035",
+              "title": "Presencia ejecutiva",
+              "duration_minutes": 150,
+              "path": "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva/README.md"
+            },
+            {
+              "id": "036",
+              "title": "Capstone: comunicar una decisión impopular",
+              "duration_minutes": 150,
+              "path": "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular/README.md"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "slug": "emotional-intelligence-resilience-adaptive-leadership",
+          "title": "Inteligencia emocional, resiliencia y liderazgo adaptativo",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "037",
+              "title": "Autoconciencia ejecutiva",
+              "duration_minutes": 150,
+              "path": "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva/README.md"
+            },
+            {
+              "id": "038",
+              "title": "Autorregulación y respuesta bajo presión",
+              "duration_minutes": 150,
+              "path": "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion/README.md"
+            },
+            {
+              "id": "039",
+              "title": "Empatía sin perder exigencia",
+              "duration_minutes": 150,
+              "path": "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia/README.md"
+            },
+            {
+              "id": "040",
+              "title": "Motivación y propósito",
+              "duration_minutes": 150,
+              "path": "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito/README.md"
+            },
+            {
+              "id": "041",
+              "title": "Resiliencia, flexibilidad y agilidad",
+              "duration_minutes": 150,
+              "path": "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/041-resiliencia-flexibilidad-y-agilidad/README.md"
+            },
+            {
+              "id": "042",
+              "title": "Seguridad psicológica y aprendizaje",
+              "duration_minutes": 150,
+              "path": "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje/README.md"
+            },
+            {
+              "id": "043",
+              "title": "Problemas técnicos versus adaptativos",
+              "duration_minutes": 150,
+              "path": "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos/README.md"
+            },
+            {
+              "id": "044",
+              "title": "Liderar en incertidumbre",
+              "duration_minutes": 150,
+              "path": "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre/README.md"
+            },
+            {
+              "id": "045",
+              "title": "Valores y dilemas éticos",
+              "duration_minutes": 150,
+              "path": "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos/README.md"
+            },
+            {
+              "id": "046",
+              "title": "Cambio personal y resistencia",
+              "duration_minutes": 150,
+              "path": "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia/README.md"
+            },
+            {
+              "id": "047",
+              "title": "Recuperación, límites y sostenibilidad",
+              "duration_minutes": 150,
+              "path": "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad/README.md"
+            },
+            {
+              "id": "048",
+              "title": "Capstone: liderar una crisis humana",
+              "duration_minutes": 150,
+              "path": "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana/README.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "name": "Liderazgo de equipos y ejecución",
+      "outcome": "Líder → Jefe / Team Lead",
+      "modules": [
+        {
+          "id": "04",
+          "slug": "team-leadership",
+          "title": "Liderazgo de equipos",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "049",
+              "title": "Qué hace a un equipo real",
+              "duration_minutes": 150,
+              "path": "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real/README.md"
+            },
+            {
+              "id": "050",
+              "title": "Propósito, objetivos y team charter",
+              "duration_minutes": 150,
+              "path": "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter/README.md"
+            },
+            {
+              "id": "051",
+              "title": "Roles, responsabilidades y expectativas",
+              "duration_minutes": 150,
+              "path": "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas/README.md"
+            },
+            {
+              "id": "052",
+              "title": "Confianza y vulnerabilidad profesional",
+              "duration_minutes": 150,
+              "path": "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional/README.md"
+            },
+            {
+              "id": "053",
+              "title": "Delegación por resultados",
+              "duration_minutes": 150,
+              "path": "modules/04-team-leadership/classes/053-delegacion-por-resultados/README.md"
+            },
+            {
+              "id": "054",
+              "title": "Coaching y desarrollo cotidiano",
+              "duration_minutes": 150,
+              "path": "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano/README.md"
+            },
+            {
+              "id": "055",
+              "title": "One-on-ones que producen información",
+              "duration_minutes": 150,
+              "path": "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion/README.md"
+            },
+            {
+              "id": "056",
+              "title": "Reuniones que deciden",
+              "duration_minutes": 150,
+              "path": "modules/04-team-leadership/classes/056-reuniones-que-deciden/README.md"
+            },
+            {
+              "id": "057",
+              "title": "Motivación y reconocimiento",
+              "duration_minutes": 150,
+              "path": "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento/README.md"
+            },
+            {
+              "id": "058",
+              "title": "Accountability sin microgestión",
+              "duration_minutes": 150,
+              "path": "modules/04-team-leadership/classes/058-accountability-sin-microgestion/README.md"
+            },
+            {
+              "id": "059",
+              "title": "Equipos híbridos y distribuidos",
+              "duration_minutes": 150,
+              "path": "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos/README.md"
+            },
+            {
+              "id": "060",
+              "title": "Capstone: recuperar un equipo disfuncional",
+              "duration_minutes": 150,
+              "path": "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional/README.md"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "slug": "talent-people-management",
+          "title": "Gestión de talento y personas",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "061",
+              "title": "Diseño de cargos y resultados esperados",
+              "duration_minutes": 150,
+              "path": "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados/README.md"
+            },
+            {
+              "id": "062",
+              "title": "Planificación de dotación",
+              "duration_minutes": 150,
+              "path": "modules/05-talent-people-management/classes/062-planificacion-de-dotacion/README.md"
+            },
+            {
+              "id": "063",
+              "title": "Atracción y selección",
+              "duration_minutes": 150,
+              "path": "modules/05-talent-people-management/classes/063-atraccion-y-seleccion/README.md"
+            },
+            {
+              "id": "064",
+              "title": "Entrevistas estructuradas",
+              "duration_minutes": 150,
+              "path": "modules/05-talent-people-management/classes/064-entrevistas-estructuradas/README.md"
+            },
+            {
+              "id": "065",
+              "title": "Onboarding y primeros 90 días",
+              "duration_minutes": 150,
+              "path": "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias/README.md"
+            },
+            {
+              "id": "066",
+              "title": "Gestión de desempeño",
+              "duration_minutes": 150,
+              "path": "modules/05-talent-people-management/classes/066-gestion-de-desempeno/README.md"
+            },
+            {
+              "id": "067",
+              "title": "Feedback, coaching y planes de mejora",
+              "duration_minutes": 150,
+              "path": "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora/README.md"
+            },
+            {
+              "id": "068",
+              "title": "Compensación e incentivos: fundamentos",
+              "duration_minutes": 150,
+              "path": "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos/README.md"
+            },
+            {
+              "id": "069",
+              "title": "Aprendizaje y upskilling",
+              "duration_minutes": 150,
+              "path": "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling/README.md"
+            },
+            {
+              "id": "070",
+              "title": "Sucesión y liderazgo interno",
+              "duration_minutes": 150,
+              "path": "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno/README.md"
+            },
+            {
+              "id": "071",
+              "title": "Desvinculación responsable y documentación",
+              "duration_minutes": 150,
+              "path": "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion/README.md"
+            },
+            {
+              "id": "072",
+              "title": "Capstone: construir un sistema de talento",
+              "duration_minutes": 150,
+              "path": "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento/README.md"
+            }
+          ]
+        },
+        {
+          "id": "06",
+          "slug": "projects-agile-delivery",
+          "title": "Proyectos, Agile y entrega",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "073",
+              "title": "Proyecto, producto, operación y programa",
+              "duration_minutes": 150,
+              "path": "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa/README.md"
+            },
+            {
+              "id": "074",
+              "title": "Definición de alcance y éxito",
+              "duration_minutes": 150,
+              "path": "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito/README.md"
+            },
+            {
+              "id": "075",
+              "title": "Work breakdown y planificación",
+              "duration_minutes": 150,
+              "path": "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion/README.md"
+            },
+            {
+              "id": "076",
+              "title": "Estimación y capacidad",
+              "duration_minutes": 150,
+              "path": "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad/README.md"
+            },
+            {
+              "id": "077",
+              "title": "Gestión de riesgos y dependencias",
+              "duration_minutes": 150,
+              "path": "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias/README.md"
+            },
+            {
+              "id": "078",
+              "title": "Agile como sistema adaptativo",
+              "duration_minutes": 150,
+              "path": "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo/README.md"
+            },
+            {
+              "id": "079",
+              "title": "Scrum con criterio",
+              "duration_minutes": 150,
+              "path": "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio/README.md"
+            },
+            {
+              "id": "080",
+              "title": "Kanban y flujo",
+              "duration_minutes": 150,
+              "path": "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo/README.md"
+            },
+            {
+              "id": "081",
+              "title": "Stakeholders y gobernanza de proyecto",
+              "duration_minutes": 150,
+              "path": "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto/README.md"
+            },
+            {
+              "id": "082",
+              "title": "Calidad y Definition of Done",
+              "duration_minutes": 150,
+              "path": "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done/README.md"
+            },
+            {
+              "id": "083",
+              "title": "Recuperación de proyectos atrasados",
+              "duration_minutes": 150,
+              "path": "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados/README.md"
+            },
+            {
+              "id": "084",
+              "title": "Capstone: rescate de una iniciativa crítica",
+              "duration_minutes": 150,
+              "path": "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica/README.md"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "slug": "operations-process-quality",
+          "title": "Operaciones, procesos y calidad",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "085",
+              "title": "Pensar la empresa como sistema operativo",
+              "duration_minutes": 150,
+              "path": "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo/README.md"
+            },
+            {
+              "id": "086",
+              "title": "Mapeo de procesos end-to-end",
+              "duration_minutes": 150,
+              "path": "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end/README.md"
+            },
+            {
+              "id": "087",
+              "title": "SOP y trabajo estandarizado",
+              "duration_minutes": 150,
+              "path": "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado/README.md"
+            },
+            {
+              "id": "088",
+              "title": "Capacidad y demanda",
+              "duration_minutes": 150,
+              "path": "modules/07-operations-process-quality/classes/088-capacidad-y-demanda/README.md"
+            },
+            {
+              "id": "089",
+              "title": "Cuellos de botella y teoría de restricciones",
+              "duration_minutes": 150,
+              "path": "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones/README.md"
+            },
+            {
+              "id": "090",
+              "title": "Lean y eliminación de desperdicio",
+              "duration_minutes": 150,
+              "path": "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio/README.md"
+            },
+            {
+              "id": "091",
+              "title": "Calidad y variabilidad",
+              "duration_minutes": 150,
+              "path": "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad/README.md"
+            },
+            {
+              "id": "092",
+              "title": "SLA, SLO y niveles de servicio",
+              "duration_minutes": 150,
+              "path": "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio/README.md"
+            },
+            {
+              "id": "093",
+              "title": "Proveedores y terceros",
+              "duration_minutes": 150,
+              "path": "modules/07-operations-process-quality/classes/093-proveedores-y-terceros/README.md"
+            },
+            {
+              "id": "094",
+              "title": "Continuidad operacional",
+              "duration_minutes": 150,
+              "path": "modules/07-operations-process-quality/classes/094-continuidad-operacional/README.md"
+            },
+            {
+              "id": "095",
+              "title": "Automatización de procesos",
+              "duration_minutes": 150,
+              "path": "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos/README.md"
+            },
+            {
+              "id": "096",
+              "title": "Capstone: rediseñar una operación",
+              "duration_minutes": 150,
+              "path": "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion/README.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "name": "Gestión de negocio",
+      "outcome": "Manager → Gerente",
+      "modules": [
+        {
+          "id": "08",
+          "slug": "management-systems-kpis-okrs",
+          "title": "Sistemas de gestión, KPI y OKR",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "097",
+              "title": "De actividad a outcome",
+              "duration_minutes": 150,
+              "path": "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome/README.md"
+            },
+            {
+              "id": "098",
+              "title": "Diseño de objetivos",
+              "duration_minutes": 150,
+              "path": "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos/README.md"
+            },
+            {
+              "id": "099",
+              "title": "OKR: cuándo sirven y cuándo no",
+              "duration_minutes": 150,
+              "path": "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no/README.md"
+            },
+            {
+              "id": "100",
+              "title": "KPI y métricas operativas",
+              "duration_minutes": 150,
+              "path": "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas/README.md"
+            },
+            {
+              "id": "101",
+              "title": "Leading y lagging indicators",
+              "duration_minutes": 150,
+              "path": "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators/README.md"
+            },
+            {
+              "id": "102",
+              "title": "Balanced Scorecard y tableros",
+              "duration_minutes": 150,
+              "path": "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros/README.md"
+            },
+            {
+              "id": "103",
+              "title": "Ritmo semanal, mensual y trimestral",
+              "duration_minutes": 150,
+              "path": "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral/README.md"
+            },
+            {
+              "id": "104",
+              "title": "Business reviews",
+              "duration_minutes": 150,
+              "path": "modules/08-management-systems-kpis-okrs/classes/104-business-reviews/README.md"
+            },
+            {
+              "id": "105",
+              "title": "Priorización y portfolio",
+              "duration_minutes": 150,
+              "path": "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio/README.md"
+            },
+            {
+              "id": "106",
+              "title": "Asignación de recursos",
+              "duration_minutes": 150,
+              "path": "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos/README.md"
+            },
+            {
+              "id": "107",
+              "title": "Escalamiento y gestión por excepción",
+              "duration_minutes": 150,
+              "path": "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion/README.md"
+            },
+            {
+              "id": "108",
+              "title": "Capstone: operating review gerencial",
+              "duration_minutes": 150,
+              "path": "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial/README.md"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "slug": "managerial-finance-accounting",
+          "title": "Finanzas y contabilidad para gerentes",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "109",
+              "title": "Lenguaje financiero del gerente",
+              "duration_minutes": 150,
+              "path": "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente/README.md"
+            },
+            {
+              "id": "110",
+              "title": "Estado de resultados",
+              "duration_minutes": 150,
+              "path": "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados/README.md"
+            },
+            {
+              "id": "111",
+              "title": "Balance y posición financiera",
+              "duration_minutes": 150,
+              "path": "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera/README.md"
+            },
+            {
+              "id": "112",
+              "title": "Flujo de caja",
+              "duration_minutes": 150,
+              "path": "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja/README.md"
+            },
+            {
+              "id": "113",
+              "title": "Margen bruto, operacional y contribución",
+              "duration_minutes": 150,
+              "path": "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion/README.md"
+            },
+            {
+              "id": "114",
+              "title": "Capital de trabajo",
+              "duration_minutes": 150,
+              "path": "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo/README.md"
+            },
+            {
+              "id": "115",
+              "title": "Presupuesto y forecast",
+              "duration_minutes": 150,
+              "path": "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast/README.md"
+            },
+            {
+              "id": "116",
+              "title": "Costos fijos, variables y break-even",
+              "duration_minutes": 150,
+              "path": "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even/README.md"
+            },
+            {
+              "id": "117",
+              "title": "Unit economics: CAC, LTV, churn y payback",
+              "duration_minutes": 150,
+              "path": "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback/README.md"
+            },
+            {
+              "id": "118",
+              "title": "ROI, ROIC y decisiones de inversión",
+              "duration_minutes": 150,
+              "path": "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion/README.md"
+            },
+            {
+              "id": "119",
+              "title": "Valoración: fundamentos",
+              "duration_minutes": 150,
+              "path": "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos/README.md"
+            },
+            {
+              "id": "120",
+              "title": "Capstone: comité de inversión",
+              "duration_minutes": 150,
+              "path": "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion/README.md"
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "slug": "sales-commercial-negotiation",
+          "title": "Ventas, desarrollo comercial y negociación",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "121",
+              "title": "Ventas como sistema, no como improvisación",
+              "duration_minutes": 150,
+              "path": "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion/README.md"
+            },
+            {
+              "id": "122",
+              "title": "ICP y segmentación comercial",
+              "duration_minutes": 150,
+              "path": "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial/README.md"
+            },
+            {
+              "id": "123",
+              "title": "Prospección y generación de oportunidades",
+              "duration_minutes": 150,
+              "path": "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades/README.md"
+            },
+            {
+              "id": "124",
+              "title": "Discovery y diagnóstico",
+              "duration_minutes": 150,
+              "path": "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico/README.md"
+            },
+            {
+              "id": "125",
+              "title": "Propuesta de valor y business case",
+              "duration_minutes": 150,
+              "path": "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case/README.md"
+            },
+            {
+              "id": "126",
+              "title": "Pipeline y forecast comercial",
+              "duration_minutes": 150,
+              "path": "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial/README.md"
+            },
+            {
+              "id": "127",
+              "title": "Objeciones y manejo de riesgo percibido",
+              "duration_minutes": 150,
+              "path": "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido/README.md"
+            },
+            {
+              "id": "128",
+              "title": "Negociación basada en intereses",
+              "duration_minutes": 150,
+              "path": "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses/README.md"
+            },
+            {
+              "id": "129",
+              "title": "Pricing y concesiones",
+              "duration_minutes": 150,
+              "path": "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones/README.md"
+            },
+            {
+              "id": "130",
+              "title": "Cierre y próximos pasos",
+              "duration_minutes": 150,
+              "path": "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos/README.md"
+            },
+            {
+              "id": "131",
+              "title": "Account management, expansión y retención",
+              "duration_minutes": 150,
+              "path": "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion/README.md"
+            },
+            {
+              "id": "132",
+              "title": "Capstone: negociación enterprise",
+              "duration_minutes": 150,
+              "path": "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise/README.md"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "slug": "marketing-customers-growth",
+          "title": "Marketing, cliente y crecimiento",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "133",
+              "title": "Mercado, categoría y demanda",
+              "duration_minutes": 150,
+              "path": "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda/README.md"
+            },
+            {
+              "id": "134",
+              "title": "Investigación de mercado",
+              "duration_minutes": 150,
+              "path": "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado/README.md"
+            },
+            {
+              "id": "135",
+              "title": "Segmentación y cliente ideal",
+              "duration_minutes": 150,
+              "path": "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal/README.md"
+            },
+            {
+              "id": "136",
+              "title": "Posicionamiento",
+              "duration_minutes": 150,
+              "path": "modules/11-marketing-customers-growth/classes/136-posicionamiento/README.md"
+            },
+            {
+              "id": "137",
+              "title": "Marca y señales de confianza",
+              "duration_minutes": 150,
+              "path": "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza/README.md"
+            },
+            {
+              "id": "138",
+              "title": "Customer journey",
+              "duration_minutes": 150,
+              "path": "modules/11-marketing-customers-growth/classes/138-customer-journey/README.md"
+            },
+            {
+              "id": "139",
+              "title": "Canales y distribución",
+              "duration_minutes": 150,
+              "path": "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion/README.md"
+            },
+            {
+              "id": "140",
+              "title": "Adquisición digital y contenido",
+              "duration_minutes": 150,
+              "path": "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido/README.md"
+            },
+            {
+              "id": "141",
+              "title": "Funnel y conversión",
+              "duration_minutes": 150,
+              "path": "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion/README.md"
+            },
+            {
+              "id": "142",
+              "title": "Retención, lealtad y customer success",
+              "duration_minutes": 150,
+              "path": "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success/README.md"
+            },
+            {
+              "id": "143",
+              "title": "Growth loops y experimentación",
+              "duration_minutes": 150,
+              "path": "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion/README.md"
+            },
+            {
+              "id": "144",
+              "title": "Capstone: go-to-market",
+              "duration_minutes": 150,
+              "path": "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market/README.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "name": "Dirección, estrategia y organización",
+      "outcome": "Gerente → Director / Head",
+      "modules": [
+        {
+          "id": "12",
+          "slug": "product-innovation",
+          "title": "Producto e innovación",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "145",
+              "title": "Producto versus proyecto",
+              "duration_minutes": 150,
+              "path": "modules/12-product-innovation/classes/145-producto-versus-proyecto/README.md"
+            },
+            {
+              "id": "146",
+              "title": "Problema, usuario y outcome",
+              "duration_minutes": 150,
+              "path": "modules/12-product-innovation/classes/146-problema-usuario-y-outcome/README.md"
+            },
+            {
+              "id": "147",
+              "title": "Customer discovery",
+              "duration_minutes": 150,
+              "path": "modules/12-product-innovation/classes/147-customer-discovery/README.md"
+            },
+            {
+              "id": "148",
+              "title": "Jobs to Be Done",
+              "duration_minutes": 150,
+              "path": "modules/12-product-innovation/classes/148-jobs-to-be-done/README.md"
+            },
+            {
+              "id": "149",
+              "title": "Prototipos y aprendizaje temprano",
+              "duration_minutes": 150,
+              "path": "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano/README.md"
+            },
+            {
+              "id": "150",
+              "title": "MVP: prueba de hipótesis",
+              "duration_minutes": 150,
+              "path": "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis/README.md"
+            },
+            {
+              "id": "151",
+              "title": "Roadmap orientado a outcomes",
+              "duration_minutes": 150,
+              "path": "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes/README.md"
+            },
+            {
+              "id": "152",
+              "title": "Priorización y costo de oportunidad",
+              "duration_minutes": 150,
+              "path": "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad/README.md"
+            },
+            {
+              "id": "153",
+              "title": "Experimentos y evidencia",
+              "duration_minutes": 150,
+              "path": "modules/12-product-innovation/classes/153-experimentos-y-evidencia/README.md"
+            },
+            {
+              "id": "154",
+              "title": "Métricas de producto",
+              "duration_minutes": 150,
+              "path": "modules/12-product-innovation/classes/154-metricas-de-producto/README.md"
+            },
+            {
+              "id": "155",
+              "title": "Product-market fit",
+              "duration_minutes": 150,
+              "path": "modules/12-product-innovation/classes/155-product-market-fit/README.md"
+            },
+            {
+              "id": "156",
+              "title": "Capstone: comité de producto",
+              "duration_minutes": 150,
+              "path": "modules/12-product-innovation/classes/156-capstone-comite-de-producto/README.md"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "slug": "strategy-competition",
+          "title": "Estrategia y competencia",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "157",
+              "title": "Qué es y qué no es estrategia",
+              "duration_minutes": 150,
+              "path": "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia/README.md"
+            },
+            {
+              "id": "158",
+              "title": "Diagnóstico estratégico",
+              "duration_minutes": 150,
+              "path": "modules/13-strategy-competition/classes/158-diagnostico-estrategico/README.md"
+            },
+            {
+              "id": "159",
+              "title": "Industria y fuerzas competitivas",
+              "duration_minutes": 150,
+              "path": "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas/README.md"
+            },
+            {
+              "id": "160",
+              "title": "Capacidades y recursos",
+              "duration_minutes": 150,
+              "path": "modules/13-strategy-competition/classes/160-capacidades-y-recursos/README.md"
+            },
+            {
+              "id": "161",
+              "title": "Ventaja competitiva",
+              "duration_minutes": 150,
+              "path": "modules/13-strategy-competition/classes/161-ventaja-competitiva/README.md"
+            },
+            {
+              "id": "162",
+              "title": "Trade-offs y coherencia",
+              "duration_minutes": 150,
+              "path": "modules/13-strategy-competition/classes/162-trade-offs-y-coherencia/README.md"
+            },
+            {
+              "id": "163",
+              "title": "Modelo de negocio",
+              "duration_minutes": 150,
+              "path": "modules/13-strategy-competition/classes/163-modelo-de-negocio/README.md"
+            },
+            {
+              "id": "164",
+              "title": "Escenarios estratégicos",
+              "duration_minutes": 150,
+              "path": "modules/13-strategy-competition/classes/164-escenarios-estrategicos/README.md"
+            },
+            {
+              "id": "165",
+              "title": "Opciones de crecimiento",
+              "duration_minutes": 150,
+              "path": "modules/13-strategy-competition/classes/165-opciones-de-crecimiento/README.md"
+            },
+            {
+              "id": "166",
+              "title": "Partnerships, ecosistemas y plataformas",
+              "duration_minutes": 150,
+              "path": "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas/README.md"
+            },
+            {
+              "id": "167",
+              "title": "Ejecución y adaptación de estrategia",
+              "duration_minutes": 150,
+              "path": "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia/README.md"
+            },
+            {
+              "id": "168",
+              "title": "Capstone: strategy memo",
+              "duration_minutes": 150,
+              "path": "modules/13-strategy-competition/classes/168-capstone-strategy-memo/README.md"
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "slug": "organization-design-culture-change",
+          "title": "Diseño organizacional, cultura y cambio",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "169",
+              "title": "La organización como diseño",
+              "duration_minutes": 150,
+              "path": "modules/14-organization-design-culture-change/classes/169-la-organizacion-como-diseno/README.md"
+            },
+            {
+              "id": "170",
+              "title": "Estructuras funcionales, divisionales y matriciales",
+              "duration_minutes": 150,
+              "path": "modules/14-organization-design-culture-change/classes/170-estructuras-funcionales-divisionales-y-matriciales/README.md"
+            },
+            {
+              "id": "171",
+              "title": "Spans, layers y managerial load",
+              "duration_minutes": 150,
+              "path": "modules/14-organization-design-culture-change/classes/171-spans-layers-y-managerial-load/README.md"
+            },
+            {
+              "id": "172",
+              "title": "Operating model",
+              "duration_minutes": 150,
+              "path": "modules/14-organization-design-culture-change/classes/172-operating-model/README.md"
+            },
+            {
+              "id": "173",
+              "title": "RACI, RAPID y derechos de decisión",
+              "duration_minutes": 150,
+              "path": "modules/14-organization-design-culture-change/classes/173-raci-rapid-y-derechos-de-decision/README.md"
+            },
+            {
+              "id": "174",
+              "title": "Cultura observable y artefactos",
+              "duration_minutes": 150,
+              "path": "modules/14-organization-design-culture-change/classes/174-cultura-observable-y-artefactos/README.md"
+            },
+            {
+              "id": "175",
+              "title": "Incentivos y comportamientos",
+              "duration_minutes": 150,
+              "path": "modules/14-organization-design-culture-change/classes/175-incentivos-y-comportamientos/README.md"
+            },
+            {
+              "id": "176",
+              "title": "Diagnóstico de cambio",
+              "duration_minutes": 150,
+              "path": "modules/14-organization-design-culture-change/classes/176-diagnostico-de-cambio/README.md"
+            },
+            {
+              "id": "177",
+              "title": "Coalición, narrativa y adopción",
+              "duration_minutes": 150,
+              "path": "modules/14-organization-design-culture-change/classes/177-coalicion-narrativa-y-adopcion/README.md"
+            },
+            {
+              "id": "178",
+              "title": "Transformación empresarial",
+              "duration_minutes": 150,
+              "path": "modules/14-organization-design-culture-change/classes/178-transformacion-empresarial/README.md"
+            },
+            {
+              "id": "179",
+              "title": "Reorganizaciones y riesgos humanos",
+              "duration_minutes": 150,
+              "path": "modules/14-organization-design-culture-change/classes/179-reorganizaciones-y-riesgos-humanos/README.md"
+            },
+            {
+              "id": "180",
+              "title": "Capstone: rediseño organizacional",
+              "duration_minutes": 150,
+              "path": "modules/14-organization-design-culture-change/classes/180-capstone-rediseno-organizacional/README.md"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "slug": "risk-legal-compliance-cyber-ai-governance",
+          "title": "Riesgo, legal, compliance, ciberseguridad e IA",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "181",
+              "title": "Enterprise Risk Management",
+              "duration_minutes": 150,
+              "path": "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management/README.md"
+            },
+            {
+              "id": "182",
+              "title": "Apetito, tolerancia y límites de riesgo",
+              "duration_minutes": 150,
+              "path": "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo/README.md"
+            },
+            {
+              "id": "183",
+              "title": "Controles internos y segregación",
+              "duration_minutes": 150,
+              "path": "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion/README.md"
+            },
+            {
+              "id": "184",
+              "title": "Alfabetización legal del gerente",
+              "duration_minutes": 150,
+              "path": "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente/README.md"
+            },
+            {
+              "id": "185",
+              "title": "Contratos: riesgos que un ejecutivo debe detectar",
+              "duration_minutes": 150,
+              "path": "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar/README.md"
+            },
+            {
+              "id": "186",
+              "title": "Privacidad y gobierno de datos",
+              "duration_minutes": 150,
+              "path": "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos/README.md"
+            },
+            {
+              "id": "187",
+              "title": "Gobierno de ciberseguridad",
+              "duration_minutes": 150,
+              "path": "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad/README.md"
+            },
+            {
+              "id": "188",
+              "title": "Gobierno responsable de IA",
+              "duration_minutes": 150,
+              "path": "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia/README.md"
+            },
+            {
+              "id": "189",
+              "title": "Compliance y cultura ética",
+              "duration_minutes": 150,
+              "path": "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica/README.md"
+            },
+            {
+              "id": "190",
+              "title": "Crisis, incidentes y escalamiento",
+              "duration_minutes": 150,
+              "path": "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento/README.md"
+            },
+            {
+              "id": "191",
+              "title": "Business continuity y resiliencia",
+              "duration_minutes": 150,
+              "path": "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia/README.md"
+            },
+            {
+              "id": "192",
+              "title": "Capstone: comité integrado de riesgos",
+              "duration_minutes": 150,
+              "path": "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos/README.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "name": "Alta dirección y gobierno",
+      "outcome": "Ejecutivo → CEO",
+      "modules": [
+        {
+          "id": "16",
+          "slug": "executive-leadership-ceo-office",
+          "title": "Alta dirección y oficina del CEO",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "193",
+              "title": "Transición de gerente a ejecutivo",
+              "duration_minutes": 150,
+              "path": "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo/README.md"
+            },
+            {
+              "id": "194",
+              "title": "Pensar a nivel empresa",
+              "duration_minutes": 150,
+              "path": "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa/README.md"
+            },
+            {
+              "id": "195",
+              "title": "Construir el executive team",
+              "duration_minutes": 150,
+              "path": "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team/README.md"
+            },
+            {
+              "id": "196",
+              "title": "Arquitectura de decisiones ejecutivas",
+              "duration_minutes": 150,
+              "path": "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas/README.md"
+            },
+            {
+              "id": "197",
+              "title": "Agenda y tiempo del CEO",
+              "duration_minutes": 150,
+              "path": "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo/README.md"
+            },
+            {
+              "id": "198",
+              "title": "Asignación de capital y talento",
+              "duration_minutes": 150,
+              "path": "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento/README.md"
+            },
+            {
+              "id": "199",
+              "title": "Balance entre clientes, personas, accionistas y sociedad",
+              "duration_minutes": 150,
+              "path": "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad/README.md"
+            },
+            {
+              "id": "200",
+              "title": "Comunicación del CEO",
+              "duration_minutes": 150,
+              "path": "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo/README.md"
+            },
+            {
+              "id": "201",
+              "title": "Leadership pipeline",
+              "duration_minutes": 150,
+              "path": "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline/README.md"
+            },
+            {
+              "id": "202",
+              "title": "Crisis y decisiones irreversibles",
+              "duration_minutes": 150,
+              "path": "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles/README.md"
+            },
+            {
+              "id": "203",
+              "title": "Sucesión y continuidad de liderazgo",
+              "duration_minutes": 150,
+              "path": "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo/README.md"
+            },
+            {
+              "id": "204",
+              "title": "Capstone: primeros 100 días como CEO",
+              "duration_minutes": 150,
+              "path": "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo/README.md"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "slug": "boards-corporate-governance",
+          "title": "Directorios y gobierno corporativo",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "205",
+              "title": "Propiedad, administración y gobierno",
+              "duration_minutes": 150,
+              "path": "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno/README.md"
+            },
+            {
+              "id": "206",
+              "title": "Qué hace un directorio",
+              "duration_minutes": 150,
+              "path": "modules/17-boards-corporate-governance/classes/206-que-hace-un-directorio/README.md"
+            },
+            {
+              "id": "207",
+              "title": "Rol del presidente y del CEO",
+              "duration_minutes": 150,
+              "path": "modules/17-boards-corporate-governance/classes/207-rol-del-presidente-y-del-ceo/README.md"
+            },
+            {
+              "id": "208",
+              "title": "Comités de auditoría, riesgo y compensación",
+              "duration_minutes": 150,
+              "path": "modules/17-boards-corporate-governance/classes/208-comites-de-auditoria-riesgo-y-compensacion/README.md"
+            },
+            {
+              "id": "209",
+              "title": "Deberes, conflictos e independencia: fundamentos",
+              "duration_minutes": 150,
+              "path": "modules/17-boards-corporate-governance/classes/209-deberes-conflictos-e-independencia-fundamentos/README.md"
+            },
+            {
+              "id": "210",
+              "title": "Información y transparencia",
+              "duration_minutes": 150,
+              "path": "modules/17-boards-corporate-governance/classes/210-informacion-y-transparencia/README.md"
+            },
+            {
+              "id": "211",
+              "title": "Board pack y calidad de información",
+              "duration_minutes": 150,
+              "path": "modules/17-boards-corporate-governance/classes/211-board-pack-y-calidad-de-informacion/README.md"
+            },
+            {
+              "id": "212",
+              "title": "Supervisión de estrategia",
+              "duration_minutes": 150,
+              "path": "modules/17-boards-corporate-governance/classes/212-supervision-de-estrategia/README.md"
+            },
+            {
+              "id": "213",
+              "title": "Supervisión de riesgo y controles",
+              "duration_minutes": 150,
+              "path": "modules/17-boards-corporate-governance/classes/213-supervision-de-riesgo-y-controles/README.md"
+            },
+            {
+              "id": "214",
+              "title": "Evaluación del CEO y sucesión",
+              "duration_minutes": 150,
+              "path": "modules/17-boards-corporate-governance/classes/214-evaluacion-del-ceo-y-sucesion/README.md"
+            },
+            {
+              "id": "215",
+              "title": "Efectividad del directorio",
+              "duration_minutes": 150,
+              "path": "modules/17-boards-corporate-governance/classes/215-efectividad-del-directorio/README.md"
+            },
+            {
+              "id": "216",
+              "title": "Capstone: board meeting",
+              "duration_minutes": 150,
+              "path": "modules/17-boards-corporate-governance/classes/216-capstone-board-meeting/README.md"
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "slug": "corporate-finance-capital-ma",
+          "title": "Finanzas corporativas, capital y M&A",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "217",
+              "title": "Estructura de capital",
+              "duration_minutes": 150,
+              "path": "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital/README.md"
+            },
+            {
+              "id": "218",
+              "title": "Costo de capital",
+              "duration_minutes": 150,
+              "path": "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital/README.md"
+            },
+            {
+              "id": "219",
+              "title": "Deuda versus equity",
+              "duration_minutes": 150,
+              "path": "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity/README.md"
+            },
+            {
+              "id": "220",
+              "title": "Valoración por flujos",
+              "duration_minutes": 150,
+              "path": "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos/README.md"
+            },
+            {
+              "id": "221",
+              "title": "Múltiplos y comparables",
+              "duration_minutes": 150,
+              "path": "modules/18-corporate-finance-capital-ma/classes/221-multiplos-y-comparables/README.md"
+            },
+            {
+              "id": "222",
+              "title": "Fundraising y narrativa financiera",
+              "duration_minutes": 150,
+              "path": "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera/README.md"
+            },
+            {
+              "id": "223",
+              "title": "Cap table y dilución",
+              "duration_minutes": 150,
+              "path": "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion/README.md"
+            },
+            {
+              "id": "224",
+              "title": "Term sheets: economía y control",
+              "duration_minutes": 150,
+              "path": "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control/README.md"
+            },
+            {
+              "id": "225",
+              "title": "M&A: lógica estratégica",
+              "duration_minutes": 150,
+              "path": "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica/README.md"
+            },
+            {
+              "id": "226",
+              "title": "Due diligence",
+              "duration_minutes": 150,
+              "path": "modules/18-corporate-finance-capital-ma/classes/226-due-diligence/README.md"
+            },
+            {
+              "id": "227",
+              "title": "Integración post-adquisición",
+              "duration_minutes": 150,
+              "path": "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion/README.md"
+            },
+            {
+              "id": "228",
+              "title": "Capstone: comité de capital",
+              "duration_minutes": 150,
+              "path": "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital/README.md"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "slug": "technology-data-ai-digital-transformation",
+          "title": "Tecnología, datos, IA y transformación digital para ejecutivos",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "229",
+              "title": "Tecnología como capacidad empresarial",
+              "duration_minutes": 150,
+              "path": "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial/README.md"
+            },
+            {
+              "id": "230",
+              "title": "Estrategia digital",
+              "duration_minutes": 150,
+              "path": "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital/README.md"
+            },
+            {
+              "id": "231",
+              "title": "Economía de cloud y plataformas",
+              "duration_minutes": 150,
+              "path": "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas/README.md"
+            },
+            {
+              "id": "232",
+              "title": "Datos como activo operativo",
+              "duration_minutes": 150,
+              "path": "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo/README.md"
+            },
+            {
+              "id": "233",
+              "title": "Portafolio de IA y casos de negocio",
+              "duration_minutes": 150,
+              "path": "modules/19-technology-data-ai-digital-transformation/classes/233-portafolio-de-ia-y-casos-de-negocio/README.md"
+            },
+            {
+              "id": "234",
+              "title": "Automatización y rediseño de trabajo",
+              "duration_minutes": 150,
+              "path": "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo/README.md"
+            },
+            {
+              "id": "235",
+              "title": "Ciberseguridad desde el directorio",
+              "duration_minutes": 150,
+              "path": "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio/README.md"
+            },
+            {
+              "id": "236",
+              "title": "Build, buy, partner o retire",
+              "duration_minutes": 150,
+              "path": "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire/README.md"
+            },
+            {
+              "id": "237",
+              "title": "Arquitectura y deuda técnica para ejecutivos",
+              "duration_minutes": 150,
+              "path": "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos/README.md"
+            },
+            {
+              "id": "238",
+              "title": "Métricas de entrega tecnológica",
+              "duration_minutes": 150,
+              "path": "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica/README.md"
+            },
+            {
+              "id": "239",
+              "title": "Cambio laboral provocado por IA",
+              "duration_minutes": 150,
+              "path": "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia/README.md"
+            },
+            {
+              "id": "240",
+              "title": "Capstone: transformation board",
+              "duration_minutes": 150,
+              "path": "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board/README.md"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "name": "Fundador, propietario e independencia",
+      "outcome": "Founder → Business Owner",
+      "modules": [
+        {
+          "id": "20",
+          "slug": "founder-venture-creation",
+          "title": "Founder y creación de empresas",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "241",
+              "title": "Founder versus freelance versus empresario",
+              "duration_minutes": 150,
+              "path": "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario/README.md"
+            },
+            {
+              "id": "242",
+              "title": "Encontrar problemas valiosos",
+              "duration_minutes": 150,
+              "path": "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos/README.md"
+            },
+            {
+              "id": "243",
+              "title": "Customer discovery",
+              "duration_minutes": 150,
+              "path": "modules/20-founder-venture-creation/classes/243-customer-discovery/README.md"
+            },
+            {
+              "id": "244",
+              "title": "Hipótesis de cliente y problema",
+              "duration_minutes": 150,
+              "path": "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema/README.md"
+            },
+            {
+              "id": "245",
+              "title": "Propuesta de valor",
+              "duration_minutes": 150,
+              "path": "modules/20-founder-venture-creation/classes/245-propuesta-de-valor/README.md"
+            },
+            {
+              "id": "246",
+              "title": "Modelo de negocio",
+              "duration_minutes": 150,
+              "path": "modules/20-founder-venture-creation/classes/246-modelo-de-negocio/README.md"
+            },
+            {
+              "id": "247",
+              "title": "Validación antes de construir",
+              "duration_minutes": 150,
+              "path": "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir/README.md"
+            },
+            {
+              "id": "248",
+              "title": "MVP y concierge tests",
+              "duration_minutes": 150,
+              "path": "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests/README.md"
+            },
+            {
+              "id": "249",
+              "title": "Pricing temprano",
+              "duration_minutes": 150,
+              "path": "modules/20-founder-venture-creation/classes/249-pricing-temprano/README.md"
+            },
+            {
+              "id": "250",
+              "title": "Primeros diez clientes",
+              "duration_minutes": 150,
+              "path": "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes/README.md"
+            },
+            {
+              "id": "251",
+              "title": "Cofundadores, equity y acuerdos",
+              "duration_minutes": 150,
+              "path": "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos/README.md"
+            },
+            {
+              "id": "252",
+              "title": "Capstone: launch readiness",
+              "duration_minutes": 150,
+              "path": "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness/README.md"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "slug": "chile-founder-track",
+          "title": "Founder Track Chile: formalización y operación",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "253",
+              "title": "Mapa del ciclo empresarial en Chile",
+              "duration_minutes": 150,
+              "path": "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile/README.md"
+            },
+            {
+              "id": "254",
+              "title": "Persona natural y persona jurídica: decisiones iniciales",
+              "duration_minutes": 150,
+              "path": "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales/README.md"
+            },
+            {
+              "id": "255",
+              "title": "RES y tipos societarios: panorama",
+              "duration_minutes": 150,
+              "path": "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama/README.md"
+            },
+            {
+              "id": "256",
+              "title": "Inicio de actividades y ciclo tributario en SII",
+              "duration_minutes": 150,
+              "path": "modules/21-chile-founder-track/classes/256-inicio-de-actividades-y-ciclo-tributario-en-sii/README.md"
+            },
+            {
+              "id": "257",
+              "title": "Documentos tributarios, IVA y registros: panorama ejecutivo",
+              "duration_minutes": 150,
+              "path": "modules/21-chile-founder-track/classes/257-documentos-tributarios-iva-y-registros-panorama-ejecutivo/README.md"
+            },
+            {
+              "id": "258",
+              "title": "Contabilidad, tesorería y control documental",
+              "duration_minutes": 150,
+              "path": "modules/21-chile-founder-track/classes/258-contabilidad-tesoreria-y-control-documental/README.md"
+            },
+            {
+              "id": "259",
+              "title": "Cuenta bancaria, pagos y medios de cobro",
+              "duration_minutes": 150,
+              "path": "modules/21-chile-founder-track/classes/259-cuenta-bancaria-pagos-y-medios-de-cobro/README.md"
+            },
+            {
+              "id": "260",
+              "title": "Contratación, honorarios y obligaciones laborales: panorama",
+              "duration_minutes": 150,
+              "path": "modules/21-chile-founder-track/classes/260-contratacion-honorarios-y-obligaciones-laborales-panorama/README.md"
+            },
+            {
+              "id": "261",
+              "title": "Propiedad intelectual e INAPI",
+              "duration_minutes": 150,
+              "path": "modules/21-chile-founder-track/classes/261-propiedad-intelectual-e-inapi/README.md"
+            },
+            {
+              "id": "262",
+              "title": "Patentes, permisos y obligaciones sectoriales",
+              "duration_minutes": 150,
+              "path": "modules/21-chile-founder-track/classes/262-patentes-permisos-y-obligaciones-sectoriales/README.md"
+            },
+            {
+              "id": "263",
+              "title": "ChileCompra, Sercotec, Corfo y ecosistema público",
+              "duration_minutes": 150,
+              "path": "modules/21-chile-founder-track/classes/263-chilecompra-sercotec-corfo-y-ecosistema-publico/README.md"
+            },
+            {
+              "id": "264",
+              "title": "Capstone: empresa operable y checklist de cumplimiento",
+              "duration_minutes": 150,
+              "path": "modules/21-chile-founder-track/classes/264-capstone-empresa-operable-y-checklist-de-cumplimiento/README.md"
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "slug": "scaling-business-ownership",
+          "title": "Escalamiento, propiedad y portafolio empresarial",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "265",
+              "title": "De fundador-operador a propietario",
+              "duration_minutes": 150,
+              "path": "modules/22-scaling-business-ownership/classes/265-de-fundador-operador-a-propietario/README.md"
+            },
+            {
+              "id": "266",
+              "title": "Sistemas antes que heroicidad",
+              "duration_minutes": 150,
+              "path": "modules/22-scaling-business-ownership/classes/266-sistemas-antes-que-heroicidad/README.md"
+            },
+            {
+              "id": "267",
+              "title": "Contratar líderes",
+              "duration_minutes": 150,
+              "path": "modules/22-scaling-business-ownership/classes/267-contratar-lideres/README.md"
+            },
+            {
+              "id": "268",
+              "title": "Escalar ventas sin destruir margen",
+              "duration_minutes": 150,
+              "path": "modules/22-scaling-business-ownership/classes/268-escalar-ventas-sin-destruir-margen/README.md"
+            },
+            {
+              "id": "269",
+              "title": "Controles financieros para crecer",
+              "duration_minutes": 150,
+              "path": "modules/22-scaling-business-ownership/classes/269-controles-financieros-para-crecer/README.md"
+            },
+            {
+              "id": "270",
+              "title": "Gobierno proporcional al tamaño",
+              "duration_minutes": 150,
+              "path": "modules/22-scaling-business-ownership/classes/270-gobierno-proporcional-al-tamano/README.md"
+            },
+            {
+              "id": "271",
+              "title": "Multiunidad y portafolio",
+              "duration_minutes": 150,
+              "path": "modules/22-scaling-business-ownership/classes/271-multiunidad-y-portafolio/README.md"
+            },
+            {
+              "id": "272",
+              "title": "Holdings y estructuras de propiedad: conceptos",
+              "duration_minutes": 150,
+              "path": "modules/22-scaling-business-ownership/classes/272-holdings-y-estructuras-de-propiedad-conceptos/README.md"
+            },
+            {
+              "id": "273",
+              "title": "Adquisiciones como vía de crecimiento",
+              "duration_minutes": 150,
+              "path": "modules/22-scaling-business-ownership/classes/273-adquisiciones-como-via-de-crecimiento/README.md"
+            },
+            {
+              "id": "274",
+              "title": "Delegar decisiones sin perder control",
+              "duration_minutes": 150,
+              "path": "modules/22-scaling-business-ownership/classes/274-delegar-decisiones-sin-perder-control/README.md"
+            },
+            {
+              "id": "275",
+              "title": "Owner dashboard",
+              "duration_minutes": 150,
+              "path": "modules/22-scaling-business-ownership/classes/275-owner-dashboard/README.md"
+            },
+            {
+              "id": "276",
+              "title": "Capstone: empresa menos dependiente del fundador",
+              "duration_minutes": 150,
+              "path": "modules/22-scaling-business-ownership/classes/276-capstone-empresa-menos-dependiente-del-fundador/README.md"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "slug": "independence-capstone",
+          "title": "Independencia profesional y Business Owner Capstone",
+          "hours": 30,
+          "classes": [
+            {
+              "id": "277",
+              "title": "Independencia: definición económica y profesional",
+              "duration_minutes": 150,
+              "path": "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional/README.md"
+            },
+            {
+              "id": "278",
+              "title": "Inventario de capacidades monetizables",
+              "duration_minutes": 150,
+              "path": "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables/README.md"
+            },
+            {
+              "id": "279",
+              "title": "Consultoría y servicios profesionales",
+              "duration_minutes": 150,
+              "path": "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales/README.md"
+            },
+            {
+              "id": "280",
+              "title": "Productized services",
+              "duration_minutes": 150,
+              "path": "modules/23-independence-capstone/classes/280-productized-services/README.md"
+            },
+            {
+              "id": "281",
+              "title": "Producto digital y propiedad intelectual",
+              "duration_minutes": 150,
+              "path": "modules/23-independence-capstone/classes/281-producto-digital-y-propiedad-intelectual/README.md"
+            },
+            {
+              "id": "282",
+              "title": "SaaS y modelos recurrentes",
+              "duration_minutes": 150,
+              "path": "modules/23-independence-capstone/classes/282-saas-y-modelos-recurrentes/README.md"
+            },
+            {
+              "id": "283",
+              "title": "Portafolio de ingresos y concentración de riesgo",
+              "duration_minutes": 150,
+              "path": "modules/23-independence-capstone/classes/283-portafolio-de-ingresos-y-concentracion-de-riesgo/README.md"
+            },
+            {
+              "id": "284",
+              "title": "Runway personal y empresarial",
+              "duration_minutes": 150,
+              "path": "modules/23-independence-capstone/classes/284-runway-personal-y-empresarial/README.md"
+            },
+            {
+              "id": "285",
+              "title": "Sistema semanal de ventas",
+              "duration_minutes": 150,
+              "path": "modules/23-independence-capstone/classes/285-sistema-semanal-de-ventas/README.md"
+            },
+            {
+              "id": "286",
+              "title": "Riesgo, ética y reputación",
+              "duration_minutes": 150,
+              "path": "modules/23-independence-capstone/classes/286-riesgo-etica-y-reputacion/README.md"
+            },
+            {
+              "id": "287",
+              "title": "Plan de 90 días y plan anual",
+              "duration_minutes": 150,
+              "path": "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual/README.md"
+            },
+            {
+              "id": "288",
+              "title": "Capstone final: defensa como CEO, founder y owner",
+              "duration_minutes": 150,
+              "path": "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner/README.md"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+# Entornos y cachés de Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# El portal se genera con tools/build_site.py en cada despliegue.
+site/
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+node_modules/
+.env

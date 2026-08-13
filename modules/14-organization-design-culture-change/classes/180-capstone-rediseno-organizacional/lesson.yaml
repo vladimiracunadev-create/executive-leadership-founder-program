@@ -1,0 +1,31 @@
+id: 180
+part: 14
+title: "Capstone: rediseño organizacional"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "diseñar estructura, derechos de decisión, cultura y cambio como un sistema"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir target operating model de design principle mediante evidencia observable."
+  - "Aplicar la secuencia: formular design principles → diseñar estructura e interfaces → probar decisiones críticas → alinear incentives y people systems → crear transición con riesgos y métricas."
+  - "Interpretar decision latency, role clarity, customer outcome sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: rediseño organizacional con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Jay R. Galbraith — *Designing Organizations*"
+  - "Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*"
+  - "Patrick Lencioni — *The Advantage*"
+  - "Aaron Dignan — *Brave New Work*"
+  - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
+  - "John P. Kotter — *Leading Change*"
+limits:
+  - "Un diseño de papel no demuestra viabilidad. Somételo a casos de prueba reales —contratar, lanzar, fijar precio, resolver incidente— y revisa dónde la autoridad o información se rompen."
+evidence_signals:
+  - "decision latency"
+  - "role clarity"
+  - "customer outcome"
+  - "management layers"
+  - "transition incidents"

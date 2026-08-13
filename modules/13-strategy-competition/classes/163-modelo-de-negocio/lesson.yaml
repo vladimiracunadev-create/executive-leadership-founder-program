@@ -1,0 +1,31 @@
+id: 163
+part: 13
+title: "Modelo de negocio"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir value proposition de revenue model mediante evidencia observable."
+  - "Aplicar la secuencia: definir segmento y problema → articular propuesta y canal → modelar recursos actividades y partners → construir revenue y cost logic → testear coherencia y economics."
+  - "Interpretar revenue per segment, gross margin, CAC-LTV sin atribuir causalidad automática."
+  - "Resolver el caso de modelo de negocio con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "strategy-memo.md"
+references:
+  - "Michael E. Porter — *Competitive Strategy*"
+  - "Michael E. Porter — *Competitive Advantage*"
+  - "Hamilton Helmer — *7 Powers*"
+  - "David J. Teece — *Dynamic Capabilities and Strategic Management*"
+  - "W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+limits:
+  - "Un Canvas es una fotografía. No reemplaza estados financieros, procesos, regulación ni estrategia competitiva; úsalo como mapa para formular y probar hipótesis."
+evidence_signals:
+  - "revenue per segment"
+  - "gross margin"
+  - "CAC-LTV"
+  - "channel contribution"
+  - "cost-to-serve"

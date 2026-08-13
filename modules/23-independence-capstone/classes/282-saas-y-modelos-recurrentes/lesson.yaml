@@ -1,0 +1,31 @@
+id: 282
+part: 23
+title: "SaaS y modelos recurrentes"
+duration_minutes: 150
+level: "Etapa 6 — Independencia"
+outcome: "construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir MRR de ARR mediante evidencia observable."
+  - "Aplicar la secuencia: definir recurring job → modelar pricing y unit economics → construir minimal reliable service → medir cohort retention → optimizar acquisition y expansion después de fit."
+  - "Interpretar MRR, NRR, logo churn sin atribuir causalidad automática."
+  - "Resolver el caso de saaS y modelos recurrentes con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "founder-owner-decision-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Nassim Nicholas Taleb — *Antifragile*"
+  - "Cal Newport — *Deep Work*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+limits:
+  - "No todo problema necesita suscripción. Si uso es episódico, pricing recurrente puede crear churn y desconfianza; el modelo debe seguir valor entregado."
+evidence_signals:
+  - "MRR"
+  - "NRR"
+  - "logo churn"
+  - "gross margin"
+  - "CAC payback"

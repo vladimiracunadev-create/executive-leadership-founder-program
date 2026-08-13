@@ -1,0 +1,31 @@
+id: 138
+part: 11
+title: "Customer journey"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir journey de touchpoint mediante evidencia observable."
+  - "Aplicar la secuencia: definir persona/job y alcance → reconstruir journey con evidencia → mapear touchpoints y emociones → priorizar moments of truth → asignar owner end-to-end."
+  - "Interpretar drop-off, time-to-value, handoff failures sin atribuir causalidad automática."
+  - "Resolver el caso de customer journey con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
+  - "Byron Sharp — *How Brands Grow*"
+  - "Alexander Osterwalder & Yves Pigneur — *Business Model Generation*"
+  - "April Dunford — *Obviously Awesome*"
+  - "Sean Ellis & Morgan Brown — *Hacking Growth*"
+  - "David Aaker — *Building Strong Brands*"
+limits:
+  - "Un journey map puede simplificar trayectorias distintas. Segmenta casos relevantes y evita convertir una línea ideal en verdad universal."
+evidence_signals:
+  - "drop-off"
+  - "time-to-value"
+  - "handoff failures"
+  - "NPS/CSAT by stage"
+  - "support contacts"

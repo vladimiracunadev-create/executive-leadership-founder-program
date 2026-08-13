@@ -1,0 +1,31 @@
+id: 279
+part: 23
+title: "Consultoría y servicios profesionales"
+duration_minutes: 150
+level: "Etapa 6 — Independencia"
+outcome: "construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir consulting engagement de scope mediante evidencia observable."
+  - "Aplicar la secuencia: elegir problema e ICP → hacer discovery y diagnose → definir scope y outcome → proponer fee y terms → entregar medir y request reference."
+  - "Interpretar utilization, effective rate, proposal win rate sin atribuir causalidad automática."
+  - "Resolver el caso de consultoría y servicios profesionales con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Nassim Nicholas Taleb — *Antifragile*"
+  - "Eric Ries — *The Lean Startup*"
+  - "Greg McKeown — *Essentialism*"
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+limits:
+  - "Value pricing no significa cobrar cifras arbitrarias ni ocultar esfuerzo. Debe ser transparente, defendible y compatible con mercado, ética y contrato."
+evidence_signals:
+  - "utilization"
+  - "effective rate"
+  - "proposal win rate"
+  - "scope creep"
+  - "repeat business"

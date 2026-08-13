@@ -1,0 +1,31 @@
+id: 222
+part: 18
+title: "Fundraising y narrativa financiera"
+duration_minutes: 150
+level: "Etapa 5 — CEO → Capital allocator"
+outcome: "decidir estructura de capital, valoración, fundraising y transacciones"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir fundraising de use of proceeds mediante evidencia observable."
+  - "Aplicar la secuencia: definir por qué y cuánto capital → ligar use of proceeds a milestones → preparar evidence room → segmentar investors y pipeline → negociar términos cerrar y comunicar."
+  - "Interpretar runway after round, milestone coverage, investor conversion sin atribuir causalidad automática."
+  - "Resolver el caso de fundraising y narrativa financiera con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "modelo-financiero-y-memo-de-decision.md"
+references:
+  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
+  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
+  - "Aswath Damodaran — *Investment Valuation*"
+  - "David Skok — *SaaS Metrics resources*"
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+limits:
+  - "Más capital puede aumentar burn y presión de retorno. Levanta una cantidad coherente con estrategia, escenarios y capacidad de desplegarla productivamente."
+evidence_signals:
+  - "runway after round"
+  - "milestone coverage"
+  - "investor conversion"
+  - "dilution"
+  - "fundraising cycle time"

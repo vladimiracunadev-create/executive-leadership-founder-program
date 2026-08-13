@@ -1,0 +1,31 @@
+id: 67
+part: 05
+title: "Feedback, coaching y planes de mejora"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir performance gap de PIP mediante evidencia observable."
+  - "Aplicar la secuencia: documentar ejemplos y estándar → conversar brecha y escuchar contexto → acordar acciones y apoyo → definir milestones y revisión → cerrar con mejora, extensión justificada o proceso de salida."
+  - "Interpretar milestones logrados, reincidencia, support utilizado sin atribuir causalidad automática."
+  - "Resolver el caso de feedback, coaching y planes de mejora con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "people-decision-brief.md"
+references:
+  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
+  - "Raymond Noe et al. — *Human Resource Management*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Robert I. Sutton — *Good Boss, Bad Boss*"
+  - "John Boudreau & Peter Ramstad — *Beyond HR*"
+  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+limits:
+  - "Un PIP no debe usarse como simulación de proceso cuando la decisión de salida ya está tomada, ni como represalia. Requiere asesoría de RR.HH./legal según jurisdicción y hechos."
+evidence_signals:
+  - "milestones logrados"
+  - "reincidencia"
+  - "support utilizado"
+  - "calidad de documentación"
+  - "tiempo de resolución"

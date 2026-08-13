@@ -1,0 +1,31 @@
+id: 72
+part: 05
+title: "Capstone: construir un sistema de talento"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir talent system de employee lifecycle mediante evidencia observable."
+  - "Aplicar la secuencia: definir capacidades que exige estrategia → diseñar lifecycle coherente → asignar governance y datos → probar fairness y experiencia → instalar revisión trimestral del sistema."
+  - "Interpretar quality of hire, time-to-productivity, performance distribution sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: construir un sistema de talento con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "people-decision-brief.md"
+references:
+  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
+  - "Raymond Noe et al. — *Human Resource Management*"
+  - "Robert I. Sutton — *Good Boss, Bad Boss*"
+  - "Kim Scott — *Radical Candor*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+limits:
+  - "Un sistema de talento no debe burocratizar una empresa joven prematuramente. Instala controles proporcionales a escala y riesgo, priorizando claridad y legalidad antes que ceremonias complejas."
+evidence_signals:
+  - "quality of hire"
+  - "time-to-productivity"
+  - "performance distribution"
+  - "internal mobility"
+  - "regrettable attrition"

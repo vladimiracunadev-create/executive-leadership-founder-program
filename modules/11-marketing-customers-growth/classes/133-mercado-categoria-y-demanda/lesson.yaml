@@ -1,0 +1,31 @@
+id: 133
+part: 11
+title: "Mercado, categoría y demanda"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir market de category mediante evidencia observable."
+  - "Aplicar la secuencia: definir job y compradores → mapear alternativas y sustitutos → estimar demanda accesible → decidir categoría existente versus nueva → probar lenguaje con clientes."
+  - "Interpretar search demand, category awareness, win/loss alternative sin atribuir causalidad automática."
+  - "Resolver el caso de mercado, categoría y demanda con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
+  - "Byron Sharp — *How Brands Grow*"
+  - "Sean Ellis & Morgan Brown — *Hacking Growth*"
+  - "Gabriel Weinberg & Justin Mares — *Traction*"
+  - "Alexander Osterwalder & Yves Pigneur — *Business Model Generation*"
+  - "April Dunford — *Obviously Awesome*"
+limits:
+  - "Crear una categoría por branding no crea demanda. Si el problema no es urgente o el lenguaje no conecta con cómo compra el mercado, la novedad aumenta fricción."
+evidence_signals:
+  - "search demand"
+  - "category awareness"
+  - "win/loss alternative"
+  - "market growth"
+  - "share of category"

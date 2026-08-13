@@ -1,0 +1,31 @@
+id: 142
+part: 11
+title: "Retención, lealtad y customer success"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir retention de churn mediante evidencia observable."
+  - "Aplicar la secuencia: definir activation y value milestones → segmentar cohortes y churn → identificar riesgos tempranos → intervenir adopción y outcomes → aprender razones de cancelación."
+  - "Interpretar logo retention, NRR, time-to-value sin atribuir causalidad automática."
+  - "Resolver el caso de retención, lealtad y customer success con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "commercial-decision-brief.md"
+references:
+  - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
+  - "Byron Sharp — *How Brands Grow*"
+  - "Geoffrey A. Moore — *Crossing the Chasm*"
+  - "David Aaker — *Building Strong Brands*"
+  - "Aaron Ross & Jason Lemkin — *From Impossible to Inevitable*"
+  - "April Dunford — *Obviously Awesome*"
+limits:
+  - "Descuentos o contratos largos pueden retrasar churn sin crear lealtad. Mide uso, outcome y disposición a renovar, no solo obligación contractual."
+evidence_signals:
+  - "logo retention"
+  - "NRR"
+  - "time-to-value"
+  - "adoption"
+  - "churn reason"

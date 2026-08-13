@@ -1,0 +1,31 @@
+id: 60
+part: 04
+title: "Capstone: recuperar un equipo disfuncional"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir disfunción de diagnóstico de equipo mediante evidencia observable."
+  - "Aplicar la secuencia: observar síntomas y segmentar causas → proteger seguridad y continuidad → resetear propósito, roles y normas → intervenir capacidades o personas necesarias → medir 30-60-90 días."
+  - "Interpretar calidad y entrega, rotación, conflictos sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: recuperar un equipo disfuncional con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "people-decision-brief.md"
+references:
+  - "J. Richard Hackman — *Leading Teams*"
+  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
+  - "Kim Scott — *Radical Candor*"
+  - "Michael Bungay Stanier — *The Coaching Habit*"
+  - "Liz Wiseman — *Multipliers*"
+  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+limits:
+  - "No todos los equipos se recuperan solo con coaching. Puede ser necesario cambiar estructura, prioridades, staffing o conductas incompatibles; evitar decisiones difíciles también es una decisión."
+evidence_signals:
+  - "calidad y entrega"
+  - "rotación"
+  - "conflictos"
+  - "claridad de roles"
+  - "dependencia del manager"

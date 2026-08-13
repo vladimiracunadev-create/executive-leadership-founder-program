@@ -1,0 +1,31 @@
+id: 275
+part: 22
+title: "Owner dashboard"
+duration_minutes: 150
+level: "Etapa 6 — Business Owner"
+outcome: "reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir owner dashboard de cash conversion mediante evidencia observable."
+  - "Aplicar la secuencia: definir owner questions → seleccionar 10 a 15 metrics → establecer thresholds y trends → crear monthly review y exceptions → conectar a board y capital decisions."
+  - "Interpretar free cash flow, ROIC, customer concentration sin atribuir causalidad automática."
+  - "Resolver el caso de owner dashboard con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "board-or-executive-memo.md"
+references:
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Verne Harnish — *Scaling Up*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Reid Hoffman & Chris Yeh — *Blitzscaling*"
+  - "Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*"
+limits:
+  - "Un dashboard comprime y puede ocultar detalle. Diseña drill-down y agenda de revisión; no administres exclusivamente por números sin conversaciones y auditoría."
+evidence_signals:
+  - "free cash flow"
+  - "ROIC"
+  - "customer concentration"
+  - "owner dependency"
+  - "leadership coverage"

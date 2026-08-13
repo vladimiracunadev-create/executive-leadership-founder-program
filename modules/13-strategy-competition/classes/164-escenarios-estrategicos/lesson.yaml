@@ -1,0 +1,31 @@
+id: 164
+part: 13
+title: "Escenarios estratégicos"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir scenario de critical uncertainty mediante evidencia observable."
+  - "Aplicar la secuencia: identificar fuerzas y certezas → seleccionar incertidumbres materiales → construir escenarios contrastantes → stress-test estrategia y economics → definir robust moves opciones y signposts."
+  - "Interpretar scenario exposure, signpost trend, option cost sin atribuir causalidad automática."
+  - "Resolver el caso de escenarios estratégicos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "strategy-memo.md"
+references:
+  - "Michael E. Porter — *Competitive Strategy*"
+  - "Michael E. Porter — *Competitive Advantage*"
+  - "Rita Gunther McGrath — *The End of Competitive Advantage*"
+  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+  - "A.G. Lafley & Roger L. Martin — *Playing to Win*"
+limits:
+  - "Escenarios demasiado narrativos se vuelven ficción corporativa. Limita número, cuantifica impactos cuando sea posible y vincula cada escenario a decisiones y señales."
+evidence_signals:
+  - "scenario exposure"
+  - "signpost trend"
+  - "option cost"
+  - "downside cash"
+  - "decision lead time"

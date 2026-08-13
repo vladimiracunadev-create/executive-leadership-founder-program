@@ -1,0 +1,126 @@
+program: "Executive Leadership & Founder Program"
+version: "2.1.0"
+hours: 720
+parts: 24
+classes: 288
+stages:
+  - id: "01"
+    name: "Autoliderazgo y fundamentos ejecutivos"
+    outcome: "Profesional → Líder"
+    modules:
+      - id: "00"
+        title: "De profesional a líder"
+        hours: 30
+        class_count: 12
+      - id: "01"
+        title: "Pensamiento crítico y toma de decisiones"
+        hours: 30
+        class_count: 12
+      - id: "02"
+        title: "Comunicación, influencia y presencia ejecutiva"
+        hours: 30
+        class_count: 12
+      - id: "03"
+        title: "Inteligencia emocional, resiliencia y liderazgo adaptativo"
+        hours: 30
+        class_count: 12
+  - id: "02"
+    name: "Liderazgo de equipos y ejecución"
+    outcome: "Líder → Jefe / Team Lead"
+    modules:
+      - id: "04"
+        title: "Liderazgo de equipos"
+        hours: 30
+        class_count: 12
+      - id: "05"
+        title: "Gestión de talento y personas"
+        hours: 30
+        class_count: 12
+      - id: "06"
+        title: "Proyectos, Agile y entrega"
+        hours: 30
+        class_count: 12
+      - id: "07"
+        title: "Operaciones, procesos y calidad"
+        hours: 30
+        class_count: 12
+  - id: "03"
+    name: "Gestión de negocio"
+    outcome: "Manager → Gerente"
+    modules:
+      - id: "08"
+        title: "Sistemas de gestión, KPI y OKR"
+        hours: 30
+        class_count: 12
+      - id: "09"
+        title: "Finanzas y contabilidad para gerentes"
+        hours: 30
+        class_count: 12
+      - id: "10"
+        title: "Ventas, desarrollo comercial y negociación"
+        hours: 30
+        class_count: 12
+      - id: "11"
+        title: "Marketing, cliente y crecimiento"
+        hours: 30
+        class_count: 12
+  - id: "04"
+    name: "Dirección, estrategia y organización"
+    outcome: "Gerente → Director / Head"
+    modules:
+      - id: "12"
+        title: "Producto e innovación"
+        hours: 30
+        class_count: 12
+      - id: "13"
+        title: "Estrategia y competencia"
+        hours: 30
+        class_count: 12
+      - id: "14"
+        title: "Diseño organizacional, cultura y cambio"
+        hours: 30
+        class_count: 12
+      - id: "15"
+        title: "Riesgo, legal, compliance, ciberseguridad e IA"
+        hours: 30
+        class_count: 12
+  - id: "05"
+    name: "Alta dirección y gobierno"
+    outcome: "Ejecutivo → CEO"
+    modules:
+      - id: "16"
+        title: "Alta dirección y oficina del CEO"
+        hours: 30
+        class_count: 12
+      - id: "17"
+        title: "Directorios y gobierno corporativo"
+        hours: 30
+        class_count: 12
+      - id: "18"
+        title: "Finanzas corporativas, capital y M&A"
+        hours: 30
+        class_count: 12
+      - id: "19"
+        title: "Tecnología, datos, IA y transformación digital para ejecutivos"
+        hours: 30
+        class_count: 12
+  - id: "06"
+    name: "Fundador, propietario e independencia"
+    outcome: "Founder → Business Owner"
+    modules:
+      - id: "20"
+        title: "Founder y creación de empresas"
+        hours: 30
+        class_count: 12
+      - id: "21"
+        title: "Founder Track Chile: formalización y operación"
+        hours: 30
+        class_count: 12
+      - id: "22"
+        title: "Escalamiento, propiedad y portafolio empresarial"
+        hours: 30
+        class_count: 12
+      - id: "23"
+        title: "Independencia profesional y Business Owner Capstone"
+        hours: 30
+        class_count: 12

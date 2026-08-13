@@ -1,0 +1,31 @@
+id: 37
+part: 03
+title: "Autoconciencia ejecutiva"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "regularse, sostener exigencia humana y liderar adaptación bajo presión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir trigger de self-schema mediante evidencia observable."
+  - "Aplicar la secuencia: identificar momentos de alta reactividad → registrar conducta e impacto → comparar autoevaluación con feedback externo → detectar patrones y fortalezas sobreutilizadas → seleccionar una conducta para experimentar."
+  - "Interpretar feedback convergente, reacciones repetidas, conductas bajo presión sin atribuir causalidad automática."
+  - "Resolver el caso de autoconciencia ejecutiva con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Daniel Goleman — *Emotional Intelligence*"
+  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
+  - "Adam Grant — *Think Again*"
+  - "Ronald A. Heifetz — *Leadership Without Easy Answers*"
+  - "Angela Duckworth — *Grit*"
+  - "Ronald Heifetz & Marty Linsky — *Leadership on the Line*"
+limits:
+  - "La introspección puede convertirse en rumia. El objetivo es producir hipótesis de conducta y experimentos, no explicar infinitamente la personalidad."
+evidence_signals:
+  - "feedback convergente"
+  - "reacciones repetidas"
+  - "conductas bajo presión"
+  - "gap entre intención e impacto"
+  - "progreso de una conducta objetivo"

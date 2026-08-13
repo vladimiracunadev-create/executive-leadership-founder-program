@@ -1,0 +1,31 @@
+id: 178
+part: 14
+title: "Transformación empresarial"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "diseñar estructura, derechos de decisión, cultura y cambio como un sistema"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir transformation de transformation thesis mediante evidencia observable."
+  - "Aplicar la secuencia: definir tesis y value case → traducir a capabilities y workstreams → secuenciar dependencias y quick wins → gobernar beneficios y riesgos → institucionalizar capacidades y retirar estructura temporal."
+  - "Interpretar benefits realized, capability maturity, adoption sin atribuir causalidad automática."
+  - "Resolver el caso de transformación empresarial con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Jay R. Galbraith — *Designing Organizations*"
+  - "Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*"
+  - "John P. Kotter — *Accelerate*"
+  - "John P. Kotter — *Leading Change*"
+  - "Patrick Lencioni — *The Advantage*"
+  - "Aaron Dignan — *Brave New Work*"
+limits:
+  - "La transformación permanente agota organización y crea burocracia. Debe tener outcomes, horizonte y criterio de salida; luego el trabajo pasa a la operación normal."
+evidence_signals:
+  - "benefits realized"
+  - "capability maturity"
+  - "adoption"
+  - "cash impact"
+  - "dependency risk"

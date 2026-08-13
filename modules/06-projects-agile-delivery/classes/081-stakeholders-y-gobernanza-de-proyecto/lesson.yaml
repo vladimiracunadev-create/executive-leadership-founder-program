@@ -1,0 +1,31 @@
+id: 81
+part: 06
+title: "Stakeholders y gobernanza de proyecto"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir sponsor de steering committee mediante evidencia observable."
+  - "Aplicar la secuencia: mapear decisiones críticas → asignar sponsor y autoridades → definir tolerancias de costo, alcance y tiempo → establecer foros y pre-reads → escalar solo excepciones."
+  - "Interpretar decisiones sin owner, tiempo de escalamiento, changes aprobados sin atribuir causalidad automática."
+  - "Resolver el caso de stakeholders y gobernanza de proyecto con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
+  - "Harold Kerzner — *Project Management*"
+  - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "Gene Kim et al. — *The Phoenix Project*"
+  - "Michael Hammer & James Champy — *Reengineering the Corporation*"
+limits:
+  - "Governance excesivo ralentiza decisiones y transfiere responsabilidad al comité. Diseña niveles proporcionales al tamaño, riesgo e irreversibilidad."
+evidence_signals:
+  - "decisiones sin owner"
+  - "tiempo de escalamiento"
+  - "changes aprobados"
+  - "reuniones sin decisión"
+  - "stakeholder surprises"

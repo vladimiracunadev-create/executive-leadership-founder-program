@@ -1,0 +1,31 @@
+id: 169
+part: 14
+title: "La organización como diseño"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "diseñar estructura, derechos de decisión, cultura y cambio como un sistema"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir organization design de structure mediante evidencia observable."
+  - "Aplicar la secuencia: partir de estrategia y capacidades → diagnosticar fricciones del sistema → diseñar estructura y procesos juntos → alinear rewards y people practices → pilotear y medir efectos."
+  - "Interpretar decision latency, handoff count, span of control sin atribuir causalidad automática."
+  - "Resolver el caso de la organización como diseño con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Jay R. Galbraith — *Designing Organizations*"
+  - "Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*"
+  - "Chip Heath & Dan Heath — *Switch*"
+  - "Frederic Laloux — *Reinventing Organizations*"
+  - "Stanley McChrystal et al. — *Team of Teams*"
+  - "John P. Kotter — *Leading Change*"
+limits:
+  - "No existe una estructura óptima universal. Cada diseño intercambia eficiencia, especialización, velocidad, coordinación y adaptabilidad; documenta qué costo aceptas."
+evidence_signals:
+  - "decision latency"
+  - "handoff count"
+  - "span of control"
+  - "cross-functional outcome"
+  - "role clarity"

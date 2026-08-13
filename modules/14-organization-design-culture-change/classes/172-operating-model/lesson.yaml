@@ -1,0 +1,31 @@
+id: 172
+part: 14
+title: "Operating model"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "diseñar estructura, derechos de decisión, cultura y cambio como un sistema"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir operating model de business unit mediante evidencia observable."
+  - "Aplicar la secuencia: derivar capabilities de estrategia → diseñar unidades y servicios compartidos → mapear decisiones y flujos críticos → definir datos tecnología y talento habilitante → establecer governance y cadencias."
+  - "Interpretar end-to-end cycle time, decision latency, shared-service performance sin atribuir causalidad automática."
+  - "Resolver el caso de operating model con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Jay R. Galbraith — *Designing Organizations*"
+  - "Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*"
+  - "Chip Heath & Dan Heath — *Switch*"
+  - "Aaron Dignan — *Brave New Work*"
+  - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
+  - "John P. Kotter — *Leading Change*"
+limits:
+  - "Un operating model demasiado detallado se vuelve manual operativo. Define principios e interfaces estables, dejando adaptación local donde no compromete el sistema."
+evidence_signals:
+  - "end-to-end cycle time"
+  - "decision latency"
+  - "shared-service performance"
+  - "capability maturity"
+  - "cadence effectiveness"

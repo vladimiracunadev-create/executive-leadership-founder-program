@@ -1,0 +1,31 @@
+id: 56
+part: 04
+title: "Reuniones que deciden"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir reunión informativa de reunión de decisión mediante evidencia observable."
+  - "Aplicar la secuencia: clasificar propósito antes de convocar → enviar pre-read con pregunta → definir decisor y participantes → facilitar discusión y cerrar → registrar decisión y acciones."
+  - "Interpretar horas de reunión, decisiones por reunión, pre-reads leídos sin atribuir causalidad automática."
+  - "Resolver el caso de reuniones que deciden con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "J. Richard Hackman — *Leading Teams*"
+  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
+  - "Patrick Lencioni — *Death by Meeting*"
+  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+  - "Kim Scott — *Radical Candor*"
+  - "Andrew S. Grove — *High Output Management*"
+limits:
+  - "No todas las reuniones deben producir una decisión. Creatividad, aprendizaje y construcción de relaciones son fines legítimos; el problema es no declarar qué tipo de reunión se está diseñando."
+evidence_signals:
+  - "horas de reunión"
+  - "decisiones por reunión"
+  - "pre-reads leídos"
+  - "acciones sin owner"
+  - "temas reabiertos"

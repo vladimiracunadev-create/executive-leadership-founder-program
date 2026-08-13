@@ -1,0 +1,31 @@
+id: 137
+part: 11
+title: "Marca y señales de confianza"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir brand de distinctive asset mediante evidencia observable."
+  - "Aplicar la secuencia: definir situaciones de compra → construir activos consistentes → añadir pruebas y señales → alinear experiencia con promesa → medir recuerdo, confianza y conversión."
+  - "Interpretar brand awareness, share of search, direct traffic sin atribuir causalidad automática."
+  - "Resolver el caso de marca y señales de confianza con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "commercial-decision-brief.md"
+references:
+  - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
+  - "Byron Sharp — *How Brands Grow*"
+  - "Aaron Ross & Jason Lemkin — *From Impossible to Inevitable*"
+  - "Geoffrey A. Moore — *Crossing the Chasm*"
+  - "Al Ries & Jack Trout — *Positioning*"
+  - "April Dunford — *Obviously Awesome*"
+limits:
+  - "Invertir en marca no reemplaza distribución ni producto. Tampoco todo atributo necesita diferenciación; algunos activos sirven para ser recordado más que para justificar superioridad."
+evidence_signals:
+  - "brand awareness"
+  - "share of search"
+  - "direct traffic"
+  - "trust conversion"
+  - "promise failures"

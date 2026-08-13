@@ -1,0 +1,32 @@
+id: 214
+part: 17
+title: "Evaluación del CEO y sucesión"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir CEO evaluation de scorecard mediante evidencia observable."
+  - "Aplicar la secuencia: definir expectativas ex ante → equilibrar outcomes y behaviors → reunir evidencia y contexto → discutir en sesión independiente → dar feedback compensation y development actions."
+  - "Interpretar enterprise results, strategic milestones, team health sin atribuir causalidad automática."
+  - "Resolver el caso de evaluación del CEO y sucesión con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "people-decision-brief.md"
+references:
+  - "Bob Tricker — *Corporate Governance*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
+  - "Paul Polman & Andrew Winston — *Net Positive*"
+  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
+  - "Ram Charan — *Boards That Deliver*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+limits:
+  - "Evita cambiar criterios retroactivamente para justificar una opinión. La evaluación requiere juicio, pero debe estar anclada en objetivos, contexto y evidencia acordados."
+evidence_signals:
+  - "enterprise results"
+  - "strategic milestones"
+  - "team health"
+  - "succession depth"
+  - "stakeholder trust"

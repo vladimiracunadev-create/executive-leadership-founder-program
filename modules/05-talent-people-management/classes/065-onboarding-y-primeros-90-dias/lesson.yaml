@@ -1,0 +1,31 @@
+id: 65
+part: 05
+title: "Onboarding y primeros 90 días"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir onboarding de time-to-productivity mediante evidencia observable."
+  - "Aplicar la secuencia: preparar accesos y contexto antes del ingreso → acordar 30-60-90 outcomes → construir mapa de stakeholders → combinar aprendizaje con entregas pequeñas → revisar ajuste y soporte cada etapa."
+  - "Interpretar time-to-productivity, accesos listos día uno, claridad de rol sin atribuir causalidad automática."
+  - "Resolver el caso de onboarding y primeros 90 días con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
+  - "Raymond Noe et al. — *Human Resource Management*"
+  - "Kim Scott — *Radical Candor*"
+  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
+  - "Robert I. Sutton — *Good Boss, Bad Boss*"
+  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+limits:
+  - "Onboarding no debe imponer velocidad artificial ni ocultar problemas de rol. Si el cargo o prioridades cambian durante la incorporación, el plan se renegocia explícitamente."
+evidence_signals:
+  - "time-to-productivity"
+  - "accesos listos día uno"
+  - "claridad de rol"
+  - "retención 90 días"
+  - "objetivos 30-60-90"

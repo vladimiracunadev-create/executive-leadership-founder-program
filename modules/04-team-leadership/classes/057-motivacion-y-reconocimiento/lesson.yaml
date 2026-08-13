@@ -1,0 +1,31 @@
+id: 57
+part: 04
+title: "Motivación y reconocimiento"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir reconocimiento de recompensa mediante evidencia observable."
+  - "Aplicar la secuencia: observar contribución específica → explicar impacto y valor relacionado → adaptar forma a la persona y contexto → separar reconocimiento de favoritismo → revisar incentivos por conductas no deseadas."
+  - "Interpretar participación, gaming de métricas, percepción de equidad sin atribuir causalidad automática."
+  - "Resolver el caso de motivación y reconocimiento con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "J. Richard Hackman — *Leading Teams*"
+  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
+  - "Liz Wiseman — *Multipliers*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "John Whitmore — *Coaching for Performance*"
+  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+limits:
+  - "Reconocer no debe crear competencia tóxica ni exponer a personas que prefieren privacidad. Y el reconocimiento nunca sustituye compensación justa o condiciones de trabajo adecuadas."
+evidence_signals:
+  - "participación"
+  - "gaming de métricas"
+  - "percepción de equidad"
+  - "reconocimientos específicos"
+  - "retención de talento"

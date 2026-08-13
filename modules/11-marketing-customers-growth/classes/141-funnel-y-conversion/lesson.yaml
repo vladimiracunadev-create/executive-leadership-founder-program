@@ -1,0 +1,31 @@
+id: 141
+part: 11
+title: "Funnel y conversión"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir funnel de conversion rate mediante evidencia observable."
+  - "Aplicar la secuencia: definir etapas por comportamiento → medir base y conversiones → segmentar por cohortes/canales → priorizar cuello por impacto → experimentar y medir incremento."
+  - "Interpretar stage conversion, overall conversion, drop-off sin atribuir causalidad automática."
+  - "Resolver el caso de funnel y conversión con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "commercial-decision-brief.md"
+references:
+  - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
+  - "Byron Sharp — *How Brands Grow*"
+  - "April Dunford — *Obviously Awesome*"
+  - "Al Ries & Jack Trout — *Positioning*"
+  - "Gabriel Weinberg & Justin Mares — *Traction*"
+  - "Alexander Osterwalder & Yves Pigneur — *Business Model Generation*"
+limits:
+  - "Un funnel supone progresión; productos con loops, referrals o múltiples jobs no siempre encajan linealmente. Usa el modelo donde simplifica una decisión."
+evidence_signals:
+  - "stage conversion"
+  - "overall conversion"
+  - "drop-off"
+  - "cohort retention"
+  - "incremental lift"

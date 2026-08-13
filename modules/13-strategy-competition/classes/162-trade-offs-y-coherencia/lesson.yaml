@@ -1,0 +1,31 @@
+id: 162
+part: 13
+title: "Trade-offs y coherencia"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir trade-off de fit mediante evidencia observable."
+  - "Aplicar la secuencia: declarar posición deseada → listar actividades necesarias → identificar incompatibilidades → mapear refuerzos y dependencias → eliminar iniciativas que erosionan fit."
+  - "Interpretar exception count, segment profitability, operational complexity sin atribuir causalidad automática."
+  - "Resolver el caso de trade-offs y coherencia con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Michael E. Porter — *Competitive Strategy*"
+  - "Michael E. Porter — *Competitive Advantage*"
+  - "A.G. Lafley & Roger L. Martin — *Playing to Win*"
+  - "Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy*"
+  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+limits:
+  - "Trade-offs excesivos pueden impedir experimentación o atender cambios del mercado. La coherencia debe revisarse cuando la hipótesis estratégica cambia, no protegerse por identidad."
+evidence_signals:
+  - "exception count"
+  - "segment profitability"
+  - "operational complexity"
+  - "resource fragmentation"
+  - "position clarity"

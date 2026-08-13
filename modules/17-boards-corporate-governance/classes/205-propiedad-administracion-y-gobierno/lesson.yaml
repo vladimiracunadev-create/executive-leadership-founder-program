@@ -1,0 +1,32 @@
+id: 205
+part: 17
+title: "Propiedad, administración y gobierno"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir ownership de governance mediante evidencia observable."
+  - "Aplicar la secuencia: mapear propietarios y derechos → definir materias reservadas → separar board de management → diseñar información y accountability → revisar conflictos y evolución del gobierno."
+  - "Interpretar reserved-matter breaches, board-management overlap, decision latency sin atribuir causalidad automática."
+  - "Resolver el caso de propiedad, administración y gobierno con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "board-or-executive-memo.md"
+references:
+  - "Bob Tricker — *Corporate Governance*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Ram Charan — *Boards That Deliver*"
+  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+limits:
+  - "La separación formal no elimina relaciones de poder. En empresas cerradas y startups, roles pueden coincidir; documenta sombreros, conflictos y proceso de decisión."
+evidence_signals:
+  - "reserved-matter breaches"
+  - "board-management overlap"
+  - "decision latency"
+  - "owner concentration"
+  - "governance exceptions"

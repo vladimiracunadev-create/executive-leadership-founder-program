@@ -1,0 +1,31 @@
+id: 13
+part: 01
+title: "Formular bien el problema"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "decidir con evidencia, incertidumbre, causalidad y pensamiento sistémico"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir síntoma de problema mediante evidencia observable."
+  - "Aplicar la secuencia: describir estado actual con evidencia → definir estado deseado y stakeholder → delimitar alcance y restricciones → separar causas hipotéticas de hechos → redactar una pregunta de decisión verificable."
+  - "Interpretar magnitud de la brecha, frecuencia del síntoma, impacto económico o humano sin atribuir causalidad automática."
+  - "Resolver el caso de formular bien el problema con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Kahneman — *Thinking, Fast and Slow*"
+  - "Gary Klein — *Sources of Power*"
+  - "Howard Raiffa — *Decision Analysis*"
+  - "Peter M. Senge — *The Fifth Discipline*"
+  - "Richard Thaler & Cass Sunstein — *Nudge*"
+  - "Annie Duke — *Thinking in Bets*"
+limits:
+  - "Una formulación demasiado estrecha optimiza un síntoma; una demasiado amplia paraliza. Debe ser lo bastante concreta para decidir y lo bastante abierta para no esconder la solución dentro de la pregunta."
+evidence_signals:
+  - "magnitud de la brecha"
+  - "frecuencia del síntoma"
+  - "impacto económico o humano"
+  - "alcance afectado"
+  - "tiempo hasta el resultado deseado"

@@ -1,0 +1,31 @@
+id: 234
+part: 19
+title: "Automatización y rediseño de trabajo"
+duration_minutes: 150
+level: "Etapa 5 — CEO → Transformador digital"
+outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir task decomposition de augmentation mediante evidencia observable."
+  - "Aplicar la secuencia: mapear workflow end-to-end → clasificar tareas por repetición judgment y risk → diseñar target workflow y exceptions → redefinir roles y controles → pilotear y medir productivity y quality."
+  - "Interpretar touch time, automation rate, exception rate sin atribuir causalidad automática."
+  - "Resolver el caso de automatización y rediseño de trabajo con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "operating-improvement-brief.md"
+references:
+  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
+  - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
+  - "Martin Kleppmann — *Designing Data-Intensive Applications*"
+  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
+  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
+  - "Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd*"
+limits:
+  - "Automatización de alto riesgo necesita controles y fallback. No uses capacidad técnica como justificación para eliminar juicio humano donde daño potencial es material."
+evidence_signals:
+  - "touch time"
+  - "automation rate"
+  - "exception rate"
+  - "quality"
+  - "capacity released"

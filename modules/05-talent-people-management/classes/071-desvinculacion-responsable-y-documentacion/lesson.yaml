@@ -1,0 +1,31 @@
+id: 71
+part: 05
+title: "Desvinculación responsable y documentación"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir causal de término de due process mediante evidencia observable."
+  - "Aplicar la secuencia: revisar hechos, documentación y fundamento → consultar RR.HH./legal antes de comunicar → preparar conversación breve y digna → ejecutar offboarding y seguridad → comunicar al equipo sin divulgar información privada."
+  - "Interpretar errores de acceso post-salida, reclamos, documentación completa sin atribuir causalidad automática."
+  - "Resolver el caso de desvinculación responsable y documentación con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
+  - "Raymond Noe et al. — *Human Resource Management*"
+  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+  - "John Boudreau & Peter Ramstad — *Beyond HR*"
+  - "John Whitmore — *Coaching for Performance*"
+  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
+limits:
+  - "La normativa laboral varía y tiene consecuencias relevantes. Ninguna clase habilita a ejecutar un término sin revisar legislación, contrato, fuero, no discriminación, proceso y asesoría adecuada."
+evidence_signals:
+  - "errores de acceso post-salida"
+  - "reclamos"
+  - "documentación completa"
+  - "knowledge transfer"
+  - "impacto en equipo"

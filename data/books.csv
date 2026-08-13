@@ -1,0 +1,230 @@
+key,author,title,area,type
+drucker-effective,Peter F. Drucker,The Effective Executive,Ejecución y liderazgo personal,core_or_module
+drucker-management,Peter F. Drucker,"Management: Tasks, Responsibilities, Practices",Management,core_or_module
+covey-7habits,Stephen R. Covey,The 7 Habits of Highly Effective People,Autoliderazgo,core_or_module
+grove-output,Andrew S. Grove,High Output Management,Management,core_or_module
+clear-atomic,James Clear,Atomic Habits,Hábitos,core_or_module
+kahneman-thinking,Daniel Kahneman,"Thinking, Fast and Slow",Decisiones,core_or_module
+klein-sources,Gary Klein,Sources of Power,Decisiones,core_or_module
+rumelt-good,Richard Rumelt,Good Strategy/Bad Strategy,Estrategia,core_or_module
+senge-fifth,Peter M. Senge,The Fifth Discipline,Pensamiento sistémico,core_or_module
+duke-thinking,Annie Duke,Thinking in Bets,Decisiones,core_or_module
+carnegie-friends,Dale Carnegie,How to Win Friends and Influence People,Comunicación,core_or_module
+cuddy-presence,Amy Cuddy,Presence,Presencia,core_or_module
+heath-made,Chip Heath & Dan Heath,Made to Stick,Comunicación,core_or_module
+cialdini-influence,Robert B. Cialdini,Influence,Persuasión,core_or_module
+fisher-getting,"Roger Fisher, William Ury & Bruce Patton",Getting to Yes,Negociación,core_or_module
+goleman-ei,Daniel Goleman,Emotional Intelligence,Inteligencia emocional,core_or_module
+goleman-primal,"Daniel Goleman, Richard Boyatzis & Annie McKee",Primal Leadership,Liderazgo,core_or_module
+heifetz-line,Ronald Heifetz & Marty Linsky,Leadership on the Line,Liderazgo adaptativo,core_or_module
+edmondson-fearless,Amy C. Edmondson,The Fearless Organization,Seguridad psicológica,core_or_module
+duckworth-grit,Angela Duckworth,Grit,Resiliencia,core_or_module
+lencioni-five,Patrick Lencioni,The Five Dysfunctions of a Team,Equipos,core_or_module
+hackman-leading,J. Richard Hackman,Leading Teams,Equipos,core_or_module
+scott-radical,Kim Scott,Radical Candor,Feedback,core_or_module
+armstrong-hrm,Michael Armstrong & Stephen Taylor,Armstrong's Handbook of Human Resource Management Practice,RR.HH.,core_or_module
+noe-hrm,Raymond Noe et al.,Human Resource Management,RR.HH.,core_or_module
+buckingham-first,Marcus Buckingham & Curt Coffman,"First, Break All the Rules",Management de personas,core_or_module
+sutton-goodboss,Robert I. Sutton,"Good Boss, Bad Boss",Management de personas,core_or_module
+pmi-pmbok,Project Management Institute,A Guide to the Project Management Body of Knowledge (PMBOK Guide),Proyectos,core_or_module
+kerzner-project,Harold Kerzner,Project Management,Proyectos,core_or_module
+schwaber-scrum,Ken Schwaber & Jeff Sutherland,The Scrum Guide,Agile,core_or_module
+anderson-kanban,David J. Anderson,Kanban,Flujo,core_or_module
+forsgren-accelerate,"Nicole Forsgren, Jez Humble & Gene Kim",Accelerate,Entrega tecnológica,core_or_module
+slack-operations,Nigel Slack & Alistair Brandon-Jones,Operations Management,Operaciones,core_or_module
+goldratt-goal,Eliyahu M. Goldratt & Jeff Cox,The Goal,Restricciones,core_or_module
+womack-lean,James P. Womack & Daniel T. Jones,Lean Thinking,Lean,core_or_module
+deming-crisis,W. Edwards Deming,Out of the Crisis,Calidad,core_or_module
+rummler-process,Geary A. Rummler & Alan P. Brache,Improving Performance,Procesos,core_or_module
+doerr-okrs,John Doerr,Measure What Matters,OKR,core_or_module
+kaplan-scorecard,Robert S. Kaplan & David P. Norton,The Balanced Scorecard,Control de gestión,core_or_module
+marr-kpi,Bernard Marr,Key Performance Indicators,Métricas,core_or_module
+brealey-corpfin,"Richard Brealey, Stewart Myers & Franklin Allen",Principles of Corporate Finance,Finanzas corporativas,core_or_module
+ross-corpfin,"Stephen Ross, Randolph Westerfield et al.",Corporate Finance,Finanzas corporativas,core_or_module
+koller-valuation,"Tim Koller, Marc Goedhart & David Wessels",Valuation: Measuring and Managing the Value of Companies,Valoración,core_or_module
+damodaran-valuation,Aswath Damodaran,Investment Valuation,Valoración,core_or_module
+horngren-managerial,Charles Horngren et al.,Cost Accounting: A Managerial Emphasis,Contabilidad gerencial,core_or_module
+rackham-spin,Neil Rackham,SPIN Selling,Ventas,core_or_module
+dixon-challenger,Matthew Dixon & Brent Adamson,The Challenger Sale,Ventas,core_or_module
+voss-never,Chris Voss & Tahl Raz,Never Split the Difference,Negociación,core_or_module
+malhotra-negotiation,Deepak Malhotra & Max H. Bazerman,Negotiation Genius,Negociación,core_or_module
+kotler-marketing,Philip Kotler & Kevin Lane Keller,Marketing Management,Marketing,core_or_module
+sharp-brands,Byron Sharp,How Brands Grow,Marketing,core_or_module
+dunford-obvious,April Dunford,Obviously Awesome,Posicionamiento,core_or_module
+moore-chasm,Geoffrey A. Moore,Crossing the Chasm,Go-to-market,core_or_module
+ellis-hacking,Sean Ellis & Morgan Brown,Hacking Growth,Growth,core_or_module
+cagan-inspired,Marty Cagan,Inspired,Producto,core_or_module
+torres-discovery,Teresa Torres,Continuous Discovery Habits,Product discovery,core_or_module
+osterwalder-testing,David J. Bland & Alexander Osterwalder,Testing Business Ideas,Validación,core_or_module
+christensen-competing,Clayton M. Christensen et al.,Competing Against Luck,Jobs to Be Done,core_or_module
+ries-lean,Eric Ries,The Lean Startup,Emprendimiento,core_or_module
+porter-strategy,Michael E. Porter,Competitive Strategy,Estrategia,core_or_module
+porter-advantage,Michael E. Porter,Competitive Advantage,Estrategia,core_or_module
+lafley-winning,A.G. Lafley & Roger L. Martin,Playing to Win,Estrategia,core_or_module
+kim-blue,W. Chan Kim & Renée Mauborgne,Blue Ocean Strategy,Estrategia,core_or_module
+schein-culture,Edgar H. Schein & Peter A. Schein,Organizational Culture and Leadership,Cultura,core_or_module
+galbraith-design,Jay R. Galbraith,Designing Organizations,Diseño organizacional,core_or_module
+kotter-leading,John P. Kotter,Leading Change,Cambio,core_or_module
+heath-switch,Chip Heath & Dan Heath,Switch,Cambio,core_or_module
+lencioni-advantage,Patrick Lencioni,The Advantage,Salud organizacional,core_or_module
+coso-erm,COSO,Enterprise Risk Management—Integrating with Strategy and Performance,Riesgo,core_or_module
+hull-risk,John C. Hull,Risk Management and Financial Institutions,Riesgo,core_or_module
+nist-csf,NIST,Cybersecurity Framework (CSF) 2.0,Ciberseguridad,core_or_module
+nist-airmf,NIST,AI Risk Management Framework (AI RMF 1.0),IA responsable,core_or_module
+oecd-ai,OECD,OECD AI Principles,IA responsable,core_or_module
+horowitz-hard,Ben Horowitz,The Hard Thing About Hard Things,CEO / Founder,core_or_module
+mochary-ceo,Matt Mochary,The Great CEO Within,CEO,core_or_module
+charan-execution,Larry Bossidy & Ram Charan,Execution,Ejecución,core_or_module
+tricker-governance,Bob Tricker,Corporate Governance,Gobierno corporativo,core_or_module
+oecd-governance,OECD,G20/OECD Principles of Corporate Governance 2023,Gobierno corporativo,core_or_module
+lebanc-boards,Richard Leblanc & James Gillies,Inside the Boardroom,Directorios,core_or_module
+charan-boards,Ram Charan,Boards That Deliver,Directorios,core_or_module
+monks-governance,Robert A. G. Monks & Nell Minow,Corporate Governance,Gobierno corporativo,core_or_module
+feld-venture,Brad Feld & Jason Mendelson,Venture Deals,Venture capital,core_or_module
+dePamphilis-ma,Donald DePamphilis,"Mergers, Acquisitions, and Other Restructuring Activities",M&A,core_or_module
+iansiti-ai,Marco Iansiti & Karim R. Lakhani,Competing in the Age of AI,IA y estrategia,core_or_module
+davenport-allin,Thomas H. Davenport & Nitin Mittal,All-In on AI,IA empresarial,core_or_module
+westerman-digital,"George Westerman, Didier Bonnet & Andrew McAfee",Leading Digital,Transformación digital,core_or_module
+mcafee-machine,Andrew McAfee & Erik Brynjolfsson,"Machine, Platform, Crowd",Economía digital,core_or_module
+blank-four,Steve Blank,The Four Steps to the Epiphany,Customer development,core_or_module
+osterwalder-business,Alexander Osterwalder & Yves Pigneur,Business Model Generation,Modelos de negocio,core_or_module
+aulet-disciplined,Bill Aulet,Disciplined Entrepreneurship,Emprendimiento,core_or_module
+wasserman-founders,Noam Wasserman,The Founder's Dilemmas,Founders,core_or_module
+sii-official,Servicio de Impuestos Internos (Chile),"Guías, normativa y servicios oficiales",Chile / Tributación,core_or_module
+res-official,Registro de Empresas y Sociedades (Chile),Portal y documentación oficial,Chile / Sociedades,core_or_module
+dt-official,Dirección del Trabajo (Chile),Normativa y orientación oficial,Chile / Laboral,core_or_module
+inapi-official,INAPI (Chile),Propiedad industrial y orientación oficial,Chile / PI,core_or_module
+sercotec-official,Sercotec (Chile),"Programas, capacitación y Centros de Desarrollo de Negocios",Chile / Emprendimiento,core_or_module
+gerber-emyth,Michael E. Gerber,The E-Myth Revisited,Sistemas de negocio,core_or_module
+harnish-scaling,Verne Harnish,Scaling Up,Escalamiento,core_or_module
+sutton-scaling,Robert I. Sutton & Huggy Rao,Scaling Up Excellence,Escalamiento,core_or_module
+taleb-antifragile,Nassim Nicholas Taleb,Antifragile,Riesgo e independencia,core_or_module
+extra-001,Gary Yukl,Leadership in Organizations,Teoría de liderazgo,complementary
+extra-002,Peter G. Northouse,Leadership: Theory and Practice,Teoría de liderazgo,complementary
+extra-003,Ronald A. Heifetz,Leadership Without Easy Answers,Liderazgo adaptativo,complementary
+extra-004,Mary Uhl-Bien et al.,Organizational Behavior,Comportamiento organizacional,complementary
+extra-005,Henry Mintzberg,Managing,Management,complementary
+extra-006,Henry Mintzberg,The Nature of Managerial Work,Management,complementary
+extra-007,Peter F. Drucker,Innovation and Entrepreneurship,Emprendimiento,complementary
+extra-008,Peter F. Drucker,The Practice of Management,Management,complementary
+extra-009,Jim Collins,Good to Great,Management,complementary
+extra-010,Jim Collins & Jerry Porras,Built to Last,Organizaciones,complementary
+extra-011,Robert Cialdini,Pre-Suasion,Persuasión,complementary
+extra-012,"Douglas Stone, Bruce Patton & Sheila Heen",Difficult Conversations,Comunicación,complementary
+extra-013,Kerry Patterson et al.,Crucial Conversations,Comunicación,complementary
+extra-014,Chris Argyris,Overcoming Organizational Defenses,Aprendizaje organizacional,complementary
+extra-015,David A. Garvin,Learning in Action,Aprendizaje organizacional,complementary
+extra-016,Daniel H. Pink,Drive,Motivación,complementary
+extra-017,Frederick Herzberg,Work and the Nature of Man,Motivación,complementary
+extra-018,Victor H. Vroom,Work and Motivation,Motivación,complementary
+extra-019,John Whitmore,Coaching for Performance,Coaching,complementary
+extra-020,Michael Bungay Stanier,The Coaching Habit,Coaching,complementary
+extra-021,Dave Ulrich,Human Resource Champions,RR.HH.,complementary
+extra-022,John Boudreau & Peter Ramstad,Beyond HR,Talento,complementary
+extra-023,Patrick Lencioni,Death by Meeting,Reuniones,complementary
+extra-024,Atul Gawande,The Checklist Manifesto,Ejecución,complementary
+extra-025,Gene Kim et al.,The Phoenix Project,Operaciones tecnológicas,complementary
+extra-026,Gene Kim,The Unicorn Project,Operaciones tecnológicas,complementary
+extra-027,Martin Kleppmann,Designing Data-Intensive Applications,Arquitectura tecnológica,complementary
+extra-028,Richard Thaler & Cass Sunstein,Nudge,Decisiones,complementary
+extra-029,Philip Tetlock & Dan Gardner,Superforecasting,Forecasting,complementary
+extra-030,Michael Mauboussin,The Success Equation,Decisiones,complementary
+extra-031,Annie Duke,How to Decide,Decisiones,complementary
+extra-032,Avinash K. Dixit & Barry J. Nalebuff,The Art of Strategy,Estrategia,complementary
+extra-033,Hamilton Helmer,7 Powers,Estrategia,complementary
+extra-034,Rita Gunther McGrath,The End of Competitive Advantage,Estrategia,complementary
+extra-035,Roger L. Martin,A New Way to Think,Management,complementary
+extra-036,Clayton M. Christensen,The Innovator's Dilemma,Innovación,complementary
+extra-037,Everett M. Rogers,Diffusion of Innovations,Innovación,complementary
+extra-038,Alexander Osterwalder et al.,Value Proposition Design,Producto,complementary
+extra-039,Melissa Perri,Escaping the Build Trap,Producto,complementary
+extra-040,Dan Olsen,The Lean Product Playbook,Producto,complementary
+extra-041,Rob Fitzpatrick,The Mom Test,Customer discovery,complementary
+extra-042,Gabriel Weinberg & Justin Mares,Traction,Growth,complementary
+extra-043,Al Ries & Jack Trout,Positioning,Marketing,complementary
+extra-044,David Aaker,Building Strong Brands,Marca,complementary
+extra-045,W. Chan Kim & Renée Mauborgne,Blue Ocean Shift,Estrategia,complementary
+extra-046,Neil Rackham,Major Account Sales Strategy,Ventas,complementary
+extra-047,Mark Roberge,The Sales Acceleration Formula,Ventas,complementary
+extra-048,Aaron Ross & Jason Lemkin,From Impossible to Inevitable,SaaS / Ventas,complementary
+extra-049,Aaron Ross & Marylou Tyler,Predictable Revenue,Ventas,complementary
+extra-050,David Skok,SaaS Metrics resources,Unit economics,complementary
+extra-051,David J. Teece,Dynamic Capabilities and Strategic Management,Estrategia,complementary
+extra-052,Robert S. Kaplan & David P. Norton,Strategy Maps,Estrategia,complementary
+extra-053,Michael C. Mankins & Eric Garton,"Time, Talent, Energy",Organización,complementary
+extra-054,John Doerr,Speed & Scale,Ejecución,complementary
+extra-055,Geoffrey A. Moore,Zone to Win,Innovación,complementary
+extra-056,Andrew S. Grove,Only the Paranoid Survive,Estrategia,complementary
+extra-057,Reid Hoffman & Chris Yeh,Blitzscaling,Escalamiento,complementary
+extra-058,Elad Gil,High Growth Handbook,Escalamiento,complementary
+extra-059,Ben B. Horowitz,What You Do Is Who You Are,Cultura,complementary
+extra-060,Frederic Laloux,Reinventing Organizations,Diseño organizacional,complementary
+extra-061,Aaron Dignan,Brave New Work,Diseño organizacional,complementary
+extra-062,John P. Kotter & Holger Rathgeber,Our Iceberg Is Melting,Cambio,complementary
+extra-063,John P. Kotter,Accelerate,Cambio,complementary
+extra-064,Clayton Christensen et al.,How Will You Measure Your Life?,Autoliderazgo,complementary
+extra-065,Michael E. Porter & Mark R. Kramer,Creating Shared Value,Estrategia / Impacto,complementary
+extra-066,Paul Polman & Andrew Winston,Net Positive,Sostenibilidad,complementary
+extra-067,John Elkington,Green Swans,Sostenibilidad,complementary
+extra-068,Thomas H. Davenport & Jeanne G. Harris,Competing on Analytics,Datos,complementary
+extra-069,Foster Provost & Tom Fawcett,Data Science for Business,Datos,complementary
+extra-070,"Ajay Agrawal, Joshua Gans & Avi Goldfarb",Prediction Machines,IA y economía,complementary
+extra-071,"Ajay Agrawal, Joshua Gans & Avi Goldfarb",Power and Prediction,IA y organización,complementary
+extra-072,Ethan Mollick,Co-Intelligence,IA y trabajo,complementary
+extra-073,Mustafa Suleyman & Michael Bhaskar,The Coming Wave,Tecnología y gobernanza,complementary
+extra-074,Bruce Schneier,Click Here to Kill Everybody,Ciberseguridad,complementary
+extra-075,Ross Anderson,Security Engineering,Ciberseguridad,complementary
+extra-076,Richard A. Clarke & Robert K. Knake,The Fifth Domain,Ciberseguridad,complementary
+extra-077,John C. Maxwell,The 21 Irrefutable Laws of Leadership,Liderazgo popular,complementary
+extra-078,Simon Sinek,Leaders Eat Last,Liderazgo popular,complementary
+extra-079,Simon Sinek,Start with Why,Propósito,complementary
+extra-080,Liz Wiseman,Multipliers,Liderazgo,complementary
+extra-081,Frances Frei & Anne Morriss,Unleashed,Liderazgo,complementary
+extra-082,Frances Frei & Anne Morriss,Move Fast and Fix Things,Cambio,complementary
+extra-083,Brené Brown,Dare to Lead,Liderazgo,complementary
+extra-084,Adam Grant,Think Again,Aprendizaje,complementary
+extra-085,Adam Grant,Give and Take,Relaciones,complementary
+extra-086,Cal Newport,Deep Work,Atención,complementary
+extra-087,Greg McKeown,Essentialism,Prioridades,complementary
+extra-088,Marshall Goldsmith,What Got You Here Won't Get You There,Desarrollo ejecutivo,complementary
+extra-089,Herminia Ibarra,"Act Like a Leader, Think Like a Leader",Transición a liderazgo,complementary
+extra-090,Michael D. Watkins,The First 90 Days,Transiciones,complementary
+extra-091,"Ram Charan, Stephen Drotter & James Noel",The Leadership Pipeline,Sucesión,complementary
+extra-092,Ram Charan,What the CEO Wants You to Know,Visión empresarial,complementary
+extra-093,Michael Hammer & James Champy,Reengineering the Corporation,Procesos,complementary
+extra-094,"James P. Womack, Daniel T. Jones & Daniel Roos",The Machine That Changed the World,Lean,complementary
+extra-095,Jeffrey K. Liker,The Toyota Way,Operaciones,complementary
+extra-096,Donella H. Meadows,Thinking in Systems,Sistemas,complementary
+extra-097,John Sterman,Business Dynamics,Sistemas,complementary
+extra-098,Jay W. Forrester,Industrial Dynamics,Sistemas,complementary
+extra-099,Alexander L. George & Andrew Bennett,Case Studies and Theory Development in the Social Sciences,Casos,complementary
+extra-100,Robert K. Yin,Case Study Research and Applications,Método de casos,complementary
+extra-101,Howard Raiffa,Decision Analysis,Decisiones,complementary
+extra-102,Max H. Bazerman & Don A. Moore,Judgment in Managerial Decision Making,Decisiones,complementary
+pedagogy-ambrose,Susan A. Ambrose et al.,How Learning Works: Seven Research-Based Principles for Smart Teaching,Diseño instruccional,pedagogy
+pedagogy-makeitstick,"Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel",Make It Stick: The Science of Successful Learning,Aprendizaje,pedagogy
+pedagogy-ubd,Grant Wiggins & Jay McTighe,Understanding by Design,Diseño inverso,pedagogy
+pedagogy-peak,Anders Ericsson & Robert Pool,Peak: Secrets from the New Science of Expertise,Práctica deliberada,pedagogy
+pedagogy-kolb,David A. Kolb,Experiential Learning,Aprendizaje experiencial,pedagogy
+pedagogy-case,William Ellet,The Case Study Handbook,Método de casos,pedagogy
+extra-minto,Barbara Minto,The Pyramid Principle,Escritura ejecutiva,complementary
+extra-duarte,Nancy Duarte,Resonate,Presentaciones,complementary
+extra-humbleinquiry,Edgar H. Schein,Humble Inquiry,Escucha y preguntas,complementary
+extra-katzenbach,Jon R. Katzenbach & Douglas K. Smith,The Wisdom of Teams,Equipos,complementary
+extra-pricing,"Thomas T. Nagle, John E. Hogan & Joseph Zale",The Strategy and Tactics of Pricing,Pricing,complementary
+extra-teamofteams,Stanley McChrystal et al.,Team of Teams,Diseño organizacional,complementary
+extra-iso31000,ISO,ISO 31000 Risk management,Riesgo,complementary
+extra-iso22301,ISO,ISO 22301 Business continuity management systems,Continuidad,complementary
+extra-iso9001,ISO,ISO 9001 Quality management systems,Calidad,complementary
+kieso-accounting,"Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield",Intermediate Accounting,Contabilidad financiera,core_or_module
+penman-fsa,Stephen H. Penman,Financial Statement Analysis and Security Valuation,Análisis de estados financieros,core_or_module
+palepu-analysis,"Krishna G. Palepu, Paul M. Healy & Erik Peek",Business Analysis and Valuation,Análisis financiero y valoración,core_or_module
+schilit-shenanigans,"Howard Schilit, Jeremy Perler & Yoni Engelhart",Financial Shenanigans,Calidad de resultados y señales contables,complementary
+bcn-labor,Biblioteca del Congreso Nacional de Chile,LeyChile: Código del Trabajo y legislación laboral vigente,Chile / Legislación laboral,primary_official
+suseso-official,Superintendencia de Seguridad Social (Chile),Normativa del Seguro de Accidentes del Trabajo y Enfermedades Profesionales,Chile / Seguridad y salud laboral,primary_official
+previsionsocial-official,Subsecretaría de Previsión Social (Chile),Seguridad y Salud Laboral / Decreto Supremo N°44,Chile / Prevención de riesgos,primary_official
+sp-official,Superintendencia de Pensiones (Chile),Normativa y sistema previsional,Chile / Pensiones,primary_official
+afc-official,AFC Chile,Seguro de Cesantía: información y operación oficial,Chile / Cesantía,primary_official
+cmf-official,Comisión para el Mercado Financiero (Chile),Normativa e información del mercado financiero,Chile / Financiero,primary_official
+chilecompra-official,Dirección ChileCompra,Mercado Público y normativa de compras públicas,Chile / Compras públicas,primary_official
+corfo-official,Corporación de Fomento de la Producción (Chile),"Programas, instrumentos y apoyo empresarial",Chile / Emprendimiento,primary_official

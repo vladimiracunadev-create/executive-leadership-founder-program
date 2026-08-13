@@ -1,0 +1,31 @@
+id: 76
+part: 06
+title: "Estimación y capacidad"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir effort de duration mediante evidencia observable."
+  - "Aplicar la secuencia: definir unidad de trabajo → usar datos históricos comparables → estimar rango y confianza → modelar capacidad, dependencias y buffers → actualizar forecast con throughput real."
+  - "Interpretar error de forecast, throughput, cycle time sin atribuir causalidad automática."
+  - "Resolver el caso de estimación y capacidad con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "operating-improvement-brief.md"
+references:
+  - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
+  - "Harold Kerzner — *Project Management*"
+  - "Gene Kim et al. — *The Phoenix Project*"
+  - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
+  - "Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*"
+  - "David J. Anderson — *Kanban*"
+limits:
+  - "No persigas precisión costosa para trabajo exploratorio. El objetivo de estimar es mejorar decisiones de alcance y fecha, no producir un número aparentemente exacto."
+evidence_signals:
+  - "error de forecast"
+  - "throughput"
+  - "cycle time"
+  - "capacity utilization"
+  - "variance"

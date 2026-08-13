@@ -1,0 +1,32 @@
+id: 192
+part: 15
+title: "Capstone: comité integrado de riesgos"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir risk portfolio de risk aggregation mediante evidencia observable."
+  - "Aplicar la secuencia: definir top risks por objetivo → analizar concentración y escenarios → comparar residual con apetito → decidir tratamientos y capital → asignar assurance y seguimiento."
+  - "Interpretar top-risk exposure, KRI breaches, control assurance sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: comité integrado de riesgos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
+  - "John C. Hull — *Risk Management and Financial Institutions*"
+  - "NIST — *AI Risk Management Framework (AI RMF 1.0)*"
+  - "Ross Anderson — *Security Engineering*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
+  - "COSO — *Enterprise Risk Management* / *Internal Control*. Fuente institucional: <https://www.coso.org/>."
+limits:
+  - "Agregar scores numéricos puede ocultar dependencia no lineal. Usa escenarios conjuntos y juicio experto para concentraciones que una suma simple no captura."
+evidence_signals:
+  - "top-risk exposure"
+  - "KRI breaches"
+  - "control assurance"
+  - "overdue actions"
+  - "scenario loss"

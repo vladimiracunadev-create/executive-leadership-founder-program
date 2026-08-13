@@ -1,0 +1,31 @@
+id: 8
+part: 00
+title: "Gestión de energía y sostenibilidad personal"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "pasar de ejecutar tareas a producir contribución, criterio y confianza"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir carga de recuperación mediante evidencia observable."
+  - "Aplicar la secuencia: observar patrones de energía y errores → separar picos excepcionales de carga estructural → proteger sueño, pausas y recuperación → rediseñar trabajo que depende de heroísmo → escalar capacidad cuando la sobrecarga deja de ser transitoria."
+  - "Interpretar horas extraordinarias, errores al final de jornada, ausentismo sin atribuir causalidad automática."
+  - "Resolver el caso de gestión de energía y sostenibilidad personal con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Gary Yukl — *Leadership in Organizations*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Greg McKeown — *Essentialism*"
+limits:
+  - "La sostenibilidad no exige eliminar periodos intensos. Lanzamientos, incidentes y crisis pueden requerir picos; el criterio es que sean explícitos, acotados, compensados y no el modo operativo permanente."
+evidence_signals:
+  - "horas extraordinarias"
+  - "errores al final de jornada"
+  - "ausentismo"
+  - "interrupciones fuera de horario"
+  - "variabilidad de rendimiento"

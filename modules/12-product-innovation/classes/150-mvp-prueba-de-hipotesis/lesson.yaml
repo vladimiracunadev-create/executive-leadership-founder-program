@@ -1,0 +1,31 @@
+id: 150
+part: 12
+title: "MVP: prueba de hipótesis"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir MVP de hypothesis mediante evidencia observable."
+  - "Aplicar la secuencia: identificar hipótesis de mayor riesgo → definir población y comportamiento esperado → diseñar MVP mínimo viable → predefinir umbral de decisión → ejecutar medir y decidir."
+  - "Interpretar activation, paid conversion, repeat use sin atribuir causalidad automática."
+  - "Resolver el caso de mVP: prueba de hipótesis con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "product-evidence-brief.md"
+references:
+  - "Marty Cagan — *Inspired*"
+  - "Teresa Torres — *Continuous Discovery Habits*"
+  - "Eric Ries — *The Lean Startup*"
+  - "Dan Olsen — *The Lean Product Playbook*"
+  - "Alexander Osterwalder et al. — *Value Proposition Design*"
+  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
+limits:
+  - "Un MVP no justifica exponer usuarios a inseguridad, incumplimiento o daño. En dominios regulados, la mínima versión debe respetar controles no negociables aunque eso aumente el costo."
+evidence_signals:
+  - "activation"
+  - "paid conversion"
+  - "repeat use"
+  - "support burden"
+  - "experiment confidence"

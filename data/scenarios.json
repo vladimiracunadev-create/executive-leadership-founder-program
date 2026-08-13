@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "S001",
+    "part": 0,
+    "title": "De profesional a líder — crecimiento",
+    "prompt": "Estás a cargo de de profesional a líder. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S002",
+    "part": 0,
+    "title": "De profesional a líder — desviación",
+    "prompt": "Estás a cargo de de profesional a líder. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S003",
+    "part": 1,
+    "title": "Pensamiento crítico y toma de decisiones — crecimiento",
+    "prompt": "Estás a cargo de pensamiento crítico y toma de decisiones. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S004",
+    "part": 1,
+    "title": "Pensamiento crítico y toma de decisiones — desviación",
+    "prompt": "Estás a cargo de pensamiento crítico y toma de decisiones. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S005",
+    "part": 2,
+    "title": "Comunicación, influencia y presencia ejecutiva — crecimiento",
+    "prompt": "Estás a cargo de comunicación, influencia y presencia ejecutiva. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S006",
+    "part": 2,
+    "title": "Comunicación, influencia y presencia ejecutiva — desviación",
+    "prompt": "Estás a cargo de comunicación, influencia y presencia ejecutiva. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S007",
+    "part": 3,
+    "title": "Inteligencia emocional, resiliencia y liderazgo adaptativo — crecimiento",
+    "prompt": "Estás a cargo de inteligencia emocional, resiliencia y liderazgo adaptativo. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S008",
+    "part": 3,
+    "title": "Inteligencia emocional, resiliencia y liderazgo adaptativo — desviación",
+    "prompt": "Estás a cargo de inteligencia emocional, resiliencia y liderazgo adaptativo. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S009",
+    "part": 4,
+    "title": "Liderazgo de equipos — crecimiento",
+    "prompt": "Estás a cargo de liderazgo de equipos. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S010",
+    "part": 4,
+    "title": "Liderazgo de equipos — desviación",
+    "prompt": "Estás a cargo de liderazgo de equipos. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S011",
+    "part": 5,
+    "title": "Gestión de talento y personas — crecimiento",
+    "prompt": "Estás a cargo de gestión de talento y personas. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S012",
+    "part": 5,
+    "title": "Gestión de talento y personas — desviación",
+    "prompt": "Estás a cargo de gestión de talento y personas. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S013",
+    "part": 6,
+    "title": "Proyectos, Agile y entrega — crecimiento",
+    "prompt": "Estás a cargo de proyectos, agile y entrega. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S014",
+    "part": 6,
+    "title": "Proyectos, Agile y entrega — desviación",
+    "prompt": "Estás a cargo de proyectos, agile y entrega. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S015",
+    "part": 7,
+    "title": "Operaciones, procesos y calidad — crecimiento",
+    "prompt": "Estás a cargo de operaciones, procesos y calidad. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S016",
+    "part": 7,
+    "title": "Operaciones, procesos y calidad — desviación",
+    "prompt": "Estás a cargo de operaciones, procesos y calidad. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S017",
+    "part": 8,
+    "title": "Sistemas de gestión, KPI y OKR — crecimiento",
+    "prompt": "Estás a cargo de sistemas de gestión, kpi y okr. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S018",
+    "part": 8,
+    "title": "Sistemas de gestión, KPI y OKR — desviación",
+    "prompt": "Estás a cargo de sistemas de gestión, kpi y okr. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S019",
+    "part": 9,
+    "title": "Finanzas y contabilidad para gerentes — crecimiento",
+    "prompt": "Estás a cargo de finanzas y contabilidad para gerentes. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S020",
+    "part": 9,
+    "title": "Finanzas y contabilidad para gerentes — desviación",
+    "prompt": "Estás a cargo de finanzas y contabilidad para gerentes. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S021",
+    "part": 10,
+    "title": "Ventas, desarrollo comercial y negociación — crecimiento",
+    "prompt": "Estás a cargo de ventas, desarrollo comercial y negociación. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S022",
+    "part": 10,
+    "title": "Ventas, desarrollo comercial y negociación — desviación",
+    "prompt": "Estás a cargo de ventas, desarrollo comercial y negociación. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S023",
+    "part": 11,
+    "title": "Marketing, cliente y crecimiento — crecimiento",
+    "prompt": "Estás a cargo de marketing, cliente y crecimiento. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S024",
+    "part": 11,
+    "title": "Marketing, cliente y crecimiento — desviación",
+    "prompt": "Estás a cargo de marketing, cliente y crecimiento. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S025",
+    "part": 12,
+    "title": "Producto e innovación — crecimiento",
+    "prompt": "Estás a cargo de producto e innovación. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S026",
+    "part": 12,
+    "title": "Producto e innovación — desviación",
+    "prompt": "Estás a cargo de producto e innovación. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S027",
+    "part": 13,
+    "title": "Estrategia y competencia — crecimiento",
+    "prompt": "Estás a cargo de estrategia y competencia. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S028",
+    "part": 13,
+    "title": "Estrategia y competencia — desviación",
+    "prompt": "Estás a cargo de estrategia y competencia. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S029",
+    "part": 14,
+    "title": "Diseño organizacional, cultura y cambio — crecimiento",
+    "prompt": "Estás a cargo de diseño organizacional, cultura y cambio. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S030",
+    "part": 14,
+    "title": "Diseño organizacional, cultura y cambio — desviación",
+    "prompt": "Estás a cargo de diseño organizacional, cultura y cambio. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S031",
+    "part": 15,
+    "title": "Riesgo, legal, compliance, ciberseguridad e IA — crecimiento",
+    "prompt": "Estás a cargo de riesgo, legal, compliance, ciberseguridad e ia. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S032",
+    "part": 15,
+    "title": "Riesgo, legal, compliance, ciberseguridad e IA — desviación",
+    "prompt": "Estás a cargo de riesgo, legal, compliance, ciberseguridad e ia. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S033",
+    "part": 16,
+    "title": "Alta dirección y oficina del CEO — crecimiento",
+    "prompt": "Estás a cargo de alta dirección y oficina del ceo. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S034",
+    "part": 16,
+    "title": "Alta dirección y oficina del CEO — desviación",
+    "prompt": "Estás a cargo de alta dirección y oficina del ceo. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S035",
+    "part": 17,
+    "title": "Directorios y gobierno corporativo — crecimiento",
+    "prompt": "Estás a cargo de directorios y gobierno corporativo. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S036",
+    "part": 17,
+    "title": "Directorios y gobierno corporativo — desviación",
+    "prompt": "Estás a cargo de directorios y gobierno corporativo. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S037",
+    "part": 18,
+    "title": "Finanzas corporativas, capital y M&A — crecimiento",
+    "prompt": "Estás a cargo de finanzas corporativas, capital y m&a. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S038",
+    "part": 18,
+    "title": "Finanzas corporativas, capital y M&A — desviación",
+    "prompt": "Estás a cargo de finanzas corporativas, capital y m&a. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S039",
+    "part": 19,
+    "title": "Tecnología, datos, IA y transformación digital para ejecutivos — crecimiento",
+    "prompt": "Estás a cargo de tecnología, datos, ia y transformación digital para ejecutivos. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S040",
+    "part": 19,
+    "title": "Tecnología, datos, IA y transformación digital para ejecutivos — desviación",
+    "prompt": "Estás a cargo de tecnología, datos, ia y transformación digital para ejecutivos. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S041",
+    "part": 20,
+    "title": "Founder y creación de empresas — crecimiento",
+    "prompt": "Estás a cargo de founder y creación de empresas. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S042",
+    "part": 20,
+    "title": "Founder y creación de empresas — desviación",
+    "prompt": "Estás a cargo de founder y creación de empresas. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S043",
+    "part": 21,
+    "title": "Founder Track Chile: formalización y operación — crecimiento",
+    "prompt": "Estás a cargo de founder track chile: formalización y operación. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S044",
+    "part": 21,
+    "title": "Founder Track Chile: formalización y operación — desviación",
+    "prompt": "Estás a cargo de founder track chile: formalización y operación. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S045",
+    "part": 22,
+    "title": "Escalamiento, propiedad y portafolio empresarial — crecimiento",
+    "prompt": "Estás a cargo de escalamiento, propiedad y portafolio empresarial. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S046",
+    "part": 22,
+    "title": "Escalamiento, propiedad y portafolio empresarial — desviación",
+    "prompt": "Estás a cargo de escalamiento, propiedad y portafolio empresarial. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S047",
+    "part": 23,
+    "title": "Independencia profesional y Business Owner Capstone — crecimiento",
+    "prompt": "Estás a cargo de independencia profesional y business owner capstone. El negocio crece 25% pero el equipo está saturado. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  },
+  {
+    "id": "S048",
+    "part": 23,
+    "title": "Independencia profesional y Business Owner Capstone — desviación",
+    "prompt": "Estás a cargo de independencia profesional y business owner capstone. El resultado del trimestre está bajo plan y faltan datos confiables. Debes elegir una respuesta antes del próximo comité.",
+    "options": [
+      {
+        "key": "A",
+        "text": "Actuar de inmediato con una medida fuerte y centralizada.",
+        "effects": {
+          "cash": 1,
+          "people": -2,
+          "trust": -1,
+          "execution": 2,
+          "risk": -1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "B",
+        "text": "Hacer una intervención reversible, definir owner, métrica y revisión en 14 días.",
+        "effects": {
+          "cash": 1,
+          "people": 1,
+          "trust": 1,
+          "execution": 2,
+          "risk": 1,
+          "growth": 1
+        }
+      },
+      {
+        "key": "C",
+        "text": "Esperar hasta tener información completa antes de decidir.",
+        "effects": {
+          "cash": -1,
+          "people": 0,
+          "trust": -1,
+          "execution": -2,
+          "risk": 0,
+          "growth": -1
+        }
+      }
+    ],
+    "debrief": "La opción B suele ser robusta en este escenario educativo porque combina acción, reversibilidad, ownership y aprendizaje. En casos reales, el contexto puede justificar otra alternativa."
+  }
+]

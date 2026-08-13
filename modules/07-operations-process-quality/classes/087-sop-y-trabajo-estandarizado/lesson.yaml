@@ -1,0 +1,31 @@
+id: 87
+part: 07
+title: "SOP y trabajo estandarizado"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "operar procesos end-to-end con capacidad, calidad, continuidad y mejora"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir SOP de standard work mediante evidencia observable."
+  - "Aplicar la secuencia: seleccionar proceso estable y crítico → observar cómo se ejecuta realmente → documentar pasos y controles mínimos → probar con una persona nueva → versionar y revisar tras incidentes."
+  - "Interpretar adherencia, errores de ejecución, tiempo de entrenamiento sin atribuir causalidad automática."
+  - "Resolver el caso de sOP y trabajo estandarizado con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "ISO — *ISO 22301 Business continuity management systems*"
+  - "W. Edwards Deming — *Out of the Crisis*"
+  - "Jeffrey K. Liker — *The Toyota Way*"
+  - "James P. Womack & Daniel T. Jones — *Lean Thinking*"
+limits:
+  - "Estandarizar trabajo exploratorio o creativo en exceso reduce aprendizaje. Un SOP debe concentrarse en lo repetible, regulado o riesgoso y dejar claro dónde se requiere criterio."
+evidence_signals:
+  - "adherencia"
+  - "errores de ejecución"
+  - "tiempo de entrenamiento"
+  - "excepciones"
+  - "versiones obsoletas"

@@ -1,0 +1,31 @@
+id: 7
+part: 00
+title: "Sistema personal de ejecución"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "pasar de ejecutar tareas a producir contribución, criterio y confianza"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir captura de next action mediante evidencia observable."
+  - "Aplicar la secuencia: capturar en un inbox confiable → clarificar resultado y próxima acción → calendarizar solo lo realmente temporal → seleccionar trabajo según prioridad y capacidad → hacer revisión semanal de compromisos y backlog."
+  - "Interpretar tareas olvidadas, edad media del backlog, reprogramaciones sin atribuir causalidad automática."
+  - "Resolver el caso de sistema personal de ejecución con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Peter G. Northouse — *Leadership: Theory and Practice*"
+  - "Herminia Ibarra — *Act Like a Leader, Think Like a Leader*"
+  - "Cal Newport — *Deep Work*"
+  - "Andrew S. Grove — *High Output Management*"
+limits:
+  - "El sistema debe ser más barato que el problema que resuelve. Una arquitectura personal demasiado compleja convierte la administración de tareas en otra forma de procrastinación."
+evidence_signals:
+  - "tareas olvidadas"
+  - "edad media del backlog"
+  - "reprogramaciones"
+  - "porcentaje de compromisos con próxima acción"
+  - "tiempo de revisión semanal"

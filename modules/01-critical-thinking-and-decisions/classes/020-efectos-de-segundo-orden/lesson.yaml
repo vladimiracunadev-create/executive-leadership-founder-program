@@ -1,0 +1,31 @@
+id: 20
+part: 01
+title: "Efectos de segundo orden"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "decidir con evidencia, incertidumbre, causalidad y pensamiento sistémico"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir primer orden de segundo orden mediante evidencia observable."
+  - "Aplicar la secuencia: describir efecto directo esperado → preguntar cómo responderán stakeholders → proyectar repetición de la política → identificar externalidades y dependencia → definir límites o salvaguardas."
+  - "Interpretar conductas inducidas, costos trasladados, calidad después de incentivos sin atribuir causalidad automática."
+  - "Resolver el caso de efectos de segundo orden con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Kahneman — *Thinking, Fast and Slow*"
+  - "Gary Klein — *Sources of Power*"
+  - "Howard Raiffa — *Decision Analysis*"
+  - "Philip Tetlock & Dan Gardner — *Superforecasting*"
+  - "Donella H. Meadows — *Thinking in Systems*"
+  - "Annie Duke — *Thinking in Bets*"
+limits:
+  - "El análisis de segundo orden puede convertirse en especulación infinita. Limita la cadena a consecuencias plausibles, materiales y con mecanismo defendible; no uses posibilidades remotas para bloquear toda decisión."
+evidence_signals:
+  - "conductas inducidas"
+  - "costos trasladados"
+  - "calidad después de incentivos"
+  - "retención tras cambios"
+  - "dependencia creada"

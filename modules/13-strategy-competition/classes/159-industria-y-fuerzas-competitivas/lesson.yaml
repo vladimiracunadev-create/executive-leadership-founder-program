@@ -1,0 +1,31 @@
+id: 159
+part: 13
+title: "Industria y fuerzas competitivas"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir rivalry de buyer power mediante evidencia observable."
+  - "Aplicar la secuencia: definir límites de industria y segmento → analizar cada fuerza con evidencia → identificar pools de beneficio → cambiar lente hacia sustitutos y complementos → traducir estructura a elección estratégica."
+  - "Interpretar industry margins, concentration, switching cost sin atribuir causalidad automática."
+  - "Resolver el caso de industria y fuerzas competitivas con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "strategy-memo.md"
+references:
+  - "Michael E. Porter — *Competitive Strategy*"
+  - "Michael E. Porter — *Competitive Advantage*"
+  - "A.G. Lafley & Roger L. Martin — *Playing to Win*"
+  - "Rita Gunther McGrath — *The End of Competitive Advantage*"
+  - "David J. Teece — *Dynamic Capabilities and Strategic Management*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+limits:
+  - "Las fronteras de industria cambian y las fuerzas no predicen movimientos específicos. Complementa con ecosistemas, tecnología, regulación y capacidades internas."
+evidence_signals:
+  - "industry margins"
+  - "concentration"
+  - "switching cost"
+  - "entry rate"
+  - "substitution rate"

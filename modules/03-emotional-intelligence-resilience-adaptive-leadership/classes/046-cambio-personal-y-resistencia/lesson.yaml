@@ -1,0 +1,31 @@
+id: 46
+part: 03
+title: "Cambio personal y resistencia"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "regularse, sostener exigencia humana y liderar adaptación bajo presión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir resistencia de pérdida percibida mediante evidencia observable."
+  - "Aplicar la secuencia: segmentar grupos y pérdidas → escuchar objeciones como datos → distinguir falta de skill, voluntad o confianza → diseñar apoyo y participación → medir adopción por conducta y resultado."
+  - "Interpretar uso sostenido, nuevas conductas, preguntas repetidas sin atribuir causalidad automática."
+  - "Resolver el caso de cambio personal y resistencia con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Daniel Goleman — *Emotional Intelligence*"
+  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
+  - "Brené Brown — *Dare to Lead*"
+  - "Ronald Heifetz & Marty Linsky — *Leadership on the Line*"
+  - "Amy C. Edmondson — *The Fearless Organization*"
+  - "Ronald A. Heifetz — *Leadership Without Easy Answers*"
+limits:
+  - "No toda resistencia debe ser vencida: puede revelar riesgos reales del diseño. Escuchar no implica aceptar veto, pero sí probar si el cambio necesita corrección."
+evidence_signals:
+  - "uso sostenido"
+  - "nuevas conductas"
+  - "preguntas repetidas"
+  - "workarounds"
+  - "rendimiento durante transición"

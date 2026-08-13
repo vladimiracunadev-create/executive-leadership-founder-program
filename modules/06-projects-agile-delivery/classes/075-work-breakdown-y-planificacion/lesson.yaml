@@ -1,0 +1,31 @@
+id: 75
+part: 06
+title: "Work breakdown y planificación"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir WBS de work package mediante evidencia observable."
+  - "Aplicar la secuencia: partir de entregables → descomponer hasta paquetes gestionables → mapear dependencias → estimar secuencia y recursos → identificar critical path y hitos."
+  - "Interpretar paquetes sin owner, dependencias tardías, critical path changes sin atribuir causalidad automática."
+  - "Resolver el caso de work breakdown y planificación con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
+  - "Harold Kerzner — *Project Management*"
+  - "Atul Gawande — *The Checklist Manifesto*"
+  - "Michael Hammer & James Champy — *Reengineering the Corporation*"
+  - "David J. Anderson — *Kanban*"
+  - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
+limits:
+  - "Descomponer en exceso produce falsa precisión y alto mantenimiento. El horizonte cercano necesita más detalle que el lejano; usa rolling-wave planning."
+evidence_signals:
+  - "paquetes sin owner"
+  - "dependencias tardías"
+  - "critical path changes"
+  - "milestones cumplidos"
+  - "replanificaciones"

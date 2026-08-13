@@ -1,0 +1,32 @@
+id: 185
+part: 15
+title: "Contratos: riesgos que un ejecutivo debe detectar"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir scope de limitation of liability mediante evidencia observable."
+  - "Aplicar la secuencia: identificar business deal real → mapear obligaciones y acceptance → cuantificar exposición económica → revisar IP datos seguridad y termination → escalar desviaciones y registrar aprobación."
+  - "Interpretar unlimited liability exposure, auto-renewal, SLA penalties sin atribuir causalidad automática."
+  - "Resolver el caso de contratos: riesgos que un ejecutivo debe detectar con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
+  - "John C. Hull — *Risk Management and Financial Institutions*"
+  - "Ross Anderson — *Security Engineering*"
+  - "Bob Tricker — *Corporate Governance*"
+  - "NIST — *AI Risk Management Framework (AI RMF 1.0)*"
+  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
+  - "COSO — *Enterprise Risk Management* / *Internal Control*. Fuente institucional: <https://www.coso.org/>."
+limits:
+  - "No uses checklists para negociar sin contexto legal. Cláusulas interactúan y su efecto depende de ley aplicable; el ejecutivo identifica y cuantifica, el abogado interpreta y redacta cuando corresponde."
+evidence_signals:
+  - "unlimited liability exposure"
+  - "auto-renewal"
+  - "SLA penalties"
+  - "contract leakage"
+  - "exception count"

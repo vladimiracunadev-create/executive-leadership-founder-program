@@ -1,0 +1,31 @@
+id: 240
+part: 19
+title: "Capstone: transformation board"
+duration_minutes: 150
+level: "Etapa 5 — CEO → Transformador digital"
+outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir transformation portfolio de value case mediante evidencia observable."
+  - "Aplicar la secuencia: definir outcomes y constraints → comparar use cases por value y risk → mapear dependencies y capacity → asignar stage gates y owners → reallocate según adoption y benefits."
+  - "Interpretar benefit realization, adoption, portfolio spend sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: transformation board con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "board-or-executive-memo.md"
+references:
+  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
+  - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
+  - "Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*"
+  - "Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics*"
+  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
+  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
+limits:
+  - "Gobernanza central puede frenar experimentación. Diferencia sandbox de bajo riesgo de escalamiento enterprise y aplica controles proporcionales."
+evidence_signals:
+  - "benefit realization"
+  - "adoption"
+  - "portfolio spend"
+  - "stage-gate pass"
+  - "dependency risk"

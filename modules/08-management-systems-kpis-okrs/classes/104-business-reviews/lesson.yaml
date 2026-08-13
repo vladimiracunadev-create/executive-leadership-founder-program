@@ -1,0 +1,31 @@
+id: 104
+part: 08
+title: "Business reviews"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir variance de forecast mediante evidencia observable."
+  - "Aplicar la secuencia: preparar actual, plan y forecast → explicar variances materiales → separar causa de excusa → elevar decision asks → actualizar acciones y forecast."
+  - "Interpretar forecast accuracy, variances sin explicación, decisions closed sin atribuir causalidad automática."
+  - "Resolver el caso de business reviews con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "John Doerr — *Measure What Matters*"
+  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
+  - "Larry Bossidy & Ram Charan — *Execution*"
+  - "John Doerr — *Speed & Scale*"
+  - "Bernard Marr — *Key Performance Indicators*"
+  - "Andrew S. Grove — *High Output Management*"
+limits:
+  - "Un review puede volverse punitivo y fomentar ocultamiento si cada desviación se interpreta como fracaso. Diferencia error de forecast, aprendizaje y mala ejecución."
+evidence_signals:
+  - "forecast accuracy"
+  - "variances sin explicación"
+  - "decisions closed"
+  - "action aging"
+  - "meeting time on exceptions"

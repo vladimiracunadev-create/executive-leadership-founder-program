@@ -1,0 +1,33 @@
+id: 258
+part: 21
+title: "Contabilidad, tesorería y control documental"
+duration_minutes: 150
+level: "Etapa 6 — Founder en Chile"
+outcome: "formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir bookkeeping de treasury mediante evidencia observable."
+  - "Aplicar la secuencia: separar cuentas personales y empresa → capturar soporte de cada transacción → reconciliar banco y documentos → aprobar pagos con controles → cerrar mes con estados e issues."
+  - "Interpretar bank reconciliation, unmatched transactions, days to close sin atribuir causalidad automática."
+  - "Resolver el caso de contabilidad, tesorería y control documental con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*"
+  - "Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "AFC Chile — *Seguro de Cesantía: información y operación oficial*"
+  - "Dirección ChileCompra — *Mercado Público y normativa de compras públicas*"
+  - "Comisión para el Mercado Financiero (Chile) — *Normativa e información del mercado financiero*"
+  - "SII — declaraciones, registros y calendario tributario: <https://www.sii.cl/>."
+  - "Colegio de Contadores / normativa contable aplicable y NIIF cuando corresponda; verificar alcance según entidad."
+limits:
+  - "Procesos complejos deben ser proporcionales al tamaño. La pyme necesita control básico fuerte, no burocracia de multinacional; aumenta segregación y reporting al crecer."
+evidence_signals:
+  - "bank reconciliation"
+  - "unmatched transactions"
+  - "days to close"
+  - "cash forecast accuracy"
+  - "missing documents"

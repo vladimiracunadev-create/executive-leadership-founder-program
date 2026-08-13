@@ -1,0 +1,177 @@
+[
+  {
+    "organization": "World Economic Forum",
+    "name": "Future of Jobs Report 2025",
+    "url": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/",
+    "area": "Mercado laboral y habilidades",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "OECD",
+    "name": "G20/OECD Principles of Corporate Governance 2023",
+    "url": "https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html",
+    "area": "Gobierno corporativo",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "NIST",
+    "name": "Cybersecurity Framework 2.0",
+    "url": "https://www.nist.gov/cyberframework",
+    "area": "Gobierno de ciberseguridad",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "NIST",
+    "name": "AI Risk Management Framework",
+    "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "area": "Gobierno de IA",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "COSO",
+    "name": "Enterprise Risk Management",
+    "url": "https://www.coso.org/",
+    "area": "Riesgo y control",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "Project Management Institute",
+    "name": "PMI Standards",
+    "url": "https://www.pmi.org/standards",
+    "area": "Gestión de proyectos",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "Registro de Empresas y Sociedades",
+    "name": "Portal oficial",
+    "url": "https://www.registrodeempresasysociedades.cl/",
+    "area": "Constitución y ciclo societario en Chile",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "Servicio de Impuestos Internos",
+    "name": "Portal oficial",
+    "url": "https://www.sii.cl/",
+    "area": "Tributación y operación fiscal en Chile",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "Dirección del Trabajo",
+    "name": "Portal oficial",
+    "url": "https://www.dt.gob.cl/",
+    "area": "Relaciones laborales en Chile",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "INAPI",
+    "name": "Portal oficial",
+    "url": "https://www.inapi.cl/",
+    "area": "Propiedad industrial en Chile",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "Sercotec",
+    "name": "Portal oficial",
+    "url": "https://www.sercotec.cl/",
+    "area": "Emprendimiento y mipyme",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "Corfo",
+    "name": "Portal oficial",
+    "url": "https://www.corfo.cl/",
+    "area": "Innovación, emprendimiento y financiamiento",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "ChileCompra",
+    "name": "Portal oficial",
+    "url": "https://www.chilecompra.cl/",
+    "area": "Compras públicas",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "CMF Chile",
+    "name": "Portal oficial",
+    "url": "https://www.cmfchile.cl/",
+    "area": "Mercados financieros y supervisión",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "Biblioteca del Congreso Nacional",
+    "name": "LeyChile",
+    "url": "https://www.bcn.cl/leychile/",
+    "area": "Consulta normativa",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "IFRS Foundation",
+    "name": "IFRS Accounting Standards",
+    "url": "https://www.ifrs.org/",
+    "area": "Información financiera",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "International Labour Organization",
+    "name": "ILO resources",
+    "url": "https://www.ilo.org/",
+    "area": "Trabajo y relaciones laborales",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "OECD",
+    "name": "OECD AI Principles",
+    "url": "https://oecd.ai/en/ai-principles",
+    "area": "IA responsable",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "CISA",
+    "name": "Cybersecurity resources",
+    "url": "https://www.cisa.gov/",
+    "area": "Ciberseguridad ejecutiva",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "Ministerio del Trabajo y Previsión Social",
+    "name": "Portal oficial",
+    "url": "https://www.mintrab.gob.cl/",
+    "area": "Política y normativa laboral en Chile",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "Superintendencia de Seguridad Social",
+    "name": "SUSESO",
+    "url": "https://www.suseso.cl/",
+    "area": "Seguridad social y seguridad y salud en el trabajo",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "Superintendencia de Pensiones",
+    "name": "Portal oficial",
+    "url": "https://www.spensiones.cl/",
+    "area": "Pensiones, cotizaciones y reforma previsional",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "AFC Chile",
+    "name": "Seguro de Cesantía",
+    "url": "https://www.afc.cl/",
+    "area": "Seguro de cesantía",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "Servicio Nacional de Migraciones",
+    "name": "Portal oficial",
+    "url": "https://serviciomigraciones.cl/",
+    "area": "Migración y habilitación para actividad remunerada",
+    "verified_on": "2026-08-12"
+  },
+  {
+    "organization": "ChileAtiende",
+    "name": "Portal de servicios del Estado",
+    "url": "https://www.chileatiende.gob.cl/",
+    "area": "Trámites y orientación laboral/previsional",
+    "verified_on": "2026-08-12"
+  }
+]

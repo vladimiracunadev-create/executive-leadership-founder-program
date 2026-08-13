@@ -1,0 +1,31 @@
+id: 89
+part: 07
+title: "Cuellos de botella y teoría de restricciones"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "operar procesos end-to-end con capacidad, calidad, continuidad y mejora"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir constraint de bottleneck mediante evidencia observable."
+  - "Aplicar la secuencia: medir flujo y localizar restricción → explotar capacidad sin inversión → subordinar upstream y downstream → elevar restricción si el valor lo justifica → repetir cuando migra el cuello."
+  - "Interpretar throughput de restricción, idle time del cuello, buffer penetration sin atribuir causalidad automática."
+  - "Resolver el caso de cuellos de botella y teoría de restricciones con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "W. Edwards Deming — *Out of the Crisis*"
+  - "Jeffrey K. Liker — *The Toyota Way*"
+  - "ISO — *ISO 9001 Quality management systems*"
+  - "James P. Womack & Daniel T. Jones — *Lean Thinking*"
+limits:
+  - "No todos los sistemas tienen un único cuello estable; mix, demanda y políticas pueden moverlo. Observa datos y horizonte antes de convertir TOC en dogma."
+evidence_signals:
+  - "throughput de restricción"
+  - "idle time del cuello"
+  - "buffer penetration"
+  - "WIP upstream"
+  - "throughput total"

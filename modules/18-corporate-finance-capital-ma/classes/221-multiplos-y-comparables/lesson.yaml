@@ -1,0 +1,31 @@
+id: 221
+part: 18
+title: "Múltiplos y comparables"
+duration_minutes: 150
+level: "Etapa 5 — CEO → Capital allocator"
+outcome: "decidir estructura de capital, valoración, fundraising y transacciones"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir enterprise value de equity value mediante evidencia observable."
+  - "Aplicar la secuencia: elegir métrica consistente → definir peer set por economics → normalizar estados → comparar growth margin y risk → aplicar rango y reconciliar con DCF."
+  - "Interpretar EV-Revenue, EV-EBITDA, growth sin atribuir causalidad automática."
+  - "Resolver el caso de múltiplos y comparables con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
+  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Donald DePamphilis — *Mergers, Acquisitions, and Other Restructuring Activities*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Noam Wasserman — *The Founder's Dilemmas*"
+limits:
+  - "Múltiplos reflejan humor del mercado y pueden trasladar sobrevaloración. Úsalos como referencia cruzada, no sustituto de análisis económico."
+evidence_signals:
+  - "EV-Revenue"
+  - "EV-EBITDA"
+  - "growth"
+  - "gross margin"
+  - "net debt"

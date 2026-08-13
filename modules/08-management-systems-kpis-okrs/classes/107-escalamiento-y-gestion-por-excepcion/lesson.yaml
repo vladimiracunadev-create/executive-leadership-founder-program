@@ -1,0 +1,31 @@
+id: 107
+part: 08
+title: "Escalamiento y gestión por excepción"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir tolerance de exception mediante evidencia observable."
+  - "Aplicar la secuencia: definir tolerancias por objetivo → asignar derechos de decisión → instrumentar early warnings → escalar con opciones y recomendación → revisar umbrales según aprendizaje."
+  - "Interpretar breaches, late escalations, false escalations sin atribuir causalidad automática."
+  - "Resolver el caso de escalamiento y gestión por excepción con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "John Doerr — *Measure What Matters*"
+  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
+  - "John Doerr — *Speed & Scale*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "Larry Bossidy & Ram Charan — *Execution*"
+  - "Bernard Marr — *Key Performance Indicators*"
+limits:
+  - "Tolerancias demasiado amplias pueden esconder deterioro; demasiado estrechas destruyen autonomía. Ajusta al riesgo, madurez y capacidad de corrección."
+evidence_signals:
+  - "breaches"
+  - "late escalations"
+  - "false escalations"
+  - "decision latency"
+  - "management attention"

@@ -1,0 +1,31 @@
+id: 105
+part: 08
+title: "Priorización y portfolio"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir portfolio de strategic fit mediante evidencia observable."
+  - "Aplicar la secuencia: inventariar iniciativas y recursos → definir criterios comunes → comparar valor, riesgo y dependencia → financiar dentro de capacidad → revisar y matar cuando fallan criterios."
+  - "Interpretar portfolio WIP, recursos en top priorities, iniciativas sin sponsor sin atribuir causalidad automática."
+  - "Resolver el caso de priorización y portfolio con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "strategy-memo.md"
+references:
+  - "John Doerr — *Measure What Matters*"
+  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "Bernard Marr — *Key Performance Indicators*"
+limits:
+  - "El scoring puede crear falsa objetividad. Algunos programas obligatorios o apuestas estratégicas no son comparables por una fórmula; documenta juicio y restricciones."
+evidence_signals:
+  - "portfolio WIP"
+  - "recursos en top priorities"
+  - "iniciativas sin sponsor"
+  - "kill rate"
+  - "benefit realization"

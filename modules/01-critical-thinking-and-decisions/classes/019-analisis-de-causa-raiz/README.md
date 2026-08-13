@@ -1,0 +1,210 @@
+# Clase 019 — Análisis de causa raíz
+
+**Parte:** 01 — Pensamiento crítico y toma de decisiones  
+**Nivel:** Etapa 1 — Profesional → Líder  
+**Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
+
+## 🎯 Propósito
+
+El análisis de causa raíz busca mecanismos que, al cambiar, reduzcan la recurrencia del problema. No es una cacería de culpables ni una ceremonia de 'cinco porqués'. Una causa útil debe tener relación plausible con el evento, evidencia y una intervención asociada; en sistemas complejos suele existir una combinación de condiciones.
+
+La salida de esta parte es **decidir con evidencia, incertidumbre, causalidad y pensamiento sistémico**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **análisis de causa raíz** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+
+## 📚 Resultados de aprendizaje
+
+Al finalizar podrás:
+
+1. **Distinguir** `causa raíz`, `causa contribuyente`, `5 porqués`, `Ishikawa`, `contrafactual` mediante observables, no por memoria verbal.
+2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
+3. **Aplicar** la secuencia **1. definir evento y alcance → 2. reconstruir línea de tiempo → 3. generar causas potenciales sin culpabilizar → 4. buscar evidencia y contrafactuales → 5. diseñar acciones sobre sistema y verificar recurrencia** conservando supuestos, alternativas y trazabilidad.
+4. **Interpretar** reincidencia del incidente, tiempo entre fallos, acciones correctivas cerradas sin confundir señal, explicación y causalidad.
+5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
+6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+
+## 🧭 Agenda
+
+| Tramo | Evidencia de aprendizaje |
+|---|---|
+| 0–20 min | Recuperación: define causa raíz y causa contribuyente sin mirar la tabla; corrige con la fuente. |
+| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
+| 70–115 min | Ejemplo trabajado con reincidencia del incidente y trazabilidad de supuestos. |
+| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
+| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+
+## 🧩 Conceptos centrales
+
+| Concepto | Definición operacional | Cómo demostrar comprensión |
+|---|---|---|
+| **causa raíz** | condición cuya modificación reduce significativamente probabilidad o severidad de recurrencia | Distingue un hecho compatible y otro que lo refute. |
+| **causa contribuyente** | factor que aumenta riesgo sin ser suficiente por sí solo | Distingue un hecho compatible y otro que lo refute. |
+| **5 porqués** | heurística de profundización causal, no prueba de causalidad | Distingue un hecho compatible y otro que lo refute. |
+| **Ishikawa** | mapa de categorías de posibles causas | Distingue un hecho compatible y otro que lo refute. |
+| **contrafactual** | pregunta sobre qué habría ocurrido si la condición estuviera ausente | Distingue un hecho compatible y otro que lo refute. |
+
+## 🧠 Modelo mental
+
+```text
+1. definir evento y alcance → 2. reconstruir línea de tiempo → 3. generar causas potenciales sin culpabilizar → 4. buscar evidencia y contrafactuales → 5. diseñar acciones sobre sistema y verificar recurrencia
+```
+
+La secuencia nace del problema de esta clase: **El análisis de causa raíz busca mecanismos que, al cambiar, reduzcan la recurrencia del problema. No es una cacería de culpables ni una ceremonia de 'cinco porqués'. Una causa útil debe tener relación plausible con el evento, evidencia y una intervención asociada; en sistemas complejos suele existir una combinación de condiciones.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todos los problemas justifican root-cause analysis profundo. En eventos pequeños y aislados puede costar más que el riesgo evitado; usa proporcionalidad y reserva análisis exhaustivo para recurrencia o severidad material.**
+
+## 📖 Desarrollo
+
+### 1. causa raíz: mecanismo central
+
+**causa raíz** se entiende aquí como **condición cuya modificación reduce significativamente probabilidad o severidad de recurrencia**. Esta es la pieza causal o estructural desde la que se inicia **análisis de causa raíz**: antes de definir evento y alcance, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+
+La lectura rectora de este bloque es Daniel Kahneman — *Thinking, Fast and Slow*. Su aporte se usa para examinar **sesgos, juicio bajo incertidumbre y límites de la intuición**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **reincidencia del incidente**; regístrala con periodo, unidad, población y baseline.
+
+Relaciona el mecanismo con **causa contribuyente**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+
+### 2. causa contribuyente: frontera conceptual y error de clasificación
+
+**Definición operacional:** factor que aumenta riesgo sin ser suficiente por sí solo. Su valor está en distinguirlo de **causa raíz** y **5 porqués**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+
+Contrasta el problema con Gary Klein — *Sources of Power*, que aporta una mirada sobre **reconocimiento de patrones y decisión naturalista en contextos reales**. Formula dos mini-casos: uno que sí satisface la definición de **causa contribuyente** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **tiempo entre fallos** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+
+Antes de reconstruir línea de tiempo, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+
+### 3. 5 porqués: operacionalización y medición
+
+**5 porqués** significa **heurística de profundización causal, no prueba de causalidad**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+
+Annie Duke — *How to Decide* orienta este bloque mediante **perspectiva de Decisiones aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **acciones correctivas cerradas**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+
+Al llegar a generar causas potenciales sin culpabilizar, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+
+### 4. Ishikawa: trade-offs y efectos de segundo orden
+
+**Definición:** mapa de categorías de posibles causas. Este concepto obliga a abandonar la idea de que **análisis de causa raíz** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de buscar evidencia y contrafactuales, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
+
+Max H. Bazerman & Don A. Moore — *Judgment in Managerial Decision Making* aporta una lente sobre **perspectiva de Decisiones aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **controles detectivos** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
+
+Haz un *pre-mortem* de **análisis de causa raíz**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **Ishikawa** y otro de una hipótesis del caso que nunca fue validada.
+
+### 5. contrafactual: gobernanza, límites e integración
+
+**contrafactual** se define como **pregunta sobre qué habría ocurrido si la condición estuviera ausente** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
+
+Peter M. Senge — *The Fifth Discipline* se utiliza para estudiar **pensamiento sistémico, bucles de retroalimentación y aprendizaje organizacional** y contrastar la recomendación final. Al ejecutar diseñar acciones sobre sistema y verificar recurrencia, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
+
+La frontera de esta clase es explícita: **No todos los problemas justifican root-cause analysis profundo. En eventos pequeños y aislados puede costar más que el riesgo evitado; usa proporcionalidad y reserva análisis exhaustivo para recurrencia o severidad material.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **causa raíz**, **causa contribuyente**, **5 porqués**, **Ishikawa** y **contrafactual** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
+
+### 6. Integración: de conceptos a una decisión defendible
+
+La síntesis de **análisis de causa raíz** no consiste en sumar cinco definiciones. Empieza por **causa raíz**, contrasta **causa contribuyente** con **5 porqués**, incorpora **Ishikawa** como restricción o mecanismo y usa **contrafactual** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
+
+Aplica ahora la secuencia **1. definir evento y alcance → 2. reconstruir línea de tiempo → 3. generar causas potenciales sin culpabilizar → 4. buscar evidencia y contrafactuales → 5. diseñar acciones sobre sistema y verificar recurrencia**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+
+## 📚 Lectura comparada
+
+Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
+
+| Fuente | Lente que aporta | Pregunta crítica |
+|---|---|---|
+| Daniel Kahneman — *Thinking, Fast and Slow* | sesgos, juicio bajo incertidumbre y límites de la intuición | ¿Qué supuesto de **análisis de causa raíz** ayuda a desafiar? |
+| Gary Klein — *Sources of Power* | reconocimiento de patrones y decisión naturalista en contextos reales | ¿Qué supuesto de **análisis de causa raíz** ayuda a desafiar? |
+| Annie Duke — *How to Decide* | perspectiva de Decisiones aplicada al problema de la clase | ¿Qué supuesto de **análisis de causa raíz** ayuda a desafiar? |
+| Max H. Bazerman & Don A. Moore — *Judgment in Managerial Decision Making* | perspectiva de Decisiones aplicada al problema de la clase | ¿Qué supuesto de **análisis de causa raíz** ayuda a desafiar? |
+| Peter M. Senge — *The Fifth Discipline* | pensamiento sistémico, bucles de retroalimentación y aprendizaje organizacional | ¿Qué supuesto de **análisis de causa raíz** ayuda a desafiar? |
+
+En **análisis de causa raíz**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **causa raíz**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+
+## 🧮 Ejemplo trabajado
+
+**Situación:** Un despliegue provoca una caída de dos horas. La explicación inicial es 'un desarrollador olvidó revisar un flag', pero el cambio pasó por un proceso sin checklist, revisión independiente ni prueba automatizada.
+
+**Paso 1 — definir evento y alcance.** La gerencia escribe primero el supuesto asociado a **causa raíz** y evita convertirlo en hecho. Luego busca **reincidencia del incidente** para contrastarlo en el caso de **análisis de causa raíz**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+
+**Paso 2 — reconstruir línea de tiempo.** La gerencia escribe primero el supuesto asociado a **causa contribuyente** y evita convertirlo en hecho. Luego busca **tiempo entre fallos** para contrastarlo en el caso de **análisis de causa raíz**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+
+**Paso 3 — generar causas potenciales sin culpabilizar.** La gerencia escribe primero el supuesto asociado a **5 porqués** y evita convertirlo en hecho. Luego busca **acciones correctivas cerradas** para contrastarlo en el caso de **análisis de causa raíz**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+
+**Paso 4 — buscar evidencia y contrafactuales.** La gerencia escribe primero el supuesto asociado a **Ishikawa** y evita convertirlo en hecho. Luego busca **controles detectivos** para contrastarlo en el caso de **análisis de causa raíz**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+
+**Paso 5 — diseñar acciones sobre sistema y verificar recurrencia.** La gerencia escribe primero el supuesto asociado a **contrafactual** y evita convertirlo en hecho. Luego busca **errores humanos asociados a condiciones sistémicas** para contrastarlo en el caso de **análisis de causa raíz**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+
+**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **análisis de causa raíz**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+
+## 🔀 Comparación y límites
+
+| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
+|---|---|---|---|
+| **causa raíz** | condición cuya modificación reduce significativamente probabilidad o severidad de recurrencia | Cuando reincidencia del incidente es observable y accionable. | Sobrerreaccionar a una señal parcial. |
+| **causa contribuyente** | factor que aumenta riesgo sin ser suficiente por sí solo | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
+| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
+| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+
+**Frontera de aplicación:** No todos los problemas justifican root-cause analysis profundo. En eventos pequeños y aislados puede costar más que el riesgo evitado; usa proporcionalidad y reserva análisis exhaustivo para recurrencia o severidad material.
+
+## 🪜 De profesional a owner
+
+| Nivel | Responsabilidad sobre análisis de causa raíz |
+|---|---|
+| **Profesional** | usa **análisis de causa raíz** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
+| **Jefe / Team Lead** | aplica **causa raíz** y **causa contribuyente** para coordinar personas sin sustituir conversación por métricas. |
+| **Manager / Gerente** | conecta reincidencia del incidente con capacidad, presupuesto, dependencias y riesgo interáreas. |
+| **CEO / Director** | decide si análisis de causa raíz cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
+| **Founder / Owner** | pregunta si la solución de análisis de causa raíz reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
+
+El cambio de nivel en **análisis de causa raíz** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+
+## 🏢 Caso ejecutivo
+
+Un despliegue provoca una caída de dos horas. La explicación inicial es 'un desarrollador olvidó revisar un flag', pero el cambio pasó por un proceso sin checklist, revisión independiente ni prueba automatizada.
+
+Entrega un **decision brief de análisis de causa raíz** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+
+## 🧪 Práctica
+
+1. Reconstruye el caso de **análisis de causa raíz** con una tabla `hecho / interpretación / hipótesis / decisión`.
+2. Ejecuta **1. definir evento y alcance → 2. reconstruir línea de tiempo → 3. generar causas potenciales sin culpabilizar → 4. buscar evidencia y contrafactuales → 5. diseñar acciones sobre sistema y verificar recurrencia** y adjunta evidencia para cada transición entre pasos.
+3. Calcula o documenta reincidencia del incidente, tiempo entre fallos; si no existe dato, diseña cómo obtenerlo.
+4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
+5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
+6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+
+## ⚠️ Errores frecuentes
+
+| Síntoma | Causa probable | Corrección |
+|---|---|---|
+| Usar causa raíz y causa contribuyente como sinónimos | Se pierde la distinción entre “condición cuya modificación reduce significativamente probabilidad o severidad de recurrencia” y “factor que aumenta riesgo sin ser suficiente por sí solo” | Vuelve a los observables y exige una señal distinta para cada concepto. |
+| Empezar por “diseñar acciones sobre sistema y verificar recurrencia” | Se saltó “definir evento y alcance” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir evento y alcance → 2. reconstruir línea de tiempo → 3. generar causas potenciales sin culpabilizar → 4. buscar evidencia y contrafactuales → 5. diseñar acciones sobre sistema y verificar recurrencia y marca el primer supuesto no demostrado. |
+| Optimizar solo reincidencia del incidente | La métrica local sustituyó al resultado del sistema | Contrástala con tiempo entre fallos y explicita el costo de oportunidad. |
+| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre análisis de causa raíz | No todos los problemas justifican root-cause analysis profundo. En eventos pequeños y aislados puede costar más que el riesgo evitado; usa proporcionalidad y reserva análisis exhaustivo para recurrencia o severidad material. |
+| No fijar revisión | Una decisión sobre análisis de causa raíz se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+
+## ❓ Preguntas de comprobación
+
+1. Explica la diferencia entre **causa raíz** y **causa contribuyente** usando un ejemplo donde elegir mal cambie la decisión.
+2. ¿Qué observarías para validar **5 porqués** y qué observación obligaría a rechazar tu interpretación?
+3. Aplica **definir evento y alcance → reconstruir línea de tiempo** al caso de la clase. ¿Qué dato todavía falta?
+4. ¿Por qué **reincidencia del incidente** no basta por sí sola para atribuir causalidad?
+5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **análisis de causa raíz**?
+6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No todos los problemas justifican root-cause analysis profundo. En eventos pequeños y aislados puede costar más que el riesgo evitado; usa proporcionalidad y reserva análisis exhaustivo para recurrencia o severidad material.**?
+
+## 📥 Entregable
+
+Guarda en `portfolio/019-analisis-de-causa-raiz/`:
+
+- `leadership-decision-brief.md` con el problema específico de **análisis de causa raíz**, evidencia, alternativas, decisión y gobernanza;
+- `reading-note.md` contrastando las fuentes de **análisis de causa raíz** con edición/páginas consultadas;
+- `decision-journal.md` registrando los supuestos de **causa raíz**, confianza, responsable y revisión;
+- `red-team.md` con la objeción más fuerte al caso **Un despliegue provoca una caída de dos horas. La explicación inicial es 'un desarrollador olvidó revisar un flag', pero el cambio pasó por un proceso sin checklist, revisión independiente ni prueba automatizada.** y el dato que podría invalidar la recomendación.
+
+## 📗 Fuentes y verificación
+
+- Daniel Kahneman — *Thinking, Fast and Slow*. **Uso en esta clase:** sesgos, juicio bajo incertidumbre y límites de la intuición. Lectura selectiva: índice/capítulos pertinentes a **análisis de causa raíz**; registra edición y páginas consultadas.
+- Gary Klein — *Sources of Power*. **Uso en esta clase:** reconocimiento de patrones y decisión naturalista en contextos reales. Lectura selectiva: índice/capítulos pertinentes a **análisis de causa raíz**; registra edición y páginas consultadas.
+- Annie Duke — *How to Decide*. **Uso en esta clase:** perspectiva de Decisiones aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **análisis de causa raíz**; registra edición y páginas consultadas.
+- Max H. Bazerman & Don A. Moore — *Judgment in Managerial Decision Making*. **Uso en esta clase:** perspectiva de Decisiones aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **análisis de causa raíz**; registra edición y páginas consultadas.
+- Peter M. Senge — *The Fifth Discipline*. **Uso en esta clase:** pensamiento sistémico, bucles de retroalimentación y aprendizaje organizacional. Lectura selectiva: índice/capítulos pertinentes a **análisis de causa raíz**; registra edición y páginas consultadas.
+- Annie Duke — *Thinking in Bets*. **Uso en esta clase:** calidad de la decisión separada del resultado y razonamiento probabilístico. Lectura selectiva: índice/capítulos pertinentes a **análisis de causa raíz**; registra edición y páginas consultadas.
+- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
+- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
+- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+
+> **Regla de fuentes para Análisis de causa raíz:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **análisis de causa raíz** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

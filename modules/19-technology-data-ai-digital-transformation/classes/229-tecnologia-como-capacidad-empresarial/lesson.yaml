@@ -1,0 +1,32 @@
+id: 229
+part: 19
+title: "Tecnología como capacidad empresarial"
+duration_minutes: 150
+level: "Etapa 5 — CEO → Transformador digital"
+outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir business capability de technology asset mediante evidencia observable."
+  - "Aplicar la secuencia: partir de outcomes de negocio → mapear capabilities y tech enablers → identificar bottlenecks y debt → priorizar inversiones por value y risk → medir outcome y retire legacy."
+  - "Interpretar technology spend by capability, availability, lead time sin atribuir causalidad automática."
+  - "Resolver el caso de tecnología como capacidad empresarial con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "operating-improvement-brief.md"
+references:
+  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
+  - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
+  - "Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd*"
+  - "Martin Kleppmann — *Designing Data-Intensive Applications*"
+  - "Foster Provost & Tom Fawcett — *Data Science for Business*"
+  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
+  - "NIST — *AI Risk Management Framework*. <https://www.nist.gov/itl/ai-risk-management-framework>."
+limits:
+  - "No todo valor tecnológico se traduce inmediatamente a revenue. Resiliencia, compliance y option value requieren lenguaje económico distinto, pero igualmente explícito."
+evidence_signals:
+  - "technology spend by capability"
+  - "availability"
+  - "lead time"
+  - "cost-to-serve"
+  - "legacy risk"

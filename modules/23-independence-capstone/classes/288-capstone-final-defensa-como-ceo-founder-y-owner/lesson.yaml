@@ -1,0 +1,31 @@
+id: 288
+part: 23
+title: "Capstone final: defensa como CEO, founder y owner"
+duration_minutes: 150
+level: "Etapa 6 — Independencia"
+outcome: "construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir executive thesis de operating system mediante evidencia observable."
+  - "Aplicar la secuencia: presentar contexto y personal thesis → defender business strategy y economics → demostrar people operating y risk governance → defender founder-owner transition → cerrar con 90-day plan metrics y red-team."
+  - "Interpretar enterprise value drivers, cash-runway, leadership coverage sin atribuir causalidad automática."
+  - "Resolver el caso de capstone final: defensa como CEO, founder y owner con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "board-or-executive-memo.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Noam Wasserman — *The Founder's Dilemmas*"
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Bill Aulet — *Disciplined Entrepreneurship*"
+  - "Cal Newport — *Deep Work*"
+limits:
+  - "El capstone no certifica competencia legal, contable o profesional regulada. Evalúa capacidad de integrar decisiones y saber cuándo escalar a expertos; la ejecución real requiere fuentes vigentes y experiencia."
+evidence_signals:
+  - "enterprise value drivers"
+  - "cash-runway"
+  - "leadership coverage"
+  - "customer evidence"
+  - "risk-compliance readiness"

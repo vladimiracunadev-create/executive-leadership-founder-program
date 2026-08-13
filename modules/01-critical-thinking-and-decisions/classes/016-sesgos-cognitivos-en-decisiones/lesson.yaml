@@ -1,0 +1,31 @@
+id: 16
+part: 01
+title: "Sesgos cognitivos en decisiones"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "decidir con evidencia, incertidumbre, causalidad y pensamiento sistémico"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir sesgo de confirmación de anclaje mediante evidencia observable."
+  - "Aplicar la secuencia: identificar decisión y sesgos plausibles → obtener estimaciones independientes → usar tasas base antes de historias particulares → crear una voz de desacuerdo o premortem → comparar predicción con resultado sin hindsight."
+  - "Interpretar error de forecast, dispersión entre estimadores, intervalos de confianza sin atribuir causalidad automática."
+  - "Resolver el caso de sesgos cognitivos en decisiones con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Kahneman — *Thinking, Fast and Slow*"
+  - "Gary Klein — *Sources of Power*"
+  - "Peter M. Senge — *The Fifth Discipline*"
+  - "Annie Duke — *Thinking in Bets*"
+  - "Howard Raiffa — *Decision Analysis*"
+  - "Annie Duke — *How to Decide*"
+limits:
+  - "Debiasing no elimina sesgos ni convierte decisiones en matemática pura. Algunos atajos son útiles bajo presión; la inversión en proceso debe ser proporcional al costo e irreversibilidad de la decisión."
+evidence_signals:
+  - "error de forecast"
+  - "dispersión entre estimadores"
+  - "intervalos de confianza"
+  - "frecuencia de cambios después de evidencia contraria"
+  - "predicciones registradas versus resultados"

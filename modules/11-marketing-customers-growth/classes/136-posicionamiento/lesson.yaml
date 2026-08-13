@@ -1,0 +1,31 @@
+id: 136
+part: 11
+title: "Posicionamiento"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir competitive alternative de unique attribute mediante evidencia observable."
+  - "Aplicar la secuencia: listar alternativas reales → identificar atributos únicos → traducirlos a valor → seleccionar segmento donde importan → probar market frame y mensaje."
+  - "Interpretar win rate versus alternative, message recall, qualified demand sin atribuir causalidad automática."
+  - "Resolver el caso de posicionamiento con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
+  - "Byron Sharp — *How Brands Grow*"
+  - "Gabriel Weinberg & Justin Mares — *Traction*"
+  - "April Dunford — *Obviously Awesome*"
+  - "Sean Ellis & Morgan Brown — *Hacking Growth*"
+  - "Geoffrey A. Moore — *Crossing the Chasm*"
+limits:
+  - "Posicionamiento no puede fabricar una ventaja inexistente. Si el producto no tiene diferencia relevante, el problema es de estrategia/producto, no de copywriting."
+evidence_signals:
+  - "win rate versus alternative"
+  - "message recall"
+  - "qualified demand"
+  - "price premium"
+  - "loss reasons"

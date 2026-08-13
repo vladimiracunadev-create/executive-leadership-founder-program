@@ -1,0 +1,31 @@
+id: 12
+part: 00
+title: "Capstone: tu sistema operativo de liderazgo"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "pasar de ejecutar tareas a producir contribución, criterio y confianza"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir principio operativo de cadencia mediante evidencia observable."
+  - "Aplicar la secuencia: sintetizar principios y límites → diseñar agenda y cadencias → definir arquitectura de decisiones → crear sistema de relaciones y feedback → revisar mensualmente evidencia y ajustar."
+  - "Interpretar cumplimiento de cadencias, decisiones revisadas, compromisos renegociados a tiempo sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: tu sistema operativo de liderazgo con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Herminia Ibarra — *Act Like a Leader, Think Like a Leader*"
+  - "Greg McKeown — *Essentialism*"
+  - "Peter G. Northouse — *Leadership: Theory and Practice*"
+  - "Andrew S. Grove — *High Output Management*"
+limits:
+  - "Un sistema operativo no debe convertirse en dogma. Si la cadencia o la regla deja de servir al resultado, se cambia; la disciplina protege el aprendizaje, no el ritual."
+evidence_signals:
+  - "cumplimiento de cadencias"
+  - "decisiones revisadas"
+  - "compromisos renegociados a tiempo"
+  - "feedback accionado"
+  - "tiempo dedicado a prioridades reales"

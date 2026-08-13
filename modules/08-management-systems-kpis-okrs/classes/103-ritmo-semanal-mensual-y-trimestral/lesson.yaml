@@ -1,0 +1,31 @@
+id: 103
+part: 08
+title: "Ritmo semanal, mensual y trimestral"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir weekly cadence de monthly review mediante evidencia observable."
+  - "Aplicar la secuencia: clasificar decisiones por horizonte → diseñar weekly de excepciones → usar monthly para tendencias y forecast → reservar quarterly para estrategia y recursos → retirar reuniones redundantes."
+  - "Interpretar horas de reuniones, decisiones por foro, temas reabiertos sin atribuir causalidad automática."
+  - "Resolver el caso de ritmo semanal, mensual y trimestral con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "John Doerr — *Measure What Matters*"
+  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
+  - "Robert S. Kaplan & David P. Norton — *Strategy Maps*"
+  - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Bernard Marr — *Key Performance Indicators*"
+limits:
+  - "Cadencia no debe sobrevivir por tradición. Si una reunión deja de producir decisiones o aprendizaje, rediseña o elimina; el calendario es parte del sistema operativo."
+evidence_signals:
+  - "horas de reuniones"
+  - "decisiones por foro"
+  - "temas reabiertos"
+  - "escalamientos"
+  - "acciones vencidas"

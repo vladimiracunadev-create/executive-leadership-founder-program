@@ -1,0 +1,31 @@
+id: 84
+part: 06
+title: "Capstone: rescate de una iniciativa crítica"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir recovery plan de minimum viable scope mediante evidencia observable."
+  - "Aplicar la secuencia: hacer health check independiente → rebaselinear alcance, fecha y costo → construir tres opciones → obtener decisión sponsor → gestionar risk burn-down semanal."
+  - "Interpretar forecast confidence, critical risks, scope protected sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: rescate de una iniciativa crítica con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
+  - "Harold Kerzner — *Project Management*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "Gene Kim — *The Unicorn Project*"
+  - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
+  - "David J. Anderson — *Kanban*"
+limits:
+  - "Un rescate puede concluir que detener el proyecto es la opción racional. Sunk cost no justifica continuar una iniciativa cuyo valor o factibilidad desapareció."
+evidence_signals:
+  - "forecast confidence"
+  - "critical risks"
+  - "scope protected"
+  - "stakeholder commitment"
+  - "recovery milestones"

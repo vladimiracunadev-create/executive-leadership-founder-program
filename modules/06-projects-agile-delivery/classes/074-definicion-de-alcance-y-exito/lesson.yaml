@@ -1,0 +1,31 @@
+id: 74
+part: 06
+title: "Definición de alcance y éxito"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir scope de deliverable mediante evidencia observable."
+  - "Aplicar la secuencia: definir problema y outcome → traducir a entregables mínimos → documentar inclusiones y exclusiones → acordar acceptance criteria → asignar owner de beneficios post-entrega."
+  - "Interpretar scope changes, acceptance defects, benefit realization sin atribuir causalidad automática."
+  - "Resolver el caso de definición de alcance y éxito con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
+  - "Harold Kerzner — *Project Management*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "Gene Kim — *The Unicorn Project*"
+  - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
+  - "David J. Anderson — *Kanban*"
+limits:
+  - "Fijar alcance demasiado pronto puede bloquear aprendizaje. En trabajo incierto, fija outcomes y guardrails mientras permites que solución y backlog evolucionen."
+evidence_signals:
+  - "scope changes"
+  - "acceptance defects"
+  - "benefit realization"
+  - "rework"
+  - "stakeholder satisfaction"

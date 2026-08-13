@@ -1,0 +1,31 @@
+id: 26
+part: 02
+title: "Escucha activa y preguntas de calidad"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "convertir comunicación, influencia y negociación en sistemas de decisión y relación"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir pregunta abierta de paráfrasis mediante evidencia observable."
+  - "Aplicar la secuencia: suspender consejo inmediato → pedir hechos y perspectiva → parafrasear y comprobar → explorar inferencias y emociones relevantes → resumir acuerdos, desacuerdos y siguiente paso."
+  - "Interpretar ratio preguntas versus afirmaciones, correcciones de interpretación, información nueva emergida sin atribuir causalidad automática."
+  - "Resolver el caso de escucha activa y preguntas de calidad con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "operating-improvement-brief.md"
+references:
+  - "Chip Heath & Dan Heath — *Made to Stick*"
+  - "Robert B. Cialdini — *Influence*"
+  - "Edgar H. Schein — *Humble Inquiry*"
+  - "Roger Fisher, William Ury & Bruce Patton — *Getting to Yes*"
+  - "Kerry Patterson et al. — *Crucial Conversations*"
+  - "Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations*"
+limits:
+  - "Escuchar no implica convertir cada conversación en terapia ni renunciar a decidir. En incidentes urgentes puede ser necesario actuar primero; luego se recupera contexto."
+evidence_signals:
+  - "ratio preguntas versus afirmaciones"
+  - "correcciones de interpretación"
+  - "información nueva emergida"
+  - "acuerdos confirmados"
+  - "conflictos reabiertos por mala escucha"

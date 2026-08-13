@@ -1,0 +1,31 @@
+id: 273
+part: 22
+title: "Adquisiciones como vía de crecimiento"
+duration_minutes: 150
+level: "Etapa 6 — Business Owner"
+outcome: "reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir acquisition entrepreneurship de search criteria mediante evidencia observable."
+  - "Aplicar la secuencia: definir acquisition thesis → filtrar targets → analizar normalized earnings y dependency → estructurar financing y terms → planificar 100-day integration."
+  - "Interpretar normalized EBITDA, debt service, customer concentration sin atribuir causalidad automática."
+  - "Resolver el caso de adquisiciones como vía de crecimiento con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "strategy-memo.md"
+references:
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Verne Harnish — *Scaling Up*"
+  - "Elad Gil — *High Growth Handbook*"
+  - "Jay R. Galbraith — *Designing Organizations*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*"
+limits:
+  - "Comprar flujo histórico no garantiza que sobreviva al cambio de propietario. Ajusta valoración y terms por key-person, clientes y transición."
+evidence_signals:
+  - "normalized EBITDA"
+  - "debt service"
+  - "customer concentration"
+  - "seller dependency"
+  - "integration milestones"

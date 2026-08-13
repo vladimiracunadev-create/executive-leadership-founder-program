@@ -1,0 +1,31 @@
+id: 148
+part: 12
+title: "Jobs to Be Done"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir job de circumstance mediante evidencia observable."
+  - "Aplicar la secuencia: reconstruir evento de cambio → identificar circunstancia y progreso buscado → mapear push pull ansiedad y hábito → identificar soluciones competidoras → diseñar mensaje y producto alrededor del progreso."
+  - "Interpretar switch events, trigger frequency, current alternatives sin atribuir causalidad automática."
+  - "Resolver el caso de jobs to Be Done con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Marty Cagan — *Inspired*"
+  - "Teresa Torres — *Continuous Discovery Habits*"
+  - "Clayton M. Christensen — *The Innovator's Dilemma*"
+  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
+  - "Eric Ries — *The Lean Startup*"
+  - "Dan Olsen — *The Lean Product Playbook*"
+limits:
+  - "JTBD es una lente, no una taxonomía universal. Puede complementar segmentación, necesidades y analítica; forzar toda decisión a un job puede ocultar restricciones organizacionales, regulación o economía."
+evidence_signals:
+  - "switch events"
+  - "trigger frequency"
+  - "current alternatives"
+  - "anxieties"
+  - "time-to-progress"

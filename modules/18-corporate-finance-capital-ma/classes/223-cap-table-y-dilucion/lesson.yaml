@@ -1,0 +1,31 @@
+id: 223
+part: 18
+title: "Cap table y dilución"
+duration_minutes: 150
+level: "Etapa 5 — CEO → Capital allocator"
+outcome: "decidir estructura de capital, valoración, fundraising y transacciones"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir cap table de fully diluted mediante evidencia observable."
+  - "Aplicar la secuencia: limpiar cap table actual → convertir a fully diluted → modelar nueva emisión y pool → calcular ownership post-money → simular rondas y exits."
+  - "Interpretar founder ownership, investor ownership, option pool sin atribuir causalidad automática."
+  - "Resolver el caso de cap table y dilución con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
+  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
+  - "Brad Feld & Jason Mendelson — *Venture Deals*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Noam Wasserman — *The Founder's Dilemmas*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+limits:
+  - "Cap tables legales pueden incluir preferencias y derechos complejos. Usa modelo para comprender economía, pero valida documentos y conversiones con asesoría legal o financiera."
+evidence_signals:
+  - "founder ownership"
+  - "investor ownership"
+  - "option pool"
+  - "dilution per round"
+  - "proceeds waterfall"

@@ -1,0 +1,32 @@
+id: 110
+part: 09
+title: "Estado de resultados"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir margen bruto de resultado operativo mediante evidencia observable."
+  - "Aplicar la secuencia: reconstruir cascada de resultados → calcular márgenes por nivel → separar operativo y no operativo → normalizar no recurrentes → comparar tendencia y explicar drivers."
+  - "Interpretar gross margin, operating margin, EBITDA margin sin atribuir causalidad automática."
+  - "Resolver el caso de estado de resultados con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*"
+  - "Stephen H. Penman — *Financial Statement Analysis and Security Valuation*"
+  - "Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation*"
+  - "Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans*"
+  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "IFRS Foundation — normas IFRS/IAS aplicables a presentación y lectura de estados financieros. Verificar edición vigente en <https://www.ifrs.org/>."
+limits:
+  - "EBITDA y normalizaciones pueden manipularse si se ajusta todo lo desfavorable. Justifica cada exclusión y cruza siempre con flujo de caja y balance."
+evidence_signals:
+  - "gross margin"
+  - "operating margin"
+  - "EBITDA margin"
+  - "net margin"
+  - "normalization adjustments"

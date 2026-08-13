@@ -1,0 +1,31 @@
+id: 49
+part: 04
+title: "Qué hace a un equipo real"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir equipo de grupo de trabajo mediante evidencia observable."
+  - "Aplicar la secuencia: definir resultado común → mapear interdependencias reales → decidir qué trabajo requiere coordinación colectiva → establecer normas y decisiones de equipo → medir outcome común además de outputs individuales."
+  - "Interpretar outcome común, handoffs, decisiones entre pares sin atribuir causalidad automática."
+  - "Resolver el caso de qué hace a un equipo real con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "people-decision-brief.md"
+references:
+  - "J. Richard Hackman — *Leading Teams*"
+  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "John Whitmore — *Coaching for Performance*"
+  - "Patrick Lencioni — *Death by Meeting*"
+  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+limits:
+  - "Crear equipo donde no hay interdependencia puede agregar reuniones y conflicto sin valor. Algunas tareas funcionan mejor como grupo coordinado o comunidad de práctica."
+evidence_signals:
+  - "outcome común"
+  - "handoffs"
+  - "decisiones entre pares"
+  - "retrabajo por coordinación"
+  - "dependencia del jefe"

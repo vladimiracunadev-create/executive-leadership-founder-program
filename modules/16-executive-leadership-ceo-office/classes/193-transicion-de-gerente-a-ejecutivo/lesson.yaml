@@ -1,0 +1,31 @@
+id: 193
+part: 16
+title: "Transición de gerente a ejecutivo"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir enterprise perspective de transition mediante evidencia observable."
+  - "Aplicar la secuencia: diagnosticar mandato y contexto → construir learning agenda → mapear stakeholders y equipo → distinguir decisiones enterprise → secuenciar early wins y cambios estructurales."
+  - "Interpretar cross-functional outcomes, stakeholder trust, decision scope sin atribuir causalidad automática."
+  - "Resolver el caso de transición de gerente a ejecutivo con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Matt Mochary — *The Great CEO Within*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Ram Charan — *What the CEO Wants You to Know*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+  - "Larry Bossidy & Ram Charan — *Execution*"
+limits:
+  - "Abandonar experiencia funcional por completo también es un error. El ejecutivo conserva criterio técnico, pero lo usa para hacer mejores preguntas y diseñar accountability, no para apropiarse del trabajo."
+evidence_signals:
+  - "cross-functional outcomes"
+  - "stakeholder trust"
+  - "decision scope"
+  - "time allocation"
+  - "early-win quality"

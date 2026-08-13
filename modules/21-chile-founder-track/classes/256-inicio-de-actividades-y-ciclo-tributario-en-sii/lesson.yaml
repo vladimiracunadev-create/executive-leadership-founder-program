@@ -1,0 +1,33 @@
+id: 256
+part: 21
+title: "Inicio de actividades y ciclo tributario en SII"
+duration_minutes: 150
+level: "Etapa 6 — Founder en Chile"
+outcome: "formalizar y operar una empresa chilena con comprensión ejecutiva de obligaciones y escalamiento profesional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir inicio de actividades de giro mediante evidencia observable."
+  - "Aplicar la secuencia: confirmar entidad y RUT → definir giros y domicilio → reunir antecedentes exigidos → realizar inicio y verificar estado → configurar documentos y calendario tributario."
+  - "Interpretar SII registration status, declared activities, pending verification sin atribuir causalidad automática."
+  - "Resolver el caso de inicio de actividades y ciclo tributario en SII con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "founder-owner-decision-brief.md"
+references:
+  - "Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*"
+  - "Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Subsecretaría de Previsión Social (Chile) — *Seguridad y Salud Laboral / Decreto Supremo N°44*"
+  - "INAPI (Chile) — *Propiedad industrial y orientación oficial*"
+  - "Dirección ChileCompra — *Mercado Público y normativa de compras públicas*"
+  - "SII — Ciclo de vida del contribuyente, Inicio de Actividades: <https://www.sii.cl/destacados/educacion/ciclo_vida_contribuyente/paso_02.html>."
+  - "SII — ayudas para Inicio de Actividades: <https://www.sii.cl/pagina/registro_contribuyentes/ayudas_inicio_actividades.htm>."
+limits:
+  - "Los pasos y antecedentes SII pueden cambiar y depender del caso. Verifica siempre requisitos actuales en sii.cl; el programa no reemplaza asesoría tributaria."
+evidence_signals:
+  - "SII registration status"
+  - "declared activities"
+  - "pending verification"
+  - "document authorization"
+  - "tax deadlines"

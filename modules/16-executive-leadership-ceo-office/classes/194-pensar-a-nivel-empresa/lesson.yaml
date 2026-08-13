@@ -1,0 +1,31 @@
+id: 194
+part: 16
+title: "Pensar a nivel empresa"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir enterprise value de portfolio view mediante evidencia observable."
+  - "Aplicar la secuencia: mapear value drivers → identificar restricciones del sistema → comparar impactos interfuncionales → modelar corto y largo plazo → decidir y comunicar trade-off."
+  - "Interpretar enterprise cash, ROIC, customer value sin atribuir causalidad automática."
+  - "Resolver el caso de pensar a nivel empresa con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Matt Mochary — *The Great CEO Within*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
+  - "Larry Bossidy & Ram Charan — *Execution*"
+  - "Peter F. Drucker — *The Effective Executive*"
+limits:
+  - "La perspectiva enterprise no justifica ignorar accountability local. Las funciones necesitan métricas propias, pero su optimización queda subordinada a objetivos y límites del sistema."
+evidence_signals:
+  - "enterprise cash"
+  - "ROIC"
+  - "customer value"
+  - "talent capacity"
+  - "risk-adjusted return"

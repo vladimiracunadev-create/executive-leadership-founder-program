@@ -1,0 +1,31 @@
+id: 220
+part: 18
+title: "Valoración por flujos"
+duration_minutes: 150
+level: "Etapa 5 — CEO → Capital allocator"
+outcome: "decidir estructura de capital, valoración, fundraising y transacciones"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir free cash flow de DCF mediante evidencia observable."
+  - "Aplicar la secuencia: proyectar drivers operativos → convertir beneficio a FCF → estimar discount rate → calcular terminal value → hacer sensibilidad y sanity checks."
+  - "Interpretar FCF, growth, operating margin sin atribuir causalidad automática."
+  - "Resolver el caso de valoración por flujos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "modelo-financiero-y-memo-de-decision.md"
+references:
+  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
+  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
+  - "Brad Feld & Jason Mendelson — *Venture Deals*"
+  - "David Skok — *SaaS Metrics resources*"
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+limits:
+  - "DCF no crea información que no existe. Para startups o negocios en transición, escenarios y unit economics pueden ser más informativos que un punto de valoración."
+evidence_signals:
+  - "FCF"
+  - "growth"
+  - "operating margin"
+  - "WACC"
+  - "terminal value share"

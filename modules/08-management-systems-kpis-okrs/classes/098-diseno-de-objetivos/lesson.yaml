@@ -1,0 +1,31 @@
+id: 98
+part: 08
+title: "Diseño de objetivos"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir objective de target mediante evidencia observable."
+  - "Aplicar la secuencia: partir de prioridad estratégica → definir outcome y horizonte → seleccionar 1–3 medidas → declarar constraints y trade-offs → alinear recursos y revisión."
+  - "Interpretar número de objetivos activos, recursos sin objetivo, objetivos incompatibles sin atribuir causalidad automática."
+  - "Resolver el caso de diseño de objetivos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "John Doerr — *Measure What Matters*"
+  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Bernard Marr — *Key Performance Indicators*"
+  - "Robert S. Kaplan & David P. Norton — *Strategy Maps*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+limits:
+  - "Un objetivo agresivo puede inducir gaming o riesgo si no incluye límites. Ambición sin guardrails no es liderazgo de desempeño."
+evidence_signals:
+  - "número de objetivos activos"
+  - "recursos sin objetivo"
+  - "objetivos incompatibles"
+  - "target attainment"
+  - "re-priorizaciones"

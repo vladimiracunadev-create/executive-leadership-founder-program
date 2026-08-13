@@ -1,0 +1,31 @@
+id: 36
+part: 02
+title: "Capstone: comunicar una decisión impopular"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "convertir comunicación, influencia y negociación en sistemas de decisión y relación"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir decisión impopular de criterio mediante evidencia observable."
+  - "Aplicar la secuencia: preparar razones y alternativas consideradas → nombrar decisión temprano → explicar criterio y límites → reconocer impacto sin falsa promesa → abrir preguntas y documentar seguimiento."
+  - "Interpretar comprensión de la decisión, rumores posteriores, preguntas sin respuesta sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: comunicar una decisión impopular con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Chip Heath & Dan Heath — *Made to Stick*"
+  - "Robert B. Cialdini — *Influence*"
+  - "Edgar H. Schein — *Humble Inquiry*"
+  - "Roger Fisher, William Ury & Bruce Patton — *Getting to Yes*"
+  - "Kerry Patterson et al. — *Crucial Conversations*"
+  - "Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations*"
+limits:
+  - "Transparencia tiene límites legítimos por privacidad, negociación o información sensible. Explica tanto como sea posible sin inventar certeza ni divulgar datos que no corresponde compartir."
+evidence_signals:
+  - "comprensión de la decisión"
+  - "rumores posteriores"
+  - "preguntas sin respuesta"
+  - "rotación o compromiso"
+  - "acciones prometidas cumplidas"

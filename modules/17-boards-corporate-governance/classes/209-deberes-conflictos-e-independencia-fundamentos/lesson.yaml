@@ -1,0 +1,32 @@
+id: 209
+part: 17
+title: "Deberes, conflictos e independencia: fundamentos"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir fiduciary duty de conflict of interest mediante evidencia observable."
+  - "Aplicar la secuencia: identificar interés y deber → verificar ley o política aplicable → revelar conflicto oportunamente → definir recusal y proceso independiente → documentar fundamento y aprobación."
+  - "Interpretar conflict disclosures, related-party transactions, recusals sin atribuir causalidad automática."
+  - "Resolver el caso de deberes, conflictos e independencia: fundamentos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Bob Tricker — *Corporate Governance*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Ram Charan — *Boards That Deliver*"
+  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
+  - "Michael E. Porter & Mark R. Kramer — *Creating Shared Value*"
+  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+limits:
+  - "No memorices reglas universales: deberes, umbrales e independencia tienen definición legal específica. Usa esta clase para issue spotting y verifica legislación o estatutos con asesoría."
+evidence_signals:
+  - "conflict disclosures"
+  - "related-party transactions"
+  - "recusals"
+  - "independent approvals"
+  - "governance breaches"

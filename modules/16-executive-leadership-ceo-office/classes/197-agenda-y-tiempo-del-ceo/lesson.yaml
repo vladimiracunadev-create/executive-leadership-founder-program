@@ -1,0 +1,31 @@
+id: 197
+part: 16
+title: "Agenda y tiempo del CEO"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir CEO agenda de high-leverage activity mediante evidencia observable."
+  - "Aplicar la secuencia: auditar calendario y decisiones → definir categorías de alto apalancamiento → eliminar o delegar status → bloquear pensamiento y stakeholders → revisar mensualmente agenda versus estrategia."
+  - "Interpretar time by priority, decision backlog, meeting decision ratio sin atribuir causalidad automática."
+  - "Resolver el caso de agenda y tiempo del CEO con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "board-or-executive-memo.md"
+references:
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Matt Mochary — *The Great CEO Within*"
+  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Larry Bossidy & Ram Charan — *Execution*"
+limits:
+  - "Una agenda rígida falla en crisis y transiciones. Protege bloques estructurales, pero conserva capacidad de reordenar atención cuando cambia el riesgo o la oportunidad."
+evidence_signals:
+  - "time by priority"
+  - "decision backlog"
+  - "meeting decision ratio"
+  - "deep-work blocks"
+  - "stakeholder coverage"

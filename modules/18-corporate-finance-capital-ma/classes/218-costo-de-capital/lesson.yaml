@@ -1,0 +1,31 @@
+id: 218
+part: 18
+title: "Costo de capital"
+duration_minutes: 150
+level: "Etapa 5 — CEO → Capital allocator"
+outcome: "decidir estructura de capital, valoración, fundraising y transacciones"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir cost of equity de cost of debt mediante evidencia observable."
+  - "Aplicar la secuencia: definir flujo y riesgo → estimar costo de deuda after-tax → estimar costo de equity → ponderar capital a valores económicos → ajustar hurdle si riesgo difiere."
+  - "Interpretar WACC, credit spread, beta sin atribuir causalidad automática."
+  - "Resolver el caso de costo de capital con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "modelo-financiero-y-memo-de-decision.md"
+references:
+  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
+  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
+  - "Noam Wasserman — *The Founder's Dilemmas*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Brad Feld & Jason Mendelson — *Venture Deals*"
+  - "David Skok — *SaaS Metrics resources*"
+limits:
+  - "WACC parece preciso pero depende de supuestos y mercado. Usa rangos y sensibilidad; no inventes decimales que superen calidad de inputs."
+evidence_signals:
+  - "WACC"
+  - "credit spread"
+  - "beta"
+  - "ROIC-WACC spread"
+  - "project IRR"

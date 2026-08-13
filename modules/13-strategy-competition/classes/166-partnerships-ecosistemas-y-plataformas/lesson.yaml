@@ -1,0 +1,31 @@
+id: 166
+part: 13
+title: "Partnerships, ecosistemas y plataformas"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir ecosystem de platform mediante evidencia observable."
+  - "Aplicar la secuencia: mapear actores y flujo de valor → identificar complementos y cuellos → definir incentivos y reglas → modelar economics y dependencia → negociar métricas datos y salida."
+  - "Interpretar partner-sourced revenue, dependency concentration, take rate sin atribuir causalidad automática."
+  - "Resolver el caso de partnerships, ecosistemas y plataformas con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Michael E. Porter — *Competitive Strategy*"
+  - "Michael E. Porter — *Competitive Advantage*"
+  - "David J. Teece — *Dynamic Capabilities and Strategic Management*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+  - "Hamilton Helmer — *7 Powers*"
+  - "A.G. Lafley & Roger L. Martin — *Playing to Win*"
+limits:
+  - "No toda relación con proveedores es ecosistema y no todo efecto de red genera ventaja. Valida si la interdependencia realmente aumenta valor y si el poder está equilibrado."
+evidence_signals:
+  - "partner-sourced revenue"
+  - "dependency concentration"
+  - "take rate"
+  - "ecosystem adoption"
+  - "switching cost"

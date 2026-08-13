@@ -1,0 +1,32 @@
+id: 207
+part: 17
+title: "Rol del presidente y del CEO"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir board chair de CEO mediante evidencia observable."
+  - "Aplicar la secuencia: clarificar roles chair y CEO → diseñar agenda y pre-reads → crear canales de feedback → proteger executive sessions → resolver tensiones sin doble comando."
+  - "Interpretar chair-CEO meeting cadence, board evaluation, management trust sin atribuir causalidad automática."
+  - "Resolver el caso de rol del presidente y del CEO con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "board-or-executive-memo.md"
+references:
+  - "Bob Tricker — *Corporate Governance*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Paul Polman & Andrew Winston — *Net Positive*"
+  - "Ram Charan — *Boards That Deliver*"
+  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
+  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+limits:
+  - "Separar roles no garantiza independencia ni efectividad. Cultura, composición, información y capacidad de challenge importan tanto como el organigrama."
+evidence_signals:
+  - "chair-CEO meeting cadence"
+  - "board evaluation"
+  - "management trust"
+  - "agenda ownership"
+  - "independent sessions"

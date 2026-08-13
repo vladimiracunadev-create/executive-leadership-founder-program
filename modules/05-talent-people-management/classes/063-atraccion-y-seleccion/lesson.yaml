@@ -1,0 +1,31 @@
+id: 63
+part: 05
+title: "Atracción y selección"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "diseñar un sistema de talento desde el cargo hasta la salida responsable"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir talent funnel de selection validity mediante evidencia observable."
+  - "Aplicar la secuencia: definir scorecard y criterios antes de publicar → atraer en canales adecuados → usar screening consistente → combinar entrevistas y muestras de trabajo → registrar decisión y revisar calidad de contratación."
+  - "Interpretar conversiones por etapa, time-to-fill, quality of hire sin atribuir causalidad automática."
+  - "Resolver el caso de atracción y selección con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "people-decision-brief.md"
+references:
+  - "Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*"
+  - "Raymond Noe et al. — *Human Resource Management*"
+  - "Dave Ulrich — *Human Resource Champions*"
+  - "John Whitmore — *Coaching for Performance*"
+  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
+  - "Marcus Buckingham & Curt Coffman — *First, Break All the Rules*"
+limits:
+  - "Ningún instrumento debe preguntar o discriminar por información protegida o irrelevante. Los métodos deben relacionarse con el trabajo y cumplir normativa local de igualdad y datos personales."
+evidence_signals:
+  - "conversiones por etapa"
+  - "time-to-fill"
+  - "quality of hire"
+  - "offer acceptance"
+  - "adverse impact"

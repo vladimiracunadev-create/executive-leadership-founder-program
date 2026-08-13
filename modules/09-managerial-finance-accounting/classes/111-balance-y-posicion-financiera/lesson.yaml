@@ -1,0 +1,32 @@
+id: 111
+part: 09
+title: "Balance y posición financiera"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir activo de pasivo mediante evidencia observable."
+  - "Aplicar la secuencia: clasificar corriente y no corriente → revisar calidad y concentración de activos → medir liquidez → analizar deuda y vencimientos → conciliar cambios con resultado y caja."
+  - "Interpretar current ratio, net debt, receivable days sin atribuir causalidad automática."
+  - "Resolver el caso de balance y posición financiera con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "modelo-financiero-y-memo-de-decision.md"
+references:
+  - "Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*"
+  - "Stephen H. Penman — *Financial Statement Analysis and Security Valuation*"
+  - "Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation*"
+  - "Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans*"
+  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
+  - "Aswath Damodaran — *Investment Valuation*"
+  - "IFRS Foundation — normas IFRS/IAS aplicables a presentación y lectura de estados financieros. Verificar edición vigente en <https://www.ifrs.org/>."
+limits:
+  - "Ratios sin contexto sectorial engañan. Un negocio de suscripción y uno industrial requieren estructuras diferentes; analiza tendencia, comparables y condiciones contractuales."
+evidence_signals:
+  - "current ratio"
+  - "net debt"
+  - "receivable days"
+  - "inventory days"
+  - "equity ratio"

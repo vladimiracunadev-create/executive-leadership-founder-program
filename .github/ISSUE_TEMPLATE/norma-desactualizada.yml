@@ -1,0 +1,44 @@
+name: "⚖️ Norma desactualizada"
+description: Una norma, cifra regulatoria o trámite citado ya no está vigente.
+labels: ["normativa", "chile"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        El material normativo declara su fecha de verificación precisamente
+        para que este issue sea posible. Indica la fuente oficial vigente.
+  - type: input
+    id: ubicacion
+    attributes:
+      label: Dónde aparece
+      placeholder: docs/CHILE_LABOR_EMPLOYMENT_LAW.md — tabla de jornada
+    validations:
+      required: true
+  - type: input
+    id: norma
+    attributes:
+      label: Norma o trámite
+      placeholder: Ley 21.561 — reducción de jornada
+    validations:
+      required: true
+  - type: textarea
+    id: cambio
+    attributes:
+      label: Qué cambió
+      description: Qué dice el material y qué dice la norma vigente.
+    validations:
+      required: true
+  - type: input
+    id: fuente
+    attributes:
+      label: Fuente oficial
+      description: Enlace al organismo emisor (BCN, DT, SII, CMF, etc.).
+    validations:
+      required: true
+  - type: input
+    id: fecha
+    attributes:
+      label: Fecha de verificación
+      placeholder: "2026-08-13"
+    validations:
+      required: true

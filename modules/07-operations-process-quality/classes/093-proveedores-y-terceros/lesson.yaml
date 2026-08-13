@@ -1,0 +1,31 @@
+id: 93
+part: 07
+title: "Proveedores y terceros"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "operar procesos end-to-end con capacidad, calidad, continuidad y mejora"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir third-party risk de criticality mediante evidencia observable."
+  - "Aplicar la secuencia: clasificar terceros por criticidad → hacer due diligence proporcional → definir contratos y controles → monitorear performance y riesgo → probar exit y continuidad."
+  - "Interpretar SLA breaches, concentración de gasto, incidentes de terceros sin atribuir causalidad automática."
+  - "Resolver el caso de proveedores y terceros con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "Geary A. Rummler & Alan P. Brache — *Improving Performance*"
+  - "ISO — *ISO 9001 Quality management systems*"
+  - "Michael Hammer & James Champy — *Reengineering the Corporation*"
+  - "James P. Womack & Daniel T. Jones — *Lean Thinking*"
+limits:
+  - "Duplicar proveedores no siempre es económico ni reduce riesgo si comparten la misma infraestructura. Analiza concentración real y costo de salida, no solo número de contratos."
+evidence_signals:
+  - "SLA breaches"
+  - "concentración de gasto"
+  - "incidentes de terceros"
+  - "tiempo de reemplazo"
+  - "controles pendientes"

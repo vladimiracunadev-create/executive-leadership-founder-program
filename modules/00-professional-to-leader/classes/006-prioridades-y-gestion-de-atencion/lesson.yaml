@@ -1,0 +1,31 @@
+id: 6
+part: 00
+title: "Prioridades y gestión de atención"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "pasar de ejecutar tareas a producir contribución, criterio y confianza"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir prioridad de urgencia mediante evidencia observable."
+  - "Aplicar la secuencia: capturar todas las demandas relevantes → clasificar impacto, urgencia y dependencia → limitar WIP y reservar bloques de atención → negociar explícitamente lo que se posterga → revisar prioridades cuando cambian supuestos."
+  - "Interpretar WIP simultáneo, lead time, porcentaje de trabajo interrumpido sin atribuir causalidad automática."
+  - "Resolver el caso de prioridades y gestión de atención con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "James Clear — *Atomic Habits*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Herminia Ibarra — *Act Like a Leader, Think Like a Leader*"
+limits:
+  - "Priorizar no significa ignorar incidentes ni rigidez absoluta. Debe existir capacidad reservada para variabilidad; el sistema falla tanto por sobreplanificación como por ausencia de límites."
+evidence_signals:
+  - "WIP simultáneo"
+  - "lead time"
+  - "porcentaje de trabajo interrumpido"
+  - "compromisos incumplidos"
+  - "tiempo protegido de foco"

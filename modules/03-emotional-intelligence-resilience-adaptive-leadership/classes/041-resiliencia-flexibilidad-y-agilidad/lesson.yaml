@@ -1,0 +1,31 @@
+id: 41
+part: 03
+title: "Resiliencia, flexibilidad y agilidad"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "regularse, sostener exigencia humana y liderar adaptación bajo presión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir resiliencia de robustez mediante evidencia observable."
+  - "Aplicar la secuencia: definir funciones críticas → identificar shocks plausibles y puntos únicos → crear buffers o alternativas → practicar respuesta y aprendizaje → rediseñar vulnerabilidades descubiertas."
+  - "Interpretar tiempo de recuperación, single points of failure, capacidad de reserva sin atribuir causalidad automática."
+  - "Resolver el caso de resiliencia, flexibilidad y agilidad con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Daniel Goleman — *Emotional Intelligence*"
+  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
+  - "Ronald Heifetz & Marty Linsky — *Leadership on the Line*"
+  - "Angela Duckworth — *Grit*"
+  - "Brené Brown — *Dare to Lead*"
+  - "Clayton Christensen et al. — *How Will You Measure Your Life?*"
+limits:
+  - "La resiliencia tiene costo: redundancia y buffers reducen eficiencia aparente. No se trata de duplicar todo, sino de proteger funciones cuyo fallo tiene impacto material."
+evidence_signals:
+  - "tiempo de recuperación"
+  - "single points of failure"
+  - "capacidad de reserva"
+  - "simulacros"
+  - "mejoras después de incidentes"

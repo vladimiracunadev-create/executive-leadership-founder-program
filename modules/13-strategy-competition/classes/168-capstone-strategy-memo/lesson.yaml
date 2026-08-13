@@ -1,0 +1,31 @@
+id: 168
+part: 13
+title: "Capstone: strategy memo"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir strategy memo de strategic thesis mediante evidencia observable."
+  - "Aplicar la secuencia: redactar diagnóstico basado en evidencia → proponer choices y no-opciones → explicar mecanismo de ventaja → asignar recursos y acciones → definir riesgos signposts y revisión."
+  - "Interpretar choice specificity, resource concentration, economic logic sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: strategy memo con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Michael E. Porter — *Competitive Strategy*"
+  - "Michael E. Porter — *Competitive Advantage*"
+  - "W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+  - "Hamilton Helmer — *7 Powers*"
+  - "Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy*"
+limits:
+  - "Un memo convincente puede ocultar datos débiles. Evalúa explícitamente calidad de evidencia y escenarios adversos; la claridad narrativa no sustituye incertidumbre real."
+evidence_signals:
+  - "choice specificity"
+  - "resource concentration"
+  - "economic logic"
+  - "assumption coverage"
+  - "review cadence"

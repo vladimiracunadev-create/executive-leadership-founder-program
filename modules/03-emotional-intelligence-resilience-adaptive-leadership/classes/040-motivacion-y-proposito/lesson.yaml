@@ -1,0 +1,31 @@
+id: 40
+part: 03
+title: "Motivación y propósito"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "regularse, sostener exigencia humana y liderar adaptación bajo presión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir motivación intrínseca de motivación extrínseca mediante evidencia observable."
+  - "Aplicar la secuencia: diagnosticar qué fricción reduce energía → separar problema de capacidad, claridad e incentivo → dar autonomía proporcional a competencia → conectar tarea con resultado y stakeholder → revisar equidad y consecuencias del sistema."
+  - "Interpretar engagement segmentado, rotación evitable, aprendizaje y autonomía sin atribuir causalidad automática."
+  - "Resolver el caso de motivación y propósito con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Goleman — *Emotional Intelligence*"
+  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
+  - "Amy C. Edmondson — *The Fearless Organization*"
+  - "Daniel H. Pink — *Drive*"
+  - "Adam Grant — *Think Again*"
+  - "Ronald Heifetz & Marty Linsky — *Leadership on the Line*"
+limits:
+  - "Propósito no compensa salarios injustos, abuso, mala carga o incentivos contradictorios. Usarlo como retórica para pedir sacrificio puede destruir confianza."
+evidence_signals:
+  - "engagement segmentado"
+  - "rotación evitable"
+  - "aprendizaje y autonomía"
+  - "calidad sin supervisión"
+  - "percepción de equidad"

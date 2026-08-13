@@ -1,0 +1,31 @@
+id: 124
+part: 10
+title: "Discovery y diagnóstico"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "construir ingresos mediante un proceso comercial medible y negociación disciplinada"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir situation de problem mediante evidencia observable."
+  - "Aplicar la secuencia: preparar hipótesis sin asumir → preguntar situación mínima necesaria → profundizar problema e impacto → cuantificar costo de inacción → mapear decisión y acordar siguiente paso."
+  - "Interpretar discovery-to-opportunity, problem quantified, stakeholders mapped sin atribuir causalidad automática."
+  - "Resolver el caso de discovery y diagnóstico con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "product-evidence-brief.md"
+references:
+  - "Neil Rackham — *SPIN Selling*"
+  - "Matthew Dixon & Brent Adamson — *The Challenger Sale*"
+  - "Neil Rackham — *Major Account Sales Strategy*"
+  - "Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing*"
+  - "Roger Fisher, William Ury & Bruce Patton — *Getting to Yes*"
+  - "Chris Voss & Tahl Raz — *Never Split the Difference*"
+limits:
+  - "Discovery no debe convertirse en interrogatorio manipulativo ni en terapia gratuita interminable. Entrega valor y respeta cuando no existe fit o urgencia suficiente."
+evidence_signals:
+  - "discovery-to-opportunity"
+  - "problem quantified"
+  - "stakeholders mapped"
+  - "next-step commitment"
+  - "loss reason"

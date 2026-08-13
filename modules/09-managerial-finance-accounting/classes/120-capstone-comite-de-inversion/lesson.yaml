@@ -1,0 +1,31 @@
+id: 120
+part: 09
+title: "Capstone: comité de inversión"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir investment memo de NPV mediante evidencia observable."
+  - "Aplicar la secuencia: definir decisión y alternativa base → modelar cash flows incrementales → calcular NPV y sensibilidad → comparar opciones y portfolio → aprobar con milestones y post-audit."
+  - "Interpretar NPV, cash at risk, downside sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: comité de inversión con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*"
+  - "Stephen H. Penman — *Financial Statement Analysis and Security Valuation*"
+  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans*"
+  - "Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation*"
+limits:
+  - "La matemática no decide sola prioridades estratégicas ni restricciones de riesgo. El comité debe hacer explícito juicio, conflictos y capacidad de ejecución."
+evidence_signals:
+  - "NPV"
+  - "cash at risk"
+  - "downside"
+  - "milestones"
+  - "post-audit variance"

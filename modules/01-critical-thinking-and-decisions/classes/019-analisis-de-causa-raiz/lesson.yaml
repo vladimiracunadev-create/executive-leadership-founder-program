@@ -1,0 +1,31 @@
+id: 19
+part: 01
+title: "Análisis de causa raíz"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "decidir con evidencia, incertidumbre, causalidad y pensamiento sistémico"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir causa raíz de causa contribuyente mediante evidencia observable."
+  - "Aplicar la secuencia: definir evento y alcance → reconstruir línea de tiempo → generar causas potenciales sin culpabilizar → buscar evidencia y contrafactuales → diseñar acciones sobre sistema y verificar recurrencia."
+  - "Interpretar reincidencia del incidente, tiempo entre fallos, acciones correctivas cerradas sin atribuir causalidad automática."
+  - "Resolver el caso de análisis de causa raíz con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Kahneman — *Thinking, Fast and Slow*"
+  - "Gary Klein — *Sources of Power*"
+  - "Annie Duke — *How to Decide*"
+  - "Max H. Bazerman & Don A. Moore — *Judgment in Managerial Decision Making*"
+  - "Peter M. Senge — *The Fifth Discipline*"
+  - "Annie Duke — *Thinking in Bets*"
+limits:
+  - "No todos los problemas justifican root-cause analysis profundo. En eventos pequeños y aislados puede costar más que el riesgo evitado; usa proporcionalidad y reserva análisis exhaustivo para recurrencia o severidad material."
+evidence_signals:
+  - "reincidencia del incidente"
+  - "tiempo entre fallos"
+  - "acciones correctivas cerradas"
+  - "controles detectivos"
+  - "errores humanos asociados a condiciones sistémicas"

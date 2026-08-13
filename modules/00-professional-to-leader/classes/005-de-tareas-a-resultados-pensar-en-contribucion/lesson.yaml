@@ -1,0 +1,31 @@
+id: 5
+part: 00
+title: "De tareas a resultados: pensar en contribución"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "pasar de ejecutar tareas a producir contribución, criterio y confianza"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir actividad de output mediante evidencia observable."
+  - "Aplicar la secuencia: nombrar el outcome externo → mapear qué outputs lo habilitan → eliminar actividades sin conexión defendible → acordar criterios de calidad y tiempo → medir si la contribución ocurrió realmente."
+  - "Interpretar horas invertidas versus outcomes, porcentaje de outputs usados, decisiones habilitadas sin atribuir causalidad automática."
+  - "Resolver el caso de de tareas a resultados: pensar en contribución con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Greg McKeown — *Essentialism*"
+  - "Gary Yukl — *Leadership in Organizations*"
+  - "Herminia Ibarra — *Act Like a Leader, Think Like a Leader*"
+  - "Andrew S. Grove — *High Output Management*"
+limits:
+  - "No todo valor es inmediatamente cuantificable. Capacidades, confianza, aprendizaje y prevención pueden crear valor diferido; el error sería confundir 'difícil de medir' con 'sin propósito'."
+evidence_signals:
+  - "horas invertidas versus outcomes"
+  - "porcentaje de outputs usados"
+  - "decisiones habilitadas"
+  - "reducción de retrabajo"
+  - "valor o riesgo evitado"

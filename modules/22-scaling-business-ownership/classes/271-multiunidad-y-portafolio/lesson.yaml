@@ -1,0 +1,31 @@
+id: 271
+part: 22
+title: "Multiunidad y portafolio"
+duration_minutes: 150
+level: "Etapa 6 — Business Owner"
+outcome: "reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir business unit de portfolio mediante evidencia observable."
+  - "Aplicar la secuencia: definir unidad económica → separar P&L y cash → identificar shared capabilities → medir parenting advantage → allocate grow harvest o exit."
+  - "Interpretar ROIC by unit, cash generation, shared-service cost sin atribuir causalidad automática."
+  - "Resolver el caso de multiunidad y portafolio con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "strategy-memo.md"
+references:
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Verne Harnish — *Scaling Up*"
+  - "Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*"
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Jay R. Galbraith — *Designing Organizations*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+limits:
+  - "Separar demasiado puede perder sinergias y crear duplicación. Diseña transfer pricing o allocation transparente para ver economics sin destruir colaboración."
+evidence_signals:
+  - "ROIC by unit"
+  - "cash generation"
+  - "shared-service cost"
+  - "cross-unit synergies"
+  - "capital allocation"

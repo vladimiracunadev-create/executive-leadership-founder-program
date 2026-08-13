@@ -1,0 +1,31 @@
+id: 83
+part: 06
+title: "Recuperación de proyectos atrasados"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir rebaseline de critical path mediante evidencia observable."
+  - "Aplicar la secuencia: detener nuevas promesas → medir avance real y trabajo restante → reconstruir critical path y capacidad → comparar recorte, resecuencia y recursos → comunicar nuevo baseline con riesgos."
+  - "Interpretar schedule variance, remaining work, critical path duration sin atribuir causalidad automática."
+  - "Resolver el caso de recuperación de proyectos atrasados con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
+  - "Harold Kerzner — *Project Management*"
+  - "Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*"
+  - "Gene Kim et al. — *The Phoenix Project*"
+  - "Michael Hammer & James Champy — *Reengineering the Corporation*"
+  - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
+limits:
+  - "Más personas pueden retrasar trabajo altamente acoplado por onboarding y coordinación. Recuperación no es sinónimo de horas extra; prueba si la intervención cambia el critical path."
+evidence_signals:
+  - "schedule variance"
+  - "remaining work"
+  - "critical path duration"
+  - "scope removed"
+  - "defects por aceleración"

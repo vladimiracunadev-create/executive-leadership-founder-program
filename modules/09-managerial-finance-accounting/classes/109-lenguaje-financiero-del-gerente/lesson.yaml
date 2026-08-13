@@ -1,0 +1,31 @@
+id: 109
+part: 09
+title: "Lenguaje financiero del gerente"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir devengo de ingreso mediante evidencia observable."
+  - "Aplicar la secuencia: traducir decisión a estado de resultados → identificar impacto en balance → modelar momento de caja → separar contable de económico → comprobar efecto en retorno y riesgo."
+  - "Interpretar revenue, margen, EBIT sin atribuir causalidad automática."
+  - "Resolver el caso de lenguaje financiero del gerente con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "modelo-financiero-y-memo-de-decision.md"
+references:
+  - "Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*"
+  - "Stephen H. Penman — *Financial Statement Analysis and Security Valuation*"
+  - "Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis*"
+  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
+  - "Aswath Damodaran — *Investment Valuation*"
+  - "Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation*"
+limits:
+  - "Las definiciones contables dependen de normas y contratos. El gerente usa el lenguaje para preguntar mejor; reconocimiento formal debe validarse con contabilidad y normas vigentes."
+evidence_signals:
+  - "revenue"
+  - "margen"
+  - "EBIT"
+  - "cash flow"
+  - "ROIC"

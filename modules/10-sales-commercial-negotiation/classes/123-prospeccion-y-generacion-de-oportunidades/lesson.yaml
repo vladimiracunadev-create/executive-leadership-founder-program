@@ -1,0 +1,31 @@
+id: 123
+part: 10
+title: "Prospección y generación de oportunidades"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "construir ingresos mediante un proceso comercial medible y negociación disciplinada"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir prospecting de trigger event mediante evidencia observable."
+  - "Aplicar la secuencia: seleccionar cuentas por ICP → buscar trigger y problema plausible → redactar mensaje de relevancia → usar cadencia limitada y respetuosa → medir reply, meeting y opportunity rate."
+  - "Interpretar reply rate, meeting rate, opportunity rate sin atribuir causalidad automática."
+  - "Resolver el caso de prospección y generación de oportunidades con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Neil Rackham — *SPIN Selling*"
+  - "Matthew Dixon & Brent Adamson — *The Challenger Sale*"
+  - "Deepak Malhotra & Max H. Bazerman — *Negotiation Genius*"
+  - "Aaron Ross & Marylou Tyler — *Predictable Revenue*"
+  - "Robert B. Cialdini — *Influence*"
+  - "Roger Fisher, William Ury & Bruce Patton — *Getting to Yes*"
+limits:
+  - "La prospección debe respetar privacidad, consentimiento y normas anti-spam aplicables. Más datos disponibles no significan permiso para usarlos de cualquier manera."
+evidence_signals:
+  - "reply rate"
+  - "meeting rate"
+  - "opportunity rate"
+  - "unsubscribe/spam"
+  - "sourcing cost"

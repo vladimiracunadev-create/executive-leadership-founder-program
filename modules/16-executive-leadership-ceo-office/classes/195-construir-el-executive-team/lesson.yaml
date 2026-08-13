@@ -1,0 +1,31 @@
+id: 195
+part: 16
+title: "Construir el executive team"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir executive team de functional advocacy mediante evidencia observable."
+  - "Aplicar la secuencia: definir mandato colectivo → seleccionar complementariedad y roles → crear normas de conflicto y decisión → diseñar cadencia enterprise → medir comportamiento y resultados colectivos."
+  - "Interpretar enterprise decisions reopened, cross-functional commitments, team trust sin atribuir causalidad automática."
+  - "Resolver el caso de construir el executive team con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Matt Mochary — *The Great CEO Within*"
+  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Larry Bossidy & Ram Charan — *Execution*"
+limits:
+  - "No todas las decisiones deben ser colectivas. Un equipo ejecutivo efectivo reserva trabajo conjunto para asuntos enterprise y mantiene accountability funcional clara."
+evidence_signals:
+  - "enterprise decisions reopened"
+  - "cross-functional commitments"
+  - "team trust"
+  - "meeting decision ratio"
+  - "succession coverage"

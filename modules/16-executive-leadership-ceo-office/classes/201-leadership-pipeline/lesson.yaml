@@ -1,0 +1,31 @@
+id: 201
+part: 16
+title: "Leadership pipeline"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir leadership passage de readiness mediante evidencia observable."
+  - "Aplicar la secuencia: mapear niveles y critical roles → definir work y values por passage → calibrar potencial y readiness → crear assignments y coaching → revisar bench y sucesión periódicamente."
+  - "Interpretar critical-role coverage, ready-now successors, time-to-fill sin atribuir causalidad automática."
+  - "Resolver el caso de leadership pipeline con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "commercial-decision-brief.md"
+references:
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Matt Mochary — *The Great CEO Within*"
+  - "Larry Bossidy & Ram Charan — *Execution*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Ram Charan — *What the CEO Wants You to Know*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+limits:
+  - "Pipeline no debe convertirse en jerarquía rígida ni sesgar contra carreras expertas. Diseña rutas IC y management con valor comparable cuando el trabajo lo permita."
+evidence_signals:
+  - "critical-role coverage"
+  - "ready-now successors"
+  - "time-to-fill"
+  - "promotion success"
+  - "development progress"

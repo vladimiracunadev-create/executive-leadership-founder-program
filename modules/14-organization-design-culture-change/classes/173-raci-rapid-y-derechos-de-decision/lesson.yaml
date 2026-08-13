@@ -1,0 +1,31 @@
+id: 173
+part: 14
+title: "RACI, RAPID y derechos de decisión"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "diseñar estructura, derechos de decisión, cultura y cambio como un sistema"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir RACI de RAPID mediante evidencia observable."
+  - "Aplicar la secuencia: inventariar decisiones recurrentes → distinguir trabajo de decisión → elegir RACI o RAPID según problema → asignar un D o Accountable claro → medir latencia y conflictos para ajustar."
+  - "Interpretar decision time, approval count, reopened decisions sin atribuir causalidad automática."
+  - "Resolver el caso de rACI, RAPID y derechos de decisión con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Jay R. Galbraith — *Designing Organizations*"
+  - "Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*"
+  - "Patrick Lencioni — *The Advantage*"
+  - "Stanley McChrystal et al. — *Team of Teams*"
+  - "John P. Kotter — *Accelerate*"
+  - "John P. Kotter — *Leading Change*"
+limits:
+  - "Ninguna matriz arregla una distribución de poder que la dirección no respeta. Si los líderes revierten decisiones por fuera del sistema, la herramienta se vuelve teatro."
+evidence_signals:
+  - "decision time"
+  - "approval count"
+  - "reopened decisions"
+  - "escalations"
+  - "role ambiguity"

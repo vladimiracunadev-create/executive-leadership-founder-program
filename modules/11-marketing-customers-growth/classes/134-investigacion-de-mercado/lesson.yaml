@@ -1,0 +1,31 @@
+id: 134
+part: 11
+title: "Investigación de mercado"
+duration_minutes: 150
+level: "Etapa 3 — Manager → Gerente"
+outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir secondary research de qualitative research mediante evidencia observable."
+  - "Aplicar la secuencia: formular decisión de investigación → revisar fuentes secundarias → explorar cualitativamente → diseñar medición cuantitativa si procede → triangular y declarar límites."
+  - "Interpretar sample coverage, response bias, confidence intervals sin atribuir causalidad automática."
+  - "Resolver el caso de investigación de mercado con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
+  - "Byron Sharp — *How Brands Grow*"
+  - "Al Ries & Jack Trout — *Positioning*"
+  - "Aaron Ross & Jason Lemkin — *From Impossible to Inevitable*"
+  - "April Dunford — *Obviously Awesome*"
+  - "Geoffrey A. Moore — *Crossing the Chasm*"
+limits:
+  - "Investigar puede retrasar acción si se busca certeza total. Usa el método mínimo que cambie una decisión y reconoce cuando un experimento de mercado ofrece mejor evidencia."
+evidence_signals:
+  - "sample coverage"
+  - "response bias"
+  - "confidence intervals"
+  - "themes saturated"
+  - "decisions changed"

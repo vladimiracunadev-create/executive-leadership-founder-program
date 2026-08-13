@@ -1,0 +1,32 @@
+id: 239
+part: 19
+title: "Cambio laboral provocado por IA"
+duration_minutes: 150
+level: "Etapa 5 — CEO → Transformador digital"
+outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir task exposure de skill shift mediante evidencia observable."
+  - "Aplicar la secuencia: mapear tareas y exposure → evaluar value y risk por tarea → diseñar target roles y controls → crear reskilling y transition plan → medir productivity quality y workforce outcomes."
+  - "Interpretar task automation, productivity, quality sin atribuir causalidad automática."
+  - "Resolver el caso de cambio laboral provocado por IA con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
+  - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
+  - "Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd*"
+  - "Martin Kleppmann — *Designing Data-Intensive Applications*"
+  - "Foster Provost & Tom Fawcett — *Data Science for Business*"
+  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
+  - "NIST — *AI Risk Management Framework*. <https://www.nist.gov/itl/ai-risk-management-framework>."
+limits:
+  - "Predicciones laborales cambian rápido y dependen del sector. No uses porcentajes globales para decisiones individuales; mide trabajo real y cumple obligaciones laborales."
+evidence_signals:
+  - "task automation"
+  - "productivity"
+  - "quality"
+  - "skill coverage"
+  - "redeployment rate"

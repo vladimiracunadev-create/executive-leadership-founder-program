@@ -1,0 +1,31 @@
+id: 94
+part: 07
+title: "Continuidad operacional"
+duration_minutes: 150
+level: "Etapa 2 — Jefe → Manager"
+outcome: "operar procesos end-to-end con capacidad, calidad, continuidad y mejora"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir BIA de RTO mediante evidencia observable."
+  - "Aplicar la secuencia: identificar servicios críticos → hacer BIA y dependencias → definir RTO/RPO → diseñar estrategias y playbooks → ejercitar y corregir brechas."
+  - "Interpretar RTO alcanzado, RPO alcanzado, servicios sin plan sin atribuir causalidad automática."
+  - "Resolver el caso de continuidad operacional con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "operating-improvement-brief.md"
+references:
+  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "Jeffrey K. Liker — *The Toyota Way*"
+  - "ISO — *ISO 22301 Business continuity management systems*"
+  - "James P. Womack & Daniel T. Jones — *Lean Thinking*"
+  - "W. Edwards Deming — *Out of the Crisis*"
+limits:
+  - "Continuidad total es imposible y costosa. Prioriza por impacto y tiempos; los objetivos deben estar aprobados por negocio, no elegidos solo por tecnología."
+evidence_signals:
+  - "RTO alcanzado"
+  - "RPO alcanzado"
+  - "servicios sin plan"
+  - "ejercicios"
+  - "dependencias no documentadas"

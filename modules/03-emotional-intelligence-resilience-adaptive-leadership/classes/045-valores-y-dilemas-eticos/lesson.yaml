@@ -1,0 +1,31 @@
+id: 45
+part: 03
+title: "Valores y dilemas éticos"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "regularse, sostener exigencia humana y liderar adaptación bajo presión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir valor de deber mediante evidencia observable."
+  - "Aplicar la secuencia: nombrar valores y deberes en conflicto → identificar stakeholders y daños → separar obligación legal de preferencia → comparar opciones y precedentes → consultar instancia independiente cuando corresponda."
+  - "Interpretar conflictos de interés, excepciones, precedentes citados sin atribuir causalidad automática."
+  - "Resolver el caso de valores y dilemas éticos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "modelo-financiero-y-memo-de-decision.md"
+references:
+  - "Daniel Goleman — *Emotional Intelligence*"
+  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
+  - "Daniel H. Pink — *Drive*"
+  - "Clayton Christensen et al. — *How Will You Measure Your Life?*"
+  - "Ronald A. Heifetz — *Leadership Without Easy Answers*"
+  - "Ronald Heifetz & Marty Linsky — *Leadership on the Line*"
+limits:
+  - "No todo desacuerdo es un dilema de valores. A veces una opción es simplemente ilegal o engañosa; llamarla 'trade-off' puede relativizar obligaciones claras."
+evidence_signals:
+  - "conflictos de interés"
+  - "excepciones"
+  - "precedentes citados"
+  - "daños evitados"
+  - "decisiones escaladas"

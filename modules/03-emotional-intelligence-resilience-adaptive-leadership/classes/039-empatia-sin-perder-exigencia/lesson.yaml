@@ -1,0 +1,31 @@
+id: 39
+part: 03
+title: "Empatía sin perder exigencia"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "regularse, sostener exigencia humana y liderar adaptación bajo presión"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir empatía cognitiva de empatía afectiva mediante evidencia observable."
+  - "Aplicar la secuencia: escuchar contexto antes de concluir → validar experiencia sin confirmar toda interpretación → reafirmar estándar y propósito → co-diseñar apoyo proporcional → seguir desempeño y ajustar."
+  - "Interpretar claridad de expectativas, apoyos utilizados, resultados después de apoyo sin atribuir causalidad automática."
+  - "Resolver el caso de empatía sin perder exigencia con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Daniel Goleman — *Emotional Intelligence*"
+  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
+  - "Ronald A. Heifetz — *Leadership Without Easy Answers*"
+  - "Angela Duckworth — *Grit*"
+  - "Brené Brown — *Dare to Lead*"
+  - "Ronald Heifetz & Marty Linsky — *Leadership on the Line*"
+limits:
+  - "La empatía sin límites puede producir inequidad y dependencia; la exigencia sin comprensión puede perder talento y humanidad. La solución requiere criterios transparentes y ajustes temporales proporcionales."
+evidence_signals:
+  - "claridad de expectativas"
+  - "apoyos utilizados"
+  - "resultados después de apoyo"
+  - "dependencia creada"
+  - "percepción de justicia"

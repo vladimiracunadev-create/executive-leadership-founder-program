@@ -1,0 +1,49 @@
+// Estilo de Markdown del repositorio.
+//
+// El criterio es que la regla detecte errores REALES de un material educativo
+// y no imponga un estilo que el contenido no necesita. Cada regla desactivada
+// lo esta por una razon concreta, escrita al lado.
+{
+  "config": {
+    "default": true,
+
+    // El contenido usa lineas largas por legibilidad del diff, y las tablas y
+    // los bloques de codigo las superan por necesidad.
+    "MD013": false,
+
+    // El README, las portadas de los documentos generados y las tablas de
+    // etapas usan bloques HTML para la presentacion visual.
+    "MD033": false,
+
+    // Las 288 clases repiten los titulos de seccion del contrato entre partes
+    // distintas; dentro de una misma clase no puede haber dos secciones
+    // hermanas con el mismo titulo, y eso si se comprueba.
+    "MD024": { "siblings_only": true },
+
+    // Los documentos generados abren con un bloque HTML de portada antes del
+    // titulo, por diseno del generador.
+    "MD041": false,
+
+    // Las clases usan negrita como enfasis del paso, no como encabezado;
+    // convertirla en encabezado romperia el indice de la clase.
+    "MD036": false,
+
+    // Los modelos mentales y los diagramas de texto van en bloques cercados.
+    "MD046": { "style": "fenced" },
+
+    // Listas anidadas con sangria de 2 espacios.
+    "MD007": { "indent": 2 },
+
+    // Las tablas usan filas delimitadoras compactas (|---:|---|) para que las
+    // de 288 entradas quepan. Es coherente en todo el material; la regla
+    // exigiria repaginar cada tabla sin ganancia real.
+    "MD060": false
+  },
+  "globs": ["**/*.md"],
+  "ignores": [
+    "node_modules/**",
+    ".venv/**",
+    "site/**",
+    ".pytest_cache/**"
+  ]
+}

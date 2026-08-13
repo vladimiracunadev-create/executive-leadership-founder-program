@@ -1,0 +1,31 @@
+id: 267
+part: 22
+title: "Contratar líderes"
+duration_minutes: 150
+level: "Etapa 6 — Business Owner"
+outcome: "reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir leadership mandate de executive scorecard mediante evidencia observable."
+  - "Aplicar la secuencia: definir outcome y contexto → crear scorecard y decision rights → buscar evidence de scale → hacer reference checks → onboard con 90-day learning y decision plan."
+  - "Interpretar executive retention, team performance, decision autonomy sin atribuir causalidad automática."
+  - "Resolver el caso de contratar líderes con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "founder-owner-decision-brief.md"
+references:
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Verne Harnish — *Scaling Up*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Reid Hoffman & Chris Yeh — *Blitzscaling*"
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*"
+limits:
+  - "Experiencia en empresas grandes no se transfiere automáticamente a pymes. Evalúa contexto, ambigüedad, recursos y capacidad de operar al nivel requerido."
+evidence_signals:
+  - "executive retention"
+  - "team performance"
+  - "decision autonomy"
+  - "scorecard progress"
+  - "owner escalations"

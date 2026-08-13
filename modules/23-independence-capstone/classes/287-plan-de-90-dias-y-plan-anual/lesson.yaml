@@ -1,0 +1,31 @@
+id: 287
+part: 23
+title: "Plan de 90 días y plan anual"
+duration_minutes: 150
+level: "Etapa 6 — Independencia"
+outcome: "construir independencia mediante capacidades monetizables, sistemas comerciales y diversificación prudente"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir 90-day sprint de annual plan mediante evidencia observable."
+  - "Aplicar la secuencia: definir 12-month outcomes → seleccionar 90-day bets → traducir a weekly activities → crear metrics y checkpoints → review monthly y reallocate."
+  - "Interpretar revenue run rate, pipeline, weekly activity sin atribuir causalidad automática."
+  - "Resolver el caso de plan de 90 días y plan anual con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Nassim Nicholas Taleb — *Antifragile*"
+  - "Eric Ries — *The Lean Startup*"
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+limits:
+  - "Planificar no garantiza demanda. Mantén bets pequeños hasta obtener evidencia y protege runway; evita llenar un año con tareas antes de validar canal."
+evidence_signals:
+  - "revenue run rate"
+  - "pipeline"
+  - "weekly activity"
+  - "learning goal completion"
+  - "runway"

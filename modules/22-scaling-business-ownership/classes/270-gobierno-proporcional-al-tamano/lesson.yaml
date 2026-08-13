@@ -1,0 +1,31 @@
+id: 270
+part: 22
+title: "Gobierno proporcional al tamaño"
+duration_minutes: 150
+level: "Etapa 6 — Business Owner"
+outcome: "reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir governance maturity de advisory board mediante evidencia observable."
+  - "Aplicar la secuencia: mapear owners y riesgos → definir reserved matters → crear reporting y cadence mínima → añadir independientes y committees al umbral → revisar governance anualmente."
+  - "Interpretar owner concentration, board cadence, reserved-matter compliance sin atribuir causalidad automática."
+  - "Resolver el caso de gobierno proporcional al tamaño con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "board-or-executive-memo.md"
+references:
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Verne Harnish — *Scaling Up*"
+  - "Elad Gil — *High Growth Handbook*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*"
+limits:
+  - "Formalidad no es efectividad. Añade mecanismos cuando resuelvan agency, información o risk; elimina rituales que no mejoran decisiones."
+evidence_signals:
+  - "owner concentration"
+  - "board cadence"
+  - "reserved-matter compliance"
+  - "related-party issues"
+  - "decision quality"

@@ -1,0 +1,31 @@
+id: 274
+part: 22
+title: "Delegar decisiones sin perder control"
+duration_minutes: 150
+level: "Etapa 6 — Business Owner"
+outcome: "reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir delegation de guardrail mediante evidencia observable."
+  - "Aplicar la secuencia: inventariar decisiones owner-dependent → definir outcomes y guardrails → transferir autoridad y contexto → crear reporting y exception triggers → revisar calidad y ampliar límites."
+  - "Interpretar owner approvals, escalation rate, decision latency sin atribuir causalidad automática."
+  - "Resolver el caso de delegar decisiones sin perder control con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "founder-owner-decision-brief.md"
+references:
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Verne Harnish — *Scaling Up*"
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*"
+  - "Reid Hoffman & Chris Yeh — *Blitzscaling*"
+limits:
+  - "Delegación no es abandono. Límites deben reducirse cuando hay fraude, crisis o inexperiencia y ampliarse con evidencia de buen judgment."
+evidence_signals:
+  - "owner approvals"
+  - "escalation rate"
+  - "decision latency"
+  - "guardrail breaches"
+  - "team confidence"

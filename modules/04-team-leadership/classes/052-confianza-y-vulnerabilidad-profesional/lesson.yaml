@@ -1,0 +1,31 @@
+id: 52
+part: 04
+title: "Confianza y vulnerabilidad profesional"
+duration_minutes: 150
+level: "Etapa 2 — Líder → Jefe"
+outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir vulnerabilidad profesional de confianza mediante evidencia observable."
+  - "Aplicar la secuencia: modelar límites y errores desde liderazgo → pedir ayuda de forma concreta → cumplir compromisos pequeños → responder sin humillar a malas noticias → reparar rupturas con hechos y seguimiento."
+  - "Interpretar errores reportados temprano, peticiones de ayuda, compromisos cumplidos sin atribuir causalidad automática."
+  - "Resolver el caso de confianza y vulnerabilidad profesional con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "J. Richard Hackman — *Leading Teams*"
+  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "Michael Bungay Stanier — *The Coaching Habit*"
+  - "Liz Wiseman — *Multipliers*"
+  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+limits:
+  - "Vulnerabilidad sin confiabilidad no crea confianza. Compartir dudas y emociones no compensa incumplimientos, incompetencia o abuso; la seguridad se sostiene con conducta repetida."
+evidence_signals:
+  - "errores reportados temprano"
+  - "peticiones de ayuda"
+  - "compromisos cumplidos"
+  - "silencio ante riesgos"
+  - "reparaciones completadas"

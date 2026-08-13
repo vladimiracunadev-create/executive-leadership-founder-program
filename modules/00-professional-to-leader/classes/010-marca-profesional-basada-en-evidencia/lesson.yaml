@@ -1,0 +1,31 @@
+id: 10
+part: 00
+title: "Marca profesional basada en evidencia"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "pasar de ejecutar tareas a producir contribución, criterio y confianza"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir reputación de posicionamiento profesional mediante evidencia observable."
+  - "Aplicar la secuencia: definir qué problema quieres que te asocien → inventariar resultados y artefactos verificables → crear pruebas públicas sin violar confidencialidad → pedir referencias específicas sobre contribución → alinear canales y mensajes con la evidencia."
+  - "Interpretar referencias recibidas, consultas entrantes por tema, portafolio actualizado sin atribuir causalidad automática."
+  - "Resolver el caso de marca profesional basada en evidencia con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "commercial-decision-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Greg McKeown — *Essentialism*"
+  - "Peter G. Northouse — *Leadership: Theory and Practice*"
+  - "Andrew S. Grove — *High Output Management*"
+limits:
+  - "La marca no debe inducir a revelar propiedad intelectual, datos de clientes o resultados imposibles de verificar. Tampoco sustituye competencia: amplificar una promesa débil aumenta riesgo reputacional."
+evidence_signals:
+  - "referencias recibidas"
+  - "consultas entrantes por tema"
+  - "portafolio actualizado"
+  - "conversión de conversaciones a oportunidades"
+  - "consistencia entre relato y evidencia"

@@ -1,0 +1,31 @@
+id: 4
+part: 00
+title: "Ética, integridad y límites del poder"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "pasar de ejecutar tareas a producir contribución, criterio y confianza"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir integridad de conflicto de interés mediante evidencia observable."
+  - "Aplicar la secuencia: identificar stakeholders afectados y poder relativo → separar obligación, incentivo personal y presión del entorno → formular opciones que respeten líneas rojas → consultar cuando exista conflicto o duda jurídica → documentar la decisión y sus salvaguardas."
+  - "Interpretar conflictos declarados, excepciones éticas aprobadas, quejas o represalias sin atribuir causalidad automática."
+  - "Resolver el caso de ética, integridad y límites del poder con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Peter F. Drucker — *The Effective Executive*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Cal Newport — *Deep Work*"
+  - "Peter G. Northouse — *Leadership: Theory and Practice*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "Herminia Ibarra — *Act Like a Leader, Think Like a Leader*"
+limits:
+  - "Un marco ético no elimina dilemas reales. A veces dos obligaciones legítimas compiten; la calidad está en hacer visibles los afectados, justificar prioridades y usar revisión independiente cuando el poder propio puede sesgar."
+evidence_signals:
+  - "conflictos declarados"
+  - "excepciones éticas aprobadas"
+  - "quejas o represalias"
+  - "decisiones revertidas por falta de transparencia"
+  - "hallazgos de auditoría o compliance"

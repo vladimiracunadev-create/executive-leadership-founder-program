@@ -1,0 +1,31 @@
+id: 179
+part: 14
+title: "Reorganizaciones y riesgos humanos"
+duration_minutes: 150
+level: "Etapa 4 — Gerente → Director"
+outcome: "diseñar estructura, derechos de decisión, cultura y cambio como un sistema"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir reorganization de role mapping mediante evidencia observable."
+  - "Aplicar la secuencia: definir problema que requiere reorg → diseñar target operating model → mapear roles talento y decisiones → planificar transición y comunicación → medir continuidad claridad y beneficios."
+  - "Interpretar critical-role vacancy, service disruption, regretted attrition sin atribuir causalidad automática."
+  - "Resolver el caso de reorganizaciones y riesgos humanos con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Jay R. Galbraith — *Designing Organizations*"
+  - "Edgar H. Schein & Peter A. Schein — *Organizational Culture and Leadership*"
+  - "Chip Heath & Dan Heath — *Switch*"
+  - "Frederic Laloux — *Reinventing Organizations*"
+  - "Stanley McChrystal et al. — *Team of Teams*"
+  - "John P. Kotter — *Leading Change*"
+limits:
+  - "No uses reorg para resolver bajo desempeño individual o estrategia ambigua. El costo humano, legal y operativo puede superar el beneficio si el problema no es estructural."
+evidence_signals:
+  - "critical-role vacancy"
+  - "service disruption"
+  - "regretted attrition"
+  - "role clarity"
+  - "decision latency"

@@ -1,0 +1,31 @@
+id: 204
+part: 16
+title: "Capstone: primeros 100 días como CEO"
+duration_minutes: 150
+level: "Etapa 5 — Director → CEO"
+outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir transition mandate de learning plan mediante evidencia observable."
+  - "Aplicar la secuencia: clarificar mandato y situación → diseñar learning agenda 30 días → evaluar equipo y riesgos → definir 3 a 5 prioridades y early wins → establecer operating cadence y revisión 100 días."
+  - "Interpretar learning coverage, critical-risk closure, team decisions sin atribuir causalidad automática."
+  - "Resolver el caso de capstone: primeros 100 días como CEO con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "risk-governance-brief.md"
+references:
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Matt Mochary — *The Great CEO Within*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
+  - "Larry Bossidy & Ram Charan — *Execution*"
+  - "Peter F. Drucker — *The Effective Executive*"
+limits:
+  - "Los 100 días son una convención, no una frontera mágica. En crisis se decide antes; en negocios complejos algunas conclusiones requieren más tiempo. El plan debe seguir evidencia."
+evidence_signals:
+  - "learning coverage"
+  - "critical-risk closure"
+  - "team decisions"
+  - "stakeholder trust"
+  - "priority progress"

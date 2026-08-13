@@ -1,0 +1,31 @@
+id: 22
+part: 01
+title: "Decision journal y trazabilidad"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "decidir con evidencia, incertidumbre, causalidad y pensamiento sistémico"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir decision journal de supuesto crítico mediante evidencia observable."
+  - "Aplicar la secuencia: registrar decisión antes del resultado → anotar opciones y supuestos críticos → expresar predicciones y rangos → definir fecha de revisión → comparar proceso y resultado sin hindsight."
+  - "Interpretar porcentaje de decisiones registradas, calibración de forecasts, supuestos fallidos sin atribuir causalidad automática."
+  - "Resolver el caso de decision journal y trazabilidad con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Kahneman — *Thinking, Fast and Slow*"
+  - "Gary Klein — *Sources of Power*"
+  - "Annie Duke — *How to Decide*"
+  - "Philip Tetlock & Dan Gardner — *Superforecasting*"
+  - "Donella H. Meadows — *Thinking in Systems*"
+  - "Annie Duke — *Thinking in Bets*"
+limits:
+  - "No todo acto operativo merece un journal detallado. Registra decisiones de suficiente impacto, incertidumbre o aprendizaje; burocratizar microdecisiones destruye adopción."
+evidence_signals:
+  - "porcentaje de decisiones registradas"
+  - "calibración de forecasts"
+  - "supuestos fallidos"
+  - "decisiones buenas con malos resultados"
+  - "aprendizajes reutilizados"

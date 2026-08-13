@@ -1,0 +1,31 @@
+id: 23
+part: 01
+title: "After Action Review y aprendizaje"
+duration_minutes: 150
+level: "Etapa 1 — Profesional → Líder"
+outcome: "decidir con evidencia, incertidumbre, causalidad y pensamiento sistémico"
+depth_standard: deep-class-v2
+source_mode: books-plus-primary
+pedagogy: retrieval-case-deliberate-practice
+objectives:
+  - "Distinguir AAR de baseline mediante evidencia observable."
+  - "Aplicar la secuencia: recuperar objetivo y expectativas originales → reconstruir resultados sin juicio prematuro → explicar brechas con evidencia → seleccionar aprendizaje transferible → asignar cambio y verificar en siguiente ciclo."
+  - "Interpretar acciones correctivas implementadas, reincidencia, tiempo entre evento y revisión sin atribuir causalidad automática."
+  - "Resolver el caso de after Action Review y aprendizaje con dos alternativas y trade-offs."
+  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+deliverable: "leadership-decision-brief.md"
+references:
+  - "Daniel Kahneman — *Thinking, Fast and Slow*"
+  - "Gary Klein — *Sources of Power*"
+  - "Howard Raiffa — *Decision Analysis*"
+  - "Peter M. Senge — *The Fifth Discipline*"
+  - "Richard Thaler & Cass Sunstein — *Nudge*"
+  - "Annie Duke — *Thinking in Bets*"
+limits:
+  - "Un AAR sin seguridad psicológica se convierte en teatro defensivo. También puede fallar por exceso de lecciones; prioriza cambios pequeños y verificables antes que documentos extensos."
+evidence_signals:
+  - "acciones correctivas implementadas"
+  - "reincidencia"
+  - "tiempo entre evento y revisión"
+  - "aprendizajes reutilizados"
+  - "participación del equipo"

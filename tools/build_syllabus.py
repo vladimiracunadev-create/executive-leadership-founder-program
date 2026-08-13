@@ -76,13 +76,12 @@ def render() -> str:
 
     filas_etapa = []
     for indice, etapa in enumerate(inventario.ETAPAS, start=1):
-        nombre, desde, hasta, _, emoji, salida, _ = etapa
-        propias = [p for p in partes if desde <= p.numero <= hasta]
+        propias = [p for p in partes if etapa.desde <= p.numero <= etapa.hasta]
         clases = sum(len(p.clases) for p in propias)
         horas = sum(p.horas for p in propias)
         filas_etapa.append(
-            f"| {indice} | {emoji} {nombre} | {desde:02d}–{hasta:02d} | "
-            f"{clases} | {horas} | {salida} |"
+            f"| {indice} | {etapa.emoji} {etapa.nombre} | "
+            f"{etapa.desde:02d}–{etapa.hasta:02d} | {clases} | {horas} | {etapa.salida} |"
         )
 
     lineas = [
@@ -96,15 +95,14 @@ def render() -> str:
     etapa_actual = None
     for parte in partes:
         etapa = inventario.etapa_de(parte.numero)
-        nombre, _, _, _, emoji, salida, idea = etapa
-        if nombre != etapa_actual:
-            etapa_actual = nombre
+        if etapa is not etapa_actual:
+            etapa_actual = etapa
             lineas += [
-                f"## {emoji} Etapa {inventario.ETAPAS.index(etapa) + 1} — {nombre}",
+                f"## {etapa.emoji} Etapa {inventario.numero_de_etapa(etapa)} — {etapa.nombre}",
                 "",
-                idea,
+                etapa.idea,
                 "",
-                f"**Nivel de salida:** {salida}",
+                f"**Nivel de salida:** {etapa.salida}",
                 "",
             ]
 

@@ -64,9 +64,43 @@ def test_las_etapas_cubren_todas_las_partes(partes):
     import inventario
 
     cubiertas = set()
-    for _, desde, hasta, *_ in inventario.ETAPAS:
-        cubiertas |= set(range(desde, hasta + 1))
+    for etapa in inventario.ETAPAS:
+        cubiertas |= set(range(etapa.desde, etapa.hasta + 1))
     assert cubiertas == {p.numero for p in partes}
+
+
+def _contraste(color: str, fondo: str) -> float:
+    """Razón de contraste WCAG entre dos colores en formato `#rrggbb`."""
+    def luminancia(hexadecimal: str) -> float:
+        canales = [int(hexadecimal[i:i + 2], 16) / 255 for i in (1, 3, 5)]
+        lineal = [c / 12.92 if c <= 0.03928 else ((c + 0.055) / 1.055) ** 2.4
+                  for c in canales]
+        return 0.2126 * lineal[0] + 0.7152 * lineal[1] + 0.0722 * lineal[2]
+
+    claro, oscuro = sorted((luminancia(color), luminancia(fondo)), reverse=True)
+    return (claro + 0.05) / (oscuro + 0.05)
+
+
+def test_los_colores_de_etapa_son_legibles_en_los_dos_temas():
+    """El color de etapa se usa en el número de clase del temario: texto de 16 px.
+
+    Con un solo tono por etapa, cuatro de las seis quedaban por debajo del
+    mínimo AA en uno de los dos temas —el verde se desvanecía en claro y el
+    azul en oscuro— y no lo notaba nadie porque el portal se revisa en un tema
+    a la vez.
+    """
+    import inventario
+
+    minimo = 4.5
+    flojos = []
+    for etapa in inventario.ETAPAS:
+        sobre_claro = _contraste(etapa.color_claro, "#ffffff")
+        sobre_oscuro = _contraste(etapa.color_oscuro, "#0d1117")
+        if sobre_claro < minimo:
+            flojos.append(f"{etapa.nombre}: {sobre_claro:.2f} sobre fondo claro")
+        if sobre_oscuro < minimo:
+            flojos.append(f"{etapa.nombre}: {sobre_oscuro:.2f} sobre fondo oscuro")
+    assert not flojos, f"colores por debajo de AA ({minimo}:1): {flojos}"
 
 
 def test_cada_parte_declara_etapa_salida_y_horas(partes):

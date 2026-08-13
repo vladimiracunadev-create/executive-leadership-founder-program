@@ -34,34 +34,62 @@ def documentos_markdown() -> list[Path]:
         if not any(parte in EXCLUIDOS for parte in ruta.relative_to(ROOT).parts)
     )
 
-# Etapa, rango de partes, color, emoji, nivel de salida e idea. El color es el
-# mismo en el README, en el temario y en el portal, para que las tres
-# superficies se lean como el mismo programa.
-ETAPAS: tuple[tuple[str, int, int, str, str, str, str], ...] = (
-    ("Autoliderazgo y fundamentos ejecutivos", 0, 3, "#2ea44f", "🟢",
-     "Profesional → Líder",
-     "El punto de partida es la persona. Al terminarla se decide con supuestos "
-     "explícitos, se comunica una decisión impopular y se sostiene criterio bajo presión."),
-    ("Liderazgo de equipos y ejecución", 4, 7, "#1f6feb", "🔵",
-     "Líder → Jefe / Team Lead",
-     "El salto de responder por uno mismo a responder por otros: equipo, talento, "
-     "entrega y una operación que no dependa de heroísmos."),
-    ("Gestión de negocio", 8, 11, "#8957e5", "🟣",
-     "Manager → Gerente",
-     "La unidad de negocio por dentro. Objetivos y métricas, economía real, "
-     "sistema comercial y crecimiento con clientes rentables."),
-    ("Dirección, estrategia y organización", 12, 15, "#e67e22", "🟠",
-     "Gerente → Director / Head",
-     "La vista del comité de dirección: qué construir, dónde competir, cómo "
-     "organizarse y qué riesgos supervisar sin delegar la responsabilidad."),
-    ("Alta dirección y gobierno", 16, 19, "#d1242f", "🔴",
-     "Ejecutivo → CEO",
-     "La empresa completa: oficina del CEO, directorio, capital y tecnología "
-     "dirigida por valor y riesgo, no por moda."),
-    ("Fundador, propietario e independencia", 20, 23, "#6e7781", "⚫",
-     "Founder → Business Owner",
-     "Crear en vez de administrar lo creado: validación, formalización en Chile, "
-     "escalamiento y una estrategia de independencia ejecutable."),
+@dataclass(frozen=True)
+class Etapa:
+    """Una de las seis etapas, con todo lo que las tres superficies necesitan.
+
+    Es un objeto y no una tupla porque sus campos se leen desde cuatro
+    generadores distintos: con tuplas, añadir un dato obligaba a revisar cada
+    desempaquetado posicional y bastaba equivocarse en uno para que el color de
+    una etapa saliera donde iba su nombre.
+    """
+
+    nombre: str
+    desde: int
+    hasta: int
+    emoji: str
+    salida: str
+    idea: str
+    # El mismo tono en dos versiones. Un único color no puede pasar el contraste
+    # AA sobre fondo blanco y sobre fondo oscuro a la vez: el verde que se lee
+    # en oscuro se desvanece en claro, y al revés. El portal elige según el tema.
+    color_claro: str
+    color_oscuro: str
+
+
+# Los emoji de color acompañan al nombre en el README, en el temario y en el
+# portal, para que las tres superficies se lean como el mismo programa.
+ETAPAS: tuple[Etapa, ...] = (
+    Etapa("Autoliderazgo y fundamentos ejecutivos", 0, 3, "🟢",
+          "Profesional → Líder",
+          "El punto de partida es la persona. Al terminarla se decide con supuestos "
+          "explícitos, se comunica una decisión impopular y se sostiene criterio bajo presión.",
+          color_claro="#1a7f37", color_oscuro="#3fb950"),
+    Etapa("Liderazgo de equipos y ejecución", 4, 7, "🔵",
+          "Líder → Jefe / Team Lead",
+          "El salto de responder por uno mismo a responder por otros: equipo, talento, "
+          "entrega y una operación que no dependa de heroísmos.",
+          color_claro="#0969da", color_oscuro="#4493f8"),
+    Etapa("Gestión de negocio", 8, 11, "🟣",
+          "Manager → Gerente",
+          "La unidad de negocio por dentro. Objetivos y métricas, economía real, "
+          "sistema comercial y crecimiento con clientes rentables.",
+          color_claro="#8250df", color_oscuro="#a371f7"),
+    Etapa("Dirección, estrategia y organización", 12, 15, "🟠",
+          "Gerente → Director / Head",
+          "La vista del comité de dirección: qué construir, dónde competir, cómo "
+          "organizarse y qué riesgos supervisar sin delegar la responsabilidad.",
+          color_claro="#bc4c00", color_oscuro="#db6d28"),
+    Etapa("Alta dirección y gobierno", 16, 19, "🔴",
+          "Ejecutivo → CEO",
+          "La empresa completa: oficina del CEO, directorio, capital y tecnología "
+          "dirigida por valor y riesgo, no por moda.",
+          color_claro="#cf222e", color_oscuro="#f85149"),
+    Etapa("Fundador, propietario e independencia", 20, 23, "⚫",
+          "Founder → Business Owner",
+          "Crear en vez de administrar lo creado: validación, formalización en Chile, "
+          "escalamiento y una estrategia de independencia ejecutable.",
+          color_claro="#59636e", color_oscuro="#9198a1"),
 )
 
 # Formato fijo del encabezado de cada parte, comprobado por el validador.
@@ -207,11 +235,15 @@ def partes() -> list[Parte]:
     return resultado
 
 
-def etapa_de(numero_de_parte: int) -> tuple[str, int, int, str, str, str, str]:
+def etapa_de(numero_de_parte: int) -> Etapa:
     for etapa in ETAPAS:
-        if etapa[1] <= numero_de_parte <= etapa[2]:
+        if etapa.desde <= numero_de_parte <= etapa.hasta:
             return etapa
     return ETAPAS[-1]
+
+
+def numero_de_etapa(etapa: Etapa) -> int:
+    return ETAPAS.index(etapa) + 1
 
 
 @dataclass

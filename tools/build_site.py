@@ -267,6 +267,15 @@ CSS = """:root {
     --destacado: #151b23;
   }
 }
+/* Cada etapa trae sus dos tonos en el atributo `style`, y aquí se decide cuál
+   vale. Un solo color no pasa el contraste AA sobre blanco y sobre oscuro a la
+   vez: el verde legible en oscuro se desvanece en claro, y el naranja al revés.
+   La variable se resuelve en la hoja y no en línea porque un estilo en línea
+   ganaría a la consulta de tema oscuro. */
+.etapa, .tarjeta, .grupo, .clase { --color: var(--color-claro, var(--acento)); }
+@media (prefers-color-scheme: dark) {
+  .etapa, .tarjeta, .grupo, .clase { --color: var(--color-oscuro, var(--acento)); }
+}
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body {
@@ -363,6 +372,14 @@ body {
 @media (max-width: 640px) {
   .cabecera { flex-direction: column; align-items: flex-start; }
   .contenido h1 { font-size: 1.6rem; }
+  /* El bloque de dos columnas «lo que sí es / lo que no es» del README deja
+     163 px por columna en un teléfono, que son unos veinte caracteres por
+     línea. Apiladas se leen; una al lado de la otra, no. */
+  .contenido td[valign="top"] {
+    display: block; width: 100%; border: 0; border-top: 1px solid var(--borde);
+  }
+  .contenido td[valign="top"]:first-child { border-top: 0; }
+  .contenido table:has(td[valign="top"]) { border: 0; }
 }
 
 /* ── Portada ─────────────────────────────────────────────────────── */

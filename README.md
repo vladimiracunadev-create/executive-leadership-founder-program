@@ -336,7 +336,7 @@ en rojo.
 
 | ⚙️ Workflow | Qué cubre |
 |---|---|
-| 🧪 [ci.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/ci.yml) | las 16 secciones obligatorias de las 288 clases, títulos coherentes entre sus tres archivos, numeración continua 001–288, densidad mínima y detección de párrafos replicados y similitud anormal, enlaces relativos, `SYLLABUS`/`STATUS`/`MANIFEST`/`FILE_INDEX` sincronizados, `markdownlint`, UTF-8 sin BOM, build del portal y **31 pruebas en 3 sistemas × 3 versiones de Python** |
+| 🧪 [ci.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/ci.yml) | las 16 secciones obligatorias de las 288 clases, títulos coherentes entre sus tres archivos, numeración continua 001–288, densidad mínima y detección de párrafos replicados y similitud anormal, enlaces relativos, `SYLLABUS`/`STATUS`/`MANIFEST`/`FILE_INDEX` sincronizados, `markdownlint`, UTF-8 sin BOM, build del portal y **32 pruebas en 3 sistemas × 3 versiones de Python** |
 | 🔒 [security.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/security.yml) | `pip-audit` sobre las dependencias, `bandit` sobre el código, `gitleaks` en el historial completo y dos detectores propios de credenciales y datos personales — además, cada lunes, porque una dependencia segura hoy puede dejar de serlo sin que nadie toque el repositorio |
 | 🚀 [pages.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/pages.yml) | genera el portal, lo despliega en GitHub Pages y **comprueba que responda 200** junto con sus páginas clave antes de dar el despliegue por bueno |
 
@@ -355,7 +355,7 @@ python tools/build_syllabus.py --check         # el temario refleja las clases
 python tools/build_status.py --check           # el estado refleja el repositorio
 python tools/build_manifest.py --check         # la ficha refleja el inventario
 python tools/build_file_index.py --check       # el índice refleja los archivos
-pytest                                         # 31 pruebas estructurales
+pytest                                         # 32 pruebas estructurales
 ```
 
 El portal se genera aparte, porque es lo único que necesita dependencias:

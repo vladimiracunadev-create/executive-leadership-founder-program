@@ -125,12 +125,11 @@ def render() -> str:
 
     filas = []
     for indice, etapa in enumerate(inventario.ETAPAS, start=1):
-        nombre, desde, hasta, _, emoji, salida, _ = etapa
-        propias = [p for p in partes if desde <= p.numero <= hasta]
+        propias = [p for p in partes if etapa.desde <= p.numero <= etapa.hasta]
         filas.append(
-            f"| {emoji} {indice} · {nombre} | {len(propias)} | "
+            f"| {etapa.emoji} {indice} · {etapa.nombre} | {len(propias)} | "
             f"{sum(len(p.clases) for p in propias)} | "
-            f"{sum(p.horas for p in propias)} | {salida} |"
+            f"{sum(p.horas for p in propias)} | {etapa.salida} |"
         )
 
     def miles(valor: int) -> str:

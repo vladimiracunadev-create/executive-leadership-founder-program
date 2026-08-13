@@ -156,26 +156,37 @@ def _html(ruta: str) -> str:
     return ruta[:-3] + ".html" if ruta.endswith(".md") else ruta
 
 
+def _tono(etapa: inventario.Etapa) -> str:
+    """Los dos tonos de la etapa, para que la hoja de estilo elija según el tema.
+
+    Se emiten las dos variables y **no** `--color` directamente: un estilo en
+    línea gana a cualquier regla de la hoja, así que si aquí se fijara `--color`
+    la consulta de tema oscuro no podría cambiarlo. La hoja resuelve
+    `--color: var(--color-claro)` o `var(--color-oscuro)` según corresponda.
+    """
+    return f"--color-claro:{etapa.color_claro};--color-oscuro:{etapa.color_oscuro}"
+
+
 def portada(datos: list[inventario.Parte], resumen: inventario.Resumen) -> str:
     bloques_etapa = []
     for indice, etapa in enumerate(inventario.ETAPAS, start=1):
-        nombre, desde, hasta, color, emoji, salida, idea = etapa
-        propias = [p for p in datos if desde <= p.numero <= hasta]
+        propias = [p for p in datos if etapa.desde <= p.numero <= etapa.hasta]
         clases = sum(len(p.clases) for p in propias)
         bloques_etapa.append(
-            f'<article class="etapa" style="--color:{color}">'
-            f'<h3><span aria-hidden="true">{emoji}</span> Etapa {indice} · {html.escape(nombre)}</h3>'
-            f'<p class="etapa-meta">Partes {desde:02d}–{hasta:02d} · {clases} clases · '
-            f'{html.escape(salida)}</p>'
-            f"<p>{html.escape(idea)}</p></article>"
+            f'<article class="etapa" style="{_tono(etapa)}">'
+            f'<h3><span aria-hidden="true">{etapa.emoji}</span> Etapa {indice} · '
+            f"{html.escape(etapa.nombre)}</h3>"
+            f'<p class="etapa-meta">Partes {etapa.desde:02d}–{etapa.hasta:02d} · '
+            f"{clases} clases · {html.escape(etapa.salida)}</p>"
+            f"<p>{html.escape(etapa.idea)}</p></article>"
         )
 
     tarjetas = []
     for parte in datos:
-        _, _, _, color, emoji, _, _ = inventario.etapa_de(parte.numero)
+        etapa = inventario.etapa_de(parte.numero)
         tarjetas.append(
-            f'<a class="tarjeta" href="{_html(parte.ruta_md)}" style="--color:{color}">'
-            f'<span class="tarjeta-numero">{emoji} Parte {parte.numero:02d}</span>'
+            f'<a class="tarjeta" href="{_html(parte.ruta_md)}" style="{_tono(etapa)}">'
+            f'<span class="tarjeta-numero">{etapa.emoji} Parte {parte.numero:02d}</span>'
             f"<strong>{html.escape(parte.titulo)}</strong>"
             f'<span class="tarjeta-nota">{len(parte.clases)} clases · '
             f"{len(parte.labs)} laboratorios · {parte.horas} h</span></a>"
@@ -193,14 +204,13 @@ def temario(datos: list[inventario.Parte], resumen: inventario.Resumen) -> str:
     piezas = []
     for parte in datos:
         etapa = inventario.etapa_de(parte.numero)
-        nombre, _, _, color, emoji, _, _ = etapa
-        numero_etapa = inventario.ETAPAS.index(etapa) + 1
+        numero_etapa = inventario.numero_de_etapa(etapa)
 
         filas = []
         for clase in parte.clases:
             texto = " ".join([
                 f"{parte.numero:02d}", parte.titulo, clase.titulo,
-                clase.nivel, nombre, *clase.conceptos,
+                clase.nivel, etapa.nombre, *clase.conceptos,
             ])
             filas.append(
                 f'<a class="clase" href="{_html(clase.ruta_md)}" '
@@ -211,10 +221,10 @@ def temario(datos: list[inventario.Parte], resumen: inventario.Resumen) -> str:
             )
 
         piezas.append(
-            f'<section class="grupo" style="--color:{color}">'
-            f'<h2><span aria-hidden="true">{emoji}</span> Parte {parte.numero:02d} · '
+            f'<section class="grupo" style="{_tono(etapa)}">'
+            f'<h2><span aria-hidden="true">{etapa.emoji}</span> Parte {parte.numero:02d} · '
             f"{html.escape(parte.titulo)}</h2>"
-            f'<p class="grupo-meta">Etapa {numero_etapa} · {html.escape(nombre)} · '
+            f'<p class="grupo-meta">Etapa {numero_etapa} · {html.escape(etapa.nombre)} · '
             f"{len(parte.clases)} clases · {parte.horas} h · "
             f'<a href="{_html(parte.ruta_md)}">índice de la parte</a></p>'
             f'<div class="clases">{"".join(filas)}</div></section>'

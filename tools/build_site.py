@@ -177,15 +177,58 @@ def directorios_con_indice() -> set[Path]:
     return indices
 
 
-def migas(relativa: Path, indices: set[Path]) -> str:
+# Nombre legible de las carpetas de primer nivel. Sin esto la ruta de una clase
+# se leia «modules / 09-managerial-finance-accounting / classes / 109-lenguaje-
+# financiero-del-gerente»: correcto, pero es el nombre del directorio, no el del
+# contenido, y deja el portal con aspecto de listado de archivos.
+NOMBRES_DE_CARPETA = {
+    "modules": "Programa",
+    "classes": "Clases",
+    "docs": "Documentación",
+    "templates": "Plantillas",
+    "cases": "Casos",
+    "labs": "Laboratorios",
+    "apps": "Aplicaciones",
+    "data": "Datos",
+    "tools": "Herramientas",
+    "tests": "Pruebas",
+    "curriculum": "Currículo",
+    "academy": "Academia",
+    "portfolio": "Portafolio",
+}
+
+
+def etiquetas_de_directorio() -> dict[Path, str]:
+    """Nombre legible de cada carpeta, leído del propio material."""
+    etiquetas: dict[Path, str] = {
+        Path(nombre): titulo for nombre, titulo in NOMBRES_DE_CARPETA.items()
+    }
+    for parte in portal_extra.inventario.partes():
+        relativa = parte.directorio.relative_to(ROOT)
+        etiquetas[relativa] = f"Parte {parte.numero:02d} · {parte.titulo}"
+        for clase in parte.clases:
+            etiquetas[clase.ruta.parent.relative_to(ROOT)] = f"Clase {clase.numero:03d}"
+    return etiquetas
+
+
+# Carpetas que existen por organizacion del repositorio y no aportan nada a la
+# ruta: entre «Parte 09» y «Clase 109» no hace falta decir «classes».
+CARPETAS_MUDAS = {"classes"}
+
+
+def migas(relativa: Path, indices: set[Path], etiquetas: dict[Path, str]) -> str:
     partes = list(relativa.parts[:-1])
     if not partes:
         return ""
     subir = "../" * len(partes)
     trozos = [f'<a href="{subir}index.html">Inicio</a>']
     for indice, parte in enumerate(partes):
+        if parte in CARPETAS_MUDAS:
+            continue
         directorio = Path(*partes[: indice + 1])
-        etiqueta = html.escape(parte)
+        etiqueta = html.escape(
+            etiquetas.get(directorio) or NOMBRES_DE_CARPETA.get(parte, parte)
+        )
         # Solo se enlaza un directorio si tiene índice propio; el resto es una
         # etiqueta de ubicación, no un destino.
         if directorio in indices:
@@ -533,6 +576,7 @@ def generar() -> int:
     datos = portal_extra.inventario.partes()
     resumen = portal_extra.inventario.resumen(datos)
     indices = directorios_con_indice()
+    etiquetas = etiquetas_de_directorio()
     paginas = 0
 
     for origen in archivos_markdown():
@@ -543,7 +587,7 @@ def generar() -> int:
         cuerpo = origen.read_text(encoding="utf-8")
         pagina = _pagina(
             relativa, titulo_de(cuerpo, origen), convertir(cuerpo),
-            migas(relativa, indices), resumen.clases, resumen.partes,
+            migas(relativa, indices, etiquetas), resumen.clases, resumen.partes,
         )
         destino.write_text(pagina, encoding="utf-8", newline="\n")
         paginas += 1

@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import csv
 import json
+import os
 import subprocess
 import sys
 from pathlib import Path
@@ -80,10 +81,17 @@ def test_las_fuentes_oficiales_son_json_valido(raiz: Path):
 
 
 def test_el_simulador_lista_los_escenarios(raiz: Path, escenarios):
-    """Comprueba que el simulador arranca y ve los mismos datos que las pruebas."""
+    """Comprueba que el simulador arranca y ve los mismos datos que las pruebas.
+
+    La salida se lee como UTF-8 y el hijo se ejecuta con `PYTHONIOENCODING` en
+    UTF-8: sin eso, en Windows el proceso escribe en cp1252 y los titulos con
+    tilde llegan como bytes que no decodifican.
+    """
+    entorno = {**os.environ, "PYTHONIOENCODING": "utf-8"}
     resultado = subprocess.run(
         [sys.executable, str(raiz / "apps" / "executive_simulator.py"), "--list"],
         capture_output=True, text=True, encoding="utf-8", timeout=60, check=True,
+        env=entorno,
     )
     lineas = [l for l in resultado.stdout.splitlines() if l.strip()]
     assert len(lineas) == len(escenarios)

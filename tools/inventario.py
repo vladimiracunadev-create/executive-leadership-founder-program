@@ -19,6 +19,21 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 MODULES = ROOT / "modules"
 
+# Directorios que no forman parte del material: generados, temporales o de
+# terceros. Cualquier recuento tiene que ignorarlos, porque si no el resultado
+# depende de si alguien ejecutó las pruebas antes de generar el documento
+# —`.pytest_cache` trae su propio README— y deja de ser reproducible.
+EXCLUIDOS = {".git", ".github", "site", "node_modules", ".venv",
+             "__pycache__", ".pytest_cache", ".ruff_cache", ".mypy_cache"}
+
+
+def documentos_markdown() -> list[Path]:
+    """Los Markdown del repositorio, sin lo generado ni lo temporal."""
+    return sorted(
+        ruta for ruta in ROOT.rglob("*.md")
+        if not any(parte in EXCLUIDOS for parte in ruta.relative_to(ROOT).parts)
+    )
+
 # Etapa, rango de partes, color, emoji, nivel de salida e idea. El color es el
 # mismo en el README, en el temario y en el portal, para que las tres
 # superficies se lean como el mismo programa.
@@ -238,8 +253,7 @@ def resumen(datos: list[Parte] | None = None) -> Resumen:
         escenarios=len(escenarios),
         bibliografia=bibliografia,
         referencias_en_clase=sum(len(c.referencias) for c in todas),
-        documentos=len([p for p in ROOT.rglob("*.md")
-                        if not any(x in p.parts for x in (".git", "site", "node_modules"))]),
+        documentos=len(documentos_markdown()),
         palabras=sum(_palabras(c.ruta.read_text(encoding="utf-8")) for c in todas),
     )
 

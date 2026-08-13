@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 from pathlib import Path
-import csv, re, textwrap, json
+import csv, importlib.util, re, textwrap, json
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -608,12 +608,34 @@ Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta
 '''
 
 
-spec_file=ROOT/'curriculum'/'deep_specs.py'
-if spec_file.exists():
-    exec(compile(spec_file.read_text(encoding='utf-8'), str(spec_file), 'exec'), globals(), globals())
-notes_file=ROOT/'curriculum'/'topic_notes.py'
-if notes_file.exists():
-    exec(compile(notes_file.read_text(encoding='utf-8'), str(notes_file), 'exec'), globals(), globals())
+def cargar_datos_del_curriculo(nombre, entorno):
+    """Carga un módulo de datos del currículo con el entorno que necesita.
+
+    `deep_specs.py` y `topic_notes.py` son datos, no bibliotecas: son miles de
+    llamadas a `add()` y a `note()`. Antes se cargaban con `exec(compile(...))`
+    sobre `globals()`, lo que mezclaba sus nombres con los de este script y hacía
+    que cualquier análisis estático lo tratara —con razón— como ejecución de
+    código arbitrario.
+
+    Ahora se cargan con la maquinaria de importación: cada módulo obtiene su
+    propio espacio de nombres, recibe explícitamente lo que necesita del
+    entorno, y aparece con su nombre real en las trazas de error.
+    """
+    ruta = ROOT / 'curriculum' / nombre
+    if not ruta.exists():
+        return {}
+    spec = importlib.util.spec_from_file_location(f'curriculum.{ruta.stem}', ruta)
+    modulo = importlib.util.module_from_spec(spec)
+    modulo.__dict__.update(entorno)
+    spec.loader.exec_module(modulo)
+    return modulo.__dict__
+
+
+# `add` escribe directamente en SPECS, así que basta con prestárselo.
+cargar_datos_del_curriculo('deep_specs.py', {'add': add})
+
+# `topic_notes.py` define su propio TOPIC_NOTES; se recoge de vuelta.
+TOPIC_NOTES.update(cargar_datos_del_curriculo('topic_notes.py', {}).get('TOPIC_NOTES', {}))
 
 def main():
     missing=[]; written=0

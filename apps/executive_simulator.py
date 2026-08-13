@@ -1,9 +1,22 @@
 #!/usr/bin/env python3
-import argparse, json, random
+"""Simulador de decisiones ejecutivas.
+
+48 escenarios con informacion incompleta. No hay respuesta correcta: cada
+opcion mueve seis dimensiones que compiten entre si, y el aprendizaje esta en
+declarar que se sacrifica.
+"""
+import argparse, json, random, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SCENARIOS = json.loads((ROOT / "data" / "scenarios.json").read_text(encoding="utf-8"))
+
+# Los escenarios estan en espanol y llevan tildes y el separador «·». La consola
+# de Windows usa cp1252 por defecto y revienta al imprimirlos, asi que la salida
+# se fuerza a UTF-8 en cuanto el flujo lo permite.
+for flujo in (sys.stdout, sys.stderr):
+    if hasattr(flujo, "reconfigure"):
+        flujo.reconfigure(encoding="utf-8", errors="replace")
 
 def show(s):
     print(f"\n{s['id']} · Parte {s['part']:02d} · {s['title']}")

@@ -35,13 +35,12 @@ except ImportError:  # pragma: no cover - solo ocurre sin requirements-site
 ROOT = Path(__file__).resolve().parents[1]
 SALIDA = ROOT / "site"
 
+# `.github` se queda fuera también como adjunto: GitHub Pages no sirve rutas
+# cuyo directorio empieza por punto, así que copiar los workflows al sitio daba
+# un enlace verde en local y un 404 en producción. El README los enlaza por su
+# URL de GitHub, que además los muestra con resaltado de sintaxis.
 EXCLUIDOS = {".git", ".github", "node_modules", ".venv", "site",
              "__pycache__", ".pytest_cache", ".ruff_cache"}
-
-# `.github` no aporta páginas al portal, pero el README enlaza sus workflows
-# para que se puedan leer. Un archivo que la documentación enlaza a propósito
-# tiene que viajar con el sitio, viva donde viva.
-EXCLUIDOS_ADJUNTOS = EXCLUIDOS - {".github"}
 
 TITULO = "Executive Leadership & Founder Program"
 REPO = "https://github.com/vladimiracunadev-create/executive-leadership-founder-program"
@@ -128,7 +127,7 @@ def adjuntos_enlazados() -> list[Path]:
                 relativa = resuelto.relative_to(ROOT)
             except ValueError:
                 continue
-            if any(parte in EXCLUIDOS_ADJUNTOS for parte in relativa.parts):
+            if any(parte in EXCLUIDOS for parte in relativa.parts):
                 continue
             encontrados.add(relativa)
     return sorted(encontrados)
@@ -558,6 +557,9 @@ def verificar() -> int:
     """Comprueba que el sitio se genere y que sus enlaces internos resuelvan."""
     paginas = generar()
 
+    # Cualquier enlace a un archivo que el portal no publica —los de `.github`,
+    # por ejemplo— aparece aqui como roto, que es justo lo que seria en
+    # produccion: GitHub Pages no sirve rutas cuyo directorio empieza por punto.
     faltantes: list[str] = []
     patron = re.compile(r'href="(?!https?://|mailto:|#)([^"#]+)')
     for pagina in SALIDA.rglob("*.html"):

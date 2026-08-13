@@ -336,9 +336,9 @@ en rojo.
 
 | ⚙️ Workflow | Qué cubre |
 |---|---|
-| 🧪 [ci.yml](.github/workflows/ci.yml) | las 16 secciones obligatorias de las 288 clases, títulos coherentes entre sus tres archivos, numeración continua 001–288, densidad mínima y detección de párrafos replicados y similitud anormal, enlaces relativos, `SYLLABUS`/`STATUS`/`MANIFEST`/`FILE_INDEX` sincronizados, `markdownlint`, UTF-8 sin BOM, build del portal y **31 pruebas en 3 sistemas × 3 versiones de Python** |
-| 🔒 [security.yml](.github/workflows/security.yml) | `pip-audit` sobre las dependencias, `bandit` sobre el código, `gitleaks` en el historial completo y dos detectores propios de credenciales y datos personales — además, cada lunes, porque una dependencia segura hoy puede dejar de serlo sin que nadie toque el repositorio |
-| 🚀 [pages.yml](.github/workflows/pages.yml) | genera el portal, lo despliega en GitHub Pages y **comprueba que responda 200** junto con sus páginas clave antes de dar el despliegue por bueno |
+| 🧪 [ci.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/ci.yml) | las 16 secciones obligatorias de las 288 clases, títulos coherentes entre sus tres archivos, numeración continua 001–288, densidad mínima y detección de párrafos replicados y similitud anormal, enlaces relativos, `SYLLABUS`/`STATUS`/`MANIFEST`/`FILE_INDEX` sincronizados, `markdownlint`, UTF-8 sin BOM, build del portal y **31 pruebas en 3 sistemas × 3 versiones de Python** |
+| 🔒 [security.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/security.yml) | `pip-audit` sobre las dependencias, `bandit` sobre el código, `gitleaks` en el historial completo y dos detectores propios de credenciales y datos personales — además, cada lunes, porque una dependencia segura hoy puede dejar de serlo sin que nadie toque el repositorio |
+| 🚀 [pages.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/pages.yml) | genera el portal, lo despliega en GitHub Pages y **comprueba que responda 200** junto con sus páginas clave antes de dar el despliegue por bueno |
 
 Dentro de `ci.yml`, una **puerta de calidad** final exige que los seis trabajos
 pasen: ninguno puede quedar en verde por omisión. Los propios workflows los

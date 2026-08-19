@@ -196,17 +196,16 @@ Guarda en `portfolio/253-mapa-del-ciclo-empresarial-en-chile/`:
 ## 📗 Fuentes y verificación
 
 - Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** obligaciones tributarias y ciclo de vida del contribuyente en Chile. Lectura selectiva: índice/capítulos pertinentes a **mapa del ciclo empresarial en Chile**; registra edición y páginas consultadas.
-- Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** constitución y modificaciones societarias en el Registro de Empresas y Sociedades. Lectura selectiva: índice/capítulos pertinentes a **mapa del ciclo empresarial en Chile**; registra edición y páginas consultadas.
+- Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** verificar en origen el ciclo de constitución societaria del régimen simplificado. Fuente primaria: <https://www.registrodeempresasysociedades.cl/>.
 - Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*. **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva: índice/capítulos pertinentes a **mapa del ciclo empresarial en Chile**; registra edición y páginas consultadas.
 - Dirección del Trabajo (Chile) — *Normativa y orientación oficial*. **Uso en esta clase:** relaciones laborales, contratos, jornada y fiscalización laboral chilena. Lectura selectiva: índice/capítulos pertinentes a **mapa del ciclo empresarial en Chile**; registra edición y páginas consultadas.
 - Subsecretaría de Previsión Social (Chile) — *Seguridad y Salud Laboral / Decreto Supremo N°44*. **Uso en esta clase:** gestión preventiva de riesgos laborales y marco del Decreto Supremo N°44. Lectura selectiva: índice/capítulos pertinentes a **mapa del ciclo empresarial en Chile**; registra edición y páginas consultadas.
 - AFC Chile — *Seguro de Cesantía: información y operación oficial*. **Uso en esta clase:** Seguro de Cesantía, cotizaciones y prestaciones. Lectura selectiva: índice/capítulos pertinentes a **mapa del ciclo empresarial en Chile**; registra edición y páginas consultadas.
-- SII Educa — formalización de negocios: <https://www.sii.cl/siieduca/aprende-con-nosotros/inicio-de-actividades-y-formalizacion-de-un-negocio.html>.
-- Registro de Empresas y Sociedades — portal oficial: <https://www.registrodeempresasysociedades.cl/>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Servicio de Impuestos Internos (Chile) — *SII Educa: inicio de actividades y formalización de un negocio*. **Uso en esta clase:** comprobar en origen los pasos de formalización de un negocio en Chile. Fuente primaria: <https://www.sii.cl/siieduca/aprende-con-nosotros/inicio-de-actividades-y-formalizacion-de-un-negocio.html>.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **mapa del ciclo empresarial en chile** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **mapa del ciclo empresarial en chile**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **mapa del ciclo empresarial en chile** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **mapa del ciclo empresarial en chile** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **mapa del ciclo empresarial en chile** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Mapa del ciclo empresarial en Chile:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **mapa del ciclo empresarial en Chile** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

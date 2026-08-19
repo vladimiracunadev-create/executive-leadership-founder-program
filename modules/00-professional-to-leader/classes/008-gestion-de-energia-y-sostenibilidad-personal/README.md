@@ -201,10 +201,10 @@ Guarda en `portfolio/008-gestion-de-energia-y-sostenibilidad-personal/`:
 - Andrew S. Grove — *High Output Management*. **Uso en esta clase:** output managerial, leverage, reuniones, indicadores y gestión por procesos. Lectura selectiva: índice/capítulos pertinentes a **gestión de energía y sostenibilidad personal**; registra edición y páginas consultadas.
 - Michael D. Watkins — *The First 90 Days*. **Uso en esta clase:** perspectiva de Transiciones aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **gestión de energía y sostenibilidad personal**; registra edición y páginas consultadas.
 - Greg McKeown — *Essentialism*. **Uso en esta clase:** perspectiva de Prioridades aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **gestión de energía y sostenibilidad personal**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **gestión de energía y sostenibilidad personal** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **gestión de energía y sostenibilidad personal**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **gestión de energía y sostenibilidad personal** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **gestión de energía y sostenibilidad personal** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **gestión de energía y sostenibilidad personal** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Gestión de energía y sostenibilidad personal:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **gestión de energía y sostenibilidad personal** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

@@ -195,18 +195,17 @@ Guarda en `portfolio/259-cuenta-bancaria-pagos-y-medios-de-cobro/`:
 
 ## 📗 Fuentes y verificación
 
-- Comisión para el Mercado Financiero (Chile) — *Normativa e información del mercado financiero*. **Uso en esta clase:** regulación e información financiera y de mercados en Chile. Lectura selectiva: índice/capítulos pertinentes a **cuenta bancaria, pagos y medios de cobro**; registra edición y páginas consultadas.
+- Comisión para el Mercado Financiero (Chile) — *Normativa e información del mercado financiero*. **Uso en esta clase:** verificar qué instituciones y productos financieros están regulados y supervisados. Fuente primaria: <https://www.cmfchile.cl/>.
 - Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** obligaciones tributarias y ciclo de vida del contribuyente en Chile. Lectura selectiva: índice/capítulos pertinentes a **cuenta bancaria, pagos y medios de cobro**; registra edición y páginas consultadas.
 - Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** constitución y modificaciones societarias en el Registro de Empresas y Sociedades. Lectura selectiva: índice/capítulos pertinentes a **cuenta bancaria, pagos y medios de cobro**; registra edición y páginas consultadas.
 - Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*. **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva: índice/capítulos pertinentes a **cuenta bancaria, pagos y medios de cobro**; registra edición y páginas consultadas.
 - INAPI (Chile) — *Propiedad industrial y orientación oficial*. **Uso en esta clase:** propiedad industrial, marcas, patentes y activos intangibles en Chile. Lectura selectiva: índice/capítulos pertinentes a **cuenta bancaria, pagos y medios de cobro**; registra edición y páginas consultadas.
 - Corporación de Fomento de la Producción (Chile) — *Programas, instrumentos y apoyo empresarial*. **Uso en esta clase:** instrumentos de desarrollo productivo, innovación y financiamiento empresarial. Lectura selectiva: índice/capítulos pertinentes a **cuenta bancaria, pagos y medios de cobro**; registra edición y páginas consultadas.
-- CMF — información y normativa del sistema financiero: <https://www.cmfchile.cl/>.
-- SII — acreditación de Inicio de Actividades y obligaciones tributarias: <https://www.sii.cl/destacados/ley_cumplimiento_obligaciones_tributarias/inicio_actividades.html>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Servicio de Impuestos Internos (Chile) — *Acreditación de inicio de actividades y obligaciones tributarias*. **Uso en esta clase:** comprobar qué acredita el banco al abrir la cuenta de la empresa. Fuente primaria: <https://www.sii.cl/destacados/ley_cumplimiento_obligaciones_tributarias/inicio_actividades.html>.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **cuenta bancaria, pagos y medios de cobro** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **cuenta bancaria, pagos y medios de cobro**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **cuenta bancaria, pagos y medios de cobro** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **cuenta bancaria, pagos y medios de cobro** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **cuenta bancaria, pagos y medios de cobro** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Cuenta bancaria, pagos y medios de cobro:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **cuenta bancaria, pagos y medios de cobro** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

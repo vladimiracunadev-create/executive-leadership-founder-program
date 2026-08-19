@@ -201,10 +201,10 @@ Guarda en `portfolio/176-diagnostico-de-cambio/`:
 - John P. Kotter — *Leading Change*. **Uso en esta clase:** urgencia, coalición, visión, movilización y consolidación del cambio. Lectura selectiva: índice/capítulos pertinentes a **diagnóstico de cambio**; registra edición y páginas consultadas.
 - Patrick Lencioni — *The Advantage*. **Uso en esta clase:** perspectiva de Salud organizacional aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **diagnóstico de cambio**; registra edición y páginas consultadas.
 - Chip Heath & Dan Heath — *Switch*. **Uso en esta clase:** dirección racional, motivación emocional y diseño del entorno para cambiar conducta. Lectura selectiva: índice/capítulos pertinentes a **diagnóstico de cambio**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **diagnóstico de cambio** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **diagnóstico de cambio**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **diagnóstico de cambio** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **diagnóstico de cambio** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **diagnóstico de cambio** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Diagnóstico de cambio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **diagnóstico de cambio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

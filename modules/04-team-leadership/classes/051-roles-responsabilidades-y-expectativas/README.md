@@ -201,10 +201,10 @@ Guarda en `portfolio/051-roles-responsabilidades-y-expectativas/`:
 - John Whitmore — *Coaching for Performance*. **Uso en esta clase:** perspectiva de Coaching aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **roles, responsabilidades y expectativas**; registra edición y páginas consultadas.
 - Patrick Lencioni — *Death by Meeting*. **Uso en esta clase:** perspectiva de Reuniones aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **roles, responsabilidades y expectativas**; registra edición y páginas consultadas.
 - Stanley McChrystal et al. — *Team of Teams*. **Uso en esta clase:** adaptabilidad, conciencia compartida y ejecución descentralizada. Lectura selectiva: índice/capítulos pertinentes a **roles, responsabilidades y expectativas**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **roles, responsabilidades y expectativas** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **roles, responsabilidades y expectativas**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **roles, responsabilidades y expectativas** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **roles, responsabilidades y expectativas** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **roles, responsabilidades y expectativas** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Roles, responsabilidades y expectativas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **roles, responsabilidades y expectativas** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

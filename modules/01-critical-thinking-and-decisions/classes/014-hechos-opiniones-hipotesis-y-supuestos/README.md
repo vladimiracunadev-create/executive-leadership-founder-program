@@ -201,10 +201,10 @@ Guarda en `portfolio/014-hechos-opiniones-hipotesis-y-supuestos/`:
 - Donella H. Meadows — *Thinking in Systems*. **Uso en esta clase:** perspectiva de Sistemas aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **hechos, opiniones, hipótesis y supuestos**; registra edición y páginas consultadas.
 - Annie Duke — *Thinking in Bets*. **Uso en esta clase:** calidad de la decisión separada del resultado y razonamiento probabilístico. Lectura selectiva: índice/capítulos pertinentes a **hechos, opiniones, hipótesis y supuestos**; registra edición y páginas consultadas.
 - Annie Duke — *How to Decide*. **Uso en esta clase:** perspectiva de Decisiones aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **hechos, opiniones, hipótesis y supuestos**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **hechos, opiniones, hipótesis y supuestos** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **hechos, opiniones, hipótesis y supuestos**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **hechos, opiniones, hipótesis y supuestos** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **hechos, opiniones, hipótesis y supuestos** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **hechos, opiniones, hipótesis y supuestos** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Hechos, opiniones, hipótesis y supuestos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **hechos, opiniones, hipótesis y supuestos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

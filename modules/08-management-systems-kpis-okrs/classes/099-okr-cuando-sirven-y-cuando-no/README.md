@@ -201,10 +201,10 @@ Guarda en `portfolio/099-okr-cuando-sirven-y-cuando-no/`:
 - Larry Bossidy & Ram Charan — *Execution*. **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva: índice/capítulos pertinentes a **oKR: cuándo sirven y cuándo no**; registra edición y páginas consultadas.
 - Michael C. Mankins & Eric Garton — *Time, Talent, Energy*. **Uso en esta clase:** perspectiva de Organización aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **oKR: cuándo sirven y cuándo no**; registra edición y páginas consultadas.
 - Bernard Marr — *Key Performance Indicators*. **Uso en esta clase:** selección de métricas útiles y conexión entre indicadores y decisiones. Lectura selectiva: índice/capítulos pertinentes a **oKR: cuándo sirven y cuándo no**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **okr: cuándo sirven y cuándo no** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **okr: cuándo sirven y cuándo no**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **okr: cuándo sirven y cuándo no** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **okr: cuándo sirven y cuándo no** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **okr: cuándo sirven y cuándo no** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para OKR: cuándo sirven y cuándo no:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **oKR: cuándo sirven y cuándo no** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

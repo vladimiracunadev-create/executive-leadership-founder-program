@@ -209,11 +209,11 @@ Guarda en `portfolio/188-gobierno-responsable-de-ia/`:
 - NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. Lectura selectiva: índice/capítulos pertinentes a **gobierno responsable de IA**; registra edición y páginas consultadas.
 - OECD — *OECD AI Principles*. **Uso en esta clase:** principios para IA confiable, responsable y centrada en las personas. Lectura selectiva: índice/capítulos pertinentes a **gobierno responsable de IA**; registra edición y páginas consultadas.
 - Ross Anderson — *Security Engineering*. **Uso en esta clase:** perspectiva de Ciberseguridad aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **gobierno responsable de IA**; registra edición y páginas consultadas.
-- NIST — *AI Risk Management Framework*. Fuente primaria: <https://www.nist.gov/itl/ai-risk-management-framework>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobernar, mapear, medir y gestionar el riesgo de sistemas de IA en la decisión de la clase. Fuente primaria: <https://www.nist.gov/itl/ai-risk-management-framework>.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **gobierno responsable de ia** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **gobierno responsable de ia**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **gobierno responsable de ia** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **gobierno responsable de ia** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **gobierno responsable de ia** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Gobierno responsable de IA:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **gobierno responsable de IA** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

@@ -201,12 +201,12 @@ Guarda en `portfolio/262-patentes-permisos-y-obligaciones-sectoriales/`:
 - Corporación de Fomento de la Producción (Chile) — *Programas, instrumentos y apoyo empresarial*. **Uso en esta clase:** instrumentos de desarrollo productivo, innovación y financiamiento empresarial. Lectura selectiva: índice/capítulos pertinentes a **patentes, permisos y obligaciones sectoriales**; registra edición y páginas consultadas.
 - Michael Armstrong & Stephen Taylor — *Armstrong's Handbook of Human Resource Management Practice*. **Uso en esta clase:** arquitectura de recursos humanos, desempeño, recompensa y relaciones laborales. Lectura selectiva: índice/capítulos pertinentes a **patentes, permisos y obligaciones sectoriales**; registra edición y páginas consultadas.
 - OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. Lectura selectiva: índice/capítulos pertinentes a **patentes, permisos y obligaciones sectoriales**; registra edición y páginas consultadas.
-- ChileAtiende y municipalidad competente — permisos y patente según giro; verificar autoridad específica.
-- SII Educa — formalización y permisos: <https://www.sii.cl/siieduca/aprende-con-nosotros/inicio-de-actividades-y-formalizacion-de-un-negocio.html>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- ChileAtiende — *Trámites y orientación del Estado*. **Uso en esta clase:** ubicar el trámite de permisos y patente y la municipalidad competente según giro. Fuente primaria: <https://www.chileatiende.gob.cl/>.
+- Servicio de Impuestos Internos (Chile) — *SII Educa: inicio de actividades y formalización de un negocio*. **Uso en esta clase:** comprobar en origen qué exige la formalización antes de tramitar permisos y patente. Fuente primaria: <https://www.sii.cl/siieduca/aprende-con-nosotros/inicio-de-actividades-y-formalizacion-de-un-negocio.html>.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **patentes, permisos y obligaciones sectoriales** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **patentes, permisos y obligaciones sectoriales**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **patentes, permisos y obligaciones sectoriales** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **patentes, permisos y obligaciones sectoriales** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **patentes, permisos y obligaciones sectoriales** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Patentes, permisos y obligaciones sectoriales:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **patentes, permisos y obligaciones sectoriales** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

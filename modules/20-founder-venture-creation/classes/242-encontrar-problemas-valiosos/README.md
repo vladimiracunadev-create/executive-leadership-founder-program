@@ -201,10 +201,10 @@ Guarda en `portfolio/242-encontrar-problemas-valiosos/`:
 - Rob Fitzpatrick — *The Mom Test*. **Uso en esta clase:** perspectiva de Customer discovery aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **encontrar problemas valiosos**; registra edición y páginas consultadas.
 - Ben Horowitz — *The Hard Thing About Hard Things*. **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva: índice/capítulos pertinentes a **encontrar problemas valiosos**; registra edición y páginas consultadas.
 - Bill Aulet — *Disciplined Entrepreneurship*. **Uso en esta clase:** secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio. Lectura selectiva: índice/capítulos pertinentes a **encontrar problemas valiosos**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **encontrar problemas valiosos** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **encontrar problemas valiosos**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **encontrar problemas valiosos** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **encontrar problemas valiosos** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **encontrar problemas valiosos** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Encontrar problemas valiosos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **encontrar problemas valiosos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

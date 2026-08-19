@@ -201,10 +201,10 @@ Guarda en `portfolio/142-retencion-lealtad-y-customer-success/`:
 - David Aaker — *Building Strong Brands*. **Uso en esta clase:** perspectiva de Marca aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **retención, lealtad y customer success**; registra edición y páginas consultadas.
 - Aaron Ross & Jason Lemkin — *From Impossible to Inevitable*. **Uso en esta clase:** perspectiva de SaaS / Ventas aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **retención, lealtad y customer success**; registra edición y páginas consultadas.
 - April Dunford — *Obviously Awesome*. **Uso en esta clase:** posicionamiento desde alternativas competitivas, atributos, valor y segmento. Lectura selectiva: índice/capítulos pertinentes a **retención, lealtad y customer success**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **retención, lealtad y customer success** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **retención, lealtad y customer success**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **retención, lealtad y customer success** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **retención, lealtad y customer success** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **retención, lealtad y customer success** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Retención, lealtad y customer success:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **retención, lealtad y customer success** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

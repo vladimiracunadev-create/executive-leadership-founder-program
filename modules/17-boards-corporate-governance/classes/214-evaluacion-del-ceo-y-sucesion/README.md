@@ -196,16 +196,15 @@ Guarda en `portfolio/214-evaluacion-del-ceo-y-sucesion/`:
 ## 📗 Fuentes y verificación
 
 - Bob Tricker — *Corporate Governance*. **Uso en esta clase:** separación entre dirección, supervisión, accountability y gobierno corporativo. Lectura selectiva: índice/capítulos pertinentes a **evaluación del CEO y sucesión**; registra edición y páginas consultadas.
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. Lectura selectiva: índice/capítulos pertinentes a **evaluación del CEO y sucesión**; registra edición y páginas consultadas.
+- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, deberes del directorio y divulgación como referencia de gobierno. Fuente primaria: <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
 - COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** riesgo integrado con estrategia, desempeño, revisión e información. Lectura selectiva: índice/capítulos pertinentes a **evaluación del CEO y sucesión**; registra edición y páginas consultadas.
 - Paul Polman & Andrew Winston — *Net Positive*. **Uso en esta clase:** perspectiva de Sostenibilidad aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **evaluación del CEO y sucesión**; registra edición y páginas consultadas.
 - Richard Leblanc & James Gillies — *Inside the Boardroom*. **Uso en esta clase:** comportamiento efectivo del directorio, composición y dinámica de gobierno. Lectura selectiva: índice/capítulos pertinentes a **evaluación del CEO y sucesión**; registra edición y páginas consultadas.
 - Ram Charan — *Boards That Deliver*. **Uso en esta clase:** directorios que contribuyen a estrategia, talento, riesgo y sucesión. Lectura selectiva: índice/capítulos pertinentes a **evaluación del CEO y sucesión**; registra edición y páginas consultadas.
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **evaluación del ceo y sucesión** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **evaluación del ceo y sucesión**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **evaluación del ceo y sucesión** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **evaluación del ceo y sucesión** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **evaluación del ceo y sucesión** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Evaluación del CEO y sucesión:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **evaluación del CEO y sucesión** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

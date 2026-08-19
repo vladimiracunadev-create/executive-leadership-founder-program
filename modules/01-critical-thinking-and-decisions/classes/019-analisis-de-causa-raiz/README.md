@@ -201,10 +201,10 @@ Guarda en `portfolio/019-analisis-de-causa-raiz/`:
 - Max H. Bazerman & Don A. Moore — *Judgment in Managerial Decision Making*. **Uso en esta clase:** perspectiva de Decisiones aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **análisis de causa raíz**; registra edición y páginas consultadas.
 - Peter M. Senge — *The Fifth Discipline*. **Uso en esta clase:** pensamiento sistémico, bucles de retroalimentación y aprendizaje organizacional. Lectura selectiva: índice/capítulos pertinentes a **análisis de causa raíz**; registra edición y páginas consultadas.
 - Annie Duke — *Thinking in Bets*. **Uso en esta clase:** calidad de la decisión separada del resultado y razonamiento probabilístico. Lectura selectiva: índice/capítulos pertinentes a **análisis de causa raíz**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **análisis de causa raíz** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **análisis de causa raíz**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **análisis de causa raíz** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **análisis de causa raíz** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **análisis de causa raíz** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Análisis de causa raíz:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **análisis de causa raíz** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

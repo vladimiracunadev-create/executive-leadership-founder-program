@@ -201,10 +201,10 @@ Guarda en `portfolio/162-trade-offs-y-coherencia/`:
 - Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy*. **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **trade-offs y coherencia**; registra edición y páginas consultadas.
 - Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*. **Uso en esta clase:** traducción de estrategia a objetivos, indicadores y relaciones causales. Lectura selectiva: índice/capítulos pertinentes a **trade-offs y coherencia**; registra edición y páginas consultadas.
 - Richard Rumelt — *Good Strategy/Bad Strategy*. **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva: índice/capítulos pertinentes a **trade-offs y coherencia**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **trade-offs y coherencia** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **trade-offs y coherencia**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **trade-offs y coherencia** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **trade-offs y coherencia** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **trade-offs y coherencia** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Trade-offs y coherencia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **trade-offs y coherencia** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

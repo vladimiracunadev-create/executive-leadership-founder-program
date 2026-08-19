@@ -201,10 +201,10 @@ Guarda en `portfolio/098-diseno-de-objetivos/`:
 - Bernard Marr — *Key Performance Indicators*. **Uso en esta clase:** selección de métricas útiles y conexión entre indicadores y decisiones. Lectura selectiva: índice/capítulos pertinentes a **diseño de objetivos**; registra edición y páginas consultadas.
 - Robert S. Kaplan & David P. Norton — *Strategy Maps*. **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **diseño de objetivos**; registra edición y páginas consultadas.
 - Richard Rumelt — *Good Strategy/Bad Strategy*. **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva: índice/capítulos pertinentes a **diseño de objetivos**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **diseño de objetivos** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **diseño de objetivos**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **diseño de objetivos** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **diseño de objetivos** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **diseño de objetivos** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Diseño de objetivos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **diseño de objetivos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

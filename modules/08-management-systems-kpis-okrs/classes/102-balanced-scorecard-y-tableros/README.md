@@ -201,10 +201,10 @@ Guarda en `portfolio/102-balanced-scorecard-y-tableros/`:
 - Richard Rumelt — *Good Strategy/Bad Strategy*. **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva: índice/capítulos pertinentes a **balanced Scorecard y tableros**; registra edición y páginas consultadas.
 - John Doerr — *Speed & Scale*. **Uso en esta clase:** perspectiva de Ejecución aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **balanced Scorecard y tableros**; registra edición y páginas consultadas.
 - Bernard Marr — *Key Performance Indicators*. **Uso en esta clase:** selección de métricas útiles y conexión entre indicadores y decisiones. Lectura selectiva: índice/capítulos pertinentes a **balanced Scorecard y tableros**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **balanced scorecard y tableros** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **balanced scorecard y tableros**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **balanced scorecard y tableros** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **balanced scorecard y tableros** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **balanced scorecard y tableros** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Balanced Scorecard y tableros:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **balanced Scorecard y tableros** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

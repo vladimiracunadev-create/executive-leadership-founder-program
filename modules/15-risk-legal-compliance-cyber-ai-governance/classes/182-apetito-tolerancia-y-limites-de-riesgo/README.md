@@ -197,16 +197,14 @@ Guarda en `portfolio/182-apetito-tolerancia-y-limites-de-riesgo/`:
 
 - COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** riesgo integrado con estrategia, desempeño, revisión e información. Lectura selectiva: índice/capítulos pertinentes a **apetito, tolerancia y límites de riesgo**; registra edición y páginas consultadas.
 - John C. Hull — *Risk Management and Financial Institutions*. **Uso en esta clase:** identificación y medición de riesgos financieros y no financieros. Lectura selectiva: índice/capítulos pertinentes a **apetito, tolerancia y límites de riesgo**; registra edición y páginas consultadas.
-- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida. Lectura selectiva: índice/capítulos pertinentes a **apetito, tolerancia y límites de riesgo**; registra edición y páginas consultadas.
+- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobernar, mapear, medir y gestionar el riesgo de sistemas de IA en la decisión de la clase. Fuente primaria: <https://www.nist.gov/itl/ai-risk-management-framework>.
 - Ross Anderson — *Security Engineering*. **Uso en esta clase:** perspectiva de Ciberseguridad aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **apetito, tolerancia y límites de riesgo**; registra edición y páginas consultadas.
 - OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. Lectura selectiva: índice/capítulos pertinentes a **apetito, tolerancia y límites de riesgo**; registra edición y páginas consultadas.
 - NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. Lectura selectiva: índice/capítulos pertinentes a **apetito, tolerancia y límites de riesgo**; registra edición y páginas consultadas.
-- NIST — *AI Risk Management Framework*. Fuente primaria: <https://www.nist.gov/itl/ai-risk-management-framework>.
-- COSO — *Enterprise Risk Management* / *Internal Control*. Fuente institucional: <https://www.coso.org/>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **apetito, tolerancia y límites de riesgo** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **apetito, tolerancia y límites de riesgo**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **apetito, tolerancia y límites de riesgo** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **apetito, tolerancia y límites de riesgo** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **apetito, tolerancia y límites de riesgo** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Apetito, tolerancia y límites de riesgo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **apetito, tolerancia y límites de riesgo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

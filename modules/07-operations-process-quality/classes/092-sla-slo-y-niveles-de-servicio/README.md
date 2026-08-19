@@ -201,10 +201,10 @@ Guarda en `portfolio/092-sla-slo-y-niveles-de-servicio/`:
 - James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World*. **Uso en esta clase:** perspectiva de Lean aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **sLA, SLO y niveles de servicio**; registra edición y páginas consultadas.
 - ISO — *ISO 22301 Business continuity management systems*. **Uso en esta clase:** sistema de gestión de continuidad y preparación ante disrupciones. Lectura selectiva: índice/capítulos pertinentes a **sLA, SLO y niveles de servicio**; registra edición y páginas consultadas.
 - James P. Womack & Daniel T. Jones — *Lean Thinking*. **Uso en esta clase:** valor, flujo, pull, desperdicio y mejora continua. Lectura selectiva: índice/capítulos pertinentes a **sLA, SLO y niveles de servicio**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **sla, slo y niveles de servicio** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **sla, slo y niveles de servicio**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **sla, slo y niveles de servicio** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **sla, slo y niveles de servicio** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **sla, slo y niveles de servicio** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para SLA, SLO y niveles de servicio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **sLA, SLO y niveles de servicio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

@@ -201,10 +201,10 @@ Guarda en `portfolio/078-agile-como-sistema-adaptativo/`:
 - Ken Schwaber & Jeff Sutherland — *The Scrum Guide*. **Uso en esta clase:** empirismo, transparencia, inspección y adaptación. Lectura selectiva: índice/capítulos pertinentes a **agile como sistema adaptativo**; registra edición y páginas consultadas.
 - Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*. **Uso en esta clase:** métricas de entrega, capacidades técnicas y desempeño organizacional. Lectura selectiva: índice/capítulos pertinentes a **agile como sistema adaptativo**; registra edición y páginas consultadas.
 - Atul Gawande — *The Checklist Manifesto*. **Uso en esta clase:** perspectiva de Ejecución aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **agile como sistema adaptativo**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **agile como sistema adaptativo** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **agile como sistema adaptativo**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **agile como sistema adaptativo** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **agile como sistema adaptativo** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **agile como sistema adaptativo** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Agile como sistema adaptativo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **agile como sistema adaptativo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

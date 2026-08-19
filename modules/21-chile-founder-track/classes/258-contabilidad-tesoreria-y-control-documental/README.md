@@ -195,18 +195,17 @@ Guarda en `portfolio/258-contabilidad-tesoreria-y-control-documental/`:
 
 ## 📗 Fuentes y verificación
 
-- Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** obligaciones tributarias y ciclo de vida del contribuyente en Chile. Lectura selectiva: índice/capítulos pertinentes a **contabilidad, tesorería y control documental**; registra edición y páginas consultadas.
+- Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** confirmar declaraciones, registros y calendario tributario aplicables. Fuente primaria: <https://www.sii.cl/>.
 - Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** constitución y modificaciones societarias en el Registro de Empresas y Sociedades. Lectura selectiva: índice/capítulos pertinentes a **contabilidad, tesorería y control documental**; registra edición y páginas consultadas.
 - Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*. **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva: índice/capítulos pertinentes a **contabilidad, tesorería y control documental**; registra edición y páginas consultadas.
 - AFC Chile — *Seguro de Cesantía: información y operación oficial*. **Uso en esta clase:** Seguro de Cesantía, cotizaciones y prestaciones. Lectura selectiva: índice/capítulos pertinentes a **contabilidad, tesorería y control documental**; registra edición y páginas consultadas.
 - Dirección ChileCompra — *Mercado Público y normativa de compras públicas*. **Uso en esta clase:** compras públicas, registro de proveedores y Mercado Público. Lectura selectiva: índice/capítulos pertinentes a **contabilidad, tesorería y control documental**; registra edición y páginas consultadas.
 - Comisión para el Mercado Financiero (Chile) — *Normativa e información del mercado financiero*. **Uso en esta clase:** regulación e información financiera y de mercados en Chile. Lectura selectiva: índice/capítulos pertinentes a **contabilidad, tesorería y control documental**; registra edición y páginas consultadas.
-- SII — declaraciones, registros y calendario tributario: <https://www.sii.cl/>.
-- Colegio de Contadores / normativa contable aplicable y NIIF cuando corresponda; verificar alcance según entidad.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Colegio de Contadores de Chile — *Normativa contable aplicable y NIIF según tipo de entidad*. **Uso en esta clase:** determinar qué marco contable rige a la entidad antes de diseñar el control documental. Verificar alcance según entidad; localizador pendiente de fuente primaria estable.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **contabilidad, tesorería y control documental** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **contabilidad, tesorería y control documental**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **contabilidad, tesorería y control documental** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **contabilidad, tesorería y control documental** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **contabilidad, tesorería y control documental** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Contabilidad, tesorería y control documental:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **contabilidad, tesorería y control documental** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

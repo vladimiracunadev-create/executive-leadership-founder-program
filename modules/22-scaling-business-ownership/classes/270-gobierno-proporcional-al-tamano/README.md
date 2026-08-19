@@ -201,10 +201,10 @@ Guarda en `portfolio/270-gobierno-proporcional-al-tamano/`:
 - Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*. **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva: índice/capítulos pertinentes a **gobierno proporcional al tamaño**; registra edición y páginas consultadas.
 - OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. Lectura selectiva: índice/capítulos pertinentes a **gobierno proporcional al tamaño**; registra edición y páginas consultadas.
 - Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*. **Uso en esta clase:** cómo propagar excelencia sin multiplicar burocracia y daño. Lectura selectiva: índice/capítulos pertinentes a **gobierno proporcional al tamaño**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **gobierno proporcional al tamaño** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **gobierno proporcional al tamaño**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **gobierno proporcional al tamaño** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **gobierno proporcional al tamaño** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **gobierno proporcional al tamaño** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Gobierno proporcional al tamaño:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **gobierno proporcional al tamaño** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

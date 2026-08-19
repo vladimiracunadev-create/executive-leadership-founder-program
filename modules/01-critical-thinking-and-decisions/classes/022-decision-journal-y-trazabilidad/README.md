@@ -201,10 +201,10 @@ Guarda en `portfolio/022-decision-journal-y-trazabilidad/`:
 - Philip Tetlock & Dan Gardner — *Superforecasting*. **Uso en esta clase:** perspectiva de Forecasting aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **decision journal y trazabilidad**; registra edición y páginas consultadas.
 - Donella H. Meadows — *Thinking in Systems*. **Uso en esta clase:** perspectiva de Sistemas aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **decision journal y trazabilidad**; registra edición y páginas consultadas.
 - Annie Duke — *Thinking in Bets*. **Uso en esta clase:** calidad de la decisión separada del resultado y razonamiento probabilístico. Lectura selectiva: índice/capítulos pertinentes a **decision journal y trazabilidad**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **decision journal y trazabilidad** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **decision journal y trazabilidad**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **decision journal y trazabilidad** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **decision journal y trazabilidad** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **decision journal y trazabilidad** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Decision journal y trazabilidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **decision journal y trazabilidad** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

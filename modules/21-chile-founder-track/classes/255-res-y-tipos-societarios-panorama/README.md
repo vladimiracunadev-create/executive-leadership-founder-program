@@ -201,12 +201,12 @@ Guarda en `portfolio/255-res-y-tipos-societarios-panorama/`:
 - Superintendencia de Seguridad Social (Chile) — *Normativa del Seguro de Accidentes del Trabajo y Enfermedades Profesionales*. **Uso en esta clase:** seguro de accidentes y enfermedades profesionales, prevención y jurisprudencia administrativa. Lectura selectiva: índice/capítulos pertinentes a **rES y tipos societarios: panorama**; registra edición y páginas consultadas.
 - AFC Chile — *Seguro de Cesantía: información y operación oficial*. **Uso en esta clase:** Seguro de Cesantía, cotizaciones y prestaciones. Lectura selectiva: índice/capítulos pertinentes a **rES y tipos societarios: panorama**; registra edición y páginas consultadas.
 - Sercotec (Chile) — *Programas, capacitación y Centros de Desarrollo de Negocios*. **Uso en esta clase:** desarrollo empresarial y apoyo a micro y pequeñas empresas en Chile. Lectura selectiva: índice/capítulos pertinentes a **rES y tipos societarios: panorama**; registra edición y páginas consultadas.
-- Registro de Empresas y Sociedades — FAQ y tipos de empresas: <https://www.registrodeempresasysociedades.cl/FAQ.aspx>.
-- Ley N.º 20.659 y normativa vinculada, consultar texto vigente en BCN LeyChile: <https://www.bcn.cl/leychile/>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Registro de Empresas y Sociedades (Chile) — *Preguntas frecuentes del portal oficial*. **Uso en esta clase:** cotejar el panorama de tipos societarios que la clase compara. Fuente primaria: <https://www.registrodeempresasysociedades.cl/FAQ.aspx>.
+- Biblioteca del Congreso Nacional de Chile — *LeyChile: Ley N.º 20.659 y normativa vinculada*. **Uso en esta clase:** leer el texto vigente del régimen simplificado antes de decidir el tipo societario. Fuente primaria: <https://www.bcn.cl/leychile/>.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **res y tipos societarios: panorama** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **res y tipos societarios: panorama**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **res y tipos societarios: panorama** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **res y tipos societarios: panorama** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **res y tipos societarios: panorama** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para RES y tipos societarios: panorama:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **rES y tipos societarios: panorama** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

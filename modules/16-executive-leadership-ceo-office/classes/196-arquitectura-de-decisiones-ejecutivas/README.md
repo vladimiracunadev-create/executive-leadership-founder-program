@@ -201,10 +201,10 @@ Guarda en `portfolio/196-arquitectura-de-decisiones-ejecutivas/`:
 - Larry Bossidy & Ram Charan — *Execution*. **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva: índice/capítulos pertinentes a **arquitectura de decisiones ejecutivas**; registra edición y páginas consultadas.
 - Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*. **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva: índice/capítulos pertinentes a **arquitectura de decisiones ejecutivas**; registra edición y páginas consultadas.
 - Peter F. Drucker — *The Effective Executive*. **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva: índice/capítulos pertinentes a **arquitectura de decisiones ejecutivas**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **arquitectura de decisiones ejecutivas** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **arquitectura de decisiones ejecutivas**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **arquitectura de decisiones ejecutivas** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **arquitectura de decisiones ejecutivas** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **arquitectura de decisiones ejecutivas** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Arquitectura de decisiones ejecutivas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **arquitectura de decisiones ejecutivas** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

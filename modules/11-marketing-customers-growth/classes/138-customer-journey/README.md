@@ -201,10 +201,10 @@ Guarda en `portfolio/138-customer-journey/`:
 - April Dunford — *Obviously Awesome*. **Uso en esta clase:** posicionamiento desde alternativas competitivas, atributos, valor y segmento. Lectura selectiva: índice/capítulos pertinentes a **customer journey**; registra edición y páginas consultadas.
 - Sean Ellis & Morgan Brown — *Hacking Growth*. **Uso en esta clase:** experimentación de crecimiento, loops y aprendizaje orientado a métricas. Lectura selectiva: índice/capítulos pertinentes a **customer journey**; registra edición y páginas consultadas.
 - David Aaker — *Building Strong Brands*. **Uso en esta clase:** perspectiva de Marca aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **customer journey**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **customer journey** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **customer journey**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **customer journey** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **customer journey** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **customer journey** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Customer journey:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **customer journey** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

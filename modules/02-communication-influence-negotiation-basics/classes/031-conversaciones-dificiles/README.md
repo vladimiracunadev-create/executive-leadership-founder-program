@@ -201,10 +201,10 @@ Guarda en `portfolio/031-conversaciones-dificiles/`:
 - Barbara Minto — *The Pyramid Principle*. **Uso en esta clase:** estructura piramidal para razonamiento y comunicación ejecutiva. Lectura selectiva: índice/capítulos pertinentes a **conversaciones difíciles**; registra edición y páginas consultadas.
 - Edgar H. Schein — *Humble Inquiry*. **Uso en esta clase:** preguntas que reducen jerarquía defensiva y mejoran información. Lectura selectiva: índice/capítulos pertinentes a **conversaciones difíciles**; registra edición y páginas consultadas.
 - Chris Voss & Tahl Raz — *Never Split the Difference*. **Uso en esta clase:** negociación táctica, escucha, calibración y manejo de información imperfecta. Lectura selectiva: índice/capítulos pertinentes a **conversaciones difíciles**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **conversaciones difíciles** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **conversaciones difíciles**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **conversaciones difíciles** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **conversaciones difíciles** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **conversaciones difíciles** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Conversaciones difíciles:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **conversaciones difíciles** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

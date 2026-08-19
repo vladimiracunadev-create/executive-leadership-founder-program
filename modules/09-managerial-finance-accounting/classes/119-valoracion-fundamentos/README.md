@@ -209,10 +209,10 @@ Guarda en `portfolio/119-valoracion-fundamentos/`:
 - Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*. **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva: índice/capítulos pertinentes a **valoración: fundamentos**; registra edición y páginas consultadas.
 - Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*. **Uso en esta clase:** reconocimiento, medición y presentación de estados financieros y sus partidas. Lectura selectiva: índice/capítulos pertinentes a **valoración: fundamentos**; registra edición y páginas consultadas.
 - Stephen H. Penman — *Financial Statement Analysis and Security Valuation*. **Uso en esta clase:** reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración. Lectura selectiva: índice/capítulos pertinentes a **valoración: fundamentos**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **valoración: fundamentos** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **valoración: fundamentos**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **valoración: fundamentos** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **valoración: fundamentos** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **valoración: fundamentos** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Valoración: fundamentos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **valoración: fundamentos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

@@ -201,10 +201,10 @@ Guarda en `portfolio/152-priorizacion-y-costo-de-oportunidad/`:
 - Dan Olsen — *The Lean Product Playbook*. **Uso en esta clase:** perspectiva de Producto aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **priorización y costo de oportunidad**; registra edición y páginas consultadas.
 - Alexander Osterwalder et al. — *Value Proposition Design*. **Uso en esta clase:** perspectiva de Producto aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **priorización y costo de oportunidad**; registra edición y páginas consultadas.
 - David J. Bland & Alexander Osterwalder — *Testing Business Ideas*. **Uso en esta clase:** hipótesis de negocio, experimentos, evidencia y reducción de riesgo. Lectura selectiva: índice/capítulos pertinentes a **priorización y costo de oportunidad**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **priorización y costo de oportunidad** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **priorización y costo de oportunidad**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **priorización y costo de oportunidad** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **priorización y costo de oportunidad** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **priorización y costo de oportunidad** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Priorización y costo de oportunidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **priorización y costo de oportunidad** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

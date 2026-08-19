@@ -208,12 +208,11 @@ Guarda en `portfolio/187-gobierno-de-ciberseguridad/`:
 - OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. Lectura selectiva: índice/capítulos pertinentes a **gobierno de ciberseguridad**; registra edición y páginas consultadas.
 - NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida. Lectura selectiva: índice/capítulos pertinentes a **gobierno de ciberseguridad**; registra edición y páginas consultadas.
 - ISO — *ISO 31000 Risk management*. **Uso en esta clase:** principios, marco y proceso de gestión de riesgos. Lectura selectiva: índice/capítulos pertinentes a **gobierno de ciberseguridad**; registra edición y páginas consultadas.
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. Lectura selectiva: índice/capítulos pertinentes a **gobierno de ciberseguridad**; registra edición y páginas consultadas.
-- NIST — *Cybersecurity Framework 2.0*. Fuente primaria: <https://www.nist.gov/cyberframework>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** funciones de gobierno, identificación, protección, detección, respuesta y recuperación como marco de la decisión. Fuente primaria: <https://www.nist.gov/cyberframework>.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **gobierno de ciberseguridad** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **gobierno de ciberseguridad**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **gobierno de ciberseguridad** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **gobierno de ciberseguridad** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **gobierno de ciberseguridad** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Gobierno de ciberseguridad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **gobierno de ciberseguridad** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

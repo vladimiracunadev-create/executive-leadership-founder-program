@@ -201,10 +201,10 @@ Guarda en `portfolio/200-comunicacion-del-ceo/`:
 - Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*. **Uso en esta clase:** perspectiva de Sucesión aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **comunicación del CEO**; registra edición y páginas consultadas.
 - Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*. **Uso en esta clase:** impacto emocional del liderazgo y estilos de conducción. Lectura selectiva: índice/capítulos pertinentes a **comunicación del CEO**; registra edición y páginas consultadas.
 - Larry Bossidy & Ram Charan — *Execution*. **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva: índice/capítulos pertinentes a **comunicación del CEO**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **comunicación del ceo** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **comunicación del ceo**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **comunicación del ceo** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **comunicación del ceo** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **comunicación del ceo** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Comunicación del CEO:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **comunicación del CEO** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

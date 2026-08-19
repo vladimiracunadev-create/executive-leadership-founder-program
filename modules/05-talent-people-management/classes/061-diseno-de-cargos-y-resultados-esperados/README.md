@@ -201,10 +201,10 @@ Guarda en `portfolio/061-diseno-de-cargos-y-resultados-esperados/`:
 - John Boudreau & Peter Ramstad — *Beyond HR*. **Uso en esta clase:** perspectiva de Talento aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **diseño de cargos y resultados esperados**; registra edición y páginas consultadas.
 - John Whitmore — *Coaching for Performance*. **Uso en esta clase:** perspectiva de Coaching aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **diseño de cargos y resultados esperados**; registra edición y páginas consultadas.
 - Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*. **Uso en esta clase:** perspectiva de Sucesión aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **diseño de cargos y resultados esperados**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **diseño de cargos y resultados esperados** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **diseño de cargos y resultados esperados**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **diseño de cargos y resultados esperados** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **diseño de cargos y resultados esperados** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **diseño de cargos y resultados esperados** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Diseño de cargos y resultados esperados:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **diseño de cargos y resultados esperados** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

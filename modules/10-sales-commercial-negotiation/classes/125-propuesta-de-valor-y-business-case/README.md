@@ -201,10 +201,10 @@ Guarda en `portfolio/125-propuesta-de-valor-y-business-case/`:
 - Robert B. Cialdini — *Influence*. **Uso en esta clase:** mecanismos de influencia y sus límites éticos. Lectura selectiva: índice/capítulos pertinentes a **propuesta de valor y business case**; registra edición y páginas consultadas.
 - Chris Voss & Tahl Raz — *Never Split the Difference*. **Uso en esta clase:** negociación táctica, escucha, calibración y manejo de información imperfecta. Lectura selectiva: índice/capítulos pertinentes a **propuesta de valor y business case**; registra edición y páginas consultadas.
 - Roger Fisher, William Ury & Bruce Patton — *Getting to Yes*. **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva: índice/capítulos pertinentes a **propuesta de valor y business case**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **propuesta de valor y business case** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **propuesta de valor y business case**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **propuesta de valor y business case** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **propuesta de valor y business case** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **propuesta de valor y business case** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Propuesta de valor y business case:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **propuesta de valor y business case** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

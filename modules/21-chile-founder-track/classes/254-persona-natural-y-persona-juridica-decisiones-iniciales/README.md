@@ -201,12 +201,12 @@ Guarda en `portfolio/254-persona-natural-y-persona-juridica-decisiones-iniciales
 - Biblioteca del Congreso Nacional de Chile — *LeyChile: Código del Trabajo y legislación laboral vigente*. **Uso en esta clase:** texto legal vigente del Código del Trabajo y leyes laborales chilenas. Lectura selectiva: índice/capítulos pertinentes a **persona natural y persona jurídica: decisiones iniciales**; registra edición y páginas consultadas.
 - Superintendencia de Pensiones (Chile) — *Normativa y sistema previsional*. **Uso en esta clase:** obligaciones y reglas del sistema previsional chileno. Lectura selectiva: índice/capítulos pertinentes a **persona natural y persona jurídica: decisiones iniciales**; registra edición y páginas consultadas.
 - INAPI (Chile) — *Propiedad industrial y orientación oficial*. **Uso en esta clase:** propiedad industrial, marcas, patentes y activos intangibles en Chile. Lectura selectiva: índice/capítulos pertinentes a **persona natural y persona jurídica: decisiones iniciales**; registra edición y páginas consultadas.
-- Registro de Empresas y Sociedades — información oficial sobre formas societarias: <https://www.registrodeempresasysociedades.cl/FAQ.aspx>.
-- SII — Portal Emprendedor: <https://www.sii.cl/portales/emprendedor/>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Registro de Empresas y Sociedades (Chile) — *Preguntas frecuentes del portal oficial*. **Uso en esta clase:** contrastar las formas societarias disponibles antes de elegir persona natural o jurídica. Fuente primaria: <https://www.registrodeempresasysociedades.cl/FAQ.aspx>.
+- Servicio de Impuestos Internos (Chile) — *Portal Emprendedor*. **Uso en esta clase:** verificar obligaciones tributarias iniciales según la forma jurídica elegida. Fuente primaria: <https://www.sii.cl/portales/emprendedor/>.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **persona natural y persona jurídica: decisiones iniciales** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **persona natural y persona jurídica: decisiones iniciales**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **persona natural y persona jurídica: decisiones iniciales** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **persona natural y persona jurídica: decisiones iniciales** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **persona natural y persona jurídica: decisiones iniciales** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Persona natural y persona jurídica: decisiones iniciales:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **persona natural y persona jurídica: decisiones iniciales** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

@@ -201,10 +201,10 @@ Guarda en `portfolio/280-productized-services/`:
 - Cal Newport — *Deep Work*. **Uso en esta clase:** perspectiva de Atención aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **productized services**; registra edición y páginas consultadas.
 - Michael D. Watkins — *The First 90 Days*. **Uso en esta clase:** perspectiva de Transiciones aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **productized services**; registra edición y páginas consultadas.
 - Michael E. Gerber — *The E-Myth Revisited*. **Uso en esta clase:** diferencia entre técnico, manager y empresario; sistematización del negocio. Lectura selectiva: índice/capítulos pertinentes a **productized services**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **productized services** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **productized services**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **productized services** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **productized services** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **productized services** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Productized services:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **productized services** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

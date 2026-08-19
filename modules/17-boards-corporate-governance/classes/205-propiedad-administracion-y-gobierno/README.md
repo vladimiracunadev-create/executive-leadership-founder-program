@@ -204,16 +204,15 @@ Guarda en `portfolio/205-propiedad-administracion-y-gobierno/`:
 ## 📗 Fuentes y verificación
 
 - Bob Tricker — *Corporate Governance*. **Uso en esta clase:** separación entre dirección, supervisión, accountability y gobierno corporativo. Lectura selectiva: índice/capítulos pertinentes a **propiedad, administración y gobierno**; registra edición y páginas consultadas.
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. Lectura selectiva: índice/capítulos pertinentes a **propiedad, administración y gobierno**; registra edición y páginas consultadas.
+- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, deberes del directorio y divulgación como referencia de gobierno. Fuente primaria: <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
 - Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*. **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva: índice/capítulos pertinentes a **propiedad, administración y gobierno**; registra edición y páginas consultadas.
 - Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*. **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva: índice/capítulos pertinentes a **propiedad, administración y gobierno**; registra edición y páginas consultadas.
 - Ram Charan — *Boards That Deliver*. **Uso en esta clase:** directorios que contribuyen a estrategia, talento, riesgo y sucesión. Lectura selectiva: índice/capítulos pertinentes a **propiedad, administración y gobierno**; registra edición y páginas consultadas.
 - Richard Leblanc & James Gillies — *Inside the Boardroom*. **Uso en esta clase:** comportamiento efectivo del directorio, composición y dinámica de gobierno. Lectura selectiva: índice/capítulos pertinentes a **propiedad, administración y gobierno**; registra edición y páginas consultadas.
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **propiedad, administración y gobierno** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **propiedad, administración y gobierno**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **propiedad, administración y gobierno** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **propiedad, administración y gobierno** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **propiedad, administración y gobierno** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Propiedad, administración y gobierno:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **propiedad, administración y gobierno** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

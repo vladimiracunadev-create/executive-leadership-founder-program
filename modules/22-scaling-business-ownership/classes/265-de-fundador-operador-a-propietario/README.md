@@ -201,10 +201,10 @@ Guarda en `portfolio/265-de-fundador-operador-a-propietario/`:
 - Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*. **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva: índice/capítulos pertinentes a **de fundador-operador a propietario**; registra edición y páginas consultadas.
 - Reid Hoffman & Chris Yeh — *Blitzscaling*. **Uso en esta clase:** perspectiva de Escalamiento aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **de fundador-operador a propietario**; registra edición y páginas consultadas.
 - Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*. **Uso en esta clase:** cómo propagar excelencia sin multiplicar burocracia y daño. Lectura selectiva: índice/capítulos pertinentes a **de fundador-operador a propietario**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **de fundador-operador a propietario** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **de fundador-operador a propietario**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **de fundador-operador a propietario** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **de fundador-operador a propietario** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **de fundador-operador a propietario** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para De fundador-operador a propietario:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **de fundador-operador a propietario** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

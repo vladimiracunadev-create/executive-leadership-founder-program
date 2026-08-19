@@ -209,11 +209,11 @@ Guarda en `portfolio/114-capital-de-trabajo/`:
 - Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*. **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva: índice/capítulos pertinentes a **capital de trabajo**; registra edición y páginas consultadas.
 - Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*. **Uso en esta clase:** reconocimiento, medición y presentación de estados financieros y sus partidas. Lectura selectiva: índice/capítulos pertinentes a **capital de trabajo**; registra edición y páginas consultadas.
 - Stephen H. Penman — *Financial Statement Analysis and Security Valuation*. **Uso en esta clase:** reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración. Lectura selectiva: índice/capítulos pertinentes a **capital de trabajo**; registra edición y páginas consultadas.
-- IFRS Foundation — normas IFRS/IAS aplicables a presentación y lectura de estados financieros. Verificar edición vigente en <https://www.ifrs.org/>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- IFRS Foundation — *IFRS Accounting Standards*. **Uso en esta clase:** normas IFRS/IAS aplicables a la presentación y lectura de estados financieros. Verificar edición vigente en <https://www.ifrs.org/>.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capital de trabajo** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capital de trabajo**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **capital de trabajo** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **capital de trabajo** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **capital de trabajo** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Capital de trabajo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capital de trabajo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

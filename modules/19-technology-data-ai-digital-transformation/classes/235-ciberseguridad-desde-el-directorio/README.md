@@ -201,11 +201,11 @@ Guarda en `portfolio/235-ciberseguridad-desde-el-directorio/`:
 - NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida. Lectura selectiva: índice/capítulos pertinentes a **ciberseguridad desde el directorio**; registra edición y páginas consultadas.
 - Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd*. **Uso en esta clase:** perspectiva de Economía digital aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **ciberseguridad desde el directorio**; registra edición y páginas consultadas.
 - George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*. **Uso en esta clase:** transformación digital desde capacidades de liderazgo y capacidades digitales. Lectura selectiva: índice/capítulos pertinentes a **ciberseguridad desde el directorio**; registra edición y páginas consultadas.
-- NIST — *Cybersecurity Framework 2.0*. <https://www.nist.gov/cyberframework>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** funciones de gobierno, identificación, protección, detección, respuesta y recuperación como marco de la decisión. Fuente primaria: <https://www.nist.gov/cyberframework>.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **ciberseguridad desde el directorio** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **ciberseguridad desde el directorio**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **ciberseguridad desde el directorio** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **ciberseguridad desde el directorio** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **ciberseguridad desde el directorio** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Ciberseguridad desde el directorio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **ciberseguridad desde el directorio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

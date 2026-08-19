@@ -201,10 +201,10 @@ Guarda en `portfolio/089-cuellos-de-botella-y-teoria-de-restricciones/`:
 - Jeffrey K. Liker — *The Toyota Way*. **Uso en esta clase:** perspectiva de Operaciones aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **cuellos de botella y teoría de restricciones**; registra edición y páginas consultadas.
 - ISO — *ISO 9001 Quality management systems*. **Uso en esta clase:** gestión de calidad basada en procesos, evidencia y mejora. Lectura selectiva: índice/capítulos pertinentes a **cuellos de botella y teoría de restricciones**; registra edición y páginas consultadas.
 - James P. Womack & Daniel T. Jones — *Lean Thinking*. **Uso en esta clase:** valor, flujo, pull, desperdicio y mejora continua. Lectura selectiva: índice/capítulos pertinentes a **cuellos de botella y teoría de restricciones**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **cuellos de botella y teoría de restricciones** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **cuellos de botella y teoría de restricciones**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **cuellos de botella y teoría de restricciones** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **cuellos de botella y teoría de restricciones** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **cuellos de botella y teoría de restricciones** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Cuellos de botella y teoría de restricciones:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **cuellos de botella y teoría de restricciones** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

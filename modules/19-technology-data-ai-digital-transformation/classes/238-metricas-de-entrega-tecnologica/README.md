@@ -201,10 +201,10 @@ Guarda en `portfolio/238-metricas-de-entrega-tecnologica/`:
 - George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*. **Uso en esta clase:** transformación digital desde capacidades de liderazgo y capacidades digitales. Lectura selectiva: índice/capítulos pertinentes a **métricas de entrega tecnológica**; registra edición y páginas consultadas.
 - Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*. **Uso en esta clase:** métricas de entrega, capacidades técnicas y desempeño organizacional. Lectura selectiva: índice/capítulos pertinentes a **métricas de entrega tecnológica**; registra edición y páginas consultadas.
 - Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics*. **Uso en esta clase:** perspectiva de Datos aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **métricas de entrega tecnológica**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **métricas de entrega tecnológica** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **métricas de entrega tecnológica**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **métricas de entrega tecnológica** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **métricas de entrega tecnológica** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **métricas de entrega tecnológica** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Métricas de entrega tecnológica:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **métricas de entrega tecnológica** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

@@ -201,10 +201,10 @@ Guarda en `portfolio/067-feedback-coaching-y-planes-de-mejora/`:
 - Robert I. Sutton — *Good Boss, Bad Boss*. **Uso en esta clase:** conductas concretas de buenos jefes y reducción de daño organizacional. Lectura selectiva: índice/capítulos pertinentes a **feedback, coaching y planes de mejora**; registra edición y páginas consultadas.
 - John Boudreau & Peter Ramstad — *Beyond HR*. **Uso en esta clase:** perspectiva de Talento aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **feedback, coaching y planes de mejora**; registra edición y páginas consultadas.
 - Marcus Buckingham & Curt Coffman — *First, Break All the Rules*. **Uso en esta clase:** rol del manager, fortalezas, expectativas y desempeño individual. Lectura selectiva: índice/capítulos pertinentes a **feedback, coaching y planes de mejora**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **feedback, coaching y planes de mejora** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **feedback, coaching y planes de mejora**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **feedback, coaching y planes de mejora** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **feedback, coaching y planes de mejora** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **feedback, coaching y planes de mejora** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Feedback, coaching y planes de mejora:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **feedback, coaching y planes de mejora** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

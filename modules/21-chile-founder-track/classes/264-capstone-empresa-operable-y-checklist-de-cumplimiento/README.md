@@ -195,20 +195,18 @@ Guarda en `portfolio/264-capstone-empresa-operable-y-checklist-de-cumplimiento/`
 
 ## 📗 Fuentes y verificación
 
-- Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** constitución y modificaciones societarias en el Registro de Empresas y Sociedades. Lectura selectiva: índice/capítulos pertinentes a **capstone: empresa operable y checklist de cumplimiento**; registra edición y páginas consultadas.
+- Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** revisar el estado societario y los trámites pendientes del checklist de la clase. Fuente primaria: <https://www.registrodeempresasysociedades.cl/>.
 - Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** obligaciones tributarias y ciclo de vida del contribuyente en Chile. Lectura selectiva: índice/capítulos pertinentes a **capstone: empresa operable y checklist de cumplimiento**; registra edición y páginas consultadas.
-- Dirección del Trabajo (Chile) — *Normativa y orientación oficial*. **Uso en esta clase:** relaciones laborales, contratos, jornada y fiscalización laboral chilena. Lectura selectiva: índice/capítulos pertinentes a **capstone: empresa operable y checklist de cumplimiento**; registra edición y páginas consultadas.
+- Dirección del Trabajo (Chile) — *Normativa y orientación oficial*. **Uso en esta clase:** revisar las obligaciones laborales pendientes del checklist. Fuente primaria: <https://www.dt.gob.cl/>.
 - Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*. **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva: índice/capítulos pertinentes a **capstone: empresa operable y checklist de cumplimiento**; registra edición y páginas consultadas.
 - OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. Lectura selectiva: índice/capítulos pertinentes a **capstone: empresa operable y checklist de cumplimiento**; registra edición y páginas consultadas.
 - Biblioteca del Congreso Nacional de Chile — *LeyChile: Código del Trabajo y legislación laboral vigente*. **Uso en esta clase:** texto legal vigente del Código del Trabajo y leyes laborales chilenas. Lectura selectiva: índice/capítulos pertinentes a **capstone: empresa operable y checklist de cumplimiento**; registra edición y páginas consultadas.
-- SII — Portal Emprendedor: <https://www.sii.cl/portales/emprendedor/>.
-- Registro de Empresas y Sociedades: <https://www.registrodeempresasysociedades.cl/>.
-- Dirección del Trabajo: <https://www.dt.gob.cl/>.
-- INAPI: <https://www.inapi.cl/>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Servicio de Impuestos Internos (Chile) — *Portal Emprendedor*. **Uso en esta clase:** verificar obligaciones tributarias iniciales según la forma jurídica elegida. Fuente primaria: <https://www.sii.cl/portales/emprendedor/>.
+- INAPI (Chile) — *Propiedad industrial y orientación oficial*. **Uso en esta clase:** revisar el estado de los activos de propiedad industrial del checklist. Fuente primaria: <https://www.inapi.cl/>.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: empresa operable y checklist de cumplimiento** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: empresa operable y checklist de cumplimiento**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **capstone: empresa operable y checklist de cumplimiento** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **capstone: empresa operable y checklist de cumplimiento** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: empresa operable y checklist de cumplimiento** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Capstone: empresa operable y checklist de cumplimiento:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: empresa operable y checklist de cumplimiento** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

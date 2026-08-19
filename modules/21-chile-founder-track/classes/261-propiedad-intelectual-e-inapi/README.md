@@ -195,18 +195,17 @@ Guarda en `portfolio/261-propiedad-intelectual-e-inapi/`:
 
 ## 📗 Fuentes y verificación
 
-- INAPI (Chile) — *Propiedad industrial y orientación oficial*. **Uso en esta clase:** propiedad industrial, marcas, patentes y activos intangibles en Chile. Lectura selectiva: índice/capítulos pertinentes a **propiedad intelectual e INAPI**; registra edición y páginas consultadas.
+- INAPI (Chile) — *Propiedad industrial y orientación oficial*. **Uso en esta clase:** comprobar qué protege una marca o patente y cómo se solicita. Fuente primaria: <https://www.inapi.cl/>.
 - Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*. **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva: índice/capítulos pertinentes a **propiedad intelectual e INAPI**; registra edición y páginas consultadas.
 - OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. Lectura selectiva: índice/capítulos pertinentes a **propiedad intelectual e INAPI**; registra edición y páginas consultadas.
 - Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** obligaciones tributarias y ciclo de vida del contribuyente en Chile. Lectura selectiva: índice/capítulos pertinentes a **propiedad intelectual e INAPI**; registra edición y páginas consultadas.
 - Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** constitución y modificaciones societarias en el Registro de Empresas y Sociedades. Lectura selectiva: índice/capítulos pertinentes a **propiedad intelectual e INAPI**; registra edición y páginas consultadas.
 - Dirección ChileCompra — *Mercado Público y normativa de compras públicas*. **Uso en esta clase:** compras públicas, registro de proveedores y Mercado Público. Lectura selectiva: índice/capítulos pertinentes a **propiedad intelectual e INAPI**; registra edición y páginas consultadas.
-- INAPI — portal oficial de propiedad industrial: <https://www.inapi.cl/>.
-- Departamento de Derechos Intelectuales / Servicio Nacional del Patrimonio Cultural — derecho de autor: <https://www.propiedadintelectual.gob.cl/>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Departamento de Derechos Intelectuales (Chile) — *Derecho de autor: registro y orientación oficial*. **Uso en esta clase:** distinguir qué queda cubierto por derecho de autor y no por propiedad industrial. Fuente primaria: <https://www.propiedadintelectual.gob.cl/>.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **propiedad intelectual e inapi** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **propiedad intelectual e inapi**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **propiedad intelectual e inapi** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **propiedad intelectual e inapi** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **propiedad intelectual e inapi** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Propiedad intelectual e INAPI:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **propiedad intelectual e INAPI** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

@@ -195,18 +195,17 @@ Guarda en `portfolio/257-documentos-tributarios-iva-y-registros-panorama-ejecuti
 
 ## 📗 Fuentes y verificación
 
-- Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** obligaciones tributarias y ciclo de vida del contribuyente en Chile. Lectura selectiva: índice/capítulos pertinentes a **documentos tributarios, IVA y registros: panorama ejecutivo**; registra edición y páginas consultadas.
+- Servicio de Impuestos Internos (Chile) — *Guías, normativa y servicios oficiales*. **Uso en esta clase:** verificar en origen documentos tributarios electrónicos e IVA vigentes. Fuente primaria: <https://www.sii.cl/>.
 - Registro de Empresas y Sociedades (Chile) — *Portal y documentación oficial*. **Uso en esta clase:** constitución y modificaciones societarias en el Registro de Empresas y Sociedades. Lectura selectiva: índice/capítulos pertinentes a **documentos tributarios, IVA y registros: panorama ejecutivo**; registra edición y páginas consultadas.
 - Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*. **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva: índice/capítulos pertinentes a **documentos tributarios, IVA y registros: panorama ejecutivo**; registra edición y páginas consultadas.
 - Superintendencia de Pensiones (Chile) — *Normativa y sistema previsional*. **Uso en esta clase:** obligaciones y reglas del sistema previsional chileno. Lectura selectiva: índice/capítulos pertinentes a **documentos tributarios, IVA y registros: panorama ejecutivo**; registra edición y páginas consultadas.
 - Sercotec (Chile) — *Programas, capacitación y Centros de Desarrollo de Negocios*. **Uso en esta clase:** desarrollo empresarial y apoyo a micro y pequeñas empresas en Chile. Lectura selectiva: índice/capítulos pertinentes a **documentos tributarios, IVA y registros: panorama ejecutivo**; registra edición y páginas consultadas.
 - Corporación de Fomento de la Producción (Chile) — *Programas, instrumentos y apoyo empresarial*. **Uso en esta clase:** instrumentos de desarrollo productivo, innovación y financiamiento empresarial. Lectura selectiva: índice/capítulos pertinentes a **documentos tributarios, IVA y registros: panorama ejecutivo**; registra edición y páginas consultadas.
-- SII — normativa, documentos tributarios electrónicos e IVA: <https://www.sii.cl/>.
-- Código Tributario y Ley sobre Impuesto a las Ventas y Servicios, textos vigentes en BCN LeyChile: <https://www.bcn.cl/leychile/>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Biblioteca del Congreso Nacional de Chile — *LeyChile: Código Tributario y Ley sobre Impuesto a las Ventas y Servicios*. **Uso en esta clase:** leer el texto vigente que sostiene las obligaciones descritas en la clase. Fuente primaria: <https://www.bcn.cl/leychile/>.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **documentos tributarios, iva y registros: panorama ejecutivo** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **documentos tributarios, iva y registros: panorama ejecutivo**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **documentos tributarios, iva y registros: panorama ejecutivo** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **documentos tributarios, iva y registros: panorama ejecutivo** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **documentos tributarios, iva y registros: panorama ejecutivo** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Documentos tributarios, IVA y registros: panorama ejecutivo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **documentos tributarios, IVA y registros: panorama ejecutivo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

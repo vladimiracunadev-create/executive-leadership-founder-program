@@ -201,10 +201,10 @@ Guarda en `portfolio/024-capstone-comite-de-decision-bajo-incertidumbre/`:
 - Donella H. Meadows — *Thinking in Systems*. **Uso en esta clase:** perspectiva de Sistemas aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **capstone: comité de decisión bajo incertidumbre**; registra edición y páginas consultadas.
 - Annie Duke — *Thinking in Bets*. **Uso en esta clase:** calidad de la decisión separada del resultado y razonamiento probabilístico. Lectura selectiva: índice/capítulos pertinentes a **capstone: comité de decisión bajo incertidumbre**; registra edición y páginas consultadas.
 - Annie Duke — *How to Decide*. **Uso en esta clase:** perspectiva de Decisiones aplicada al problema de la clase. Lectura selectiva: índice/capítulos pertinentes a **capstone: comité de decisión bajo incertidumbre**; registra edición y páginas consultadas.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: comité de decisión bajo incertidumbre** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: comité de decisión bajo incertidumbre**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **capstone: comité de decisión bajo incertidumbre** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **capstone: comité de decisión bajo incertidumbre** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: comité de decisión bajo incertidumbre** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Capstone: comité de decisión bajo incertidumbre:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: comité de decisión bajo incertidumbre** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

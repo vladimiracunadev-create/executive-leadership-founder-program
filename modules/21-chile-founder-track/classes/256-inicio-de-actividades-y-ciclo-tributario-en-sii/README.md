@@ -201,12 +201,12 @@ Guarda en `portfolio/256-inicio-de-actividades-y-ciclo-tributario-en-sii/`:
 - Subsecretaría de Previsión Social (Chile) — *Seguridad y Salud Laboral / Decreto Supremo N°44*. **Uso en esta clase:** gestión preventiva de riesgos laborales y marco del Decreto Supremo N°44. Lectura selectiva: índice/capítulos pertinentes a **inicio de actividades y ciclo tributario en SII**; registra edición y páginas consultadas.
 - INAPI (Chile) — *Propiedad industrial y orientación oficial*. **Uso en esta clase:** propiedad industrial, marcas, patentes y activos intangibles en Chile. Lectura selectiva: índice/capítulos pertinentes a **inicio de actividades y ciclo tributario en SII**; registra edición y páginas consultadas.
 - Dirección ChileCompra — *Mercado Público y normativa de compras públicas*. **Uso en esta clase:** compras públicas, registro de proveedores y Mercado Público. Lectura selectiva: índice/capítulos pertinentes a **inicio de actividades y ciclo tributario en SII**; registra edición y páginas consultadas.
-- SII — Ciclo de vida del contribuyente, Inicio de Actividades: <https://www.sii.cl/destacados/educacion/ciclo_vida_contribuyente/paso_02.html>.
-- SII — ayudas para Inicio de Actividades: <https://www.sii.cl/pagina/registro_contribuyentes/ayudas_inicio_actividades.htm>.
-- Susan A. Ambrose et al. — *How Learning Works*. Diseño de objetivos, práctica y feedback.
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. Recuperación, elaboración y transferencia.
-- Grant Wiggins & Jay McTighe — *Understanding by Design*. Diseño inverso desde desempeño observable.
-- Anders Ericsson & Robert Pool — *Peak*. Práctica deliberada con criterios y retroalimentación.
-- William Ellet — *The Case Study Handbook*. Análisis de problema/decisión, evidencia y recomendación.
+- Servicio de Impuestos Internos (Chile) — *Ciclo de vida del contribuyente: inicio de actividades*. **Uso en esta clase:** situar el inicio de actividades dentro del ciclo tributario completo. Fuente primaria: <https://www.sii.cl/destacados/educacion/ciclo_vida_contribuyente/paso_02.html>.
+- Servicio de Impuestos Internos (Chile) — *Ayudas para el inicio de actividades*. **Uso en esta clase:** comprobar requisitos y formularios reales del trámite antes de planificarlo. Fuente primaria: <https://www.sii.cl/pagina/registro_contribuyentes/ayudas_inicio_actividades.htm>.
+- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **inicio de actividades y ciclo tributario en sii** sobre conocimiento previo verificable.
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **inicio de actividades y ciclo tributario en sii**.
+- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **inicio de actividades y ciclo tributario en sii** desde el desempeño observable y no desde el temario.
+- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **inicio de actividades y ciclo tributario en sii** en práctica deliberada con criterios explícitos.
+- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **inicio de actividades y ciclo tributario en sii** como problema, evidencia, alternativas y recomendación.
 
 > **Regla de fuentes para Inicio de actividades y ciclo tributario en SII:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **inicio de actividades y ciclo tributario en SII** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

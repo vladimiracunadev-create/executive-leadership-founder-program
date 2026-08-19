@@ -1,0 +1,226 @@
+#!/usr/bin/env python3
+"""Revalida el registro de fuentes contra la red. **No bloquea.**
+
+Qué hace:
+
+* `book`      — resuelve el ISBN-13 en `openlibrary.org` y compara título y autores;
+* `paper`     — resuelve el DOI en `api.crossref.org` y compara título y autores;
+* `standard`, `reference`, `dataset` — hace GET a la URL y registra el estado HTTP;
+* actualiza `accessed` de lo que respondió y `verified_on` del registro completo;
+* informa de lo que dejó de resolver **sin borrarlo**: una fuente que hoy no
+  responde vuelve a `pendiente`, pero sigue en el registro.
+
+Se ejecuta a mano o de forma programada, nunca dentro del CI: la red no es
+determinista y un CI intermitente se acaba ignorando. La puerta que sí bloquea
+es `scripts/verify-sources`, que trabaja offline.
+
+    python scripts/refresh-sources                # revalida todo
+    python scripts/refresh-sources --only ellet-the-case-study-handbook
+    python scripts/refresh-sources --dry-run      # informa sin escribir
+"""
+
+from __future__ import annotations
+
+import argparse
+import datetime as dt
+import json
+import re
+import sys
+import time
+import unicodedata
+import urllib.error
+import urllib.parse
+import urllib.request
+from pathlib import Path
+
+RAIZ = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(RAIZ / "tools"))
+
+import sources_registry as reg  # noqa: E402
+
+# En Windows, stdout hereda la codificacion del sistema (cp1252) cuando se
+# redirige a un archivo, y un titulo con caracteres fuera de esa tabla mata el
+# proceso a mitad de una revalidacion de veinte minutos.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
+
+AGENTE = (
+    "executive-leadership-founder-program/refresh-sources "
+    "(+https://github.com/vladimiracunadev-create/executive-leadership-founder-program)"
+)
+
+
+def plano(texto: str) -> str:
+    texto = unicodedata.normalize("NFKD", texto).encode("ascii", "ignore").decode()
+    return re.sub(r"[^a-z0-9]+", " ", texto.lower()).strip()
+
+
+def clave_titulo(texto: str) -> str:
+    """Titulo comparable entre catalogos.
+
+    Open Library indexa la misma obra unas veces con articulo y otras sin el
+    («Lean Startup» / «The Lean Startup»), y anade el nombre de la edicion detras
+    («Advantage, Enhanced Edition»). Comparar en crudo daba falsos negativos que
+    marcaban como pendiente un ISBN que si resuelve.
+    """
+    return re.sub(r"^(the|a|an|el|la|los|las) ", "", plano(texto.replace("&", " and ")))
+
+
+def apellidos(nombres: list[str]) -> set[str]:
+    salida: set[str] = set()
+    for nombre in nombres:
+        cabeza = nombre.split(",")[0]
+        piezas = [p for p in plano(cabeza).split() if len(p) > 2 and p not in {"iii", "jr"}]
+        if piezas:
+            salida.add(piezas[-1])
+    return salida
+
+
+def pedir(url: str, timeout: int, cabeceras: dict | None = None):
+    peticion = urllib.request.Request(url, headers={"User-Agent": AGENTE, **(cabeceras or {})})
+    with urllib.request.urlopen(peticion, timeout=timeout) as respuesta:
+        return respuesta.status, respuesta.read()
+
+
+def pedir_json(url: str, timeout: int):
+    estado, cuerpo = pedir(url, timeout)
+    return estado, json.loads(cuerpo.decode("utf-8"))
+
+
+# --------------------------------------------------------------------------- #
+def revisar_libro(entrada: dict, timeout: int) -> tuple[bool, str]:
+    isbn = entrada.get("isbn13")
+    if not isbn:
+        return False, "sin ISBN-13 declarado"
+    if not reg.isbn13_valido(isbn):
+        return False, f"ISBN-13 con dígito de control inválido: {isbn}"
+    try:
+        _, datos = pedir_json(f"https://openlibrary.org/isbn/{isbn}.json", timeout)
+    except urllib.error.HTTPError as exc:
+        return False, f"openlibrary respondió {exc.code}"
+    except Exception as exc:  # noqa: BLE001
+        return False, f"{type(exc).__name__}: {exc}"
+    titulo = clave_titulo(datos.get("title", ""))
+    esperado = clave_titulo(entrada.get("title", ""))
+    if not (titulo.startswith(esperado) or esperado.startswith(titulo)):
+        return False, f"el título de la edición no coincide: «{datos.get('title')}»"
+    return True, f"openlibrary: «{datos.get('title')}»"
+
+
+def revisar_articulo(entrada: dict, timeout: int) -> tuple[bool, str]:
+    doi = entrada.get("doi")
+    if not doi:
+        return False, "sin DOI declarado"
+    try:
+        _, datos = pedir_json(
+            f"https://api.crossref.org/works/{urllib.parse.quote(doi)}", timeout
+        )
+    except urllib.error.HTTPError as exc:
+        return False, f"crossref respondió {exc.code}"
+    except Exception as exc:  # noqa: BLE001
+        return False, f"{type(exc).__name__}: {exc}"
+    obra = datos.get("message", {})
+    titulos = obra.get("title") or [""]
+    if plano(entrada.get("title", "")) not in plano(titulos[0]):
+        return False, f"el título de Crossref no coincide: «{titulos[0]}»"
+    firmantes = {plano(a.get("family", "")) for a in obra.get("author", [])}
+    esperados = apellidos(entrada.get("authors", []))
+    if esperados and firmantes and not (esperados & firmantes):
+        return False, f"los autores de Crossref no coinciden: {sorted(firmantes)}"
+    return True, f"crossref: «{titulos[0]}»"
+
+
+def revisar_url(entrada: dict, timeout: int) -> tuple[bool, str]:
+    url = entrada.get("url")
+    if not url:
+        # El motivo de fondo ya está escrito en la entrada: no se pisa con una
+        # frase más pobre.
+        return False, entrada.get("note") or "sin URL declarada"
+    if not url.startswith("https://"):
+        return False, "la fuente primaria debe servirse por https"
+    try:
+        estado, _ = pedir(url, timeout)
+    except urllib.error.HTTPError as exc:
+        # Algunos portales oficiales rechazan clientes sin navegador (403) pero
+        # el recurso existe: se informa el código y no se da por verificado.
+        pista = " (el servidor rechaza clientes automatizados)" if exc.code in (403, 429) else ""
+        return False, f"HTTP {exc.code}{pista}"
+    except Exception as exc:  # noqa: BLE001
+        return False, f"{type(exc).__name__}: {exc}"
+    return 200 <= estado < 400, f"HTTP {estado}"
+
+
+COMPROBADORES = {
+    "book": revisar_libro,
+    "paper": revisar_articulo,
+    "standard": revisar_url,
+    "reference": revisar_url,
+    "dataset": revisar_url,
+}
+
+
+def main(argv: list[str] | None = None) -> int:
+    parser = argparse.ArgumentParser(description="Revalida el registro de fuentes contra la red.")
+    parser.add_argument("--only", action="append", default=[], help="revalida solo estos ids")
+    parser.add_argument("--timeout", type=int, default=30)
+    parser.add_argument("--pausa", type=float, default=0.35, help="segundos entre peticiones")
+    parser.add_argument("--dry-run", action="store_true", help="informa sin escribir el registro")
+    parser.add_argument("--hoy", default=dt.date.today().isoformat(), help="fecha a estampar")
+    args = parser.parse_args(argv)
+
+    registro = reg.cargar()
+    entradas = registro.get("entries", [])
+    objetivo = [e for e in entradas if not args.only or e.get("id") in args.only]
+
+    promovidas, degradadas, estables, fallos = [], [], [], []
+    for i, entrada in enumerate(objetivo, 1):
+        comprobar = COMPROBADORES.get(entrada.get("type"))
+        if comprobar is None:
+            fallos.append((entrada.get("id"), f"tipo desconocido: {entrada.get('type')}"))
+            continue
+        ok, detalle = comprobar(entrada, args.timeout)
+        antes = entrada.get("status")
+        if ok:
+            entrada["status"] = "verificada"
+            entrada["accessed"] = args.hoy
+            (promovidas if antes != "verificada" else estables).append(entrada["id"])
+        else:
+            entrada["status"] = "pendiente"
+            entrada["last_error"] = detalle
+            if antes == "verificada":
+                degradadas.append((entrada["id"], detalle))
+            else:
+                fallos.append((entrada["id"], detalle))
+        if ok:
+            # El motivo solo describe por que estaba pendiente: si ya resuelve, sobra.
+            entrada.pop("last_error", None)
+            entrada.pop("note", None)
+        print(f"{i:4d}/{len(objetivo)} {'ok  ' if ok else 'FALL'} {entrada.get('id')}: {detalle}",
+              flush=True)
+        if not args.dry_run and i % 25 == 0:
+            reg.guardar(registro)
+        time.sleep(args.pausa)
+
+    registro["verified_on"] = args.hoy
+    if not args.dry_run:
+        reg.guardar(registro)
+
+    print()
+    print(f"verificadas ahora ....... {len(promovidas) + len(estables)}")
+    print(f"  nuevas .................. {len(promovidas)}")
+    print(f"pendientes .............. {len(degradadas) + len(fallos)}")
+    if degradadas:
+        print("\nDejaron de resolver (se conservan en el registro, marcadas «pendiente»):")
+        for ident, detalle in degradadas:
+            print(f"  - {ident}: {detalle}")
+    if fallos:
+        print("\nSiguen pendientes:")
+        for ident, detalle in fallos:
+            print(f"  - {ident}: {detalle}")
+    print("\nNada se ha borrado. Un hueco declarado es información.")
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

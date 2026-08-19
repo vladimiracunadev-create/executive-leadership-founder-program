@@ -1,0 +1,62 @@
+name: Revalidacion de fuentes
+
+# Revalida el registro de fuentes contra la red: resuelve cada ISBN-13 en
+# openlibrary.org, cada DOI en api.crossref.org y hace GET a cada URL de norma.
+#
+# Este workflow NO bloquea y esta separado de ci.yml a proposito. La red no es
+# determinista: un portal oficial que hoy responde 200 y manana 503 no puede
+# tumbar el CI, porque un CI intermitente se acaba ignorando. La puerta que si
+# bloquea es `scripts/verify-sources`, que corre offline dentro de ci.yml.
+#
+# El resultado se publica en el resumen del job. No escribe en el repositorio:
+# quien mantenga el registro ejecuta `python scripts/refresh-sources` en local,
+# revisa lo que dejo de resolver y decide.
+
+on:
+  schedule:
+    # El primer dia de cada mes: una fuente viva caduca sin que nadie toque el repo.
+    - cron: "17 6 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+
+jobs:
+  revalidar:
+    name: Resolver ISBN, DOI y URL de norma
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Configurar Python
+        uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: "3.12"
+
+      # --dry-run: informa sin reescribir el registro. Ningun paso automatico
+      # cambia el estado de una fuente; eso lo decide una persona.
+      - name: Revalidar contra la red
+        id: revalidar
+        continue-on-error: true
+        run: python scripts/refresh-sources --dry-run | tee revalidacion.txt
+
+      - name: Publicar el informe
+        if: always()
+        run: |
+          {
+            echo "### Revalidacion de fuentes"
+            echo ""
+            echo '```'
+            tail -n 80 revalidacion.txt || echo "sin salida"
+            echo '```'
+            echo ""
+            echo "Nada se ha borrado. Lo que no resuelve queda marcado como pendiente."
+          } >> "$GITHUB_STEP_SUMMARY"

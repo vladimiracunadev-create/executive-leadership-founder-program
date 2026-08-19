@@ -3,6 +3,7 @@ name: CI
 # Verifica en cada cambio que el programa sigue integro:
 #   - las 288 clases mantienen su estructura, sus secciones y sus fuentes;
 #   - ninguna clase repite parrafos largos de otra ni se le parece anormalmente;
+#   - toda obra citada esta declarada en el registro de fuentes, y al reves;
 #   - los documentos generados (SYLLABUS, STATUS, MANIFEST, FILE_INDEX) estan al dia;
 #   - todos los enlaces relativos resuelven;
 #   - el portal se genera y sus enlaces internos resuelven;
@@ -59,6 +60,11 @@ jobs:
       - name: Validar profundidad, fuentes y originalidad
         run: python tools/validate_depth.py
 
+      # Offline y determinista: no abre un socket. La revalidacion contra la red
+      # vive en sources.yml y no bloquea.
+      - name: Verificar el registro de fuentes
+        run: python scripts/verify-sources
+
       - name: Verificar que SYLLABUS.md refleje las clases reales
         run: python tools/build_syllabus.py --check
 
@@ -72,7 +78,10 @@ jobs:
         run: python tools/build_file_index.py --check
 
       - name: Compilar las herramientas y aplicaciones
-        run: python -m compileall -q tools apps tests curriculum
+        run: |
+          python -m compileall -q tools apps tests curriculum
+          # scripts/ no lleva extension .py, asi que compileall no lo alcanza.
+          python -m py_compile scripts/verify-sources scripts/refresh-sources
 
       - name: Resumen
         if: always()
@@ -205,6 +214,7 @@ jobs:
         run: |
           python tools/validate_repository.py --strict
           python tools/check_links.py
+          python scripts/verify-sources
 
       - name: Verificar el simulador ejecutivo
         run: python apps/executive_simulator.py --list

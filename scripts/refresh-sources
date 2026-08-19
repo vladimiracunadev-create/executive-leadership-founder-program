@@ -105,6 +105,17 @@ def revisar_libro(entrada: dict, timeout: int) -> tuple[bool, str]:
     esperado = clave_titulo(entrada.get("title", ""))
     if not (titulo.startswith(esperado) or esperado.startswith(titulo)):
         return False, f"el título de la edición no coincide: «{datos.get('title')}»"
+    # Editorial y año salen de la ficha de la edición, no de la memoria de
+    # nadie: son los datos que permiten localizar el ejemplar exacto.
+    editorial = (datos.get("publishers") or [None])[0]
+    if editorial:
+        # Open Library guarda algunas invertidas: «Wiley & Sons, Incorporated,
+        # John». Se recomponen para que la cita se lea.
+        vuelta = re.match(r"^(.*), (John|The)$", editorial)
+        entrada["authority"] = f"{vuelta.group(2)} {vuelta.group(1)}" if vuelta else editorial
+    anio = re.search(r"(1[5-9]\d\d|20\d\d)", str(datos.get("publish_date") or ""))
+    if anio:
+        entrada["published"] = anio.group(1)
     return True, f"openlibrary: «{datos.get('title')}»"
 
 
@@ -128,6 +139,12 @@ def revisar_articulo(entrada: dict, timeout: int) -> tuple[bool, str]:
     esperados = apellidos(entrada.get("authors", []))
     if esperados and firmantes and not (esperados & firmantes):
         return False, f"los autores de Crossref no coinciden: {sorted(firmantes)}"
+    contenedor = (obra.get("container-title") or [None])[0]
+    if contenedor:
+        entrada["authority"] = contenedor
+    partes = (obra.get("issued") or {}).get("date-parts") or [[None]]
+    if partes and partes[0] and partes[0][0]:
+        entrada["published"] = str(partes[0][0])
     return True, f"crossref: «{titulos[0]}»"
 
 

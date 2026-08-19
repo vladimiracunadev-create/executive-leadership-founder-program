@@ -25,7 +25,8 @@
         "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas",
         "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business Review Press"
     },
     {
       "id": "afc-chile-seguro-de-cesantia-informacion-y-operacion-oficial",
@@ -66,7 +67,8 @@
         "modules/14-organization-design-culture-change/classes/178-transformacion-empresarial",
         "modules/14-organization-design-culture-change/classes/180-capstone-rediseno-organizacional"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Portfolio"
     },
     {
       "id": "aaron-ross-jason-lemkin-from-impossible-to-inevitable",
@@ -78,7 +80,7 @@
       "title": "From Impossible to Inevitable",
       "cited_as": "Aaron Ross & Jason Lemkin — From Impossible to Inevitable",
       "published": "2016",
-      "authority": "Wiley & Sons, Incorporated, John",
+      "authority": "John Wiley & Sons, Incorporated",
       "isbn13": "9781119166726",
       "locator": "https://openlibrary.org/isbn/9781119166726",
       "accessed": "2026-08-19",
@@ -133,7 +135,8 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "PENGUIN US"
     },
     {
       "id": "al-ries-jack-trout-positioning",
@@ -197,7 +200,8 @@
       "id": "alexander-osterwalder-et-al-value-proposition-design",
       "type": "book",
       "authors": [
-        "al., Alexander Osterwalder et"
+        "Osterwalder, Alexander",
+        "et al."
       ],
       "title": "Value Proposition Design",
       "cited_as": "Alexander Osterwalder et al. — Value Proposition Design",
@@ -216,7 +220,8 @@
         "modules/20-founder-venture-creation/classes/249-pricing-temprano",
         "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "John Wiley & Sons, Incorporated"
     },
     {
       "id": "amy-c-edmondson-the-fearless-organization",
@@ -237,7 +242,8 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Wiley"
     },
     {
       "id": "anders-ericsson-robert-pool-peak",
@@ -542,7 +548,8 @@
         "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual",
         "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Penguin Random House"
     },
     {
       "id": "andrew-mcafee-erik-brynjolfsson-machine-platform-crowd",
@@ -566,7 +573,8 @@
         "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos",
         "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Norton & Company, Incorporated, W. W."
     },
     {
       "id": "andrew-s-grove-high-output-management",
@@ -608,7 +616,8 @@
         "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
         "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Random House"
     },
     {
       "id": "angela-duckworth-grit",
@@ -629,7 +638,8 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Collins"
     },
     {
       "id": "annie-duke-how-to-decide",
@@ -652,7 +662,8 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Portfolio"
     },
     {
       "id": "annie-duke-thinking-in-bets",
@@ -680,7 +691,8 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Portfolio/Penguin"
     },
     {
       "id": "april-dunford-obviously-awesome",
@@ -739,7 +751,8 @@
         "modules/18-corporate-finance-capital-ma/classes/226-due-diligence",
         "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "John Wiley & Sons, Incorporated"
     },
     {
       "id": "atul-gawande-the-checklist-manifesto",
@@ -759,7 +772,8 @@
         "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
         "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Penguin Random House"
     },
     {
       "id": "avinash-k-dixit-barry-j-nalebuff-the-art-of-strategy",
@@ -781,7 +795,8 @@
         "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
         "modules/13-strategy-competition/classes/168-capstone-strategy-memo"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Norton & Company, Incorporated, W. W."
     },
     {
       "id": "barbara-minto-the-pyramid-principle",
@@ -801,7 +816,8 @@
         "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
         "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Financial Times/ Prentice Hall"
     },
     {
       "id": "ben-horowitz-the-hard-thing-about-hard-things",
@@ -843,7 +859,8 @@
         "modules/22-scaling-business-ownership/classes/271-multiunidad-y-portafolio",
         "modules/22-scaling-business-ownership/classes/274-delegar-decisiones-sin-perder-control"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "HarperCollins Publishers"
     },
     {
       "id": "bernard-marr-key-performance-indicators",
@@ -871,7 +888,8 @@
         "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion",
         "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Pearson Financial Times Pub."
     },
     {
       "id": "biblioteca-del-congreso-nacional-de-chile-leychile-codigo-tributario-y-ley-sobre",
@@ -975,7 +993,8 @@
         "modules/23-independence-capstone/classes/286-riesgo-etica-y-reputacion",
         "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "John Wiley & Sons, Incorporated"
     },
     {
       "id": "bob-tricker-corporate-governance",
@@ -1008,7 +1027,8 @@
         "modules/17-boards-corporate-governance/classes/215-efectividad-del-directorio",
         "modules/17-boards-corporate-governance/classes/216-capstone-board-meeting"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Oxford University Press"
     },
     {
       "id": "brad-feld-jason-mendelson-venture-deals",
@@ -1030,7 +1050,8 @@
         "modules/18-corporate-finance-capital-ma/classes/226-due-diligence",
         "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Wiley"
     },
     {
       "id": "brene-brown-dare-to-lead",
@@ -1050,7 +1071,8 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Ebury Publishing"
     },
     {
       "id": "byron-sharp-how-brands-grow",
@@ -1137,13 +1159,15 @@
         "modules/23-independence-capstone/classes/285-sistema-semanal-de-ventas",
         "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Grand Central Publishing"
     },
     {
       "id": "charles-horngren-et-al-cost-accounting-a-managerial-emphasis",
       "type": "book",
       "authors": [
-        "al., Charles Horngren et"
+        "Horngren, Charles",
+        "et al."
       ],
       "title": "Cost Accounting: A Managerial Emphasis",
       "cited_as": "Charles Horngren et al. — Cost Accounting: A Managerial Emphasis",
@@ -1159,7 +1183,8 @@
         "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even",
         "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Prentice Hall College Div"
     },
     {
       "id": "chileatiende-tramites-y-orientacion-del-estado",
@@ -1205,7 +1230,8 @@
         "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Penguin Random House"
     },
     {
       "id": "chip-heath-dan-heath-switch",
@@ -1229,7 +1255,8 @@
         "modules/14-organization-design-culture-change/classes/177-coalicion-narrativa-y-adopcion",
         "modules/14-organization-design-culture-change/classes/179-reorganizaciones-y-riesgos-humanos"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Penguin Random House"
     },
     {
       "id": "chris-voss-tahl-raz-never-split-the-difference",
@@ -1258,13 +1285,15 @@
         "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
         "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Penguin Random House"
     },
     {
       "id": "clayton-christensen-et-al-how-will-you-measure-your-life",
       "type": "book",
       "authors": [
-        "al., Clayton Christensen et"
+        "Christensen, Clayton",
+        "et al."
       ],
       "title": "How Will You Measure Your Life?",
       "cited_as": "Clayton Christensen et al. — How Will You Measure Your Life?",
@@ -1279,13 +1308,15 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business Review Press"
     },
     {
       "id": "clayton-m-christensen-et-al-competing-against-luck",
       "type": "book",
       "authors": [
-        "al., Clayton M. Christensen et"
+        "Christensen, Clayton M.",
+        "et al."
       ],
       "title": "Competing Against Luck",
       "cited_as": "Clayton M. Christensen et al. — Competing Against Luck",
@@ -1303,7 +1334,8 @@
         "modules/12-product-innovation/classes/155-product-market-fit",
         "modules/12-product-innovation/classes/156-capstone-comite-de-producto"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "HarperBusiness"
     },
     {
       "id": "clayton-m-christensen-the-innovator-s-dilemma",
@@ -1402,7 +1434,8 @@
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
         "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Min zhu yu jian she chu ban she"
     },
     {
       "id": "dan-olsen-the-lean-product-playbook",
@@ -1452,7 +1485,8 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Bloomsbury"
     },
     {
       "id": "daniel-goleman-richard-boyatzis-annie-mckee-primal-leadership",
@@ -1487,7 +1521,8 @@
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
         "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business School Press"
     },
     {
       "id": "daniel-h-pink-drive",
@@ -1508,7 +1543,8 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Riverhead Books"
     },
     {
       "id": "daniel-kahneman-thinking-fast-and-slow",
@@ -1536,7 +1572,8 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Farrar, Straus and Giroux"
     },
     {
       "id": "dave-ulrich-human-resource-champions",
@@ -1556,7 +1593,8 @@
         "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos",
         "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business School Press"
     },
     {
       "id": "david-aaker-building-strong-brands",
@@ -1600,7 +1638,8 @@
         "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
         "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Blue hole press"
     },
     {
       "id": "david-j-bland-alexander-osterwalder-testing-business-ideas",
@@ -1634,7 +1673,8 @@
         "modules/20-founder-venture-creation/classes/249-pricing-temprano",
         "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Wiley"
     },
     {
       "id": "david-j-teece-dynamic-capabilities-and-strategic-management",
@@ -1849,7 +1889,8 @@
         "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
         "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Elsevier Science & Technology Books"
     },
     {
       "id": "donald-e-kieso-jerry-j-weygandt-terry-d-warfield-intermediate-accounting",
@@ -1879,7 +1920,8 @@
         "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
         "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "John Wiley & Sons, Incorporated"
     },
     {
       "id": "donella-h-meadows-thinking-in-systems",
@@ -1900,7 +1942,8 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Earthscan"
     },
     {
       "id": "douglas-stone-bruce-patton-sheila-heen-difficult-conversations",
@@ -1926,7 +1969,8 @@
         "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Random House Audio"
     },
     {
       "id": "edgar-h-schein-peter-a-schein-organizational-culture-and-leadership",
@@ -1955,7 +1999,8 @@
         "modules/14-organization-design-culture-change/classes/179-reorganizaciones-y-riesgos-humanos",
         "modules/14-organization-design-culture-change/classes/180-capstone-rediseno-organizacional"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "John Wiley & Sons, Incorporated"
     },
     {
       "id": "edgar-h-schein-humble-inquiry",
@@ -1976,7 +2021,8 @@
         "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "ReadHowYouWant.com, Limited"
     },
     {
       "id": "elad-gil-high-growth-handbook",
@@ -1997,7 +2043,8 @@
         "modules/22-scaling-business-ownership/classes/273-adquisiciones-como-via-de-crecimiento",
         "modules/22-scaling-business-ownership/classes/276-capstone-empresa-menos-dependiente-del-fundador"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Stripe Matter Inc"
     },
     {
       "id": "eliyahu-m-goldratt-jeff-cox-the-goal",
@@ -2031,7 +2078,8 @@
         "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos",
         "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "HighBridge Audio"
     },
     {
       "id": "eric-ries-the-lean-startup",
@@ -2042,8 +2090,8 @@
       "title": "The Lean Startup",
       "cited_as": "Eric Ries — The Lean Startup",
       "published": "2011",
-      "isbn13": "9783868815672",
-      "locator": "https://openlibrary.org/isbn/9783868815672",
+      "isbn13": "9780307887894",
+      "locator": "https://openlibrary.org/isbn/9780307887894",
       "accessed": "2026-08-19",
       "used_in": [
         "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
@@ -2061,7 +2109,8 @@
         "modules/23-independence-capstone/classes/284-runway-personal-y-empresarial",
         "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Crown Business"
     },
     {
       "id": "foster-provost-tom-fawcett-data-science-for-business",
@@ -2083,7 +2132,8 @@
         "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire",
         "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "SHROFF - O'REILLY"
     },
     {
       "id": "frederic-laloux-reinventing-organizations",
@@ -2104,7 +2154,8 @@
         "modules/14-organization-design-culture-change/classes/177-coalicion-narrativa-y-adopcion",
         "modules/14-organization-design-culture-change/classes/179-reorganizaciones-y-riesgos-humanos"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Nelson Parker"
     },
     {
       "id": "gabriel-weinberg-justin-mares-traction",
@@ -2155,7 +2206,8 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "The MIT Press"
     },
     {
       "id": "gary-yukl-leadership-in-organizations",
@@ -2176,7 +2228,8 @@
         "modules/00-professional-to-leader/classes/008-gestion-de-energia-y-sostenibilidad-personal",
         "modules/00-professional-to-leader/classes/011-mapa-de-fortalezas-brechas-y-riesgos-personales"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Prentice Hall"
     },
     {
       "id": "geary-a-rummler-alan-p-brache-improving-performance",
@@ -2205,7 +2258,8 @@
       "id": "gene-kim-et-al-the-phoenix-project",
       "type": "book",
       "authors": [
-        "al., Gene Kim et"
+        "Kim, Gene",
+        "et al."
       ],
       "title": "The Phoenix Project",
       "cited_as": "Gene Kim et al. — The Phoenix Project",
@@ -2220,7 +2274,8 @@
         "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
         "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "IT Revolution Press"
     },
     {
       "id": "gene-kim-the-unicorn-project",
@@ -2241,7 +2296,8 @@
         "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
         "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "IT Revolution Press"
     },
     {
       "id": "geoffrey-a-moore-crossing-the-chasm",
@@ -2295,7 +2351,8 @@
         "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia",
         "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business Review Press"
     },
     {
       "id": "grant-wiggins-jay-mctighe-understanding-by-design",
@@ -2600,7 +2657,8 @@
         "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual",
         "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Pearson Education, Inc."
     },
     {
       "id": "greg-mckeown-essentialism",
@@ -2625,7 +2683,8 @@
         "modules/23-independence-capstone/classes/283-portafolio-de-ingresos-y-concentracion-de-riesgo",
         "modules/23-independence-capstone/classes/286-riesgo-etica-y-reputacion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Virgin Books"
     },
     {
       "id": "hamilton-helmer-7-powers",
@@ -2646,7 +2705,8 @@
         "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas",
         "modules/13-strategy-competition/classes/168-capstone-strategy-memo"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Deep Strategy"
     },
     {
       "id": "harold-kerzner-project-management",
@@ -2674,7 +2734,8 @@
         "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
         "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "John Wiley & Sons Inc"
     },
     {
       "id": "herminia-ibarra-act-like-a-leader-think-like-a-leader",
@@ -2697,7 +2758,8 @@
         "modules/00-professional-to-leader/classes/009-aprendizaje-deliberado-y-actualizacion-continua",
         "modules/00-professional-to-leader/classes/012-capstone-tu-sistema-operativo-de-liderazgo"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business Review Press"
     },
     {
       "id": "howard-raiffa-decision-analysis",
@@ -2718,7 +2780,8 @@
         "modules/01-critical-thinking-and-decisions/classes/020-efectos-de-segundo-orden",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "McGraw-Hill"
     },
     {
       "id": "howard-schilit-jeremy-perler-yoni-engelhart-financial-shenanigans",
@@ -2741,7 +2804,8 @@
         "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
         "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "McGraw-Hill Education on Brilliance Audio"
     },
     {
       "id": "ifrs-foundation-ifrs-accounting-standards",
@@ -2874,7 +2938,8 @@
         "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
         "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business School Press"
     },
     {
       "id": "james-clear-atomic-habits",
@@ -2884,9 +2949,9 @@
       ],
       "title": "Atomic Habits",
       "cited_as": "James Clear — Atomic Habits",
-      "published": "2021",
-      "isbn13": "9798545118748",
-      "locator": "https://openlibrary.org/isbn/9798545118748",
+      "published": "2018",
+      "isbn13": "9780735211292",
+      "locator": "https://openlibrary.org/isbn/9780735211292",
       "accessed": "2026-08-19",
       "used_in": [
         "modules/00-professional-to-leader/classes/001-que-significa-liderar-sin-cargo-formal",
@@ -2895,7 +2960,8 @@
         "modules/00-professional-to-leader/classes/009-aprendizaje-deliberado-y-actualizacion-continua",
         "modules/00-professional-to-leader/classes/011-mapa-de-fortalezas-brechas-y-riesgos-personales"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Avery, an Imprint of Penguin Random House LLC"
     },
     {
       "id": "james-p-womack-daniel-t-jones-lean-thinking",
@@ -2924,7 +2990,8 @@
         "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos",
         "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Free Press"
     },
     {
       "id": "james-p-womack-daniel-t-jones-daniel-roos-the-machine-that-changed-the-world",
@@ -2947,7 +3014,8 @@
         "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
         "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Free Press"
     },
     {
       "id": "jay-r-galbraith-designing-organizations",
@@ -2980,7 +3048,8 @@
         "modules/22-scaling-business-ownership/classes/273-adquisiciones-como-via-de-crecimiento",
         "modules/22-scaling-business-ownership/classes/276-capstone-empresa-menos-dependiente-del-fundador"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Jossey-Bass Publishers"
     },
     {
       "id": "jeffrey-k-liker-the-toyota-way",
@@ -3000,7 +3069,8 @@
         "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
         "modules/07-operations-process-quality/classes/094-continuidad-operacional"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "American Media International"
     },
     {
       "id": "john-boudreau-peter-ramstad-beyond-hr",
@@ -3022,7 +3092,8 @@
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
         "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business School Press"
     },
     {
       "id": "john-c-hull-risk-management-and-financial-institutions",
@@ -3050,7 +3121,8 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "John Wiley & Sons, Incorporated"
     },
     {
       "id": "john-doerr-measure-what-matters",
@@ -3078,7 +3150,8 @@
         "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion",
         "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Penguin Random House USA Ex"
     },
     {
       "id": "john-doerr-speed-scale",
@@ -3100,7 +3173,7 @@
       "isbn13": "9780593420478",
       "locator": "https://openlibrary.org/isbn/9780593420478",
       "published": "2021",
-      "authority": "Portfolio/Penguin"
+      "authority": "Penguin Publishing Group"
     },
     {
       "id": "john-p-kotter-accelerate",
@@ -3120,7 +3193,8 @@
         "modules/14-organization-design-culture-change/classes/175-incentivos-y-comportamientos",
         "modules/14-organization-design-culture-change/classes/178-transformacion-empresarial"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business Review Press"
     },
     {
       "id": "john-p-kotter-leading-change",
@@ -3148,7 +3222,8 @@
         "modules/14-organization-design-culture-change/classes/179-reorganizaciones-y-riesgos-humanos",
         "modules/14-organization-design-culture-change/classes/180-capstone-rediseno-organizacional"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business School Press"
     },
     {
       "id": "john-whitmore-coaching-for-performance",
@@ -3174,7 +3249,8 @@
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
         "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Ediciones Paidos Iberica"
     },
     {
       "id": "jon-r-katzenbach-douglas-k-smith-the-wisdom-of-teams",
@@ -3203,7 +3279,8 @@
         "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
         "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "McGraw-Hill"
     },
     {
       "id": "ken-schwaber-jeff-sutherland-the-scrum-guide",
@@ -3238,7 +3315,8 @@
       "id": "kerry-patterson-et-al-crucial-conversations",
       "type": "book",
       "authors": [
-        "al., Kerry Patterson et"
+        "Patterson, Kerry",
+        "et al."
       ],
       "title": "Crucial Conversations",
       "cited_as": "Kerry Patterson et al. — Crucial Conversations",
@@ -3253,7 +3331,8 @@
         "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "McGraw Hill"
     },
     {
       "id": "kim-scott-radical-candor",
@@ -3279,7 +3358,8 @@
         "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
         "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "PAN MACMILLAN U.K"
     },
     {
       "id": "krishna-g-palepu-paul-m-healy-erik-peek-business-analysis-and-valuation",
@@ -3302,7 +3382,8 @@
         "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
         "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "South-Western College Pub"
     },
     {
       "id": "larry-bossidy-ram-charan-execution",
@@ -3386,7 +3467,8 @@
         "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia",
         "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business Review Press"
     },
     {
       "id": "marcus-buckingham-curt-coffman-first-break-all-the-rules",
@@ -3415,7 +3497,8 @@
         "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion",
         "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Simon and Schuster"
     },
     {
       "id": "mark-roberge-the-sales-acceleration-formula",
@@ -3457,7 +3540,8 @@
         "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos",
         "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "O'Reilly publications"
     },
     {
       "id": "marty-cagan-inspired",
@@ -3514,7 +3598,8 @@
         "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
         "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Mochary Films"
     },
     {
       "id": "matthew-dixon-brent-adamson-the-challenger-sale",
@@ -3543,7 +3628,8 @@
         "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
         "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Portfolio/Penguin"
     },
     {
       "id": "max-h-bazerman-don-a-moore-judgment-in-managerial-decision-making",
@@ -3564,7 +3650,8 @@
         "modules/01-critical-thinking-and-decisions/classes/021-escenarios-y-decisiones-reversibles",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "John Wiley & Sons Inc"
     },
     {
       "id": "melissa-perri-escaping-the-build-trap",
@@ -3584,7 +3671,8 @@
         "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes",
         "modules/12-product-innovation/classes/154-metricas-de-producto"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "O'Reilly"
     },
     {
       "id": "michael-armstrong-stephen-taylor-armstrong-s-handbook-of-human-resource-manageme",
@@ -3615,7 +3703,8 @@
         "modules/21-chile-founder-track/classes/260-contratacion-honorarios-y-obligaciones-laborales-panorama",
         "modules/21-chile-founder-track/classes/262-patentes-permisos-y-obligaciones-sectoriales"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Kogan Page, Limited"
     },
     {
       "id": "michael-bungay-stanier-the-coaching-habit",
@@ -3636,7 +3725,8 @@
         "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
         "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Page Two/Portfolio/Canongate Books/Simon & Schuster UK"
     },
     {
       "id": "michael-c-mankins-eric-garton-time-talent-energy",
@@ -3662,7 +3752,8 @@
         "modules/14-organization-design-culture-change/classes/177-coalicion-narrativa-y-adopcion",
         "modules/14-organization-design-culture-change/classes/180-capstone-rediseno-organizacional"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business Review Press"
     },
     {
       "id": "michael-d-watkins-the-first-90-days",
@@ -3697,7 +3788,8 @@
         "modules/23-independence-capstone/classes/284-runway-personal-y-empresarial",
         "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business School Press"
     },
     {
       "id": "michael-e-gerber-the-e-myth-revisited",
@@ -3737,7 +3829,8 @@
         "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual",
         "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "HarperAudio"
     },
     {
       "id": "michael-e-porter-mark-r-kramer-creating-shared-value",
@@ -3748,7 +3841,7 @@
       ],
       "title": "Creating Shared Value",
       "cited_as": "Michael E. Porter & Mark R. Kramer — Creating Shared Value",
-      "authority": "Harvard Business Review",
+      "authority": "Managing Sustainable Business",
       "published": "2018",
       "doi": "10.1007/978-94-024-1144-7_16",
       "locator": "https://doi.org/10.1007/978-94-024-1144-7_16",
@@ -3788,7 +3881,8 @@
         "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia",
         "modules/13-strategy-competition/classes/168-capstone-strategy-memo"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Free Press"
     },
     {
       "id": "michael-e-porter-competitive-strategy",
@@ -3816,7 +3910,8 @@
         "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia",
         "modules/13-strategy-competition/classes/168-capstone-strategy-memo"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Free Press"
     },
     {
       "id": "michael-hammer-james-champy-reengineering-the-corporation",
@@ -3843,7 +3938,8 @@
         "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
         "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "HarperBusiness"
     },
     {
       "id": "nist-ai-risk-management-framework-ai-rmf-1-0",
@@ -3930,7 +4026,8 @@
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
         "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "John Wiley & Sons, Incorporated"
     },
     {
       "id": "nassim-nicholas-taleb-antifragile",
@@ -3953,7 +4050,8 @@
         "modules/23-independence-capstone/classes/286-riesgo-etica-y-reputacion",
         "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Random House"
     },
     {
       "id": "neil-rackham-major-account-sales-strategy",
@@ -4003,7 +4101,8 @@
         "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
         "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Highbridge Audio"
     },
     {
       "id": "nicole-forsgren-jez-humble-gene-kim-accelerate",
@@ -4031,7 +4130,8 @@
         "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
         "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "IT Revolution Press"
     },
     {
       "id": "nigel-slack-alistair-brandon-jones-operations-management",
@@ -4060,7 +4160,8 @@
         "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos",
         "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Pearson Education, Limited"
     },
     {
       "id": "noam-wasserman-the-founder-s-dilemmas",
@@ -4093,7 +4194,8 @@
         "modules/23-independence-capstone/classes/285-sistema-semanal-de-ventas",
         "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Princeton University Press"
     },
     {
       "id": "oecd-g20-oecd-principles-of-corporate-governance-2023",
@@ -4179,7 +4281,8 @@
         "modules/04-team-leadership/classes/056-reuniones-que-deciden",
         "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Audio Renaissance"
     },
     {
       "id": "patrick-lencioni-the-advantage",
@@ -4200,7 +4303,8 @@
         "modules/14-organization-design-culture-change/classes/178-transformacion-empresarial",
         "modules/14-organization-design-culture-change/classes/180-capstone-rediseno-organizacional"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "John Wiley & Sons, Incorporated"
     },
     {
       "id": "patrick-lencioni-the-five-dysfunctions-of-a-team",
@@ -4228,7 +4332,8 @@
         "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
         "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Pfeiffer"
     },
     {
       "id": "paul-polman-andrew-winston-net-positive",
@@ -4249,7 +4354,8 @@
         "modules/17-boards-corporate-governance/classes/212-supervision-de-estrategia",
         "modules/17-boards-corporate-governance/classes/214-evaluacion-del-ceo-y-sucesion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business Review Press"
     },
     {
       "id": "peter-c-brown-henry-l-roediger-iii-mark-a-mcdaniel-make-it-stick",
@@ -4555,7 +4661,8 @@
         "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual",
         "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard University Press"
     },
     {
       "id": "peter-f-drucker-management-tasks-responsibilities-practices",
@@ -4623,7 +4730,8 @@
         "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual",
         "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harper & Row"
     },
     {
       "id": "peter-f-drucker-the-effective-executive",
@@ -4697,7 +4805,8 @@
         "modules/00-professional-to-leader/classes/010-marca-profesional-basada-en-evidencia",
         "modules/00-professional-to-leader/classes/012-capstone-tu-sistema-operativo-de-liderazgo"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Sage Publications (CA)"
     },
     {
       "id": "peter-m-senge-the-fifth-discipline",
@@ -4718,7 +4827,8 @@
         "modules/01-critical-thinking-and-decisions/classes/021-escenarios-y-decisiones-reversibles",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Random House Audio"
     },
     {
       "id": "philip-kotler-kevin-lane-keller-marketing-management",
@@ -4769,7 +4879,8 @@
         "modules/01-critical-thinking-and-decisions/classes/020-efectos-de-segundo-orden",
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Crown"
     },
     {
       "id": "project-management-institute-a-guide-to-the-project-management-body-of-knowledge",
@@ -4797,7 +4908,8 @@
         "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
         "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Project Management Institute"
     },
     {
       "id": "ram-charan-boards-that-deliver",
@@ -4821,7 +4933,8 @@
         "modules/17-boards-corporate-governance/classes/215-efectividad-del-directorio",
         "modules/17-boards-corporate-governance/classes/216-capstone-board-meeting"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "John Wiley & Sons, Incorporated"
     },
     {
       "id": "ram-charan-what-the-ceo-wants-you-to-know",
@@ -4842,7 +4955,8 @@
         "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
         "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Crown"
     },
     {
       "id": "ram-charan-stephen-drotter-james-noel-the-leadership-pipeline",
@@ -4869,13 +4983,15 @@
         "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Jossey-Bass"
     },
     {
       "id": "raymond-noe-et-al-human-resource-management",
       "type": "book",
       "authors": [
-        "al., Raymond Noe et"
+        "Noe, Raymond",
+        "et al."
       ],
       "title": "Human Resource Management",
       "cited_as": "Raymond Noe et al. — Human Resource Management",
@@ -4898,7 +5014,8 @@
         "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento",
         "modules/21-chile-founder-track/classes/260-contratacion-honorarios-y-obligaciones-laborales-panorama"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Irwin/McGraw-Hill"
     },
     {
       "id": "registro-de-empresas-y-sociedades-chile-portal-y-documentacion-oficial",
@@ -4968,7 +5085,8 @@
         "modules/22-scaling-business-ownership/classes/275-owner-dashboard",
         "modules/22-scaling-business-ownership/classes/276-capstone-empresa-menos-dependiente-del-fundador"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "HarperCollins Publishers Limited"
     },
     {
       "id": "richard-a-clarke-robert-k-knake-the-fifth-domain",
@@ -4990,7 +5108,8 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Penguin Press"
     },
     {
       "id": "richard-brealey-stewart-myers-franklin-allen-principles-of-corporate-finance",
@@ -5029,7 +5148,8 @@
         "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion",
         "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "McGraw-Hill International Book Co"
     },
     {
       "id": "richard-leblanc-james-gillies-inside-the-boardroom",
@@ -5058,7 +5178,8 @@
         "modules/17-boards-corporate-governance/classes/215-efectividad-del-directorio",
         "modules/17-boards-corporate-governance/classes/216-capstone-board-meeting"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "John Wiley & Sons, Incorporated"
     },
     {
       "id": "richard-rumelt-good-strategy-bad-strategy",
@@ -5096,7 +5217,8 @@
         "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
         "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Profile Books"
     },
     {
       "id": "richard-thaler-cass-sunstein-nudge",
@@ -5118,7 +5240,8 @@
         "modules/01-critical-thinking-and-decisions/classes/021-escenarios-y-decisiones-reversibles",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Penguin Books"
     },
     {
       "id": "rita-gunther-mcgrath-the-end-of-competitive-advantage",
@@ -5139,7 +5262,8 @@
         "modules/13-strategy-competition/classes/164-escenarios-estrategicos",
         "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business Review Press"
     },
     {
       "id": "rob-fitzpatrick-the-mom-test",
@@ -5165,7 +5289,8 @@
         "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
         "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "CreateSpace"
     },
     {
       "id": "robert-a-g-monks-nell-minow-corporate-governance",
@@ -5187,7 +5312,8 @@
         "modules/17-boards-corporate-governance/classes/213-supervision-de-riesgo-y-controles",
         "modules/17-boards-corporate-governance/classes/216-capstone-board-meeting"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "John Wiley & Sons, Incorporated"
     },
     {
       "id": "robert-b-cialdini-influence",
@@ -5220,7 +5346,8 @@
         "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses",
         "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "HarperCollins Publishers and Blackstone Audio"
     },
     {
       "id": "robert-i-sutton-huggy-rao-scaling-up-excellence",
@@ -5249,7 +5376,8 @@
         "modules/22-scaling-business-ownership/classes/275-owner-dashboard",
         "modules/22-scaling-business-ownership/classes/276-capstone-empresa-menos-dependiente-del-fundador"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Random House Canada"
     },
     {
       "id": "robert-i-sutton-good-boss-bad-boss",
@@ -5272,7 +5400,8 @@
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
         "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Business Plus"
     },
     {
       "id": "robert-s-kaplan-david-p-norton-strategy-maps",
@@ -5294,7 +5423,8 @@
         "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
         "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business School Press"
     },
     {
       "id": "robert-s-kaplan-david-p-norton-the-balanced-scorecard",
@@ -5371,7 +5501,8 @@
         "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
         "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Hutchinson"
     },
     {
       "id": "ronald-a-heifetz-leadership-without-easy-answers",
@@ -5394,7 +5525,8 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Belknap Press of Harvard University Press"
     },
     {
       "id": "ronald-heifetz-marty-linsky-leadership-on-the-line",
@@ -5423,7 +5555,8 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business Review Press"
     },
     {
       "id": "ross-anderson-security-engineering",
@@ -5444,7 +5577,8 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "John Wiley & Sons, Incorporated"
     },
     {
       "id": "sean-ellis-morgan-brown-hacking-growth",
@@ -5466,7 +5600,8 @@
         "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
         "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Ebury Publishing"
     },
     {
       "id": "sercotec-chile-programas-capacitacion-y-centros-de-desarrollo-de-negocios",
@@ -5605,7 +5740,8 @@
       "id": "stanley-mcchrystal-et-al-team-of-teams",
       "type": "book",
       "authors": [
-        "al., Stanley McChrystal et"
+        "McChrystal, Stanley",
+        "et al."
       ],
       "title": "Team of Teams",
       "cited_as": "Stanley McChrystal et al. — Team of Teams",
@@ -5624,7 +5760,8 @@
         "modules/14-organization-design-culture-change/classes/176-diagnostico-de-cambio",
         "modules/14-organization-design-culture-change/classes/179-reorganizaciones-y-riesgos-humanos"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Penguin Books, Limited"
     },
     {
       "id": "stephen-h-penman-financial-statement-analysis-and-security-valuation",
@@ -5652,14 +5789,16 @@
         "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
         "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "McGraw-Hill/Irwin"
     },
     {
       "id": "stephen-ross-randolph-westerfield-et-al-corporate-finance",
       "type": "book",
       "authors": [
         "Ross, Stephen",
-        "al., Randolph Westerfield et"
+        "Westerfield, Randolph",
+        "et al."
       ],
       "title": "Corporate Finance",
       "cited_as": "Stephen Ross, Randolph Westerfield et al. — Corporate Finance",
@@ -5690,7 +5829,8 @@
         "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion",
         "modules/18-corporate-finance-capital-ma/classes/228-capstone-comite-de-capital"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "McGraw-Hill Education"
     },
     {
       "id": "steve-blank-the-four-steps-to-the-epiphany",
@@ -5718,7 +5858,8 @@
         "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos",
         "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "[Steve Blank?]"
     },
     {
       "id": "subsecretaria-de-prevision-social-chile-decreto-supremo-n44-y-material-de-implem",
@@ -5799,7 +5940,8 @@
       "id": "susan-a-ambrose-et-al-how-learning-works",
       "type": "book",
       "authors": [
-        "al., Susan A. Ambrose et"
+        "Ambrose, Susan A.",
+        "et al."
       ],
       "title": "How Learning Works",
       "cited_as": "Susan A. Ambrose et al. — How Learning Works",
@@ -6097,7 +6239,8 @@
         "modules/23-independence-capstone/classes/287-plan-de-90-dias-y-plan-anual",
         "modules/23-independence-capstone/classes/288-capstone-final-defensa-como-ceo-founder-y-owner"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "John Wiley & Sons, Incorporated"
     },
     {
       "id": "teresa-torres-continuous-discovery-habits",
@@ -6148,7 +6291,8 @@
         "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
         "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business School Press"
     },
     {
       "id": "thomas-h-davenport-nitin-mittal-all-in-on-ai",
@@ -6177,7 +6321,8 @@
         "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia",
         "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Harvard Business Review Press"
     },
     {
       "id": "thomas-t-nagle-john-e-hogan-joseph-zale-the-strategy-and-tactics-of-pricing",
@@ -6200,7 +6345,8 @@
         "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos",
         "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Taylor & Francis Group"
     },
     {
       "id": "tim-koller-marc-goedhart-david-wessels-valuation-measuring-and-managing-the-valu",
@@ -6276,7 +6422,8 @@
         "modules/22-scaling-business-ownership/classes/275-owner-dashboard",
         "modules/22-scaling-business-ownership/classes/276-capstone-empresa-menos-dependiente-del-fundador"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Gazelles, Inc."
     },
     {
       "id": "w-chan-kim-renee-mauborgne-blue-ocean-strategy",
@@ -6298,7 +6445,8 @@
         "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
         "modules/13-strategy-competition/classes/168-capstone-strategy-memo"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "Coach Series"
     },
     {
       "id": "w-edwards-deming-out-of-the-crisis",
@@ -6322,7 +6470,8 @@
         "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos",
         "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion"
       ],
-      "status": "verificada"
+      "status": "verificada",
+      "authority": "The MIT Press"
     },
     {
       "id": "william-ellet-the-case-study-handbook",

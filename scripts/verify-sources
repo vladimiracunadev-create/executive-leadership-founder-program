@@ -170,31 +170,57 @@ def rectoras(registro: dict, usos: dict[str, list[str]], cuantas: int = 10) -> l
     return salida
 
 
+def enlace(entrada: dict) -> str:
+    """Cómo se muestra el localizador de una obra en una tabla de lectura."""
+    if entrada.get("type") == "book" and entrada.get("isbn13"):
+        return f"[ISBN-13 {entrada['isbn13']}]({entrada['locator']})"
+    if entrada.get("type") == "paper" and entrada.get("doi"):
+        return f"[DOI]({entrada['locator']})"
+    if entrada.get("url"):
+        return f"[{entrada['url'].split('//')[1].split('/')[0]}]({entrada['url']})"
+    return "— pendiente"
+
+
 def bloque_readme(datos: dict, registro: dict, usos: dict[str, list[str]]) -> str:
-    filas = "\n".join(
-        f"| {clave} | {n} | {estado} |" for clave, n, _loc, estado in rectoras(registro, usos, 8)
-    )
-    tipos = " · ".join(f"{k}: **{v}**" for k, v in datos["por_tipo"].items())
+    entradas = {e["cited_as"]: e for e in registro.get("entries", [])}
+    filas = []
+    for clave, n, _loc, _estado in rectoras(registro, usos, 10):
+        e = entradas.get(clave, {})
+        emisor, _, obra = clave.partition(" — ")
+        filas.append(f"| {emisor} | *{obra}* | {enlace(e)} | {n} |")
+    organismos = len({
+        e.get("authority") or e["authors"][0]
+        for e in registro.get("entries", []) if e.get("type") != "book"
+    })
+    verificadas_pct = round(100 * datos["verificadas"] / max(1, datos["entradas"]), 1)
     return f"""{INICIO}
-<!-- Cifras generadas por scripts/verify-sources. No editar a mano. -->
+Ninguna afirmación del programa nace de la nada. Cada clase cierra con las obras
+que la sostienen, y cada una de esas obras tiene entrada propia en
+**[sources/bibliography.json](sources/bibliography.json)** con un localizador al
+que se puede ir a comprobarla: **ISBN-13** para un libro, **DOI** para un
+artículo, **URL oficial** para una norma. `scripts/verify-sources` falla en CI si
+una clase cita algo que no está registrado, o si una entrada del registro dejó de
+usarse.
 
-| Medida | Valor |
-|---|---:|
-| Clases con bloque de fuentes | **{datos['clases']}** |
-| Obras y fuentes distintas citadas | **{datos['citas_distintas']}** |
-| Citas totales en las clases | **{datos['citas_totales']}** |
-| Entradas del registro | **{datos['entradas']}** |
-| Verificadas con localizador resoluble | **{datos['verificadas']}** |
-| Pendientes (hueco declarado, no borrado) | **{datos['pendientes']}** |
-| Cobertura de lo citado sobre el registro | **{datos['cobertura']} %** |
+| 📚 Obras registradas | 📎 Citas en clase | ✅ Con localizador comprobado | 🕓 Pendientes | 🏛️ Organismos | 📘 Clases |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **{datos['entradas']}** | **{datos['citas_totales']}** | **{datos['verificadas']}** | **{datos['pendientes']}** | **{organismos}** | **{datos['clases']}** |
 
-Por tipo — {tipos}. Última revalidación en red: **{datos['verified_on']}**.
+**Cobertura del registro: {datos['cobertura']} %** — de todas las obras que las
+{datos['clases']} clases citan, esa proporción tiene entrada propia. De ellas,
+**{verificadas_pct} %** tiene además el localizador resuelto contra su fuente.
+«Pendiente» no significa dudosa: significa que su localizador todavía no se
+resolvió y que el hueco está declarado en vez de disimulado. Última revalidación
+en red: **{datos['verified_on']}**.
 
-**Obras rectoras por número de clases que las usan:**
+### Obras rectoras del programa
 
-| Fuente | Clases | Estado |
-|---|---:|---|
-{filas}
+Las que más veces sostienen una afirmación. **El catálogo completo, obra por obra
+y con su enlace, está en [docs/FUENTES.md](docs/FUENTES.md).**
+
+| Autor o emisor | Obra | Localizador | Clases |
+|---|---|---|---:|
+{chr(10).join(filas)}
 
 {FIN}"""
 
@@ -222,6 +248,142 @@ def bloque_oficiales(registro: dict) -> str:
 {cuerpo}
 
 {FIN}"""
+
+
+def bloque_fuentes(datos: dict, registro: dict, usos: dict[str, list[str]]) -> str:
+    """La página de lectura: todas las obras, con su enlace, obra por obra."""
+    entradas = registro.get("entries", [])
+
+    def clases_de(e: dict) -> int:
+        return len(usos.get(e["cited_as"], []))
+
+    def partes_de(e: dict) -> str:
+        numeros = sorted({int(r.split("/")[1][:2]) for r in usos.get(e["cited_as"], [])})
+        return ", ".join(f"{n:02d}" for n in numeros)
+
+    libros = [e for e in entradas if e.get("type") in ("book", "paper")]
+    oficiales = [e for e in entradas if e.get("type") in ("standard", "reference", "dataset")]
+
+    filas_libros = "\n".join(
+        f"| {e['authors'][0]}{' et al.' if len(e['authors']) > 2 else ''} | "
+        f"*{e['title']}* | {e.get('authority') or '—'} | {e.get('published') or '—'} | "
+        f"{enlace(e)} | {clases_de(e)} |"
+        for e in sorted(libros, key=lambda e: (e["authors"][0].lower(), e["title"].lower()))
+    )
+    filas_oficiales = "\n".join(
+        f"| {e.get('authority') or e['authors'][0]} | {e['title']} | {enlace(e)} | "
+        f"{e.get('accessed') or '—'} | {partes_de(e)} |"
+        for e in sorted(oficiales, key=lambda e: (
+            (e.get("authority") or e["authors"][0]).lower(), e["title"].lower()))
+    )
+    pendientes = [e for e in entradas if e.get("status") == "pendiente"]
+    filas_pendientes = "\n".join(
+        f"| {e['cited_as']} | {clases_de(e)} | {e.get('last_error') or e.get('note') or '—'} |"
+        for e in sorted(pendientes, key=lambda e: -clases_de(e))
+    ) or "| — | — | ninguna |"
+
+    tipos = {
+        "book": ("Libro", "ISBN-13 con dígito de control válido"),
+        "paper": ("Artículo", "DOI"),
+        "standard": ("Norma o documento oficial", "URL https de la fuente primaria, con fecha de acceso"),
+        "reference": ("Referencia", "URL https de la fuente primaria, con fecha de acceso"),
+        "dataset": ("Conjunto de datos", "URL https de la fuente primaria, con fecha de acceso"),
+    }
+    filas_tipos = "\n".join(
+        f"| {tipos[k][0]} | {v} | {tipos[k][1]} |"
+        for k, v in datos["por_tipo"].items() if k in tipos
+    )
+
+    return f"""{INICIO}
+## 🧾 El registro en cifras
+
+El programa cita **{datos['citas_totales']}** veces un total de
+**{datos['citas_distintas']}** obras a lo largo de sus **{datos['clases']}** clases.
+De esas obras, **{datos['verificadas']}** tienen hoy un localizador comprobado
+—ISBN-13, DOI o URL oficial con fecha de acceso— y **{datos['pendientes']}**
+siguen pendientes de resolver.
+
+| Tipo | Obras | Localizador que exige |
+|---|---:|---|
+{filas_tipos}
+
+El ISBN-13 se resuelve contra Open Library comparando título y autores, y de ahí
+salen también la editorial y el año que ves abajo: no se escriben de memoria.
+Cuando ni el título ni los autores coinciden con seguridad, la entrada se queda
+pendiente antes que arriesgar un ISBN casi correcto, que es peor que ninguno
+porque aparenta una comprobación que nadie hizo.
+
+## 📖 Bibliografía de gestión
+
+Las obras que sostienen el contenido. La columna **Clases** dice en cuántas de
+las {datos['clases']} clases se apoya cada una.
+
+| Autor | Obra | Editorial | Año | Localizador | Clases |
+|---|---|---|---:|---|---:|
+{filas_libros}
+
+## 🏛️ Fuentes oficiales y normas
+
+No son bibliografía y no se tratan igual: no se contrastan, se verifican en
+origen y **caducan**. Por eso cada fila lleva la fecha en que se comprobó que
+respondía y las partes del programa que la usan.
+
+| Organismo | Documento | Localizador | Consultado | Partes |
+|---|---|---|---|---|
+{filas_oficiales}
+
+## 🕓 Qué queda pendiente y por qué
+
+Una fuente pendiente no se borra ni se disimula: se declara con su motivo.
+
+| Fuente | Clases | Motivo |
+|---|---:|---|
+{filas_pendientes}
+
+Última revalidación en red: **{datos['verified_on']}**. La ejecuta
+`scripts/refresh-sources`, que resuelve ISBN contra Open Library, DOI contra
+Crossref y consulta cada URL oficial. Esa capa **no bloquea el CI**: si un
+organismo reorganiza su sitio, el programa no se rompe, se entera.
+
+{FIN}"""
+
+
+def sincronizar_clases(registro: dict, lista: list[reg.Clase], escribir: bool) -> list[str]:
+    """Cada cita de clase muestra la edición y el localizador que dice el registro.
+
+    Es lo que convierte el bloque de fuentes en algo comprobable sin salir de la
+    clase: quien lee ve la obra, la edición y el enlace al que ir. Y como la
+    línea se deriva del registro, no puede desviarse de él sin que el CI lo diga.
+    """
+    declaradas = {e["cited_as"]: e for e in registro.get("entries", [])}
+    desviadas: list[str] = []
+    for clase in lista:
+        texto = clase.ruta.read_text(encoding="utf-8")
+        titulo = reg.titulo_de(clase)
+        original = texto
+        for linea in clase.lineas:
+            encaje = reg.LINEA.match(linea)
+            if not encaje:
+                continue
+            entrada = declaradas.get(
+                reg.cita(encaje.group("emisor").strip(), encaje.group("obra").strip())
+            )
+            if entrada is None:
+                continue
+            esperada = reg.cita_completa(entrada, encaje.group("uso"), titulo)
+            if esperada != linea:
+                texto = texto.replace(linea, esperada, 1)
+        if texto != original:
+            if escribir:
+                clase.ruta.write_text(texto, encoding="utf-8", newline="\n")
+            else:
+                desviadas.append(clase.relativa)
+    if desviadas:
+        return [
+            f"{len(desviadas)} clase(s) con citas desviadas del registro, la primera "
+            f"{desviadas[0]} (ejecuta `python scripts/verify-sources --write`)"
+        ]
+    return []
 
 
 def sincronizar(ruta: Path, bloque: str, escribir: bool) -> list[str]:
@@ -278,8 +440,15 @@ def main(argv: list[str] | None = None) -> int:
         datos = reg.resumen(registro, usos)
 
     errores = revisar_esquema(registro)
+    errores += sincronizar_clases(registro, lista, args.write)
+    if args.write:                       # las citas cambiaron: hay que releerlas
+        lista = reg.clases()
+        usos = reg.citas(lista)
+        datos = reg.resumen(registro, usos)
     errores += revisar_uso(registro, lista, usos)
     errores += sincronizar(RAIZ / "README.md", bloque_readme(datos, registro, usos), args.write)
+    errores += sincronizar(RAIZ / "docs" / "FUENTES.md",
+                           bloque_fuentes(datos, registro, usos), args.write)
     errores += sincronizar(RAIZ / "docs" / "OFFICIAL_SOURCES.md", bloque_oficiales(registro), args.write)
 
     print("Registro de fuentes")

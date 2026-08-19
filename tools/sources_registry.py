@@ -25,9 +25,14 @@ REGISTRO = RAIZ / "sources" / "bibliography.json"
 CABECERA_FUENTES = "## 📗 Fuentes y verificación"
 
 #: Forma canónica de una cita dentro de una clase.
-#: `- <emisor> — *<obra>*. **Uso en esta clase:** <uso>.` y, opcionalmente, cola.
+#: `- <emisor> — *<obra>* (<editorial>, <año>). **Uso en esta clase:** <uso>. <cola>`
+#: La edición entre paréntesis y la cola con el localizador las escribe
+#: `scripts/verify-sources --write` desde el registro: así una cita de clase no
+#: puede desviarse de la obra que dice citar.
 LINEA = re.compile(
-    r"^- (?P<emisor>[^—*]+?) — \*(?P<obra>.+?)\*\. "
+    # La edición admite paréntesis dentro —«Sage Publications (CA), 2012»—, así
+    # que se cierra contra el literal que la sigue, no contra el primer `)`.
+    r"^- (?P<emisor>[^—*]+?) — \*(?P<obra>.+?)\*(?P<edicion> \(.+?\))?\. "
     r"\*\*Uso en esta clase:\*\* (?P<uso>.+?)\.(?P<cola>\s.*)?$"
 )
 
@@ -150,6 +155,50 @@ def localizador_esperado(entrada: dict) -> str | None:
     if tipo in ("standard", "reference", "dataset"):
         return entrada.get("url")
     return None
+
+
+def edicion(entrada: dict) -> str:
+    """`(Editorial, año)` con lo que se sepa, y nada si no se sabe nada.
+
+    Sale de la ficha de la edición que resolvió el ISBN, no de memoria: es lo
+    que permite pedir el ejemplar exacto en una biblioteca o una librería.
+    """
+    emisor = entrada.get("cited_as", "").split(" — ")[0]
+    autoridad = entrada.get("authority")
+    if autoridad and autoridad.strip().lower() == emisor.strip().lower():
+        autoridad = None          # «OECD — *Principles* (OECD)» no informa de nada
+    piezas = [p for p in (autoridad, entrada.get("published")) if p]
+    return f" ({', '.join(str(p) for p in piezas)})" if piezas else ""
+
+
+def localizador_legible(entrada: dict) -> str:
+    """La parte de la cita que permite ir a comprobarla."""
+    tipo = entrada.get("type")
+    if tipo == "book" and entrada.get("isbn13"):
+        return f"**Localizador:** [ISBN-13 {entrada['isbn13']}]({entrada['locator']})."
+    if tipo == "paper" and entrada.get("doi"):
+        return f"**Localizador:** [DOI {entrada['doi']}]({entrada['locator']})."
+    if entrada.get("url"):
+        return f"**Fuente primaria:** <{entrada['url']}>."
+    return "**Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md)."
+
+
+def cita_completa(entrada: dict, uso: str, titulo_clase: str) -> str:
+    """La línea tal y como debe aparecer en la clase."""
+    partes = [
+        f"- {entrada['cited_as'].replace(' — ', ' — *', 1)}*{edicion(entrada)}.",
+        f"**Uso en esta clase:** {uso}.",
+    ]
+    # Si el uso ya nombra la clase, repetirlo aquí solo alarga la línea.
+    if entrada.get("type") in ("book", "paper") and titulo_clase not in uso:
+        partes.append(f"Lectura selectiva sobre **{titulo_clase}**.")
+    partes.append(localizador_legible(entrada))
+    return " ".join(partes)
+
+
+def titulo_de(clase: Clase) -> str:
+    primera = clase.ruta.read_text(encoding="utf-8").splitlines()[0]
+    return primera.split("—", 1)[1].strip().lower()
 
 
 def resumen(registro: dict, usos: dict[str, list[str]]) -> dict:

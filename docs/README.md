@@ -41,6 +41,7 @@ este material aunque lo termines entero.
 | [Marco de evaluación](ASSESSMENT_FRAMEWORK.md) | Cómo se puntúan quiz, caso, laboratorio y entregable, y qué es aprobar. |
 | [Mapa de fuentes por parte](REFERENCE_MAP.md) | El andamiaje bibliográfico: qué lente aporta cada obra a cada parte. |
 | [Bibliografía](BOOKS.md) | El catálogo completo en tres capas: núcleo, complementaria y fuente oficial. |
+| [Registro de fuentes](../sources/bibliography.json) | La única lista de obras y normas con localizador resoluble: ISBN-13, DOI o URL de la fuente primaria. |
 | [Informe de calidad](QUALITY_REPORT.md) | Por qué se reescribió el material y qué se corrigió. |
 | [Guía docente](INSTRUCTOR_GUIDE.md) | Cómo impartir una sesión de 150 minutos y cómo evaluar a un grupo. |
 
@@ -62,7 +63,7 @@ las normas cambian y la fecha de verificación de cada ficha lo dice.
 | [Founder Track Chile](CHILE_FOUNDER_TRACK.md) | El ciclo de formalización y operación, con el mapa de decisiones y sus fuentes. |
 | [Derecho laboral y obligaciones del empleador](CHILE_LABOR_EMPLOYMENT_LAW.md) | Jornada, previsión, seguridad, Ley Karin, teletrabajo, inclusión y término. |
 | [Tipos de contrato y modalidades](CHILE_CONTRACT_TYPES_AND_WORK_ARRANGEMENTS.md) | Indefinido, plazo fijo, obra o faena, y las figuras afines que no son contrato de trabajo. |
-| [Fuentes oficiales](OFFICIAL_SOURCES.md) | El catálogo de organismos y registros que hay que consultar en origen. |
+| [Fuentes oficiales](OFFICIAL_SOURCES.md) | El catálogo de organismos y registros que hay que consultar en origen, generado desde el registro de fuentes. |
 
 ## ⚖️ Límites
 

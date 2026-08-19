@@ -1,39 +1,71 @@
 # 🔗 Fuentes oficiales
 
-Última revisión base del catálogo: **2026-08-12**.
+Normas, portales y documentación oficial en los que se apoya el programa. Esta
+tabla **no se escribe a mano**: la genera `python scripts/verify-sources` desde
+[`sources/bibliography.json`](../sources/bibliography.json), el registro único de
+fuentes, y el CI falla si deja de coincidir.
 
-| Institución | Recurso | Uso | URL | Verificado |
+Una fuente oficial no es bibliografía: no se contrasta, se verifica en origen y
+caduca. Por eso cada fila lleva la fecha en que se comprobó que respondía y su
+estado. `pendiente` significa que hoy no se pudo comprobar —no que la fuente sea
+falsa— y la entrada se conserva con el motivo dentro del registro.
+
+Para la bibliografía de gestión —libros con ISBN-13 y artículos con DOI— usa el
+mismo registro y el resumen del [README](../README.md#-registro-de-fuentes).
+
+<!-- registro-de-fuentes:inicio -->
+<!-- Tabla generada por scripts/verify-sources desde sources/bibliography.json. No editar a mano. -->
+
+| Organismo | Recurso | URL | Consultado | Estado |
 |---|---|---|---|---|
-| World Economic Forum | Future of Jobs Report 2025 | Mercado laboral y habilidades | <https://www.weforum.org/publications/the-future-of-jobs-report-2025/> | 2026-08-12 |
-| OECD | G20/OECD Principles of Corporate Governance 2023 | Gobierno corporativo | <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html> | 2026-08-12 |
-| NIST | Cybersecurity Framework 2.0 | Gobierno de ciberseguridad | <https://www.nist.gov/cyberframework> | 2026-08-12 |
-| NIST | AI Risk Management Framework | Gobierno de IA | <https://www.nist.gov/itl/ai-risk-management-framework> | 2026-08-12 |
-| COSO | Enterprise Risk Management | Riesgo y control | <https://www.coso.org/> | 2026-08-12 |
-| Project Management Institute | PMI Standards | Gestión de proyectos | <https://www.pmi.org/standards> | 2026-08-12 |
-| Registro de Empresas y Sociedades | Portal oficial | Constitución y ciclo societario en Chile | <https://www.registrodeempresasysociedades.cl/> | 2026-08-12 |
-| Servicio de Impuestos Internos | Portal oficial | Tributación y operación fiscal en Chile | <https://www.sii.cl/> | 2026-08-12 |
-| Dirección del Trabajo | Portal oficial | Relaciones laborales en Chile | <https://www.dt.gob.cl/> | 2026-08-12 |
-| INAPI | Portal oficial | Propiedad industrial en Chile | <https://www.inapi.cl/> | 2026-08-12 |
-| Sercotec | Portal oficial | Emprendimiento y mipyme | <https://www.sercotec.cl/> | 2026-08-12 |
-| Corfo | Portal oficial | Innovación, emprendimiento y financiamiento | <https://www.corfo.cl/> | 2026-08-12 |
-| ChileCompra | Portal oficial | Compras públicas | <https://www.chilecompra.cl/> | 2026-08-12 |
-| CMF Chile | Portal oficial | Mercados financieros y supervisión | <https://www.cmfchile.cl/> | 2026-08-12 |
-| Biblioteca del Congreso Nacional | LeyChile | Consulta normativa | <https://www.bcn.cl/leychile/> | 2026-08-12 |
-| IFRS Foundation | IFRS Accounting Standards | Información financiera | <https://www.ifrs.org/> | 2026-08-12 |
-| International Labour Organization | ILO resources | Trabajo y relaciones laborales | <https://www.ilo.org/> | 2026-08-12 |
-| OECD | OECD AI Principles | IA responsable | <https://oecd.ai/en/ai-principles> | 2026-08-12 |
-| CISA | Cybersecurity resources | Ciberseguridad ejecutiva | <https://www.cisa.gov/> | 2026-08-12 |
+| AFC Chile | Seguro de Cesantía: información y operación oficial | <https://www.afc.cl/> | 2026-08-19 | verificada |
+| Biblioteca del Congreso Nacional de Chile | LeyChile: Código del Trabajo (texto vigente) | <https://www.bcn.cl/leychile/navegar?idNorma=207436> | 2026-08-19 | verificada |
+| Biblioteca del Congreso Nacional de Chile | LeyChile: Código del Trabajo y legislación laboral vigente | <https://www.bcn.cl/leychile/> | 2026-08-19 | verificada |
+| Biblioteca del Congreso Nacional de Chile | LeyChile: Código Tributario y Ley sobre Impuesto a las Ventas y Servicios | <https://www.bcn.cl/leychile/> | 2026-08-19 | verificada |
+| Biblioteca del Congreso Nacional de Chile | LeyChile: Ley N.º 20.659 y normativa vinculada | <https://www.bcn.cl/leychile/> | 2026-08-19 | verificada |
+| ChileAtiende | Trámites y orientación del Estado | <https://www.chileatiende.gob.cl/> | 2026-08-19 | verificada |
+| Colegio de Contadores de Chile | Normativa contable aplicable y NIIF según tipo de entidad | — (pendiente) | — | pendiente |
+| Comisión para el Mercado Financiero (Chile) | Normativa e información del mercado financiero | <https://www.cmfchile.cl/> | 2026-08-19 | verificada |
+| Corporación de Fomento de la Producción (Chile) | Programas, instrumentos y apoyo empresarial | <https://www.corfo.cl/> | 2026-08-19 | verificada |
+| COSO | Enterprise Risk Management—Integrating with Strategy and Performance | <https://www.coso.org/> | 2026-08-19 | verificada |
+| Departamento de Derechos Intelectuales (Chile) | Derecho de autor: registro y orientación oficial | <https://www.propiedadintelectual.gob.cl/> | 2026-08-19 | verificada |
+| Dirección ChileCompra | Mercado Público y normativa de compras públicas | <https://www.chilecompra.cl/> | 2026-08-19 | verificada |
+| Dirección del Trabajo (Chile) | Cláusulas mínimas del contrato de trabajo | <https://www.dt.gob.cl/portal/1628/w3-article-60800.html> | 2026-08-19 | verificada |
+| Dirección del Trabajo (Chile) | Contrato individual de trabajo | <https://dt.gob.cl/portal/1626/w3-article-100172.html> | 2026-08-19 | verificada |
+| Dirección del Trabajo (Chile) | Implementación de la rebaja de jornada a 42 horas (Ord. N°253/21) | <https://dt.gob.cl/legislacion/1624/w3-article-129189.html> | 2026-08-19 | verificada |
+| Dirección del Trabajo (Chile) | Ley Karin y dictámenes asociados | <https://www.dt.gob.cl/legislacion/1624/w3-propertyvalue-194488.html> | 2026-08-19 | verificada |
+| Dirección del Trabajo (Chile) | Normativa y orientación oficial | <https://www.dt.gob.cl/> | 2026-08-19 | verificada |
+| For Entrepreneurs (Matrix Partners) | SaaS Metrics resources | <https://www.forentrepreneurs.com/saas-metrics-2/> | 2026-08-19 | verificada |
+| IFRS Foundation | IFRS Accounting Standards | <https://www.ifrs.org/> | — | pendiente |
+| INAPI (Chile) | Propiedad industrial y orientación oficial | <https://www.inapi.cl/> | 2026-08-19 | verificada |
+| ISO | ISO 22301 Business continuity management systems | — (pendiente) | — | pendiente |
+| ISO | ISO 31000 Risk management | — (pendiente) | — | pendiente |
+| ISO | ISO 9001 Quality management systems | — (pendiente) | — | pendiente |
+| NIST | AI Risk Management Framework (AI RMF 1.0) | <https://www.nist.gov/itl/ai-risk-management-framework> | 2026-08-19 | verificada |
+| NIST | Cybersecurity Framework (CSF) 2.0 | <https://www.nist.gov/cyberframework> | 2026-08-19 | verificada |
+| OECD | G20/OECD Principles of Corporate Governance 2023 | <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html> | — | pendiente |
+| OECD | OECD AI Principles | <https://oecd.ai/en/ai-principles> | 2026-08-19 | verificada |
+| Registro de Empresas y Sociedades (Chile) | Portal y documentación oficial | <https://www.registrodeempresasysociedades.cl/> | 2026-08-19 | verificada |
+| Registro de Empresas y Sociedades (Chile) | Preguntas frecuentes del portal oficial | <https://www.registrodeempresasysociedades.cl/FAQ.aspx> | 2026-08-19 | verificada |
+| Scrum.org / Scrum Alliance | The Scrum Guide | <https://scrumguides.org/> | 2026-08-19 | verificada |
+| Sercotec (Chile) | Programas, capacitación y Centros de Desarrollo de Negocios | <https://www.sercotec.cl/> | 2026-08-19 | verificada |
+| Servicio de Impuestos Internos (Chile) | Acreditación de inicio de actividades y obligaciones tributarias | <https://www.sii.cl/destacados/ley_cumplimiento_obligaciones_tributarias/inicio_actividades.html> | 2026-08-19 | verificada |
+| Servicio de Impuestos Internos (Chile) | Ayudas para el inicio de actividades | <https://www.sii.cl/pagina/registro_contribuyentes/ayudas_inicio_actividades.htm> | 2026-08-19 | verificada |
+| Servicio de Impuestos Internos (Chile) | Ciclo de vida del contribuyente: inicio de actividades | <https://www.sii.cl/destacados/educacion/ciclo_vida_contribuyente/paso_02.html> | 2026-08-19 | verificada |
+| Servicio de Impuestos Internos (Chile) | Guías, normativa y servicios oficiales | <https://www.sii.cl/> | 2026-08-19 | verificada |
+| Servicio de Impuestos Internos (Chile) | Portal Emprendedor | <https://www.sii.cl/portales/emprendedor/> | 2026-08-19 | verificada |
+| Servicio de Impuestos Internos (Chile) | SII Educa: inicio de actividades y formalización de un negocio | <https://www.sii.cl/siieduca/aprende-con-nosotros/inicio-de-actividades-y-formalizacion-de-un-negocio.html> | 2026-08-19 | verificada |
+| Subsecretaría de Previsión Social (Chile) | Decreto Supremo N°44 y material de implementación | <https://previsionsocial.gob.cl/ds44/> | 2026-08-19 | verificada |
+| Subsecretaría de Previsión Social (Chile) | Seguridad y Salud Laboral / Decreto Supremo N°44 | <https://previsionsocial.gob.cl/ds44/> | 2026-08-19 | verificada |
+| Superintendencia de Pensiones (Chile) | Normativa y sistema previsional | <https://www.spensiones.cl/> | 2026-08-19 | verificada |
+| Superintendencia de Seguridad Social (Chile) | Normativa del Seguro de Accidentes del Trabajo y Enfermedades Profesionales | <https://www.suseso.cl/> | 2026-08-19 | verificada |
 
-| Ministerio del Trabajo y Previsión Social | Portal oficial | Política y normativa laboral en Chile | <https://www.mintrab.gob.cl/> | 2026-08-12 |
-| Superintendencia de Seguridad Social | SUSESO | Seguridad social y seguridad y salud en el trabajo | <https://www.suseso.cl/> | 2026-08-12 |
-| Superintendencia de Pensiones | Portal oficial | Pensiones, cotizaciones y reforma previsional | <https://www.spensiones.cl/> | 2026-08-12 |
-| AFC Chile | Seguro de Cesantía | Seguro de cesantía | <https://www.afc.cl/> | 2026-08-12 |
-| Servicio Nacional de Migraciones | Portal oficial | Migración y actividad remunerada | <https://serviciomigraciones.cl/> | 2026-08-12 |
-| ChileAtiende | Portal de servicios del Estado | Trámites y orientación laboral/previsional | <https://www.chileatiende.gob.cl/> | 2026-08-12 |
+<!-- registro-de-fuentes:fin -->
 
 ## Regla de vigencia
 
-Una URL existente no garantiza que una norma, fondo, formulario, plazo o requisito continúe igual. En decisiones reales:
+Una URL existente no garantiza que una norma, fondo, formulario, plazo o
+requisito continúe igual. En decisiones reales:
 
 1. abre la fuente oficial;
 2. comprueba fecha y vigencia;

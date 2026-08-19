@@ -10,7 +10,7 @@
 [![Seguridad](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/actions/workflows/security.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/actions/workflows/security.yml)
 [![Portal](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/actions/workflows/pages.yml/badge.svg?branch=main)](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/)
 
-[![Versión](https://img.shields.io/badge/versión-2.1.0-e67e22?style=for-the-badge)](CHANGELOG.md)
+[![Versión](https://img.shields.io/badge/versión-2.2.0-e67e22?style=for-the-badge)](CHANGELOG.md)
 [![Clases](https://img.shields.io/badge/clases-288%20·%2024%20partes-7c5cff?style=for-the-badge)](SYLLABUS.md)
 [![Horas](https://img.shields.io/badge/horas-720-2e8b57?style=for-the-badge)](STATUS.md)
 [![Nivel](https://img.shields.io/badge/nivel-profesional%20→%20business%20owner-8957e5?style=for-the-badge)](STATUS.md)
@@ -247,10 +247,64 @@ entre una clase con poca densidad, con menos de cinco referencias, con párrafos
 largos copiados de otra o con similitud léxica anormal dentro de su parte. Es lo
 que evita volver al patrón de plantilla rellenada.
 
-## 📚 Pauta derivada de la bibliografía de referencia
+## 📚 Registro de fuentes
+
+Todo lo que una clase cita está declarado en un único registro:
+**[sources/bibliography.json](sources/bibliography.json)**. Cada entrada exige un
+localizador resoluble —libro por **ISBN-13**, artículo por **DOI**, norma o
+documentación oficial por **URL https** de la fuente primaria— y cada cita de
+clase declara **el uso que esa clase hace de la obra**, no solo la obra.
+
+La obra transversal es **William Ellet — *The Case Study Handbook*, Revised
+Edition (2018), ISBN-13 [9781633696150](https://openlibrary.org/isbn/9781633696150)**.
+Se cita en **las 288 clases** porque el método de caso vertebra el programa: cada
+clase termina en un caso ejecutivo que se resuelve como problema → evidencia →
+alternativas → recomendación → condición de revisión. No es una lectura
+complementaria; es la gramática del entregable.
+
+Lo que no resuelve **se marca `pendiente`, no se borra ni se rellena a ojo**: un
+hueco declarado es información, un hueco rellenado por intuición es una invención
+con formato de bibliografía.
+
+<!-- registro-de-fuentes:inicio -->
+<!-- Cifras generadas por scripts/verify-sources. No editar a mano. -->
+
+| Medida | Valor |
+|---|---:|
+| Clases con bloque de fuentes | **288** |
+| Obras y fuentes distintas citadas | **207** |
+| Citas totales en las clases | **3200** |
+| Entradas del registro | **207** |
+| Verificadas con localizador resoluble | **201** |
+| Pendientes (hueco declarado, no borrado) | **6** |
+| Cobertura de lo citado sobre el registro | **100.0 %** |
+
+Por tipo — book: **164** · paper: **2** · reference: **1** · standard: **40**. Última revalidación en red: **2026-08-19**.
+
+**Obras rectoras por número de clases que las usan:**
+
+| Fuente | Clases | Estado |
+|---|---:|---|
+| Anders Ericsson & Robert Pool — Peak | 288 | verificada |
+| Grant Wiggins & Jay McTighe — Understanding by Design | 288 | verificada |
+| Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — Make It Stick | 288 | verificada |
+| Susan A. Ambrose et al. — How Learning Works | 288 | verificada |
+| William Ellet — The Case Study Handbook | 288 | verificada |
+| Peter F. Drucker — Management: Tasks, Responsibilities, Practices | 52 | verificada |
+| Peter F. Drucker — The Effective Executive | 36 | verificada |
+| Tim Koller, Marc Goedhart & David Wessels — Valuation: Measuring and Managing the Value of Companies | 29 | verificada |
+
+<!-- registro-de-fuentes:fin -->
+
+Las cifras de esa tabla las produce `python scripts/verify-sources`, que corre en
+CI y bloquea; la revalidación contra la red vive aparte en
+`python scripts/refresh-sources`, que **no** bloquea. Detalle del reparto entre
+bibliografía y fuentes oficiales, abajo.
+
+### 📖 Bibliografía de gestión
 
 Cada parte sigue la secuencia y los énfasis de la literatura de referencia de su
-área, y las clases normativas cierran con fuentes consultables en origen:
+área:
 
 | Área | Obras y marcos de referencia |
 |---|---|
@@ -263,14 +317,28 @@ Cada parte sigue la secuencia y los énfasis de la literatura de referencia de s
 | **Estrategia y organización** | Porter — *Competitive Strategy* · Rumelt — *Good Strategy/Bad Strategy* · Christensen — *The Innovator's Dilemma* · Galbraith — *Designing Organizations* |
 | **Alta dirección y gobierno** | Charan — *Boards That Deliver* · Tricker — *Corporate Governance* · Damodaran — *Valuation* · Koller — *Valuation* (McKinsey) |
 | **Founder y propiedad** | Ries — *The Lean Startup* · Aulet — *Disciplined Entrepreneurship* · Gerber — *The E-Myth Revisited* · Drucker — *Innovation and Entrepreneurship* |
-| **Fuentes oficiales (Chile)** | **SII** · **Dirección del Trabajo** · **BCN** · **Registro de Empresas y Sociedades** · **INAPI** · **Sercotec** · **Corfo** · **ChileCompra** · **CMF** · **SUSESO** |
 | **Pedagogía del programa** | Ambrose — *How Learning Works* · Brown/Roediger/McDaniel — *Make It Stick* · Wiggins & McTighe — *Understanding by Design* · Ericsson & Pool — *Peak* · Ellet — *The Case Study Handbook* |
 
-> Las referencias apuntan a las obras y a los documentos oficiales; **no se
-> reproduce su contenido**. La redacción, los casos, los ejercicios, las
-> plantillas y las evaluaciones del programa son originales. Catálogo completo
-> en [docs/BOOKS.md](docs/BOOKS.md) y mapa de uso por parte en
+> Las referencias apuntan a las obras; **no se reproduce su contenido**. La
+> redacción, los casos, los ejercicios, las plantillas y las evaluaciones del
+> programa son originales. Catálogo orientativo en
+> [docs/BOOKS.md](docs/BOOKS.md) y mapa de uso por parte en
 > [docs/REFERENCE_MAP.md](docs/REFERENCE_MAP.md).
+
+### 🏛️ Fuentes oficiales y normas
+
+Son **otra cosa** que la bibliografía y se tratan como tal: no se contrastan,
+se verifican en origen y caducan. Un libro sigue diciendo lo mismo dentro de
+cinco años; un trámite, un plazo o un tramo de impuesto, no.
+
+| Ámbito | Emisores |
+|---|---|
+| **Chile** | **SII** · **Dirección del Trabajo** · **BCN LeyChile** · **Registro de Empresas y Sociedades** · **INAPI** · **Departamento de Derechos Intelectuales** · **Sercotec** · **Corfo** · **ChileCompra** · **CMF** · **SUSESO** · **Superintendencia de Pensiones** · **Subsecretaría de Previsión Social** · **AFC** · **ChileAtiende** |
+| **Internacionales** | **OECD** (gobierno corporativo, principios de IA) · **NIST** (CSF 2.0, AI RMF 1.0) · **COSO** (ERM) · **ISO** (9001, 22301, 31000) · **IFRS Foundation** |
+
+La tabla completa, con URL, fecha de consulta y estado de cada una, se genera
+desde el mismo registro en
+[docs/OFFICIAL_SOURCES.md](docs/OFFICIAL_SOURCES.md).
 
 ## 🇨🇱 Ruta de independencia y empresa
 
@@ -336,8 +404,9 @@ en rojo.
 
 | ⚙️ Workflow | Qué cubre |
 |---|---|
-| 🧪 [ci.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/ci.yml) | las 16 secciones obligatorias de las 288 clases, títulos coherentes entre sus tres archivos, numeración continua 001–288, densidad mínima y detección de párrafos replicados y similitud anormal, enlaces relativos, `SYLLABUS`/`STATUS`/`MANIFEST`/`FILE_INDEX` sincronizados, `markdownlint`, UTF-8 sin BOM, build del portal y **32 pruebas en 3 sistemas × 3 versiones de Python** |
+| 🧪 [ci.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/ci.yml) | las 16 secciones obligatorias de las 288 clases, títulos coherentes entre sus tres archivos, numeración continua 001–288, densidad mínima y detección de párrafos replicados y similitud anormal, enlaces relativos, `SYLLABUS`/`STATUS`/`MANIFEST`/`FILE_INDEX` sincronizados, `markdownlint`, UTF-8 sin BOM, build del portal y el **registro de fuentes** (toda obra citada declarada y al revés) y **41 pruebas en 3 sistemas × 3 versiones de Python** |
 | 🔒 [security.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/security.yml) | `pip-audit` sobre las dependencias, `bandit` sobre el código, `gitleaks` en el historial completo y dos detectores propios de credenciales y datos personales — además, cada lunes, porque una dependencia segura hoy puede dejar de serlo sin que nadie toque el repositorio |
+| 🔗 [sources.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/sources.yml) | revalida el registro de fuentes contra la red el día 1 de cada mes: resuelve cada ISBN-13 en `openlibrary.org`, cada DOI en `api.crossref.org` y hace GET a cada URL de norma — **no bloquea**, informa |
 | 🚀 [pages.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/pages.yml) | genera el portal, lo despliega en GitHub Pages y **comprueba que responda 200** junto con sus páginas clave antes de dar el despliegue por bueno |
 
 Dentro de `ci.yml`, una **puerta de calidad** final exige que los seis trabajos
@@ -355,7 +424,16 @@ python tools/build_syllabus.py --check         # el temario refleja las clases
 python tools/build_status.py --check           # el estado refleja el repositorio
 python tools/build_manifest.py --check         # la ficha refleja el inventario
 python tools/build_file_index.py --check       # el índice refleja los archivos
-pytest                                         # 32 pruebas estructurales
+python scripts/verify-sources                  # el registro de fuentes cuadra con las citas
+pytest                                         # pruebas estructurales
+```
+
+La revalidación de las fuentes contra la red **no** está en esa lista a
+propósito: vive aparte y no bloquea. Si la red entra en el CI, el CI se vuelve
+intermitente y se acaba ignorando.
+
+```bash
+python scripts/refresh-sources --dry-run       # resuelve ISBN, DOI y URL de norma
 ```
 
 El portal se genera aparte, porque es lo único que necesita dependencias:

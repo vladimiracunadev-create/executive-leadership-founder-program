@@ -5,7 +5,7 @@
 
 **Qué cambió en cada versión y por qué.**
 
-[![Versión](https://img.shields.io/badge/versión-2.1.0-e67e22?style=flat-square)](CHANGELOG.md)
+[![Versión](https://img.shields.io/badge/versión-2.2.0-e67e22?style=flat-square)](CHANGELOG.md)
 [![Formato](https://img.shields.io/badge/formato-Keep%20a%20Changelog-007c83?style=flat-square)](https://keepachangelog.com/es-ES/1.1.0/)
 [![Versionado](https://img.shields.io/badge/versionado-SemVer-2e8b57?style=flat-square)](https://semver.org/lang/es/)
 
@@ -17,6 +17,45 @@
 <!-- portada:fin -->
 
 ---
+
+## 2.2.0 — 2026-08-19
+
+### Trazabilidad de fuentes
+
+- Crea [`sources/bibliography.json`](sources/bibliography.json), **el registro
+  único de fuentes**. Cada entrada exige un localizador resoluble: libro por
+  **ISBN-13** con dígito de control válido, artículo por **DOI**, norma o
+  documentación oficial por **URL https** de la fuente primaria. Lo que no
+  resuelve se marca `pendiente` con el motivo; no se borra ni se rellena a ojo.
+- Declara la **obra transversal** que faltaba: William Ellet — *The Case Study
+  Handbook*, citada en las 288 clases porque el método de caso vertebra el
+  programa, y hasta ahora no aparecía en ningún registro.
+- Fusiona `data/official_sources.json` y la tabla escrita a mano de
+  [`docs/OFFICIAL_SOURCES.md`](docs/OFFICIAL_SOURCES.md) en ese registro único.
+  El documento pasa a **generarse** desde él; `data/official_sources.json`
+  desaparece.
+- Normaliza el bloque de fuentes de **las 288 clases** a una forma canónica:
+  `- <emisor> — *<obra>*. **Uso en esta clase:** <uso>.`. Cada cita declara
+  ahora **el uso que esa clase hace de la obra**, no solo la obra. El desarrollo
+  de las clases no se toca.
+- Separa en el README la **bibliografía de gestión** de las **fuentes oficiales
+  y normas**: son dos cosas distintas y caducan distinto.
+
+### Verificación
+
+- `scripts/verify-sources` — **offline, determinista, bloquea en CI**: esquema
+  del registro, dígito de control del ISBN-13, forma canónica del localizador,
+  toda obra citada declarada, ninguna entrada sin usar, ningún bloque de fuentes
+  repetido entre clases y las cifras publicadas cuadrando con el registro.
+- `scripts/refresh-sources` — **en red, manual o programada, no bloquea**:
+  resuelve ISBN en `openlibrary.org` y DOI en `api.crossref.org` comparando
+  título y autores, hace GET a cada URL de norma, actualiza `verified_on` y
+  `accessed`, e informa de lo que dejó de resolver sin borrarlo.
+- Las cifras del README **las produce el verificador**, no una persona: viven
+  entre marcadores y el CI falla si dejan de coincidir con el registro.
+- `.github/workflows/sources.yml` revalida contra la red el día 1 de cada mes y
+  publica el informe en el resumen del job, separado del CI a propósito: la red
+  no es determinista y un CI intermitente se acaba ignorando.
 
 ## 2.1.0 — 2026-08-13
 

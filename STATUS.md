@@ -5,7 +5,7 @@
 
 **Lo que hay hoy en el repositorio, contado archivo por archivo.**
 
-[![Versión](https://img.shields.io/badge/versión-2.1.0-e67e22?style=flat-square)](CHANGELOG.md)
+[![Versión](https://img.shields.io/badge/versión-2.2.0-e67e22?style=flat-square)](CHANGELOG.md)
 [![Clases](https://img.shields.io/badge/clases-288%2F288-3fb950?style=flat-square)](SYLLABUS.md)
 [![Generado por](https://img.shields.io/badge/generado%20por-build__status.py-007c83?style=flat-square)](tools/build_status.py)
 
@@ -43,11 +43,11 @@
 
 | Métrica | Valor |
 |---|---:|
-| Palabras en las clases | 976.458 |
-| Palabras por clase | 3.169–3.990 (mediana 3.381) |
+| Palabras en las clases | 996.762 |
+| Palabras por clase | 3.228–4.157 (mediana 3.449) |
 | Subsecciones de desarrollo por clase | 6–7 |
-| Referencias citadas al cierre de clase | 3.232 |
-| Referencias por clase | 11–18 (mediana 11) |
+| Referencias citadas al cierre de clase | 3.200 |
+| Referencias por clase | 11–17 (mediana 11) |
 | Bibliografía catalogada | 229 obras |
 
 ## 🧭 Cobertura por etapa

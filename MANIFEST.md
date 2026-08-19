@@ -5,7 +5,7 @@
 
 **Qué contiene el repositorio, qué herramienta genera cada documento y qué garantiza cada comprobación.**
 
-[![Versión](https://img.shields.io/badge/versión-2.2.0-e67e22?style=flat-square)](CHANGELOG.md)
+[![Versión](https://img.shields.io/badge/versión-2.3.0-e67e22?style=flat-square)](CHANGELOG.md)
 [![Generados](https://img.shields.io/badge/documentos%20generados-4-007c83?style=flat-square)](STATUS.md)
 [![Validadores](https://img.shields.io/badge/validadores-8-2e8b57?style=flat-square)](README.md)
 
@@ -24,7 +24,7 @@
 | Campo | Valor |
 |---|---|
 | **Nombre** | `executive-leadership-founder-program` |
-| **Versión** | `2.2.0` |
+| **Versión** | `2.3.0` |
 | **Estado** | Programa completo · 6 etapas · 24 partes · 288 clases |
 | **Licencia** | MIT para el contenido original y el código |
 | **Idioma** | Español |
@@ -51,7 +51,7 @@
 | Escenarios del simulador | 48 |
 | Obras catalogadas | 229 |
 | Referencias citadas al cierre de clase | 3.200 |
-| Documentos Markdown | 814 |
+| Documentos Markdown | 815 |
 
 ## 🧱 Contrato de una clase
 

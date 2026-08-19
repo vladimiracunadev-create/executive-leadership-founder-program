@@ -10,7 +10,7 @@
 [![Seguridad](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/actions/workflows/security.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/actions/workflows/security.yml)
 [![Portal](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/actions/workflows/pages.yml/badge.svg?branch=main)](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/)
 
-[![Versión](https://img.shields.io/badge/versión-2.2.0-e67e22?style=for-the-badge)](CHANGELOG.md)
+[![Versión](https://img.shields.io/badge/versión-2.3.0-e67e22?style=for-the-badge)](CHANGELOG.md)
 [![Clases](https://img.shields.io/badge/clases-288%20·%2024%20partes-7c5cff?style=for-the-badge)](SYLLABUS.md)
 [![Horas](https://img.shields.io/badge/horas-720-2e8b57?style=for-the-badge)](STATUS.md)
 [![Nivel](https://img.shields.io/badge/nivel-profesional%20→%20business%20owner-8957e5?style=for-the-badge)](STATUS.md)
@@ -247,59 +247,58 @@ entre una clase con poca densidad, con menos de cinco referencias, con párrafos
 largos copiados de otra o con similitud léxica anormal dentro de su parte. Es lo
 que evita volver al patrón de plantilla rellenada.
 
-## 📚 Registro de fuentes
+## 📗 Trazabilidad de fuentes
 
-Todo lo que una clase cita está declarado en un único registro:
-**[sources/bibliography.json](sources/bibliography.json)**. Cada entrada exige un
-localizador resoluble —libro por **ISBN-13**, artículo por **DOI**, norma o
-documentación oficial por **URL https** de la fuente primaria— y cada cita de
-clase declara **el uso que esa clase hace de la obra**, no solo la obra.
+**El catálogo completo, obra por obra y con el enlace para comprobarla, está en
+[docs/FUENTES.md](docs/FUENTES.md).**
 
-La obra transversal es **William Ellet — *The Case Study Handbook*, Revised
-Edition (2018), ISBN-13 [9781633696150](https://openlibrary.org/isbn/9781633696150)**.
-Se cita en **las 288 clases** porque el método de caso vertebra el programa: cada
-clase termina en un caso ejecutivo que se resuelve como problema → evidencia →
-alternativas → recomendación → condición de revisión. No es una lectura
-complementaria; es la gramática del entregable.
-
-Lo que no resuelve **se marca `pendiente`, no se borra ni se rellena a ojo**: un
-hueco declarado es información, un hueco rellenado por intuición es una invención
-con formato de bibliografía.
+La obra transversal del programa es **William Ellet — *The Case Study Handbook*,
+Revised Edition (Harvard Business Review Press, 2018), ISBN-13
+[9781633696150](https://openlibrary.org/isbn/9781633696150)**. Se cita en **las 288
+clases** porque el método de caso vertebra el material: cada clase termina en un
+caso ejecutivo que se resuelve como problema → evidencia → alternativas →
+recomendación → condición de revisión. No es una lectura complementaria; es la
+gramática del entregable.
 
 <!-- registro-de-fuentes:inicio -->
-<!-- Cifras generadas por scripts/verify-sources. No editar a mano. -->
+Ninguna afirmación del programa nace de la nada. Cada clase cierra con las obras
+que la sostienen, y cada una de esas obras tiene entrada propia en
+**[sources/bibliography.json](sources/bibliography.json)** con un localizador al
+que se puede ir a comprobarla: **ISBN-13** para un libro, **DOI** para un
+artículo, **URL oficial** para una norma. `scripts/verify-sources` falla en CI si
+una clase cita algo que no está registrado, o si una entrada del registro dejó de
+usarse.
 
-| Medida | Valor |
-|---|---:|
-| Clases con bloque de fuentes | **288** |
-| Obras y fuentes distintas citadas | **207** |
-| Citas totales en las clases | **3200** |
-| Entradas del registro | **207** |
-| Verificadas con localizador resoluble | **201** |
-| Pendientes (hueco declarado, no borrado) | **6** |
-| Cobertura de lo citado sobre el registro | **100.0 %** |
+| 📚 Obras registradas | 📎 Citas en clase | ✅ Con localizador comprobado | 🕓 Pendientes | 🏛️ Organismos | 📘 Clases |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **207** | **3200** | **201** | **6** | **25** | **288** |
 
-Por tipo — book: **164** · paper: **2** · reference: **1** · standard: **40**. Última revalidación en red: **2026-08-19**.
+**Cobertura del registro: 100.0 %** — de todas las obras que las
+288 clases citan, esa proporción tiene entrada propia. De ellas,
+**97.1 %** tiene además el localizador resuelto contra su fuente.
+«Pendiente» no significa dudosa: significa que su localizador todavía no se
+resolvió y que el hueco está declarado en vez de disimulado. Última revalidación
+en red: **2026-08-19**.
 
-**Obras rectoras por número de clases que las usan:**
+### Obras rectoras del programa
 
-| Fuente | Clases | Estado |
-|---|---:|---|
-| Anders Ericsson & Robert Pool — Peak | 288 | verificada |
-| Grant Wiggins & Jay McTighe — Understanding by Design | 288 | verificada |
-| Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — Make It Stick | 288 | verificada |
-| Susan A. Ambrose et al. — How Learning Works | 288 | verificada |
-| William Ellet — The Case Study Handbook | 288 | verificada |
-| Peter F. Drucker — Management: Tasks, Responsibilities, Practices | 52 | verificada |
-| Peter F. Drucker — The Effective Executive | 36 | verificada |
-| Tim Koller, Marc Goedhart & David Wessels — Valuation: Measuring and Managing the Value of Companies | 29 | verificada |
+Las que más veces sostienen una afirmación. **El catálogo completo, obra por obra
+y con su enlace, está en [docs/FUENTES.md](docs/FUENTES.md).**
+
+| Autor o emisor | Obra | Localizador | Clases |
+|---|---|---|---:|
+| Anders Ericsson & Robert Pool | *Peak* | [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143) | 288 |
+| Grant Wiggins & Jay McTighe | *Understanding by Design* | [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849) | 288 |
+| Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel | *Make It Stick* | [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572) | 288 |
+| Susan A. Ambrose et al. | *How Learning Works* | [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601) | 288 |
+| William Ellet | *The Case Study Handbook* | [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150) | 288 |
+| Peter F. Drucker | *Management: Tasks, Responsibilities, Practices* | [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925) | 52 |
+| Peter F. Drucker | *The Effective Executive* | [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079) | 36 |
+| Tim Koller, Marc Goedhart & David Wessels | *Valuation: Measuring and Managing the Value of Companies* | [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191) | 29 |
+| OECD | *G20/OECD Principles of Corporate Governance 2023* | [www.oecd.org](https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html) | 28 |
+| Andrew S. Grove | *High Output Management* | [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349) | 26 |
 
 <!-- registro-de-fuentes:fin -->
-
-Las cifras de esa tabla las produce `python scripts/verify-sources`, que corre en
-CI y bloquea; la revalidación contra la red vive aparte en
-`python scripts/refresh-sources`, que **no** bloquea. Detalle del reparto entre
-bibliografía y fuentes oficiales, abajo.
 
 ### 📖 Bibliografía de gestión
 
@@ -337,8 +336,9 @@ cinco años; un trámite, un plazo o un tramo de impuesto, no.
 | **Internacionales** | **OECD** (gobierno corporativo, principios de IA) · **NIST** (CSF 2.0, AI RMF 1.0) · **COSO** (ERM) · **ISO** (9001, 22301, 31000) · **IFRS Foundation** |
 
 La tabla completa, con URL, fecha de consulta y estado de cada una, se genera
-desde el mismo registro en
-[docs/OFFICIAL_SOURCES.md](docs/OFFICIAL_SOURCES.md).
+desde el mismo registro en [docs/OFFICIAL_SOURCES.md](docs/OFFICIAL_SOURCES.md), y
+el inventario de todo —libros y normas juntos, con su enlace— en
+[docs/FUENTES.md](docs/FUENTES.md).
 
 ## 🇨🇱 Ruta de independencia y empresa
 

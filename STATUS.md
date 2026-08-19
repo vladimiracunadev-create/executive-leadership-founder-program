@@ -5,7 +5,7 @@
 
 **Lo que hay hoy en el repositorio, contado archivo por archivo.**
 
-[![Versión](https://img.shields.io/badge/versión-2.2.0-e67e22?style=flat-square)](CHANGELOG.md)
+[![Versión](https://img.shields.io/badge/versión-2.3.0-e67e22?style=flat-square)](CHANGELOG.md)
 [![Clases](https://img.shields.io/badge/clases-288%2F288-3fb950?style=flat-square)](SYLLABUS.md)
 [![Generado por](https://img.shields.io/badge/generado%20por-build__status.py-007c83?style=flat-square)](tools/build_status.py)
 
@@ -37,14 +37,14 @@
 | Casos integradores | 24 |
 | Plantillas de trabajo | 39 |
 | Escenarios del simulador | 48 |
-| Documentos Markdown | 814 |
+| Documentos Markdown | 815 |
 
 ## 📚 Densidad del material
 
 | Métrica | Valor |
 |---|---:|
-| Palabras en las clases | 996.762 |
-| Palabras por clase | 3.228–4.157 (mediana 3.449) |
+| Palabras en las clases | 1.022.519 |
+| Palabras por clase | 3.315–4.204 (mediana 3.539) |
 | Subsecciones de desarrollo por clase | 6–7 |
 | Referencias citadas al cierre de clase | 3.200 |
 | Referencias por clase | 11–17 (mediana 11) |

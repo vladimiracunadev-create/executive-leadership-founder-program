@@ -41,7 +41,8 @@ este material aunque lo termines entero.
 | [Marco de evaluación](ASSESSMENT_FRAMEWORK.md) | Cómo se puntúan quiz, caso, laboratorio y entregable, y qué es aprobar. |
 | [Mapa de fuentes por parte](REFERENCE_MAP.md) | El andamiaje bibliográfico: qué lente aporta cada obra a cada parte. |
 | [Bibliografía](BOOKS.md) | El catálogo completo en tres capas: núcleo, complementaria y fuente oficial. |
-| [Registro de fuentes](../sources/bibliography.json) | La única lista de obras y normas con localizador resoluble: ISBN-13, DOI o URL de la fuente primaria. |
+| [Fuentes](FUENTES.md) | **Todas** las obras y normas del programa, una por una y con el enlace para comprobarlas. |
+| [Registro de fuentes](../sources/bibliography.json) | El archivo del que sale esa página: cada obra con su localizador y su fecha de comprobación. |
 | [Informe de calidad](QUALITY_REPORT.md) | Por qué se reescribió el material y qué se corrigió. |
 | [Guía docente](INSTRUCTOR_GUIDE.md) | Cómo impartir una sesión de 150 minutos y cómo evaluar a un grupo. |
 

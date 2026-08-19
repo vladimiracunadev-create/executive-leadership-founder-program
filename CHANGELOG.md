@@ -5,7 +5,7 @@
 
 **Qué cambió en cada versión y por qué.**
 
-[![Versión](https://img.shields.io/badge/versión-2.2.0-e67e22?style=flat-square)](CHANGELOG.md)
+[![Versión](https://img.shields.io/badge/versión-2.3.0-e67e22?style=flat-square)](CHANGELOG.md)
 [![Formato](https://img.shields.io/badge/formato-Keep%20a%20Changelog-007c83?style=flat-square)](https://keepachangelog.com/es-ES/1.1.0/)
 [![Versionado](https://img.shields.io/badge/versionado-SemVer-2e8b57?style=flat-square)](https://semver.org/lang/es/)
 
@@ -17,6 +17,32 @@
 <!-- portada:fin -->
 
 ---
+
+## 2.3.0 — 2026-08-19
+
+### Las fuentes se ven, y se pueden comprobar
+
+La versión anterior dejó el registro correcto pero ilegible: para saber de dónde
+salía una clase había que abrir un JSON. Ahora la fuente se ve donde se usa.
+
+- **Cada cita de clase muestra la edición y el localizador.** Las 3 200 citas de
+  las 288 clases pasan a la forma
+  `Autor — *Obra* (Editorial, año). **Uso en esta clase:** … **Localizador:**
+  [ISBN-13 …](https://openlibrary.org/isbn/…)`. Editorial y año no se escriben a
+  mano: salen de la ficha de la edición que resolvió el ISBN.
+- **[docs/FUENTES.md](docs/FUENTES.md)** — la página de lectura del registro:
+  cómo leer una cita, las 164 obras de gestión con autor, editorial, año, enlace
+  y número de clases que las usan, las 41 fuentes oficiales con su URL y fecha de
+  consulta, y la lista de pendientes con su motivo. Se genera desde el registro.
+- El README deja de ser un tablero de cifras: una tabla compacta, las obras
+  rectoras **con su enlace** y el puntero al catálogo completo.
+- `scripts/verify-sources --write` escribe las citas de clase desde el registro, y
+  el CI falla si alguna se desvía: una clase ya no puede decir que cita una obra
+  distinta de la que el registro declara.
+- Cuatro ediciones corregidas a mano tras comprobarlas contra su ficha: *The Lean
+  Startup* apuntaba a la traducción alemana y *Atomic Habits* a una edición
+  self-published; *The Effective Executive* y *The Innovator's Dilemma* no tenían
+  ISBN-13 resoluble en la edición que devolvía la búsqueda.
 
 ## 2.2.0 — 2026-08-19
 

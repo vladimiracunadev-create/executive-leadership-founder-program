@@ -245,7 +245,7 @@ def validar_datos() -> list[str]:
             if not opcion.get("effects"):
                 errores.append(f"escenario {escenario.get('id', '?')}: opción sin `effects`")
 
-    for obligatorio in ("data/books.csv", "data/official_sources.json",
+    for obligatorio in ("data/books.csv", "sources/bibliography.json",
                         "data/chile_labor_law_map.json", "docs/BOOKS.md"):
         if not (ROOT / obligatorio).exists():
             errores.append(f"falta {obligatorio}")

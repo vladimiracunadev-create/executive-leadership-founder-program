@@ -74,10 +74,9 @@ def test_la_bibliografia_esta_catalogada(raiz: Path):
     assert len(set(claves)) == len(claves), "hay claves de obra repetidas"
 
 
-def test_las_fuentes_oficiales_son_json_valido(raiz: Path):
-    for nombre in ("official_sources.json", "chile_labor_law_map.json"):
-        datos = json.loads((raiz / "data" / nombre).read_text(encoding="utf-8"))
-        assert datos, f"{nombre} está vacío"
+def test_el_mapa_normativo_laboral_es_json_valido(raiz: Path):
+    datos = json.loads((raiz / "data" / "chile_labor_law_map.json").read_text(encoding="utf-8"))
+    assert datos, "chile_labor_law_map.json está vacío"
 
 
 def test_el_simulador_lista_los_escenarios(raiz: Path, escenarios):

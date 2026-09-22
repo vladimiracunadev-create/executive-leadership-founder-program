@@ -5,7 +5,7 @@
 
 **Todo el texto versionado del repositorio, en un listado plano y ordenado.**
 
-[![Archivos](https://img.shields.io/badge/archivos-1150-7c5cff?style=flat-square)](FILE_INDEX.md)
+[![Archivos](https://img.shields.io/badge/archivos-1156-7c5cff?style=flat-square)](FILE_INDEX.md)
 [![Generado por](https://img.shields.io/badge/generado%20por-build__file__index.py-007c83?style=flat-square)](tools/build_file_index.py)
 [![Se edita](https://img.shields.io/badge/se%20edita-nunca%20a%20mano-8b0000?style=flat-square)](MANIFEST.md)
 
@@ -23,7 +23,7 @@
 
 | Extensión | Archivos |
 |---|---:|
-| `.md` | 816 |
+| `.md` | 822 |
 | `.yaml` | 289 |
 | `.py` | 22 |
 | `.yml` | 8 |
@@ -46,12 +46,16 @@
 - `CONTRIBUTING.md`
 - `FILE_INDEX.md`
 - `LICENSE`
+- `LICENSE-CONTENT.md`
+- `LICENSING_AUDIT.md`
 - `MANIFEST.md`
 - `README.md`
 - `ROADMAP.md`
 - `SECURITY.md`
 - `STATUS.md`
 - `SYLLABUS.md`
+- `THIRD_PARTY_NOTICES.md`
+- `TRADEMARKS.md`
 - `VERSION`
 - `pyproject.toml`
 - `requirements-site.txt`
@@ -131,11 +135,13 @@
 - `CHILE_CONTRACT_TYPES_AND_WORK_ARRANGEMENTS.md`
 - `CHILE_FOUNDER_TRACK.md`
 - `CHILE_LABOR_EMPLOYMENT_LAW.md`
+- `COMMERCIAL_USE.md`
 - `ETHICS_AND_LIMITATIONS.md`
 - `EXECUTIVE_PORTFOLIO.md`
 - `FUENTES.md`
 - `INSTRUCTOR_GUIDE.md`
 - `LEARNING_PATH.md`
+- `LICENSING_HISTORY.md`
 - `MARKET_ALIGNMENT.md`
 - `OFFICIAL_SOURCES.md`
 - `PEDAGOGICAL_STANDARD.md`

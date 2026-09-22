@@ -37,7 +37,7 @@
 | Casos integradores | 24 |
 | Plantillas de trabajo | 39 |
 | Escenarios del simulador | 48 |
-| Documentos Markdown | 815 |
+| Documentos Markdown | 821 |
 
 ## 📚 Densidad del material
 

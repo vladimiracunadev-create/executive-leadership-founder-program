@@ -53,7 +53,7 @@ PLANTILLA = """<!-- portada:inicio -->
 | **Nombre** | `executive-leadership-founder-program` |
 | **Versión** | `{version}` |
 | **Estado** | Programa completo · {etapas} etapas · {partes} partes · {clases} clases |
-| **Licencia** | MIT para el contenido original y el código |
+| **Licencia** | Código MIT · contenido educativo CC BY-NC-SA 4.0 |
 | **Idioma** | Español |
 | **Repositorio** | <{repo}> |
 | **Portal** | <https://vladimiracunadev-create.github.io/executive-leadership-founder-program/> |

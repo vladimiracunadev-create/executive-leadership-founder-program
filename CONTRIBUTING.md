@@ -88,5 +88,21 @@ está en [SECURITY.md](SECURITY.md).
 
 ## 📄 Licencia de tu aportación
 
-Al contribuir aceptas que tu aportación se publique bajo la licencia
-[MIT](LICENSE) del repositorio.
+Al contribuir declaras que tienes derecho a enviar la aportación y aceptas su
+publicación bajo la licencia que corresponde a su naturaleza:
+
+- código, pruebas y configuración técnica: [MIT](LICENSE);
+- currículo, clases, casos, ejercicios, evaluaciones, documentación educativa,
+  plantillas y frameworks originales: [CC BY-NC-SA 4.0](LICENSE-CONTENT.md).
+
+No envíes texto, tablas, figuras, ejercicios, plantillas, estándares ni código
+de terceros sin permiso compatible y atribución verificable. Una cita no
+convierte la obra citada en parte licenciable del programa. Declara en el PR
+cualquier material externo, su fuente y su licencia.
+
+La autoría se conserva en el historial de Git. Al añadir coautores, usa su
+nombre y correo con una identidad consistente. No atribuyas al programa
+metodologías externas: identifica al autor u organización y enlaza la fuente.
+
+Las contribuciones no conceden derechos sobre las marcas del proyecto ni
+implican una relación laboral, certificación o respaldo comercial.

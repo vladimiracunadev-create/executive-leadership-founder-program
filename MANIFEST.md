@@ -26,7 +26,7 @@
 | **Nombre** | `executive-leadership-founder-program` |
 | **Versión** | `2.3.0` |
 | **Estado** | Programa completo · 6 etapas · 24 partes · 288 clases |
-| **Licencia** | MIT para el contenido original y el código |
+| **Licencia** | Código MIT · contenido educativo CC BY-NC-SA 4.0 |
 | **Idioma** | Español |
 | **Repositorio** | <https://github.com/vladimiracunadev-create/executive-leadership-founder-program> |
 | **Portal** | <https://vladimiracunadev-create.github.io/executive-leadership-founder-program/> |
@@ -51,7 +51,7 @@
 | Escenarios del simulador | 48 |
 | Obras catalogadas | 229 |
 | Referencias citadas al cierre de clase | 3.200 |
-| Documentos Markdown | 815 |
+| Documentos Markdown | 821 |
 
 ## 🧱 Contrato de una clase
 

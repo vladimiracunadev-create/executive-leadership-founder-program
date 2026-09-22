@@ -5,7 +5,7 @@
 
 **Los documentos que explican cómo está construido el programa, cómo se estudia y qué límites tiene.**
 
-[![Documentos](https://img.shields.io/badge/documentos-18-7c5cff?style=flat-square)](README.md)
+[![Documentos](https://img.shields.io/badge/documentos-20-7c5cff?style=flat-square)](README.md)
 [![Idioma](https://img.shields.io/badge/idioma-español-1f6feb?style=flat-square)](../README.md)
 
 [🏠 Inicio](../README.md) ·
@@ -71,6 +71,11 @@ las normas cambian y la fecha de verificación de cada ficha lo dice.
 | Documento | Para qué sirve |
 |---|---|
 | [Ética y límites](ETHICS_AND_LIMITATIONS.md) | Qué no autoriza este programa, y por qué liderar no es mandar. |
+| [Historial de licenciamiento](LICENSING_HISTORY.md) | Qué se publicó bajo MIT, cuál es el punto de corte y por qué esas concesiones se preservan. |
+| [Uso comercial](COMMERCIAL_USE.md) | Qué cubre CC BY-NC-SA 4.0 y cuándo solicitar una licencia comercial. |
+
+La matriz completa de código, currículo, plantillas, contributors y marcos de
+terceros está en la [auditoría de licenciamiento](../LICENSING_AUDIT.md).
 
 ---
 

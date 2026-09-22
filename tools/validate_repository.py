@@ -36,6 +36,18 @@ CLASES_POR_PARTE = 12
 LABS_POR_PARTE = 4
 ESCENARIOS_ESPERADOS = 48
 
+ARCHIVOS_LICENCIA = (
+    "LICENSE",
+    "LICENSE-CONTENT.md",
+    "THIRD_PARTY_NOTICES.md",
+    "TRADEMARKS.md",
+    "LICENSING_AUDIT.md",
+    "docs/LICENSING_HISTORY.md",
+    "docs/COMMERCIAL_USE.md",
+)
+
+AVISO_LICENCIA = "Código abierto ≠ currículo libre para explotación comercial sin autorización."
+
 # Las dieciséis secciones del estándar `deep-class-v2`. El orden importa: es el
 # recorrido pedagógico de la clase, no una lista de comprobación suelta.
 SECCIONES = (
@@ -218,6 +230,7 @@ def validar(estricto: bool) -> list[str]:
             errores.append(f"numeración discontinua; faltan los números {faltan[:12]}")
 
     errores += validar_datos()
+    errores += validar_licencias()
     return errores
 
 
@@ -284,6 +297,33 @@ def validar_version() -> list[str]:
 
     if f"## {version} —" not in (ROOT / "CHANGELOG.md").read_text(encoding="utf-8"):
         errores.append(f"CHANGELOG.md no tiene una entrada para la versión {version}")
+
+    return errores
+
+
+def validar_licencias() -> list[str]:
+    """La separación código/contenido debe ser visible, completa y coherente."""
+    errores: list[str] = []
+
+    for ruta in ARCHIVOS_LICENCIA:
+        if not (ROOT / ruta).exists():
+            errores.append(f"falta {ruta}")
+
+    readme = (ROOT / "README.md").read_text(encoding="utf-8")
+    if AVISO_LICENCIA not in readme:
+        errores.append("README.md no muestra el aviso de explotación comercial")
+
+    licencia_codigo = (ROOT / "LICENSE").read_text(encoding="utf-8")
+    if "auxiliary software" not in licencia_codigo.lower():
+        errores.append("LICENSE no limita explícitamente MIT al software auxiliar")
+
+    licencia_contenido = (ROOT / "LICENSE-CONTENT.md").read_text(encoding="utf-8")
+    if "CC BY-NC-SA 4.0" not in licencia_contenido:
+        errores.append("LICENSE-CONTENT.md no declara CC BY-NC-SA 4.0")
+
+    historial = (ROOT / "docs" / "LICENSING_HISTORY.md").read_text(encoding="utf-8")
+    if "ddb68faa22d37493add41d78b2767997fe35ad8a" not in historial:
+        errores.append("LICENSING_HISTORY.md no fija el último commit bajo MIT")
 
     return errores
 

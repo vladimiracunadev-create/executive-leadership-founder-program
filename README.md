@@ -15,7 +15,8 @@
 [![Horas](https://img.shields.io/badge/horas-720-2e8b57?style=for-the-badge)](STATUS.md)
 [![Nivel](https://img.shields.io/badge/nivel-profesional%20→%20business%20owner-8957e5?style=for-the-badge)](STATUS.md)
 [![Idioma](https://img.shields.io/badge/idioma-español-1f6feb?style=for-the-badge)](SYLLABUS.md)
-[![License](https://img.shields.io/badge/license-MIT-3fb950?style=for-the-badge)](LICENSE)
+[![Código](https://img.shields.io/badge/código-MIT-3fb950?style=for-the-badge)](LICENSE)
+[![Contenido](https://img.shields.io/badge/contenido-CC%20BY--NC--SA%204.0-7c5cff?style=for-the-badge)](LICENSE-CONTENT.md)
 
 [![Python](https://img.shields.io/badge/Python-simulador%20%26%20validadores-3776AB?style=flat-square&logo=python&logoColor=white)](tools/)
 [![Chile](https://img.shields.io/badge/🇨🇱%20Chile-founder%20track-d52b1e?style=flat-square)](docs/CHILE_FOUNDER_TRACK.md)
@@ -39,6 +40,14 @@
 ---
 
 > ⚖️ **Material formativo.** Este programa **no constituye asesoría legal, tributaria, financiera, laboral ni de inversión**, y completar sus clases **no concede un cargo ni una certificación profesional**. El material normativo chileno se presenta con su fecha de verificación y **exige revalidarse en la fuente oficial** antes de ejecutar cualquier trámite o decisión real. Detalle en [docs/ETHICS_AND_LIMITATIONS.md](docs/ETHICS_AND_LIMITATIONS.md).
+
+---
+
+> 🔐 **Código abierto ≠ currículo libre para explotación comercial sin autorización.**
+> El software auxiliar usa [MIT](LICENSE); el currículo, los casos, ejercicios,
+> evaluaciones, plantillas y frameworks originales usan
+> [CC BY-NC-SA 4.0](LICENSE-CONTENT.md). Los derechos MIT ya concedidos se
+> preservan en el [historial de licenciamiento](docs/LICENSING_HISTORY.md).
 
 ---
 
@@ -404,7 +413,7 @@ en rojo.
 
 | ⚙️ Workflow | Qué cubre |
 |---|---|
-| 🧪 [ci.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/ci.yml) | las 16 secciones obligatorias de las 288 clases, títulos coherentes entre sus tres archivos, numeración continua 001–288, densidad mínima y detección de párrafos replicados y similitud anormal, enlaces relativos, `SYLLABUS`/`STATUS`/`MANIFEST`/`FILE_INDEX` sincronizados, `markdownlint`, UTF-8 sin BOM, build del portal y el **registro de fuentes** (toda obra citada declarada y al revés) y **41 pruebas en 3 sistemas × 3 versiones de Python** |
+| 🧪 [ci.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/ci.yml) | las 16 secciones obligatorias de las 288 clases, títulos coherentes entre sus tres archivos, numeración continua 001–288, densidad mínima y detección de párrafos replicados y similitud anormal, enlaces relativos, `SYLLABUS`/`STATUS`/`MANIFEST`/`FILE_INDEX` sincronizados, política de licencias, `markdownlint`, UTF-8 sin BOM, build del portal y el **registro de fuentes** (toda obra citada declarada y al revés) y **42 pruebas en 3 sistemas × 3 versiones de Python** |
 | 🔒 [security.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/security.yml) | `pip-audit` sobre las dependencias, `bandit` sobre el código, `gitleaks` en el historial completo y dos detectores propios de credenciales y datos personales — además, cada lunes, porque una dependencia segura hoy puede dejar de serlo sin que nadie toque el repositorio |
 | 🔗 [sources.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/sources.yml) | revalida el registro de fuentes contra la red el día 1 de cada mes: resuelve cada ISBN-13 en `openlibrary.org`, cada DOI en `api.crossref.org` y hace GET a cada URL de norma — **no bloquea**, informa |
 | 🚀 [pages.yml](https://github.com/vladimiracunadev-create/executive-leadership-founder-program/blob/main/.github/workflows/pages.yml) | genera el portal, lo despliega en GitHub Pages y **comprueba que responda 200** junto con sus páginas clave antes de dar el despliegue por bueno |
@@ -458,7 +467,7 @@ Qué garantiza —y qué **no** garantiza— cada comprobación, en
 - 🏢 un curso con **práctica real**: 96 laboratorios, 24 casos integradores con información incompleta y 39 plantillas que se usan tal cual en el trabajo;
 - 🇨🇱 una **ruta de creación de empresa en Chile** apoyada en fuentes oficiales, con su fecha de verificación a la vista;
 - 🔍 material **honesto sobre sus límites**: dice explícitamente qué verifica una máquina y qué no;
-- 📖 material **abierto y gratuito**, en español, legible en GitHub o en un portal instalable que funciona sin conexión.
+- 📖 material **públicamente visible y gratuito para uso no comercial**, en español, legible en GitHub o en un portal instalable que funciona sin conexión.
 
 </td>
 <td valign="top" width="50%">
@@ -492,9 +501,23 @@ normativa. La convivencia se rige por el [código de conducta](CODE_OF_CONDUCT.m
 
 ## 📄 Licencia
 
-[MIT](LICENSE) — úsalo, modifícalo y compártelo. El conocimiento debe ser
-accesible. Las obras, marcos, estándares y fuentes externas conservan sus
-propios derechos y términos.
+Este repositorio separa software y contenido:
+
+- **código auxiliar:** [MIT](LICENSE);
+- **contenido educativo original:**
+  [CC BY-NC-SA 4.0](LICENSE-CONTENT.md), sin uso comercial automático;
+- **marcas e identidad:** sin licencia implícita, según
+  [TRADEMARKS.md](TRADEMARKS.md); y
+- **fuentes y marcos externos:** conservan sus derechos, según
+  [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) y la
+  [auditoría](LICENSING_AUDIT.md).
+
+**Autor:** Vladimir Acuña. El historial de Git preserva la atribución de cada
+contributor futuro. Los derechos concedidos bajo MIT antes del 22 de septiembre
+de 2026 no se revocan; consulta el
+[historial de licenciamiento](docs/LICENSING_HISTORY.md). Para cohortes, cursos,
+consultoría, LMS u otros usos comerciales, revisa
+[uso comercial](docs/COMMERCIAL_USE.md).
 
 ---
 

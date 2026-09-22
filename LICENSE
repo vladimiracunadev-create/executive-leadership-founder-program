@@ -1,3 +1,20 @@
+MIT License for Auxiliary Software
+
+Scope
+-----
+
+This license applies to the repository's auxiliary software, including source
+code in apps/, scripts/, tests/, tools/ and curriculum/*.py, plus software
+configuration files where no more specific notice applies.
+
+Educational content, curricula, cases, exercises, assessments, templates and
+program-specific frameworks are not licensed by this file. They are covered by
+LICENSE-CONTENT.md. Third-party material remains subject to its own terms; see
+THIRD_PARTY_NOTICES.md and LICENSING_AUDIT.md.
+
+Nothing in this scope statement withdraws permissions previously granted. See
+docs/LICENSING_HISTORY.md.
+
 MIT License
 
 Copyright (c) 2026 Vladimir Acuña

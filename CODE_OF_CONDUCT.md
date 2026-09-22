@@ -48,5 +48,6 @@ quien mantiene el proyecto y se comunica a la persona afectada.
 
 ---
 
-Adaptado del espíritu del [Contributor Covenant](https://www.contributor-covenant.org/),
-ajustado a un repositorio de material formativo sobre liderazgo.
+Inspirado y adaptado para este repositorio a partir de
+[Contributor Covenant](https://www.contributor-covenant.org/), publicado bajo
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

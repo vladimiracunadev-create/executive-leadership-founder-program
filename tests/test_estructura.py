@@ -120,6 +120,14 @@ def test_la_version_dice_lo_mismo_en_todos_los_archivos(raiz: Path):
     assert not problemas, f"la versión no está sincronizada: {problemas}"
 
 
+def test_la_separacion_de_licencias_es_completa_y_visible(raiz: Path):
+    """Código y currículo no pueden volver a quedar bajo una etiqueta ambigua."""
+    import validate_repository
+
+    problemas = validate_repository.validar_licencias()
+    assert not problemas, f"la política de licencias está incompleta: {problemas}"
+
+
 def test_el_readme_lista_las_24_partes_con_su_rango_real(raiz: Path, partes):
     """La tabla de partes del README se escribe a mano y se desincroniza sola.
 

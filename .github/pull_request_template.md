@@ -15,4 +15,6 @@
 - [ ] `pytest`
 - [ ] Si toqué clases, plantillas o datos: regeneré `SYLLABUS.md`, `STATUS.md`, `MANIFEST.md` y `FILE_INDEX.md`
 - [ ] El contenido es original y las fuentes están citadas, no reproducidas
+- [ ] Clasifiqué el aporte como código MIT o contenido CC BY-NC-SA 4.0
+- [ ] Declaré material de terceros, su fuente, licencia y atribución
 - [ ] No hay datos personales reales ni información confidencial

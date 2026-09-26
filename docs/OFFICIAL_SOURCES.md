@@ -43,6 +43,7 @@ mismo registro y el resumen del [README](../README.md#-registro-de-fuentes).
 | ISO | ISO 9001 Quality management systems | — (pendiente) | — | pendiente |
 | NIST | AI Risk Management Framework (AI RMF 1.0) | <https://www.nist.gov/itl/ai-risk-management-framework> | 2026-08-19 | verificada |
 | NIST | Cybersecurity Framework (CSF) 2.0 | <https://www.nist.gov/cyberframework> | 2026-08-19 | verificada |
+| Occupational Safety and Health Administration | Computer Workstations eTool: Monitors | <https://www.osha.gov/etools/computer-workstations/components/monitors> | 2026-09-25 | verificada |
 | OECD | G20/OECD Principles of Corporate Governance 2023 | <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html> | — | pendiente |
 | OECD | OECD AI Principles | <https://oecd.ai/en/ai-principles> | 2026-08-19 | verificada |
 | Registro de Empresas y Sociedades (Chile) | Portal y documentación oficial | <https://www.registrodeempresasysociedades.cl/> | 2026-08-19 | verificada |

@@ -63,17 +63,17 @@ sin que el CI lo diga.
 <!-- registro-de-fuentes:inicio -->
 ## 🧾 El registro en cifras
 
-El programa cita **3200** veces un total de
-**207** obras a lo largo de sus **288** clases.
-De esas obras, **201** tienen hoy un localizador comprobado
+El programa cita **3203** veces un total de
+**211** obras a lo largo de sus **288** clases.
+De esas obras, **205** tienen hoy un localizador comprobado
 —ISBN-13, DOI o URL oficial con fecha de acceso— y **6**
 siguen pendientes de resolver.
 
 | Tipo | Obras | Localizador que exige |
 |---|---:|---|
-| Libro | 164 | ISBN-13 con dígito de control válido |
-| Artículo | 2 | DOI |
-| Referencia | 1 | URL https de la fuente primaria, con fecha de acceso |
+| Libro | 165 | ISBN-13 con dígito de control válido |
+| Artículo | 4 | DOI |
+| Referencia | 2 | URL https de la fuente primaria, con fecha de acceso |
 | Norma o documento oficial | 40 | URL https de la fuente primaria, con fecha de acceso |
 
 El ISBN-13 se resuelve contra Open Library comparando título y autores, y de ahí
@@ -106,15 +106,17 @@ las 288 clases se apoya cada una.
 | Buckingham, Marcus | *First, Break All the Rules* | Simon and Schuster | 1999 | [ISBN-13 9780684852867](https://openlibrary.org/isbn/9780684852867) | 12 |
 | Cagan, Marty | *Inspired* | Shroff | 2008 | [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501) | 12 |
 | Carnegie, Dale | *How to Win Friends and Influence People* | Min zhu yu jian she chu ban she | 2004 | [ISBN-13 9787801121820](https://openlibrary.org/isbn/9787801121820) | 4 |
+| Chang, Yingyi | *What should I wear to work? An integrative review of the impact of clothing in the workplace* | Journal of Applied Psychology | 2024 | [DOI](https://doi.org/10.1037/apl0001158) | 1 |
 | Charan, Ram | *Boards That Deliver* | John Wiley & Sons, Incorporated | 2007 | [ISBN-13 9781118046616](https://openlibrary.org/isbn/9781118046616) | 8 |
 | Charan, Ram et al. | *The Leadership Pipeline* | Jossey-Bass | 2000 | [ISBN-13 9780787951726](https://openlibrary.org/isbn/9780787951726) | 9 |
 | Charan, Ram | *What the CEO Wants You to Know* | Crown | 2001 | [ISBN-13 9780609504239](https://openlibrary.org/isbn/9780609504239) | 5 |
 | Christensen, Clayton | *How Will You Measure Your Life?* | Harvard Business Review Press | 2017 | [ISBN-13 9781633692565](https://openlibrary.org/isbn/9781633692565) | 5 |
 | Christensen, Clayton M. | *Competing Against Luck* | HarperBusiness | 2016 | [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613) | 8 |
 | Christensen, Clayton M. | *The Innovator's Dilemma* | Harvard Business School Press | 1997 | [ISBN-13 9780875845852](https://openlibrary.org/isbn/9780875845852) | 5 |
-| Cialdini, Robert B. | *Influence* | HarperCollins Publishers and Blackstone Audio | 2016 | [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049) | 17 |
+| Cialdini, Robert B. | *Influence* | HarperCollins Publishers and Blackstone Audio | 2016 | [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049) | 16 |
 | Clarke, Richard A. | *The Fifth Domain* | Penguin Press | 2019 | [ISBN-13 9780525561965](https://openlibrary.org/isbn/9780525561965) | 5 |
 | Clear, James | *Atomic Habits* | Avery, an Imprint of Penguin Random House LLC | 2018 | [ISBN-13 9780735211292](https://openlibrary.org/isbn/9780735211292) | 5 |
+| Cuddy, Amy | *Presence* | Little, Brown and Company | 2015 | [ISBN-13 9780316256551](https://openlibrary.org/isbn/9780316256551) | 1 |
 | Damodaran, Aswath | *Investment Valuation* | John Wiley & Sons, Incorporated | 2012 | [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546) | 14 |
 | Davenport, Thomas H. | *All-In on AI* | Harvard Business Review Press | 2022 | [ISBN-13 9781647824693](https://openlibrary.org/isbn/9781647824693) | 12 |
 | Davenport, Thomas H. | *Competing on Analytics* | Harvard Business School Press | 2007 | [ISBN-13 9781422103326](https://openlibrary.org/isbn/9781422103326) | 5 |
@@ -137,7 +139,7 @@ las 288 clases se apoya cada una.
 | Ellis, Sean | *Hacking Growth* | Ebury Publishing | 2017 | [ISBN-13 9780753545386](https://openlibrary.org/isbn/9780753545386) | 5 |
 | Ericsson, Anders | *Peak* | Penguin Random House | 2016 | [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143) | 288 |
 | Feld, Brad | *Venture Deals* | Wiley | 2011 | [ISBN-13 9781118443613](https://openlibrary.org/isbn/9781118443613) | 5 |
-| Fisher, Roger et al. | *Getting to Yes* | Hutchinson | 1983 | [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714) | 24 |
+| Fisher, Roger et al. | *Getting to Yes* | Hutchinson | 1983 | [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714) | 23 |
 | Fitzpatrick, Rob | *The Mom Test* | CreateSpace | 2014 | [ISBN-13 9781492180746](https://openlibrary.org/isbn/9781492180746) | 10 |
 | Forsgren, Nicole et al. | *Accelerate* | IT Revolution Press | 2018 | [ISBN-13 9781942788379](https://openlibrary.org/isbn/9781942788379) | 10 |
 | Galbraith, Jay R. | *Designing Organizations* | Jossey-Bass Publishers | 1995 | [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915) | 17 |
@@ -146,10 +148,11 @@ las 288 clases se apoya cada una.
 | Gil, Elad | *High Growth Handbook* | Stripe Matter Inc | 2018 | [ISBN-13 9781953953377](https://openlibrary.org/isbn/9781953953377) | 5 |
 | Goldratt, Eliyahu M. | *The Goal* | HighBridge Audio | 2014 | [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945) | 17 |
 | Goleman, Daniel | *Emotional Intelligence* | Bloomsbury | 1996 | [ISBN-13 9780747528302](https://openlibrary.org/isbn/9780747528302) | 12 |
-| Goleman, Daniel et al. | *Primal Leadership* | Harvard Business School Press | 2002 | [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861) | 17 |
+| Goleman, Daniel et al. | *Primal Leadership* | Harvard Business School Press | 2002 | [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861) | 18 |
 | Grant, Adam | *Think Again* | PENGUIN US | 2021 | [ISBN-13 9780593298749](https://openlibrary.org/isbn/9780593298749) | 5 |
 | Grove, Andrew S. | *High Output Management* | Random House | 1983 | [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349) | 26 |
 | Hackman, J. Richard | *Leading Teams* | Harvard Business School Press | 2002 | [ISBN-13 9781578513338](https://openlibrary.org/isbn/9781578513338) | 12 |
+| Hall, Judith A. et al. | *Nonverbal Communication* | Annual Review of Psychology | 2019 | [DOI](https://doi.org/10.1146/annurev-psych-010418-103145) | 1 |
 | Hammer, Michael | *Reengineering the Corporation* | HarperBusiness | 2001 | [ISBN-13 9780066621128](https://openlibrary.org/isbn/9780066621128) | 10 |
 | Harnish, Verne | *Scaling Up* | Gazelles, Inc. | 2014 | [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555) | 12 |
 | Heath, Chip | *Made to Stick* | Penguin Random House | 2007 | [ISBN-13 9781905211562](https://openlibrary.org/isbn/9781905211562) | 12 |
@@ -194,7 +197,7 @@ las 288 clases se apoya cada una.
 | McGrath, Rita Gunther | *The End of Competitive Advantage* | Harvard Business Review Press | 2013 | [ISBN-13 9781422172810](https://openlibrary.org/isbn/9781422172810) | 5 |
 | McKeown, Greg | *Essentialism* | Virgin Books | 2014 | [ISBN-13 9780753555163](https://openlibrary.org/isbn/9780753555163) | 9 |
 | Meadows, Donella H. | *Thinking in Systems* | Earthscan | 2009 | [ISBN-13 9781849773386](https://openlibrary.org/isbn/9781849773386) | 5 |
-| Minto, Barbara | *The Pyramid Principle* | Financial Times/ Prentice Hall | 2005 | [ISBN-13 9781405822145](https://openlibrary.org/isbn/9781405822145) | 4 |
+| Minto, Barbara | *The Pyramid Principle* | Financial Times/ Prentice Hall | 2005 | [ISBN-13 9781405822145](https://openlibrary.org/isbn/9781405822145) | 5 |
 | Mochary, Matt | *The Great CEO Within* | Mochary Films | 2019 | [ISBN-13 9780578599281](https://openlibrary.org/isbn/9780578599281) | 12 |
 | Monks, Robert A. G. | *Corporate Governance* | John Wiley & Sons, Incorporated | 2001 | [ISBN-13 9781118874899](https://openlibrary.org/isbn/9781118874899) | 5 |
 | Moore, Geoffrey A. | *Crossing the Chasm* | HarperBusiness | 1995 | [ISBN-13 9780887307171](https://openlibrary.org/isbn/9780887307171) | 7 |
@@ -244,7 +247,7 @@ las 288 clases se apoya cada una.
 | Torres, Teresa | *Continuous Discovery Habits* | Product Talk LLC | 2021 | [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304) | 12 |
 | Tricker, Bob | *Corporate Governance* | Oxford University Press | 2019 | [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869) | 17 |
 | Ulrich, Dave | *Human Resource Champions* | Harvard Business School Press | 1997 | [ISBN-13 9780875847191](https://openlibrary.org/isbn/9780875847191) | 4 |
-| Voss, Chris | *Never Split the Difference* | Penguin Random House | 2016 | [ISBN-13 9781847941480](https://openlibrary.org/isbn/9781847941480) | 12 |
+| Voss, Chris | *Never Split the Difference* | Penguin Random House | 2016 | [ISBN-13 9781847941480](https://openlibrary.org/isbn/9781847941480) | 11 |
 | Wasserman, Noam | *The Founder's Dilemmas* | Princeton University Press | 2012 | [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134) | 17 |
 | Watkins, Michael D. | *The First 90 Days* | Harvard Business School Press | 2003 | [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104) | 19 |
 | Weinberg, Gabriel | *Traction* | Gildan Media | 2015 | [ISBN-13 9781469096230](https://openlibrary.org/isbn/9781469096230) | 5 |
@@ -289,6 +292,7 @@ respondía y las partes del programa que la usan.
 | ISO | ISO 9001 Quality management systems | — pendiente | — | 07 |
 | NIST | AI Risk Management Framework (AI RMF 1.0) | [www.nist.gov](https://www.nist.gov/itl/ai-risk-management-framework) | 2026-08-19 | 15, 19 |
 | NIST | Cybersecurity Framework (CSF) 2.0 | [www.nist.gov](https://www.nist.gov/cyberframework) | 2026-08-19 | 15, 19 |
+| Occupational Safety and Health Administration | Computer Workstations eTool: Monitors | [www.osha.gov](https://www.osha.gov/etools/computer-workstations/components/monitors) | 2026-09-25 | 02 |
 | OECD | G20/OECD Principles of Corporate Governance 2023 | [www.oecd.org](https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html) | — | 15, 17, 18, 21, 22 |
 | OECD | OECD AI Principles | [oecd.ai](https://oecd.ai/en/ai-principles) | 2026-08-19 | 15 |
 | Registro de Empresas y Sociedades (Chile) | Portal y documentación oficial | [www.registrodeempresasysociedades.cl](https://www.registrodeempresasysociedades.cl/) | 2026-08-19 | 21 |

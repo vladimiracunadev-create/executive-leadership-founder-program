@@ -4,6 +4,108 @@ TOPIC_NOTES = {}
 def note(cid, text):
     TOPIC_NOTES[cid] = text.strip()
 
+note(35, r'''
+### Imagen profesional: una dimensión contextual, no un sustituto de competencia
+
+**Imagen profesional** es el conjunto de señales visuales, conductuales y contextuales mediante las cuales una persona se presenta ante otras en un entorno profesional. Forma parte de la presencia ejecutiva junto con comunicación, criterio, claridad, comportamiento, regulación emocional y credibilidad, pero no las reemplaza ni debe dominarlas.
+
+| Término | Distinción operacional |
+|---|---|
+| **Imagen profesional** | Presentación visual, conductual y contextual elegida para facilitar un propósito de trabajo. |
+| **Estilo** | Preferencias relativamente estables de expresión personal; puede adaptarse sin desaparecer. |
+| **Apariencia** | Lo perceptible a primera vista, incluida información que la persona no elige ni controla. |
+| **Presencia ejecutiva** | Capacidad más amplia de transmitir claridad, estabilidad y criterio bajo atención. |
+| **Reputación** | Juicio acumulado a través del tiempo sobre conducta, decisiones y resultados. |
+| **Competencia** | Capacidad demostrada para realizar una tarea o responder por un resultado. |
+
+Dos desigualdades protegen el criterio de la clase: `apariencia ≠ competencia` y `vestirse formal ≠ presencia ejecutiva`. La ropa puede influir en primeras impresiones, pero esas impresiones también pueden reflejar atribuciones y sesgos del observador. No conviertas una señal superficial en diagnóstico de inteligencia, liderazgo, confiabilidad o potencial.
+
+### Context Fit: adecuación antes que receta
+
+Evalúa la presentación mediante `industria + organización + responsabilidad + audiencia + tipo de reunión + cultura + país + modalidad + clima + objetivo`. Ninguna variable decide sola. Investiga el contexto, identifica restricciones funcionales y elige una opción suficientemente coherente para que el mensaje y el trabajo —no el vestuario— concentren la atención.
+
+| Contexto | Ajuste razonable | Error de sobreadaptación |
+|---|---|---|
+| Empresa tecnológica o startup | Prendas cuidadas, cómodas y compatibles con una cultura informal; elevar formalidad para inversionistas o clientes si aporta claridad. | Disfrazarse de founder informal o asumir que una polera siempre es adecuada. |
+| Banca o consultoría | Confirmar códigos más estructurados, seniority, cliente y protocolo de la oficina. | Confundir traje costoso con capacidad o ignorar prácticas locales. |
+| Educación o sector público | Priorizar cercanía, función, sobriedad y reglas institucionales o ceremoniales. | Copiar códigos corporativos que crean distancia innecesaria. |
+| Industria creativa | Permitir mayor expresión de identidad dentro de seguridad, propósito y audiencia. | Convertir originalidad en obligación o ruido que desplaza el trabajo. |
+| Entrevista | Investigar organización, rol, modalidad y personas; elegir una señal ligeramente más cuidada que el día a día esperado. | Actuar un personaje que no podría sostenerse al ocupar el cargo. |
+| Comité ejecutivo o directorio | Favorecer sobriedad funcional, preparación y mínima distracción; calibrar con protocolo y país. | Usar formalidad para ocultar una recomendación débil. |
+| Conferencia o networking | Facilitar reconocimiento, movimiento, clima, micrófono y conversaciones prolongadas. | Priorizar impacto visual sobre comodidad, accesibilidad o autenticidad. |
+| Presentación técnica | Mantener funcionalidad, seguridad y credibilidad con la audiencia técnica y de negocio. | Adoptar una imagen ejecutiva estereotipada que reduce conexión con especialistas. |
+| Videoconferencia | Optimizar audio, encuadre, luz, fondo y contraste para el canal. | Juzgar una limitación doméstica como falta de profesionalismo. |
+
+### Niveles de formalidad como lenguaje aproximado
+
+Los nombres siguientes son convenciones, no normas universales. Cambian por país, industria, organización y evento; dos empleadores pueden usar *business casual* para expectativas distintas. Antes de decidir, pide ejemplos locales o consulta el protocolo de la invitación.
+
+| Nivel | Descripción práctica | Ejemplo | Contraejemplo |
+|---|---|---|---|
+| **Formal** | Ceremonial o de gala según invitación expresa. | Evento institucional que declara código formal. | Usarlo por defecto en una reunión de producto. |
+| **Business formal** | Máxima estructura empresarial habitual; conjuntos coordinados y acabados sobrios. | Directorio de una institución con código tradicional. | Suponer que exige una marca o un género de prenda. |
+| **Business professional** | Estructura profesional completa, con algo más de flexibilidad. | Reunión externa de alto impacto en consultoría. | Copiar una guía extranjera sin validar clima o cultura. |
+| **Business casual** | Mezcla de estructura y comodidad, sin la uniformidad de un conjunto formal. | Jornada con clientes en una organización de código intermedio. | Interpretar *casual* como descuidado. |
+| **Smart casual** | Prendas informales coordinadas y cuidadas, adecuadas al propósito. | Networking sectorial o conferencia sin código rígido. | Añadir elementos llamativos que dificultan interacción o trabajo. |
+| **Casual profesional** | Ropa cotidiana limpia, conservada, funcional y coherente con el rol. | Equipo tecnológico interno o entorno creativo. | Equiparar informalidad con falta de cuidado o preparación. |
+
+### Vestuario, color, cuidado y accesorios
+
+Evalúa el vestuario con criterios funcionales: **ajuste** que permita moverse y respirar, **proporción** coherente entre prendas sin imponer una silueta corporal, **comodidad**, limpieza, conservación, capas adaptables al clima, calidad funcional y seguridad. El precio, la marca y la novedad no son indicadores válidos de profesionalismo. Calzado y accesorios deben permitir la tarea y el desplazamiento previstos.
+
+En color, trabaja contraste, armonía, combinación, legibilidad en cámara y adecuación al entorno. Una paleta puede ser una herramienta estética útil, pero no demuestra personalidad, autoridad ni capacidad. La llamada colorimetría personal sirve, como máximo, para explorar preferencias visuales; no es una evaluación psicológica ni una regla científica de liderazgo.
+
+El criterio de *grooming* es `cuidado + adecuación + autenticidad`, no belleza. Incluye higiene, cabello, barba o afeitado cuando la persona los elija, uñas, prendas y calzado en condiciones funcionales. Debe respetar cabello natural, prácticas culturales o religiosas, piel, discapacidad, identidad de género, recursos disponibles y ajustes razonables. No conviertas una preferencia estética del evaluador en estándar de desempeño.
+
+Para reloj, lentes, joyería, bolso, mochila, dispositivos, credenciales y herramientas visibles pregunta: ¿cumple una función?, ¿genera ruido físico o visual?, ¿es seguro?, ¿es coherente con el contexto?, ¿ayuda a trabajar? Un reloj costoso no añade credibilidad; un dispositivo útil puede restarla si interrumpe continuamente la conversación.
+
+### Presencia en videoconferencia y reuniones híbridas
+
+Configura el canal antes de interpretar a la persona:
+
+1. sitúa cámara cerca de la altura de los ojos cuando sea cómodo y accesible;
+2. usa un encuadre estable que muestre rostro y parte superior del torso sin invadir privacidad;
+3. elige una distancia que permita postura neutral y lectura cómoda de pantalla;
+4. favorece luz frontal o lateral suave y evita contraluz intenso;
+5. prioriza audio inteligible, prueba micrófono y silencia solo cuando corresponde;
+6. usa fondo real o virtual sobrio que proteja información y reduzca distracciones;
+7. mira a cámara en momentos clave, sin exigir contacto continuo que impida leer o pensar;
+8. comprueba contraste entre ropa y fondo y evita patrones que produzcan parpadeo visual;
+9. durante latencia, deja pausas antes de interrumpir y confirma turnos;
+10. cuando no hablas, mantén atención compatible con tomar notas, accesibilidad y fatiga; no exijas inmovilidad teatral.
+
+La ergonomía y la accesibilidad prevalecen sobre una pose fotogénica. Una recomendación de altura o mirada debe adaptarse a lentes, movilidad, ayudas técnicas, dolor, fatiga y espacio disponible. En reuniones híbridas, facilita igualdad de turno y no confunda mirar otra pantalla con evasión.
+
+### Comunicación no verbal sin lectura determinista
+
+Postura, orientación corporal, gestos, expresión facial, mirada, movimiento y uso del espacio acompañan el mensaje. Obsérvalos como datos descriptivos: “giró hacia la pantalla mientras respondía”, no como etiquetas: “ocultó algo”. Nunca uses reglas como “cruzar los brazos significa resistencia”. Una misma conducta puede depender de contexto, cultura, personalidad, comodidad, temperatura, dolor, discapacidad, situación o preferencia.
+
+Triangula antes de ajustar: patrón habitual, cambio observado, contenido verbal, restricciones del entorno y confirmación de la persona. Diseña conductas al servicio del objetivo —por ejemplo, orientar el torso para incluir a quienes participan en remoto— sin diagnosticar emociones o intenciones.
+
+### Autenticidad e inclusión: adaptarse no significa disfrazarse
+
+Adaptación profesional significa ampliar opciones, no borrar identidad. Busca la intersección entre identidad, contexto, comodidad, expectativas y propósito. Si una convención exige ocultar origen cultural, discapacidad, identidad o rasgos físicos para parecer “ejecutivo”, cuestiona la convención y ofrece alternativas funcionales.
+
+La evaluación no penaliza introversión, neurodiversidad, discapacidad, edad, género, origen cultural, rasgos físicos ni estilos de comunicación no dominantes. Tampoco premia volumen, teatralidad, belleza, lujo o dominación. Observa claridad, criterio, comportamiento, credibilidad y capacidad de adaptación con evidencia.
+
+### Executive Presence Context Audit
+
+Elige uno de ocho escenarios: entrevista laboral, reunión con cliente, comité ejecutivo, directorio, presentación técnica, networking, conferencia o videoconferencia. Completa la auditoría sin comprar nada ni cambiar un rasgo físico:
+
+1. **Contexto:** industria, organización, país, cultura, clima, modalidad y código declarado.
+2. **Audiencia:** roles, expectativas legítimas, necesidades de accesibilidad y poder de decisión.
+3. **Objetivo:** decisión, relación o resultado que debe facilitarse.
+4. **Mensaje:** tres ideas, datos y límites que sostienen credibilidad.
+5. **Presentación personal:** formalidad, prendas, cuidado y accesorios por función y coherencia.
+6. **Comunicación verbal:** síntesis, ritmo, pausas, volumen y lenguaje.
+7. **Comunicación no verbal:** postura, orientación, gestos, mirada y espacio sin inferencias deterministas.
+8. **Entorno:** sala o cámara, encuadre, audio, luz, fondo, privacidad y distracciones.
+9. **Riesgos:** sobreadaptación, incomodidad, sesgo, seguridad, clima, accesibilidad o ruido.
+10. **Feedback:** dos observadores describen conducta e impacto, no atractivo ni personalidad.
+
+Entrega una matriz `Context → Evidence → Adjustment → Review`. Incluye una evidencia por ajuste, una alternativa que preserve mejor tu identidad y una fecha de revisión. El éxito no es “verse ejecutivo”, sino reducir fricción evitable mientras el criterio y el mensaje siguen ocupando el centro.
+''')
+
 note(109, r'''
 ### Ecuación contable y tres preguntas del gerente
 

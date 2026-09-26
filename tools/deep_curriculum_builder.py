@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 from __future__ import annotations
 from pathlib import Path
-import csv, importlib.util, re, textwrap, json
+import argparse, csv, importlib.util, re, textwrap, json
 
 ROOT=Path(__file__).resolve().parents[1]
 
@@ -85,6 +85,11 @@ def title_from_dir(d):
     t=d.name.split('-',1)[1].replace('-',' ')
     return t[0].upper()+t[1:]
 
+def module_title(module_dir):
+    """Lee el título publicado del módulo y no intenta reconstruirlo desde el slug."""
+    first=(module_dir/'README.md').read_text(encoding='utf-8').splitlines()[0]
+    return re.sub(r'^#\s*Parte\s+\d+\s*[—-]\s*', '', first).strip()
+
 def cite_book(key, topic):
     b=BOOKS.get(key)
     if not b: return f'- {key} — referencia temática para {topic}.'
@@ -106,6 +111,12 @@ def sources_for(part, cid, title):
 def official_extra(part,title,cid):
     low=title.lower()
     extra=[]
+    if part==2 and cid==35:
+        extra.extend([
+            '- Yingyi Chang & Jose M. Cortina — *What should I wear to work? An integrative review of the impact of clothing in the workplace*. **Uso en esta clase:** distinguir efectos de percepción, variación contextual y sesgos de atribución sin convertir vestuario en competencia. DOI: <https://doi.org/10.1037/apl0001158>.',
+            '- Judith A. Hall, Terrence G. Horgan & Nora A. Murphy — *Nonverbal Communication*. **Uso en esta clase:** tratar las señales no verbales como procesos de emisión y percepción cuya interpretación requiere contexto y cautela. DOI: <https://doi.org/10.1146/annurev-psych-010418-103145>.',
+            '- Occupational Safety and Health Administration — *Computer Workstations eTool: Monitors*. **Uso en esta clase:** fundamentar distancia, altura, orientación, postura neutral y control de reflejos en videoconferencia. Fuente primaria: <https://www.osha.gov/etools/computer-workstations/components/monitors>.',
+        ])
     if part==9:
         if any(x in low for x in ('estado','balance','flujo','margen','capital de trabajo')):
             extra.append('- IFRS Foundation — *IFRS Accounting Standards*. **Uso en esta clase:** normas IFRS/IAS aplicables a la presentación y lectura de estados financieros. Verificar edición vigente en <https://www.ifrs.org/>.')
@@ -166,6 +177,7 @@ SOURCE_PERSPECTIVES={
 'voss-never':'negociación táctica, escucha, calibración y manejo de información imperfecta',
 'cialdini-influence':'mecanismos de influencia y sus límites éticos',
 'heath-made':'diseño de mensajes memorables, concretos y accionables',
+'cuddy-presence':'perspectiva práctica sobre autenticidad y desempeño bajo presión, contrastada con la evidencia empírica citada en la clase',
 'goleman-ei':'autoconciencia, autorregulación, empatía y habilidades sociales',
 'goleman-primal':'impacto emocional del liderazgo y estilos de conducción',
 'heifetz-line':'distinción entre problemas técnicos y desafíos adaptativos',
@@ -274,6 +286,8 @@ def class_sources(part,cid,title):
     keys=PARTS[part]['refs']
     low=title.lower()
     priority=[]
+    if part==2 and cid==35:
+        priority=['cuddy-presence','heath-made','extra-duarte','extra-012','extra-minto','goleman-primal']
     if part==9:
         if any(x in low for x in ('estado de resultados','balance','estado de situacion','estado de situación','flujo de efectivo','estados financieros')):
             priority=['kieso-accounting','penman-fsa','palepu-analysis','schilit-shenanigans']
@@ -426,7 +440,7 @@ def build(cid, d, part):
     source_text='\n'.join(refs)
     return f'''# Clase {cid:03d} — {title}
 
-**Parte:** {part:02d} — {d.parents[1].name.split('-',1)[1].replace('-', ' ').title()}  
+**Parte:** {part:02d} — {module_title(d.parents[1])}
 **Nivel:** {profile['level']}  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
@@ -572,6 +586,8 @@ def lesson_yaml(cid,d,part):
       f'Resolver el caso de {title.lower()} con dos alternativas y trade-offs.',
       'Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija.'
     ]
+    if cid == 35:
+        objs.append('Auditar la adecuación contextual de imagen profesional, conducta no verbal y videoconferencia sin inferir competencia desde la apariencia.')
     lines += [f'  - {q(x)}' for x in objs]
     lines += [f'deliverable: {q(artifact_for(title,cid))}','references:']
     for k in source_keys:
@@ -584,6 +600,19 @@ def lesson_yaml(cid,d,part):
 def assessment(cid,d,part):
     title=title_from_dir(d); spec=SPECS[cid]
     concepts=parse_pairs(spec['concepts']); method=parse_list(spec['method']); evidence=parse_list(spec['evidence'])
+    contexto = ''
+    if cid == 35:
+        contexto = '''## E. Aplicación contextual — evidencia integrada
+
+Elige **uno** de estos contextos: entrevista, reunión con cliente, comité ejecutivo, directorio, presentación técnica, networking, conferencia o videoconferencia. Entrega una matriz `Context → Evidence → Adjustment → Review` que:
+
+1. distinga imagen profesional, estilo, apariencia, presencia ejecutiva, reputación y competencia;
+2. justifique formalidad, vestuario, cuidado, accesorios y entorno por función y contexto, no por precio o estereotipo;
+3. proponga un ajuste verbal, uno no verbal y uno de videoconferencia o espacio;
+4. declare un riesgo de sesgo, autenticidad o accesibilidad y cómo lo mitiga;
+5. solicite feedback sobre claridad, coherencia y adaptación, nunca sobre atractivo físico.
+
+Este bloque se califica dentro de precisión conceptual, diagnóstico/evidencia y fuentes/comunicación; no añade ponderación ni reemplaza el caso actual.'''.strip() + '\n\n'
     return f'''# Evaluación — Clase {cid:03d}: {title}
 
 Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genéricas sin evidencia no cumplen el criterio.
@@ -608,6 +637,7 @@ Aplica **{' → '.join(method)}**. Debes utilizar o diseñar cómo obtener **{',
 
 Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **{spec['limit']}**
 
+{contexto}
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
@@ -651,12 +681,17 @@ cargar_datos_del_curriculo('deep_specs.py', {'add': add})
 TOPIC_NOTES.update(cargar_datos_del_curriculo('topic_notes.py', {}).get('TOPIC_NOTES', {}))
 
 def main():
+    parser=argparse.ArgumentParser(description='Regenera clases desde sus especificaciones.')
+    parser.add_argument('--class', dest='class_id', type=int,
+                        help='Regenera solo una clase; evita tocar el resto del currículo.')
+    args=parser.parse_args()
     missing=[]; written=0
     for m in sorted((ROOT/'modules').glob('[0-9][0-9]-*')):
         part=int(m.name[:2])
         for d in sorted((m/'classes').glob('*')):
             if not d.is_dir(): continue
             cid=int(d.name[:3])
+            if args.class_id is not None and cid != args.class_id: continue
             if cid not in SPECS:
                 missing.append((cid,d.name)); continue
             (d/'README.md').write_text(build(cid,d,part),encoding='utf-8')
@@ -665,6 +700,9 @@ def main():
             written+=1
     if missing:
         print('Missing specs:',len(missing),missing[:20])
+        return 2
+    if args.class_id is not None and written == 0 and not missing:
+        print('Class not found:', args.class_id)
         return 2
     print('Written',written,'deep classes')
     return 0

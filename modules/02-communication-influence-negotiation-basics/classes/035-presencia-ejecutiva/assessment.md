@@ -20,7 +20,20 @@ Aplica **preparar tres mensajes y datos clave → regular ritmo, respiración y 
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Trabajar presencia no debe imponer un molde cultural único ni penalizar estilos introvertidos, neurodiversos o no dominantes. Evalúa calidad de comunicación y decisión, no teatralidad.**
+Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Trabajar presencia no debe imponer un molde cultural o físico único ni penalizar introversión, neurodiversidad, discapacidad, edad, género, origen cultural, rasgos físicos o estilos de comunicación no dominantes. Evalúa claridad, criterio, comportamiento y adaptación; no belleza, precio, conformidad estética ni teatralidad.**
+
+## E. Aplicación contextual — evidencia integrada
+
+Elige **uno** de estos contextos: entrevista, reunión con cliente, comité ejecutivo, directorio, presentación técnica, networking, conferencia o videoconferencia. Entrega una matriz `Context → Evidence → Adjustment → Review` que:
+
+1. distinga imagen profesional, estilo, apariencia, presencia ejecutiva, reputación y competencia;
+2. justifique formalidad, vestuario, cuidado, accesorios y entorno por función y contexto, no por precio o estereotipo;
+3. proponga un ajuste verbal, uno no verbal y uno de videoconferencia o espacio;
+4. declare un riesgo de sesgo, autenticidad o accesibilidad y cómo lo mitiga;
+5. solicite feedback sobre claridad, coherencia y adaptación, nunca sobre atractivo físico.
+
+Este bloque se califica dentro de precisión conceptual, diagnóstico/evidencia y fuentes/comunicación; no añade ponderación ni reemplaza el caso actual.
+
 
 ## Criterios de aprobación
 

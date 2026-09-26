@@ -280,11 +280,11 @@ usarse.
 
 | 📚 Obras registradas | 📎 Citas en clase | ✅ Con localizador comprobado | 🕓 Pendientes | 🏛️ Organismos | 📘 Clases |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **207** | **3200** | **201** | **6** | **25** | **288** |
+| **211** | **3203** | **205** | **6** | **28** | **288** |
 
 **Cobertura del registro: 100.0 %** — de todas las obras que las
 288 clases citan, esa proporción tiene entrada propia. De ellas,
-**97.1 %** tiene además el localizador resuelto contra su fuente.
+**97.2 %** tiene además el localizador resuelto contra su fuente.
 «Pendiente» no significa dudosa: significa que su localizador todavía no se
 resolvió y que el hueco está declarado en vez de disimulado. Última revalidación
 en red: **2026-08-19**.

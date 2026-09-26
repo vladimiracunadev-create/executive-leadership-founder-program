@@ -34,7 +34,6 @@ Elige **uno** de estos contextos: entrevista, reunión con cliente, comité ejec
 
 Este bloque se califica dentro de precisión conceptual, diagnóstico/evidencia y fuentes/comunicación; no añade ponderación ni reemplaza el caso actual.
 
-
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |

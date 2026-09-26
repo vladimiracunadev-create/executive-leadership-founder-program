@@ -612,7 +612,7 @@ Elige **uno** de estos contextos: entrevista, reunión con cliente, comité ejec
 4. declare un riesgo de sesgo, autenticidad o accesibilidad y cómo lo mitiga;
 5. solicite feedback sobre claridad, coherencia y adaptación, nunca sobre atractivo físico.
 
-Este bloque se califica dentro de precisión conceptual, diagnóstico/evidencia y fuentes/comunicación; no añade ponderación ni reemplaza el caso actual.'''.strip() + '\n\n'
+Este bloque se califica dentro de precisión conceptual, diagnóstico/evidencia y fuentes/comunicación; no añade ponderación ni reemplaza el caso actual.'''.strip() + '\n'
     return f'''# Evaluación — Clase {cid:03d}: {title}
 
 Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genéricas sin evidencia no cumplen el criterio.

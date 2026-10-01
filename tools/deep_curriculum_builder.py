@@ -65,6 +65,7 @@ refs=['drucker-effective','drucker-management','gerber-emyth','taleb-antifragile
 # Cada fila: core | conceptos (term=definition;...) | método (step;...) | evidencia (metric;...) | caso | límite
 SPECS: dict[int,dict] = {}
 TOPIC_NOTES={}
+CLASS_EXTENSIONS={}
 
 def add(i, core, concepts, method, evidence, case, limit):
     SPECS[i]=dict(core=core, concepts=concepts, method=method, evidence=evidence, case=case, limit=limit)
@@ -82,6 +83,14 @@ def parse_pairs(s):
 def parse_list(s): return [x.strip() for x in s.split(';') if x.strip()]
 
 def title_from_dir(d):
+    cid=int(d.name[:3])
+    if CLASS_EXTENSIONS.get(cid,{}).get('title'):
+        return CLASS_EXTENSIONS[cid]['title']
+    lesson=d/'lesson.yaml'
+    if lesson.exists():
+        match=re.search(r'^title:\s*["\']?(.+?)["\']?\s*$',lesson.read_text(encoding='utf-8'),re.M)
+        if match:
+            return match.group(1).strip().strip('"\'')
     t=d.name.split('-',1)[1].replace('-',' ')
     return t[0].upper()+t[1:]
 
@@ -310,7 +319,7 @@ def class_sources(part,cid,title):
         if len(chosen)==6: break
     return chosen
 
-def concept_development(title, concepts, method, evidence, source_keys, spec):
+def concept_development(topic, concepts, method, evidence, source_keys, spec):
     # Cinco funciones pedagógicas distintas. La estructura es estable, el desarrollo no.
     c=concepts[:5]
     while len(c)<5: c.append(c[-1])
@@ -322,7 +331,7 @@ def concept_development(title, concepts, method, evidence, source_keys, spec):
     s0,p0=src(0); s1,p1=src(1); s2,p2=src(2); s3,p3=src(3); s4,p4=src(4)
     return f'''### 1. {c[0][0]}: mecanismo central
 
-**{c[0][0]}** se entiende aquí como **{c[0][1]}**. Esta es la pieza causal o estructural desde la que se inicia **{title.lower()}**: antes de {m[0].lower()}, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+**{c[0][0]}** se entiende aquí como **{c[0][1]}**. Esta es la pieza causal o estructural desde la que se inicia **{topic}**: antes de {m[0].lower()}, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
 
 La lectura rectora de este bloque es {s0}. Su aporte se usa para examinar **{p0}**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **{e[0]}**; regístrala con periodo, unidad, población y baseline.
 
@@ -346,11 +355,11 @@ Al llegar a {m[2%len(m)].lower()}, compara tendencia, distribución y casos atí
 
 ### 4. {c[3][0]}: trade-offs y efectos de segundo orden
 
-**Definición:** {c[3][1]}. Este concepto obliga a abandonar la idea de que **{title.lower()}** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de {m[3%len(m)].lower()}, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
+**Definición:** {c[3][1]}. Este concepto obliga a abandonar la idea de que **{topic}** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de {m[3%len(m)].lower()}, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
 
 {s3} aporta una lente sobre **{p3}**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **{e[3%len(e)]}** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
 
-Haz un *pre-mortem* de **{title.lower()}**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **{c[3][0]}** y otro de una hipótesis del caso que nunca fue validada.
+Haz un *pre-mortem* de **{topic}**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **{c[3][0]}** y otro de una hipótesis del caso que nunca fue validada.
 
 ### 5. {c[4][0]}: gobernanza, límites e integración
 
@@ -361,45 +370,49 @@ Haz un *pre-mortem* de **{title.lower()}**: supone que la opción recomendada fr
 La frontera de esta clase es explícita: **{spec['limit']}**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **{c[0][0]}**, **{c[1][0]}**, **{c[2][0]}**, **{c[3][0]}** y **{c[4][0]}** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.'''
 
 
-def worked_example(title, spec, concepts, method, evidence):
+def worked_example(topic, spec, concepts, method, evidence):
     rows=[]
     for i,step in enumerate(method):
         metric=evidence[i%len(evidence)] if evidence else 'evidencia disponible'
         concept=concepts[i%len(concepts)][0]
-        rows.append(f'''**Paso {i+1} — {step}.** La gerencia escribe primero el supuesto asociado a **{concept}** y evita convertirlo en hecho. Luego busca **{metric}** para contrastarlo en el caso de **{title.lower()}**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.''')
+        rows.append(f'''**Paso {i+1} — {step}.** La gerencia escribe primero el supuesto asociado a **{concept}** y evita convertirlo en hecho. Luego busca **{metric}** para contrastarlo en el caso de **{topic}**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.''')
     return '\n\n'.join(rows)
 
 def build(cid, d, part):
     title=title_from_dir(d)
     spec=SPECS[cid]
+    extension=CLASS_EXTENSIONS.get(cid,{})
+    executive_case=extension.get('executive_case',spec['case'])
+    topic=extension.get('topic_name',title.lower())
     concepts=parse_pairs(spec['concepts'])
     method=parse_list(spec['method'])
-    evidence=parse_list(spec['evidence'])
+    evidence=parse_list(spec['evidence'])+extension.get('extra_evidence',[])
     profile=PARTS[part]
     source_keys=class_sources(part,cid,title)
     concept_rows='\n'.join(f'| **{a}** | {b} | Distingue un hecho compatible y otro que lo refute. |' for a,b in concepts)
     pipeline=' → '.join(f'{i+1}. {s}' for i,s in enumerate(method))
     method_rows='\n'.join(f'| {i+1} | {s} | {evidence[i%len(evidence)] if evidence else "evidencia disponible"} | Decisión/supuesto fechado |' for i,s in enumerate(method))
     ev_rows='\n'.join(f'| **{x}** | Baseline + tendencia + segmentación | ¿Qué interpretación alternativa también explicaría la señal? |' for x in evidence)
-    source_rows='\n'.join(f'| {book_label(k)} | {source_perspective(k)} | ¿Qué supuesto de **{title.lower()}** ayuda a desafiar? |' for k in source_keys[:5])
-    development=concept_development(title,concepts,method,evidence,source_keys,spec)
+    source_rows='\n'.join(f'| {book_label(k)} | {source_perspective(k)} | ¿Qué supuesto de **{topic}** ayuda a desafiar? |' for k in source_keys[:5])
+    development=concept_development(topic,concepts,method,evidence,source_keys,spec)
     toolbox=TOPIC_NOTES.get(cid,'')
     toolbox_section=(f'\n\n## 🔧 Profundización específica\n\n{toolbox}' if toolbox else '')
-    example=worked_example(title,spec,concepts,method,evidence)
+    example=worked_example(topic,spec,concepts,method,evidence)
     err=[
       (f'Usar {concepts[0][0]} y {concepts[1][0]} como sinónimos',f'Se pierde la distinción entre “{concepts[0][1]}” y “{concepts[1][1]}”','Vuelve a los observables y exige una señal distinta para cada concepto.'),
       (f'Empezar por “{method[-1]}”',f'Se saltó “{method[0]}” y la solución llegó antes que el diagnóstico',f'Reconstruye la cadena {pipeline} y marca el primer supuesto no demostrado.'),
       (f'Optimizar solo {evidence[0] if evidence else "una métrica"}','La métrica local sustituyó al resultado del sistema',f'Contrástala con {evidence[1] if len(evidence)>1 else "una segunda señal"} y explicita el costo de oportunidad.'),
-      ('Generalizar desde un caso favorable',f'Se confundió evidencia local con una regla universal sobre {title.lower()}',spec['limit']),
-      ('No fijar revisión',f'Una decisión sobre {title.lower()} se vuelve permanente por inercia','Define responsable, fecha, señal de éxito y condición de stop.'),
+      ('Generalizar desde un caso favorable',f'Se confundió evidencia local con una regla universal sobre {topic}',spec['limit']),
+      ('No fijar revisión',f'Una decisión sobre {topic} se vuelve permanente por inercia','Define responsable, fecha, señal de éxito y condición de stop.'),
     ]
+    err.extend(extension.get('extra_errors',[]))
     err_rows='\n'.join(f'| {a} | {b} | {c} |' for a,b,c in err)
     lens=[
-      ('Profesional',f'usa **{title.lower()}** para mejorar una contribución propia y explicar sus supuestos con evidencia.'),
+      ('Profesional',f'usa **{topic}** para mejorar una contribución propia y explicar sus supuestos con evidencia.'),
       ('Jefe / Team Lead',f'aplica **{concepts[0][0]}** y **{concepts[1][0]}** para coordinar personas sin sustituir conversación por métricas.'),
       ('Manager / Gerente',f'conecta {evidence[0] if evidence else "la evidencia"} con capacidad, presupuesto, dependencias y riesgo interáreas.'),
-      ('CEO / Director',f'decide si {title.lower()} cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio.'),
-      ('Founder / Owner',f'pregunta si la solución de {title.lower()} reduce dependencia del fundador, preserva caja y puede operar como sistema repetible.'),
+      ('CEO / Director',f'decide si {topic} cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio.'),
+      ('Founder / Owner',f'pregunta si la solución de {topic} reduce dependencia del fundador, preserva caja y puede operar como sistema repetible.'),
     ]
     lens_rows='\n'.join(f'| **{a}** | {b} |' for a,b in lens)
     q=[
@@ -407,22 +420,48 @@ def build(cid, d, part):
       f'¿Qué observarías para validar **{concepts[2][0]}** y qué observación obligaría a rechazar tu interpretación?',
       f'Aplica **{method[0]} → {method[1] if len(method)>1 else method[0]}** al caso de la clase. ¿Qué dato todavía falta?',
       f'¿Por qué **{evidence[0] if evidence else "la señal principal"}** no basta por sí sola para atribuir causalidad?',
-      f'Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **{title.lower()}**?',
+      f'Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **{topic}**?',
       f'¿Qué decisión equivocada podría producirse si se ignora este límite: **{spec["limit"]}**?',
     ]
+    q.extend(extension.get('extra_questions',[]))
     questions='\n'.join(f'{i+1}. {x}' for i,x in enumerate(q))
-    art=artifact_for(title,cid)
+    art=extension.get('deliverable',artifact_for(title,cid))
+    objectives=[
+      f'**Distinguir** {", ".join("`"+a+"`" for a,_ in concepts[:5])} mediante observables, no por memoria verbal.',
+      f'**Explicar** por qué esas distinciones cambian una decisión de {profile["level"].split("—")[-1].strip().lower()}.',
+      f'**Aplicar** la secuencia **{pipeline}** conservando supuestos, alternativas y trazabilidad.',
+      f'**Interpretar** {", ".join(evidence[:3])} sin confundir señal, explicación y causalidad.',
+      '**Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.',
+      '**Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.',
+    ]
+    objectives.extend(extension.get('extra_objectives',[]))
+    objective_lines='\n'.join(f'{i+1}. {x}' for i,x in enumerate(objectives))
+    practice=[
+      f'Reconstruye el caso de **{topic}** con una tabla `hecho / interpretación / hipótesis / decisión`.',
+      f'Ejecuta **{pipeline}** y adjunta evidencia para cada transición entre pasos.',
+      f'Calcula o documenta {", ".join(evidence[:2])}; si no existe dato, diseña cómo obtenerlo.',
+      'Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.',
+      'Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.',
+      'Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.',
+    ]
+    practice=extension.get('practice',practice)
+    practice.extend(extension.get('extra_practice',[]))
+    practice_lines='\n'.join(f'{i+1}. {x}' for i,x in enumerate(practice))
+    case_brief=extension.get(
+        'case_brief',
+        f'Entrega un **decision brief de {topic}** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.'
+    )
     refs=[]
     for k in source_keys:
         b=BOOKS[k]
-        refs.append(f"- {b['author']} — *{b['title']}*. **Uso en esta clase:** {source_perspective(k)}. Lectura selectiva: índice/capítulos pertinentes a **{title.lower()}**; registra edición y páginas consultadas.")
+        refs.append(f"- {b['author']} — *{b['title']}*. **Uso en esta clase:** {source_perspective(k)}. Lectura selectiva: índice/capítulos pertinentes a **{topic}**; registra edición y páginas consultadas.")
     refs += official_extra(part,title,cid)
     refs += [
-      f'- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **{title.lower()}** sobre conocimiento previo verificable.',
-      f'- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **{title.lower()}**.',
-      f'- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **{title.lower()}** desde el desempeño observable y no desde el temario.',
-      f'- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **{title.lower()}** en práctica deliberada con criterios explícitos.',
-      f'- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **{title.lower()}** como problema, evidencia, alternativas y recomendación.',
+      f'- Susan A. Ambrose et al. — *How Learning Works*. **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **{topic}** sobre conocimiento previo verificable.',
+      f'- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick*. **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **{topic}**.',
+      f'- Grant Wiggins & Jay McTighe — *Understanding by Design*. **Uso en esta clase:** derivar el entregable de **{topic}** desde el desempeño observable y no desde el temario.',
+      f'- Anders Ericsson & Robert Pool — *Peak*. **Uso en esta clase:** convertir la práctica de **{topic}** en práctica deliberada con criterios explícitos.',
+      f'- William Ellet — *The Case Study Handbook*. **Uso en esta clase:** estructurar el caso ejecutivo de **{topic}** como problema, evidencia, alternativas y recomendación.',
     ]
     # Una misma obra puede llegar por la bibliografia de la parte y por la lista
     # de fuentes oficiales. Se cita una sola vez, y gana la linea que trae el
@@ -440,26 +479,21 @@ def build(cid, d, part):
     source_text='\n'.join(refs)
     return f'''# Clase {cid:03d} — {title}
 
-**Parte:** {part:02d} — {module_title(d.parents[1])}
+**Parte:** {part:02d} — {module_title(d.parents[1])}{'  '}
 **Nivel:** {profile['level']}  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-{spec['core']}
+{spec['core']}{extension.get('purpose_suffix','')}
 
-La salida de esta parte es **{profile['outcome']}**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **{title.lower()}** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La salida de esta parte es **{profile['outcome']}**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **{topic}** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** {', '.join('`'+a+'`' for a,_ in concepts[:5])} mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de {profile['level'].split('—')[-1].strip().lower()}.
-3. **Aplicar** la secuencia **{pipeline}** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** {', '.join(evidence[:3])} sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+{objective_lines}
 
 ## 🧭 Agenda
 
@@ -491,7 +525,7 @@ La secuencia nace del problema de esta clase: **{spec['core']}** El método es �
 
 ### 6. Integración: de conceptos a una decisión defendible
 
-La síntesis de **{title.lower()}** no consiste en sumar cinco definiciones. Empieza por **{concepts[0][0]}**, contrasta **{concepts[1][0]}** con **{concepts[2][0]}**, incorpora **{concepts[3][0]}** como restricción o mecanismo y usa **{concepts[4][0]}** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
+La síntesis de **{topic}** no consiste en sumar cinco definiciones. Empieza por **{concepts[0][0]}**, contrasta **{concepts[1][0]}** con **{concepts[2][0]}**, incorpora **{concepts[3][0]}** como restricción o mecanismo y usa **{concepts[4][0]}** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
 
 Aplica ahora la secuencia **{pipeline}**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.{toolbox_section}
 
@@ -503,7 +537,7 @@ Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes busca
 |---|---|---|
 {source_rows}
 
-En **{title.lower()}**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **{concepts[0][0]}**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+En **{topic}**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **{concepts[0][0]}**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
 
 ## 🧮 Ejemplo trabajado
 
@@ -511,7 +545,7 @@ En **{title.lower()}**, la lectura se evalúa por **uso**, no por cantidad de p�
 
 {example}
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **{title.lower()}**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **{topic}**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
 
 ## 🔀 Comparación y límites
 
@@ -526,26 +560,21 @@ En **{title.lower()}**, la lectura se evalúa por **uso**, no por cantidad de p�
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre {title.lower()} |
+| Nivel | Responsabilidad sobre {topic} |
 |---|---|
 {lens_rows}
 
-El cambio de nivel en **{title.lower()}** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+El cambio de nivel en **{topic}** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
 
 ## 🏢 Caso ejecutivo
 
-{spec['case']}
+{executive_case}
 
-Entrega un **decision brief de {title.lower()}** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+{case_brief}
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **{title.lower()}** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **{pipeline}** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta {', '.join(evidence[:2])}; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+{practice_lines}
 
 ## ⚠️ Errores frecuentes
 
@@ -561,21 +590,23 @@ Entrega un **decision brief de {title.lower()}** que contenga: (a) hechos y fuen
 
 Guarda en `portfolio/{cid:03d}-{d.name.split('-',1)[1]}/`:
 
-- `{art}` con el problema específico de **{title.lower()}**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **{title.lower()}** con edición/páginas consultadas;
+- `{art}` con el problema específico de **{topic}**, evidencia, alternativas, decisión y gobernanza;
+- `reading-note.md` contrastando las fuentes de **{topic}** con edición/páginas consultadas;
 - `decision-journal.md` registrando los supuestos de **{concepts[0][0]}**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **{spec['case']}** y el dato que podría invalidar la recomendación.
+- `red-team.md` con la objeción más fuerte al caso **{executive_case}** y el dato que podría invalidar la recomendación.
 
 ## 📗 Fuentes y verificación
 
 {source_text}
 
-> **Regla de fuentes para {title}:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **{title.lower()}** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para {title}:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **{topic}** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
 '''
 
 def lesson_yaml(cid,d,part):
     title=title_from_dir(d); spec=SPECS[cid]
-    concepts=parse_pairs(spec['concepts']); method=parse_list(spec['method']); evidence=parse_list(spec['evidence'])
+    extension=CLASS_EXTENSIONS.get(cid,{})
+    topic=extension.get('topic_name',title.lower())
+    concepts=parse_pairs(spec['concepts']); method=parse_list(spec['method']); evidence=parse_list(spec['evidence'])+extension.get('extra_evidence',[])
     source_keys=class_sources(part,cid,title)
     def q(x): return '"'+str(x).replace('\\','\\\\').replace('\"','\\\"').replace('\n',' ')+'"'
     lines=[f'id: {cid}',f'part: {part:02d}',f'title: {q(title)}','duration_minutes: 150',f'level: {q(PARTS[part]["level"])}',f'outcome: {q(PARTS[part]["outcome"])}','depth_standard: deep-class-v2','source_mode: books-plus-primary','pedagogy: retrieval-case-deliberate-practice','objectives:']
@@ -583,13 +614,14 @@ def lesson_yaml(cid,d,part):
       f'Distinguir {concepts[0][0]} de {concepts[1][0]} mediante evidencia observable.',
       f'Aplicar la secuencia: {" → ".join(method)}.',
       f'Interpretar {", ".join(evidence[:3])} sin atribuir causalidad automática.',
-      f'Resolver el caso de {title.lower()} con dos alternativas y trade-offs.',
+      f'Resolver el caso de {topic} con dos alternativas y trade-offs.',
       'Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija.'
     ]
     if cid == 35:
         objs.append('Auditar la adecuación contextual de imagen profesional, conducta no verbal y videoconferencia sin inferir competencia desde la apariencia.')
+    objs.extend(extension.get('lesson_objectives',[]))
     lines += [f'  - {q(x)}' for x in objs]
-    lines += [f'deliverable: {q(artifact_for(title,cid))}','references:']
+    lines += [f'deliverable: {q(extension.get("deliverable",artifact_for(title,cid)))}','references:']
     for k in source_keys:
         lines.append(f'  - {q(book_label(k))}')
     for x in official_extra(part,title,cid):
@@ -599,7 +631,9 @@ def lesson_yaml(cid,d,part):
 
 def assessment(cid,d,part):
     title=title_from_dir(d); spec=SPECS[cid]
-    concepts=parse_pairs(spec['concepts']); method=parse_list(spec['method']); evidence=parse_list(spec['evidence'])
+    extension=CLASS_EXTENSIONS.get(cid,{})
+    executive_case=extension.get('executive_case',spec['case'])
+    concepts=parse_pairs(spec['concepts']); method=parse_list(spec['method']); evidence=parse_list(spec['evidence'])+extension.get('extra_evidence',[])
     contexto = ''
     if cid == 35:
         contexto = '''## E. Aplicación contextual — evidencia integrada
@@ -613,6 +647,11 @@ Elige **uno** de estos contextos: entrevista, reunión con cliente, comité ejec
 5. solicite feedback sobre claridad, coherencia y adaptación, nunca sobre atractivo físico.
 
 Este bloque se califica dentro de precisión conceptual, diagnóstico/evidencia y fuentes/comunicación; no añade ponderación ni reemplaza el caso actual.'''.strip() + '\n'
+    case_instructions=extension.get(
+        'assessment_case_instructions',
+        'Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.'
+    )
+    method_addendum=extension.get('assessment_method_addendum','')
     return f'''# Evaluación — Clase {cid:03d}: {title}
 
 Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genéricas sin evidencia no cumplen el criterio.
@@ -625,20 +664,19 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** {spec['case']}
+**Caso:** {executive_case}
 
-Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
+{case_instructions}
 
 ## C. Método y evidencia — 30 %
 
-Aplica **{' → '.join(method)}**. Debes utilizar o diseñar cómo obtener **{', '.join(evidence[:3])}**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **{' → '.join(method)}**. Debes utilizar o diseñar cómo obtener **{', '.join(evidence[:3])}**. {method_addendum}Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 
 Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **{spec['limit']}**
 
-{contexto}
-## Criterios de aprobación
+{contexto}## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
@@ -677,8 +715,10 @@ def cargar_datos_del_curriculo(nombre, entorno):
 # `add` escribe directamente en SPECS, así que basta con prestárselo.
 cargar_datos_del_curriculo('deep_specs.py', {'add': add})
 
-# `topic_notes.py` define su propio TOPIC_NOTES; se recoge de vuelta.
-TOPIC_NOTES.update(cargar_datos_del_curriculo('topic_notes.py', {}).get('TOPIC_NOTES', {}))
+# `topic_notes.py` define notas y extensiones localizadas; se recogen de vuelta.
+datos_de_tema=cargar_datos_del_curriculo('topic_notes.py', {})
+TOPIC_NOTES.update(datos_de_tema.get('TOPIC_NOTES', {}))
+CLASS_EXTENSIONS.update(datos_de_tema.get('CLASS_EXTENSIONS', {}))
 
 def main():
     parser=argparse.ArgumentParser(description='Regenera clases desde sus especificaciones.')
@@ -694,9 +734,9 @@ def main():
             if args.class_id is not None and cid != args.class_id: continue
             if cid not in SPECS:
                 missing.append((cid,d.name)); continue
-            (d/'README.md').write_text(build(cid,d,part),encoding='utf-8')
-            (d/'assessment.md').write_text(assessment(cid,d,part),encoding='utf-8')
-            (d/'lesson.yaml').write_text(lesson_yaml(cid,d,part),encoding='utf-8')
+            (d/'README.md').write_text(build(cid,d,part),encoding='utf-8',newline='\n')
+            (d/'assessment.md').write_text(assessment(cid,d,part),encoding='utf-8',newline='\n')
+            (d/'lesson.yaml').write_text(lesson_yaml(cid,d,part),encoding='utf-8',newline='\n')
             written+=1
     if missing:
         print('Missing specs:',len(missing),missing[:20])

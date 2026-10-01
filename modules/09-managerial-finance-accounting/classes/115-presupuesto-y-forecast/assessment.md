@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir drivers y baseline → construir budget con recursos → actualizar actuals → reforecast sin manipular para alcanzar plan → usar escenarios para decisiones de capacidad y caja**. Debes utilizar o diseñar cómo obtener **forecast error, budget variance, driver accuracy**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **definir drivers y baseline → construir budget con recursos → actualizar actuals → reforecast sin manipular para alcanzar plan → usar escenarios para decisiones de capacidad y caja**. Debes utilizar o diseñar cómo obtener **forecast error, budget variance, driver accuracy**. Presenta supuestos, rango, escenarios, drivers, sensibilidad, riesgos y trigger; una cifra única no cumple. Conecta ingresos, margen, costos, caja, capital de trabajo, ROI y capital requerido. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

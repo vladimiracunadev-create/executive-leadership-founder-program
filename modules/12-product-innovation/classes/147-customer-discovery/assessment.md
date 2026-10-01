@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir hipótesis y segmento → reclutar muestra relevante → preguntar por episodios pasados y conducta → capturar patrones y contradicciones → sintetizar evidencia y decidir siguiente experimento**. Debes utilizar o diseñar cómo obtener **interviews by segment, problem recurrence, workaround spend**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **definir hipótesis y segmento → reclutar muestra relevante → preguntar por episodios pasados y conducta → capturar patrones y contradicciones → sintetizar evidencia y decidir siguiente experimento**. Debes utilizar o diseñar cómo obtener **interviews by segment, problem recurrence, workaround spend**. Separa descritos, entrevistados, intención, pago y repetición; declara segmento, denominador, periodo e incentivo y no sumes estados. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

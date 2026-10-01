@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** decision latency, CEO escalations, override rate sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Interrogar** cualquier pre-read mediante afirmación, evidencia, supuesto, downside, faltantes, riesgo, owner y revisión.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,23 @@ La síntesis de **arquitectura de decisiones ejecutivas** no consiste en sumar c
 
 Aplica ahora la secuencia **1. inventariar decisiones materiales → 2. clasificar reversibilidad y frecuencia → 3. asignar owner y autoridad → 4. diseñar pre-read y foro → 5. medir latencia overrides y calidad**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Protocolo para interrogar cualquier pre-read
+
+Sea un estudio de mercado, una síntesis de clientes, un Canvas, un modelo financiero o una propuesta de alianza, el foro ejecutivo responde en orden:
+
+1. ¿Qué afirma el equipo?
+2. ¿Qué evidencia lo respalda?
+3. ¿Qué supuesto sostiene la conclusión?
+4. ¿Qué ocurriría si el supuesto es falso?
+5. ¿Qué información falta para decidir?
+6. ¿Qué riesgo se acepta y quién soporta la consecuencia?
+7. ¿Quién responde con autoridad y capacidad?
+8. ¿Cuándo o bajo qué condición se revisa?
+
+El foro puede avanzar por etapas, limitar exposición, pedir una prueba, cambiar la secuencia o no comprometer todavía. Reducir esas opciones a “aprobar/rechazar” empobrece la arquitectura de decisión.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +182,7 @@ Entrega un **decision brief de arquitectura de decisiones ejecutivas** que conte
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Interroga el pre-read con las ocho preguntas y comprueba autoridad del owner y observabilidad del trigger.
 
 ## ⚠️ Errores frecuentes
 

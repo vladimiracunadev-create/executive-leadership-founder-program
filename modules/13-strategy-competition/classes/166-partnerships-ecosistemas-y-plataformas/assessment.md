@@ -12,11 +12,11 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 **Caso:** Una fintech crece sobre la API de un único banco. El socio cambia pricing y rate limits; la unidad económica se deteriora 30% y no existe plan de portabilidad.
 
-Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
+Compara al menos build, buy y partner. Para cada camino indica beneficio, costo de oportunidad, riesgo, reversibilidad y actor afectado; recomienda una opción o secuencia y declara qué dato la cambiaría.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **mapear actores y flujo de valor → identificar complementos y cuellos → definir incentivos y reglas → modelar economics y dependencia → negociar métricas datos y salida**. Debes utilizar o diseñar cómo obtener **partner-sourced revenue, dependency concentration, take rate**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **mapear actores y flujo de valor → identificar complementos y cuellos → definir incentivos y reglas → modelar economics y dependencia → negociar métricas datos y salida**. Debes utilizar o diseñar cómo obtener **partner-sourced revenue, dependency concentration, take rate**. Evalúa aporte, dependencia, poder negociador, alineación, exclusividad, riesgo, gobierno y salida; asigna owner y trigger. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

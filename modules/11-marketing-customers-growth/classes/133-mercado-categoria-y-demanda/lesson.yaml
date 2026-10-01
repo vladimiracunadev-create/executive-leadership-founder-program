@@ -13,7 +13,8 @@ objectives:
   - "Interpretar search demand, category awareness, win/loss alternative sin atribuir causalidad automática."
   - "Resolver el caso de mercado, categoría y demanda con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-deliverable: "risk-governance-brief.md"
+  - "Auditar tamaño, TAM, sustitutos, vigencia, comparabilidad y separación entre hechos e inferencias antes de autorizar recursos."
+deliverable: "leadership-decision-brief.md"
 references:
   - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
   - "Byron Sharp — *How Brands Grow*"
@@ -29,3 +30,6 @@ evidence_signals:
   - "win/loss alternative"
   - "market growth"
   - "share of category"
+  - "TAM-to-reachable bridge"
+  - "substitute coverage"
+  - "source recency"

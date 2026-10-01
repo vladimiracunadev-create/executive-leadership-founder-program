@@ -13,6 +13,7 @@ objectives:
   - "Interpretar decision latency, CEO escalations, override rate sin atribuir causalidad automática."
   - "Resolver el caso de arquitectura de decisiones ejecutivas con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Interrogar cualquier pre-read mediante afirmación, evidencia, supuesto, downside, faltantes, riesgo aceptado, owner y trigger de revisión."
 deliverable: "leadership-decision-brief.md"
 references:
   - "Ben Horowitz — *The Hard Thing About Hard Things*"
@@ -29,3 +30,5 @@ evidence_signals:
   - "override rate"
   - "reopened decisions"
   - "decision outcome"
+  - "assumption traceability"
+  - "review-trigger coverage"

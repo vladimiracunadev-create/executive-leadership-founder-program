@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **inventariar decisiones materiales → clasificar reversibilidad y frecuencia → asignar owner y autoridad → diseñar pre-read y foro → medir latencia overrides y calidad**. Debes utilizar o diseñar cómo obtener **decision latency, CEO escalations, override rate**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **inventariar decisiones materiales → clasificar reversibilidad y frecuencia → asignar owner y autoridad → diseñar pre-read y foro → medir latencia overrides y calidad**. Debes utilizar o diseñar cómo obtener **decision latency, CEO escalations, override rate**. Responde qué afirma el equipo, evidencia, supuesto, consecuencia si es falso, faltantes, riesgo aceptado, owner y revisión. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

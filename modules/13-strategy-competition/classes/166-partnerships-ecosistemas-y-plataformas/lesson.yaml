@@ -13,6 +13,7 @@ objectives:
   - "Interpretar partner-sourced revenue, dependency concentration, take rate sin atribuir causalidad automática."
   - "Resolver el caso de partnerships, ecosistemas y plataformas con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Comparar build, buy y partner evaluando aporte, dependencia, poder, alineación, exclusividad, riesgo, gobierno y salida."
 deliverable: "leadership-decision-brief.md"
 references:
   - "Michael E. Porter — *Competitive Strategy*"
@@ -29,3 +30,5 @@ evidence_signals:
   - "take rate"
   - "ecosystem adoption"
   - "switching cost"
+  - "bargaining asymmetry"
+  - "exit readiness"

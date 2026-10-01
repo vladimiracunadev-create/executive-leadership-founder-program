@@ -12,11 +12,11 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 **Caso:** Una plataforma ofrece precio único a pymes y enterprise. Enterprise exige integraciones, seguridad y soporte 24/7; los ingresos crecen, pero el cost-to-serve vuelve negativo ese segmento.
 
-Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
+Construye dos alternativas, identifica el bloque más incierto y la hipótesis que podría destruir la coherencia. Compara beneficio, costo de oportunidad, riesgo, reversibilidad y actor afectado; recomienda una y declara qué dato cambiaría la decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir segmento y problema → articular propuesta y canal → modelar recursos actividades y partners → construir revenue y cost logic → testear coherencia y economics**. Debes utilizar o diseñar cómo obtener **revenue per segment, gross margin, CAC-LTV**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **definir segmento y problema → articular propuesta y canal → modelar recursos actividades y partners → construir revenue y cost logic → testear coherencia y economics**. Debes utilizar o diseñar cómo obtener **revenue per segment, gross margin, CAC-LTV**. Ordena hipótesis por incertidumbre, impacto y dependencia; justifica cuál validar primero y fija el umbral que habilita inversión. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

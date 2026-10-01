@@ -13,6 +13,7 @@ objectives:
   - "Interpretar forecast error, budget variance, driver accuracy sin atribuir causalidad automática."
   - "Resolver el caso de presupuesto y forecast con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Presentar una proyección como rango de escenarios con drivers, sensibilidad, riesgos y trigger de revisión."
 deliverable: "modelo-financiero-y-memo-de-decision.md"
 references:
   - "Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis*"
@@ -29,3 +30,5 @@ evidence_signals:
   - "driver accuracy"
   - "cash runway"
   - "reforecast frequency"
+  - "scenario range"
+  - "sensitivity driver"

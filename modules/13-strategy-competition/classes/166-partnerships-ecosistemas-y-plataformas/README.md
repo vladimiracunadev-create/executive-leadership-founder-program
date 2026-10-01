@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** partner-sourced revenue, dependency concentration, take rate sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Comparar** build, buy y partner evaluando aporte, dependencia, poder, alineación, exclusividad, riesgo, gobierno y salida.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,25 @@ La síntesis de **partnerships, ecosistemas y plataformas** no consiste en sumar
 
 Aplica ahora la secuencia **1. mapear actores y flujo de valor → 2. identificar complementos y cuellos → 3. definir incentivos y reglas → 4. modelar economics y dependencia → 5. negociar métricas datos y salida**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Build, buy o partner como decisión de dependencia
+
+Compara **build**, **buy** y **partner** con el mismo horizonte, demanda y costo de capital.
+
+| Dimensión | Pregunta de control |
+|---|---|
+| **Aporte** | ¿Qué capacidad, acceso, velocidad o economics aporta cada parte y cómo se mide? |
+| **Dependencia** | ¿Qué operación, dato, cliente o ingreso queda concentrado en el socio? |
+| **Poder negociador** | ¿Quién cambia precio, acceso o reglas con menor costo de salida? |
+| **Alineación** | ¿Los incentivos siguen compatibles si volumen, margen o estrategia cambian? |
+| **Exclusividad** | ¿Qué opciones futuras se cierran, por cuánto tiempo y alcance? |
+| **Riesgo** | ¿Qué falla técnica, comercial, regulatoria o reputacional se comparte o transfiere? |
+| **Gobierno** | ¿Quién decide, qué datos y SLA rigen y cómo se resuelve conflicto? |
+| **Salida** | ¿Qué portabilidad, transición, propiedad de datos y continuidad existen? |
+
+La recomendación termina con owner, capital y capacidad comprometidos, límites, trigger de renegociación y plan de salida probado.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +184,7 @@ Entrega un **decision brief de partnerships, ecosistemas y plataformas** que con
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Compara build, buy y partner en las ocho dimensiones de la ficha ejecutiva.
 
 ## ⚠️ Errores frecuentes
 

@@ -13,6 +13,7 @@ objectives:
   - "Interpretar revenue per segment, gross margin, CAC-LTV sin atribuir causalidad automática."
   - "Resolver el caso de modelo de negocio con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Priorizar la incertidumbre, identificar la hipótesis destructiva y definir la evidencia que habilita una inversión mayor."
 deliverable: "strategy-memo.md"
 references:
   - "Michael E. Porter — *Competitive Strategy*"
@@ -29,3 +30,5 @@ evidence_signals:
   - "CAC-LTV"
   - "channel contribution"
   - "cost-to-serve"
+  - "critical-assumption status"
+  - "investment evidence threshold"

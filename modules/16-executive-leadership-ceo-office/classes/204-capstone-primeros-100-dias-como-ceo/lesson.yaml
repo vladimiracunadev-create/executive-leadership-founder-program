@@ -13,7 +13,8 @@ objectives:
   - "Interpretar learning coverage, critical-risk closure, team decisions sin atribuir causalidad automática."
   - "Resolver el caso de capstone: primeros 100 días como CEO con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-deliverable: "risk-governance-brief.md"
+  - "Interrogar conjuntamente mercado, cliente, modelo de negocio, economía, alianzas y proyección para decidir capital, owner y revisión."
+deliverable: "integrated-executive-decision-brief.md"
 references:
   - "Ben Horowitz — *The Hard Thing About Hard Things*"
   - "Matt Mochary — *The Great CEO Within*"
@@ -29,3 +30,6 @@ evidence_signals:
   - "team decisions"
   - "stakeholder trust"
   - "priority progress"
+  - "customer-evidence maturity"
+  - "scenario sensitivity"
+  - "capital at risk"

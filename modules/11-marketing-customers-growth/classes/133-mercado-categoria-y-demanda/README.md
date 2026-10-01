@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** search demand, category awareness, win/loss alternative sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Auditar** tamaño, TAM, sustitutos, vigencia, comparabilidad y separación entre hechos e inferencias antes de autorizar recursos.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,14 @@ La síntesis de **mercado, categoría y demanda** no consiste en sumar cinco def
 
 Aplica ahora la secuencia **1. definir job y compradores → 2. mapear alternativas y sustitutos → 3. estimar demanda accesible → 4. decidir categoría existente versus nueva → 5. probar lenguaje con clientes**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Puerta ejecutiva de calidad del mercado
+
+Quien autoriza capital no necesita repetir todo el estudio. Debe interrogar cada afirmación con `afirmación / evidencia / supuesto / dato que la refutaría` y detener el pre-read ante tamaño inflado; TAM tratado como venta posible sin puente a mercado servible, alcanzable y captura plausible; competencia sin inacción, proceso manual, solución interna ni sustitutos; datos vencidos o de otra geografía; benchmark con segmento, canal, madurez, unidad o base no comparable; e inferencia presentada como hecho.
+
+La salida es un rango defendible, fuentes, incertidumbre aceptada, owner y condición de recálculo; no la etiqueta de mercado “grande”.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +173,7 @@ Entrega un **decision brief de mercado, categoría y demanda** que contenga: (a)
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Audita tamaño, puente desde TAM, sustitutos, vigencia y comparabilidad antes de aceptar la recomendación.
 
 ## ⚠️ Errores frecuentes
 
@@ -188,7 +198,7 @@ Entrega un **decision brief de mercado, categoría y demanda** que contenga: (a)
 
 Guarda en `portfolio/133-mercado-categoria-y-demanda/`:
 
-- `risk-governance-brief.md` con el problema específico de **mercado, categoría y demanda**, evidencia, alternativas, decisión y gobernanza;
+- `leadership-decision-brief.md` con el problema específico de **mercado, categoría y demanda**, evidencia, alternativas, decisión y gobernanza;
 - `reading-note.md` contrastando las fuentes de **mercado, categoría y demanda** con edición/páginas consultadas;
 - `decision-journal.md` registrando los supuestos de **market**, confianza, responsable y revisión;
 - `red-team.md` con la objeción más fuerte al caso **Una empresa se define como 'plataforma de inteligencia operacional aumentada'. Los clientes, sin embargo, buscan 'software de planificación de turnos' y comparan contra planillas.** y el dato que podría invalidar la recomendación.

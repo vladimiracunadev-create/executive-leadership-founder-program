@@ -13,6 +13,7 @@ objectives:
   - "Interpretar interviews by segment, problem recurrence, workaround spend sin atribuir causalidad automática."
   - "Resolver el caso de customer discovery con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir cliente descrito, entrevistado, con intención, que pagó y que repitió sin tratar esos estados como equivalentes."
 deliverable: "product-evidence-brief.md"
 references:
   - "Marty Cagan — *Inspired*"
@@ -29,3 +30,5 @@ evidence_signals:
   - "workaround spend"
   - "switching trigger"
   - "contradictory evidence"
+  - "paid customers"
+  - "repeat customers"

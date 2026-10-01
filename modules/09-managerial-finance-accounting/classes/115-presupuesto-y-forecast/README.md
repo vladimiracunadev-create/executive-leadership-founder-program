@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** forecast error, budget variance, driver accuracy sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Presentar** una proyección como rango de escenarios con drivers, sensibilidad, riesgos y trigger de revisión.
 
 ## 🧭 Agenda
 
@@ -105,6 +106,12 @@ Presupuesto fija una intención/plan; forecast actualiza la mejor estimación co
 
 Ejemplo: ventas presupuestadas 1.000 = 100 unidades × 10. Si se venden 90 a 11, ventas reales 990. La variación total es -10, pero precio aportó positivamente y volumen negativamente. El análisis driver-based evita respuestas equivocadas, como recortar marketing cuando el problema real fue capacidad de entrega.
 
+### Salida para una decisión ejecutiva
+
+Una proyección presentada como cifra única oculta la incertidumbre que el comité necesita gobernar. El pre-read debe mostrar: (1) supuestos con fuente, confianza y responsable; (2) rango y escenarios coherentes; (3) drivers de ingresos, margen, costos, caja, capital de trabajo, ROI y capital requerido; (4) sensibilidad al supuesto dominante; (5) riesgos fuera del modelo; y (6) fecha o trigger de reforecast.
+
+El ejecutivo no rehace el modelo financiero: interroga si la conclusión sigue en pie cuando cambia el driver dominante y decide cuánta exposición aceptar antes de obtener nueva evidencia.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -172,6 +179,7 @@ Entrega un **decision brief de presupuesto y forecast** que contenga: (a) hechos
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Reexpresa el forecast como rango y escenarios; identifica la sensibilidad dominante y fija el trigger de reforecast.
 
 ## ⚠️ Errores frecuentes
 

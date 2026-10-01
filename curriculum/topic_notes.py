@@ -387,3 +387,217 @@ Empieza por los **hechos**, no por el nombre del documento. Si existen prestaci�
 
 Como control ejecutivo, separa cinco capas: `1) naturaleza de la relación; 2) tipo de contrato; 3) jornada y remuneraciones; 4) cotizaciones, seguridad y prevención; 5) modificación/término y documentación`. A agosto de 2026, la DT confirma que desde **26-04-2026** la jornada ordinaria máxima general se redujo de 44 a **42 horas**; no confundas ese estado vigente con la meta final de 40 horas. Ley Karin exige prevención e investigación/sanción dentro de su marco, y el DS 44 moderniza la gestión preventiva de riesgos laborales. Verifica siempre DT, BCN/LeyChile, SUSESO y Subsecretaría de Previsión Social antes de ejecutar una decisión real.
 ''')
+
+# Capa ejecutiva transversal. Estas notas amplían clases existentes sin crear
+# una segunda ruta de marketing, finanzas o venture creation. Se mantienen aquí
+# para que `deep_curriculum_builder.py --class N` reproduzca el contenido.
+note(115, r'''
+### Presupuesto, forecast y análisis de variaciones
+
+Presupuesto fija una intención/plan; forecast actualiza la mejor estimación con información reciente. No “corrijas” el forecast para proteger el presupuesto. Separa variaciones en drivers: precio, volumen, mix, costo unitario, headcount, tipo de cambio u otros que correspondan.
+
+Ejemplo: ventas presupuestadas 1.000 = 100 unidades × 10. Si se venden 90 a 11, ventas reales 990. La variación total es -10, pero precio aportó positivamente y volumen negativamente. El análisis driver-based evita respuestas equivocadas, como recortar marketing cuando el problema real fue capacidad de entrega.
+
+### Salida para una decisión ejecutiva
+
+Una proyección presentada como cifra única oculta la incertidumbre que el comité necesita gobernar. El pre-read debe mostrar: (1) supuestos con fuente, confianza y responsable; (2) rango y escenarios coherentes; (3) drivers de ingresos, margen, costos, caja, capital de trabajo, ROI y capital requerido; (4) sensibilidad al supuesto dominante; (5) riesgos fuera del modelo; y (6) fecha o trigger de reforecast.
+
+El ejecutivo no rehace el modelo financiero: interroga si la conclusión sigue en pie cuando cambia el driver dominante y decide cuánta exposición aceptar antes de obtener nueva evidencia.
+''')
+
+note(133, r'''
+### Puerta ejecutiva de calidad del mercado
+
+Quien autoriza capital no necesita repetir todo el estudio. Debe interrogar cada afirmación con `afirmación / evidencia / supuesto / dato que la refutaría` y detener el pre-read ante tamaño inflado; TAM tratado como venta posible sin puente a mercado servible, alcanzable y captura plausible; competencia sin inacción, proceso manual, solución interna ni sustitutos; datos vencidos o de otra geografía; benchmark con segmento, canal, madurez, unidad o base no comparable; e inferencia presentada como hecho.
+
+La salida es un rango defendible, fuentes, incertidumbre aceptada, owner y condición de recálculo; no la etiqueta de mercado “grande”.
+''')
+
+note(147, r'''
+### Escalera ejecutiva de evidencia del cliente
+
+| Estado | Evidencia mínima | Lo que todavía no demuestra |
+|---|---|---|
+| **Cliente descrito** | perfil con criterios observables | que reconozca el problema |
+| **Cliente entrevistado** | conversación trazable sobre conducta pasada | intención de cambiar o pagar |
+| **Cliente con intención** | compromiso explícito con siguiente paso | compra efectiva |
+| **Cliente que pagó** | transacción conciliada, aunque sea piloto | retención o economía sostenible |
+| **Cliente que repitió** | renovación o recompra en ventana definida | generalización al mercado |
+
+Cada número declara segmento, denominador, periodo, precio o incentivo y evidencia contradictoria. El comité decide desde el peldaño realmente observado; no suma como equivalentes esos cinco estados.
+''')
+
+note(163, r'''
+### Interrogación ejecutiva del modelo
+
+El Canvas y los mapas existentes se conservan como representación del sistema; el director no vuelve a rellenarlos. Sobre el artefacto debe identificar el bloque con menor evidencia y mayor impacto, la hipótesis que si es falsa destruye otros bloques o la economía, la validación que debe ocurrir primero por dependencia/downside/valor de información y el umbral observable que habilita la siguiente inversión.
+
+Registra `hipótesis / evidencia actual / confianza / consecuencia si falla / prueba / owner / umbral / revisión`. La coherencia aparente entre bloques no compensa una hipótesis crítica sin validar.
+''')
+
+note(166, r'''
+### Build, buy o partner como decisión de dependencia
+
+Compara **build**, **buy** y **partner** con el mismo horizonte, demanda y costo de capital.
+
+| Dimensión | Pregunta de control |
+|---|---|
+| **Aporte** | ¿Qué capacidad, acceso, velocidad o economics aporta cada parte y cómo se mide? |
+| **Dependencia** | ¿Qué operación, dato, cliente o ingreso queda concentrado en el socio? |
+| **Poder negociador** | ¿Quién cambia precio, acceso o reglas con menor costo de salida? |
+| **Alineación** | ¿Los incentivos siguen compatibles si volumen, margen o estrategia cambian? |
+| **Exclusividad** | ¿Qué opciones futuras se cierran, por cuánto tiempo y alcance? |
+| **Riesgo** | ¿Qué falla técnica, comercial, regulatoria o reputacional se comparte o transfiere? |
+| **Gobierno** | ¿Quién decide, qué datos y SLA rigen y cómo se resuelve conflicto? |
+| **Salida** | ¿Qué portabilidad, transición, propiedad de datos y continuidad existen? |
+
+La recomendación termina con owner, capital y capacidad comprometidos, límites, trigger de renegociación y plan de salida probado.
+''')
+
+note(196, r'''
+### Protocolo para interrogar cualquier pre-read
+
+Sea un estudio de mercado, una síntesis de clientes, un Canvas, un modelo financiero o una propuesta de alianza, el foro ejecutivo responde en orden:
+
+1. ¿Qué afirma el equipo?
+2. ¿Qué evidencia lo respalda?
+3. ¿Qué supuesto sostiene la conclusión?
+4. ¿Qué ocurriría si el supuesto es falso?
+5. ¿Qué información falta para decidir?
+6. ¿Qué riesgo se acepta y quién soporta la consecuencia?
+7. ¿Quién responde con autoridad y capacidad?
+8. ¿Cuándo o bajo qué condición se revisa?
+
+El foro puede avanzar por etapas, limitar exposición, pedir una prueba, cambiar la secuencia o no comprometer todavía. Reducir esas opciones a “aprobar/rechazar” empobrece la arquitectura de decisión.
+''')
+
+note(204, r'''
+### Caso integrado: TurnoClaro
+
+En el día 18 como CEO debes decidir sobre USD 350.000 de capacidad y capital para una empresa de software de planificación de turnos. El caso reutiliza, sin volver a enseñarlas, las salidas de [forecast](../../../09-managerial-finance-accounting/classes/115-presupuesto-y-forecast/README.md), [unit economics](../../../09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback/README.md), [mercado](../../../11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda/README.md), [customer discovery](../../../12-product-innovation/classes/147-customer-discovery/README.md), [modelo de negocio](../../../13-strategy-competition/classes/163-modelo-de-negocio/README.md), [partnerships](../../../13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas/README.md) y [arquitectura de decisiones](../196-arquitectura-de-decisiones-ejecutivas/README.md).
+
+#### Mercado
+
+- El equipo afirma TAM de USD 420 millones desde gasto latinoamericano en software de RR. HH. de 2023, sin base por país o tamaño.
+- Su mercado servible usa 8.000 locales × USD 420 mensuales, sin descontar capacidad comercial, elegibilidad ni adopción.
+- El benchmark es de cadenas grandes de Estados Unidos; TurnoClaro vende a medianas empresas chilenas.
+- Se enumeran cuatro SaaS, pero se omiten planillas, módulos de remuneraciones, desarrollo interno y outsourcing.
+
+#### Clientes
+
+| Estado | Cantidad | Observación |
+|---|---:|---|
+| Cuentas descritas | 210 | no confirman problema ni urgencia |
+| Entrevistados | 26 | 17 relatan errores; muestra reclutada por ventas |
+| Intención documentada | 11 | carta no vinculante para evaluar piloto |
+| Pagaron | 5 | piloto de 90 días; dos con implementación subsidiada |
+| Repitieron | 2 | uno renovó con 20 % de descuento |
+
+Ventas presenta los 254 registros como “evidencia de demanda”. No hay cohorte completa a precio de lista.
+
+#### Modelo y economía
+
+- Suscripción: USD 420 por local al mes más USD 1.800 de implementación.
+- El Canvas supone canal de integradores y onboarding estandarizado; hoy cada implementación consume 55–110 horas y depende del fundador de producto.
+- Costo variable inicial: USD 2.400; margen bruto posterior estimado: 58 % antes del revenue share.
+- CAC observado: USD 5.600; payback: 15–22 meses según descuento, onboarding y churn.
+- Caja: USD 520.000; burn: USD 42.000 mensuales. Las contrataciones reducen runway de 12,4 a 8,2 meses antes de cobros y elevan capital de trabajo.
+
+La hipótesis destructiva es que el partner reduce CAC e implementación sin apropiarse del cliente ni deteriorar margen; no está probada.
+
+#### Aliados
+
+1. **NóminaSur:** API, certificación y leads por 18 % de revenue share, exclusividad de dos años y control de la relación. Puede cambiar rate limit y terminar con 30 días; no ofrece portabilidad ni SLA.
+2. **IntegraPyme:** no exclusivo y 10 % de revenue share; llega a una quinta parte de cuentas y exige cofinanciar soporte.
+3. Build cuesta USD 140.000–220.000 y seis–nueve meses; buy requiere due diligence y capital adicional no aprobado.
+
+#### Proyección
+
+| Escenario | Locales al mes 12 | Run-rate anual | Driver dominante | Efecto de caja |
+|---|---:|---:|---|---|
+| Adverso | 55 | USD 277.000 | implementación de 8 semanas y baja conversión | caja se agota en mes 10 con contrataciones |
+| Base | 140 | USD 706.000 | partner entrega leads y onboarding baja a 5 semanas | exige USD 350.000 por etapas |
+| Favorable | 260 | USD 1,31 millones | conversión y onboarding de 3 semanas | soporte presiona margen y capital de trabajo |
+
+Los escenarios usan solo dos renovaciones para churn. Tiempo de implementación y retención mueven más la caja que leads. El equipo pide financiar el escenario base y firmar con NóminaSur.
+
+#### Respuesta exigida
+
+No respondas solo aprobar o rechazar. Una inversión por tramos, piloto condicionado, secuencia build-partner, cambio de segmento o pausa con prueba pueden ser defendibles. Entrega **DECISIÓN, ARGUMENTOS, SUPUESTOS, RIESGOS, INFORMACIÓN FALTANTE, OWNER y FECHA/CONDICIÓN DE REVISIÓN**. Explica por qué una alternativa distinta también puede sostenerse con la evidencia.
+''')
+
+CLASS_EXTENSIONS = {
+    115: {
+        'extra_evidence': ['scenario range', 'sensitivity driver'],
+        'extra_objectives': ['**Presentar** una proyección como rango de escenarios con drivers, sensibilidad, riesgos y trigger de revisión.'],
+        'lesson_objectives': ['Presentar una proyección como rango de escenarios con drivers, sensibilidad, riesgos y trigger de revisión.'],
+        'assessment_method_addendum': 'Presenta supuestos, rango, escenarios, drivers, sensibilidad, riesgos y trigger; una cifra única no cumple. Conecta ingresos, margen, costos, caja, capital de trabajo, ROI y capital requerido. ',
+        'extra_practice': ['Reexpresa el forecast como rango y escenarios; identifica la sensibilidad dominante y fija el trigger de reforecast.'],
+    },
+    133: {
+        'title': 'Mercado, categoría y demanda',
+        'extra_evidence': ['TAM-to-reachable bridge', 'substitute coverage', 'source recency'],
+        'extra_objectives': ['**Auditar** tamaño, TAM, sustitutos, vigencia, comparabilidad y separación entre hechos e inferencias antes de autorizar recursos.'],
+        'lesson_objectives': ['Auditar tamaño, TAM, sustitutos, vigencia, comparabilidad y separación entre hechos e inferencias antes de autorizar recursos.'],
+        'assessment_method_addendum': 'Audita `afirmación / evidencia / supuesto / refutación`, TAM versus venta posible, competidores y sustitutos, vigencia y benchmarks. ',
+        'extra_practice': ['Audita tamaño, puente desde TAM, sustitutos, vigencia y comparabilidad antes de aceptar la recomendación.'],
+    },
+    147: {
+        'extra_evidence': ['paid customers', 'repeat customers'],
+        'extra_objectives': ['**Distinguir** cliente descrito, entrevistado, con intención, que pagó y que repitió sin tratar esos estados como equivalentes.'],
+        'lesson_objectives': ['Distinguir cliente descrito, entrevistado, con intención, que pagó y que repitió sin tratar esos estados como equivalentes.'],
+        'assessment_method_addendum': 'Separa descritos, entrevistados, intención, pago y repetición; declara segmento, denominador, periodo e incentivo y no sumes estados. ',
+        'extra_practice': ['Clasifica la evidencia en descrito, entrevistado, intención, pago y repetición sin agregar estados no equivalentes.'],
+    },
+    163: {
+        'extra_evidence': ['critical-assumption status', 'investment evidence threshold'],
+        'extra_objectives': ['**Priorizar** incertidumbre, identificar la hipótesis destructiva y definir la evidencia que habilita una inversión mayor.'],
+        'lesson_objectives': ['Priorizar la incertidumbre, identificar la hipótesis destructiva y definir la evidencia que habilita una inversión mayor.'],
+        'assessment_case_instructions': 'Construye dos alternativas, identifica el bloque más incierto y la hipótesis que podría destruir la coherencia. Compara beneficio, costo de oportunidad, riesgo, reversibilidad y actor afectado; recomienda una y declara qué dato cambiaría la decisión.',
+        'assessment_method_addendum': 'Ordena hipótesis por incertidumbre, impacto y dependencia; justifica cuál validar primero y fija el umbral que habilita inversión. ',
+        'extra_practice': ['Ordena bloques por incertidumbre e impacto, identifica la hipótesis destructiva y fija el umbral para invertir más.'],
+    },
+    166: {
+        'title': 'Partnerships, ecosistemas y plataformas',
+        'extra_evidence': ['bargaining asymmetry', 'exit readiness'],
+        'extra_objectives': ['**Comparar** build, buy y partner evaluando aporte, dependencia, poder, alineación, exclusividad, riesgo, gobierno y salida.'],
+        'lesson_objectives': ['Comparar build, buy y partner evaluando aporte, dependencia, poder, alineación, exclusividad, riesgo, gobierno y salida.'],
+        'assessment_case_instructions': 'Compara al menos build, buy y partner. Para cada camino indica beneficio, costo de oportunidad, riesgo, reversibilidad y actor afectado; recomienda una opción o secuencia y declara qué dato la cambiaría.',
+        'assessment_method_addendum': 'Evalúa aporte, dependencia, poder negociador, alineación, exclusividad, riesgo, gobierno y salida; asigna owner y trigger. ',
+        'extra_practice': ['Compara build, buy y partner en las ocho dimensiones de la ficha ejecutiva.'],
+    },
+    196: {
+        'extra_evidence': ['assumption traceability', 'review-trigger coverage'],
+        'extra_objectives': ['**Interrogar** cualquier pre-read mediante afirmación, evidencia, supuesto, downside, faltantes, riesgo, owner y revisión.'],
+        'lesson_objectives': ['Interrogar cualquier pre-read mediante afirmación, evidencia, supuesto, downside, faltantes, riesgo aceptado, owner y trigger de revisión.'],
+        'assessment_method_addendum': 'Responde qué afirma el equipo, evidencia, supuesto, consecuencia si es falso, faltantes, riesgo aceptado, owner y revisión. ',
+        'extra_practice': ['Interroga el pre-read con las ocho preguntas y comprueba autoridad del owner y observabilidad del trigger.'],
+    },
+    204: {
+        'title': 'Capstone: primeros 100 días como CEO',
+        'topic_name': 'capstone: primeros 100 días como CEO',
+        'executive_case': 'En tu día 18 como CEO de TurnoClaro, el directorio pide decidir sobre USD 350.000 de capital y capacidad. El dossier combina un TAM cuestionable, cinco niveles no equivalentes de evidencia de clientes, una economía sensible a onboarding y retención, alternativas build-buy-partner y tres escenarios financieros.',
+        'purpose_suffix': ' Como cierre, integra mercado, cliente, modelo de negocio, economía, alianzas y proyección sin sustituir a los especialistas.',
+        'extra_evidence': ['customer-evidence maturity', 'scenario sensitivity', 'capital at risk'],
+        'extra_objectives': ['**Interrogar** un dossier integrado y asignar capital, owner y revisión sin reducir la respuesta a aprobar o rechazar.'],
+        'lesson_objectives': ['Interrogar conjuntamente mercado, cliente, modelo de negocio, economía, alianzas y proyección para decidir capital, owner y revisión.'],
+        'deliverable': 'integrated-executive-decision-brief.md',
+        'case_brief': 'No respondas solo **aprobar** o **rechazar**. Entrega **DECISIÓN, ARGUMENTOS, SUPUESTOS, RIESGOS, INFORMACIÓN FALTANTE, OWNER y FECHA/CONDICIÓN DE REVISIÓN**. Formula al menos dos opciones defendibles y utiliza dos fuentes para desafiar tu preferencia.',
+        'assessment_case_instructions': 'Construye al menos dos decisiones plausibles, no solo aprobar/rechazar. Para cada una indica capital, beneficio, costo de oportunidad, riesgo, reversibilidad y actor afectado. Recomienda una, explica por qué otra también es defendible y declara qué dato cambiaría la decisión.',
+        'assessment_method_addendum': 'Interroga mercado, madurez del cliente, hipótesis del modelo, ingresos, margen, costos, caja, capital de trabajo, ROI, unit economics, capital requerido, build/buy/partner y forecast por rangos, drivers y sensibilidad. Entrega DECISIÓN, ARGUMENTOS, SUPUESTOS, RIESGOS, INFORMACIÓN FALTANTE, OWNER y FECHA/CONDICIÓN DE REVISIÓN. ',
+        'extra_practice': [
+            'Reconstruye el dossier con `afirmación / evidencia / supuesto / consecuencia si es falso / faltante`.',
+            'Clasifica la evidencia de clientes y audita TAM, sustitutos, vigencia y comparabilidad.',
+            'Identifica el bloque más incierto y la hipótesis destructiva.',
+            'Compara build, buy y partner en aporte, dependencia, poder, alineación, exclusividad, riesgo, gobierno y salida.',
+            'Verifica rango, drivers, sensibilidad, margen, caja, capital de trabajo, ROI y capital requerido.',
+            'Formula dos decisiones defendibles, elige una con owner y trigger e insértala en la cadence de 100 días.',
+        ],
+        'extra_errors': [
+            ('Sumar estados de cliente', 'Se convirtió una escalera de evidencia en un total comercial', 'Reporta estado, cohorte, periodo e incentivo por separado.'),
+            ('Presentar TAM o forecast como cifra única', 'Se ocultaron alcance, drivers y sensibilidad', 'Exige puente a mercado alcanzable, rango y trigger.'),
+            ('Elegir partner sin contrafactual', 'La velocidad ocultó dependencia, exclusividad y salida', 'Compara build, buy y partner con el mismo horizonte.'),
+        ],
+        'extra_questions': ['¿Qué supuesto conecta la alianza con la economía y qué trigger obligaría a cambiar la decisión?'],
+    },
+}

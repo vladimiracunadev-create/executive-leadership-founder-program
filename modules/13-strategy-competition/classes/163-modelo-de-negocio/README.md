@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** revenue per segment, gross margin, CAC-LTV sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Priorizar** incertidumbre, identificar la hipótesis destructiva y definir la evidencia que habilita una inversión mayor.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,14 @@ La síntesis de **modelo de negocio** no consiste en sumar cinco definiciones. E
 
 Aplica ahora la secuencia **1. definir segmento y problema → 2. articular propuesta y canal → 3. modelar recursos actividades y partners → 4. construir revenue y cost logic → 5. testear coherencia y economics**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Interrogación ejecutiva del modelo
+
+El Canvas y los mapas existentes se conservan como representación del sistema; el director no vuelve a rellenarlos. Sobre el artefacto debe identificar el bloque con menor evidencia y mayor impacto, la hipótesis que si es falsa destruye otros bloques o la economía, la validación que debe ocurrir primero por dependencia/downside/valor de información y el umbral observable que habilita la siguiente inversión.
+
+Registra `hipótesis / evidencia actual / confianza / consecuencia si falla / prueba / owner / umbral / revisión`. La coherencia aparente entre bloques no compensa una hipótesis crítica sin validar.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +173,7 @@ Entrega un **decision brief de modelo de negocio** que contenga: (a) hechos y fu
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Ordena bloques por incertidumbre e impacto, identifica la hipótesis destructiva y fija el umbral para invertir más.
 
 ## ⚠️ Errores frecuentes
 

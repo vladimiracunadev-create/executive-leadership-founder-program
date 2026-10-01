@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** interviews by segment, problem recurrence, workaround spend sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Distinguir** cliente descrito, entrevistado, con intención, que pagó y que repitió sin tratar esos estados como equivalentes.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,20 @@ La síntesis de **customer discovery** no consiste en sumar cinco definiciones. 
 
 Aplica ahora la secuencia **1. definir hipótesis y segmento → 2. reclutar muestra relevante → 3. preguntar por episodios pasados y conducta → 4. capturar patrones y contradicciones → 5. sintetizar evidencia y decidir siguiente experimento**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Escalera ejecutiva de evidencia del cliente
+
+| Estado | Evidencia mínima | Lo que todavía no demuestra |
+|---|---|---|
+| **Cliente descrito** | perfil con criterios observables | que reconozca el problema |
+| **Cliente entrevistado** | conversación trazable sobre conducta pasada | intención de cambiar o pagar |
+| **Cliente con intención** | compromiso explícito con siguiente paso | compra efectiva |
+| **Cliente que pagó** | transacción conciliada, aunque sea piloto | retención o economía sostenible |
+| **Cliente que repitió** | renovación o recompra en ventana definida | generalización al mercado |
+
+Cada número declara segmento, denominador, periodo, precio o incentivo y evidencia contradictoria. El comité decide desde el peldaño realmente observado; no suma como equivalentes esos cinco estados.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +179,7 @@ Entrega un **decision brief de customer discovery** que contenga: (a) hechos y f
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Clasifica la evidencia en descrito, entrevistado, intención, pago y repetición sin agregar estados no equivalentes.
 
 ## ⚠️ Errores frecuentes
 

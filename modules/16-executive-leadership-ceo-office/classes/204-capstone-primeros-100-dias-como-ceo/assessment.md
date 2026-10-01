@@ -10,13 +10,13 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Asumes como CEO de empresa rentable pero estancada, con churn en aumento, dos ejecutivos enfrentados y una migración tecnológica atrasada. El directorio espera crecer de nuevo en un año.
+**Caso:** En tu día 18 como CEO de TurnoClaro, el directorio pide decidir sobre USD 350.000 de capital y capacidad. El dossier combina un TAM cuestionable, cinco niveles no equivalentes de evidencia de clientes, una economía sensible a onboarding y retención, alternativas build-buy-partner y tres escenarios financieros.
 
-Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
+Construye al menos dos decisiones plausibles, no solo aprobar/rechazar. Para cada una indica capital, beneficio, costo de oportunidad, riesgo, reversibilidad y actor afectado. Recomienda una, explica por qué otra también es defendible y declara qué dato cambiaría la decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **clarificar mandato y situación → diseñar learning agenda 30 días → evaluar equipo y riesgos → definir 3 a 5 prioridades y early wins → establecer operating cadence y revisión 100 días**. Debes utilizar o diseñar cómo obtener **learning coverage, critical-risk closure, team decisions**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **clarificar mandato y situación → diseñar learning agenda 30 días → evaluar equipo y riesgos → definir 3 a 5 prioridades y early wins → establecer operating cadence y revisión 100 días**. Debes utilizar o diseñar cómo obtener **learning coverage, critical-risk closure, team decisions**. Interroga mercado, madurez del cliente, hipótesis del modelo, ingresos, margen, costos, caja, capital de trabajo, ROI, unit economics, capital requerido, build/buy/partner y forecast por rangos, drivers y sensibilidad. Entrega DECISIÓN, ARGUMENTOS, SUPUESTOS, RIESGOS, INFORMACIÓN FALTANTE, OWNER y FECHA/CONDICIÓN DE REVISIÓN. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

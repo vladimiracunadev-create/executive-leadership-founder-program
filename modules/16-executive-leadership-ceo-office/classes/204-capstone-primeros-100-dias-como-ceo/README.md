@@ -6,7 +6,7 @@
 
 ## 🎯 Propósito
 
-El capstone de primeros 100 días exige entrar a una empresa nueva, diagnosticar antes de imponer soluciones, asegurar continuidad, evaluar equipo, construir relaciones y elegir pocas prioridades. El plan debe combinar aprendizaje, decisiones tempranas y ventanas de cambio.
+El capstone de primeros 100 días exige entrar a una empresa nueva, diagnosticar antes de imponer soluciones, asegurar continuidad, evaluar equipo, construir relaciones y elegir pocas prioridades. El plan debe combinar aprendizaje, decisiones tempranas y ventanas de cambio. Como cierre, integra mercado, cliente, modelo de negocio, economía, alianzas y proyección sin sustituir a los especialistas.
 
 La salida de esta parte es **pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: primeros 100 días como CEO** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
 
@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** learning coverage, critical-risk closure, team decisions sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Interrogar** un dossier integrado y asignar capital, owner y revisión sin reducir la respuesta a aprobar o rechazar.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,61 @@ La síntesis de **capstone: primeros 100 días como CEO** no consiste en sumar c
 
 Aplica ahora la secuencia **1. clarificar mandato y situación → 2. diseñar learning agenda 30 días → 3. evaluar equipo y riesgos → 4. definir 3 a 5 prioridades y early wins → 5. establecer operating cadence y revisión 100 días**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Caso integrado: TurnoClaro
+
+En el día 18 como CEO debes decidir sobre USD 350.000 de capacidad y capital para una empresa de software de planificación de turnos. El caso reutiliza, sin volver a enseñarlas, las salidas de [forecast](../../../09-managerial-finance-accounting/classes/115-presupuesto-y-forecast/README.md), [unit economics](../../../09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback/README.md), [mercado](../../../11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda/README.md), [customer discovery](../../../12-product-innovation/classes/147-customer-discovery/README.md), [modelo de negocio](../../../13-strategy-competition/classes/163-modelo-de-negocio/README.md), [partnerships](../../../13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas/README.md) y [arquitectura de decisiones](../196-arquitectura-de-decisiones-ejecutivas/README.md).
+
+#### Mercado
+
+- El equipo afirma TAM de USD 420 millones desde gasto latinoamericano en software de RR. HH. de 2023, sin base por país o tamaño.
+- Su mercado servible usa 8.000 locales × USD 420 mensuales, sin descontar capacidad comercial, elegibilidad ni adopción.
+- El benchmark es de cadenas grandes de Estados Unidos; TurnoClaro vende a medianas empresas chilenas.
+- Se enumeran cuatro SaaS, pero se omiten planillas, módulos de remuneraciones, desarrollo interno y outsourcing.
+
+#### Clientes
+
+| Estado | Cantidad | Observación |
+|---|---:|---|
+| Cuentas descritas | 210 | no confirman problema ni urgencia |
+| Entrevistados | 26 | 17 relatan errores; muestra reclutada por ventas |
+| Intención documentada | 11 | carta no vinculante para evaluar piloto |
+| Pagaron | 5 | piloto de 90 días; dos con implementación subsidiada |
+| Repitieron | 2 | uno renovó con 20 % de descuento |
+
+Ventas presenta los 254 registros como “evidencia de demanda”. No hay cohorte completa a precio de lista.
+
+#### Modelo y economía
+
+- Suscripción: USD 420 por local al mes más USD 1.800 de implementación.
+- El Canvas supone canal de integradores y onboarding estandarizado; hoy cada implementación consume 55–110 horas y depende del fundador de producto.
+- Costo variable inicial: USD 2.400; margen bruto posterior estimado: 58 % antes del revenue share.
+- CAC observado: USD 5.600; payback: 15–22 meses según descuento, onboarding y churn.
+- Caja: USD 520.000; burn: USD 42.000 mensuales. Las contrataciones reducen runway de 12,4 a 8,2 meses antes de cobros y elevan capital de trabajo.
+
+La hipótesis destructiva es que el partner reduce CAC e implementación sin apropiarse del cliente ni deteriorar margen; no está probada.
+
+#### Aliados
+
+1. **NóminaSur:** API, certificación y leads por 18 % de revenue share, exclusividad de dos años y control de la relación. Puede cambiar rate limit y terminar con 30 días; no ofrece portabilidad ni SLA.
+2. **IntegraPyme:** no exclusivo y 10 % de revenue share; llega a una quinta parte de cuentas y exige cofinanciar soporte.
+3. Build cuesta USD 140.000–220.000 y seis–nueve meses; buy requiere due diligence y capital adicional no aprobado.
+
+#### Proyección
+
+| Escenario | Locales al mes 12 | Run-rate anual | Driver dominante | Efecto de caja |
+|---|---:|---:|---|---|
+| Adverso | 55 | USD 277.000 | implementación de 8 semanas y baja conversión | caja se agota en mes 10 con contrataciones |
+| Base | 140 | USD 706.000 | partner entrega leads y onboarding baja a 5 semanas | exige USD 350.000 por etapas |
+| Favorable | 260 | USD 1,31 millones | conversión y onboarding de 3 semanas | soporte presiona margen y capital de trabajo |
+
+Los escenarios usan solo dos renovaciones para churn. Tiempo de implementación y retención mueven más la caja que leads. El equipo pide financiar el escenario base y firmar con NóminaSur.
+
+#### Respuesta exigida
+
+No respondas solo aprobar o rechazar. Una inversión por tramos, piloto condicionado, secuencia build-partner, cambio de segmento o pausa con prueba pueden ser defendibles. Entrega **DECISIÓN, ARGUMENTOS, SUPUESTOS, RIESGOS, INFORMACIÓN FALTANTE, OWNER y FECHA/CONDICIÓN DE REVISIÓN**. Explica por qué una alternativa distinta también puede sostenerse con la evidencia.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -152,9 +208,9 @@ El cambio de nivel en **capstone: primeros 100 días como CEO** aumenta el núme
 
 ## 🏢 Caso ejecutivo
 
-Asumes como CEO de empresa rentable pero estancada, con churn en aumento, dos ejecutivos enfrentados y una migración tecnológica atrasada. El directorio espera crecer de nuevo en un año.
+En tu día 18 como CEO de TurnoClaro, el directorio pide decidir sobre USD 350.000 de capital y capacidad. El dossier combina un TAM cuestionable, cinco niveles no equivalentes de evidencia de clientes, una economía sensible a onboarding y retención, alternativas build-buy-partner y tres escenarios financieros.
 
-Entrega un **decision brief de capstone: primeros 100 días como CEO** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+No respondas solo **aprobar** o **rechazar**. Entrega **DECISIÓN, ARGUMENTOS, SUPUESTOS, RIESGOS, INFORMACIÓN FALTANTE, OWNER y FECHA/CONDICIÓN DE REVISIÓN**. Formula al menos dos opciones defendibles y utiliza dos fuentes para desafiar tu preferencia.
 
 ## 🧪 Práctica
 
@@ -164,6 +220,12 @@ Entrega un **decision brief de capstone: primeros 100 días como CEO** que conte
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Reconstruye el dossier con `afirmación / evidencia / supuesto / consecuencia si es falso / faltante`.
+8. Clasifica la evidencia de clientes y audita TAM, sustitutos, vigencia y comparabilidad.
+9. Identifica el bloque más incierto y la hipótesis destructiva.
+10. Compara build, buy y partner en aporte, dependencia, poder, alineación, exclusividad, riesgo, gobierno y salida.
+11. Verifica rango, drivers, sensibilidad, margen, caja, capital de trabajo, ROI y capital requerido.
+12. Formula dos decisiones defendibles, elige una con owner y trigger e insértala en la cadence de 100 días.
 
 ## ⚠️ Errores frecuentes
 
@@ -174,6 +236,9 @@ Entrega un **decision brief de capstone: primeros 100 días como CEO** que conte
 | Optimizar solo learning coverage | La métrica local sustituyó al resultado del sistema | Contrástala con critical-risk closure y explicita el costo de oportunidad. |
 | Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: primeros 100 días como CEO | Los 100 días son una convención, no una frontera mágica. En crisis se decide antes; en negocios complejos algunas conclusiones requieren más tiempo. El plan debe seguir evidencia. |
 | No fijar revisión | Una decisión sobre capstone: primeros 100 días como CEO se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Sumar estados de cliente | Se convirtió una escalera de evidencia en un total comercial | Reporta estado, cohorte, periodo e incentivo por separado. |
+| Presentar TAM o forecast como cifra única | Se ocultaron alcance, drivers y sensibilidad | Exige puente a mercado alcanzable, rango y trigger. |
+| Elegir partner sin contrafactual | La velocidad ocultó dependencia, exclusividad y salida | Compara build, buy y partner con el mismo horizonte. |
 
 ## ❓ Preguntas de comprobación
 
@@ -183,15 +248,16 @@ Entrega un **decision brief de capstone: primeros 100 días como CEO** que conte
 4. ¿Por qué **learning coverage** no basta por sí sola para atribuir causalidad?
 5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: primeros 100 días como CEO**?
 6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Los 100 días son una convención, no una frontera mágica. En crisis se decide antes; en negocios complejos algunas conclusiones requieren más tiempo. El plan debe seguir evidencia.**?
+7. ¿Qué supuesto conecta la alianza con la economía y qué trigger obligaría a cambiar la decisión?
 
 ## 📥 Entregable
 
 Guarda en `portfolio/204-capstone-primeros-100-dias-como-ceo/`:
 
-- `risk-governance-brief.md` con el problema específico de **capstone: primeros 100 días como CEO**, evidencia, alternativas, decisión y gobernanza;
+- `integrated-executive-decision-brief.md` con el problema específico de **capstone: primeros 100 días como CEO**, evidencia, alternativas, decisión y gobernanza;
 - `reading-note.md` contrastando las fuentes de **capstone: primeros 100 días como CEO** con edición/páginas consultadas;
 - `decision-journal.md` registrando los supuestos de **transition mandate**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Asumes como CEO de empresa rentable pero estancada, con churn en aumento, dos ejecutivos enfrentados y una migración tecnológica atrasada. El directorio espera crecer de nuevo en un año.** y el dato que podría invalidar la recomendación.
+- `red-team.md` con la objeción más fuerte al caso **En tu día 18 como CEO de TurnoClaro, el directorio pide decidir sobre USD 350.000 de capital y capacidad. El dossier combina un TAM cuestionable, cinco niveles no equivalentes de evidencia de clientes, una economía sensible a onboarding y retención, alternativas build-buy-partner y tres escenarios financieros.** y el dato que podría invalidar la recomendación.
 
 ## 📗 Fuentes y verificación
 
@@ -201,10 +267,10 @@ Guarda en `portfolio/204-capstone-primeros-100-dias-como-ceo/`:
 - Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** impacto emocional del liderazgo y estilos de conducción. Lectura selectiva sobre **capstone: primeros 100 días como ceo**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
 - Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva sobre **capstone: primeros 100 días como ceo**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
 - Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **capstone: primeros 100 días como ceo**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: primeros 100 días como ceo** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: primeros 100 días como ceo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: primeros 100 días como ceo** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: primeros 100 días como ceo** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: primeros 100 días como ceo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: primeros 100 días como CEO** sobre conocimiento previo verificable. Lectura selectiva sobre **capstone: primeros 100 días como ceo**. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
+- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: primeros 100 días como CEO**. Lectura selectiva sobre **capstone: primeros 100 días como ceo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
+- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: primeros 100 días como CEO** desde el desempeño observable y no desde el temario. Lectura selectiva sobre **capstone: primeros 100 días como ceo**. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
+- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: primeros 100 días como CEO** en práctica deliberada con criterios explícitos. Lectura selectiva sobre **capstone: primeros 100 días como ceo**. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
+- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: primeros 100 días como CEO** como problema, evidencia, alternativas y recomendación. Lectura selectiva sobre **capstone: primeros 100 días como ceo**. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Capstone: primeros 100 días como CEO:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: primeros 100 días como CEO** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.

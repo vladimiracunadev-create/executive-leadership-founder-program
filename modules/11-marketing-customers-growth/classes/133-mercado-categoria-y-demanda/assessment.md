@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir job y compradores → mapear alternativas y sustitutos → estimar demanda accesible → decidir categoría existente versus nueva → probar lenguaje con clientes**. Debes utilizar o diseñar cómo obtener **search demand, category awareness, win/loss alternative**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **definir job y compradores → mapear alternativas y sustitutos → estimar demanda accesible → decidir categoría existente versus nueva → probar lenguaje con clientes**. Debes utilizar o diseñar cómo obtener **search demand, category awareness, win/loss alternative**. Audita `afirmación / evidencia / supuesto / refutación`, TAM versus venta posible, competidores y sustitutos, vigencia y benchmarks. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

@@ -119,7 +119,6 @@ Estos casos se usan por su **mecanismo**, no por la intimidad de nadie. Verifica
 
 **Tipos de conflicto:** real, potencial y percibido. **Salvaguardas:** declaración, abstención, recusación, revisión por un tercero independiente y registro en acta.
 
-
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.

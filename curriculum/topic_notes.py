@@ -689,7 +689,7 @@ Estos casos se usan por su **mecanismo**, no por la intimidad de nadie. Verifica
 | **Caso Guillaume (1974)** | Un colaborador de la cancillería alemana resultó ser agente de la inteligencia de la RDA; precipitó la renuncia del canciller. | Las personas con acceso cercano a quien decide son vector de riesgo; la confianza requiere verificación proporcional. |
 
 **Tipos de conflicto:** real, potencial y percibido. **Salvaguardas:** declaración, abstención, recusación, revisión por un tercero independiente y registro en acta.
-'''
+'''.rstrip()
 
 note(213, r'''
 ### Riesgos asociados a personas clave: contrainteligencia ejecutiva defensiva

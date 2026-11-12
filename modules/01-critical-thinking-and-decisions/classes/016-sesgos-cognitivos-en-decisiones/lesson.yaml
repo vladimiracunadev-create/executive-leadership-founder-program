@@ -13,6 +13,7 @@ objectives:
   - "Interpretar error de forecast, dispersión entre estimadores, intervalos de confianza sin atribuir causalidad automática."
   - "Resolver el caso de sesgos cognitivos en decisiones con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Reconocer sesgo de autoridad, exceso de confianza, reciprocidad y presión como vías de influencia indebida y definir un control antes de decidir."
 deliverable: "leadership-decision-brief.md"
 references:
   - "Daniel Kahneman — *Thinking, Fast and Slow*"
@@ -29,3 +30,5 @@ evidence_signals:
   - "intervalos de confianza"
   - "frecuencia de cambios después de evidencia contraria"
   - "predicciones registradas versus resultados"
+  - "independent-check coverage"
+  - "undisclosed-interest flag"

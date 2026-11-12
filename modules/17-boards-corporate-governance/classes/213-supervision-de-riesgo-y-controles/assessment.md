@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **alinear risk appetite con estrategia → seleccionar top risks y scenarios → identificar critical controls → obtener assurance independiente → seguir breaches y remediation**. Debes utilizar o diseñar cómo obtener **KRI trend, control effectiveness, audit findings**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **alinear risk appetite con estrategia → seleccionar top risks y scenarios → identificar critical controls → obtener assurance independiente → seguir breaches y remediation**. Debes utilizar o diseñar cómo obtener **KRI trend, control effectiveness, audit findings**. Identifica personas clave, señales para consultar, medidas de protección en viajes y negociaciones y límites éticos del control. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

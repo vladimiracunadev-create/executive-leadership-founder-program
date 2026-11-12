@@ -5,7 +5,7 @@
 
 **Todo el texto versionado del repositorio, en un listado plano y ordenado.**
 
-[![Archivos](https://img.shields.io/badge/archivos-1158-7c5cff?style=flat-square)](FILE_INDEX.md)
+[![Archivos](https://img.shields.io/badge/archivos-1160-7c5cff?style=flat-square)](FILE_INDEX.md)
 [![Generado por](https://img.shields.io/badge/generado%20por-build__file__index.py-007c83?style=flat-square)](tools/build_file_index.py)
 [![Se edita](https://img.shields.io/badge/se%20edita-nunca%20a%20mano-8b0000?style=flat-square)](MANIFEST.md)
 
@@ -23,7 +23,7 @@
 
 | Extensión | Archivos |
 |---|---:|
-| `.md` | 824 |
+| `.md` | 826 |
 | `.yaml` | 289 |
 | `.py` | 22 |
 | `.yml` | 8 |
@@ -140,6 +140,7 @@
 - `EXECUTIVE_MARKET_DECISION_AUDIT.md`
 - `EXECUTIVE_PORTFOLIO.md`
 - `FUENTES.md`
+- `HUMAN_INTELLIGENCE_AND_LEADERSHIP_PROTECTION.md`
 - `INSTRUCTOR_GUIDE.md`
 - `LEARNING_PATH.md`
 - `LICENSING_HISTORY.md`
@@ -2199,6 +2200,7 @@
 - `founder-owner-decision-brief.md`
 - `gtm-plan.md`
 - `independence-plan.md`
+- `influence-and-conflict-disclosure-brief.md`
 - `integrated-executive-decision-brief.md`
 - `kpi-tree.md`
 - `labor-compliance-calendar.md`

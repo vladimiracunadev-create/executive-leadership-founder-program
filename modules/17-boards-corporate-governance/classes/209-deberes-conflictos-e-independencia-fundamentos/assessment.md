@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **identificar interés y deber → verificar ley o política aplicable → revelar conflicto oportunamente → definir recusal y proceso independiente → documentar fundamento y aprobación**. Debes utilizar o diseñar cómo obtener **conflict disclosures, related-party transactions, recusals**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **identificar interés y deber → verificar ley o política aplicable → revelar conflicto oportunamente → definir recusal y proceso independiente → documentar fundamento y aprobación**. Debes utilizar o diseñar cómo obtener **conflict disclosures, related-party transactions, recusals**. Clasifica el conflicto, indica salvaguarda (declaración, abstención, revisión independiente) y extrae la lección de gobierno de un caso. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

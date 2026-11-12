@@ -13,6 +13,7 @@ objectives:
   - "Interpretar time-to-escalate, MTTR, stakeholder update latency sin atribuir causalidad automática."
   - "Resolver el caso de crisis, incidentes y escalamiento con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Separar hechos, alegaciones y juicios privados y aplicar el protocolo de las primeras 72 horas con presunción de inocencia."
 deliverable: "leadership-decision-brief.md"
 references:
   - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
@@ -29,3 +30,5 @@ evidence_signals:
   - "stakeholder update latency"
   - "decision reversals"
   - "recovery objective"
+  - "fact-vs-allegation separation"
+  - "investigator independence"

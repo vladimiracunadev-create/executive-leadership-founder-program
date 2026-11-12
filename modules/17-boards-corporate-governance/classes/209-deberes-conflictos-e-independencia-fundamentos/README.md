@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** conflict disclosures, related-party transactions, recusals sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Clasificar** conflictos reales, potenciales y percibidos y extraer el mecanismo de gobierno de casos históricos de influencia.
 
 ## 🧭 Agenda
 
@@ -105,6 +106,20 @@ Gobierno exige identificar conflictos antes de votar, declarar intereses y aplic
 
 Distingue un conflicto real, potencial y percibido. En materias legales concretas, usa estatutos y legislación vigente; el curso entrena el mapa de decisión, no reemplaza asesoría jurídica.
 
+### Conflictos de interés e influencia indebida: casos históricos de referencia
+
+Estos casos se usan por su **mecanismo**, no por la intimidad de nadie. Verifica fechas y detalles en fuentes primarias antes de citarlos.
+
+| Caso | Mecanismo | Lección de gobierno |
+|---|---|---|
+| **Enron y las sociedades LJM (1999–2001)** | El director financiero administraba entidades con las que la empresa contrataba; el directorio dispensó la regla de conflicto de interés del código de ética. | Una dispensa de conflicto exige controles compensatorios reales, no solo la aprobación formal. |
+| **Hewlett-Packard (2006)** | Para encontrar una filtración desde el directorio se usaron métodos engañosos de obtención de registros telefónicos. | Una investigación interna mal gobernada puede ser un abuso de autoridad mayor que lo investigado. |
+| **Caso Profumo (1963)** | Un ministro británico mantuvo una relación con una mujer vinculada también a un diplomático soviético; la sanción política vino de haber mentido al Parlamento. | El problema de gobierno fue el ocultamiento y el riesgo de acceso, no la vida privada en sí. |
+| **Caso Guillaume (1974)** | Un colaborador de la cancillería alemana resultó ser agente de la inteligencia de la RDA; precipitó la renuncia del canciller. | Las personas con acceso cercano a quien decide son vector de riesgo; la confianza requiere verificación proporcional. |
+
+**Tipos de conflicto:** real, potencial y percibido. **Salvaguardas:** declaración, abstención, recusación, revisión por un tercero independiente y registro en acta.
+
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -172,6 +187,7 @@ Entrega un **decision brief de deberes, conflictos e independencia: fundamentos*
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Elige un caso de la tabla histórica y reescribe qué control del directorio habría cambiado el desenlace.
 
 ## ⚠️ Errores frecuentes
 

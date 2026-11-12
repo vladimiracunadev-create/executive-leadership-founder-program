@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** KRI trend, control effectiveness, audit findings sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Aplicar** contrainteligencia ejecutiva defensiva: reconocer señales de influencia, diseñar acceso y declaración, sin vigilar la vida privada.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,25 @@ La síntesis de **supervisión de riesgo y controles** no consiste en sumar cinc
 
 Aplica ahora la secuencia **1. alinear risk appetite con estrategia → 2. seleccionar top risks y scenarios → 3. identificar critical controls → 4. obtener assurance independiente → 5. seguir breaches y remediation**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Riesgos asociados a personas clave: contrainteligencia ejecutiva defensiva
+
+La **contrainteligencia ejecutiva** aquí no es vigilancia: es el conjunto de prácticas con que una organización reduce la probabilidad y el impacto de que alguien con acceso sea objeto de influencia indebida. El recurso central es la **cultura de declaración** y el **diseño de acceso**, no el seguimiento de las personas.
+
+| Término | Definición operacional |
+|---|---|
+| **HUMINT** | Información obtenida de y a través de personas, en oposición a señales o documentos. Para un ejecutivo, es el modo de aproximación que explota relaciones. |
+| **Honey trap** | Aproximación en la que la intimidad o la atracción se usan como instrumento para obtener acceso, información o ventaja. |
+| **Kompromat** | Material comprometedor, real o fabricado, retenido para presionar a alguien. |
+| **Intermediario** | Tercero que sirve de puente para evitar que el interés real aparezca. |
+| **MICE** | Marco clásico de motivaciones de captación: dinero, ideología, compromiso o coerción, ego. |
+| **Persona clave** | Quien concentra acceso, autoridad o conocimiento cuya pérdida o compromiso afecta a la organización. |
+
+**Señales para consultar, no para acusar:** interés intenso y desproporcionado por información que no necesita; solicitudes de acceso fuera de canal; regalos o favores fuera de escala; presión para decidir rápido; petición de reserva o secreto; aislamiento del entorno de asesores; intermediarios que reaparecen. **Medidas de protección:** confidencialidad profesional por clasificación; separación de roles; viajes y negociaciones con protocolos (dispositivos, reuniones con más de una persona, informe posterior); canales de declaración; revisión del directorio sobre dependencia de personas clave; asesoramiento independiente.
+
+Principio rector: el riesgo se gestiona con **diseño, declaración y verificación proporcional**; la vida privada de las personas no es materia de investigación salvo que genere un riesgo concreto para el cargo y con proceso formal.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +184,7 @@ Entrega un **decision brief de supervisión de riesgo y controles** que contenga
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Mapea personas clave de una organización y define para cada una declaración, diseño de acceso y protocolo de viaje.
 
 ## ⚠️ Errores frecuentes
 

@@ -13,6 +13,7 @@ objectives:
   - "Interpretar conflictos de interés, excepciones, precedentes citados sin atribuir causalidad automática."
   - "Resolver el caso de valores y dilemas éticos con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Resolver un dilema entre una relación personal y una obligación del cargo con la prueba de tres preguntas."
 deliverable: "modelo-financiero-y-memo-de-decision.md"
 references:
   - "Daniel Goleman — *Emotional Intelligence*"
@@ -29,3 +30,4 @@ evidence_signals:
   - "precedentes citados"
   - "daños evitados"
   - "decisiones escaladas"
+  - "disclosure timing"

@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **mapear obligaciones y conductas → diseñar políticas y training por riesgo → crear canales y protección → investigar con debido proceso → remediar causa y monitorear recurrencia**. Debes utilizar o diseñar cómo obtener **hotline usage, substantiation rate, retaliation allegations**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **mapear obligaciones y conductas → diseñar políticas y training por riesgo → crear canales y protección → investigar con debido proceso → remediar causa y monitorear recurrencia**. Debes utilizar o diseñar cómo obtener **hotline usage, substantiation rate, retaliation allegations**. Evalúa política, canal, no represalia, asesoramiento independiente y revisión; indica qué señal mostraría que declarar tiene costo. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

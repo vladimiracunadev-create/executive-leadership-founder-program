@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** hotline usage, substantiation rate, retaliation allegations sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Diseñar** un sistema de declaración de conflictos con canal confidencial, no represalia y asesoramiento independiente.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,22 @@ La síntesis de **compliance y cultura ética** no consiste en sumar cinco defin
 
 Aplica ahora la secuencia **1. mapear obligaciones y conductas → 2. diseñar políticas y training por riesgo → 3. crear canales y protección → 4. investigar con debido proceso → 5. remediar causa y monitorear recurrencia**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Declaración de conflictos, canales y asesoramiento independiente
+
+Una cultura ética se mide por lo que ocurre cuando alguien declara un problema, no por el código escrito. Este bloque aplica la clase a la **gestión de conflictos de interés e influencia indebida**.
+
+| Elemento | Qué debe existir | Señal de que falla |
+|---|---|---|
+| **Política de declaración** | Qué declarar (relaciones, regalos, intereses, ofertas inusuales), a quién y cuándo. | Nadie recuerda la última declaración. |
+| **Canal confidencial** | Vía hacia compliance, auditoría o presidente de comité, que no pase por el jefe directo. | Los reportes se resuelven en la línea jerárquica. |
+| **No represalia** | Protección explícita de quien declara de buena fe. | Quien declara pierde proyectos. |
+| **Asesoramiento independiente** | Acceso a un asesor legal o ético sin dependencia del interesado. | Solo asesora quien responde al ejecutivo en cuestión. |
+| **Registro y revisión** | Decisión, fecha, medidas de mitigación y revisión periódica. | La declaración se archiva sin consecuencias. |
+
+Un buen sistema **normaliza declarar**: declarar una relación no es confesar una falta. Si el costo de declarar supera el de callar, el sistema incentiva el silencio.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +181,7 @@ Entrega un **decision brief de compliance y cultura ética** que contenga: (a) h
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Audita una política de declaración con la tabla de cinco elementos e identifica la señal de falla más probable.
 
 ## ⚠️ Errores frecuentes
 

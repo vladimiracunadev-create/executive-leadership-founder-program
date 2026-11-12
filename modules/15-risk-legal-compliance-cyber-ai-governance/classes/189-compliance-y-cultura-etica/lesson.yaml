@@ -13,6 +13,7 @@ objectives:
   - "Interpretar hotline usage, substantiation rate, retaliation allegations sin atribuir causalidad automática."
   - "Resolver el caso de compliance y cultura ética con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Diseñar un sistema de declaración de conflictos con canal confidencial, no represalia y asesoramiento independiente."
 deliverable: "risk-governance-brief.md"
 references:
   - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
@@ -21,7 +22,7 @@ references:
   - "ISO — *ISO 31000 Risk management*"
   - "Richard A. Clarke & Robert K. Knake — *The Fifth Domain*"
   - "NIST — *Cybersecurity Framework (CSF) 2.0*"
-  - "NIST — *AI Risk Management Framework*. Fuente primaria: <https://www.nist.gov/itl/ai-risk-management-framework>."
+  - "NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobernar, mapear, medir y gestionar el riesgo de sistemas de IA en la decisión de la clase. Fuente primaria: <https://www.nist.gov/itl/ai-risk-management-framework>."
 limits:
   - "Más reportes no implican peor cultura y menos reportes no implican cumplimiento. Interpreta speak-up con confianza, calidad de investigación y contexto."
 evidence_signals:
@@ -30,3 +31,5 @@ evidence_signals:
   - "retaliation allegations"
   - "repeat violations"
   - "training effectiveness"
+  - "conflict-declaration rate"
+  - "non-retaliation signal"

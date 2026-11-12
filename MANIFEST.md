@@ -47,11 +47,11 @@
 | Evaluaciones de clase | 288 |
 | Proyectos de parte | 24 |
 | Casos integradores | 24 |
-| Plantillas de trabajo | 40 |
+| Plantillas de trabajo | 41 |
 | Escenarios del simulador | 48 |
 | Obras catalogadas | 229 |
 | Referencias citadas al cierre de clase | 3.203 |
-| Documentos Markdown | 823 |
+| Documentos Markdown | 825 |
 
 ## 🧱 Contrato de una clase
 

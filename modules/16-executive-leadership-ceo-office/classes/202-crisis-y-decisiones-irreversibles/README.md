@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** downside exposure, option value, red-team findings sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Comparar** mantener, reasignar, apartar y separar a una persona clave con criterio de reversibilidad y evidencia que reabra la decisión.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,21 @@ La síntesis de **crisis y decisiones irreversibles** no consiste en sumar cinco
 
 Aplica ahora la secuencia **1. clasificar reversibilidad → 2. buscar downside y alternativas → 3. activar challenge independiente → 4. fraccionar compromiso si es posible → 5. definir stop rule y decision log**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Decisiones difíciles de revertir con información que aún no existe
+
+Mantener, apartar temporalmente o reemplazar a una persona clave tiene costos asimétricos: apartar a alguien sin pruebas es difícil de deshacer; mantenerlo con un riesgo real también. Antes de decidir, compara **escenarios alternativos** con la misma ficha:
+
+| Escenario | Qué protege | Qué arriesga | Condición que lo cambia |
+|---|---|---|---|
+| **Mantener con salvaguardas** | Continuidad y presunción de inocencia. | Que el riesgo exista y no se haya contenido. | Evidencia de acceso o decisión comprometidos. |
+| **Reasignar temporalmente** | Información sensible durante la revisión. | Señal de culpa percibida; pérdida de liderazgo. | Resultado de la investigación independiente. |
+| **Apartar** | Independencia máxima de la revisión. | Daño reputacional y de continuidad si resulta infundado. | Hallazgos que confirmen conflicto o incumplimiento. |
+| **Separar definitivamente** | Integridad institucional. | Decisión irreversible sin base suficiente. | Hechos probados y debido proceso. |
+
+Elige el menor paso que contenga el riesgo y preserve la opción de moverte en ambos sentidos cuando lleguen datos. Fija **qué evidencia** y **qué fecha** reabren la decisión.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +180,7 @@ Entrega un **decision brief de crisis y decisiones irreversibles** que contenga:
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Completa la tabla de escenarios para una crisis de persona clave y elige el menor paso que contenga el riesgo.
 
 ## ⚠️ Errores frecuentes
 

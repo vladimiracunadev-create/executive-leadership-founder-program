@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** conflictos de interés, excepciones, precedentes citados sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Resolver** un dilema entre una relación personal y una obligación del cargo con la prueba de tres preguntas.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,16 @@ La síntesis de **valores y dilemas éticos** no consiste en sumar cinco definic
 
 Aplica ahora la secuencia **1. nombrar valores y deberes en conflicto → 2. identificar stakeholders y daños → 3. separar obligación legal de preferencia → 4. comparar opciones y precedentes → 5. consultar instancia independiente cuando corresponda**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Lealtad, relaciones personales y obligaciones del cargo
+
+El dilema ético más frecuente en cargos con acceso a información no es robar, sino **sostener a la vez dos lealtades**: una relación personal y una obligación del cargo. Un deber fiduciario o contractual no se suspende por afecto, y una relación personal no se vuelve ilegítima por existir.
+
+Usa una prueba de tres preguntas antes de actuar: `1) ¿la relación puede afectar o parecer que afecta mi juicio en el cargo? 2) ¿alguien con intereses propios se beneficia de mi acceso? 3) ¿lo declararía en voz alta ante quien me supervisa?` Si la respuesta a la tercera es no, la conducta ya señala el problema aunque ninguna norma esté escrita.
+
+Dilema de práctica: un directivo mantiene una relación cercana con un proveedor cuya oferta evalúa. Compara cuatro cursos: no declarar y decidir; declarar y decidir igual; declarar y abstenerse; declarar y pedir revisión independiente. Los dos últimos protegen la decisión y a la persona. Separa siempre **la conducta privada** —que no es objeto de juicio moral en esta clase— de **su efecto sobre el cargo**, que sí lo es.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +175,7 @@ Entrega un **decision brief de valores y dilemas éticos** que contenga: (a) hec
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Compara las cuatro conductas del dilema del proveedor y justifica cuál protege la decisión y a la persona.
 
 ## ⚠️ Errores frecuentes
 

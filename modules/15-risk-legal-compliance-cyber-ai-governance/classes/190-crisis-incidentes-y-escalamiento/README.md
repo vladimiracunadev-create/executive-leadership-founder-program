@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** time-to-escalate, MTTR, stakeholder update latency sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Separar** hechos, alegaciones y juicios privados y aplicar el protocolo de las primeras 72 horas con presunción de inocencia.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,16 @@ La síntesis de **crisis, incidentes y escalamiento** no consiste en sumar cinco
 
 Aplica ahora la secuencia **1. detectar y clasificar → 2. activar roles y war room → 3. proteger personas y contener impacto → 4. comunicar hechos y decisiones → 5. recuperar investigar y aprender**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Primeras 72 horas ante una alegación sobre un ejecutivo
+
+Cuando aparece una alegación sobre una persona clave, el error habitual es mezclar tres capas: **hechos confirmados, alegaciones y juicios sobre la vida privada**. Esta ampliación entrena un protocolo que las separa.
+
+`1) Preservar: resguardar registros relevantes. 2) Separar: tabla hecho / alegación / fuente / estado de verificación. 3) Gobernar: designar quién investiga y asegurar su independencia del investigado. 4) Proteger: limitar el acceso del investigado a lo que pueda afectar la investigación, sin presumir culpa. 5) Comunicar: mensaje breve, verificable, sin juzgar ni adelantar conclusiones. 6) Revisar: fecha de reevaluación.`
+
+**Presunción de inocencia y proporcionalidad:** las medidas cautelares (limitar acceso, reasignar funciones) no son sanciones. **Reputación:** callar y sobreexplicar dañan por igual; la regla es decir lo que se sabe, lo que no se sabe y qué se está haciendo. La conducta íntima de una persona no justifica por sí sola una sanción laboral; la justifica, en su caso, un **riesgo concreto para el cargo, la información o la organización**, evaluado con proceso y evidencia.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +175,7 @@ Entrega un **decision brief de crisis, incidentes y escalamiento** que contenga:
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Redacta la tabla de hechos y alegaciones de un caso público y un mensaje que no adelante conclusiones.
 
 ## ⚠️ Errores frecuentes
 
@@ -174,6 +186,7 @@ Entrega un **decision brief de crisis, incidentes y escalamiento** que contenga:
 | Optimizar solo time-to-escalate | La métrica local sustituyó al resultado del sistema | Contrástala con MTTR y explicita el costo de oportunidad. |
 | Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre crisis, incidentes y escalamiento | Centralizar crisis no significa que el CEO decida cada acción. Define incident command y delegación; reserva nivel ejecutivo para trade-offs, stakeholders y decisiones materiales. |
 | No fijar revisión | Una decisión sobre crisis, incidentes y escalamiento se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Juzgar por la intimidad | Se sustituyó el análisis de riesgo por una opinión moral | Exige un riesgo concreto para el cargo y evidencia. |
 
 ## ❓ Preguntas de comprobación
 

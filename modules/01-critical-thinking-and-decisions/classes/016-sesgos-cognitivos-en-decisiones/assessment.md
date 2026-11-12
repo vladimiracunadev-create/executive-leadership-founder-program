@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **identificar decisión y sesgos plausibles → obtener estimaciones independientes → usar tasas base antes de historias particulares → crear una voz de desacuerdo o premortem → comparar predicción con resultado sin hindsight**. Debes utilizar o diseñar cómo obtener **error de forecast, dispersión entre estimadores, intervalos de confianza**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **identificar decisión y sesgos plausibles → obtener estimaciones independientes → usar tasas base antes de historias particulares → crear una voz de desacuerdo o premortem → comparar predicción con resultado sin hindsight**. Debes utilizar o diseñar cómo obtener **error de forecast, dispersión entre estimadores, intervalos de confianza**. Distingue persuasión, manipulación y coerción; declara interés del proponente, información faltante y verificación independiente. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

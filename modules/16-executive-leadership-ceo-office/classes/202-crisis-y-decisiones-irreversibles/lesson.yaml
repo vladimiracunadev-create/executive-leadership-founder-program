@@ -13,6 +13,7 @@ objectives:
   - "Interpretar downside exposure, option value, red-team findings sin atribuir causalidad automática."
   - "Resolver el caso de crisis y decisiones irreversibles con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Comparar mantener, reasignar, apartar y separar a una persona clave con criterio de reversibilidad y evidencia que reabra la decisión."
 deliverable: "leadership-decision-brief.md"
 references:
   - "Ben Horowitz — *The Hard Thing About Hard Things*"
@@ -29,3 +30,5 @@ evidence_signals:
   - "red-team findings"
   - "stage-gate success"
   - "decision reversal cost"
+  - "reversibility of each option"
+  - "reopening trigger"

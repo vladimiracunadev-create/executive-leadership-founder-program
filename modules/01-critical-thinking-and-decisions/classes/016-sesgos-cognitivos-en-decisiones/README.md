@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** error de forecast, dispersión entre estimadores, intervalos de confianza sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Reconocer** sesgo de autoridad, exceso de confianza, reciprocidad y presión como vías de influencia indebida y definir un control antes de decidir.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,25 @@ La síntesis de **sesgos cognitivos en decisiones** no consiste en sumar cinco d
 
 Aplica ahora la secuencia **1. identificar decisión y sesgos plausibles → 2. obtener estimaciones independientes → 3. usar tasas base antes de historias particulares → 4. crear una voz de desacuerdo o premortem → 5. comparar predicción con resultado sin hindsight**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Influencia indebida: sesgos que otros pueden aprovechar
+
+Un sesgo es una regularidad del juicio, no una falla moral. Se vuelve un riesgo de liderazgo cuando alguien, con o sin intención, puede **aprovechar** esa regularidad para orientar una decisión. Esta ampliación no enseña a manipular: enseña a reconocer cuándo tu juicio está siendo empujado.
+
+| Sesgo o mecanismo | Cómo se manifiesta en un ejecutivo | Pregunta de control |
+|---|---|---|
+| **Sesgo de autoridad** | Se acepta una afirmación por quién la dice, no por su evidencia. | ¿Aceptaría esto de un desconocido con los mismos datos? |
+| **Exceso de confianza** | La experiencia previa reduce la verificación de lo nuevo. | ¿Qué verifiqué hoy que antes daba por sabido? |
+| **Reciprocidad y simpatía** | Favores, atención o afinidad generan deuda implícita. | ¿Qué me han dado y qué se espera a cambio? |
+| **Escalada de compromiso** | Tras ceder poco, se cede más para ser coherente. | ¿Estaría de acuerdo con esta petición si fuera la primera? |
+| **Dependencia emocional** | Una relación cubre una necesidad y reduce la distancia crítica. | ¿Podría decir que no sin temer perder la relación? |
+| **Urgencia y presión** | El plazo artificial impide consultar. | ¿Quién fijó el plazo y qué pasa si lo pospongo un día? |
+
+**Persuasión, manipulación y coerción** se distinguen por la transparencia del interés y la libertad de la otra persona: la persuasión expone su propósito y deja decidir; la manipulación lo oculta o explota una debilidad; la coerción condiciona la decisión con una amenaza. **Decidir con información incompleta** exige declarar qué falta, quién la controla y qué haría cambiar la decisión; la ausencia de datos no se cubre con confianza en la persona que los ofrece.
+
+Regla operativa: ante una decisión importante, si el proponente tiene un interés no declarado, o si la urgencia, la afinidad o la jerarquía son las razones principales, **detén, consulta a un tercero independiente y registra** por qué decidiste lo que decidiste.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +184,7 @@ Entrega un **decision brief de sesgos cognitivos en decisiones** que contenga: (
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Aplica la tabla de sesgos a una decisión pasada y señala qué control independiente habría cambiado el resultado.
 
 ## ⚠️ Errores frecuentes
 

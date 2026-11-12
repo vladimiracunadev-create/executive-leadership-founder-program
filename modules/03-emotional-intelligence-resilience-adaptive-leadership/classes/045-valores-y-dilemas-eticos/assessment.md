@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **nombrar valores y deberes en conflicto → identificar stakeholders y daños → separar obligación legal de preferencia → comparar opciones y precedentes → consultar instancia independiente cuando corresponda**. Debes utilizar o diseñar cómo obtener **conflictos de interés, excepciones, precedentes citados**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **nombrar valores y deberes en conflicto → identificar stakeholders y daños → separar obligación legal de preferencia → comparar opciones y precedentes → consultar instancia independiente cuando corresponda**. Debes utilizar o diseñar cómo obtener **conflictos de interés, excepciones, precedentes citados**. Compara declarar, abstenerse y pedir revisión independiente; separa la conducta privada de su efecto sobre el cargo. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

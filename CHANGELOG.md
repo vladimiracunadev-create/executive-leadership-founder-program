@@ -18,6 +18,21 @@
 
 ---
 
+## Sin publicar
+
+### Inteligencia humana, influencia y protección del liderazgo
+
+- **Siete clases existentes se amplían** (016, 045, 189, 190, 202, 209, 213):
+  sesgos como vías de influencia indebida, lealtades y relaciones del cargo,
+  declaración de conflictos, protocolo de 72 horas ante una alegación, escenarios
+  sobre personas clave, casos históricos y contrainteligencia ejecutiva defensiva.
+- **Nueva plantilla** `influence-and-conflict-disclosure-brief.md`.
+- **Nuevo documento** `docs/HUMAN_INTELLIGENCE_AND_LEADERSHIP_PROTECTION.md`:
+  diagnóstico, matriz de brechas, progresión por rol, glosario y el caso NVIDIA
+  con hechos separados de alegaciones.
+- Sin clases nuevas ni herramientas de vigilancia: la arquitectura sigue en
+  288 clases, 24 partes y 96 laboratorios.
+
 ## 2.3.0 — 2026-08-19
 
 ### Las fuentes se ven, y se pueden comprobar

@@ -601,3 +601,166 @@ CLASS_EXTENSIONS = {
         'extra_questions': ['¿Qué supuesto conecta la alianza con la economía y qué trigger obligaría a cambiar la decisión?'],
     },
 }
+
+# Capa de inteligencia humana, influencia y protección del liderazgo. Amplía
+# clases existentes (016, 045, 189, 190, 202, 209, 213) sin crear una ruta
+# paralela ni herramientas de vigilancia. Enfoque defensivo y de gobierno.
+note(16, r'''
+### Influencia indebida: sesgos que otros pueden aprovechar
+
+Un sesgo es una regularidad del juicio, no una falla moral. Se vuelve un riesgo de liderazgo cuando alguien, con o sin intención, puede **aprovechar** esa regularidad para orientar una decisión. Esta ampliación no enseña a manipular: enseña a reconocer cuándo tu juicio está siendo empujado.
+
+| Sesgo o mecanismo | Cómo se manifiesta en un ejecutivo | Pregunta de control |
+|---|---|---|
+| **Sesgo de autoridad** | Se acepta una afirmación por quién la dice, no por su evidencia. | ¿Aceptaría esto de un desconocido con los mismos datos? |
+| **Exceso de confianza** | La experiencia previa reduce la verificación de lo nuevo. | ¿Qué verifiqué hoy que antes daba por sabido? |
+| **Reciprocidad y simpatía** | Favores, atención o afinidad generan deuda implícita. | ¿Qué me han dado y qué se espera a cambio? |
+| **Escalada de compromiso** | Tras ceder poco, se cede más para ser coherente. | ¿Estaría de acuerdo con esta petición si fuera la primera? |
+| **Dependencia emocional** | Una relación cubre una necesidad y reduce la distancia crítica. | ¿Podría decir que no sin temer perder la relación? |
+| **Urgencia y presión** | El plazo artificial impide consultar. | ¿Quién fijó el plazo y qué pasa si lo pospongo un día? |
+
+**Persuasión, manipulación y coerción** se distinguen por la transparencia del interés y la libertad de la otra persona: la persuasión expone su propósito y deja decidir; la manipulación lo oculta o explota una debilidad; la coerción condiciona la decisión con una amenaza. **Decidir con información incompleta** exige declarar qué falta, quién la controla y qué haría cambiar la decisión; la ausencia de datos no se cubre con confianza en la persona que los ofrece.
+
+Regla operativa: ante una decisión importante, si el proponente tiene un interés no declarado, o si la urgencia, la afinidad o la jerarquía son las razones principales, **detén, consulta a un tercero independiente y registra** por qué decidiste lo que decidiste.
+''')
+
+note(45, r'''
+### Lealtad, relaciones personales y obligaciones del cargo
+
+El dilema ético más frecuente en cargos con acceso a información no es robar, sino **sostener a la vez dos lealtades**: una relación personal y una obligación del cargo. Un deber fiduciario o contractual no se suspende por afecto, y una relación personal no se vuelve ilegítima por existir.
+
+Usa una prueba de tres preguntas antes de actuar: `1) ¿la relación puede afectar o parecer que afecta mi juicio en el cargo? 2) ¿alguien con intereses propios se beneficia de mi acceso? 3) ¿lo declararía en voz alta ante quien me supervisa?` Si la respuesta a la tercera es no, la conducta ya señala el problema aunque ninguna norma esté escrita.
+
+Dilema de práctica: un directivo mantiene una relación cercana con un proveedor cuya oferta evalúa. Compara cuatro cursos: no declarar y decidir; declarar y decidir igual; declarar y abstenerse; declarar y pedir revisión independiente. Los dos últimos protegen la decisión y a la persona. Separa siempre **la conducta privada** —que no es objeto de juicio moral en esta clase— de **su efecto sobre el cargo**, que sí lo es.
+''')
+
+note(189, r'''
+### Declaración de conflictos, canales y asesoramiento independiente
+
+Una cultura ética se mide por lo que ocurre cuando alguien declara un problema, no por el código escrito. Este bloque aplica la clase a la **gestión de conflictos de interés e influencia indebida**.
+
+| Elemento | Qué debe existir | Señal de que falla |
+|---|---|---|
+| **Política de declaración** | Qué declarar (relaciones, regalos, intereses, ofertas inusuales), a quién y cuándo. | Nadie recuerda la última declaración. |
+| **Canal confidencial** | Vía hacia compliance, auditoría o presidente de comité, que no pase por el jefe directo. | Los reportes se resuelven en la línea jerárquica. |
+| **No represalia** | Protección explícita de quien declara de buena fe. | Quien declara pierde proyectos. |
+| **Asesoramiento independiente** | Acceso a un asesor legal o ético sin dependencia del interesado. | Solo asesora quien responde al ejecutivo en cuestión. |
+| **Registro y revisión** | Decisión, fecha, medidas de mitigación y revisión periódica. | La declaración se archiva sin consecuencias. |
+
+Un buen sistema **normaliza declarar**: declarar una relación no es confesar una falta. Si el costo de declarar supera el de callar, el sistema incentiva el silencio.
+''')
+
+note(190, r'''
+### Primeras 72 horas ante una alegación sobre un ejecutivo
+
+Cuando aparece una alegación sobre una persona clave, el error habitual es mezclar tres capas: **hechos confirmados, alegaciones y juicios sobre la vida privada**. Esta ampliación entrena un protocolo que las separa.
+
+`1) Preservar: resguardar registros relevantes. 2) Separar: tabla hecho / alegación / fuente / estado de verificación. 3) Gobernar: designar quién investiga y asegurar su independencia del investigado. 4) Proteger: limitar el acceso del investigado a lo que pueda afectar la investigación, sin presumir culpa. 5) Comunicar: mensaje breve, verificable, sin juzgar ni adelantar conclusiones. 6) Revisar: fecha de reevaluación.`
+
+**Presunción de inocencia y proporcionalidad:** las medidas cautelares (limitar acceso, reasignar funciones) no son sanciones. **Reputación:** callar y sobreexplicar dañan por igual; la regla es decir lo que se sabe, lo que no se sabe y qué se está haciendo. La conducta íntima de una persona no justifica por sí sola una sanción laboral; la justifica, en su caso, un **riesgo concreto para el cargo, la información o la organización**, evaluado con proceso y evidencia.
+''')
+
+note(202, r'''
+### Decisiones difíciles de revertir con información que aún no existe
+
+Mantener, apartar temporalmente o reemplazar a una persona clave tiene costos asimétricos: apartar a alguien sin pruebas es difícil de deshacer; mantenerlo con un riesgo real también. Antes de decidir, compara **escenarios alternativos** con la misma ficha:
+
+| Escenario | Qué protege | Qué arriesga | Condición que lo cambia |
+|---|---|---|---|
+| **Mantener con salvaguardas** | Continuidad y presunción de inocencia. | Que el riesgo exista y no se haya contenido. | Evidencia de acceso o decisión comprometidos. |
+| **Reasignar temporalmente** | Información sensible durante la revisión. | Señal de culpa percibida; pérdida de liderazgo. | Resultado de la investigación independiente. |
+| **Apartar** | Independencia máxima de la revisión. | Daño reputacional y de continuidad si resulta infundado. | Hallazgos que confirmen conflicto o incumplimiento. |
+| **Separar definitivamente** | Integridad institucional. | Decisión irreversible sin base suficiente. | Hechos probados y debido proceso. |
+
+Elige el menor paso que contenga el riesgo y preserve la opción de moverte en ambos sentidos cuando lleguen datos. Fija **qué evidencia** y **qué fecha** reabren la decisión.
+''')
+
+TOPIC_NOTES[209] = TOPIC_NOTES[209] + r'''
+
+### Conflictos de interés e influencia indebida: casos históricos de referencia
+
+Estos casos se usan por su **mecanismo**, no por la intimidad de nadie. Verifica fechas y detalles en fuentes primarias antes de citarlos.
+
+| Caso | Mecanismo | Lección de gobierno |
+|---|---|---|
+| **Enron y las sociedades LJM (1999–2001)** | El director financiero administraba entidades con las que la empresa contrataba; el directorio dispensó la regla de conflicto de interés del código de ética. | Una dispensa de conflicto exige controles compensatorios reales, no solo la aprobación formal. |
+| **Hewlett-Packard (2006)** | Para encontrar una filtración desde el directorio se usaron métodos engañosos de obtención de registros telefónicos. | Una investigación interna mal gobernada puede ser un abuso de autoridad mayor que lo investigado. |
+| **Caso Profumo (1963)** | Un ministro británico mantuvo una relación con una mujer vinculada también a un diplomático soviético; la sanción política vino de haber mentido al Parlamento. | El problema de gobierno fue el ocultamiento y el riesgo de acceso, no la vida privada en sí. |
+| **Caso Guillaume (1974)** | Un colaborador de la cancillería alemana resultó ser agente de la inteligencia de la RDA; precipitó la renuncia del canciller. | Las personas con acceso cercano a quien decide son vector de riesgo; la confianza requiere verificación proporcional. |
+
+**Tipos de conflicto:** real, potencial y percibido. **Salvaguardas:** declaración, abstención, recusación, revisión por un tercero independiente y registro en acta.
+'''
+
+note(213, r'''
+### Riesgos asociados a personas clave: contrainteligencia ejecutiva defensiva
+
+La **contrainteligencia ejecutiva** aquí no es vigilancia: es el conjunto de prácticas con que una organización reduce la probabilidad y el impacto de que alguien con acceso sea objeto de influencia indebida. El recurso central es la **cultura de declaración** y el **diseño de acceso**, no el seguimiento de las personas.
+
+| Término | Definición operacional |
+|---|---|
+| **HUMINT** | Información obtenida de y a través de personas, en oposición a señales o documentos. Para un ejecutivo, es el modo de aproximación que explota relaciones. |
+| **Honey trap** | Aproximación en la que la intimidad o la atracción se usan como instrumento para obtener acceso, información o ventaja. |
+| **Kompromat** | Material comprometedor, real o fabricado, retenido para presionar a alguien. |
+| **Intermediario** | Tercero que sirve de puente para evitar que el interés real aparezca. |
+| **MICE** | Marco clásico de motivaciones de captación: dinero, ideología, compromiso o coerción, ego. |
+| **Persona clave** | Quien concentra acceso, autoridad o conocimiento cuya pérdida o compromiso afecta a la organización. |
+
+**Señales para consultar, no para acusar:** interés intenso y desproporcionado por información que no necesita; solicitudes de acceso fuera de canal; regalos o favores fuera de escala; presión para decidir rápido; petición de reserva o secreto; aislamiento del entorno de asesores; intermediarios que reaparecen. **Medidas de protección:** confidencialidad profesional por clasificación; separación de roles; viajes y negociaciones con protocolos (dispositivos, reuniones con más de una persona, informe posterior); canales de declaración; revisión del directorio sobre dependencia de personas clave; asesoramiento independiente.
+
+Principio rector: el riesgo se gestiona con **diseño, declaración y verificación proporcional**; la vida privada de las personas no es materia de investigación salvo que genere un riesgo concreto para el cargo y con proceso formal.
+''')
+
+CLASS_EXTENSIONS.update({
+    16: {
+        'extra_evidence': ['independent-check coverage', 'undisclosed-interest flag'],
+        'extra_objectives': ['**Reconocer** sesgo de autoridad, exceso de confianza, reciprocidad y presión como vías de influencia indebida y definir un control antes de decidir.'],
+        'lesson_objectives': ['Reconocer sesgo de autoridad, exceso de confianza, reciprocidad y presión como vías de influencia indebida y definir un control antes de decidir.'],
+        'assessment_method_addendum': 'Distingue persuasión, manipulación y coerción; declara interés del proponente, información faltante y verificación independiente. ',
+        'extra_practice': ['Aplica la tabla de sesgos a una decisión pasada y señala qué control independiente habría cambiado el resultado.'],
+    },
+    45: {
+        'extra_evidence': ['disclosure timing'],
+        'extra_objectives': ['**Resolver** un dilema entre una relación personal y una obligación del cargo con la prueba de tres preguntas.'],
+        'lesson_objectives': ['Resolver un dilema entre una relación personal y una obligación del cargo con la prueba de tres preguntas.'],
+        'assessment_method_addendum': 'Compara declarar, abstenerse y pedir revisión independiente; separa la conducta privada de su efecto sobre el cargo. ',
+        'extra_practice': ['Compara las cuatro conductas del dilema del proveedor y justifica cuál protege la decisión y a la persona.'],
+    },
+    189: {
+        'extra_evidence': ['conflict-declaration rate', 'non-retaliation signal'],
+        'extra_objectives': ['**Diseñar** un sistema de declaración de conflictos con canal confidencial, no represalia y asesoramiento independiente.'],
+        'lesson_objectives': ['Diseñar un sistema de declaración de conflictos con canal confidencial, no represalia y asesoramiento independiente.'],
+        'assessment_method_addendum': 'Evalúa política, canal, no represalia, asesoramiento independiente y revisión; indica qué señal mostraría que declarar tiene costo. ',
+        'extra_practice': ['Audita una política de declaración con la tabla de cinco elementos e identifica la señal de falla más probable.'],
+    },
+    190: {
+        'extra_evidence': ['fact-vs-allegation separation', 'investigator independence'],
+        'extra_objectives': ['**Separar** hechos, alegaciones y juicios privados y aplicar el protocolo de las primeras 72 horas con presunción de inocencia.'],
+        'lesson_objectives': ['Separar hechos, alegaciones y juicios privados y aplicar el protocolo de las primeras 72 horas con presunción de inocencia.'],
+        'assessment_method_addendum': 'Entrega tabla hecho/alegación/fuente/verificación, quién investiga, medidas proporcionales, mensaje y fecha de revisión. ',
+        'extra_practice': ['Redacta la tabla de hechos y alegaciones de un caso público y un mensaje que no adelante conclusiones.'],
+        'extra_errors': [
+            ('Juzgar por la intimidad', 'Se sustituyó el análisis de riesgo por una opinión moral', 'Exige un riesgo concreto para el cargo y evidencia.'),
+        ],
+    },
+    202: {
+        'extra_evidence': ['reversibility of each option', 'reopening trigger'],
+        'extra_objectives': ['**Comparar** mantener, reasignar, apartar y separar a una persona clave con criterio de reversibilidad y evidencia que reabra la decisión.'],
+        'lesson_objectives': ['Comparar mantener, reasignar, apartar y separar a una persona clave con criterio de reversibilidad y evidencia que reabra la decisión.'],
+        'assessment_method_addendum': 'Compara los cuatro escenarios con protección, riesgo y condición de cambio; fija qué evidencia y fecha reabren la decisión. ',
+        'extra_practice': ['Completa la tabla de escenarios para una crisis de persona clave y elige el menor paso que contenga el riesgo.'],
+    },
+    209: {
+        'extra_evidence': ['conflict classification', 'abstention record'],
+        'extra_objectives': ['**Clasificar** conflictos reales, potenciales y percibidos y extraer el mecanismo de gobierno de casos históricos de influencia.'],
+        'lesson_objectives': ['Clasificar conflictos reales, potenciales y percibidos y extraer el mecanismo de gobierno de casos históricos de influencia.'],
+        'assessment_method_addendum': 'Clasifica el conflicto, indica salvaguarda (declaración, abstención, revisión independiente) y extrae la lección de gobierno de un caso. ',
+        'extra_practice': ['Elige un caso de la tabla histórica y reescribe qué control del directorio habría cambiado el desenlace.'],
+    },
+    213: {
+        'extra_evidence': ['key-person dependency', 'access-design review'],
+        'extra_objectives': ['**Aplicar** contrainteligencia ejecutiva defensiva: reconocer señales de influencia, diseñar acceso y declaración, sin vigilar la vida privada.'],
+        'lesson_objectives': ['Aplicar contrainteligencia ejecutiva defensiva: reconocer señales de influencia, diseñar acceso y declaración, sin vigilar la vida privada.'],
+        'assessment_method_addendum': 'Identifica personas clave, señales para consultar, medidas de protección en viajes y negociaciones y límites éticos del control. ',
+        'extra_practice': ['Mapea personas clave de una organización y define para cada una declaración, diseño de acceso y protocolo de viaje.'],
+    },
+})

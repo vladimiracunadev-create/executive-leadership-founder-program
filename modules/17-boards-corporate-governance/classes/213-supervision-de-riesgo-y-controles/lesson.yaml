@@ -13,6 +13,7 @@ objectives:
   - "Interpretar KRI trend, control effectiveness, audit findings sin atribuir causalidad automática."
   - "Resolver el caso de supervisión de riesgo y controles con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Aplicar contrainteligencia ejecutiva defensiva: reconocer señales de influencia, diseñar acceso y declaración, sin vigilar la vida privada."
 deliverable: "risk-governance-brief.md"
 references:
   - "Bob Tricker — *Corporate Governance*"
@@ -21,7 +22,7 @@ references:
   - "Michael E. Porter & Mark R. Kramer — *Creating Shared Value*"
   - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
   - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, deberes del directorio y divulgación como referencia de gobierno. Fuente primaria: <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>."
 limits:
   - "El board no puede garantizar ausencia de fallas. Su estándar es supervisión razonable y evidencia de governance, no certificar controles técnicos individuales."
 evidence_signals:
@@ -30,3 +31,5 @@ evidence_signals:
   - "audit findings"
   - "risk appetite breaches"
   - "remediation age"
+  - "key-person dependency"
+  - "access-design review"

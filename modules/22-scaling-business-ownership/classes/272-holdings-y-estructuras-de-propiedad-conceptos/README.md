@@ -10,217 +10,210 @@
 
 ## 🎯 Propósito
 
-Holding y estructuras de propiedad organizan ownership de una o varias entidades, pero tienen efectos legales, tributarios, financieros y de gobierno que dependen de jurisdicción. El owner debe comprender conceptos y preguntas, no implementar estructuras complejas sin asesoría.
+Cuando una empresa crece, llega la tentación de «armar una estructura»: una sociedad para operar, otra para tener el inmueble, otra para la marca, una más para el nuevo negocio, y una **holding** (sociedad matriz) por encima de todas. Se escuchan razones como «proteger el patrimonio», «ordenar la propiedad», «preparar la venta», «optimizar impuestos». Algunas son legítimas; otras son copias de lo que hizo otro, sin análisis, y terminan generando más costos, más trámites, saldos cruzados que nadie concilia y una falsa sensación de seguridad. Una estructura de propiedad es una **herramienta de gestión**: puede separar riesgos, ordenar el gobierno, facilitar la entrada de socios o la venta de una unidad y aclarar flujos de caja. Pero no es un truco de optimización ni un escudo universal, y exige **sustancia real**: propósito, funciones, contratos, contabilidad y gobierno en cada entidad.
 
-La salida de esta parte es **reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **holdings y estructuras de propiedad: conceptos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta conceptos para pensar la estructura, sin dar asesoría legal ni tributaria: definir los objetivos de propiedad, mapear entidades y riesgos, analizar los flujos de caja y de contratos, identificar saldos entre entidades y gobierno, y validar con profesionales antes de implementar. **Las consecuencias legales y tributarias dependen de la jurisdicción, de los hechos y de la norma vigente, y no se interpretan aquí.** Las fuentes son los principios de gobierno corporativo de la OECD y el G20, Drucker, Gerber, Harnish, Hoffman y Yeh y Sutton y Rao. Al terminar sabrás formular objetivos de propiedad, dibujar el mapa de entidades, estimar costos y beneficios de una estructura con supuestos explícitos, controlar saldos entre entidades y preparar las preguntas para tus asesores.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `holding company`, `subsidiary`, `ring-fencing`, `intercompany transaction`, `beneficial ownership` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de business owner.
-3. **Aplicar** la secuencia **1. definir objetivos de propiedad → 2. mapear entidades y riesgos → 3. analizar cash y contract flows → 4. identificar intercompany y governance → 5. validar legal y tributario antes de implementar** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** entity count, intercompany balances, risk segregation sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** holding, sociedad operativa, sociedad patrimonial y otras entidades por su función.
+2. **Formular** objetivos de propiedad antes de elegir una estructura.
+3. **Mapear** entidades, flujos de caja, contratos y riesgos.
+4. **Estimar** costos y beneficios de una estructura con supuestos explícitos.
+5. **Controlar** saldos entre entidades y preparar la validación legal y tributaria.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define holding company y subsidiary sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con entity count y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué quieres lograr con la propiedad de tu empresa en diez años? |
+| 20–60 min | Objetivos, mapa de entidades, flujos, saldos entre entidades, gobierno y validación. |
+| 60–105 min | Ejemplo trabajado: costo y beneficio de separar el inmueble y control de saldos. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **holding company** | entidad que posee participaciones en otras entidades | Distingue un hecho compatible y otro que lo refute. |
-| **subsidiary** | entidad controlada por otra | Distingue un hecho compatible y otro que lo refute. |
-| **ring-fencing** | separación de riesgos o activos entre entidades | Distingue un hecho compatible y otro que lo refute. |
-| **intercompany transaction** | operación entre entidades relacionadas | Distingue un hecho compatible y otro que lo refute. |
-| **beneficial ownership** | persona que en última instancia posee o controla según definiciones aplicables | Distingue un hecho compatible y otro que lo refute. |
+| **Holding** | Sociedad que posee participaciones en otras sociedades. | Controla entidades sin operar necesariamente. |
+| **Sociedad operativa** | Entidad que realiza la actividad con clientes y trabajadores. | Contratos con terceros y operación diaria. |
+| **Sociedad patrimonial** | Entidad que posee activos como inmuebles o propiedad intelectual. | Activos con contratos de uso. |
+| **Transacción intragrupo** | Operación entre entidades del mismo grupo. | Arriendos, préstamos, servicios, regalías. |
+| **Segregación de riesgo** | Separar activos y obligaciones para limitar el alcance de una contingencia. | Entidades con funciones distintas. |
+| **Sustancia** | Realidad económica y de gestión detrás de cada entidad. | Funciones, personas, contratos y registros. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 272: 1. definir objetivos de propiedad → 2. mapear entidades y riesgos → 3. analizar cash y contract flows → 4. identificar intercompany y governance → 5. validar legal y tributario antes de implementar](modelo-mental.svg)
+![Dos paneles: estructura de propiedad con propósito frente a estructura sin sustancia.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir objetivos de propiedad → 2. mapear entidades y riesgos → 3. analizar cash y contract flows → 4. identificar intercompany y governance → 5. validar legal y tributario antes de implementar
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Holding y estructuras de propiedad organizan ownership de una o varias entidades, pero tienen efectos legales, tributarios, financieros y de gobierno que dependen de jurisdicción. El owner debe comprender conceptos y preguntas, no implementar estructuras complejas sin asesoría.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Las estructuras no son herramientas genéricas de optimización fiscal. Requieren análisis legal y tributario específico y sustancia real; evita esquemas artificiales.**
+**Cómo leer el diagrama.** Dos paneles. **Estructura con propósito**: objetivos de propiedad claros (control, sucesión, riesgo y capital), flujos mapeados (caja, contratos y saldos entre entidades) y validación legal y tributaria antes de implementar, con sustancia real. **Estructura sin sustancia**: esquema copiado, entidades sin función y saldos entre entidades sin control. La nota afirma que las estructuras no son una herramienta genérica de optimización fiscal, que requieren análisis legal y tributario específico y sustancia real, y que se evitan los esquemas artificiales; el pie, que cada entidad tiene un propósito, un responsable y un costo conocido.
 
 ## 📖 Desarrollo
 
-### 1. holding company: mecanismo central
+### 1. Para qué sirve una estructura de propiedad
 
-**holding company** se entiende aquí como **entidad que posee participaciones en otras entidades**. Esta es la pieza causal o estructural desde la que se inicia **holdings y estructuras de propiedad: conceptos**: antes de definir objetivos de propiedad, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Una estructura puede cumplir funciones **legítimas** y distintas: **ordenar el control** (quién decide en el grupo), **separar riesgos operativos de ciertos activos** cuando el marco legal lo permite, **facilitar la entrada o salida de socios** en una unidad sin afectar a las demás, **preparar la venta** de un negocio, **organizar la sucesión** familiar, **gestionar el uso de activos compartidos** (marca, tecnología, inmuebles) y **hacer más claro el gobierno** de varios negocios. Pero cada beneficio tiene condiciones y límites que dependen del derecho aplicable, de cómo se opere en la práctica y de los hechos. Drucker advierte que la estructura debe seguir a la estrategia y no al revés: **primero se define qué se quiere lograr; después, qué estructura lo apoya**.
 
-La lectura rectora de este bloque es Michael E. Gerber — *The E-Myth Revisited*. Su aporte se usa para examinar **diferencia entre técnico, manager y empresario; sistematización del negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **entity count**; regístrala con periodo, unidad, población y baseline.
+### 2. Formular los objetivos de propiedad
 
-Relaciona el mecanismo con **subsidiary**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Antes de dibujar cajas y flechas se escriben los objetivos, por orden de importancia: ¿quién debe **controlar** cada negocio?, ¿cómo se **reparten** las utilidades?, ¿qué pasará si un socio **sale, fallece o se enferma**?, ¿qué activos son **estratégicos** y deben quedar protegidos de las contingencias operativas?, ¿se prevé **vender** una unidad, **incorporar inversionistas** o **heredar**?, ¿qué nivel de **complejidad y costo** administrativo se puede sostener? Los objetivos se revisan con todos los propietarios, porque suelen diferir: uno quiere liquidez, otro quiere control, otro seguridad para la familia. Un objetivo vago («proteger el patrimonio») produce estructuras sin foco. Con objetivos claros, las alternativas se pueden comparar y descartar con criterio.
 
-### 2. subsidiary: frontera conceptual y error de clasificación
+### 3. Mapear entidades, funciones y riesgos
 
-**Definición operacional:** entidad controlada por otra. Su valor está en distinguirlo de **holding company** y **ring-fencing**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El **mapa de entidades** muestra: cada entidad (o persona natural), su propietario, su función (operar, tener activos, financiar, contratar personal, licenciar marca), sus contratos con terceros y entre entidades, sus obligaciones y su exposición a riesgos. Se pregunta: ¿qué entidad firma con cada cliente y proveedor?, ¿quién emplea a las personas?, ¿a nombre de quién está cada activo y cada permiso?, ¿qué ocurre si una entidad tiene una contingencia grave? El mapa debe reflejar **cómo se opera realmente**, no solo el papel. Cuando las funciones están mezcladas (la sociedad que opera tiene los inmuebles, la marca y las deudas personales de los socios), el riesgo se concentra; cuando están separadas con sustancia, el análisis es más claro. Aun así, la **eficacia legal de la separación** depende de cada caso y se valida con un abogado.
 
-Contrasta el problema con Verne Harnish — *Scaling Up*, que aporta una mirada sobre **personas, estrategia, ejecución y caja durante el escalamiento**. Formula dos mini-casos: uno que sí satisface la definición de **subsidiary** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **intercompany balances** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Flujos de caja y contratos entre entidades
 
-Antes de mapear entidades y riesgos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Separar entidades crea **transacciones intragrupo**: la operativa paga arriendo a la patrimonial, la holding presta o recibe dividendos, una entidad presta servicios administrativos a otra, se licencia la marca. Cada transacción debe tener **contrato, precio razonable, documentación y registro contable**, porque en caso contrario se pierden la claridad y, potencialmente, la protección y los beneficios que se buscaban; además, las autoridades pueden revisar las operaciones entre partes relacionadas, y la normativa aplicable se verifica con asesoría legal y tributaria. Se analiza el **flujo de caja del grupo**: de dónde sale el dinero, cómo llega a los propietarios, qué restricciones existen para repartirlo y qué costos tiene. Un grupo con caja atrapada en una entidad que no puede distribuirla es un problema frecuente.
 
-### 3. ring-fencing: operacionalización y medición
+### 5. Saldos entre entidades y gobierno
 
-**ring-fencing** significa **separación de riesgos o activos entre entidades**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Los **saldos entre entidades** (préstamos, cuentas por cobrar y por pagar internas) se acumulan silenciosamente: una entidad presta a otra «mientras tanto», se pagan gastos cruzados, se compensan sin documentos. Con el tiempo nadie sabe qué debe a quién, y la separación de riesgos se debilita. Se controlan con: **conciliación mensual** de saldos intragrupo, contratos de préstamo con condiciones, límites a la acumulación de saldos, aprobación de nuevas transacciones y revisión por el contador. También se define el **gobierno del grupo**: quién administra cada entidad, qué decisiones se reservan a los propietarios (clase 270), cómo se registran los acuerdos, qué información recibe cada propietario. La OECD destaca la importancia de transparencia y de gestión de conflictos de interés en transacciones con partes relacionadas.
 
-Reid Hoffman & Chris Yeh — *Blitzscaling* orienta este bloque mediante **perspectiva de Escalamiento aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **risk segregation**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Costos, complejidad y sustancia
 
-Al llegar a analizar cash y contract flows, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cada entidad adicional implica **costos**: constitución, contabilidad, declaraciones, auditoría o revisión según corresponda, cuentas bancarias, firmas, actas, asesoría, tiempo del fundador. También implica **complejidad**: más contratos, más conciliaciones, más riesgo de errores. Y exige **sustancia**: personas que tomen decisiones, contratos reales, contabilidad al día, funciones económicas verdaderas. Una entidad sin función real, creada solo para «tener otra caja», suele ser un costo sin beneficio y, en algunos casos, un riesgo legal. Hoffman y Yeh muestran que la velocidad de crecimiento puede llevar a crear estructuras por oportunismo; una empresa más estable debe hacer la pregunta opuesta: **¿qué problema concreto resuelve esta entidad y a qué costo?** Si no hay respuesta, probablemente no hace falta.
 
-### 4. intercompany transaction: trade-offs y efectos de segundo orden
+### 7. Validar antes de implementar
 
-**Definición:** operación entre entidades relacionadas. Este concepto obliga a abandonar la idea de que **holdings y estructuras de propiedad: conceptos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de identificar intercompany y governance, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* aporta una lente sobre **responsabilidad gerencial, propósito, organización y resultados**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **governance clarity** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **holdings y estructuras de propiedad: conceptos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **intercompany transaction** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. beneficial ownership: gobernanza, límites e integración
-
-**beneficial ownership** se define como **persona que en última instancia posee o controla según definiciones aplicables** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-OECD — *G20/OECD Principles of Corporate Governance 2023* se utiliza para estudiar **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno** y contrastar la recomendación final. Al ejecutar validar legal y tributario antes de implementar, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Las estructuras no son herramientas genéricas de optimización fiscal. Requieren análisis legal y tributario específico y sustancia real; evita esquemas artificiales.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **holding company**, **subsidiary**, **ring-fencing**, **intercompany transaction** y **beneficial ownership** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **holdings y estructuras de propiedad: conceptos** no consiste en sumar cinco definiciones. Empieza por **holding company**, contrasta **subsidiary** con **ring-fencing**, incorpora **intercompany transaction** como restricción o mecanismo y usa **beneficial ownership** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir objetivos de propiedad → 2. mapear entidades y riesgos → 3. analizar cash y contract flows → 4. identificar intercompany y governance → 5. validar legal y tributario antes de implementar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Ninguna estructura se implementa sin **validación legal y tributaria** específica para el caso, en la jurisdicción correspondiente: tipos societarios disponibles, responsabilidad de socios y administradores, efectos tributarios de aportes, transferencias, dividendos y reorganizaciones, requisitos de documentación y registro, efectos laborales, financieros y contractuales (los bancos, arrendadores y clientes pueden exigir garantías o consentimientos). Se prepara un **memo de propósito** con los objetivos, el mapa propuesto, los flujos, los costos y las preguntas para los asesores; se piden **alternativas** (incluida la de no cambiar nada) y su comparación; se define un **plan de implementación** con responsables, plazos y documentos, y una **revisión posterior** para verificar que funciona como se esperaba. Los esquemas artificiales, sin propósito económico real, se evitan.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Gerber — *The E-Myth Revisited* | diferencia entre técnico, manager y empresario; sistematización del negocio | ¿Qué supuesto de **holdings y estructuras de propiedad: conceptos** ayuda a desafiar? |
-| Verne Harnish — *Scaling Up* | personas, estrategia, ejecución y caja durante el escalamiento | ¿Qué supuesto de **holdings y estructuras de propiedad: conceptos** ayuda a desafiar? |
-| Reid Hoffman & Chris Yeh — *Blitzscaling* | perspectiva de Escalamiento aplicada al problema de la clase | ¿Qué supuesto de **holdings y estructuras de propiedad: conceptos** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **holdings y estructuras de propiedad: conceptos** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **holdings y estructuras de propiedad: conceptos** ayuda a desafiar? |
-
-En **holdings y estructuras de propiedad: conceptos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **holding company**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| OECD y G20 (principios de gobierno corporativo) | Transparencia y trato de partes relacionadas. | No describe estructuras específicas. | ¿Cómo gobierno las transacciones entre mis entidades? |
+| Drucker | La estructura sigue a la estrategia. | No contiene normativa. | ¿Qué estrategia apoya esta estructura? |
+| Gerber | Pensar la empresa como sistema. | No trata estructuras legales. | ¿Cuál es el sistema de propiedad que quiero? |
+| Harnish | Orden y rutinas de gestión al crecer. | No es guía legal. | ¿Qué rutina de control necesito entre entidades? |
+| Hoffman y Yeh | Riesgos del crecimiento rápido y la complejidad. | No es guía de estructuras. | ¿Estoy creando entidades por oportunismo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Owner de tres negocios quiere crear holding para pagar menos impuestos sin modelar dividendos, costos, garantías ni operaciones entre partes relacionadas.
+**Situación (hipotética).** Una empresa de logística posee un galpón valorado en 600 millones de pesos dentro de la sociedad que opera la actividad; el resto de sus activos es de 400 millones. Los propietarios consideran separar el galpón en una sociedad patrimonial que se lo arriende a la operativa. Todos los números son **supuestos para el ejercicio**. **La eficacia legal de la separación y sus efectos tributarios son los que determinen los asesores con la norma vigente; aquí solo se ilustra la lógica de costo y beneficio.**
 
-**Paso 1 — definir objetivos de propiedad.** La gerencia escribe primero el supuesto asociado a **holding company** y evita convertirlo en hecho. Luego busca **entity count** para contrastarlo en el caso de **holdings y estructuras de propiedad: conceptos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Objetivo.** Limitar el alcance de una contingencia operativa sobre el galpón, preparar la futura venta de la operación por separado y clarificar el gobierno.
 
-**Paso 2 — mapear entidades y riesgos.** La gerencia escribe primero el supuesto asociado a **subsidiary** y evita convertirlo en hecho. Luego busca **intercompany balances** para contrastarlo en el caso de **holdings y estructuras de propiedad: conceptos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Beneficio esperado (con supuestos).**
 
-**Paso 3 — analizar cash y contract flows.** La gerencia escribe primero el supuesto asociado a **ring-fencing** y evita convertirlo en hecho. Luego busca **risk segregation** para contrastarlo en el caso de **holdings y estructuras de propiedad: conceptos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Probabilidad anual de una contingencia operativa grave: 3 %.
+- Pérdida en ese caso: 120 millones.
+- Efectividad supuesta de la separación para proteger el galpón (a validar con un abogado): 70 %.
+- Reducción de exposición esperada: 0,03 × 120 × 0,70 = **2,52 millones al año**.
 
-**Paso 4 — identificar intercompany y governance.** La gerencia escribe primero el supuesto asociado a **intercompany transaction** y evita convertirlo en hecho. Luego busca **governance clarity** para contrastarlo en el caso de **holdings y estructuras de propiedad: conceptos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costos adicionales anuales (supuestos).**
 
-**Paso 5 — validar legal y tributario antes de implementar.** La gerencia escribe primero el supuesto asociado a **beneficial ownership** y evita convertirlo en hecho. Luego busca **compliance cost** para contrastarlo en el caso de **holdings y estructuras de propiedad: conceptos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Concepto | Millones |
+|---|---|
+| Contabilidad y declaraciones de la nueva entidad | 1,8 |
+| Mantención legal y actas | 0,6 |
+| **Total** | **2,4** |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **holdings y estructuras de propiedad: conceptos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Costo único de implementación.** Asesoría legal y tributaria, contratos y trámites: 8 millones; amortizados en cinco años, 1,6 millones al año. **Costo anual total:** 2,4 + 1,6 = **4,0 millones**.
+
+**Resultado.** Beneficio de 2,52 menos costo de 4,0 = **−1,48 millones al año**. **Con estos supuestos, solo por reducción de exposición esperada, la estructura no se paga.** Los otros objetivos (preparar la venta de la operación sin el galpón, claridad de gobierno, facilitar la entrada de un socio en la operación) pueden justificarla, pero deben **valorarse con evidencia**: si, por ejemplo, la venta de la operación por separado aumentara el precio en 20 millones con una probabilidad de 25 % en cinco años, su valor esperado sería 5 millones, es decir 1 millón al año; el balance seguiría siendo −0,48 millones anuales. Si la contingencia fuera de 200 millones con 4 % de probabilidad, el beneficio sería 0,04 × 200 × 0,70 = 5,6 millones y la estructura se pagaría (+1,6). **El resultado es sensible a la probabilidad y al tamaño de la contingencia.**
+
+**Contrato intragrupo.** La operativa pagaría un arriendo por el galpón. Valor de mercado supuesto: 0,6 % mensual del valor, es decir 3,6 millones al mes (43,2 millones al año), respaldado por una tasación independiente. Al cuarto mes el control mensual muestra que la operativa no ha pagado: saldo acumulado de 4 × 3,6 = **14,4 millones**. Un saldo así debilita la separación y puede traer consecuencias; se establece un pago puntual y una conciliación mensual firmada por el contador.
+
+**Indicadores de control.**
+
+| Indicador | Valor |
+|---|---|
+| Número de entidades | 2 |
+| Saldos intragrupo no conciliados | 14,4 millones |
+| Porcentaje de activos en la entidad sin operación | 600 ÷ 1.000 = 60 % |
+| Transacciones intragrupo con contrato | 1 de 1 |
+
+**Decisión.** Antes de crear la sociedad patrimonial, los propietarios piden a un abogado y a un contador un memo con las alternativas (no cambiar nada, seguro de responsabilidad, separar el galpón, vender el galpón y arrendarlo) con sus costos y efectos; mientras tanto, contratan un seguro que cubra parte de la exposición y documentan por escrito sus objetivos de propiedad. Solo implementarían la separación si la validación muestra beneficio suficiente y existe capacidad de mantener la sustancia.
+
+**Cuidados.** Las cifras son supuestos; las consecuencias jurídicas y tributarias dependen de la jurisdicción y de la norma vigente.
+
+**Qué muestra.** (1) El análisis puede mostrar que una estructura no se paga por sí sola. (2) Los otros objetivos se valoran con evidencia. (3) Los saldos entre entidades se controlan desde el primer mes.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **holding company** | entidad que posee participaciones en otras entidades | Cuando entity count es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **subsidiary** | entidad controlada por otra | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Estructura con sustancia frente a esquema artificial.** La primera responde a un propósito económico y de gestión verificable, con funciones, contratos y registros reales; el segundo busca un efecto formal sin realidad operativa y puede ser costoso o ilegítimo.
 
-**Frontera de aplicación:** Las estructuras no son herramientas genéricas de optimización fiscal. Requieren análisis legal y tributario específico y sustancia real; evita esquemas artificiales.
+**Límites.** Esta clase no es asesoría legal ni tributaria. Las estructuras no son herramientas genéricas de optimización fiscal; requieren análisis específico, sustancia real y evitan esquemas artificiales. Los efectos dependen de la jurisdicción y de la norma vigente. Los números del ejemplo son supuestos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre holdings y estructuras de propiedad: conceptos |
+| Nivel | Cómo se relaciona con la estructura de propiedad |
 |---|---|
-| **Profesional** | usa **holdings y estructuras de propiedad: conceptos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **holding company** y **subsidiary** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta entity count con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si holdings y estructuras de propiedad: conceptos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de holdings y estructuras de propiedad: conceptos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **holdings y estructuras de propiedad: conceptos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Trabaja para la entidad que lo contrata y respeta sus contratos. |
+| **Jefe / Team Lead** | Sabe qué entidad factura, paga y firma en su área. |
+| **Gerente** | Administra una entidad y controla sus saldos intragrupo. |
+| **CEO / Director** | Gobierna el grupo y supervisa transacciones entre partes relacionadas. |
+| **Founder / Owner** | Define los objetivos de propiedad y decide la estructura con asesoría. |
 
 ## 🏢 Caso ejecutivo
 
-Owner de tres negocios quiere crear holding para pagar menos impuestos sin modelar dividendos, costos, garantías ni operaciones entre partes relacionadas.
+Una familia propietaria de una cadena de tres farmacias (ventas de 2.100 millones de pesos) y de un edificio donde funciona la sede, todo dentro de una misma sociedad con deudas bancarias de 450 millones, piensa crear una holding con tres sociedades: operativa, inmobiliaria y una «sociedad de inversiones» para los dividendos. Un asesor informal les dijo que «así se protege todo y se pagan menos impuestos». El padre (65 años) quiere preparar la sucesión entre sus dos hijos, uno de los cuales trabaja en la empresa y el otro no. Hay un préstamo del padre a la empresa de 80 millones sin contrato. El edificio vale 900 millones y el banco tiene una hipoteca sobre él. Un competidor propone comprar una de las farmacias. Los costos anuales de cada nueva sociedad se estiman en 2,4 millones y el costo de implementación en 15 millones.
 
-Entrega un **decision brief de holdings y estructuras de propiedad: conceptos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de decisión del fundador sobre estructura de propiedad** que contenga: (a) los objetivos de propiedad ordenados y las diferencias entre familiares; (b) el mapa actual y el propuesto con funciones y contratos; (c) el cálculo de costos y beneficios con supuestos explícitos y sensibilidad; (d) el tratamiento del préstamo del padre y de la hipoteca, y el control de saldos intragrupo; (e) la lista de preguntas para el abogado y el contador y las alternativas que pedirá; (f) los límites del análisis, qué no se hará sin validación y el criterio de sustancia.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **holdings y estructuras de propiedad: conceptos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir objetivos de propiedad → 2. mapear entidades y riesgos → 3. analizar cash y contract flows → 4. identificar intercompany y governance → 5. validar legal y tributario antes de implementar** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta entity count, intercompany balances; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe tus objetivos de propiedad en orden de prioridad.
+2. Dibuja el mapa de tus entidades con función, propietario y contratos.
+3. Estima costos y beneficios de una estructura alternativa con dos escenarios de contingencia.
+4. Diseña un control mensual de saldos intragrupo.
+5. Redacta diez preguntas para tus asesores y las alternativas que pedirás.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar holding company y subsidiary como sinónimos | Se pierde la distinción entre “entidad que posee participaciones en otras entidades” y “entidad controlada por otra” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “validar legal y tributario antes de implementar” | Se saltó “definir objetivos de propiedad” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir objetivos de propiedad → 2. mapear entidades y riesgos → 3. analizar cash y contract flows → 4. identificar intercompany y governance → 5. validar legal y tributario antes de implementar y marca el primer supuesto no demostrado. |
-| Optimizar solo entity count | La métrica local sustituyó al resultado del sistema | Contrástala con intercompany balances y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre holdings y estructuras de propiedad: conceptos | Las estructuras no son herramientas genéricas de optimización fiscal. Requieren análisis legal y tributario específico y sustancia real; evita esquemas artificiales. |
-| No fijar revisión | Una decisión sobre holdings y estructuras de propiedad: conceptos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Copiar una estructura | «A otros les funcionó» | Partir de objetivos propios. |
+| Crear entidades sin función | Se busca «orden» aparente | Exigir propósito, responsable y costo. |
+| Transacciones sin contrato | Informalidad familiar | Contrato, precio razonable y registro. |
+| Saldos entre entidades sin control | Se supone que se arreglarán | Conciliación mensual y límites. |
+| Buscar solo ahorro de impuestos | Mensaje de un asesor informal | Análisis legal y tributario específico, sin esquemas artificiales. |
+| No pedir alternativas | Se quiere una respuesta rápida | Comparar con no cambiar y otras opciones. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **holding company** y **subsidiary** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **ring-fencing** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir objetivos de propiedad → mapear entidades y riesgos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **entity count** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **holdings y estructuras de propiedad: conceptos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Las estructuras no son herramientas genéricas de optimización fiscal. Requieren análisis legal y tributario específico y sustancia real; evita esquemas artificiales.**?
+1. ¿Qué diferencia hay entre holding, sociedad operativa y patrimonial?
+2. ¿Por qué se formulan objetivos antes de elegir una estructura?
+3. ¿Qué es una transacción intragrupo y qué requiere?
+4. ¿Qué riesgo tienen los saldos entre entidades sin control?
+5. ¿Qué es la sustancia?
+6. ¿Por qué una estructura puede no pagarse por sí sola?
+7. ¿Qué límite tiene esta clase?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La holding posee participaciones; la operativa realiza la actividad; la patrimonial posee activos como inmuebles o propiedad intelectual.
+2. Porque la estructura debe seguir a la estrategia y los objetivos permiten comparar alternativas.
+3. Una operación entre entidades del grupo; requiere contrato, precio razonable, documentación y registro.
+4. Debilitan la separación de riesgos y generan confusión sobre quién debe a quién.
+5. La realidad económica y de gestión de cada entidad: funciones, personas, contratos y registros.
+6. Porque sus costos recurrentes pueden superar la reducción de exposición esperada.
+7. No es asesoría legal ni tributaria; los efectos dependen de la jurisdicción y la norma vigente.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/272-holdings-y-estructuras-de-propiedad-conceptos/`:
 
-- `founder-owner-decision-brief.md` con el problema específico de **holdings y estructuras de propiedad: conceptos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **holdings y estructuras de propiedad: conceptos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **holding company**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Owner de tres negocios quiere crear holding para pagar menos impuestos sin modelar dividendos, costos, garantías ni operaciones entre partes relacionadas.** y el dato que podría invalidar la recomendación.
+- `founder-owner-decision-brief.md` (plantilla [Founder owner decision brief](../../../../templates/founder-owner-decision-brief.md)) con el memo del caso ejecutivo;
+- `decision-journal.md` con los objetivos, el mapa de entidades y las preguntas a los asesores.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** diferencia entre técnico, manager y empresario; sistematización del negocio. Lectura selectiva sobre **holdings y estructuras de propiedad: conceptos**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
-- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** personas, estrategia, ejecución y caja durante el escalamiento. Lectura selectiva sobre **holdings y estructuras de propiedad: conceptos**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
-- Reid Hoffman & Chris Yeh — *Blitzscaling* (HarperCollins Publishers Limited, 2018). **Uso en esta clase:** perspectiva de Escalamiento aplicada al problema de la clase. Lectura selectiva sobre **holdings y estructuras de propiedad: conceptos**. **Localizador:** [ISBN-13 9780008303648](https://openlibrary.org/isbn/9780008303648).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **holdings y estructuras de propiedad: conceptos**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** cómo propagar excelencia sin multiplicar burocracia y daño. Lectura selectiva sobre **holdings y estructuras de propiedad: conceptos**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **holdings y estructuras de propiedad: conceptos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **holdings y estructuras de propiedad: conceptos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **holdings y estructuras de propiedad: conceptos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **holdings y estructuras de propiedad: conceptos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **holdings y estructuras de propiedad: conceptos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** transparencia y trato de las transacciones con partes relacionadas. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
+- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** la estructura sigue a la estrategia. Lectura selectiva sobre **holdings y estructuras de propiedad: conceptos**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
+- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** pensar la empresa como un sistema. Lectura selectiva sobre **holdings y estructuras de propiedad: conceptos**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
+- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** orden y rutinas de gestión al crecer. Lectura selectiva sobre **holdings y estructuras de propiedad: conceptos**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
+- Reid Hoffman & Chris Yeh — *Blitzscaling* (HarperCollins Publishers Limited, 2018). **Uso en esta clase:** riesgos de la velocidad y la complejidad. Lectura selectiva sobre **holdings y estructuras de propiedad: conceptos**. **Localizador:** [ISBN-13 9780008303648](https://openlibrary.org/isbn/9780008303648).
+- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** qué replicar y qué adaptar al escalar. Lectura selectiva sobre **holdings y estructuras de propiedad: conceptos**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
 
-> **Regla de fuentes para Holdings y estructuras de propiedad: conceptos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **holdings y estructuras de propiedad: conceptos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Holdings y estructuras de propiedad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, y este programa no reemplaza asesoría legal ni tributaria. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

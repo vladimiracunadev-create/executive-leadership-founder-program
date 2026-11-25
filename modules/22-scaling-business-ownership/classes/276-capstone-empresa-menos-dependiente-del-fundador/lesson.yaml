@@ -5,14 +5,15 @@ duration_minutes: 150
 level: "Etapa 6 — Business Owner"
 outcome: "reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir founder independence de operating autonomy mediante evidencia observable."
-  - "Aplicar la secuencia: mapear dependencies → instalar leaders y process owners → definir guardrails y dashboard → ejecutar 2 a 4 week absence simulation → analizar failures y remediar."
-  - "Interpretar owner contacts during test, service continuity, decision backlog sin atribuir causalidad automática."
-  - "Resolver el caso de capstone: empresa menos dependiente del fundador con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Mapear las dependencias del fundador con evidencia y priorizarlas."
+  - "Verificar que existan responsables, límites, tablero y reglas de contacto antes de la prueba."
+  - "Diseñar una simulación de ausencia con protecciones para clientes, caja y personas."
+  - "Medir contactos al fundador, continuidad del servicio y decisiones pendientes."
+  - "Analizar las fallas, remediarlas y decidir si repetir, ampliar o extender la prueba."
 deliverable: "founder-owner-decision-brief.md"
 references:
   - "Michael E. Gerber — *The E-Myth Revisited*"
@@ -22,10 +23,9 @@ references:
   - "Elad Gil — *High Growth Handbook*"
   - "Reid Hoffman & Chris Yeh — *Blitzscaling*"
 limits:
-  - "La meta no siempre es ausencia total: algunas empresas se benefician de founder en producto o relaciones. Define qué rol agrega valor versus dependencia involuntaria."
+  - "Tres semanas pueden no capturar los ciclos anuales, las crisis ni las renovaciones de contratos."
 evidence_signals:
-  - "owner contacts during test"
-  - "service continuity"
-  - "decision backlog"
-  - "cash-control incidents"
-  - "leader confidence"
+  - "contactos al fundador"
+  - "continuidad del servicio"
+  - "decisiones pendientes"
+  - "fallas priorizadas y remediadas"

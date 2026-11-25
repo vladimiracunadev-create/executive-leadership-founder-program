@@ -5,27 +5,28 @@ duration_minutes: 150
 level: "Etapa 6 — Business Owner"
 outcome: "reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir acquisition entrepreneurship de search criteria mediante evidencia observable."
-  - "Aplicar la secuencia: definir acquisition thesis → filtrar targets → analizar normalized earnings y dependency → estructurar financing y terms → planificar 100-day integration."
-  - "Interpretar normalized EBITDA, debt service, customer concentration sin atribuir causalidad automática."
-  - "Resolver el caso de adquisiciones como vía de crecimiento con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Formular una tesis de adquisición con la fuente de valor y sus límites."
+  - "Filtrar candidatos con criterios explícitos."
+  - "Normalizar los resultados del objetivo y detectar dependencias."
+  - "Estimar un rango de precio y la capacidad de servicio de la deuda con supuestos explícitos."
+  - "Planificar la integración y diseñar condiciones que transfieran riesgo."
 deliverable: "strategy-memo.md"
 references:
-  - "Michael E. Gerber — *The E-Myth Revisited*"
-  - "Verne Harnish — *Scaling Up*"
+  - "Philippe C. Haspeslagh & David B. Jemison — *Managing Acquisitions: Creating Value Through Corporate Renewal*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
   - "Elad Gil — *High Growth Handbook*"
   - "Jay R. Galbraith — *Designing Organizations*"
-  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Verne Harnish — *Scaling Up*"
   - "Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*"
+  - "Michael E. Gerber — *The E-Myth Revisited*"
 limits:
-  - "Comprar flujo histórico no garantiza que sobreviva al cambio de propietario. Ajusta valoración y terms por key-person, clientes y transición."
+  - "Comprar flujo histórico no garantiza que sobreviva al cambio de propietario; las valoraciones por múltiplos son referencias, no verdades; la debida diligencia puede revelar problemas que cambian o frenan la operación."
 evidence_signals:
-  - "normalized EBITDA"
-  - "debt service"
-  - "customer concentration"
-  - "seller dependency"
-  - "integration milestones"
+  - "tesis de adquisición"
+  - "ganancias normalizadas"
+  - "concentración de clientes"
+  - "cobertura del servicio de la deuda"

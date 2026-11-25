@@ -10,217 +10,209 @@
 
 ## 🎯 Propósito
 
-Delegar sin perder control significa transferir autoridad con contexto, límites, métricas, cadencia y capacidad de escalamiento. Approval central no es control sostenible; el owner diseña un sistema donde exceptions son visibles y decisiones normales no regresan a él.
+Delegar es una de las habilidades más pedidas a un fundador y una de las que peor se practican. Hay dos fracasos opuestos. En el primero, el fundador **no delega**: todo pasa por él, las decisiones se acumulan, el equipo espera, aprende a no pensar y el negocio avanza a la velocidad de su agenda. En el segundo, **abdica**: entrega una responsabilidad sin contexto, sin límites y sin seguimiento, se entera de los problemas cuando ya son grandes y recupera el control de golpe, lo que desmoraliza a todos. Delegar bien significa **transferir la autoridad para decidir manteniendo la capacidad de saber lo que ocurre y de intervenir cuando corresponde**. No es soltar: es diseñar un sistema donde el equipo decide más y mejor, y el dueño ve lo que necesita ver. Horowitz insiste en que dirigir implica tomar decisiones difíciles con información incompleta y entrenar a otros para hacerlo.
 
-La salida de esta parte es **reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **delegar decisiones sin perder control** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase propone un método: inventariar las decisiones que dependen del dueño, definir para cada una el resultado esperado y los límites, transferir autoridad y contexto, crear reportes y gatillos de excepción, y revisar la calidad para ampliar gradualmente los límites. Se apoya en Horowitz, los principios de gobierno de la OECD (responsabilidades y rendición de cuentas), Sutton y Rao (transmitir prácticas esenciales), Harnish (rutinas de gestión), Hoffman y Yeh y Gerber. Al terminar sabrás clasificar decisiones por nivel de delegación, definir guardrails (límites), medir latencia, escalamiento y calidad, calcular el valor de delegar con supuestos explícitos y decidir cuándo ampliar o retirar autoridad.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `delegation`, `guardrail`, `management by exception`, `context`, `escalation trigger` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de business owner.
-3. **Aplicar** la secuencia **1. inventariar decisiones owner-dependent → 2. definir outcomes y guardrails → 3. transferir autoridad y contexto → 4. crear reporting y exception triggers → 5. revisar calidad y ampliar límites** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** owner approvals, escalation rate, decision latency sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Inventariar** las decisiones que hoy dependen del dueño y clasificarlas por tipo y riesgo.
+2. **Asignar** un nivel de delegación a cada decisión con resultado esperado y límites.
+3. **Diseñar** reportes y gatillos de excepción que mantengan el control sin microgestión.
+4. **Medir** latencia de decisión, tasa de escalamiento y calidad de lo delegado.
+5. **Decidir** cuándo ampliar, mantener o retirar una autoridad delegada.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define delegation y guardrail sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con owner approvals y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué decisiones esperan tu firma y cuánto cuestan los días de espera? |
+| 20–60 min | Inventario, niveles, límites, transferencia de contexto, reportes, revisión y ampliación. |
+| 60–105 min | Ejemplo trabajado: valor de delegar con latencia, errores y revisión de calidad. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **delegation** | transferencia de responsabilidad y autoridad para decidir o ejecutar | Distingue un hecho compatible y otro que lo refute. |
-| **guardrail** | límite que define espacio seguro de autonomía | Distingue un hecho compatible y otro que lo refute. |
-| **management by exception** | intervención superior solo cuando se exceden tolerancias | Distingue un hecho compatible y otro que lo refute. |
-| **context** | información de propósito constraints y economics necesaria para decidir | Distingue un hecho compatible y otro que lo refute. |
-| **escalation trigger** | condición que obliga a elevar una decisión | Distingue un hecho compatible y otro que lo refute. |
+| **Nivel de delegación** | Grado de autoridad que se transfiere para una decisión. | Decide el dueño, propone, decide y avisa, decide y reporta. |
+| **Guardrail** | Límite dentro del cual se puede decidir. | Monto, tipo de cliente, riesgo. |
+| **Gatillo de excepción** | Condición que obliga a escalar. | Umbral escrito. |
+| **Latencia de decisión** | Tiempo entre la necesidad y la decisión. | Días promedio. |
+| **Tasa de escalamiento** | Proporción de decisiones que suben al dueño. | Escaladas ÷ totales. |
+| **Revisión de calidad** | Muestreo de decisiones para verificar su criterio. | Porcentaje alineado con el criterio. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 274: 1. inventariar decisiones owner-dependent → 2. definir outcomes y guardrails → 3. transferir autoridad y contexto → 4. crear reporting y exception triggers → 5. revisar calidad y ampliar límites](modelo-mental.svg)
+![Escalera de cuatro niveles de delegación: decide el dueño, propone y el dueño decide, decide y avisa, y decide y reporta.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. inventariar decisiones owner-dependent → 2. definir outcomes y guardrails → 3. transferir autoridad y contexto → 4. crear reporting y exception triggers → 5. revisar calidad y ampliar límites
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Delegar sin perder control significa transferir autoridad con contexto, límites, métricas, cadencia y capacidad de escalamiento. Approval central no es control sostenible; el owner diseña un sistema donde exceptions son visibles y decisiones normales no regresan a él.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Delegación no es abandono. Límites deben reducirse cuando hay fraude, crisis o inexperiencia y ampliarse con evidencia de buen judgment.**
+**Cómo leer el diagrama.** Una escalera de cuatro niveles. **Decide el dueño**: decisiones reservadas por su impacto. **Propone y el dueño decide**: el equipo prepara y recomienda. **Decide y avisa**: con límites de monto y riesgo. **Decide y reporta**: autonomía con revisión periódica. La nota afirma que delegar no es abandonar: cada decisión transferida lleva resultado esperado, límites, alertas de excepción y revisión de calidad antes de ampliar la autoridad; el pie, que se asciende un nivel cuando la calidad de las decisiones lo respalda.
 
 ## 📖 Desarrollo
 
-### 1. delegation: mecanismo central
+### 1. Inventariar las decisiones que dependen del dueño
 
-**delegation** se entiende aquí como **transferencia de responsabilidad y autoridad para decidir o ejecutar**. Esta es la pieza causal o estructural desde la que se inicia **delegar decisiones sin perder control**: antes de inventariar decisiones owner-dependent, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+El primer paso es **ver** esas decisiones. Durante dos a cuatro semanas, se registra cada consulta o aprobación que llega al dueño: qué se decidió, quién la pidió, cuánto tardó, qué información se usó, qué criterios se aplicaron, qué riesgo tenía y qué pasó después. Luego se agrupan por tipo: **precios y descuentos**, **gastos y compras**, **contratación y remuneración**, **clientes y reclamos**, **calidad y operación**, **estrategia y capital**. Muchas son rutinarias y siguen reglas que el dueño aplica sin darse cuenta. El inventario muestra qué decisiones son **de bajo riesgo y alta frecuencia** (candidatas a transferir primero), cuáles son **de alto riesgo** (se mantienen en el dueño o con límites estrictos) y cuáles dependen de **información que solo el dueño tiene**, lo que revela un problema de contexto más que de delegación.
 
-La lectura rectora de este bloque es Michael E. Gerber — *The E-Myth Revisited*. Su aporte se usa para examinar **diferencia entre técnico, manager y empresario; sistematización del negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **owner approvals**; regístrala con periodo, unidad, población y baseline.
+### 2. Niveles de delegación
 
-Relaciona el mecanismo con **guardrail**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Una forma útil de distinguir grados de autoridad es una escala de cuatro niveles. **Nivel 1: decide el dueño** (decisiones reservadas por su impacto, como entrada de socios, deuda mayor o venta). **Nivel 2: el equipo propone y el dueño decide**: la persona prepara información, alternativas y una recomendación, y el dueño aprueba o ajusta. **Nivel 3: decide y avisa**: la persona decide dentro de límites y comunica de inmediato lo decidido. **Nivel 4: decide y reporta**: autonomía dentro de los límites con reporte periódico. Una decisión se asigna a un nivel según su **riesgo**, la **madurez** de quien decide y la **calidad de la información** disponible. El nivel no es permanente: se sube cuando la evidencia lo respalda y se baja si hay problemas. Esta escala evita el dilema «lo hago yo o lo suelto».
 
-### 2. guardrail: frontera conceptual y error de clasificación
+### 3. Resultados y límites (guardrails)
 
-**Definición operacional:** límite que define espacio seguro de autonomía. Su valor está en distinguirlo de **delegation** y **management by exception**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Para cada decisión delegada se define: el **resultado esperado** (qué debe lograrse), los **límites** (montos máximos, tipos de clientes, descuentos permitidos, riesgos aceptables, cumplimiento de normas), los **criterios** (cómo se decide, con ejemplos), la **información** a la que tiene acceso y **qué debe escalar** siempre. Los límites son un **contrato**: dentro de ellos, la persona decide y el dueño respalda incluso si él habría decidido distinto; fuera, se escala. Sin este respaldo, nadie decide. Sutton y Rao observan que escalar una organización exige transmitir con precisión las pocas prácticas que importan; en delegación, esas prácticas son el criterio y los límites. Un límite demasiado estrecho paraliza; uno demasiado amplio expone. Se calibra con el riesgo y se revisa.
 
-Contrasta el problema con Verne Harnish — *Scaling Up*, que aporta una mirada sobre **personas, estrategia, ejecución y caja durante el escalamiento**. Formula dos mini-casos: uno que sí satisface la definición de **guardrail** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **escalation rate** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Transferir contexto, no solo tareas
 
-Antes de definir outcomes y guardrails, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Una decisión sin contexto es una apuesta. Se comparte: **por qué** la empresa decide como decide, **qué** ha pasado en casos similares, **qué relaciones** están en juego, **qué prioridades** hay y **qué errores** se han cometido. Se usan **ejemplos reales** de decisiones pasadas y sus consecuencias, y se acompañan las primeras decisiones. La OECD, en sus principios de gobierno, subraya la importancia de que quienes toman decisiones tengan información suficiente y rindan cuentas; en la empresa, eso significa dar información, definir responsabilidad y evitar que el dueño decida «por detrás». Se acuerda además **cómo se desacuerda**: si el dueño discrepa de una decisión tomada dentro de los límites, la conversa en privado, explica el criterio y ajusta el límite si corresponde, sin desautorizar en público.
 
-### 3. management by exception: operacionalización y medición
+### 5. Reportes y gatillos de excepción
 
-**management by exception** significa **intervención superior solo cuando se exceden tolerancias**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El control sin microgestión se logra con **información oportuna y alertas**. Se diseña un **reporte breve** (semanal o mensual) con las decisiones relevantes y sus efectos, y se definen **gatillos de excepción** que activan una comunicación inmediata: un gasto sobre el umbral, un cliente clave en riesgo, un incumplimiento, un error de impacto, una queja grave, una desviación de más de cierto porcentaje frente al presupuesto. Se evita pedir informes que nadie lee; se prefieren cifras clave y excepciones (clase 275). Harnish propone reuniones breves y regulares para revisar prioridades e indicadores; ese ritmo permite al dueño **saber** sin decidir. Un buen sistema logra que el dueño reciba **pocas** notificaciones, todas importantes, y que el equipo sepa cuándo hay que avisar.
 
-Ben Horowitz — *The Hard Thing About Hard Things* orienta este bloque mediante **decisiones difíciles de CEO, organización, personas y ejecución bajo presión**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **decision latency**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Medir: latencia, escalamiento y calidad
 
-Al llegar a transferir autoridad y contexto, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Tres medidas ayudan a gestionar la delegación. **Latencia de decisión**: tiempo promedio entre que surge la necesidad y se decide; baja cuando la autoridad se acerca a quien tiene la información. **Tasa de escalamiento**: porcentaje de decisiones que suben al dueño; si es muy alta, los límites o el contexto son insuficientes; si es cero, puede que se esté decidiendo fuera de los límites sin avisar. **Calidad**: se revisa una muestra de decisiones (por ejemplo, 20 a 30 al mes) contra los criterios acordados, y se calcula el porcentaje alineado. No se castiga el error de buena fe dentro de los límites: se **aprende** y se ajusta el criterio. Se interpreta con cuidado: una mejora de latencia no prueba calidad, ni un error aislado prueba incapacidad.
 
-### 4. context: trade-offs y efectos de segundo orden
+### 7. Ampliar, mantener o retirar
 
-**Definición:** información de propósito constraints y economics necesaria para decidir. Este concepto obliga a abandonar la idea de que **delegar decisiones sin perder control** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de crear reporting y exception triggers, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-OECD — *G20/OECD Principles of Corporate Governance 2023* aporta una lente sobre **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **guardrail breaches** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **delegar decisiones sin perder control**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **context** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. escalation trigger: gobernanza, límites e integración
-
-**escalation trigger** se define como **condición que obliga a elevar una decisión** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* se utiliza para estudiar **cómo propagar excelencia sin multiplicar burocracia y daño** y contrastar la recomendación final. Al ejecutar revisar calidad y ampliar límites, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Delegación no es abandono. Límites deben reducirse cuando hay fraude, crisis o inexperiencia y ampliarse con evidencia de buen judgment.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **delegation**, **guardrail**, **management by exception**, **context** y **escalation trigger** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **delegar decisiones sin perder control** no consiste en sumar cinco definiciones. Empieza por **delegation**, contrasta **guardrail** con **management by exception**, incorpora **context** como restricción o mecanismo y usa **escalation trigger** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. inventariar decisiones owner-dependent → 2. definir outcomes y guardrails → 3. transferir autoridad y contexto → 4. crear reporting y exception triggers → 5. revisar calidad y ampliar límites**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Con la evidencia, se decide el paso siguiente. **Ampliar** (subir de nivel o ampliar límites) cuando la calidad se mantiene sobre un umbral acordado (por ejemplo, 90 %) durante dos períodos consecutivos y las excepciones están bien manejadas. **Mantener** cuando los resultados son aceptables pero aún hay aprendizaje. **Retirar o reducir** (volver a un nivel inferior) cuando hay errores repetidos, falta de reporte o decisiones fuera de los límites. Se conversa con la persona de forma clara y respetuosa, con ejemplos y plan. Horowitz advierte que evitar estas conversaciones daña a la persona y a la organización. Se registra la historia de cada delegación y se revisa cada trimestre. El dueño sigue teniendo **decisiones reservadas** (clase 270), cuya lista es corta y conocida.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Gerber — *The E-Myth Revisited* | diferencia entre técnico, manager y empresario; sistematización del negocio | ¿Qué supuesto de **delegar decisiones sin perder control** ayuda a desafiar? |
-| Verne Harnish — *Scaling Up* | personas, estrategia, ejecución y caja durante el escalamiento | ¿Qué supuesto de **delegar decisiones sin perder control** ayuda a desafiar? |
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **delegar decisiones sin perder control** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **delegar decisiones sin perder control** ayuda a desafiar? |
-| Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* | cómo propagar excelencia sin multiplicar burocracia y daño | ¿Qué supuesto de **delegar decisiones sin perder control** ayuda a desafiar? |
-
-En **delegar decisiones sin perder control**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **delegation**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Horowitz | Decisiones difíciles y formación de líderes. | Enfoque de empresas tecnológicas. | ¿Qué conversación evito con quien decide mal? |
+| OECD (principios de gobierno) | Rendición de cuentas e información. | No es guía de delegación diaria. | ¿Quién responde por esta decisión? |
+| Sutton y Rao | Transmitir prácticas esenciales con precisión. | No define niveles. | ¿Qué criterio debo transmitir tal cual? |
+| Harnish | Rutinas de reunión y revisión. | No trata la calidad de las decisiones. | ¿Qué reunión me informa sin que yo decida? |
+| Gerber | Sistemas que no dependen del fundador. | No es guía de delegación por niveles. | ¿Qué decisión puede ser parte de un sistema? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Gerentes pueden gastar hasta USD 500 sin permiso aunque su presupuesto mensual sea USD 100k; owner se convierte en aprobador de cientos de compras irrelevantes.
+**Situación (hipotética).** Una empresa de servicios técnicos para hospitales registra durante un mes 40 decisiones que pasaron por el fundador. Quiere delegar 28 de ellas (de bajo riesgo y alta frecuencia) al nivel 3 («decide y avisa»). Los valores son **supuestos**.
 
-**Paso 1 — inventariar decisiones owner-dependent.** La gerencia escribe primero el supuesto asociado a **delegation** y evita convertirlo en hecho. Luego busca **owner approvals** para contrastarlo en el caso de **delegar decisiones sin perder control**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Línea base del mes.**
 
-**Paso 2 — definir outcomes y guardrails.** La gerencia escribe primero el supuesto asociado a **guardrail** y evita convertirlo en hecho. Luego busca **escalation rate** para contrastarlo en el caso de **delegar decisiones sin perder control**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Dato | Valor |
+|---|---|
+| Decisiones que pasaron por el fundador | 40 |
+| Latencia promedio | 3,2 días |
+| Costo por día de demora (ventas perdidas, cuadrillas detenidas) | 40.000 pesos por decisión |
+| Tasa de error del fundador en esas decisiones | 5 % |
+| Costo promedio de un error | 150.000 pesos |
 
-**Paso 3 — transferir autoridad y contexto.** La gerencia escribe primero el supuesto asociado a **management by exception** y evita convertirlo en hecho. Luego busca **decision latency** para contrastarlo en el caso de **delegar decisiones sin perder control**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costo mensual de la demora en las 28 decisiones delegables.** 28 × 3,2 días × 40.000 = **3.584.000 pesos**.
 
-**Paso 4 — crear reporting y exception triggers.** La gerencia escribe primero el supuesto asociado a **context** y evita convertirlo en hecho. Luego busca **guardrail breaches** para contrastarlo en el caso de **delegar decisiones sin perder control**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Después de delegar (supuestos del plan).** Latencia promedio de 0,6 días; tasa de error de quienes deciden: 16 %.
 
-**Paso 5 — revisar calidad y ampliar límites.** La gerencia escribe primero el supuesto asociado a **escalation trigger** y evita convertirlo en hecho. Luego busca **team confidence** para contrastarlo en el caso de **delegar decisiones sin perder control**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Costo de demora: 28 × 0,6 × 40.000 = **672.000**.
+- Ahorro por menor demora: 3.584.000 − 672.000 = **2.912.000**.
+- Costo de errores antes: 28 × 0,05 × 150.000 = **210.000**.
+- Costo de errores después: 28 × 0,16 × 150.000 = **672.000**.
+- Aumento del costo por errores: 672.000 − 210.000 = **462.000**.
+- **Beneficio neto mensual: 2.912.000 − 462.000 = 2.450.000 pesos.**
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **delegar decisiones sin perder control**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Tiempo del fundador.** Si cada decisión le tomaba 25 minutos entre consultas, contexto y respuesta, las 28 decisiones consumían 28 × 25 = 700 minutos = **11,7 horas al mes**, que se redirigen a trabajo de mayor valor.
+
+**Sensibilidad.** Si la tasa de error de los delegados fuera 30 %: costo de errores = 28 × 0,30 × 150.000 = 1.260.000; aumento = 1.050.000; beneficio neto = 2.912.000 − 1.050.000 = **1.862.000**: la delegación seguiría siendo ventajosa, pero con un error tan alto conviene mejorar el criterio y los límites. Si el costo de un error fuera 1.000.000 y la tasa de 16 %: costo de errores = 28 × 0,16 × 1.000.000 = 4.480.000, mucho mayor que el ahorro: **la delegación no sería conveniente sin límites estrictos** para decisiones con errores caros. Esto justifica dejar en nivel 2 las decisiones donde el error es costoso.
+
+**Guardrails.** Gastos hasta 400.000 pesos por decisión (nivel 3); descuentos hasta 8 % en contratos existentes; reprogramaciones de visitas sin costo para el cliente; reclamos con compensación hasta 150.000. Fuera de esos límites o ante un cliente hospitalario crítico, se escala. Gatillos: cualquier reclamo con riesgo para pacientes, cualquier desviación de más de 10 % del presupuesto mensual, tres decisiones iguales en una semana.
+
+**Revisión de calidad.** Se auditan 25 decisiones del primer mes: 20 estuvieron alineadas con el criterio (80 %), 3 fuera de límites por falta de información y 2 con error de criterio. La meta para ampliar a nivel 4 es 90 % durante dos meses consecutivos. Se ajustan los ejemplos y se amplía la información disponible para quienes deciden.
+
+**Tasa de escalamiento.** De las 28 decisiones delegadas, 4 escalaron: 4 ÷ 28 = **14,3 %**. Se considera razonable al inicio; si baja a cero, se revisa si se decide fuera de los límites sin avisar.
+
+**Decisión.** Mantener la delegación al nivel 3 para las 28 decisiones, con revisión mensual de calidad; subir al nivel 4 solo con 90 % de calidad durante dos meses; mantener en nivel 2 las decisiones donde un error cuesta más de 1.000.000 de pesos; el fundador deja de aprobar gastos menores y se concentra en clientes clave y estrategia.
+
+**Cuidados.** Los costos y tasas son supuestos que se verifican con datos reales; la calidad se evalúa con criterios acordados y no con culpas.
+
+**Qué muestra.** (1) El valor de delegar se calculó con demora y errores. (2) La sensibilidad indicó dónde conviene no delegar. (3) La revisión de calidad define cuándo ampliar la autoridad.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **delegation** | transferencia de responsabilidad y autoridad para decidir o ejecutar | Cuando owner approvals es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **guardrail** | límite que define espacio seguro de autonomía | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Delegar frente a abdicar.** Delegar transfiere autoridad con contexto, límites, reportes y revisión; abdicar entrega la responsabilidad sin ellos. La primera mantiene el control sobre el resultado; la segunda lo pierde.
 
-**Frontera de aplicación:** Delegación no es abandono. Límites deben reducirse cuando hay fraude, crisis o inexperiencia y ampliarse con evidencia de buen judgment.
+**Límites.** Las métricas no prueban causalidad: una menor latencia no demuestra mejor calidad. Algunas decisiones deben permanecer reservadas por su impacto. Los umbrales y tasas del ejemplo son supuestos. La delegación en materias reguladas (laboral, tributaria, de seguridad) debe respetar las obligaciones legales de la empresa, que se verifican con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre delegar decisiones sin perder control |
+| Nivel | Cómo se relaciona con la delegación |
 |---|---|
-| **Profesional** | usa **delegar decisiones sin perder control** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **delegation** y **guardrail** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta owner approvals con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si delegar decisiones sin perder control cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de delegar decisiones sin perder control reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **delegar decisiones sin perder control** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Decide dentro de sus límites y escala cuando corresponde. |
+| **Jefe / Team Lead** | Recibe autoridad y la comparte con su equipo. |
+| **Gerente** | Decide en su área y reporta excepciones. |
+| **CEO / Director** | Diseña los niveles y límites, y revisa la calidad. |
+| **Founder / Owner** | Retiene lo reservado, respalda lo delegado y amplía autoridad con evidencia. |
 
 ## 🏢 Caso ejecutivo
 
-Gerentes pueden gastar hasta USD 500 sin permiso aunque su presupuesto mensual sea USD 100k; owner se convierte en aprobador de cientos de compras irrelevantes.
+Una fundadora dirige una red de tres centros de estética con 40 personas y ventas de 1.500 millones de pesos. En un mes, 52 decisiones pasaron por ella: 18 descuentos a clientes, 14 compras de insumos de hasta 600.000 pesos, 9 reprogramaciones de tratamientos, 6 reclamos con compensación, 3 contrataciones y 2 cambios de precios. La latencia promedio es de 2,5 días; cada día de demora cuesta, en promedio, 25.000 pesos por decisión (clientes que se van, insumos que faltan). Ella calcula que un error en un descuento cuesta 30.000, en una compra 80.000, en una compensación 200.000 y en una contratación 4.000.000. Las tres administradoras de los centros piden más autonomía; una de ellas ha cometido errores de criterio en descuentos. La fundadora viaja un mes al año y no ha podido dejar de contestar mensajes. Desconfía de que «nadie decida como ella».
 
-Entrega un **decision brief de delegar decisiones sin perder control** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de decisión del fundador** que contenga: (a) el inventario clasificado por tipo y riesgo; (b) el nivel de delegación propuesto para cada tipo con guardrails y gatillos; (c) el cálculo del valor de delegar con latencia, errores y sensibilidad; (d) el plan de contexto y las primeras decisiones acompañadas; (e) las medidas de seguimiento (latencia, escalamiento y calidad) y los criterios para ampliar o retirar; (f) los límites del análisis y las decisiones que seguirán reservadas.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **delegar decisiones sin perder control** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. inventariar decisiones owner-dependent → 2. definir outcomes y guardrails → 3. transferir autoridad y contexto → 4. crear reporting y exception triggers → 5. revisar calidad y ampliar límites** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta owner approvals, escalation rate; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Registra durante dos semanas las decisiones que llegan a ti y clasifícalas por tipo y riesgo.
+2. Asigna un nivel de delegación a cinco de ellas con guardrails y gatillos.
+3. Calcula el valor de delegar una familia de decisiones con latencia y errores.
+4. Escribe tres ejemplos reales para transferir contexto a quien decidirá.
+5. Define el umbral y el período para ampliar o retirar una autoridad.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar delegation y guardrail como sinónimos | Se pierde la distinción entre “transferencia de responsabilidad y autoridad para decidir o ejecutar” y “límite que define espacio seguro de autonomía” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar calidad y ampliar límites” | Se saltó “inventariar decisiones owner-dependent” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. inventariar decisiones owner-dependent → 2. definir outcomes y guardrails → 3. transferir autoridad y contexto → 4. crear reporting y exception triggers → 5. revisar calidad y ampliar límites y marca el primer supuesto no demostrado. |
-| Optimizar solo owner approvals | La métrica local sustituyó al resultado del sistema | Contrástala con escalation rate y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre delegar decisiones sin perder control | Delegación no es abandono. Límites deben reducirse cuando hay fraude, crisis o inexperiencia y ampliarse con evidencia de buen judgment. |
-| No fijar revisión | Una decisión sobre delegar decisiones sin perder control se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| No delegar nada | Se desconfía de otros | Empezar con decisiones de bajo riesgo y alta frecuencia. |
+| Abdicar | Se quiere soltar rápido | Límites, reportes y revisión de calidad. |
+| Delegar sin contexto | Falta tiempo | Ejemplos reales y acompañamiento. |
+| Desautorizar en público | Impulso | Conversar en privado y ajustar límites. |
+| Medir solo la velocidad | Es lo más visible | Medir también calidad y escalamiento. |
+| Nunca ampliar la autoridad | Se teme perder el control | Umbral y período acordados. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **delegation** y **guardrail** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **management by exception** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **inventariar decisiones owner-dependent → definir outcomes y guardrails** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **owner approvals** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **delegar decisiones sin perder control**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Delegación no es abandono. Límites deben reducirse cuando hay fraude, crisis o inexperiencia y ampliarse con evidencia de buen judgment.**?
+1. ¿Qué diferencia hay entre delegar y abdicar?
+2. ¿Cuáles son los cuatro niveles de delegación?
+3. ¿Qué es un guardrail y qué es un gatillo de excepción?
+4. ¿Qué miden la latencia, el escalamiento y la calidad?
+5. ¿Cómo se calcula el valor de delegar?
+6. ¿Cuándo se amplía o se retira una autoridad?
+7. ¿Qué límite tienen estas métricas?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Delegar transfiere autoridad con contexto, límites y revisión; abdicar la entrega sin ellos.
+2. Decide el dueño; propone y el dueño decide; decide y avisa; decide y reporta.
+3. El guardrail es el límite dentro del cual se decide; el gatillo es la condición que obliga a escalar.
+4. El tiempo hasta decidir, la proporción que sube al dueño y el porcentaje alineado con los criterios.
+5. Ahorro por menor demora menos aumento del costo por errores, con sensibilidad.
+6. Se amplía cuando la calidad supera el umbral en períodos consecutivos; se retira ante errores repetidos o falta de reporte.
+7. No prueban causalidad ni reemplazan el juicio; los costos y tasas del ejemplo son supuestos.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/274-delegar-decisiones-sin-perder-control/`:
 
-- `founder-owner-decision-brief.md` con el problema específico de **delegar decisiones sin perder control**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **delegar decisiones sin perder control** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **delegation**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Gerentes pueden gastar hasta USD 500 sin permiso aunque su presupuesto mensual sea USD 100k; owner se convierte en aprobador de cientos de compras irrelevantes.** y el dato que podría invalidar la recomendación.
+- `founder-owner-decision-brief.md` (plantilla [Founder owner decision brief](../../../../templates/founder-owner-decision-brief.md)) con el memo del caso ejecutivo;
+- `decision-journal.md` con el inventario, los niveles, los guardrails y la revisión de calidad.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** diferencia entre técnico, manager y empresario; sistematización del negocio. Lectura selectiva sobre **delegar decisiones sin perder control**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
-- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** personas, estrategia, ejecución y caja durante el escalamiento. Lectura selectiva sobre **delegar decisiones sin perder control**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **delegar decisiones sin perder control**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** cómo propagar excelencia sin multiplicar burocracia y daño. Lectura selectiva sobre **delegar decisiones sin perder control**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
-- Reid Hoffman & Chris Yeh — *Blitzscaling* (HarperCollins Publishers Limited, 2018). **Uso en esta clase:** perspectiva de Escalamiento aplicada al problema de la clase. Lectura selectiva sobre **delegar decisiones sin perder control**. **Localizador:** [ISBN-13 9780008303648](https://openlibrary.org/isbn/9780008303648).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **delegar decisiones sin perder control** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **delegar decisiones sin perder control**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **delegar decisiones sin perder control** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **delegar decisiones sin perder control** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **delegar decisiones sin perder control** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles y formación de líderes. Lectura selectiva sobre **delegar decisiones sin perder control**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
+- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** responsabilidad, información y rendición de cuentas. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
+- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** transmitir con precisión las prácticas esenciales. Lectura selectiva sobre **delegar decisiones sin perder control**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
+- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** rutinas de reunión y revisión de indicadores. Lectura selectiva sobre **delegar decisiones sin perder control**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
+- Reid Hoffman & Chris Yeh — *Blitzscaling* (HarperCollins Publishers Limited, 2018). **Uso en esta clase:** velocidad de decisión en el crecimiento acelerado. Lectura selectiva sobre **delegar decisiones sin perder control**. **Localizador:** [ISBN-13 9780008303648](https://openlibrary.org/isbn/9780008303648).
+- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** sistemas que no dependen del fundador. Lectura selectiva sobre **delegar decisiones sin perder control**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
 
-> **Regla de fuentes para Delegar decisiones sin perder control:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **delegar decisiones sin perder control** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Delegar decisiones sin perder control:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

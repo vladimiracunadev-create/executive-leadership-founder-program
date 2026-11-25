@@ -1,84 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g274 d-g274" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g274">Ficha visual de la clase 274: Delegar decisiones sin perder control</title>
-<desc id="d-g274">Conceptos: delegation; guardrail; management by exception; context; escalation trigger. Método: inventariar decisiones owner-dependent → definir outcomes y guardrails → transferir autoridad y contexto → crear reporting y exception triggers → revisar calidad y ampliar límites.</desc>
-<defs><marker id="p-g274" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#59636e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 274 · Delegar decisiones sin perder control</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 22 · Fundador, propietario e independencia</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#59636e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >delegation</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >transferencia de responsabilidad y autoridad para</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >decidir o ejecutar</text>
-<circle cx="38" cy="184.12" r="5" fill="#59636e"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >guardrail</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >límite que define espacio seguro de autonomía</text>
-<circle cx="38" cy="242.12" r="5" fill="#59636e"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >management by exception</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >intervención superior solo cuando se exceden</text>
-<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >tolerancias</text>
-<circle cx="38" cy="314.24" r="5" fill="#59636e"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >context</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >información de propósito constraints y economics</text>
-<text x="54" y="353.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >necesaria para decidir</text>
-<circle cx="38" cy="386.36" r="5" fill="#59636e"/>
-<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >escalation trigger</text>
-<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >condición que obliga a elevar una decisión</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#59636e"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >inventariar</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >decisiones owner-</text>
-<text x="504" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >dependent</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#59636e"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir outcomes y</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >guardrails</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#59636e"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >transferir</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >autoridad y</text>
-<text x="880" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >contexto</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#59636e"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >crear reporting y</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >exception triggers</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#59636e"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >revisar calidad y</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >ampliar límites</text>
-<path d="M638,139 L656,139" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g274)"/>
-<path d="M826,139 L844,139" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g274)"/>
-<path d="M929,176 L929,222" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g274)"/>
-<path d="M844,259 L826,259" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g274)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g274)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="470.36" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="41" cy="483.36" r="3.5" fill="#59636e"/>
-<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >owner approvals</text>
-<rect x="167.5" y="470.36" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="180.5" cy="483.36" r="3.5" fill="#59636e"/>
-<text x="191.5" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >escalation rate</text>
-<rect x="307" y="470.36" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="320" cy="483.36" r="3.5" fill="#59636e"/>
-<text x="331" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decision latency</text>
-<rect x="453.4" y="470.36" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="466.4" cy="483.36" r="3.5" fill="#59636e"/>
-<text x="477.4" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >guardrail breaches</text>
-<rect x="613.6" y="470.36" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="626.6" cy="483.36" r="3.5" fill="#59636e"/>
-<text x="637.6" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >team confidence</text>
-<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Delegación no es abandono. Límites deben reducirse cuando hay fraude, crisis o inexperiencia y ampliarse con evidencia de buen</text>
-<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >judgment.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 522.06" width="1040" role="img" aria-labelledby="t-s274 d-s274" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s274">Clase 274 · Niveles de delegación con límites</title>
+<desc id="d-s274">Cuatro niveles de delegación de una decisión: decide el dueño, propone y decide el dueño, decide y avisa, y decide y reporta periódicamente.</desc>
+<defs><marker id="p-s274" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="522.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 274 · Niveles de delegación con límites</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Horowitz · OECD · Sutton y Rao · Harnish</text>
+<rect x="130" y="96" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="130" y="96" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<circle cx="162" cy="127.625" r="15" fill="#1a7f37"/>
+<text x="162" y="132.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="190" y="120" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Decide y reporta</text>
+<text x="190" y="138" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Autonomía con revisión periódica.</text>
+<rect x="96" y="169.25" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="96" y="169.25" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<circle cx="128" cy="200.875" r="15" fill="#bc4c00"/>
+<text x="128" y="205.875" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="156" y="193.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Decide y avisa</text>
+<text x="156" y="211.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Con límites de monto y riesgo.</text>
+<rect x="62" y="242.5" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="62" y="242.5" width="6" height="63.25" rx="3" fill="#0969da"/>
+<circle cx="94" cy="274.125" r="15" fill="#0969da"/>
+<text x="94" y="279.125" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="122" y="266.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Propone y el dueño decide</text>
+<text x="122" y="284.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >El equipo prepara y recomienda.</text>
+<rect x="28" y="315.75" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<rect x="28" y="315.75" width="6" height="63.25" rx="3" fill="#59636e"/>
+<circle cx="60" cy="347.375" r="15" fill="#59636e"/>
+<text x="60" y="352.375" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="88" y="339.75" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Decide el dueño</text>
+<text x="88" y="357.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Decisiones reservadas por su impacto.</text>
+<rect x="28" y="395" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="417" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Delegar no es abandonar: cada decisión transferida lleva resultado esperado, límites, alertas de excepción y revisión de calidad antes</text>
+<text x="44" y="434.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >de ampliar la autoridad.</text>
+<text x="28" y="481.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Se asciende un nivel cuando la calidad de las decisiones lo respalda.</text>
 </svg>

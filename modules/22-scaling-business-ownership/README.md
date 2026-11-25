@@ -66,18 +66,18 @@ Las clases **274 a 276** cierran el traspaso: delegación, tablero del dueño y 
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 265 | [De fundador-operador a propietario](classes/265-de-fundador-operador-a-propietario/README.md) | founder dependency, owner role, operator role | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 266 | [Sistemas antes que heroicidad](classes/266-sistemas-antes-que-heroicidad/README.md) | business system, standard work, SOP | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 267 | [Contratar líderes](classes/267-contratar-lideres/README.md) | leadership mandate, executive scorecard, decision authority | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 268 | [Escalar ventas sin destruir margen](classes/268-escalar-ventas-sin-destruir-margen/README.md) | sales scale, contribution margin, cost-to-serve | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 269 | [Controles financieros para crecer](classes/269-controles-financieros-para-crecer/README.md) | financial control, cash forecast, approval matrix | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 270 | [Gobierno proporcional al tamaño](classes/270-gobierno-proporcional-al-tamano/README.md) | governance maturity, advisory board, reserved matters | [board-or-executive-memo](../../templates/board-or-executive-memo.md) | 150 |
-| 271 | [Multiunidad y portafolio](classes/271-multiunidad-y-portafolio/README.md) | business unit, portfolio, shared service | [strategy-memo](../../templates/strategy-memo.md) | 150 |
-| 272 | [Holdings y estructuras de propiedad: conceptos](classes/272-holdings-y-estructuras-de-propiedad-conceptos/README.md) | holding company, subsidiary, ring-fencing | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 273 | [Adquisiciones como vía de crecimiento](classes/273-adquisiciones-como-via-de-crecimiento/README.md) | acquisition entrepreneurship, search criteria, seller dependency | [strategy-memo](../../templates/strategy-memo.md) | 150 |
-| 274 | [Delegar decisiones sin perder control](classes/274-delegar-decisiones-sin-perder-control/README.md) | delegation, guardrail, management by exception | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 275 | [Owner dashboard](classes/275-owner-dashboard/README.md) | owner dashboard, cash conversion, owner dependency metric | [board-or-executive-memo](../../templates/board-or-executive-memo.md) | 150 |
-| 276 | [Capstone: empresa menos dependiente del fundador](classes/276-capstone-empresa-menos-dependiente-del-fundador/README.md) | founder independence, operating autonomy, continuity test | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 265 | [De fundador-operador a propietario](classes/265-de-fundador-operador-a-propietario/README.md) | Propietario, Director o CEO, Operador | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 266 | [Sistemas antes que heroicidad](classes/266-sistemas-antes-que-heroicidad/README.md) | Sistema, Proceso crítico, Estándar | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 267 | [Contratar líderes](classes/267-contratar-lideres/README.md) | Scorecard, Derechos de decisión, Evidencia de escala | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 268 | [Escalar ventas sin destruir margen](classes/268-escalar-ventas-sin-destruir-margen/README.md) | Margen de contribución, Tasa de descuento, Período de recuperación del CAC | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 269 | [Controles financieros para crecer](classes/269-controles-financieros-para-crecer/README.md) | Capital de trabajo, Pronóstico de caja a 13 semanas, Error de pronóstico | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 270 | [Gobierno proporcional al tamaño](classes/270-gobierno-proporcional-al-tamano/README.md) | Gobierno, Materias reservadas, Cadencia | [board-or-executive-memo](../../templates/board-or-executive-memo.md) | 150 |
+| 271 | [Multiunidad y portafolio](classes/271-multiunidad-y-portafolio/README.md) | Unidad económica, Capacidad compartida, Retorno sobre el capital invertido | [strategy-memo](../../templates/strategy-memo.md) | 150 |
+| 272 | [Holdings y estructuras de propiedad: conceptos](classes/272-holdings-y-estructuras-de-propiedad-conceptos/README.md) | Holding, Sociedad operativa, Sociedad patrimonial | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 273 | [Adquisiciones como vía de crecimiento](classes/273-adquisiciones-como-via-de-crecimiento/README.md) | Tesis de adquisición, EBITDA normalizado, Concentración de clientes | [strategy-memo](../../templates/strategy-memo.md) | 150 |
+| 274 | [Delegar decisiones sin perder control](classes/274-delegar-decisiones-sin-perder-control/README.md) | Nivel de delegación, Guardrail, Gatillo de excepción | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 275 | [Owner dashboard](classes/275-owner-dashboard/README.md) | Tablero del propietario, Flujo de caja libre, Retorno sobre el capital invertido | [board-or-executive-memo](../../templates/board-or-executive-memo.md) | 150 |
+| 276 | [Capstone: empresa menos dependiente del fundador](classes/276-capstone-empresa-menos-dependiente-del-fundador/README.md) | Simulación de ausencia, Contacto evitable, Continuidad del servicio | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -88,70 +88,79 @@ Las clases **274 a 276** cierran el traspaso: delegación, tablero del dueño y 
 
 ## 🔤 Glosario de la parte
 
-60 conceptos definidos en las clases, con la definición operacional que usa cada una.
+69 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **acquisition entrepreneurship** | crecimiento mediante compra de negocio existente. |
-| **advisory board** | grupo sin las mismas facultades legales de un directorio formal que aporta consejo. |
-| **approval matrix** | límites de gasto y autoridad por rol. |
-| **beneficial ownership** | persona que en última instancia posee o controla según definiciones aplicables. |
-| **board cadence** | frecuencia y agenda regular de governance. |
-| **business system** | conjunto repetible de personas procesos tecnología y controles. |
-| **business unit** | unidad con mercado resultados y accountability distinguibles. |
-| **capital allocation** | movimiento de recursos entre unidades según retorno y estrategia. |
-| **cash conversion** | capacidad de convertir ganancias o ventas en caja. |
-| **cash forecast** | proyección de entradas y salidas para anticipar liquidez. |
-| **context** | información de propósito constraints y economics necesaria para decidir. |
-| **continuity test** | ejercicio de ausencia planificada del owner. |
-| **contribution margin** | ingreso menos costos variables atribuibles. |
-| **cost-to-serve** | costo de entregar y soportar un segmento. |
-| **customization debt** | costo futuro creado por excepciones específicas de clientes. |
-| **decision authority** | decisiones que el líder puede tomar sin owner. |
-| **delegation** | transferencia de responsabilidad y autoridad para decidir o ejecutar. |
-| **discount leakage** | erosión de precio por descuentos no controlados. |
-| **earn-out** | precio contingente ligado a desempeño futuro. |
-| **escalation trigger** | condición que obliga a elevar una decisión. |
-| **exception indicator** | señal que requiere intervención fuera de cadencia. |
-| **exception path** | ruta definida para casos fuera del estándar. |
-| **exception protocol** | reglas para contactar al owner solo ante eventos definidos. |
-| **executive onboarding** | transición estructurada para comprender negocio y construir relaciones. |
-| **executive scorecard** | outcomes capabilities y behaviors usados para evaluar. |
-| **financial control** | política y evidencia que protege activos y confiabilidad. |
-| **founder dependency** | grado en que operación o decisiones requieren al fundador. |
-| **founder independence** | grado en que negocio opera sin intervención cotidiana del founder. |
-| **governance maturity** | grado de formalización adecuado a ownership y complejidad. |
-| **governance threshold** | evento de escala o riesgo que justifica mayor formalización. |
-| **guardrail** | límite que define espacio seguro de autonomía. |
-| **holding company** | entidad que posee participaciones en otras entidades. |
-| **institutional memory** | conocimiento preservado en sistemas personas y documentación. |
-| **institutionalization** | conversión de conocimiento y decisiones en sistemas reproducibles. |
-| **intercompany transaction** | operación entre entidades relacionadas. |
-| **key-person risk** | exposición por dependencia de una persona. |
-| **leadership leverage** | impacto del líder a través de otros. |
-| **leadership mandate** | resultado y alcance que se espera de un líder. |
-| **management accounts** | reporting periódico para decisión interna. |
-| **management by exception** | intervención superior solo cuando se exceden tolerancias. |
-| **operating autonomy** | capacidad de equipos y líderes para decidir dentro de límites. |
-| **operator role** | responsabilidad por ejecutar el negocio cotidiano. |
-| **owner dashboard** | tablero de señales para supervisar valor y riesgo desde rol de propietario. |
-| **owner dependency metric** | medida de decisiones o ingresos que requieren al owner. |
-| **owner role** | responsabilidad de propiedad sobre capital gobierno y liderazgo superior. |
-| **portfolio** | conjunto de negocios gestionados bajo una propiedad. |
-| **portfolio parenting** | valor que la matriz puede agregar a unidades. |
-| **portfolio return** | retorno de negocios o inversiones bajo propiedad. |
-| **process owner** | rol accountable por desempeño end-to-end. |
-| **reserved matters** | decisiones que propietarios o board retienen. |
-| **ring-fencing** | separación de riesgos o activos entre entidades. |
-| **sales scale** | crecimiento repetible de adquisición y cierre. |
-| **search criteria** | filtros de industria tamaño economics y riesgo. |
-| **seller dependency** | dependencia del propietario saliente. |
-| **shared service** | función central que sirve a varias unidades. |
-| **SOP** | procedimiento operativo estándar para tareas recurrentes. |
-| **standard work** | mejor método actual documentado y mejorable. |
-| **subsidiary** | entidad controlada por otra. |
-| **transition services** | apoyo temporal del vendedor para transición. |
-| **working capital** | capital comprometido en operación corriente. |
+| **Asesor o director independiente** | Persona sin vínculos que sesguen su juicio. |
+| **Asignación de capital** | Decisión de dónde invertir, mantener o retirar recursos. |
+| **Cadencia** | Calendario de reuniones, informes y revisiones. |
+| **Capacidad** | Volumen que la empresa puede atender con calidad. |
+| **Capacidad compartida** | Servicio o recurso usado por varias unidades. |
+| **Capital de trabajo** | Recursos necesarios para operar entre pagos y cobros. |
+| **Ciclo de conversión de caja** | Días entre pagar insumos y cobrar ventas. |
+| **Comité** | Grupo con mandato específico (por ejemplo, auditoría). |
+| **Concentración de clientes** | Peso de pocos clientes en las ventas. |
+| **Concentración de propiedad** | Grado en que pocos propietarios controlan la empresa. |
+| **Contacto evitable** | Consulta al fundador que una regla o límite ya cubría. |
+| **Continuidad del servicio** | Mantención de la calidad y los plazos hacia el cliente. |
+| **Dependencia del fundador** | Parte del negocio que no funciona sin él. |
+| **Derechos de decisión** | Qué decide solo el líder y qué se acuerda. |
+| **Director o CEO** | Quien define la estrategia y conduce a los líderes. |
+| **DSO** | Días promedio que tardan en cobrarse las ventas. |
+| **Dueño de proceso** | Responsable de que funcione y mejore. |
+| **EBITDA normalizado** | Resultado operativo ajustado por partidas no recurrentes y no de mercado. |
+| **Entrega a medida** | Trabajo adaptado a un cliente. |
+| **Error de pronóstico** | Diferencia entre lo proyectado y lo real. |
+| **Estándar** | Manera esperada de ejecutar un proceso. |
+| **Evidencia de escala** | Pruebas de que hizo algo parecido en un contexto parecido. |
+| **Excepción** | Caso que no calza con el estándar. |
+| **Falla** | Evento en que la empresa necesitó al fundador o falló sin él. |
+| **Flujo de caja libre** | Caja que queda tras operar e invertir. |
+| **Gatillo de excepción** | Condición que obliga a escalar. |
+| **Gobierno** | Sistema que define quién decide, quién rinde cuentas y cómo se resuelven desacuerdos. |
+| **Guardrail** | Límite dentro del cual se puede decidir. |
+| **Holding** | Sociedad que posee participaciones en otras sociedades. |
+| **Integración de 100 días** | Plan de los primeros cien días tras la compra. |
+| **Latencia de decisión** | Tiempo entre la necesidad y la decisión. |
+| **Margen de contribución** | Ingreso menos costos variables. |
+| **Materias reservadas** | Decisiones que requieren aprobación de los propietarios o del directorio. |
+| **Matriz de aprobación** | Reglas de quién autoriza qué y hasta cuánto. |
+| **Movimiento comercial** | Manera repetible de atraer, vender y entregar. |
+| **Nivel de delegación** | Grado de autoridad que se transfiere para una decisión. |
+| **Operador** | Quien ejecuta el trabajo diario. |
+| **Pago contingente** | Parte del precio que depende de resultados futuros. |
+| **Persona clave** | Persona cuya salida afectaría gravemente la operación. |
+| **Período de recuperación del CAC** | Meses para recuperar el costo de adquirir un cliente. |
+| **Plan de 90 días** | Aprendizaje y decisiones acordadas para el inicio. |
+| **Proceso crítico** | Proceso que afecta al cliente, la caja o el riesgo. |
+| **Pronóstico de caja a 13 semanas** | Proyección semanal de cobros y pagos para un trimestre. |
+| **Propietario** | Quien aporta capital, asume el riesgo y gobierna. |
+| **Referencia propia** | Conversación con alguien que trabajó con el candidato, elegida por el contratante. |
+| **Remediación** | Acción para eliminar la causa de una falla. |
+| **Retención de ejecutivos** | Permanencia de líderes en el cargo. |
+| **Retorno sobre el capital invertido** | Resultado operativo dividido por el capital empleado. |
+| **Retraso de decisiones** | Decisiones pendientes que esperan al fundador. |
+| **Revisión de calidad** | Muestreo de decisiones para verificar su criterio. |
+| **Scorecard** | Resultados y competencias esperadas, con ponderación. |
+| **Segregación de riesgo** | Separar activos y obligaciones para limitar el alcance de una contingencia. |
+| **Servicio de la deuda** | Pago periódico de capital e intereses. |
+| **Simulación de ausencia** | Prueba en la que el fundador se aparta bajo reglas acordadas. |
+| **Sistema** | Forma acordada, escrita y medida de hacer algo importante. |
+| **Sociedad operativa** | Entidad que realiza la actividad con clientes y trabajadores. |
+| **Sociedad patrimonial** | Entidad que posee activos como inmuebles o propiedad intelectual. |
+| **Sustancia** | Realidad económica y de gestión detrás de cada entidad. |
+| **Tablero del propietario** | Conjunto breve de indicadores para supervisar la empresa. |
+| **Tasa de descuento** | Reducción promedio sobre el precio de lista. |
+| **Tasa de escalamiento** | Proporción de decisiones que suben al dueño. |
+| **Tesis de adquisición** | Razón estratégica y económica de la compra. |
+| **Tiempo de ciclo** | Tiempo desde el inicio hasta el final de un proceso. |
+| **Transacción intragrupo** | Operación entre entidades del mismo grupo. |
+| **Transferencia gradual** | Traspaso de tareas con contexto y revisión. |
+| **Umbral** | Valor que separa lo normal de lo que requiere acción. |
+| **Unidad económica** | Negocio con clientes, costos y decisiones propios. |
+| **Valor económico agregado** | Resultado operativo menos el costo del capital empleado. |
+| **Ventaja de la matriz** | Valor que la casa matriz agrega al negocio frente a otro dueño. |
 
 ## 📦 Qué queda como evidencia
 

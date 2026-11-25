@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **holding company** de **subsidiary** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **ring-fencing** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **intercompany transaction** con **beneficial ownership**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre holding, sociedad operativa y patrimonial?
+2. ¿Por qué se formulan objetivos antes de elegir una estructura?
+3. ¿Qué es una transacción intragrupo y qué requiere?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Owner de tres negocios quiere crear holding para pagar menos impuestos sin modelar dividendos, costos, garantías ni operaciones entre partes relacionadas.
+**Caso:** Una familia propietaria de una cadena de tres farmacias (ventas de 2.100 millones de pesos) y de un edificio donde funciona la sede, todo dentro de una misma sociedad con deudas bancarias de 450 millones, piensa crear una holding con tres sociedades: operativa, inmobiliaria y una «sociedad de inversiones» para los dividendos. Un asesor informal les dijo que «así se protege todo y se pagan menos impuestos». El padre (65 años) quiere preparar la sucesión entre sus dos hijos, uno de los cuales trabaja en la empresa y el otro no. Hay un préstamo del padre a la empresa de 80 millones sin contrato. El edificio vale 900 millones y el banco tiene una hipoteca sobre él. Un competidor propone comprar una de las farmacias. Los costos anuales de cada nueva sociedad se estiman en 2,4 millones y el costo de implementación en 15 millones.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir objetivos de propiedad → mapear entidades y riesgos → analizar cash y contract flows → identificar intercompany y governance → validar legal y tributario antes de implementar**. Debes utilizar o diseñar cómo obtener **entity count, intercompany balances, risk segregation**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **memo de decisión del fundador sobre estructura de propiedad** que contenga: (a) los objetivos de propiedad ordenados y las diferencias entre familiares; (b) el mapa actual y el propuesto con funciones y contratos; (c) el cálculo de costos y beneficios con supuestos explícitos y sensibilidad; (d) el tratamiento del préstamo del padre y de la hipoteca, y el control de saldos intragrupo; (e) la lista de preguntas para el abogado y el contador y las alternativas que pedirá; (f) los límites del análisis, qué no se hará sin validación y el criterio de sustancia. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Las estructuras no son herramientas genéricas de optimización fiscal. Requieren análisis legal y tributario específico y sustancia real; evita esquemas artificiales.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Esta clase no es asesoría legal ni tributaria.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

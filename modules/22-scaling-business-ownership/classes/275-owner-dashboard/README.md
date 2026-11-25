@@ -10,217 +10,218 @@
 
 ## 🎯 Propósito
 
-El owner dashboard debe mostrar salud económica, dependencia, liderazgo, clientes, riesgo y capital del portafolio con pocas métricas accionables. Su objetivo es permitir supervisión de propiedad sin volver a operar cada proceso.
+Un propietario que ya no opera el negocio día a día necesita **ver** sin **estar**. Sin una forma ordenada de ver, caen dos tentaciones: volver a meterse en cada detalle («para estar tranquilo») o confiar ciegamente hasta que un problema grande aparece sin aviso. Un tablero del propietario (owner dashboard) es la solución: un conjunto **pequeño** de indicadores, con umbrales y tendencias, que responde las preguntas que el dueño realmente se hace sobre su empresa: ¿gano dinero y genero caja?, ¿mis clientes están satisfechos y diversificados?, ¿mi operación es confiable?, ¿cuánto riesgo tengo?, ¿qué decisiones de capital están pendientes? No es un informe extenso ni un panel con cuarenta gráficos: es **diez a quince métricas**, revisadas con una cadencia, con **excepciones** que obligan a actuar. Drucker sostiene que la gestión necesita medir lo que importa para los resultados, no todo lo que se puede medir.
 
-La salida de esta parte es **reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **owner dashboard** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase enseña a construir ese tablero a partir de las preguntas del dueño: seleccionar métricas, definir umbrales y tendencias, asignar fuentes y responsables, establecer una revisión mensual y conectar el tablero con las decisiones del gobierno y de capital. Se apoya en Drucker, Kaplan y Norton (el cuadro de mando integral: traducir estrategia en medidas), Koller y colaboradores (flujo de caja libre y retorno sobre el capital como fundamentos del valor), Harnish (cifras clave y rutinas), Hoffman y Yeh, Sutton y Rao y Gerber. Al terminar sabrás armar un tablero con métricas útiles, calcular flujo de caja libre y retorno sobre el capital con supuestos, definir umbrales y colores, leer un mes de datos e identificar excepciones.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `owner dashboard`, `cash conversion`, `owner dependency metric`, `portfolio return`, `exception indicator` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de business owner.
-3. **Aplicar** la secuencia **1. definir owner questions → 2. seleccionar 10 a 15 metrics → 3. establecer thresholds y trends → 4. crear monthly review y exceptions → 5. conectar a board y capital decisions** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** free cash flow, ROIC, customer concentration sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Formular** las preguntas del propietario y traducirlas a métricas.
+2. **Seleccionar** diez a quince indicadores con definición, fuente y responsable.
+3. **Calcular** flujo de caja libre, retorno sobre el capital y concentración de clientes.
+4. **Definir** umbrales, tendencias y excepciones que activan acciones.
+5. **Conectar** el tablero con una revisión mensual y con decisiones de capital.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define owner dashboard y cash conversion sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con free cash flow y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué cinco números querrías ver cada mes para dormir tranquilo? |
+| 20–60 min | Preguntas del dueño, selección, definiciones, umbrales, tendencias, revisión y capital. |
+| 60–105 min | Ejemplo trabajado: cálculo de métricas, semáforo y excepciones de un mes. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **owner dashboard** | tablero de señales para supervisar valor y riesgo desde rol de propietario | Distingue un hecho compatible y otro que lo refute. |
-| **cash conversion** | capacidad de convertir ganancias o ventas en caja | Distingue un hecho compatible y otro que lo refute. |
-| **owner dependency metric** | medida de decisiones o ingresos que requieren al owner | Distingue un hecho compatible y otro que lo refute. |
-| **portfolio return** | retorno de negocios o inversiones bajo propiedad | Distingue un hecho compatible y otro que lo refute. |
-| **exception indicator** | señal que requiere intervención fuera de cadencia | Distingue un hecho compatible y otro que lo refute. |
+| **Tablero del propietario** | Conjunto breve de indicadores para supervisar la empresa. | 10 a 15 métricas con umbrales. |
+| **Flujo de caja libre** | Caja que queda tras operar e invertir. | Resultado operativo ajustado, menos inversión y capital de trabajo. |
+| **Retorno sobre el capital invertido** | Resultado operativo neto de impuestos dividido por el capital empleado. | Porcentaje anual. |
+| **Concentración de clientes** | Peso de los mayores clientes en las ventas. | Porcentaje de los tres mayores. |
+| **Umbral** | Valor que separa lo normal de lo que requiere acción. | Verde, amarillo, rojo. |
+| **Excepción** | Métrica fuera de umbral que activa una revisión. | Alerta con responsable. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 275: 1. definir owner questions → 2. seleccionar 10 a 15 metrics → 3. establecer thresholds y trends → 4. crear monthly review y exceptions → 5. conectar a board y capital decisions](modelo-mental.svg)
+![Tres columnas de un tablero del propietario: rentabilidad y caja, clientes y operación, y riesgo y capital.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir owner questions → 2. seleccionar 10 a 15 metrics → 3. establecer thresholds y trends → 4. crear monthly review y exceptions → 5. conectar a board y capital decisions
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El owner dashboard debe mostrar salud económica, dependencia, liderazgo, clientes, riesgo y capital del portafolio con pocas métricas accionables. Su objetivo es permitir supervisión de propiedad sin volver a operar cada proceso.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un dashboard comprime y puede ocultar detalle. Diseña drill-down y agenda de revisión; no administres exclusivamente por números sin conversaciones y auditoría.**
+**Cómo leer el diagrama.** Tres columnas. **Rentabilidad y caja**: flujo de caja libre, margen por unidad o línea y retorno sobre el capital invertido. **Clientes y operación**: concentración de clientes, calidad y continuidad del servicio, capacidad y plazos. **Riesgo y capital**: deuda y cobertura, dependencias clave y cumplimiento, y decisiones de capital pendientes. La nota afirma que un tablero de diez a quince métricas con umbrales y tendencia basta, y que cada métrica responde una pregunta del dueño; el pie, que las excepciones se revisan cada mes y alimentan las decisiones de capital.
 
 ## 📖 Desarrollo
 
-### 1. owner dashboard: mecanismo central
+### 1. Empezar por las preguntas, no por los datos
 
-**owner dashboard** se entiende aquí como **tablero de señales para supervisar valor y riesgo desde rol de propietario**. Esta es la pieza causal o estructural desde la que se inicia **owner dashboard**: antes de definir owner questions, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un tablero útil nace de **preguntas**: ¿cuánto dinero genera la empresa y cuánto retorno da el capital que puse?, ¿estamos creciendo con rentabilidad o solo en ventas?, ¿qué tan sólida es la caja?, ¿qué tan dependiente soy de pocos clientes, personas o proveedores?, ¿está funcionando la operación sin mí?, ¿cuánto riesgo de deuda, cumplimiento o reputación tengo?, ¿qué decisiones de capital debo tomar (invertir, repartir, ahorrar, comprar, vender)? Kaplan y Norton proponen que las medidas se deriven de la **estrategia** y se equilibren entre perspectivas (financiera, clientes, procesos internos, aprendizaje y crecimiento) para evitar optimizar una a costa de las demás. Un tablero que no responde preguntas concretas del dueño se convierte en un informe que nadie lee.
 
-La lectura rectora de este bloque es Michael E. Gerber — *The E-Myth Revisited*. Su aporte se usa para examinar **diferencia entre técnico, manager y empresario; sistematización del negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **free cash flow**; regístrala con periodo, unidad, población y baseline.
+### 2. Seleccionar diez a quince métricas
 
-Relaciona el mecanismo con **cash conversion**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se elige una métrica por pregunta, con **criterios**: que sea **relevante** para una decisión, **medible** de forma confiable, **oportuna** (disponible a tiempo), **comparable** (en el tiempo y con un objetivo), **difícil de manipular** y **entendible** para el dueño. Una selección típica incluye: **flujo de caja libre** y **caja disponible en semanas de gasto**; **margen de contribución** y **margen operativo**; **retorno sobre el capital invertido**; **crecimiento de ingresos** por segmento; **concentración de clientes**; **retención de clientes**; **calidad del servicio** (entregas a tiempo, reclamos); **días de cobro**; **deuda y cobertura del servicio de la deuda**; **rotación o dependencia de personas clave**; **cumplimiento** (calendario de obligaciones al día); y **decisiones de capital pendientes**. Se evita medir lo que no se usará. Más indicadores diluyen la atención: el criterio es **pocos y buenos**.
 
-### 2. cash conversion: frontera conceptual y error de clasificación
+### 3. Definiciones, fuentes y responsables
 
-**Definición operacional:** capacidad de convertir ganancias o ventas en caja. Su valor está en distinguirlo de **owner dashboard** y **owner dependency metric**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Cada métrica tiene una **ficha**: nombre, **fórmula exacta**, fuente de datos, frecuencia, responsable de calcularla, responsable de explicarla, umbral y objetivo. Las discusiones sobre cifras suelen ser discusiones sobre definiciones: «¿qué es un cliente activo?, ¿cómo se calcula el margen?, ¿incluye costos compartidos?». Se acuerdan **una sola vez** y se documentan. Se registran también las **limitaciones** (qué no mide). Se automatiza lo que se pueda y se verifica la **calidad de los datos**: conciliación con la contabilidad, reglas de registro, auditoría de una muestra. Un tablero con datos dudosos produce decisiones dudosas; si una métrica no es confiable todavía, se marca como tal y se trabaja para mejorarla en lugar de usarla como si lo fuera.
 
-Contrasta el problema con Verne Harnish — *Scaling Up*, que aporta una mirada sobre **personas, estrategia, ejecución y caja durante el escalamiento**. Formula dos mini-casos: uno que sí satisface la definición de **cash conversion** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **ROIC** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Flujo de caja libre y retorno sobre el capital
 
-Antes de seleccionar 10 a 15 metrics, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Dos métricas resumen la salud económica. El **flujo de caja libre** es, en forma simplificada, el resultado operativo más depreciación, menos impuestos pagados, menos inversiones en activos (capex) y menos el aumento del capital de trabajo: lo que la empresa genera para sus propietarios y acreedores tras mantenerse y crecer. El **retorno sobre el capital invertido (ROIC)** es el resultado operativo después de impuestos dividido por el capital empleado. Koller y colaboradores los presentan como fundamentos del valor: una empresa crea valor cuando su ROIC supera el costo del capital y crece. Ambas se interpretan con cuidado: un flujo de caja libre bajo puede deberse a inversión de crecimiento (bueno) o a mala cobranza (malo); un ROIC alto puede reflejar activos subvaluados o falta de inversión. Se miran **tendencias** y **explicaciones**, no solo el número.
 
-### 3. owner dependency metric: operacionalización y medición
+### 5. Umbrales, tendencias y semáforo
 
-**owner dependency metric** significa **medida de decisiones o ingresos que requieren al owner**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Cada métrica tiene **umbrales**: verde (dentro de lo esperado), amarillo (atención) y rojo (acción). Los umbrales se derivan del presupuesto, de la historia, de los compromisos con prestamistas y del apetito de riesgo del dueño; no se inventan para «ver más verde». Se muestran **tendencias** (últimos doce meses) porque un valor aislado puede engañar. Se define **qué hacer** cuando una métrica pasa de color: quién investiga, en qué plazo y qué decisión se evalúa. Harnish recomienda mantener pocas cifras clave con responsables y revisarlas en un ritmo regular; el semáforo facilita ver excepciones, pero se complementa con una **nota breve** de explicación y acciones. Un tablero que siempre está verde o siempre rojo ha perdido su función.
 
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* orienta este bloque mediante **responsabilidad gerencial, propósito, organización y resultados**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **customer concentration**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Revisión mensual y trimestral
 
-Al llegar a establecer thresholds y trends, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El tablero se **revisa** en una reunión mensual de 60 a 90 minutos con el equipo directivo: se lee el tablero, se explican las excepciones, se acuerdan acciones y responsables, y se registran decisiones. Cada trimestre se profundiza: estrategia, asignación de capital, riesgos, gobierno (clase 270) y revisión del propio tablero (¿qué métricas dejaron de servir?). Se evita que la reunión se convierta en una cacería de culpables: se busca **entender y decidir**. Se acuerda el **paquete de información** que se envía antes, y se registra una **minuta** de una página. El dueño aprende a preguntar por **excepciones y tendencias** en vez de buscar los números de siempre, y a resistir la tentación de pedir más informes cuando algo le preocupa: primero se revisa si el tablero ya debería haberlo mostrado.
 
-### 4. portfolio return: trade-offs y efectos de segundo orden
+### 7. Conectar el tablero con las decisiones de capital
 
-**Definición:** retorno de negocios o inversiones bajo propiedad. Este concepto obliga a abandonar la idea de que **owner dashboard** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de crear monthly review y exceptions, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* aporta una lente sobre **drivers de valor, ROIC, crecimiento y valoración por flujo descontado**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **owner dependency** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **owner dashboard**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **portfolio return** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. exception indicator: gobernanza, límites e integración
-
-**exception indicator** se define como **señal que requiere intervención fuera de cadencia** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Reid Hoffman & Chris Yeh — *Blitzscaling* se utiliza para estudiar **perspectiva de Escalamiento aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar conectar a board y capital decisions, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un dashboard comprime y puede ocultar detalle. Diseña drill-down y agenda de revisión; no administres exclusivamente por números sin conversaciones y auditoría.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **owner dashboard**, **cash conversion**, **owner dependency metric**, **portfolio return** y **exception indicator** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **owner dashboard** no consiste en sumar cinco definiciones. Empieza por **owner dashboard**, contrasta **cash conversion** con **owner dependency metric**, incorpora **portfolio return** como restricción o mecanismo y usa **exception indicator** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir owner questions → 2. seleccionar 10 a 15 metrics → 3. establecer thresholds y trends → 4. crear monthly review y exceptions → 5. conectar a board y capital decisions**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un tablero es útil si **cambia decisiones**. Las decisiones de capital del propietario incluyen: **reinvertir** en la empresa (qué proyectos superan el costo del capital), **repartir utilidades**, **reducir deuda**, **mantener caja de seguridad**, **adquirir** o **vender** unidades (clases 271 y 273) y **cambiar la estructura** (clase 272). El tablero aporta la información: caja libre, retorno, riesgo y alternativas. Se define una **política de capital** simple: cuánta caja mantener (en semanas de gasto), qué proporción reinvertir, bajo qué condiciones repartir y qué retorno mínimo exigir a una inversión. Se registran las decisiones y sus resultados, y se evalúa a los 12 meses si se cumplieron los supuestos. Así, el propietario se convierte en asignador de capital, no solo en dueño de una operación.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Gerber — *The E-Myth Revisited* | diferencia entre técnico, manager y empresario; sistematización del negocio | ¿Qué supuesto de **owner dashboard** ayuda a desafiar? |
-| Verne Harnish — *Scaling Up* | personas, estrategia, ejecución y caja durante el escalamiento | ¿Qué supuesto de **owner dashboard** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **owner dashboard** ayuda a desafiar? |
-| Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* | drivers de valor, ROIC, crecimiento y valoración por flujo descontado | ¿Qué supuesto de **owner dashboard** ayuda a desafiar? |
-| Reid Hoffman & Chris Yeh — *Blitzscaling* | perspectiva de Escalamiento aplicada al problema de la clase | ¿Qué supuesto de **owner dashboard** ayuda a desafiar? |
-
-En **owner dashboard**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **owner dashboard**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Drucker | Medir lo que importa para los resultados. | No define fórmulas. | ¿Qué resultado debo medir? |
+| Kaplan y Norton | Medidas derivadas de la estrategia y equilibradas. | Puede generar demasiados indicadores. | ¿Qué estrategia mide cada indicador? |
+| Koller y coautores | Flujo de caja libre y ROIC como base del valor. | No diseña el tablero. | ¿Mi ROIC supera el costo del capital? |
+| Harnish | Cifras clave con responsables y ritmo de revisión. | No profundiza en valoración. | ¿Quién responde por cada cifra? |
+| Hoffman y Yeh | Qué medir durante el crecimiento acelerado. | No es guía de tablero. | ¿Qué métrica me avisa antes de un problema grave? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Owner recibe 90 KPIs operativos semanales pero no sabe cuánto cash puede retirar, qué unidad destruye capital ni cuántas ventas dependen de él.
+**Situación (hipotética).** El propietario de una empresa de ingeniería lee el tablero del mes. Las cifras son **supuestos**; los impuestos efectivamente pagados y la tasa se verifican en los registros reales.
 
-**Paso 1 — definir owner questions.** La gerencia escribe primero el supuesto asociado a **owner dashboard** y evita convertirlo en hecho. Luego busca **free cash flow** para contrastarlo en el caso de **owner dashboard**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos del mes (millones de pesos).**
 
-**Paso 2 — seleccionar 10 a 15 metrics.** La gerencia escribe primero el supuesto asociado a **cash conversion** y evita convertirlo en hecho. Luego busca **ROIC** para contrastarlo en el caso de **owner dashboard**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Concepto | Valor |
+|---|---|
+| Ingresos | 140,0 |
+| Resultado operativo | 18,2 |
+| Depreciación | 3,0 |
+| Impuestos pagados | 3,0 |
+| Inversión en activos (capex) | 4,0 |
+| Aumento del capital de trabajo | 6,0 |
 
-**Paso 3 — establecer thresholds y trends.** La gerencia escribe primero el supuesto asociado a **owner dependency metric** y evita convertirlo en hecho. Luego busca **customer concentration** para contrastarlo en el caso de **owner dashboard**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Flujo de caja libre del mes.** 18,2 + 3,0 − 3,0 − 4,0 − 6,0 = **8,2 millones**. El margen operativo es 18,2 ÷ 140 = **13,0 %**. La conversión de resultado a caja libre es 8,2 ÷ 18,2 = **45 %**: parte del resultado se fue a capital de trabajo.
 
-**Paso 4 — crear monthly review y exceptions.** La gerencia escribe primero el supuesto asociado a **portfolio return** y evita convertirlo en hecho. Luego busca **owner dependency** para contrastarlo en el caso de **owner dashboard**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**ROIC de los últimos doce meses.** Resultado operativo de 190 millones; impuestos pagados de 38; resultado operativo neto de impuestos de 152. Capital invertido: 980. **ROIC = 152 ÷ 980 = 15,5 %**. Con un costo de capital supuesto de 11 %, el diferencial es **+4,5 puntos**; el valor económico agregado es 152 − 0,11 × 980 = 152 − 107,8 = **+44,2 millones**.
 
-**Paso 5 — conectar a board y capital decisions.** La gerencia escribe primero el supuesto asociado a **exception indicator** y evita convertirlo en hecho. Luego busca **leadership coverage** para contrastarlo en el caso de **owner dashboard**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Concentración de clientes.** Los tres mayores clientes representan 22 %, 16 % y 13 % de las ventas: **51 %**.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **owner dashboard**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Tablero de 12 métricas y semáforo.**
+
+| Métrica | Valor | Umbral rojo | Estado |
+|---|---|---|---|
+| Flujo de caja libre del mes | 8,2 | < 5,0 | Verde |
+| ROIC (12 meses) | 15,5 % | < 11 % | Verde |
+| Margen operativo | 13,0 % | < 10 % | Verde |
+| Crecimiento de ingresos (12 meses) | 9 % | < 3 % | Verde |
+| Caja en semanas de gasto | 7 | < 5 | Verde |
+| Concentración de los tres mayores clientes | 51 % | > 45 % | **Rojo** |
+| Retención de clientes (12 meses) | 88 % | < 80 % | Verde |
+| Entregas a tiempo | 91 % | < 88 % | Amarillo |
+| Días de cobro (DSO) | 62 | > 65 | Amarillo |
+| Cobertura del servicio de la deuda | 1,9 | < 1,3 | Verde |
+| Dependencia de personas clave (puestos sin respaldo) | 3 | > 2 | **Rojo** |
+| Cumplimiento del calendario de obligaciones | 96 % | < 90 % | Amarillo |
+
+**Resumen del semáforo.** 7 verdes, 3 amarillos y 2 rojos (12 métricas). Los **rojos** (concentración y personas clave) son riesgos estructurales; los amarillos requieren vigilancia. El flujo de caja libre es positivo, pero **solo 45 %** del resultado se convirtió en caja: se investiga el aumento del capital de trabajo (DSO de 62 días y subiendo).
+
+**Excepciones y acciones.** (1) Concentración 51 %: plan para desarrollar dos clientes medianos y segundo contacto en los tres mayores, responsable gerente comercial, revisión en 90 días. (2) Personas clave: tres puestos sin respaldo; plan de capacitación cruzada y contratación, responsable gerente de operaciones. (3) DSO en 62 y subiendo: cobranza a los cinco clientes con más antigüedad y revisión de condiciones.
+
+**Conexión con capital.** El ROIC de 15,5 % supera el costo de capital de 11 %, y el flujo libre anual proyectado es de unos 60 a 80 millones. Política supuesta: mantener 7 semanas de gasto en caja, reinvertir hasta el 50 % del flujo libre en proyectos con retorno esperado superior a 15 % y repartir el resto. Una propuesta de inversión de 90 millones con retorno esperado de 12 % no pasaría el filtro (12 % < 15 %), aunque supere el costo de capital; se estudia ajustar el proyecto.
+
+**Cuidados.** Las definiciones, los umbrales y los valores son supuestos del ejercicio; los datos deben conciliarse con la contabilidad y revisarse con profesionales.
+
+**Qué muestra.** (1) El flujo libre y el ROIC se calcularon con fórmulas explícitas. (2) El semáforo identificó dos excepciones estructurales. (3) El tablero se conectó con una política de capital.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **owner dashboard** | tablero de señales para supervisar valor y riesgo desde rol de propietario | Cuando free cash flow es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **cash conversion** | capacidad de convertir ganancias o ventas en caja | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Tablero frente a informe.** El tablero es breve, regular y centrado en excepciones; el informe es extenso y descriptivo. Ambos se complementan, pero el tablero guía la atención del dueño.
 
-**Frontera de aplicación:** Un dashboard comprime y puede ocultar detalle. Diseña drill-down y agenda de revisión; no administres exclusivamente por números sin conversaciones y auditoría.
+**Límites.** Las métricas no prueban causalidad; un indicador en verde no garantiza que todo esté bien. Los umbrales son criterios internos. Demasiadas métricas diluyen la atención y la manipulación de cifras es posible si los incentivos son malos. Las cifras del ejemplo son supuestos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre owner dashboard |
+| Nivel | Cómo se relaciona con el tablero |
 |---|---|
-| **Profesional** | usa **owner dashboard** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **owner dashboard** y **cash conversion** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta free cash flow con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si owner dashboard cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de owner dashboard reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **owner dashboard** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Registra los datos con calidad y entiende qué mide su trabajo. |
+| **Jefe / Team Lead** | Responde por las métricas de su equipo. |
+| **Gerente** | Explica las excepciones de su área y propone acciones. |
+| **CEO / Director** | Presenta el tablero y conduce la revisión mensual. |
+| **Founder / Owner** | Define las preguntas, fija los umbrales y decide el capital a partir del tablero. |
 
 ## 🏢 Caso ejecutivo
 
-Owner recibe 90 KPIs operativos semanales pero no sabe cuánto cash puede retirar, qué unidad destruye capital ni cuántas ventas dependen de él.
+Un fundador es dueño de una distribuidora de repuestos automotrices con tres sucursales y ventas anuales de 3.600 millones de pesos. Recibe cada mes un informe de 40 páginas que no lee. Datos del último trimestre: resultado operativo de 63 millones (en el trimestre, ventas de 900); depreciación 9; impuestos pagados 12; inversión en activos 15; aumento del capital de trabajo 21 (inventario +14, cuentas por cobrar +9, cuentas por pagar +2); capital invertido de 1.400 millones; resultado operativo neto de impuestos de los últimos doce meses de 190; los tres mayores clientes (talleres y flotas) suman el 47 % de las ventas; un solo encargado de compras conoce a los proveedores clave; el gerente de una sucursal acumula 3 reclamos graves de entrega en el mes; el DSO es de 58 días; la deuda requiere una cobertura mínima de 1,3 y hoy es de 1,5; hay una propuesta para abrir una cuarta sucursal con una inversión de 260 millones y un retorno esperado de 13 %. Su costo de capital supuesto es 11 %.
 
-Entrega un **decision brief de owner dashboard** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo ejecutivo con el tablero del propietario** que contenga: (a) las preguntas del dueño y las 12 métricas elegidas con definición y fuente; (b) el cálculo del flujo de caja libre del trimestre y el ROIC con los datos del caso; (c) los umbrales y el semáforo con las excepciones; (d) las acciones y responsables para las métricas en rojo; (e) la evaluación de la cuarta sucursal frente al costo de capital y a una política de retorno mínimo; (f) los límites del tablero y la cadencia de revisión.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **owner dashboard** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir owner questions → 2. seleccionar 10 a 15 metrics → 3. establecer thresholds y trends → 4. crear monthly review y exceptions → 5. conectar a board y capital decisions** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta free cash flow, ROIC; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe las diez preguntas que quieres que tu tablero responda.
+2. Define las 12 métricas con fórmula, fuente, frecuencia y responsable.
+3. Calcula el flujo de caja libre y el ROIC con tus datos o con supuestos.
+4. Fija umbrales verde, amarillo y rojo y qué harás en cada caso.
+5. Redacta una política de capital de media página.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar owner dashboard y cash conversion como sinónimos | Se pierde la distinción entre “tablero de señales para supervisar valor y riesgo desde rol de propietario” y “capacidad de convertir ganancias o ventas en caja” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “conectar a board y capital decisions” | Se saltó “definir owner questions” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir owner questions → 2. seleccionar 10 a 15 metrics → 3. establecer thresholds y trends → 4. crear monthly review y exceptions → 5. conectar a board y capital decisions y marca el primer supuesto no demostrado. |
-| Optimizar solo free cash flow | La métrica local sustituyó al resultado del sistema | Contrástala con ROIC y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre owner dashboard | Un dashboard comprime y puede ocultar detalle. Diseña drill-down y agenda de revisión; no administres exclusivamente por números sin conversaciones y auditoría. |
-| No fijar revisión | Una decisión sobre owner dashboard se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Demasiadas métricas | Se quiere ver todo | Pocas y buenas, ligadas a preguntas. |
+| Métricas sin definición | Se supone que todos entienden lo mismo | Ficha con fórmula y fuente. |
+| Umbrales inventados para ver verde | Se evita el conflicto | Derivarlos del presupuesto, la historia y el riesgo. |
+| Mirar solo el valor del mes | Es lo visible | Mostrar tendencias de doce meses. |
+| Tablero sin acción | Se informa sin decidir | Excepciones con responsable y plazo. |
+| Datos dudosos | No se concilian | Calidad de datos y reconciliación con la contabilidad. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **owner dashboard** y **cash conversion** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **owner dependency metric** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir owner questions → seleccionar 10 a 15 metrics** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **free cash flow** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **owner dashboard**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un dashboard comprime y puede ocultar detalle. Diseña drill-down y agenda de revisión; no administres exclusivamente por números sin conversaciones y auditoría.**?
+1. ¿Por qué se parte de las preguntas del dueño?
+2. ¿Qué incluye la ficha de una métrica?
+3. ¿Cómo se calcula el flujo de caja libre?
+4. ¿Qué mide el ROIC y cómo se compara?
+5. ¿Para qué sirven los umbrales y el semáforo?
+6. ¿Cómo se conecta el tablero con decisiones de capital?
+7. ¿Qué límite tienen las métricas?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Porque un tablero útil responde decisiones concretas y no acumula datos.
+2. Fórmula, fuente, frecuencia, responsable, umbral, objetivo y limitaciones.
+3. Resultado operativo más depreciación, menos impuestos, inversión en activos y aumento del capital de trabajo.
+4. El resultado operativo neto de impuestos sobre el capital empleado, que se compara con el costo del capital.
+5. Para identificar excepciones y activar acciones con responsable.
+6. Con una política de capital: caja mínima, reinversión, reparto, deuda y retorno exigido.
+7. No prueban causalidad, dependen de definiciones y datos de calidad, y pueden manipularse con malos incentivos.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/275-owner-dashboard/`:
 
-- `board-or-executive-memo.md` con el problema específico de **owner dashboard**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **owner dashboard** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **owner dashboard**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Owner recibe 90 KPIs operativos semanales pero no sabe cuánto cash puede retirar, qué unidad destruye capital ni cuántas ventas dependen de él.** y el dato que podría invalidar la recomendación.
+- `board-or-executive-memo.md` (plantilla [Board or executive memo](../../../../templates/board-or-executive-memo.md)) con el memo ejecutivo del caso;
+- `owner-dashboard.md` (plantilla [Owner dashboard](../../../../templates/owner-dashboard.md)) con las 12 métricas, umbrales y responsables;
+- `decision-journal.md` con la política de capital y las excepciones del mes.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** diferencia entre técnico, manager y empresario; sistematización del negocio. Lectura selectiva sobre **owner dashboard**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
-- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** personas, estrategia, ejecución y caja durante el escalamiento. Lectura selectiva sobre **owner dashboard**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **owner dashboard**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **owner dashboard**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Reid Hoffman & Chris Yeh — *Blitzscaling* (HarperCollins Publishers Limited, 2018). **Uso en esta clase:** perspectiva de Escalamiento aplicada al problema de la clase. Lectura selectiva sobre **owner dashboard**. **Localizador:** [ISBN-13 9780008303648](https://openlibrary.org/isbn/9780008303648).
-- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** cómo propagar excelencia sin multiplicar burocracia y daño. Lectura selectiva sobre **owner dashboard**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **owner dashboard** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **owner dashboard**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **owner dashboard** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **owner dashboard** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **owner dashboard** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** medir lo que importa para los resultados. Lectura selectiva sobre **owner dashboard**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
+- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** medidas derivadas de la estrategia y equilibradas. Lectura selectiva sobre **owner dashboard**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
+- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** flujo de caja libre y retorno sobre el capital como base del valor. Lectura selectiva sobre **owner dashboard**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
+- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** cifras clave con responsables y ritmo de revisión. Lectura selectiva sobre **owner dashboard**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
+- Reid Hoffman & Chris Yeh — *Blitzscaling* (HarperCollins Publishers Limited, 2018). **Uso en esta clase:** qué medir en el crecimiento acelerado. Lectura selectiva sobre **owner dashboard**. **Localizador:** [ISBN-13 9780008303648](https://openlibrary.org/isbn/9780008303648).
+- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** prácticas esenciales al escalar. Lectura selectiva sobre **owner dashboard**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
+- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** sistemas que informan al dueño sin depender de él. Lectura selectiva sobre **owner dashboard**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
 
-> **Regla de fuentes para Owner dashboard:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **owner dashboard** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Owner dashboard:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

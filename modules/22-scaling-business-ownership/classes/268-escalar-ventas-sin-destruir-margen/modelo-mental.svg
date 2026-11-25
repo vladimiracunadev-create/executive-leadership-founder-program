@@ -1,65 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g268 d-g268" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g268">Ficha visual de la clase 268: Escalar ventas sin destruir margen</title>
-<desc id="d-g268">Conceptos: sales scale; contribution margin; cost-to-serve; discount leakage; customization debt. Método: segmentar revenue y margin → identificar sales motion repetible → estandarizar pricing y discounts → reducir custom delivery → escalar capacity según unit economics.</desc>
-<defs><marker id="p-g268" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#59636e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 268 · Escalar ventas sin destruir margen</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 22 · Fundador, propietario e independencia</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#59636e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >sales scale</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >crecimiento repetible de adquisición y cierre</text>
-<circle cx="38" cy="170" r="5" fill="#59636e"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >contribution margin</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ingreso menos costos variables atribuibles</text>
-<circle cx="38" cy="228" r="5" fill="#59636e"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >cost-to-serve</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >costo de entregar y soportar un segmento</text>
-<circle cx="38" cy="286" r="5" fill="#59636e"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >discount leakage</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >erosión de precio por descuentos no controlados</text>
-<circle cx="38" cy="344" r="5" fill="#59636e"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >customization debt</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >costo futuro creado por excepciones específicas de</text>
-<text x="54" y="383.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >clientes</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#59636e" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#59636e"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >segmentar revenue y margin</text>
-<circle cx="485" cy="176" r="14" fill="#59636e"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >identificar sales motion repetible</text>
-<circle cx="485" cy="230" r="14" fill="#59636e"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >estandarizar pricing y discounts</text>
-<circle cx="485" cy="284" r="14" fill="#59636e"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >reducir custom delivery</text>
-<circle cx="485" cy="338" r="14" fill="#59636e"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >escalar capacity según unit economics</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >contribution margin</text>
-<rect x="195.1" y="442.12" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="208.1" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="219.1" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >discount rate</text>
-<rect x="320.8" y="442.12" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="333.8" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="344.8" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >CAC payback</text>
-<rect x="432.7" y="442.12" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="445.7" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="456.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cost-to-serve</text>
-<rect x="558.4" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="571.4" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="582.4" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >custom work share</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Estandarizar demasiado pronto puede perder clientes estratégicos. Acepta custom work cuando compra aprendizaje o ventaja, pero</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cuantifica costo y criterio de salida.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 456.06" width="1040" role="img" aria-labelledby="t-s268 d-s268" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s268">Clase 268 · Crecer ventas sin perder margen</title>
+<desc id="d-s268">Cuadrante de margen de contribución y repetibilidad de la entrega para decidir qué ventas escalar, reparar, aceptar con cuidado o abandonar.</desc>
+<defs><marker id="p-s268" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="456.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 268 · Crecer ventas sin perder margen</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Koller et al. · Harnish · Gil · Drucker</text>
+<text x="362.5" y="100" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle" >Margen bajo</text>
+<text x="799.5" y="100" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle" >Margen alto</text>
+<text transform="translate(120,160.25) rotate(-90)" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle">Entrega repetible</text>
+<text transform="translate(120,268.75) rotate(-90)" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle">Entrega a medida</text>
+<rect x="150" y="112" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="150.0" y="112.0" width="425.0" height="34" rx="12" fill="#bc4c00"/>
+<text x="166" y="135" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Reparar precio o costo</text>
+<text x="166" y="170" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Entrega repetible con margen bajo: ajustar precio,</text>
+<text x="166" y="187.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >descuentos o costo.</text>
+<rect x="587" y="112" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="587.0" y="112.0" width="425.0" height="34" rx="12" fill="#1a7f37"/>
+<text x="603" y="135" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Escalar</text>
+<text x="603" y="170" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Margen alto y entrega repetible: invertir en capacidad y</text>
+<text x="603" y="187.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >canal.</text>
+<rect x="150" y="220.5" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<rect x="150.0" y="220.5" width="425.0" height="34" rx="12" fill="#cf222e"/>
+<text x="166" y="243.5" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Salir o rediseñar</text>
+<text x="166" y="278.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Margen bajo y entrega a medida: costoso y poco aprende.</text>
+<rect x="587" y="220.5" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="587.0" y="220.5" width="425.0" height="34" rx="12" fill="#0969da"/>
+<text x="603" y="243.5" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >A medida solo si enseña</text>
+<text x="603" y="278.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Margen alto pero artesanal: aceptar si compra</text>
+<text x="603" y="295.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >aprendizaje y con criterio de salida.</text>
+<rect x="28" y="329" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="351" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Estandarizar demasiado pronto puede perder clientes estratégicos. Se acepta trabajo a medida cuando compra aprendizaje o ventaja,</text>
+<text x="44" y="368.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >cuantificando su costo.</text>
+<text x="28" y="415.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >La capacidad se amplía según la economía por cliente y el período de recuperación.</text>
 </svg>

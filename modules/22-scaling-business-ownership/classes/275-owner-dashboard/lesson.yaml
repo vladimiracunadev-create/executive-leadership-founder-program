@@ -5,27 +5,28 @@ duration_minutes: 150
 level: "Etapa 6 — Business Owner"
 outcome: "reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir owner dashboard de cash conversion mediante evidencia observable."
-  - "Aplicar la secuencia: definir owner questions → seleccionar 10 a 15 metrics → establecer thresholds y trends → crear monthly review y exceptions → conectar a board y capital decisions."
-  - "Interpretar free cash flow, ROIC, customer concentration sin atribuir causalidad automática."
-  - "Resolver el caso de owner dashboard con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Formular las preguntas del propietario y traducirlas a métricas."
+  - "Seleccionar diez a quince indicadores con definición, fuente y responsable."
+  - "Calcular flujo de caja libre, retorno sobre el capital y concentración de clientes."
+  - "Definir umbrales, tendencias y excepciones que activan acciones."
+  - "Conectar el tablero con una revisión mensual y con decisiones de capital."
 deliverable: "board-or-executive-memo.md"
 references:
-  - "Michael E. Gerber — *The E-Myth Revisited*"
-  - "Verne Harnish — *Scaling Up*"
   - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
   - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Verne Harnish — *Scaling Up*"
   - "Reid Hoffman & Chris Yeh — *Blitzscaling*"
   - "Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*"
+  - "Michael E. Gerber — *The E-Myth Revisited*"
 limits:
-  - "Un dashboard comprime y puede ocultar detalle. Diseña drill-down y agenda de revisión; no administres exclusivamente por números sin conversaciones y auditoría."
+  - "Las métricas no prueban causalidad; un indicador en verde no garantiza que todo esté bien."
 evidence_signals:
-  - "free cash flow"
-  - "ROIC"
-  - "customer concentration"
-  - "owner dependency"
-  - "leadership coverage"
+  - "flujo de caja libre"
+  - "retorno sobre el capital invertido"
+  - "umbrales y excepciones"
+  - "decisiones de capital"

@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **governance maturity** de **advisory board** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **reserved matters** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **board cadence** con **governance threshold**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué preguntas responde el gobierno?
+2. ¿Qué son las materias reservadas?
+3. ¿Qué incluye una cadencia mínima?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Empresa familiar recibe inversión institucional minoritaria y deuda bancaria. Sigue tomando decisiones por WhatsApp sin actas ni políticas de related parties.
+**Caso:** Una empresa familiar de transporte de carga con 70 personas y ventas de 3.800 millones de pesos pertenece a un padre de 68 años (50 %) y a sus tres hijos (cada uno con 16,7 %). El padre decide casi todo; uno de los hijos es gerente general, otro dirige talleres y la tercera no trabaja en la empresa pero exige información. El padre quiere solicitar un crédito de 900 millones para comprar camiones y ha firmado garantías personales y de la empresa sin consultar. Hay un préstamo de 120 millones del padre a la empresa y arriendos de bodegas a una sociedad de uno de los hijos. No hay actas ni reuniones formales. Un competidor ofreció comprar el 30 % de la empresa. Los hijos discuten sobre cuándo el padre se retirará y sobre cómo se repartirá la propiedad.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **mapear owners y riesgos → definir reserved matters → crear reporting y cadence mínima → añadir independientes y committees al umbral → revisar governance anualmente**. Debes utilizar o diseñar cómo obtener **owner concentration, board cadence, reserved-matter compliance**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **memo ejecutivo de gobierno** que contenga: (a) el mapa de propietarios con concentración, intereses y conflictos; (b) las materias reservadas con umbrales y mayorías; (c) las reglas para transacciones con partes relacionadas y garantías; (d) la cadencia de reuniones y reportes con indicador de cumplimiento; (e) el puntaje de umbral para agregar un consejo asesor y su mandato; (f) la hoja de ruta de la sucesión y los límites del análisis, con las verificaciones legales pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Formalidad no es efectividad. Añade mecanismos cuando resuelvan agency, información o risk; elimina rituales que no mejoran decisiones.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: No hay un nivel de gobierno universal: debe ser proporcional al tamaño, la complejidad y el riesgo.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

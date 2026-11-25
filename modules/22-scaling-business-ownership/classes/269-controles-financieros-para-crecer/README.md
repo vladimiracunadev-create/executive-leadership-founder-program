@@ -10,217 +10,217 @@
 
 ## 🎯 Propósito
 
-Los controles financieros para crecer protegen caja y calidad de información mientras aumenta volumen: presupuesto, forecast, approvals, reconciliaciones, límites, working capital y reporting. La meta es permitir delegación con visibilidad, no que el owner apruebe cada gasto.
+Una empresa que crece consume caja antes de producirla: contrata antes de vender más, compra inventario antes de cobrarlo, otorga plazos a clientes antes de pagar a proveedores. Muchas empresas rentables quiebran por falta de caja, no de utilidad. En la etapa de escalamiento, el fundador debe pasar de «ver el saldo del banco» a **gestionar la información financiera como un sistema de control**: cierres mensuales confiables y rápidos, pronóstico de caja a trece semanas, reglas de aprobación de gastos, gestión de cuentas por cobrar, por pagar e inventario, y revisión sistemática de variaciones. Sin ello, las decisiones de crecer (contratar, abrir, comprar, endeudarse) se toman con información tardía o dudosa. Horowitz recuerda que los problemas de caja suelen aparecer tarde y que el peor momento para descubrirlos es cuando la empresa los necesita resueltos.
 
-La salida de esta parte es **reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **controles financieros para crecer** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase propone un conjunto mínimo de controles proporcionales al tamaño. No pretende convertir al fundador en contador: pretende que **exija información útil a tiempo y sepa leerla**. Se apoya en Harnish (rutinas y cifras clave), Horowitz (liderar en situaciones críticas, caja y decisiones difíciles), Galbraith (información y coordinación en la organización), Sutton y Rao (prácticas esenciales al escalar) y Hoffman y Yeh (tensiones del crecimiento acelerado). Al terminar sabrás diseñar un cierre mensual, construir y evaluar un pronóstico de caja a trece semanas, calcular días de cobro, inventario y pago, diseñar una matriz de aprobación y revisar variaciones y excepciones.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `financial control`, `cash forecast`, `approval matrix`, `working capital`, `management accounts` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de business owner.
-3. **Aplicar** la secuencia **1. cerrar información mensual → 2. crear 13-week cash forecast → 3. definir approval matrix → 4. gestionar AR AP e inventory → 5. revisar variances y control exceptions** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** cash forecast error, DSO, days to close sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** utilidad, caja y capital de trabajo.
+2. **Diseñar** un cierre mensual con plazo, responsables y controles.
+3. **Construir** un pronóstico de caja a trece semanas y medir su error.
+4. **Calcular** días de cobro, de inventario y de pago, y el ciclo de conversión de caja.
+5. **Definir** una matriz de aprobación proporcional y un proceso de revisión de excepciones.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define financial control y cash forecast sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con cash forecast error y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuántas semanas de caja tienes y cómo lo sabes? |
+| 20–60 min | Cierre, pronóstico, aprobaciones, cobros, pagos, inventario y variaciones. |
+| 60–105 min | Ejemplo trabajado: error de pronóstico, días de cobro y caja liberable. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **financial control** | política y evidencia que protege activos y confiabilidad | Distingue un hecho compatible y otro que lo refute. |
-| **cash forecast** | proyección de entradas y salidas para anticipar liquidez | Distingue un hecho compatible y otro que lo refute. |
-| **approval matrix** | límites de gasto y autoridad por rol | Distingue un hecho compatible y otro que lo refute. |
-| **working capital** | capital comprometido en operación corriente | Distingue un hecho compatible y otro que lo refute. |
-| **management accounts** | reporting periódico para decisión interna | Distingue un hecho compatible y otro que lo refute. |
+| **Capital de trabajo** | Recursos necesarios para operar entre pagos y cobros. | Cobros pendientes, inventario y pagos por hacer. |
+| **Pronóstico de caja a 13 semanas** | Proyección semanal de cobros y pagos para un trimestre. | Saldos por semana y supuestos. |
+| **Error de pronóstico** | Diferencia entre lo proyectado y lo real. | Porcentaje por semana. |
+| **DSO** | Días promedio que tardan en cobrarse las ventas. | Cuentas por cobrar ÷ ventas × días. |
+| **Ciclo de conversión de caja** | Días entre pagar insumos y cobrar ventas. | Días de cobro + inventario − pago. |
+| **Matriz de aprobación** | Reglas de quién autoriza qué y hasta cuánto. | Montos, roles y excepciones. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 269: 1. cerrar información mensual → 2. crear 13-week cash forecast → 3. definir approval matrix → 4. gestionar AR AP e inventory → 5. revisar variances y control exceptions](modelo-mental.svg)
+![Cadena de control financiero: cierre mensual, caja a 13 semanas, matriz de aprobación, cobros pagos e inventario, y variaciones y excepciones.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. cerrar información mensual → 2. crear 13-week cash forecast → 3. definir approval matrix → 4. gestionar AR AP e inventory → 5. revisar variances y control exceptions
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Los controles financieros para crecer protegen caja y calidad de información mientras aumenta volumen: presupuesto, forecast, approvals, reconciliaciones, límites, working capital y reporting. La meta es permitir delegación con visibilidad, no que el owner apruebe cada gasto.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Controles demasiado centralizados frenan operación. Diseña límites y monitoreo por riesgo, permitiendo decisiones locales dentro de presupuesto.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos. **Cierre mensual**: información confiable en pocos días. **Caja a 13 semanas**: pronóstico con supuestos y revisión. **Matriz de aprobación**: quién autoriza qué y hasta cuánto. **Cobros, pagos e inventario**: plazos, incobrables y existencias. **Variaciones y excepciones**: qué se desvió y por qué. La flecha de retorno indica que el error del pronóstico mejora el modelo. La nota recuerda que los controles deben ser proporcionales: demasiados frenan la ejecución y muy pocos dejan huecos; el pie, que un pronóstico sin revisión del error es una opinión.
 
 ## 📖 Desarrollo
 
-### 1. financial control: mecanismo central
+### 1. Utilidad no es caja
 
-**financial control** se entiende aquí como **política y evidencia que protege activos y confiabilidad**. Esta es la pieza causal o estructural desde la que se inicia **controles financieros para crecer**: antes de cerrar información mensual, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La **utilidad** es una medida contable de resultado en un período; la **caja** es el dinero disponible. Pueden divergir mucho. Una empresa que vende a 60 días y paga a proveedores a 30 necesita financiar 30 días de operación; si crece 40 %, necesita financiar más. El **capital de trabajo** (cuentas por cobrar más inventario menos cuentas por pagar) crece con las ventas y consume caja. Un fundador atento mira tres cifras cada semana: **saldo de caja**, **cobros y pagos de las próximas semanas** y **compromisos grandes** (remuneraciones, impuestos, cuotas de deuda, arriendos). La decisión de crecer debe incluir la pregunta: **¿cuánta caja adicional necesito y de dónde la saco?** (clase 222 sobre caja y financiamiento). Una empresa puede crecer hasta quedarse sin caja si no monitorea esta dinámica.
 
-La lectura rectora de este bloque es Michael E. Gerber — *The E-Myth Revisited*. Su aporte se usa para examinar **diferencia entre técnico, manager y empresario; sistematización del negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **cash forecast error**; regístrala con periodo, unidad, población y baseline.
+### 2. Cierre mensual confiable y rápido
 
-Relaciona el mecanismo con **cash forecast**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El **cierre mensual** convierte los movimientos del mes en información fiable: conciliaciones bancarias, documentos registrados, provisiones, estado de resultados, balance y flujo de caja. Dos indicadores simples: **días para cerrar** (cuántos días hábiles después del fin de mes se entrega la información) y **calidad** (cuántos ajustes se hacen después del cierre). Un cierre que tarda tres semanas sirve para archivar, no para decidir. Se establece un **calendario de cierre** con responsables, fechas y listas de verificación (similar a la de la clase 258), y una reunión de revisión de resultados con el fundador y los líderes. Se define qué información mínima se espera: ventas por segmento, margen de contribución, gastos por área, caja, cuentas por cobrar y por pagar, y variación frente a lo presupuestado. Galbraith destaca que las organizaciones requieren información oportuna para coordinar; el cierre es el insumo de ese sistema.
 
-### 2. cash forecast: frontera conceptual y error de clasificación
+### 3. El pronóstico de caja a trece semanas
 
-**Definición operacional:** proyección de entradas y salidas para anticipar liquidez. Su valor está en distinguirlo de **financial control** y **approval matrix**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El pronóstico de **trece semanas** (un trimestre) es la herramienta de control más útil en una empresa en crecimiento. Estructura: saldo inicial; **cobros esperados** por semana (por cliente grande o por antigüedad de cuentas por cobrar), **pagos comprometidos** (remuneraciones, proveedores, arriendos, impuestos, deuda), **pagos discrecionales** y saldo final. Se actualiza **cada semana**: se reemplaza lo proyectado por lo real y se agrega una semana nueva. Se acompaña de **supuestos explícitos** (cuándo paga cada cliente, qué pagos se pueden diferir) y de una **prueba de estrés** (cobros 20 % menores o retrasados). El valor de la herramienta está también en **medir su error**: si se proyecta una caja de 52 y la real es 41, ¿por qué? Aprender de las diferencias mejora los supuestos. Un pronóstico que nunca se compara con la realidad es una opinión.
 
-Contrasta el problema con Verne Harnish — *Scaling Up*, que aporta una mirada sobre **personas, estrategia, ejecución y caja durante el escalamiento**. Formula dos mini-casos: uno que sí satisface la definición de **cash forecast** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **DSO** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Matriz de aprobación
 
-Antes de crear 13-week cash forecast, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La **matriz de aprobación** define quién puede autorizar cada tipo de gasto o compromiso y hasta qué monto: por ejemplo, un jefe hasta cierto monto, un gerente hasta un monto mayor, dos firmas o el fundador sobre un umbral, y revisión de contratos por un asesor sobre otro. Se definen reglas para **excepciones** (urgencias, proveedores únicos), para **contratos de largo plazo** y para **gastos fuera de presupuesto**. La finalidad no es frenar, sino **asignar responsabilidad y evitar sorpresas**: el fundador deja de aprobar lo menor y concentra su atención en lo que cambia el riesgo. Harnish destaca la importancia de reglas claras para que el equipo pueda actuar rápido dentro de un marco. La matriz debe ser **simple y escrita**, y revisarse al crecer. Un exceso de aprobaciones paraliza; una ausencia de ellas expone a errores y fraudes.
 
-### 3. approval matrix: operacionalización y medición
+### 5. Cobros, pagos e inventario
 
-**approval matrix** significa **límites de gasto y autoridad por rol**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Tres indicadores de ciclo permiten gestionar el capital de trabajo. **Días de cobro (DSO)**: cuentas por cobrar ÷ ventas del período × días del período. **Días de inventario (DIO)**: inventario ÷ costo de ventas × días. **Días de pago (DPO)**: cuentas por pagar ÷ costo de ventas × días. El **ciclo de conversión de caja** es DSO + DIO − DPO: los días en que la empresa financia su operación. Acortarlo libera caja: cada día de DSO de menos equivale a un día de ventas. Se gestiona con: condiciones de pago claras, cobranza sistemática con responsables, anticipos o pagos parciales, límites de crédito por cliente, rotación y reposición de inventario basadas en datos, y negociación con proveedores. Un cliente que paga tarde es una forma de crédito sin interés; se decide con cuidado a quién se le da.
 
-Reid Hoffman & Chris Yeh — *Blitzscaling* orienta este bloque mediante **perspectiva de Escalamiento aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **days to close**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Revisar variaciones y excepciones
 
-Al llegar a definir approval matrix, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cada mes se compara lo real con el presupuesto o con el pronóstico: ventas, margen, gastos, caja. Las **variaciones** relevantes (por monto o porcentaje) se explican: ¿precio, volumen, mezcla, costo, error, evento único? Se distinguen **variaciones que requieren acción** (una tendencia) de **ruido**. Las **excepciones de control** (gastos sin aprobación, pagos duplicados, facturas atrasadas, saldos inusuales) se listan, se investigan y se resuelven, con un responsable y una fecha. Se mantiene un **registro de lecciones**. Jensen advierte, en sus estudios sobre presupuestos, que los procesos presupuestarios mal diseñados incentivan el juego de números; un buen control no castiga la mala noticia, sino que **exige que llegue temprano**. Ese principio es parte de la cultura financiera del equipo.
 
-### 4. working capital: trade-offs y efectos de segundo orden
+### 7. Proporcionalidad y cultura de control
 
-**Definición:** capital comprometido en operación corriente. Este concepto obliga a abandonar la idea de que **controles financieros para crecer** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de gestionar ar ap e inventory, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Ben Horowitz — *The Hard Thing About Hard Things* aporta una lente sobre **decisiones difíciles de CEO, organización, personas y ejecución bajo presión**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **approval exceptions** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **controles financieros para crecer**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **working capital** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. management accounts: gobernanza, límites e integración
-
-**management accounts** se define como **reporting periódico para decisión interna** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Jay R. Galbraith — *Designing Organizations* se utiliza para estudiar **alineación de estrategia, estructura, procesos, recompensas y personas** y contrastar la recomendación final. Al ejecutar revisar variances y control exceptions, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Controles demasiado centralizados frenan operación. Diseña límites y monitoreo por riesgo, permitiendo decisiones locales dentro de presupuesto.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **financial control**, **cash forecast**, **approval matrix**, **working capital** y **management accounts** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **controles financieros para crecer** no consiste en sumar cinco definiciones. Empieza por **financial control**, contrasta **cash forecast** con **approval matrix**, incorpora **working capital** como restricción o mecanismo y usa **management accounts** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. cerrar información mensual → 2. crear 13-week cash forecast → 3. definir approval matrix → 4. gestionar AR AP e inventory → 5. revisar variances y control exceptions**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Los controles tienen costo. Una empresa de 20 personas necesita menos formalidad que una de 200, pero **no necesita menos claridad**. Una regla práctica: aplicar controles más estrictos donde la **exposición** (monto y probabilidad de error o fraude) es mayor, y simplificar donde es menor. Sutton y Rao destacan que escalar implica transmitir prácticas esenciales; en finanzas, eso se traduce en pocas rutinas bien ejecutadas (cierre, pronóstico semanal, aprobaciones, cobranza) más que en muchos informes. Hoffman y Yeh muestran que el crecimiento acelerado tolera cierto desorden a cambio de velocidad, pero que la caja es un límite que no se negocia. Finalmente, el fundador da el ejemplo: respeta la matriz, lee los informes y pregunta por las variaciones.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Gerber — *The E-Myth Revisited* | diferencia entre técnico, manager y empresario; sistematización del negocio | ¿Qué supuesto de **controles financieros para crecer** ayuda a desafiar? |
-| Verne Harnish — *Scaling Up* | personas, estrategia, ejecución y caja durante el escalamiento | ¿Qué supuesto de **controles financieros para crecer** ayuda a desafiar? |
-| Reid Hoffman & Chris Yeh — *Blitzscaling* | perspectiva de Escalamiento aplicada al problema de la clase | ¿Qué supuesto de **controles financieros para crecer** ayuda a desafiar? |
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **controles financieros para crecer** ayuda a desafiar? |
-| Jay R. Galbraith — *Designing Organizations* | alineación de estrategia, estructura, procesos, recompensas y personas | ¿Qué supuesto de **controles financieros para crecer** ayuda a desafiar? |
-
-En **controles financieros para crecer**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **financial control**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Harnish | Rutinas y cifras clave de gestión. | No es manual de contabilidad. | ¿Qué cifra reviso cada semana? |
+| Horowitz | Caja y decisiones difíciles en crisis. | Enfoque de empresas tecnológicas. | ¿Qué problema de caja estoy evitando mirar? |
+| Galbraith | Información y coordinación organizacional. | No define indicadores financieros. | ¿La información llega a quien decide a tiempo? |
+| Sutton y Rao | Prácticas esenciales al escalar. | No fija controles. | ¿Qué rutina financiera debo conservar? |
+| Hoffman y Yeh | Tensión entre velocidad y control. | No es guía financiera. | ¿Cuánto desorden puedo pagar? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Al crecer a cuatro sucursales, cada gerente compra a proveedores y owner revisa extractos bancarios al final del mes. Aparecen pagos duplicados y caja se vuelve impredecible.
+**Situación (hipotética).** Una distribuidora de materiales de construcción con ventas anuales de 1.095 millones de pesos (3 millones diarios) y costo de ventas de 730 millones (2 millones diarios) quiere crecer 40 % y revisa sus controles. Todos los valores son **supuestos**.
 
-**Paso 1 — cerrar información mensual.** La gerencia escribe primero el supuesto asociado a **financial control** y evita convertirlo en hecho. Luego busca **cash forecast error** para contrastarlo en el caso de **controles financieros para crecer**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Error del pronóstico de caja (cuatro semanas, millones).**
 
-**Paso 2 — crear 13-week cash forecast.** La gerencia escribe primero el supuesto asociado a **cash forecast** y evita convertirlo en hecho. Luego busca **DSO** para contrastarlo en el caso de **controles financieros para crecer**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Semana | Proyectado | Real | Diferencia | Error porcentual |
+|---|---|---|---|---|
+| 1 | 52 | 50 | 2 | 4,0 % |
+| 2 | 48 | 41 | 7 | 17,1 % |
+| 3 | 45 | 44 | 1 | 2,3 % |
+| 4 | 40 | 31 | 9 | 29,0 % |
 
-**Paso 3 — definir approval matrix.** La gerencia escribe primero el supuesto asociado a **approval matrix** y evita convertirlo en hecho. Luego busca **days to close** para contrastarlo en el caso de **controles financieros para crecer**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+Error porcentual absoluto promedio: (4,0 + 17,1 + 2,3 + 29,0) ÷ 4 = **13,1 %**. Las semanas 2 y 4 explican la mayor parte: un cliente grande pagó 10 días tarde y una compra de inventario se adelantó. **Lectura:** el error crece cuando hay clientes grandes y compras de inventario; se agregan al pronóstico fechas de pago por cliente y calendario de compras.
 
-**Paso 4 — gestionar AR AP e inventory.** La gerencia escribe primero el supuesto asociado a **working capital** y evita convertirlo en hecho. Luego busca **approval exceptions** para contrastarlo en el caso de **controles financieros para crecer**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Indicadores de ciclo.**
 
-**Paso 5 — revisar variances y control exceptions.** La gerencia escribe primero el supuesto asociado a **management accounts** y evita convertirlo en hecho. Luego busca **working capital** para contrastarlo en el caso de **controles financieros para crecer**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Cifra | Valor |
+|---|---|
+| Cuentas por cobrar | 180 millones |
+| Inventario | 90 millones |
+| Cuentas por pagar | 54 millones |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **controles financieros para crecer**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+- DSO: 180 ÷ 1.095 × 365 = **60 días**.
+- DIO: 90 ÷ 730 × 365 = **45 días**.
+- DPO: 54 ÷ 730 × 365 = **27 días**.
+- Ciclo de conversión de caja: 60 + 45 − 27 = **78 días**.
+
+**Caja liberable con metas (DSO 48, DIO 40, DPO 30).**
+
+- Cobros: 12 días × 3 millones = **36 millones**.
+- Inventario: 5 días × 2 millones = **10 millones**.
+- Pagos: 3 días × 2 millones = **6 millones**.
+- **Total liberable: 52 millones**, y el ciclo baja a 48 + 40 − 30 = **58 días**.
+
+**Efecto del crecimiento de 40 %.** Con ventas de 1.533 millones (1.095 × 1,4) y los mismos días de cobro, inventario y pago, el capital de trabajo necesario crece en proporción: cuentas por cobrar de 252 millones (180 × 1,4), inventario de 126 y cuentas por pagar de 75,6. Capital de trabajo: 252 + 126 − 75,6 = **302,4 millones**, frente a 180 + 90 − 54 = **216 millones** hoy: **+86,4 millones de caja adicional**. Con las metas de ciclo logradas, el incremento sería menor porque los saldos se mantendrían más bajos (se verifica con el nuevo modelo). **El crecimiento de 40 % necesita financiamiento por unos 86 millones si no se mejora el ciclo.**
+
+**Matriz de aprobación (supuesta).** Compras hasta 2 millones: jefe de bodega; hasta 10 millones: gerente de operaciones; sobre 10 millones o proveedores nuevos: fundador y verificación por teléfono; contratos de más de 12 meses: revisión del asesor; pagos fuera de presupuesto: gerente y fundador.
+
+**Cierre mensual.** Hoy se cierra en 18 días hábiles con 12 ajustes posteriores. Meta: 8 días hábiles y menos de 4 ajustes. Con 8 días, el fundador revisa los resultados a mediados de mes y puede reaccionar.
+
+**Decisión.** Financiar el crecimiento con una combinación de caja liberada (hasta 52 millones con metas de DSO, DIO y DPO a 6 meses) y una línea de crédito evaluada con el banco, implementar el pronóstico semanal con error por cliente grande, adoptar la matriz de aprobación y acordar el cierre en 8 días. Revisar las metas mensualmente.
+
+**Cuidados.** Los valores son supuestos y los resultados dependen del comportamiento real de clientes y proveedores; las condiciones de crédito y las normas tributarias y laborales se verifican con asesoría.
+
+**Qué muestra.** (1) El error del pronóstico señaló dónde mejorar los supuestos. (2) El ciclo de conversión de caja dimensionó la caja liberable. (3) El crecimiento aumenta el capital de trabajo necesario.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **financial control** | política y evidencia que protege activos y confiabilidad | Cuando cash forecast error es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **cash forecast** | proyección de entradas y salidas para anticipar liquidez | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Control frente a burocracia.** El control asigna responsabilidad y detecta desvíos en lo que importa; la burocracia añade pasos sin reducir riesgo. La diferencia está en la exposición que cada control reduce.
 
-**Frontera de aplicación:** Controles demasiado centralizados frenan operación. Diseña límites y monitoreo por riesgo, permitiendo decisiones locales dentro de presupuesto.
+**Límites.** Los controles tienen costo y deben ser proporcionales. Un pronóstico mejora con la práctica pero siempre tiene error. Los indicadores de ciclo dependen de definiciones y estacionalidad. Las cifras del ejemplo son supuestos. Las normas contables y tributarias se verifican con profesionales.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre controles financieros para crecer |
+| Nivel | Cómo se relaciona con los controles financieros |
 |---|---|
-| **Profesional** | usa **controles financieros para crecer** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **financial control** y **cash forecast** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta cash forecast error con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si controles financieros para crecer cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de controles financieros para crecer reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **controles financieros para crecer** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Cumple los procedimientos de gasto y rendición. |
+| **Jefe / Team Lead** | Aprueba dentro de su límite y vigila su presupuesto. |
+| **Gerente** | Responde por variaciones, cobros y pagos de su área. |
+| **CEO / Director** | Exige cierre oportuno y pronóstico de caja, y fija la matriz de aprobación. |
+| **Founder / Owner** | Define la tolerancia al riesgo y financia el crecimiento con caja y deuda. |
 
 ## 🏢 Caso ejecutivo
 
-Al crecer a cuatro sucursales, cada gerente compra a proveedores y owner revisa extractos bancarios al final del mes. Aparecen pagos duplicados y caja se vuelve impredecible.
+Un fundador dirige una empresa de alimentos congelados para restaurantes con ventas anuales de 1.460 millones de pesos (4 millones diarios), costo de ventas de 1.022 millones (2,8 millones diarios), cuentas por cobrar de 280 millones, inventario de 140 millones y cuentas por pagar de 70 millones. Cierra el mes en 25 días, su pronóstico de caja es una planilla semanal que no actualiza, los vendedores otorgan plazos distintos sin registro, el gerente de compras aprueba pedidos sin límite y hubo un pago duplicado de 3,2 millones. Un restaurante grande que representa el 14 % de las ventas paga con 50 días de atraso. El fundador planea abrir una segunda planta con una inversión de 180 millones y crecer 35 %. La línea de crédito es de 60 millones y está usada en 45 millones.
 
-Entrega un **decision brief de controles financieros para crecer** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de decisión y modelo financiero** que contenga: (a) los indicadores DSO, DIO, DPO y ciclo de conversión con cálculo; (b) la caja liberable con metas realistas y la caja adicional que requeriría un crecimiento de 35 % si el ciclo no mejora; (c) el diseño del pronóstico de trece semanas y cómo medirá el error; (d) la matriz de aprobación y las medidas ante el pago duplicado; (e) el plan de cobranza para el cliente grande y la política de plazos; (f) los límites del análisis y las decisiones que dependen de verificación con el contador y el banco.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **controles financieros para crecer** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. cerrar información mensual → 2. crear 13-week cash forecast → 3. definir approval matrix → 4. gestionar AR AP e inventory → 5. revisar variances y control exceptions** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta cash forecast error, DSO; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula tus DSO, DIO, DPO y ciclo de conversión de caja con datos reales.
+2. Construye un pronóstico de trece semanas y mídele el error durante cuatro semanas.
+3. Define una matriz de aprobación con montos y roles para tu empresa.
+4. Calcula cuánta caja necesitaría un crecimiento de 30 % con tus indicadores actuales.
+5. Diseña un cierre mensual con calendario y lista de verificación.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar financial control y cash forecast como sinónimos | Se pierde la distinción entre “política y evidencia que protege activos y confiabilidad” y “proyección de entradas y salidas para anticipar liquidez” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar variances y control exceptions” | Se saltó “cerrar información mensual” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. cerrar información mensual → 2. crear 13-week cash forecast → 3. definir approval matrix → 4. gestionar AR AP e inventory → 5. revisar variances y control exceptions y marca el primer supuesto no demostrado. |
-| Optimizar solo cash forecast error | La métrica local sustituyó al resultado del sistema | Contrástala con DSO y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre controles financieros para crecer | Controles demasiado centralizados frenan operación. Diseña límites y monitoreo por riesgo, permitiendo decisiones locales dentro de presupuesto. |
-| No fijar revisión | Una decisión sobre controles financieros para crecer se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Confundir utilidad con caja | Se mira solo el resultado | Pronóstico de caja y capital de trabajo. |
+| Cierre tardío | Falta proceso | Calendario, responsables y meta de días. |
+| Pronóstico sin medición del error | Se supone exacto | Comparar con la realidad cada semana. |
+| Aprobar todo o no aprobar nada | Falta de reglas | Matriz simple y escrita. |
+| Plazos de pago sin política | Cada vendedor decide | Condiciones estándar y límites por cliente. |
+| Crecer sin financiar el capital de trabajo | Se piensa en ventas | Calcular la caja adicional del crecimiento. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **financial control** y **cash forecast** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **approval matrix** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **cerrar información mensual → crear 13-week cash forecast** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **cash forecast error** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **controles financieros para crecer**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Controles demasiado centralizados frenan operación. Diseña límites y monitoreo por riesgo, permitiendo decisiones locales dentro de presupuesto.**?
+1. ¿Por qué la utilidad no equivale a la caja?
+2. ¿Qué mide el ciclo de conversión de caja?
+3. ¿Cómo se calcula el DSO?
+4. ¿Para qué se mide el error del pronóstico?
+5. ¿Qué define una matriz de aprobación?
+6. ¿Cómo afecta crecer al capital de trabajo?
+7. ¿Qué límite tienen los controles?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Porque cobros y pagos ocurren en momentos distintos del resultado contable y el capital de trabajo consume caja.
+2. Los días en que la empresa financia su operación: días de cobro más inventario menos pago.
+3. Cuentas por cobrar divididas por ventas del período, multiplicadas por los días del período.
+4. Para entender las diferencias y mejorar los supuestos del pronóstico.
+5. Quién autoriza qué tipo de gasto y hasta qué monto, y cómo se tratan las excepciones.
+6. Aumenta en proporción a las ventas si los ciclos se mantienen, y exige financiamiento adicional.
+7. Tienen costo, deben ser proporcionales y no eliminan el error ni el riesgo.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/269-controles-financieros-para-crecer/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **controles financieros para crecer**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **controles financieros para crecer** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **financial control**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Al crecer a cuatro sucursales, cada gerente compra a proveedores y owner revisa extractos bancarios al final del mes. Aparecen pagos duplicados y caja se vuelve impredecible.** y el dato que podría invalidar la recomendación.
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el memo y los cálculos del caso ejecutivo;
+- `cash-runway.md` (plantilla [Cash runway](../../../../templates/cash-runway.md)) con el pronóstico de trece semanas;
+- `decision-journal.md` con la matriz de aprobación y el calendario de cierre.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** diferencia entre técnico, manager y empresario; sistematización del negocio. Lectura selectiva sobre **controles financieros para crecer**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
-- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** personas, estrategia, ejecución y caja durante el escalamiento. Lectura selectiva sobre **controles financieros para crecer**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
-- Reid Hoffman & Chris Yeh — *Blitzscaling* (HarperCollins Publishers Limited, 2018). **Uso en esta clase:** perspectiva de Escalamiento aplicada al problema de la clase. Lectura selectiva sobre **controles financieros para crecer**. **Localizador:** [ISBN-13 9780008303648](https://openlibrary.org/isbn/9780008303648).
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **controles financieros para crecer**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** alineación de estrategia, estructura, procesos, recompensas y personas. Lectura selectiva sobre **controles financieros para crecer**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
-- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** cómo propagar excelencia sin multiplicar burocracia y daño. Lectura selectiva sobre **controles financieros para crecer**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **controles financieros para crecer** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **controles financieros para crecer**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **controles financieros para crecer** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **controles financieros para crecer** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **controles financieros para crecer** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** rutinas y cifras clave de gestión para crecer. Lectura selectiva sobre **controles financieros para crecer**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
+- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** caja y decisiones difíciles en empresas en crecimiento. Lectura selectiva sobre **controles financieros para crecer**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
+- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** información y coordinación en la organización. Lectura selectiva sobre **controles financieros para crecer**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
+- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** prácticas esenciales al escalar. Lectura selectiva sobre **controles financieros para crecer**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
+- Reid Hoffman & Chris Yeh — *Blitzscaling* (HarperCollins Publishers Limited, 2018). **Uso en esta clase:** tensión entre velocidad y control en el crecimiento. Lectura selectiva sobre **controles financieros para crecer**. **Localizador:** [ISBN-13 9780008303648](https://openlibrary.org/isbn/9780008303648).
+- Michael C. Jensen — *Paying People to Lie: the Truth about the Budgeting Process* (European Financial Management, 2003). **Uso en esta clase:** incentivos y presupuestos que distorsionan la información. Lectura selectiva sobre **controles financieros para crecer**. **Localizador:** [DOI 10.1111/1468-036x.00226](https://doi.org/10.1111/1468-036x.00226).
+- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** sistemas que sostienen la empresa sin el fundador. Lectura selectiva sobre **controles financieros para crecer**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
 
-> **Regla de fuentes para Controles financieros para crecer:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **controles financieros para crecer** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Controles financieros para crecer:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas contables y tributarias. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

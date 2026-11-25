@@ -10,217 +10,201 @@
 
 ## 🎯 Propósito
 
-Gobierno proporcional al tamaño evoluciona desde founders y advisors hacia board más formal, políticas, committees y reporting cuando aumentan owners, deuda, regulación y complejidad. Copiar governance de una cotizada en una pyme puede ser costoso; no tenerlo puede concentrar riesgos.
+«Gobierno corporativo» suena a sala de directorio de una gran empresa, con comités, auditores y actas. En una empresa de cuarenta personas, con tres socios y un fundador que decide casi todo, parece una exageración. Sin embargo, el **gobierno** es sencillamente el sistema que responde tres preguntas: **¿quién decide qué?, ¿a quién rinde cuentas cada decisor?, ¿cómo se resuelven los desacuerdos?** Toda empresa tiene gobierno, explícito o implícito. Cuando es implícito, funciona mientras el fundador manda y todos están de acuerdo; falla cuando entra un socio, se retira un familiar, se pide un crédito grande, se enferma el fundador o hay una oferta de compra. La pregunta útil no es «¿necesito un directorio?» sino **«¿qué nivel de gobierno corresponde al tamaño, la complejidad y el riesgo de mi empresa hoy, y cuándo debería cambiar?»**
 
-La salida de esta parte es **reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **gobierno proporcional al tamaño** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase propone un gobierno por niveles: dueño con reglas escritas, reuniones y reportes mínimos, asesores independientes y, finalmente, directorio con comités. Se apoya en los Principios de Gobierno Corporativo de la OECD y el G20 (derechos de los accionistas, responsabilidades del directorio, transparencia), en Drucker (la gestión y el rol del directorio), en Gil (cómo evoluciona el gobierno en empresas de crecimiento), en Harnish (cadencia de reuniones), en Sutton y Rao (escalar prácticas esenciales) y en Gerber. Al terminar sabrás mapear propietarios y riesgos, definir materias reservadas, diseñar una cadencia mínima de reuniones y reportes, decidir cuándo agregar asesores independientes y revisar el gobierno cada año.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `governance maturity`, `advisory board`, `reserved matters`, `board cadence`, `governance threshold` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de business owner.
-3. **Aplicar** la secuencia **1. mapear owners y riesgos → 2. definir reserved matters → 3. crear reporting y cadence mínima → 4. añadir independientes y committees al umbral → 5. revisar governance anualmente** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** owner concentration, board cadence, reserved-matter compliance sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** propiedad, dirección y gestión.
+2. **Mapear** propietarios, riesgos y conflictos posibles.
+3. **Definir** materias reservadas y reglas de decisión escritas.
+4. **Diseñar** una cadencia mínima de reuniones, informes y actas.
+5. **Decidir** cuándo incorporar asesores independientes y comités.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define governance maturity y advisory board sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con owner concentration y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué decisiones de tu empresa no podría tomar solo el fundador y quién lo dice? |
+| 20–60 min | Tres funciones, riesgos, materias reservadas, cadencia, independientes, comités y revisión anual. |
+| 60–105 min | Ejemplo trabajado: concentración de propiedad, cumplimiento de la cadencia y puntaje de umbral. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **governance maturity** | grado de formalización adecuado a ownership y complejidad | Distingue un hecho compatible y otro que lo refute. |
-| **advisory board** | grupo sin las mismas facultades legales de un directorio formal que aporta consejo | Distingue un hecho compatible y otro que lo refute. |
-| **reserved matters** | decisiones que propietarios o board retienen | Distingue un hecho compatible y otro que lo refute. |
-| **board cadence** | frecuencia y agenda regular de governance | Distingue un hecho compatible y otro que lo refute. |
-| **governance threshold** | evento de escala o riesgo que justifica mayor formalización | Distingue un hecho compatible y otro que lo refute. |
+| **Gobierno** | Sistema que define quién decide, quién rinde cuentas y cómo se resuelven desacuerdos. | Reglas y reuniones. |
+| **Materias reservadas** | Decisiones que requieren aprobación de los propietarios o del directorio. | Lista escrita con umbrales. |
+| **Cadencia** | Calendario de reuniones, informes y revisiones. | Fechas, actas y paquetes. |
+| **Asesor o director independiente** | Persona sin vínculos que sesguen su juicio. | Ausencia de conflicto relevante. |
+| **Concentración de propiedad** | Grado en que pocos propietarios controlan la empresa. | Porcentajes y derechos. |
+| **Comité** | Grupo con mandato específico (por ejemplo, auditoría). | Mandato, miembros y agenda. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 270: 1. mapear owners y riesgos → 2. definir reserved matters → 3. crear reporting y cadence mínima → 4. añadir independientes y committees al umbral → 5. revisar governance anualmente](modelo-mental.svg)
+![Cuatro niveles de gobierno proporcional al tamaño: dueño con reglas, reuniones y reporte mínimo, asesores independientes y directorio con comités.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear owners y riesgos → 2. definir reserved matters → 3. crear reporting y cadence mínima → 4. añadir independientes y committees al umbral → 5. revisar governance anualmente
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Gobierno proporcional al tamaño evoluciona desde founders y advisors hacia board más formal, políticas, committees y reporting cuando aumentan owners, deuda, regulación y complejidad. Copiar governance de una cotizada en una pyme puede ser costoso; no tenerlo puede concentrar riesgos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Formalidad no es efectividad. Añade mecanismos cuando resuelvan agency, información o risk; elimina rituales que no mejoran decisiones.**
+**Cómo leer el diagrama.** Una escalera de cuatro niveles. **Dueño con reglas**: decisiones reservadas y límites escritos. **Reuniones y reporte mínimo**: cadencia, actas y tablero simple. **Asesores independientes**: voz externa sin voto o con voto limitado. **Directorio con comités**: independientes, auditoría y compensación. La nota advierte que no se copia el gobierno de una gran empresa en una pyme y que se agregan capas cuando el tamaño, la complejidad o la concentración de propiedad lo justifican; el pie, que el gobierno se revisa al menos una vez al año.
 
 ## 📖 Desarrollo
 
-### 1. governance maturity: mecanismo central
+### 1. Propiedad, dirección y gestión
 
-**governance maturity** se entiende aquí como **grado de formalización adecuado a ownership y complejidad**. Esta es la pieza causal o estructural desde la que se inicia **gobierno proporcional al tamaño**: antes de mapear owners y riesgos, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La **propiedad** pertenece a quienes aportaron capital y asumen el riesgo residual; la **dirección** define el rumbo, aprueba las decisiones estratégicas y supervisa a la gestión; la **gestión** ejecuta el día a día. En una empresa pequeña, las tres funciones se concentran en una persona o en pocas. Eso no es un problema en sí, pero **confunde las responsabilidades**: ¿el fundador decide como dueño, como director o como gerente? Los Principios de la OECD y el G20 destacan que un buen gobierno protege los derechos de los accionistas, asegura un trato equitativo, define responsabilidades del órgano de dirección y garantiza transparencia. Aunque están pensados para sociedades abiertas, sus ideas se **aplican proporcionalmente** a empresas cerradas: reglas claras, información fiable, rendición de cuentas y manejo de conflictos.
 
-La lectura rectora de este bloque es Michael E. Gerber — *The E-Myth Revisited*. Su aporte se usa para examinar **diferencia entre técnico, manager y empresario; sistematización del negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **owner concentration**; regístrala con periodo, unidad, población y baseline.
+### 2. Mapear propietarios y riesgos
 
-Relaciona el mecanismo con **advisory board**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El primer paso es un mapa: **quiénes son los propietarios** (porcentajes, derechos, si trabajan o no en la empresa, si hay familiares), **qué intereses pueden diverger** (reinvertir o repartir utilidades, vender o conservar, crecer o mantener, contratar a familiares), y **qué riesgos de gobierno existen**: decisiones concentradas en una persona, desacuerdos sin mecanismo de solución, falta de información para propietarios no operativos, endeudamiento sin aprobación, transacciones con partes relacionadas, ausencia de reglas de salida o sucesión. Jensen y Meckling explican que la separación entre propiedad y gestión crea **costos de agencia**: los gestores pueden no actuar en el mejor interés de los propietarios; Fama y Jensen analizan cómo los sistemas de decisión controlan esos problemas. Incluso en empresas pequeñas, un socio que no gestiona necesita información y reglas.
 
-### 2. advisory board: frontera conceptual y error de clasificación
+### 3. Materias reservadas y reglas de decisión
 
-**Definición operacional:** grupo sin las mismas facultades legales de un directorio formal que aporta consejo. Su valor está en distinguirlo de **governance maturity** y **reserved matters**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Las **materias reservadas** son las decisiones que no puede tomar solo la gestión o el fundador, sino que requieren la aprobación de los propietarios o del directorio. Ejemplos de categorías: **cambios en la estructura** (entrada de nuevos socios, fusiones, venta), **capital y deuda** (aportes, endeudamiento sobre un monto, garantías), **inversiones y compromisos grandes**, **transacciones con partes relacionadas**, **contratación y remuneración de ejecutivos clave**, **distribución de utilidades**, **cambios estratégicos** y **apertura o cierre de líneas**. Se definen **umbrales** (montos o porcentajes) y la **mayoría** requerida. La lista es breve y escrita, y se incorpora a los estatutos o a un pacto de socios con asesoría legal (clase 251 y la parte 21 para el marco societario chileno). Las reglas dan **predictibilidad** y protegen a minoritarios y mayoritarios.
 
-Contrasta el problema con Verne Harnish — *Scaling Up*, que aporta una mirada sobre **personas, estrategia, ejecución y caja durante el escalamiento**. Formula dos mini-casos: uno que sí satisface la definición de **advisory board** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **board cadence** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Cadencia mínima y reportes
 
-Antes de definir reserved matters, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El gobierno vive en una **cadencia**: reuniones con fechas fijas, agenda, información previa y actas con decisiones y responsables. Para una empresa pequeña, una reunión de propietarios cada trimestre y una reunión mensual de seguimiento con un tablero simple suelen bastar; una reunión anual de revisión de estrategia, presupuesto y gobierno completa el ciclo. El **paquete de información** (resultados, caja, indicadores, riesgos, decisiones pendientes) se envía con anticipación. Harnish enfatiza que las rutinas regulares de reunión y revisión permiten decidir con base en datos. Las **actas** registran lo decidido, no una transcripción: qué se aprobó, quién responde y cuándo. Una cadencia que se cumple vale más que un directorio sofisticado que no se reúne. El indicador básico es **qué porcentaje de las reuniones planificadas se realizó**.
 
-### 3. reserved matters: operacionalización y medición
+### 5. Cuándo agregar voces independientes
 
-**reserved matters** significa **decisiones que propietarios o board retienen**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un **asesor independiente** (o consejo asesor) aporta experiencia y objetividad sin los vínculos que sesgan el juicio de socios y gerentes; puede ayudar en estrategia, finanzas, gobierno o industria. Se considera cuando se da alguna de estas condiciones: **propietarios no operativos** que necesitan una voz neutral; **conflictos** entre socios o familiares; **endeudamiento relevante**; **proyectos de inversión grandes**; **preparación para ingresar capital externo o vender**; **complejidad** de varias unidades (clase 271). Gil describe cómo, en empresas que crecen, los directorios pasan de ser un trámite a una herramienta de ayuda al fundador. Se define el **mandato** (asesorar, con o sin voto), la **frecuencia**, la **remuneración**, la **confidencialidad** y el procedimiento de **conflictos de interés**. Un asesor de papel, sin información real, no cumple su función.
 
-Elad Gil — *High Growth Handbook* orienta este bloque mediante **perspectiva de Escalamiento aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **reserved-matter compliance**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Comités, directorio e independientes
 
-Al llegar a crear reporting y cadence mínima, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Con mayor tamaño o complejidad, se formaliza un **directorio** con responsabilidades definidas (aprobar estrategia y presupuesto, supervisar a la gestión, nombrar y evaluar al CEO, aprobar transacciones relevantes) y, cuando corresponda, **comités** (auditoría y riesgos, compensación, nominaciones) con **directores independientes**. Los principios de la OECD ofrecen referencias sobre composición, independencia, evaluación y transparencia. El **costo** del gobierno (tiempo, honorarios, preparación, formalidades) crece con el nivel; por eso se **escala por umbrales** y no por moda. En las sociedades de ciertos tipos, la ley impone estructuras y deberes específicos que se verifican con asesoría legal y fuentes oficiales; esta clase no los interpreta. Los comités deben tener mandato, información suficiente y agenda anual.
 
-### 4. board cadence: trade-offs y efectos de segundo orden
+### 7. Revisar el gobierno cada año
 
-**Definición:** frecuencia y agenda regular de governance. Este concepto obliga a abandonar la idea de que **gobierno proporcional al tamaño** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de añadir independientes y committees al umbral, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* aporta una lente sobre **responsabilidad gerencial, propósito, organización y resultados**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **related-party issues** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **gobierno proporcional al tamaño**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **board cadence** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. governance threshold: gobernanza, límites e integración
-
-**governance threshold** se define como **evento de escala o riesgo que justifica mayor formalización** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-OECD — *G20/OECD Principles of Corporate Governance 2023* se utiliza para estudiar **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno** y contrastar la recomendación final. Al ejecutar revisar governance anualmente, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Formalidad no es efectividad. Añade mecanismos cuando resuelvan agency, información o risk; elimina rituales que no mejoran decisiones.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **governance maturity**, **advisory board**, **reserved matters**, **board cadence** y **governance threshold** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **gobierno proporcional al tamaño** no consiste en sumar cinco definiciones. Empieza por **governance maturity**, contrasta **advisory board** con **reserved matters**, incorpora **board cadence** como restricción o mecanismo y usa **governance threshold** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear owners y riesgos → 2. definir reserved matters → 3. crear reporting y cadence mínima → 4. añadir independientes y committees al umbral → 5. revisar governance anualmente**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El gobierno se **evalúa** una vez al año con preguntas simples: ¿se cumplió la cadencia?, ¿se respetaron las materias reservadas?, ¿llegó la información a tiempo?, ¿se resolvieron los desacuerdos sin dañar la relación?, ¿hay propietarios o gestores con conflictos no declarados?, ¿cambió el tamaño, el riesgo o la propiedad de modo que el nivel actual ya no es adecuado? Se documentan los cambios y se actualizan reglas y pactos. Drucker advierte que los órganos de dirección tienden a ser ceremoniales si no tienen una función clara; el objetivo es que el gobierno **ayude a decidir mejor y a proteger** la empresa y a sus propietarios, no a producir papeles. Y se recuerda que las reglas legales aplicables al tipo societario y al caso se consultan con asesoría.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Gerber — *The E-Myth Revisited* | diferencia entre técnico, manager y empresario; sistematización del negocio | ¿Qué supuesto de **gobierno proporcional al tamaño** ayuda a desafiar? |
-| Verne Harnish — *Scaling Up* | personas, estrategia, ejecución y caja durante el escalamiento | ¿Qué supuesto de **gobierno proporcional al tamaño** ayuda a desafiar? |
-| Elad Gil — *High Growth Handbook* | perspectiva de Escalamiento aplicada al problema de la clase | ¿Qué supuesto de **gobierno proporcional al tamaño** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **gobierno proporcional al tamaño** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **gobierno proporcional al tamaño** ayuda a desafiar? |
-
-En **gobierno proporcional al tamaño**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **governance maturity**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| OECD y G20 (principios de gobierno corporativo) | Marco de derechos, responsabilidades y transparencia. | Pensado para sociedades abiertas. | ¿Qué principio aplica proporcionalmente a mi empresa? |
+| Jensen y Meckling; Fama y Jensen | Costos de agencia y control de las decisiones. | Teoría, no guía práctica. | ¿Qué conflicto de intereses existe entre mis socios y gestores? |
+| Drucker | Función real del órgano de dirección. | No es guía legal. | ¿Mi directorio cumple una función o es ceremonial? |
+| Gil | Evolución del gobierno en empresas que crecen. | Enfoque de empresas de crecimiento. | ¿Qué cambio de gobierno me toca ahora? |
+| Harnish | Cadencia de reuniones y rutinas. | No trata conflictos de propiedad. | ¿Qué reunión regular me falta? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Empresa familiar recibe inversión institucional minoritaria y deuda bancaria. Sigue tomando decisiones por WhatsApp sin actas ni políticas de related parties.
+**Situación (hipotética).** Una empresa de ingeniería con 45 personas y ventas de 2.400 millones de pesos tiene tres propietarios: Marta (60 %, gerente general), Iván (25 %, gerente de proyectos) y un inversionista pasivo, Julián (15 %). Quieren definir su gobierno. Los números son **supuestos**.
 
-**Paso 1 — mapear owners y riesgos.** La gerencia escribe primero el supuesto asociado a **governance maturity** y evita convertirlo en hecho. Luego busca **owner concentration** para contrastarlo en el caso de **gobierno proporcional al tamaño**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Concentración de propiedad.** Índice de concentración (suma de cuadrados de las participaciones): 0,60² + 0,25² + 0,15² = 0,36 + 0,0625 + 0,0225 = **0,445**. Número efectivo de propietarios: 1 ÷ 0,445 = **2,25**. Marta controla por sí sola la mayoría simple (60 %); para decisiones que exijan una mayoría reforzada de dos tercios (66,7 %), necesita a Iván (85 %) o a Julián (75 %). **Las reglas de mayoría importan tanto como los porcentajes.**
 
-**Paso 2 — definir reserved matters.** La gerencia escribe primero el supuesto asociado a **advisory board** y evita convertirlo en hecho. Luego busca **board cadence** para contrastarlo en el caso de **gobierno proporcional al tamaño**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Materias reservadas propuestas (con umbral).** Entrada de nuevos socios o venta (unanimidad); endeudamiento sobre 300 millones o garantías sobre los activos (mayoría reforzada de dos tercios); inversiones sobre 150 millones (mayoría simple con voto de Julián o de Iván); transacciones con partes relacionadas (aprobación sin voto del interesado); distribución de utilidades (mayoría simple según política); contratación del gerente general (mayoría reforzada).
 
-**Paso 3 — crear reporting y cadence mínima.** La gerencia escribe primero el supuesto asociado a **reserved matters** y evita convertirlo en hecho. Luego busca **reserved-matter compliance** para contrastarlo en el caso de **gobierno proporcional al tamaño**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cadencia propuesta.** Reunión de propietarios cada trimestre (4), reunión mensual de seguimiento con tablero (12) y revisión anual de estrategia y gobierno (1): **17 reuniones al año**. El año anterior se realizaron 11: cumplimiento = 11 ÷ 17 = **64,7 %**. Se fijan fechas con anticipación, paquete de información cinco días antes y actas en una semana.
 
-**Paso 4 — añadir independientes y committees al umbral.** La gerencia escribe primero el supuesto asociado a **board cadence** y evita convertirlo en hecho. Luego busca **related-party issues** para contrastarlo en el caso de **gobierno proporcional al tamaño**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Puntaje para agregar un asesor independiente (criterio interno).**
 
-**Paso 5 — revisar governance anualmente.** La gerencia escribe primero el supuesto asociado a **governance threshold** y evita convertirlo en hecho. Luego busca **decision quality** para contrastarlo en el caso de **gobierno proporcional al tamaño**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Condición | Puntos | ¿Se cumple? | Puntos obtenidos |
+|---|---|---|---|
+| Propietarios no operativos | 1 | Sí (Julián) | 1 |
+| Ventas anuales sobre 1.500 millones | 1 | Sí | 1 |
+| Deuda externa sobre 30 % de las ventas anuales | 1 | No (18 %) | 0 |
+| Riesgo de conflicto entre socios | 1 | Sí | 1 |
+| Preparación para ingresar capital externo o vender | 2 | Sí (plan a 18 meses) | 2 |
+| **Total** | **6 posibles** | | **5** |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **gobierno proporcional al tamaño**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+El umbral interno para agregar un asesor independiente es 3 puntos: **se supera con holgura**. Mandato propuesto: consejo asesor de dos personas independientes, sin voto en las materias reservadas, cuatro sesiones al año, con honorarios de 1,5 millones por sesión y por asesor: 2 × 4 × 1,5 = **12 millones al año**, equivalente al **0,5 %** de las ventas (12 ÷ 2.400).
+
+**Cumplimiento de materias reservadas.** El año anterior hubo 14 decisiones que habrían sido materias reservadas; 11 siguieron un proceso formal de aprobación: 11 ÷ 14 = **78,6 %**. Las tres restantes (un anticipo a un proveedor relacionado, una garantía y una contratación) se revisarán y ratificarán o corregirán, con registro del aprendizaje.
+
+**Decisión.** Adoptar el gobierno de nivel 3 (asesores independientes) con un pacto de socios revisado por un abogado, definir las materias reservadas y la cadencia, designar a una persona responsable de actas y paquetes, y evaluar el gobierno a los doce meses. Considerar un directorio con comités solo si se incorpora capital externo o la deuda supera el umbral.
+
+**Cuidados.** El puntaje y los umbrales son criterios internos; los requisitos legales del tipo societario se verifican con asesoría y fuentes oficiales.
+
+**Qué muestra.** (1) La concentración de propiedad y las mayorías definen el poder real. (2) La cadencia se mide con un porcentaje de cumplimiento. (3) El puntaje de umbral ayuda a decidir el nivel de gobierno con criterio y costo explícitos.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **governance maturity** | grado de formalización adecuado a ownership y complejidad | Cuando owner concentration es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **advisory board** | grupo sin las mismas facultades legales de un directorio formal que aporta consejo | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Gobierno frente a gestión.** El gobierno define reglas, supervisa y decide lo reservado; la gestión ejecuta. Confundirlos genera dos problemas: gestores sin control o dueños que se meten en cada detalle.
 
-**Frontera de aplicación:** Formalidad no es efectividad. Añade mecanismos cuando resuelvan agency, información o risk; elimina rituales que no mejoran decisiones.
+**Límites.** No hay un nivel de gobierno universal: debe ser proporcional al tamaño, la complejidad y el riesgo. Un exceso de formalidad es costoso y desmotiva; su ausencia expone a conflictos. Las obligaciones legales según tipo societario se consultan con asesoría y fuentes oficiales. Los puntajes y cifras del ejemplo son criterios y supuestos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre gobierno proporcional al tamaño |
+| Nivel | Cómo se relaciona con el gobierno |
 |---|---|
-| **Profesional** | usa **gobierno proporcional al tamaño** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **governance maturity** y **advisory board** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta owner concentration con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si gobierno proporcional al tamaño cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de gobierno proporcional al tamaño reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **gobierno proporcional al tamaño** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Cumple las políticas y entiende quién autoriza qué. |
+| **Jefe / Team Lead** | Reporta información fiable a su línea. |
+| **Gerente** | Prepara los informes y ejecuta las decisiones del directorio. |
+| **CEO / Director** | Responde ante los propietarios y conduce la cadencia. |
+| **Founder / Owner** | Diseña las reglas, acepta límites a su propio poder y revisa el gobierno cada año. |
 
 ## 🏢 Caso ejecutivo
 
-Empresa familiar recibe inversión institucional minoritaria y deuda bancaria. Sigue tomando decisiones por WhatsApp sin actas ni políticas de related parties.
+Una empresa familiar de transporte de carga con 70 personas y ventas de 3.800 millones de pesos pertenece a un padre de 68 años (50 %) y a sus tres hijos (cada uno con 16,7 %). El padre decide casi todo; uno de los hijos es gerente general, otro dirige talleres y la tercera no trabaja en la empresa pero exige información. El padre quiere solicitar un crédito de 900 millones para comprar camiones y ha firmado garantías personales y de la empresa sin consultar. Hay un préstamo de 120 millones del padre a la empresa y arriendos de bodegas a una sociedad de uno de los hijos. No hay actas ni reuniones formales. Un competidor ofreció comprar el 30 % de la empresa. Los hijos discuten sobre cuándo el padre se retirará y sobre cómo se repartirá la propiedad.
 
-Entrega un **decision brief de gobierno proporcional al tamaño** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo ejecutivo de gobierno** que contenga: (a) el mapa de propietarios con concentración, intereses y conflictos; (b) las materias reservadas con umbrales y mayorías; (c) las reglas para transacciones con partes relacionadas y garantías; (d) la cadencia de reuniones y reportes con indicador de cumplimiento; (e) el puntaje de umbral para agregar un consejo asesor y su mandato; (f) la hoja de ruta de la sucesión y los límites del análisis, con las verificaciones legales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **gobierno proporcional al tamaño** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear owners y riesgos → 2. definir reserved matters → 3. crear reporting y cadence mínima → 4. añadir independientes y committees al umbral → 5. revisar governance anualmente** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta owner concentration, board cadence; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Construye el mapa de propietarios de tu empresa con porcentajes, roles e intereses.
+2. Escribe diez materias reservadas con umbrales y la mayoría requerida.
+3. Diseña un calendario anual de reuniones y mide el cumplimiento del año anterior.
+4. Aplica un puntaje de umbral para decidir si agregas un asesor independiente.
+5. Redacta cinco preguntas para la revisión anual del gobierno.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar governance maturity y advisory board como sinónimos | Se pierde la distinción entre “grado de formalización adecuado a ownership y complejidad” y “grupo sin las mismas facultades legales de un directorio formal que aporta consejo” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar governance anualmente” | Se saltó “mapear owners y riesgos” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear owners y riesgos → 2. definir reserved matters → 3. crear reporting y cadence mínima → 4. añadir independientes y committees al umbral → 5. revisar governance anualmente y marca el primer supuesto no demostrado. |
-| Optimizar solo owner concentration | La métrica local sustituyó al resultado del sistema | Contrástala con board cadence y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre gobierno proporcional al tamaño | Formalidad no es efectividad. Añade mecanismos cuando resuelvan agency, información o risk; elimina rituales que no mejoran decisiones. |
-| No fijar revisión | Una decisión sobre gobierno proporcional al tamaño se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Copiar un directorio de empresa grande | Se imita la forma | Escalar por umbrales de tamaño y riesgo. |
+| Decisiones reservadas implícitas | Se confía en la buena fe | Lista escrita con umbrales. |
+| Sin información para propietarios no operativos | Se supone que no la necesitan | Paquete periódico y reuniones. |
+| Asesores sin información | Se busca el nombre | Mandato, acceso y agenda. |
+| Transacciones con partes relacionadas sin control | Se ven como normales | Aprobación sin voto del interesado y registro. |
+| No revisar | Se supone que basta con haberlo hecho | Revisión anual del gobierno. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **governance maturity** y **advisory board** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **reserved matters** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear owners y riesgos → definir reserved matters** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **owner concentration** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **gobierno proporcional al tamaño**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Formalidad no es efectividad. Añade mecanismos cuando resuelvan agency, información o risk; elimina rituales que no mejoran decisiones.**?
+1. ¿Qué preguntas responde el gobierno?
+2. ¿Qué son las materias reservadas?
+3. ¿Qué incluye una cadencia mínima?
+4. ¿Cuándo se agrega un asesor independiente?
+5. ¿Por qué importan las mayorías además de los porcentajes?
+6. ¿Qué es un costo de agencia?
+7. ¿Qué límite tiene el gobierno proporcional?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Quién decide qué, a quién rinde cuentas cada decisor y cómo se resuelven desacuerdos.
+2. Decisiones que requieren aprobación de propietarios o directorio, con umbrales y mayoría.
+3. Reuniones con fechas fijas, información previa, actas con responsables y una revisión anual.
+4. Con propietarios no operativos, conflictos, deuda relevante, proyectos grandes, ventas o ingreso de capital.
+5. Porque definen quién puede aprobar o bloquear decisiones importantes.
+6. La pérdida que surge cuando los gestores no actúan en el mejor interés de los propietarios.
+7. No hay nivel universal; el exceso de formalidad cuesta y la ausencia expone a conflictos, y las obligaciones legales se verifican con asesoría.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/270-gobierno-proporcional-al-tamano/`:
 
-- `board-or-executive-memo.md` con el problema específico de **gobierno proporcional al tamaño**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **gobierno proporcional al tamaño** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **governance maturity**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Empresa familiar recibe inversión institucional minoritaria y deuda bancaria. Sigue tomando decisiones por WhatsApp sin actas ni políticas de related parties.** y el dato que podría invalidar la recomendación.
+- `board-or-executive-memo.md` (plantilla [Board or executive memo](../../../../templates/board-or-executive-memo.md)) con el memo ejecutivo del caso;
+- `decision-journal.md` con las materias reservadas, la cadencia y la revisión anual.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** diferencia entre técnico, manager y empresario; sistematización del negocio. Lectura selectiva sobre **gobierno proporcional al tamaño**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
-- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** personas, estrategia, ejecución y caja durante el escalamiento. Lectura selectiva sobre **gobierno proporcional al tamaño**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
-- Elad Gil — *High Growth Handbook* (Stripe Matter Inc, 2018). **Uso en esta clase:** perspectiva de Escalamiento aplicada al problema de la clase. Lectura selectiva sobre **gobierno proporcional al tamaño**. **Localizador:** [ISBN-13 9781953953377](https://openlibrary.org/isbn/9781953953377).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **gobierno proporcional al tamaño**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** cómo propagar excelencia sin multiplicar burocracia y daño. Lectura selectiva sobre **gobierno proporcional al tamaño**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **gobierno proporcional al tamaño** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **gobierno proporcional al tamaño**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **gobierno proporcional al tamaño** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **gobierno proporcional al tamaño** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **gobierno proporcional al tamaño** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** principios de gobierno corporativo y responsabilidades de la dirección. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
+- Michael C. Jensen & William H. Meckling — *Theory of the firm: Managerial behavior, agency costs and ownership structure* (Journal of Financial Economics, 1976). **Uso en esta clase:** costos de agencia y estructura de propiedad. Lectura selectiva sobre **gobierno proporcional al tamaño**. **Localizador:** [DOI 10.1016/0304-405X(76)90026-X](https://doi.org/10.1016/0304-405X(76)90026-X).
+- Eugene F. Fama & Michael C. Jensen — *Separation of Ownership and Control* (The Journal of Law and Economics, 1983). **Uso en esta clase:** control de las decisiones cuando se separan propiedad y gestión. Lectura selectiva sobre **gobierno proporcional al tamaño**. **Localizador:** [DOI 10.1086/467037](https://doi.org/10.1086/467037).
+- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** función real del órgano de dirección. Lectura selectiva sobre **gobierno proporcional al tamaño**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
+- Elad Gil — *High Growth Handbook* (Stripe Matter Inc, 2018). **Uso en esta clase:** evolución del gobierno en empresas que crecen. Lectura selectiva sobre **gobierno proporcional al tamaño**. **Localizador:** [ISBN-13 9781953953377](https://openlibrary.org/isbn/9781953953377).
+- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** cadencia de reuniones y rutinas de gestión. Lectura selectiva sobre **gobierno proporcional al tamaño**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
+- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** prácticas esenciales al escalar. Lectura selectiva sobre **gobierno proporcional al tamaño**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
+- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** el fundador y el sistema que lo reemplaza. Lectura selectiva sobre **gobierno proporcional al tamaño**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
 
-> **Regla de fuentes para Gobierno proporcional al tamaño:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **gobierno proporcional al tamaño** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Gobierno proporcional al tamaño:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las obligaciones legales del tipo societario, que no se interpretan aquí. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

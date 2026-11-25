@@ -39,6 +39,13 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 22 completa** (265–276): escalamiento, propiedad y portafolio empresarial como conocimiento con fuente y
+  diagrama a medida: de fundador-operador a propietario (Gerber, Drucker), sistemas antes que heroicidad (Harnish,
+  Galbraith), contratar líderes (Horowitz), escalar ventas sin destruir margen (Koller y otros), controles
+  financieros, gobierno proporcional (OECD, Jensen y Meckling, Fama), multiunidad y portafolio (Goold, Campbell y
+  Alexander), holdings y estructuras con sustancia, adquisiciones (Haspeslagh y Jemison), delegación con
+  límites, owner dashboard (Kaplan y Norton) y capstone de simulación de ausencia del fundador. Lo legal y
+  tributario se remite a asesoría.
 - **La parte 21 completa** (253–264): Founder Track Chile como método de verificación con fuente oficial y diagrama a
   medida: mapa del ciclo empresarial, persona natural y jurídica, RES y tipos societarios, inicio de actividades y
   ciclo tributario en el SII, documentos tributarios e IVA, contabilidad y tesorería, cuentas y medios de cobro,

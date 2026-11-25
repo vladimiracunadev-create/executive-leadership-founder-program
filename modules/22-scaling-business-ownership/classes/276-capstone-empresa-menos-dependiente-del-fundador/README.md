@@ -10,217 +10,220 @@
 
 ## 🎯 Propósito
 
-El capstone prueba si una empresa puede sostenerse con intervención significativamente menor del fundador durante un periodo. Requiere succession y leadership, process owners, controls, dashboard y protocolos de excepción; el test real es qué se rompe cuando el founder se retira.
+Las once clases anteriores de esta parte construyeron piezas: medir la dependencia del fundador, crear sistemas, contratar líderes, proteger el margen al crecer, controlar la caja, adaptar el gobierno, gestionar un portafolio, pensar estructuras de propiedad, evaluar adquisiciones, delegar decisiones y observar el negocio con un tablero. Falta la pregunta que las integra: **¿la empresa funciona de verdad sin el fundador?** No basta con haber nombrado gerentes, documentado procesos y delegado autoridad; hay que **probarlo**. La prueba más honesta es una **simulación de ausencia**: el fundador se aparta de la operación durante dos a cuatro semanas con reglas acordadas, y se observa qué ocurre con el servicio a los clientes, la caja, las decisiones pendientes y cada vez que el equipo necesita llamarlo. El resultado no es una nota sino **un mapa de fallas** que permite corregir el sistema antes de que la ausencia sea real (una enfermedad, una oportunidad, una venta).
 
-La salida de esta parte es **reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: empresa menos dependiente del fundador** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+El capstone propone ejecutar ese ciclo: mapear dependencias, instalar líderes y dueños de proceso, definir límites y tablero, simular una ausencia, analizar las fallas y remediar. Integra a Gerber (la empresa como sistema que no depende de su creador), Harnish (rutinas de gestión), Galbraith (diseño organizacional), Sutton y Rao (transmitir lo esencial), Gil (qué se rompe al crecer) y Hoffman y Yeh. Al terminar sabrás diseñar la simulación con reglas y métricas, interpretarla sin atribuir causalidad automática, priorizar remediaciones por severidad y decidir si la empresa está lista para operar sin su fundador o necesita otra ronda.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `founder independence`, `operating autonomy`, `continuity test`, `exception protocol`, `institutional memory` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de business owner.
-3. **Aplicar** la secuencia **1. mapear dependencies → 2. instalar leaders y process owners → 3. definir guardrails y dashboard → 4. ejecutar 2 a 4 week absence simulation → 5. analizar failures y remediar** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** owner contacts during test, service continuity, decision backlog sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Mapear** las dependencias del fundador con evidencia y priorizarlas.
+2. **Verificar** que existan responsables, límites, tablero y reglas de contacto antes de la prueba.
+3. **Diseñar** una simulación de ausencia con protecciones para clientes, caja y personas.
+4. **Medir** contactos al fundador, continuidad del servicio y decisiones pendientes.
+5. **Analizar** las fallas, remediarlas y decidir si repetir, ampliar o extender la prueba.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define founder independence y operating autonomy sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con owner contacts during test y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué haría tu empresa si no estuvieras disponible tres semanas? |
+| 20–60 min | Dependencias, responsables, límites y tablero, simulación, análisis y remediación. |
+| 60–105 min | Ejemplo trabajado: resultados de una simulación de tres semanas y plan de remediación. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **founder independence** | grado en que negocio opera sin intervención cotidiana del founder | Distingue un hecho compatible y otro que lo refute. |
-| **operating autonomy** | capacidad de equipos y líderes para decidir dentro de límites | Distingue un hecho compatible y otro que lo refute. |
-| **continuity test** | ejercicio de ausencia planificada del owner | Distingue un hecho compatible y otro que lo refute. |
-| **exception protocol** | reglas para contactar al owner solo ante eventos definidos | Distingue un hecho compatible y otro que lo refute. |
-| **institutional memory** | conocimiento preservado en sistemas personas y documentación | Distingue un hecho compatible y otro que lo refute. |
+| **Simulación de ausencia** | Prueba en la que el fundador se aparta bajo reglas acordadas. | Período, reglas y registro. |
+| **Contacto evitable** | Consulta al fundador que una regla o límite ya cubría. | Había criterio o autoridad. |
+| **Continuidad del servicio** | Mantención de la calidad y los plazos hacia el cliente. | Entregas, reclamos, satisfacción. |
+| **Retraso de decisiones** | Decisiones pendientes que esperan al fundador. | Lista con antigüedad. |
+| **Falla** | Evento en que la empresa necesitó al fundador o falló sin él. | Registro con severidad. |
+| **Remediación** | Acción para eliminar la causa de una falla. | Responsable y fecha. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 276: 1. mapear dependencies → 2. instalar leaders y process owners → 3. definir guardrails y dashboard → 4. ejecutar 2 a 4 week absence simulation → 5. analizar failures y remediar](modelo-mental.svg)
+![Cadena del capstone: mapear dependencias, instalar responsables, definir límites y tablero, simular ausencia, y analizar y remediar.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear dependencies → 2. instalar leaders y process owners → 3. definir guardrails y dashboard → 4. ejecutar 2 a 4 week absence simulation → 5. analizar failures y remediar
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El capstone prueba si una empresa puede sostenerse con intervención significativamente menor del fundador durante un periodo. Requiere succession y leadership, process owners, controls, dashboard y protocolos de excepción; el test real es qué se rompe cuando el founder se retira.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La meta no siempre es ausencia total: algunas empresas se benefician de founder en producto o relaciones. Define qué rol agrega valor versus dependencia involuntaria.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos. **Mapear dependencias**: qué solo el fundador hace o decide. **Instalar responsables**: líderes y dueños de proceso. **Límites y tablero**: autoridad, alertas e información. **Simular ausencia**: dos a cuatro semanas con un acuerdo previo. **Analizar y remediar**: contactos, retrasos y fallas. La flecha de retorno indica que cada falla genera una acción. La nota afirma que la prueba busca aprender y no demostrar: se acuerdan reglas de contacto, se protege a clientes y caja y se registra cada vez que el equipo necesitó al fundador; el pie, que el resultado se mide por continuidad del servicio y decisiones pendientes.
 
 ## 📖 Desarrollo
 
-### 1. founder independence: mecanismo central
+### 1. Mapear dependencias con evidencia
 
-**founder independence** se entiende aquí como **grado en que negocio opera sin intervención cotidiana del founder**. Esta es la pieza causal o estructural desde la que se inicia **capstone: empresa menos dependiente del fundador**: antes de mapear dependencies, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+El mapa de dependencias recoge, con datos de las clases 265 y 274: **horas del fundador por rol**, **decisiones y aprobaciones que dependen de él**, **clientes y relaciones** que solo él maneja, **conocimiento** que nadie más tiene, **accesos y firmas** (banco, sistemas, contratos), **procesos** que se detienen sin él y **riesgos de reputación**. Se prioriza con severidad y probabilidad: ¿qué pasaría si no estuviera una semana?, ¿un mes?, ¿qué se rompería primero? Gerber describe la empresa que funciona como un **sistema**, no como una extensión de su creador; el mapa muestra cuán lejos está. También se identifican dependencias de **otras personas clave** (gerentes, técnicos), porque reemplazar al fundador por otra persona imprescindible solo traslada el riesgo. Sin este mapa, la simulación no sabe qué probar.
 
-La lectura rectora de este bloque es Michael E. Gerber — *The E-Myth Revisited*. Su aporte se usa para examinar **diferencia entre técnico, manager y empresario; sistematización del negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **owner contacts during test**; regístrala con periodo, unidad, población y baseline.
+### 2. Instalar líderes y dueños de proceso
 
-Relaciona el mecanismo con **operating autonomy**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Antes de probar, deben existir los responsables: un **líder o responsable** por área (comercial, operaciones, finanzas, personas), **dueños de proceso** para los procesos críticos (clase 266), **suplentes** para las personas clave y **autoridad delegada** con niveles y límites (clase 274). Se verifica que cada uno tenga: resultados esperados, información, límites de decisión, a quién reportar y qué escalar. Galbraith explica que el diseño organizacional debe asegurar que la autoridad, la información y la coordinación estén **alineadas**; si alguien tiene responsabilidad sin autoridad o sin información, la simulación fallará por diseño, no por mala voluntad. Se verifica también que el equipo **quiere** y **puede** asumir esos roles; la voluntad se conversa y se acompaña.
 
-### 2. operating autonomy: frontera conceptual y error de clasificación
+### 3. Definir guardrails, tablero y reglas de contacto
 
-**Definición operacional:** capacidad de equipos y líderes para decidir dentro de límites. Su valor está en distinguirlo de **founder independence** y **continuity test**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Se acuerdan por escrito: los **límites de decisión** de cada responsable (montos, descuentos, contrataciones, compensaciones), los **gatillos de excepción** que obligan a contactar al fundador, el **tablero** que recibirá semanalmente (clase 275), y las **reglas de contacto durante la prueba**: quién puede llamarlo, por qué motivos, por qué canal y cómo se registra cada contacto. Se define una **persona de respaldo** (un asesor, un socio, un consejero) para decisiones reservadas urgentes. Se acuerda qué **protecciones** existen para clientes, caja y personas: por ejemplo, no se firman contratos nuevos fuera de límites, no se hacen cambios de precio relevantes, y si ocurre una emergencia (seguridad, legal, financiera) el fundador es contactable de inmediato. Sutton y Rao recuerdan que transmitir las prácticas esenciales requiere precisión; las reglas de la prueba son parte de esa precisión.
 
-Contrasta el problema con Verne Harnish — *Scaling Up*, que aporta una mirada sobre **personas, estrategia, ejecución y caja durante el escalamiento**. Formula dos mini-casos: uno que sí satisface la definición de **operating autonomy** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **service continuity** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Diseñar la simulación
 
-Antes de instalar leaders y process owners, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La **simulación** dura de dos a cuatro semanas y se realiza en un período representativo (no en el más tranquilo ni en el más crítico). Se comunica al equipo y a los clientes clave de forma que no genere alarma ni excusas. Se define qué se medirá: **contactos al fundador** (cuántos, por qué, cuáles eran evitables), **continuidad del servicio** (entregas a tiempo, reclamos, satisfacción), **retraso de decisiones** (cuántas esperan y desde cuándo), **caja y ventas** frente al plan y **clima** del equipo. Se establecen **criterios de aprobación** previos (por ejemplo, menos de 5 contactos semanales en la tercera semana, continuidad de 90 % o más y menos de 8 decisiones pendientes). El fundador no «espía» ni interviene por la puerta trasera: su disciplina es parte del resultado. Harnish enfatiza que la rutina de reuniones y el seguimiento semanal ordenan la ejecución; se mantienen durante la prueba.
 
-### 3. continuity test: operacionalización y medición
+### 5. Registrar y analizar sin culpas
 
-**continuity test** significa **ejercicio de ausencia planificada del owner**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Durante la prueba, un **registro simple** anota cada contacto: fecha, quién, motivo, tipo (decisión, información, relación, urgencia), si era evitable, qué regla faltaba y cómo se resolvió. Al terminar, se analizan los datos con el equipo en una sesión sin culpas: ¿qué patrones aparecen?, ¿qué decisiones se repitieron?, ¿qué información faltaba?, ¿qué límites eran demasiado estrechos o demasiado amplios?, ¿qué cliente reclamó y por qué? Se **interpreta con cuidado**: un mes sin crisis no prueba que el sistema sea robusto, y una crisis puede ser azar. Se compara con la línea base de las clases anteriores (horas, aprobaciones, concentración). Gil advierte que lo que funcionaba con pocas personas se rompe con más; la simulación detecta esas rupturas antes de que cuesten caro.
 
-Jay R. Galbraith — *Designing Organizations* orienta este bloque mediante **alineación de estrategia, estructura, procesos, recompensas y personas**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **decision backlog**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Priorizar y remediar las fallas
 
-Al llegar a definir guardrails y dashboard, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cada falla se registra con **severidad**, **causa** y **acción**. Se priorizan por impacto y recurrencia: las que ponen en riesgo a clientes, caja o cumplimiento van primero. Las acciones típicas son: **documentar una regla** (criterio de decisión), **ampliar o estrechar un límite**, **entrenar a una persona**, **instalar un suplente**, **mejorar el tablero**, **presentar al líder a un cliente clave** o **cambiar un acceso**. Cada acción tiene responsable y fecha, y se verifica su efecto en la siguiente ronda. Hoffman y Yeh describen que, al crecer rápido, las organizaciones aceptan imperfecciones a cambio de velocidad; aquí el objetivo es lo contrario: **reducir sorpresas** que ya se conocen. La remediación también incluye al fundador: ¿qué hábitos suyos generaron los contactos evitables?
 
-### 4. exception protocol: trade-offs y efectos de segundo orden
+### 7. Decidir: aprobar, repetir o extender
 
-**Definición:** reglas para contactar al owner solo ante eventos definidos. Este concepto obliga a abandonar la idea de que **capstone: empresa menos dependiente del fundador** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de ejecutar 2 a 4 week absence simulation, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* aporta una lente sobre **cómo propagar excelencia sin multiplicar burocracia y daño**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **cash-control incidents** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capstone: empresa menos dependiente del fundador**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **exception protocol** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. institutional memory: gobernanza, límites e integración
-
-**institutional memory** se define como **conocimiento preservado en sistemas personas y documentación** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Elad Gil — *High Growth Handbook* se utiliza para estudiar **perspectiva de Escalamiento aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar analizar failures y remediar, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **La meta no siempre es ausencia total: algunas empresas se benefician de founder en producto o relaciones. Define qué rol agrega valor versus dependencia involuntaria.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **founder independence**, **operating autonomy**, **continuity test**, **exception protocol** y **institutional memory** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: empresa menos dependiente del fundador** no consiste en sumar cinco definiciones. Empieza por **founder independence**, contrasta **operating autonomy** con **continuity test**, incorpora **exception protocol** como restricción o mecanismo y usa **institutional memory** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear dependencies → 2. instalar leaders y process owners → 3. definir guardrails y dashboard → 4. ejecutar 2 a 4 week absence simulation → 5. analizar failures y remediar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Con los resultados se decide: **aprobado** (se cumplen los criterios y las fallas restantes son menores; se planifica la siguiente prueba en 6 a 12 meses y se reduce la dependencia), **repetir** (se cumplen parte de los criterios; se remedian las fallas y se repite en 60 a 90 días), o **extender** (el fundador pasa a un rol más reducido con límites más claros y una prueba más larga). También se decide qué hacer con el **tiempo y la energía** del fundador: dedicarse a estrategia, capital, nuevas unidades, familia o salida (clase 270 y 271). Una empresa menos dependiente no significa un fundador irrelevante, sino uno que **elige** en qué participa. Y se documenta el aprendizaje en el diario de decisiones, porque la dependencia **vuelve** si no se la vigila: personas nuevas, clientes nuevos y crisis tienden a atraer de nuevo al fundador.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Gerber — *The E-Myth Revisited* | diferencia entre técnico, manager y empresario; sistematización del negocio | ¿Qué supuesto de **capstone: empresa menos dependiente del fundador** ayuda a desafiar? |
-| Verne Harnish — *Scaling Up* | personas, estrategia, ejecución y caja durante el escalamiento | ¿Qué supuesto de **capstone: empresa menos dependiente del fundador** ayuda a desafiar? |
-| Jay R. Galbraith — *Designing Organizations* | alineación de estrategia, estructura, procesos, recompensas y personas | ¿Qué supuesto de **capstone: empresa menos dependiente del fundador** ayuda a desafiar? |
-| Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* | cómo propagar excelencia sin multiplicar burocracia y daño | ¿Qué supuesto de **capstone: empresa menos dependiente del fundador** ayuda a desafiar? |
-| Elad Gil — *High Growth Handbook* | perspectiva de Escalamiento aplicada al problema de la clase | ¿Qué supuesto de **capstone: empresa menos dependiente del fundador** ayuda a desafiar? |
-
-En **capstone: empresa menos dependiente del fundador**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **founder independence**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Gerber | La empresa como sistema que no depende de su creador. | Enfoque general. | ¿Qué sistema sostiene esto sin mí? |
+| Harnish | Rutinas de gestión y seguimiento. | No diseña la prueba. | ¿Qué reunión semanal sigue funcionando? |
+| Galbraith | Alineación de autoridad, información y coordinación. | No cuantifica la dependencia. | ¿Quién tiene la autoridad y la información? |
+| Sutton y Rao | Transmitir con precisión las prácticas esenciales. | No define la simulación. | ¿Qué práctica esencial se perdió? |
+| Gil | Qué se rompe al crecer. | Basado en empresas de crecimiento rápido. | ¿Qué proceso no resistió la prueba? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Founder se ausenta tres semanas. El primer lunes el banco pide firma, un cliente exige descuento fuera de política y nadie sabe quién puede aprobar contratación crítica.
+**Situación (hipotética).** El fundador de la empresa de mantención industrial de la clase 265 realiza una simulación de ausencia de tres semanas, con reglas acordadas. Las cifras son **supuestos**.
 
-**Paso 1 — mapear dependencies.** La gerencia escribe primero el supuesto asociado a **founder independence** y evita convertirlo en hecho. Luego busca **owner contacts during test** para contrastarlo en el caso de **capstone: empresa menos dependiente del fundador**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Línea base (antes de las mejoras de las clases anteriores).** Horas semanales del fundador: 55 (38 de operador). Aprobaciones: 44,3 % de las decisiones. Tres clientes con el 46 % de las ventas conocían solo al fundador.
 
-**Paso 2 — instalar leaders y process owners.** La gerencia escribe primero el supuesto asociado a **operating autonomy** y evita convertirlo en hecho. Luego busca **service continuity** para contrastarlo en el caso de **capstone: empresa menos dependiente del fundador**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Estado antes de la prueba (después del plan de seis meses).** Horas semanales: 44 (18 de operador). Aprobaciones del fundador: 17 % (24 de 140 decisiones). Cada uno de los tres clientes tiene un segundo contacto presentado. Hay un gerente de operaciones, un gerente comercial, dueños de seis procesos críticos y un tablero de 12 métricas.
 
-**Paso 3 — definir guardrails y dashboard.** La gerencia escribe primero el supuesto asociado a **continuity test** y evita convertirlo en hecho. Luego busca **decision backlog** para contrastarlo en el caso de **capstone: empresa menos dependiente del fundador**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Contactos al fundador durante la simulación.**
 
-**Paso 4 — ejecutar 2 a 4 week absence simulation.** La gerencia escribe primero el supuesto asociado a **exception protocol** y evita convertirlo en hecho. Luego busca **cash-control incidents** para contrastarlo en el caso de **capstone: empresa menos dependiente del fundador**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Semana | Contactos | De ellos, evitables (había regla o autoridad) |
+|---|---|---|
+| 1 | 14 | 10 |
+| 2 | 8 | 5 |
+| 3 | 4 | 2 |
+| **Total** | **26** | **17** |
 
-**Paso 5 — analizar failures y remediar.** La gerencia escribe primero el supuesto asociado a **institutional memory** y evita convertirlo en hecho. Luego busca **leader confidence** para contrastarlo en el caso de **capstone: empresa menos dependiente del fundador**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+Contactos evitables: 17 ÷ 26 = **65,4 %**. La tendencia (14, 8, 4) muestra aprendizaje: la reducción de la semana 1 a la 3 es (14 − 4) ÷ 14 = **71,4 %**. Motivos de los 26 contactos: decisiones de precio fuera de límite (7), información sobre contratos antiguos (6), relaciones con el cliente mayor (5), aprobaciones de compras (4), emergencias reales (2), otros (2).
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: empresa menos dependiente del fundador**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Continuidad del servicio.** Entregas a tiempo: 93 % durante la prueba frente a 95 % de línea base. Reclamos: 6 en tres semanas frente a un promedio de 4. Ventas facturadas: 98,5 % del plan. Satisfacción de los clientes consultados: sin cambio relevante.
+
+**Decisiones pendientes.** Al día 21 había 11 decisiones esperando (frente a 6 habituales), siete de ellas reservadas al fundador por su monto o impacto y cuatro por falta de criterio.
+
+**Criterios de aprobación previos.**
+
+| Criterio | Meta | Resultado | ¿Cumple? |
+|---|---|---|---|
+| Contactos en la semana 3 | ≤ 5 | 4 | Sí |
+| Continuidad del servicio (entregas a tiempo) | ≥ 90 % | 93 % | Sí |
+| Decisiones pendientes al día 21 | ≤ 8 | 11 | **No** |
+
+**Resultado:** 2 de 3 criterios cumplidos. **Decisión: repetir en 90 días** tras remediar.
+
+**Análisis de fallas y remediación.**
+
+| Falla | Severidad (1-5) | Frecuencia | Puntaje | Acción | Responsable |
+|---|---|---|---|---|---|
+| Descuentos fuera de límite sin criterio claro | 4 | 7 | 28 | Reglas y ejemplos; ampliar límite de 8 % a 12 % para clientes con contrato | Gerente comercial |
+| Información de contratos antiguos solo en la memoria del fundador | 3 | 6 | 18 | Repositorio de contratos y resumen de cláusulas clave | Administración |
+| Cliente mayor consulta directamente al fundador | 5 | 5 | 25 | Reunión de relación con el segundo contacto y acuerdo de comunicación | Gerente comercial y fundador |
+| Aprobación de compras sobre un umbral muy bajo | 2 | 4 | 8 | Subir el umbral de 400.000 a 800.000 pesos | Gerente de operaciones |
+
+Con puntaje total de 79, las dos primeras prioridades (28 y 25) concentran 67 % (53 ÷ 79); se atienden primero.
+
+**Dependencia después de la prueba (estimación).** Horas del fundador: 38 por semana con 12 de operador; aprobaciones: 12 %; clientes mayores con relación diversificada: 2 de 3. La meta de la próxima prueba es 5 o menos contactos por semana desde la semana 2 y 6 o menos decisiones pendientes.
+
+**Decisión.** Repetir la simulación en 90 días con las remediaciones implementadas; el fundador dedica las horas liberadas a estrategia y a evaluar una adquisición; se informa al socio y al consejo asesor del resultado y de los límites del análisis.
+
+**Cuidados.** Los resultados de tres semanas no garantizan el desempeño en una crisis ni en períodos distintos; las cifras son supuestos.
+
+**Qué muestra.** (1) La simulación convierte la dependencia en datos. (2) Criterios previos evitaron una lectura complaciente. (3) Las fallas se priorizaron y se asignaron a responsables.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **founder independence** | grado en que negocio opera sin intervención cotidiana del founder | Cuando owner contacts during test es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **operating autonomy** | capacidad de equipos y líderes para decidir dentro de límites | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Simulación frente a ausencia real.** La simulación es acotada, avisada y con protecciones; la ausencia real puede ser prolongada, imprevista y emocional. La primera reduce, pero no elimina, el riesgo de la segunda.
 
-**Frontera de aplicación:** La meta no siempre es ausencia total: algunas empresas se benefician de founder en producto o relaciones. Define qué rol agrega valor versus dependencia involuntaria.
+**Límites.** Tres semanas pueden no capturar los ciclos anuales, las crisis ni las renovaciones de contratos. Los contactos pueden bajar porque el equipo teme molestar y no porque el sistema funcione. Algunas empresas dependen legítimamente de la reputación de su fundador. Las cifras del ejemplo son supuestos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: empresa menos dependiente del fundador |
+| Nivel | Cómo se relaciona con la independencia del fundador |
 |---|---|
-| **Profesional** | usa **capstone: empresa menos dependiente del fundador** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **founder independence** y **operating autonomy** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta owner contacts during test con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: empresa menos dependiente del fundador cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: empresa menos dependiente del fundador reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: empresa menos dependiente del fundador** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Cumple procedimientos y documenta lo que sabe. |
+| **Jefe / Team Lead** | Decide dentro de sus límites y escala bien. |
+| **Gerente** | Responde por los resultados de su área en ausencia del fundador. |
+| **CEO / Director** | Conduce la simulación y la remediación. |
+| **Founder / Owner** | Se aparta con reglas, observa con disciplina y decide con evidencia. |
 
 ## 🏢 Caso ejecutivo
 
-Founder se ausenta tres semanas. El primer lunes el banco pide firma, un cliente exige descuento fuera de política y nadie sabe quién puede aprobar contratación crítica.
+Un fundador dirige una empresa de software a medida con 34 personas y ventas de 2.100 millones de pesos. En seis meses nombró un gerente de operaciones, un gerente comercial y tres líderes técnicos, documentó cuatro procesos y fijó límites de decisión. Hoy trabaja 48 horas semanales (frente a 62), pero su celular sigue sonando. Antes de un viaje de un mes que quiere hacer con su familia, decide simular su ausencia durante tres semanas. Datos conocidos: dos clientes representan el 41 % de las ventas y mantienen su relación con él; hay un proyecto de 380 millones en entrega durante el período; el gerente comercial tiene límite de descuento de 5 %; un cliente debe renovar un contrato de 240 millones; el responsable de finanzas es nuevo; un líder técnico clave está en proceso de renuncia. Durante la prueba: semana 1, 17 contactos (11 evitables); semana 2, 9 (4 evitables); semana 3, 7 (3 evitables); entregas a tiempo del 86 %; 12 decisiones pendientes al día 21; el proyecto grande se retrasó una semana; el cliente renovó con un descuento de 8 % aprobado por el gerente comercial fuera de su límite, sin consultar.
 
-Entrega un **decision brief de capstone: empresa menos dependiente del fundador** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de decisión del fundador** que contenga: (a) el mapa de dependencias previo y las protecciones definidas para la prueba; (b) el análisis de los contactos, con porcentaje de evitables y tendencia; (c) la comparación con criterios de aprobación (que usted propondrá) y el resultado; (d) las fallas priorizadas por severidad y frecuencia con acciones y responsables, incluida la decisión del descuento; (e) la decisión de aprobar, repetir o extender y qué hará con el viaje; (f) los límites del análisis y los riesgos que la simulación no cubre.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: empresa menos dependiente del fundador** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear dependencies → 2. instalar leaders y process owners → 3. definir guardrails y dashboard → 4. ejecutar 2 a 4 week absence simulation → 5. analizar failures y remediar** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta owner contacts during test, service continuity; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Haz el mapa de dependencias de tu empresa con severidad y probabilidad.
+2. Define las reglas de contacto y las protecciones para una prueba de dos a cuatro semanas.
+3. Escribe criterios de aprobación (contactos, continuidad y decisiones pendientes).
+4. Diseña el registro de contactos y fallas.
+5. Elabora el plan de remediación con responsables y fecha de repetición.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar founder independence y operating autonomy como sinónimos | Se pierde la distinción entre “grado en que negocio opera sin intervención cotidiana del founder” y “capacidad de equipos y líderes para decidir dentro de límites” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “analizar failures y remediar” | Se saltó “mapear dependencies” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear dependencies → 2. instalar leaders y process owners → 3. definir guardrails y dashboard → 4. ejecutar 2 a 4 week absence simulation → 5. analizar failures y remediar y marca el primer supuesto no demostrado. |
-| Optimizar solo owner contacts during test | La métrica local sustituyó al resultado del sistema | Contrástala con service continuity y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: empresa menos dependiente del fundador | La meta no siempre es ausencia total: algunas empresas se benefician de founder en producto o relaciones. Define qué rol agrega valor versus dependencia involuntaria. |
-| No fijar revisión | Una decisión sobre capstone: empresa menos dependiente del fundador se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Simular sin preparar responsables | Se quiere probar ya | Instalar líderes, límites y tablero antes. |
+| Intervenir «por si acaso» | Ansiedad del fundador | Reglas de contacto y respaldo acordadas. |
+| Criterios definidos después | Se interpreta a favor | Fijarlos antes de la prueba. |
+| Culpar a personas por las fallas | Se busca un responsable | Analizar el diseño: reglas, límites e información. |
+| Concluir con una sola prueba | Entusiasmo | Repetir y variar el período. |
+| Reabsorber el control al terminar | Costumbre | Revisar hábitos y revisar la dependencia cada semestre. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **founder independence** y **operating autonomy** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **continuity test** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear dependencies → instalar leaders y process owners** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **owner contacts during test** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: empresa menos dependiente del fundador**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **La meta no siempre es ausencia total: algunas empresas se benefician de founder en producto o relaciones. Define qué rol agrega valor versus dependencia involuntaria.**?
+1. ¿Para qué sirve una simulación de ausencia?
+2. ¿Qué debe existir antes de realizarla?
+3. ¿Qué es un contacto evitable?
+4. ¿Qué medidas permiten evaluar el resultado?
+5. ¿Por qué se fijan criterios de aprobación antes?
+6. ¿Cómo se priorizan las fallas?
+7. ¿Qué límites tiene la simulación?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Para convertir la dependencia del fundador en datos y corregir fallas antes de una ausencia real.
+2. Responsables, límites de decisión, tablero, reglas de contacto y protecciones para clientes y caja.
+3. Una consulta al fundador que una regla o límite ya cubría.
+4. Contactos, continuidad del servicio, decisiones pendientes, caja y ventas, y clima.
+5. Para evitar interpretar los resultados a favor de la expectativa.
+6. Por severidad y frecuencia o recurrencia, empezando por riesgos a clientes, caja y cumplimiento.
+7. Poca duración, posible silencio por temor y falta de cobertura de ciclos anuales o crisis.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/276-capstone-empresa-menos-dependiente-del-fundador/`:
 
-- `founder-owner-decision-brief.md` con el problema específico de **capstone: empresa menos dependiente del fundador**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: empresa menos dependiente del fundador** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **founder independence**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Founder se ausenta tres semanas. El primer lunes el banco pide firma, un cliente exige descuento fuera de política y nadie sabe quién puede aprobar contratación crítica.** y el dato que podría invalidar la recomendación.
+- `founder-owner-decision-brief.md` (plantilla [Founder owner decision brief](../../../../templates/founder-owner-decision-brief.md)) con el memo del caso ejecutivo;
+- `decision-journal.md` con el registro de contactos, las fallas y el plan de remediación y repetición.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** diferencia entre técnico, manager y empresario; sistematización del negocio. Lectura selectiva sobre **capstone: empresa menos dependiente del fundador**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
-- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** personas, estrategia, ejecución y caja durante el escalamiento. Lectura selectiva sobre **capstone: empresa menos dependiente del fundador**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
-- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** alineación de estrategia, estructura, procesos, recompensas y personas. Lectura selectiva sobre **capstone: empresa menos dependiente del fundador**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
-- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** cómo propagar excelencia sin multiplicar burocracia y daño. Lectura selectiva sobre **capstone: empresa menos dependiente del fundador**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
-- Elad Gil — *High Growth Handbook* (Stripe Matter Inc, 2018). **Uso en esta clase:** perspectiva de Escalamiento aplicada al problema de la clase. Lectura selectiva sobre **capstone: empresa menos dependiente del fundador**. **Localizador:** [ISBN-13 9781953953377](https://openlibrary.org/isbn/9781953953377).
-- Reid Hoffman & Chris Yeh — *Blitzscaling* (HarperCollins Publishers Limited, 2018). **Uso en esta clase:** perspectiva de Escalamiento aplicada al problema de la clase. Lectura selectiva sobre **capstone: empresa menos dependiente del fundador**. **Localizador:** [ISBN-13 9780008303648](https://openlibrary.org/isbn/9780008303648).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: empresa menos dependiente del fundador** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: empresa menos dependiente del fundador**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: empresa menos dependiente del fundador** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: empresa menos dependiente del fundador** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: empresa menos dependiente del fundador** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** la empresa como sistema que no depende de su creador. Lectura selectiva sobre **capstone: empresa menos dependiente del fundador**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
+- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** rutinas de gestión y seguimiento semanal. Lectura selectiva sobre **capstone: empresa menos dependiente del fundador**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
+- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** alineación de autoridad, información y coordinación. Lectura selectiva sobre **capstone: empresa menos dependiente del fundador**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
+- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** transmitir con precisión las prácticas esenciales. Lectura selectiva sobre **capstone: empresa menos dependiente del fundador**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
+- Elad Gil — *High Growth Handbook* (Stripe Matter Inc, 2018). **Uso en esta clase:** qué se rompe al crecer. Lectura selectiva sobre **capstone: empresa menos dependiente del fundador**. **Localizador:** [ISBN-13 9781953953377](https://openlibrary.org/isbn/9781953953377).
+- Reid Hoffman & Chris Yeh — *Blitzscaling* (HarperCollins Publishers Limited, 2018). **Uso en esta clase:** velocidad frente a consistencia al crecer. Lectura selectiva sobre **capstone: empresa menos dependiente del fundador**. **Localizador:** [ISBN-13 9780008303648](https://openlibrary.org/isbn/9780008303648).
 
-> **Regla de fuentes para Capstone: empresa menos dependiente del fundador:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: empresa menos dependiente del fundador** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capstone: empresa menos dependiente del fundador:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

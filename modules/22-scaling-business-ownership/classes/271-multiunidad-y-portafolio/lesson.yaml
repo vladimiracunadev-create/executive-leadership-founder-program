@@ -5,27 +5,28 @@ duration_minutes: 150
 level: "Etapa 6 — Business Owner"
 outcome: "reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir business unit de portfolio mediante evidencia observable."
-  - "Aplicar la secuencia: definir unidad económica → separar P&L y cash → identificar shared capabilities → medir parenting advantage → allocate grow harvest o exit."
-  - "Interpretar ROIC by unit, cash generation, shared-service cost sin atribuir causalidad automática."
-  - "Resolver el caso de multiunidad y portafolio con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Definir una unidad económica con clientes, costos y decisiones propias."
+  - "Separar resultados y caja por unidad y asignar costos compartidos con criterio."
+  - "Calcular retorno sobre el capital y valor agregado por unidad."
+  - "Estimar la ventaja que aporta la matriz frente a un dueño alternativo."
+  - "Decidir crecer, cosechar o salir de cada unidad con evidencia y alternativas."
 deliverable: "strategy-memo.md"
 references:
-  - "Michael E. Gerber — *The E-Myth Revisited*"
-  - "Verne Harnish — *Scaling Up*"
-  - "Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*"
-  - "Ben Horowitz — *The Hard Thing About Hard Things*"
-  - "Jay R. Galbraith — *Designing Organizations*"
+  - "Michael Goold, Andrew Campbell & Marcus Alexander — *Corporate-Level Strategy: Creating Value in the Multibusiness Company*"
   - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Jay R. Galbraith — *Designing Organizations*"
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
+  - "Robert I. Sutton & Huggy Rao — *Scaling Up Excellence*"
+  - "Verne Harnish — *Scaling Up*"
+  - "Michael E. Gerber — *The E-Myth Revisited*"
 limits:
-  - "Separar demasiado puede perder sinergias y crear duplicación. Diseña transfer pricing o allocation transparente para ver economics sin destruir colaboración."
+  - "Las asignaciones de costos son convenciones y pueden distorsionar."
 evidence_signals:
-  - "ROIC by unit"
-  - "cash generation"
-  - "shared-service cost"
-  - "cross-unit synergies"
-  - "capital allocation"
+  - "resultado y caja por unidad"
+  - "retorno sobre el capital por unidad"
+  - "ventaja de la matriz"
+  - "asignación de capital"

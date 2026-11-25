@@ -319,18 +319,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/22-scaling-business-ownership/classes/265-de-fundador-operador-a-propietario",
-        "modules/22-scaling-business-ownership/classes/266-sistemas-antes-que-heroicidad",
-        "modules/22-scaling-business-ownership/classes/267-contratar-lideres",
-        "modules/22-scaling-business-ownership/classes/268-escalar-ventas-sin-destruir-margen",
-        "modules/22-scaling-business-ownership/classes/269-controles-financieros-para-crecer",
-        "modules/22-scaling-business-ownership/classes/270-gobierno-proporcional-al-tamano",
-        "modules/22-scaling-business-ownership/classes/271-multiunidad-y-portafolio",
-        "modules/22-scaling-business-ownership/classes/272-holdings-y-estructuras-de-propiedad-conceptos",
-        "modules/22-scaling-business-ownership/classes/273-adquisiciones-como-via-de-crecimiento",
-        "modules/22-scaling-business-ownership/classes/274-delegar-decisiones-sin-perder-control",
-        "modules/22-scaling-business-ownership/classes/275-owner-dashboard",
-        "modules/22-scaling-business-ownership/classes/276-capstone-empresa-menos-dependiente-del-fundador",
         "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
         "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
         "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
@@ -1979,18 +1967,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/22-scaling-business-ownership/classes/265-de-fundador-operador-a-propietario",
-        "modules/22-scaling-business-ownership/classes/266-sistemas-antes-que-heroicidad",
-        "modules/22-scaling-business-ownership/classes/267-contratar-lideres",
-        "modules/22-scaling-business-ownership/classes/268-escalar-ventas-sin-destruir-margen",
-        "modules/22-scaling-business-ownership/classes/269-controles-financieros-para-crecer",
-        "modules/22-scaling-business-ownership/classes/270-gobierno-proporcional-al-tamano",
-        "modules/22-scaling-business-ownership/classes/271-multiunidad-y-portafolio",
-        "modules/22-scaling-business-ownership/classes/272-holdings-y-estructuras-de-propiedad-conceptos",
-        "modules/22-scaling-business-ownership/classes/273-adquisiciones-como-via-de-crecimiento",
-        "modules/22-scaling-business-ownership/classes/274-delegar-decisiones-sin-perder-control",
-        "modules/22-scaling-business-ownership/classes/275-owner-dashboard",
-        "modules/22-scaling-business-ownership/classes/276-capstone-empresa-menos-dependiente-del-fundador",
         "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
         "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
         "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
@@ -3528,18 +3504,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/22-scaling-business-ownership/classes/265-de-fundador-operador-a-propietario",
-        "modules/22-scaling-business-ownership/classes/266-sistemas-antes-que-heroicidad",
-        "modules/22-scaling-business-ownership/classes/267-contratar-lideres",
-        "modules/22-scaling-business-ownership/classes/268-escalar-ventas-sin-destruir-margen",
-        "modules/22-scaling-business-ownership/classes/269-controles-financieros-para-crecer",
-        "modules/22-scaling-business-ownership/classes/270-gobierno-proporcional-al-tamano",
-        "modules/22-scaling-business-ownership/classes/271-multiunidad-y-portafolio",
-        "modules/22-scaling-business-ownership/classes/272-holdings-y-estructuras-de-propiedad-conceptos",
-        "modules/22-scaling-business-ownership/classes/273-adquisiciones-como-via-de-crecimiento",
-        "modules/22-scaling-business-ownership/classes/274-delegar-decisiones-sin-perder-control",
-        "modules/22-scaling-business-ownership/classes/275-owner-dashboard",
-        "modules/22-scaling-business-ownership/classes/276-capstone-empresa-menos-dependiente-del-fundador",
         "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
         "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
         "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
@@ -4258,7 +4222,8 @@
         "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial",
         "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia",
         "modules/17-boards-corporate-governance/classes/210-informacion-y-transparencia",
-        "modules/17-boards-corporate-governance/classes/214-evaluacion-del-ceo-y-sucesion"
+        "modules/17-boards-corporate-governance/classes/214-evaluacion-del-ceo-y-sucesion",
+        "modules/22-scaling-business-ownership/classes/275-owner-dashboard"
       ],
       "status": "verificada"
     },
@@ -4719,18 +4684,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/22-scaling-business-ownership/classes/265-de-fundador-operador-a-propietario",
-        "modules/22-scaling-business-ownership/classes/266-sistemas-antes-que-heroicidad",
-        "modules/22-scaling-business-ownership/classes/267-contratar-lideres",
-        "modules/22-scaling-business-ownership/classes/268-escalar-ventas-sin-destruir-margen",
-        "modules/22-scaling-business-ownership/classes/269-controles-financieros-para-crecer",
-        "modules/22-scaling-business-ownership/classes/270-gobierno-proporcional-al-tamano",
-        "modules/22-scaling-business-ownership/classes/271-multiunidad-y-portafolio",
-        "modules/22-scaling-business-ownership/classes/272-holdings-y-estructuras-de-propiedad-conceptos",
-        "modules/22-scaling-business-ownership/classes/273-adquisiciones-como-via-de-crecimiento",
-        "modules/22-scaling-business-ownership/classes/274-delegar-decisiones-sin-perder-control",
-        "modules/22-scaling-business-ownership/classes/275-owner-dashboard",
-        "modules/22-scaling-business-ownership/classes/276-capstone-empresa-menos-dependiente-del-fundador",
         "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
         "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
         "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
@@ -4995,18 +4948,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/22-scaling-business-ownership/classes/265-de-fundador-operador-a-propietario",
-        "modules/22-scaling-business-ownership/classes/266-sistemas-antes-que-heroicidad",
-        "modules/22-scaling-business-ownership/classes/267-contratar-lideres",
-        "modules/22-scaling-business-ownership/classes/268-escalar-ventas-sin-destruir-margen",
-        "modules/22-scaling-business-ownership/classes/269-controles-financieros-para-crecer",
-        "modules/22-scaling-business-ownership/classes/270-gobierno-proporcional-al-tamano",
-        "modules/22-scaling-business-ownership/classes/271-multiunidad-y-portafolio",
-        "modules/22-scaling-business-ownership/classes/272-holdings-y-estructuras-de-propiedad-conceptos",
-        "modules/22-scaling-business-ownership/classes/273-adquisiciones-como-via-de-crecimiento",
-        "modules/22-scaling-business-ownership/classes/274-delegar-decisiones-sin-perder-control",
-        "modules/22-scaling-business-ownership/classes/275-owner-dashboard",
-        "modules/22-scaling-business-ownership/classes/276-capstone-empresa-menos-dependiente-del-fundador",
         "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
         "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
         "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
@@ -6336,7 +6277,8 @@
       "used_in": [
         "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
         "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
-        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica"
+        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
+        "modules/22-scaling-business-ownership/classes/269-controles-financieros-para-crecer"
       ],
       "status": "verificada"
     },
@@ -7352,7 +7294,8 @@
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
         "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
         "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion",
-        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control"
+        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
+        "modules/22-scaling-business-ownership/classes/270-gobierno-proporcional-al-tamano"
       ],
       "status": "verificada"
     },
@@ -7371,7 +7314,8 @@
       "locator": "https://doi.org/10.1086/467037",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno"
+        "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
+        "modules/22-scaling-business-ownership/classes/270-gobierno-proporcional-al-tamano"
       ],
       "status": "verificada"
     },
@@ -7927,6 +7871,45 @@
         "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
         "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
         "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "michael-goold-andrew-campbell-marcus-alexander-corporate-level-strategy-creating",
+      "type": "book",
+      "authors": [
+        "Goold, Michael",
+        "Campbell, Andrew",
+        "Alexander, Marcus"
+      ],
+      "title": "Corporate-Level Strategy: Creating Value in the Multibusiness Company",
+      "cited_as": "Michael Goold, Andrew Campbell & Marcus Alexander — Corporate-Level Strategy: Creating Value in the Multibusiness Company",
+      "authority": "John Wiley & Sons",
+      "published": "1994",
+      "isbn13": "9780471047162",
+      "locator": "https://openlibrary.org/isbn/9780471047162",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/22-scaling-business-ownership/classes/271-multiunidad-y-portafolio"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "philippe-c-haspeslagh-david-b-jemison-managing-acquisitions-creating-value-throu",
+      "type": "book",
+      "authors": [
+        "Haspeslagh, Philippe C.",
+        "Jemison, David B."
+      ],
+      "title": "Managing Acquisitions: Creating Value Through Corporate Renewal",
+      "cited_as": "Philippe C. Haspeslagh & David B. Jemison — Managing Acquisitions: Creating Value Through Corporate Renewal",
+      "authority": "Free Press",
+      "published": "1991",
+      "isbn13": "9780029141656",
+      "locator": "https://openlibrary.org/isbn/9780029141656",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/22-scaling-business-ownership/classes/273-adquisiciones-como-via-de-crecimiento"
       ],
       "status": "verificada"
     }

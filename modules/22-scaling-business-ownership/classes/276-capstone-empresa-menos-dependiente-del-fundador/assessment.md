@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **founder independence** de **operating autonomy** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **continuity test** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **exception protocol** con **institutional memory**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Para qué sirve una simulación de ausencia?
+2. ¿Qué debe existir antes de realizarla?
+3. ¿Qué es un contacto evitable?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Founder se ausenta tres semanas. El primer lunes el banco pide firma, un cliente exige descuento fuera de política y nadie sabe quién puede aprobar contratación crítica.
+**Caso:** Un fundador dirige una empresa de software a medida con 34 personas y ventas de 2.100 millones de pesos. En seis meses nombró un gerente de operaciones, un gerente comercial y tres líderes técnicos, documentó cuatro procesos y fijó límites de decisión. Hoy trabaja 48 horas semanales (frente a 62), pero su celular sigue sonando. Antes de un viaje de un mes que quiere hacer con su familia, decide simular su ausencia durante tres semanas. Datos conocidos: dos clientes representan el 41 % de las ventas y mantienen su relación con él; hay un proyecto de 380 millones en entrega durante el período; el gerente comercial tiene límite de descuento de 5 %; un cliente debe renovar un contrato de 240 millones; el responsable de finanzas es nuevo; un líder técnico clave está en proceso de renuncia. Durante la prueba: semana 1, 17 contactos (11 evitables); semana 2, 9 (4 evitables); semana 3, 7 (3 evitables); entregas a tiempo del 86 %; 12 decisiones pendientes al día 21; el proyecto grande se retrasó una semana; el cliente renovó con un descuento de 8 % aprobado por el gerente comercial fuera de su límite, sin consultar.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **mapear dependencies → instalar leaders y process owners → definir guardrails y dashboard → ejecutar 2 a 4 week absence simulation → analizar failures y remediar**. Debes utilizar o diseñar cómo obtener **owner contacts during test, service continuity, decision backlog**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **memo de decisión del fundador** que contenga: (a) el mapa de dependencias previo y las protecciones definidas para la prueba; (b) el análisis de los contactos, con porcentaje de evitables y tendencia; (c) la comparación con criterios de aprobación (que usted propondrá) y el resultado; (d) las fallas priorizadas por severidad y frecuencia con acciones y responsables, incluida la decisión del descuento; (e) la decisión de aprobar, repetir o extender y qué hará con el viaje; (f) los límites del análisis y los riesgos que la simulación no cubre. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **La meta no siempre es ausencia total: algunas empresas se benefician de founder en producto o relaciones. Define qué rol agrega valor versus dependencia involuntaria.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Tres semanas pueden no capturar los ciclos anuales, las crisis ni las renovaciones de contratos.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

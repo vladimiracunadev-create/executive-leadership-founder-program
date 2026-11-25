@@ -10,217 +10,213 @@
 
 ## 🎯 Propósito
 
-Contratar líderes cambia la unidad de escalamiento: el owner ya no busca solo ejecutores, sino personas capaces de construir equipos, decisiones y sistemas. Debe definir mandato, scorecard, autoridad, values y evaluación, y evitar contratar títulos sin contexto.
+Contratar al primer gerente o director es una de las decisiones más difíciles y más caras para un fundador. Es difícil porque obliga a **transferir contexto, autoridad y decisiones** a alguien que no vivió la historia de la empresa; es cara porque un error cuesta meses de rendimiento del equipo, relaciones con clientes y el tiempo del propio fundador. Los errores típicos se repiten: contratar a alguien «como yo» o a alguien «de gran empresa» sin verificar si sabe operar con recursos escasos; fijar el cargo por un título y no por un resultado; apoyarse solo en la entrevista y las referencias que el candidato entrega; esperar que el nuevo líder «arregle todo» sin darle autoridad; o no tener un plan para los primeros noventa días. Horowitz advierte que dirigir una empresa en crecimiento incluye decisiones duras sobre personas que se postergan demasiado.
 
-La salida de esta parte es **reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **contratar líderes** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase propone un método: definir el resultado y el contexto que justifican el cargo, construir un scorecard y los derechos de decisión, buscar evidencia de que el candidato ha escalado algo parecido, hacer referencias propias y planificar un aprendizaje y una toma de decisiones de noventa días. Se apoya en Harnish (equipo directivo y rutinas), Horowitz (liderazgo en situaciones difíciles), la OECD (responsabilidades de dirección y gobierno), Sutton y Rao (escalar prácticas) y Hoffman y Yeh, y en Gerber sobre el paso de dueño-operador a dueño-constructor. Al terminar sabrás armar un scorecard ponderado, estimar el costo esperado de una mala contratación, decidir entre candidatos con evidencia y diseñar el traspaso de autoridad.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `leadership mandate`, `executive scorecard`, `decision authority`, `leadership leverage`, `executive onboarding` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de business owner.
-3. **Aplicar** la secuencia **1. definir outcome y contexto → 2. crear scorecard y decision rights → 3. buscar evidence de scale → 4. hacer reference checks → 5. onboard con 90-day learning y decision plan** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** executive retention, team performance, decision autonomy sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** el resultado, el contexto y las decisiones de un cargo directivo.
+2. **Construir** un scorecard ponderado con criterios observables.
+3. **Buscar** evidencia de escala y realizar referencias propias.
+4. **Estimar** el costo esperado de contratar bien o mal con supuestos explícitos.
+5. **Planificar** los primeros noventa días con aprendizaje, decisiones y criterios de continuidad.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define leadership mandate y executive scorecard sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con executive retention y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué resultado exacto necesitas que logre la persona que contrates? |
+| 20–60 min | Resultado y contexto, scorecard, derechos de decisión, evidencia, referencias, noventa días. |
+| 60–105 min | Ejemplo trabajado: comparación de tres candidatos con scorecard y costo esperado. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **leadership mandate** | resultado y alcance que se espera de un líder | Distingue un hecho compatible y otro que lo refute. |
-| **executive scorecard** | outcomes capabilities y behaviors usados para evaluar | Distingue un hecho compatible y otro que lo refute. |
-| **decision authority** | decisiones que el líder puede tomar sin owner | Distingue un hecho compatible y otro que lo refute. |
-| **leadership leverage** | impacto del líder a través de otros | Distingue un hecho compatible y otro que lo refute. |
-| **executive onboarding** | transición estructurada para comprender negocio y construir relaciones | Distingue un hecho compatible y otro que lo refute. |
+| **Scorecard** | Resultados y competencias esperadas, con ponderación. | Criterios, pesos y evidencia. |
+| **Derechos de decisión** | Qué decide solo el líder y qué se acuerda. | Matriz de decisiones. |
+| **Evidencia de escala** | Pruebas de que hizo algo parecido en un contexto parecido. | Resultados verificables. |
+| **Referencia propia** | Conversación con alguien que trabajó con el candidato, elegida por el contratante. | Fuente no entregada por el candidato. |
+| **Plan de 90 días** | Aprendizaje y decisiones acordadas para el inicio. | Hitos y revisiones. |
+| **Retención de ejecutivos** | Permanencia de líderes en el cargo. | Rotación directiva. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 267: 1. definir outcome y contexto → 2. crear scorecard y decision rights → 3. buscar evidence de scale → 4. hacer reference checks → 5. onboard con 90-day learning y decision plan](modelo-mental.svg)
+![Tabla de cinco pasos para contratar a un líder: resultado y contexto, scorecard y decisiones, evidencia de escala, referencias y primeros noventa días.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir outcome y contexto → 2. crear scorecard y decision rights → 3. buscar evidence de scale → 4. hacer reference checks → 5. onboard con 90-day learning y decision plan
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Contratar líderes cambia la unidad de escalamiento: el owner ya no busca solo ejecutores, sino personas capaces de construir equipos, decisiones y sistemas. Debe definir mandato, scorecard, autoridad, values y evaluación, y evitar contratar títulos sin contexto.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Experiencia en empresas grandes no se transfiere automáticamente a pymes. Evalúa contexto, ambigüedad, recursos y capacidad de operar al nivel requerido.**
+**Cómo leer el diagrama.** Una tabla de tres columnas. **Paso**: resultado y contexto, scorecard y decisiones, evidencia de escala, referencias y primeros noventa días. **Qué se define**: qué debe lograr y en qué situación está la empresa, los resultados esperados y qué decide solo, qué hizo en un contexto parecido, qué dicen quienes trabajaron con él, y el aprendizaje y las decisiones iniciales. **Qué se verifica**: que el cargo sea necesario y claro, los límites de autoridad por escrito, resultados y no solo títulos, referencias propias, y revisiones con criterios de continuidad. La nota afirma que contratar a un líder no traspasa el contexto por sí solo; el pie, que una mala contratación cuesta meses de rendimiento del equipo.
 
 ## 📖 Desarrollo
 
-### 1. leadership mandate: mecanismo central
+### 1. Definir el resultado y el contexto
 
-**leadership mandate** se entiende aquí como **resultado y alcance que se espera de un líder**. Esta es la pieza causal o estructural desde la que se inicia **contratar líderes**: antes de definir outcome y contexto, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un cargo directivo se define por **resultados** y por el **contexto** en el que deben lograrse. Resultados: «llevar el margen de la línea B de 18 % a 26 % en doce meses», «reducir la rotación de técnicos de 30 % a 18 %», «montar un equipo comercial que genere el 60 % de las ventas sin intervención del fundador». Contexto: tamaño, madurez de los procesos, calidad de los datos, cultura, restricciones de caja, relación con clientes clave y estado del equipo actual. Un gerente brillante en una empresa con sistemas maduros puede fracasar donde todo está por construirse, y viceversa. Antes de buscar a alguien, el fundador debe poder responder: ¿qué problema resuelve este cargo?, ¿qué pasa si no lo contrato?, ¿qué debería lograr en doce meses? La claridad reduce el riesgo de contratar por ansiedad.
 
-La lectura rectora de este bloque es Michael E. Gerber — *The E-Myth Revisited*. Su aporte se usa para examinar **diferencia entre técnico, manager y empresario; sistematización del negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **executive retention**; regístrala con periodo, unidad, población y baseline.
+### 2. Scorecard, pesos y derechos de decisión
 
-Relaciona el mecanismo con **executive scorecard**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El **scorecard** traduce el cargo en 4 a 7 criterios observables con **pesos**: resultados en contextos parecidos, capacidad de construir y conducir equipos, calidad de juicio en decisiones difíciles, ajuste con el contexto y los valores, comunicación y colaboración con el fundador. Cada criterio se acompaña de **señales** de evidencia y de **alertas**. Con él, todos los entrevistadores evalúan lo mismo y se evita decidir por simpatía. Se define además la matriz de **derechos de decisión**: qué decide el líder solo (contratar dentro de su presupuesto, cambiar procesos de su área), qué decide con consulta, qué requiere aprobación del dueño. Harnish destaca la importancia de claridad sobre quién es responsable de qué; sin ella, el nuevo líder se vuelve un asistente del fundador y no puede producir resultados.
 
-### 2. executive scorecard: frontera conceptual y error de clasificación
+### 3. Buscar evidencia de escala
 
-**Definición operacional:** outcomes capabilities y behaviors usados para evaluar. Su valor está en distinguirlo de **leadership mandate** y **decision authority**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La pregunta clave es: **¿ha hecho algo parecido, en una situación parecida?** No basta un título. Se pide al candidato que describa con detalle una situación concreta: el punto de partida, qué decidió, qué hizo, qué resultados obtuvo con números, qué salió mal, qué aprendió y qué haría distinto. Se verifica con documentos o con terceros. Sutton y Rao enfatizan que escalar requiere distinguir lo que se replica de lo que se adapta: un buen candidato explica **qué parte de su experiencia es transferible** a tu contexto y cuál no. Se desconfía de los relatos en que todo el mérito es del candidato y nada del equipo, y de los resultados que no se pueden verificar. También se evalúa la **disposición a operar con recursos escasos**, no solo con grandes equipos.
 
-Contrasta el problema con Verne Harnish — *Scaling Up*, que aporta una mirada sobre **personas, estrategia, ejecución y caja durante el escalamiento**. Formula dos mini-casos: uno que sí satisface la definición de **executive scorecard** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **team performance** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Referencias propias
 
-Antes de crear scorecard y decision rights, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Las referencias que entrega el candidato suelen ser favorables; las **referencias propias** son más informativas: se pide a otras personas que trabajaron con él (antiguos jefes, pares, subordinados) y se les hacen preguntas concretas: ¿qué resultados logró?, ¿cómo trató a su equipo?, ¿cómo reaccionó ante un fracaso?, ¿lo volverías a contratar?, ¿en qué contexto lo ubicarías y en cuál no? Se realizan con respeto y respetando la confidencialidad y las normas aplicables (laborales, de datos personales y de no discriminación, que se consultan con asesoría). Se busca coherencia entre lo que dice el candidato y lo que cuentan los demás. Una discrepancia importante no descalifica automáticamente, pero **obliga a investigar**.
 
-### 3. decision authority: operacionalización y medición
+### 5. Costo de contratar mal y contratar bien
 
-**decision authority** significa **decisiones que el líder puede tomar sin owner**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Una mala contratación directiva cuesta: salarios pagados sin el resultado esperado, costos de reclutamiento y de salida (que se consultan con asesoría laboral), desorganización del equipo, relaciones con clientes dañadas, y el tiempo del fundador dedicado a corregir. Estimarlo con **supuestos explícitos** ayuda a dimensionar cuánto vale invertir en una buena selección (más entrevistas, referencias, un caso de trabajo pagado, una prueba de colaboración). También se estima el **valor de contratar bien**: el resultado esperado del cargo, que puede superar con creces el costo del salario. La decisión debe considerar la **probabilidad de éxito** de cada candidato: no es cierto, y esa incertidumbre es la razón de reducirla con evidencia. A veces, la mejor decisión es **no contratar todavía** y reorganizar mientras se aclara el cargo.
 
-OECD — *G20/OECD Principles of Corporate Governance 2023* orienta este bloque mediante **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **decision autonomy**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Transferir contexto y autoridad
 
-Al llegar a buscar evidence de scale, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Contratar es solo la mitad; la otra mitad es **permitir que el líder lidere**. El fundador debe compartir información (finanzas, clientes, historia de decisiones), presentar al líder ante el equipo y los clientes clave con una declaración clara de autoridad, abstenerse de contradecirlo en público, y acordar cómo se tomarán las decisiones que el fundador antes tomaba. Un error frecuente es **contratar y seguir decidiendo por encima**: el líder pierde credibilidad y se va. Otro es **desaparecer**: sin contexto ni apoyo, el líder tampoco puede tener éxito. La OECD, en sus principios de gobierno, recuerda que la dirección responde por la gestión y que la propiedad no debe interferir con la gestión de manera que desdibuje responsabilidades; en una pyme, esa idea se traduce en límites claros entre lo que decide el dueño y lo que decide el gerente.
 
-### 4. leadership leverage: trade-offs y efectos de segundo orden
+### 7. Los primeros noventa días y la decisión de continuidad
 
-**Definición:** impacto del líder a través de otros. Este concepto obliga a abandonar la idea de que **contratar líderes** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de hacer reference checks, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Reid Hoffman & Chris Yeh — *Blitzscaling* aporta una lente sobre **perspectiva de Escalamiento aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **scorecard progress** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **contratar líderes**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **leadership leverage** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. executive onboarding: gobernanza, límites e integración
-
-**executive onboarding** se define como **transición estructurada para comprender negocio y construir relaciones** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Ben Horowitz — *The Hard Thing About Hard Things* se utiliza para estudiar **decisiones difíciles de CEO, organización, personas y ejecución bajo presión** y contrastar la recomendación final. Al ejecutar onboard con 90-day learning y decision plan, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Experiencia en empresas grandes no se transfiere automáticamente a pymes. Evalúa contexto, ambigüedad, recursos y capacidad de operar al nivel requerido.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **leadership mandate**, **executive scorecard**, **decision authority**, **leadership leverage** y **executive onboarding** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **contratar líderes** no consiste en sumar cinco definiciones. Empieza por **leadership mandate**, contrasta **executive scorecard** con **decision authority**, incorpora **leadership leverage** como restricción o mecanismo y usa **executive onboarding** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir outcome y contexto → 2. crear scorecard y decision rights → 3. buscar evidence de scale → 4. hacer reference checks → 5. onboard con 90-day learning y decision plan**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Se acuerda un **plan de 90 días** con tres etapas: **aprender** (conocer a las personas, los clientes, los datos y los sistemas, y entregar un diagnóstico al día 30), **decidir** (proponer prioridades y cambios, con decisiones acotadas al día 60) y **entregar** (primeros resultados y plan de doce meses al día 90). Se agendan revisiones con el fundador cada dos semanas y con el equipo al mes. Se definen **criterios de continuidad** (resultados y comportamientos esperados), de modo que si no hay ajuste, se tome una decisión a tiempo. Horowitz enfatiza que postergar decisiones difíciles sobre personas daña al equipo; la claridad inicial permite actuar sin sorpresas. Se registran las lecciones para mejorar el próximo proceso de selección.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Gerber — *The E-Myth Revisited* | diferencia entre técnico, manager y empresario; sistematización del negocio | ¿Qué supuesto de **contratar líderes** ayuda a desafiar? |
-| Verne Harnish — *Scaling Up* | personas, estrategia, ejecución y caja durante el escalamiento | ¿Qué supuesto de **contratar líderes** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **contratar líderes** ayuda a desafiar? |
-| Reid Hoffman & Chris Yeh — *Blitzscaling* | perspectiva de Escalamiento aplicada al problema de la clase | ¿Qué supuesto de **contratar líderes** ayuda a desafiar? |
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **contratar líderes** ayuda a desafiar? |
-
-En **contratar líderes**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **leadership mandate**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Harnish | Claridad de roles y rutinas del equipo directivo. | No profundiza en selección. | ¿Quién es responsable de cada resultado? |
+| Horowitz | Realidad de las decisiones difíciles sobre personas. | Enfoque de empresas tecnológicas. | ¿Qué decisión estoy postergando? |
+| OECD (principios de gobierno) | Responsabilidades de dirección y gobierno. | No es guía de reclutamiento. | ¿Dónde termina el dueño y empieza el gerente? |
+| Sutton y Rao | Qué replicar y qué adaptar al escalar. | No define el scorecard. | ¿Qué parte de su experiencia es transferible aquí? |
+| Gerber | Pasar de operador a constructor del negocio. | No trata el reclutamiento de ejecutivos. | ¿Qué sistema sostiene a este líder? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Owner contrata COO de multinacional para empresa de 35 personas. La nueva ejecutiva crea capas y reporting pero evita decisiones hands-on necesarias en esa etapa.
+**Situación (hipotética).** Una empresa de distribución de insumos médicos con ventas de 1.800 millones de pesos al año busca un gerente comercial. El fundador define el resultado: «aumentar un 25 % las ventas en 12 meses sin descuentos mayores a los actuales y reducir en la mitad las ventas que dependen de él». Tres candidatos pasan por el proceso. Todas las cifras son **supuestos**.
 
-**Paso 1 — definir outcome y contexto.** La gerencia escribe primero el supuesto asociado a **leadership mandate** y evita convertirlo en hecho. Luego busca **executive retention** para contrastarlo en el caso de **contratar líderes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Scorecard (puntajes de 1 a 5 tras entrevistas y casos de trabajo).**
 
-**Paso 2 — crear scorecard y decision rights.** La gerencia escribe primero el supuesto asociado a **executive scorecard** y evita convertirlo en hecho. Luego busca **team performance** para contrastarlo en el caso de **contratar líderes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Criterio | Peso | Candidata A | Candidato B | Candidata C (interna) |
+|---|---|---|---|---|
+| Resultados en contexto parecido | 30 % | 4 | 5 | 3 |
+| Capacidad de construir equipos | 20 % | 4 | 3 | 4 |
+| Calidad de juicio en decisiones difíciles | 20 % | 3 | 4 | 4 |
+| Ajuste con el contexto y los valores | 15 % | 5 | 3 | 5 |
+| Comunicación y colaboración | 15 % | 4 | 3 | 4 |
 
-**Paso 3 — buscar evidence de scale.** La gerencia escribe primero el supuesto asociado a **decision authority** y evita convertirlo en hecho. Luego busca **decision autonomy** para contrastarlo en el caso de **contratar líderes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Puntajes ponderados.**
 
-**Paso 4 — hacer reference checks.** La gerencia escribe primero el supuesto asociado a **leadership leverage** y evita convertirlo en hecho. Luego busca **scorecard progress** para contrastarlo en el caso de **contratar líderes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- A: 0,30 × 4 + 0,20 × 4 + 0,20 × 3 + 0,15 × 5 + 0,15 × 4 = 1,20 + 0,80 + 0,60 + 0,75 + 0,60 = **3,95**.
+- B: 1,50 + 0,60 + 0,80 + 0,45 + 0,45 = **3,80**.
+- C: 0,90 + 0,80 + 0,80 + 0,75 + 0,60 = **3,85**.
 
-**Paso 5 — onboard con 90-day learning y decision plan.** La gerencia escribe primero el supuesto asociado a **executive onboarding** y evita convertirlo en hecho. Luego busca **owner escalations** para contrastarlo en el caso de **contratar líderes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+Las diferencias son **pequeñas**: 0,15 entre A y B. Con evaluaciones subjetivas y cinco criterios, no son concluyentes.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **contratar líderes**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Referencias propias.** Se realizan tres por candidato. Resultado: A, referencias coherentes con lo relatado (probabilidad de éxito estimada 70 %); B, resultados confirmados pero dos referencias cuestionan su trato al equipo (60 %); C, apoyo de sus pares pero sin experiencia directa de construir un equipo comercial (65 %).
+
+**Costo esperado de una mala contratación (supuestos).** Costo mensual total del cargo: 5,2 millones. Un error cuesta 8 meses de ese costo (41,6 millones), más 6 millones de reclutamiento y salida (a validar con asesoría laboral) y 10 millones por desorganización: **57,6 millones**.
+
+**Costo esperado del primer año.**
+
+| Candidato | Costo anual (salario y cargas supuestos) | Probabilidad de fracaso | Costo esperado de fracaso | Otros costos | Total esperado |
+|---|---|---|---|---|---|
+| A | 5,2 × 12 = 62,4 | 30 % | 0,30 × 57,6 = 17,28 | — | **79,68 millones** |
+| B | 4,8 × 12 = 57,6 | 40 % | 0,40 × 57,6 = 23,04 | — | **80,64 millones** |
+| C | 4,2 × 12 = 50,4 | 35 % | 0,35 × 57,6 = 20,16 | Reemplazo de su cargo actual: 12,0 | **82,56 millones** |
+
+**Valor esperado del resultado.** Un aumento de ventas de 25 % equivale a 450 millones de pesos; con un margen de contribución de 22 %, son **99 millones** al año. Con una probabilidad de éxito de 70 % para A, el valor esperado es 0,70 × 99 = 69,3 millones; para B (60 %), 59,4; para C (65 %), 64,35. Restando el costo anual: A: 69,3 − 62,4 = +6,9; B: 59,4 − 57,6 = +1,8; C: 64,35 − 50,4 − 12,0 = +1,95 (sin considerar el costo esperado de fracaso, ya incorporado en la probabilidad). **El orden es A, luego C y B**, pero las diferencias dependen de supuestos frágiles.
+
+**Lectura.** La decisión no debe depender de un decimal: debe depender de la evidencia sobre **el contexto** (A ajusta mejor), de las alertas sobre trato al equipo (B) y de la experiencia faltante (C). El análisis sugiere elegir a A, con una cláusula de revisión a los 90 días, y evaluar a C para un rol de apoyo con desarrollo.
+
+**Plan de 90 días de A.** Día 30: diagnóstico de clientes y equipo; día 60: propuesta de estructura comercial y primeras decisiones de precios dentro de límites; día 90: plan de doce meses y primeros resultados. Derechos de decisión: contratar y despedir vendedores dentro de su presupuesto con consulta; precios fuera de la política requieren al fundador.
+
+**Cuidados.** Los puntajes, probabilidades y costos son supuestos; las condiciones laborales y los costos de salida se verifican con asesoría laboral.
+
+**Qué muestra.** (1) El scorecard ordenó la evaluación. (2) Las referencias propias ajustaron la probabilidad de éxito. (3) El costo esperado de fracaso dimensiona cuánto invertir en seleccionar bien.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **leadership mandate** | resultado y alcance que se espera de un líder | Cuando executive retention es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **executive scorecard** | outcomes capabilities y behaviors usados para evaluar | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Contratar un líder frente a promover a un operador.** El primero trae experiencia externa y requiere traspasar contexto; el segundo conoce la empresa pero puede carecer de experiencia en el nuevo rol y deja un vacío. Ninguna alternativa elimina el riesgo.
 
-**Frontera de aplicación:** Experiencia en empresas grandes no se transfiere automáticamente a pymes. Evalúa contexto, ambigüedad, recursos y capacidad de operar al nivel requerido.
+**Límites.** Los puntajes y probabilidades son estimaciones subjetivas. Un scorecard mejora la consistencia pero no sustituye el juicio. Las normas laborales, de datos personales y de no discriminación que rigen los procesos de selección se verifican con asesoría. Las cifras del ejemplo son supuestos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre contratar líderes |
+| Nivel | Cómo se relaciona con contratar líderes |
 |---|---|
-| **Profesional** | usa **contratar líderes** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **leadership mandate** y **executive scorecard** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta executive retention con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si contratar líderes cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de contratar líderes reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **contratar líderes** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aspira a liderar y construye evidencia de resultados. |
+| **Jefe / Team Lead** | Participa en la selección de su equipo con criterios. |
+| **Gerente** | Define el scorecard de sus reportes y los incorpora. |
+| **CEO / Director** | Decide contrataciones directivas y evalúa su desempeño. |
+| **Founder / Owner** | Define el cargo, cede autoridad real y responde por la decisión. |
 
 ## 🏢 Caso ejecutivo
 
-Owner contrata COO de multinacional para empresa de 35 personas. La nueva ejecutiva crea capas y reporting pero evita decisiones hands-on necesarias en esa etapa.
+Una fundadora dirige una cadena de cuatro centros de rehabilitación kinesiológica con 55 personas y ventas anuales de 1.320 millones de pesos. Quiere contratar a un gerente general para poder concentrarse en abrir dos nuevos centros. Tres opciones: un exgerente de una clínica grande que pide 7,8 millones mensuales, con experiencia en sistemas pero sin haber manejado centros pequeños; la actual jefa del centro principal, con cinco años en la empresa, a quien le falta experiencia en finanzas y a quien subiría a 5,2 millones; y un consultor de gestión sanitaria que ofrece trabajar a tiempo parcial por 3,5 millones mensuales. La fundadora tiene miedo a perder el control de las relaciones con las derivaciones médicas, que representan el 70 % de los pacientes. Dos centros tienen márgenes de 8 % y otros dos de 21 %. No ha definido derechos de decisión. Estima que una mala contratación le costaría 10 meses del salario completo más 12 millones.
 
-Entrega un **decision brief de contratar líderes** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de decisión del fundador** que contenga: (a) el resultado y contexto del cargo; (b) un scorecard ponderado con las tres opciones y sus puntajes con justificación; (c) las alertas y las referencias propias que pedirá; (d) el costo esperado de fracaso de cada opción con probabilidades supuestas; (e) los derechos de decisión y la forma de transferir las relaciones con médicos; (f) el plan de 90 días, los criterios de continuidad y los límites del análisis.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **contratar líderes** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir outcome y contexto → 2. crear scorecard y decision rights → 3. buscar evidence de scale → 4. hacer reference checks → 5. onboard con 90-day learning y decision plan** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta executive retention, team performance; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Redacta el resultado de un cargo directivo que necesitas, con su contexto.
+2. Construye un scorecard con cinco criterios, pesos y señales de alerta.
+3. Escribe diez preguntas de referencia propia basadas en evidencia.
+4. Estima el costo de una mala contratación y de una buena con supuestos explícitos.
+5. Diseña el plan de 90 días y los derechos de decisión del cargo.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar leadership mandate y executive scorecard como sinónimos | Se pierde la distinción entre “resultado y alcance que se espera de un líder” y “outcomes capabilities y behaviors usados para evaluar” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “onboard con 90-day learning y decision plan” | Se saltó “definir outcome y contexto” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir outcome y contexto → 2. crear scorecard y decision rights → 3. buscar evidence de scale → 4. hacer reference checks → 5. onboard con 90-day learning y decision plan y marca el primer supuesto no demostrado. |
-| Optimizar solo executive retention | La métrica local sustituyó al resultado del sistema | Contrástala con team performance y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre contratar líderes | Experiencia en empresas grandes no se transfiere automáticamente a pymes. Evalúa contexto, ambigüedad, recursos y capacidad de operar al nivel requerido. |
-| No fijar revisión | Una decisión sobre contratar líderes se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Contratar por título | Se busca prestigio | Definir resultados y contexto. |
+| Entrevistas sin criterios | Se decide por simpatía | Scorecard ponderado y evaluación compartida. |
+| Solo referencias entregadas | Es lo fácil | Referencias propias con preguntas concretas. |
+| Contratar y decidir por encima | Cuesta soltar | Matriz de derechos de decisión. |
+| Sin plan inicial | Se espera que «se adapte» | Plan de 90 días con revisiones. |
+| Postergar la decisión de continuidad | Se evita el conflicto | Criterios escritos y fecha de revisión. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **leadership mandate** y **executive scorecard** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **decision authority** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir outcome y contexto → crear scorecard y decision rights** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **executive retention** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **contratar líderes**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Experiencia en empresas grandes no se transfiere automáticamente a pymes. Evalúa contexto, ambigüedad, recursos y capacidad de operar al nivel requerido.**?
+1. ¿Qué incluye la definición de un cargo directivo?
+2. ¿Para qué sirve un scorecard ponderado?
+3. ¿Qué es evidencia de escala?
+4. ¿Qué ventaja tienen las referencias propias?
+5. ¿Qué se incluye en el costo de una mala contratación?
+6. ¿Qué errores comete el fundador tras contratar?
+7. ¿Qué límite tiene el análisis cuantitativo?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Resultados esperados, contexto de la empresa y decisiones que tomará.
+2. Para evaluar a todos con los mismos criterios y reducir decisiones por simpatía.
+3. Pruebas verificables de que hizo algo parecido en un contexto parecido.
+4. Que no están elegidas por el candidato y suelen ser más informativas.
+5. Salarios sin resultado, reclutamiento y salida, desorganización del equipo y tiempo del fundador.
+6. Decidir por encima del líder o desaparecer sin darle contexto.
+7. Son estimaciones subjetivas y frágiles; no sustituyen el juicio ni la evidencia.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/267-contratar-lideres/`:
 
-- `founder-owner-decision-brief.md` con el problema específico de **contratar líderes**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **contratar líderes** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **leadership mandate**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Owner contrata COO de multinacional para empresa de 35 personas. La nueva ejecutiva crea capas y reporting pero evita decisiones hands-on necesarias en esa etapa.** y el dato que podría invalidar la recomendación.
+- `founder-owner-decision-brief.md` (plantilla [Founder owner decision brief](../../../../templates/founder-owner-decision-brief.md)) con el memo del caso ejecutivo;
+- `org-design.md` (plantilla [Org design](../../../../templates/org-design.md)) con el scorecard, los derechos de decisión y el plan de 90 días;
+- `decision-journal.md` con las referencias, las probabilidades y los criterios de continuidad.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** diferencia entre técnico, manager y empresario; sistematización del negocio. Lectura selectiva sobre **contratar líderes**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
-- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** personas, estrategia, ejecución y caja durante el escalamiento. Lectura selectiva sobre **contratar líderes**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Reid Hoffman & Chris Yeh — *Blitzscaling* (HarperCollins Publishers Limited, 2018). **Uso en esta clase:** perspectiva de Escalamiento aplicada al problema de la clase. Lectura selectiva sobre **contratar líderes**. **Localizador:** [ISBN-13 9780008303648](https://openlibrary.org/isbn/9780008303648).
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **contratar líderes**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** cómo propagar excelencia sin multiplicar burocracia y daño. Lectura selectiva sobre **contratar líderes**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **contratar líderes** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **contratar líderes**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **contratar líderes** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **contratar líderes** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **contratar líderes** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** claridad de roles y rutinas del equipo directivo. Lectura selectiva sobre **contratar líderes**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
+- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles sobre personas en empresas en crecimiento. Lectura selectiva sobre **contratar líderes**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
+- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** responsabilidades de la dirección y del gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
+- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** qué replicar y qué adaptar al escalar. Lectura selectiva sobre **contratar líderes**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
+- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** del dueño-operador al dueño-constructor. Lectura selectiva sobre **contratar líderes**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
+- Reid Hoffman & Chris Yeh — *Blitzscaling* (HarperCollins Publishers Limited, 2018). **Uso en esta clase:** contratación de líderes en etapas de crecimiento acelerado. Lectura selectiva sobre **contratar líderes**. **Localizador:** [ISBN-13 9780008303648](https://openlibrary.org/isbn/9780008303648).
 
-> **Regla de fuentes para Contratar líderes:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **contratar líderes** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Contratar líderes:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales y de datos personales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

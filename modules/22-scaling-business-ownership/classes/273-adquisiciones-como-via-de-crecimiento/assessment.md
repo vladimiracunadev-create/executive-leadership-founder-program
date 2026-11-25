@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **acquisition entrepreneurship** de **search criteria** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **seller dependency** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **earn-out** con **transition services**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué debe contener una tesis de adquisición?
+2. ¿Qué es el EBITDA normalizado y por qué se calcula?
+3. ¿Cómo se evalúa la capacidad de servir la deuda?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Owner evalúa comprar empresa familiar con EBITDA atractivo. El vendedor concentra 60% de ventas y relaciones de proveedores; quiere retirarse inmediatamente.
+**Caso:** Una empresa de transporte escolar con 22 buses y ventas anuales de 720 millones de pesos evalúa comprar una empresa competidora que opera 14 buses en otra comuna, con ingresos de 410 millones y EBITDA reportado de 74 millones. Los contratos con tres colegios representan 58 % de sus ingresos y vencen en 14 meses; el dueño actual (62 años) conduce uno de los buses, gestiona personalmente las relaciones con los colegios y se paga 1,2 millones mensuales. Hay una deuda de 60 millones con vencimientos próximos, dos buses de más de 18 años y un conductor clave con contrato indefinido. El vendedor pide 340 millones. La empresa compradora tiene 90 millones en caja y puede obtener un crédito de hasta 150 millones a 13 % por 5 años. La integración requeriría reorganizar rutas y mantención.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir acquisition thesis → filtrar targets → analizar normalized earnings y dependency → estructurar financing y terms → planificar 100-day integration**. Debes utilizar o diseñar cómo obtener **normalized EBITDA, debt service, customer concentration**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **memo estratégico de adquisición** que contenga: (a) la tesis y la fuente de valor, con sus riesgos; (b) la normalización del EBITDA con ajustes explícitos; (c) el análisis de concentración y de personas clave con su efecto en la caja; (d) el rango de precio, el precio máximo y la capacidad de servir la deuda con escenario adverso; (e) la estructura de términos (pago contingente, transición, deuda asumida) y las condiciones para avanzar; (f) el plan de 100 días, los límites del análisis y las verificaciones con asesores. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Comprar flujo histórico no garantiza que sobreviva al cambio de propietario. Ajusta valoración y terms por key-person, clientes y transición.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Comprar flujo histórico no garantiza que sobreviva al cambio de propietario; las valoraciones por múltiplos son referencias, no verdades; la debida diligencia puede revelar problemas que cambian o frenan la operación.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

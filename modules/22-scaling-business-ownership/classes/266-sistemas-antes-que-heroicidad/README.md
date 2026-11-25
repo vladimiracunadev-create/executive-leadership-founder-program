@@ -10,217 +10,208 @@
 
 ## 🎯 Propósito
 
-Sistemas reemplazan heroicidad cuando procesos, estándares, datos y responsabilidades permiten resultados repetibles sin rescates constantes. E-Myth y disciplinas operativas ayudan a documentar el cómo, pero el objetivo es capacidad adaptable, no manuales que nadie usa.
+En una empresa que depende de héroes, las cosas salen bien porque alguien se queda hasta tarde, recuerda un detalle, llama a un cliente o arregla a último minuto lo que falló. Eso funciona mientras la empresa es pequeña y mientras el héroe aguanta. Después aparecen los síntomas: el mismo error se repite, la calidad depende de quién atiende, los nuevos tardan meses en aprender «cómo se hace aquí», las vacaciones paralizan procesos y el cansancio del equipo se confunde con compromiso. Un **sistema** es la alternativa: una manera **acordada, escrita, medida y mejorable** de hacer lo importante, de modo que el resultado no dependa de la memoria ni del esfuerzo extraordinario de una persona. Gerber insiste en que construir un negocio es construir sistemas que cualquier persona competente pueda operar.
 
-La salida de esta parte es **reducir dependencia del fundador mediante sistemas, líderes, controles y gobierno proporcional**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **sistemas antes que heroicidad** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta un método para pasar de la heroicidad a los sistemas: identificar los procesos críticos, capturar el estándar y sus excepciones, asignar un dueño a cada proceso, instrumentar métricas y controles, y mejorar a partir de incidentes y retroalimentación. Se apoya en Gerber, Harnish (rutinas y prioridades), Galbraith (diseño de organizaciones y coordinación), Sutton y Rao (escalar prácticas esenciales), Gil (manual de crecimiento acelerado) y Hoffman y Yeh. Al terminar sabrás elegir qué procesos documentar primero, definir indicadores de adherencia, excepciones y tiempo de ciclo, estimar el retorno de un sistema con un modelo simple y evitar la burocracia que mata el criterio.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `business system`, `standard work`, `SOP`, `exception path`, `process owner` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de business owner.
-3. **Aplicar** la secuencia **1. identificar procesos críticos → 2. capturar standard y exceptions → 3. asignar process owners → 4. instrumentar métricas y controls → 5. mejorar desde incidentes y feedback** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** process adherence, exception rate, cycle time sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** un sistema de una heroicidad, de un manual guardado y de una burocracia.
+2. **Priorizar** los procesos críticos para documentar y medir.
+3. **Capturar** un estándar con sus excepciones y su dueño.
+4. **Medir** adherencia, tasa de excepciones y tiempo de ciclo sin atribuir causalidad automática.
+5. **Estimar** el retorno de un sistema con supuestos explícitos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define business system y standard work sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con process adherence y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué proceso de tu empresa funciona solo porque alguien lo sostiene? |
+| 20–60 min | Procesos críticos, estándar y excepciones, dueños, métricas, mejora continua. |
+| 60–105 min | Ejemplo trabajado: tasa de excepciones, costo del retrabajo y retorno de un sistema. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **business system** | conjunto repetible de personas procesos tecnología y controles | Distingue un hecho compatible y otro que lo refute. |
-| **standard work** | mejor método actual documentado y mejorable | Distingue un hecho compatible y otro que lo refute. |
-| **SOP** | procedimiento operativo estándar para tareas recurrentes | Distingue un hecho compatible y otro que lo refute. |
-| **exception path** | ruta definida para casos fuera del estándar | Distingue un hecho compatible y otro que lo refute. |
-| **process owner** | rol accountable por desempeño end-to-end | Distingue un hecho compatible y otro que lo refute. |
+| **Sistema** | Forma acordada, escrita y medida de hacer algo importante. | Estándar, dueño y métricas. |
+| **Proceso crítico** | Proceso que afecta al cliente, la caja o el riesgo. | Su falla se nota rápido. |
+| **Estándar** | Manera esperada de ejecutar un proceso. | Pasos, criterios y ejemplos. |
+| **Excepción** | Caso que no calza con el estándar. | Se registra y se analiza. |
+| **Dueño de proceso** | Responsable de que funcione y mejore. | Una persona con nombre. |
+| **Tiempo de ciclo** | Tiempo desde el inicio hasta el final de un proceso. | Fecha de inicio y de término. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 266: 1. identificar procesos críticos → 2. capturar standard y exceptions → 3. asignar process owners → 4. instrumentar métricas y controls → 5. mejorar desde incidentes y feedback](modelo-mental.svg)
+![Cadena para construir sistemas: procesos críticos, estándar y excepciones, dueños de proceso, métricas y controles, y mejora desde incidentes.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. identificar procesos críticos → 2. capturar standard y exceptions → 3. asignar process owners → 4. instrumentar métricas y controls → 5. mejorar desde incidentes y feedback
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Sistemas reemplazan heroicidad cuando procesos, estándares, datos y responsabilidades permiten resultados repetibles sin rescates constantes. E-Myth y disciplinas operativas ayudan a documentar el cómo, pero el objetivo es capacidad adaptable, no manuales que nadie usa.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No sistematices trabajo exploratorio prematuramente. Estandariza lo repetible y conserva autonomía donde el valor depende de judgment o innovación.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos. **Procesos críticos**: los que afectan al cliente, la caja o el riesgo. **Estándar y excepciones**: cómo se hace y cuándo se desvía. **Dueños de proceso**: una persona responsable por cada uno. **Métricas y controles**: adherencia, excepciones y tiempo de ciclo. **Mejora desde incidentes**: cada falla ajusta el sistema. La flecha de retorno indica que las excepciones actualizan el estándar. La nota advierte que un sistema demasiado rígido o prematuro frena el aprendizaje; el pie, que si una persona heroica sostiene el proceso, el proceso aún no existe.
 
 ## 📖 Desarrollo
 
-### 1. business system: mecanismo central
+### 1. Heroicidad, sistema y burocracia
 
-**business system** se entiende aquí como **conjunto repetible de personas procesos tecnología y controles**. Esta es la pieza causal o estructural desde la que se inicia **sistemas antes que heroicidad**: antes de identificar procesos críticos, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La **heroicidad** es el resultado excelente que depende del esfuerzo extraordinario de una persona; es valiosa en una emergencia y peligrosa como forma habitual de operar. El **sistema** es lo contrario: un resultado consistente que no depende de quién lo haga, porque el método está claro. La **burocracia** es la caricatura del sistema: reglas sin propósito, aprobaciones innecesarias y papeles que nadie lee. Un buen sistema es **lo más simple que asegura el resultado**, y deja criterio donde cada caso es distinto. Gerber sostiene que el propietario debe diseñar la empresa como un prototipo replicable, de modo que el cliente reciba lo mismo con independencia de quién lo atienda. Eso no significa uniformidad ciega, sino previsibilidad en lo que importa y flexibilidad en lo demás.
 
-La lectura rectora de este bloque es Michael E. Gerber — *The E-Myth Revisited*. Su aporte se usa para examinar **diferencia entre técnico, manager y empresario; sistematización del negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **process adherence**; regístrala con periodo, unidad, población y baseline.
+### 2. Elegir los procesos críticos
 
-Relaciona el mecanismo con **standard work**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+No todo merece un sistema. Se priorizan los procesos que cumplen alguno de estos criterios: **afectan directamente al cliente** (entrega, atención, postventa), **mueven caja** (cotizar, facturar, cobrar, pagar), **implican riesgo** (seguridad, cumplimiento, calidad) o **son repetitivos y consumen tiempo** del dueño o de personas clave. Se enumeran entre cinco y diez, se estiman su frecuencia, su costo cuando fallan y cuántas personas los saben hacer. Harnish recomienda enfocarse en pocas prioridades por período: en sistemas, eso significa documentar y mejorar **uno o dos procesos por trimestre**, no intentar un manual completo. Un proceso mal elegido puede consumir meses y no cambiar nada.
 
-### 2. standard work: frontera conceptual y error de clasificación
+### 3. Capturar el estándar y las excepciones
 
-**Definición operacional:** mejor método actual documentado y mejorable. Su valor está en distinguirlo de **business system** y **SOP**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El estándar se captura **observando cómo lo hace la persona que mejor lo hace**, no inventando un proceso ideal en una oficina. Se registran los pasos, las decisiones, las herramientas, los tiempos y los criterios de calidad, con ejemplos y errores comunes. Se escribe breve y visual (listas de verificación, diagramas simples, plantillas). Luego se identifican las **excepciones**: casos que se desvían del estándar y qué hacer en cada uno, con una regla clara de cuándo escalar. Sutton y Rao destacan que escalar una práctica implica distinguir lo que debe replicarse **exactamente** de lo que puede adaptarse; el estándar debe marcar esa frontera. Se prueba con alguien nuevo: si no puede ejecutar el proceso con el documento, el documento aún no sirve.
 
-Contrasta el problema con Verne Harnish — *Scaling Up*, que aporta una mirada sobre **personas, estrategia, ejecución y caja durante el escalamiento**. Formula dos mini-casos: uno que sí satisface la definición de **standard work** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **exception rate** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Asignar dueños y diseñar la coordinación
 
-Antes de capturar standard y exceptions, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un proceso sin dueño se degrada. El **dueño** es responsable de que el proceso se cumpla, de medirlo, de actualizarlo y de proponer mejoras; no necesariamente ejecuta todos los pasos. Galbraith explica que el diseño de la organización consiste en decidir cómo se **divide el trabajo y cómo se coordina**: procesos que cruzan áreas requieren mecanismos de coordinación explícitos (roles integradores, reuniones breves, tableros compartidos, reglas de traspaso). Se define para cada proceso: quién lo inicia, quién lo ejecuta, quién lo aprueba, quién lo recibe y cómo se resuelven los conflictos. La coordinación informal funciona en equipos de pocas personas; con el crecimiento, lo implícito se rompe y el costo de coordinar crece.
 
-### 3. SOP: operacionalización y medición
+### 5. Medir con pocas métricas útiles
 
-**SOP** significa **procedimiento operativo estándar para tareas recurrentes**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Tres métricas simples aplican a casi cualquier proceso. **Adherencia**: qué porcentaje de las veces se siguió el estándar. **Tasa de excepciones**: qué porcentaje de los casos se desvió o requirió corrección. **Tiempo de ciclo**: cuánto tarda de principio a fin. Se agregan **calidad** (reclamos, retrabajo) y **costo** cuando son relevantes. Se registran de forma sencilla y se revisan en una reunión regular. Las métricas deben ser **accionables**: si cambian, alguien decide algo distinto. Y se interpretan con cuidado: una baja en la tasa de excepciones puede deberse a una mejora real, a que se dejó de registrar excepciones o a un cambio en el tipo de pedidos. **No se atribuye causalidad automática**; se pregunta qué más cambió.
 
-Jay R. Galbraith — *Designing Organizations* orienta este bloque mediante **alineación de estrategia, estructura, procesos, recompensas y personas**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **cycle time**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Mejorar desde incidentes y retroalimentación
 
-Al llegar a asignar process owners, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Los sistemas no se terminan; se **actualizan**. Cada incidente (un error, un reclamo, un retraso) es una oportunidad de aprender: se describe qué pasó sin buscar culpables, se identifica la causa, se decide el cambio al estándar o a la capacitación, y se verifica después si funcionó. Se recogen también las sugerencias de quienes ejecutan el proceso: suelen saber mejor que nadie dónde se pierde tiempo. Se fija un **ritmo de revisión** (por ejemplo, trimestral) y se archivan las versiones. Gil, en su manual de crecimiento acelerado, subraya que los procesos que funcionaban con diez personas se rompen con cincuenta; revisar los sistemas al crecer es parte del trabajo, no una señal de que se hicieron mal.
 
-### 4. exception path: trade-offs y efectos de segundo orden
+### 7. Qué sistemas no construir (todavía) y cómo evitar la burocracia
 
-**Definición:** ruta definida para casos fuera del estándar. Este concepto obliga a abandonar la idea de que **sistemas antes que heroicidad** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de instrumentar métricas y controls, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* aporta una lente sobre **cómo propagar excelencia sin multiplicar burocracia y daño**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **owner interventions** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **sistemas antes que heroicidad**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **exception path** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. process owner: gobernanza, límites e integración
-
-**process owner** se define como **rol accountable por desempeño end-to-end** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Elad Gil — *High Growth Handbook* se utiliza para estudiar **perspectiva de Escalamiento aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar mejorar desde incidentes y feedback, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No sistematices trabajo exploratorio prematuramente. Estandariza lo repetible y conserva autonomía donde el valor depende de judgment o innovación.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **business system**, **standard work**, **SOP**, **exception path** y **process owner** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **sistemas antes que heroicidad** no consiste en sumar cinco definiciones. Empieza por **business system**, contrasta **standard work** con **SOP**, incorpora **exception path** como restricción o mecanismo y usa **process owner** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. identificar procesos críticos → 2. capturar standard y exceptions → 3. asignar process owners → 4. instrumentar métricas y controls → 5. mejorar desde incidentes y feedback**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un sistema prematuro puede congelar una práctica que aún se está descubriendo; uno excesivo puede quitar iniciativa y generar trabajo sin valor. Criterios para no sobredimensionar: **no documentar lo que cambia cada semana**, no exigir aprobaciones donde el riesgo es bajo, no crear formularios que nadie usa, no medir lo que no se usará para decidir. Conviene también proteger los espacios donde el **criterio** es el valor (diseño, negociación, relaciones estratégicas): ahí el sistema debe orientar, no reemplazar. Hoffman y Yeh describen cómo, en etapas de crecimiento muy rápido, las empresas aceptan desorden a cambio de velocidad; una empresa que no está en ese régimen debe, en cambio, buscar consistencia. La pregunta guía es: **¿qué es lo mínimo que debe ser consistente para que el cliente confíe y la empresa no dependa de una persona?**
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Gerber — *The E-Myth Revisited* | diferencia entre técnico, manager y empresario; sistematización del negocio | ¿Qué supuesto de **sistemas antes que heroicidad** ayuda a desafiar? |
-| Verne Harnish — *Scaling Up* | personas, estrategia, ejecución y caja durante el escalamiento | ¿Qué supuesto de **sistemas antes que heroicidad** ayuda a desafiar? |
-| Jay R. Galbraith — *Designing Organizations* | alineación de estrategia, estructura, procesos, recompensas y personas | ¿Qué supuesto de **sistemas antes que heroicidad** ayuda a desafiar? |
-| Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* | cómo propagar excelencia sin multiplicar burocracia y daño | ¿Qué supuesto de **sistemas antes que heroicidad** ayuda a desafiar? |
-| Elad Gil — *High Growth Handbook* | perspectiva de Escalamiento aplicada al problema de la clase | ¿Qué supuesto de **sistemas antes que heroicidad** ayuda a desafiar? |
-
-En **sistemas antes que heroicidad**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **business system**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Gerber | La empresa como prototipo replicable. | Puede entenderse como rigidez. | ¿Qué debe ser igual para todos los clientes? |
+| Harnish | Prioridades y rutinas de gestión. | No diseña procesos específicos. | ¿Qué proceso mejoro este trimestre? |
+| Galbraith | Diseño y coordinación de la organización. | Enfoque en organizaciones grandes. | ¿Cómo se coordinan las áreas en este proceso? |
+| Sutton y Rao | Qué replicar exactamente y qué adaptar. | No dice cómo documentar. | ¿Qué parte del proceso no puede cambiar? |
+| Gil | Qué se rompe al crecer y cómo ajustarlo. | Basado en empresas de crecimiento rápido. | ¿Qué proceso no resistirá el doble de volumen? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Cada cierre mensual depende de una analista que conoce macros y passwords. Cuando renuncia, nadie puede emitir reportes por tres semanas.
+**Situación (hipotética).** Una empresa de impresión personalizada procesa 400 pedidos al mes. El proceso «pedido a entrega» depende de dos personas que «saben cómo se hace». Se decide documentarlo y medirlo. Los números son **supuestos**; deben verificarse con datos reales.
 
-**Paso 1 — identificar procesos críticos.** La gerencia escribe primero el supuesto asociado a **business system** y evita convertirlo en hecho. Luego busca **process adherence** para contrastarlo en el caso de **sistemas antes que heroicidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Línea base (tres meses).**
 
-**Paso 2 — capturar standard y exceptions.** La gerencia escribe primero el supuesto asociado a **standard work** y evita convertirlo en hecho. Luego busca **exception rate** para contrastarlo en el caso de **sistemas antes que heroicidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Métrica | Valor |
+|---|---|
+| Pedidos por mes | 400 |
+| Pedidos con excepción (reproceso, error de datos o retraso) | 18 % |
+| Costo promedio de una excepción | 35.000 pesos (horas, materiales, envíos) |
+| Tiempo de ciclo promedio | 9 días |
+| Adherencia al estándar informal | 62 % |
 
-**Paso 3 — asignar process owners.** La gerencia escribe primero el supuesto asociado a **SOP** y evita convertirlo en hecho. Luego busca **cycle time** para contrastarlo en el caso de **sistemas antes que heroicidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costo mensual de las excepciones.** 400 × 18 % = 72 pedidos; 72 × 35.000 = **2.520.000 pesos**.
 
-**Paso 4 — instrumentar métricas y controls.** La gerencia escribe primero el supuesto asociado a **exception path** y evita convertirlo en hecho. Luego busca **owner interventions** para contrastarlo en el caso de **sistemas antes que heroicidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Inversión en el sistema.** Documentar el proceso, preparar listas de verificación, capacitar a seis personas, ajustar el tablero: 60 horas de trabajo a 25.000 pesos la hora (1.500.000) más herramientas y capacitación externa (4.500.000). **Total: 6.000.000 pesos.**
 
-**Paso 5 — mejorar desde incidentes y feedback.** La gerencia escribe primero el supuesto asociado a **process owner** y evita convertirlo en hecho. Luego busca **defect rate** para contrastarlo en el caso de **sistemas antes que heroicidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultados tras tres meses (observados).**
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **sistemas antes que heroicidad**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+| Métrica | Antes | Después |
+|---|---|---|
+| Pedidos con excepción | 18 % | 8 % |
+| Tiempo de ciclo | 9 días | 6 días |
+| Adherencia | 62 % | 90 % |
+
+**Costo mensual de excepciones después.** 400 × 8 % = 32 pedidos; 32 × 35.000 = **1.120.000**. **Ahorro mensual:** 2.520.000 − 1.120.000 = **1.400.000 pesos**.
+
+**Período de recuperación.** 6.000.000 ÷ 1.400.000 ≈ **4,3 meses**.
+
+**Efecto en el tiempo de ciclo.** Reducir de 9 a 6 días equivale a un 33,3 % (3 ÷ 9). Con 400 pedidos por mes, y un trabajo en curso proporcional al tiempo de ciclo, el inventario promedio de pedidos en proceso baja de aproximadamente 400 × 9 ÷ 30 = 120 a 400 × 6 ÷ 30 = 80, es decir **40 pedidos menos en proceso**.
+
+**Cautela sobre la causalidad.** Antes de atribuir toda la mejora al sistema, se revisan otras explicaciones: ¿cambió el tipo de pedidos?, ¿se registraron las excepciones con el mismo criterio?, ¿hubo un mes de menor volumen o de menor complejidad?, ¿mejoró la calidad de los archivos que envían los clientes? Si la mitad de la mejora se debiera a otros factores, el ahorro atribuible sería 700.000 y la recuperación, 8,6 meses (6.000.000 ÷ 700.000), todavía razonable. **El análisis se repite con seis meses de datos.**
+
+**Decisión.** Mantener el sistema, nombrar un dueño del proceso, revisar el estándar con las excepciones de cada mes, registrar excepciones con definiciones claras, y documentar el siguiente proceso crítico (cotizaciones) solo cuando la adherencia del primero se mantenga sobre 85 % durante dos meses.
+
+**Cuidados.** Los valores son supuestos; la definición de excepción y el costo promedio se calculan con registros reales.
+
+**Qué muestra.** (1) Los tres indicadores describen el proceso. (2) El costo de las excepciones justificó la inversión. (3) La causalidad se cuestionó antes de atribuir el ahorro.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **business system** | conjunto repetible de personas procesos tecnología y controles | Cuando process adherence es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **standard work** | mejor método actual documentado y mejorable | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Sistema frente a manual archivado.** Un manual que nadie usa no es un sistema: un sistema tiene dueño, métricas y revisión, y se incorpora a la rutina de trabajo. La documentación es solo una parte.
 
-**Frontera de aplicación:** No sistematices trabajo exploratorio prematuramente. Estandariza lo repetible y conserva autonomía donde el valor depende de judgment o innovación.
+**Límites.** Un sistema demasiado rígido o prematuro frena el aprendizaje y el criterio. Las métricas no prueban causalidad. Los procesos con alta variabilidad requieren más juicio que estandarización. Las cifras del ejemplo son supuestos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre sistemas antes que heroicidad |
+| Nivel | Cómo se relaciona con los sistemas |
 |---|---|
-| **Profesional** | usa **sistemas antes que heroicidad** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **business system** y **standard work** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta process adherence con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si sistemas antes que heroicidad cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de sistemas antes que heroicidad reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **sistemas antes que heroicidad** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Sigue el estándar y propone mejoras desde la práctica. |
+| **Jefe / Team Lead** | Hace cumplir y mide el proceso de su equipo. |
+| **Gerente** | Es dueño de procesos y coordina entre áreas. |
+| **CEO / Director** | Prioriza qué sistemas construir y revisa la consistencia. |
+| **Founder / Owner** | Diseña la empresa como un sistema y lo deja de sostener personalmente. |
 
 ## 🏢 Caso ejecutivo
 
-Cada cierre mensual depende de una analista que conoce macros y passwords. Cuando renuncia, nadie puede emitir reportes por tres semanas.
+Una empresa de instalación de redes domésticas tiene 22 técnicos y cerca de 260 visitas al mes. El gerente de operaciones, con 7 años en la empresa, reasigna visitas por teléfono; ante imprevistos, el fundador llama personalmente a los clientes. El 24 % de las visitas requiere una segunda visita por falta de materiales, información incompleta o errores de diagnóstico; cada segunda visita cuesta 48.000 pesos entre traslado, tiempo y repuestos. La satisfacción del cliente es muy alta en las visitas del gerente y baja en las de técnicos nuevos. El tiempo entre solicitud e instalación es de 8 días. El gerente ha dicho que se va a otra empresa en cuatro meses. El fundador cree que «los sistemas matan la flexibilidad». Hay una propuesta para implementar un software de despacho por 7,5 millones de pesos.
 
-Entrega un **decision brief de sistemas antes que heroicidad** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de decisión y modelo financiero** que contenga: (a) los procesos críticos priorizados con criterios; (b) el costo mensual de las segundas visitas y el efecto de reducir la tasa a 12 %; (c) el estándar mínimo y las excepciones que documentaría primero; (d) el diseño de dueños, métricas y revisión; (e) el período de recuperación del software y una versión sin software (listas de verificación, capacitación), con sensibilidad; (f) los límites del análisis y qué decisiones requieren criterio humano.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **sistemas antes que heroicidad** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. identificar procesos críticos → 2. capturar standard y exceptions → 3. asignar process owners → 4. instrumentar métricas y controls → 5. mejorar desde incidentes y feedback** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta process adherence, exception rate; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Lista tus cinco procesos críticos y prioriza dos con los criterios de la clase.
+2. Observa cómo lo hace la mejor persona y escribe el estándar en una página.
+3. Define la métrica de excepción de tu proceso y el costo promedio de cada una.
+4. Calcula la recuperación de la inversión y una versión conservadora con la mitad del ahorro.
+5. Asigna un dueño y una fecha de revisión trimestral.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar business system y standard work como sinónimos | Se pierde la distinción entre “conjunto repetible de personas procesos tecnología y controles” y “mejor método actual documentado y mejorable” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “mejorar desde incidentes y feedback” | Se saltó “identificar procesos críticos” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. identificar procesos críticos → 2. capturar standard y exceptions → 3. asignar process owners → 4. instrumentar métricas y controls → 5. mejorar desde incidentes y feedback y marca el primer supuesto no demostrado. |
-| Optimizar solo process adherence | La métrica local sustituyó al resultado del sistema | Contrástala con exception rate y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre sistemas antes que heroicidad | No sistematices trabajo exploratorio prematuramente. Estandariza lo repetible y conserva autonomía donde el valor depende de judgment o innovación. |
-| No fijar revisión | Una decisión sobre sistemas antes que heroicidad se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Documentar todo | Se busca control total | Uno o dos procesos críticos por trimestre. |
+| Manual sin dueño | Se escribe y se archiva | Dueño, métricas y revisión. |
+| Estándar inventado en la oficina | No se observa a quien lo hace bien | Capturar la práctica real y probarla con un nuevo. |
+| Medir sin decidir | Se acumulan datos | Métricas que cambian decisiones. |
+| Atribuir toda mejora al sistema | Se celebra rápido | Revisar otras explicaciones. |
+| Rigidez excesiva | Se desconfía del criterio | Marcar dónde se permite adaptación. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **business system** y **standard work** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **SOP** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **identificar procesos críticos → capturar standard y exceptions** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **process adherence** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **sistemas antes que heroicidad**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No sistematices trabajo exploratorio prematuramente. Estandariza lo repetible y conserva autonomía donde el valor depende de judgment o innovación.**?
+1. ¿Qué diferencia hay entre heroicidad, sistema y burocracia?
+2. ¿Qué criterios sirven para elegir procesos críticos?
+3. ¿Por qué se observa al mejor ejecutante antes de escribir el estándar?
+4. ¿Qué hace un dueño de proceso?
+5. ¿Qué tres métricas aplican a casi cualquier proceso?
+6. ¿Por qué no se atribuye causalidad automática a una mejora?
+7. ¿Qué límite tiene este enfoque?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La heroicidad depende de una persona; el sistema es un método acordado y medido; la burocracia son reglas sin propósito.
+2. Que afecte al cliente, mueva caja, implique riesgo o sea repetitivo y consuma tiempo clave.
+3. Porque el estándar debe reflejar la práctica que funciona y no un ideal sin prueba.
+4. Responde por que el proceso se cumpla, se mida, se actualice y mejore.
+5. Adherencia, tasa de excepciones y tiempo de ciclo.
+6. Porque pueden haber cambiado el mix, los criterios de registro u otros factores.
+7. Un sistema rígido o prematuro frena el aprendizaje, y las métricas no prueban causalidad.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/266-sistemas-antes-que-heroicidad/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **sistemas antes que heroicidad**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **sistemas antes que heroicidad** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **business system**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Cada cierre mensual depende de una analista que conoce macros y passwords. Cuando renuncia, nadie puede emitir reportes por tres semanas.** y el dato que podría invalidar la recomendación.
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el memo y el cálculo del caso ejecutivo;
+- `decision-journal.md` con el estándar, las excepciones y la revisión de métricas.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** diferencia entre técnico, manager y empresario; sistematización del negocio. Lectura selectiva sobre **sistemas antes que heroicidad**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
-- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** personas, estrategia, ejecución y caja durante el escalamiento. Lectura selectiva sobre **sistemas antes que heroicidad**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
-- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** alineación de estrategia, estructura, procesos, recompensas y personas. Lectura selectiva sobre **sistemas antes que heroicidad**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
-- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** cómo propagar excelencia sin multiplicar burocracia y daño. Lectura selectiva sobre **sistemas antes que heroicidad**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
-- Elad Gil — *High Growth Handbook* (Stripe Matter Inc, 2018). **Uso en esta clase:** perspectiva de Escalamiento aplicada al problema de la clase. Lectura selectiva sobre **sistemas antes que heroicidad**. **Localizador:** [ISBN-13 9781953953377](https://openlibrary.org/isbn/9781953953377).
-- Reid Hoffman & Chris Yeh — *Blitzscaling* (HarperCollins Publishers Limited, 2018). **Uso en esta clase:** perspectiva de Escalamiento aplicada al problema de la clase. Lectura selectiva sobre **sistemas antes que heroicidad**. **Localizador:** [ISBN-13 9780008303648](https://openlibrary.org/isbn/9780008303648).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **sistemas antes que heroicidad** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **sistemas antes que heroicidad**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **sistemas antes que heroicidad** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **sistemas antes que heroicidad** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **sistemas antes que heroicidad** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** la empresa como prototipo replicable que no depende de una persona. Lectura selectiva sobre **sistemas antes que heroicidad**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
+- Verne Harnish — *Scaling Up* (Gazelles, Inc., 2014). **Uso en esta clase:** prioridades y rutinas de gestión para crecer. Lectura selectiva sobre **sistemas antes que heroicidad**. **Localizador:** [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555).
+- Jay R. Galbraith — *Designing Organizations* (Jossey-Bass Publishers, 1995). **Uso en esta clase:** división del trabajo y coordinación organizacional. Lectura selectiva sobre **sistemas antes que heroicidad**. **Localizador:** [ISBN-13 9780787900915](https://openlibrary.org/isbn/9780787900915).
+- Robert I. Sutton & Huggy Rao — *Scaling Up Excellence* (Random House Canada, 2014). **Uso en esta clase:** qué replicar exactamente y qué adaptar al escalar. Lectura selectiva sobre **sistemas antes que heroicidad**. **Localizador:** [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428).
+- Elad Gil — *High Growth Handbook* (Stripe Matter Inc, 2018). **Uso en esta clase:** qué se rompe al crecer y cómo ajustarlo. Lectura selectiva sobre **sistemas antes que heroicidad**. **Localizador:** [ISBN-13 9781953953377](https://openlibrary.org/isbn/9781953953377).
+- Reid Hoffman & Chris Yeh — *Blitzscaling* (HarperCollins Publishers Limited, 2018). **Uso en esta clase:** velocidad frente a consistencia en el crecimiento acelerado. Lectura selectiva sobre **sistemas antes que heroicidad**. **Localizador:** [ISBN-13 9780008303648](https://openlibrary.org/isbn/9780008303648).
 
-> **Regla de fuentes para Sistemas antes que heroicidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **sistemas antes que heroicidad** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Sistemas antes que heroicidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -10,217 +10,191 @@
 
 ## 🎯 Propósito
 
-Adquisición digital y contenido deben conectar audiencia, intención, propuesta y conversión. Tráfico no es demanda si no corresponde al ICP o al momento de compra. Un sistema de contenido construye activos reutilizables y mide desde atención hasta pipeline o revenue según el modelo.
+La adquisición digital promete algo muy atractivo: llegar a clientes concretos, medir cada contacto y ajustar al instante. En la práctica, muchas empresas gastan en publicidad en línea sin saber cuánto cuesta realmente un cliente, publican contenido que nadie lee porque no responde a ninguna pregunta de su comprador y dependen de un canal cuyo costo sube cada año. La adquisición digital funciona cuando se aborda como una disciplina de economía unitaria y de servicio al cliente: se conoce a quién se quiere llegar, qué necesita saber, cuánto vale ese cliente y cuánto se puede gastar en conseguirlo.
 
-La salida de esta parte es **entender mercado, posicionamiento, canales, conversión, retención y crecimiento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **adquisición digital y contenido** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el marco de comunicación y promoción de Kotler y Keller, en la exploración de canales de Weinberg y Mares, en el método de crecimiento por experimentos de Ellis y Brown y en la evidencia de Sharp sobre cómo crecen las marcas. Al terminar sabrás distinguir medios pagados, propios y ganados, construir una estrategia de contenido basada en las preguntas del cliente, medir el costo de adquisición por canal y decidir dónde invertir.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `intent`, `organic acquisition`, `paid acquisition`, `content asset`, `attribution` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir audiencia e intención → 2. seleccionar problemas y formatos → 3. crear distribución orgánica/pagada → 4. instrumentar conversiones → 5. comparar CAC y calidad downstream** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** qualified traffic, content conversion, CAC sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** medios pagados, propios y ganados y sus roles.
+2. **Diseñar** una estrategia de contenido a partir de las preguntas del cliente.
+3. **Calcular** el costo de adquisición por canal y su retorno.
+4. **Elegir** dónde invertir y cuándo detener una inversión.
+5. **Reconocer** los riesgos de dependencia de plataformas y los límites éticos y legales.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define intent y organic acquisition sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con qualified traffic y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuántos de tus clientes actuales llegaron por cada canal y cuánto costó cada uno? |
+| 20–60 min | Tipos de medio, contenido, medición y decisiones de inversión. |
+| 60–105 min | Ejemplo trabajado: asignar un presupuesto de adquisición entre tres canales. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **intent** | señal de que una persona está explorando o acercándose a compra | Distingue un hecho compatible y otro que lo refute. |
-| **organic acquisition** | demanda obtenida sin pago directo por cada click o impresión | Distingue un hecho compatible y otro que lo refute. |
-| **paid acquisition** | demanda comprada mediante medios pagados | Distingue un hecho compatible y otro que lo refute. |
-| **content asset** | pieza diseñada para informar, atraer o convertir | Distingue un hecho compatible y otro que lo refute. |
-| **attribution** | regla para asignar crédito de una conversión a interacciones | Distingue un hecho compatible y otro que lo refute. |
+| **Medios pagados** | Espacios comprados para llegar al público. | Publicidad en buscadores y redes. |
+| **Medios propios** | Canales que la empresa controla. | Sitio, correo, aplicación, blog. |
+| **Medios ganados** | Menciones y recomendaciones de terceros. | Prensa, reseñas, comunidades. |
+| **Costo de adquisición (CAC)** | Gasto total de captar un cliente nuevo. | Gasto del canal sobre clientes ganados. |
+| **Contenido útil** | Material que responde preguntas reales del cliente. | Se busca, se comparte y convierte. |
+| **Atribución** | Asignación del mérito de una venta a los canales que influyeron. | Imperfecta y debatible. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 140: 1. definir audiencia e intención → 2. seleccionar problemas y formatos → 3. crear distribución orgánica/pagada → 4. instrumentar conversiones → 5. comparar CAC y calidad downstream](modelo-mental.svg)
+![Medios pagados, propios y ganados, con su función, ventaja y riesgo.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir audiencia e intención → 2. seleccionar problemas y formatos → 3. crear distribución orgánica/pagada → 4. instrumentar conversiones → 5. comparar CAC y calidad downstream
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Adquisición digital y contenido deben conectar audiencia, intención, propuesta y conversión. Tráfico no es demanda si no corresponde al ICP o al momento de compra. Un sistema de contenido construye activos reutilizables y mide desde atención hasta pipeline o revenue según el modelo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Attribution exacta es difícil en journeys multicanal. Usa modelos como herramientas, experimentos y señales incrementales; no trates last-click como causalidad.**
+**Cómo leer el diagrama.** Tres columnas. Los **medios pagados** dan rapidez y escala controlable, y su riesgo es que el resultado desaparece al dejar de pagar. Los **medios propios** (sitio, correo, aplicación, contenido) construyen un activo acumulable y datos propios, aunque son lentos y requieren constancia. Los **medios ganados** (prensa, recomendaciones, comunidades) aportan credibilidad con bajo costo directo, pero con poco control. La nota señala que el contenido útil responde las preguntas del cliente cuando las tiene y que se invierte donde el retorno sea sostenible.
 
 ## 📖 Desarrollo
 
-### 1. intent: mecanismo central
+### 1. Tres tipos de medio, tres funciones
 
-**intent** se entiende aquí como **señal de que una persona está explorando o acercándose a compra**. Esta es la pieza causal o estructural desde la que se inicia **adquisición digital y contenido**: antes de definir audiencia e intención, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Kotler y Keller describen el mix de comunicación como un conjunto de herramientas (publicidad, promoción de ventas, relaciones públicas, ventas personales, marketing directo y digital) que se integran. En el entorno digital, una forma útil de ordenarlas es por **propiedad del medio**. Los **pagados** compran atención: son los más rápidos y medibles y los más sensibles al costo. Los **propios** construyen presencia: un sitio con contenido útil, una lista de correo o una comunidad son activos que se acumulan. Los **ganados** son la credibilidad de terceros: reseñas, menciones, recomendaciones. Una estrategia sana combina los tres con roles definidos.
 
-La lectura rectora de este bloque es Philip Kotler & Kevin Lane Keller — *Marketing Management*. Su aporte se usa para examinar **segmentación, targeting, posicionamiento, propuesta de valor y marketing mix**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **qualified traffic**; regístrala con periodo, unidad, población y baseline.
+### 2. Contenido que responde preguntas reales
 
-Relaciona el mecanismo con **organic acquisition**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El contenido es útil cuando **resuelve una pregunta que el cliente se hace** en un momento de su recorrido (clase 138): ¿cómo se hace esto?, ¿cuánto cuesta?, ¿qué opciones hay?, ¿es seguro?, ¿qué debo evitar? Se obtiene la lista de preguntas de **ventas y soporte** (qué preguntan los clientes), de **búsquedas** (qué escriben) y de **entrevistas** (qué temen). Se crean piezas que respondan con profundidad y claridad (guías, comparaciones, calculadoras, casos), se organizan por etapa y se miden. El contenido genérico («5 tendencias del sector») rara vez atrae a compradores; el específico y práctico sí.
 
-### 2. organic acquisition: frontera conceptual y error de clasificación
+### 3. Medición y costo de adquisición
 
-**Definición operacional:** demanda obtenida sin pago directo por cada click o impresión. Su valor está en distinguirlo de **intent** y **paid acquisition**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Para cada canal se calcula: **gasto total** (medios, personas, herramientas, agencias), **clientes nuevos atribuibles**, **costo por cliente** y **retorno** respecto del valor del cliente (clase 117). Se separa el **costo por clic** o por visita del costo por **cliente**, que es el que importa: un canal barato por clic puede ser caro por cliente si convierte poco. Weinberg y Mares insisten en probar varios canales con inversiones pequeñas y medir el costo por cliente antes de escalar. Se vigila también la **calidad**: los clientes de ciertos canales retienen menos y valen menos.
 
-Contrasta el problema con Byron Sharp — *How Brands Grow*, que aporta una mirada sobre **disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas**. Formula dos mini-casos: uno que sí satisface la definición de **organic acquisition** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **content conversion** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Atribución con humildad
 
-Antes de seleccionar problemas y formatos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La atribución intenta repartir el mérito de una venta entre los canales que influyeron en la decisión. Los modelos (último clic, primer clic, lineal, por posición) dan resultados distintos, y ninguno refleja bien una influencia que ocurre fuera de lo medible (una conversación, una recomendación, un evento). Se usan como **aproximaciones** y se complementan con: **experimentos** (apagar o encender un canal en una región y comparar), **encuestas de origen** («¿cómo se enteró de nosotros?»), y **análisis de cohortes**. Un canal de «último clic» suele recibir crédito excesivo por capturar demanda que otros crearon.
 
-### 3. paid acquisition: operacionalización y medición
+### 5. Crear demanda y capturar demanda
 
-**paid acquisition** significa **demanda comprada mediante medios pagados**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La publicidad en buscadores **captura** demanda que ya existe (alguien busca una solución); otros medios **crean** demanda (descubrimiento, marca). Si solo se invierte en capturar, el crecimiento está limitado por la demanda existente y el costo sube por la competencia en las mismas búsquedas. Sharp aporta evidencia de que las marcas crecen sobre todo ampliando su **alcance** a muchos compradores potenciales, incluidos los que aún no están en el mercado, y construyendo **disponibilidad mental** y **señales distintivas**. En términos prácticos: se equilibra la inversión entre **respuesta** (captura) y **construcción** (creación y marca).
 
-Sean Ellis & Morgan Brown — *Hacking Growth* orienta este bloque mediante **experimentación de crecimiento, loops y aprendizaje orientado a métricas**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **CAC**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Crecimiento con experimentos
 
-Al llegar a crear distribución orgánica/pagada, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Ellis y Brown proponen un proceso de **crecimiento basado en experimentos**: generar ideas, priorizarlas, probarlas con rapidez, analizar y aprender. En adquisición se prueban mensajes, imágenes, ofertas, páginas de destino y segmentos con **pruebas controladas** (clase 143), con un criterio de éxito definido de antemano. Se documentan los resultados, también los negativos. Un equipo de crecimiento sano no busca el «truco» sino una **cadencia de aprendizaje**. Se cuida la **calidad de la evidencia**: muestras suficientes y tiempo adecuado para no concluir con ruido.
 
-### 4. content asset: trade-offs y efectos de segundo orden
+### 7. Riesgos, ética y límites
 
-**Definición:** pieza diseñada para informar, atraer o convertir. Este concepto obliga a abandonar la idea de que **adquisición digital y contenido** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de instrumentar conversiones, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-David Aaker — *Building Strong Brands* aporta una lente sobre **perspectiva de Marca aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **pipeline sourced** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **adquisición digital y contenido**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **content asset** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. attribution: gobernanza, límites e integración
-
-**attribution** se define como **regla para asignar crédito de una conversión a interacciones** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Aaron Ross & Jason Lemkin — *From Impossible to Inevitable* se utiliza para estudiar **perspectiva de SaaS / Ventas aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar comparar cac y calidad downstream, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Attribution exacta es difícil en journeys multicanal. Usa modelos como herramientas, experimentos y señales incrementales; no trates last-click como causalidad.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **intent**, **organic acquisition**, **paid acquisition**, **content asset** y **attribution** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **adquisición digital y contenido** no consiste en sumar cinco definiciones. Empieza por **intent**, contrasta **organic acquisition** con **paid acquisition**, incorpora **content asset** como restricción o mecanismo y usa **attribution** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir audiencia e intención → 2. seleccionar problemas y formatos → 3. crear distribución orgánica/pagada → 4. instrumentar conversiones → 5. comparar CAC y calidad downstream**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Los riesgos: **dependencia de plataformas** (cambios de algoritmo, de política o de costo), **fatiga publicitaria**, **fraude de clics** y de tráfico, **marca en contextos inadecuados**, **seguimiento invasivo**. Los límites éticos y legales: **transparencia** de la publicidad y de las relaciones comerciales con quienes recomiendan, **veracidad** de las afirmaciones, **privacidad** (consentimiento para cookies, seguimiento y correo comercial), **no engaño** (fechas límite falsas, reseñas fabricadas) y **protección de menores**. Las reglas varían por país y por sector y deben verificarse en su fuente vigente, con asesoría legal.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Philip Kotler & Kevin Lane Keller — *Marketing Management* | segmentación, targeting, posicionamiento, propuesta de valor y marketing mix | ¿Qué supuesto de **adquisición digital y contenido** ayuda a desafiar? |
-| Byron Sharp — *How Brands Grow* | disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas | ¿Qué supuesto de **adquisición digital y contenido** ayuda a desafiar? |
-| Sean Ellis & Morgan Brown — *Hacking Growth* | experimentación de crecimiento, loops y aprendizaje orientado a métricas | ¿Qué supuesto de **adquisición digital y contenido** ayuda a desafiar? |
-| David Aaker — *Building Strong Brands* | perspectiva de Marca aplicada al problema de la clase | ¿Qué supuesto de **adquisición digital y contenido** ayuda a desafiar? |
-| Aaron Ross & Jason Lemkin — *From Impossible to Inevitable* | perspectiva de SaaS / Ventas aplicada al problema de la clase | ¿Qué supuesto de **adquisición digital y contenido** ayuda a desafiar? |
-
-En **adquisición digital y contenido**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **intent**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Kotler y Keller | Mix de comunicación y su integración. | Marco general. | ¿Qué rol cumple cada medio? |
+| Weinberg y Mares | Prueba de múltiples canales y foco en el que escala. | Casos de startups. | ¿Cuál es tu costo por cliente por canal? |
+| Ellis y Brown | Proceso de experimentación en crecimiento. | Enfoque en productos digitales. | ¿Qué experimento de adquisición harás esta semana? |
+| Sharp | Alcance, disponibilidad y distintividad como base del crecimiento. | Visión de marcas de consumo. | ¿Estás construyendo demanda o solo capturándola? |
+| Kohavi, Tang y Xu | Rigor en pruebas controladas. | Orientado a plataformas con tráfico alto. | ¿Tu muestra es suficiente para concluir? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un artículo viral genera 200.000 visitas y 8.000 registros, pero solo 12 pertenecen al buyer objetivo. El equipo celebra alcance sin medir calidad.
+**Situación (hipotética).** Una empresa de software de contabilidad para pequeñas empresas gasta USD 30.000 al mes en adquisición y gana 150 clientes mensuales. Cada cliente deja USD 40 de margen mensual y permanece 24 meses en promedio.
 
-**Paso 1 — definir audiencia e intención.** La gerencia escribe primero el supuesto asociado a **intent** y evita convertirlo en hecho. Luego busca **qualified traffic** para contrastarlo en el caso de **adquisición digital y contenido**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Valor del cliente.** USD 40 × 24 = USD 960 (sin descuento por simplicidad). El CAC promedio es 30.000 / 150 = USD 200; el retorno aparente es 4,8 veces.
 
-**Paso 2 — seleccionar problemas y formatos.** La gerencia escribe primero el supuesto asociado a **organic acquisition** y evita convertirlo en hecho. Luego busca **content conversion** para contrastarlo en el caso de **adquisición digital y contenido**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Análisis por canal.**
 
-**Paso 3 — crear distribución orgánica/pagada.** La gerencia escribe primero el supuesto asociado a **paid acquisition** y evita convertirlo en hecho. Luego busca **CAC** para contrastarlo en el caso de **adquisición digital y contenido**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Canal | Gasto mensual | Clientes ganados | CAC | Retención a 12 meses | Valor del cliente (aprox.) | Valor/CAC |
+|---|---|---|---|---|---|---|
+| Búsqueda pagada | 14.000 | 56 | 250 | 62 % | 640 | 2,6 |
+| Redes sociales pagadas | 8.000 | 24 | 333 | 48 % | 480 | 1,4 |
+| Contenido y correo (equipo y herramientas) | 6.000 | 40 | 150 | 78 % | 1.250 | 8,3 |
+| Alianzas con contadores | 2.000 | 30 | 67 | 85 % | 1.500 | 22,4 |
 
-**Paso 4 — instrumentar conversiones.** La gerencia escribe primero el supuesto asociado a **content asset** y evita convertirlo en hecho. Luego busca **pipeline sourced** para contrastarlo en el caso de **adquisición digital y contenido**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** El promedio de 4,8 oculta diferencias grandes: las redes pagadas apenas superan el costo; el contenido y las alianzas rinden varias veces más, aunque con volumen limitado. La búsqueda pagada captura demanda existente con retorno aceptable.
 
-**Paso 5 — comparar CAC y calidad downstream.** La gerencia escribe primero el supuesto asociado a **attribution** y evita convertirlo en hecho. Luego busca **assisted revenue** para contrastarlo en el caso de **adquisición digital y contenido**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisiones.** Reducir las redes pagadas a pruebas acotadas de mensajes; ampliar el programa de alianzas con contadores (incentivos y materiales); invertir en 12 guías prácticas que respondan las preguntas más frecuentes de soporte (por ejemplo, «cómo preparar el cierre de impuestos»); mantener la búsqueda pagada con presupuesto máximo por clic; medir con una encuesta de origen y un experimento geográfico de apagado de redes en una región durante 6 semanas. Incorporar una política de consentimiento y de baja en el correo.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **adquisición digital y contenido**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Resultado esperado.** Con USD 30.000 reasignados (búsqueda 14.000; contenido y correo 9.000; alianzas 5.000; pruebas 2.000), se proyectan 175 a 190 clientes mensuales con mejor retención. Se verificará al tercer mes.
+
+**Qué muestra.** (1) El promedio ocultaba canales que destruían valor. (2) La retención cambió el valor del cliente por canal. (3) Se previó una medición que no depende solo del último clic.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **intent** | señal de que una persona está explorando o acercándose a compra | Cuando qualified traffic es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **organic acquisition** | demanda obtenida sin pago directo por cada click o impresión | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Adquisición frente a retención.** Adquirir consigue clientes nuevos; retener y expandir hace que valgan más (clase 142). Una adquisición sin retención llena un balde con agujeros.
 
-**Frontera de aplicación:** Attribution exacta es difícil en journeys multicanal. Usa modelos como herramientas, experimentos y señales incrementales; no trates last-click como causalidad.
+**Límites.** Los costos por canal cambian rápido con la competencia y los algoritmos. La atribución es imperfecta y los experimentos de apagado pueden costar ventas. Los datos de terceros cambian con las normas de privacidad. El contenido tarda meses en rendir y no siempre se puede atribuir con precisión. Las cifras del ejemplo son ilustrativas. La publicidad, el seguimiento y el correo comercial están sujetos a normas de consumo, de protección de datos y de comunicaciones que se verifican con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre adquisición digital y contenido |
+| Nivel | Cómo participa en la adquisición digital |
 |---|---|
-| **Profesional** | usa **adquisición digital y contenido** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **intent** y **organic acquisition** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta qualified traffic con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si adquisición digital y contenido cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de adquisición digital y contenido reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **adquisición digital y contenido** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Ejecuta con calidad, mide y documenta lo que aprende. |
+| **Jefe / Team Lead** | Coordina contenido y campañas con metas de costo por cliente. |
+| **Gerente** | Asigna presupuesto entre canales con economía unitaria. |
+| **CEO / Director** | Vigila la dependencia de canales y el equilibrio entre captura y construcción. |
+| **Founder / Owner** | Prueba pocos canales con rigor y construye activos propios. |
 
 ## 🏢 Caso ejecutivo
 
-Un artículo viral genera 200.000 visitas y 8.000 registros, pero solo 12 pertenecen al buyer objetivo. El equipo celebra alcance sin medir calidad.
+Una empresa de educación en línea para adultos invierte USD 120.000 mensuales en publicidad en dos plataformas y gana 800 estudiantes al mes. Hace tres meses, el costo por clic aumentó 35 % y las conversiones cayeron. El equipo de marketing publica tres artículos semanales sobre «tendencias de la educación» que atraen visitas con baja conversión; el equipo de soporte recibe 40 consultas semanales sobre becas, convalidaciones y empleabilidad que no tienen contenido en el sitio. Los alumnos que llegan por recomendación completan los cursos al doble que los de publicidad. La plataforma principal acaba de cambiar sus reglas sobre afirmaciones de empleabilidad. El gerente general quiere duplicar el presupuesto para recuperar volumen.
 
-Entrega un **decision brief de adquisición digital y contenido** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega una **estrategia de adquisición y contenido** que contenga: (a) la economía por canal con CAC, retención y valor del cliente; (b) el mapa de preguntas del cliente y el plan de contenido asociado; (c) la mezcla entre capturar y crear demanda; (d) el diseño de experimentos y de medición de atribución; (e) el plan para reducir la dependencia de las dos plataformas y aprovechar las recomendaciones; (f) las verificaciones de publicidad, afirmaciones de empleabilidad, consentimiento y datos personales que se harán con las reglas vigentes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **adquisición digital y contenido** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir audiencia e intención → 2. seleccionar problemas y formatos → 3. crear distribución orgánica/pagada → 4. instrumentar conversiones → 5. comparar CAC y calidad downstream** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta qualified traffic, content conversion; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula el CAC y el valor del cliente por canal con datos de los últimos seis meses.
+2. Lista las veinte preguntas más frecuentes de tus clientes y asígnalas a piezas de contenido.
+3. Diseña un experimento para medir el efecto real de un canal que recibe mucho crédito de «último clic».
+4. Define un máximo de dependencia por canal y el plan de contingencia.
+5. Escribe tus reglas de consentimiento y de baja del correo comercial.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar intent y organic acquisition como sinónimos | Se pierde la distinción entre “señal de que una persona está explorando o acercándose a compra” y “demanda obtenida sin pago directo por cada click o impresión” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “comparar CAC y calidad downstream” | Se saltó “definir audiencia e intención” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir audiencia e intención → 2. seleccionar problemas y formatos → 3. crear distribución orgánica/pagada → 4. instrumentar conversiones → 5. comparar CAC y calidad downstream y marca el primer supuesto no demostrado. |
-| Optimizar solo qualified traffic | La métrica local sustituyó al resultado del sistema | Contrástala con content conversion y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre adquisición digital y contenido | Attribution exacta es difícil en journeys multicanal. Usa modelos como herramientas, experimentos y señales incrementales; no trates last-click como causalidad. |
-| No fijar revisión | Una decisión sobre adquisición digital y contenido se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Medir clics y no clientes | Es lo que muestran las plataformas | Calcular CAC y retorno por cliente. |
+| Contenido genérico | No se conocen las preguntas | Partir de ventas, soporte y búsquedas. |
+| Un solo canal | Funciona hoy | Diversificar y construir activos propios. |
+| Confiar en el último clic | Es lo que se mide | Encuestas de origen y experimentos. |
+| Solo capturar demanda | Es medible | Equilibrar con construcción de alcance y marca. |
+| Ignorar la normativa | Se piensa en resultados | Verificar publicidad, datos y comunicaciones. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **intent** y **organic acquisition** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **paid acquisition** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir audiencia e intención → seleccionar problemas y formatos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **qualified traffic** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **adquisición digital y contenido**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Attribution exacta es difícil en journeys multicanal. Usa modelos como herramientas, experimentos y señales incrementales; no trates last-click como causalidad.**?
+1. ¿Qué diferencia hay entre medios pagados, propios y ganados?
+2. ¿Cómo se identifican las preguntas para el contenido?
+3. ¿Por qué se calcula el costo por cliente y no por clic?
+4. ¿Qué limitaciones tiene la atribución?
+5. ¿Qué diferencia hay entre capturar y crear demanda?
+6. ¿Qué riesgos tiene depender de una plataforma?
+7. ¿Qué límites legales y éticos rodean a la adquisición digital?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Los pagados compran atención; los propios son canales que la empresa controla; los ganados son menciones y recomendaciones de terceros.
+2. Con consultas de ventas y soporte, búsquedas y entrevistas a clientes.
+3. Porque un canal barato por clic puede ser caro por cliente si convierte poco; el cliente es lo que genera valor.
+4. Los modelos dan resultados distintos y no capturan influencias fuera de lo medible; se complementan con experimentos y encuestas de origen.
+5. Capturar atiende una demanda que ya busca una solución; crear amplía el alcance y la disponibilidad mental entre quienes aún no buscan.
+6. Cambios de algoritmo, política o costo pueden reducir ventas de golpe, y la empresa no controla las reglas.
+7. Transparencia y veracidad de la publicidad, consentimiento para datos y comunicaciones, no engaño y protección de menores, según las reglas vigentes.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/140-adquisicion-digital-y-contenido/`:
 
-- `leadership-decision-brief.md` con el problema específico de **adquisición digital y contenido**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **adquisición digital y contenido** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **intent**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un artículo viral genera 200.000 visitas y 8.000 registros, pero solo 12 pertenecen al buyer objetivo. El equipo celebra alcance sin medir calidad.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con la estrategia del caso ejecutivo;
+- `gtm-plan.md` (plantilla [GTM plan](../../../../templates/gtm-plan.md)) con los canales, el plan de contenido y las metas;
+- `decision-journal.md` con la economía por canal, los experimentos y los límites de dependencia.
 
 ## 📗 Fuentes y verificación
 
-- Philip Kotler & Kevin Lane Keller — *Marketing Management* (Pearson Education, 2016). **Uso en esta clase:** segmentación, targeting, posicionamiento, propuesta de valor y marketing mix. Lectura selectiva sobre **adquisición digital y contenido**. **Localizador:** [ISBN-13 9781292092621](https://openlibrary.org/isbn/9781292092621).
-- Byron Sharp — *How Brands Grow* (BookBaby, 2010). **Uso en esta clase:** disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas. Lectura selectiva sobre **adquisición digital y contenido**. **Localizador:** [ISBN-13 9781483534701](https://openlibrary.org/isbn/9781483534701).
-- Sean Ellis & Morgan Brown — *Hacking Growth* (Ebury Publishing, 2017). **Uso en esta clase:** experimentación de crecimiento, loops y aprendizaje orientado a métricas. Lectura selectiva sobre **adquisición digital y contenido**. **Localizador:** [ISBN-13 9780753545386](https://openlibrary.org/isbn/9780753545386).
-- David Aaker — *Building Strong Brands* (Simon & Schuster Ltd, 2002). **Uso en esta clase:** perspectiva de Marca aplicada al problema de la clase. Lectura selectiva sobre **adquisición digital y contenido**. **Localizador:** [ISBN-13 9780743232135](https://openlibrary.org/isbn/9780743232135).
-- Aaron Ross & Jason Lemkin — *From Impossible to Inevitable* (John Wiley & Sons, Incorporated, 2016). **Uso en esta clase:** perspectiva de SaaS / Ventas aplicada al problema de la clase. Lectura selectiva sobre **adquisición digital y contenido**. **Localizador:** [ISBN-13 9781119166726](https://openlibrary.org/isbn/9781119166726).
-- April Dunford — *Obviously Awesome* (Ambient Press, 2019). **Uso en esta clase:** posicionamiento desde alternativas competitivas, atributos, valor y segmento. Lectura selectiva sobre **adquisición digital y contenido**. **Localizador:** [ISBN-13 9781999023003](https://openlibrary.org/isbn/9781999023003).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **adquisición digital y contenido** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **adquisición digital y contenido**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **adquisición digital y contenido** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **adquisición digital y contenido** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **adquisición digital y contenido** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Philip Kotler & Kevin Lane Keller — *Marketing Management* (Pearson Education, 2016). **Uso en esta clase:** mix de comunicación y su integración. Lectura selectiva sobre **adquisición digital y contenido**. **Localizador:** [ISBN-13 9781292092621](https://openlibrary.org/isbn/9781292092621).
+- Gabriel Weinberg & Justin Mares — *Traction* (Gildan Media, 2015). **Uso en esta clase:** prueba de múltiples canales y foco en el que escala. Lectura selectiva sobre **adquisición digital y contenido**. **Localizador:** [ISBN-13 9781469096230](https://openlibrary.org/isbn/9781469096230).
+- Sean Ellis & Morgan Brown — *Hacking Growth* (Ebury Publishing, 2017). **Uso en esta clase:** proceso de experimentación en crecimiento. Lectura selectiva sobre **adquisición digital y contenido**. **Localizador:** [ISBN-13 9780753545386](https://openlibrary.org/isbn/9780753545386).
+- Byron Sharp — *How Brands Grow* (BookBaby, 2010). **Uso en esta clase:** alcance, disponibilidad y distintividad como base del crecimiento. Lectura selectiva sobre **adquisición digital y contenido**. **Localizador:** [ISBN-13 9781483534701](https://openlibrary.org/isbn/9781483534701).
+- Ron Kohavi, Diane Tang & Ya Xu — *Trustworthy Online Controlled Experiments* (Cambridge University Press, 2020). **Uso en esta clase:** rigor en pruebas controladas. Lectura selectiva sobre **adquisición digital y contenido**. **Localizador:** [ISBN-13 9781108724265](https://openlibrary.org/isbn/9781108724265).
 
-> **Regla de fuentes para Adquisición digital y contenido:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **adquisición digital y contenido** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Adquisición digital y contenido:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las de publicidad, consentimiento, protección de datos y comunicaciones comerciales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

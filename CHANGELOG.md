@@ -39,6 +39,10 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 11 completa** (133–144, con 137 ya escrita a mano): mercado, categoría y demanda, investigación,
+  segmentación, posicionamiento (Dunford, Ries y Trout), recorrido del cliente (Lemon y Verhoef), canales,
+  adquisición digital, conversión, retención, ciclos de crecimiento (Ellis y Brown, Kohavi, Tang y Xu) y capstone
+  de salida al mercado; cada clase con fuentes verificadas, cifras recalculadas y un diagrama a medida.
 - **La parte 10 completa** (121–132): ventas como sistema, perfil de cliente ideal, prospección, diagnóstico
   (Rackham), propuesta de valor y business case, pipeline y pronóstico, objeciones y riesgo percibido
   (Kahneman y Tversky), negociación por intereses (Fisher y Ury, Galinsky y Mussweiler), precio y concesiones,

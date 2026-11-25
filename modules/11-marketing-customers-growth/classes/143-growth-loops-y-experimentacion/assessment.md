@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **growth loop** de **viral loop** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **content loop** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **experiment** con **incrementality**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre un embudo y un ciclo de crecimiento?
+2. ¿Qué tipos de ciclo existen?
+3. ¿Qué mide el coeficiente de ciclo y por qué importa el tiempo de vuelta?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Cada proyecto publicado por clientes aparece indexado y atrae nuevos usuarios. Mejorar shareability puede aumentar adquisición orgánica, pero solo si los nuevos usuarios activan y permanecen.
+**Caso:** Una aplicación de finanzas personales con 500.000 usuarios lanzó un programa de referidos con USD 10 por cada invitado que se registre. El equipo de crecimiento implementó un paso en que, al registrarse, la aplicación solicita acceso a los contactos y envía invitaciones preseleccionadas con el nombre del usuario. En dos meses, los registros subieron 38 %, pero el 41 % de los referidos son cuentas que nunca se activan, se detectaron redes de cuentas falsas que cobran el incentivo, las quejas por correos no solicitados se multiplicaron por cuatro y el proveedor de correo bloqueó parte del dominio. La retención a 90 días de los referidos es de 12 %, frente a 38 % de los otros canales. La gerencia de producto propone retirar el programa; la de crecimiento, mejorarlo con controles.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **mapear input-action-output-reinvestment → identificar tasa de ciclo → formular palanca → experimentar con control o baseline → escalar solo efecto incremental sostenible**. Debes utilizar o diseñar cómo obtener **loop coefficient, cycle time, incremental lift**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **diseño de ciclo y programa de experimentos** que contenga: (a) el ciclo actual, sus pasos, el coeficiente y los problemas de calidad; (b) un rediseño del ciclo basado en valor para el usuario y su invitado; (c) las métricas de ciclo y de protección; (d) un plan de experimentos priorizado con hipótesis, muestra y criterios; (e) los controles contra fraude y spam; (f) las verificaciones de comunicaciones comerciales, consentimiento y protección de datos y del dinero que se realizarán con asesoría y las normas vigentes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **No todo negocio tiene loops fuertes y forzarlos puede producir spam. A veces canales lineales rentables son suficientes; el crecimiento debe preservar calidad y confianza.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los coeficientes típicos de ciclos son menores que 1, por lo que rara vez reemplazan la adquisición: la reducen.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

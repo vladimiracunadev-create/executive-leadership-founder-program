@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir GTM de beachhead mediante evidencia observable."
-  - "Aplicar la secuencia: seleccionar beachhead → definir positioning y offer → diseñar channel/sales motion → instrumentar funnel y economics → iterar desde wins, losses y retention."
-  - "Interpretar pipeline, CAC, win rate sin atribuir causalidad automática."
-  - "Resolver el caso de capstone: go-to-market con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-deliverable: "leadership-decision-brief.md"
+  - "Estructurar un plan de salida al mercado de dónde jugar, cómo ganar y cómo aprender."
+  - "Conectar mercado, segmento, posicionamiento, precio, canales y mensajes en una lógica coherente."
+  - "Estimar la economía unitaria y el capital necesario del plan."
+  - "Diseñar los experimentos y los hitos de decisión del lanzamiento."
+  - "Presentar el plan a un comité con riesgos, supuestos y criterios de detención."
+deliverable: "gtm-plan.md"
 references:
   - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
-  - "Byron Sharp — *How Brands Grow*"
-  - "Al Ries & Jack Trout — *Positioning*"
-  - "Aaron Ross & Jason Lemkin — *From Impossible to Inevitable*"
-  - "April Dunford — *Obviously Awesome*"
   - "Geoffrey A. Moore — *Crossing the Chasm*"
+  - "April Dunford — *Obviously Awesome*"
+  - "Byron Sharp — *How Brands Grow*"
+  - "Sean Ellis & Morgan Brown — *Hacking Growth*"
 limits:
-  - "No escales un GTM antes de señal de fit. Aumentar gasto sobre un mensaje, segmento o producto inestable multiplica desperdicio."
+  - "Todo plan de lanzamiento contiene incertidumbre irreducible; el valor está en aprender rápido y barato."
 evidence_signals:
-  - "pipeline"
-  - "CAC"
-  - "win rate"
-  - "sales cycle"
-  - "retention"
+  - "dónde jugar en una página"
+  - "hipótesis con prueba y criterio"
+  - "economía unitaria y capital por fase"
+  - "criterios de detención acordados"

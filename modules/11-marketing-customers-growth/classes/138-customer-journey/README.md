@@ -10,217 +10,192 @@
 
 ## 🎯 Propósito
 
-Customer journey representa etapas, tareas, emociones, canales y fricciones desde que surge una necesidad hasta uso y renovación. Su valor aparece al conectar puntos entre áreas: el cliente vive un viaje, no organigramas. Debe basarse en investigación y datos, no en workshop imaginativo.
+Las empresas organizan su trabajo por áreas —marketing, ventas, producto, soporte, cobranza—, pero el cliente no vive esas divisiones: vive **un recorrido** que empieza antes de comprar, continúa durante el uso y no termina con la entrega. Cada punto de contacto con la empresa suma o resta confianza, y la experiencia total es la suma, mucho más que lo que cada área ve desde su parte. Muchos problemas de conversión, de retención y de reputación nacen en los **traspasos** entre áreas: la promesa de marketing que ventas no puede cumplir, la implantación que no continúa lo que se explicó en la venta, el soporte que desconoce lo acordado.
 
-La salida de esta parte es **entender mercado, posicionamiento, canales, conversión, retención y crecimiento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **customer journey** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el marco de experiencia del cliente a lo largo del recorrido de Lemon y Verhoef, en el modelo de trabajo a realizar de Christensen y colaboradores y en la gestión de marketing de Kotler y Keller. Al terminar sabrás mapear un recorrido con datos y voz del cliente, identificar momentos críticos y fricciones, diseñar mejoras con dueño y medir su efecto en conversión, uso y retención.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `journey`, `touchpoint`, `moment of truth`, `friction`, `handoff` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir persona/job y alcance → 2. reconstruir journey con evidencia → 3. mapear touchpoints y emociones → 4. priorizar moments of truth → 5. asignar owner end-to-end** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** drop-off, time-to-value, handoff failures sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Mapear** el recorrido del cliente por etapas, puntos de contacto y emociones.
+2. **Identificar** momentos críticos y fricciones con datos y entrevistas.
+3. **Distinguir** puntos de contacto propios, de socios, del cliente y externos.
+4. **Priorizar** mejoras por efecto en valor para el cliente y para el negocio.
+5. **Asignar** dueños y métricas que atraviesen áreas.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define journey y touchpoint sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con drop-off y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: describe el recorrido de tu último cliente desde que supo de ti hasta que usó el producto. |
+| 20–60 min | Etapas, puntos de contacto, momentos críticos y medición. |
+| 60–105 min | Ejemplo trabajado: recorrido de compra de equipamiento de oficina en línea. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **journey** | secuencia de interacciones y tareas desde perspectiva del cliente | Distingue un hecho compatible y otro que lo refute. |
-| **touchpoint** | punto de interacción con organización o ecosistema | Distingue un hecho compatible y otro que lo refute. |
-| **moment of truth** | interacción con efecto desproporcionado en confianza o decisión | Distingue un hecho compatible y otro que lo refute. |
-| **friction** | esfuerzo, demora o incertidumbre que dificulta progreso | Distingue un hecho compatible y otro que lo refute. |
-| **handoff** | transferencia interna que puede hacerse visible como ruptura externa | Distingue un hecho compatible y otro que lo refute. |
+| **Recorrido del cliente (customer journey)** | Secuencia de interacciones del cliente con la empresa desde que identifica una necesidad hasta la relación posterior. | Se organiza en etapas. |
+| **Punto de contacto** | Cualquier interacción entre cliente y empresa. | Sitio, vendedor, entrega, factura, soporte. |
+| **Experiencia del cliente** | Respuesta cognitiva, emocional y conductual a lo largo del recorrido. | Se refleja en satisfacción y comportamiento. |
+| **Momento crítico (momento de la verdad)** | Instante en que la experiencia puede ganar o perder al cliente. | Primer uso, falla, renovación. |
+| **Fricción** | Obstáculo que hace más difícil o costosa una acción del cliente. | Formulario largo, espera, información contradictoria. |
+| **Mapa de recorrido** | Representación de etapas, acciones, emociones, puntos de contacto y oportunidades. | Se basa en datos y en clientes reales. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 138: 1. definir persona/job y alcance → 2. reconstruir journey con evidencia → 3. mapear touchpoints y emociones → 4. priorizar moments of truth → 5. asignar owner end-to-end](modelo-mental.svg)
+![Cinco etapas del recorrido: descubrir, considerar, comprar, usar y renovar y recomendar, con la pregunta del cliente, el momento crítico y la señal de cada una.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir persona/job y alcance → 2. reconstruir journey con evidencia → 3. mapear touchpoints y emociones → 4. priorizar moments of truth → 5. asignar owner end-to-end
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Customer journey representa etapas, tareas, emociones, canales y fricciones desde que surge una necesidad hasta uso y renovación. Su valor aparece al conectar puntos entre áreas: el cliente vive un viaje, no organigramas. Debe basarse en investigación y datos, no en workshop imaginativo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un journey map puede simplificar trayectorias distintas. Segmenta casos relevantes y evita convertir una línea ideal en verdad universal.**
+**Cómo leer el diagrama.** Una tabla de cinco etapas. En cada una se ve **qué se pregunta el cliente**, el **momento crítico** donde se juega la confianza y la **señal** que indica que funciona. Descubrir se mide en visitas calificadas; considerar, en consultas; comprar, en conversión y abandonos; usar, en activación; y renovar y recomendar, en retención. La nota recuerda que el recorrido real no es lineal ni ocurre en un solo canal, y que se mejoran primero los momentos donde más se pierde valor o confianza.
 
 ## 📖 Desarrollo
 
-### 1. journey: mecanismo central
+### 1. Una mirada de punta a punta
 
-**journey** se entiende aquí como **secuencia de interacciones y tareas desde perspectiva del cliente**. Esta es la pieza causal o estructural desde la que se inicia **customer journey**: antes de definir persona/job y alcance, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Lemon y Verhoef revisan cómo la investigación de marketing pasó de estudiar etapas separadas a estudiar la **experiencia total del cliente** a lo largo del recorrido: antes de la compra (reconocer la necesidad, buscar, considerar), durante (elegir, pagar, recibir) y después (usar, pedir ayuda, renovar, recomendar). Destacan que la experiencia se forma en **muchos puntos de contacto**, algunos controlados por la empresa, otros por socios, otros por el propio cliente y otros externos (reseñas, conversaciones con amigos). La implicancia gerencial: gestionar la experiencia exige coordinar áreas y tener una visión común.
 
-La lectura rectora de este bloque es Philip Kotler & Kevin Lane Keller — *Marketing Management*. Su aporte se usa para examinar **segmentación, targeting, posicionamiento, propuesta de valor y marketing mix**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **drop-off**; regístrala con periodo, unidad, población y baseline.
+### 2. Etapas y preguntas del cliente
 
-Relaciona el mecanismo con **touchpoint**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Un esquema práctico: **descubrir** («¿existe algo para mi problema?»), **considerar** («¿esta opción sirve y es confiable?»), **comprar** («¿puedo decidir sin riesgo?»), **usar** («¿obtengo el resultado prometido?») y **renovar y recomendar** («¿me conviene seguir y contarlo?»). Las etapas se adaptan al negocio: un servicio B2B de ciclo largo tendrá etapas de evaluación técnica y de aprobación interna; un comercio en línea, de comparación y entrega. Cada etapa se define por la **pregunta que se hace el cliente** y la **acción** que se espera, no por el departamento que la gestiona.
 
-### 2. touchpoint: frontera conceptual y error de clasificación
+### 3. Construir el mapa con datos y voz del cliente
 
-**Definición operacional:** punto de interacción con organización o ecosistema. Su valor está en distinguirlo de **journey** y **moment of truth**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Un mapa útil no se hace en una sala con post-its sino con **evidencia**: **entrevistas** con clientes recientes sobre su recorrido real (clase 134); **datos de comportamiento** (analítica de sitio, uso del producto, tiempos entre etapas); **datos de soporte** (motivos de contacto, quejas); **reseñas** y comentarios; **grabaciones** y observación. Se representan etapas, acciones, puntos de contacto, **emociones** (frustración, confianza), **tiempos de espera** y **traspasos entre áreas**. Se incluyen los recorridos de distintos segmentos (clase 135) y el recorrido real, no el diseñado.
 
-Contrasta el problema con Byron Sharp — *How Brands Grow*, que aporta una mirada sobre **disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas**. Formula dos mini-casos: uno que sí satisface la definición de **touchpoint** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **time-to-value** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Momentos críticos y fricciones
 
-Antes de reconstruir journey con evidencia, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+En todo recorrido hay momentos donde se decide la relación: la **primera impresión**, la **primera experiencia de uso**, la **primera falla** y cómo se resuelve, la **renovación**, el **cambio de persona de contacto**. Se identifican con datos (dónde se abandona, dónde aumentan los contactos de soporte, dónde cae la satisfacción) y con entrevistas. La fricción incluye pasos innecesarios, información contradictoria, esperas, falta de seguimiento y promesas incumplidas. Se prioriza por **efecto** (cuántos clientes y cuánto valor se pierde), **facilidad** de mejora y **causa raíz**: muchas fricciones tienen origen en decisiones de otra área.
 
-### 3. moment of truth: operacionalización y medición
+### 5. Traspasos y dueños
 
-**moment of truth** significa **interacción con efecto desproporcionado en confianza o decisión**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El recorrido atraviesa áreas, y la mayoría de los problemas nacen en los **traspasos**: ventas que prometen algo que implantación no puede cumplir; marketing que atrae a clientes que el producto no sirve; soporte que no ve lo acordado en el contrato. Se asigna un **dueño del recorrido** o de cada etapa con metas compartidas (por ejemplo, tiempo hasta el primer valor, retención al día 90), y se definen **acuerdos entre áreas** (qué información pasa, cuándo). La gestión del recorrido es parte de la gestión por procesos (clase 086), con el cliente como destinatario.
 
-Alexander Osterwalder & Yves Pigneur — *Business Model Generation* orienta este bloque mediante **diseño de modelos de negocio mediante propuesta, clientes, recursos y economía**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **handoff failures**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Medición
 
-Al llegar a mapear touchpoints y emociones, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Se mide en **dos niveles**: **métricas de etapa** (conversión, tiempo, abandono, activación, contactos de soporte por cliente, satisfacción tras interacciones) y **métricas de resultado** (retención, valor del cliente, recomendación). Gupta y Zeithaml muestran, en su revisión de métricas de clientes y su efecto en el desempeño financiero, que conviene vincular las métricas de marketing con resultados económicos y no solo con actitudes. Las encuestas de satisfacción o recomendación se combinan con **datos de comportamiento**, que revelan lo que el cliente hace. Cada indicador tiene una definición y un dueño (clase 100).
 
-### 4. friction: trade-offs y efectos de segundo orden
+### 7. Mejorar con experimentos y escuchar
 
-**Definición:** esfuerzo, demora o incertidumbre que dificulta progreso. Este concepto obliga a abandonar la idea de que **customer journey** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de priorizar moments of truth, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-April Dunford — *Obviously Awesome* aporta una lente sobre **posicionamiento desde alternativas competitivas, atributos, valor y segmento**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **NPS/CSAT by stage** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **customer journey**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **friction** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. handoff: gobernanza, límites e integración
-
-**handoff** se define como **transferencia interna que puede hacerse visible como ruptura externa** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Sean Ellis & Morgan Brown — *Hacking Growth* se utiliza para estudiar **experimentación de crecimiento, loops y aprendizaje orientado a métricas** y contrastar la recomendación final. Al ejecutar asignar owner end-to-end, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un journey map puede simplificar trayectorias distintas. Segmenta casos relevantes y evita convertir una línea ideal en verdad universal.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **journey**, **touchpoint**, **moment of truth**, **friction** y **handoff** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **customer journey** no consiste en sumar cinco definiciones. Empieza por **journey**, contrasta **touchpoint** con **moment of truth**, incorpora **friction** como restricción o mecanismo y usa **handoff** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir persona/job y alcance → 2. reconstruir journey con evidencia → 3. mapear touchpoints y emociones → 4. priorizar moments of truth → 5. asignar owner end-to-end**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Las mejoras se plantean como **hipótesis** y se prueban: simplificar un formulario, enviar una guía de inicio, cambiar la frecuencia de un mensaje. Se miden con grupo de control cuando es posible (clase 143). Se **cierra el ciclo con el cliente**: si reportó un problema, se le informa qué se hizo. Se tienen en cuenta aspectos de **privacidad**: el recorrido se reconstruye con datos personales, por lo que se cuida el consentimiento, el uso de cookies y el seguimiento, y se cumplen las normas de protección de datos y de comunicaciones comerciales aplicables.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Philip Kotler & Kevin Lane Keller — *Marketing Management* | segmentación, targeting, posicionamiento, propuesta de valor y marketing mix | ¿Qué supuesto de **customer journey** ayuda a desafiar? |
-| Byron Sharp — *How Brands Grow* | disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas | ¿Qué supuesto de **customer journey** ayuda a desafiar? |
-| Alexander Osterwalder & Yves Pigneur — *Business Model Generation* | diseño de modelos de negocio mediante propuesta, clientes, recursos y economía | ¿Qué supuesto de **customer journey** ayuda a desafiar? |
-| April Dunford — *Obviously Awesome* | posicionamiento desde alternativas competitivas, atributos, valor y segmento | ¿Qué supuesto de **customer journey** ayuda a desafiar? |
-| Sean Ellis & Morgan Brown — *Hacking Growth* | experimentación de crecimiento, loops y aprendizaje orientado a métricas | ¿Qué supuesto de **customer journey** ayuda a desafiar? |
-
-En **customer journey**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **journey**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Lemon y Verhoef (2016) | Experiencia a lo largo del recorrido y tipos de puntos de contacto. | Revisión conceptual; no es una guía operativa. | ¿Quién controla cada punto de contacto? |
+| Christensen et al. | Trabajo a realizar y contexto de elección. | Marco cualitativo. | ¿Qué progreso busca el cliente en cada etapa? |
+| Kotler y Keller | Proceso de decisión de compra y marketing de relaciones. | Marco general. | ¿Qué etapa de decisión pierde clientes? |
+| Gupta y Zeithaml (2006) | Relación entre métricas de clientes y resultados financieros. | Estudio de métricas, no de mapas. | ¿Tus métricas se vinculan a resultados? |
+| Ellis y Brown | Activación y experiencia inicial. | Enfoque en productos digitales. | ¿Qué momento de «aha» logras? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un cliente compra online en cinco minutos, pero espera cuatro días una validación manual sin estado visible. Marketing optimiza checkout mientras la mayor frustración ocurre después.
+**Situación (hipotética).** Una tienda en línea de equipamiento de oficina para pequeñas empresas tiene un tráfico de 80.000 visitas mensuales, una conversión de 1,8 % y un 24 % de pedidos que generan un contacto de soporte por retrasos. La satisfacción tras la entrega es baja y las recompras, escasas.
 
-**Paso 1 — definir persona/job y alcance.** La gerencia escribe primero el supuesto asociado a **journey** y evita convertirlo en hecho. Luego busca **drop-off** para contrastarlo en el caso de **customer journey**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Mapa con datos.**
 
-**Paso 2 — reconstruir journey con evidencia.** La gerencia escribe primero el supuesto asociado a **touchpoint** y evita convertirlo en hecho. Luego busca **time-to-value** para contrastarlo en el caso de **customer journey**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Etapa | Datos | Fricción identificada |
+|---|---|---|
+| Descubrir | 62 % del tráfico llega por buscadores; alta tasa de rebote en fichas de productos con poca información | Las fichas no muestran dimensiones ni compatibilidad |
+| Considerar | 34 % de las sesiones consulta políticas de despacho y devolución | Información contradictoria entre sitio y correo |
+| Comprar | 71 % de los carritos se abandona; el 38 % de ellos en el paso de despacho | Costo de envío aparece solo al final |
+| Usar (recibir e instalar) | 24 % de los pedidos tiene retraso; los pedidos de más de un producto llegan por separado | Falta de seguimiento proactivo |
+| Renovar y recomendar | 9 % recompra en 90 días | No hay contacto posterior |
 
-**Paso 3 — mapear touchpoints y emociones.** La gerencia escribe primero el supuesto asociado a **moment of truth** y evita convertirlo en hecho. Luego busca **handoff failures** para contrastarlo en el caso de **customer journey**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Entrevistas.** 12 clientes recientes: «no sabía si el escritorio cabía en mi oficina»; «me enteré del costo de envío al final»; «recibí la silla sin la base y nadie me avisó».
 
-**Paso 4 — priorizar moments of truth.** La gerencia escribe primero el supuesto asociado a **friction** y evita convertirlo en hecho. Luego busca **NPS/CSAT by stage** para contrastarlo en el caso de **customer journey**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Priorización.** Mejoras ordenadas por efecto y facilidad: (1) mostrar el costo de envío estimado desde la ficha (efecto alto, esfuerzo bajo); (2) fichas con dimensiones y guía de medidas; (3) avisos proactivos de retrasos y de envíos separados; (4) mensajes de seguimiento tras 30 días con ayuda para el armado; (5) programa de recompra para pymes.
 
-**Paso 5 — asignar owner end-to-end.** La gerencia escribe primero el supuesto asociado a **handoff** y evita convertirlo en hecho. Luego busca **support contacts** para contrastarlo en el caso de **customer journey**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Dueño y métricas.** Una gerente de experiencia de cliente con metas compartidas con logística y marketing: conversión del carrito, porcentaje de pedidos con aviso proactivo, contactos por pedido, recompra a 90 días. Se prueba cada mejora con grupo de control en un 20 % del tráfico.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **customer journey**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Resultado a 3 meses.** Con el costo de envío visible, el abandono en el paso de despacho baja de 38 % a 21 %; la conversión sube de 1,8 % a 2,3 %; los contactos de soporte por retraso bajan 32 %. Los efectos en recompra se miden a seis meses.
+
+**Qué muestra.** (1) El mapa se hizo con datos y entrevistas. (2) La mayor fricción era de información, no de tecnología. (3) Se asignó un dueño y se midió con experimentos.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **journey** | secuencia de interacciones y tareas desde perspectiva del cliente | Cuando drop-off es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **touchpoint** | punto de interacción con organización o ecosistema | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Mapa del recorrido frente a proceso interno.** El proceso interno muestra lo que la empresa hace; el recorrido muestra lo que el cliente vive. Se complementan: cada paso interno que el cliente percibe debe tener un buen diseño.
 
-**Frontera de aplicación:** Un journey map puede simplificar trayectorias distintas. Segmenta casos relevantes y evita convertir una línea ideal en verdad universal.
+**Límites.** Los mapas simplifican recorridos que son no lineales y multicanal. Pueden basarse en pocas entrevistas y en datos incompletos. Medir el recorrido exige unir información de varios sistemas, lo que plantea cuestiones de calidad y privacidad. Los resultados de mejoras dependen del contexto. Las cifras del ejemplo son ilustrativas. El uso de datos personales, de seguimiento y de comunicaciones debe cumplir la normativa de protección de datos y de comercio electrónico vigente.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre customer journey |
+| Nivel | Cómo participa en el recorrido del cliente |
 |---|---|
-| **Profesional** | usa **customer journey** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **journey** y **touchpoint** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta drop-off con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si customer journey cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de customer journey reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **customer journey** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Cuida los puntos de contacto que le corresponden y reporta fricciones. |
+| **Jefe / Team Lead** | Mide su etapa y coordina los traspasos con otras áreas. |
+| **Gerente** | Mapea el recorrido, prioriza mejoras y asigna dueños. |
+| **CEO / Director** | Exige una visión común del cliente y metas compartidas entre áreas. |
+| **Founder / Owner** | Recorre personalmente la experiencia como un cliente nuevo. |
 
 ## 🏢 Caso ejecutivo
 
-Un cliente compra online en cinco minutos, pero espera cuatro días una validación manual sin estado visible. Marketing optimiza checkout mientras la mayor frustración ocurre después.
+Una aseguradora de salud vende planes a personas y familias. Su recorrido incluye una cotización en línea (marketing), una llamada de un ejecutivo (ventas), la firma (operaciones), la activación de la cobertura (back-office), el uso (red de clínicas y reembolsos) y la renovación anual (ventas de nuevo). La conversión de cotización a contrato es de 6 %. El 31 % de quienes contratan llama a los 15 días para consultar cómo usar el plan; el 22 % de los reclamos corresponde a reembolsos demorados; la renovación es de 71 %, pero entre quienes tuvieron un reembolso demorado cae a 49 %. Cada área mide lo suyo: marketing, cotizaciones; ventas, contratos; reembolsos, tiempo promedio de proceso; nadie mide la experiencia completa.
 
-Entrega un **decision brief de customer journey** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **mapa y plan de mejora del recorrido** que contenga: (a) las etapas con preguntas del cliente, puntos de contacto y emociones, con las fuentes de datos; (b) los momentos críticos y las fricciones con su efecto estimado; (c) las mejoras priorizadas con hipótesis y experimentos; (d) los traspasos entre áreas y los acuerdos necesarios; (e) el dueño del recorrido, las metas y las métricas; (f) los cuidados de datos personales y de salud y la normativa del sector asegurador que se verificarán.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **customer journey** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir persona/job y alcance → 2. reconstruir journey con evidencia → 3. mapear touchpoints y emociones → 4. priorizar moments of truth → 5. asignar owner end-to-end** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta drop-off, time-to-value; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Dibuja el recorrido de tu cliente en cinco etapas y marca los puntos de contacto de cada una.
+2. Entrevista a tres clientes sobre su recorrido real y anota las fricciones.
+3. Calcula la conversión y el abandono por etapa con datos propios.
+4. Prioriza cinco mejoras por efecto y esfuerzo.
+5. Define quién es el dueño del recorrido y qué métricas compartirá con otras áreas.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar journey y touchpoint como sinónimos | Se pierde la distinción entre “secuencia de interacciones y tareas desde perspectiva del cliente” y “punto de interacción con organización o ecosistema” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “asignar owner end-to-end” | Se saltó “definir persona/job y alcance” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir persona/job y alcance → 2. reconstruir journey con evidencia → 3. mapear touchpoints y emociones → 4. priorizar moments of truth → 5. asignar owner end-to-end y marca el primer supuesto no demostrado. |
-| Optimizar solo drop-off | La métrica local sustituyó al resultado del sistema | Contrástala con time-to-value y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre customer journey | Un journey map puede simplificar trayectorias distintas. Segmenta casos relevantes y evita convertir una línea ideal en verdad universal. |
-| No fijar revisión | Una decisión sobre customer journey se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Mapear sin clientes | Se hace en una sala | Entrevistas y datos de comportamiento. |
+| Mirar solo la compra | Es lo que se mide | Incluir el uso y la renovación. |
+| Cada área mide lo suyo | Estructura funcional | Dueño y métricas compartidas. |
+| Mejorar lo visible | Se atiende lo fácil | Priorizar por efecto en valor. |
+| Ignorar los traspasos | No son de nadie | Acuerdos entre áreas. |
+| Datos sin privacidad | Se busca más información | Consentimiento y cumplimiento normativo. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **journey** y **touchpoint** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **moment of truth** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir persona/job y alcance → reconstruir journey con evidencia** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **drop-off** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **customer journey**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un journey map puede simplificar trayectorias distintas. Segmenta casos relevantes y evita convertir una línea ideal en verdad universal.**?
+1. ¿Qué es el recorrido del cliente y por qué es más que la compra?
+2. ¿Qué tipos de punto de contacto reconocen Lemon y Verhoef?
+3. ¿Qué evidencia se usa para construir un mapa?
+4. ¿Qué es un momento crítico?
+5. ¿Dónde suelen nacer los problemas del recorrido?
+6. ¿Qué dos niveles de métricas se usan?
+7. ¿Qué límites tiene un mapa de recorrido?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La secuencia de interacciones desde que se identifica la necesidad hasta la relación posterior; la experiencia se forma antes, durante y después de comprar.
+2. Propios de la marca, de socios, del cliente y externos (como reseñas o conversaciones).
+3. Entrevistas, datos de comportamiento, datos de soporte, reseñas y observación.
+4. Un instante donde la experiencia puede ganar o perder al cliente, como el primer uso, una falla o la renovación.
+5. En los traspasos entre áreas y en la falta de un dueño del recorrido.
+6. Métricas de etapa (conversión, tiempo, abandono, activación) y de resultado (retención, valor, recomendación).
+7. Simplifica recorridos no lineales, puede basarse en pocos datos y exige integrar información con cuidado de la privacidad.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/138-customer-journey/`:
 
-- `leadership-decision-brief.md` con el problema específico de **customer journey**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **customer journey** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **journey**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un cliente compra online en cinco minutos, pero espera cuatro días una validación manual sin estado visible. Marketing optimiza checkout mientras la mayor frustración ocurre después.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan del caso ejecutivo;
+- `process-map.md` (plantilla [Process map](../../../../templates/process-map.md)) con el mapa del recorrido y los traspasos;
+- `decision-journal.md` con las fuentes de datos, las hipótesis y las mejoras probadas.
 
 ## 📗 Fuentes y verificación
 
-- Philip Kotler & Kevin Lane Keller — *Marketing Management* (Pearson Education, 2016). **Uso en esta clase:** segmentación, targeting, posicionamiento, propuesta de valor y marketing mix. Lectura selectiva sobre **customer journey**. **Localizador:** [ISBN-13 9781292092621](https://openlibrary.org/isbn/9781292092621).
-- Byron Sharp — *How Brands Grow* (BookBaby, 2010). **Uso en esta clase:** disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas. Lectura selectiva sobre **customer journey**. **Localizador:** [ISBN-13 9781483534701](https://openlibrary.org/isbn/9781483534701).
-- Alexander Osterwalder & Yves Pigneur — *Business Model Generation* (Wiley , 2010). **Uso en esta clase:** diseño de modelos de negocio mediante propuesta, clientes, recursos y economía. Lectura selectiva sobre **customer journey**. **Localizador:** [ISBN-13 9780470876411](https://openlibrary.org/isbn/9780470876411).
-- April Dunford — *Obviously Awesome* (Ambient Press, 2019). **Uso en esta clase:** posicionamiento desde alternativas competitivas, atributos, valor y segmento. Lectura selectiva sobre **customer journey**. **Localizador:** [ISBN-13 9781999023003](https://openlibrary.org/isbn/9781999023003).
-- Sean Ellis & Morgan Brown — *Hacking Growth* (Ebury Publishing, 2017). **Uso en esta clase:** experimentación de crecimiento, loops y aprendizaje orientado a métricas. Lectura selectiva sobre **customer journey**. **Localizador:** [ISBN-13 9780753545386](https://openlibrary.org/isbn/9780753545386).
-- David Aaker — *Building Strong Brands* (Simon & Schuster Ltd, 2002). **Uso en esta clase:** perspectiva de Marca aplicada al problema de la clase. Lectura selectiva sobre **customer journey**. **Localizador:** [ISBN-13 9780743232135](https://openlibrary.org/isbn/9780743232135).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **customer journey** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **customer journey**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **customer journey** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **customer journey** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **customer journey** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Katherine N. Lemon & Peter C. Verhoef — *Understanding Customer Experience Throughout the Customer Journey* (Journal of Marketing, 2016). **Uso en esta clase:** experiencia a lo largo del recorrido y tipos de punto de contacto. Lectura selectiva sobre **customer journey**. **Localizador:** [DOI 10.1509/jm.15.0420](https://doi.org/10.1509/jm.15.0420).
+- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** trabajo a realizar y contexto de elección. Lectura selectiva sobre **customer journey**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
+- Philip Kotler & Kevin Lane Keller — *Marketing Management* (Pearson Education, 2016). **Uso en esta clase:** proceso de decisión de compra y marketing de relaciones. Lectura selectiva sobre **customer journey**. **Localizador:** [ISBN-13 9781292092621](https://openlibrary.org/isbn/9781292092621).
+- Sunil Gupta & Valarie Zeithaml — *Customer Metrics and Their Impact on Financial Performance* (Marketing Science, 2006). **Uso en esta clase:** relación entre métricas de clientes y resultados financieros. Lectura selectiva sobre **customer journey**. **Localizador:** [DOI 10.1287/mksc.1060.0221](https://doi.org/10.1287/mksc.1060.0221).
+- Sean Ellis & Morgan Brown — *Hacking Growth* (Ebury Publishing, 2017). **Uso en esta clase:** activación y experiencia inicial. Lectura selectiva sobre **customer journey**. **Localizador:** [ISBN-13 9780753545386](https://openlibrary.org/isbn/9780753545386).
 
-> **Regla de fuentes para Customer journey:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **customer journey** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Customer journey:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las de protección de datos, comercio electrónico y regulación sectorial. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

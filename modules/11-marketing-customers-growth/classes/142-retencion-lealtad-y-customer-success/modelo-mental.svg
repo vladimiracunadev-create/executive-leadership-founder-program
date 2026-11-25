@@ -1,81 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g142 d-g142" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g142">Ficha visual de la clase 142: Retención, lealtad y customer success</title>
-<desc id="d-g142">Conceptos: retention; churn; NRR; customer success; time-to-value. Método: definir activation y value milestones → segmentar cohortes y churn → identificar riesgos tempranos → intervenir adopción y outcomes → aprender razones de cancelación.</desc>
-<defs><marker id="p-g142" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 142 · Retención, lealtad y customer success</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 11 · Gestión de negocio</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#8250df"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >retention</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >proporción de clientes o revenue que permanece</text>
-<circle cx="38" cy="170" r="5" fill="#8250df"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >churn</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >pérdida de clientes o revenue</text>
-<circle cx="38" cy="228" r="5" fill="#8250df"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >NRR</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >retención de revenue incluyendo expansión y contracción</text>
-<circle cx="38" cy="286" r="5" fill="#8250df"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >customer success</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >función/práctica que ayuda al cliente a alcanzar</text>
-<text x="54" y="325.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >outcomes</text>
-<circle cx="38" cy="358.12" r="5" fill="#8250df"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >time-to-value</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >tiempo hasta obtener primer valor significativo</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#8250df"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir activation</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >y value milestones</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#8250df"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >segmentar cohortes</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >y churn</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#8250df"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >identificar</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >riesgos tempranos</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#8250df"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >intervenir</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >adopción y</text>
-<text x="880" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >outcomes</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#8250df"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >aprender razones</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >de cancelación</text>
-<path d="M638,139 L656,139" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g142)"/>
-<path d="M826,139 L844,139" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g142)"/>
-<path d="M929,176 L929,222" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g142)"/>
-<path d="M844,259 L826,259" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g142)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#8250df" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g142)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >logo retention</text>
-<rect x="160.6" y="442.12" width="46.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="173.6" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="184.6" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >NRR</text>
-<rect x="217.3" y="442.12" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="230.3" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="241.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >time-to-value</text>
-<rect x="343" y="442.12" width="81.2" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="356" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="367" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >adoption</text>
-<rect x="434.2" y="442.12" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="447.2" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="458.2" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >churn reason</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Descuentos o contratos largos pueden retrasar churn sin crear lealtad. Mide uso, outcome y disposición a renovar, no solo obligación</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >contractual.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 456.81" width="1040" role="img" aria-labelledby="t-s142 d-s142" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s142">Clase 142 · Lealtad que se gana frente a cautividad que se acumula</title>
+<desc id="d-s142">Dos formas de retener clientes: por valor recibido y por dificultad para irse, con sus señales y riesgos.</desc>
+<defs><marker id="p-s142" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="456.81" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 142 · Lealtad que se gana frente a cautividad que se acumula</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Reichheld · Gupta &amp; Zeithaml (2006) · Moore</text>
+<text x="28" y="90" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">LEALTAD GANADA</text>
+<rect x="28" y="104" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.7" />
+<rect x="28.0" y="104" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<text x="46" y="126" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Resultado percibido</text>
+<text x="46" y="144" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >El cliente obtiene lo que busca y lo nota.</text>
+<rect x="28" y="177.25" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.7" />
+<rect x="28.0" y="177.25" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<text x="46" y="199.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Recomienda</text>
+<text x="46" y="217.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Habla bien sin que se lo pidan.</text>
+<rect x="28" y="250.5" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.7" />
+<rect x="28.0" y="250.5" width="6" height="63.25" rx="3" fill="#0969da"/>
+<text x="46" y="272.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Perdura</text>
+<text x="46" y="290.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Resiste ofertas de la competencia.</text>
+<text x="532" y="90" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CAUTIVIDAD ACUMULADA</text>
+<rect x="532" y="104" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.7" />
+<rect x="532.0" y="104" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<text x="550" y="126" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Costo de salida alto</text>
+<text x="550" y="144" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Contratos, datos atrapados, integraciones.</text>
+<rect x="532" y="177.25" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.7" />
+<rect x="532.0" y="177.25" width="6" height="63.25" rx="3" fill="#cf222e"/>
+<text x="550" y="199.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Se queda resentido</text>
+<text x="550" y="217.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Permanece, pero critica y busca alternativas.</text>
+<rect x="532" y="250.5" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.7" />
+<rect x="532.0" y="250.5" width="6" height="63.25" rx="3" fill="#59636e"/>
+<text x="550" y="272.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Se va a la primera oportunidad</text>
+<text x="550" y="290.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Cuando cambia la regla o aparece una opción.</text>
+<rect x="28" y="329.75" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="351.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >La retención sana se mide por uso y resultados, no solo por renovaciones. La satisfacción declarada sin comportamiento asociado es una</text>
+<text x="44" y="369" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >señal débil.</text>
+<text x="28" y="416.25" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Los costos de cambio se pueden usar de forma legítima, pero los obstáculos abusivos para irse pueden infringir normas de consumo.</text>
 </svg>

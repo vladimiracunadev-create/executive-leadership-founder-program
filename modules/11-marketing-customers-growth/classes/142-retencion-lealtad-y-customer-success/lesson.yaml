@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir retention de churn mediante evidencia observable."
-  - "Aplicar la secuencia: definir activation y value milestones → segmentar cohortes y churn → identificar riesgos tempranos → intervenir adopción y outcomes → aprender razones de cancelación."
-  - "Interpretar logo retention, NRR, time-to-value sin atribuir causalidad automática."
-  - "Resolver el caso de retención, lealtad y customer success con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Medir retención de clientes y de ingresos por cohortes."
+  - "Distinguir lealtad ganada de cautividad acumulada."
+  - "Diseñar el modelo de éxito del cliente: onboarding, adopción, valor y renovación."
+  - "Detectar señales tempranas de riesgo y definir respuestas."
+  - "Calcular el valor económico de mejorar la retención."
 deliverable: "commercial-decision-brief.md"
 references:
-  - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
-  - "Byron Sharp — *How Brands Grow*"
+  - "Sunil Gupta & Valarie Zeithaml — *Customer Metrics and Their Impact on Financial Performance*"
   - "Geoffrey A. Moore — *Crossing the Chasm*"
-  - "David Aaker — *Building Strong Brands*"
-  - "Aaron Ross & Jason Lemkin — *From Impossible to Inevitable*"
-  - "April Dunford — *Obviously Awesome*"
+  - "Sean Ellis & Morgan Brown — *Hacking Growth*"
+  - "Matthew Dixon & Brent Adamson — *The Challenger Sale*"
+  - "Sunil Gupta, Donald R. Lehmann & Jennifer Ames Stuart — *Valuing Customers*"
 limits:
-  - "Descuentos o contratos largos pueden retrasar churn sin crear lealtad. Mide uso, outcome y disposición a renovar, no solo obligación contractual."
+  - "Las estimaciones de efecto de programas de retención son inciertas y se validan con grupos de control."
 evidence_signals:
-  - "logo retention"
-  - "NRR"
-  - "time-to-value"
-  - "adoption"
-  - "churn reason"
+  - "retención por cohortes"
+  - "lealtad distinguida de cautividad"
+  - "hito de valor temprano"
+  - "valor económico de retener calculado"

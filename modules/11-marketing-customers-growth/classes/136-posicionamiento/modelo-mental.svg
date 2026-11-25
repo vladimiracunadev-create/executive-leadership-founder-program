@@ -1,65 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g136 d-g136" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g136">Ficha visual de la clase 136: Posicionamiento</title>
-<desc id="d-g136">Conceptos: competitive alternative; unique attribute; value; target segment; market frame. Método: listar alternativas reales → identificar atributos únicos → traducirlos a valor → seleccionar segmento donde importan → probar market frame y mensaje.</desc>
-<defs><marker id="p-g136" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 136 · Posicionamiento</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 11 · Gestión de negocio</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#8250df"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >competitive alternative</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >qué usaría el cliente si tu solución no existiera</text>
-<circle cx="38" cy="170" r="5" fill="#8250df"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >unique attribute</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad difícil de encontrar en alternativas</text>
-<circle cx="38" cy="228" r="5" fill="#8250df"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >value</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >beneficio que el atributo habilita para el cliente</text>
-<circle cx="38" cy="286" r="5" fill="#8250df"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >target segment</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grupo para el que ese valor es especialmente importante</text>
-<circle cx="38" cy="344" r="5" fill="#8250df"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >market frame</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >categoría o contexto que hace comprensible la</text>
-<text x="54" y="383.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >comparación</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#8250df" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#8250df"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >listar alternativas reales</text>
-<circle cx="485" cy="176" r="14" fill="#8250df"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >identificar atributos únicos</text>
-<circle cx="485" cy="230" r="14" fill="#8250df"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >traducirlos a valor</text>
-<circle cx="485" cy="284" r="14" fill="#8250df"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >seleccionar segmento donde importan</text>
-<circle cx="485" cy="338" r="14" fill="#8250df"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >probar market frame y mensaje</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="212.3" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >win rate versus alternative</text>
-<rect x="250.3" y="442.12" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="263.3" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="274.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >message recall</text>
-<rect x="382.9" y="442.12" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="395.9" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="406.9" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >qualified demand</text>
-<rect x="529.3" y="442.12" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="542.3" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="553.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >price premium</text>
-<rect x="655" y="442.12" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="668" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="679" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >loss reasons</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Posicionamiento no puede fabricar una ventaja inexistente. Si el producto no tiene diferencia relevante, el problema es de</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >estrategia/producto, no de copywriting.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 498.56" width="1040" role="img" aria-labelledby="t-s136 d-s136" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s136">Clase 136 · Los cinco elementos de un posicionamiento claro</title>
+<desc id="d-s136">Cinco elementos del posicionamiento en el orden en que se definen: alternativas competitivas, atributos únicos, valor, clientes que más lo valoran y categoría de mercado.</desc>
+<defs><marker id="p-s136" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="498.56" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 136 · Los cinco elementos de un posicionamiento claro</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Dunford (2019) · Ries &amp; Trout · Kim &amp; Mauborgne</text>
+<rect x="28" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<circle cx="52.0" cy="122.0" r="13" fill="#59636e"/>
+<text x="52" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Alternativas</text>
+<text x="44" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Qué haría el cliente si no</text>
+<text x="44" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >existiera tu producto.</text>
+<path d="M260.5,152.875 L276.5,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s136)"/>
+<rect x="279.5" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<circle cx="303.5" cy="122.0" r="13" fill="#0969da"/>
+<text x="303.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Atributos únicos</text>
+<text x="295.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Lo que tienes y ellas no</text>
+<text x="295.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >tienen.</text>
+<path d="M512,152.875 L528,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s136)"/>
+<rect x="531" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<circle cx="555.0" cy="122.0" r="13" fill="#1a7f37"/>
+<text x="555" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Valor</text>
+<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Qué resultado significan</text>
+<text x="547" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >esos atributos para el</text>
+<text x="547" y="186.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >cliente.</text>
+<path d="M763.5,152.875 L779.5,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s136)"/>
+<rect x="782.5" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<circle cx="806.5" cy="122.0" r="13" fill="#bc4c00"/>
+<text x="806.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Clientes que más lo</text>
+<text x="826.5" y="138.63" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >valoran</text>
+<text x="798.5" y="159.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Quienes obtienen más valor y</text>
+<text x="798.5" y="176.51" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >compran más rápido.</text>
+<path d="M897.25,211.75 V223.75 H142.75 V241.75" stroke="#59636e" stroke-width="2" fill="none" marker-end="url(#p-s136)"/>
+<rect x="28" y="243.75" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<circle cx="52.0" cy="269.75" r="13" fill="#8250df"/>
+<text x="52" y="274.75" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="72" y="267.75" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Categoría</text>
+<text x="44" y="299.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >El marco que hace evidente</text>
+<text x="44" y="317" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >el valor al comprador.</text>
+<rect x="28" y="371.5" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="393.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Se parte de las alternativas del cliente, no de las características del producto; el posicionamiento se prueba con compradores y se</text>
+<text x="44" y="410.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >refleja en mensajes, ventas y producto.</text>
+<text x="28" y="458" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Cambiar de categoría tiene costos de comunicación; se hace con evidencia de que el comprador entiende mejor la oferta.</text>
 </svg>

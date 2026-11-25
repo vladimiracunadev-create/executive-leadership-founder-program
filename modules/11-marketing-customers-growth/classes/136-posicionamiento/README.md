@@ -10,217 +10,188 @@
 
 ## 🎯 Propósito
 
-Posicionamiento define el contexto competitivo en el que tus fortalezas son relevantes para un segmento. Debe responder: para quién, contra qué alternativas, qué capacidades únicas importan y qué valor habilitan. No es un slogan; es una elección que guía producto, ventas y marketing.
+Cuando alguien escucha el nombre de tu producto, ¿qué piensa? Si la respuesta es «no sé qué es» o «es como todos los demás», el posicionamiento falló, y ningún presupuesto de comunicación lo compensará. El posicionamiento es la forma en que la oferta se ubica en la mente del comprador respecto de las alternativas: qué es, para quién es, en qué es mejor y por qué debería importarle. No es un eslogan: es una **decisión estratégica** sobre el contexto en que se quiere que el cliente evalúe la oferta, de la que se derivan el mensaje, la oferta, el precio, los canales y las ventas.
 
-La salida de esta parte es **entender mercado, posicionamiento, canales, conversión, retención y crecimiento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **posicionamiento** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la obra clásica de Ries y Trout, en el enfoque práctico de Dunford para posicionar productos de forma que su valor sea evidente, en la propuesta de Kim y Mauborgne sobre diferenciación y en la evidencia de Sharp sobre cómo se construyen las marcas en la mente de los compradores. Al terminar sabrás aplicar los cinco elementos del posicionamiento en orden, probarlo con compradores, detectar posicionamientos débiles y alinear mensaje, producto y ventas.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `competitive alternative`, `unique attribute`, `value`, `target segment`, `market frame` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. listar alternativas reales → 2. identificar atributos únicos → 3. traducirlos a valor → 4. seleccionar segmento donde importan → 5. probar market frame y mensaje** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** win rate versus alternative, message recall, qualified demand sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** los cinco elementos del posicionamiento y su orden.
+2. **Identificar** las alternativas competitivas reales del cliente.
+3. **Traducir** atributos únicos en valor para el cliente.
+4. **Elegir** la categoría de mercado que haga evidente el valor.
+5. **Probar** y ajustar el posicionamiento con compradores y datos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define competitive alternative y unique attribute sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con win rate versus alternative y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: pide a tres clientes que expliquen en una frase qué hace tu producto y para quién; compara con tu mensaje. |
+| 20–60 min | Cinco elementos, categoría, prueba y alineación. |
+| 60–105 min | Ejemplo trabajado: reposicionar una plataforma de analítica. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **competitive alternative** | qué usaría el cliente si tu solución no existiera | Distingue un hecho compatible y otro que lo refute. |
-| **unique attribute** | capacidad difícil de encontrar en alternativas | Distingue un hecho compatible y otro que lo refute. |
-| **value** | beneficio que el atributo habilita para el cliente | Distingue un hecho compatible y otro que lo refute. |
-| **target segment** | grupo para el que ese valor es especialmente importante | Distingue un hecho compatible y otro que lo refute. |
-| **market frame** | categoría o contexto que hace comprensible la comparación | Distingue un hecho compatible y otro que lo refute. |
+| **Posicionamiento** | Contexto que ayuda al comprador a entender qué es la oferta y por qué importa. | Un cliente lo explica con tus palabras. |
+| **Alternativas competitivas** | Lo que el cliente haría si el producto no existiera. | Incluye hacer nada y soluciones internas. |
+| **Atributos únicos** | Capacidades que la oferta tiene y las alternativas no. | Verificables, no adjetivos. |
+| **Valor** | Resultado que los atributos entregan al cliente. | Medible o evidente. |
+| **Cliente que más valora** | Segmento al que esos atributos le importan más. | Compra rápido y retiene. |
+| **Categoría** | Marco que hace evidente el valor. | Define expectativas y comparaciones. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 136: 1. listar alternativas reales → 2. identificar atributos únicos → 3. traducirlos a valor → 4. seleccionar segmento donde importan → 5. probar market frame y mensaje](modelo-mental.svg)
+![Los cinco elementos del posicionamiento en orden: alternativas, atributos únicos, valor, clientes que más lo valoran y categoría.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. listar alternativas reales → 2. identificar atributos únicos → 3. traducirlos a valor → 4. seleccionar segmento donde importan → 5. probar market frame y mensaje
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Posicionamiento define el contexto competitivo en el que tus fortalezas son relevantes para un segmento. Debe responder: para quién, contra qué alternativas, qué capacidades únicas importan y qué valor habilitan. No es un slogan; es una elección que guía producto, ventas y marketing.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Posicionamiento no puede fabricar una ventaja inexistente. Si el producto no tiene diferencia relevante, el problema es de estrategia/producto, no de copywriting.**
+**Cómo leer el diagrama.** Cinco pasos que se definen en este orden. Primero, las **alternativas** del cliente (qué haría sin tu producto); segundo, los **atributos únicos** (lo que tienes y ellas no); tercero, el **valor** que esos atributos significan para el cliente; cuarto, los **clientes que más lo valoran**; y quinto, la **categoría** que haga evidente ese valor. La nota insiste en que se parte de las alternativas del cliente, no de las características del producto, y que el posicionamiento se prueba con compradores y se refleja en mensajes, ventas y producto.
 
 ## 📖 Desarrollo
 
-### 1. competitive alternative: mecanismo central
+### 1. Qué es posicionar
 
-**competitive alternative** se entiende aquí como **qué usaría el cliente si tu solución no existiera**. Esta es la pieza causal o estructural desde la que se inicia **posicionamiento**: antes de listar alternativas reales, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Ries y Trout popularizaron la idea de que el posicionamiento no ocurre sobre el producto sino **en la mente del cliente**: en un entorno saturado de mensajes, la gente simplifica y ordena las ofertas por categorías y atributos que recuerda. Quien ocupa un lugar claro en esa ordenación tiene ventaja. Dunford lo plantea de forma práctica: posicionar es **definir el contexto** que permite a los compradores entender el valor de la oferta. Sin contexto, el cliente aplica uno por defecto, y suele ser equivocado: te compara con alternativas inadecuadas, valora atributos que no son tu fuerte y te juzga por el precio.
 
-La lectura rectora de este bloque es Philip Kotler & Kevin Lane Keller — *Marketing Management*. Su aporte se usa para examinar **segmentación, targeting, posicionamiento, propuesta de valor y marketing mix**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **win rate versus alternative**; regístrala con periodo, unidad, población y baseline.
+### 2. Alternativas competitivas
 
-Relaciona el mecanismo con **unique attribute**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se comienza por preguntar: **si tu producto no existiera, ¿qué haría tu cliente?** Las respuestas pueden incluir competidores directos, productos de otra categoría, soluciones hechas en casa (planillas, procesos manuales, equipos internos) o **no hacer nada**. Estas son las verdaderas alternativas, y definen contra qué se evalúa tu valor. Muchos equipos se comparan con competidores que no son los que el cliente considera. Se identifican con entrevistas, datos de ventas perdidas y análisis de lo que los clientes usaban antes. En muchos mercados, la alternativa más fuerte es el statu quo, y se vence mostrando el costo de no cambiar (clase 125).
 
-### 2. unique attribute: frontera conceptual y error de clasificación
+### 3. Atributos únicos y valor
 
-**Definición operacional:** capacidad difícil de encontrar en alternativas. Su valor está en distinguirlo de **competitive alternative** y **value**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Con las alternativas claras, se listan los **atributos únicos**: capacidades, características, servicios o ventajas que tu oferta tiene y las alternativas no. Deben ser **verificables** («integra en un día con sistemas de nómina de 12 proveedores») y no adjetivos («innovador», «completo»). A cada atributo se le asocia el **valor**: el resultado que significa para el cliente («lanzas una sucursal nueva en una semana en lugar de tres»). Muchos productos tienen atributos únicos que el cliente no entiende porque nadie los tradujo a valor. Y a veces el atributo más característico no es el más valioso para el cliente: se prueba.
 
-Contrasta el problema con Byron Sharp — *How Brands Grow*, que aporta una mirada sobre **disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas**. Formula dos mini-casos: uno que sí satisface la definición de **unique attribute** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **message recall** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Los clientes que más lo valoran
 
-Antes de identificar atributos únicos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+No todos los clientes valoran igual los atributos. Los que más lo hacen son quienes **tienen el problema que tu atributo resuelve mejor**, compran más rápido, pagan más y se quedan más tiempo. Dunford sugiere buscarlos en los datos de ventas (¿qué clientes cierran rápido y renuevan?) y en entrevistas. Posicionar para ellos permite mensajes específicos, ventas más eficientes y un precio coherente (clase 135). Intentar posicionar para «todos» obliga a mensajes genéricos que no convencen a nadie. Eso no impide vender a otros; indica a quién se dirige la comunicación y el desarrollo.
 
-### 3. value: operacionalización y medición
+### 5. La categoría de mercado
 
-**value** significa **beneficio que el atributo habilita para el cliente**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La **categoría** es el marco que activa expectativas: quién es el competidor de referencia, qué atributos importan, qué precio es razonable. Se elige la que haga **evidente el valor** a los clientes que más lo valoran. Opciones: **competir en una categoría existente** (rápida comprensión; hay que ganar a los líderes en sus criterios), **subdividirla** (un segmento especializado donde se pueda dominar) o **crear una nueva** (evita competir en los criterios de otros, pero exige educar al mercado y asumir costo y riesgo, clase 133). Kim y Mauborgne añaden que se puede diferenciar redefiniendo los factores de competencia. La elección debe validarse con compradores.
 
-Gabriel Weinberg & Justin Mares — *Traction* orienta este bloque mediante **perspectiva de Growth aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **qualified demand**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Probar el posicionamiento
 
-Al llegar a traducirlos a valor, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Un posicionamiento es una **hipótesis**. Se prueba con: **entrevistas a compradores** (¿cómo describen lo que hacemos?, ¿con qué nos comparan?), **pruebas de mensaje** (variantes con muestras de clientes objetivo), **datos de conversión** (¿entienden y avanzan?), **análisis de oportunidades perdidas** y **señales de las ventas** (¿hay que explicar demasiado?). Un buen indicador es la **claridad**: un cliente nuevo explica en una frase qué hace la empresa, para quién y en qué es distinta. Si necesita varias, el posicionamiento es difuso. Sharp advierte que lo que crece una marca es la **disponibilidad mental y física** y señales distintivas; el posicionamiento debe apoyar esa distintividad.
 
-### 4. target segment: trade-offs y efectos de segundo orden
+### 7. Alinear la organización
 
-**Definición:** grupo para el que ese valor es especialmente importante. Este concepto obliga a abandonar la idea de que **posicionamiento** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de seleccionar segmento donde importan, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-April Dunford — *Obviously Awesome* aporta una lente sobre **posicionamiento desde alternativas competitivas, atributos, valor y segmento**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **price premium** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **posicionamiento**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **target segment** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. market frame: gobernanza, límites e integración
-
-**market frame** se define como **categoría o contexto que hace comprensible la comparación** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Sean Ellis & Morgan Brown — *Hacking Growth* se utiliza para estudiar **experimentación de crecimiento, loops y aprendizaje orientado a métricas** y contrastar la recomendación final. Al ejecutar probar market frame y mensaje, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Posicionamiento no puede fabricar una ventaja inexistente. Si el producto no tiene diferencia relevante, el problema es de estrategia/producto, no de copywriting.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **competitive alternative**, **unique attribute**, **value**, **target segment** y **market frame** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **posicionamiento** no consiste en sumar cinco definiciones. Empieza por **competitive alternative**, contrasta **unique attribute** con **value**, incorpora **target segment** como restricción o mecanismo y usa **market frame** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. listar alternativas reales → 2. identificar atributos únicos → 3. traducirlos a valor → 4. seleccionar segmento donde importan → 5. probar market frame y mensaje**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El posicionamiento debe verse en **todo**: sitio web, materiales de ventas, demostraciones, precios, producto, soporte, contratación. Si el mensaje dice «simplicidad» y el producto exige una configuración de semanas, la contradicción destruye credibilidad. Se alinean los equipos con un documento breve (alternativas, atributos, valor, cliente, categoría, ejemplos de mensajes) y se capacita a ventas y soporte. Se revisa con los datos del mercado cada año o ante cambios: nuevos competidores, nueva tecnología o evolución del cliente. Las afirmaciones comparativas y de desempeño deben ser verdaderas y respaldables, conforme a las normas de publicidad.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Philip Kotler & Kevin Lane Keller — *Marketing Management* | segmentación, targeting, posicionamiento, propuesta de valor y marketing mix | ¿Qué supuesto de **posicionamiento** ayuda a desafiar? |
-| Byron Sharp — *How Brands Grow* | disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas | ¿Qué supuesto de **posicionamiento** ayuda a desafiar? |
-| Gabriel Weinberg & Justin Mares — *Traction* | perspectiva de Growth aplicada al problema de la clase | ¿Qué supuesto de **posicionamiento** ayuda a desafiar? |
-| April Dunford — *Obviously Awesome* | posicionamiento desde alternativas competitivas, atributos, valor y segmento | ¿Qué supuesto de **posicionamiento** ayuda a desafiar? |
-| Sean Ellis & Morgan Brown — *Hacking Growth* | experimentación de crecimiento, loops y aprendizaje orientado a métricas | ¿Qué supuesto de **posicionamiento** ayuda a desafiar? |
-
-En **posicionamiento**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **competitive alternative**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Ries y Trout | Posicionamiento como ocupar un lugar en la mente del cliente. | Escrito en otra era de medios; ejemplos de consumo masivo. | ¿Qué lugar ocupas en la mente del cliente? |
+| Dunford | Cinco elementos y su orden; método práctico para B2B. | Menos evidencia sistemática. | ¿Qué alternativas usa realmente tu cliente? |
+| Kim y Mauborgne | Redefinir los factores de competencia. | Casos seleccionados. | ¿Qué factor eliminarías o crearías? |
+| Sharp | Distintividad y disponibilidad como motores del crecimiento. | Visión centrada en marcas de consumo. | ¿Qué señales te hacen reconocible? |
+| Aaker | Identidad de marca y asociaciones. | Marco conceptual de marca. | ¿Qué asociaciones quieres construir? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una herramienta se posiciona como 'más rápida'. Entrevistas muestran que nadie compra por velocidad; clientes eligen por auditabilidad, que competidores no resuelven bien.
+**Situación (hipotética).** Una empresa ofrece una plataforma de analítica de datos con tableros e inteligencia artificial. Su sitio dice: «La plataforma de datos más completa para equipos modernos». Sus ventas son lentas: los prospectos la comparan con herramientas de tableros genéricas y la consideran cara; el 40 % de las oportunidades se pierde «por no priorizar».
 
-**Paso 1 — listar alternativas reales.** La gerencia escribe primero el supuesto asociado a **competitive alternative** y evita convertirlo en hecho. Luego busca **win rate versus alternative** para contrastarlo en el caso de **posicionamiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Reconstrucción con los cinco elementos.**
 
-**Paso 2 — identificar atributos únicos.** La gerencia escribe primero el supuesto asociado a **unique attribute** y evita convertirlo en hecho. Luego busca **message recall** para contrastarlo en el caso de **posicionamiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Elemento | Hallazgo |
+|---|---|
+| **Alternativas** | Entrevistas a 18 clientes: usaban planillas y reportes manuales mensuales (11), tableros genéricos (5) y consultoras (2). Casi nadie la compara con una «plataforma de datos»; la alternativa principal es la planilla. |
+| **Atributos únicos** | Conecta con sistemas de inventario y facturación sin programar (en 2 días); incluye plantillas de indicadores para distribución y retail; alerta cuando un indicador se desvía. |
+| **Valor** | Los gerentes dejan de esperar el reporte del día 10 y ven el margen por local y los quiebres de stock cada mañana; reducen quiebres entre 15 % y 30 % en seis meses (casos documentados). |
+| **Clientes que más valoran** | Distribuidoras y cadenas de retail con 10 a 60 locales o bodegas, con un gerente de operaciones o de finanzas como patrocinador; renuevan al 92 % y cierran en 35 días. |
+| **Categoría** | «Control de gestión diario para retail y distribución» en lugar de «plataforma de datos». |
 
-**Paso 3 — traducirlos a valor.** La gerencia escribe primero el supuesto asociado a **value** y evita convertirlo en hecho. Luego busca **qualified demand** para contrastarlo en el caso de **posicionamiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Nuevo mensaje.** «Sabrás cada mañana qué locales venden menos de lo esperado y qué productos se te están acabando, sin esperar el reporte del día 10». Prueba con 300 contactos: la tasa de respuesta sube de 1,4 % a 4,1 %, y los prospectos describen el producto como «el tablero diario de mis tiendas».
 
-**Paso 4 — seleccionar segmento donde importan.** La gerencia escribe primero el supuesto asociado a **target segment** y evita convertirlo en hecho. Luego busca **price premium** para contrastarlo en el caso de **posicionamiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Alineación.** Se cambia el sitio, la presentación de ventas (demostración con datos de un retail), el onboarding (primer tablero en dos días) y el precio (por local). Se retira el material para otros sectores del sitio principal. Se mide a los 90 días la duración del ciclo y la conversión.
 
-**Paso 5 — probar market frame y mensaje.** La gerencia escribe primero el supuesto asociado a **market frame** y evita convertirlo en hecho. Luego busca **loss reasons** para contrastarlo en el caso de **posicionamiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **posicionamiento**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El mercado real de comparación era la planilla. (2) El valor se tradujo a un resultado cotidiano. (3) La categoría hizo evidente el valor y el mensaje se alineó con producto y ventas.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **competitive alternative** | qué usaría el cliente si tu solución no existiera | Cuando win rate versus alternative es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **unique attribute** | capacidad difícil de encontrar en alternativas | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Posicionamiento frente a marca.** El posicionamiento define el contexto y el valor de una oferta para un segmento; la marca es el conjunto más amplio de asociaciones y de señales de confianza (clase 137). Se refuerzan mutuamente.
 
-**Frontera de aplicación:** Posicionamiento no puede fabricar una ventaja inexistente. Si el producto no tiene diferencia relevante, el problema es de estrategia/producto, no de copywriting.
+**Límites.** El posicionamiento cambia cuando cambian el mercado y las alternativas. Sharp cuestiona que las marcas deban diferenciarse de forma muy estrecha para crecer; el equilibrio entre diferenciación y distintividad se decide con datos. Los métodos de Dunford están basados en la práctica de la autora y de empresas B2B de tecnología. Las comparaciones y afirmaciones de desempeño en publicidad están reguladas y deben ser demostrables.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre posicionamiento |
+| Nivel | Cómo participa en el posicionamiento |
 |---|---|
-| **Profesional** | usa **posicionamiento** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **competitive alternative** y **unique attribute** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta win rate versus alternative con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si posicionamiento cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de posicionamiento reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **posicionamiento** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Usa el mensaje de forma consistente y trae lo que oye de clientes. |
+| **Jefe / Team Lead** | Revisa que materiales y presentaciones reflejen el posicionamiento. |
+| **Gerente** | Lidera su definición y prueba con datos, y alinea áreas. |
+| **CEO / Director** | Sostiene el posicionamiento frente a la tentación de ser todo para todos. |
+| **Founder / Owner** | Define con claridad a quién sirve y en qué es distinto desde el inicio. |
 
 ## 🏢 Caso ejecutivo
 
-Una herramienta se posiciona como 'más rápida'. Entrevistas muestran que nadie compra por velocidad; clientes eligen por auditabilidad, que competidores no resuelven bien.
+Una empresa de software de gestión de inventarios para pequeños comercios se presenta como «solución integral de gestión» y sus vendedores explican hasta 12 funciones distintas en cada demostración. Compite contra grandes sistemas contables y contra planillas. Los clientes que cierran lo hacen por una función: la sincronización automática con tiendas en línea. Esos clientes —comercios con ventas por internet y por local— renuevan al 90 %; el resto, al 60 %. El nuevo gerente general propone reposicionar como «la forma más fácil de no quedarte sin stock cuando vendes en tienda e internet». El gerente de producto teme perder clientes de otros perfiles; el de ventas, que el mensaje sea demasiado estrecho.
 
-Entrega un **decision brief de posicionamiento** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **posicionamiento** que contenga: (a) las alternativas competitivas reales con evidencia; (b) los atributos únicos y su valor, con cómo se verificarán; (c) los clientes que más valoran la oferta y los datos que lo muestran; (d) la categoría elegida, las alternativas consideradas y su validación; (e) el mensaje y los ajustes en producto, ventas, precio y soporte; (f) las métricas para probarlo y las verificaciones de publicidad y afirmaciones comparativas.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **posicionamiento** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. listar alternativas reales → 2. identificar atributos únicos → 3. traducirlos a valor → 4. seleccionar segmento donde importan → 5. probar market frame y mensaje** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta win rate versus alternative, message recall; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe tus cinco elementos de posicionamiento y marca cuáles te faltan de evidencia.
+2. Entrevista a tres clientes: ¿qué usaban antes y con qué te comparan?
+3. Transforma tres atributos en valor medible.
+4. Elige tu categoría y escribe qué pierdes y qué ganas con ella.
+5. Diseña una prueba de mensaje de dos variantes y la métrica que usarás.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar competitive alternative y unique attribute como sinónimos | Se pierde la distinción entre “qué usaría el cliente si tu solución no existiera” y “capacidad difícil de encontrar en alternativas” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “probar market frame y mensaje” | Se saltó “listar alternativas reales” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. listar alternativas reales → 2. identificar atributos únicos → 3. traducirlos a valor → 4. seleccionar segmento donde importan → 5. probar market frame y mensaje y marca el primer supuesto no demostrado. |
-| Optimizar solo win rate versus alternative | La métrica local sustituyó al resultado del sistema | Contrástala con message recall y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre posicionamiento | Posicionamiento no puede fabricar una ventaja inexistente. Si el producto no tiene diferencia relevante, el problema es de estrategia/producto, no de copywriting. |
-| No fijar revisión | Una decisión sobre posicionamiento se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Partir de las características | Es lo que se conoce | Partir de las alternativas del cliente. |
+| Adjetivos en vez de atributos | Suena bien | Atributos verificables. |
+| Posicionar para todos | Se teme perder clientes | Elegir al cliente que más valora. |
+| Categoría inadecuada | Se hereda la del sector | Elegir la que haga evidente el valor. |
+| Mensaje desalineado del producto | Cada área comunica lo suyo | Alinear y capacitar. |
+| No probarlo | Se considera una decisión de gusto | Entrevistas, pruebas de mensaje y datos. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **competitive alternative** y **unique attribute** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **value** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **listar alternativas reales → identificar atributos únicos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **win rate versus alternative** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **posicionamiento**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Posicionamiento no puede fabricar una ventaja inexistente. Si el producto no tiene diferencia relevante, el problema es de estrategia/producto, no de copywriting.**?
+1. ¿Qué son las alternativas competitivas y por qué incluyen «no hacer nada»?
+2. ¿Qué diferencia hay entre un atributo único y un adjetivo?
+3. ¿Qué papel cumple el cliente que más valora la oferta?
+4. ¿Qué hace la categoría de mercado?
+5. ¿Cómo se prueba un posicionamiento?
+6. ¿Por qué debe alinearse toda la organización?
+7. ¿Qué límite tienen estos métodos?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Lo que el cliente haría si el producto no existiera, que incluye competidores, soluciones internas y mantener la situación actual, porque define contra qué se evalúa el valor.
+2. El atributo es verificable (una capacidad concreta); el adjetivo es una valoración subjetiva sin evidencia.
+3. Orienta el mensaje y el desarrollo hacia quienes compran más rápido, pagan más y se quedan más tiempo.
+4. Activa expectativas de comparación y atributos que importan y hace evidente el valor a los clientes objetivo.
+5. Con entrevistas, pruebas de mensaje, datos de conversión, análisis de oportunidades perdidas y la claridad con que un cliente nuevo lo explica.
+6. Porque las contradicciones entre mensaje, producto, ventas y soporte destruyen credibilidad.
+7. Se basan en prácticas y casos específicos, cambian con el mercado y deben equilibrarse con la evidencia sobre distintividad y alcance.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/136-posicionamiento/`:
 
-- `leadership-decision-brief.md` con el problema específico de **posicionamiento**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **posicionamiento** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **competitive alternative**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una herramienta se posiciona como 'más rápida'. Entrevistas muestran que nadie compra por velocidad; clientes eligen por auditabilidad, que competidores no resuelven bien.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el posicionamiento del caso ejecutivo;
+- `gtm-plan.md` (plantilla [GTM plan](../../../../templates/gtm-plan.md)) con el mensaje, los canales y la alineación;
+- `decision-journal.md` con las pruebas de mensaje y los resultados.
 
 ## 📗 Fuentes y verificación
 
-- Philip Kotler & Kevin Lane Keller — *Marketing Management* (Pearson Education, 2016). **Uso en esta clase:** segmentación, targeting, posicionamiento, propuesta de valor y marketing mix. **Localizador:** [ISBN-13 9781292092621](https://openlibrary.org/isbn/9781292092621).
-- Byron Sharp — *How Brands Grow* (BookBaby, 2010). **Uso en esta clase:** disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas. Lectura selectiva sobre **posicionamiento**. **Localizador:** [ISBN-13 9781483534701](https://openlibrary.org/isbn/9781483534701).
-- Gabriel Weinberg & Justin Mares — *Traction* (Gildan Media, 2015). **Uso en esta clase:** perspectiva de Growth aplicada al problema de la clase. Lectura selectiva sobre **posicionamiento**. **Localizador:** [ISBN-13 9781469096230](https://openlibrary.org/isbn/9781469096230).
-- April Dunford — *Obviously Awesome* (Ambient Press, 2019). **Uso en esta clase:** posicionamiento desde alternativas competitivas, atributos, valor y segmento. **Localizador:** [ISBN-13 9781999023003](https://openlibrary.org/isbn/9781999023003).
-- Sean Ellis & Morgan Brown — *Hacking Growth* (Ebury Publishing, 2017). **Uso en esta clase:** experimentación de crecimiento, loops y aprendizaje orientado a métricas. Lectura selectiva sobre **posicionamiento**. **Localizador:** [ISBN-13 9780753545386](https://openlibrary.org/isbn/9780753545386).
-- Geoffrey A. Moore — *Crossing the Chasm* (HarperBusiness, 1995). **Uso en esta clase:** adopción tecnológica y transición entre segmentos de mercado. Lectura selectiva sobre **posicionamiento**. **Localizador:** [ISBN-13 9780887307171](https://openlibrary.org/isbn/9780887307171).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **posicionamiento** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **posicionamiento**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **posicionamiento** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **posicionamiento** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **posicionamiento** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Al Ries & Jack Trout — *Positioning* (American Media International, 2004). **Uso en esta clase:** posicionamiento como ocupar un lugar en la mente del cliente. **Localizador:** [ISBN-13 9781932378252](https://openlibrary.org/isbn/9781932378252).
+- April Dunford — *Obviously Awesome* (Ambient Press, 2019). **Uso en esta clase:** cinco elementos del posicionamiento y su orden. **Localizador:** [ISBN-13 9781999023003](https://openlibrary.org/isbn/9781999023003).
+- W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* (Coach Series, 2006). **Uso en esta clase:** redefinir los factores de competencia. Lectura selectiva sobre **posicionamiento**. **Localizador:** [ISBN-13 9781596590687](https://openlibrary.org/isbn/9781596590687).
+- Byron Sharp — *How Brands Grow* (BookBaby, 2010). **Uso en esta clase:** distintividad y disponibilidad como motores del crecimiento. Lectura selectiva sobre **posicionamiento**. **Localizador:** [ISBN-13 9781483534701](https://openlibrary.org/isbn/9781483534701).
+- David Aaker — *Building Strong Brands* (Simon & Schuster Ltd, 2002). **Uso en esta clase:** identidad de marca y asociaciones. Lectura selectiva sobre **posicionamiento**. **Localizador:** [ISBN-13 9780743232135](https://openlibrary.org/isbn/9780743232135).
 
-> **Regla de fuentes para Posicionamiento:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **posicionamiento** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Posicionamiento:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las de publicidad y afirmaciones comparativas. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

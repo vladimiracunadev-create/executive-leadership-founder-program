@@ -10,217 +10,191 @@
 
 ## 🎯 Propósito
 
-Segmentar agrupa clientes por necesidades o comportamientos que justifican decisiones diferentes. Un cliente ideal agrega economía y fit: problema, valor, accesibilidad, retención y costo de servir. Segmentos demográficos sin diferencias de necesidad rara vez mejoran estrategia.
+Un mercado no es un bloque homogéneo: dentro de él conviven personas y empresas con necesidades, hábitos, capacidad de pago y formas de decidir muy distintos. Segmentar es **dividir el mercado en grupos que respondan de manera diferente** a una oferta, con el fin de elegir cuáles atender y cómo. Hecha con criterio, la segmentación permite concentrar recursos, diseñar mensajes y productos específicos y subir la rentabilidad. Hecha sin criterio, se vuelve un ejercicio demográfico que describe a los clientes pero no explica por qué compran ni orienta ninguna decisión.
 
-La salida de esta parte es **entender mercado, posicionamiento, canales, conversión, retención y crecimiento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **segmentación y cliente ideal** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el proceso de segmentación, elección de objetivo y posicionamiento de Kotler y Keller, en la noción de segmento inicial de Moore y en la visión de Christensen y colaboradores sobre el trabajo que los clientes contratan. Complementa la clase 122, que se centró en el perfil de cliente ideal para ventas B2B, ampliándola a mercados de consumo y a decisiones de marca, canal y oferta. Al terminar sabrás elegir criterios de segmentación útiles, evaluar segmentos, definir un cliente ideal con datos y evitar los errores típicos.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `segmentation`, `needs-based segment`, `behavioral segment`, `ideal customer`, `serviceability` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. analizar jobs y comportamiento → 2. crear segmentos accionables → 3. medir tamaño y economics → 4. seleccionar target → 5. definir no-targets y testear mensajes** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** CAC by segment, LTV by segment, retention sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** los criterios de segmentación y cuándo sirve cada uno.
+2. **Evaluar** segmentos por tamaño, acceso, valor, ajuste y competencia.
+3. **Elegir** uno o pocos segmentos objetivo con justificación.
+4. **Describir** un cliente ideal con datos y necesidades.
+5. **Traducir** la segmentación en decisiones de oferta, mensaje, canal y precio.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define segmentation y needs-based segment sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con CAC by segment y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué grupo de clientes te compra más y lo que más valora es diferente a lo que valora el resto? |
+| 20–60 min | Criterios, evaluación y selección de segmentos; cliente ideal. |
+| 60–105 min | Ejemplo trabajado: segmentar el mercado de una aplicación de finanzas personales. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **segmentation** | división de mercado en grupos accionables con respuesta distinta | Distingue un hecho compatible y otro que lo refute. |
-| **needs-based segment** | grupo definido por problema o criterio de elección | Distingue un hecho compatible y otro que lo refute. |
-| **behavioral segment** | grupo definido por comportamiento observable | Distingue un hecho compatible y otro que lo refute. |
-| **ideal customer** | cliente cuyo fit y economía son especialmente atractivos | Distingue un hecho compatible y otro que lo refute. |
-| **serviceability** | capacidad real de alcanzar y servir un segmento | Distingue un hecho compatible y otro que lo refute. |
+| **Segmentación** | División del mercado en grupos con necesidades o comportamientos similares. | Cada grupo responde distinto a la oferta. |
+| **Mercado objetivo** | Segmento o segmentos elegidos para atender. | Se destinan recursos específicos. |
+| **Criterio de segmentación** | Variable usada para formar los grupos. | Demográfico, geográfico, comportamental, de necesidades. |
+| **Cliente ideal** | Descripción del cliente para quien la propuesta es más valiosa y rentable. | Combina rasgos, necesidades y comportamiento. |
+| **Segmento inicial** | Nicho donde se concentra el esfuerzo antes de ampliar. | Moore lo llama cabeza de playa. |
+| **Trabajo a realizar** | Progreso que el cliente busca lograr en una circunstancia. | Explica la compra más allá del perfil. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 135: 1. analizar jobs y comportamiento → 2. crear segmentos accionables → 3. medir tamaño y economics → 4. seleccionar target → 5. definir no-targets y testear mensajes](modelo-mental.svg)
+![Cuatro criterios de segmentación, qué agrupa cada uno, cuándo es útil y qué riesgo tiene.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. analizar jobs y comportamiento → 2. crear segmentos accionables → 3. medir tamaño y economics → 4. seleccionar target → 5. definir no-targets y testear mensajes
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Segmentar agrupa clientes por necesidades o comportamientos que justifican decisiones diferentes. Un cliente ideal agrega economía y fit: problema, valor, accesibilidad, retención y costo de servir. Segmentos demográficos sin diferencias de necesidad rara vez mejoran estrategia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El segmento ideal de hoy puede limitar crecimiento futuro. Mantén exploración controlada y evita excluir mercados por proxies discriminatorios o irrelevantes.**
+**Cómo leer el diagrama.** Una tabla con cuatro criterios. Los **demográficos o firmográficos** y los **geográficos** son fáciles de identificar y de alcanzar con canales, pero no explican por qué compran. Los **comportamentales** (uso, frecuencia, lealtad) describen lo que hacen pero no por qué. Los de **necesidades** o trabajo a realizar explican el porqué y permiten diferenciar la oferta, pero son más difíciles de identificar y de alcanzar. La nota recomienda combinar un criterio que permita llegar al cliente con otro que explique su compra.
 
 ## 📖 Desarrollo
 
-### 1. segmentation: mecanismo central
+### 1. Para qué segmentar
 
-**segmentation** se entiende aquí como **división de mercado en grupos accionables con respuesta distinta**. Esta es la pieza causal o estructural desde la que se inicia **segmentación y cliente ideal**: antes de analizar jobs y comportamiento, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Kotler y Keller sitúan la segmentación, la elección del mercado objetivo y el posicionamiento como el núcleo de la estrategia de marketing: primero se decide **a quién** se dirige la empresa, y luego qué ofrece, a qué precio, por qué canal y con qué mensaje. Segmentar tiene sentido cuando existen **diferencias relevantes** entre los clientes (en necesidades, sensibilidad al precio, canales, valor) y cuando la empresa puede **actuar diferente** para cada grupo. Si todos los clientes valoran lo mismo y se atienden igual, la segmentación no agrega valor.
 
-La lectura rectora de este bloque es Philip Kotler & Kevin Lane Keller — *Marketing Management*. Su aporte se usa para examinar **segmentación, targeting, posicionamiento, propuesta de valor y marketing mix**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **CAC by segment**; regístrala con periodo, unidad, población y baseline.
+### 2. Criterios y sus limitaciones
 
-Relaciona el mecanismo con **needs-based segment**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Los **criterios demográficos o firmográficos** (edad, ingreso, ocupación, sector, tamaño) son fáciles de medir y de usar para llegar a las personas, pero una misma categoría puede esconder necesidades muy distintas. Los **geográficos** importan cuando la logística, la regulación, el idioma o los gustos cambian por zona. Los **comportamentales** (frecuencia de uso, lealtad, canal de compra, ocasión) reflejan valor real y orientan programas de fidelización. Los **psicográficos** (valores, estilos de vida) enriquecen el mensaje pero son más difíciles de medir. Y los de **necesidades** o de **trabajo a realizar** (Christensen y otros) explican la compra. El criterio correcto depende de la decisión que se quiere tomar.
 
-### 2. needs-based segment: frontera conceptual y error de clasificación
+### 3. El trabajo a realizar
 
-**Definición operacional:** grupo definido por problema o criterio de elección. Su valor está en distinguirlo de **segmentation** y **behavioral segment**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Christensen y sus colegas sostienen que los clientes no «compran productos»: **contratan soluciones** para progresar en una situación concreta. Un mismo producto puede ser contratado para trabajos distintos, y dos personas con perfiles muy diferentes pueden contratar el mismo trabajo. Segmentar por **trabajo** revela con quién se compite y qué atributos importan. Un ejemplo clásico: la gente «contrata» un batido por la mañana para que el viaje en auto sea menos aburrido y para sentirse saciada hasta el almuerzo; la competencia no son otros batidos, sino bananas, donas o café. La segmentación por trabajo se obtiene con entrevistas (clase 134), no con datos demográficos.
 
-Contrasta el problema con Byron Sharp — *How Brands Grow*, que aporta una mirada sobre **disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas**. Formula dos mini-casos: uno que sí satisface la definición de **needs-based segment** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **LTV by segment** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Evaluar segmentos
 
-Antes de crear segmentos accionables, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Para cada segmento candidato se estiman: **tamaño y crecimiento**; **necesidad no resuelta** y su intensidad; **ajuste** con la propuesta actual o posible; **valor** (disposición a pagar, margen, duración); **accesibilidad** (canales y costo para llegar); **competencia** y barreras; y **compatibilidad** con la estrategia y las capacidades. Se puntúan con criterios y pesos acordados de antemano (clase 105). El resultado es una lista priorizada con una **recomendación explícita** sobre cuáles atender primero, cuáles después y cuáles no. Un segmento atractivo en el papel que no se puede alcanzar con los canales actuales no es un buen segmento inicial.
 
-### 3. behavioral segment: operacionalización y medición
+### 5. Segmento inicial y expansión
 
-**behavioral segment** significa **grupo definido por comportamiento observable**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Moore enfatiza que, en mercados nuevos, conviene **concentrarse en un nicho** donde se pueda ser la opción dominante, con una oferta completa para ese grupo, y luego expandirse a segmentos adyacentes. Concentrarse permite aprender rápido, construir referencias creíbles y cobrar un precio justo por el valor entregado. La dispersión inicial produce mensajes vagos y clientes poco satisfechos. La expansión se planifica: qué segmento sigue, qué adaptaciones requiere, qué aprendizajes se transfieren. Se revisa con datos de retención y rentabilidad.
 
-David Aaker — *Building Strong Brands* orienta este bloque mediante **perspectiva de Marca aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **retention**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. El cliente ideal
 
-Al llegar a medir tamaño y economics, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La descripción del cliente ideal reúne: **quién es** (perfil), **qué trabajo quiere realizar** y en qué circunstancia, **qué alternativas usa hoy**, **qué le frustra**, **qué criterios de compra** tiene, **dónde se informa** y **qué lo hace pasar a la acción** (disparador). Se construye con datos: entrevistas, análisis de los mejores clientes, datos de uso y de ventas. Se evita el estereotipo («Carolina, 34 años, le gusta el yoga») sin base empírica: las **personas** ficticias son útiles si se apoyan en patrones observados y si guían decisiones concretas (mensaje, canal, oferta). Se declaran también los clientes que no se quiere atender.
 
-### 4. ideal customer: trade-offs y efectos de segundo orden
+### 7. De la segmentación a la acción
 
-**Definición:** cliente cuyo fit y economía son especialmente atractivos. Este concepto obliga a abandonar la idea de que **segmentación y cliente ideal** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de seleccionar target, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Alexander Osterwalder & Yves Pigneur — *Business Model Generation* aporta una lente sobre **diseño de modelos de negocio mediante propuesta, clientes, recursos y economía**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **win rate** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **segmentación y cliente ideal**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **ideal customer** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. serviceability: gobernanza, límites e integración
-
-**serviceability** se define como **capacidad real de alcanzar y servir un segmento** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Geoffrey A. Moore — *Crossing the Chasm* se utiliza para estudiar **adopción tecnológica y transición entre segmentos de mercado** y contrastar la recomendación final. Al ejecutar definir no-targets y testear mensajes, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **El segmento ideal de hoy puede limitar crecimiento futuro. Mantén exploración controlada y evita excluir mercados por proxies discriminatorios o irrelevantes.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **segmentation**, **needs-based segment**, **behavioral segment**, **ideal customer** y **serviceability** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **segmentación y cliente ideal** no consiste en sumar cinco definiciones. Empieza por **segmentation**, contrasta **needs-based segment** con **behavioral segment**, incorpora **ideal customer** como restricción o mecanismo y usa **serviceability** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. analizar jobs y comportamiento → 2. crear segmentos accionables → 3. medir tamaño y economics → 4. seleccionar target → 5. definir no-targets y testear mensajes**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La segmentación debe producir **decisiones distintas por segmento**: **oferta** (funciones, planes, servicios), **mensaje** y **posicionamiento** (clase 136), **precio** (clase 129), **canales** (clase 139), **métricas** y **metas**. Se asignan responsables y presupuestos por segmento y se miden resultados por segmento. Se vigila que la segmentación no se use para prácticas discriminatorias o para explotar vulnerabilidades: las decisiones de oferta y de precio por segmentos deben respetar las normas de protección de datos, de no discriminación y de consumidores aplicables.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Philip Kotler & Kevin Lane Keller — *Marketing Management* | segmentación, targeting, posicionamiento, propuesta de valor y marketing mix | ¿Qué supuesto de **segmentación y cliente ideal** ayuda a desafiar? |
-| Byron Sharp — *How Brands Grow* | disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas | ¿Qué supuesto de **segmentación y cliente ideal** ayuda a desafiar? |
-| David Aaker — *Building Strong Brands* | perspectiva de Marca aplicada al problema de la clase | ¿Qué supuesto de **segmentación y cliente ideal** ayuda a desafiar? |
-| Alexander Osterwalder & Yves Pigneur — *Business Model Generation* | diseño de modelos de negocio mediante propuesta, clientes, recursos y economía | ¿Qué supuesto de **segmentación y cliente ideal** ayuda a desafiar? |
-| Geoffrey A. Moore — *Crossing the Chasm* | adopción tecnológica y transición entre segmentos de mercado | ¿Qué supuesto de **segmentación y cliente ideal** ayuda a desafiar? |
-
-En **segmentación y cliente ideal**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **segmentation**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Kotler y Keller | Proceso de segmentación, selección y posicionamiento. | Marco general; poca guía operativa sobre datos. | ¿Qué decisión distinta tomas por segmento? |
+| Moore | Segmento inicial y expansión por adyacencia. | Contexto de tecnología. | ¿Qué nicho puedes dominar primero? |
+| Christensen et al. | Segmentación por trabajo a realizar. | Requiere investigación cualitativa. | ¿Qué trabajo contratan tus clientes? |
+| Sharp | Evidencia de que las marcas crecen sobre todo captando muchos compradores ligeros. | Cuestiona el valor de segmentos muy estrechos. | ¿Tu segmento limita el alcance de la marca? |
+| Dunford | Posicionamiento para el cliente que más valora. | Se centra en el mensaje. | ¿Quién valora más tu atributo único? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Dos segmentos generan igual revenue; uno requiere soporte 3x, paga tarde y churnea 18%, el otro expande y refiere clientes. Tratar ambos igual oculta economía.
+**Situación (hipotética).** Una aplicación de finanzas personales tiene 120.000 usuarios y 8 % de ellos pagan. Quiere segmentar para decidir su foco del año.
 
-**Paso 1 — analizar jobs y comportamiento.** La gerencia escribe primero el supuesto asociado a **segmentation** y evita convertirlo en hecho. Luego busca **CAC by segment** para contrastarlo en el caso de **segmentación y cliente ideal**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Segmentación por necesidades (entrevistas a 22 usuarios y encuesta a 1.100).**
 
-**Paso 2 — crear segmentos accionables.** La gerencia escribe primero el supuesto asociado a **needs-based segment** y evita convertirlo en hecho. Luego busca **LTV by segment** para contrastarlo en el caso de **segmentación y cliente ideal**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Segmento (trabajo a realizar) | % de usuarios | Conversión a pago | Retención a 12 meses | Observaciones |
+|---|---|---|---|---|
+| «Poner orden a mis gastos» (control básico) | 46 % | 4 % | 38 % | Usan 2 meses y abandonan |
+| «Salir de deudas» | 21 % | 9 % | 61 % | Valoran metas y alertas |
+| «Ahorrar para una meta concreta» | 18 % | 12 % | 70 % | Compartirían con su pareja |
+| «Gestionar los gastos de mi familia o de mi negocio pequeño» | 15 % | 17 % | 76 % | Piden varias cuentas y reportes |
 
-**Paso 3 — medir tamaño y economics.** La gerencia escribe primero el supuesto asociado a **behavioral segment** y evita convertirlo en hecho. Luego busca **retention** para contrastarlo en el caso de **segmentación y cliente ideal**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Evaluación.** El segmento de familia o negocio pequeño es el menor (15 %) pero convierte más y retiene más; hay pocos competidores directos para su necesidad; es accesible por comunidades y contadores. El de control básico es el mayor, pero el menos rentable y el más fácil de sustituir por planillas.
 
-**Paso 4 — seleccionar target.** La gerencia escribe primero el supuesto asociado a **ideal customer** y evita convertirlo en hecho. Luego busca **win rate** para contrastarlo en el caso de **segmentación y cliente ideal**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Elección.** Segmento inicial: gestión de gastos de familia y pequeños negocios; segundo: ahorro para metas. El de control básico se atiende con el plan gratuito y bajo costo de soporte.
 
-**Paso 5 — definir no-targets y testear mensajes.** La gerencia escribe primero el supuesto asociado a **serviceability** y evita convertirlo en hecho. Luego busca **cost-to-serve** para contrastarlo en el caso de **segmentación y cliente ideal**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cliente ideal.** Persona o pareja que administra los gastos de una familia o de un negocio con 1 a 5 personas; usa planillas y cuadernos; se frustra por mezclar gastos personales y del negocio; busca reportes para el contador; se informa con contadores y comunidades; el disparador es el cierre de impuestos o el inicio de un negocio.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **segmentación y cliente ideal**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Decisiones.** Nuevo plan con múltiples cuentas y roles; mensajes centrados en «un solo lugar para ordenar los números de tu familia o negocio»; canales: contadores y comunidades de emprendedores; métrica: activación en 14 días con cuentas conectadas. Se revisa a los 6 meses con retención y margen por segmento.
+
+**Qué muestra.** (1) La segmentación por necesidad explicó diferencias de conversión que la demográfica no mostraba. (2) El segmento más grande no era el más valioso. (3) Se tradujo en oferta, mensaje y canal.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **segmentation** | división de mercado en grupos accionables con respuesta distinta | Cuando CAC by segment es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **needs-based segment** | grupo definido por problema o criterio de elección | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Segmentación frente a personalización.** La segmentación agrupa; la personalización ajusta a cada individuo con datos. Con datos suficientes, la personalización puede complementarla, con las cautelas de privacidad.
 
-**Frontera de aplicación:** El segmento ideal de hoy puede limitar crecimiento futuro. Mantén exploración controlada y evita excluir mercados por proxies discriminatorios o irrelevantes.
+**Límites.** Los segmentos son constructos útiles, no categorías naturales; las personas cambian de segmento según la circunstancia. Sharp aporta evidencia de que muchas marcas crecen sobre todo por **penetración** (conseguir muchos compradores, incluidos los poco frecuentes), lo que advierte contra segmentos tan estrechos que limiten el alcance; la tensión entre foco y alcance se decide caso a caso. Los datos de clientes que identifican a personas se tratan conforme a la normativa de protección de datos, y las decisiones de precio y oferta por segmento no deben ser discriminatorias.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre segmentación y cliente ideal |
+| Nivel | Cómo participa en la segmentación |
 |---|---|
-| **Profesional** | usa **segmentación y cliente ideal** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **segmentation** y **needs-based segment** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta CAC by segment con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si segmentación y cliente ideal cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de segmentación y cliente ideal reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **segmentación y cliente ideal** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta observaciones y datos de clientes concretos. |
+| **Jefe / Team Lead** | Adapta mensajes y acciones a los segmentos de su responsabilidad. |
+| **Gerente** | Define criterios, evalúa segmentos y asigna recursos. |
+| **CEO / Director** | Decide a quién atender y a quién no. |
+| **Founder / Owner** | Comienza con un nicho que conoce a fondo. |
 
 ## 🏢 Caso ejecutivo
 
-Dos segmentos generan igual revenue; uno requiere soporte 3x, paga tarde y churnea 18%, el otro expande y refiere clientes. Tratar ambos igual oculta economía.
+Una cadena de cafeterías con 60 locales segmenta a sus clientes por edad y ocupación («jóvenes», «oficinistas», «familias») y comunica lo mismo a todos con descuentos. Sus datos de programa de fidelidad muestran que el 14 % de los clientes genera el 52 % de las ventas y que visitan entre 3 y 5 veces por semana, en horarios de mañana, con compras de ticket bajo pero alta frecuencia; otro grupo visita los fines de semana con familia y gasta el triple por visita, pero con baja frecuencia. Los locales cercanos a universidades registran alta rotación y poca lealtad. El gerente de marketing propone una gran campaña de descuentos para todos; el de operaciones, un servicio de pedido anticipado para el grupo de la mañana; el de finanzas, reducir locales de baja rentabilidad.
 
-Entrega un **decision brief de segmentación y cliente ideal** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega una **segmentación y cliente ideal** que contenga: (a) los criterios elegidos y por qué; (b) los segmentos por comportamiento y por trabajo a realizar, con los datos que usarías; (c) la evaluación de cada segmento con criterios y puntajes; (d) la elección de segmentos objetivo y los que no se priorizan; (e) la descripción del cliente ideal con su disparador y sus alternativas; (f) las decisiones por segmento (oferta, mensaje, canal, precio, métricas) y las cautelas de datos personales y de no discriminación.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **segmentación y cliente ideal** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. analizar jobs y comportamiento → 2. crear segmentos accionables → 3. medir tamaño y economics → 4. seleccionar target → 5. definir no-targets y testear mensajes** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta CAC by segment, LTV by segment; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Divide tus clientes en cuatro segmentos con un criterio de necesidad o de comportamiento y mide su conversión y retención.
+2. Puntúa tus segmentos con cinco criterios.
+3. Escribe el cliente ideal en una página con disparador y alternativas.
+4. Define tres decisiones distintas para cada uno de tus dos segmentos principales.
+5. Identifica un segmento que no atenderás y justifícalo.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar segmentation y needs-based segment como sinónimos | Se pierde la distinción entre “división de mercado en grupos accionables con respuesta distinta” y “grupo definido por problema o criterio de elección” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “definir no-targets y testear mensajes” | Se saltó “analizar jobs y comportamiento” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. analizar jobs y comportamiento → 2. crear segmentos accionables → 3. medir tamaño y economics → 4. seleccionar target → 5. definir no-targets y testear mensajes y marca el primer supuesto no demostrado. |
-| Optimizar solo CAC by segment | La métrica local sustituyó al resultado del sistema | Contrástala con LTV by segment y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre segmentación y cliente ideal | El segmento ideal de hoy puede limitar crecimiento futuro. Mantén exploración controlada y evita excluir mercados por proxies discriminatorios o irrelevantes. |
-| No fijar revisión | Una decisión sobre segmentación y cliente ideal se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Segmentar solo por demografía | Es lo disponible | Incluir comportamiento y necesidad. |
+| Segmentos que no cambian ninguna decisión | Se describe, no se actúa | Definir qué se hace distinto por segmento. |
+| Perseguir el mayor segmento | Se confunde tamaño con valor | Evaluar valor, ajuste y acceso. |
+| Personas ficticias sin datos | Se inventan estereotipos | Basarlas en patrones observados. |
+| Demasiados segmentos | Se quiere atender a todos | Elegir pocos y concentrar. |
+| Prácticas discriminatorias | Se usan datos sensibles | Respetar normas de datos y no discriminación. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **segmentation** y **needs-based segment** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **behavioral segment** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **analizar jobs y comportamiento → crear segmentos accionables** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **CAC by segment** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **segmentación y cliente ideal**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **El segmento ideal de hoy puede limitar crecimiento futuro. Mantén exploración controlada y evita excluir mercados por proxies discriminatorios o irrelevantes.**?
+1. ¿Para qué se segmenta un mercado?
+2. ¿Qué limitación tienen los criterios demográficos?
+3. ¿Qué es el trabajo a realizar y cómo se descubre?
+4. ¿Qué criterios se usan para evaluar segmentos?
+5. ¿Por qué conviene elegir un segmento inicial?
+6. ¿Qué incluye la descripción de un cliente ideal?
+7. ¿Qué advierte Sharp sobre los segmentos muy estrechos?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Para elegir a quién atender y actuar distinto con cada grupo en oferta, mensaje, precio y canal.
+2. Son fáciles de medir y alcanzar, pero no explican por qué compran y esconden necesidades distintas.
+3. El progreso que el cliente busca lograr en una circunstancia; se descubre con entrevistas sobre el momento de decisión.
+4. Tamaño y crecimiento, necesidad, ajuste, valor, accesibilidad, competencia y compatibilidad con la estrategia.
+5. Permite dominar un nicho, aprender rápido, construir referencias y expandirse por adyacencia.
+6. Perfil, trabajo a realizar, alternativas actuales, frustraciones, criterios de compra, dónde se informa y el disparador.
+7. Que muchas marcas crecen sobre todo captando muchos compradores, incluso los poco frecuentes, por lo que un foco excesivo puede limitar el alcance.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/135-segmentacion-y-cliente-ideal/`:
 
-- `commercial-decision-brief.md` con el problema específico de **segmentación y cliente ideal**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **segmentación y cliente ideal** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **segmentation**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Dos segmentos generan igual revenue; uno requiere soporte 3x, paga tarde y churnea 18%, el otro expande y refiere clientes. Tratar ambos igual oculta economía.** y el dato que podría invalidar la recomendación.
+- `commercial-decision-brief.md` (plantilla [Commercial decision brief](../../../../templates/commercial-decision-brief.md)) con la segmentación y las decisiones del caso ejecutivo;
+- `kpi-tree.md` (plantilla [KPI tree](../../../../templates/kpi-tree.md)) con las métricas por segmento;
+- `decision-journal.md` con los criterios, la evaluación y las revisiones.
 
 ## 📗 Fuentes y verificación
 
-- Philip Kotler & Kevin Lane Keller — *Marketing Management* (Pearson Education, 2016). **Uso en esta clase:** segmentación, targeting, posicionamiento, propuesta de valor y marketing mix. Lectura selectiva sobre **segmentación y cliente ideal**. **Localizador:** [ISBN-13 9781292092621](https://openlibrary.org/isbn/9781292092621).
-- Byron Sharp — *How Brands Grow* (BookBaby, 2010). **Uso en esta clase:** disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas. Lectura selectiva sobre **segmentación y cliente ideal**. **Localizador:** [ISBN-13 9781483534701](https://openlibrary.org/isbn/9781483534701).
-- David Aaker — *Building Strong Brands* (Simon & Schuster Ltd, 2002). **Uso en esta clase:** perspectiva de Marca aplicada al problema de la clase. Lectura selectiva sobre **segmentación y cliente ideal**. **Localizador:** [ISBN-13 9780743232135](https://openlibrary.org/isbn/9780743232135).
-- Alexander Osterwalder & Yves Pigneur — *Business Model Generation* (Wiley , 2010). **Uso en esta clase:** diseño de modelos de negocio mediante propuesta, clientes, recursos y economía. Lectura selectiva sobre **segmentación y cliente ideal**. **Localizador:** [ISBN-13 9780470876411](https://openlibrary.org/isbn/9780470876411).
-- Geoffrey A. Moore — *Crossing the Chasm* (HarperBusiness, 1995). **Uso en esta clase:** adopción tecnológica y transición entre segmentos de mercado. Lectura selectiva sobre **segmentación y cliente ideal**. **Localizador:** [ISBN-13 9780887307171](https://openlibrary.org/isbn/9780887307171).
-- April Dunford — *Obviously Awesome* (Ambient Press, 2019). **Uso en esta clase:** posicionamiento desde alternativas competitivas, atributos, valor y segmento. Lectura selectiva sobre **segmentación y cliente ideal**. **Localizador:** [ISBN-13 9781999023003](https://openlibrary.org/isbn/9781999023003).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **segmentación y cliente ideal** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **segmentación y cliente ideal**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **segmentación y cliente ideal** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **segmentación y cliente ideal** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **segmentación y cliente ideal** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Philip Kotler & Kevin Lane Keller — *Marketing Management* (Pearson Education, 2016). **Uso en esta clase:** proceso de segmentación, selección y posicionamiento. Lectura selectiva sobre **segmentación y cliente ideal**. **Localizador:** [ISBN-13 9781292092621](https://openlibrary.org/isbn/9781292092621).
+- Geoffrey A. Moore — *Crossing the Chasm* (HarperBusiness, 1995). **Uso en esta clase:** segmento inicial y expansión por adyacencia. Lectura selectiva sobre **segmentación y cliente ideal**. **Localizador:** [ISBN-13 9780887307171](https://openlibrary.org/isbn/9780887307171).
+- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** segmentación por trabajo a realizar. Lectura selectiva sobre **segmentación y cliente ideal**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
+- Byron Sharp — *How Brands Grow* (BookBaby, 2010). **Uso en esta clase:** crecimiento de marcas por penetración. Lectura selectiva sobre **segmentación y cliente ideal**. **Localizador:** [ISBN-13 9781483534701](https://openlibrary.org/isbn/9781483534701).
+- April Dunford — *Obviously Awesome* (Ambient Press, 2019). **Uso en esta clase:** posicionamiento para el cliente que más valora. Lectura selectiva sobre **segmentación y cliente ideal**. **Localizador:** [ISBN-13 9781999023003](https://openlibrary.org/isbn/9781999023003).
 
-> **Regla de fuentes para Segmentación y cliente ideal:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **segmentación y cliente ideal** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Segmentación y cliente ideal:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de protección de datos y de no discriminación. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

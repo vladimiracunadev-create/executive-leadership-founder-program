@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir channel de direct channel mediante evidencia observable."
-  - "Aplicar la secuencia: mapear comportamiento de compra → listar canales plausibles → modelar economics y control → pilotear uno o dos → escalar donde existe repetibilidad."
-  - "Interpretar CAC by channel, conversion, gross margin after channel sin atribuir causalidad automática."
-  - "Resolver el caso de canales y distribución con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Clasificar canales directos e indirectos y sus funciones."
+  - "Evaluar la economía de cada canal con margen y costo por cliente."
+  - "Elegir una combinación equilibrando alcance, control y riesgo."
+  - "Gestionar socios de canal y conflictos entre canales."
+  - "Reducir la dependencia de un solo canal o plataforma."
 deliverable: "commercial-decision-brief.md"
 references:
   - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
-  - "Byron Sharp — *How Brands Grow*"
-  - "Geoffrey A. Moore — *Crossing the Chasm*"
-  - "Al Ries & Jack Trout — *Positioning*"
+  - "Michael E. Porter — *Competitive Strategy*"
   - "Gabriel Weinberg & Justin Mares — *Traction*"
-  - "April Dunford — *Obviously Awesome*"
+  - "Sean Ellis & Morgan Brown — *Hacking Growth*"
+  - "W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy*"
 limits:
-  - "Canal barato puede crear dependencia o acceso limitado a datos del cliente. Evalúa poder de negociación y salida, no solo CAC inicial."
+  - "Los márgenes y comisiones cambian con el tiempo y la negociación."
 evidence_signals:
-  - "CAC by channel"
-  - "conversion"
-  - "gross margin after channel"
-  - "time-to-scale"
-  - "channel concentration"
+  - "economía por canal calculada"
+  - "dependencia limitada por canal"
+  - "reglas contra conflicto de canal"
+  - "canal propio planificado"

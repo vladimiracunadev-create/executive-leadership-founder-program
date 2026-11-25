@@ -10,227 +10,192 @@
 
 ## 🎯 Propósito
 
-Mercado, categoría y demanda son marcos distintos. El mercado reúne compradores y alternativas; la categoría organiza cómo el cliente entiende una solución; la demanda expresa disposición y capacidad de comprar. Crear categoría puede reducir comparación directa, pero exige educar y tiene costo alto.
+Antes de elegir a quién vender, con qué mensaje o por qué canal, una empresa debe responder una pregunta más básica: ¿en qué mercado compite y cuánta demanda hay realmente? Muchas definen su mercado por lo que producen («vendemos software de gestión») en lugar de por el problema que el cliente resuelve; otras estiman su potencial con una frase optimista («si capturamos el 1 % de un mercado de USD 10.000 millones…») que no demuestra nada; y otras entran a una categoría saturada sin preguntarse qué fuerzas determinan su rentabilidad. Definir el mercado, su categoría y su demanda es la base de todas las decisiones de marketing.
 
-La salida de esta parte es **entender mercado, posicionamiento, canales, conversión, retención y crecimiento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **mercado, categoría y demanda** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el enfoque de dirección de marketing de Kotler y Keller, en el análisis de fuerzas competitivas de Porter y en la propuesta de Kim y Mauborgne sobre crear espacios de mercado sin competencia directa. Al terminar sabrás definir un mercado desde el cliente, estimar su tamaño desde abajo, distinguir tipos de demanda, evaluar la atractividad de una categoría y decidir cuándo competir en una categoría existente y cuándo intentar redefinirla.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `market`, `category`, `demand`, `substitute`, `category creation` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir job y compradores → 2. mapear alternativas y sustitutos → 3. estimar demanda accesible → 4. decidir categoría existente versus nueva → 5. probar lenguaje con clientes** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** search demand, category awareness, win/loss alternative sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
-7. **Auditar** tamaño, TAM, sustitutos, vigencia, comparabilidad y separación entre hechos e inferencias antes de autorizar recursos.
+1. **Definir** un mercado desde el problema del cliente y no desde el producto.
+2. **Estimar** mercado total, alcanzable y obtenible con método ascendente.
+3. **Diagnosticar** el estado de la demanda y sus determinantes.
+4. **Evaluar** la atractividad de una categoría con las fuerzas competitivas.
+5. **Decidir** entre competir en una categoría existente o redefinirla.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define market y category sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con search demand y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: define en una frase el mercado de tu empresa desde el problema del cliente y compara con cómo lo define tu sitio web. |
+| 20–60 min | Definición, tamaño, demanda y fuerzas competitivas. |
+| 60–105 min | Ejemplo trabajado: estimar el mercado de un software para clínicas. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **market** | conjunto de compradores, problemas y alternativas con intercambio potencial | Distingue un hecho compatible y otro que lo refute. |
-| **category** | marco mental usado para agrupar soluciones comparables | Distingue un hecho compatible y otro que lo refute. |
-| **demand** | cantidad de compra posible a distintos precios y condiciones | Distingue un hecho compatible y otro que lo refute. |
-| **substitute** | alternativa que resuelve el mismo job de modo diferente | Distingue un hecho compatible y otro que lo refute. |
-| **category creation** | esfuerzo por instalar un nuevo marco competitivo | Distingue un hecho compatible y otro que lo refute. |
+| **Mercado** | Conjunto de clientes actuales y potenciales con una necesidad que pueden y quieren satisfacer. | Se define por el problema, no por el producto. |
+| **Categoría** | Marco con que los compradores agrupan y comparan las ofertas. | «CRM», «seguros de salud», «bicicletas eléctricas». |
+| **Mercado total** | Demanda posible de la categoría completa. | Techo teórico. |
+| **Mercado alcanzable** | Parte atendible con el modelo, los canales y la geografía elegidos. | Segmentos concretos. |
+| **Mercado obtenible** | Parte que se puede capturar en un plazo razonable. | Depende de capacidad y competencia. |
+| **Fuerzas competitivas** | Rivalidad, entrantes, sustitutos, poder de compradores y de proveedores. | Determinan la rentabilidad de la categoría. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 133: 1. definir job y compradores → 2. mapear alternativas y sustitutos → 3. estimar demanda accesible → 4. decidir categoría existente versus nueva → 5. probar lenguaje con clientes](modelo-mental.svg)
+![Tres tamaños de mercado: total, alcanzable y obtenible, con cómo se estima cada uno y para qué decisión sirve.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir job y compradores → 2. mapear alternativas y sustitutos → 3. estimar demanda accesible → 4. decidir categoría existente versus nueva → 5. probar lenguaje con clientes
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Mercado, categoría y demanda son marcos distintos. El mercado reúne compradores y alternativas; la categoría organiza cómo el cliente entiende una solución; la demanda expresa disposición y capacidad de comprar. Crear categoría puede reducir comparación directa, pero exige educar y tiene costo alto.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Crear una categoría por branding no crea demanda. Si el problema no es urgente o el lenguaje no conecta con cómo compra el mercado, la novedad aumenta fricción.**
+**Cómo leer el diagrama.** Tres columnas encadenadas. El **mercado total** es el techo teórico de la categoría; sirve para ver el tamaño de la oportunidad, no para planificar. El **mercado alcanzable** es la parte que el modelo, los canales y los segmentos elegidos permiten atender; sirve para decidir dónde jugar. El **mercado obtenible** es lo que realista y razonablemente se puede capturar en un plazo; sirve para metas y presupuestos. La nota advierte que una estimación creíble parte de abajo, con clientes concretos.
 
 ## 📖 Desarrollo
 
-### 1. market: mecanismo central
+### 1. Definir el mercado desde el cliente
 
-**market** se entiende aquí como **conjunto de compradores, problemas y alternativas con intercambio potencial**. Esta es la pieza causal o estructural desde la que se inicia **mercado, categoría y demanda**: antes de definir job y compradores, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Kotler y Keller proponen definir el negocio por la **necesidad que satisface**, no por el producto que se vende: un fabricante de taladros vende agujeros, y su mercado incluye a quienes necesitan hacer agujeros, con herramientas, servicios o alternativas. Una definición demasiado estrecha («taladros eléctricos») oculta sustitutos y oportunidades; una demasiado amplia («bricolaje») impide enfocar. Se prueba con una pregunta: ¿qué haría el cliente si nuestro producto no existiera? Esa respuesta identifica a los verdaderos competidores, que no siempre son otras empresas del rubro: pueden ser planillas, servicios internos o no hacer nada.
 
-La lectura rectora de este bloque es Philip Kotler & Kevin Lane Keller — *Marketing Management*. Su aporte se usa para examinar **segmentación, targeting, posicionamiento, propuesta de valor y marketing mix**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **search demand**; regístrala con periodo, unidad, población y baseline.
+### 2. Categoría: el marco de comparación
 
-Relaciona el mecanismo con **category**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La categoría es el marco con que el comprador entiende lo que se le ofrece y con qué lo compara. Está asociada a expectativas de precio, de atributos y de proveedores. Entrar a una categoría establecida da **claridad inmediata** (el comprador sabe qué es), pero implica competir contra marcas fuertes con sus criterios. Crear o redefinir una categoría puede evitar esa competencia, pero exige **educar al mercado**, con un costo y un riesgo altos: muchos intentos de categoría nueva fracasan por falta de demanda o de comprensión (clase 136). La decisión depende de la fuerza de las alternativas y de la diferencia real que se ofrece.
 
-### 2. category: frontera conceptual y error de clasificación
+### 3. Estimar el tamaño del mercado
 
-**Definición operacional:** marco mental usado para agrupar soluciones comparables. Su valor está en distinguirlo de **market** y **demand**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Se estima de dos maneras. **Descendente**: se parte de datos de industria (ventas totales de la categoría) y se aplican porcentajes; es rápida pero depende de definiciones ajenas y suele inflarse. **Ascendente**: se cuentan **clientes concretos** (número de empresas o personas que cumplen un perfil), se multiplica por **precio** o ingreso anual y por **frecuencia** o uso. La ascendente es más trabajosa y más defendible, porque cada supuesto se puede contrastar con datos propios. Se contrastan ambas; si difieren mucho, hay un error de definición o de supuestos. Lo que se presenta a un comité o inversionista es la ascendente, con rangos.
 
-Contrasta el problema con Byron Sharp — *How Brands Grow*, que aporta una mirada sobre **disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas**. Formula dos mini-casos: uno que sí satisface la definición de **category** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **category awareness** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Total, alcanzable y obtenible
 
-Antes de mapear alternativas y sustitutos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El **mercado total** muestra el potencial de la categoría. El **alcanzable** aplica los filtros de la estrategia: segmentos elegidos (clase 135), geografía, canales, idioma, regulación, ciclo de venta. El **obtenible** aplica la capacidad y la competencia: cuántos clientes se pueden adquirir con el equipo, el presupuesto y la velocidad de adopción esperada, y qué participación es razonable. Un error frecuente es presentar el total como si fuera la meta, o suponer una participación sin explicar cómo se logra. Una forma sana de verificarlo: ¿cuántos clientes por semana habría que ganar para alcanzar la cifra y es compatible con la capacidad comercial (clase 121)?
 
-### 3. demand: operacionalización y medición
+### 5. La demanda y sus estados
 
-**demand** significa **cantidad de compra posible a distintos precios y condiciones**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Kotler y Keller describen distintos **estados de demanda** con implicancias de marketing: **demanda inexistente** (los clientes no la necesitan o no la conocen), **latente** (hay una necesidad que ningún producto satisface), **en declive**, **irregular** (estacional o cíclica), **plena** (se mantiene el nivel) y **excesiva** (supera la capacidad). Cada estado pide una tarea distinta: estimular, desarrollar, revitalizar, sincronizar, mantener o reducir. La demanda depende de factores como el ingreso, el precio, la disponibilidad de sustitutos, las regulaciones, la tecnología y las expectativas. Entender qué la impulsa permite anticipar cambios.
 
-Sean Ellis & Morgan Brown — *Hacking Growth* orienta este bloque mediante **experimentación de crecimiento, loops y aprendizaje orientado a métricas**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **win/loss alternative**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Atractividad de la categoría
 
-Al llegar a estimar demanda accesible, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Porter muestra que la rentabilidad de una categoría depende de cinco fuerzas: la **rivalidad** entre competidores, la amenaza de **nuevos entrantes**, la amenaza de **sustitutos**, el **poder de los compradores** y el **poder de los proveedores**. Una categoría puede ser grande pero poco rentable (muchos competidores, compradores poderosos, bajos costos de cambio) o pequeña y muy rentable (barreras de entrada, diferenciación). Se evalúa cada fuerza con datos y se pregunta dónde puede la empresa **posicionarse** o **cambiar la estructura**. La atractividad no es fija: la tecnología y la regulación pueden alterarla.
 
-### 4. substitute: trade-offs y efectos de segundo orden
+### 7. Espacios de mercado nuevos
 
-**Definición:** alternativa que resuelve el mismo job de modo diferente. Este concepto obliga a abandonar la idea de que **mercado, categoría y demanda** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de decidir categoría existente versus nueva, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Gabriel Weinberg & Justin Mares — *Traction* aporta una lente sobre **perspectiva de Growth aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **market growth** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **mercado, categoría y demanda**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **substitute** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. category creation: gobernanza, límites e integración
-
-**category creation** se define como **esfuerzo por instalar un nuevo marco competitivo** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Alexander Osterwalder & Yves Pigneur — *Business Model Generation* se utiliza para estudiar **diseño de modelos de negocio mediante propuesta, clientes, recursos y economía** y contrastar la recomendación final. Al ejecutar probar lenguaje con clientes, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Crear una categoría por branding no crea demanda. Si el problema no es urgente o el lenguaje no conecta con cómo compra el mercado, la novedad aumenta fricción.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **market**, **category**, **demand**, **substitute** y **category creation** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **mercado, categoría y demanda** no consiste en sumar cinco definiciones. Empieza por **market**, contrasta **category** con **demand**, incorpora **substitute** como restricción o mecanismo y usa **category creation** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir job y compradores → 2. mapear alternativas y sustitutos → 3. estimar demanda accesible → 4. decidir categoría existente versus nueva → 5. probar lenguaje con clientes**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Puerta ejecutiva de calidad del mercado
-
-Quien autoriza capital no necesita repetir todo el estudio. Debe interrogar cada afirmación con `afirmación / evidencia / supuesto / dato que la refutaría` y detener el pre-read ante tamaño inflado; TAM tratado como venta posible sin puente a mercado servible, alcanzable y captura plausible; competencia sin inacción, proceso manual, solución interna ni sustitutos; datos vencidos o de otra geografía; benchmark con segmento, canal, madurez, unidad o base no comparable; e inferencia presentada como hecho.
-
-La salida es un rango defendible, fuentes, incertidumbre aceptada, owner y condición de recálculo; no la etiqueta de mercado “grande”.
+Kim y Mauborgne proponen buscar **espacios sin competencia directa** («océanos azules») mediante la **innovación en valor**: ofrecer un salto de valor al comprador con un costo bajo, usando un marco de cuatro acciones —**eliminar** factores que la industria da por sentados, **reducir** otros, **elevar** algunos y **crear** factores nuevos—. Es una herramienta para pensar diferente la oferta, no una garantía. Los casos que presentan son seleccionados y su carácter de éxito puede cambiar con el tiempo. Antes de apostar por un espacio nuevo se valida con compradores reales que el valor propuesto les importa y pagarían por él.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Philip Kotler & Kevin Lane Keller — *Marketing Management* | segmentación, targeting, posicionamiento, propuesta de valor y marketing mix | ¿Qué supuesto de **mercado, categoría y demanda** ayuda a desafiar? |
-| Byron Sharp — *How Brands Grow* | disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas | ¿Qué supuesto de **mercado, categoría y demanda** ayuda a desafiar? |
-| Sean Ellis & Morgan Brown — *Hacking Growth* | experimentación de crecimiento, loops y aprendizaje orientado a métricas | ¿Qué supuesto de **mercado, categoría y demanda** ayuda a desafiar? |
-| Gabriel Weinberg & Justin Mares — *Traction* | perspectiva de Growth aplicada al problema de la clase | ¿Qué supuesto de **mercado, categoría y demanda** ayuda a desafiar? |
-| Alexander Osterwalder & Yves Pigneur — *Business Model Generation* | diseño de modelos de negocio mediante propuesta, clientes, recursos y economía | ¿Qué supuesto de **mercado, categoría y demanda** ayuda a desafiar? |
-
-En **mercado, categoría y demanda**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **market**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Kotler y Keller | Definición de mercado, estados de demanda y proceso de marketing. | Es amplio y general. | ¿Qué necesidad satisfaces? |
+| Porter (*Competitive Strategy*) | Fuerzas competitivas y atractividad de la industria. | Supone industrias definidas. | ¿Qué fuerza limita tu margen? |
+| Kim y Mauborgne | Espacios sin competencia y marco de cuatro acciones. | Casos seleccionados; poca evidencia sistemática. | ¿Qué factor podrías eliminar o crear? |
+| Moore | Segmento inicial y ciclo de adopción. | Contexto de tecnología. | ¿Qué segmento adopta primero? |
+| Christensen et al. | El trabajo que el cliente contrata y sus alternativas. | Marco conceptual. | ¿Contra qué compites realmente? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa se define como 'plataforma de inteligencia operacional aumentada'. Los clientes, sin embargo, buscan 'software de planificación de turnos' y comparan contra planillas.
+**Situación (hipotética).** Una empresa propone un software de gestión de turnos y pacientes para clínicas dentales independientes en un país. Su fundador afirma: «El mercado de software de salud es de USD 8.000 millones; con el 1 % tendríamos USD 80 millones».
 
-**Paso 1 — definir job y compradores.** La gerencia escribe primero el supuesto asociado a **market** y evita convertirlo en hecho. Luego busca **search demand** para contrastarlo en el caso de **mercado, categoría y demanda**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Estimación ascendente.**
 
-**Paso 2 — mapear alternativas y sustitutos.** La gerencia escribe primero el supuesto asociado a **category** y evita convertirlo en hecho. Luego busca **category awareness** para contrastarlo en el caso de **mercado, categoría y demanda**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Paso | Dato | Resultado |
+|---|---|---|
+| Clínicas dentales independientes en el país | Registro del colegio profesional y cámara del sector | 4.800 |
+| Con 3 o más sillones (el perfil que valora el software) | 40 % | 1.920 |
+| Con acceso a internet y apertura a digitalizar | 70 % | 1.344 |
+| Precio anual promedio | USD 1.800 | **Mercado alcanzable ≈ USD 2,4 millones** |
+| Participación obtenible en 3 años | 8 % de las clínicas (≈ 108) con un equipo comercial de 3 personas | **Mercado obtenible ≈ USD 194.000 al año** |
 
-**Paso 3 — estimar demanda accesible.** La gerencia escribe primero el supuesto asociado a **demand** y evita convertirlo en hecho. Luego busca **win/loss alternative** para contrastarlo en el caso de **mercado, categoría y demanda**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** El mercado alcanzable en el país es cercano a USD 2,4 millones al año, lejos de USD 80 millones. El obtenible, cerca de USD 194.000 anuales, no sostiene a una empresa con 25 personas. La oportunidad requiere ampliar el segmento (clínicas medianas y multiprofesionales), el territorio (otros países) o la oferta (servicios adicionales como pagos y seguros).
 
-**Paso 4 — decidir categoría existente versus nueva.** La gerencia escribe primero el supuesto asociado a **substitute** y evita convertirlo en hecho. Luego busca **market growth** para contrastarlo en el caso de **mercado, categoría y demanda**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Fuerzas competitivas.** Rivalidad moderada (cuatro proveedores locales); sustitutos fuertes (planillas, agendas de papel); poder de compradores alto (cambian fácilmente); barreras de entrada bajas; proveedores (plataformas de nube) con poco poder.
 
-**Paso 5 — probar lenguaje con clientes.** La gerencia escribe primero el supuesto asociado a **category creation** y evita convertirlo en hecho. Luego busca **share of category** para contrastarlo en el caso de **mercado, categoría y demanda**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Alternativa de espacio nuevo.** Con el marco de cuatro acciones: eliminar funciones contables complejas; reducir la configuración inicial; elevar la automatización de recordatorios a pacientes; crear un servicio de cobranza a aseguradoras. Se valida con 20 entrevistas antes de decidir.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **mercado, categoría y demanda**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Decisión.** Replantear el plan: segmento inicial de clínicas de 3 a 8 sillones, ampliación a un segundo país en el año 2 y el servicio de cobranza como fuente de ingresos adicional. El mercado obtenible se vuelve a calcular con tres escenarios.
+
+**Qué muestra.** (1) La estimación ascendente desmontó una cifra inflada. (2) Las fuerzas competitivas explicaron la presión de precio. (3) El resultado cambió el plan.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **market** | conjunto de compradores, problemas y alternativas con intercambio potencial | Cuando search demand es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **category** | marco mental usado para agrupar soluciones comparables | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Mercado frente a oportunidad.** Un mercado grande no es una oportunidad si la empresa no puede alcanzarlo o no tiene ventaja. Una oportunidad pequeña pero accesible y rentable puede ser mejor punto de partida.
 
-**Frontera de aplicación:** Crear una categoría por branding no crea demanda. Si el problema no es urgente o el lenguaje no conecta con cómo compra el mercado, la novedad aumenta fricción.
+**Límites.** Las estimaciones de mercado son inciertas y sensibles a la definición; los datos de industria usan categorías distintas. Los estados de demanda de Kotler y Keller son un marco descriptivo. El análisis de fuerzas competitivas es estático y no recoge bien las industrias de plataformas o las que cambian rápido. Los casos de espacios nuevos son difíciles de replicar. Las proyecciones se contrastan con datos propios y se revisan, y los datos personales de clientes en estudios de mercado se tratan según la normativa de protección de datos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre mercado, categoría y demanda |
+| Nivel | Cómo trabaja el mercado y la demanda |
 |---|---|
-| **Profesional** | usa **mercado, categoría y demanda** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **market** y **category** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta search demand con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si mercado, categoría y demanda cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de mercado, categoría y demanda reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **mercado, categoría y demanda** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta datos de clientes y de competidores con fuente. |
+| **Jefe / Team Lead** | Estima el mercado de su línea con método ascendente. |
+| **Gerente** | Define el mercado, la categoría y las metas de participación. |
+| **CEO / Director** | Decide en qué mercados competir y cuáles abandonar. |
+| **Founder / Owner** | Valida que el mercado alcanzable sostenga la empresa antes de invertir. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa se define como 'plataforma de inteligencia operacional aumentada'. Los clientes, sin embargo, buscan 'software de planificación de turnos' y comparan contra planillas.
+Una empresa chilena de bicicletas eléctricas urbanas vende 4.000 unidades al año y quiere triplicar su facturación en tres años. Su informe de planificación afirma que «el mercado de movilidad urbana en América Latina es de USD 50.000 millones» y que con el 0,5 % bastaría. El gerente comercial sostiene que el crecimiento vendrá de ciudades intermedias; el de producto, de modelos de carga para reparto; el de finanzas, de ampliar a Perú y Colombia. Hay nuevos entrantes asiáticos con precios 25 % menores, un incentivo estatal que podría terminar, restricciones de importación incipientes y demanda estacional con picos en primavera.
 
-Entrega un **decision brief de mercado, categoría y demanda** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diagnóstico de mercado y demanda** que contenga: (a) la definición del mercado desde el problema del cliente y los competidores reales; (b) la estimación ascendente de mercado alcanzable y obtenible para al menos dos segmentos, con rangos; (c) el estado de la demanda y sus determinantes, incluida la dependencia del incentivo; (d) el análisis de las cinco fuerzas; (e) una alternativa de espacio nuevo con las cuatro acciones y su validación; (f) la recomendación sobre dónde jugar, y las verificaciones regulatorias, arancelarias y de incentivos que se harán con fuentes oficiales.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **mercado, categoría y demanda** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir job y compradores → 2. mapear alternativas y sustitutos → 3. estimar demanda accesible → 4. decidir categoría existente versus nueva → 5. probar lenguaje con clientes** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta search demand, category awareness; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
-7. Audita tamaño, puente desde TAM, sustitutos, vigencia y comparabilidad antes de aceptar la recomendación.
+1. Define tu mercado en una frase desde el problema del cliente y lista a tus tres competidores reales.
+2. Estima el mercado alcanzable de un segmento con un cálculo ascendente y sus fuentes.
+3. Evalúa las cinco fuerzas de tu categoría con un dato por fuerza.
+4. Aplica las cuatro acciones a tu oferta y descarta una idea con evidencia.
+5. Calcula cuántos clientes por semana exige tu meta de participación.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar market y category como sinónimos | Se pierde la distinción entre “conjunto de compradores, problemas y alternativas con intercambio potencial” y “marco mental usado para agrupar soluciones comparables” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “probar lenguaje con clientes” | Se saltó “definir job y compradores” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir job y compradores → 2. mapear alternativas y sustitutos → 3. estimar demanda accesible → 4. decidir categoría existente versus nueva → 5. probar lenguaje con clientes y marca el primer supuesto no demostrado. |
-| Optimizar solo search demand | La métrica local sustituyó al resultado del sistema | Contrástala con category awareness y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre mercado, categoría y demanda | Crear una categoría por branding no crea demanda. Si el problema no es urgente o el lenguaje no conecta con cómo compra el mercado, la novedad aumenta fricción. |
-| No fijar revisión | Una decisión sobre mercado, categoría y demanda se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Definir el mercado por el producto | Es lo que se conoce | Definirlo por el problema del cliente. |
+| «Con el 1 % bastaría» | Es fácil de decir | Estimar desde abajo con clientes concretos. |
+| Confundir total con alcanzable | Se quiere impresionar | Aplicar filtros de segmento y canal. |
+| Ignorar sustitutos | Se mira solo a rivales del rubro | Preguntar qué haría el cliente sin el producto. |
+| Suponer una categoría nueva sin demanda | Se confía en la novedad | Validar con compradores. |
+| No actualizar | Se considera estático | Revisar con datos cada año. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **market** y **category** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **demand** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir job y compradores → mapear alternativas y sustitutos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **search demand** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **mercado, categoría y demanda**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Crear una categoría por branding no crea demanda. Si el problema no es urgente o el lenguaje no conecta con cómo compra el mercado, la novedad aumenta fricción.**?
+1. ¿Por qué se define el mercado por el problema del cliente?
+2. ¿Qué diferencia hay entre mercado total, alcanzable y obtenible?
+3. ¿Cómo se estima un mercado de forma ascendente?
+4. ¿Qué cinco fuerzas determinan la rentabilidad de una categoría?
+5. ¿Qué estados de demanda describen Kotler y Keller?
+6. ¿Qué plantean las cuatro acciones de Kim y Mauborgne?
+7. ¿Qué límites tienen las estimaciones de mercado?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Porque identifica los verdaderos sustitutos y oportunidades; definirlo por producto oculta alternativas.
+2. El total es el techo teórico; el alcanzable es la parte atendible según los segmentos y canales; el obtenible es lo capturable en un plazo con la capacidad y la competencia existentes.
+3. Contando clientes concretos que cumplen el perfil, multiplicando por precio y frecuencia y aplicando filtros, con supuestos contrastables.
+4. Rivalidad, nuevos entrantes, sustitutos, poder de los compradores y poder de los proveedores.
+5. Inexistente, latente, en declive, irregular, plena y excesiva, entre otros.
+6. Eliminar, reducir, elevar y crear factores de valor respecto de lo que la industria da por sentado.
+7. Son sensibles a la definición y a los datos de terceros, y deben contrastarse con datos propios y revisarse.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/133-mercado-categoria-y-demanda/`:
 
-- `leadership-decision-brief.md` con el problema específico de **mercado, categoría y demanda**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **mercado, categoría y demanda** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **market**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa se define como 'plataforma de inteligencia operacional aumentada'. Los clientes, sin embargo, buscan 'software de planificación de turnos' y comparan contra planillas.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el diagnóstico del caso ejecutivo;
+- `venture-validation.md` (plantilla [Venture validation](../../../../templates/venture-validation.md)) con la estimación ascendente y la validación del espacio nuevo;
+- `decision-journal.md` con las definiciones, los supuestos y las fuentes de los datos.
 
 ## 📗 Fuentes y verificación
 
-- Philip Kotler & Kevin Lane Keller — *Marketing Management* (Pearson Education, 2016). **Uso en esta clase:** segmentación, targeting, posicionamiento, propuesta de valor y marketing mix. Lectura selectiva sobre **mercado, categoría y demanda**. **Localizador:** [ISBN-13 9781292092621](https://openlibrary.org/isbn/9781292092621).
-- Byron Sharp — *How Brands Grow* (BookBaby, 2010). **Uso en esta clase:** disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas. Lectura selectiva sobre **mercado, categoría y demanda**. **Localizador:** [ISBN-13 9781483534701](https://openlibrary.org/isbn/9781483534701).
-- Sean Ellis & Morgan Brown — *Hacking Growth* (Ebury Publishing, 2017). **Uso en esta clase:** experimentación de crecimiento, loops y aprendizaje orientado a métricas. Lectura selectiva sobre **mercado, categoría y demanda**. **Localizador:** [ISBN-13 9780753545386](https://openlibrary.org/isbn/9780753545386).
-- Gabriel Weinberg & Justin Mares — *Traction* (Gildan Media, 2015). **Uso en esta clase:** perspectiva de Growth aplicada al problema de la clase. Lectura selectiva sobre **mercado, categoría y demanda**. **Localizador:** [ISBN-13 9781469096230](https://openlibrary.org/isbn/9781469096230).
-- Alexander Osterwalder & Yves Pigneur — *Business Model Generation* (Wiley , 2010). **Uso en esta clase:** diseño de modelos de negocio mediante propuesta, clientes, recursos y economía. Lectura selectiva sobre **mercado, categoría y demanda**. **Localizador:** [ISBN-13 9780470876411](https://openlibrary.org/isbn/9780470876411).
-- April Dunford — *Obviously Awesome* (Ambient Press, 2019). **Uso en esta clase:** posicionamiento desde alternativas competitivas, atributos, valor y segmento. Lectura selectiva sobre **mercado, categoría y demanda**. **Localizador:** [ISBN-13 9781999023003](https://openlibrary.org/isbn/9781999023003).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **mercado, categoría y demanda** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **mercado, categoría y demanda**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **mercado, categoría y demanda** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **mercado, categoría y demanda** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **mercado, categoría y demanda** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Philip Kotler & Kevin Lane Keller — *Marketing Management* (Pearson Education, 2016). **Uso en esta clase:** definición de mercado, estados de demanda y proceso de marketing. Lectura selectiva sobre **mercado, categoría y demanda**. **Localizador:** [ISBN-13 9781292092621](https://openlibrary.org/isbn/9781292092621).
+- Michael E. Porter — *Competitive Strategy* (Free Press, 1980). **Uso en esta clase:** fuerzas competitivas y atractividad de la industria. Lectura selectiva sobre **mercado, categoría y demanda**. **Localizador:** [ISBN-13 9780684841489](https://openlibrary.org/isbn/9780684841489).
+- W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* (Coach Series, 2006). **Uso en esta clase:** espacios sin competencia y marco de cuatro acciones. Lectura selectiva sobre **mercado, categoría y demanda**. **Localizador:** [ISBN-13 9781596590687](https://openlibrary.org/isbn/9781596590687).
+- Geoffrey A. Moore — *Crossing the Chasm* (HarperBusiness, 1995). **Uso en esta clase:** segmento inicial y ciclo de adopción. Lectura selectiva sobre **mercado, categoría y demanda**. **Localizador:** [ISBN-13 9780887307171](https://openlibrary.org/isbn/9780887307171).
+- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** el trabajo que el cliente contrata y sus alternativas. Lectura selectiva sobre **mercado, categoría y demanda**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
 
-> **Regla de fuentes para Mercado, categoría y demanda:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **mercado, categoría y demanda** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Mercado, categoría y demanda:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas arancelarias, de incentivos y de protección de datos aplicables. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

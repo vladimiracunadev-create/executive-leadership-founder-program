@@ -10,225 +10,182 @@
 
 ## 🎯 Propósito
 
-El funnel modela cómo una población avanza por etapas hasta una acción. La conversión global es producto de conversiones parciales; por eso encontrar el cuello es más útil que optimizar una etapa visible. Segmentación y cohortes evitan que promedios oculten deterioro.
+El embudo (*funnel*) es una de las ideas más usadas y más malinterpretadas de marketing: una imagen de etapas por las que pasan los clientes, con pérdidas en cada una. Bien usado, ordena la discusión (¿dónde perdemos más personas? ¿qué cambiaría eso?) y permite priorizar mejoras con datos. Mal usado, se convierte en un diagrama decorativo, en una excusa para optimizar el último paso mientras se descuida el primero, o en una obsesión por la conversión que sacrifica valor a largo plazo. Optimizar la conversión no es manipular: es **quitar obstáculos para que quien quiere resolver su problema pueda hacerlo**.
 
-La salida de esta parte es **entender mercado, posicionamiento, canales, conversión, retención y crecimiento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **funnel y conversión** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el método de crecimiento con experimentos de Ellis y Brown, en el rigor de las pruebas controladas de Kohavi, Tang y Xu y en la relación entre métricas de clientes y desempeño financiero de Gupta y Zeithaml. Al terminar sabrás definir un embudo con etapas medibles, calcular conversiones y su valor, priorizar qué mejorar, diseñar experimentos válidos y evitar optimizaciones que dañen la confianza o la retención.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `funnel`, `conversion rate`, `drop-off`, `cohort`, `bottleneck` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir etapas por comportamiento → 2. medir base y conversiones → 3. segmentar por cohortes/canales → 4. priorizar cuello por impacto → 5. experimentar y medir incremento** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** stage conversion, overall conversion, drop-off sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** las etapas de un embudo con eventos medibles.
+2. **Calcular** conversiones, abandono y valor por etapa.
+3. **Priorizar** mejoras según volumen afectado, esfuerzo y efecto.
+4. **Diseñar** experimentos con muestra y criterio de decisión.
+5. **Evitar** optimizaciones que aumenten la conversión pero reduzcan valor.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define funnel y conversión rate sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con stage conversion y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: toma el último mes de tu embudo y estima cuántas personas se pierden entre dos etapas consecutivas. |
+| 20–60 min | Etapas, métricas, priorización, experimentos y calidad. |
+| 60–105 min | Ejemplo trabajado: analizar un embudo de una plataforma de servicios. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **funnel** | secuencia de etapas medibles hacia una acción | Distingue un hecho compatible y otro que lo refute. |
-| **conversion rate** | porcentaje que avanza entre etapas | Distingue un hecho compatible y otro que lo refute. |
-| **drop-off** | pérdida entre dos etapas | Distingue un hecho compatible y otro que lo refute. |
-| **cohort** | grupo comparable por fecha o característica | Distingue un hecho compatible y otro que lo refute. |
-| **bottleneck** | etapa cuya mejora tiene mayor efecto sobre outcome | Distingue un hecho compatible y otro que lo refute. |
+| **Embudo (funnel)** | Secuencia de etapas entre el primer contacto y un resultado de valor. | Cada etapa tiene un evento medible. |
+| **Tasa de conversión** | Proporción de personas que pasan de una etapa a la siguiente. | Se calcula por período y segmento. |
+| **Activación** | Momento en que el usuario obtiene el primer valor real. | Un evento que predice retención. |
+| **Fricción** | Obstáculo que reduce la conversión. | Pasos innecesarios, dudas, esperas. |
+| **Prueba A/B** | Experimento que compara dos versiones con asignación aleatoria. | Se define métrica y muestra antes. |
+| **Valor por etapa** | Valor económico esperado de una persona que llega a cada etapa. | Se calcula con la conversión posterior y el valor del cliente. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 141: 1. definir etapas por comportamiento → 2. medir base y conversiones → 3. segmentar por cohortes/canales → 4. priorizar cuello por impacto → 5. experimentar y medir incremento](modelo-mental.svg)
+![Embudo con números: visitantes, registros, activados, compradores y renovados, con conversión por etapa y acción de mejora.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir etapas por comportamiento → 2. medir base y conversiones → 3. segmentar por cohortes/canales → 4. priorizar cuello por impacto → 5. experimentar y medir incremento
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El funnel modela cómo una población avanza por etapas hasta una acción. La conversión global es producto de conversiones parciales; por eso encontrar el cuello es más útil que optimizar una etapa visible. Segmentación y cohortes evitan que promedios oculten deterioro.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un funnel supone progresión; productos con loops, referrals o múltiples jobs no siempre encajan linealmente. Usa el modelo donde simplifica una decisión.**
+**Cómo leer el diagrama.** Una tabla con un embudo de ejemplo breve (distinto del ejemplo trabajado más abajo): de **20.000 visitantes** se llega a **1.200 registros** (6 %), **420 activados** (35 %), **63 compradores** (15 %) y **44 renovados** (70 %). Cada fila ofrece la acción de mejora asociada a la etapa. La nota advierte que la etapa con mayor pérdida relativa no siempre es la de mayor oportunidad: se prioriza por volumen afectado, facilidad de cambio y efecto en el resultado final.
 
 ## 📖 Desarrollo
 
-### 1. funnel: mecanismo central
+### 1. Qué es un embudo útil
 
-**funnel** se entiende aquí como **secuencia de etapas medibles hacia una acción**. Esta es la pieza causal o estructural desde la que se inicia **funnel y conversión**: antes de definir etapas por comportamiento, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un embudo es útil cuando cada etapa se define por un **evento observable** que indica un avance real del cliente (visitó una página clave, creó una cuenta, completó una acción de valor, pagó, renovó) y no por una impresión del equipo. Ellis y Brown insisten en identificar el **momento de activación** («aha»): la acción que mejor predice que un usuario se quedará. Un embudo bien definido también distingue **segmentos** (canales, perfiles, dispositivos), porque el promedio esconde diferencias grandes: la conversión de visitantes de búsqueda no es la de visitantes de recomendaciones.
 
-La lectura rectora de este bloque es Philip Kotler & Kevin Lane Keller — *Marketing Management*. Su aporte se usa para examinar **segmentación, targeting, posicionamiento, propuesta de valor y marketing mix**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **stage conversion**; regístrala con periodo, unidad, población y baseline.
+### 2. Medir conversión y valor
 
-Relaciona el mecanismo con **conversion rate**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La **conversión por etapa** es el número que pasa dividido por el que entró. La **conversión total** es el producto de las conversiones. Para decidir dónde actuar, se calcula el **valor de una persona en cada etapa**: la probabilidad de convertirse en cliente y el valor del cliente (clase 117). Si un registro vale USD 12 y un visitante vale USD 0,7, se sabe cuánto se puede gastar por cada uno. Gupta y Zeithaml subrayan la importancia de **vincular las métricas de marketing con resultados financieros**: una conversión que sube pero cuyos clientes retienen menos puede reducir el valor.
 
-### 2. conversion rate: frontera conceptual y error de clasificación
+### 3. Priorizar qué mejorar
 
-**Definición operacional:** porcentaje que avanza entre etapas. Su valor está en distinguirlo de **funnel** y **drop-off**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La etapa donde se pierde más gente no necesariamente es la mejor para actuar. Se combinan: **volumen afectado** (cuántas personas pasan por ahí), **diferencia posible** (cuánto podría mejorar según el diagnóstico y los benchmarks), **esfuerzo** y **efecto aguas abajo** (mejorar la activación suele aumentar compras y renovaciones; mejorar una etapa final sin mejorar la calidad de quien llega solo aumenta devoluciones). Se estima el **efecto en clientes e ingresos** de mejorar una etapa en cierto porcentaje y se ordenan las ideas por retorno esperado (clase 105).
 
-Contrasta el problema con Byron Sharp — *How Brands Grow*, que aporta una mirada sobre **disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas**. Formula dos mini-casos: uno que sí satisface la definición de **conversion rate** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **overall conversion** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Diagnosticar la fricción
 
-Antes de medir base y conversiones, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Para entender por qué se pierde gente en una etapa se combinan datos cuantitativos (dónde abandonan, cuánto tardan, qué dispositivo usan) con **observación y entrevistas** (por qué dudaron, qué no entendieron, qué esperaban). Las fuentes de fricción típicas: **claridad** (no queda claro qué se ofrece o qué sigue), **esfuerzo** (formularios largos, pasos innecesarios), **riesgo percibido** (falta de prueba social, garantía o información de precio), **confianza** (señales de seguridad, política clara), **tiempo** (cargas lentas, esperas) y **relevancia** (el mensaje no coincide con la promesa del anuncio). Se atacan las causas, no solo los síntomas.
 
-### 3. drop-off: operacionalización y medición
+### 5. Experimentar con rigor
 
-**drop-off** significa **pérdida entre dos etapas**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Kohavi, Tang y Xu enseñan que las pruebas controladas son la forma más confiable de saber si un cambio mejora algo, pero también que **muchos resultados «significativos» son falsos**. Reglas básicas: definir **la hipótesis, la métrica principal y la muestra** antes de empezar; **asignar al azar**; no detener la prueba al primer resultado favorable; **no mirar muchas métricas** hasta encontrar una que salga; controlar **efectos de novedad** y estacionalidad; verificar que la asignación funcione; y atender a **métricas de protección** (por ejemplo, retención, reclamos). Con poco tráfico, se usan pruebas de mayor efecto o métodos cualitativos.
 
-April Dunford — *Obviously Awesome* orienta este bloque mediante **posicionamiento desde alternativas competitivas, atributos, valor y segmento**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **drop-off**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Conversión sin daño
 
-Al llegar a segmentar por cohortes/canales, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Optimizar la conversión de forma agresiva puede aumentar los resultados de corto plazo y dañar la relación: **patrones oscuros** (cuentas regresivas falsas, cancelaciones difíciles, casillas premarcadas, precios que aparecen al final), promesas exageradas o presión indebida. Estas prácticas pueden ser **ilegales** en muchos países (normas de consumo y de comercio electrónico) y deterioran la retención y la reputación. Una regla ética y práctica: toda mejora debe poder explicarse al cliente sin vergüenza. Se mide también la **calidad** de las conversiones: reclamos, devoluciones, cancelaciones y satisfacción en las primeras semanas.
 
-### 4. cohort: trade-offs y efectos de segundo orden
+### 7. Del embudo al sistema
 
-**Definición:** grupo comparable por fecha o característica. Este concepto obliga a abandonar la idea de que **funnel y conversión** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de priorizar cuello por impacto, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Al Ries & Jack Trout — *Positioning* aporta una lente sobre **perspectiva de Marketing aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **cohort retention** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **funnel y conversión**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **cohort** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. bottleneck: gobernanza, límites e integración
-
-**bottleneck** se define como **etapa cuya mejora tiene mayor efecto sobre outcome** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Gabriel Weinberg & Justin Mares — *Traction* se utiliza para estudiar **perspectiva de Growth aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar experimentar y medir incremento, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un funnel supone progresión; productos con loops, referrals o múltiples jobs no siempre encajan linealmente. Usa el modelo donde simplifica una decisión.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **funnel**, **conversion rate**, **drop-off**, **cohort** y **bottleneck** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **funnel y conversión** no consiste en sumar cinco definiciones. Empieza por **funnel**, contrasta **conversion rate** con **drop-off**, incorpora **cohort** como restricción o mecanismo y usa **bottleneck** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir etapas por comportamiento → 2. medir base y conversiones → 3. segmentar por cohortes/canales → 4. priorizar cuello por impacto → 5. experimentar y medir incremento**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Funnel como sistema de tasas
-
-Modela etapas con numeradores y denominadores coherentes: visita → lead → oportunidad → compra. La conversión total es producto de conversiones parciales cuando las cohortes y ventanas son compatibles. Una mejora grande en una etapa pequeña puede impactar menos que una mejora modesta en el cuello principal.
-
-Segmenta por canal, cohorte y tipo de cliente; una tasa agregada puede esconder mix. No optimices conversión sacrificando calidad, devoluciones, churn o margen.
+El embudo es una vista parcial: la realidad tiene **bucles** (usuarios que vuelven, referidos, expansión) y **múltiples recorridos** (clase 138). Se complementa con una mirada de **cohortes** (qué ocurre con los usuarios de un mismo período a lo largo del tiempo) y con **ciclos de crecimiento** (clase 143). El equipo se organiza con un dueño por etapa, un tablero compartido, una cadencia semanal de revisión y un registro de experimentos y aprendizajes. La conversión es una consecuencia de entender y servir bien al cliente, no un objetivo en sí mismo.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Philip Kotler & Kevin Lane Keller — *Marketing Management* | segmentación, targeting, posicionamiento, propuesta de valor y marketing mix | ¿Qué supuesto de **funnel y conversión** ayuda a desafiar? |
-| Byron Sharp — *How Brands Grow* | disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas | ¿Qué supuesto de **funnel y conversión** ayuda a desafiar? |
-| April Dunford — *Obviously Awesome* | posicionamiento desde alternativas competitivas, atributos, valor y segmento | ¿Qué supuesto de **funnel y conversión** ayuda a desafiar? |
-| Al Ries & Jack Trout — *Positioning* | perspectiva de Marketing aplicada al problema de la clase | ¿Qué supuesto de **funnel y conversión** ayuda a desafiar? |
-| Gabriel Weinberg & Justin Mares — *Traction* | perspectiva de Growth aplicada al problema de la clase | ¿Qué supuesto de **funnel y conversión** ayuda a desafiar? |
-
-En **funnel y conversión**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **funnel**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Ellis y Brown | Activación, métricas de crecimiento y proceso de experimentación. | Enfoque en productos digitales. | ¿Cuál es tu momento de activación? |
+| Kohavi, Tang y Xu | Pruebas controladas y sus trampas. | Escala de plataformas grandes. | ¿Tu prueba tiene muestra y criterio previos? |
+| Gupta y Zeithaml | Vínculo entre métricas de clientes y resultados financieros. | Revisión de métricas, no de diseño. | ¿Tu conversión mejora el valor? |
+| Eyal | Hábitos y activación en productos digitales. | Enfoque criticable por el riesgo de manipulación. | ¿Tu diseño ayuda al cliente o lo explota? |
+| Christensen et al. | Motivación del cliente en el momento de decidir. | Marco cualitativo. | ¿Qué progreso busca el cliente en esta etapa? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** 10.000 visitantes producen 1.000 trials, 300 activaciones y 30 pagos. Aumentar tráfico 20% agrega seis pagos si nada más cambia; duplicar activación podría aportar mucho más.
+**Situación (hipotética).** Una plataforma de clases particulares en línea tiene este embudo mensual: 50.000 visitantes; 3.000 se registran (6 %); 900 reservan una primera clase (30 %); 450 completan la primera clase (50 %); 135 compran un paquete (30 %); 95 renuevan al tercer mes (70 %).
 
-**Paso 1 — definir etapas por comportamiento.** La gerencia escribe primero el supuesto asociado a **funnel** y evita convertirlo en hecho. Luego busca **stage conversion** para contrastarlo en el caso de **funnel y conversión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Valor por etapa.** El valor de un cliente: paquete USD 120 con margen de 40 % (USD 48) más renovación: un 70 % renueva y deja otros USD 48 por trimestre durante cuatro trimestres (retención promedio simplificada) → valor total estimado de USD 48 + 0,7 × 48 × 3 ≈ USD 149. La probabilidad de que un registrado llegue a comprar: 0,3 × 0,5 × 0,3 = 4,5 %; el valor de un registro es 0,045 × 149 ≈ USD 6,7; el de un visitante: 0,06 × 6,7 ≈ USD 0,40.
 
-**Paso 2 — medir base y conversiones.** La gerencia escribe primero el supuesto asociado a **conversion rate** y evita convertirlo en hecho. Luego busca **overall conversion** para contrastarlo en el caso de **funnel y conversión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diagnóstico.** La mayor pérdida relativa está en la reserva de la primera clase (30 %) y en la compra tras la primera clase (30 %). Las entrevistas con 15 registrados que no reservaron revelan: no encontraron horarios que calzaran (7), dudaron de la calidad de los profesores (5), no entendieron cuánto costaba (3). Entre los que completaron la primera clase y no compraron: 8 de 12 dijeron que «no sabían cuál paquete elegir» y 3, que el profesor no era el adecuado.
 
-**Paso 3 — segmentar por cohortes/canales.** La gerencia escribe primero el supuesto asociado a **drop-off** y evita convertirlo en hecho. Luego busca **drop-off** para contrastarlo en el caso de **funnel y conversión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Priorización.** (1) Mostrar disponibilidad horaria y precios antes del registro (afecta 3.000 personas; esfuerzo bajo). (2) Perfiles de profesores con valoraciones y videos breves. (3) Recomendación guiada de paquete al terminar la primera clase y opción de cambiar de profesor sin costo. Ganancia estimada: subir la reserva de 30 % a 36 % y la compra de 30 % a 36 % → compradores de 135 a 194 (+44 %) con el mismo tráfico.
 
-**Paso 4 — priorizar cuello por impacto.** La gerencia escribe primero el supuesto asociado a **cohort** y evita convertirlo en hecho. Luego busca **cohort retention** para contrastarlo en el caso de **funnel y conversión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Experimento.** Se prueban las dos primeras mejoras con 50 % del tráfico en cada grupo durante 4 semanas, con muestra calculada para detectar una mejora relativa de 15 % en reserva. Métrica principal: reservas por registro. Métricas de protección: reembolsos y calificación de la primera clase. Resultado: la reserva sube de 30 % a 35,5 % y los reembolsos no cambian.
 
-**Paso 5 — experimentar y medir incremento.** La gerencia escribe primero el supuesto asociado a **bottleneck** y evita convertirlo en hecho. Luego busca **incremental lift** para contrastarlo en el caso de **funnel y conversión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **funnel y conversión**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El valor por etapa orientó cuánto se podía invertir. (2) Las entrevistas explicaron los abandonos. (3) El experimento incluyó métricas de protección.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **funnel** | secuencia de etapas medibles hacia una acción | Cuando stage conversion es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **conversion rate** | porcentaje que avanza entre etapas | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Embudo frente a cohortes.** El embudo muestra una foto de etapas; las cohortes muestran cómo evolucionan los mismos usuarios en el tiempo. Una empresa necesita ambas.
 
-**Frontera de aplicación:** Un funnel supone progresión; productos con loops, referrals o múltiples jobs no siempre encajan linealmente. Usa el modelo donde simplifica una decisión.
+**Límites.** Las conversiones varían con el canal, el momento y el segmento; los promedios engañan. Con poco tráfico, las pruebas son lentas o poco concluyentes. Las mejoras de corto plazo pueden desaparecer. La optimización excesiva puede dañar la experiencia. Los experimentos con usuarios requieren transparencia y, según el caso, consentimiento; las prácticas de diseño engañoso pueden infringir normas de consumo y de comercio electrónico. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre funnel y conversión |
+| Nivel | Cómo participa en la conversión |
 |---|---|
-| **Profesional** | usa **funnel y conversión** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **funnel** y **conversion rate** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta stage conversion con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si funnel y conversión cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de funnel y conversión reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **funnel y conversión** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Mide, prueba y documenta con rigor. |
+| **Jefe / Team Lead** | Prioriza mejoras por valor por etapa y conduce los experimentos. |
+| **Gerente** | Define el embudo, las metas y la cadencia de aprendizaje. |
+| **CEO / Director** | Protege la ética de las optimizaciones y exige calidad de las conversiones. |
+| **Founder / Owner** | Mide pocas cosas con claridad y habla con quienes abandonan. |
 
 ## 🏢 Caso ejecutivo
 
-10.000 visitantes producen 1.000 trials, 300 activaciones y 30 pagos. Aumentar tráfico 20% agrega seis pagos si nada más cambia; duplicar activación podría aportar mucho más.
+Una empresa de seguros de viaje vende en línea y tiene un embudo de cotización a compra de 3,1 %. El equipo de crecimiento introduce tres cambios en un mes: una cuenta regresiva de «oferta termina en 10 minutos» (que se reinicia cada vez que se recarga la página), una casilla premarcada para añadir un seguro de cancelación y una pantalla de cancelación que exige llamar por teléfono. La conversión sube a 4,4 %; los reclamos al servicio de atención aumentan 70 %, las devoluciones 45 % y la calificación en sitios de reseñas baja de 4,3 a 3,6. La autoridad de protección al consumidor anuncia un proceso de fiscalización de prácticas de venta en línea. El gerente de crecimiento defiende los cambios con el aumento de ventas.
 
-Entrega un **decision brief de funnel y conversión** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diagnóstico y plan de conversión responsable** que contenga: (a) el embudo y el valor por etapa, incluyendo el efecto de reclamos y devoluciones; (b) el análisis de los tres cambios y sus riesgos éticos y legales; (c) qué mejoras alternativas probarías para aumentar la conversión sin engaño; (d) el diseño de experimentos con métricas de protección; (e) la política de diseño responsable y de revisión previa; (f) los puntos que se verificarán con las normas de consumo y comercio electrónico y con asesoría legal.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **funnel y conversión** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir etapas por comportamiento → 2. medir base y conversiones → 3. segmentar por cohortes/canales → 4. priorizar cuello por impacto → 5. experimentar y medir incremento** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta stage conversion, overall conversion; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula la conversión y el valor por etapa de tu embudo con datos de un mes.
+2. Entrevista a tres personas que abandonaron en la etapa de mayor pérdida.
+3. Prioriza cinco mejoras por volumen, efecto y esfuerzo.
+4. Diseña una prueba A/B con hipótesis, métrica, muestra y criterio de decisión.
+5. Define dos métricas de protección para tu mayor experimento.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar funnel y conversión rate como sinónimos | Se pierde la distinción entre “secuencia de etapas medibles hacia una acción” y “porcentaje que avanza entre etapas” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “experimentar y medir incremento” | Se saltó “definir etapas por comportamiento” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir etapas por comportamiento → 2. medir base y conversiones → 3. segmentar por cohortes/canales → 4. priorizar cuello por impacto → 5. experimentar y medir incremento y marca el primer supuesto no demostrado. |
-| Optimizar solo stage conversion | La métrica local sustituyó al resultado del sistema | Contrástala con overall conversion y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre funnel y conversión | Un funnel supone progresión; productos con loops, referrals o múltiples jobs no siempre encajan linealmente. Usa el modelo donde simplifica una decisión. |
-| No fijar revisión | Una decisión sobre funnel y conversión se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Optimizar la última etapa | Es la más cercana al ingreso | Priorizar por valor y volumen. |
+| Mirar promedios | Es más simple | Segmentar por canal y perfil. |
+| Concluir pruebas con ruido | Impaciencia | Definir muestra y criterio antes. |
+| Patrones oscuros | Se busca el corto plazo | Diseño honesto y métricas de calidad. |
+| Medir solo conversión | Es lo visible | Incluir retención, reclamos y devoluciones. |
+| No hablar con quienes abandonan | Se confía en los datos | Entrevistas para entender causas. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **funnel** y **conversion rate** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **drop-off** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir etapas por comportamiento → medir base y conversiones** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **stage conversion** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **funnel y conversión**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un funnel supone progresión; productos con loops, referrals o múltiples jobs no siempre encajan linealmente. Usa el modelo donde simplifica una decisión.**?
+1. ¿Cómo se define una etapa de embudo?
+2. ¿Qué es la activación y por qué importa?
+3. ¿Cómo se calcula el valor de una persona en cada etapa?
+4. ¿Qué criterios se usan para priorizar qué mejorar?
+5. ¿Qué reglas básicas tiene un experimento válido?
+6. ¿Qué son los patrones oscuros y qué riesgos tienen?
+7. ¿Qué limitaciones tiene el embudo como modelo?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Por un evento observable que indica un avance real del cliente, no por impresión del equipo.
+2. El momento en que el usuario obtiene el primer valor real; la acción que mejor predice que se quedará.
+3. Con la probabilidad de convertirse en cliente desde esa etapa multiplicada por el valor del cliente.
+4. Volumen afectado, diferencia posible, esfuerzo y efecto aguas abajo.
+5. Definir antes hipótesis, métrica y muestra, asignar al azar, no detener al primer resultado favorable, no buscar entre muchas métricas y mirar métricas de protección.
+6. Diseños que engañan o presionan (urgencia falsa, casillas premarcadas, cancelación difícil); pueden ser ilegales y dañan retención y reputación.
+7. Es una vista parcial: ignora bucles, múltiples recorridos y la evolución de cohortes.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/141-funnel-y-conversion/`:
 
-- `commercial-decision-brief.md` con el problema específico de **funnel y conversión**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **funnel y conversión** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **funnel**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **10.000 visitantes producen 1.000 trials, 300 activaciones y 30 pagos. Aumentar tráfico 20% agrega seis pagos si nada más cambia; duplicar activación podría aportar mucho más.** y el dato que podría invalidar la recomendación.
+- `commercial-decision-brief.md` (plantilla [Commercial decision brief](../../../../templates/commercial-decision-brief.md)) con el plan del caso ejecutivo;
+- `product-experiment.md` (plantilla [Product experiment](../../../../templates/product-experiment.md)) con el diseño de la prueba y sus métricas de protección;
+- `decision-journal.md` con el valor por etapa, las priorizaciones y los aprendizajes.
 
 ## 📗 Fuentes y verificación
 
-- Philip Kotler & Kevin Lane Keller — *Marketing Management* (Pearson Education, 2016). **Uso en esta clase:** segmentación, targeting, posicionamiento, propuesta de valor y marketing mix. Lectura selectiva sobre **funnel y conversión**. **Localizador:** [ISBN-13 9781292092621](https://openlibrary.org/isbn/9781292092621).
-- Byron Sharp — *How Brands Grow* (BookBaby, 2010). **Uso en esta clase:** disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas. Lectura selectiva sobre **funnel y conversión**. **Localizador:** [ISBN-13 9781483534701](https://openlibrary.org/isbn/9781483534701).
-- April Dunford — *Obviously Awesome* (Ambient Press, 2019). **Uso en esta clase:** posicionamiento desde alternativas competitivas, atributos, valor y segmento. Lectura selectiva sobre **funnel y conversión**. **Localizador:** [ISBN-13 9781999023003](https://openlibrary.org/isbn/9781999023003).
-- Al Ries & Jack Trout — *Positioning* (American Media International, 2004). **Uso en esta clase:** perspectiva de Marketing aplicada al problema de la clase. Lectura selectiva sobre **funnel y conversión**. **Localizador:** [ISBN-13 9781932378252](https://openlibrary.org/isbn/9781932378252).
-- Gabriel Weinberg & Justin Mares — *Traction* (Gildan Media, 2015). **Uso en esta clase:** perspectiva de Growth aplicada al problema de la clase. Lectura selectiva sobre **funnel y conversión**. **Localizador:** [ISBN-13 9781469096230](https://openlibrary.org/isbn/9781469096230).
-- Alexander Osterwalder & Yves Pigneur — *Business Model Generation* (Wiley , 2010). **Uso en esta clase:** diseño de modelos de negocio mediante propuesta, clientes, recursos y economía. Lectura selectiva sobre **funnel y conversión**. **Localizador:** [ISBN-13 9780470876411](https://openlibrary.org/isbn/9780470876411).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **funnel y conversión** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **funnel y conversión**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **funnel y conversión** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **funnel y conversión** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **funnel y conversión** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Sean Ellis & Morgan Brown — *Hacking Growth* (Ebury Publishing, 2017). **Uso en esta clase:** activación, métricas de crecimiento y proceso de experimentación. Lectura selectiva sobre **funnel y conversión**. **Localizador:** [ISBN-13 9780753545386](https://openlibrary.org/isbn/9780753545386).
+- Ron Kohavi, Diane Tang & Ya Xu — *Trustworthy Online Controlled Experiments* (Cambridge University Press, 2020). **Uso en esta clase:** pruebas controladas y sus trampas. Lectura selectiva sobre **funnel y conversión**. **Localizador:** [ISBN-13 9781108724265](https://openlibrary.org/isbn/9781108724265).
+- Sunil Gupta & Valarie Zeithaml — *Customer Metrics and Their Impact on Financial Performance* (Marketing Science, 2006). **Uso en esta clase:** vínculo entre métricas de clientes y resultados financieros. Lectura selectiva sobre **funnel y conversión**. **Localizador:** [DOI 10.1287/mksc.1060.0221](https://doi.org/10.1287/mksc.1060.0221).
+- Nir Eyal — *Hooked* (Portfolio/Penguin, 2014). **Uso en esta clase:** hábitos y activación en productos digitales. Lectura selectiva sobre **funnel y conversión**. **Localizador:** [ISBN-13 9781591847786](https://openlibrary.org/isbn/9781591847786).
+- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** motivación del cliente en el momento de decidir. Lectura selectiva sobre **funnel y conversión**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
 
-> **Regla de fuentes para Funnel y conversión:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **funnel y conversión** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Funnel y conversión:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de consumo, comercio electrónico y protección de datos. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

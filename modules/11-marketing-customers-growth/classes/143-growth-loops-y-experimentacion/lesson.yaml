@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir growth loop de viral loop mediante evidencia observable."
-  - "Aplicar la secuencia: mapear input-action-output-reinvestment → identificar tasa de ciclo → formular palanca → experimentar con control o baseline → escalar solo efecto incremental sostenible."
-  - "Interpretar loop coefficient, cycle time, incremental lift sin atribuir causalidad automática."
-  - "Resolver el caso de growth loops y experimentación con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir un ciclo de crecimiento de un embudo lineal."
+  - "Identificar los tipos de ciclo: viral, de contenido, de pago y de producto."
+  - "Diseñar un ciclo con sus pasos, métricas y puntos de fricción."
+  - "Priorizar y ejecutar experimentos con un proceso disciplinado."
+  - "Evaluar los riesgos éticos, de calidad y de dependencia de los ciclos."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
-  - "Byron Sharp — *How Brands Grow*"
   - "Sean Ellis & Morgan Brown — *Hacking Growth*"
+  - "Ron Kohavi, Diane Tang & Ya Xu — *Trustworthy Online Controlled Experiments*"
+  - "Nir Eyal — *Hooked*"
   - "Gabriel Weinberg & Justin Mares — *Traction*"
-  - "Alexander Osterwalder & Yves Pigneur — *Business Model Generation*"
-  - "April Dunford — *Obviously Awesome*"
+  - "Geoffrey A. Moore — *Crossing the Chasm*"
 limits:
-  - "No todo negocio tiene loops fuertes y forzarlos puede producir spam. A veces canales lineales rentables son suficientes; el crecimiento debe preservar calidad y confianza."
+  - "Los coeficientes típicos de ciclos son menores que 1, por lo que rara vez reemplazan la adquisición: la reducen."
 evidence_signals:
-  - "loop coefficient"
-  - "cycle time"
-  - "incremental lift"
-  - "retention of acquired users"
-  - "payback"
+  - "ciclo con pasos y coeficiente"
+  - "experimentos priorizados con rigor"
+  - "métricas de protección definidas"
+  - "prueba ética del diseño"

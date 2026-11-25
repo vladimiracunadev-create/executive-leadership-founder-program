@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir competitive alternative de unique attribute mediante evidencia observable."
-  - "Aplicar la secuencia: listar alternativas reales → identificar atributos únicos → traducirlos a valor → seleccionar segmento donde importan → probar market frame y mensaje."
-  - "Interpretar win rate versus alternative, message recall, qualified demand sin atribuir causalidad automática."
-  - "Resolver el caso de posicionamiento con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Definir los cinco elementos del posicionamiento y su orden."
+  - "Identificar las alternativas competitivas reales del cliente."
+  - "Traducir atributos únicos en valor para el cliente."
+  - "Elegir la categoría de mercado que haga evidente el valor."
+  - "Probar y ajustar el posicionamiento con compradores y datos."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
-  - "Byron Sharp — *How Brands Grow*"
-  - "Gabriel Weinberg & Justin Mares — *Traction*"
+  - "Al Ries & Jack Trout — *Positioning*"
   - "April Dunford — *Obviously Awesome*"
-  - "Sean Ellis & Morgan Brown — *Hacking Growth*"
-  - "Geoffrey A. Moore — *Crossing the Chasm*"
+  - "W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy*"
+  - "Byron Sharp — *How Brands Grow*"
+  - "David Aaker — *Building Strong Brands*"
 limits:
-  - "Posicionamiento no puede fabricar una ventaja inexistente. Si el producto no tiene diferencia relevante, el problema es de estrategia/producto, no de copywriting."
+  - "El posicionamiento cambia cuando cambian el mercado y las alternativas."
 evidence_signals:
-  - "win rate versus alternative"
-  - "message recall"
-  - "qualified demand"
-  - "price premium"
-  - "loss reasons"
+  - "alternativas competitivas reales"
+  - "atributos únicos verificables"
+  - "valor traducido en resultado"
+  - "mensaje probado con compradores"

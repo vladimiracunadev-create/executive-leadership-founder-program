@@ -10,217 +10,186 @@
 
 ## 🎯 Propósito
 
-Investigación de mercado reduce incertidumbre sobre tamaño, segmentos, comportamiento, competencia y drivers de compra. Combina datos secundarios, investigación cuantitativa y cualitativa. La pregunta de negocio determina método; una encuesta grande no arregla una pregunta sesgada.
+Las decisiones de marketing se toman con información imperfecta, y la investigación de mercado busca mejorarla a un costo razonable. Pero la mayoría de las investigaciones fracasan por razones previas al análisis: nadie sabía qué decisión iban a informar, la pregunta estaba mal formulada, se encuestó a quienes eran fáciles de alcanzar y no a quienes importaban, o se confió en lo que la gente dice que hará en lugar de lo que hace. El resultado son informes bien presentados que no cambian ninguna decisión. Investigar bien es una disciplina de diseño: partir de la decisión, formular hipótesis, elegir el método adecuado y reconocer los límites de lo que se puede concluir.
 
-La salida de esta parte es **entender mercado, posicionamiento, canales, conversión, retención y crecimiento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **investigación de mercado** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el proceso de investigación de Kotler y Keller, en la teoría del trabajo por hacer de Christensen y colaboradores y en el rigor de los experimentos controlados de Kohavi, Tang y Xu. Al terminar sabrás diseñar una investigación desde una decisión, combinar fuentes secundarias y primarias, conducir entrevistas y encuestas con cuidado, evitar sesgos habituales y convertir hallazgos en acciones.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `secondary research`, `qualitative research`, `quantitative research`, `sample`, `bias` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. formular decisión de investigación → 2. revisar fuentes secundarias → 3. explorar cualitativamente → 4. diseñar medición cuantitativa si procede → 5. triangular y declarar límites** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** sample coverage, response bias, confidence intervals sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Formular** una investigación a partir de una decisión pendiente y sus hipótesis.
+2. **Elegir** entre fuentes secundarias, entrevistas, encuestas, observación y experimentos.
+3. **Diseñar** una muestra y un cuestionario que reduzcan sesgos.
+4. **Interpretar** resultados con sus límites y niveles de confianza.
+5. **Traducir** hallazgos en decisiones y definir cuándo volver a medir.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define secondary research y qualitative research sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con sample coverage y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda una investigación que encargaste y qué decisión cambió su resultado. |
+| 20–60 min | Decisión, hipótesis, métodos, muestra y sesgos. |
+| 60–105 min | Ejemplo trabajado: investigar el abandono de un servicio de suscripción. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **secondary research** | datos ya existentes de fuentes públicas o privadas | Distingue un hecho compatible y otro que lo refute. |
-| **qualitative research** | entrevistas u observación para explorar significados y mecanismos | Distingue un hecho compatible y otro que lo refute. |
-| **quantitative research** | medición estructurada para estimar prevalencia o relaciones | Distingue un hecho compatible y otro que lo refute. |
-| **sample** | muestra seleccionada de una población | Distingue un hecho compatible y otro que lo refute. |
-| **bias** | distorsión sistemática introducida por pregunta, muestra o análisis | Distingue un hecho compatible y otro que lo refute. |
+| **Decisión pendiente** | Elección concreta que la investigación debe informar. | Se puede decir qué cambiaría según el resultado. |
+| **Hipótesis** | Afirmación comprobable sobre clientes o mercado. | Se puede refutar con datos. |
+| **Datos secundarios** | Información que ya existe (estudios, estadísticas, datos internos). | Rápidos y baratos. |
+| **Datos primarios** | Información recogida para el estudio. | Entrevistas, encuestas, observación, experimentos. |
+| **Muestra representativa** | Grupo que refleja a la población que interesa. | Se elige con criterio explícito. |
+| **Sesgo** | Error sistemático que distorsiona los resultados. | De selección, de formulación, de respuesta. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 134: 1. formular decisión de investigación → 2. revisar fuentes secundarias → 3. explorar cualitativamente → 4. diseñar medición cuantitativa si procede → 5. triangular y declarar límites](modelo-mental.svg)
+![Cinco pasos de una investigación de mercado útil: decisión pendiente, hipótesis, método y fuente, muestra y análisis, y acción.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. formular decisión de investigación → 2. revisar fuentes secundarias → 3. explorar cualitativamente → 4. diseñar medición cuantitativa si procede → 5. triangular y declarar límites
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Investigación de mercado reduce incertidumbre sobre tamaño, segmentos, comportamiento, competencia y drivers de compra. Combina datos secundarios, investigación cuantitativa y cualitativa. La pregunta de negocio determina método; una encuesta grande no arregla una pregunta sesgada.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Investigar puede retrasar acción si se busca certeza total. Usa el método mínimo que cambie una decisión y reconoce cuando un experimento de mercado ofrece mejor evidencia.**
+**Cómo leer el diagrama.** Cinco pasos que comienzan en la **decisión**, no en el método. Se formulan **hipótesis** y preguntas; se elige el **método y la fuente** adecuados; se define la **muestra** y se analiza controlando sesgos; y se termina con una **acción** y una fecha para volver a medir. La nota advierte que una investigación sin decisión asociada produce informes que nadie usa, y que lo que la gente dice y lo que hace suelen diferir.
 
 ## 📖 Desarrollo
 
-### 1. secondary research: mecanismo central
+### 1. Empezar por la decisión
 
-**secondary research** se entiende aquí como **datos ya existentes de fuentes públicas o privadas**. Esta es la pieza causal o estructural desde la que se inicia **investigación de mercado**: antes de formular decisión de investigación, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Kotler y Keller describen el proceso de investigación en etapas: definir el problema y los objetivos, desarrollar el plan, recoger la información, analizarla, presentar los resultados y tomar la decisión. La primera etapa es la más importante y la menos cuidada. Una buena definición responde: **¿qué decisión se tomará con esto?**, **¿qué opciones hay?**, **¿qué resultado inclinaría la decisión hacia cada opción?** y **¿cuánto vale la información?** (si la decisión es pequeña o reversible, no justifica un estudio caro). Una investigación para «conocer mejor a nuestros clientes» es un deseo; una para «decidir si lanzamos un plan de precios por uso o por suscripción» es un encargo.
 
-La lectura rectora de este bloque es Philip Kotler & Kevin Lane Keller — *Marketing Management*. Su aporte se usa para examinar **segmentación, targeting, posicionamiento, propuesta de valor y marketing mix**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **sample coverage**; regístrala con periodo, unidad, población y baseline.
+### 2. Hipótesis y preguntas
 
-Relaciona el mecanismo con **qualitative research**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Con la decisión definida, se formulan **hipótesis** que se puedan contrastar: «los clientes que abandonan lo hacen por precio» o «lo hacen porque no logran su primer resultado en dos semanas». Cada una se traduce en **preguntas** y en el dato que la confirmaría o refutaría. Este paso evita recoger información por si acaso y protege del sesgo de confirmación: se busca activamente evidencia contraria. También se define qué se necesita saber con certeza y qué basta con una estimación gruesa.
 
-### 2. qualitative research: frontera conceptual y error de clasificación
+### 3. Fuentes secundarias y primarias
 
-**Definición operacional:** entrevistas u observación para explorar significados y mecanismos. Su valor está en distinguirlo de **secondary research** y **quantitative research**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Se comienza con lo que ya existe: **datos internos** (ventas, uso, tickets de soporte, abandonos), **estudios sectoriales**, **estadísticas públicas**, **reseñas y comentarios** de clientes, investigación académica. Estos datos son rápidos y baratos, aunque pueden no responder la pregunta exacta. Después, **datos primarios**: **entrevistas** en profundidad para comprender razones y contextos; **encuestas** para medir la frecuencia de algo en una población; **observación** del comportamiento real; **pruebas y experimentos** para comparar alternativas. Cada método responde preguntas distintas: las entrevistas descubren; las encuestas cuantifican; los experimentos prueban causalidad.
 
-Contrasta el problema con Byron Sharp — *How Brands Grow*, que aporta una mirada sobre **disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas**. Formula dos mini-casos: uno que sí satisface la definición de **qualitative research** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **response bias** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Entrevistas: descubrir con rigor
 
-Antes de revisar fuentes secundarias, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Christensen y colaboradores proponen entrevistar a clientes sobre **el momento en que contrataron** (o dejaron) un producto: qué ocurría, qué alternativas consideraron, qué los hizo decidir, qué temían. Se pregunta por **comportamientos pasados y concretos**, no por opiniones generales ni intenciones futuras («¿lo comprarías?»), que son poco confiables. Se escucha más de lo que se habla, se evita sugerir respuestas, se registran citas textuales y se entrevista a 10 o 20 personas de segmentos distintos hasta que dejan de aparecer patrones nuevos. Las entrevistas generan hipótesis, no estadísticas.
 
-### 3. quantitative research: operacionalización y medición
+### 5. Encuestas y muestras
 
-**quantitative research** significa **medición estructurada para estimar prevalencia o relaciones**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Una encuesta es útil para medir cuán extendido está algo. Su calidad depende de la **muestra** y del **cuestionario**. En la muestra: ¿se encuestó a la población que interesa (clientes actuales, perdidos, potenciales)?, ¿cómo se seleccionó (aleatoria, por cuotas, por conveniencia)?, ¿cuántos respondieron y quiénes no? En el cuestionario: preguntas **claras, neutras, de una sola idea**, con opciones completas, sin términos técnicos ni sugerencias. Los sesgos más frecuentes son: de **selección** (responden los más motivados), de **formulación** (la pregunta induce), de **deseabilidad social** (se responde lo que parece correcto) y de **orden** de las preguntas.
 
-Al Ries & Jack Trout — *Positioning* orienta este bloque mediante **perspectiva de Marketing aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **confidence intervals**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Experimentos y comportamiento
 
-Al llegar a explorar cualitativamente, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cuando se puede, es mejor observar **lo que la gente hace** que lo que dice. Kohavi, Tang y Xu describen los experimentos controlados en línea (pruebas A/B): se asigna aleatoriamente a los usuarios a una versión u otra y se compara una **métrica definida de antemano**. Su valor está en establecer **causalidad**. Requieren: muestras suficientes, tiempo de ejecución adecuado, una métrica principal clara, controles de calidad y cuidado con los **falsos positivos** (conclusiones que parecen significativas y no lo son). En ámbitos sin experimentos digitales, se pueden hacer pruebas piloto o mercados de prueba con grupos de comparación.
 
-### 4. sample: trade-offs y efectos de segundo orden
+### 7. Del hallazgo a la decisión
 
-**Definición:** muestra seleccionada de una población. Este concepto obliga a abandonar la idea de que **investigación de mercado** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de diseñar medición cuantitativa si procede, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Aaron Ross & Jason Lemkin — *From Impossible to Inevitable* aporta una lente sobre **perspectiva de SaaS / Ventas aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **themes saturated** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **investigación de mercado**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **sample** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. bias: gobernanza, límites e integración
-
-**bias** se define como **distorsión sistemática introducida por pregunta, muestra o análisis** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-April Dunford — *Obviously Awesome* se utiliza para estudiar **posicionamiento desde alternativas competitivas, atributos, valor y segmento** y contrastar la recomendación final. Al ejecutar triangular y declarar límites, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Investigar puede retrasar acción si se busca certeza total. Usa el método mínimo que cambie una decisión y reconoce cuando un experimento de mercado ofrece mejor evidencia.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **secondary research**, **qualitative research**, **quantitative research**, **sample** y **bias** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **investigación de mercado** no consiste en sumar cinco definiciones. Empieza por **secondary research**, contrasta **qualitative research** con **quantitative research**, incorpora **sample** como restricción o mecanismo y usa **bias** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. formular decisión de investigación → 2. revisar fuentes secundarias → 3. explorar cualitativamente → 4. diseñar medición cuantitativa si procede → 5. triangular y declarar límites**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El informe debe comenzar con la **recomendación** y la **evidencia** que la sostiene, indicar **cuánta confianza** merece (tamaño de muestra, limitaciones, hallazgos contradictorios) y proponer **acciones** con responsable y fecha. Se distinguen **hechos** (observados), **interpretaciones** (explicaciones probables) y **hipótesis** (por probar). Se evita el error de generalizar una entrevista a una población, o una encuesta de conveniencia a un mercado. Y se planifica **cuándo volver a medir**: los mercados cambian. Con datos de personas, se cumple la normativa de protección de datos y se obtiene consentimiento informado.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Philip Kotler & Kevin Lane Keller — *Marketing Management* | segmentación, targeting, posicionamiento, propuesta de valor y marketing mix | ¿Qué supuesto de **investigación de mercado** ayuda a desafiar? |
-| Byron Sharp — *How Brands Grow* | disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas | ¿Qué supuesto de **investigación de mercado** ayuda a desafiar? |
-| Al Ries & Jack Trout — *Positioning* | perspectiva de Marketing aplicada al problema de la clase | ¿Qué supuesto de **investigación de mercado** ayuda a desafiar? |
-| Aaron Ross & Jason Lemkin — *From Impossible to Inevitable* | perspectiva de SaaS / Ventas aplicada al problema de la clase | ¿Qué supuesto de **investigación de mercado** ayuda a desafiar? |
-| April Dunford — *Obviously Awesome* | posicionamiento desde alternativas competitivas, atributos, valor y segmento | ¿Qué supuesto de **investigación de mercado** ayuda a desafiar? |
-
-En **investigación de mercado**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **secondary research**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Kotler y Keller | Proceso completo de investigación de marketing. | Marco general; poca profundidad metodológica. | ¿Qué decisión informa tu estudio? |
+| Christensen et al. | Entrevistas centradas en el momento de decisión y el trabajo por hacer. | Método cualitativo; no cuantifica. | ¿Qué hizo el cliente, no qué opina? |
+| Kohavi, Tang y Xu | Experimentos controlados y sus trampas. | Centrado en productos digitales. | ¿Puedes probarlo con un grupo de control? |
+| Osterwalder et al. (*Testing Business Ideas*) | Experimentos para validar hipótesis de negocio. | Etapa de validación inicial. | ¿Cuál es la prueba más barata de tu hipótesis? |
+| Sharp | Evidencia empírica sobre cómo crecen las marcas. | No es un manual de investigación. | ¿Qué datos reales contradicen tu creencia? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una startup encuesta a 500 seguidores de su propia cuenta y concluye que 80% del mercado quiere el producto. La muestra está altamente autoseleccionada.
+**Situación (hipotética).** Un servicio de entrega semanal de alimentos por suscripción tiene un abandono mensual de 9 %. La gerencia debe decidir entre tres acciones: bajar precios, flexibilizar la frecuencia de entregas o mejorar el empaque. Cada una cuesta USD 150.000 en el año.
 
-**Paso 1 — formular decisión de investigación.** La gerencia escribe primero el supuesto asociado a **secondary research** y evita convertirlo en hecho. Luego busca **sample coverage** para contrastarlo en el caso de **investigación de mercado**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisión y hipótesis.** Decisión: en qué invertir primero. Hipótesis: (H1) abandonan por precio; (H2) por falta de flexibilidad en fechas y frecuencia; (H3) por problemas de calidad o empaque.
 
-**Paso 2 — revisar fuentes secundarias.** La gerencia escribe primero el supuesto asociado a **qualitative research** y evita convertirlo en hecho. Luego busca **response bias** para contrastarlo en el caso de **investigación de mercado**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos secundarios.** Los datos internos muestran que el 62 % de las bajas ocurre en los primeros tres meses; el 28 % de los tickets de soporte son sobre cambio de fecha; los productos dañados representan el 3 % de las entregas.
 
-**Paso 3 — explorar cualitativamente.** La gerencia escribe primero el supuesto asociado a **quantitative research** y evita convertirlo en hecho. Luego busca **confidence intervals** para contrastarlo en el caso de **investigación de mercado**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Entrevistas.** 14 entrevistas a clientes que se dieron de baja en los últimos 60 días, centradas en la última semana antes de cancelar. Hallazgos: 9 de 14 mencionan que «no estaba cuando llegó la caja» o que «se me acumuló comida»; 3 mencionan precio; 2, calidad. Las citas muestran que el problema es la rigidez de las entregas.
 
-**Paso 4 — diseñar medición cuantitativa si procede.** La gerencia escribe primero el supuesto asociado a **sample** y evita convertirlo en hecho. Luego busca **themes saturated** para contrastarlo en el caso de **investigación de mercado**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Encuesta.** Se envía a 1.600 exclientes (tasa de respuesta 22 %, 352 respuestas) y 800 clientes activos. Resultado: entre quienes cancelaron, el 48 % señala «no me calzaba la frecuencia o la fecha», 21 % precio, 12 % calidad, 19 % otras razones. Limitación: la tasa de respuesta es baja y los más enojados tienden a responder más.
 
-**Paso 5 — triangular y declarar límites.** La gerencia escribe primero el supuesto asociado a **bias** y evita convertirlo en hecho. Luego busca **decisions changed** para contrastarlo en el caso de **investigación de mercado**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Experimento.** A un grupo aleatorio de 4.000 clientes nuevos se les ofrece «saltar una semana sin costo» en el segundo mes; el grupo de control (4.000) no la tiene. Tras tres meses, el abandono es 5,6 % mensual en el grupo con la opción y 8,9 % en el control. Con las muestras, la diferencia es estadísticamente distinguible del azar.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **investigación de mercado**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Decisión.** Invertir primero en flexibilidad (H2); hacer un piloto de precio para un segmento sensible en el siguiente trimestre; monitorear la calidad del empaque. Se volverá a medir en 90 días. La campaña informa a los clientes sobre el tratamiento de sus datos y el uso de la encuesta.
+
+**Qué muestra.** (1) La decisión ordenó el diseño. (2) Entrevistas, encuesta y experimento se complementaron. (3) Se declararon las limitaciones.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **secondary research** | datos ya existentes de fuentes públicas o privadas | Cuando sample coverage es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **qualitative research** | entrevistas u observación para explorar significados y mecanismos | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Investigación frente a intuición.** La intuición del equipo es una fuente de hipótesis, no de evidencia. La investigación busca contrastarla; no la reemplaza cuando la decisión es pequeña o reversible.
 
-**Frontera de aplicación:** Investigar puede retrasar acción si se busca certeza total. Usa el método mínimo que cambie una decisión y reconoce cuando un experimento de mercado ofrece mejor evidencia.
+**Límites.** Las encuestas con muestras de conveniencia no se generalizan. Las entrevistas con pocos casos no permiten estimar frecuencias. Los experimentos requieren volumen y pueden medir efectos de corto plazo que no se sostienen. Lo que la gente dice de sus intenciones predice mal sus conductas. La investigación con datos personales o con menores exige cumplir normas de protección de datos, consentimiento y, en algunos casos, evaluación ética. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre investigación de mercado |
+| Nivel | Cómo participa en la investigación |
 |---|---|
-| **Profesional** | usa **investigación de mercado** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **secondary research** y **qualitative research** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta sample coverage con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si investigación de mercado cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de investigación de mercado reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **investigación de mercado** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Recoge datos con rigor y registra citas y limitaciones. |
+| **Jefe / Team Lead** | Diseña estudios acotados desde una decisión y los analiza. |
+| **Gerente** | Prioriza qué se investiga y asegura que los hallazgos cambien decisiones. |
+| **CEO / Director** | Exige evidencia proporcional a la decisión y protege la mirada contraria. |
+| **Founder / Owner** | Conversa con clientes semanalmente y prueba antes de construir. |
 
 ## 🏢 Caso ejecutivo
 
-Una startup encuesta a 500 seguidores de su propia cuenta y concluye que 80% del mercado quiere el producto. La muestra está altamente autoseleccionada.
+Una cadena de farmacias quiere lanzar un programa de suscripción de medicamentos crónicos con entrega a domicilio. La gerencia de marketing encargó una encuesta en línea a 2.000 personas de su base de clientes: el 71 % dijo que «probablemente» o «seguramente» usaría el servicio. Con ese dato, el gerente comercial propone invertir USD 3 millones. El área de operaciones nota que la encuesta no distinguió entre pacientes crónicos y otros, que las respuestas se recogieron por correo con incentivo de cupón, que la entrega de medicamentos tiene regulación específica y que los pacientes mayores usan poco el canal digital. El área legal advierte que se trata de datos de salud.
 
-Entrega un **decision brief de investigación de mercado** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diseño de investigación** que contenga: (a) la decisión y sus opciones, con el resultado que inclinaría a cada una; (b) las hipótesis y los datos secundarios disponibles; (c) el plan de entrevistas, encuesta y prueba piloto, con muestra y sesgos a controlar; (d) la crítica de la encuesta original y qué conclusiones sí admite; (e) los criterios de decisión y el plan de acción; (f) los cuidados de datos de salud, consentimiento y normativa farmacéutica que se verificarán con fuentes oficiales y asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **investigación de mercado** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. formular decisión de investigación → 2. revisar fuentes secundarias → 3. explorar cualitativamente → 4. diseñar medición cuantitativa si procede → 5. triangular y declarar límites** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta sample coverage, response bias; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Redacta una decisión pendiente y tres hipótesis para una investigación de tu área.
+2. Elige el método más barato que refute tu hipótesis principal y justifícalo.
+3. Escribe diez preguntas de entrevista sobre comportamientos pasados.
+4. Revisa un cuestionario real y marca tres preguntas que inducen respuestas.
+5. Define cómo comunicarás la confianza que merece un hallazgo.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar secondary research y qualitative research como sinónimos | Se pierde la distinción entre “datos ya existentes de fuentes públicas o privadas” y “entrevistas u observación para explorar significados y mecanismos” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “triangular y declarar límites” | Se saltó “formular decisión de investigación” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. formular decisión de investigación → 2. revisar fuentes secundarias → 3. explorar cualitativamente → 4. diseñar medición cuantitativa si procede → 5. triangular y declarar límites y marca el primer supuesto no demostrado. |
-| Optimizar solo sample coverage | La métrica local sustituyó al resultado del sistema | Contrástala con response bias y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre investigación de mercado | Investigar puede retrasar acción si se busca certeza total. Usa el método mínimo que cambie una decisión y reconoce cuando un experimento de mercado ofrece mejor evidencia. |
-| No fijar revisión | Una decisión sobre investigación de mercado se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Investigar sin decisión | Se quiere «conocer» | Partir de la decisión y la acción. |
+| Preguntar intenciones | Es fácil de preguntar | Observar comportamiento y preguntar por hechos. |
+| Muestra de conveniencia | Es la más fácil | Definir la población y cómo se selecciona. |
+| Preguntas que inducen | No se revisa el cuestionario | Preguntas neutras y probadas. |
+| Generalizar pocos casos | Se busca una conclusión | Declarar límites y volver a medir. |
+| Ignorar la normativa de datos | Se piensa en resultados | Consentimiento y protección de datos. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **secondary research** y **qualitative research** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **quantitative research** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **formular decisión de investigación → revisar fuentes secundarias** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **sample coverage** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **investigación de mercado**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Investigar puede retrasar acción si se busca certeza total. Usa el método mínimo que cambie una decisión y reconoce cuando un experimento de mercado ofrece mejor evidencia.**?
+1. ¿Por qué se parte de la decisión y no del método?
+2. ¿Qué diferencia hay entre datos secundarios y primarios?
+3. ¿Qué aportan las entrevistas, las encuestas y los experimentos?
+4. ¿Qué sesgos afectan a las encuestas?
+5. ¿Por qué se pregunta por comportamientos pasados y no por intenciones?
+6. ¿Qué requisitos tiene un experimento controlado?
+7. ¿Cómo debe presentarse un hallazgo?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Porque la investigación solo vale si cambia una decisión; sin decisión produce informes que nadie usa.
+2. Los secundarios ya existen (internos, sectoriales, públicos); los primarios se recogen para el estudio.
+3. Las entrevistas descubren razones y contextos; las encuestas cuantifican la frecuencia; los experimentos establecen causalidad.
+4. Selección, formulación, deseabilidad social y orden de las preguntas, entre otros.
+5. Porque las intenciones declaradas predicen mal el comportamiento real.
+6. Asignación aleatoria, muestra suficiente, métrica principal definida de antemano, duración adecuada y control de falsos positivos.
+7. Con la recomendación y la evidencia, la confianza que merece, las limitaciones y las acciones con responsable y fecha.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/134-investigacion-de-mercado/`:
 
-- `leadership-decision-brief.md` con el problema específico de **investigación de mercado**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **investigación de mercado** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **secondary research**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una startup encuesta a 500 seguidores de su propia cuenta y concluye que 80% del mercado quiere el producto. La muestra está altamente autoseleccionada.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el diseño de investigación del caso ejecutivo;
+- `venture-validation.md` (plantilla [Venture validation](../../../../templates/venture-validation.md)) con las hipótesis, los métodos y los criterios de decisión;
+- `decision-journal.md` con la crítica de la encuesta, las limitaciones y la fecha de nueva medición.
 
 ## 📗 Fuentes y verificación
 
-- Philip Kotler & Kevin Lane Keller — *Marketing Management* (Pearson Education, 2016). **Uso en esta clase:** segmentación, targeting, posicionamiento, propuesta de valor y marketing mix. Lectura selectiva sobre **investigación de mercado**. **Localizador:** [ISBN-13 9781292092621](https://openlibrary.org/isbn/9781292092621).
-- Byron Sharp — *How Brands Grow* (BookBaby, 2010). **Uso en esta clase:** disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas. Lectura selectiva sobre **investigación de mercado**. **Localizador:** [ISBN-13 9781483534701](https://openlibrary.org/isbn/9781483534701).
-- Al Ries & Jack Trout — *Positioning* (American Media International, 2004). **Uso en esta clase:** perspectiva de Marketing aplicada al problema de la clase. Lectura selectiva sobre **investigación de mercado**. **Localizador:** [ISBN-13 9781932378252](https://openlibrary.org/isbn/9781932378252).
-- Aaron Ross & Jason Lemkin — *From Impossible to Inevitable* (John Wiley & Sons, Incorporated, 2016). **Uso en esta clase:** perspectiva de SaaS / Ventas aplicada al problema de la clase. Lectura selectiva sobre **investigación de mercado**. **Localizador:** [ISBN-13 9781119166726](https://openlibrary.org/isbn/9781119166726).
-- April Dunford — *Obviously Awesome* (Ambient Press, 2019). **Uso en esta clase:** posicionamiento desde alternativas competitivas, atributos, valor y segmento. Lectura selectiva sobre **investigación de mercado**. **Localizador:** [ISBN-13 9781999023003](https://openlibrary.org/isbn/9781999023003).
-- Geoffrey A. Moore — *Crossing the Chasm* (HarperBusiness, 1995). **Uso en esta clase:** adopción tecnológica y transición entre segmentos de mercado. Lectura selectiva sobre **investigación de mercado**. **Localizador:** [ISBN-13 9780887307171](https://openlibrary.org/isbn/9780887307171).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **investigación de mercado** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **investigación de mercado**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **investigación de mercado** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **investigación de mercado** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **investigación de mercado** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Philip Kotler & Kevin Lane Keller — *Marketing Management* (Pearson Education, 2016). **Uso en esta clase:** proceso completo de investigación de marketing. Lectura selectiva sobre **investigación de mercado**. **Localizador:** [ISBN-13 9781292092621](https://openlibrary.org/isbn/9781292092621).
+- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** entrevistas centradas en el momento de decisión. Lectura selectiva sobre **investigación de mercado**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
+- Ron Kohavi, Diane Tang & Ya Xu — *Trustworthy Online Controlled Experiments* (Cambridge University Press, 2020). **Uso en esta clase:** experimentos controlados y sus trampas. Lectura selectiva sobre **investigación de mercado**. **Localizador:** [ISBN-13 9781108724265](https://openlibrary.org/isbn/9781108724265).
+- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** experimentos para validar hipótesis de negocio. Lectura selectiva sobre **investigación de mercado**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
+- Byron Sharp — *How Brands Grow* (BookBaby, 2010). **Uso en esta clase:** evidencia empírica sobre cómo crecen las marcas. Lectura selectiva sobre **investigación de mercado**. **Localizador:** [ISBN-13 9781483534701](https://openlibrary.org/isbn/9781483534701).
 
-> **Regla de fuentes para Investigación de mercado:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **investigación de mercado** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Investigación de mercado:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las de protección de datos de salud, consentimiento y regulación sectorial. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

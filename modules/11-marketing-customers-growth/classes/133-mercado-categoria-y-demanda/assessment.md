@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **market** de **category** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **demand** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **substitute** con **category creation**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Por qué se define el mercado por el problema del cliente?
+2. ¿Qué diferencia hay entre mercado total, alcanzable y obtenible?
+3. ¿Cómo se estima un mercado de forma ascendente?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una empresa se define como 'plataforma de inteligencia operacional aumentada'. Los clientes, sin embargo, buscan 'software de planificación de turnos' y comparan contra planillas.
+**Caso:** Una empresa chilena de bicicletas eléctricas urbanas vende 4.000 unidades al año y quiere triplicar su facturación en tres años. Su informe de planificación afirma que «el mercado de movilidad urbana en América Latina es de USD 50.000 millones» y que con el 0,5 % bastaría. El gerente comercial sostiene que el crecimiento vendrá de ciudades intermedias; el de producto, de modelos de carga para reparto; el de finanzas, de ampliar a Perú y Colombia. Hay nuevos entrantes asiáticos con precios 25 % menores, un incentivo estatal que podría terminar, restricciones de importación incipientes y demanda estacional con picos en primavera.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir job y compradores → mapear alternativas y sustitutos → estimar demanda accesible → decidir categoría existente versus nueva → probar lenguaje con clientes**. Debes utilizar o diseñar cómo obtener **search demand, category awareness, win/loss alternative**. Audita `afirmación / evidencia / supuesto / refutación`, TAM versus venta posible, competidores y sustitutos, vigencia y benchmarks. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **diagnóstico de mercado y demanda** que contenga: (a) la definición del mercado desde el problema del cliente y los competidores reales; (b) la estimación ascendente de mercado alcanzable y obtenible para al menos dos segmentos, con rangos; (c) el estado de la demanda y sus determinantes, incluida la dependencia del incentivo; (d) el análisis de las cinco fuerzas; (e) una alternativa de espacio nuevo con las cuatro acciones y su validación; (f) la recomendación sobre dónde jugar, y las verificaciones regulatorias, arancelarias y de incentivos que se harán con fuentes oficiales. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Crear una categoría por branding no crea demanda. Si el problema no es urgente o el lenguaje no conecta con cómo compra el mercado, la novedad aumenta fricción.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las estimaciones de mercado son inciertas y sensibles a la definición; los datos de industria usan categorías distintas.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

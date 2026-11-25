@@ -10,217 +10,193 @@
 
 ## 🎯 Propósito
 
-Retención, lealtad y customer success sostienen valor después de adquisición. Retención observa continuidad; lealtad puede incluir preferencia; customer success diseña adopción y outcomes para reducir churn evitable. El mejor programa de retención no compensa producto sin valor.
+Conseguir un cliente cuesta mucho; que se quede y compre más es lo que hace rentable al negocio. Sin embargo, muchas empresas invierten en adquisición el triple que en retención, miden la satisfacción con encuestas que no se conectan con el comportamiento, y descubren que un cliente se fue cuando no renueva. La retención no es un departamento ni una campaña: es el resultado de que el cliente **obtenga el valor que esperaba** y lo perciba, de que la relación tenga varios puntos de apoyo y de que la empresa detecte a tiempo las señales de problema. Y hay una diferencia sutil: un cliente puede quedarse porque está **satisfecho** o porque **no puede irse**; lo segundo no es lealtad, y es una deuda que se paga más tarde.
 
-La salida de esta parte es **entender mercado, posicionamiento, canales, conversión, retención y crecimiento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **retención, lealtad y customer success** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis del valor de los clientes de Gupta y Zeithaml, en la teoría de expansión de Moore, en el tratamiento de la retención en el crecimiento de Ellis y Brown y en la gestión de cuentas de la clase 131. Al terminar sabrás medir retención, distinguir lealtad ganada de cautividad, diseñar una función de éxito del cliente, detectar señales de riesgo y evaluar el valor económico de retener.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `retention`, `churn`, `NRR`, `customer success`, `time-to-value` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir activation y value milestones → 2. segmentar cohortes y churn → 3. identificar riesgos tempranos → 4. intervenir adopción y outcomes → 5. aprender razones de cancelación** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** logo retention, NRR, time-to-value sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Medir** retención de clientes y de ingresos por cohortes.
+2. **Distinguir** lealtad ganada de cautividad acumulada.
+3. **Diseñar** el modelo de éxito del cliente: onboarding, adopción, valor y renovación.
+4. **Detectar** señales tempranas de riesgo y definir respuestas.
+5. **Calcular** el valor económico de mejorar la retención.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define retention y churn sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con logo retention y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué clientes tuyos permanecen por costumbre o por costo de cambio y cuáles por valor? |
+| 20–60 min | Medición, tipos de lealtad, éxito del cliente y economía de la retención. |
+| 60–105 min | Ejemplo trabajado: valor de mejorar la retención en una empresa de suscripción. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **retention** | proporción de clientes o revenue que permanece | Distingue un hecho compatible y otro que lo refute. |
-| **churn** | pérdida de clientes o revenue | Distingue un hecho compatible y otro que lo refute. |
-| **NRR** | retención de revenue incluyendo expansión y contracción | Distingue un hecho compatible y otro que lo refute. |
-| **customer success** | función/práctica que ayuda al cliente a alcanzar outcomes | Distingue un hecho compatible y otro que lo refute. |
-| **time-to-value** | tiempo hasta obtener primer valor significativo | Distingue un hecho compatible y otro que lo refute. |
+| **Retención de clientes** | Proporción de clientes que permanece en un período. | Se mide por cohorte. |
+| **Retención neta de ingresos** | Ingresos del grupo actual frente a los de hace un año, con aumentos y bajas. | Sobre 100 % indica expansión neta. |
+| **Lealtad** | Disposición a seguir y a recomendar por el valor recibido. | Se ve en comportamiento y recomendación. |
+| **Cautividad** | Permanencia por costos de salida o falta de alternativas. | El cliente critica pero no se va. |
+| **Customer success** | Función que ayuda a los clientes a lograr sus resultados con el producto. | Onboarding, adopción, revisiones de valor. |
+| **Costo de cambio** | Esfuerzo, dinero o riesgo de pasar a otra alternativa. | Integraciones, contratos, datos atrapados. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 142: 1. definir activation y value milestones → 2. segmentar cohortes y churn → 3. identificar riesgos tempranos → 4. intervenir adopción y outcomes → 5. aprender razones de cancelación](modelo-mental.svg)
+![Lealtad ganada frente a cautividad acumulada: resultado percibido, recomendación y perdurabilidad frente a costo de salida, resentimiento y fuga ante la primera oportunidad.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir activation y value milestones → 2. segmentar cohortes y churn → 3. identificar riesgos tempranos → 4. intervenir adopción y outcomes → 5. aprender razones de cancelación
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Retención, lealtad y customer success sostienen valor después de adquisición. Retención observa continuidad; lealtad puede incluir preferencia; customer success diseña adopción y outcomes para reducir churn evitable. El mejor programa de retención no compensa producto sin valor.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Descuentos o contratos largos pueden retrasar churn sin crear lealtad. Mide uso, outcome y disposición a renovar, no solo obligación contractual.**
+**Cómo leer el diagrama.** Dos paneles. A la izquierda, la **lealtad ganada**: el cliente percibe resultados, recomienda sin que se lo pidan y resiste ofertas de la competencia. A la derecha, la **cautividad acumulada**: el cliente permanece por costos de salida, sigue resentido y se va a la primera oportunidad (cuando cambia una regla o aparece una alternativa). La nota recuerda que la retención sana se mide por uso y resultados, no solo por renovaciones, y que la satisfacción declarada sin comportamiento asociado es una señal débil.
 
 ## 📖 Desarrollo
 
-### 1. retention: mecanismo central
+### 1. Por qué la retención
 
-**retention** se entiende aquí como **proporción de clientes o revenue que permanece**. Esta es la pieza causal o estructural desde la que se inicia **retención, lealtad y customer success**: antes de definir activation y value milestones, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Gupta y Zeithaml revisan cómo las métricas de clientes (adquisición, retención, valor, satisfacción) se relacionan con los resultados financieros: mejoras de retención aumentan el valor del cliente de forma **compuesta**, porque cada cliente que permanece sigue generando margen y suele aumentar su gasto, mientras que su costo de adquisición ya se pagó. El efecto se amplifica cuando se combina con expansión. Por eso, un punto de mejora en retención puede valer más que el mismo esfuerzo en adquisición. Pero la retención se gana con valor y no con obstáculos para irse.
 
-La lectura rectora de este bloque es Philip Kotler & Kevin Lane Keller — *Marketing Management*. Su aporte se usa para examinar **segmentación, targeting, posicionamiento, propuesta de valor y marketing mix**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **logo retention**; regístrala con periodo, unidad, población y baseline.
+### 2. Medir bien la retención
 
-Relaciona el mecanismo con **churn**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se mide **por cohortes** (los clientes que empezaron en un mismo período) para ver cómo se comporta la retención en el tiempo y si mejora entre cohortes. Se distingue la **retención de clientes** (cuántos permanecen) de la **retención de ingresos** (cuánto dinero permanece, incluidas bajas, reducciones y expansiones). Se segmenta por canal, por perfil, por plan y por tamaño, porque el promedio oculta diferencias que explican dónde actuar. Se atiende a las **bajas voluntarias** (decisión del cliente) y a las **involuntarias** (fallas de pago): estas últimas suelen ser un tercio de las bajas en servicios por suscripción y se pueden reducir con acciones operativas.
 
-### 2. churn: frontera conceptual y error de clasificación
+### 3. Lealtad ganada y cautividad
 
-**Definición operacional:** pérdida de clientes o revenue. Su valor está en distinguirlo de **retention** y **NRR**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+No toda permanencia es lealtad. La lealtad ganada se apoya en **resultados** (el cliente logra lo que buscaba), **experiencia** (el producto y el servicio son buenos), **confianza** y **relación**. La cautividad proviene de **costos de cambio** (integraciones, datos, contratos largos, aprendizaje), de **falta de alternativas** o de inercia. Moore advierte que las empresas pueden construir ventajas de cambio que se vuelven una trampa: los clientes se quedan, hablan mal y se van cuando aparece una opción. La cautividad no es necesariamente ilegítima (el valor del ecosistema es real), pero conviene no confundir una renovación con satisfacción. Se miden también **recomendación**, **uso** y **resultados logrados**.
 
-Contrasta el problema con Byron Sharp — *How Brands Grow*, que aporta una mirada sobre **disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas**. Formula dos mini-casos: uno que sí satisface la definición de **churn** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **NRR** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Customer success: onboarding y adopción
 
-Antes de segmentar cohortes y churn, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La función de éxito del cliente asegura que cada cliente alcance sus resultados. Sus palancas: **onboarding** (los primeros días y semanas son los que más pesan en la retención; se define el **tiempo hasta el primer valor**), **adopción** (profundidad y amplitud de uso, usuarios activos frente a contratados), **revisiones de valor** (clase 131), **educación** (capacitación, comunidad, recursos) y **gestión de riesgos**. Ellis y Brown destacan la importancia de la activación temprana: los usuarios que alcanzan un hito de valor en los primeros días retienen mucho más. Se segmenta el nivel de servicio: contacto personalizado para cuentas grandes, programas escalables y automatización para el resto.
 
-### 3. NRR: operacionalización y medición
+### 5. Señales de riesgo y respuestas
 
-**NRR** significa **retención de revenue incluyendo expansión y contracción**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Se definen **señales** de que un cliente está en riesgo: caída de uso, ausencia de usuarios clave, aumento de reclamos, retraso en pagos, cambios de patrocinador, ausencia de respuesta a contactos, menciones de competidores. Se calcula un **indicador de salud** y se **valida** con datos de bajas pasadas (clase 101). Cada señal activa una **respuesta** definida: un contacto proactivo, una revisión del plan de adopción, una intervención de un directivo, un ajuste de plan. Los **cancelantes** se entrevistan: las razones de baja son una fuente primaria para mejorar producto y proceso (clase 134).
 
-Geoffrey A. Moore — *Crossing the Chasm* orienta este bloque mediante **adopción tecnológica y transición entre segmentos de mercado**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **time-to-value**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Valor económico de retener
 
-Al llegar a identificar riesgos tempranos, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Se calcula el efecto de mejorar la retención: si una empresa tiene 10.000 clientes con un ingreso medio de USD 600 al año, margen de 70 % y churn anual de 20 %, reducirlo a 17 % conserva 300 clientes por año, que valen USD 126.000 de margen anual cada año adicional que permanezcan, más su expansión. El valor del cliente aumenta porque la duración esperada pasa de 5 a casi 5,9 años. Se compara el costo de las acciones (equipo de éxito, programas, mejoras de producto) con ese valor. Y se vigila que las acciones de retención no se conviertan en descuentos que erosionen margen sin mejorar el valor percibido.
 
-### 4. customer success: trade-offs y efectos de segundo orden
+### 7. Retener sin obstaculizar
 
-**Definición:** función/práctica que ayuda al cliente a alcanzar outcomes. Este concepto obliga a abandonar la idea de que **retención, lealtad y customer success** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de intervenir adopción y outcomes, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-David Aaker — *Building Strong Brands* aporta una lente sobre **perspectiva de Marca aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **adoption** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **retención, lealtad y customer success**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **customer success** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. time-to-value: gobernanza, límites e integración
-
-**time-to-value** se define como **tiempo hasta obtener primer valor significativo** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Aaron Ross & Jason Lemkin — *From Impossible to Inevitable* se utiliza para estudiar **perspectiva de SaaS / Ventas aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar aprender razones de cancelación, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Descuentos o contratos largos pueden retrasar churn sin crear lealtad. Mide uso, outcome y disposición a renovar, no solo obligación contractual.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **retention**, **churn**, **NRR**, **customer success** y **time-to-value** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **retención, lealtad y customer success** no consiste en sumar cinco definiciones. Empieza por **retention**, contrasta **churn** con **NRR**, incorpora **customer success** como restricción o mecanismo y usa **time-to-value** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir activation y value milestones → 2. segmentar cohortes y churn → 3. identificar riesgos tempranos → 4. intervenir adopción y outcomes → 5. aprender razones de cancelación**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Las prácticas que dificultan irse (cancelaciones solo por teléfono, renovaciones automáticas sin aviso, retención de datos, penalizaciones desproporcionadas) pueden elevar las cifras de corto plazo, pero dañan la confianza y pueden violar normas de **protección al consumidor** y de **portabilidad de datos**. La retención sostenible ofrece **opciones** (pausa, plan menor, cambio de ciclo) que respetan al cliente. Un buen test: ¿el cliente que se va hablará bien de la empresa y podría volver? Las condiciones de renovación, cancelación y datos deben revisarse con asesoría legal y alinearse con las normas vigentes.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Philip Kotler & Kevin Lane Keller — *Marketing Management* | segmentación, targeting, posicionamiento, propuesta de valor y marketing mix | ¿Qué supuesto de **retención, lealtad y customer success** ayuda a desafiar? |
-| Byron Sharp — *How Brands Grow* | disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas | ¿Qué supuesto de **retención, lealtad y customer success** ayuda a desafiar? |
-| Geoffrey A. Moore — *Crossing the Chasm* | adopción tecnológica y transición entre segmentos de mercado | ¿Qué supuesto de **retención, lealtad y customer success** ayuda a desafiar? |
-| David Aaker — *Building Strong Brands* | perspectiva de Marca aplicada al problema de la clase | ¿Qué supuesto de **retención, lealtad y customer success** ayuda a desafiar? |
-| Aaron Ross & Jason Lemkin — *From Impossible to Inevitable* | perspectiva de SaaS / Ventas aplicada al problema de la clase | ¿Qué supuesto de **retención, lealtad y customer success** ayuda a desafiar? |
-
-En **retención, lealtad y customer success**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **retention**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Gupta y Zeithaml (2006) | Relación entre métricas de clientes y valor financiero. | Revisión de métricas, no guía operativa. | ¿Cuánto vale un punto de retención? |
+| Moore | Expansión desde un segmento y riesgo de cautividad. | Contexto tecnológico. | ¿Te quedan por valor o por costo de cambio? |
+| Ellis y Brown | Activación, retención y experimentación. | Enfoque en productos digitales. | ¿Cuál es tu hito de valor temprano? |
+| Dixon y Adamson | Enseñar y relacionarse con varios niveles del cliente. | Orientado a ventas complejas. | ¿Quién enseña algo nuevo al cliente cada trimestre? |
+| Gupta, Lehmann y Stuart (2004) | Valor de los clientes como activos. | Modelos con supuestos. | ¿Qué duración y qué margen supones? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un SaaS tiene 95% gross retention anual, pero NRR 82% porque clientes restantes reducen uso y planes. Mirar solo logos oculta contracción económica.
+**Situación (hipotética).** Una empresa de software de gestión de reservas para restaurantes tiene 8.000 clientes con ingresos de USD 100 al mes por cliente, margen de contribución de 75 % y una baja anual de 24 %. Su equipo de éxito del cliente tiene seis personas. Quiere decidir si invertir USD 360.000 al año en un programa de adopción.
 
-**Paso 1 — definir activation y value milestones.** La gerencia escribe primero el supuesto asociado a **retention** y evita convertirlo en hecho. Luego busca **logo retention** para contrastarlo en el caso de **retención, lealtad y customer success**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diagnóstico.** Por cohortes: el 41 % de las bajas ocurre en los primeros 90 días; los clientes que configuran la integración de pagos y reservas en línea en los primeros 14 días tienen una baja anual de 11 %, frente a 36 % de los que no. Las bajas involuntarias por pagos fallidos representan 22 % del total.
 
-**Paso 2 — segmentar cohortes y churn.** La gerencia escribe primero el supuesto asociado a **churn** y evita convertirlo en hecho. Luego busca **NRR** para contrastarlo en el caso de **retención, lealtad y customer success**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Intervenciones.** (1) Programa de onboarding guiado con una llamada y una lista de pasos que lleve a la integración en 14 días; (2) mejora del cobro automático con reintentos y avisos (reduce bajas involuntarias); (3) alertas de uso bajo con contacto proactivo; (4) entrevistas de salida.
 
-**Paso 3 — identificar riesgos tempranos.** La gerencia escribe primero el supuesto asociado a **NRR** y evita convertirlo en hecho. Luego busca **time-to-value** para contrastarlo en el caso de **retención, lealtad y customer success**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Estimación de efecto.** Supone que el onboarding aumenta del 38 % al 60 % la proporción de nuevos clientes que integran en 14 días, lo que reduce la baja anual global de 24 % a 21 %; las acciones sobre pagos reducen 1,5 puntos adicionales: baja anual de 19,5 %.
 
-**Paso 4 — intervenir adopción y outcomes.** La gerencia escribe primero el supuesto asociado a **customer success** y evita convertirlo en hecho. Luego busca **adoption** para contrastarlo en el caso de **retención, lealtad y customer success**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Cálculo | Valor |
+|---|---|
+| Clientes que se evitan perder por año | 8.000 × (24 % − 19,5 %) = 360 |
+| Margen anual por cliente | 100 × 12 × 75 % = USD 900 |
+| Margen anual adicional el primer año | 360 × 900 = USD 324.000 |
+| Duración esperada antes (1/0,24) | 4,17 años |
+| Duración esperada después (1/0,195) | 5,13 años |
+| Aumento del valor por cliente | 900 × (5,13 − 4,17) ≈ USD 860 |
 
-**Paso 5 — aprender razones de cancelación.** La gerencia escribe primero el supuesto asociado a **time-to-value** y evita convertirlo en hecho. Luego busca **churn reason** para contrastarlo en el caso de **retención, lealtad y customer success**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** Con una inversión de USD 360.000 anuales, el margen retenido el primer año (USD 324.000) casi la cubre, y como los clientes retenidos siguen aportando margen años después, el retorno aumenta con el tiempo (los 360 clientes aportan USD 324.000 cada año adicional mientras permanezcan). Pero las estimaciones del efecto son hipótesis: se prueba el onboarding con un grupo de control durante tres meses antes de escalar.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **retención, lealtad y customer success**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Señal de alerta.** En el análisis de 30 cuentas grandes, 12 renuevan por contrato plurianual pero con uso bajo y puntuaciones bajas de recomendación: cautividad. Se les ofrece capacitación y una revisión de valor antes de la renovación.
+
+**Qué muestra.** (1) El análisis por cohortes mostró dónde actuar. (2) El valor económico guió la inversión. (3) Se distinguió la retención por valor de la retención por contrato.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **retention** | proporción de clientes o revenue que permanece | Cuando logo retention es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **churn** | pérdida de clientes o revenue | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Retención frente a satisfacción.** La satisfacción es una actitud declarada; la retención es un comportamiento. La satisfacción alta no garantiza retención (si hay opciones mejores) ni la baja la impide (si hay cautividad). Se miden ambas y se relacionan.
 
-**Frontera de aplicación:** Descuentos o contratos largos pueden retrasar churn sin crear lealtad. Mide uso, outcome y disposición a renovar, no solo obligación contractual.
+**Límites.** Las estimaciones de efecto de programas de retención son inciertas y se validan con grupos de control. La retención depende de factores fuera de control (cierres, fusiones, cambios de presupuesto). Algunas bajas son saludables (clientes que no encajan). Los incentivos a retener pueden empujar a prácticas dañinas. Las condiciones de renovación, cancelación y tratamiento de datos tienen normas de consumo y protección de datos que se verifican con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre retención, lealtad y customer success |
+| Nivel | Cómo participa en la retención |
 |---|---|
-| **Profesional** | usa **retención, lealtad y customer success** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **retention** y **churn** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta logo retention con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si retención, lealtad y customer success cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de retención, lealtad y customer success reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **retención, lealtad y customer success** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Ayuda al cliente a lograr su resultado y reporta señales de riesgo. |
+| **Jefe / Team Lead** | Gestiona el onboarding y la adopción de su cartera. |
+| **Gerente** | Define el modelo de éxito, los indicadores de salud y las respuestas. |
+| **CEO / Director** | Exige que la retención se gane con valor y la mide por cohortes. |
+| **Founder / Owner** | Habla con los clientes que se van y aprende de ellos. |
 
 ## 🏢 Caso ejecutivo
 
-Un SaaS tiene 95% gross retention anual, pero NRR 82% porque clientes restantes reducen uso y planes. Mirar solo logos oculta contracción económica.
+Una empresa de gimnasios en línea con 60.000 suscriptores a USD 20 mensuales tiene una baja mensual de 8 %. Su equipo de crecimiento propuso dificultar la cancelación (solo por chat, con tres pantallas de ofertas y una espera de 15 días), lo que redujo la baja mensual a 5,5 %, pero aumentó los reclamos ante la autoridad de consumo y las calificaciones en tiendas de aplicaciones bajaron de 4,6 a 3,9. Un análisis por cohortes muestra que quienes completan cinco clases en los primeros 21 días tienen una baja mensual de 3 %, y quienes no, de 12 %. Los suscriptores anuales se quedan por el descuento pero usan el servicio la mitad. El gerente de crecimiento quiere mantener las medidas; el de producto, rediseñar el onboarding.
 
-Entrega un **decision brief de retención, lealtad y customer success** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de retención y éxito del cliente** que contenga: (a) la medición por cohortes y segmentos con el efecto de las medidas de cancelación; (b) la distinción entre lealtad y cautividad en la base; (c) el diseño del onboarding y de la adopción con su hito de valor; (d) las señales de riesgo y las respuestas; (e) el cálculo del valor económico de reducir la baja, con costos del programa; (f) los cambios necesarios en la política de cancelación y las verificaciones legales de consumo y datos.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **retención, lealtad y customer success** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir activation y value milestones → 2. segmentar cohortes y churn → 3. identificar riesgos tempranos → 4. intervenir adopción y outcomes → 5. aprender razones de cancelación** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta logo retention, NRR; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Arma una tabla de retención por cohortes de los últimos seis meses.
+2. Identifica el hito de uso que mejor predice la retención en tu negocio.
+3. Define cinco señales de riesgo y la respuesta a cada una.
+4. Calcula el valor de mejorar un punto de retención en tu base.
+5. Revisa tu proceso de cancelación y lista lo que cambiarías para ser honesto con el cliente.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar retention y churn como sinónimos | Se pierde la distinción entre “proporción de clientes o revenue que permanece” y “pérdida de clientes o revenue” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “aprender razones de cancelación” | Se saltó “definir activation y value milestones” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir activation y value milestones → 2. segmentar cohortes y churn → 3. identificar riesgos tempranos → 4. intervenir adopción y outcomes → 5. aprender razones de cancelación y marca el primer supuesto no demostrado. |
-| Optimizar solo logo retention | La métrica local sustituyó al resultado del sistema | Contrástala con NRR y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre retención, lealtad y customer success | Descuentos o contratos largos pueden retrasar churn sin crear lealtad. Mide uso, outcome y disposición a renovar, no solo obligación contractual. |
-| No fijar revisión | Una decisión sobre retención, lealtad y customer success se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Retener con obstáculos | Mejora la cifra de corto plazo | Retener con valor y opciones. |
+| Medir solo satisfacción | Es lo que se pregunta | Medir comportamiento y recomendación. |
+| Promedios sin cohortes | Se simplifica | Retención por cohorte y segmento. |
+| Descuentos para retener | Es lo fácil | Reforzar el valor percibido. |
+| Ignorar bajas involuntarias | Parecen técnicas | Mejorar cobros y avisos. |
+| No entrevistar a los que se van | Se piensa que ya no importa | Entrevistas de salida. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **retention** y **churn** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **NRR** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir activation y value milestones → segmentar cohortes y churn** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **logo retention** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **retención, lealtad y customer success**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Descuentos o contratos largos pueden retrasar churn sin crear lealtad. Mide uso, outcome y disposición a renovar, no solo obligación contractual.**?
+1. ¿Qué diferencia hay entre retención de clientes y retención de ingresos?
+2. ¿Por qué se mide por cohortes?
+3. ¿Qué distingue la lealtad ganada de la cautividad?
+4. ¿Qué funciones cumple customer success?
+5. ¿Qué señales anticipan una baja?
+6. ¿Cómo se calcula el valor de mejorar la retención?
+7. ¿Qué riesgos tiene dificultar la cancelación?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La de clientes cuenta cuántos permanecen; la de ingresos mide cuánto dinero permanece, con bajas, reducciones y expansiones.
+2. Para ver cómo evoluciona la retención en el tiempo y si mejora entre grupos que empezaron en el mismo período.
+3. La lealtad se basa en resultados y confianza; la cautividad, en costos de salida o falta de alternativas, y se va a la primera oportunidad.
+4. Onboarding, adopción, revisiones de valor, educación y gestión de riesgos para que el cliente logre su resultado.
+5. Caída de uso, ausencia de usuarios clave, reclamos, retrasos de pago, cambio de patrocinador, falta de respuesta y menciones de competidores.
+6. Con los clientes que se evitan perder, su margen anual y la duración esperada, comparados con el costo del programa.
+7. Dañan confianza y reputación, aumentan reclamos y pueden infringir normas de protección al consumidor.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/142-retencion-lealtad-y-customer-success/`:
 
-- `commercial-decision-brief.md` con el problema específico de **retención, lealtad y customer success**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **retención, lealtad y customer success** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **retention**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un SaaS tiene 95% gross retention anual, pero NRR 82% porque clientes restantes reducen uso y planes. Mirar solo logos oculta contracción económica.** y el dato que podría invalidar la recomendación.
+- `commercial-decision-brief.md` (plantilla [Commercial decision brief](../../../../templates/commercial-decision-brief.md)) con el plan del caso ejecutivo;
+- `kpi-tree.md` (plantilla [KPI tree](../../../../templates/kpi-tree.md)) con las métricas de retención y salud;
+- `decision-journal.md` con las cohortes, el hito de valor y la política de cancelación.
 
 ## 📗 Fuentes y verificación
 
-- Philip Kotler & Kevin Lane Keller — *Marketing Management* (Pearson Education, 2016). **Uso en esta clase:** segmentación, targeting, posicionamiento, propuesta de valor y marketing mix. Lectura selectiva sobre **retención, lealtad y customer success**. **Localizador:** [ISBN-13 9781292092621](https://openlibrary.org/isbn/9781292092621).
-- Byron Sharp — *How Brands Grow* (BookBaby, 2010). **Uso en esta clase:** disponibilidad mental y física, penetración y patrones empíricos de crecimiento de marcas. Lectura selectiva sobre **retención, lealtad y customer success**. **Localizador:** [ISBN-13 9781483534701](https://openlibrary.org/isbn/9781483534701).
-- Geoffrey A. Moore — *Crossing the Chasm* (HarperBusiness, 1995). **Uso en esta clase:** adopción tecnológica y transición entre segmentos de mercado. Lectura selectiva sobre **retención, lealtad y customer success**. **Localizador:** [ISBN-13 9780887307171](https://openlibrary.org/isbn/9780887307171).
-- David Aaker — *Building Strong Brands* (Simon & Schuster Ltd, 2002). **Uso en esta clase:** perspectiva de Marca aplicada al problema de la clase. Lectura selectiva sobre **retención, lealtad y customer success**. **Localizador:** [ISBN-13 9780743232135](https://openlibrary.org/isbn/9780743232135).
-- Aaron Ross & Jason Lemkin — *From Impossible to Inevitable* (John Wiley & Sons, Incorporated, 2016). **Uso en esta clase:** perspectiva de SaaS / Ventas aplicada al problema de la clase. Lectura selectiva sobre **retención, lealtad y customer success**. **Localizador:** [ISBN-13 9781119166726](https://openlibrary.org/isbn/9781119166726).
-- April Dunford — *Obviously Awesome* (Ambient Press, 2019). **Uso en esta clase:** posicionamiento desde alternativas competitivas, atributos, valor y segmento. Lectura selectiva sobre **retención, lealtad y customer success**. **Localizador:** [ISBN-13 9781999023003](https://openlibrary.org/isbn/9781999023003).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **retención, lealtad y customer success** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **retención, lealtad y customer success**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **retención, lealtad y customer success** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **retención, lealtad y customer success** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **retención, lealtad y customer success** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Sunil Gupta & Valarie Zeithaml — *Customer Metrics and Their Impact on Financial Performance* (Marketing Science, 2006). **Uso en esta clase:** relación entre métricas de clientes y valor financiero. Lectura selectiva sobre **retención, lealtad y customer success**. **Localizador:** [DOI 10.1287/mksc.1060.0221](https://doi.org/10.1287/mksc.1060.0221).
+- Geoffrey A. Moore — *Crossing the Chasm* (HarperBusiness, 1995). **Uso en esta clase:** expansión desde un segmento y riesgo de cautividad. Lectura selectiva sobre **retención, lealtad y customer success**. **Localizador:** [ISBN-13 9780887307171](https://openlibrary.org/isbn/9780887307171).
+- Sean Ellis & Morgan Brown — *Hacking Growth* (Ebury Publishing, 2017). **Uso en esta clase:** activación, retención y experimentación. Lectura selectiva sobre **retención, lealtad y customer success**. **Localizador:** [ISBN-13 9780753545386](https://openlibrary.org/isbn/9780753545386).
+- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** enseñar y relacionarse con varios niveles del cliente. Lectura selectiva sobre **retención, lealtad y customer success**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
+- Sunil Gupta, Donald R. Lehmann & Jennifer Ames Stuart — *Valuing Customers* (Journal of Marketing Research, 2004). **Uso en esta clase:** valor de los clientes como activos. Lectura selectiva sobre **retención, lealtad y customer success**. **Localizador:** [DOI 10.1509/jmkr.41.1.7.25084](https://doi.org/10.1509/jmkr.41.1.7.25084).
 
-> **Regla de fuentes para Retención, lealtad y customer success:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **retención, lealtad y customer success** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Retención, lealtad y customer success:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de protección al consumidor, renovación y datos. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

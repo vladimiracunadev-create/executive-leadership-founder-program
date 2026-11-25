@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir journey de touchpoint mediante evidencia observable."
-  - "Aplicar la secuencia: definir persona/job y alcance → reconstruir journey con evidencia → mapear touchpoints y emociones → priorizar moments of truth → asignar owner end-to-end."
-  - "Interpretar drop-off, time-to-value, handoff failures sin atribuir causalidad automática."
-  - "Resolver el caso de customer journey con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Mapear el recorrido del cliente por etapas, puntos de contacto y emociones."
+  - "Identificar momentos críticos y fricciones con datos y entrevistas."
+  - "Distinguir puntos de contacto propios, de socios, del cliente y externos."
+  - "Priorizar mejoras por efecto en valor para el cliente y para el negocio."
+  - "Asignar dueños y métricas que atraviesen áreas."
 deliverable: "leadership-decision-brief.md"
 references:
+  - "Katherine N. Lemon & Peter C. Verhoef — *Understanding Customer Experience Throughout the Customer Journey*"
+  - "Clayton M. Christensen et al. — *Competing Against Luck*"
   - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
-  - "Byron Sharp — *How Brands Grow*"
-  - "Alexander Osterwalder & Yves Pigneur — *Business Model Generation*"
-  - "April Dunford — *Obviously Awesome*"
+  - "Sunil Gupta & Valarie Zeithaml — *Customer Metrics and Their Impact on Financial Performance*"
   - "Sean Ellis & Morgan Brown — *Hacking Growth*"
-  - "David Aaker — *Building Strong Brands*"
 limits:
-  - "Un journey map puede simplificar trayectorias distintas. Segmenta casos relevantes y evita convertir una línea ideal en verdad universal."
+  - "Los mapas simplifican recorridos que son no lineales y multicanal."
 evidence_signals:
-  - "drop-off"
-  - "time-to-value"
-  - "handoff failures"
-  - "NPS/CSAT by stage"
-  - "support contacts"
+  - "recorrido construido con datos y entrevistas"
+  - "momentos críticos identificados"
+  - "dueño del recorrido asignado"
+  - "mejoras probadas con experimento"

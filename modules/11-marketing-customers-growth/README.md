@@ -65,18 +65,18 @@ Las clases **142 a 144** definen cómo se mantiene y crece: retención, loops de
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 133 | [Mercado, categoría y demanda](classes/133-mercado-categoria-y-demanda/README.md) | market, category, demand | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 134 | [Investigación de mercado](classes/134-investigacion-de-mercado/README.md) | secondary research, qualitative research, quantitative research | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 135 | [Segmentación y cliente ideal](classes/135-segmentacion-y-cliente-ideal/README.md) | segmentation, needs-based segment, behavioral segment | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
-| 136 | [Posicionamiento](classes/136-posicionamiento/README.md) | competitive alternative, unique attribute, value | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 133 | [Mercado, categoría y demanda](classes/133-mercado-categoria-y-demanda/README.md) | Mercado, Categoría, Mercado total | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 134 | [Investigación de mercado](classes/134-investigacion-de-mercado/README.md) | Decisión pendiente, Hipótesis, Datos secundarios | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 135 | [Segmentación y cliente ideal](classes/135-segmentacion-y-cliente-ideal/README.md) | Segmentación, Mercado objetivo, Criterio de segmentación | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 136 | [Posicionamiento](classes/136-posicionamiento/README.md) | Posicionamiento, Alternativas competitivas, Atributos únicos | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
 | 137 | [Marca y señales de confianza](classes/137-marca-y-senales-de-confianza/README.md) | Confianza, Capacidad, Benevolencia | [trust-repair-plan](../../templates/trust-repair-plan.md) | 150 |
-| 138 | [Customer journey](classes/138-customer-journey/README.md) | journey, touchpoint, moment of truth | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 139 | [Canales y distribución](classes/139-canales-y-distribucion/README.md) | channel, direct channel, partner channel | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
-| 140 | [Adquisición digital y contenido](classes/140-adquisicion-digital-y-contenido/README.md) | intent, organic acquisition, paid acquisition | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 141 | [Funnel y conversión](classes/141-funnel-y-conversion/README.md) | funnel, conversion rate, drop-off | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
-| 142 | [Retención, lealtad y customer success](classes/142-retencion-lealtad-y-customer-success/README.md) | retention, churn, NRR | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
-| 143 | [Growth loops y experimentación](classes/143-growth-loops-y-experimentacion/README.md) | growth loop, viral loop, content loop | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 144 | [Capstone: go-to-market](classes/144-capstone-go-to-market/README.md) | GTM, beachhead, message-market fit | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 138 | [Customer journey](classes/138-customer-journey/README.md) | Recorrido del cliente (customer journey), Punto de contacto, Experiencia del cliente | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 139 | [Canales y distribución](classes/139-canales-y-distribucion/README.md) | Canal de distribución, Canal directo, Canal indirecto | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 140 | [Adquisición digital y contenido](classes/140-adquisicion-digital-y-contenido/README.md) | Medios pagados, Medios propios, Medios ganados | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 141 | [Funnel y conversión](classes/141-funnel-y-conversion/README.md) | Embudo (funnel), Tasa de conversión, Activación | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 142 | [Retención, lealtad y customer success](classes/142-retencion-lealtad-y-customer-success/README.md) | Retención de clientes, Retención neta de ingresos, Lealtad | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 143 | [Growth loops y experimentación](classes/143-growth-loops-y-experimentacion/README.md) | Ciclo de crecimiento (growth loop), Ciclo viral, Ciclo de contenido | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 144 | [Capstone: go-to-market](classes/144-capstone-go-to-market/README.md) | Plan de salida al mercado (GTM), Hipótesis de lanzamiento, Economía unitaria | [gtm-plan](../../templates/gtm-plan.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -87,72 +87,81 @@ Las clases **142 a 144** definen cómo se mantiene y crece: retención, loops de
 
 ## 🔤 Glosario de la parte
 
-62 conceptos definidos en las clases, con la definición operacional que usa cada una.
+71 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **attribution** | regla para asignar crédito de una conversión a interacciones. |
-| **beachhead** | segmento inicial elegido para concentrar aprendizaje y distribución. |
-| **behavioral segment** | grupo definido por comportamiento observable. |
+| **Activación** | Momento en que el usuario obtiene el primer valor real. |
+| **Alternativas competitivas** | Lo que el cliente haría si el producto no existiera. |
+| **Atribución** | Asignación del mérito de una venta a los canales que influyeron. |
+| **Atributos únicos** | Capacidades que la oferta tiene y las alternativas no. |
 | **Benevolencia** | Medida en que se cree que la otra parte quiere hacer el bien al que confía, aparte de un motivo de beneficio propio (Mayer et al., 1995). |
-| **bias** | distorsión sistemática introducida por pregunta, muestra o análisis. |
-| **bottleneck** | etapa cuya mejora tiene mayor efecto sobre outcome. |
+| **Canal de distribución** | Conjunto de organizaciones que hacen disponible el producto al cliente. |
+| **Canal directo** | La empresa vende y entrega al cliente final. |
+| **Canal indirecto** | Se usan intermediarios: distribuidores, minoristas, plataformas, revendedores. |
 | **Capacidad** | Habilidades, competencias y características que permiten a una parte tener influencia en un dominio específico (Mayer et al., 1995). |
-| **category** | marco mental usado para agrupar soluciones comparables. |
-| **category creation** | esfuerzo por instalar un nuevo marco competitivo. |
-| **channel** | medio por el que se alcanza, vende o entrega a un cliente. |
-| **channel conflict** | tensión entre rutas que compiten por cliente o margen. |
-| **churn** | pérdida de clientes o revenue. |
-| **cohort** | grupo comparable por fecha o característica. |
-| **competitive alternative** | qué usaría el cliente si tu solución no existiera. |
+| **Categoría** | Marco con que los compradores agrupan y comparan las ofertas. |
+| **Cautividad** | Permanencia por costos de salida o falta de alternativas. |
+| **Ciclo de contenido** | El uso o la contribución de usuarios genera contenido que atrae a otros. |
+| **Ciclo de crecimiento (growth loop)** | Secuencia en que la salida de un paso alimenta la entrada del siguiente, generando más usuarios. |
+| **Ciclo de pago** | Los ingresos de los clientes se reinvierten en adquirir más clientes. |
+| **Ciclo viral** | Los usuarios invitan o exponen el producto a otros. |
+| **Cliente ideal** | Descripción del cliente para quien la propuesta es más valiosa y rentable. |
+| **Cliente que más valora** | Segmento al que esos atributos le importan más. |
+| **Coeficiente de ciclo** | Número promedio de usuarios nuevos que genera cada usuario en una vuelta. |
 | **Confianza** | Estado psicológico que incluye la intención de aceptar vulnerabilidad basada en expectativas positivas sobre la conducta de otro (Rousseau et al., 1998); en Mayer et al. (1995), disposición a ser vulnerable ante las acciones de otro sin poder vigilarlo ni controlarlo. |
-| **content asset** | pieza diseñada para informar, atraer o convertir. |
-| **content loop** | contenido generado o financiado por uso que atrae nueva demanda. |
-| **conversion rate** | porcentaje que avanza entre etapas. |
-| **customer success** | función/práctica que ayuda al cliente a alcanzar outcomes. |
-| **demand** | cantidad de compra posible a distintos precios y condiciones. |
-| **direct channel** | relación comercial controlada directamente. |
-| **distribution advantage** | capacidad difícil de replicar para llegar al mercado. |
-| **drop-off** | pérdida entre dos etapas. |
-| **experiment** | prueba con hipótesis, métrica y comparación. |
-| **friction** | esfuerzo, demora o incertidumbre que dificulta progreso. |
-| **funnel** | secuencia de etapas medibles hacia una acción. |
-| **growth loop** | ciclo donde una acción de usuarios produce recursos que alimentan nuevo crecimiento. |
-| **GTM** | plan integrado para alcanzar, vender y entregar valor a un mercado objetivo. |
-| **GTM economics** | economía conjunta de adquisición, margen, ciclo y retención. |
-| **handoff** | transferencia interna que puede hacerse visible como ruptura externa. |
-| **ideal customer** | cliente cuyo fit y economía son especialmente atractivos. |
-| **incrementality** | crecimiento causado por intervención más allá de lo que habría ocurrido. |
+| **Conflicto de canal** | Competencia o tensión entre canales de una misma empresa. |
+| **Contenido útil** | Material que responde preguntas reales del cliente. |
+| **Costo de adquisición (CAC)** | Gasto total de captar un cliente nuevo. |
+| **Costo de cambio** | Esfuerzo, dinero o riesgo de pasar a otra alternativa. |
+| **Criterio de detención** | Resultado que lleva a pausar o cerrar el lanzamiento. |
+| **Criterio de segmentación** | Variable usada para formar los grupos. |
+| **Customer success** | Función que ayuda a los clientes a lograr sus resultados con el producto. |
+| **Datos primarios** | Información recogida para el estudio. |
+| **Datos secundarios** | Información que ya existe (estudios, estadísticas, datos internos). |
+| **Decisión pendiente** | Elección concreta que la investigación debe informar. |
+| **Dependencia de plataforma** | Concentración de ventas o tráfico en un tercero que fija las reglas. |
+| **Economía unitaria** | Valor y costo de ganar y servir a un cliente. |
+| **Embudo (funnel)** | Secuencia de etapas entre el primer contacto y un resultado de valor. |
+| **Experiencia del cliente** | Respuesta cognitiva, emocional y conductual a lo largo del recorrido. |
+| **Experimento de crecimiento** | Prueba controlada de una hipótesis sobre una etapa del ciclo. |
+| **Fricción** | Obstáculo que hace más difícil o costosa una acción del cliente. |
+| **Fuerzas competitivas** | Rivalidad, entrantes, sustitutos, poder de compradores y de proveedores. |
+| **Hipótesis** | Afirmación comprobable sobre clientes o mercado. |
+| **Hipótesis de lanzamiento** | Supuesto sobre clientes, valor, precio o canales que se debe probar. |
+| **Hito de decisión** | Punto en que se decide escalar, ajustar o detener. |
 | **Integridad** | Percepción de que la otra parte se rige por principios que el que confía considera aceptables (Mayer et al., 1995). |
-| **intent** | señal de que una persona está explorando o acercándose a compra. |
-| **journey** | secuencia de interacciones y tareas desde perspectiva del cliente. |
-| **market** | conjunto de compradores, problemas y alternativas con intercambio potencial. |
-| **market frame** | categoría o contexto que hace comprensible la comparación. |
-| **message-market fit** | grado en que la narrativa conecta con problema y lenguaje del segmento. |
-| **moment of truth** | interacción con efecto desproporcionado en confianza o decisión. |
-| **needs-based segment** | grupo definido por problema o criterio de elección. |
-| **NRR** | retención de revenue incluyendo expansión y contracción. |
-| **organic acquisition** | demanda obtenida sin pago directo por cada click o impresión. |
-| **paid acquisition** | demanda comprada mediante medios pagados. |
-| **partner channel** | intermediario que aporta alcance o capacidad. |
+| **Lealtad** | Disposición a seguir y a recomendar por el valor recibido. |
+| **Mapa de recorrido** | Representación de etapas, acciones, emociones, puntos de contacto y oportunidades. |
+| **Margen de canal** | Parte del precio que se queda el intermediario. |
+| **Medios ganados** | Menciones y recomendaciones de terceros. |
+| **Medios pagados** | Espacios comprados para llegar al público. |
+| **Medios propios** | Canales que la empresa controla. |
+| **Mercado** | Conjunto de clientes actuales y potenciales con una necesidad que pueden y quieren satisfacer. |
+| **Mercado alcanzable** | Parte atendible con el modelo, los canales y la geografía elegidos. |
+| **Mercado objetivo** | Segmento o segmentos elegidos para atender. |
+| **Mercado obtenible** | Parte que se puede capturar en un plazo razonable. |
+| **Mercado total** | Demanda posible de la categoría completa. |
+| **Momento crítico (momento de la verdad)** | Instante en que la experiencia puede ganar o perder al cliente. |
+| **Muestra representativa** | Grupo que refleja a la población que interesa. |
+| **Mínimo producto vendible** | Oferta más simple que un segmento pagaría. |
+| **Plan de salida al mercado (GTM)** | Conjunto de decisiones y acciones para llevar una oferta a un segmento y crecer con ella. |
+| **Posicionamiento** | Contexto que ayuda al comprador a entender qué es la oferta y por qué importa. |
 | **Propensión a confiar** | Rasgo de quien confía: su tendencia general a hacerlo. |
-| **qualitative research** | entrevistas u observación para explorar significados y mecanismos. |
-| **quantitative research** | medición estructurada para estimar prevalencia o relaciones. |
-| **retention** | proporción de clientes o revenue que permanece. |
-| **sales motion** | forma de vender, desde self-service a enterprise. |
-| **sample** | muestra seleccionada de una población. |
-| **secondary research** | datos ya existentes de fuentes públicas o privadas. |
-| **segmentation** | división de mercado en grupos accionables con respuesta distinta. |
-| **serviceability** | capacidad real de alcanzar y servir un segmento. |
+| **Prueba A/B** | Experimento que compara dos versiones con asignación aleatoria. |
+| **Punto de contacto** | Cualquier interacción entre cliente y empresa. |
+| **Recorrido del cliente (customer journey)** | Secuencia de interacciones del cliente con la empresa desde que identifica una necesidad hasta la relación posterior. |
+| **Retención de clientes** | Proporción de clientes que permanece en un período. |
+| **Retención neta de ingresos** | Ingresos del grupo actual frente a los de hace un año, con aumentos y bajas. |
+| **Segmentación** | División del mercado en grupos con necesidades o comportamientos similares. |
+| **Segmento inicial** | Nicho donde se concentra el esfuerzo antes de ampliar. |
+| **Sesgo** | Error sistemático que distorsiona los resultados. |
 | **Señal de confianza** | Evidencia observable de que la promesa se cumple. Criterio de la clase: es creíble si es verificable por un tercero, costosa de fingir y sostenida en el tiempo. |
-| **substitute** | alternativa que resuelve el mismo job de modo diferente. |
-| **target segment** | grupo para el que ese valor es especialmente importante. |
-| **time-to-value** | tiempo hasta obtener primer valor significativo. |
-| **touchpoint** | punto de interacción con organización o ecosistema. |
-| **unique attribute** | capacidad difícil de encontrar en alternativas. |
-| **value** | beneficio que el atributo habilita para el cliente. |
+| **Tasa de conversión** | Proporción de personas que pasan de una etapa a la siguiente. |
+| **Trabajo a realizar** | Progreso que el cliente busca lograr en una circunstancia. |
+| **Valor** | Resultado que los atributos entregan al cliente. |
+| **Valor por etapa** | Valor económico esperado de una persona que llega a cada etapa. |
 | **Violación de confianza** | Hecho que contradice la expectativa. Puede ser de **competencia** (se equivocó) o de **integridad** (se duda de su honestidad) (Kim et al., 2004). |
-| **viral loop** | crecimiento impulsado por exposición o invitación entre usuarios. |
 
 ## 📦 Qué queda como evidencia
 

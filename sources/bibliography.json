@@ -143,28 +143,6 @@
       "authority": "Portfolio"
     },
     {
-      "id": "aaron-ross-jason-lemkin-from-impossible-to-inevitable",
-      "type": "book",
-      "authors": [
-        "Ross, Aaron",
-        "Lemkin, Jason"
-      ],
-      "title": "From Impossible to Inevitable",
-      "cited_as": "Aaron Ross & Jason Lemkin — From Impossible to Inevitable",
-      "published": "2016",
-      "authority": "John Wiley & Sons, Incorporated",
-      "isbn13": "9781119166726",
-      "locator": "https://openlibrary.org/isbn/9781119166726",
-      "accessed": "2026-08-19",
-      "used_in": [
-        "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
-        "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
-        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
-        "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market"
-      ],
-      "status": "verificada"
-    },
-    {
       "id": "aaron-ross-marylou-tyler-predictable-revenue",
       "type": "book",
       "authors": [
@@ -219,10 +197,7 @@
       "locator": "https://openlibrary.org/isbn/9781932378252",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
-        "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
-        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
-        "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market"
+        "modules/11-marketing-customers-growth/classes/136-posicionamiento"
       ],
       "status": "verificada"
     },
@@ -241,11 +216,6 @@
       "locator": "https://openlibrary.org/isbn/9780470876411",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
-        "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
-        "modules/11-marketing-customers-growth/classes/138-customer-journey",
-        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
-        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
         "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
         "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
         "modules/20-founder-venture-creation/classes/243-customer-discovery",
@@ -367,17 +337,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
-        "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
-        "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
-        "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/138-customer-journey",
-        "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
-        "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
-        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
-        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
-        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
-        "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market",
         "modules/12-product-innovation/classes/145-producto-versus-proyecto",
         "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
         "modules/12-product-innovation/classes/147-customer-discovery",
@@ -677,16 +636,8 @@
       "locator": "https://openlibrary.org/isbn/9781999023003",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
-        "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
         "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/138-customer-journey",
-        "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
-        "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
-        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
-        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
-        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
         "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market"
       ],
       "status": "verificada"
@@ -1039,16 +990,10 @@
       "locator": "https://openlibrary.org/isbn/9781483534701",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
         "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/138-customer-journey",
-        "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
-        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
-        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
-        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
         "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market"
       ],
       "status": "verificada"
@@ -1258,6 +1203,11 @@
       "used_in": [
         "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
         "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
+        "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
+        "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
+        "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
+        "modules/11-marketing-customers-growth/classes/138-customer-journey",
+        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
         "modules/12-product-innovation/classes/145-producto-versus-proyecto",
         "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
         "modules/12-product-innovation/classes/147-customer-discovery",
@@ -1533,10 +1483,7 @@
       "locator": "https://openlibrary.org/isbn/9780743232135",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
-        "modules/11-marketing-customers-growth/classes/138-customer-journey",
-        "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
-        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success"
+        "modules/11-marketing-customers-growth/classes/136-posicionamiento"
       ],
       "status": "verificada"
     },
@@ -1573,6 +1520,7 @@
       "locator": "https://openlibrary.org/isbn/9781119551447",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/12-product-innovation/classes/145-producto-versus-proyecto",
         "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
         "modules/12-product-innovation/classes/147-customer-discovery",
@@ -2072,10 +2020,8 @@
       "locator": "https://openlibrary.org/isbn/9781469096230",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
-        "modules/11-marketing-customers-growth/classes/136-posicionamiento",
         "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
-        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
+        "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
         "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion"
       ],
       "status": "verificada"
@@ -2174,11 +2120,10 @@
       "used_in": [
         "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
         "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
-        "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
+        "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
-        "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
+        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
         "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market"
       ],
       "status": "verificada"
@@ -2252,17 +2197,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
-        "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
-        "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
-        "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/138-customer-journey",
-        "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
-        "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
-        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
-        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
-        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
-        "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market",
         "modules/12-product-innovation/classes/145-producto-versus-proyecto",
         "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
         "modules/12-product-innovation/classes/147-customer-discovery",
@@ -3298,7 +3232,8 @@
         "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
         "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos",
         "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
-        "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise"
+        "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise",
+        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success"
       ],
       "status": "verificada",
       "authority": "Portfolio/Penguin"
@@ -3557,6 +3492,8 @@
       "locator": "https://openlibrary.org/isbn/9780684841489",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
+        "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
         "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
         "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
@@ -4024,17 +3961,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
-        "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
-        "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
-        "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/138-customer-journey",
-        "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
-        "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
-        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
-        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
-        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
-        "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market",
         "modules/12-product-innovation/classes/145-producto-versus-proyecto",
         "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
         "modules/12-product-innovation/classes/147-customer-discovery",
@@ -4365,13 +4291,9 @@
         "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
-        "modules/11-marketing-customers-growth/classes/136-posicionamiento",
         "modules/11-marketing-customers-growth/classes/138-customer-journey",
         "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
-        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
-        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
-        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
         "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market"
       ],
       "status": "verificada"
@@ -5033,11 +4955,13 @@
       "locator": "https://openlibrary.org/isbn/9780753545386",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
-        "modules/11-marketing-customers-growth/classes/136-posicionamiento",
         "modules/11-marketing-customers-growth/classes/138-customer-journey",
+        "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
-        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion"
+        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
+        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
+        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
+        "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market"
       ],
       "status": "verificada",
       "authority": "Ebury Publishing"
@@ -5405,17 +5329,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
-        "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
-        "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
-        "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/138-customer-journey",
-        "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
-        "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
-        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
-        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
-        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
-        "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market",
         "modules/12-product-innovation/classes/145-producto-versus-proyecto",
         "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
         "modules/12-product-innovation/classes/147-customer-discovery",
@@ -5754,6 +5667,9 @@
       "locator": "https://openlibrary.org/isbn/9781596590687",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
+        "modules/11-marketing-customers-growth/classes/136-posicionamiento",
+        "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
         "modules/13-strategy-competition/classes/161-ventaja-competitiva",
         "modules/13-strategy-competition/classes/163-modelo-de-negocio",
@@ -5829,17 +5745,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
-        "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
-        "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
-        "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/138-customer-journey",
-        "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
-        "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
-        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
-        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
-        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
-        "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market",
         "modules/12-product-innovation/classes/145-producto-versus-proyecto",
         "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
         "modules/12-product-innovation/classes/147-customer-discovery",
@@ -7309,7 +7214,8 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
-        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion"
+        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
+        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success"
       ],
       "status": "verificada"
     },
@@ -7406,6 +7312,88 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "katherine-n-lemon-peter-c-verhoef-understanding-customer-experience-throughout-t",
+      "type": "paper",
+      "authors": [
+        "Lemon, Katherine N.",
+        "Verhoef, Peter C."
+      ],
+      "title": "Understanding Customer Experience Throughout the Customer Journey",
+      "cited_as": "Katherine N. Lemon & Peter C. Verhoef — Understanding Customer Experience Throughout the Customer Journey",
+      "authority": "Journal of Marketing",
+      "published": "2016",
+      "doi": "10.1509/jm.15.0420",
+      "locator": "https://doi.org/10.1509/jm.15.0420",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/11-marketing-customers-growth/classes/138-customer-journey"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "sunil-gupta-valarie-zeithaml-customer-metrics-and-their-impact-on-financial-perf",
+      "type": "paper",
+      "authors": [
+        "Gupta, Sunil",
+        "Zeithaml, Valarie"
+      ],
+      "title": "Customer Metrics and Their Impact on Financial Performance",
+      "cited_as": "Sunil Gupta & Valarie Zeithaml — Customer Metrics and Their Impact on Financial Performance",
+      "authority": "Marketing Science",
+      "published": "2006",
+      "doi": "10.1287/mksc.1060.0221",
+      "locator": "https://doi.org/10.1287/mksc.1060.0221",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/11-marketing-customers-growth/classes/138-customer-journey",
+        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
+        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "ron-kohavi-diane-tang-ya-xu-trustworthy-online-controlled-experiments",
+      "type": "book",
+      "authors": [
+        "Kohavi, Ron",
+        "Tang, Diane",
+        "Xu, Ya"
+      ],
+      "title": "Trustworthy Online Controlled Experiments",
+      "cited_as": "Ron Kohavi, Diane Tang & Ya Xu — Trustworthy Online Controlled Experiments",
+      "authority": "Cambridge University Press",
+      "published": "2020",
+      "isbn13": "9781108724265",
+      "locator": "https://openlibrary.org/isbn/9781108724265",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
+        "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
+        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
+        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "nir-eyal-hooked",
+      "type": "book",
+      "authors": [
+        "Eyal, Nir"
+      ],
+      "title": "Hooked",
+      "cited_as": "Nir Eyal — Hooked",
+      "authority": "Portfolio/Penguin",
+      "published": "2014",
+      "isbn13": "9781591847786",
+      "locator": "https://openlibrary.org/isbn/9781591847786",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
+        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion"
       ],
       "status": "verificada"
     }

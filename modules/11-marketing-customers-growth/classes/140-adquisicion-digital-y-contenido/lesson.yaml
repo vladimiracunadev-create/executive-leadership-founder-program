@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "entender mercado, posicionamiento, canales, conversión, retención y crecimiento"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir intent de organic acquisition mediante evidencia observable."
-  - "Aplicar la secuencia: definir audiencia e intención → seleccionar problemas y formatos → crear distribución orgánica/pagada → instrumentar conversiones → comparar CAC y calidad downstream."
-  - "Interpretar qualified traffic, content conversion, CAC sin atribuir causalidad automática."
-  - "Resolver el caso de adquisición digital y contenido con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir medios pagados, propios y ganados y sus roles."
+  - "Diseñar una estrategia de contenido a partir de las preguntas del cliente."
+  - "Calcular el costo de adquisición por canal y su retorno."
+  - "Elegir dónde invertir y cuándo detener una inversión."
+  - "Reconocer los riesgos de dependencia de plataformas y los límites éticos y legales."
 deliverable: "leadership-decision-brief.md"
 references:
   - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
-  - "Byron Sharp — *How Brands Grow*"
+  - "Gabriel Weinberg & Justin Mares — *Traction*"
   - "Sean Ellis & Morgan Brown — *Hacking Growth*"
-  - "David Aaker — *Building Strong Brands*"
-  - "Aaron Ross & Jason Lemkin — *From Impossible to Inevitable*"
-  - "April Dunford — *Obviously Awesome*"
+  - "Byron Sharp — *How Brands Grow*"
+  - "Ron Kohavi, Diane Tang & Ya Xu — *Trustworthy Online Controlled Experiments*"
 limits:
-  - "Attribution exacta es difícil en journeys multicanal. Usa modelos como herramientas, experimentos y señales incrementales; no trates last-click como causalidad."
+  - "Los costos por canal cambian rápido con la competencia y los algoritmos."
 evidence_signals:
-  - "qualified traffic"
-  - "content conversion"
-  - "CAC"
-  - "pipeline sourced"
-  - "assisted revenue"
+  - "costo por cliente por canal"
+  - "contenido desde preguntas reales"
+  - "demanda capturada y construida"
+  - "dependencia de plataformas controlada"

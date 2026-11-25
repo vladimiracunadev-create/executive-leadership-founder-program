@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir prototype de fidelity mediante evidencia observable."
-  - "Aplicar la secuencia: formular pregunta de aprendizaje → elegir incertidumbre dominante → seleccionar fidelidad mínima → observar conducta durante prueba → registrar evidencia y decidir siguiente incremento."
-  - "Interpretar task success, time-on-task, critical misunderstandings sin atribuir causalidad automática."
-  - "Resolver el caso de prototipos y aprendizaje temprano con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Definir la pregunta que un prototipo debe responder."
+  - "Elegir el nivel de fidelidad: bosquejo, maqueta, prototipo funcional o piloto."
+  - "Diseñar una prueba con usuarios con tareas, observación y criterios."
+  - "Interpretar los resultados distinguiendo problemas de usabilidad, de valor y de viabilidad."
+  - "Decidir cuándo parar, iterar o construir."
 deliverable: "product-evidence-brief.md"
 references:
+  - "Dan Olsen — *The Lean Product Playbook*"
   - "Marty Cagan — *Inspired*"
+  - "Eric Ries — *The Lean Startup*"
   - "Teresa Torres — *Continuous Discovery Habits*"
-  - "Clayton M. Christensen et al. — *Competing Against Luck*"
-  - "Melissa Perri — *Escaping the Build Trap*"
-  - "Rob Fitzpatrick — *The Mom Test*"
   - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
 limits:
-  - "Prototipos de baja fidelidad no responden bien preguntas de performance, seguridad o confianza visual. El tipo de prototipo debe corresponder al riesgo que se intenta reducir."
+  - "Las pruebas con pocos usuarios detectan problemas, no miden proporciones."
 evidence_signals:
-  - "task success"
-  - "time-on-task"
-  - "critical misunderstandings"
-  - "prototype iteration count"
-  - "learning cost"
+  - "pregunta del prototipo definida"
+  - "fidelidad adecuada a la pregunta"
+  - "prueba con tareas y observación"
+  - "criterio de salida previo"

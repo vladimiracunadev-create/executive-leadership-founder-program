@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **MVP** de **hypothesis** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **minimum** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **viable** con **learning milestone**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué es un MVP según Ries?
+2. ¿Qué diferencia hay entre hipótesis de valor y de crecimiento?
+3. ¿Qué tipos de MVP existen, del más barato al más caro?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una plataforma construye doce módulos para un MVP. La hipótesis realmente crítica era si pequeñas empresas pagarían mensualmente por automatizar solo la conciliación bancaria; un concierge test podía probarlo en dos semanas.
+**Caso:** Una empresa de transporte escolar quiere lanzar una aplicación para que los apoderados vean en tiempo real la ubicación de los buses y reciban avisos. El equipo propone construir en 6 meses y USD 700.000 la aplicación completa, con integración a los sistemas de los colegios, pagos y chat. Los directores de colegios han dicho que «sería muy bueno»; no se ha probado si los apoderados pagarían ni si los conductores usarían el dispositivo de seguimiento. Hay normas de protección de menores y de datos de ubicación que condicionan el proyecto. La dirección dispone de USD 120.000 y 4 meses para aprender antes de decidir.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **identificar hipótesis de mayor riesgo → definir población y comportamiento esperado → diseñar MVP mínimo viable → predefinir umbral de decisión → ejecutar medir y decidir**. Debes utilizar o diseñar cómo obtener **activation, paid conversion, repeat use**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de MVP** que contenga: (a) las hipótesis críticas de deseabilidad, viabilidad y factibilidad financiera, ordenadas por riesgo; (b) los MVP propuestos con costo, tiempo, métricas y umbrales; (c) los criterios para perseverar, pivotar o detener; (d) cómo se medirá la economía unitaria con datos reales; (e) los cuidados éticos y de consumo con los clientes y las normas de protección de menores y de datos de ubicación que se verificarán en su fuente vigente; (f) el uso del presupuesto por fases. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Un MVP no justifica exponer usuarios a inseguridad, incumplimiento o daño. En dominios regulados, la mínima versión debe respetar controles no negociables aunque eso aumente el costo.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Un MVP puede dar resultados engañosos con muestras pequeñas o con clientes atípicos (early adopters), que no representan al mercado amplio.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

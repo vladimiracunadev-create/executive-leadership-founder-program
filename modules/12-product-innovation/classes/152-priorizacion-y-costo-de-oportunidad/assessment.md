@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **priority** de **opportunity cost** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **RICE** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **WSJF** con **confidence**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué es el costo de oportunidad?
+2. ¿Qué es el costo del retraso y cómo se estima?
+3. ¿Qué cuatro perfiles de urgencia existen?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un comité puntúa 60 features con RICE. Una mejora de onboarding queda cuarta, pero destraba activación de toda la cartera mientras las tres primeras dependen de un proveedor sin contrato.
+**Caso:** Una empresa de comercio electrónico tiene un equipo de producto con capacidad para tres iniciativas al trimestre y una lista de catorce solicitadas. El cliente más grande exige una integración con su sistema (USD 1,2 millones de ventas anuales en riesgo); el gerente comercial pide un programa de fidelidad; el de operaciones, un rediseño del proceso de devoluciones (12 % de los pedidos tienen problemas); el de tecnología, migrar la base de datos (el riesgo de caída aumenta y el próximo evento de ventas masivas es en 16 semanas); el director general, un lanzamiento en otro país. Hay una nueva norma de protección al consumidor con fecha en 20 semanas. Cada gerente defiende la suya con un puntaje de 1 a 10 que resulta casi siempre 9.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir criterio ligado a estrategia → estimar valor riesgo y costo → hacer explícita confianza → comparar cartera y dependencias → decidir y registrar qué se posterga**. Debes utilizar o diseñar cómo obtener **resource allocation, cost of delay, confidence score**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega una **priorización fundamentada** que contenga: (a) la estimación del costo del retraso de cada iniciativa con sus supuestos y su perfil; (b) las duraciones estimadas con rango; (c) el orden por CD3 y el tratamiento de fecha fija e intangibles; (d) la comparación con el uso de puntajes por gerente y la corrección del ruido; (e) la lista de lo que no se hará y cuándo se revisará; (f) la verificación de la norma de consumo en su fuente oficial y el plan de comunicación de la decisión. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Una fórmula produce precisión aparente si sus entradas son opiniones. Usa scoring como conversación estructurada, no como algoritmo de autoridad; revisa sensibilidad a supuestos.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las estimaciones de costo del retraso son juicios inciertos, especialmente en valor de aprendizaje o de reputación.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

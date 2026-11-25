@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir product portfolio de product thesis mediante evidencia observable."
-  - "Aplicar la secuencia: presentar tesis y evidencia → comparar outcomes y economics → examinar riesgos y dependencias → asignar capacidad con kill criteria → registrar decisiones y próximas pruebas."
-  - "Interpretar portfolio outcome, capital per bet, retention sin atribuir causalidad automática."
-  - "Resolver el caso de capstone: comité de producto con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Estructurar una propuesta de producto con problema, evidencia, valor, riesgos y decisión solicitada."
+  - "Evaluar la fuerza de la evidencia de cada afirmación."
+  - "Decidir la inversión por etapas, con hitos y criterios de detención."
+  - "Distinguir tipos de innovación y su riesgo organizacional."
+  - "Registrar la decisión y el aprendizaje del comité."
 deliverable: "product-evidence-brief.md"
 references:
   - "Marty Cagan — *Inspired*"
-  - "Teresa Torres — *Continuous Discovery Habits*"
-  - "Rob Fitzpatrick — *The Mom Test*"
-  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
-  - "Eric Ries — *The Lean Startup*"
-  - "Clayton M. Christensen et al. — *Competing Against Luck*"
+  - "Melissa Perri — *Escaping the Build Trap*"
+  - "Rebecca M. Henderson & Kim B. Clark — *Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms*"
+  - "Robert G. Cooper — *Stage-gate systems: A new tool for managing new products*"
+  - "Clayton M. Christensen — *The Innovator's Dilemma*"
 limits:
-  - "Un comité no debe convertirse en microgestión semanal. La gobernanza define tesis, límites y recursos; los equipos conservan autonomía sobre aprendizaje y solución dentro de esos límites."
+  - "Los comités pueden volverse lentos y burocráticos; la rapidez se logra con criterios claros y delegación para decisiones pequeñas."
 evidence_signals:
-  - "portfolio outcome"
-  - "capital per bet"
-  - "retention"
-  - "learning velocity"
-  - "kill-continue ratio"
+  - "evidencia clasificada por fuerza"
+  - "inversión por etapas con criterios de detención"
+  - "preguntas críticas y premortem"
+  - "decisión registrada con fecha de revisión"

@@ -10,217 +10,194 @@
 
 ## 🎯 Propósito
 
-Un equipo de producto no debería empezar por funcionalidades sino por un problema verificable y un outcome deseado. Problema, necesidad, dolor y deseo no son equivalentes; deben conectarse a una conducta observable y a una situación concreta. Un buen outcome deja libertad para descubrir múltiples soluciones.
+La mayoría de los productos fracasan no porque estén mal construidos, sino porque resuelven un problema que casi nadie tiene, o que tiene poca gente con la intensidad suficiente como para pagar y cambiar de hábitos. Y la mayoría de las discusiones de producto comienzan en el lugar equivocado: la solución. «Necesitamos una aplicación», «necesitamos un chatbot», «necesitamos un portal». Formular bien el problema, el usuario y el resultado es el trabajo más barato y más valioso del ciclo de producto: reduce el riesgo de construir lo equivocado y da al equipo un criterio compartido para decidir entre opciones.
 
-La salida de esta parte es **convertir problemas de clientes en productos validados y outcomes medibles**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **problema, usuario y outcome** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la distinción entre salidas y resultados de Perri, en el modelo de oportunidades y soluciones de Torres, en la pirámide de ajuste producto–mercado de Olsen y en la teoría de trabajos a realizar de Christensen y colaboradores. Al terminar sabrás describir a un usuario con su contexto, formular un problema sin sugerir la solución, definir un resultado medible con línea base y priorizar oportunidades por la brecha entre importancia y satisfacción.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `problem statement`, `need`, `pain`, `outcome`, `solution bias` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. observar contexto y conducta → 2. formular problema sin solución embebida → 3. definir outcome observable → 4. recoger evidencia de frecuencia e intensidad → 5. priorizar por valor alcance y riesgo** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** problem frequency, severity, current workaround sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** al usuario y su contexto con evidencia y no con estereotipos.
+2. **Formular** un problema sin prescribir la solución.
+3. **Definir** un resultado medible con línea base, meta y plazo.
+4. **Organizar** oportunidades en un árbol que conecte resultado, oportunidades y soluciones.
+5. **Priorizar** oportunidades por importancia, satisfacción actual y alcance.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define problem statement y need sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con problem frequency y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: escribe el problema que resuelve tu producto sin mencionar la solución; luego léelo a alguien que no lo conozca. |
+| 20–60 min | Usuario, problema, resultado, árbol de oportunidades y priorización. |
+| 60–105 min | Ejemplo trabajado: producto de gestión de turnos con tres oportunidades. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **problem statement** | descripción comprobable de una dificultad en un contexto | Distingue un hecho compatible y otro que lo refute. |
-| **need** | progreso o condición que el usuario intenta alcanzar | Distingue un hecho compatible y otro que lo refute. |
-| **pain** | fricción o costo percibido dentro de ese intento | Distingue un hecho compatible y otro que lo refute. |
-| **outcome** | cambio observable que indica progreso del usuario | Distingue un hecho compatible y otro que lo refute. |
-| **solution bias** | tendencia a saltar a funcionalidades antes de entender el problema | Distingue un hecho compatible y otro que lo refute. |
+| **Usuario** | Persona que usa el producto en un contexto concreto. | Se describe por situación y comportamiento. |
+| **Problema** | Obstáculo que impide a alguien lograr algo que le importa. | Se enuncia sin solución. |
+| **Resultado (outcome)** | Cambio de comportamiento que crea valor para el cliente y el negocio. | Se mide con un indicador. |
+| **Oportunidad** | Necesidad, dolor o deseo no resuelto del cliente. | Se descubre en entrevistas. |
+| **Árbol de oportunidades y soluciones** | Mapa que conecta un resultado con oportunidades y soluciones posibles. | Evita saltar a una sola solución. |
+| **Necesidad insatisfecha** | Necesidad importante con baja satisfacción actual. | Alta importancia y baja satisfacción. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 146: 1. observar contexto y conducta → 2. formular problema sin solución embebida → 3. definir outcome observable → 4. recoger evidencia de frecuencia e intensidad → 5. priorizar por valor alcance y riesgo](modelo-mental.svg)
+![De un problema a un resultado medible en cinco pasos: usuario, problema, resultado deseado, hipótesis de solución y medida de éxito, con retorno a la hipótesis.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. observar contexto y conducta → 2. formular problema sin solución embebida → 3. definir outcome observable → 4. recoger evidencia de frecuencia e intensidad → 5. priorizar por valor alcance y riesgo
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un equipo de producto no debería empezar por funcionalidades sino por un problema verificable y un outcome deseado. Problema, necesidad, dolor y deseo no son equivalentes; deben conectarse a una conducta observable y a una situación concreta. Un buen outcome deja libertad para descubrir múltiples soluciones.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un outcome demasiado abstracto no guía decisiones; uno demasiado específico congela la solución. Debe expresar progreso sin predeterminar la interfaz.**
+**Cómo leer el diagrama.** Cinco pasos. Se parte del **usuario** y su contexto; se formula el **problema** (qué intenta lograr y qué se lo impide); se define el **resultado deseado** (el cambio de comportamiento que importa); se propone una **hipótesis de solución** (qué se cree que lo resolvería y por qué); y se fija la **medida de éxito** con línea base y plazo. Si la medida no se mueve, se revisa la hipótesis. La nota recuerda que una función entregada no es un resultado.
 
 ## 📖 Desarrollo
 
-### 1. problem statement: mecanismo central
+### 1. El usuario en su contexto
 
-**problem statement** se entiende aquí como **descripción comprobable de una dificultad en un contexto**. Esta es la pieza causal o estructural desde la que se inicia **problema, usuario y outcome**: antes de observar contexto y conducta, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Se describe al usuario por **qué intenta lograr y en qué situación**, no por su edad ni su profesión. Olsen sitúa al **cliente objetivo** como la base de la pirámide de ajuste producto–mercado: sin una definición clara de quién es y qué contexto tiene, las demás capas no tienen dónde apoyarse. Una buena descripción incluye: contexto (dónde, cuándo, con quién), objetivos, **soluciones alternativas** que usa hoy, **frustraciones** y señales de comportamiento (con qué frecuencia lo intenta, cuánto gasta, cómo decide). Se construye con entrevistas y datos de uso (clase 147); evita «personas» inventadas en una sala.
 
-La lectura rectora de este bloque es Marty Cagan — *Inspired*. Su aporte se usa para examinar **equipos de producto, discovery, riesgos de producto y outcomes**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **problem frequency**; regístrala con periodo, unidad, población y baseline.
+### 2. Formular el problema sin la solución
 
-Relaciona el mecanismo con **need**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Un problema bien formulado describe una **dificultad** del usuario, no una carencia de nuestro producto. «Los supervisores pasan 6 horas semanales armando turnos en planillas y aun así hay turnos sin cubrir» es un problema. «Necesitamos un módulo de turnos» es una solución disfrazada. Una prueba útil: ¿el enunciado admite más de una solución?, ¿un usuario lo reconocería como propio?, ¿se puede observar? Formular el problema evita el sesgo de anclaje en la primera idea y abre el espacio de soluciones posibles (incluidas procesos, políticas o servicios, no solo tecnología).
 
-### 2. need: frontera conceptual y error de clasificación
+### 3. Resultados y no salidas
 
-**Definición operacional:** progreso o condición que el usuario intenta alcanzar. Su valor está en distinguirlo de **problem statement** y **pain**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Perri insiste en que los equipos deben ser responsables de **resultados**: cambios en el comportamiento de clientes o usuarios que crean valor para el negocio. «Lanzar el módulo de turnos» es una salida; «reducir de 6 a 2 las horas semanales que un supervisor dedica a armar turnos y bajar de 14 % a 5 % los turnos sin cubrir» es un resultado. Un buen resultado es **medible**, tiene **línea base** y **plazo**, depende en buena parte del equipo (si no, es un impacto del negocio que se influye, clase 097) y se puede observar a través de comportamiento. También se alinea con los objetivos de la empresa para que ganar el resultado signifique ganar para el negocio.
 
-Contrasta el problema con Teresa Torres — *Continuous Discovery Habits*, que aporta una mirada sobre **discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia**. Formula dos mini-casos: uno que sí satisface la definición de **need** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **severity** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Del resultado a las oportunidades
 
-Antes de formular problema sin solución embebida, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Torres propone un **árbol de oportunidades y soluciones**: en la raíz, el resultado deseado; en el siguiente nivel, las **oportunidades** (necesidades, dolores y deseos de los clientes que, si se atienden, moverían el resultado); más abajo, las **soluciones** posibles para cada oportunidad, y al final, los **experimentos** para probar suposiciones. El árbol obliga a considerar varias oportunidades en vez de saltar a una, a distinguir lo que el cliente necesita de lo que se imagina que quiere, y a mantener la conexión con el resultado. Se alimenta de entrevistas semanales con clientes (clase 147).
 
-### 3. pain: operacionalización y medición
+### 5. Priorizar oportunidades
 
-**pain** significa **fricción o costo percibido dentro de ese intento**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Una forma de priorizar es comparar la **importancia** de cada necesidad para el usuario con su **satisfacción** con las soluciones actuales: las necesidades **muy importantes y poco satisfechas** son las que dejan espacio. Olsen presenta este análisis como parte de la búsqueda de necesidades no satisfechas. Se combina con el **alcance** (cuántos usuarios), la **frecuencia**, el **valor** para el negocio y la **capacidad** de resolverla. Los números provienen de entrevistas y encuestas pequeñas y son aproximaciones: sirven para ordenar la conversación, no para sustituir el juicio ni la prueba (clases 149 y 150).
 
-Rob Fitzpatrick — *The Mom Test* orienta este bloque mediante **perspectiva de Customer discovery aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **current workaround**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Hipótesis de solución
 
-Al llegar a definir outcome observable, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Con una oportunidad priorizada, se formulan **hipótesis de solución**: «Creemos que, si ofrecemos X a usuarios del tipo Y, lograremos Z porque …». Cada hipótesis tiene **suposiciones** críticas (¿lo entenderán?, ¿lo usarán?, ¿pagarán?, ¿podemos construirlo?) y se **prueban de la más arriesgada a la menos**. Se prefieren varias soluciones alternativas por oportunidad: los equipos que consideran solo una tienden a defenderla. Cagan recuerda que las soluciones deben pasar los cuatro riesgos (valor, usabilidad, viabilidad técnica y de negocio) antes de construirse a fondo.
 
-### 4. outcome: trade-offs y efectos de segundo orden
+### 7. Medir y volver
 
-**Definición:** cambio observable que indica progreso del usuario. Este concepto obliga a abandonar la idea de que **problema, usuario y outcome** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de recoger evidencia de frecuencia e intensidad, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-David J. Bland & Alexander Osterwalder — *Testing Business Ideas* aporta una lente sobre **hipótesis de negocio, experimentos, evidencia y reducción de riesgo**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **desired outcome** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **problema, usuario y outcome**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **outcome** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. solution bias: gobernanza, límites e integración
-
-**solution bias** se define como **tendencia a saltar a funcionalidades antes de entender el problema** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Eric Ries — *The Lean Startup* se utiliza para estudiar **build-measure-learn, MVP y aprendizaje validado** y contrastar la recomendación final. Al ejecutar priorizar por valor alcance y riesgo, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un outcome demasiado abstracto no guía decisiones; uno demasiado específico congela la solución. Debe expresar progreso sin predeterminar la interfaz.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **problem statement**, **need**, **pain**, **outcome** y **solution bias** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **problema, usuario y outcome** no consiste en sumar cinco definiciones. Empieza por **problem statement**, contrasta **need** con **pain**, incorpora **outcome** como restricción o mecanismo y usa **solution bias** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. observar contexto y conducta → 2. formular problema sin solución embebida → 3. definir outcome observable → 4. recoger evidencia de frecuencia e intensidad → 5. priorizar por valor alcance y riesgo**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Se define la **medida de éxito** antes de construir y se revisa de forma periódica. Si no se mueve, se aprende por qué: ¿la solución no resolvía el problema?, ¿el problema no era importante?, ¿el usuario era otro?, ¿la medida era la equivocada? El ciclo continúa con una nueva hipótesis (clase 153). Un error frecuente es **cambiar la medida** cuando no se mueve; otro, **declarar éxito** por un indicador secundario. Se registran los aprendizajes, también los de los problemas descartados. Si el usuario o el contexto cambian, el problema se revisa.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marty Cagan — *Inspired* | equipos de producto, discovery, riesgos de producto y outcomes | ¿Qué supuesto de **problema, usuario y outcome** ayuda a desafiar? |
-| Teresa Torres — *Continuous Discovery Habits* | discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia | ¿Qué supuesto de **problema, usuario y outcome** ayuda a desafiar? |
-| Rob Fitzpatrick — *The Mom Test* | perspectiva de Customer discovery aplicada al problema de la clase | ¿Qué supuesto de **problema, usuario y outcome** ayuda a desafiar? |
-| David J. Bland & Alexander Osterwalder — *Testing Business Ideas* | hipótesis de negocio, experimentos, evidencia y reducción de riesgo | ¿Qué supuesto de **problema, usuario y outcome** ayuda a desafiar? |
-| Eric Ries — *The Lean Startup* | build-measure-learn, MVP y aprendizaje validado | ¿Qué supuesto de **problema, usuario y outcome** ayuda a desafiar? |
-
-En **problema, usuario y outcome**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **problem statement**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Perri | Resultados frente a salidas y alineación con estrategia. | Es un enfoque organizacional. | ¿Cuál es tu resultado y cómo lo medirás? |
+| Torres | Árbol de oportunidades y soluciones, y descubrimiento continuo. | Requiere acceso frecuente a clientes. | ¿Cuántas oportunidades consideraste? |
+| Olsen | Pirámide de ajuste y análisis de necesidades insatisfechas. | Las cifras de importancia y satisfacción son subjetivas. | ¿Qué necesidad es importante y está mal atendida? |
+| Christensen et al. | Trabajo a realizar y contexto. | Marco conceptual. | ¿Qué progreso busca el usuario en esta situación? |
+| Cagan | Riesgos de valor, usabilidad, viabilidad técnica y de negocio. | No entrega un método de formulación. | ¿Qué riesgo debes resolver primero? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Clientes piden un botón de exportar a Excel. Entrevistas muestran que el verdadero problema es demostrar cumplimiento mensualmente a auditoría; algunos ya resuelven con una API y otros con informes firmados.
+**Situación (hipotética).** Una empresa de software de turnos para clínicas quiere decidir qué construir el próximo trimestre. El objetivo del negocio: aumentar la retención a 12 meses de 74 % a 82 %.
 
-**Paso 1 — observar contexto y conducta.** La gerencia escribe primero el supuesto asociado a **problem statement** y evita convertirlo en hecho. Luego busca **problem frequency** para contrastarlo en el caso de **problema, usuario y outcome**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Usuario.** Jefas de enfermería y coordinadores de turnos en clínicas de 50 a 300 personas, que arman turnos cada 2 semanas con una planilla y mensajes.
 
-**Paso 2 — formular problema sin solución embebida.** La gerencia escribe primero el supuesto asociado a **need** y evita convertirlo en hecho. Luego busca **severity** para contrastarlo en el caso de **problema, usuario y outcome**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado del equipo.** Que un porcentaje mayor de clínicas adopte el producto en todos sus servicios en los primeros 90 días (línea base 38 %, meta 60 %); la adopción se relaciona con la retención: las clínicas con tres o más servicios activos retienen al 91 %, frente a 61 % de las demás.
 
-**Paso 3 — definir outcome observable.** La gerencia escribe primero el supuesto asociado a **pain** y evita convertirlo en hecho. Luego busca **current workaround** para contrastarlo en el caso de **problema, usuario y outcome**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Oportunidades (entrevistas a 18 coordinadoras y 9 jefas).**
 
-**Paso 4 — recoger evidencia de frecuencia e intensidad.** La gerencia escribe primero el supuesto asociado a **outcome** y evita convertirlo en hecho. Luego busca **desired outcome** para contrastarlo en el caso de **problema, usuario y outcome**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Oportunidad | Importancia (1–5) | Satisfacción actual (1–5) | Alcance | Brecha |
+|---|---|---|---|---|
+| Cubrir un turno de última hora sin llamar a 10 personas | 4,8 | 2,1 | 80 % semanal | 2,7 |
+| Respetar reglas laborales y límites de horas sin cálculo manual | 4,6 | 3,0 | 100 % | 1,6 |
+| Intercambio de turnos entre personas con aprobación | 4,0 | 2,8 | 70 % | 1,2 |
+| Ver costo de horas extra por servicio | 3,5 | 2,2 | 30 % (gerencia) | 1,3 |
+| Reportes de asistencia para el área de personas | 3,2 | 3,5 | 50 % | 0 |
 
-**Paso 5 — priorizar por valor alcance y riesgo.** La gerencia escribe primero el supuesto asociado a **solution bias** y evita convertirlo en hecho. Luego busca **segment prevalence** para contrastarlo en el caso de **problema, usuario y outcome**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** La oportunidad con mayor brecha y alcance es cubrir turnos de última hora; la segunda, reglas laborales. La de reportes de asistencia ya está satisfecha. Se propone un árbol con tres soluciones para la oportunidad 1: aviso masivo con aceptación en un toque, lista de reemplazos preferidos con prioridad, y «bolsa de turnos» abierta. Hipótesis: «Creemos que, si las coordinadoras cubren turnos de última hora en menos de 15 minutos, más servicios dejarán las planillas y la adopción pasará de 38 % a 60 %, porque es la tarea más dolorosa».
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **problema, usuario y outcome**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Suposiciones críticas.** Las personas responderán a avisos por la aplicación; las reglas laborales pueden codificarse (se verifican con la normativa y con el asesor del cliente); la coordinadora confía en la lista. Se prueban con una maqueta y un piloto de 3 clínicas (clase 149).
+
+**Medida de éxito.** Tiempo para cubrir un turno de última hora (línea base 52 minutos, meta menos de 15) y porcentaje de servicios con todos los turnos en la aplicación (38 % → 60 % en 90 días).
+
+**Qué muestra.** (1) El problema se formuló sin la solución. (2) Las oportunidades se compararon con datos. (3) La hipótesis y la medida quedaron explícitas.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **problem statement** | descripción comprobable de una dificultad en un contexto | Cuando problem frequency es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **need** | progreso o condición que el usuario intenta alcanzar | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Problema frente a deseo del cliente.** Lo que los clientes piden suelen ser soluciones basadas en lo que conocen; el problema subyacente puede ser otro. El trabajo consiste en descubrir qué intentan lograr, no en transcribir pedidos.
 
-**Frontera de aplicación:** Un outcome demasiado abstracto no guía decisiones; uno demasiado específico congela la solución. Debe expresar progreso sin predeterminar la interfaz.
+**Límites.** Las puntuaciones de importancia y satisfacción dependen de muestras pequeñas y de cómo se pregunte. El árbol puede crecer más rápido que la capacidad de probar. Un resultado bien definido no garantiza que sea el correcto para el negocio. Las normas laborales, de datos o sectoriales que condicionan las soluciones deben comprobarse con fuentes vigentes y asesoría. Los ejemplos son ilustrativos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre problema, usuario y outcome |
+| Nivel | Cómo trabaja problema, usuario y resultado |
 |---|---|
-| **Profesional** | usa **problema, usuario y outcome** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **problem statement** y **need** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta problem frequency con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si problema, usuario y outcome cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de problema, usuario y outcome reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **problema, usuario y outcome** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Escucha al usuario y trae hechos, no soluciones. |
+| **Jefe / Team Lead** | Define problemas y resultados con su equipo y los mide. |
+| **Gerente** | Alinea resultados de equipos con objetivos del negocio. |
+| **CEO / Director** | Pide resultados y evidencia, no funciones. |
+| **Founder / Owner** | Se enamora del problema, no de la solución. |
 
 ## 🏢 Caso ejecutivo
 
-Clientes piden un botón de exportar a Excel. Entrevistas muestran que el verdadero problema es demostrar cumplimiento mensualmente a auditoría; algunos ya resuelven con una API y otros con informes firmados.
+Una empresa de logística tiene una aplicación para conductores que se usa poco. El gerente de operaciones pide «agregar un chat» porque los conductores llaman por teléfono; el de tecnología propone un rediseño completo; el de seguridad pide funciones de control de tiempos de conducción. El objetivo del negocio es reducir los retrasos de entrega de 17 % a 10 %. Los datos muestran que los retrasos se concentran en el paso de recepción en bodegas de clientes (espera promedio de 48 minutos), que los conductores usan tres aplicaciones distintas y que el 40 % de las llamadas son para confirmar horarios de ventana. Hay normas sobre horas de conducción y de descanso que el sistema debe respetar.
 
-Entrega un **decision brief de problema, usuario y outcome** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega una **formulación de problema, usuario y resultado** que contenga: (a) la descripción del usuario y su contexto con las fuentes; (b) el problema sin la solución; (c) el resultado medible con línea base, meta y plazo y su conexión con el objetivo del negocio; (d) un árbol de oportunidades con al menos tres oportunidades priorizadas por importancia, satisfacción y alcance; (e) dos hipótesis de solución con sus suposiciones críticas; (f) la medida de éxito y las verificaciones normativas de horas de conducción que se harán en la norma vigente.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **problema, usuario y outcome** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. observar contexto y conducta → 2. formular problema sin solución embebida → 3. definir outcome observable → 4. recoger evidencia de frecuencia e intensidad → 5. priorizar por valor alcance y riesgo** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta problem frequency, severity; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe el problema de tu producto en una frase sin mencionar la solución y pruébalo con dos personas.
+2. Define el resultado de tu equipo con línea base, meta y plazo.
+3. Dibuja un árbol de oportunidades con tres oportunidades y dos soluciones para cada una.
+4. Puntúa la importancia y satisfacción de cuatro oportunidades con cinco entrevistas.
+5. Redacta una hipótesis de solución con su suposición más arriesgada.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar problem statement y need como sinónimos | Se pierde la distinción entre “descripción comprobable de una dificultad en un contexto” y “progreso o condición que el usuario intenta alcanzar” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “priorizar por valor alcance y riesgo” | Se saltó “observar contexto y conducta” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. observar contexto y conducta → 2. formular problema sin solución embebida → 3. definir outcome observable → 4. recoger evidencia de frecuencia e intensidad → 5. priorizar por valor alcance y riesgo y marca el primer supuesto no demostrado. |
-| Optimizar solo problem frequency | La métrica local sustituyó al resultado del sistema | Contrástala con severity y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre problema, usuario y outcome | Un outcome demasiado abstracto no guía decisiones; uno demasiado específico congela la solución. Debe expresar progreso sin predeterminar la interfaz. |
-| No fijar revisión | Una decisión sobre problema, usuario y outcome se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Problema que es una solución | Se piensa en lo que se quiere construir | Probar si admite más de una solución. |
+| Usuario descrito por estereotipo | Se imagina | Contexto, objetivos y comportamiento observados. |
+| Resultado = salida | Es más fácil de controlar | Definir cambio de comportamiento medible. |
+| Una sola oportunidad | Se salta a la solución | Árbol con varias oportunidades. |
+| Cambiar la medida si no se mueve | Se evita el fracaso | Mantenerla y aprender por qué. |
+| No conectar con el negocio | Se trabaja aislado | Alinear con objetivos de la empresa. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **problem statement** y **need** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **pain** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **observar contexto y conducta → formular problema sin solución embebida** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **problem frequency** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **problema, usuario y outcome**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un outcome demasiado abstracto no guía decisiones; uno demasiado específico congela la solución. Debe expresar progreso sin predeterminar la interfaz.**?
+1. ¿Cómo se describe a un usuario útil para producto?
+2. ¿Cómo se sabe que un problema está bien formulado?
+3. ¿Qué diferencia hay entre salida y resultado?
+4. ¿Qué conecta un árbol de oportunidades y soluciones?
+5. ¿Cómo se priorizan las oportunidades?
+6. ¿Qué contiene una hipótesis de solución?
+7. ¿Qué límites tienen las puntuaciones de importancia y satisfacción?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Por lo que intenta lograr y en qué situación, con su contexto, alternativas y frustraciones observadas, no por estereotipos.
+2. Describe una dificultad observable que el usuario reconocería y admite más de una solución.
+3. La salida es lo que se produce; el resultado es el cambio de comportamiento que crea valor y se mide.
+4. Un resultado con las oportunidades que lo moverían, las soluciones para cada una y los experimentos para probar suposiciones.
+5. Por importancia y satisfacción actual, alcance, frecuencia, valor para el negocio y capacidad de resolverlas.
+6. A quién va dirigida, qué se ofrece, qué se espera lograr y por qué, con suposiciones críticas que se probarán.
+7. Dependen de muestras pequeñas y de cómo se pregunta; sirven para ordenar la conversación, no para sustituir la prueba.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/146-problema-usuario-y-outcome/`:
 
-- `leadership-decision-brief.md` con el problema específico de **problema, usuario y outcome**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **problema, usuario y outcome** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **problem statement**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Clientes piden un botón de exportar a Excel. Entrevistas muestran que el verdadero problema es demostrar cumplimiento mensualmente a auditoría; algunos ya resuelven con una API y otros con informes firmados.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con la formulación del caso ejecutivo;
+- `product-evidence-brief.md` (plantilla [Product evidence brief](../../../../templates/product-evidence-brief.md)) con el árbol de oportunidades y la evidencia;
+- `decision-journal.md` con las hipótesis, la medida de éxito y las verificaciones normativas.
 
 ## 📗 Fuentes y verificación
 
-- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** equipos de producto, discovery, riesgos de producto y outcomes. Lectura selectiva sobre **problema, usuario y outcome**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
-- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia. Lectura selectiva sobre **problema, usuario y outcome**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
-- Rob Fitzpatrick — *The Mom Test* (CreateSpace, 2014). **Uso en esta clase:** perspectiva de Customer discovery aplicada al problema de la clase. Lectura selectiva sobre **problema, usuario y outcome**. **Localizador:** [ISBN-13 9781492180746](https://openlibrary.org/isbn/9781492180746).
-- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** hipótesis de negocio, experimentos, evidencia y reducción de riesgo. Lectura selectiva sobre **problema, usuario y outcome**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
-- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** build-measure-learn, MVP y aprendizaje validado. Lectura selectiva sobre **problema, usuario y outcome**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
-- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** jobs to be done y comprensión causal de por qué un cliente elige una solución. Lectura selectiva sobre **problema, usuario y outcome**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **problema, usuario y outcome** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **problema, usuario y outcome**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **problema, usuario y outcome** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **problema, usuario y outcome** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **problema, usuario y outcome** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Melissa Perri — *Escaping the Build Trap* (O'Reilly, 2019). **Uso en esta clase:** resultados frente a salidas y alineación con estrategia. Lectura selectiva sobre **problema, usuario y outcome**. **Localizador:** [ISBN-13 9781491973790](https://openlibrary.org/isbn/9781491973790).
+- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** árbol de oportunidades y soluciones. Lectura selectiva sobre **problema, usuario y outcome**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
+- Dan Olsen — *The Lean Product Playbook* (Wiley, 2015). **Uso en esta clase:** pirámide de ajuste y necesidades insatisfechas. Lectura selectiva sobre **problema, usuario y outcome**. **Localizador:** [ISBN-13 9781118960875](https://openlibrary.org/isbn/9781118960875).
+- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** trabajo a realizar y contexto. Lectura selectiva sobre **problema, usuario y outcome**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
+- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** riesgos de valor, usabilidad, viabilidad técnica y de negocio. Lectura selectiva sobre **problema, usuario y outcome**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
 
-> **Regla de fuentes para Problema, usuario y outcome:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **problema, usuario y outcome** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Problema, usuario y outcome:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales y de seguridad aplicables. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

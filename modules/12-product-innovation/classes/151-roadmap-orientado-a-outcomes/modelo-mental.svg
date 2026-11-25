@@ -1,65 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g151 d-g151" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g151">Ficha visual de la clase 151: Roadmap orientado a outcomes</title>
-<desc id="d-g151">Conceptos: roadmap; theme; commitment; now-next-later; roadmap confidence. Método: partir de objetivos estratégicos → traducirlos a outcomes y problemas → ordenar apuestas por valor y riesgo → expresar horizonte y confianza → revisar roadmap con evidencia y capacidad.</desc>
-<defs><marker id="p-g151" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 151 · Roadmap orientado a outcomes</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 12 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >roadmap</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >representación de intención y secuencia para alcanzar</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >outcomes</text>
-<circle cx="38" cy="184.12" r="5" fill="#bc4c00"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >theme</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >área estratégica que agrupa problemas y oportunidades</text>
-<circle cx="38" cy="242.12" r="5" fill="#bc4c00"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >commitment</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >promesa con costo explícito de cambio</text>
-<circle cx="38" cy="300.12" r="5" fill="#bc4c00"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >now-next-later</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >forma de expresar prioridad con distintos niveles de</text>
-<text x="54" y="339.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >certeza</text>
-<circle cx="38" cy="372.24" r="5" fill="#bc4c00"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >roadmap confidence</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grado de certeza justificable sobre cada horizonte</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >partir de objetivos estratégicos</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >traducirlos a outcomes y problemas</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >ordenar apuestas por valor y riesgo</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >expresar horizonte y confianza</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >revisar roadmap con evidencia y capacidad</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >outcome progress</text>
-<rect x="174.4" y="456.24" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="187.4" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="198.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >roadmap churn</text>
-<rect x="300.1" y="456.24" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="313.1" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="324.1" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >commitment reliability</text>
-<rect x="487.9" y="456.24" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="500.9" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="511.9" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >discovery evidence</text>
-<rect x="648.1" y="456.24" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="661.1" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="672.1" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >capacity allocation</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Hay contextos con compromisos contractuales o regulatorios que requieren fechas. Outcome roadmaps no eliminan compromisos; separan lo</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >negociable de lo no negociable y hacen visible la certeza real.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 402.06" width="1040" role="img" aria-labelledby="t-s151 d-s151" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s151">Clase 151 · Un roadmap por horizonte de certeza, no por fechas</title>
+<desc id="d-s151">Tres horizontes de un roadmap orientado a resultados: ahora, siguiente y después, con su nivel de certeza y su contenido.</desc>
+<defs><marker id="p-s151" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="402.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 151 · Un roadmap por horizonte de certeza, no por fechas</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Perri (2018) · Cagan (2017) · Torres (2021)</text>
+<rect x="28" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<path d="M28.0,136 V108 a12,12 0 0 1 12,-12 H330.6666666666667 a12,12 0 0 1 12,12 V136 Z" fill="#1a7f37"/>
+<text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Ahora</text>
+<circle cx="50.0" cy="154" r="4" fill="#1a7f37"/>
+<text x="64" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Resultados con trabajo en curso.</text>
+<circle cx="50.0" cy="181.25" r="4" fill="#1a7f37"/>
+<text x="64" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Alta certeza sobre el problema.</text>
+<circle cx="50.0" cy="208.5" r="4" fill="#1a7f37"/>
+<text x="64" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Soluciones en prueba o en</text>
+<text x="64" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >construcción.</text>
+<rect x="362.667" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M362.6666666666667,136 V108 a12,12 0 0 1 12,-12 H665.3333333333334 a12,12 0 0 1 12,12 V136 Z" fill="#0969da"/>
+<text x="378.667" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Siguiente</text>
+<circle cx="384.6666666666667" cy="154" r="4" fill="#0969da"/>
+<text x="398.667" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Resultados priorizados con hipótesis.</text>
+<circle cx="384.6666666666667" cy="181.25" r="4" fill="#0969da"/>
+<text x="398.667" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Certeza media; se descubre.</text>
+<circle cx="384.6666666666667" cy="208.5" r="4" fill="#0969da"/>
+<text x="398.667" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Sin compromisos de fecha.</text>
+<rect x="697.333" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<path d="M697.3333333333334,136 V108 a12,12 0 0 1 12,-12 H1000.0 a12,12 0 0 1 12,12 V136 Z" fill="#59636e"/>
+<text x="713.333" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Después</text>
+<circle cx="719.3333333333334" cy="154" r="4" fill="#59636e"/>
+<text x="733.333" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Temas e intenciones estratégicas.</text>
+<circle cx="719.3333333333334" cy="181.25" r="4" fill="#59636e"/>
+<text x="733.333" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Certeza baja.</text>
+<circle cx="719.3333333333334" cy="208.5" r="4" fill="#59636e"/>
+<text x="733.333" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Se revisan cuando cambia la</text>
+<text x="733.333" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >evidencia.</text>
+<rect x="28" y="275" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="297" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Un roadmap de resultados comunica qué problemas se quiere resolver y por qué, con la evidencia disponible. Las fechas se reservan para</text>
+<text x="44" y="314.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >lo que de verdad las exige.</text>
+<text x="28" y="361.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Los compromisos con fecha (regulación, contratos) se separan del resto para no convertir todo el roadmap en una promesa.</text>
 </svg>

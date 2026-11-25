@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir priority de opportunity cost mediante evidencia observable."
-  - "Aplicar la secuencia: definir criterio ligado a estrategia → estimar valor riesgo y costo → hacer explícita confianza → comparar cartera y dependencias → decidir y registrar qué se posterga."
-  - "Interpretar resource allocation, cost of delay, confidence score sin atribuir causalidad automática."
-  - "Resolver el caso de priorización y costo de oportunidad con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Explicar el costo de oportunidad de una decisión de producto."
+  - "Estimar el costo del retraso de una iniciativa y reconocer su perfil."
+  - "Ordenar iniciativas por costo del retraso dividido por duración."
+  - "Comparar esta lógica con puntajes ponderados y con el retorno simple."
+  - "Reducir el sesgo y el ruido al priorizar."
 deliverable: "leadership-decision-brief.md"
 references:
+  - "Donald G. Reinertsen — *The Principles of Product Development Flow*"
+  - "Melissa Perri — *Escaping the Build Trap*"
   - "Marty Cagan — *Inspired*"
-  - "Teresa Torres — *Continuous Discovery Habits*"
-  - "Clayton M. Christensen et al. — *Competing Against Luck*"
-  - "Dan Olsen — *The Lean Product Playbook*"
-  - "Alexander Osterwalder et al. — *Value Proposition Design*"
-  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
+  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
+  - "Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise*"
 limits:
-  - "Una fórmula produce precisión aparente si sus entradas son opiniones. Usa scoring como conversación estructurada, no como algoritmo de autoridad; revisa sensibilidad a supuestos."
+  - "Las estimaciones de costo del retraso son juicios inciertos, especialmente en valor de aprendizaje o de reputación."
 evidence_signals:
-  - "resource allocation"
-  - "cost of delay"
-  - "confidence score"
-  - "dependency load"
-  - "outcome impact"
+  - "costo del retraso estimado"
+  - "orden por costo del retraso sobre duración"
+  - "trabajo en curso limitado"
+  - "estimaciones independientes para reducir ruido"

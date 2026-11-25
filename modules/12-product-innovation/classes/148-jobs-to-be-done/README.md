@@ -10,217 +10,193 @@
 
 ## 🎯 Propósito
 
-Jobs to Be Done analiza el progreso que una persona intenta realizar en una situación y las fuerzas que empujan o frenan el cambio. El job no es una demografía ni una funcionalidad; permite entender por qué soluciones de categorías distintas compiten por la misma decisión del cliente.
+¿Por qué alguien «contrata» un producto? Las empresas suelen responder con el perfil del cliente («mujeres de 30 a 45 años», «pymes del sector retail») o con los atributos del producto («más rápido», «más barato»), y fallan al predecir qué comprarán. La teoría de los **trabajos a realizar** (*Jobs to Be Done*, JTBD) propone otra unidad de análisis: no el cliente ni el producto, sino **el progreso que alguien intenta lograr en una situación concreta**. Las personas «contratan» productos para hacer un trabajo; cuando lo hacen mal, los «despiden». Entender el trabajo explica por qué compran, con quién compiten realmente y qué atributos importan.
 
-La salida de esta parte es **convertir problemas de clientes en productos validados y outcomes medibles**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **jobs to Be Done** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en *Competing Against Luck* de Christensen y colaboradores, en el diseño de propuestas de valor de Osterwalder y su equipo y en las técnicas de entrevista de Fitzpatrick y Torres. Al terminar sabrás formular un trabajo a realizar con situación, motivación y resultado esperado, distinguir sus dimensiones funcional, emocional y social, identificar la competencia real, mapear las fuerzas que mueven una decisión y traducir el trabajo en decisiones de producto, mensaje y oferta.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `job`, `circumstance`, `push`, `pull`, `anxiety-habit` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. reconstruir evento de cambio → 2. identificar circunstancia y progreso buscado → 3. mapear push pull ansiedad y hábito → 4. identificar soluciones competidoras → 5. diseñar mensaje y producto alrededor del progreso** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** switch events, trigger frequency, current alternatives sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Formular** un trabajo a realizar con situación, motivación y resultado.
+2. **Distinguir** las dimensiones funcional, emocional y social del trabajo.
+3. **Identificar** la competencia real: todo lo que el cliente contrata para ese trabajo.
+4. **Mapear** las fuerzas que empujan, atraen, frenan y mantienen una decisión.
+5. **Traducir** el trabajo en criterios de producto, mensaje y oferta.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define job y circumstance sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con switch events y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿para qué «contrataste» tu último producto de uso frecuente, y qué otras cosas pudiste contratar? |
+| 20–60 min | Concepto, dimensiones, competencia, fuerzas y aplicación. |
+| 60–105 min | Ejemplo trabajado: el trabajo detrás de un servicio de comidas preparadas. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **job** | progreso que una persona busca en una circunstancia | Distingue un hecho compatible y otro que lo refute. |
-| **circumstance** | contexto que activa o condiciona el job | Distingue un hecho compatible y otro que lo refute. |
-| **push** | insatisfacción que empuja fuera de la solución actual | Distingue un hecho compatible y otro que lo refute. |
-| **pull** | atractivo que acerca a una alternativa | Distingue un hecho compatible y otro que lo refute. |
-| **anxiety-habit** | fuerzas que frenan el cambio por riesgo o rutina | Distingue un hecho compatible y otro que lo refute. |
+| **Trabajo a realizar (job)** | Progreso que una persona quiere lograr en una circunstancia concreta. | Se enuncia con situación y resultado. |
+| **Contratar y despedir** | Metáfora de elegir y abandonar un producto para hacer un trabajo. | Cambios de proveedor. |
+| **Circunstancia** | Contexto específico (cuándo, dónde, con quién, con qué limitaciones) que define el trabajo. | Mismo cliente, trabajos distintos. |
+| **Dimensiones del trabajo** | Aspectos funcional, emocional y social. | Explican decisiones que el precio no explica. |
+| **Competencia real** | Todo lo que el cliente podría contratar para el mismo trabajo. | Incluye soluciones de otras categorías y no hacer nada. |
+| **Fuerzas de decisión** | Empuje del problema, atracción de la solución, ansiedad y hábito. | Se descubren en entrevistas de decisión. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 148: 1. reconstruir evento de cambio → 2. identificar circunstancia y progreso buscado → 3. mapear push pull ansiedad y hábito → 4. identificar soluciones competidoras → 5. diseñar mensaje y producto alrededor del progreso](modelo-mental.svg)
+![Tres dimensiones de un trabajo a realizar: funcional, emocional y social, con una pregunta para cada una.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. reconstruir evento de cambio → 2. identificar circunstancia y progreso buscado → 3. mapear push pull ansiedad y hábito → 4. identificar soluciones competidoras → 5. diseñar mensaje y producto alrededor del progreso
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Jobs to Be Done analiza el progreso que una persona intenta realizar en una situación y las fuerzas que empujan o frenan el cambio. El job no es una demografía ni una funcionalidad; permite entender por qué soluciones de categorías distintas compiten por la misma decisión del cliente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **JTBD es una lente, no una taxonomía universal. Puede complementar segmentación, necesidades y analítica; forzar toda decisión a un job puede ocultar restricciones organizacionales, regulación o economía.**
+**Cómo leer el diagrama.** Tres columnas. La dimensión **funcional** es la tarea práctica que se quiere lograr; la **emocional**, cómo se quiere sentir o evitar sentirse; la **social**, cómo se quiere ser visto por otros. Cada columna incluye una pregunta que ayuda a explorarla. La nota recuerda que el trabajo se define por la **situación y el progreso buscado**, no por el perfil del cliente ni por el producto, y que la competencia incluye todo lo que podría contratarse para ese trabajo.
 
 ## 📖 Desarrollo
 
-### 1. job: mecanismo central
+### 1. La unidad de análisis
 
-**job** se entiende aquí como **progreso que una persona busca en una circunstancia**. Esta es la pieza causal o estructural desde la que se inicia **jobs to Be Done**: antes de reconstruir evento de cambio, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Christensen y colaboradores sostienen que las empresas fallan en innovar porque se centran en **correlaciones** (qué tipo de cliente compra qué) en lugar de **causas** (por qué se compra). Dos clientes con el mismo perfil pueden contratar el mismo producto para trabajos distintos, y dos de perfiles distintos pueden contratarlo para el mismo trabajo. Entender el trabajo permite explicar el comportamiento: alguien compra un batido por la mañana para que el trayecto en auto sea menos aburrido y sentirse saciado; esa persona compite con una banana, una dona o un café. La pregunta cambia de «¿quién es nuestro cliente?» a «¿qué progreso está intentando lograr?».
 
-La lectura rectora de este bloque es Marty Cagan — *Inspired*. Su aporte se usa para examinar **equipos de producto, discovery, riesgos de producto y outcomes**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **switch events**; regístrala con periodo, unidad, población y baseline.
+### 2. Formular un trabajo
 
-Relaciona el mecanismo con **circumstance**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Una declaración útil tiene tres partes: **situación** («cuando…»), **motivación** («quiero…») y **resultado esperado** («para poder…»). Por ejemplo: «Cuando termino una jornada larga y debo alimentar a mi familia, quiero resolver la cena sin cocinar ni pensar demasiado, para sentir que cuido a los míos sin agotarme». No menciona el producto ni un perfil, y puede cumplirse de muchas formas. Se evita el trabajo demasiado general («alimentarse») y el demasiado específico («usar nuestra aplicación»). Se prueba con clientes: ¿se reconocen en el enunciado?
 
-### 2. circumstance: frontera conceptual y error de clasificación
+### 3. Dimensiones funcional, emocional y social
 
-**Definición operacional:** contexto que activa o condiciona el job. Su valor está en distinguirlo de **job** y **push**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Christensen y su equipo subrayan que los trabajos tienen **tres dimensiones**. La **funcional** es la tarea práctica. La **emocional** es cómo la persona quiere sentirse o evitar sentirse (tranquilidad, control, orgullo, culpa). La **social** es cómo quiere ser percibida por otros (profesional, responsable, moderna). Muchas decisiones que parecen irracionales en términos de precio se explican por estas dimensiones: se contrata una consultora conocida no por mejor solución sino para sentirse protegido ante el directorio. Un producto que cumple solo la dimensión funcional compite por precio; uno que atiende las tres puede diferenciarse.
 
-Contrasta el problema con Teresa Torres — *Continuous Discovery Habits*, que aporta una mirada sobre **discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia**. Formula dos mini-casos: uno que sí satisface la definición de **circumstance** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **trigger frequency** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. La competencia real
 
-Antes de identificar circunstancia y progreso buscado, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Si el trabajo define la contratación, la competencia es **todo lo que se podría contratar para ese trabajo**, sin importar la categoría: productos de otras industrias, soluciones caseras, servicios de personas, planillas, no hacer nada. Esto cambia el análisis competitivo (clase 133) y el posicionamiento (clase 136): el rival de una aplicación de meditación puede ser una caminata o una copa de vino; el de un software de contabilidad, una planilla y un contador amigo. Identificar la competencia real revela por qué se pierden ventas y qué atributos cuentan. Se encuentra preguntando a los clientes qué usaban antes, qué consideraron y qué los habría hecho no cambiar.
 
-### 3. push: operacionalización y medición
+### 5. Las cuatro fuerzas de la decisión
 
-**push** significa **insatisfacción que empuja fuera de la solución actual**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Las entrevistas centradas en el momento de decisión (clase 147) permiten reconstruir las **fuerzas** que mueven el cambio: **el empuje del problema** (insatisfacción con la situación actual), **la atracción de la nueva solución** (la promesa de progreso), **la ansiedad** respecto de lo nuevo (¿funcionará?, ¿me costará aprender?, ¿me equivocaré?) y **el hábito** o la inercia que mantiene lo actual. Para que alguien cambie, el empuje y la atracción deben superar a la ansiedad y al hábito. Esto da una lista de acciones: aumentar la claridad del problema, reducir la ansiedad con pruebas y garantías, facilitar la transición y atenuar el hábito.
 
-Clayton M. Christensen — *The Innovator's Dilemma* orienta este bloque mediante **perspectiva de Innovación aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **current alternatives**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Del trabajo al producto y al mensaje
 
-Al llegar a mapear push pull ansiedad y hábito, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Una vez formulado el trabajo, guía decisiones: **producto** (qué atributos mejoran el progreso, qué eliminar), **experiencia** (cómo atender la dimensión emocional y la social), **mensaje** (hablar de la situación y el progreso, no de características), **precio** (según el valor del progreso) y **canal** (dónde ocurre la circunstancia). Osterwalder y colaboradores ofrecen una herramienta complementaria: el **perfil del cliente** (trabajos, frustraciones y ganancias) y el **mapa de valor** (productos y servicios, aliviadores de frustraciones y creadores de ganancias), que busca el **encaje** entre ambos. Los trabajos se priorizan por importancia, frecuencia y nivel de insatisfacción.
 
-### 4. pull: trade-offs y efectos de segundo orden
+### 7. Cómo usarlo bien y qué evitar
 
-**Definición:** atractivo que acerca a una alternativa. Este concepto obliga a abandonar la idea de que **jobs to Be Done** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de identificar soluciones competidoras, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-David J. Bland & Alexander Osterwalder — *Testing Business Ideas* aporta una lente sobre **hipótesis de negocio, experimentos, evidencia y reducción de riesgo**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **anxieties** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **jobs to Be Done**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **pull** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. anxiety-habit: gobernanza, límites e integración
-
-**anxiety-habit** se define como **fuerzas que frenan el cambio por riesgo o rutina** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Eric Ries — *The Lean Startup* se utiliza para estudiar **build-measure-learn, MVP y aprendizaje validado** y contrastar la recomendación final. Al ejecutar diseñar mensaje y producto alrededor del progreso, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **JTBD es una lente, no una taxonomía universal. Puede complementar segmentación, necesidades y analítica; forzar toda decisión a un job puede ocultar restricciones organizacionales, regulación o economía.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **job**, **circumstance**, **push**, **pull** y **anxiety-habit** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **jobs to Be Done** no consiste en sumar cinco definiciones. Empieza por **job**, contrasta **circumstance** con **push**, incorpora **pull** como restricción o mecanismo y usa **anxiety-habit** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. reconstruir evento de cambio → 2. identificar circunstancia y progreso buscado → 3. mapear push pull ansiedad y hábito → 4. identificar soluciones competidoras → 5. diseñar mensaje y producto alrededor del progreso**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Se usa mejor como una **lente de descubrimiento**, no como una plantilla que se llena en sala. Los errores frecuentes: **confundir trabajo con tarea o función** («exportar a PDF»), **confundir trabajo con producto** («usar nuestra aplicación»), **olvidar la circunstancia**, **ignorar las dimensiones emocional y social**, **no conectar el trabajo con decisiones** y **basarse en pocas entrevistas**. Por último, los trabajos pueden cambiar con el tiempo y con la tecnología, y conviene revisarlos. El valor del enfoque es dejar de preguntar «¿qué quieren los clientes?» y empezar a preguntar «¿qué están intentando lograr?».
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marty Cagan — *Inspired* | equipos de producto, discovery, riesgos de producto y outcomes | ¿Qué supuesto de **jobs to Be Done** ayuda a desafiar? |
-| Teresa Torres — *Continuous Discovery Habits* | discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia | ¿Qué supuesto de **jobs to Be Done** ayuda a desafiar? |
-| Clayton M. Christensen — *The Innovator's Dilemma* | perspectiva de Innovación aplicada al problema de la clase | ¿Qué supuesto de **jobs to Be Done** ayuda a desafiar? |
-| David J. Bland & Alexander Osterwalder — *Testing Business Ideas* | hipótesis de negocio, experimentos, evidencia y reducción de riesgo | ¿Qué supuesto de **jobs to Be Done** ayuda a desafiar? |
-| Eric Ries — *The Lean Startup* | build-measure-learn, MVP y aprendizaje validado | ¿Qué supuesto de **jobs to Be Done** ayuda a desafiar? |
-
-En **jobs to Be Done**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **job**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Christensen et al. (*Competing Against Luck*) | Teoría del trabajo, dimensiones y competencia real. | Casos seleccionados; método cualitativo. | ¿Para qué trabajo te contratan? |
+| Osterwalder et al. (*Value Proposition Design*) | Perfil del cliente y mapa de valor. | Es una herramienta de diseño, no de investigación. | ¿Tu oferta alivia frustraciones reales? |
+| Fitzpatrick | Cómo entrevistar con hechos. | No es una teoría del trabajo. | ¿Qué hecho respalda tu trabajo? |
+| Torres | Oportunidades a partir de entrevistas. | Enfoque de descubrimiento continuo. | ¿Qué oportunidad nace de este trabajo? |
+| Christensen (*Innovator's Dilemma*) | Innovaciones sostenidas y disruptivas. | Teoría de industrias. | ¿Qué trabajo está desatendido? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un software de videollamadas cree competir solo con otras apps. Al estudiar cambios descubre que para capacitaciones internas compite también con grabaciones asincrónicas, documentos y reuniones presenciales.
+**Situación (hipotética).** Un servicio de comidas preparadas por suscripción tiene un abandono mensual de 11 % y no entiende por qué. Hace 20 entrevistas con clientes recientes y con quienes se dieron de baja, centradas en el momento de decisión.
 
-**Paso 1 — reconstruir evento de cambio.** La gerencia escribe primero el supuesto asociado a **job** y evita convertirlo en hecho. Luego busca **switch events** para contrastarlo en el caso de **jobs to Be Done**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Trabajos que aparecen.**
 
-**Paso 2 — identificar circunstancia y progreso buscado.** La gerencia escribe primero el supuesto asociado a **circumstance** y evita convertirlo en hecho. Luego busca **trigger frequency** para contrastarlo en el caso de **jobs to Be Done**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Trabajo | Situación y motivación | Frecuencia (de 20) |
+|---|---|---|
+| A. «Resolver la cena sin pensar» | Después de trabajar, con hijos pequeños; quiero cenar bien sin planificar ni cocinar, para sentir que cuido a mi familia | 8 |
+| B. «Comer saludable con un objetivo» | Estoy en un plan de salud; quiero porciones controladas para cumplir y sentir que avanzo | 6 |
+| C. «Tener la comida resuelta cuando recibo visitas o estoy muy ocupado» | Ocasiones especiales o semanas de trabajo intenso | 4 |
+| D. «Probar algo distinto» | Curiosidad por variedad y novedad | 2 |
 
-**Paso 3 — mapear push pull ansiedad y hábito.** La gerencia escribe primero el supuesto asociado a **push** y evita convertirlo en hecho. Luego busca **current alternatives** para contrastarlo en el caso de **jobs to Be Done**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Competencia real.** Para A: comida de supermercado, delivery, comida casera preparada los fines de semana y comida de la suegra. Para B: nutricionista con plan, aplicaciones de recetas y programas de otros proveedores. Para C: restaurantes y servicios de catering.
 
-**Paso 4 — identificar soluciones competidoras.** La gerencia escribe primero el supuesto asociado a **pull** y evita convertirlo en hecho. Luego busca **anxieties** para contrastarlo en el caso de **jobs to Be Done**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Fuerzas (trabajo A, clientes que abandonaron).** Empuje: cansancio de cocinar. Atracción: «cenas listas». Ansiedad: «¿y si la entrega llega tarde y no tengo cena?», «¿y si los niños no la comen?». Hábito: la comida del supermercado. Quienes abandonan lo hacen cuando una entrega falla una vez y la cena se arruina: la ansiedad vence.
 
-**Paso 5 — diseñar mensaje y producto alrededor del progreso.** La gerencia escribe primero el supuesto asociado a **anxiety-habit** y evita convertirlo en hecho. Luego busca **time-to-progress** para contrastarlo en el caso de **jobs to Be Done**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Dimensiones del trabajo A.** Funcional: cena lista en 10 minutos. Emocional: tranquilidad («no tengo que improvisar»). Social: ser una madre o un padre que alimenta bien a su familia.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **jobs to Be Done**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Decisiones.** (1) Garantizar la cena: si una entrega falla, ofrecer una alternativa (cupón de reemplazo inmediato); (2) menú «aprobado por niños» con comentarios de otros hogares; (3) mensaje centrado en la situación («Esta noche, la cena ya está resuelta»); (4) flexibilidad de entrega, pausa y cambio; (5) plan B para quienes buscan objetivos de salud con porciones y seguimiento. Se mide el abandono por tipo de trabajo.
+
+**Resultado a 4 meses.** El abandono del segmento A baja de 12,5 % a 7,8 % mensual; la reposición por entrega fallida se usa en el 2,1 % de los pedidos. Se evaluarán los trabajos B y C con ofertas distintas.
+
+**Qué muestra.** (1) El perfil del cliente no explicaba el abandono; el trabajo sí. (2) La ansiedad frenaba más que el precio. (3) La respuesta incluyó garantía, mensaje y producto.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **job** | progreso que una persona busca en una circunstancia | Cuando switch events es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **circumstance** | contexto que activa o condiciona el job | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Trabajo frente a segmento.** El segmento describe a quién se atiende; el trabajo, por qué se contrata. Se complementan: el trabajo orienta la propuesta; el segmento, el alcance y los canales (clase 135).
 
-**Frontera de aplicación:** JTBD es una lente, no una taxonomía universal. Puede complementar segmentación, necesidades y analítica; forzar toda decisión a un job puede ocultar restricciones organizacionales, regulación o economía.
+**Límites.** JTBD es una **teoría explicativa** con aplicación cualitativa; no entrega por sí misma el tamaño de cada trabajo ni su probabilidad. Existen varias escuelas (la de Christensen, la basada en resultados deseados, la de fuerzas de decisión) con vocabularios distintos. Los casos publicados son seleccionados. Las entrevistas requieren habilidad y tiempo. Y los datos personales de los entrevistados deben tratarse conforme a la normativa de protección de datos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre jobs to Be Done |
+| Nivel | Cómo usa Jobs to Be Done |
 |---|---|
-| **Profesional** | usa **jobs to Be Done** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **job** y **circumstance** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta switch events con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si jobs to Be Done cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de jobs to Be Done reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **jobs to Be Done** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Escucha qué progreso busca el cliente, no solo qué pide. |
+| **Jefe / Team Lead** | Organiza entrevistas de decisión y sintetiza trabajos. |
+| **Gerente** | Prioriza trabajos y ajusta oferta, mensaje y experiencia. |
+| **CEO / Director** | Define la competencia por el trabajo, no por la categoría. |
+| **Founder / Owner** | Vende progreso y no características. |
 
 ## 🏢 Caso ejecutivo
 
-Un software de videollamadas cree competir solo con otras apps. Al estudiar cambios descubre que para capacitaciones internas compite también con grabaciones asincrónicas, documentos y reuniones presenciales.
+Una empresa de seguros ofrece un seguro de hogar con características muy completas, pero sus ventas se estancan: compite en precio con otros 12 proveedores y sus clientes lo cancelan al año al encontrar uno más barato. Una investigación con 25 clientes que contrataron, 12 que cancelaron y 10 que lo evaluaron y no compraron muestra trabajos distintos: quienes compran tras mudarse buscan «tener tranquilidad de que mi nueva casa está cubierta», quienes lo hacen por exigencia del banco quieren «cumplir con el trámite al menor costo», y quienes compran tras un siniestro de un vecino buscan «no quedar desprotegido». Las quejas más frecuentes son de procesos de reclamo largos y confusos. El gerente comercial propone bajar precios 15 %; el de producto, agregar coberturas; el de operaciones, rediseñar el proceso de siniestros.
 
-Entrega un **decision brief de jobs to Be Done** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de trabajos a realizar** que contenga: (a) los trabajos con situación, motivación y resultado, y sus dimensiones; (b) la competencia real de cada trabajo; (c) las fuerzas de decisión para cada uno, con sus ansiedades; (d) los trabajos prioritarios con criterios; (e) las decisiones de producto, mensaje, precio y proceso asociadas; (f) cómo medirás el efecto y las verificaciones regulatorias de seguros y de datos que se harán con asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **jobs to Be Done** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. reconstruir evento de cambio → 2. identificar circunstancia y progreso buscado → 3. mapear push pull ansiedad y hábito → 4. identificar soluciones competidoras → 5. diseñar mensaje y producto alrededor del progreso** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta switch events, trigger frequency; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe tres trabajos que tus clientes contratan, con situación, motivación y resultado.
+2. Identifica la competencia real de uno de ellos (cinco alternativas).
+3. Mapea las cuatro fuerzas de una decisión de cambio reciente de un cliente.
+4. Para un trabajo, describe sus dimensiones funcional, emocional y social.
+5. Elige una decisión de producto o mensaje que cambiaría con este análisis.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar job y circumstance como sinónimos | Se pierde la distinción entre “progreso que una persona busca en una circunstancia” y “contexto que activa o condiciona el job” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “diseñar mensaje y producto alrededor del progreso” | Se saltó “reconstruir evento de cambio” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. reconstruir evento de cambio → 2. identificar circunstancia y progreso buscado → 3. mapear push pull ansiedad y hábito → 4. identificar soluciones competidoras → 5. diseñar mensaje y producto alrededor del progreso y marca el primer supuesto no demostrado. |
-| Optimizar solo switch events | La métrica local sustituyó al resultado del sistema | Contrástala con trigger frequency y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre jobs to Be Done | JTBD es una lente, no una taxonomía universal. Puede complementar segmentación, necesidades y analítica; forzar toda decisión a un job puede ocultar restricciones organizacionales, regulación o economía. |
-| No fijar revisión | Una decisión sobre jobs to Be Done se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Trabajo = función | Se piensa en el producto | Enunciar situación, motivación y resultado. |
+| Ignorar la circunstancia | Se generaliza | Describir cuándo, dónde y con quién. |
+| Solo dimensión funcional | Es la más evidente | Explorar lo emocional y lo social. |
+| Competencia por categoría | Es la costumbre | Buscar todo lo que se contrata para el trabajo. |
+| Pocas entrevistas | Es costoso | 15 a 20 por segmento y momento. |
+| No traducir a decisiones | Se queda en el diagnóstico | Conectar con producto, mensaje, precio y proceso. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **job** y **circumstance** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **push** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **reconstruir evento de cambio → identificar circunstancia y progreso buscado** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **switch events** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **jobs to Be Done**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **JTBD es una lente, no una taxonomía universal. Puede complementar segmentación, necesidades y analítica; forzar toda decisión a un job puede ocultar restricciones organizacionales, regulación o economía.**?
+1. ¿Qué es un trabajo a realizar y qué lo diferencia de un perfil de cliente?
+2. ¿Qué partes tiene una declaración de trabajo?
+3. ¿Cuáles son las tres dimensiones del trabajo?
+4. ¿Cómo se identifica la competencia real?
+5. ¿Qué cuatro fuerzas intervienen en una decisión de cambio?
+6. ¿Cómo orienta el trabajo las decisiones de producto y mensaje?
+7. ¿Qué límites tiene el enfoque?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El progreso que alguien quiere lograr en una circunstancia; explica por qué compra, mientras el perfil solo describe quién es.
+2. Situación, motivación y resultado esperado.
+3. Funcional, emocional y social.
+4. Preguntando qué usaban antes, qué consideraron y qué los habría hecho no cambiar; incluye soluciones de otras categorías y no hacer nada.
+5. El empuje del problema, la atracción de la solución, la ansiedad ante lo nuevo y el hábito o la inercia.
+6. Define qué atributos importan, cómo hablar al cliente (situación y progreso), qué experiencia atender, qué precio es razonable y en qué canal ocurre la circunstancia.
+7. Es una teoría explicativa cualitativa: no dimensiona por sí misma cada trabajo, hay varias escuelas, los casos son seleccionados y requiere buenas entrevistas.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/148-jobs-to-be-done/`:
 
-- `leadership-decision-brief.md` con el problema específico de **jobs to Be Done**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **jobs to Be Done** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **job**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un software de videollamadas cree competir solo con otras apps. Al estudiar cambios descubre que para capacitaciones internas compite también con grabaciones asincrónicas, documentos y reuniones presenciales.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el análisis del caso ejecutivo;
+- `product-evidence-brief.md` (plantilla [Product evidence brief](../../../../templates/product-evidence-brief.md)) con los trabajos, las fuerzas y la evidencia;
+- `decision-journal.md` con las decisiones derivadas y las métricas de efecto.
 
 ## 📗 Fuentes y verificación
 
-- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** equipos de producto, discovery, riesgos de producto y outcomes. Lectura selectiva sobre **jobs to be done**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
-- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia. Lectura selectiva sobre **jobs to be done**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
-- Clayton M. Christensen — *The Innovator's Dilemma* (Harvard Business School Press, 1997). **Uso en esta clase:** perspectiva de Innovación aplicada al problema de la clase. Lectura selectiva sobre **jobs to be done**. **Localizador:** [ISBN-13 9780875845852](https://openlibrary.org/isbn/9780875845852).
-- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** hipótesis de negocio, experimentos, evidencia y reducción de riesgo. Lectura selectiva sobre **jobs to be done**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
-- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** build-measure-learn, MVP y aprendizaje validado. Lectura selectiva sobre **jobs to be done**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
-- Dan Olsen — *The Lean Product Playbook* (Wiley, 2015). **Uso en esta clase:** perspectiva de Producto aplicada al problema de la clase. Lectura selectiva sobre **jobs to be done**. **Localizador:** [ISBN-13 9781118960875](https://openlibrary.org/isbn/9781118960875).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **jobs to be done** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **jobs to be done**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **jobs to be done** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **jobs to be done** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **jobs to be done** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** teoría del trabajo, dimensiones y competencia real. Lectura selectiva sobre **jobs to be done**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
+- Alexander Osterwalder et al. — *Value Proposition Design* (John Wiley & Sons, Incorporated, 2014). **Uso en esta clase:** perfil del cliente y mapa de valor. Lectura selectiva sobre **jobs to be done**. **Localizador:** [ISBN-13 9781118968062](https://openlibrary.org/isbn/9781118968062).
+- Rob Fitzpatrick — *The Mom Test* (CreateSpace, 2014). **Uso en esta clase:** entrevistas con hechos. Lectura selectiva sobre **jobs to be done**. **Localizador:** [ISBN-13 9781492180746](https://openlibrary.org/isbn/9781492180746).
+- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** oportunidades a partir de entrevistas. Lectura selectiva sobre **jobs to be done**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
+- Clayton M. Christensen — *The Innovator's Dilemma* (Harvard Business School Press, 1997). **Uso en esta clase:** innovaciones sostenidas y disruptivas. Lectura selectiva sobre **jobs to be done**. **Localizador:** [ISBN-13 9780875845852](https://openlibrary.org/isbn/9780875845852).
 
-> **Regla de fuentes para Jobs to Be Done:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **jobs to Be Done** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Jobs to Be Done:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de seguros y de protección de datos. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

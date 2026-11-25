@@ -10,217 +10,191 @@
 
 ## 🎯 Propósito
 
-Un comité de producto integra estrategia, evidencia de cliente, métricas, riesgos, capacidad y economía para decidir una cartera de apuestas. El capstone exige defender no solo qué construir, sino qué problema priorizar, qué abandonar y qué aprendizaje precede a un compromiso mayor.
+Un comité de producto es el lugar donde se decide en qué apostar, con cuánta evidencia y cuánto riesgo. Es también donde con más frecuencia se toman malas decisiones por buenas razones aparentes: se premia la presentación más pulida y no la evidencia más sólida, se aprueban funciones que alguien poderoso quiere, se financian iniciativas completas sin haber probado sus supuestos centrales, o se cancelan apuestas valiosas por una métrica mal interpretada. Lo que distingue a un buen comité no es la brillantez de sus miembros sino la calidad de su **proceso**: qué evidencia exige, qué preguntas hace y cómo registra sus decisiones.
 
-La salida de esta parte es **convertir problemas de clientes en productos validados y outcomes medibles**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: comité de producto** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Este capstone integra la parte 12: producto frente a proyecto (145), problema y resultado (146), descubrimiento de clientes (147), trabajos a realizar (148), prototipos (149), producto mínimo viable (150), roadmap de resultados (151), priorización por costo de oportunidad (152), experimentos (153), métricas (154) y ajuste producto–mercado (155). Se apoya en Cagan, Perri, Torres, Ries, Olsen, Christensen, Reinertsen y en la literatura sobre gestión de la innovación (Henderson y Clark; Cooper). Al terminar sabrás preparar y evaluar una propuesta con evidencia, someterla a preguntas críticas y decidir por etapas con criterios de detención.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `product portfolio`, `product thesis`, `kill criteria`, `evidence ladder`, `portfolio balance` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. presentar tesis y evidencia → 2. comparar outcomes y economics → 3. examinar riesgos y dependencias → 4. asignar capacidad con kill criteria → 5. registrar decisiones y próximas pruebas** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** portfolio outcome, capital per bet, retention sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Estructurar** una propuesta de producto con problema, evidencia, valor, riesgos y decisión solicitada.
+2. **Evaluar** la fuerza de la evidencia de cada afirmación.
+3. **Decidir** la inversión por etapas, con hitos y criterios de detención.
+4. **Distinguir** tipos de innovación y su riesgo organizacional.
+5. **Registrar** la decisión y el aprendizaje del comité.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define product portfolio y product thesis sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con portfolio outcome y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ordena cuatro tipos de evidencia (opinión, anécdota, dato observacional, experimento) de más débil a más fuerte y da un ejemplo de cada una de tu empresa. |
+| 20–60 min | Estructura de la propuesta, escala de evidencia, tipos de innovación y decisión por etapas. |
+| 60–105 min | Ejemplo trabajado: un comité evalúa tres propuestas con evidencia distinta. |
+| 105–150 min | Caso ejecutivo integrado. |
+| 150–175 min | Rúbrica, límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **product portfolio** | conjunto de productos o apuestas que compiten por capital y talento | Distingue un hecho compatible y otro que lo refute. |
-| **product thesis** | argumento que conecta problema segmento propuesta y ventaja | Distingue un hecho compatible y otro que lo refute. |
-| **kill criteria** | condiciones predefinidas para detener una apuesta | Distingue un hecho compatible y otro que lo refute. |
-| **evidence ladder** | progresión desde señales débiles hasta comportamiento real y pago | Distingue un hecho compatible y otro que lo refute. |
-| **portfolio balance** | distribución de apuestas por horizonte riesgo y retorno | Distingue un hecho compatible y otro que lo refute. |
+| **Comité de producto** | Instancia que decide inversión y prioridades en producto. | Decide con criterios y registra sus razones. |
+| **Escala de evidencia** | Ordenamiento de las fuentes de información según su fuerza para sostener una afirmación. | Opinión, anécdota, observacional, experimento. |
+| **Inversión por etapas** | Financiamiento de una apuesta en tramos ligados a hitos de aprendizaje. | Cada tramo desbloquea el siguiente. |
+| **Innovación incremental y arquitectónica** | Mejora de componentes frente a reconfiguración de cómo se combinan. | Distinto impacto en la organización. |
+| **Puerta (gate)** | Punto de decisión para continuar, ajustar o detener. | Criterios definidos de antemano. |
+| **Registro de decisiones** | Documento con lo decidido, razón, evidencia y supuestos. | Permite aprender después. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 156: 1. presentar tesis y evidencia → 2. comparar outcomes y economics → 3. examinar riesgos y dependencias → 4. asignar capacidad con kill criteria → 5. registrar decisiones y próximas pruebas](modelo-mental.svg)
+![Tres bloques de la presentación a un comité de producto: evidencia, valor y estrategia, y decisión, con las clases de la parte asociadas a cada uno.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. presentar tesis y evidencia → 2. comparar outcomes y economics → 3. examinar riesgos y dependencias → 4. asignar capacidad con kill criteria → 5. registrar decisiones y próximas pruebas
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un comité de producto integra estrategia, evidencia de cliente, métricas, riesgos, capacidad y economía para decidir una cartera de apuestas. El capstone exige defender no solo qué construir, sino qué problema priorizar, qué abandonar y qué aprendizaje precede a un compromiso mayor.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un comité no debe convertirse en microgestión semanal. La gobernanza define tesis, límites y recursos; los equipos conservan autonomía sobre aprendizaje y solución dentro de esos límites.**
+**Cómo leer el diagrama.** Tres columnas. La **evidencia** reúne el problema y el usuario validados (146–148), las pruebas y experimentos (149, 150, 153) y las métricas y señales de ajuste (154–155). **Valor y estrategia** reúne el resultado esperado y el roadmap (151), la priorización y el costo de oportunidad (152) y la distinción entre producto y proyecto (145). **Decisión** reúne lo que se pide al comité y con qué condiciones, los criterios para perseverar, ajustar o detener y el dueño, calendario y revisión. La nota recuerda que el comité no premia la mejor idea sino la mejor evidencia.
 
 ## 📖 Desarrollo
 
-### 1. product portfolio: mecanismo central
+### 1. La propuesta que un comité puede juzgar
 
-**product portfolio** se entiende aquí como **conjunto de productos o apuestas que compiten por capital y talento**. Esta es la pieza causal o estructural desde la que se inicia **capstone: comité de producto**: antes de presentar tesis y evidencia, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Una propuesta útil cabe en dos a cuatro páginas: **problema y usuario** (clase 146) con evidencia; **resultado esperado** con línea base, meta y plazo; **trabajo a realizar** y alternativas del cliente (148); **solución propuesta y alternativas** consideradas; **suposiciones críticas** y cuáles se probaron (149, 150, 153); **riesgos** de valor, usabilidad, viabilidad técnica y de negocio (145); **economía** (inversión, costos, ingresos esperados, sensibilidad); **plan por etapas** con hitos y criterios; y **decisión solicitada**. Cagan recomienda que las propuestas lleguen al comité con **evidencia de descubrimiento**, no con intuiciones. Un comité que solo recibe presentaciones de solución no puede evaluar si el problema existe.
 
-La lectura rectora de este bloque es Marty Cagan — *Inspired*. Su aporte se usa para examinar **equipos de producto, discovery, riesgos de producto y outcomes**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **portfolio outcome**; regístrala con periodo, unidad, población y baseline.
+### 2. Evaluar la fuerza de la evidencia
 
-Relaciona el mecanismo con **product thesis**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se aplica una escala. **Opinión** (de expertos o directivos): la más débil. **Anécdota** (un cliente, un caso). **Datos observacionales** (patrones de uso, encuestas): útiles, con riesgo de confusión. **Experimento** con grupo de control o **compromisos reales de clientes** (pagos, pilotos, contratos): la más fuerte. Para cada afirmación central de la propuesta —«hay un problema grande», «los clientes pagarán», «podemos construirlo», «el costo es X»— se pregunta: **¿qué evidencia tenemos y cuán fuerte es?** Kahneman, Sibony y Sunstein sugieren además recoger juicios individuales antes de discutir, para reducir la influencia de quien habla primero o tiene más rango.
 
-### 2. product thesis: frontera conceptual y error de clasificación
+### 3. Tipos de innovación y riesgo organizacional
 
-**Definición operacional:** argumento que conecta problema segmento propuesta y ventaja. Su valor está en distinguirlo de **product portfolio** y **kill criteria**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+No todas las apuestas son iguales. Henderson y Clark distinguen la innovación **incremental** (mejora componentes dentro de la arquitectura existente), **modular** (cambia un componente sin cambiar la arquitectura), **arquitectónica** (reconfigura cómo se combinan los componentes) y **radical** (cambia componentes y arquitectura). La arquitectónica es la más difícil para las empresas establecidas porque exige cambiar canales de información y formas de trabajo que el éxito pasado consolidó. Christensen añade que las innovaciones **disruptivas** suelen empezar en segmentos que los líderes ignoran por poco rentables. Un comité debe preguntar qué tipo de apuesta es y si la organización tiene la capacidad de ejecutarla.
 
-Contrasta el problema con Teresa Torres — *Continuous Discovery Habits*, que aporta una mirada sobre **discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia**. Formula dos mini-casos: uno que sí satisface la definición de **product thesis** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **capital per bet** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Inversión por etapas y puertas
 
-Antes de comparar outcomes y economics, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Cooper describe los sistemas de **etapas y puertas** (*stage-gate*) para gestionar desarrollos de productos: se divide el trabajo en etapas (descubrimiento, definición, desarrollo, prueba, lanzamiento), con una **puerta** al final de cada una en que se decide continuar, ajustar o detener, con criterios definidos. Aplicado con rigidez, puede volverse burocrático y lento; aplicado con criterio (y adaptado a ciclos ágiles), da **disciplina de inversión**: se libera dinero a medida que se reduce la incertidumbre. En la práctica: una primera etapa de bajo costo para probar la suposición más arriesgada, una segunda para validar la economía y una tercera para escalar. Reinertsen añade que las decisiones deben tomarse con rapidez y con la mejor información económica disponible.
 
-### 3. kill criteria: operacionalización y medición
+### 5. Preguntas críticas del comité
 
-**kill criteria** significa **condiciones predefinidas para detener una apuesta**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un comité efectivo hace preguntas que desafían sin humillar: **¿Cuál es la suposición que, si fuera falsa, invalida la propuesta? ¿Cómo la probaron? ¿Qué harían con un resultado contrario? ¿Qué alternativa cero (no hacer nada) y qué otras soluciones consideraron? ¿Qué sabemos de los clientes que no compran? ¿Cuál es el costo del retraso y el costo de oportunidad? ¿Qué cambia en la organización si funciona? ¿Qué falla primero en la ejecución? ¿Cuál es la peor consecuencia razonable?** También se realiza un **premortem** («imaginemos que fracasó en dos años: ¿por qué?») y se pide a alguien que haga de **abogado del diablo**. Se registran los desacuerdos y las condiciones.
 
-Rob Fitzpatrick — *The Mom Test* orienta este bloque mediante **perspectiva de Customer discovery aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **retention**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Decidir con condiciones
 
-Al llegar a examinar riesgos y dependencias, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Las decisiones posibles son: **aprobar por etapas** (liberar el primer tramo con hitos), **aprobar con condiciones** (por ejemplo, contratos firmados o aprobación regulatoria), **pedir más evidencia** con plazo y criterio de lo que se necesita, **aprobar una versión menor** o **rechazar** con razones. Se definen **criterios de detención** antes de comenzar (qué resultado, en qué fecha, hará que se pause o se cierre, clase 083), un **dueño** con autoridad, un **calendario de informes** y la **revisión posterior** (a 6 y 12 meses). Perri destaca que la responsabilidad por **resultados** requiere que el comité asigne objetivos y no listas de funciones.
 
-### 4. evidence ladder: trade-offs y efectos de segundo orden
+### 7. Registrar y aprender
 
-**Definición:** progresión desde señales débiles hasta comportamiento real y pago. Este concepto obliga a abandonar la idea de que **capstone: comité de producto** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de asignar capacidad con kill criteria, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-David J. Bland & Alexander Osterwalder — *Testing Business Ideas* aporta una lente sobre **hipótesis de negocio, experimentos, evidencia y reducción de riesgo**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **learning velocity** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capstone: comité de producto**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **evidence ladder** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. portfolio balance: gobernanza, límites e integración
-
-**portfolio balance** se define como **distribución de apuestas por horizonte riesgo y retorno** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Eric Ries — *The Lean Startup* se utiliza para estudiar **build-measure-learn, MVP y aprendizaje validado** y contrastar la recomendación final. Al ejecutar registrar decisiones y próximas pruebas, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un comité no debe convertirse en microgestión semanal. La gobernanza define tesis, límites y recursos; los equipos conservan autonomía sobre aprendizaje y solución dentro de esos límites.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **product portfolio**, **product thesis**, **kill criteria**, **evidence ladder** y **portfolio balance** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: comité de producto** no consiste en sumar cinco definiciones. Empieza por **product portfolio**, contrasta **product thesis** con **kill criteria**, incorpora **evidence ladder** como restricción o mecanismo y usa **portfolio balance** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. presentar tesis y evidencia → 2. comparar outcomes y economics → 3. examinar riesgos y dependencias → 4. asignar capacidad con kill criteria → 5. registrar decisiones y próximas pruebas**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El comité registra cada decisión: propuesta, evidencia presentada, preguntas y respuestas, desacuerdos, decisión, condiciones, criterios y fecha de revisión. A los 6 y 12 meses se compara lo ocurrido con lo esperado: ¿qué supuestos se cumplieron?, ¿qué sesgos aparecieron (optimismo, costo hundido)?, ¿qué haríamos distinto? También se evalúa el **proceso del comité**: ¿qué proporción de aprobaciones llegó a sus metas?, ¿cuánto tardó en decidir?, ¿se usaron las preguntas críticas?, ¿se detuvieron a tiempo las apuestas que no funcionaban? Un comité que no mide su propia calidad repite sus errores.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marty Cagan — *Inspired* | equipos de producto, discovery, riesgos de producto y outcomes | ¿Qué supuesto de **capstone: comité de producto** ayuda a desafiar? |
-| Teresa Torres — *Continuous Discovery Habits* | discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia | ¿Qué supuesto de **capstone: comité de producto** ayuda a desafiar? |
-| Rob Fitzpatrick — *The Mom Test* | perspectiva de Customer discovery aplicada al problema de la clase | ¿Qué supuesto de **capstone: comité de producto** ayuda a desafiar? |
-| David J. Bland & Alexander Osterwalder — *Testing Business Ideas* | hipótesis de negocio, experimentos, evidencia y reducción de riesgo | ¿Qué supuesto de **capstone: comité de producto** ayuda a desafiar? |
-| Eric Ries — *The Lean Startup* | build-measure-learn, MVP y aprendizaje validado | ¿Qué supuesto de **capstone: comité de producto** ayuda a desafiar? |
-
-En **capstone: comité de producto**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **product portfolio**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Cagan | Descubrimiento, cuatro riesgos y equipos empoderados. | Experiencia de empresas de tecnología. | ¿Qué riesgo no se ha probado? |
+| Perri | Resultados y estrategia de producto. | Enfoque organizacional. | ¿Qué resultado se le pide al equipo? |
+| Henderson y Clark (1990) | Tipos de innovación y fracaso de empresas establecidas ante la arquitectónica. | Estudio de industrias específicas. | ¿Qué tipo de apuesta es esta? |
+| Cooper (1990) | Sistema de etapas y puertas. | Puede volverse rígido. | ¿Qué criterio tiene cada puerta? |
+| Christensen (*Innovator's Dilemma*) | Innovación disruptiva y segmentos ignorados. | Teoría con excepciones. | ¿Qué segmento estás desatendiendo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** El comité dispone de diez equipos para seis iniciativas: una core con churn alto, dos extensiones enterprise, dos apuestas de IA y una migración obligatoria. Cada sponsor declara su iniciativa estratégica.
+**Situación (hipotética).** El comité de producto de una empresa de software para clínicas, con un presupuesto trimestral de USD 900.000 para nuevas apuestas, evalúa tres propuestas.
 
-**Paso 1 — presentar tesis y evidencia.** La gerencia escribe primero el supuesto asociado a **product portfolio** y evita convertirlo en hecho. Luego busca **portfolio outcome** para contrastarlo en el caso de **capstone: comité de producto**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Propuesta | Inversión pedida | Evidencia presentada |
+|---|---|---|
+| A. Módulo de telemedicina | USD 600.000 | Una encuesta a 40 clientes (80 % «sería útil»); dos clientes lo piden; cinco competidores lo ofrecen |
+| B. Recordatorios inteligentes para reducir inasistencias | USD 250.000 | 18 entrevistas; datos propios (inasistencia de 17 %); prueba de concepto con 3 clínicas durante 8 semanas: la inasistencia bajó de 17 % a 12 % frente a clínicas de comparación sin cambio |
+| C. Reconfigurar la plataforma como red abierta de aplicaciones de terceros | USD 1,4 millones | Visión estratégica; entrevistas a 6 aliados potenciales; sin pruebas |
 
-**Paso 2 — comparar outcomes y economics.** La gerencia escribe primero el supuesto asociado a **product thesis** y evita convertirlo en hecho. Luego busca **capital per bet** para contrastarlo en el caso de **capstone: comité de producto**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Evaluación del comité con la escala de evidencia.**
 
-**Paso 3 — examinar riesgos y dependencias.** La gerencia escribe primero el supuesto asociado a **kill criteria** y evita convertirlo en hecho. Luego busca **retention** para contrastarlo en el caso de **capstone: comité de producto**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- **A**: la evidencia es de opinión y de encuesta de intención (débil); la telemedicina es una función que casi todos tienen; hay riesgos regulatorios (se verifican con la normativa de salud vigente y con el área legal) y de adopción; el valor diferencial es incierto. Decisión: **no financiar el módulo completo**; aprobar USD 40.000 para entrevistas de decisión y un piloto de «mago de Oz» con dos clínicas, con criterios: al menos 30 % de los pacientes de esas clínicas con consulta virtual usándola dos veces en un mes y disposición a pagar.
+- **B**: evidencia fuerte (comparación con grupo de control, aunque pequeño); valor medible: reducir 5 puntos de inasistencia en una clínica con 8.000 citas al mes equivale a 400 citas más atendidas, unos USD 24.000 mensuales a USD 60 por cita; con 70 clínicas clientes, el potencial es considerable. Riesgo: la muestra es pequeña y el efecto de novedad. Decisión: **aprobar USD 250.000 por etapas**: USD 80.000 para ampliar a 15 clínicas durante 12 semanas con un diseño de control y métricas de protección (quejas, opt-out), y el resto condicionado a que la reducción sea ≥ 3 puntos con intervalo de confianza que excluya cero.
+- **C**: innovación arquitectónica y de alto riesgo para una empresa cuyo éxito depende de su arquitectura actual; sin evidencia de demanda; alta inversión. Decisión: **no aprobar**; encargar a un equipo pequeño un descubrimiento de 8 semanas (USD 60.000) con 10 aliados en un caso específico, y volver al comité con evidencia de compromiso (acuerdos de integración o ingresos).
 
-**Paso 4 — asignar capacidad con kill criteria.** La gerencia escribe primero el supuesto asociado a **evidence ladder** y evita convertirlo en hecho. Luego busca **learning velocity** para contrastarlo en el caso de **capstone: comité de producto**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Registro.** Se anotan las preguntas y los desacuerdos (el director comercial insistió en A por presión de clientes; el de tecnología, en C por visión). Se acuerdan criterios, dueños y revisión a 90 días. Premortem de B: «fracasó porque los mensajes molestaron a los pacientes o porque las clínicas no los configuraron»; mitigación: control de frecuencia y configuración asistida.
 
-**Paso 5 — registrar decisiones y próximas pruebas.** La gerencia escribe primero el supuesto asociado a **portfolio balance** y evita convertirlo en hecho. Luego busca **kill-continue ratio** para contrastarlo en el caso de **capstone: comité de producto**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Asignación.** Aprobado en total USD 80.000 + 40.000 + 60.000 = USD 180.000 de los USD 900.000 disponibles para el trimestre; el resto se reserva para el siguiente tramo de B si se cumplen los criterios y para nuevas apuestas.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: comité de producto**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La evidencia de cada propuesta fue distinta y se juzgó en consecuencia. (2) Las decisiones fueron por etapas con criterios. (3) Se registró el proceso y se distinguieron tipos de innovación.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **product portfolio** | conjunto de productos o apuestas que compiten por capital y talento | Cuando portfolio outcome es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **product thesis** | argumento que conecta problema segmento propuesta y ventaja | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Comité de producto frente a equipo de producto.** El equipo descubre y construye; el comité asigna inversión y define el contexto estratégico. Si el comité decide qué funciones construir, vuelve a la trampa de la construcción (clase 145).
 
-**Frontera de aplicación:** Un comité no debe convertirse en microgestión semanal. La gobernanza define tesis, límites y recursos; los equipos conservan autonomía sobre aprendizaje y solución dentro de esos límites.
+**Límites.** Los comités pueden volverse lentos y burocráticos; la rapidez se logra con criterios claros y delegación para decisiones pequeñas. Las etapas y puertas pueden frenar la innovación si se aplican de forma rígida. La evidencia perfecta no existe, y esperar a tenerla también cuesta. Los casos de innovación arquitectónica son difíciles de evaluar con la misma vara que las mejoras incrementales. Las cifras son ilustrativas. Las propuestas con implicancias regulatorias, de datos o contractuales requieren asesoría especializada.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: comité de producto |
+| Nivel | Cómo participa en el comité de producto |
 |---|---|
-| **Profesional** | usa **capstone: comité de producto** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **product portfolio** y **product thesis** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta portfolio outcome con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: comité de producto cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: comité de producto reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: comité de producto** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta evidencia precisa y reconoce lo que no sabe. |
+| **Jefe / Team Lead** | Presenta propuestas con problema, evidencia y plan por etapas. |
+| **Gerente** | Evalúa con la escala de evidencia y decide con condiciones. |
+| **CEO / Director** | Protege el proceso, la evidencia y el derecho a detener apuestas. |
+| **Founder / Owner** | Decide con su propio capital y se obliga a probar antes de comprometerlo todo. |
 
 ## 🏢 Caso ejecutivo
 
-El comité dispone de diez equipos para seis iniciativas: una core con churn alto, dos extensiones enterprise, dos apuestas de IA y una migración obligatoria. Cada sponsor declara su iniciativa estratégica.
+Una empresa de tecnología financiera para pequeños comercios (800 empleados) tiene un comité de producto que se reúne cada trimestre. Este trimestre recibe cuatro propuestas con un presupuesto total de USD 6 millones: (A) tarjeta de crédito propia para clientes comerciantes (USD 3 millones; evidencia: encuesta de interés a 300 comercios, 62 % «interesados»; riesgo regulatorio y de crédito); (B) automatizar la conciliación contable con un asistente de inteligencia artificial (USD 1,2 millones; piloto con 25 comercios: ahorro de 6 horas mensuales y 78 % lo mantiene tras tres meses; se paga en 60 % de los casos); (C) rediseñar la aplicación móvil (USD 1,5 millones; evidencia: opiniones del equipo y reseñas, sin métricas de uso); (D) programa de educación financiera para comerciantes (USD 300.000; entrevistas, sin datos de efecto). El director general quiere aprobar A por su potencial; el de riesgo advierte exposición de crédito y regulación; el de producto, B; marketing, C.
 
-Entrega un **decision brief de capstone: comité de producto** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de decisión del comité** que contenga: (a) la evaluación de cada propuesta con la escala de evidencia y los tipos de riesgo; (b) la clasificación de los tipos de innovación y las capacidades requeridas; (c) la decisión por propuesta con etapas, hitos, criterios de detención y dueños; (d) el análisis del costo de oportunidad y del costo del retraso para el orden; (e) las preguntas críticas y el premortem de la propuesta que se apruebe; (f) las verificaciones regulatorias (crédito, datos financieros) con las fuentes vigentes y asesoría legal, y el registro de la decisión.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: comité de producto** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. presentar tesis y evidencia → 2. comparar outcomes y economics → 3. examinar riesgos y dependencias → 4. asignar capacidad con kill criteria → 5. registrar decisiones y próximas pruebas** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta portfolio outcome, capital per bet; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Reescribe una propuesta real como documento de tres páginas con evidencia clasificada.
+2. Clasifica cada afirmación de una propuesta según la escala de evidencia.
+3. Diseña una inversión por etapas con tres hitos y criterios de detención.
+4. Escribe diez preguntas críticas y un premortem para una propuesta.
+5. Redacta el registro de una decisión con evidencia, desacuerdos y fecha de revisión.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar product portfolio y product thesis como sinónimos | Se pierde la distinción entre “conjunto de productos o apuestas que compiten por capital y talento” y “argumento que conecta problema segmento propuesta y ventaja” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “registrar decisiones y próximas pruebas” | Se saltó “presentar tesis y evidencia” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. presentar tesis y evidencia → 2. comparar outcomes y economics → 3. examinar riesgos y dependencias → 4. asignar capacidad con kill criteria → 5. registrar decisiones y próximas pruebas y marca el primer supuesto no demostrado. |
-| Optimizar solo portfolio outcome | La métrica local sustituyó al resultado del sistema | Contrástala con capital per bet y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: comité de producto | Un comité no debe convertirse en microgestión semanal. La gobernanza define tesis, límites y recursos; los equipos conservan autonomía sobre aprendizaje y solución dentro de esos límites. |
-| No fijar revisión | Una decisión sobre capstone: comité de producto se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Premiar la mejor presentación | Se juzga la forma | Escala de evidencia y preguntas críticas. |
+| Financiar todo de una vez | Se evita volver al comité | Inversión por etapas. |
+| No tener criterios de detención | Se evita el conflicto | Definirlos antes de gastar. |
+| Decidir por la voz más fuerte | Presión de poder | Juicios independientes antes de discutir. |
+| Tratar toda innovación igual | Se ignora la arquitectura | Distinguir tipos y capacidades. |
+| No revisar decisiones | Se pasa al siguiente tema | Revisión posterior a 6 y 12 meses. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **product portfolio** y **product thesis** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **kill criteria** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **presentar tesis y evidencia → comparar outcomes y economics** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **portfolio outcome** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: comité de producto**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un comité no debe convertirse en microgestión semanal. La gobernanza define tesis, límites y recursos; los equipos conservan autonomía sobre aprendizaje y solución dentro de esos límites.**?
+1. ¿Qué debe contener una propuesta evaluable?
+2. ¿Cómo se ordena la evidencia de más débil a más fuerte?
+3. ¿Qué diferencia hay entre innovación incremental y arquitectónica?
+4. ¿Qué es una puerta y para qué sirve?
+5. ¿Qué preguntas críticas debe hacer un comité?
+6. ¿Qué decisiones posibles tiene, además de aprobar o rechazar?
+7. ¿Qué se registra y se revisa después?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Problema y usuario con evidencia, resultado esperado, trabajo a realizar, alternativas, suposiciones críticas y su prueba, riesgos, economía, plan por etapas y decisión solicitada.
+2. Opinión, anécdota, datos observacionales y experimento o compromisos reales de clientes.
+3. La incremental mejora componentes dentro de la arquitectura existente; la arquitectónica reconfigura cómo se combinan, lo que exige cambiar canales de información y formas de trabajo.
+4. Un punto de decisión al final de una etapa para continuar, ajustar o detener, con criterios definidos de antemano; permite liberar inversión a medida que se reduce la incertidumbre.
+5. Cuál es la suposición que invalida la propuesta, cómo se probó, qué alternativas hay, qué pasa si falla, qué cambia en la organización y cuál es la peor consecuencia razonable.
+6. Aprobar por etapas, con condiciones, pedir más evidencia con plazo, aprobar una versión menor o rechazar con razones.
+7. La decisión, la evidencia, las preguntas, los desacuerdos, las condiciones, los criterios y la fecha de revisión; luego se compara con lo ocurrido a los 6 y 12 meses.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/156-capstone-comite-de-producto/`:
 
-- `product-evidence-brief.md` con el problema específico de **capstone: comité de producto**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: comité de producto** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **product portfolio**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **El comité dispone de diez equipos para seis iniciativas: una core con churn alto, dos extensiones enterprise, dos apuestas de IA y una migración obligatoria. Cada sponsor declara su iniciativa estratégica.** y el dato que podría invalidar la recomendación.
+- `product-evidence-brief.md` (plantilla [Product evidence brief](../../../../templates/product-evidence-brief.md)) con la evaluación de las cuatro propuestas del caso ejecutivo;
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el memo de decisión y las etapas;
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con la economía y la sensibilidad de la propuesta aprobada;
+- `decision-journal.md` con las preguntas, los desacuerdos, los criterios y la fecha de revisión.
 
 ## 📗 Fuentes y verificación
 
-- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** equipos de producto, discovery, riesgos de producto y outcomes. Lectura selectiva sobre **capstone: comité de producto**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
-- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia. Lectura selectiva sobre **capstone: comité de producto**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
-- Rob Fitzpatrick — *The Mom Test* (CreateSpace, 2014). **Uso en esta clase:** perspectiva de Customer discovery aplicada al problema de la clase. Lectura selectiva sobre **capstone: comité de producto**. **Localizador:** [ISBN-13 9781492180746](https://openlibrary.org/isbn/9781492180746).
-- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** hipótesis de negocio, experimentos, evidencia y reducción de riesgo. Lectura selectiva sobre **capstone: comité de producto**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
-- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** build-measure-learn, MVP y aprendizaje validado. Lectura selectiva sobre **capstone: comité de producto**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
-- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** jobs to be done y comprensión causal de por qué un cliente elige una solución. Lectura selectiva sobre **capstone: comité de producto**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: comité de producto** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: comité de producto**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: comité de producto** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: comité de producto** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: comité de producto** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** descubrimiento, cuatro riesgos y equipos empoderados. Lectura selectiva sobre **capstone: comité de producto**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
+- Melissa Perri — *Escaping the Build Trap* (O'Reilly, 2019). **Uso en esta clase:** resultados y estrategia de producto. Lectura selectiva sobre **capstone: comité de producto**. **Localizador:** [ISBN-13 9781491973790](https://openlibrary.org/isbn/9781491973790).
+- Rebecca M. Henderson & Kim B. Clark — *Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms* (Administrative Science Quarterly, 1990). **Uso en esta clase:** tipos de innovación y fracaso de empresas establecidas ante la arquitectónica. Lectura selectiva sobre **capstone: comité de producto**. **Localizador:** [DOI 10.2307/2393549](https://doi.org/10.2307/2393549).
+- Robert G. Cooper — *Stage-gate systems: A new tool for managing new products* (Business Horizons, 1990). **Uso en esta clase:** sistema de etapas y puertas. Lectura selectiva sobre **capstone: comité de producto**. **Localizador:** [DOI 10.1016/0007-6813(90)90040-i](https://doi.org/10.1016/0007-6813(90)90040-i).
+- Clayton M. Christensen — *The Innovator's Dilemma* (Harvard Business School Press, 1997). **Uso en esta clase:** innovación disruptiva y segmentos ignorados. Lectura selectiva sobre **capstone: comité de producto**. **Localizador:** [ISBN-13 9780875845852](https://openlibrary.org/isbn/9780875845852).
 
-> **Regla de fuentes para Capstone: comité de producto:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: comité de producto** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capstone: comité de producto:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las regulaciones de salud, crédito y datos financieros. Los ejemplos y casos son hipotéticos y no describen a ninguna empresa real. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

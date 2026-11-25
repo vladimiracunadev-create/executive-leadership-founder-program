@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir problem statement de need mediante evidencia observable."
-  - "Aplicar la secuencia: observar contexto y conducta → formular problema sin solución embebida → definir outcome observable → recoger evidencia de frecuencia e intensidad → priorizar por valor alcance y riesgo."
-  - "Interpretar problem frequency, severity, current workaround sin atribuir causalidad automática."
-  - "Resolver el caso de problema, usuario y outcome con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Describir al usuario y su contexto con evidencia y no con estereotipos."
+  - "Formular un problema sin prescribir la solución."
+  - "Definir un resultado medible con línea base, meta y plazo."
+  - "Organizar oportunidades en un árbol que conecte resultado, oportunidades y soluciones."
+  - "Priorizar oportunidades por importancia, satisfacción actual y alcance."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Marty Cagan — *Inspired*"
+  - "Melissa Perri — *Escaping the Build Trap*"
   - "Teresa Torres — *Continuous Discovery Habits*"
-  - "Rob Fitzpatrick — *The Mom Test*"
-  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
-  - "Eric Ries — *The Lean Startup*"
+  - "Dan Olsen — *The Lean Product Playbook*"
   - "Clayton M. Christensen et al. — *Competing Against Luck*"
+  - "Marty Cagan — *Inspired*"
 limits:
-  - "Un outcome demasiado abstracto no guía decisiones; uno demasiado específico congela la solución. Debe expresar progreso sin predeterminar la interfaz."
+  - "Las puntuaciones de importancia y satisfacción dependen de muestras pequeñas y de cómo se pregunte."
 evidence_signals:
-  - "problem frequency"
-  - "severity"
-  - "current workaround"
-  - "desired outcome"
-  - "segment prevalence"
+  - "problema sin solución sugerida"
+  - "resultado con línea base y plazo"
+  - "oportunidades priorizadas por brecha"
+  - "hipótesis con suposición crítica"

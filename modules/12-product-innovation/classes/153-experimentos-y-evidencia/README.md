@@ -10,217 +10,194 @@
 
 ## 🎯 Propósito
 
-Los experimentos de producto convierten incertidumbre en evidencia mediante hipótesis, tratamiento, comparación y criterio de decisión. Un A/B test es solo una forma; smoke tests, fake doors, concierge, prototipos y pilotos responden preguntas distintas. El diseño debe evitar confundir correlación con efecto causal.
+«Hicimos una prueba y funcionó» es una de las frases más peligrosas en una empresa. ¿Qué se probó?, ¿con quién?, ¿funcionó respecto de qué?, ¿se habría obtenido el mismo resultado sin el cambio? Los equipos de producto que dicen «basarse en datos» a menudo toman decisiones sobre resultados de experimentos mal diseñados: muestras pequeñas, métricas elegidas después, comparaciones con períodos distintos o efectos de novedad. La **experimentación** es una disciplina para saber, con un grado de confianza razonable, si un cambio causa un efecto, y para decidir con esa evidencia sin autoengañarse.
 
-La salida de esta parte es **convertir problemas de clientes en productos validados y outcomes medibles**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **experimentos y evidencia** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el rigor de las pruebas controladas de Kohavi, Tang y Xu, en el aprendizaje validado de Ries, en el catálogo de experimentos de Bland y Osterwalder y en la gestión de riesgos de producto de Cagan. Al terminar sabrás formular una hipótesis comprobable, elegir un diseño de experimento adecuado, definir métricas principal y de protección y tamaño de muestra, interpretar resultados con humildad y registrar el aprendizaje para que la organización lo use.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `experiment`, `control`, `metric guardrail`, `sample size`, `external validity` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. formular hipótesis causal o conductual → 2. elegir diseño proporcional → 3. predefinir métrica y guardrails → 4. ejecutar sin cambiar reglas a mitad → 5. interpretar efecto incertidumbre y transferencia** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** primary metric, guardrail metrics, effect size sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Formular** una hipótesis con métrica, umbral y decisión asociada.
+2. **Elegir** un diseño: prueba controlada, prueba piloto, experimento cualitativo o análisis observacional.
+3. **Definir** la métrica principal, las métricas de protección y la muestra.
+4. **Interpretar** resultados distinguiendo señal, ruido y efectos secundarios.
+5. **Registrar** y compartir el aprendizaje.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define experiment y control sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con primary metric y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda una decisión de producto que tomaste con «datos» y pregunta qué habría ocurrido sin el cambio. |
+| 20–60 min | Hipótesis, diseños, métricas, muestra e interpretación. |
+| 60–105 min | Ejemplo trabajado: probar un cambio de precio y de pantalla de pago. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **experiment** | intervención diseñada para aprender sobre una hipótesis | Distingue un hecho compatible y otro que lo refute. |
-| **control** | condición de comparación que permite atribución | Distingue un hecho compatible y otro que lo refute. |
-| **metric guardrail** | señal que no debe deteriorarse al optimizar otra | Distingue un hecho compatible y otro que lo refute. |
-| **sample size** | tamaño requerido para detectar un efecto relevante con error controlado | Distingue un hecho compatible y otro que lo refute. |
-| **external validity** | grado en que el aprendizaje se transfiere a otros contextos | Distingue un hecho compatible y otro que lo refute. |
+| **Experimento controlado (A/B)** | Comparación de una versión con otra, con asignación aleatoria de personas. | Grupo de control y de tratamiento. |
+| **Hipótesis** | Afirmación que el experimento busca confirmar o refutar. | «Si cambiamos X, Y mejorará en Z». |
+| **Métrica principal** | Indicador que decide el experimento. | Se define antes. |
+| **Métrica de protección (guardrail)** | Indicador que no debe empeorar. | Retención, quejas, rendimiento. |
+| **Significancia y potencia** | Control de falsos positivos y capacidad de detectar un efecto real. | Muestra y duración calculadas. |
+| **Efecto de novedad** | Cambio inicial que se disipa con el tiempo. | El efecto cae en semanas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 153: 1. formular hipótesis causal o conductual → 2. elegir diseño proporcional → 3. predefinir métrica y guardrails → 4. ejecutar sin cambiar reglas a mitad → 5. interpretar efecto incertidumbre y transferencia](modelo-mental.svg)
+![Cinco pasos de un experimento: hipótesis, prueba mínima, métrica y umbral, resultado y decisión, con retorno a la siguiente hipótesis.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. formular hipótesis causal o conductual → 2. elegir diseño proporcional → 3. predefinir métrica y guardrails → 4. ejecutar sin cambiar reglas a mitad → 5. interpretar efecto incertidumbre y transferencia
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Los experimentos de producto convierten incertidumbre en evidencia mediante hipótesis, tratamiento, comparación y criterio de decisión. Un A/B test es solo una forma; smoke tests, fake doors, concierge, prototipos y pilotos responden preguntas distintas. El diseño debe evitar confundir correlación con efecto causal.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo puede o debe randomizarse. Experimentos pequeños, B2B enterprise o cambios irreversibles requieren métodos alternativos y mucha cautela al atribuir causalidad.**
+**Cómo leer el diagrama.** Cinco pasos con retorno. Se parte de una **hipótesis**; se elige la **prueba mínima** más barata; se definen **métrica y umbral** antes de empezar; se analiza el **resultado** con sus límites y lo inesperado; y se toma la **decisión** (perseverar, ajustar o detener). Lo aprendido genera la siguiente hipótesis. La nota recuerda que el umbral se fija antes de ver los datos para no interpretar cualquier resultado como éxito, y que un experimento sin decisión asociada es una actividad, no un aprendizaje.
 
 ## 📖 Desarrollo
 
-### 1. experiment: mecanismo central
+### 1. Qué es evidencia
 
-**experiment** se entiende aquí como **intervención diseñada para aprender sobre una hipótesis**. Esta es la pieza causal o estructural desde la que se inicia **experimentos y evidencia**: antes de formular hipótesis causal o conductual, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Evidencia es información que cambia razonablemente nuestra creencia sobre algo. En producto, la evidencia más débil es la **opinión** (de expertos, de directivos, del cliente enojado); luego, la **anécdota** (un caso); después, los **datos observacionales** (correlaciones en el uso); y la más fuerte para saber si un cambio **causa** un efecto es el **experimento controlado**. Kohavi, Tang y Xu sostienen que la intuición de los expertos falla con frecuencia al predecir qué cambios mejorarán una métrica, y que los experimentos controlados son la forma más confiable de establecer causalidad. Esto no elimina el juicio: ayuda a dirigirlo a lo que importa y a corregirlo con evidencia.
 
-La lectura rectora de este bloque es Marty Cagan — *Inspired*. Su aporte se usa para examinar **equipos de producto, discovery, riesgos de producto y outcomes**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **primary metric**; regístrala con periodo, unidad, población y baseline.
+### 2. Hipótesis y decisión
 
-Relaciona el mecanismo con **control**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Un experimento comienza con una **hipótesis**: «Si mostramos el costo total desde la ficha del producto, aumentará la tasa de compra en 5 %, porque reduce la sorpresa al pagar». Contiene el **cambio**, la **métrica** y el **mecanismo**. Antes de empezar se define la **decisión asociada**: «Si la tasa sube al menos 3 % y las devoluciones no aumentan, se lanza a todos; si sube menos, se descarta; si hay un aumento de devoluciones, se revisa». Sin decisión asociada, cualquier resultado será interpretado a conveniencia. Ries insiste en esta disciplina: el objetivo es el **aprendizaje validado**, no la confirmación de lo que ya creíamos.
 
-### 2. control: frontera conceptual y error de clasificación
+### 3. Elegir el diseño
 
-**Definición operacional:** condición de comparación que permite atribución. Su valor está en distinguirlo de **experiment** y **metric guardrail**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+No todo se puede probar con un experimento A/B. Se elige según el **riesgo**, la **cantidad de usuarios** y la **pregunta**. **Experimento controlado en línea**: ideal con tráfico suficiente y cambios que se pueden asignar al azar. **Piloto con grupo de comparación**: cuando no es posible aleatorizar por usuario (se piloteá en una sucursal frente a otra comparable). **Experimentos de bajo costo** (clase 150): páginas de prueba, preventas, mago de Oz. **Experimentos cualitativos**: entrevistas y pruebas de usabilidad para entender el porqué. **Análisis observacional** con técnicas para reducir sesgos: cuando no hay otra opción; se interpreta con cautela. Bland y Osterwalder organizan experimentos según el tipo de suposición que prueban y el nivel de evidencia que entregan.
 
-Contrasta el problema con Teresa Torres — *Continuous Discovery Habits*, que aporta una mirada sobre **discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia**. Formula dos mini-casos: uno que sí satisface la definición de **control** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **guardrail metrics** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Métricas, protección y muestra
 
-Antes de elegir diseño proporcional, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Se define una **métrica principal** (la que decide), unas pocas **métricas secundarias** (para entender) y **métricas de protección** que no deben empeorar (retención, quejas, rendimiento, ingresos por usuario). Se calcula el **tamaño de muestra** y la **duración** para detectar un efecto mínimo relevante con una probabilidad razonable (potencia) y controlando el riesgo de falsos positivos (significancia). Kohavi y sus coautores recomiendan duraciones de al menos una o dos semanas completas para cubrir ciclos semanales, y cuidado con **detener** el experimento apenas se ve un resultado favorable (inflación de falsos positivos).
 
-### 3. metric guardrail: operacionalización y medición
+### 5. Errores comunes de diseño
 
-**metric guardrail** significa **señal que no debe deteriorarse al optimizar otra**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Los más frecuentes: **asignación defectuosa** (los grupos no son comparables, por ejemplo por errores técnicos: el sistema de asignación es lo primero que se verifica con pruebas A/A); **muestra insuficiente**; **mirar muchas métricas** hasta encontrar una favorable; **cambiar el diseño durante la prueba**; **efecto de novedad o de aprendizaje**; **contaminación entre grupos** (usuarios que se influyen mutuamente); y **segmentación a posteriori** (buscar subgrupos donde «funcionó»). Los resultados que parecen «demasiado buenos» suelen ser errores: se desconfía y se replica antes de actuar.
 
-Eric Ries — *The Lean Startup* orienta este bloque mediante **build-measure-learn, MVP y aprendizaje validado**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **effect size**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Interpretar y decidir
 
-Al llegar a predefinir métrica y guardrails, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Se interpreta el resultado con su **intervalo de confianza** (no solo el valor): «la conversión subió entre 5 % y 15 % en términos relativos» es distinto de «subió 2,1 %». Se examinan las **métricas de protección** y los segmentos principales para detectar efectos opuestos. Se pregunta si el efecto es **práctico**: una mejora estadísticamente real pero minúscula puede no justificar la complejidad. Se distingue **causalidad del cambio** (lo que mide el experimento) de **por qué** (que se explica con investigación cualitativa). Si el resultado es inconcluso, se decide con criterios previos (repetir, ampliar la muestra, aceptar el riesgo o detener).
 
-### 4. sample size: trade-offs y efectos de segundo orden
+### 7. Cultura y registro
 
-**Definición:** tamaño requerido para detectar un efecto relevante con error controlado. Este concepto obliga a abandonar la idea de que **experimentos y evidencia** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de ejecutar sin cambiar reglas a mitad, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Rob Fitzpatrick — *The Mom Test* aporta una lente sobre **perspectiva de Customer discovery aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **confidence interval** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **experimentos y evidencia**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **sample size** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. external validity: gobernanza, límites e integración
-
-**external validity** se define como **grado en que el aprendizaje se transfiere a otros contextos** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Clayton M. Christensen — *The Innovator's Dilemma* se utiliza para estudiar **perspectiva de Innovación aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar interpretar efecto incertidumbre y transferencia, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No todo puede o debe randomizarse. Experimentos pequeños, B2B enterprise o cambios irreversibles requieren métodos alternativos y mucha cautela al atribuir causalidad.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **experiment**, **control**, **metric guardrail**, **sample size** y **external validity** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **experimentos y evidencia** no consiste en sumar cinco definiciones. Empieza por **experiment**, contrasta **control** con **metric guardrail**, incorpora **sample size** como restricción o mecanismo y usa **external validity** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. formular hipótesis causal o conductual → 2. elegir diseño proporcional → 3. predefinir métrica y guardrails → 4. ejecutar sin cambiar reglas a mitad → 5. interpretar efecto incertidumbre y transferencia**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Una organización aprende cuando **registra** cada experimento (hipótesis, diseño, resultado, decisión, aprendizaje) en una biblioteca consultable, **comparte** los resultados negativos (la mayoría de las ideas no mejoran la métrica) y **evita castigar** el fracaso de hipótesis. También cuida la **ética**: los experimentos con personas deben respetar la transparencia, la privacidad y el no daño; los cambios que afectan precios, salud, finanzas o decisiones relevantes requieren especial cuidado y, en algunos casos, consentimiento y revisión legal. Los datos personales se tratan conforme a la normativa vigente.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marty Cagan — *Inspired* | equipos de producto, discovery, riesgos de producto y outcomes | ¿Qué supuesto de **experimentos y evidencia** ayuda a desafiar? |
-| Teresa Torres — *Continuous Discovery Habits* | discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia | ¿Qué supuesto de **experimentos y evidencia** ayuda a desafiar? |
-| Eric Ries — *The Lean Startup* | build-measure-learn, MVP y aprendizaje validado | ¿Qué supuesto de **experimentos y evidencia** ayuda a desafiar? |
-| Rob Fitzpatrick — *The Mom Test* | perspectiva de Customer discovery aplicada al problema de la clase | ¿Qué supuesto de **experimentos y evidencia** ayuda a desafiar? |
-| Clayton M. Christensen — *The Innovator's Dilemma* | perspectiva de Innovación aplicada al problema de la clase | ¿Qué supuesto de **experimentos y evidencia** ayuda a desafiar? |
-
-En **experimentos y evidencia**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **experiment**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Kohavi, Tang y Xu | Diseño, trampas y cultura de experimentos controlados. | Escala de plataformas con mucho tráfico. | ¿Tu asignación y tu muestra son confiables? |
+| Ries | Aprendizaje validado y decisiones de perseverar o pivotar. | Casos de startups. | ¿Qué decisión depende de este resultado? |
+| Bland y Osterwalder | Experimentos por tipo de suposición y nivel de evidencia. | Etapa de validación temprana. | ¿Qué suposición pruebas y con qué fuerza de evidencia? |
+| Cagan | Experimentos para reducir riesgos de producto. | No profundiza en estadística. | ¿Qué riesgo reduce este experimento? |
+| Kahneman et al. (*Noise*) | Sesgo y ruido en juicios; cómo estructurarlos. | No es manual de experimentos. | ¿Qué sesgo puede afectar tu interpretación? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un A/B test sube clics 12%, pero también aumenta cancelaciones y el grupo experimental recibió una campaña distinta. El equipo declara victoria mirando solo CTR.
+**Situación (hipotética).** Una tienda en línea de accesorios para bicicletas tiene 120.000 visitas semanales, una tasa de compra de 2,4 % y un abandono en el pago de 68 %. El equipo plantea dos cambios para la pantalla de pago: (A) mostrar el costo de envío estimado desde la ficha del producto y (B) cambiar el orden de los pasos de pago.
 
-**Paso 1 — formular hipótesis causal o conductual.** La gerencia escribe primero el supuesto asociado a **experiment** y evita convertirlo en hecho. Luego busca **primary metric** para contrastarlo en el caso de **experimentos y evidencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Hipótesis y decisión (cambio A).** «Si mostramos el costo de envío estimado desde la ficha, aumentará en al menos 5 % relativo la tasa de compra, porque reduce la sorpresa en el último paso, sin aumentar las devoluciones ni reducir el valor del carrito.» Decisión: lanzar si la mejora relativa mínima es ≥ 3 % con confianza razonable y las métricas de protección no empeoran.
 
-**Paso 2 — elegir diseño proporcional.** La gerencia escribe primero el supuesto asociado a **control** y evita convertirlo en hecho. Luego busca **guardrail metrics** para contrastarlo en el caso de **experimentos y evidencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diseño.** Asignación aleatoria por usuario (50 % control y 50 % tratamiento); prueba A/A previa de una semana para verificar la asignación (sin diferencias); duración de dos semanas completas (para cubrir los ciclos semanales). Métrica principal: tasa de compra por visitante. Protección: valor medio del pedido, devoluciones a 30 días, quejas por costos, velocidad de carga.
 
-**Paso 3 — predefinir métrica y guardrails.** La gerencia escribe primero el supuesto asociado a **metric guardrail** y evita convertirlo en hecho. Luego busca **effect size** para contrastarlo en el caso de **experimentos y evidencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Tamaño de muestra.** Con tasa base de 2,4 %, para detectar una mejora relativa de 5 % (de 2,4 % a 2,52 %) con potencia de 80 % y un nivel de significancia de 5 %, se necesitan unas 255.000 visitas por grupo; con 120.000 visitas semanales (60.000 por grupo), dos semanas dan unas 120.000 por grupo: la prueba tiene potencia insuficiente para 5 %. Se decide detectar un efecto mínimo relevante de 8 % relativo (de 2,4 % a 2,59 %), para lo que bastan unas 100.000 por grupo, y se mantienen las dos semanas por el ciclo semanal.
 
-**Paso 4 — ejecutar sin cambiar reglas a mitad.** La gerencia escribe primero el supuesto asociado a **sample size** y evita convertirlo en hecho. Luego busca **confidence interval** para contrastarlo en el caso de **experimentos y evidencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultados.**
 
-**Paso 5 — interpretar efecto incertidumbre y transferencia.** La gerencia escribe primero el supuesto asociado a **external validity** y evita convertirlo en hecho. Luego busca **segment heterogeneity** para contrastarlo en el caso de **experimentos y evidencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Métrica | Control | Tratamiento | Diferencia |
+|---|---|---|---|
+| Visitantes | 118.400 | 118.900 | — |
+| Tasa de compra | 2,40 % | 2,64 % | +10 % relativo (intervalo del 95 %: +5 % a +15 %) |
+| Valor medio del pedido | USD 61 | USD 60 | −1,6 % (no concluyente) |
+| Devoluciones a 30 días | 4,1 % | 4,0 % | Sin cambio |
+| Quejas por costos de envío | 0,31 % | 0,18 % | −42 % |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **experimentos y evidencia**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Interpretación.** El efecto es positivo, práctico y sostenido en las dos semanas, sin deterioro de protección. El efecto de novedad es poco probable: no cae entre la semana 1 y la 2 (+11 % y +9 %). Segmentos: la mejora es mayor en visitantes móviles (+14 %) que en computadores (+6 %); no se hace conclusión de subgrupos sin replicar.
+
+**Decisión.** Lanzar el cambio A a todos y registrar el aprendizaje. El cambio B se descarta de la cola por falta de hipótesis fundamentada y se reformula tras entrevistas con compradores que abandonaron. El experimento se archiva en la biblioteca con sus datos y su razón.
+
+**Qué muestra.** (1) Hipótesis y decisión definidas antes. (2) Muestra y duración calculadas y ajustadas con realismo. (3) Se usó intervalo de confianza y métricas de protección.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **experiment** | intervención diseñada para aprender sobre una hipótesis | Cuando primary metric es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **control** | condición de comparación que permite atribución | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Experimento frente a análisis de datos.** El análisis encuentra patrones en datos existentes; el experimento prueba causalidad con una intervención. Los análisis generan hipótesis; los experimentos las ponen a prueba.
 
-**Frontera de aplicación:** No todo puede o debe randomizarse. Experimentos pequeños, B2B enterprise o cambios irreversibles requieren métodos alternativos y mucha cautela al atribuir causalidad.
+**Límites.** Con poco tráfico o con ciclos de decisión largos (ventas empresariales) los experimentos A/B son inviables o lentos; se usan diseños cualitativos y pilotos. Los resultados de un experimento corresponden a una población y un período; no necesariamente se mantienen. Los efectos de largo plazo (retención, reputación) son difíciles de medir en pruebas cortas. Los experimentos con precios, información o decisiones de personas pueden plantear problemas éticos y legales, que se verifican con las normas vigentes y asesoría. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre experimentos y evidencia |
+| Nivel | Cómo participa en la experimentación |
 |---|---|
-| **Profesional** | usa **experimentos y evidencia** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **experiment** y **control** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta primary metric con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si experimentos y evidencia cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de experimentos y evidencia reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **experimentos y evidencia** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Diseña y analiza con rigor y reporta también lo que no funcionó. |
+| **Jefe / Team Lead** | Exige hipótesis, umbrales y decisión antes de cada prueba. |
+| **Gerente** | Construye una cultura de experimentación y una biblioteca de aprendizajes. |
+| **CEO / Director** | Protege el fracaso informativo y desconfía de resultados demasiado buenos. |
+| **Founder / Owner** | Prueba con pocos clientes antes de apostar y confía en datos, no en la intuición. |
 
 ## 🏢 Caso ejecutivo
 
-Un A/B test sube clics 12%, pero también aumenta cancelaciones y el grupo experimental recibió una campaña distinta. El equipo declara victoria mirando solo CTR.
+Una empresa de suscripción de contenidos lanzó, tras un «experimento» de una semana con 400 usuarios, un nuevo diseño de la página de precios que mostraba el plan anual como opción predeterminada y ocultaba la opción de cancelar. La conversión a pago subió 18 %, y la dirección lo generalizó. Tres meses después, las cancelaciones en el primer mes aumentaron 25 %, los reclamos por cobros se triplicaron y la autoridad de consumo abrió un proceso. El equipo de datos revela que el experimento no tenía grupo de control (se comparó con la semana anterior, que fue feriado), que la métrica principal se eligió después y que no se midió la retención. El gerente de crecimiento defiende que «los datos mostraban un aumento claro».
 
-Entrega un **decision brief de experimentos y evidencia** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diseño de experimentación responsable** que contenga: (a) el análisis crítico del experimento original; (b) una hipótesis con métrica principal, umbral y decisión; (c) el diseño (asignación, grupo de control, duración y muestra) y las métricas de protección, incluida la retención a 90 días; (d) el análisis de riesgos éticos y legales del diseño de la página de precios; (e) el plan de interpretación (intervalos, segmentos, novedad); (f) el registro del aprendizaje y las verificaciones de las normas de consumo vigentes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **experimentos y evidencia** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. formular hipótesis causal o conductual → 2. elegir diseño proporcional → 3. predefinir métrica y guardrails → 4. ejecutar sin cambiar reglas a mitad → 5. interpretar efecto incertidumbre y transferencia** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta primary metric, guardrail metrics; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe una hipótesis con métrica, umbral y decisión para un cambio real de tu producto.
+2. Define las métricas de protección que vigilarías.
+3. Calcula, de forma aproximada, la muestra necesaria con la tasa base y el efecto mínimo relevante.
+4. Identifica tres formas en que podrías engañarte con los resultados de esta prueba.
+5. Registra un experimento reciente con hipótesis, resultado, decisión y aprendizaje.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar experiment y control como sinónimos | Se pierde la distinción entre “intervención diseñada para aprender sobre una hipótesis” y “condición de comparación que permite atribución” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “interpretar efecto incertidumbre y transferencia” | Se saltó “formular hipótesis causal o conductual” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. formular hipótesis causal o conductual → 2. elegir diseño proporcional → 3. predefinir métrica y guardrails → 4. ejecutar sin cambiar reglas a mitad → 5. interpretar efecto incertidumbre y transferencia y marca el primer supuesto no demostrado. |
-| Optimizar solo primary metric | La métrica local sustituyó al resultado del sistema | Contrástala con guardrail metrics y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre experimentos y evidencia | No todo puede o debe randomizarse. Experimentos pequeños, B2B enterprise o cambios irreversibles requieren métodos alternativos y mucha cautela al atribuir causalidad. |
-| No fijar revisión | Una decisión sobre experimentos y evidencia se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Comparar con períodos distintos | Es más fácil | Grupo de control concurrente. |
+| Elegir la métrica después | Se busca un éxito | Métrica principal y umbral antes. |
+| Detener al primer resultado favorable | Impaciencia | Duración y muestra definidas. |
+| No medir protección | Se mira solo la conversión | Retención, quejas y devoluciones. |
+| Subgrupos a posteriori | Se quiere salvar el experimento | Replicar antes de concluir. |
+| No registrar | Se olvida | Biblioteca de aprendizajes. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **experiment** y **control** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **metric guardrail** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **formular hipótesis causal o conductual → elegir diseño proporcional** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **primary metric** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **experimentos y evidencia**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No todo puede o debe randomizarse. Experimentos pequeños, B2B enterprise o cambios irreversibles requieren métodos alternativos y mucha cautela al atribuir causalidad.**?
+1. ¿Qué hace más fuerte la evidencia de un experimento controlado?
+2. ¿Qué debe contener una hipótesis de experimento?
+3. ¿Qué es una métrica de protección?
+4. ¿Por qué se calculan muestra y duración antes?
+5. ¿Qué errores comunes invalidan un experimento?
+6. ¿Por qué se interpretan intervalos de confianza y no solo el valor?
+7. ¿Qué cuidados éticos requieren los experimentos con personas?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La asignación aleatoria y el grupo de control concurrente, que permiten atribuir la diferencia al cambio y no a otros factores.
+2. El cambio, la métrica, el umbral, el mecanismo esperado y la decisión asociada.
+3. Un indicador que no debe empeorar (retención, quejas, rendimiento) y que protege contra efectos secundarios dañinos.
+4. Para tener capacidad de detectar un efecto relevante y para no detener la prueba al ver un resultado favorable por azar.
+5. Asignación defectuosa, muestra insuficiente, mirar muchas métricas, cambiar el diseño en curso, efecto de novedad, contaminación y segmentación a posteriori.
+6. Porque el valor puntual esconde la incertidumbre; el intervalo muestra el rango de efectos compatibles con los datos.
+7. Transparencia, privacidad y no daño, con especial cuidado en precios, salud y finanzas, y cumplimiento de normas de consumo y datos.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/153-experimentos-y-evidencia/`:
 
-- `product-evidence-brief.md` con el problema específico de **experimentos y evidencia**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **experimentos y evidencia** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **experiment**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un A/B test sube clics 12%, pero también aumenta cancelaciones y el grupo experimental recibió una campaña distinta. El equipo declara victoria mirando solo CTR.** y el dato que podría invalidar la recomendación.
+- `product-evidence-brief.md` (plantilla [Product evidence brief](../../../../templates/product-evidence-brief.md)) con el análisis y el rediseño del caso ejecutivo;
+- `product-experiment.md` (plantilla [Product experiment](../../../../templates/product-experiment.md)) con la hipótesis, el diseño y las métricas;
+- `decision-journal.md` con los resultados, la decisión y el aprendizaje registrado.
 
 ## 📗 Fuentes y verificación
 
-- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** equipos de producto, discovery, riesgos de producto y outcomes. Lectura selectiva sobre **experimentos y evidencia**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
-- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia. Lectura selectiva sobre **experimentos y evidencia**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
-- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** build-measure-learn, MVP y aprendizaje validado. Lectura selectiva sobre **experimentos y evidencia**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
-- Rob Fitzpatrick — *The Mom Test* (CreateSpace, 2014). **Uso en esta clase:** perspectiva de Customer discovery aplicada al problema de la clase. Lectura selectiva sobre **experimentos y evidencia**. **Localizador:** [ISBN-13 9781492180746](https://openlibrary.org/isbn/9781492180746).
-- Clayton M. Christensen — *The Innovator's Dilemma* (Harvard Business School Press, 1997). **Uso en esta clase:** perspectiva de Innovación aplicada al problema de la clase. Lectura selectiva sobre **experimentos y evidencia**. **Localizador:** [ISBN-13 9780875845852](https://openlibrary.org/isbn/9780875845852).
-- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** hipótesis de negocio, experimentos, evidencia y reducción de riesgo. Lectura selectiva sobre **experimentos y evidencia**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **experimentos y evidencia** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **experimentos y evidencia**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **experimentos y evidencia** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **experimentos y evidencia** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **experimentos y evidencia** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Ron Kohavi, Diane Tang & Ya Xu — *Trustworthy Online Controlled Experiments* (Cambridge University Press, 2020). **Uso en esta clase:** diseño, trampas y cultura de experimentos controlados. Lectura selectiva sobre **experimentos y evidencia**. **Localizador:** [ISBN-13 9781108724265](https://openlibrary.org/isbn/9781108724265).
+- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** aprendizaje validado y decisiones de perseverar o pivotar. Lectura selectiva sobre **experimentos y evidencia**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
+- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** experimentos por tipo de suposición y nivel de evidencia. Lectura selectiva sobre **experimentos y evidencia**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
+- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** experimentos para reducir riesgos de producto. Lectura selectiva sobre **experimentos y evidencia**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
+- Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise* (Little, Brown Spark, 2021). **Uso en esta clase:** sesgo y ruido en juicios y cómo estructurarlos. Lectura selectiva sobre **experimentos y evidencia**. **Localizador:** [ISBN-13 9780316451383](https://openlibrary.org/isbn/9780316451383).
 
-> **Regla de fuentes para Experimentos y evidencia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **experimentos y evidencia** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Experimentos y evidencia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las de protección al consumidor, publicidad y datos personales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

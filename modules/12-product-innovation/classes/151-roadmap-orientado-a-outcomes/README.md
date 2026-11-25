@@ -10,217 +10,192 @@
 
 ## 🎯 Propósito
 
-Un roadmap orientado a outcomes comunica problemas, resultados esperados y apuestas, no una lista rígida de funcionalidades con fechas falsas. Debe conectar estrategia, aprendizaje y capacidad, mostrando qué se intenta mover y qué evidencia justificará cambiar la secuencia.
+La hoja de ruta (*roadmap*) es una de las herramientas más usadas y más abusadas de producto. En muchas empresas es un calendario de funciones con fechas que ventas promete a clientes, que dirección usa para evaluar al equipo y que ingeniería vive como un contrato imposible. Cuando la fecha pasa y la función no llega, todos se frustran; cuando llega, nadie verifica si sirvió. Un roadmap orientado a **resultados** (*outcomes*) cambia el contenido y la conversación: comunica **qué problemas se quiere resolver, por qué importan y qué evidencia hay**, y deja las soluciones y las fechas para cuando se sabe lo suficiente.
 
-La salida de esta parte es **convertir problemas de clientes en productos validados y outcomes medibles**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **roadmap orientado a outcomes** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la crítica a las hojas de ruta de funciones de Perri, en el enfoque de equipos empoderados de Cagan, en el descubrimiento continuo de Torres y en la gestión del flujo de trabajo de Reinertsen. Al terminar sabrás construir un roadmap por horizontes de certeza, escribir objetivos como resultados con evidencia, separar compromisos con fecha del resto, comunicarlo a distintas audiencias y mantenerlo vivo con la información que se aprende.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `roadmap`, `theme`, `commitment`, `now-next-later`, `roadmap confidence` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. partir de objetivos estratégicos → 2. traducirlos a outcomes y problemas → 3. ordenar apuestas por valor y riesgo → 4. expresar horizonte y confianza → 5. revisar roadmap con evidencia y capacidad** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** outcome progress, roadmap churn, commitment reliability sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** un roadmap de funciones de uno de resultados.
+2. **Estructurar** un roadmap por horizontes de certeza (ahora, siguiente, después).
+3. **Escribir** cada elemento como problema, resultado esperado y evidencia.
+4. **Separar** compromisos con fecha de apuestas por descubrir.
+5. **Comunicar** y actualizar el roadmap con ventas, dirección y clientes.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define roadmap y theme sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con outcome progress y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: toma tu roadmap y marca cuántos elementos son funciones y cuántos problemas o resultados. |
+| 20–60 min | Funciones y resultados, horizontes, compromisos y comunicación. |
+| 60–105 min | Ejemplo trabajado: reescribir un roadmap de seis funciones como resultados. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **roadmap** | representación de intención y secuencia para alcanzar outcomes | Distingue un hecho compatible y otro que lo refute. |
-| **theme** | área estratégica que agrupa problemas y oportunidades | Distingue un hecho compatible y otro que lo refute. |
-| **commitment** | promesa con costo explícito de cambio | Distingue un hecho compatible y otro que lo refute. |
-| **now-next-later** | forma de expresar prioridad con distintos niveles de certeza | Distingue un hecho compatible y otro que lo refute. |
-| **roadmap confidence** | grado de certeza justificable sobre cada horizonte | Distingue un hecho compatible y otro que lo refute. |
+| **Roadmap** | Comunicación de la dirección del producto y sus prioridades en el tiempo. | Muestra el rumbo, no un contrato. |
+| **Roadmap de funciones** | Lista de funciones con fechas. | «Módulo X en el segundo trimestre». |
+| **Roadmap de resultados** | Lista de problemas o resultados con evidencia y nivel de certeza. | «Reducir el abandono en el pago». |
+| **Horizonte de certeza** | Agrupación por nivel de conocimiento: ahora, siguiente, después. | Sin fechas exactas en lo incierto. |
+| **Compromiso con fecha** | Entrega que debe ocurrir en un plazo por razones externas. | Regulación, contratos, eventos. |
+| **Apuesta** | Iniciativa de resultado incierto que se explora. | Se financia por etapas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 151: 1. partir de objetivos estratégicos → 2. traducirlos a outcomes y problemas → 3. ordenar apuestas por valor y riesgo → 4. expresar horizonte y confianza → 5. revisar roadmap con evidencia y capacidad](modelo-mental.svg)
+![Roadmap por horizontes de certeza: ahora con alta certeza y trabajo en curso, siguiente con certeza media y después con temas e intenciones.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. partir de objetivos estratégicos → 2. traducirlos a outcomes y problemas → 3. ordenar apuestas por valor y riesgo → 4. expresar horizonte y confianza → 5. revisar roadmap con evidencia y capacidad
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un roadmap orientado a outcomes comunica problemas, resultados esperados y apuestas, no una lista rígida de funcionalidades con fechas falsas. Debe conectar estrategia, aprendizaje y capacidad, mostrando qué se intenta mover y qué evidencia justificará cambiar la secuencia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Hay contextos con compromisos contractuales o regulatorios que requieren fechas. Outcome roadmaps no eliminan compromisos; separan lo negociable de lo no negociable y hacen visible la certeza real.**
+**Cómo leer el diagrama.** Tres columnas con certeza decreciente. **Ahora** reúne los resultados con trabajo en curso, alta certeza sobre el problema y soluciones en prueba o en construcción. **Siguiente** reúne resultados priorizados con hipótesis, con certeza media, sin compromiso de fecha. **Después** reúne temas e intenciones estratégicas, con certeza baja, que se revisan cuando cambia la evidencia. La nota recoge la idea de que el roadmap comunica qué problemas se quiere resolver y por qué, y que las fechas se reservan para lo que realmente las exige.
 
 ## 📖 Desarrollo
 
-### 1. roadmap: mecanismo central
+### 1. El problema de las hojas de ruta de funciones
 
-**roadmap** se entiende aquí como **representación de intención y secuencia para alcanzar outcomes**. Esta es la pieza causal o estructural desde la que se inicia **roadmap orientado a outcomes**: antes de partir de objetivos estratégicos, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Perri describe que, en muchas organizaciones, el roadmap es un **calendario de funciones**: se decide lo que se construirá con meses de anticipación, se compromete a clientes y a la dirección, y el éxito del equipo se mide por cumplir lo prometido. Sus consecuencias: se **pierde la capacidad de reaccionar** a lo que se aprende; se **construyen funciones sin evidencia** de que sirvan; se **sobrecarga** a los equipos con compromisos poco realistas; y se **destruye la confianza** entre producto, ventas e ingeniería cuando se incumplen fechas basadas en estimaciones de cosas desconocidas. La alternativa no es la ausencia de planificación sino planificar **resultados y aprendizaje**.
 
-La lectura rectora de este bloque es Marty Cagan — *Inspired*. Su aporte se usa para examinar **equipos de producto, discovery, riesgos de producto y outcomes**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **outcome progress**; regístrala con periodo, unidad, población y baseline.
+### 2. Qué contiene un roadmap de resultados
 
-Relaciona el mecanismo con **theme**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Cada elemento responde cuatro preguntas: **¿qué problema o resultado?** («aumentar de 38 % a 60 % los servicios que usan la aplicación en 90 días»), **¿para quién?** (el segmento y el usuario), **¿por qué importa?** (conexión con la estrategia y el negocio) y **¿qué evidencia tenemos?** (entrevistas, datos, pruebas). Se añade el **estado**: descubriendo, probando, construyendo, midiendo. No se enumeran las soluciones como compromisos; se mencionan como **hipótesis** en prueba. Un roadmap de este tipo permite que el equipo escoja la mejor solución cuando sabe más, y que la dirección entienda por qué se trabaja en cada cosa.
 
-### 2. theme: frontera conceptual y error de clasificación
+### 3. Horizontes de certeza
 
-**Definición operacional:** área estratégica que agrupa problemas y oportunidades. Su valor está en distinguirlo de **roadmap** y **commitment**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Un formato conocido es **ahora–siguiente–después** (*now–next–later*). **Ahora**: lo que se está trabajando, con mayor certeza sobre el problema y soluciones en construcción o prueba. **Siguiente**: resultados priorizados que se descubrirán pronto, con hipótesis y sin fecha. **Después**: temas e intenciones estratégicas que se explorarán más adelante, con baja certeza. La clave es que **la certeza y el detalle disminuyen con la distancia**: hablar con precisión de lo que ocurrirá en nueve meses es ficción. Cagan sostiene que los equipos de producto deben tener claros la visión y los objetivos, y que la hoja de ruta de funciones a largo plazo es un síntoma de equipos que ejecutan pedidos.
 
-Contrasta el problema con Teresa Torres — *Continuous Discovery Habits*, que aporta una mirada sobre **discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia**. Formula dos mini-casos: uno que sí satisface la definición de **theme** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **roadmap churn** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Compromisos con fecha: separarlos
 
-Antes de traducirlos a outcomes y problemas, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Algunas entregas **sí** exigen fecha: cumplimiento regulatorio, contratos con clientes estratégicos, eventos (una feria, el cierre de un año fiscal), dependencias de otros equipos. Se identifican, se **separan** del roadmap de resultados (en un carril de compromisos), se **estiman con rangos** y con la visión desde afuera (clase 076), y se gestionan con lógica de proyecto (clase 073). Se comunica el **nivel de confianza** de cada fecha y qué se sacrifica si hay desvíos. Mezclar todo en un solo calendario convierte cualquier resultado en una promesa y quita al equipo su capacidad de aprender.
 
-### 3. commitment: operacionalización y medición
+### 5. Priorizar y conectar con estrategia
 
-**commitment** significa **promesa con costo explícito de cambio**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Cada elemento se conecta con un **objetivo estratégico** (clases 097 a 099) y se prioriza con criterios explícitos (clase 105 y 152): valor esperado, alcance, costo del retraso, riesgo, esfuerzo, aprendizaje. Se hace visible lo que **no** se hará y por qué, que es tan importante como lo que sí. Torres propone conectar el roadmap con un **árbol de oportunidades y soluciones** (clase 146): los resultados deseados son la raíz, las oportunidades que se explorarán son las ramas, y los experimentos que se hacen son las hojas. El roadmap se vuelve una vista resumida de un trabajo de descubrimiento continuo.
 
-David J. Bland & Alexander Osterwalder — *Testing Business Ideas* orienta este bloque mediante **hipótesis de negocio, experimentos, evidencia y reducción de riesgo**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **commitment reliability**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Comunicar a distintas audiencias
 
-Al llegar a ordenar apuestas por valor y riesgo, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El mismo roadmap se cuenta distinto: a la **dirección**, con la conexión a estrategia y resultados esperados; a **ventas y clientes**, con la dirección del producto y los problemas que se atacan, sin prometer funciones ni fechas (se explica por qué); a **ingeniería y diseño**, con contexto y evidencia para que propongan soluciones; y a **finanzas**, con las inversiones por apuesta. Se anticipa la pregunta «¿cuándo estará X?» con una respuesta honesta: el estado, el nivel de confianza y qué se está aprendiendo. La confianza se construye cuando lo comunicado coincide con lo que ocurre.
 
-### 4. now-next-later: trade-offs y efectos de segundo orden
+### 7. Mantenerlo vivo
 
-**Definición:** forma de expresar prioridad con distintos niveles de certeza. Este concepto obliga a abandonar la idea de que **roadmap orientado a outcomes** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de expresar horizonte y confianza, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Melissa Perri — *Escaping the Build Trap* aporta una lente sobre **perspectiva de Producto aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **discovery evidence** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **roadmap orientado a outcomes**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **now-next-later** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. roadmap confidence: gobernanza, límites e integración
-
-**roadmap confidence** se define como **grado de certeza justificable sobre cada horizonte** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Rob Fitzpatrick — *The Mom Test* se utiliza para estudiar **perspectiva de Customer discovery aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar revisar roadmap con evidencia y capacidad, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Hay contextos con compromisos contractuales o regulatorios que requieren fechas. Outcome roadmaps no eliminan compromisos; separan lo negociable de lo no negociable y hacen visible la certeza real.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **roadmap**, **theme**, **commitment**, **now-next-later** y **roadmap confidence** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **roadmap orientado a outcomes** no consiste en sumar cinco definiciones. Empieza por **roadmap**, contrasta **theme** con **commitment**, incorpora **now-next-later** como restricción o mecanismo y usa **roadmap confidence** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. partir de objetivos estratégicos → 2. traducirlos a outcomes y problemas → 3. ordenar apuestas por valor y riesgo → 4. expresar horizonte y confianza → 5. revisar roadmap con evidencia y capacidad**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El roadmap se **revisa** en un ritmo definido (mensual o trimestral, clase 103): ¿qué resultados se lograron?, ¿qué aprendimos?, ¿qué cambió en el mercado o la estrategia?, ¿qué pasa a «ahora»?, ¿qué se detiene? Reinertsen recuerda que la **variabilidad** y la capacidad limitada hacen que cargar los equipos al máximo vuelva impredecibles los plazos: el roadmap debe dejar holgura para lo imprevisto y para el descubrimiento. Se registran las decisiones y su razón. Un roadmap que nunca cambia o que cambia sin explicación pierde su valor.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marty Cagan — *Inspired* | equipos de producto, discovery, riesgos de producto y outcomes | ¿Qué supuesto de **roadmap orientado a outcomes** ayuda a desafiar? |
-| Teresa Torres — *Continuous Discovery Habits* | discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia | ¿Qué supuesto de **roadmap orientado a outcomes** ayuda a desafiar? |
-| David J. Bland & Alexander Osterwalder — *Testing Business Ideas* | hipótesis de negocio, experimentos, evidencia y reducción de riesgo | ¿Qué supuesto de **roadmap orientado a outcomes** ayuda a desafiar? |
-| Melissa Perri — *Escaping the Build Trap* | perspectiva de Producto aplicada al problema de la clase | ¿Qué supuesto de **roadmap orientado a outcomes** ayuda a desafiar? |
-| Rob Fitzpatrick — *The Mom Test* | perspectiva de Customer discovery aplicada al problema de la clase | ¿Qué supuesto de **roadmap orientado a outcomes** ayuda a desafiar? |
-
-En **roadmap orientado a outcomes**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **roadmap**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Perri | Crítica del roadmap de funciones y el enfoque en resultados. | Describe patrones organizacionales. | ¿Tu roadmap es una lista de funciones? |
+| Cagan | Equipos empoderados con objetivos y visión. | Experiencia de empresas de tecnología. | ¿Quién decide la solución? |
+| Torres | Roadmap como vista del árbol de oportunidades. | Exige descubrimiento continuo. | ¿Cómo se conecta con tus entrevistas? |
+| Reinertsen | Variabilidad, colas y capacidad en el desarrollo. | Orientado a desarrollo de productos en general. | ¿Cuánta holgura tienes? |
+| Kerzner | Gestión de compromisos con fecha y alcance. | Lógica de proyecto. | ¿Qué compromisos exigen fecha? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Ventas promete a cinco clientes fechas exactas para veinte features durante un año. Producto descubre luego que tres no resuelven el problema y una dependencia regulatoria desplaza seis meses el plan.
+**Situación (hipotética).** Una empresa de software de gestión de turnos para clínicas tiene este roadmap anual: (1) módulo de reportes (T1), (2) integración con nómina (T2), (3) aplicación móvil nueva (T2), (4) intercambio de turnos (T3), (5) predicción de ausencias con IA (T3), (6) panel de costos (T4). Ventas promete algunas fechas a clientes; en T1 se atrasó el módulo de reportes y se afectaron otras entregas.
 
-**Paso 1 — partir de objetivos estratégicos.** La gerencia escribe primero el supuesto asociado a **roadmap** y evita convertirlo en hecho. Luego busca **outcome progress** para contrastarlo en el caso de **roadmap orientado a outcomes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Reescritura como resultados con evidencia.**
 
-**Paso 2 — traducirlos a outcomes y problemas.** La gerencia escribe primero el supuesto asociado a **theme** y evita convertirlo en hecho. Luego busca **roadmap churn** para contrastarlo en el caso de **roadmap orientado a outcomes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Horizonte | Resultado | Evidencia | Hipótesis de solución |
+|---|---|---|---|
+| Ahora | Subir de 38 % a 60 % los servicios que arman todos sus turnos en la aplicación (90 días) | Entrevistas: cubrir turnos de último momento es el mayor dolor; adopción con 3 o más servicios retiene 91 % | Aviso masivo con aceptación en un toque; lista de reemplazos |
+| Ahora | Reducir de 52 a 15 minutos el tiempo para cubrir un turno de última hora | Datos de uso y 18 entrevistas | La misma |
+| Siguiente | Reducir 50 % el cálculo manual de reglas laborales de horas (por servicio) | 14 de 18 entrevistados lo hacen en planilla | Reglas configurables y alertas de límites |
+| Siguiente | Que gerencias vean el costo de horas extra por servicio | 6 de 9 gerentes lo piden, evidencia más débil | Panel simple de costos |
+| Después | Prever ausencias y reforzar turnos de forma proactiva | Solo hipótesis; sin datos suficientes | Se explorará con datos acumulados |
 
-**Paso 3 — ordenar apuestas por valor y riesgo.** La gerencia escribe primero el supuesto asociado a **commitment** y evita convertirlo en hecho. Luego busca **commitment reliability** para contrastarlo en el caso de **roadmap orientado a outcomes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Compromisos con fecha (carril separado).** (1) Integración con el sistema de nómina de un cliente estratégico (contrato, fecha de abril, confianza media: rango de 4 a 7 semanas); (2) cambio normativo de registro de asistencia (fecha legal verificada con la fuente oficial y con el asesor).
 
-**Paso 4 — expresar horizonte y confianza.** La gerencia escribe primero el supuesto asociado a **now-next-later** y evita convertirlo en hecho. Luego busca **discovery evidence** para contrastarlo en el caso de **roadmap orientado a outcomes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Capacidad.** Los dos equipos asignan 30 % de su capacidad a compromisos y a deuda técnica, 50 % a resultados de «ahora» y 20 % a descubrimiento de «siguiente».
 
-**Paso 5 — revisar roadmap con evidencia y capacidad.** La gerencia escribe primero el supuesto asociado a **roadmap confidence** y evita convertirlo en hecho. Luego busca **capacity allocation** para contrastarlo en el caso de **roadmap orientado a outcomes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Comunicación.** A ventas: «Estamos atacando la cobertura de turnos de último momento y la adopción; no comprometemos fechas de funciones, pero sí informamos el estado cada mes». A la dirección: un tablero con los resultados y su avance. A clientes: sesión trimestral sobre los problemas que se atacan y por qué.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **roadmap orientado a outcomes**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Resultado a seis meses.** Se logra el resultado de «ahora» a los 90 días (adopción de 61 %); el módulo de reportes, dado de baja del roadmap por falta de evidencia, no se construyó y la capacidad se destinó a las reglas laborales. Las fechas comprometidas se cumplieron con una desviación de una semana.
+
+**Qué muestra.** (1) El roadmap pasó de funciones a resultados con evidencia. (2) Los compromisos con fecha quedaron separados. (3) La capacidad se asignó con holgura.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **roadmap** | representación de intención y secuencia para alcanzar outcomes | Cuando outcome progress es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **theme** | área estratégica que agrupa problemas y oportunidades | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Roadmap frente a plan de entrega.** El roadmap comunica dirección y prioridades; el plan de entrega detalla tareas, dependencias y fechas de lo que se está construyendo. Se complementan: el primero es estratégico; el segundo, operativo.
 
-**Frontera de aplicación:** Hay contextos con compromisos contractuales o regulatorios que requieren fechas. Outcome roadmaps no eliminan compromisos; separan lo negociable de lo no negociable y hacen visible la certeza real.
+**Límites.** Las organizaciones con clientes que exigen fechas, con regulación o con ventas basadas en funciones pueden necesitar más compromisos que los ideales. El enfoque requiere confianza entre áreas y equipos capaces de decidir; sin ellas, se vuelve una excusa para no comprometerse. Los resultados no siempre son medibles con rapidez. Las normas y plazos regulatorios deben verificarse en su fuente vigente y con asesoría. El ejemplo es ilustrativo.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre roadmap orientado a outcomes |
+| Nivel | Cómo participa en el roadmap |
 |---|---|
-| **Profesional** | usa **roadmap orientado a outcomes** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **roadmap** y **theme** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta outcome progress con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si roadmap orientado a outcomes cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de roadmap orientado a outcomes reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **roadmap orientado a outcomes** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta evidencia y propone soluciones al resultado. |
+| **Jefe / Team Lead** | Mantiene el roadmap del equipo con problemas y evidencia. |
+| **Gerente** | Conecta el roadmap con estrategia y comunica a ventas y dirección. |
+| **CEO / Director** | Evita exigir fechas de funciones y pide resultados con evidencia. |
+| **Founder / Owner** | Sabe qué problema ataca este trimestre y por qué no otros. |
 
 ## 🏢 Caso ejecutivo
 
-Ventas promete a cinco clientes fechas exactas para veinte features durante un año. Producto descubre luego que tres no resuelven el problema y una dependencia regulatoria desplaza seis meses el plan.
+Una empresa de software de gestión para constructoras tiene un roadmap de 18 meses con 42 funciones y fechas. Ventas ha prometido 11 de ellas a clientes grandes; el 40 % de las funciones del año pasado se entregó con atraso y el 25 % tiene uso inferior al 5 % de los clientes. Los equipos de ingeniería trabajan al 110 % de su capacidad. Hay un nuevo requisito regulatorio con fecha límite en seis meses, un cliente que exige integración con su sistema contable para renovar un contrato de USD 800.000 y una caída de retención en clientes pequeños. La dirección pide «un roadmap confiable» y a la vez «velocidad». El gerente de ventas se opone a quitar fechas; el de producto, a mantener funciones sin evidencia.
 
-Entrega un **decision brief de roadmap orientado a outcomes** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **roadmap orientado a resultados** que contenga: (a) la reclasificación del roadmap actual en funciones con evidencia, funciones sin evidencia y compromisos con fecha; (b) los resultados por horizonte con problema, segmento, evidencia y medida; (c) el carril de compromisos con rangos y confianza; (d) la asignación de capacidad con holgura; (e) la forma de comunicarlo a ventas, dirección y clientes sin prometer funciones; (f) el ritmo de revisión y los criterios para cambiar el roadmap, y las verificaciones normativas del requisito regulatorio.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **roadmap orientado a outcomes** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. partir de objetivos estratégicos → 2. traducirlos a outcomes y problemas → 3. ordenar apuestas por valor y riesgo → 4. expresar horizonte y confianza → 5. revisar roadmap con evidencia y capacidad** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta outcome progress, roadmap churn; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Clasifica los elementos de tu roadmap en función, problema o resultado.
+2. Reescribe tres funciones como resultados con evidencia y medida.
+3. Separa los compromisos con fecha y estima sus rangos.
+4. Asigna la capacidad de tu equipo entre compromisos, resultados y descubrimiento.
+5. Escribe cómo responderías «¿cuándo estará X?» sin prometer una fecha falsa.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar roadmap y theme como sinónimos | Se pierde la distinción entre “representación de intención y secuencia para alcanzar outcomes” y “área estratégica que agrupa problemas y oportunidades” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar roadmap con evidencia y capacidad” | Se saltó “partir de objetivos estratégicos” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. partir de objetivos estratégicos → 2. traducirlos a outcomes y problemas → 3. ordenar apuestas por valor y riesgo → 4. expresar horizonte y confianza → 5. revisar roadmap con evidencia y capacidad y marca el primer supuesto no demostrado. |
-| Optimizar solo outcome progress | La métrica local sustituyó al resultado del sistema | Contrástala con roadmap churn y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre roadmap orientado a outcomes | Hay contextos con compromisos contractuales o regulatorios que requieren fechas. Outcome roadmaps no eliminan compromisos; separan lo negociable de lo no negociable y hacen visible la certeza real. |
-| No fijar revisión | Una decisión sobre roadmap orientado a outcomes se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Roadmap de funciones con fechas | Se quiere certeza | Resultados y horizontes de certeza. |
+| Fechas en lo incierto | Presión comercial | Rangos y confianza; fechas solo donde importan. |
+| Sin evidencia | Se priorizan pedidos | Cada elemento con evidencia. |
+| Capacidad al 100 % | Se quiere eficiencia | Holgura para lo imprevisto y descubrimiento. |
+| Roadmap que no se revisa | Se considera un plan | Revisión periódica y registro de cambios. |
+| Mezclar compromisos y apuestas | Un solo calendario | Carriles separados. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **roadmap** y **theme** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **commitment** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **partir de objetivos estratégicos → traducirlos a outcomes y problemas** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **outcome progress** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **roadmap orientado a outcomes**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Hay contextos con compromisos contractuales o regulatorios que requieren fechas. Outcome roadmaps no eliminan compromisos; separan lo negociable de lo no negociable y hacen visible la certeza real.**?
+1. ¿Qué diferencia hay entre un roadmap de funciones y uno de resultados?
+2. ¿Qué preguntas responde cada elemento de un roadmap de resultados?
+3. ¿Qué son los horizontes de certeza?
+4. ¿Cómo se tratan los compromisos con fecha?
+5. ¿Cómo se comunica el roadmap a ventas y clientes?
+6. ¿Por qué se deja holgura de capacidad?
+7. ¿Qué límites tiene este enfoque?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El de funciones lista soluciones con fechas; el de resultados comunica problemas, resultados esperados y evidencia, y deja soluciones y fechas para cuando se sabe más.
+2. Qué problema o resultado, para quién, por qué importa y qué evidencia hay, más el estado.
+3. Una agrupación por nivel de conocimiento (ahora, siguiente, después) en que la certeza y el detalle disminuyen con la distancia.
+4. Se separan en un carril aparte, se estiman con rangos y confianza y se gestionan con lógica de proyecto.
+5. Explicando los problemas que se atacan y el estado, sin prometer funciones ni fechas, con una respuesta honesta sobre el nivel de confianza.
+6. Porque la variabilidad y la carga máxima vuelven impredecibles los plazos y se necesita espacio para lo imprevisto y el descubrimiento.
+7. Requiere confianza y equipos capaces; clientes y regulaciones pueden exigir fechas, y los resultados no siempre se miden rápido.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/151-roadmap-orientado-a-outcomes/`:
 
-- `product-evidence-brief.md` con el problema específico de **roadmap orientado a outcomes**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **roadmap orientado a outcomes** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **roadmap**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Ventas promete a cinco clientes fechas exactas para veinte features durante un año. Producto descubre luego que tres no resuelven el problema y una dependencia regulatoria desplaza seis meses el plan.** y el dato que podría invalidar la recomendación.
+- `product-evidence-brief.md` (plantilla [Product evidence brief](../../../../templates/product-evidence-brief.md)) con el roadmap del caso ejecutivo;
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con la asignación de capacidad y las decisiones;
+- `decision-journal.md` con las reglas de comunicación y de revisión.
 
 ## 📗 Fuentes y verificación
 
-- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** equipos de producto, discovery, riesgos de producto y outcomes. Lectura selectiva sobre **roadmap orientado a outcomes**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
-- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia. Lectura selectiva sobre **roadmap orientado a outcomes**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
-- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** hipótesis de negocio, experimentos, evidencia y reducción de riesgo. Lectura selectiva sobre **roadmap orientado a outcomes**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
-- Melissa Perri — *Escaping the Build Trap* (O'Reilly, 2019). **Uso en esta clase:** perspectiva de Producto aplicada al problema de la clase. Lectura selectiva sobre **roadmap orientado a outcomes**. **Localizador:** [ISBN-13 9781491973790](https://openlibrary.org/isbn/9781491973790).
-- Rob Fitzpatrick — *The Mom Test* (CreateSpace, 2014). **Uso en esta clase:** perspectiva de Customer discovery aplicada al problema de la clase. Lectura selectiva sobre **roadmap orientado a outcomes**. **Localizador:** [ISBN-13 9781492180746](https://openlibrary.org/isbn/9781492180746).
-- Clayton M. Christensen — *The Innovator's Dilemma* (Harvard Business School Press, 1997). **Uso en esta clase:** perspectiva de Innovación aplicada al problema de la clase. Lectura selectiva sobre **roadmap orientado a outcomes**. **Localizador:** [ISBN-13 9780875845852](https://openlibrary.org/isbn/9780875845852).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **roadmap orientado a outcomes** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **roadmap orientado a outcomes**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **roadmap orientado a outcomes** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **roadmap orientado a outcomes** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **roadmap orientado a outcomes** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Melissa Perri — *Escaping the Build Trap* (O'Reilly, 2019). **Uso en esta clase:** crítica del roadmap de funciones y enfoque en resultados. Lectura selectiva sobre **roadmap orientado a outcomes**. **Localizador:** [ISBN-13 9781491973790](https://openlibrary.org/isbn/9781491973790).
+- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** equipos empoderados con objetivos y visión. Lectura selectiva sobre **roadmap orientado a outcomes**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
+- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** roadmap como vista del árbol de oportunidades. Lectura selectiva sobre **roadmap orientado a outcomes**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
+- Donald G. Reinertsen — *The Principles of Product Development Flow* (Celeritas Publishing, 2009). **Uso en esta clase:** variabilidad, colas y capacidad en el desarrollo. Lectura selectiva sobre **roadmap orientado a outcomes**. **Localizador:** [ISBN-13 9781935401001](https://openlibrary.org/isbn/9781935401001).
+- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** gestión de compromisos con fecha y alcance. Lectura selectiva sobre **roadmap orientado a outcomes**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
 
-> **Regla de fuentes para Roadmap orientado a outcomes:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **roadmap orientado a outcomes** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Roadmap orientado a outcomes:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los plazos regulatorios y contractuales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

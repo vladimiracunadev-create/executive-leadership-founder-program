@@ -10,233 +10,194 @@
 
 ## 🎯 Propósito
 
-Customer discovery reduce riesgo antes de construir al investigar clientes, contexto, comportamiento actual, alternativas y disposición a cambiar. No busca que el entrevistado valide una idea; busca evidencia sobre cómo vive hoy el problema y qué costos asume para resolverlo.
+Casi todos los fundadores y equipos de producto «hablan con clientes», y casi todos salen de esas conversaciones con la convicción de que su idea es buena. La razón es incómoda: las personas son amables, tienden a decir lo que creen que queremos oír, y responden con entusiasmo a ideas hipotéticas que nunca pagarían. **Customer discovery** es la disciplina de hablar con clientes para **aprender la verdad sobre su vida y sus problemas**, no para validar una idea. Hecha bien, es la inversión más barata del ciclo de producto; hecha mal, produce falsas certezas y proyectos que se construyen sobre cortesías.
 
-La salida de esta parte es **convertir problemas de clientes en productos validados y outcomes medibles**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **customer discovery** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en *The Mom Test* de Fitzpatrick, en el proceso de desarrollo de clientes de Blank, en los hábitos de descubrimiento continuo de Torres y en la teoría de trabajos a realizar de Christensen y colaboradores. Al terminar sabrás preparar entrevistas con objetivos de aprendizaje, formular preguntas sobre hechos pasados, detectar cortesías, ideas y datos falsos, buscar compromisos reales del cliente y convertir lo aprendido en decisiones.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `customer discovery`, `behavioral evidence`, `leading question`, `workaround`, `sample bias` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir hipótesis y segmento → 2. reclutar muestra relevante → 3. preguntar por episodios pasados y conducta → 4. capturar patrones y contradicciones → 5. sintetizar evidencia y decidir siguiente experimento** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** interviews by segment, problem recurrence, workaround spend sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
-7. **Distinguir** cliente descrito, entrevistado, con intención, que pagó y que repitió sin tratar esos estados como equivalentes.
+1. **Preparar** entrevistas con las tres preguntas que más importa responder.
+2. **Formular** preguntas sobre comportamiento pasado y no sobre intenciones.
+3. **Clasificar** lo que dice el cliente en hechos, opiniones, cortesías e ideas.
+4. **Pedir** compromisos que muestren interés real.
+5. **Sintetizar** aprendizajes y decidir qué hacer con ellos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define customer discovery y behavioral evidence sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con interviews by segment y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda una conversación con un cliente que te dejó entusiasmado y analiza qué datos concretos aportó. |
+| 20–60 min | Objetivos, preguntas, señales, compromisos y síntesis. |
+| 60–105 min | Ejemplo trabajado: entrevistas a gerentes de operaciones de pequeñas distribuidoras. |
+| 105–150 min | Caso ejecutivo y práctica de entrevistas. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **customer discovery** | proceso de aprendizaje sistemático sobre cliente y problema | Distingue un hecho compatible y otro que lo refute. |
-| **behavioral evidence** | hechos sobre lo que la persona hizo y no solo lo que dice que haría | Distingue un hecho compatible y otro que lo refute. |
-| **leading question** | pregunta que induce la respuesta esperada | Distingue un hecho compatible y otro que lo refute. |
-| **workaround** | solución actual imperfecta que revela prioridad | Distingue un hecho compatible y otro que lo refute. |
-| **sample bias** | distorsión por entrevistar solo personas convenientes | Distingue un hecho compatible y otro que lo refute. |
+| **Descubrimiento de clientes** | Proceso de aprender sobre problemas, contexto y comportamiento de clientes potenciales. | Muchas conversaciones, pocas presentaciones. |
+| **Prueba de la madre (Mom Test)** | Regla de formular preguntas que ni tu madre pueda responder por cortesía. | Preguntas sobre su vida, no sobre tu idea. |
+| **Cortesía** | Elogio o interés que no implica acción. | «Suena genial». |
+| **Dato falso** | Respuesta que parece evidencia y no lo es: cumplidos, ideas, promesas futuras. | «Lo usaría seguro». |
+| **Compromiso** | Acción del cliente que cuesta algo: tiempo, dinero, reputación. | Presentar a su jefe, pagar un piloto. |
+| **Avance** | Resultado de una conversación que lleva al siguiente paso real. | Fecha, persona o dato concreto. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 147: 1. definir hipótesis y segmento → 2. reclutar muestra relevante → 3. preguntar por episodios pasados y conducta → 4. capturar patrones y contradicciones → 5. sintetizar evidencia y decidir siguiente experimento](modelo-mental.svg)
+![Preguntas que engañan frente a preguntas que sirven en una entrevista de descubrimiento, con la razón de cada una.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir hipótesis y segmento → 2. reclutar muestra relevante → 3. preguntar por episodios pasados y conducta → 4. capturar patrones y contradicciones → 5. sintetizar evidencia y decidir siguiente experimento
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Customer discovery reduce riesgo antes de construir al investigar clientes, contexto, comportamiento actual, alternativas y disposición a cambiar. No busca que el entrevistado valide una idea; busca evidencia sobre cómo vive hoy el problema y qué costos asume para resolverlo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Discovery no produce verdad estadística por sí solo. Entrevistas pequeñas sirven para descubrir mecanismos e hipótesis; la prevalencia y tamaño de mercado requieren triangulación cuantitativa.**
+**Cómo leer el diagrama.** Una tabla con cinco preguntas típicas que **engañan** y su versión que **sirve**. «¿Te gustaría una aplicación que…?» invita a una cortesía; «¿cómo lo resolviste la última vez?» pide un hecho. «¿Pagarías USD 20?» es una intención hipotética; «¿cuánto gastas hoy en resolverlo?» es un dato. La nota resume la lección central: las personas cuentan bien lo que hicieron y predicen mal lo que harán.
 
 ## 📖 Desarrollo
 
-### 1. customer discovery: mecanismo central
+### 1. Qué se busca aprender
 
-**customer discovery** se entiende aquí como **proceso de aprendizaje sistemático sobre cliente y problema**. Esta es la pieza causal o estructural desde la que se inicia **customer discovery**: antes de definir hipótesis y segmento, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Fitzpatrick propone empezar cada ronda de conversaciones con **tres preguntas** que realmente importan para el negocio: qué se necesita saber para decidir. Por ejemplo: ¿el problema existe y es importante?, ¿cómo lo resuelven hoy y cuánto les cuesta?, ¿quién decide y paga? Con esas tres en mente se evitan conversaciones agradables y vacías. Blank complementa: el **desarrollo de clientes** consiste en «salir del edificio» para probar las hipótesis del modelo de negocio (clientes, problema, propuesta, canales, ingresos) contra la realidad, no solo escuchar a quienes ya conocemos.
 
-La lectura rectora de este bloque es Marty Cagan — *Inspired*. Su aporte se usa para examinar **equipos de producto, discovery, riesgos de producto y outcomes**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **interviews by segment**; regístrala con periodo, unidad, población y baseline.
+### 2. La prueba de la madre
 
-Relaciona el mecanismo con **behavioral evidence**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La idea central es que **una buena pregunta no depende de que el interlocutor sea sincero con tu idea**. Las malas preguntas mencionan tu idea («¿te gustaría…?»), piden opiniones sobre el futuro («¿lo usarías?») o buscan generalidades («¿normalmente cómo…?»). Las buenas preguntas hablan de **su vida y sus problemas**, piden **ejemplos específicos del pasado** («cuéntame la última vez que…»), exploran **qué han probado** y **cuánto les cuesta** el problema, y prestan atención a **emociones fuertes** (frustración, vergüenza, urgencia). La regla de oro: **habla de ellos, no de ti**. Las presentaciones del producto llegan después, y cortas.
 
-### 2. behavioral evidence: frontera conceptual y error de clasificación
+### 3. Clasificar lo que se oye
 
-**Definición operacional:** hechos sobre lo que la persona hizo y no solo lo que dice que haría. Su valor está en distinguirlo de **customer discovery** y **leading question**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Después de cada conversación se clasifica lo escuchado. **Hechos** (qué hicieron, cuánto gastaron, qué herramientas usan): son evidencia. **Opiniones** sobre sus problemas y prioridades: útiles con cautela. **Cortesías y elogios** («qué buena idea»): ruido que se descarta. **Ideas y deseos de funciones** («sería genial que tuviera…»): se registra el problema que hay detrás, no la función. **Promesas futuras** («si lo tuvieras, lo compraría»): casi sin valor. Una regla útil: si no hay un hecho concreto ni un compromiso, la conversación fue agradable pero no aportó evidencia.
 
-Contrasta el problema con Teresa Torres — *Continuous Discovery Habits*, que aporta una mirada sobre **discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia**. Formula dos mini-casos: uno que sí satisface la definición de **behavioral evidence** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **problem recurrence** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Buscar compromisos y avances
 
-Antes de reclutar muestra relevante, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Una conversación sirve cuando produce un **avance**: un siguiente paso concreto. Fitzpatrick distingue **compromiso** (el cliente da algo que le cuesta: tiempo, reputación o dinero) de **cortesía**. Ejemplos de compromisos: presentar al decisor, compartir datos reales, participar en un piloto, firmar una carta de intención, pagar una reserva o un anticipo. Ejemplos de falsos avances: «mándame información», «suena interesante, hablemos más adelante». Si la conversación no produjo avance, se pregunta con respeto: «¿qué te parece como siguiente paso?». Si el cliente rehúye, es información sobre la fuerza del problema.
 
-### 3. leading question: operacionalización y medición
+### 5. A quién y cuántas entrevistas
 
-**leading question** significa **pregunta que induce la respuesta esperada**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Se entrevista a personas que **tienen el problema** (usuarios y decisores), de un **segmento definido** (clase 135) y con diversidad de contextos. Se evita quedarse con amigos y conocidos. Se pueden usar redes profesionales, comunidades, clientes actuales, personas que abandonaron y referidos. Con 10 a 20 entrevistas de un segmento suelen aparecer patrones; si cada conversación revela algo nuevo, se continúa. Torres sugiere un ritmo **semanal**: cada semana, al menos una conversación con un cliente por parte del equipo de producto (producto, diseño e ingeniería), de modo que el descubrimiento no sea una fase sino un hábito.
 
-Alexander Osterwalder et al. — *Value Proposition Design* orienta este bloque mediante **perspectiva de Producto aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **workaround spend**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Entrevistas centradas en momentos de decisión
 
-Al llegar a preguntar por episodios pasados y conducta, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Christensen y colaboradores sugieren entrevistar sobre **el momento en que contrataron o cambiaron** una solución: ¿qué pasó antes?, ¿qué los llevó a buscar?, ¿qué alternativas miraron?, ¿qué los frenó?, ¿qué los hizo decidir?, ¿cómo fue la primera semana de uso? Esta línea de tiempo revela **fuerzas** que empujan (el problema, la frustración), que atraen (la promesa de la nueva solución), que frenan (ansiedad, inercia, costos de cambio) y que mantienen la situación actual. Es una forma de descubrir el trabajo a realizar (clase 148) con hechos concretos.
 
-### 4. workaround: trade-offs y efectos de segundo orden
+### 7. Registrar, sintetizar y decidir
 
-**Definición:** solución actual imperfecta que revela prioridad. Este concepto obliga a abandonar la idea de que **customer discovery** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de capturar patrones y contradicciones, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Clayton M. Christensen et al. — *Competing Against Luck* aporta una lente sobre **jobs to be done y comprensión causal de por qué un cliente elige una solución**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **switching trigger** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **customer discovery**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **workaround** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. sample bias: gobernanza, límites e integración
-
-**sample bias** se define como **distorsión por entrevistar solo personas convenientes** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Melissa Perri — *Escaping the Build Trap* se utiliza para estudiar **perspectiva de Producto aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar sintetizar evidencia y decidir siguiente experimento, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Discovery no produce verdad estadística por sí solo. Entrevistas pequeñas sirven para descubrir mecanismos e hipótesis; la prevalencia y tamaño de mercado requieren triangulación cuantitativa.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **customer discovery**, **behavioral evidence**, **leading question**, **workaround** y **sample bias** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **customer discovery** no consiste en sumar cinco definiciones. Empieza por **customer discovery**, contrasta **behavioral evidence** con **leading question**, incorpora **workaround** como restricción o mecanismo y usa **sample bias** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir hipótesis y segmento → 2. reclutar muestra relevante → 3. preguntar por episodios pasados y conducta → 4. capturar patrones y contradicciones → 5. sintetizar evidencia y decidir siguiente experimento**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Escalera ejecutiva de evidencia del cliente
-
-| Estado | Evidencia mínima | Lo que todavía no demuestra |
-|---|---|---|
-| **Cliente descrito** | perfil con criterios observables | que reconozca el problema |
-| **Cliente entrevistado** | conversación trazable sobre conducta pasada | intención de cambiar o pagar |
-| **Cliente con intención** | compromiso explícito con siguiente paso | compra efectiva |
-| **Cliente que pagó** | transacción conciliada, aunque sea piloto | retención o economía sostenible |
-| **Cliente que repitió** | renovación o recompra en ventana definida | generalización al mercado |
-
-Cada número declara segmento, denominador, periodo, precio o incentivo y evidencia contradictoria. El comité decide desde el peldaño realmente observado; no suma como equivalentes esos cinco estados.
+Se **registra** cada conversación en notas con citas textuales, hechos y avances, y se comparte con el equipo, idealmente poco después. Se **sintetiza** buscando patrones entre entrevistas: problemas repetidos, soluciones actuales, criterios de decisión, objeciones. Se **actualizan** las hipótesis: se confirman, se descartan o se refinan. Se decide: seguir con el segmento y el problema, ajustar, o detenerse. Se evitan los errores de **confirmación** (recordar lo que gusta), **generalización** (basarse en una voz fuerte) y **sesgo de supervivencia** (entrevistar solo a clientes actuales). En entrevistas con datos personales se cuida el consentimiento y la privacidad.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marty Cagan — *Inspired* | equipos de producto, discovery, riesgos de producto y outcomes | ¿Qué supuesto de **customer discovery** ayuda a desafiar? |
-| Teresa Torres — *Continuous Discovery Habits* | discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia | ¿Qué supuesto de **customer discovery** ayuda a desafiar? |
-| Alexander Osterwalder et al. — *Value Proposition Design* | perspectiva de Producto aplicada al problema de la clase | ¿Qué supuesto de **customer discovery** ayuda a desafiar? |
-| Clayton M. Christensen et al. — *Competing Against Luck* | jobs to be done y comprensión causal de por qué un cliente elige una solución | ¿Qué supuesto de **customer discovery** ayuda a desafiar? |
-| Melissa Perri — *Escaping the Build Trap* | perspectiva de Producto aplicada al problema de la clase | ¿Qué supuesto de **customer discovery** ayuda a desafiar? |
-
-En **customer discovery**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **customer discovery**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Fitzpatrick (*The Mom Test*) | Preguntas útiles, cortesías, compromisos y avances. | Es una guía práctica; no sustituye datos cuantitativos. | ¿Cuántas de tus preguntas mencionan tu idea? |
+| Blank | Proceso de desarrollo de clientes y salir del edificio. | Contexto de startups tecnológicas. | ¿Qué hipótesis del modelo pruebas? |
+| Torres | Contacto semanal con clientes y descubrimiento continuo. | Presupone acceso a clientes. | ¿Qué hábito semanal sostienes? |
+| Christensen et al. | Entrevistas de momento de contratación. | Método cualitativo; no cuantifica. | ¿Qué fuerzas empujaron y frenaron la compra? |
+| Osterwalder et al. | Cómo traducir hallazgos a propuesta de valor. | Marco de diseño. | ¿Qué dolor y qué ganancia aparecen? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una startup pregunta a veinte amigos si usarían una herramienta de productividad y obtiene 18 sí. Ninguno paga hoy por resolver el problema ni puede recordar una ocasión reciente en que haya perdido dinero por él.
+**Situación (hipotética).** Un equipo quiere construir una herramienta para que pequeñas distribuidoras (10 a 40 empleados) planifiquen rutas de reparto. Las tres preguntas que necesitan responder: (1) ¿planificar rutas es un problema importante y costoso?, (2) ¿cómo lo resuelven hoy y qué les falta?, (3) ¿quién decide y paga?
 
-**Paso 1 — definir hipótesis y segmento.** La gerencia escribe primero el supuesto asociado a **customer discovery** y evita convertirlo en hecho. Luego busca **interviews by segment** para contrastarlo en el caso de **customer discovery**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Primeras cinco entrevistas (promedio de 40 minutos).** El fundador presenta la idea en 10 minutos y pregunta «¿lo usarías?». Resultado: cuatro dicen «sí, interesante», uno «tal vez». Ningún dato de costos; ningún siguiente paso.
 
-**Paso 2 — reclutar muestra relevante.** La gerencia escribe primero el supuesto asociado a **behavioral evidence** y evita convertirlo en hecho. Luego busca **problem recurrence** para contrastarlo en el caso de **customer discovery**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Reformulación.** Siguientes diez entrevistas con la prueba de la madre: se pide **contar el último reparto que salió mal**, cuánto tiempo dedican semanalmente a planificar, qué herramientas usan, cuánto gastaron en combustible y retrasos el último mes, qué probaron antes y qué pasó, quién decide cambios.
 
-**Paso 3 — preguntar por episodios pasados y conducta.** La gerencia escribe primero el supuesto asociado a **leading question** y evita convertirlo en hecho. Luego busca **workaround spend** para contrastarlo en el caso de **customer discovery**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Hechos recogidos.**
 
-**Paso 4 — capturar patrones y contradicciones.** La gerencia escribe primero el supuesto asociado a **workaround** y evita convertirlo en hecho. Luego busca **switching trigger** para contrastarlo en el caso de **customer discovery**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Hallazgo | Casos (de 10) |
+|---|---|
+| Planifican rutas en planilla o a mano, 3 a 8 horas semanales | 9 |
+| Han probado una aplicación y la abandonaron por cambios de pedidos de último momento | 5 |
+| Cuantifican costo de retrasos o combustible | 3 (entre USD 1.800 y 4.500 mensuales) |
+| Quien decide es el dueño; el jefe de bodega es quien usa | 8 |
+| Pidieron ver una demostración | 6 |
 
-**Paso 5 — sintetizar evidencia y decidir siguiente experimento.** La gerencia escribe primero el supuesto asociado a **sample bias** y evita convertirlo en hecho. Luego busca **contradictory evidence** para contrastarlo en el caso de **customer discovery**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Avances.** Tres aceptaron compartir los datos de un mes de repartos y presentar al dueño; uno ofreció pagar un piloto de USD 150 mensuales; cuatro se limitaron a «mándame información». Se descartan los cuatro últimos como señal débil.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **customer discovery**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Aprendizajes.** El problema que más pesa no es optimizar la ruta (ya tienen conductores con experiencia) sino **reorganizarla cuando entran pedidos de última hora**; el usuario es el jefe de bodega, pero decide el dueño; el valor está en reducir la espera y los kilómetros vacíos.
+
+**Decisión.** Se redefine el problema («responder a cambios de pedidos durante el día») y se diseña una maqueta para probar con los tres que compartieron datos (clase 149). Se deja de construir el módulo de optimización completa. Se almacenan las notas con consentimiento.
+
+**Qué muestra.** (1) Las primeras entrevistas produjeron cortesías. (2) Las reformuladas produjeron hechos y avances. (3) Cambió el problema y el usuario.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **customer discovery** | proceso de aprendizaje sistemático sobre cliente y problema | Cuando interviews by segment es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **behavioral evidence** | hechos sobre lo que la persona hizo y no solo lo que dice que haría | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Entrevistas frente a encuestas.** Las entrevistas descubren razones y contextos con pocos casos; las encuestas miden frecuencias en muestras grandes cuando ya se sabe qué preguntar (clase 134). Se usan en ese orden.
 
-**Frontera de aplicación:** Discovery no produce verdad estadística por sí solo. Entrevistas pequeñas sirven para descubrir mecanismos e hipótesis; la prevalencia y tamaño de mercado requieren triangulación cuantitativa.
+**Límites.** Las entrevistas no permiten estimar el tamaño del mercado ni la probabilidad de compra. Los entrevistados recuerdan con sesgos. Se tiende a entrevistar a quienes responden. El método fue desarrollado principalmente para startups y productos digitales; en ventas empresariales largas o sectores regulados se adapta. El tratamiento de datos de personas exige consentimiento y cumplimiento de las normas de protección de datos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre customer discovery |
+| Nivel | Cómo participa en el descubrimiento |
 |---|---|
-| **Profesional** | usa **customer discovery** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **customer discovery** y **behavioral evidence** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta interviews by segment con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si customer discovery cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de customer discovery reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **customer discovery** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Hace buenas preguntas y registra hechos. |
+| **Jefe / Team Lead** | Sostiene un ritmo semanal de entrevistas con el equipo. |
+| **Gerente** | Exige evidencia de descubrimiento antes de aprobar inversiones. |
+| **CEO / Director** | Habla con clientes y evita decidir por anécdotas o por la voz más fuerte. |
+| **Founder / Owner** | Conversa con sus clientes cada semana y desconfía de los elogios. |
 
 ## 🏢 Caso ejecutivo
 
-Una startup pregunta a veinte amigos si usarían una herramienta de productividad y obtiene 18 sí. Ninguno paga hoy por resolver el problema ni puede recordar una ocasión reciente en que haya perdido dinero por él.
+Una empresa de educación financiera quiere lanzar una aplicación para jóvenes de 18 a 25 años que ayude a ahorrar. El equipo hizo 30 encuestas y 10 entrevistas con estudiantes universitarios conocidos de los fundadores: el 87 % dijo que «le gustaría» una aplicación así y el 70 % «seguro la usaría». Con ese dato, la dirección está dispuesta a invertir USD 400.000 en desarrollo. Una analista advierte que ninguno de los entrevistados ahorraba de forma constante, que ninguna entrevista indagó cómo gestionan hoy el dinero, que las encuestas se aplicaron con un sorteo y que la muestra no incluye a jóvenes que trabajan y no estudian. Hay normas de protección de datos financieros y de menores de edad que aplicar.
 
-Entrega un **decision brief de customer discovery** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de descubrimiento** que contenga: (a) las tres preguntas clave y las hipótesis del modelo; (b) el perfil de los entrevistados y cómo los encontrarás; (c) la guía de entrevista con preguntas de hechos pasados y de momentos de decisión; (d) la crítica de las encuestas e entrevistas anteriores; (e) los compromisos y avances que buscarás y los criterios de decisión; (f) cómo registrar, sintetizar y proteger los datos de las personas entrevistadas.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **customer discovery** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir hipótesis y segmento → 2. reclutar muestra relevante → 3. preguntar por episodios pasados y conducta → 4. capturar patrones y contradicciones → 5. sintetizar evidencia y decidir siguiente experimento** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta interviews by segment, problem recurrence; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
-7. Clasifica la evidencia en descrito, entrevistado, intención, pago y repetición sin agregar estados no equivalentes.
+1. Escribe las tres preguntas que más importa responder sobre tu idea.
+2. Redacta diez preguntas de entrevista que cumplan la prueba de la madre.
+3. Clasifica diez frases de una conversación real en hecho, opinión, cortesía, idea o promesa.
+4. Define qué compromisos concretos buscarás al final de cada entrevista.
+5. Programa cinco entrevistas con personas del segmento y registra tus aprendizajes.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar customer discovery y behavioral evidence como sinónimos | Se pierde la distinción entre “proceso de aprendizaje sistemático sobre cliente y problema” y “hechos sobre lo que la persona hizo y no solo lo que dice que haría” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “sintetizar evidencia y decidir siguiente experimento” | Se saltó “definir hipótesis y segmento” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir hipótesis y segmento → 2. reclutar muestra relevante → 3. preguntar por episodios pasados y conducta → 4. capturar patrones y contradicciones → 5. sintetizar evidencia y decidir siguiente experimento y marca el primer supuesto no demostrado. |
-| Optimizar solo interviews by segment | La métrica local sustituyó al resultado del sistema | Contrástala con problem recurrence y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre customer discovery | Discovery no produce verdad estadística por sí solo. Entrevistas pequeñas sirven para descubrir mecanismos e hipótesis; la prevalencia y tamaño de mercado requieren triangulación cuantitativa. |
-| No fijar revisión | Una decisión sobre customer discovery se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Presentar la idea en vez de preguntar | Se quiere convencer | Hablar de su vida y sus problemas. |
+| Aceptar elogios como evidencia | Son agradables | Buscar hechos y compromisos. |
+| Entrevistar a conocidos | Es fácil | Buscar personas del segmento. |
+| Preguntar por el futuro | Es natural | Preguntar por el pasado concreto. |
+| No registrar | Se confía en la memoria | Notas con citas y avances. |
+| Generalizar una voz | Impresiona | Buscar patrones entre muchas entrevistas. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **customer discovery** y **behavioral evidence** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **leading question** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir hipótesis y segmento → reclutar muestra relevante** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **interviews by segment** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **customer discovery**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Discovery no produce verdad estadística por sí solo. Entrevistas pequeñas sirven para descubrir mecanismos e hipótesis; la prevalencia y tamaño de mercado requieren triangulación cuantitativa.**?
+1. ¿Qué busca el descubrimiento de clientes?
+2. ¿Qué es la prueba de la madre?
+3. ¿Qué diferencia hay entre un compromiso y una cortesía?
+4. ¿Qué tipos de dato falso describe Fitzpatrick?
+5. ¿Por qué se entrevista sobre momentos de decisión?
+6. ¿Cuántas entrevistas bastan y por qué se hace semanalmente?
+7. ¿Qué límites tienen las entrevistas?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Aprender la verdad sobre los problemas, el contexto y el comportamiento de los clientes, no validar una idea.
+2. La regla de formular preguntas que ni tu madre pueda responder con cortesía: hablar de su vida y problemas, con ejemplos del pasado, sin mencionar tu idea.
+3. El compromiso cuesta algo al cliente (tiempo, reputación, dinero); la cortesía es amabilidad sin acción.
+4. Elogios, ideas o deseos de funciones y promesas futuras.
+5. Revelan las fuerzas que empujan, atraen, frenan y mantienen la situación actual con hechos concretos.
+6. Entre 10 y 20 de un segmento suelen mostrar patrones; el ritmo semanal convierte el descubrimiento en hábito, no en fase.
+7. No estiman tamaño de mercado ni probabilidad de compra, tienen sesgos de recuerdo y de selección y requieren consentimiento para datos personales.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/147-customer-discovery/`:
 
-- `product-evidence-brief.md` con el problema específico de **customer discovery**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **customer discovery** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **customer discovery**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una startup pregunta a veinte amigos si usarían una herramienta de productividad y obtiene 18 sí. Ninguno paga hoy por resolver el problema ni puede recordar una ocasión reciente en que haya perdido dinero por él.** y el dato que podría invalidar la recomendación.
+- `product-evidence-brief.md` (plantilla [Product evidence brief](../../../../templates/product-evidence-brief.md)) con el plan de descubrimiento y los primeros hallazgos;
+- `venture-validation.md` (plantilla [Venture validation](../../../../templates/venture-validation.md)) con las hipótesis y los criterios de decisión;
+- `decision-journal.md` con las notas de entrevistas, los avances y los aprendizajes.
 
 ## 📗 Fuentes y verificación
 
-- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** equipos de producto, discovery, riesgos de producto y outcomes. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
-- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
-- Alexander Osterwalder et al. — *Value Proposition Design* (John Wiley & Sons, Incorporated, 2014). **Uso en esta clase:** perspectiva de Producto aplicada al problema de la clase. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9781118968062](https://openlibrary.org/isbn/9781118968062).
-- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** jobs to be done y comprensión causal de por qué un cliente elige una solución. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
-- Melissa Perri — *Escaping the Build Trap* (O'Reilly, 2019). **Uso en esta clase:** perspectiva de Producto aplicada al problema de la clase. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9781491973790](https://openlibrary.org/isbn/9781491973790).
-- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** hipótesis de negocio, experimentos, evidencia y reducción de riesgo. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **customer discovery** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **customer discovery**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **customer discovery** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **customer discovery** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **customer discovery** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Rob Fitzpatrick — *The Mom Test* (CreateSpace, 2014). **Uso en esta clase:** preguntas útiles, cortesías, compromisos y avances. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9781492180746](https://openlibrary.org/isbn/9781492180746).
+- Steve Blank — *The Four Steps to the Epiphany* ([Steve Blank?], 2013). **Uso en esta clase:** proceso de desarrollo de clientes y salir del edificio. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9780989200509](https://openlibrary.org/isbn/9780989200509).
+- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** contacto semanal con clientes y descubrimiento continuo. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
+- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** entrevistas de momento de contratación. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
+- Alexander Osterwalder et al. — *Value Proposition Design* (John Wiley & Sons, Incorporated, 2014). **Uso en esta clase:** traducir hallazgos a propuesta de valor. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9781118968062](https://openlibrary.org/isbn/9781118968062).
 
-> **Regla de fuentes para Customer discovery:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **customer discovery** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Customer discovery:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las de protección de datos personales y de menores. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

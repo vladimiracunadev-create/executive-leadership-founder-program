@@ -5,30 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir customer discovery de behavioral evidence mediante evidencia observable."
-  - "Aplicar la secuencia: definir hipótesis y segmento → reclutar muestra relevante → preguntar por episodios pasados y conducta → capturar patrones y contradicciones → sintetizar evidencia y decidir siguiente experimento."
-  - "Interpretar interviews by segment, problem recurrence, workaround spend sin atribuir causalidad automática."
-  - "Resolver el caso de customer discovery con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-  - "Distinguir cliente descrito, entrevistado, con intención, que pagó y que repitió sin tratar esos estados como equivalentes."
+  - "Preparar entrevistas con las tres preguntas que más importa responder."
+  - "Formular preguntas sobre comportamiento pasado y no sobre intenciones."
+  - "Clasificar lo que dice el cliente en hechos, opiniones, cortesías e ideas."
+  - "Pedir compromisos que muestren interés real."
+  - "Sintetizar aprendizajes y decidir qué hacer con ellos."
 deliverable: "product-evidence-brief.md"
 references:
-  - "Marty Cagan — *Inspired*"
+  - "Rob Fitzpatrick — *The Mom Test*"
+  - "Steve Blank — *The Four Steps to the Epiphany*"
   - "Teresa Torres — *Continuous Discovery Habits*"
-  - "Alexander Osterwalder et al. — *Value Proposition Design*"
   - "Clayton M. Christensen et al. — *Competing Against Luck*"
-  - "Melissa Perri — *Escaping the Build Trap*"
-  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
+  - "Alexander Osterwalder et al. — *Value Proposition Design*"
 limits:
-  - "Discovery no produce verdad estadística por sí solo. Entrevistas pequeñas sirven para descubrir mecanismos e hipótesis; la prevalencia y tamaño de mercado requieren triangulación cuantitativa."
+  - "Las entrevistas no permiten estimar el tamaño del mercado ni la probabilidad de compra."
 evidence_signals:
-  - "interviews by segment"
-  - "problem recurrence"
-  - "workaround spend"
-  - "switching trigger"
-  - "contradictory evidence"
-  - "paid customers"
-  - "repeat customers"
+  - "preguntas sobre hechos pasados"
+  - "cortesías distinguidas de evidencia"
+  - "compromisos y avances buscados"
+  - "notas sintetizadas por patrones"

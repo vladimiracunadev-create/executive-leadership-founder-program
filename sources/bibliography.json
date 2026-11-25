@@ -247,9 +247,7 @@
       "used_in": [
         "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
         "modules/12-product-innovation/classes/147-customer-discovery",
-        "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
-        "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
-        "modules/12-product-innovation/classes/154-metricas-de-producto",
+        "modules/12-product-innovation/classes/148-jobs-to-be-done",
         "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
         "modules/20-founder-venture-creation/classes/243-customer-discovery",
         "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
@@ -337,18 +335,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/12-product-innovation/classes/145-producto-versus-proyecto",
-        "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
-        "modules/12-product-innovation/classes/147-customer-discovery",
-        "modules/12-product-innovation/classes/148-jobs-to-be-done",
-        "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
-        "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
-        "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes",
-        "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
-        "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
-        "modules/12-product-innovation/classes/154-metricas-de-producto",
-        "modules/12-product-innovation/classes/155-product-market-fit",
-        "modules/12-product-innovation/classes/156-capstone-comite-de-producto",
         "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
         "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
         "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
@@ -789,7 +775,8 @@
         "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
         "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
         "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
-        "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros"
+        "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
+        "modules/12-product-innovation/classes/154-metricas-de-producto"
       ],
       "status": "verificada",
       "authority": "Pearson Financial Times Pub."
@@ -1208,14 +1195,9 @@
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
         "modules/11-marketing-customers-growth/classes/138-customer-journey",
         "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
-        "modules/12-product-innovation/classes/145-producto-versus-proyecto",
         "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
         "modules/12-product-innovation/classes/147-customer-discovery",
-        "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
-        "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
-        "modules/12-product-innovation/classes/154-metricas-de-producto",
-        "modules/12-product-innovation/classes/155-product-market-fit",
-        "modules/12-product-innovation/classes/156-capstone-comite-de-producto"
+        "modules/12-product-innovation/classes/148-jobs-to-be-done"
       ],
       "status": "verificada",
       "authority": "HarperBusiness"
@@ -1233,11 +1215,8 @@
       "locator": "https://openlibrary.org/isbn/9780875845852",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/12-product-innovation/classes/145-producto-versus-proyecto",
         "modules/12-product-innovation/classes/148-jobs-to-be-done",
-        "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes",
-        "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
-        "modules/12-product-innovation/classes/155-product-market-fit"
+        "modules/12-product-innovation/classes/156-capstone-comite-de-producto"
       ],
       "status": "verificada",
       "authority": "Harvard Business School Press"
@@ -1331,10 +1310,10 @@
       "locator": "https://openlibrary.org/isbn/9781118960875",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/12-product-innovation/classes/145-producto-versus-proyecto",
-        "modules/12-product-innovation/classes/148-jobs-to-be-done",
+        "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
+        "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
         "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
-        "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
+        "modules/12-product-innovation/classes/154-metricas-de-producto",
         "modules/12-product-innovation/classes/155-product-market-fit"
       ],
       "status": "verificada"
@@ -1521,18 +1500,9 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
-        "modules/12-product-innovation/classes/145-producto-versus-proyecto",
-        "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
-        "modules/12-product-innovation/classes/147-customer-discovery",
-        "modules/12-product-innovation/classes/148-jobs-to-be-done",
         "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
         "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
-        "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes",
-        "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
         "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
-        "modules/12-product-innovation/classes/154-metricas-de-producto",
-        "modules/12-product-innovation/classes/155-product-market-fit",
-        "modules/12-product-innovation/classes/156-capstone-comite-de-producto",
         "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
         "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema",
         "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
@@ -1942,11 +1912,12 @@
       "locator": "https://openlibrary.org/isbn/9780307887894",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
-        "modules/12-product-innovation/classes/148-jobs-to-be-done",
+        "modules/12-product-innovation/classes/145-producto-versus-proyecto",
+        "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
         "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
         "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
-        "modules/12-product-innovation/classes/156-capstone-comite-de-producto",
+        "modules/12-product-innovation/classes/154-metricas-de-producto",
+        "modules/12-product-innovation/classes/155-product-market-fit",
         "modules/20-founder-venture-creation/classes/243-customer-discovery",
         "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
         "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests",
@@ -2124,7 +2095,8 @@
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
         "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
         "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
-        "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market"
+        "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market",
+        "modules/12-product-innovation/classes/155-product-market-fit"
       ],
       "status": "verificada"
     },
@@ -2197,18 +2169,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/12-product-innovation/classes/145-producto-versus-proyecto",
-        "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
-        "modules/12-product-innovation/classes/147-customer-discovery",
-        "modules/12-product-innovation/classes/148-jobs-to-be-done",
-        "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
-        "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
-        "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes",
-        "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
-        "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
-        "modules/12-product-innovation/classes/154-metricas-de-producto",
-        "modules/12-product-innovation/classes/155-product-market-fit",
-        "modules/12-product-innovation/classes/156-capstone-comite-de-producto",
         "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
         "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
         "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
@@ -2409,7 +2369,9 @@
         "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
         "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
         "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
-        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica"
+        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica",
+        "modules/12-product-innovation/classes/145-producto-versus-proyecto",
+        "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes"
       ],
       "status": "verificada",
       "authority": "John Wiley & Sons Inc"
@@ -3169,15 +3131,11 @@
       "used_in": [
         "modules/12-product-innovation/classes/145-producto-versus-proyecto",
         "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
-        "modules/12-product-innovation/classes/147-customer-discovery",
-        "modules/12-product-innovation/classes/148-jobs-to-be-done",
         "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
         "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
         "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes",
         "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
         "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
-        "modules/12-product-innovation/classes/154-metricas-de-producto",
-        "modules/12-product-innovation/classes/155-product-market-fit",
         "modules/12-product-innovation/classes/156-capstone-comite-de-producto"
       ],
       "status": "verificada"
@@ -3274,10 +3232,11 @@
       "locator": "https://openlibrary.org/isbn/9781491973790",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/12-product-innovation/classes/147-customer-discovery",
-        "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
+        "modules/12-product-innovation/classes/145-producto-versus-proyecto",
+        "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
         "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes",
-        "modules/12-product-innovation/classes/154-metricas-de-producto"
+        "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
+        "modules/12-product-innovation/classes/156-capstone-comite-de-producto"
       ],
       "status": "verificada",
       "authority": "O'Reilly"
@@ -3961,18 +3920,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/12-product-innovation/classes/145-producto-versus-proyecto",
-        "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
-        "modules/12-product-innovation/classes/147-customer-discovery",
-        "modules/12-product-innovation/classes/148-jobs-to-be-done",
-        "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
-        "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
-        "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes",
-        "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
-        "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
-        "modules/12-product-innovation/classes/154-metricas-de-producto",
-        "modules/12-product-innovation/classes/155-product-market-fit",
-        "modules/12-product-innovation/classes/156-capstone-comite-de-producto",
         "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
         "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
         "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
@@ -4553,6 +4500,7 @@
         "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
         "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
         "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
+        "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
         "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
         "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
         "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
@@ -4697,11 +4645,8 @@
       "locator": "https://openlibrary.org/isbn/9781492180746",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
-        "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
-        "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes",
-        "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
-        "modules/12-product-innovation/classes/156-capstone-comite-de-producto",
+        "modules/12-product-innovation/classes/147-customer-discovery",
+        "modules/12-product-innovation/classes/148-jobs-to-be-done",
         "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
         "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
         "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests",
@@ -4961,7 +4906,9 @@
         "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
         "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
         "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
-        "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market"
+        "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market",
+        "modules/12-product-innovation/classes/154-metricas-de-producto",
+        "modules/12-product-innovation/classes/155-product-market-fit"
       ],
       "status": "verificada",
       "authority": "Ebury Publishing"
@@ -5199,6 +5146,9 @@
       "locator": "https://openlibrary.org/isbn/9780989200509",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/12-product-innovation/classes/147-customer-discovery",
+        "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
+        "modules/12-product-innovation/classes/155-product-market-fit",
         "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
         "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
         "modules/20-founder-venture-creation/classes/243-customer-discovery",
@@ -5329,18 +5279,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/12-product-innovation/classes/145-producto-versus-proyecto",
-        "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
-        "modules/12-product-innovation/classes/147-customer-discovery",
-        "modules/12-product-innovation/classes/148-jobs-to-be-done",
-        "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
-        "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
-        "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes",
-        "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
-        "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
-        "modules/12-product-innovation/classes/154-metricas-de-producto",
-        "modules/12-product-innovation/classes/155-product-market-fit",
-        "modules/12-product-innovation/classes/156-capstone-comite-de-producto",
         "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
         "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
         "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
@@ -5494,13 +5432,7 @@
         "modules/12-product-innovation/classes/147-customer-discovery",
         "modules/12-product-innovation/classes/148-jobs-to-be-done",
         "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
-        "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
-        "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes",
-        "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
-        "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
-        "modules/12-product-innovation/classes/154-metricas-de-producto",
-        "modules/12-product-innovation/classes/155-product-market-fit",
-        "modules/12-product-innovation/classes/156-capstone-comite-de-producto"
+        "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes"
       ],
       "status": "verificada"
     },
@@ -5745,18 +5677,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/12-product-innovation/classes/145-producto-versus-proyecto",
-        "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
-        "modules/12-product-innovation/classes/147-customer-discovery",
-        "modules/12-product-innovation/classes/148-jobs-to-be-done",
-        "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
-        "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
-        "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes",
-        "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
-        "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
-        "modules/12-product-innovation/classes/154-metricas-de-producto",
-        "modules/12-product-innovation/classes/155-product-market-fit",
-        "modules/12-product-innovation/classes/156-capstone-comite-de-producto",
         "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
         "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
         "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
@@ -6781,7 +6701,9 @@
         "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
         "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
         "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
-        "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial"
+        "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
+        "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
+        "modules/12-product-innovation/classes/153-experimentos-y-evidencia"
       ],
       "status": "verificada"
     },
@@ -6905,7 +6827,9 @@
       "used_in": [
         "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
         "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
-        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo"
+        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
+        "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes",
+        "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad"
       ],
       "status": "verificada"
     },
@@ -7374,7 +7298,9 @@
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
         "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
-        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion"
+        "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
+        "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
+        "modules/12-product-innovation/classes/154-metricas-de-producto"
       ],
       "status": "verificada"
     },
@@ -7394,6 +7320,43 @@
       "used_in": [
         "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
         "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "rebecca-m-henderson-kim-b-clark-architectural-innovation-the-reconfiguration-of",
+      "type": "paper",
+      "authors": [
+        "Henderson, Rebecca M.",
+        "Clark, Kim B."
+      ],
+      "title": "Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms",
+      "cited_as": "Rebecca M. Henderson & Kim B. Clark — Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms",
+      "authority": "Administrative Science Quarterly",
+      "published": "1990",
+      "doi": "10.2307/2393549",
+      "locator": "https://doi.org/10.2307/2393549",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/12-product-innovation/classes/156-capstone-comite-de-producto"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "robert-g-cooper-stage-gate-systems-a-new-tool-for-managing-new-products",
+      "type": "paper",
+      "authors": [
+        "Cooper, Robert G."
+      ],
+      "title": "Stage-gate systems: A new tool for managing new products",
+      "cited_as": "Robert G. Cooper — Stage-gate systems: A new tool for managing new products",
+      "authority": "Business Horizons",
+      "published": "1990",
+      "doi": "10.1016/0007-6813(90)90040-i",
+      "locator": "https://doi.org/10.1016/0007-6813(90)90040-i",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/12-product-innovation/classes/156-capstone-comite-de-producto"
       ],
       "status": "verificada"
     }

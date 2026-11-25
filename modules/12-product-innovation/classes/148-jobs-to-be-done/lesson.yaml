@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir job de circumstance mediante evidencia observable."
-  - "Aplicar la secuencia: reconstruir evento de cambio → identificar circunstancia y progreso buscado → mapear push pull ansiedad y hábito → identificar soluciones competidoras → diseñar mensaje y producto alrededor del progreso."
-  - "Interpretar switch events, trigger frequency, current alternatives sin atribuir causalidad automática."
-  - "Resolver el caso de jobs to Be Done con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Formular un trabajo a realizar con situación, motivación y resultado."
+  - "Distinguir las dimensiones funcional, emocional y social del trabajo."
+  - "Identificar la competencia real: todo lo que el cliente contrata para ese trabajo."
+  - "Mapear las fuerzas que empujan, atraen, frenan y mantienen una decisión."
+  - "Traducir el trabajo en criterios de producto, mensaje y oferta."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Marty Cagan — *Inspired*"
+  - "Clayton M. Christensen et al. — *Competing Against Luck*"
+  - "Alexander Osterwalder et al. — *Value Proposition Design*"
+  - "Rob Fitzpatrick — *The Mom Test*"
   - "Teresa Torres — *Continuous Discovery Habits*"
   - "Clayton M. Christensen — *The Innovator's Dilemma*"
-  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
-  - "Eric Ries — *The Lean Startup*"
-  - "Dan Olsen — *The Lean Product Playbook*"
 limits:
-  - "JTBD es una lente, no una taxonomía universal. Puede complementar segmentación, necesidades y analítica; forzar toda decisión a un job puede ocultar restricciones organizacionales, regulación o economía."
+  - "JTBD es una **teoría explicativa** con aplicación cualitativa; no entrega por sí misma el tamaño de cada trabajo ni su probabilidad."
 evidence_signals:
-  - "switch events"
-  - "trigger frequency"
-  - "current alternatives"
-  - "anxieties"
-  - "time-to-progress"
+  - "trabajo con situación, motivación y resultado"
+  - "dimensiones funcional, emocional y social"
+  - "competencia real identificada"
+  - "fuerzas de decisión mapeadas"

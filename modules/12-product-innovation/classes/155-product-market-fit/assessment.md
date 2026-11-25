@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **product-market fit** de **retention curve** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **pull** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **market segment** con **repeatability**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué es el ajuste producto–mercado en términos de comportamiento?
+2. ¿Qué señales confiables lo indican?
+3. ¿Qué es la prueba de decepción y qué límites tiene?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una startup duplica ARR con descuentos y servicios manuales del fundador. Retención bruta es 62% y cada implementación consume 80 horas. El directorio llama a eso PMF por crecimiento de ingresos.
+**Caso:** Una empresa de software de gestión para restaurantes ha crecido a 1.800 clientes en dos años con una fuerte inversión en ventas y descuentos de 40 % en el primer año. Su retención de clientes a 12 meses es de 58 %; el equipo de ventas reporta que los clientes de cadenas pequeñas (3 a 10 locales) retienen al 83 %, mientras que los restaurantes independientes retienen al 41 %. Una encuesta de decepción muestra 52 % «muy decepcionados» entre cadenas pequeñas y 17 % entre independientes. La junta directiva propone duplicar el gasto comercial para llegar a 4.000 clientes; el director financiero advierte que el costo de adquirir un cliente independiente supera su valor de vida; el de producto quiere ampliar a cadenas medianas.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir segmento específico → examinar retención y uso repetido → analizar demanda y referencias → validar unit economics iniciales → decidir escalar profundizar o seguir buscando fit**. Debes utilizar o diseñar cómo obtener **cohort retention, organic-referral share, sales cycle**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **diagnóstico de ajuste producto–mercado y decisión** que contenga: (a) las señales por segmento (retención, pago, decepción, origen del crecimiento); (b) el diagnóstico por capas; (c) la identificación de crecimiento comprado y de falsos positivos; (d) los criterios para escalar, ajustar o pivotar y los experimentos que los respaldarían; (e) la recomendación sobre la propuesta de duplicar el gasto y la ampliación a cadenas medianas; (f) los puntos de veracidad en comunicaciones a inversionistas y clientes y las verificaciones legales aplicables. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **PMF puede existir en un nicho y no transferirse a otro. Escalar canales o equipo antes de entender qué segmento retiene puede amplificar churn y costos.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: El ajuste no es un estado binario sino un **continuo** que varía por segmento y se puede perder si cambian el mercado o la competencia.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

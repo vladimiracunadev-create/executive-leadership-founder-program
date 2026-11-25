@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir north star metric de activation mediante evidencia observable."
-  - "Aplicar la secuencia: definir valor entregado → mapear funnel y eventos → seleccionar métrica de outcome y drivers → segmentar cohortes y ventanas → establecer review y decisiones asociadas."
-  - "Interpretar activation rate, cohort retention, frequency of value event sin atribuir causalidad automática."
-  - "Resolver el caso de métricas de producto con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Definir una métrica guía que capture el valor que recibe el usuario."
+  - "Descomponer esa métrica en indicadores de entrada accionables."
+  - "Medir activación, retención y uso por cohortes."
+  - "Distinguir métricas accionables de métricas de vanidad."
+  - "Proteger el producto de los efectos de convertir métricas en metas."
 deliverable: "product-evidence-brief.md"
 references:
-  - "Marty Cagan — *Inspired*"
-  - "Teresa Torres — *Continuous Discovery Habits*"
-  - "Melissa Perri — *Escaping the Build Trap*"
-  - "Alexander Osterwalder et al. — *Value Proposition Design*"
-  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
-  - "Clayton M. Christensen et al. — *Competing Against Luck*"
+  - "Sean Ellis & Morgan Brown — *Hacking Growth*"
+  - "Eric Ries — *The Lean Startup*"
+  - "Dan Olsen — *The Lean Product Playbook*"
+  - "Ron Kohavi, Diane Tang & Ya Xu — *Trustworthy Online Controlled Experiments*"
+  - "Bernard Marr — *Key Performance Indicators*"
 limits:
-  - "Una North Star puede inducir gaming si se desconecta de calidad, margen o bienestar. Acompáñala con guardrails y análisis de cohortes."
+  - "Ninguna métrica captura todo el valor: el aprendizaje, la confianza o la satisfacción profunda son difíciles de medir."
 evidence_signals:
-  - "activation rate"
-  - "cohort retention"
-  - "frequency of value event"
-  - "conversion"
-  - "support-adjusted margin"
+  - "métrica guía ligada al valor"
+  - "retención medida por cohortes"
+  - "vanidad distinguida de accionable"
+  - "métricas de protección definidas"

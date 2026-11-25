@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **customer discovery** de **behavioral evidence** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **leading question** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **workaround** con **sample bias**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué busca el descubrimiento de clientes?
+2. ¿Qué es la prueba de la madre?
+3. ¿Qué diferencia hay entre un compromiso y una cortesía?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una startup pregunta a veinte amigos si usarían una herramienta de productividad y obtiene 18 sí. Ninguno paga hoy por resolver el problema ni puede recordar una ocasión reciente en que haya perdido dinero por él.
+**Caso:** Una empresa de educación financiera quiere lanzar una aplicación para jóvenes de 18 a 25 años que ayude a ahorrar. El equipo hizo 30 encuestas y 10 entrevistas con estudiantes universitarios conocidos de los fundadores: el 87 % dijo que «le gustaría» una aplicación así y el 70 % «seguro la usaría». Con ese dato, la dirección está dispuesta a invertir USD 400.000 en desarrollo. Una analista advierte que ninguno de los entrevistados ahorraba de forma constante, que ninguna entrevista indagó cómo gestionan hoy el dinero, que las encuestas se aplicaron con un sorteo y que la muestra no incluye a jóvenes que trabajan y no estudian. Hay normas de protección de datos financieros y de menores de edad que aplicar.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir hipótesis y segmento → reclutar muestra relevante → preguntar por episodios pasados y conducta → capturar patrones y contradicciones → sintetizar evidencia y decidir siguiente experimento**. Debes utilizar o diseñar cómo obtener **interviews by segment, problem recurrence, workaround spend**. Separa descritos, entrevistados, intención, pago y repetición; declara segmento, denominador, periodo e incentivo y no sumes estados. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de descubrimiento** que contenga: (a) las tres preguntas clave y las hipótesis del modelo; (b) el perfil de los entrevistados y cómo los encontrarás; (c) la guía de entrevista con preguntas de hechos pasados y de momentos de decisión; (d) la crítica de las encuestas e entrevistas anteriores; (e) los compromisos y avances que buscarás y los criterios de decisión; (f) cómo registrar, sintetizar y proteger los datos de las personas entrevistadas. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Discovery no produce verdad estadística por sí solo. Entrevistas pequeñas sirven para descubrir mecanismos e hipótesis; la prevalencia y tamaño de mercado requieren triangulación cuantitativa.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las entrevistas no permiten estimar el tamaño del mercado ni la probabilidad de compra.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

@@ -1,70 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g149 d-g149" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g149">Ficha visual de la clase 149: Prototipos y aprendizaje temprano</title>
-<desc id="d-g149">Conceptos: prototype; fidelity; desirability risk; usability risk; technical spike. Método: formular pregunta de aprendizaje → elegir incertidumbre dominante → seleccionar fidelidad mínima → observar conducta durante prueba → registrar evidencia y decidir siguiente incremento.</desc>
-<defs><marker id="p-g149" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 149 · Prototipos y aprendizaje temprano</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 12 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >prototype</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >representación temporal para probar una hipótesis</text>
-<circle cx="38" cy="170" r="5" fill="#bc4c00"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >fidelity</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >nivel de detalle y realismo del prototipo</text>
-<circle cx="38" cy="228" r="5" fill="#bc4c00"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >desirability risk</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >incertidumbre sobre si el usuario quiere o valora la</text>
-<text x="54" y="267.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >solución</text>
-<circle cx="38" cy="300.12" r="5" fill="#bc4c00"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >usability risk</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >incertidumbre sobre si puede comprenderla y usarla</text>
-<circle cx="38" cy="358.12" r="5" fill="#bc4c00"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >technical spike</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >experimento corto para reducir incertidumbre técnica</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<rect x="470" y="336" width="6" height="52" rx="3" fill="#bc4c00"/>
-<text x="486" y="356" font-size="13" font-weight="800" fill="#bc4c00" text-anchor="start" >1</text>
-<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >formular pregunta de aprendizaje</text>
-<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<rect x="532" y="278" width="6" height="52" rx="3" fill="#bc4c00"/>
-<text x="548" y="298" font-size="13" font-weight="800" fill="#bc4c00" text-anchor="start" >2</text>
-<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >elegir incertidumbre dominante</text>
-<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<rect x="594" y="220" width="6" height="52" rx="3" fill="#bc4c00"/>
-<text x="610" y="240" font-size="13" font-weight="800" fill="#bc4c00" text-anchor="start" >3</text>
-<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >seleccionar fidelidad mínima</text>
-<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<rect x="656" y="162" width="6" height="52" rx="3" fill="#bc4c00"/>
-<text x="672" y="182" font-size="13" font-weight="800" fill="#bc4c00" text-anchor="start" >4</text>
-<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >observar conducta durante prueba</text>
-<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<rect x="718" y="104" width="6" height="52" rx="3" fill="#bc4c00"/>
-<text x="734" y="124" font-size="13" font-weight="800" fill="#bc4c00" text-anchor="start" >5</text>
-<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >registrar evidencia y decidir</text>
-<text x="752" y="141.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >siguiente incremento</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >task success</text>
-<rect x="146.8" y="442.12" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="159.8" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="170.8" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >time-on-task</text>
-<rect x="265.6" y="442.12" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="278.6" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="289.6" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >critical misunderstandings</text>
-<rect x="481" y="442.12" width="198.5" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="494" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="505" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >prototype iteration count</text>
-<rect x="689.5" y="442.12" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="702.5" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="713.5" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >learning cost</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Prototipos de baja fidelidad no responden bien preguntas de performance, seguridad o confianza visual. El tipo de prototipo debe</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >corresponder al riesgo que se intenta reducir.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 504.81" width="1040" role="img" aria-labelledby="t-s149 d-s149" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s149">Clase 149 · Subir en fidelidad solo cuando ya se aprendió lo anterior</title>
+<desc id="d-s149">Cuatro niveles de prototipo y qué pregunta responde cada uno: bosquejo, maqueta navegable, prototipo funcional y piloto real.</desc>
+<defs><marker id="p-s149" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="504.81" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 149 · Subir en fidelidad solo cuando ya se aprendió lo anterior</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Olsen (2015) · Cagan (2017) · Ries (2011)</text>
+<rect x="130" y="96" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="130" y="96" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<circle cx="162" cy="127.625" r="15" fill="#1a7f37"/>
+<text x="162" y="132.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="190" y="120" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Piloto real</text>
+<text x="190" y="138" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >¿Lo usan y obtienen valor con consecuencias reales? Grupo acotado.</text>
+<rect x="96" y="169.25" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="96" y="169.25" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<circle cx="128" cy="200.875" r="15" fill="#bc4c00"/>
+<text x="128" y="205.875" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="156" y="193.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Prototipo funcional</text>
+<text x="156" y="211.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >¿Funciona técnicamente y con datos reales? Pocos usuarios.</text>
+<rect x="62" y="242.5" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="62" y="242.5" width="6" height="63.25" rx="3" fill="#0969da"/>
+<circle cx="94" cy="274.125" r="15" fill="#0969da"/>
+<text x="94" y="279.125" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="122" y="266.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Maqueta navegable</text>
+<text x="122" y="284.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >¿Entienden y completan la tarea? Prueba con 5 a 8 usuarios.</text>
+<rect x="28" y="315.75" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<rect x="28" y="315.75" width="6" height="63.25" rx="3" fill="#59636e"/>
+<circle cx="60" cy="347.375" r="15" fill="#59636e"/>
+<text x="60" y="352.375" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="88" y="339.75" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Bosquejo en papel</text>
+<text x="88" y="357.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >¿Es este el problema y el flujo que esperan? Horas y costo mínimo.</text>
+<rect x="28" y="395" width="984" height="43.25" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="417" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Cada nivel cuesta más y responde preguntas distintas. Se sube de nivel cuando el anterior ya no revela problemas importantes.</text>
+<text x="28" y="464.25" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Un prototipo bonito puede esconder que nadie necesita la solución: la fidelidad no reemplaza la evidencia.</text>
 </svg>

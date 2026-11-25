@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir MVP de hypothesis mediante evidencia observable."
-  - "Aplicar la secuencia: identificar hipótesis de mayor riesgo → definir población y comportamiento esperado → diseñar MVP mínimo viable → predefinir umbral de decisión → ejecutar medir y decidir."
-  - "Interpretar activation, paid conversion, repeat use sin atribuir causalidad automática."
-  - "Resolver el caso de mVP: prueba de hipótesis con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Formular las hipótesis críticas de valor y de crecimiento de un negocio o producto."
+  - "Elegir el tipo de MVP más barato que pruebe la hipótesis más arriesgada."
+  - "Definir métricas y umbrales de éxito antes de lanzar."
+  - "Interpretar resultados sin autoengaño y con límites de la muestra."
+  - "Decidir entre perseverar, pivotar o detener, y registrar el aprendizaje."
 deliverable: "product-evidence-brief.md"
 references:
-  - "Marty Cagan — *Inspired*"
-  - "Teresa Torres — *Continuous Discovery Habits*"
   - "Eric Ries — *The Lean Startup*"
   - "Dan Olsen — *The Lean Product Playbook*"
-  - "Alexander Osterwalder et al. — *Value Proposition Design*"
   - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
+  - "Steve Blank — *The Four Steps to the Epiphany*"
+  - "Marty Cagan — *Inspired*"
 limits:
-  - "Un MVP no justifica exponer usuarios a inseguridad, incumplimiento o daño. En dominios regulados, la mínima versión debe respetar controles no negociables aunque eso aumente el costo."
+  - "Un MVP puede dar resultados engañosos con muestras pequeñas o con clientes atípicos (early adopters), que no representan al mercado amplio."
 evidence_signals:
-  - "activation"
-  - "paid conversion"
-  - "repeat use"
-  - "support burden"
-  - "experiment confidence"
+  - "hipótesis crítica identificada"
+  - "MVP más barato que la prueba"
+  - "umbral fijado antes de lanzar"
+  - "decisión de perseverar, pivotar o detener"

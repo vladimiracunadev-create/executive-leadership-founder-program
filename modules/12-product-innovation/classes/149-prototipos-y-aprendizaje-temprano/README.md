@@ -10,217 +10,189 @@
 
 ## 🎯 Propósito
 
-Un prototipo sirve para aprender antes de incurrir en el costo completo de construcción. Su fidelidad debe ser la mínima necesaria para probar la pregunta específica: desirability, comprensión, flujo, factibilidad o integración. Confundir prototipo con producto lleva a sobreinvertir antes de resolver la incertidumbre principal.
+Construir un producto completo para descubrir si alguien lo quiere es el modo más caro de aprender. Un **prototipo** es una representación de una idea, hecha con el mínimo esfuerzo posible, cuyo propósito es **aprender algo específico** antes de invertir en construir de verdad: si el usuario entiende el concepto, si completa la tarea, si el flujo tiene sentido, si la tecnología es viable. Los equipos que prototipan bien descubren errores en horas que, de otro modo, aparecerían meses después y costarían cientos de veces más. Los que prototipan mal construyen maquetas pulidas que nadie prueba o prototipos que se convierten, sin querer, en el producto.
 
-La salida de esta parte es **convertir problemas de clientes en productos validados y outcomes medibles**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **prototipos y aprendizaje temprano** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el enfoque de producto delgado de Olsen, en las prácticas de descubrimiento de Cagan, en el aprendizaje validado de Ries y en los hábitos de descubrimiento de Torres. Al terminar sabrás elegir el nivel de fidelidad adecuado a la pregunta que se quiere responder, diseñar una prueba con usuarios, interpretar lo que se observa sin sesgarlo y decidir cuándo pasar de prototipo a construcción.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `prototype`, `fidelity`, `desirability risk`, `usability risk`, `technical spike` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. formular pregunta de aprendizaje → 2. elegir incertidumbre dominante → 3. seleccionar fidelidad mínima → 4. observar conducta durante prueba → 5. registrar evidencia y decidir siguiente incremento** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** task success, time-on-task, critical misunderstandings sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** la pregunta que un prototipo debe responder.
+2. **Elegir** el nivel de fidelidad: bosquejo, maqueta, prototipo funcional o piloto.
+3. **Diseñar** una prueba con usuarios con tareas, observación y criterios.
+4. **Interpretar** los resultados distinguiendo problemas de usabilidad, de valor y de viabilidad.
+5. **Decidir** cuándo parar, iterar o construir.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define prototype y fidelity sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con task success y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuál fue la última función que construiste y cuánto tardaste en saber si servía? |
+| 20–60 min | Pregunta, fidelidad, pruebas con usuarios e interpretación. |
+| 60–105 min | Ejemplo trabajado: probar un flujo de reserva de turnos con cuatro prototipos. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **prototype** | representación temporal para probar una hipótesis | Distingue un hecho compatible y otro que lo refute. |
-| **fidelity** | nivel de detalle y realismo del prototipo | Distingue un hecho compatible y otro que lo refute. |
-| **desirability risk** | incertidumbre sobre si el usuario quiere o valora la solución | Distingue un hecho compatible y otro que lo refute. |
-| **usability risk** | incertidumbre sobre si puede comprenderla y usarla | Distingue un hecho compatible y otro que lo refute. |
-| **technical spike** | experimento corto para reducir incertidumbre técnica | Distingue un hecho compatible y otro que lo refute. |
+| **Prototipo** | Representación de una idea hecha para aprender. | Se descarta o se rehace. |
+| **Fidelidad** | Cuánto se parece el prototipo al producto final. | Baja (papel) a alta (funcional). |
+| **Prueba de usabilidad** | Observación de personas haciendo tareas con el prototipo. | Se mide si completan y dónde se traban. |
+| **Hipótesis de prueba** | Lo que se espera confirmar o refutar. | «Cuatro de cinco completarán la reserva sin ayuda». |
+| **Mago de Oz** | Prototipo en que una persona simula manualmente lo que luego hará el sistema. | El usuario cree que es automático. |
+| **Aprendizaje temprano** | Información valiosa obtenida antes de construir. | Cambia una decisión. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 149: 1. formular pregunta de aprendizaje → 2. elegir incertidumbre dominante → 3. seleccionar fidelidad mínima → 4. observar conducta durante prueba → 5. registrar evidencia y decidir siguiente incremento](modelo-mental.svg)
+![Cuatro niveles de prototipo: bosquejo en papel, maqueta navegable, prototipo funcional y piloto real, con la pregunta que responde cada uno.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. formular pregunta de aprendizaje → 2. elegir incertidumbre dominante → 3. seleccionar fidelidad mínima → 4. observar conducta durante prueba → 5. registrar evidencia y decidir siguiente incremento
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un prototipo sirve para aprender antes de incurrir en el costo completo de construcción. Su fidelidad debe ser la mínima necesaria para probar la pregunta específica: desirability, comprensión, flujo, factibilidad o integración. Confundir prototipo con producto lleva a sobreinvertir antes de resolver la incertidumbre principal.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Prototipos de baja fidelidad no responden bien preguntas de performance, seguridad o confianza visual. El tipo de prototipo debe corresponder al riesgo que se intenta reducir.**
+**Cómo leer el diagrama.** Una escalera de cuatro niveles de fidelidad creciente. El **bosquejo en papel** responde si es el problema y el flujo esperados, en horas y a costo mínimo. La **maqueta navegable** prueba si las personas entienden y completan la tarea, con cinco a ocho usuarios. El **prototipo funcional** prueba si funciona técnicamente con datos reales. El **piloto real** prueba si lo usan y obtienen valor con consecuencias reales. La nota recuerda que cada nivel cuesta más y que se sube cuando el anterior ya no revela problemas importantes.
 
 ## 📖 Desarrollo
 
-### 1. prototype: mecanismo central
+### 1. Prototipar para aprender, no para mostrar
 
-**prototype** se entiende aquí como **representación temporal para probar una hipótesis**. Esta es la pieza causal o estructural desde la que se inicia **prototipos y aprendizaje temprano**: antes de formular pregunta de aprendizaje, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Olsen insiste en que el objetivo de un prototipo es **aprender qué necesita el cliente** y obtener evidencia rápida de si la propuesta de valor se sostiene, para hacer pivotes baratos. Un prototipo no es una versión «chica» del producto ni una demostración para convencer a interesados; es una **herramienta de investigación**. La primera pregunta, entonces, no es qué prototipo hacer sino **qué quiero aprender**: ¿entienden la propuesta?, ¿completan la tarea?, ¿les parece útil?, ¿pagarían?, ¿es técnicamente posible? Cada pregunta puede responderse con un prototipo distinto, más barato de lo que se piensa.
 
-La lectura rectora de este bloque es Marty Cagan — *Inspired*. Su aporte se usa para examinar **equipos de producto, discovery, riesgos de producto y outcomes**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **task success**; regístrala con periodo, unidad, población y baseline.
+### 2. Elegir la fidelidad
 
-Relaciona el mecanismo con **fidelity**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La fidelidad se elige según la pregunta y el riesgo. **Baja fidelidad** (bosquejos, flujos en papel, diapositivas): rápida, permite descartar y es buena para validar el concepto y el flujo; sirve para pruebas de las primeras horas. **Fidelidad media** (maquetas navegables con herramientas de diseño): permite probar la comprensión y la finalización de tareas con usuarios reales. **Alta fidelidad o funcional** (código que usa datos reales): se justifica para riesgos técnicos o para pruebas de rendimiento. **Piloto** (producto real con un grupo acotado): prueba el valor y la conducta con consecuencias reales. Cagan recomienda prototipos para atacar los cuatro riesgos (valor, usabilidad, viabilidad técnica y de negocio) antes de construir.
 
-### 2. fidelity: frontera conceptual y error de clasificación
+### 3. Prototipos que no son código
 
-**Definición operacional:** nivel de detalle y realismo del prototipo. Su valor está en distinguirlo de **prototype** y **desirability risk**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Muchas hipótesis se prueban sin programar: **prototipo de papel** (se muestra una pantalla dibujada y se pregunta qué haría); **mago de Oz** (una persona ejecuta manualmente lo que luego hará el sistema: el usuario pide, el equipo responde en minutos con asistencia humana); **concierge** (se presta el servicio de forma totalmente manual a pocos clientes para aprender); **página de prueba** (una página que describe el producto y mide cuántos dejan sus datos o hacen una reserva); **video demostrativo** (para medir interés). Ries presenta estos recursos como formas de producto mínimo viable (clase 150). Su valor es la **velocidad** y que se aprende del comportamiento.
 
-Contrasta el problema con Teresa Torres — *Continuous Discovery Habits*, que aporta una mirada sobre **discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia**. Formula dos mini-casos: uno que sí satisface la definición de **fidelity** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **time-on-task** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Probar con usuarios
 
-Antes de elegir incertidumbre dominante, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Una prueba de usabilidad bien hecha tiene: **objetivo** (qué se quiere saber), **tareas realistas** («reserva un turno para tu madre la próxima semana»), **5 a 8 participantes** del segmento, **observación** (no explicar, no ayudar, pedir que piensen en voz alta), **registro** (dónde dudan, dónde fallan, qué dicen) y **síntesis** de hallazgos. Con cinco usuarios suelen aparecer la mayor parte de los problemas importantes de usabilidad de un flujo; para estimar proporciones se necesitan más. Torres sugiere probar **suposiciones específicas** y no «el producto en general»: «los usuarios entenderán que el turno no está confirmado hasta recibir el correo».
 
-### 3. desirability risk: operacionalización y medición
+### 5. Interpretar los resultados
 
-**desirability risk** significa **incertidumbre sobre si el usuario quiere o valora la solución**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Los hallazgos se clasifican: **usabilidad** (no pudieron hacerlo: se rediseña), **valor** (lo hicieron, pero no les importa: se revisa el problema o la propuesta), **comprensión** (no entendieron qué era: se cambia el mensaje), **viabilidad** (funciona en la maqueta, no en la práctica: se investiga la técnica). Se distingue lo que **hacen** de lo que **dicen**: observar que alguien completa la tarea sin ayuda pesa más que su comentario de que «fue fácil». Se desconfía de la **cortesía** del participante y del **sesgo de confirmación** del equipo, que tiende a explicar cada tropiezo como «error de ese usuario». Se registran los hallazgos antes de discutir soluciones.
 
-Clayton M. Christensen et al. — *Competing Against Luck* orienta este bloque mediante **jobs to be done y comprensión causal de por qué un cliente elige una solución**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **critical misunderstandings**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Iterar con criterio
 
-Al llegar a seleccionar fidelidad mínima, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cada ronda debería **cambiar algo**: se corrige el problema más importante y se vuelve a probar. Se establecen **criterios de salida** antes de empezar: «cuando 4 de 5 usuarios completen la reserva sin ayuda en menos de dos minutos, se pasa a construir». Las rondas se hacen en **días**, no en meses. Se evita **iterar sobre detalles** mientras el concepto es dudoso: si nadie ve valor, mejorar los colores no ayuda. Y se evita el **perfeccionismo del prototipo**: invertir demasiado en uno lo vuelve difícil de abandonar.
 
-### 4. usability risk: trade-offs y efectos de segundo orden
+### 7. De prototipo a producto
 
-**Definición:** incertidumbre sobre si puede comprenderla y usarla. Este concepto obliga a abandonar la idea de que **prototipos y aprendizaje temprano** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de observar conducta durante prueba, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Melissa Perri — *Escaping the Build Trap* aporta una lente sobre **perspectiva de Producto aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **prototype iteration count** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **prototipos y aprendizaje temprano**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **usability risk** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. technical spike: gobernanza, límites e integración
-
-**technical spike** se define como **experimento corto para reducir incertidumbre técnica** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Rob Fitzpatrick — *The Mom Test* se utiliza para estudiar **perspectiva de Customer discovery aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar registrar evidencia y decidir siguiente incremento, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Prototipos de baja fidelidad no responden bien preguntas de performance, seguridad o confianza visual. El tipo de prototipo debe corresponder al riesgo que se intenta reducir.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **prototype**, **fidelity**, **desirability risk**, **usability risk** y **technical spike** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **prototipos y aprendizaje temprano** no consiste en sumar cinco definiciones. Empieza por **prototype**, contrasta **fidelity** con **desirability risk**, incorpora **usability risk** como restricción o mecanismo y usa **technical spike** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. formular pregunta de aprendizaje → 2. elegir incertidumbre dominante → 3. seleccionar fidelidad mínima → 4. observar conducta durante prueba → 5. registrar evidencia y decidir siguiente incremento**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Pasar a construir exige: **evidencia de valor** (señales de interés reales, clase 147), **flujo validado** (los usuarios lo completan), **viabilidad técnica** (probada o con riesgo acotado) y **viabilidad de negocio** (economía y normativa). Se define qué se construye primero (la parte mínima que entrega el valor, clase 150) y cómo se medirá. Los prototipos se **archivan** como memoria de aprendizaje. Se evita convertir el código del prototipo en producto sin refactorizar: puede acarrear deuda técnica. En sectores regulados (salud, finanzas), los prototipos con datos reales deben cumplir las normas de protección de datos y de ensayos con usuarios.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marty Cagan — *Inspired* | equipos de producto, discovery, riesgos de producto y outcomes | ¿Qué supuesto de **prototipos y aprendizaje temprano** ayuda a desafiar? |
-| Teresa Torres — *Continuous Discovery Habits* | discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia | ¿Qué supuesto de **prototipos y aprendizaje temprano** ayuda a desafiar? |
-| Clayton M. Christensen et al. — *Competing Against Luck* | jobs to be done y comprensión causal de por qué un cliente elige una solución | ¿Qué supuesto de **prototipos y aprendizaje temprano** ayuda a desafiar? |
-| Melissa Perri — *Escaping the Build Trap* | perspectiva de Producto aplicada al problema de la clase | ¿Qué supuesto de **prototipos y aprendizaje temprano** ayuda a desafiar? |
-| Rob Fitzpatrick — *The Mom Test* | perspectiva de Customer discovery aplicada al problema de la clase | ¿Qué supuesto de **prototipos y aprendizaje temprano** ayuda a desafiar? |
-
-En **prototipos y aprendizaje temprano**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **prototype**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Olsen | Prototipos para aprender y evidencia de ajuste. | Metodología general. | ¿Qué hipótesis prueba este prototipo? |
+| Cagan | Prototipos para reducir cuatro riesgos de producto. | Basado en experiencia tecnológica. | ¿Qué riesgo reduce esta prueba? |
+| Ries | Producto mínimo viable y aprendizaje validado. | Contexto de startups. | ¿Cuál es la forma más barata de aprender esto? |
+| Torres | Probar suposiciones con pruebas pequeñas. | Enfoque de descubrimiento continuo. | ¿Cuál es tu suposición más arriesgada? |
+| Bland y Osterwalder | Catálogo de experimentos para validar ideas. | Etapa de validación. | ¿Qué experimento de bajo costo hay para tu hipótesis? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un equipo dedica seis semanas a un prototipo visual perfecto para probar si ejecutivos aceptarían delegar una aprobación. Un mockup de una tarde y cinco sesiones podrían haber revelado que la política interna lo prohíbe.
+**Situación (hipotética).** Una red de clínicas quiere permitir que los pacientes reserven turnos desde el celular. El equipo estima 5 meses de desarrollo y USD 280.000. Antes de construir, decide aprender con cuatro prototipos.
 
-**Paso 1 — formular pregunta de aprendizaje.** La gerencia escribe primero el supuesto asociado a **prototype** y evita convertirlo en hecho. Luego busca **task success** para contrastarlo en el caso de **prototipos y aprendizaje temprano**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Pregunta y criterios.** ¿Pueden pacientes de 30 a 70 años reservar un turno sin ayuda? Criterio: al menos 4 de 5 completan la tarea en menos de 3 minutos y sin pedir ayuda; además, que digan qué ocurriría si no hay turnos disponibles.
 
-**Paso 2 — elegir incertidumbre dominante.** La gerencia escribe primero el supuesto asociado a **fidelity** y evita convertirlo en hecho. Luego busca **time-on-task** para contrastarlo en el caso de **prototipos y aprendizaje temprano**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Prototipo | Costo y tiempo | Qué se aprendió |
+|---|---|---|
+| 1. Bosquejos en papel de 6 pantallas con 5 personas | 1 día, USD 0 | 3 de 5 no entendieron la diferencia entre «especialidad» y «profesional»; buscaban por síntoma |
+| 2. Maqueta navegable en una herramienta de diseño, con 6 usuarios | 3 días, USD 600 | 4 de 6 completaron la reserva, pero dos no vieron el botón de confirmación; la ventana de «sin turnos» dejó a 3 sin saber qué hacer |
+| 3. Mago de Oz: formulario simple que activa a una recepcionista que busca turnos y responde en 10 minutos, 12 pacientes | 1 semana, USD 1.200 | 9 de 12 reservaron; 7 pidieron «el próximo turno más cercano»; 5 se ofrecieron a recibir recordatorios por mensaje |
+| 4. Prototipo funcional con datos reales de agenda de 1 clínica, 40 pacientes durante 2 semanas | 3 semanas, USD 9.000 | Los turnos duplicados aparecen cuando la agenda se modifica en el sistema antiguo; el 22 % de los pacientes usó la aplicación sin llamar |
 
-**Paso 3 — seleccionar fidelidad mínima.** La gerencia escribe primero el supuesto asociado a **desirability risk** y evita convertirlo en hecho. Luego busca **critical misunderstandings** para contrastarlo en el caso de **prototipos y aprendizaje temprano**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Hallazgos clasificados.** Comprensión (especialidad frente a síntoma), usabilidad (confirmación y falta de turnos), valor (el «próximo turno más cercano» es lo que más se pide), viabilidad (sincronización con el sistema actual de agendas).
 
-**Paso 4 — observar conducta durante prueba.** La gerencia escribe primero el supuesto asociado a **usability risk** y evita convertirlo en hecho. Luego busca **prototype iteration count** para contrastarlo en el caso de **prototipos y aprendizaje temprano**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisión.** Antes de construir se rediseña la búsqueda (por síntoma y por «próximo turno disponible»), se simplifica la confirmación y se resuelve primero la sincronización técnica con un diseño que evita duplicados. El primer incremento real incluye solo la reserva y el recordatorio; el resto se difiere. El gasto total en aprender fue de USD 10.800, frente a USD 280.000 de la construcción completa, y evitó construir un flujo con tres problemas graves.
 
-**Paso 5 — registrar evidencia y decidir siguiente incremento.** La gerencia escribe primero el supuesto asociado a **technical spike** y evita convertirlo en hecho. Luego busca **learning cost** para contrastarlo en el caso de **prototipos y aprendizaje temprano**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cumplimiento.** El prototipo con datos reales se probó con consentimiento de los pacientes y con acceso restringido, siguiendo la normativa de datos de salud verificada con el área legal.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **prototipos y aprendizaje temprano**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Cada prototipo respondió una pregunta distinta. (2) Los hallazgos se clasificaron por tipo de riesgo. (3) El costo de aprender fue una fracción del de construir.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **prototype** | representación temporal para probar una hipótesis | Cuando task success es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **fidelity** | nivel de detalle y realismo del prototipo | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Prototipo frente a producto mínimo viable.** El prototipo busca aprender sobre uso y comprensión, a menudo sin entregar valor real; el producto mínimo viable (clase 150) entrega valor real a clientes reales a una escala mínima para probar la hipótesis de negocio. Una secuencia habitual es prototipos, luego un producto mínimo.
 
-**Frontera de aplicación:** Prototipos de baja fidelidad no responden bien preguntas de performance, seguridad o confianza visual. El tipo de prototipo debe corresponder al riesgo que se intenta reducir.
+**Límites.** Las pruebas con pocos usuarios detectan problemas, no miden proporciones. Los prototipos no prueban la **retención** ni el **comportamiento a largo plazo**. Los participantes se comportan distinto en una prueba que en la vida real. Los prototipos de baja fidelidad pueden subestimar problemas técnicos. En sectores regulados, el uso de datos reales y de participantes exige cumplimiento. Los costos de ejemplo son ilustrativos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre prototipos y aprendizaje temprano |
+| Nivel | Cómo participa en el prototipado |
 |---|---|
-| **Profesional** | usa **prototipos y aprendizaje temprano** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **prototype** y **fidelity** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta task success con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si prototipos y aprendizaje temprano cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de prototipos y aprendizaje temprano reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **prototipos y aprendizaje temprano** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Construye y prueba prototipos con curiosidad y sin apego. |
+| **Jefe / Team Lead** | Define la pregunta, los criterios de salida y la cadencia. |
+| **Gerente** | Exige evidencia de prototipos antes de aprobar la construcción. |
+| **CEO / Director** | Aprecia el aprendizaje temprano y premia descartar a tiempo. |
+| **Founder / Owner** | Prueba una idea con un papel y un cliente antes de escribir una línea de código. |
 
 ## 🏢 Caso ejecutivo
 
-Un equipo dedica seis semanas a un prototipo visual perfecto para probar si ejecutivos aceptarían delegar una aprobación. Un mockup de una tarde y cinco sesiones podrían haber revelado que la política interna lo prohíbe.
+Una aseguradora planea construir un asistente conversacional para que los clientes soliciten reembolsos de gastos médicos. El proyecto está presupuestado en USD 1,5 millones y 8 meses, con entrega a fin de año. El equipo ya diseñó la arquitectura y contrató a un proveedor de inteligencia artificial. Nunca ha hablado con clientes sobre cómo hacen reembolsos hoy; el 38 % de las solicitudes actuales llega con documentos incompletos; los clientes mayores de 60 años prefieren llamar; y la regulación de datos de salud limita lo que un proveedor externo puede procesar. La gerencia de operaciones pide un piloto «rápido» con 10.000 clientes; el área de riesgo, esperar a que el sistema esté completo.
 
-Entrega un **decision brief de prototipos y aprendizaje temprano** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de aprendizaje temprano** que contenga: (a) las preguntas críticas y los riesgos de valor, usabilidad, viabilidad técnica y de negocio; (b) la secuencia de prototipos con fidelidad creciente, su costo y los criterios de salida; (c) la prueba de mago de Oz que permitiría probar el flujo con asistencia humana; (d) cómo se interpretarán los hallazgos y qué decisiones habilitan; (e) los cuidados de datos de salud y consentimiento; (f) el criterio para pasar a construir, ajustar o detener.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **prototipos y aprendizaje temprano** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. formular pregunta de aprendizaje → 2. elegir incertidumbre dominante → 3. seleccionar fidelidad mínima → 4. observar conducta durante prueba → 5. registrar evidencia y decidir siguiente incremento** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta task success, time-on-task; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe la pregunta que debe responder el prototipo de tu próxima idea y su criterio de éxito.
+2. Diseña un prototipo de papel y pruébalo con tres personas esta semana.
+3. Diseña una prueba de mago de Oz para una función que hoy sería costosa de construir.
+4. Redacta cinco tareas realistas para una prueba de usabilidad.
+5. Clasifica los hallazgos de una prueba en usabilidad, valor, comprensión y viabilidad.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar prototype y fidelity como sinónimos | Se pierde la distinción entre “representación temporal para probar una hipótesis” y “nivel de detalle y realismo del prototipo” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “registrar evidencia y decidir siguiente incremento” | Se saltó “formular pregunta de aprendizaje” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. formular pregunta de aprendizaje → 2. elegir incertidumbre dominante → 3. seleccionar fidelidad mínima → 4. observar conducta durante prueba → 5. registrar evidencia y decidir siguiente incremento y marca el primer supuesto no demostrado. |
-| Optimizar solo task success | La métrica local sustituyó al resultado del sistema | Contrástala con time-on-task y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre prototipos y aprendizaje temprano | Prototipos de baja fidelidad no responden bien preguntas de performance, seguridad o confianza visual. El tipo de prototipo debe corresponder al riesgo que se intenta reducir. |
-| No fijar revisión | Una decisión sobre prototipos y aprendizaje temprano se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Prototipo sin pregunta | Se quiere mostrar | Definir qué se quiere aprender y el criterio. |
+| Alta fidelidad demasiado pronto | Se confunde pulido con evidencia | Subir de nivel gradualmente. |
+| Explicar mientras prueban | Se quiere ayudar | Observar en silencio. |
+| Creer lo que dicen y no lo que hacen | Es cómodo | Medir finalización y errores. |
+| Convertir el prototipo en producto | Se quiere ahorrar | Archivar y construir con calidad. |
+| Probar con pocos y generalizar | Se busca certeza | Declarar límites y complementar con datos. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **prototype** y **fidelity** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **desirability risk** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **formular pregunta de aprendizaje → elegir incertidumbre dominante** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **task success** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **prototipos y aprendizaje temprano**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Prototipos de baja fidelidad no responden bien preguntas de performance, seguridad o confianza visual. El tipo de prototipo debe corresponder al riesgo que se intenta reducir.**?
+1. ¿Para qué sirve un prototipo?
+2. ¿Qué niveles de fidelidad existen y qué responde cada uno?
+3. ¿Qué es una prueba de mago de Oz?
+4. ¿Qué elementos tiene una prueba de usabilidad bien hecha?
+5. ¿Cómo se clasifican los hallazgos?
+6. ¿Qué criterios de salida permiten pasar a construir?
+7. ¿Qué limitaciones tienen los prototipos?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Para aprender algo específico antes de construir, con el mínimo esfuerzo.
+2. Bosquejo (¿es el problema y el flujo?), maqueta navegable (¿entienden y completan la tarea?), prototipo funcional (¿funciona técnicamente?) y piloto real (¿lo usan y obtienen valor?).
+3. Un prototipo donde una persona simula manualmente lo que luego hará el sistema, para probar el comportamiento del usuario.
+4. Objetivo, tareas realistas, 5 a 8 participantes del segmento, observación sin ayudar, registro y síntesis.
+5. En usabilidad, valor, comprensión y viabilidad.
+6. Evidencia de valor, flujo validado, viabilidad técnica y de negocio, con criterios definidos antes de empezar.
+7. Detectan problemas pero no miden proporciones, no prueban retención ni comportamiento a largo plazo y los participantes se comportan distinto en una prueba.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/149-prototipos-y-aprendizaje-temprano/`:
 
-- `product-evidence-brief.md` con el problema específico de **prototipos y aprendizaje temprano**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **prototipos y aprendizaje temprano** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **prototype**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un equipo dedica seis semanas a un prototipo visual perfecto para probar si ejecutivos aceptarían delegar una aprobación. Un mockup de una tarde y cinco sesiones podrían haber revelado que la política interna lo prohíbe.** y el dato que podría invalidar la recomendación.
+- `product-evidence-brief.md` (plantilla [Product evidence brief](../../../../templates/product-evidence-brief.md)) con el plan del caso ejecutivo;
+- `product-experiment.md` (plantilla [Product experiment](../../../../templates/product-experiment.md)) con la secuencia de prototipos y los criterios de salida;
+- `decision-journal.md` con los hallazgos, las decisiones y los cuidados de datos.
 
 ## 📗 Fuentes y verificación
 
-- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** equipos de producto, discovery, riesgos de producto y outcomes. Lectura selectiva sobre **prototipos y aprendizaje temprano**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
-- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia. Lectura selectiva sobre **prototipos y aprendizaje temprano**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
-- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** jobs to be done y comprensión causal de por qué un cliente elige una solución. Lectura selectiva sobre **prototipos y aprendizaje temprano**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
-- Melissa Perri — *Escaping the Build Trap* (O'Reilly, 2019). **Uso en esta clase:** perspectiva de Producto aplicada al problema de la clase. Lectura selectiva sobre **prototipos y aprendizaje temprano**. **Localizador:** [ISBN-13 9781491973790](https://openlibrary.org/isbn/9781491973790).
-- Rob Fitzpatrick — *The Mom Test* (CreateSpace, 2014). **Uso en esta clase:** perspectiva de Customer discovery aplicada al problema de la clase. Lectura selectiva sobre **prototipos y aprendizaje temprano**. **Localizador:** [ISBN-13 9781492180746](https://openlibrary.org/isbn/9781492180746).
-- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** hipótesis de negocio, experimentos, evidencia y reducción de riesgo. Lectura selectiva sobre **prototipos y aprendizaje temprano**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **prototipos y aprendizaje temprano** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **prototipos y aprendizaje temprano**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **prototipos y aprendizaje temprano** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **prototipos y aprendizaje temprano** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **prototipos y aprendizaje temprano** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Dan Olsen — *The Lean Product Playbook* (Wiley, 2015). **Uso en esta clase:** prototipos para aprender y evidencia de ajuste. Lectura selectiva sobre **prototipos y aprendizaje temprano**. **Localizador:** [ISBN-13 9781118960875](https://openlibrary.org/isbn/9781118960875).
+- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** prototipos para reducir los cuatro riesgos de producto. Lectura selectiva sobre **prototipos y aprendizaje temprano**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
+- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** producto mínimo viable y aprendizaje validado. Lectura selectiva sobre **prototipos y aprendizaje temprano**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
+- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** probar suposiciones con pruebas pequeñas. Lectura selectiva sobre **prototipos y aprendizaje temprano**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
+- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** catálogo de experimentos para validar ideas. Lectura selectiva sobre **prototipos y aprendizaje temprano**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
 
-> **Regla de fuentes para Prototipos y aprendizaje temprano:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **prototipos y aprendizaje temprano** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Prototipos y aprendizaje temprano:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las de protección de datos de salud y ensayos con usuarios. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

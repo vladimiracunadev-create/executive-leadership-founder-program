@@ -39,6 +39,11 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 12 completa** (145–156): producto frente a proyecto (Perri, Cagan), problema y resultado (Torres),
+  descubrimiento de clientes (Fitzpatrick, Blank), trabajos a realizar (Christensen), prototipos, producto mínimo
+  viable (Ries), roadmap por resultados, costo del retraso (Reinertsen), experimentos (Kohavi, Tang y Xu),
+  métricas de producto, ajuste producto–mercado y capstone de comité de producto (Henderson y Clark, Cooper);
+  cada clase con fuentes verificadas, cifras recalculadas y un diagrama a medida.
 - **La parte 11 completa** (133–144, con 137 ya escrita a mano): mercado, categoría y demanda, investigación,
   segmentación, posicionamiento (Dunford, Ries y Trout), recorrido del cliente (Lemon y Verhoef), canales,
   adquisición digital, conversión, retención, ciclos de crecimiento (Ellis y Brown, Kohavi, Tang y Xu) y capstone

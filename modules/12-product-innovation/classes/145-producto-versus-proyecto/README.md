@@ -10,217 +10,192 @@
 
 ## 🎯 Propósito
 
-Producto y proyecto responden preguntas distintas. Un proyecto organiza trabajo temporal para producir un entregable; producto administra de forma continua un problema, una propuesta de valor y outcomes a lo largo de su ciclo de vida. La diferencia cambia financiamiento, métricas, roles y cuándo se considera que el trabajo realmente terminó.
+Una de las confusiones más caras de las empresas es tratar como proyecto lo que debería ser producto. Un **proyecto** tiene alcance, plazo y presupuesto, y se da por exitoso cuando entrega lo acordado. Un **producto** vive mientras entregue valor a clientes y al negocio, y su éxito se mide por lo que cambia en el comportamiento de las personas que lo usan. Cuando una organización gestiona un producto con lógica de proyecto, entrega a tiempo funciones que nadie usa, celebra el lanzamiento y desarma el equipo, y descubre un año después que el problema que quería resolver sigue ahí. Melissa Perri llama a esto la **trampa de la construcción**: medir el éxito por lo que se construye en lugar de por los resultados.
 
-La salida de esta parte es **convertir problemas de clientes en productos validados y outcomes medibles**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **producto versus proyecto** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis de Perri sobre organizaciones orientadas a resultados, en la visión de Cagan sobre equipos de producto empoderados y en los fundamentos de gestión de proyectos de la parte 06. Al terminar sabrás distinguir producto de proyecto, reconocer síntomas de la trampa de la construcción, entender los tres riesgos que el trabajo de producto debe resolver antes de construir y decidir cuándo conviene cada modo de trabajo.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `product`, `project`, `output`, `outcome`, `product lifecycle` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. identificar problema y usuario persistente → 2. separar outputs de outcomes → 3. definir ownership continuo → 4. alinear funding y métricas al ciclo de vida → 5. decidir continuar, pivotar o retirar según evidencia** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** adoption, outcome metric, time-to-value sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** producto, proyecto, programa y operación según su fin y su medida de éxito.
+2. **Reconocer** los síntomas de la trampa de la construcción.
+3. **Explicar** los riesgos de valor, usabilidad, viabilidad técnica y viabilidad de negocio.
+4. **Reformular** una iniciativa de «entregar» a «lograr un resultado».
+5. **Decidir** cuándo usar lógica de proyecto y cuándo lógica de producto.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define product y project sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con adoption y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: toma una iniciativa reciente de tu empresa y pregúntate cómo se sabrá, dentro de un año, si funcionó. |
+| 20–60 min | Producto y proyecto, trampa de la construcción, riesgos y equipos. |
+| 60–105 min | Ejemplo trabajado: un proyecto de onboarding digital que se entregó y no cambió nada. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **product** | vehículo continuo para crear valor a un usuario y capturarlo para la organización | Distingue un hecho compatible y otro que lo refute. |
-| **project** | esfuerzo temporal con inicio y fin para producir un resultado | Distingue un hecho compatible y otro que lo refute. |
-| **output** | entregable producido por el equipo | Distingue un hecho compatible y otro que lo refute. |
-| **outcome** | cambio observable en conducta, capacidad o resultado del usuario | Distingue un hecho compatible y otro que lo refute. |
-| **product lifecycle** | secuencia desde descubrimiento y crecimiento hasta madurez o retiro | Distingue un hecho compatible y otro que lo refute. |
+| **Proyecto** | Esfuerzo temporal para producir un resultado acordado. | Alcance, plazo, presupuesto y cierre. |
+| **Producto** | Oferta que evoluciona mientras genere valor para clientes y negocio. | Equipo estable, resultados y aprendizaje continuo. |
+| **Resultado (outcome)** | Cambio en el comportamiento de las personas que crea valor. | «Más clientes completan su primera compra». |
+| **Salida (output)** | Lo que el equipo produce: funciones, lanzamientos. | Se cuenta; no prueba valor. |
+| **Trampa de la construcción** | Medir el éxito por lo que se construye y no por lo que cambia. | Hojas de ruta de funciones y celebraciones de lanzamiento. |
+| **Descubrimiento y entrega** | Descubrir qué construir y construirlo bien. | Dos actividades en paralelo. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 145: 1. identificar problema y usuario persistente → 2. separar outputs de outcomes → 3. definir ownership continuo → 4. alinear funding y métricas al ciclo de vida → 5. decidir continuar, pivotar o retirar según evidencia](modelo-mental.svg)
+![Proyecto frente a producto: el proyecto tiene un fin, se mide por entrega y su riesgo es entregar algo que nadie usa; el producto es continuo, se mide por resultado y su riesgo es aprender sin entregar.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. identificar problema y usuario persistente → 2. separar outputs de outcomes → 3. definir ownership continuo → 4. alinear funding y métricas al ciclo de vida → 5. decidir continuar, pivotar o retirar según evidencia
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Producto y proyecto responden preguntas distintas. Un proyecto organiza trabajo temporal para producir un entregable; producto administra de forma continua un problema, una propuesta de valor y outcomes a lo largo de su ciclo de vida. La diferencia cambia financiamiento, métricas, roles y cuándo se considera que el trabajo realmente terminó.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo trabajo debe convertirse en producto permanente. Migraciones, cumplimiento puntual o infraestructura con final claro pueden gestionarse mejor como proyectos; evita productizar por moda.**
+**Cómo leer el diagrama.** Dos paneles. El **proyecto** tiene un fin, se mide por alcance, plazo y costo, y su riesgo es entregar a tiempo algo que nadie usa. El **producto** es continuo, se mide por resultados y su riesgo es aprender sin entregar o iterar sin dirección. La nota recoge la idea de Perri sobre la trampa de la construcción y aclara que muchas iniciativas combinan ambos modos, de modo que conviene declarar cuál rige cada decisión.
 
 ## 📖 Desarrollo
 
-### 1. product: mecanismo central
+### 1. Dos lógicas de trabajo
 
-**product** se entiende aquí como **vehículo continuo para crear valor a un usuario y capturarlo para la organización**. Esta es la pieza causal o estructural desde la que se inicia **producto versus proyecto**: antes de identificar problema y usuario persistente, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La gestión de proyectos (clase 073) organiza el trabajo por **entrega**: un alcance definido, una fecha, un presupuesto y un responsable; funciona bien cuando se sabe qué hay que hacer (construir un edificio, migrar un sistema, cumplir una norma). La gestión de producto organiza el trabajo por **problemas y resultados**: se sabe qué cambio se busca en el comportamiento de las personas, pero no se sabe cuál solución lo logrará; se descubre construyendo, probando y midiendo. Ambas son legítimas. El error es aplicar una a un trabajo que exige la otra: gestionar por alcance una apuesta incierta o gestionar por exploración una obligación regulatoria con fecha.
 
-La lectura rectora de este bloque es Marty Cagan — *Inspired*. Su aporte se usa para examinar **equipos de producto, discovery, riesgos de producto y outcomes**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **adoption**; regístrala con periodo, unidad, población y baseline.
+### 2. La trampa de la construcción
 
-Relaciona el mecanismo con **project**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Perri describe organizaciones que se centran en **entregar funciones**: las hojas de ruta son listas de funciones con fechas, los equipos se miden por velocidad y entregas, los ejecutivos piden funciones concretas para clientes concretos, y el éxito es el lanzamiento. Los síntomas: (1) **hojas de ruta de funciones** sin objetivos, (2) **comités** que aprueban funciones, no problemas, (3) **celebración del lanzamiento** y no del resultado, (4) **equipos que se disuelven** al terminar, (5) **ausencia de datos** posteriores al lanzamiento. La salida es cambiar la pregunta: de «¿qué construimos?» a «¿qué resultado queremos lograr y cómo lo sabremos?».
 
-### 2. project: frontera conceptual y error de clasificación
+### 3. Los cuatro riesgos de producto
 
-**Definición operacional:** esfuerzo temporal con inicio y fin para producir un resultado. Su valor está en distinguirlo de **product** y **output**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Cagan sostiene que el trabajo de descubrimiento de producto debe reducir cuatro riesgos antes de invertir en construir: **de valor** (¿los clientes lo querrán o lo comprarán?), **de usabilidad** (¿podrán usarlo?), **de viabilidad técnica** (¿se puede construir con el tiempo, las habilidades y la tecnología disponibles?) y **de viabilidad de negocio** (¿funciona para el negocio: ingresos, costos, legal, marca, socios?). Un proyecto tradicional asume resueltos los tres primeros y gestiona el cuarto; un equipo de producto trabaja para resolverlos. Ignorar el riesgo de valor es la causa más común de fracasos caros.
 
-Contrasta el problema con Teresa Torres — *Continuous Discovery Habits*, que aporta una mirada sobre **discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia**. Formula dos mini-casos: uno que sí satisface la definición de **project** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **outcome metric** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Equipos de producto
 
-Antes de separar outputs de outcomes, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Cagan y Perri coinciden en que los productos se construyen mejor con **equipos estables y multidisciplinarios** (producto, diseño, ingeniería y datos) a los que se les asigna un **problema** y un **resultado**, no una lista de funciones, y que tienen **autonomía** para decidir cómo lograrlo y **responsabilidad** por el resultado. Se contrapone a los **equipos de funciones** que ejecutan pedidos de otras áreas. La autonomía exige claridad estratégica: los equipos deben entender la visión y los objetivos de la empresa, y los líderes deben dar contexto, no órdenes de qué construir. Sin contexto, la autonomía produce dispersión.
 
-### 3. output: operacionalización y medición
+### 5. Descubrimiento y entrega en paralelo
 
-**output** significa **entregable producido por el equipo**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+En producto, **descubrir** (qué construir, para quién, por qué) y **entregar** (construirlo con calidad) ocurren a la vez, de forma continua. Torres propone hábitos de **descubrimiento continuo**: contacto semanal con clientes, mapas de oportunidades y pruebas pequeñas de suposiciones. La ingeniería no espera a que el descubrimiento «termine» ni el descubrimiento se reduce a una fase previa: se alimentan. La gestión de proyectos, por su parte, conserva su valor en la **entrega** de compromisos con fecha y alcance conocidos.
 
-Dan Olsen — *The Lean Product Playbook* orienta este bloque mediante **perspectiva de Producto aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **time-to-value**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. De entregar a lograr
 
-Al llegar a definir ownership continuo, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Para pasar de una iniciativa de entrega a una de producto se reformula: en lugar de «lanzar la nueva aplicación en marzo», «**aumentar de 30 % a 50 % el porcentaje de clientes nuevos que completan su primera compra en la primera semana**». El primer enunciado se cumple lanzando; el segundo, solo si el cliente cambia su comportamiento. Se acompaña de **línea base**, **plazo** y **hipótesis** sobre cómo lograrlo, y se acuerda con el negocio. Se separan los compromisos con fecha (regulación, contratos) del resto, que se gestiona por resultados (clase 151).
 
-### 4. outcome: trade-offs y efectos de segundo orden
+### 7. Cuándo conviene cada modo
 
-**Definición:** cambio observable en conducta, capacidad o resultado del usuario. Este concepto obliga a abandonar la idea de que **producto versus proyecto** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de alinear funding y métricas al ciclo de vida, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Clayton M. Christensen — *The Innovator's Dilemma* aporta una lente sobre **perspectiva de Innovación aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **cost-to-serve** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **producto versus proyecto**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **outcome** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. product lifecycle: gobernanza, límites e integración
-
-**product lifecycle** se define como **secuencia desde descubrimiento y crecimiento hasta madurez o retiro** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Clayton M. Christensen et al. — *Competing Against Luck* se utiliza para estudiar **jobs to be done y comprensión causal de por qué un cliente elige una solución** y contrastar la recomendación final. Al ejecutar decidir continuar, pivotar o retirar según evidencia, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No todo trabajo debe convertirse en producto permanente. Migraciones, cumplimiento puntual o infraestructura con final claro pueden gestionarse mejor como proyectos; evita productizar por moda.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **product**, **project**, **output**, **outcome** y **product lifecycle** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **producto versus proyecto** no consiste en sumar cinco definiciones. Empieza por **product**, contrasta **project** con **output**, incorpora **outcome** como restricción o mecanismo y usa **product lifecycle** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. identificar problema y usuario persistente → 2. separar outputs de outcomes → 3. definir ownership continuo → 4. alinear funding y métricas al ciclo de vida → 5. decidir continuar, pivotar o retirar según evidencia**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Se usa lógica de **proyecto** cuando el alcance es claro, el valor ya está validado y la fecha o el presupuesto son restricciones relevantes: obligaciones legales, migraciones, implantaciones conocidas. Se usa lógica de **producto** cuando hay **incertidumbre** sobre el problema, la solución o el cliente, y el valor depende de cómo se comporten las personas. Muchas iniciativas necesitan ambas: un producto puede tener un proyecto de migración con fecha. Lo importante es declarar **qué riesgo se está gestionando** y **cómo se medirá el éxito**; y recordar que, tras un proyecto, alguien debe ser **dueño del resultado**.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marty Cagan — *Inspired* | equipos de producto, discovery, riesgos de producto y outcomes | ¿Qué supuesto de **producto versus proyecto** ayuda a desafiar? |
-| Teresa Torres — *Continuous Discovery Habits* | discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia | ¿Qué supuesto de **producto versus proyecto** ayuda a desafiar? |
-| Dan Olsen — *The Lean Product Playbook* | perspectiva de Producto aplicada al problema de la clase | ¿Qué supuesto de **producto versus proyecto** ayuda a desafiar? |
-| Clayton M. Christensen — *The Innovator's Dilemma* | perspectiva de Innovación aplicada al problema de la clase | ¿Qué supuesto de **producto versus proyecto** ayuda a desafiar? |
-| Clayton M. Christensen et al. — *Competing Against Luck* | jobs to be done y comprensión causal de por qué un cliente elige una solución | ¿Qué supuesto de **producto versus proyecto** ayuda a desafiar? |
-
-En **producto versus proyecto**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **product**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Perri (*Escaping the Build Trap*) | Organización orientada a resultados y síntomas de la trampa. | Describe patrones; no prescribe una única forma de transformar. | ¿Tu hoja de ruta es una lista de funciones? |
+| Cagan (*Inspired*) | Cuatro riesgos y equipos de producto empoderados. | Basado en experiencia de tecnología. | ¿Quién responde por el riesgo de valor? |
+| Torres | Descubrimiento continuo con contacto semanal con clientes. | Presupone un equipo con acceso a clientes. | ¿Cuántos clientes ves por semana? |
+| Ries | Aprendizaje validado y ciclo construir–medir–aprender. | Casos de startups. | ¿Qué aprendiste la última vez que lanzaste algo? |
+| Kerzner y PMI (clases 073 y 083) | Gestión de proyectos y control de alcance, plazo y costo. | Supone resultado definido. | ¿Está definido el resultado o hay que descubrirlo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa declara terminada su app al completar el proyecto de 10 meses. Se entregó alcance y presupuesto, pero seis meses después solo 8% de clientes la usa y nadie tiene presupuesto para mejorar onboarding.
+**Situación (hipotética).** Un banco aprobó un proyecto de **apertura digital de cuentas**: presupuesto USD 1,2 millones, 9 meses, entrega de una aplicación con verificación de identidad, firma electrónica y seguimiento. Se entregó en el plazo y con el presupuesto, y se celebró el lanzamiento. El objetivo del negocio, que no figuraba en el proyecto, era reducir de 4 días a menos de 1 día el tiempo de apertura y aumentar las cuentas activas.
 
-**Paso 1 — identificar problema y usuario persistente.** La gerencia escribe primero el supuesto asociado a **product** y evita convertirlo en hecho. Luego busca **adoption** para contrastarlo en el caso de **producto versus proyecto**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Seis meses después.**
 
-**Paso 2 — separar outputs de outcomes.** La gerencia escribe primero el supuesto asociado a **project** y evita convertirlo en hecho. Luego busca **outcome metric** para contrastarlo en el caso de **producto versus proyecto**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Indicador | Antes | Después |
+|---|---|---|
+| Solicitudes de apertura por mes | 6.000 | 6.400 |
+| Porcentaje que usa la apertura digital | — | 18 % |
+| Abandono en la verificación de identidad | — | 63 % |
+| Tiempo promedio de apertura (todas las vías) | 4,1 días | 3,6 días |
+| Cuentas con uso en los primeros 30 días | 41 % | 43 % |
 
-**Paso 3 — definir ownership continuo.** La gerencia escribe primero el supuesto asociado a **output** y evita convertirlo en hecho. Luego busca **time-to-value** para contrastarlo en el caso de **producto versus proyecto**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** El proyecto cumplió su alcance, pero el resultado casi no cambió. El mayor obstáculo (abandono en verificación de identidad por problemas con documentos y con cámaras de baja calidad) no se había descubierto antes de construir; el equipo se había disuelto y no había dueño del resultado.
 
-**Paso 4 — alinear funding y métricas al ciclo de vida.** La gerencia escribe primero el supuesto asociado a **outcome** y evita convertirlo en hecho. Luego busca **cost-to-serve** para contrastarlo en el caso de **producto versus proyecto**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Reformulación como producto.** Resultado: «aumentar de 41 % a 60 % las cuentas con uso en los primeros 30 días y reducir a menos de 1 día el tiempo de apertura para quienes completan el proceso». Un equipo estable (producto, diseño, ingeniería, riesgo y operaciones) con acceso semanal a clientes; hipótesis a probar: (1) el abandono se debe a la calidad de la verificación, (2) a que no entienden qué documentos necesitan, (3) a que no ven beneficio inmediato de abrir la cuenta. Se prueban con entrevistas a 15 abandonos, un prototipo de guía de documentos y una oferta de primer uso.
 
-**Paso 5 — decidir continuar, pivotar o retirar según evidencia.** La gerencia escribe primero el supuesto asociado a **product lifecycle** y evita convertirlo en hecho. Luego busca **retention** para contrastarlo en el caso de **producto versus proyecto**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Riesgos revisados.** Valor: ¿lo quieren?; usabilidad: ¿completan el proceso?; viabilidad técnica: ¿la verificación funciona con fotos de distintos teléfonos?; negocio y regulación: ¿cumple las normas de identificación del cliente? Esta última se verifica con la normativa vigente y con el área de cumplimiento.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **producto versus proyecto**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Resultado a 4 meses.** El abandono en identidad baja de 63 % a 38 %; el uso digital sube a 34 %; las cuentas activas a 30 días llegan a 52 %. El dueño del resultado presenta un informe trimestral al comité.
+
+**Qué muestra.** (1) El proyecto se midió por entrega y el negocio por resultado. (2) El riesgo de valor y usabilidad no se había resuelto. (3) Un equipo estable con un resultado cambió el aprendizaje.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **product** | vehículo continuo para crear valor a un usuario y capturarlo para la organización | Cuando adoption es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **project** | esfuerzo temporal con inicio y fin para producir un resultado | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Producto frente a servicio y operación.** La operación mantiene un servicio estable (clase 085); el producto lo evoluciona. Una operación sana alimenta con datos al producto, y un producto sano facilita la operación.
 
-**Frontera de aplicación:** No todo trabajo debe convertirse en producto permanente. Migraciones, cumplimiento puntual o infraestructura con final claro pueden gestionarse mejor como proyectos; evita productizar por moda.
+**Límites.** La distinción es una simplificación útil: hay trabajos mixtos. Los equipos autónomos requieren confianza y capacidades que no siempre existen. Los resultados dependen de factores externos (mercado, regulación, competencia), de modo que no deben usarse como evaluación mecánica de personas. Los libros citados describen experiencias de empresas de tecnología y las traslaciones a sectores regulados exigen adaptación. En sectores regulados, las obligaciones normativas se verifican en su fuente vigente y con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre producto versus proyecto |
+| Nivel | Cómo participa en producto frente a proyecto |
 |---|---|
-| **Profesional** | usa **producto versus proyecto** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **product** y **project** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta adoption con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si producto versus proyecto cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de producto versus proyecto reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **producto versus proyecto** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Pregunta qué resultado busca el trabajo y cómo se verá. |
+| **Jefe / Team Lead** | Lidera un equipo con un resultado y no con una lista de funciones. |
+| **Gerente** | Define resultados, protege la autonomía y mide lo que cambia. |
+| **CEO / Director** | Evita la trampa de la construcción y exige evidencia posterior al lanzamiento. |
+| **Founder / Owner** | Construye lo mínimo para aprender y vuelve al cliente antes de construir más. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa declara terminada su app al completar el proyecto de 10 meses. Se entregó alcance y presupuesto, pero seis meses después solo 8% de clientes la usa y nadie tiene presupuesto para mejorar onboarding.
+Una cadena de farmacias aprobó un «proyecto de transformación digital» de USD 6 millones y 18 meses: una nueva aplicación móvil, un programa de fidelidad digital y un módulo de entrega a domicilio. Se definieron 74 funciones y un calendario. El proyecto está en el mes 14, ha entregado el 60 % de las funciones y el comité informa verde en plazo y presupuesto. Pero la aplicación solo tiene 3 % de uso entre los clientes que compran, el programa de fidelidad no ha cambiado la frecuencia de compra y el reparto genera pérdidas por pedido. El gerente de tecnología pide terminar el alcance; el de marketing, ajustar sobre la marcha; el director financiero pide evidencia de retorno antes de liberar el siguiente tramo.
 
-Entrega un **decision brief de producto versus proyecto** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diagnóstico y plan de transición a producto** que contenga: (a) el análisis de síntomas de la trampa de la construcción; (b) los resultados que se buscaban y los datos actuales; (c) los riesgos de valor, usabilidad, viabilidad técnica y de negocio de cada componente; (d) la propuesta de equipos, resultados y descubrimiento continuo; (e) qué parte mantiene lógica de proyecto y cuál pasa a producto; (f) los criterios para liberar fondos y las verificaciones regulatorias de datos de salud y de entrega de medicamentos.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **producto versus proyecto** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. identificar problema y usuario persistente → 2. separar outputs de outcomes → 3. definir ownership continuo → 4. alinear funding y métricas al ciclo de vida → 5. decidir continuar, pivotar o retirar según evidencia** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta adoption, outcome metric; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Reformula tres iniciativas de «entregar» a «lograr un resultado» con línea base y plazo.
+2. Evalúa una iniciativa con los cuatro riesgos de producto y ordénalos.
+3. Identifica dos síntomas de la trampa de la construcción en tu organización.
+4. Define qué compromisos con fecha de tu área se mantienen como proyecto.
+5. Escribe cómo sabrás, un año después, si una iniciativa funcionó.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar product y project como sinónimos | Se pierde la distinción entre “vehículo continuo para crear valor a un usuario y capturarlo para la organización” y “esfuerzo temporal con inicio y fin para producir un resultado” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “decidir continuar, pivotar o retirar según evidencia” | Se saltó “identificar problema y usuario persistente” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. identificar problema y usuario persistente → 2. separar outputs de outcomes → 3. definir ownership continuo → 4. alinear funding y métricas al ciclo de vida → 5. decidir continuar, pivotar o retirar según evidencia y marca el primer supuesto no demostrado. |
-| Optimizar solo adoption | La métrica local sustituyó al resultado del sistema | Contrástala con outcome metric y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre producto versus proyecto | No todo trabajo debe convertirse en producto permanente. Migraciones, cumplimiento puntual o infraestructura con final claro pueden gestionarse mejor como proyectos; evita productizar por moda. |
-| No fijar revisión | Una decisión sobre producto versus proyecto se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Medir producto por entrega | Es lo que se ve y se controla | Medir resultados y comportamiento. |
+| Hojas de ruta de funciones | Se piden soluciones | Pedir problemas y resultados. |
+| Disolver el equipo al lanzar | Se cierra el proyecto | Dueño estable del resultado. |
+| Asumir que el cliente lo querrá | No se prueba | Resolver el riesgo de valor primero. |
+| Autonomía sin contexto | Se da libertad sin dirección | Visión y objetivos claros. |
+| Aplicar «producto» a un cumplimiento con fecha | Se confunde modo con moda | Usar lógica de proyecto cuando corresponde. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **product** y **project** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **output** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **identificar problema y usuario persistente → separar outputs de outcomes** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **adoption** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **producto versus proyecto**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No todo trabajo debe convertirse en producto permanente. Migraciones, cumplimiento puntual o infraestructura con final claro pueden gestionarse mejor como proyectos; evita productizar por moda.**?
+1. ¿Qué diferencia hay entre proyecto y producto?
+2. ¿Qué es la trampa de la construcción y cuáles son sus síntomas?
+3. ¿Cuáles son los cuatro riesgos de producto según Cagan?
+4. ¿Qué diferencia hay entre salida y resultado?
+5. ¿Por qué el descubrimiento y la entrega ocurren en paralelo?
+6. ¿Cómo se reformula una iniciativa para lograr un resultado?
+7. ¿Cuándo conviene lógica de proyecto?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El proyecto termina al entregar un alcance, plazo y costo acordados; el producto es continuo y se mide por el valor y los resultados que genera.
+2. Medir el éxito por lo que se construye; se ve en hojas de ruta de funciones, celebración del lanzamiento, equipos que se disuelven y falta de datos posteriores.
+3. Valor, usabilidad, viabilidad técnica y viabilidad de negocio.
+4. La salida es lo que el equipo produce (funciones); el resultado es el cambio de comportamiento que crea valor.
+5. Porque lo que se aprende al construir y medir corrige qué construir, y la entrega no puede esperar a un descubrimiento que nunca termina.
+6. Pasando de «lanzar X» a un cambio medible en el comportamiento, con línea base, plazo e hipótesis.
+7. Cuando el alcance es claro, el valor ya está validado y la fecha o el presupuesto son restricciones relevantes, como obligaciones legales o migraciones.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/145-producto-versus-proyecto/`:
 
-- `product-evidence-brief.md` con el problema específico de **producto versus proyecto**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **producto versus proyecto** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **product**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa declara terminada su app al completar el proyecto de 10 meses. Se entregó alcance y presupuesto, pero seis meses después solo 8% de clientes la usa y nadie tiene presupuesto para mejorar onboarding.** y el dato que podría invalidar la recomendación.
+- `product-evidence-brief.md` (plantilla [Product evidence brief](../../../../templates/product-evidence-brief.md)) con el diagnóstico del caso ejecutivo;
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con la propuesta de transición;
+- `decision-journal.md` con los resultados definidos, los riesgos y los criterios de liberación de fondos.
 
 ## 📗 Fuentes y verificación
 
-- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** equipos de producto, discovery, riesgos de producto y outcomes. Lectura selectiva sobre **producto versus proyecto**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
-- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia. Lectura selectiva sobre **producto versus proyecto**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
-- Dan Olsen — *The Lean Product Playbook* (Wiley, 2015). **Uso en esta clase:** perspectiva de Producto aplicada al problema de la clase. Lectura selectiva sobre **producto versus proyecto**. **Localizador:** [ISBN-13 9781118960875](https://openlibrary.org/isbn/9781118960875).
-- Clayton M. Christensen — *The Innovator's Dilemma* (Harvard Business School Press, 1997). **Uso en esta clase:** perspectiva de Innovación aplicada al problema de la clase. Lectura selectiva sobre **producto versus proyecto**. **Localizador:** [ISBN-13 9780875845852](https://openlibrary.org/isbn/9780875845852).
-- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** jobs to be done y comprensión causal de por qué un cliente elige una solución. Lectura selectiva sobre **producto versus proyecto**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
-- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** hipótesis de negocio, experimentos, evidencia y reducción de riesgo. Lectura selectiva sobre **producto versus proyecto**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **producto versus proyecto** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **producto versus proyecto**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **producto versus proyecto** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **producto versus proyecto** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **producto versus proyecto** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Melissa Perri — *Escaping the Build Trap* (O'Reilly, 2019). **Uso en esta clase:** organización orientada a resultados y trampa de la construcción. Lectura selectiva sobre **producto versus proyecto**. **Localizador:** [ISBN-13 9781491973790](https://openlibrary.org/isbn/9781491973790).
+- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** cuatro riesgos y equipos de producto empoderados. Lectura selectiva sobre **producto versus proyecto**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
+- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** descubrimiento continuo con contacto semanal con clientes. Lectura selectiva sobre **producto versus proyecto**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
+- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** aprendizaje validado y ciclo construir–medir–aprender. Lectura selectiva sobre **producto versus proyecto**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
+- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** gestión de proyectos y control de alcance, plazo y costo. Lectura selectiva sobre **producto versus proyecto**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
 
-> **Regla de fuentes para Producto versus proyecto:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **producto versus proyecto** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Producto versus proyecto:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de identificación de clientes, datos de salud y regulación sectorial. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "convertir problemas de clientes en productos validados y outcomes medibles"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir roadmap de theme mediante evidencia observable."
-  - "Aplicar la secuencia: partir de objetivos estratégicos → traducirlos a outcomes y problemas → ordenar apuestas por valor y riesgo → expresar horizonte y confianza → revisar roadmap con evidencia y capacidad."
-  - "Interpretar outcome progress, roadmap churn, commitment reliability sin atribuir causalidad automática."
-  - "Resolver el caso de roadmap orientado a outcomes con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir un roadmap de funciones de uno de resultados."
+  - "Estructurar un roadmap por horizontes de certeza (ahora, siguiente, después)."
+  - "Escribir cada elemento como problema, resultado esperado y evidencia."
+  - "Separar compromisos con fecha de apuestas por descubrir."
+  - "Comunicar y actualizar el roadmap con ventas, dirección y clientes."
 deliverable: "product-evidence-brief.md"
 references:
+  - "Melissa Perri — *Escaping the Build Trap*"
   - "Marty Cagan — *Inspired*"
   - "Teresa Torres — *Continuous Discovery Habits*"
-  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
-  - "Melissa Perri — *Escaping the Build Trap*"
-  - "Rob Fitzpatrick — *The Mom Test*"
-  - "Clayton M. Christensen — *The Innovator's Dilemma*"
+  - "Donald G. Reinertsen — *The Principles of Product Development Flow*"
+  - "Harold Kerzner — *Project Management*"
 limits:
-  - "Hay contextos con compromisos contractuales o regulatorios que requieren fechas. Outcome roadmaps no eliminan compromisos; separan lo negociable de lo no negociable y hacen visible la certeza real."
+  - "Las organizaciones con clientes que exigen fechas, con regulación o con ventas basadas en funciones pueden necesitar más compromisos que los ideales."
 evidence_signals:
-  - "outcome progress"
-  - "roadmap churn"
-  - "commitment reliability"
-  - "discovery evidence"
-  - "capacity allocation"
+  - "resultados por horizonte de certeza"
+  - "evidencia por elemento"
+  - "compromisos con fecha separados"
+  - "holgura de capacidad definida"

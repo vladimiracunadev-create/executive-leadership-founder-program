@@ -10,217 +10,198 @@
 
 ## 🎯 Propósito
 
-Priorizar es asignar recursos escasos y aceptar explícitamente lo que no se hará. Marcos como RICE, WSJF u opportunity scoring ayudan a estructurar comparación, pero no reemplazan estrategia, dependencias ni juicio. El costo de oportunidad debe quedar visible.
+Todo equipo de producto tiene más ideas que capacidad, y cada «sí» es un «no» a otra cosa: ese es el **costo de oportunidad**. Sin embargo, la mayoría prioriza con métodos informales: el que grita más fuerte, el cliente más grande, el pedido del directivo, la idea más novedosa o la que parece más fácil. Cuando se usan marcos formales, suelen basarse en puntajes subjetivos que se perciben objetivos. La prioridad bien decidida combina **valor esperado**, **esfuerzo**, **riesgo** y, sobre todo, **tiempo**: no es lo mismo una función que genera valor desde el día 1 que otra que lo hace después de seis meses, ni una que pierde valor cada semana que se retrasa que otra cuyo valor no depende de la fecha.
 
-La salida de esta parte es **convertir problemas de clientes en productos validados y outcomes medibles**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **priorización y costo de oportunidad** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis de flujo y costo del retraso de Reinertsen, en la lógica de producto orientada a resultados de Perri y de Cagan, en la teoría de decisión de inversión de Brealey, Myers y Allen y en la reducción de ruido en decisiones de Kahneman, Sibony y Sunstein. Al terminar sabrás estimar el costo del retraso, ordenar iniciativas por costo del retraso sobre duración, distinguir perfiles de urgencia, comparar con puntajes y retornos y sostener la decisión ante presiones.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `priority`, `opportunity cost`, `RICE`, `WSJF`, `confidence` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir criterio ligado a estrategia → 2. estimar valor riesgo y costo → 3. hacer explícita confianza → 4. comparar cartera y dependencias → 5. decidir y registrar qué se posterga** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** resource allocation, cost of delay, confidence score sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Explicar** el costo de oportunidad de una decisión de producto.
+2. **Estimar** el costo del retraso de una iniciativa y reconocer su perfil.
+3. **Ordenar** iniciativas por costo del retraso dividido por duración.
+4. **Comparar** esta lógica con puntajes ponderados y con el retorno simple.
+5. **Reducir** el sesgo y el ruido al priorizar.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define priority y opportunity cost sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con resource allocation y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: lista cinco iniciativas de tu equipo y estima cuánto pierde la empresa por semana de retraso de cada una. |
+| 20–60 min | Costo de oportunidad, costo del retraso, perfiles y orden. |
+| 60–105 min | Ejemplo trabajado: ordenar cinco iniciativas con dos criterios y comparar el costo total del retraso. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **priority** | orden relativo de asignación de atención y recursos | Distingue un hecho compatible y otro que lo refute. |
-| **opportunity cost** | valor de la mejor alternativa sacrificada | Distingue un hecho compatible y otro que lo refute. |
-| **RICE** | alcance por impacto por confianza dividido por esfuerzo | Distingue un hecho compatible y otro que lo refute. |
-| **WSJF** | cost of delay dividido por job size | Distingue un hecho compatible y otro que lo refute. |
-| **confidence** | grado de evidencia que sustenta los supuestos de puntuación | Distingue un hecho compatible y otro que lo refute. |
+| **Costo de oportunidad** | Valor de la mejor alternativa a la que se renuncia al elegir. | «Si hacemos X, no hacemos Y». |
+| **Costo del retraso (CoD)** | Valor económico que se pierde por cada unidad de tiempo que se aplaza una iniciativa. | Pesos por semana. |
+| **CD3** | Costo del retraso dividido por la duración. | Prioriza lo que más pierde y menos tarda. |
+| **Perfil de urgencia** | Forma en que el costo del retraso evoluciona con el tiempo. | Urgente, fecha fija, estándar, intangible. |
+| **Trabajo en curso** | Iniciativas empezadas y no terminadas. | Cuanto más, más tarda cada una. |
+| **Ruido** | Variabilidad injustificada en los juicios sobre una misma decisión. | Distintas personas priorizan distinto. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 152: 1. definir criterio ligado a estrategia → 2. estimar valor riesgo y costo → 3. hacer explícita confianza → 4. comparar cartera y dependencias → 5. decidir y registrar qué se posterga](modelo-mental.svg)
+![Cuatro perfiles de costo del retraso: urgente, fecha fija, estándar e intangible, con cómo crece la pérdida al aplazar, un ejemplo y la prioridad.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir criterio ligado a estrategia → 2. estimar valor riesgo y costo → 3. hacer explícita confianza → 4. comparar cartera y dependencias → 5. decidir y registrar qué se posterga
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Priorizar es asignar recursos escasos y aceptar explícitamente lo que no se hará. Marcos como RICE, WSJF u opportunity scoring ayudan a estructurar comparación, pero no reemplazan estrategia, dependencias ni juicio. El costo de oportunidad debe quedar visible.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una fórmula produce precisión aparente si sus entradas son opiniones. Usa scoring como conversación estructurada, no como algoritmo de autoridad; revisa sensibilidad a supuestos.**
+**Cómo leer el diagrama.** Una tabla con cuatro perfiles. Lo **urgente** pierde mucho cada día y va primero. Lo de **fecha fija** pierde poco hasta la fecha y cae a cero después: se programa para terminar antes. Lo **estándar** pierde de forma constante y se ordena por valor sobre duración. Lo **intangible** (deuda técnica, capacidad) pierde poco al principio y mucho después: se programa antes del punto crítico. La nota resume la regla de Reinertsen: se hace antes lo que más pierde por semana de espera y menos tarda en hacerse.
 
 ## 📖 Desarrollo
 
-### 1. priority: mecanismo central
+### 1. Prioridad es una decisión económica
 
-**priority** se entiende aquí como **orden relativo de asignación de atención y recursos**. Esta es la pieza causal o estructural desde la que se inicia **priorización y costo de oportunidad**: antes de definir criterio ligado a estrategia, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Reinertsen sostiene que la mayoría de las decisiones de desarrollo de productos se toman con una **visión incompleta de la economía**: se analizan costos de desarrollo y se ignora el valor del tiempo. Propone que el **costo del retraso** —cuánto se pierde por cada semana que se demora una iniciativa— sea la información económica más importante para priorizar. Si un equipo no puede decir cuánto cuesta aplazar un trabajo, no puede decidir con criterio entre dos opciones: toma decisiones por intuición y por presión. El costo del retraso no es exacto, pero obliga a explicitar supuestos de ingresos, ahorros, riesgos o aprendizajes.
 
-La lectura rectora de este bloque es Marty Cagan — *Inspired*. Su aporte se usa para examinar **equipos de producto, discovery, riesgos de producto y outcomes**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **resource allocation**; regístrala con periodo, unidad, población y baseline.
+### 2. Estimar el costo del retraso
 
-Relaciona el mecanismo con **opportunity cost**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se estima en dinero por unidad de tiempo, a partir de componentes: **ingresos o ahorros** que se capturarían (si una función generaría USD 40.000 al mes, su costo del retraso es unos USD 9.000 por semana); **riesgos** que se evitan (multas, pérdida de un cliente, incidentes); **aprendizaje** que se ganaría antes (valor de información); y **ventanas de oportunidad** (si un competidor lanzará algo similar). Se estima en conjunto con negocio, finanzas y producto, en rangos, y se **discuten los supuestos**. Kahneman, Sibony y Sunstein sugieren hacer estimaciones individuales independientes antes de la discusión para reducir el ruido.
 
-### 2. opportunity cost: frontera conceptual y error de clasificación
+### 3. Perfiles de urgencia
 
-**Definición operacional:** valor de la mejor alternativa sacrificada. Su valor está en distinguirlo de **priority** y **RICE**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+No todos los costos del retraso evolucionan igual. **Urgente**: la pérdida es alta y continua (un error que impide cobrar). **Fecha fija**: la pérdida es pequeña hasta una fecha y luego se vuelve alta o total (cumplimiento regulatorio, un evento); la tarea debe terminar con un colchón antes de la fecha. **Estándar**: pérdida proporcional al tiempo (una función que genera ingresos recurrentes). **Intangible**: pérdida baja inicialmente y creciente (deuda técnica, formación, infraestructura); se programa antes del punto en que se vuelve crítica. Distinguirlos evita tratar todo como urgente, y también permite ver que la deuda técnica no es una prioridad menor sino una apuesta con costo creciente.
 
-Contrasta el problema con Teresa Torres — *Continuous Discovery Habits*, que aporta una mirada sobre **discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia**. Formula dos mini-casos: uno que sí satisface la definición de **opportunity cost** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **cost of delay** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. CD3: costo del retraso dividido por duración
 
-Antes de estimar valor riesgo y costo, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Con el costo del retraso y la **duración estimada** de cada iniciativa, Reinertsen propone la regla **WSJF** (*weighted shortest job first*) o **CD3**: ordenar por **costo del retraso dividido por duración**. Prioriza lo que más pierde por semana de espera y menos tarda en completarse. Por ejemplo, una iniciativa que pierde USD 12.000 por semana y tarda una semana (CD3 = 12.000) va antes que una que pierde USD 9.000 por semana y tarda seis (CD3 = 1.500). Con esta regla, el orden minimiza el costo total del retraso del conjunto. Se complementa con el trabajo en curso limitado: terminar antes de empezar (clase 080).
 
-### 3. RICE: operacionalización y medición
+### 5. Comparar con otros métodos
 
-**RICE** significa **alcance por impacto por confianza dividido por esfuerzo**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Los **puntajes ponderados** (valor, esfuerzo, riesgo, urgencia, alineación) ordenan la conversación pero mezclan escalas y ocultan supuestos; su resultado depende de los pesos. El **retorno simple** (beneficio dividido por costo) ignora el tiempo y la capacidad. El **valor presente neto** (Brealey, Myers y Allen) es riguroso para inversiones grandes, pero se aplica a flujos estimables. El cuadrante de **valor y esfuerzo** (clase 105) sirve para clasificar. El costo del retraso aporta la dimensión del **tiempo** y es complementario: los métodos ayudan a decidir **qué** hacer; el costo del retraso, **en qué orden**. Perri y Cagan añaden que la prioridad debe subordinarse a los **resultados** y a la estrategia, no a funciones aisladas.
 
-Clayton M. Christensen et al. — *Competing Against Luck* orienta este bloque mediante **jobs to be done y comprensión causal de por qué un cliente elige una solución**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **confidence score**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Costo de oportunidad y trabajo en curso
 
-Al llegar a hacer explícita confianza, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cada iniciativa que se empieza consume capacidad y **retrasa a las demás**. Reinertsen muestra que, con capacidad limitada, aumentar el trabajo en curso **alarga los tiempos de ciclo** de todos los trabajos (por colas y cambios de contexto). Por eso se limita el número de iniciativas simultáneas y se termina antes de empezar. El costo de oportunidad también incluye **no hacer**: la atención de la dirección, la agenda de los equipos y la deuda que se acumula. Se hace visible la lista de lo que **no** se hará (y cuándo se revisará), para que la decisión sea explícita y no un olvido.
 
-### 4. WSJF: trade-offs y efectos de segundo orden
+### 7. Decidir con menos sesgo y ruido
 
-**Definición:** cost of delay dividido por job size. Este concepto obliga a abandonar la idea de que **priorización y costo de oportunidad** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de comparar cartera y dependencias, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Dan Olsen — *The Lean Product Playbook* aporta una lente sobre **perspectiva de Producto aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **dependency load** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **priorización y costo de oportunidad**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **WSJF** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. confidence: gobernanza, límites e integración
-
-**confidence** se define como **grado de evidencia que sustenta los supuestos de puntuación** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Alexander Osterwalder et al. — *Value Proposition Design* se utiliza para estudiar **perspectiva de Producto aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar decidir y registrar qué se posterga, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Una fórmula produce precisión aparente si sus entradas son opiniones. Usa scoring como conversación estructurada, no como algoritmo de autoridad; revisa sensibilidad a supuestos.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **priority**, **opportunity cost**, **RICE**, **WSJF** y **confidence** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **priorización y costo de oportunidad** no consiste en sumar cinco definiciones. Empieza por **priority**, contrasta **opportunity cost** con **RICE**, incorpora **WSJF** como restricción o mecanismo y usa **confidence** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir criterio ligado a estrategia → 2. estimar valor riesgo y costo → 3. hacer explícita confianza → 4. comparar cartera y dependencias → 5. decidir y registrar qué se posterga**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Los sesgos más comunes: **voz más fuerte** (el cliente o directivo con más poder), **novedad**, **costo hundido** («ya empezamos»), **optimismo en estimaciones**, **anclaje** al primer número. El ruido: dos personas del mismo equipo priorizan distinto la misma lista. Kahneman, Sibony y Sunstein proponen **estructurar** el juicio (evaluar por dimensiones antes de dar una opinión global), **recoger juicios independientes** antes de discutir, **agregarlos** y usar **reglas** o fórmulas simples como contrapeso. Se registra la decisión y su razón, y se revisa cuando cambia la evidencia. Priorizar es una decisión explicable.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marty Cagan — *Inspired* | equipos de producto, discovery, riesgos de producto y outcomes | ¿Qué supuesto de **priorización y costo de oportunidad** ayuda a desafiar? |
-| Teresa Torres — *Continuous Discovery Habits* | discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia | ¿Qué supuesto de **priorización y costo de oportunidad** ayuda a desafiar? |
-| Clayton M. Christensen et al. — *Competing Against Luck* | jobs to be done y comprensión causal de por qué un cliente elige una solución | ¿Qué supuesto de **priorización y costo de oportunidad** ayuda a desafiar? |
-| Dan Olsen — *The Lean Product Playbook* | perspectiva de Producto aplicada al problema de la clase | ¿Qué supuesto de **priorización y costo de oportunidad** ayuda a desafiar? |
-| Alexander Osterwalder et al. — *Value Proposition Design* | perspectiva de Producto aplicada al problema de la clase | ¿Qué supuesto de **priorización y costo de oportunidad** ayuda a desafiar? |
-
-En **priorización y costo de oportunidad**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **priority**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Reinertsen | Costo del retraso, CD3 y trabajo en curso. | Exige estimaciones económicas que no siempre existen. | ¿Cuánto pierdes por semana de retraso? |
+| Perri | Prioridad subordinada a resultados y estrategia. | No entrega fórmula de priorización. | ¿A qué resultado sirve esto? |
+| Cagan | Prioridades de producto desde problemas y riesgos. | Marco cualitativo. | ¿Qué riesgo resuelve primero? |
+| Brealey, Myers y Allen | Valor presente y costo de oportunidad del capital. | Teoría con supuestos. | ¿Cuál es el valor de la mejor alternativa? |
+| Kahneman, Sibony y Sunstein | Ruido y sesgo en juicios, y cómo estructurarlos. | No es un manual de producto. | ¿Dos personas priorizarían igual? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un comité puntúa 60 features con RICE. Una mejora de onboarding queda cuarta, pero destraba activación de toda la cartera mientras las tres primeras dependen de un proveedor sin contrato.
+**Situación (hipotética).** Un equipo único de producto de una empresa de software de facturación tiene seis iniciativas y una capacidad de un equipo. Cada una con su costo del retraso estimado (por semana) y su duración:
 
-**Paso 1 — definir criterio ligado a estrategia.** La gerencia escribe primero el supuesto asociado a **priority** y evita convertirlo en hecho. Luego busca **resource allocation** para contrastarlo en el caso de **priorización y costo de oportunidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Iniciativa | Perfil | Costo del retraso (USD/semana) | Duración (semanas) | CD3 |
+|---|---|---|---|---|
+| A. Corregir fallo en el cobro con tarjeta | Urgente | 12.000 | 1 | 12.000 |
+| B. Cambio exigido por la autoridad tributaria | Fecha fija (en 8 semanas) | Multa y bloqueo si no se cumple | 4 | — |
+| C. Nuevo plan de precios | Estándar | 6.000 | 3 | 2.000 |
+| D. Integración con el sistema contable de un cliente estratégico | Estándar | 9.000 | 6 | 1.500 |
+| E. Rediseño de la aplicación móvil | Estándar | 4.000 | 10 | 400 |
+| F. Infraestructura de pruebas automáticas (deuda técnica) | Intangible | 1.000 (crece) | 5 | 200 |
 
-**Paso 2 — estimar valor riesgo y costo.** La gerencia escribe primero el supuesto asociado a **opportunity cost** y evita convertirlo en hecho. Luego busca **cost of delay** para contrastarlo en el caso de **priorización y costo de oportunidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Plan.** B se programa aparte: se reserva su capacidad para terminar antes de la fecha (se inicia, a más tardar, en la semana 4 para tener colchón, y se verifica la norma en la fuente oficial). El resto se ordena por CD3: A, C, D, E, F.
 
-**Paso 3 — hacer explícita confianza.** La gerencia escribe primero el supuesto asociado a **RICE** y evita convertirlo en hecho. Luego busca **confidence score** para contrastarlo en el caso de **priorización y costo de oportunidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costo total del retraso (sin B).**
 
-**Paso 4 — comparar cartera y dependencias.** La gerencia escribe primero el supuesto asociado a **WSJF** y evita convertirlo en hecho. Luego busca **dependency load** para contrastarlo en el caso de **priorización y costo de oportunidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Orden | Semana de término | Costo del retraso acumulado |
+|---|---|---|
+| **Por CD3:** A, C, D, E, F | 1, 4, 10, 20, 25 | 12.000×1 + 6.000×4 + 9.000×10 + 4.000×20 + 1.000×25 = **231.000** |
+| **Por tamaño o visibilidad:** E, D, C, A, F | 10, 16, 19, 20, 25 | 4.000×10 + 9.000×16 + 6.000×19 + 12.000×20 + 1.000×25 = **563.000** |
 
-**Paso 5 — decidir y registrar qué se posterga.** La gerencia escribe primero el supuesto asociado a **confidence** y evita convertirlo en hecho. Luego busca **outcome impact** para contrastarlo en el caso de **priorización y costo de oportunidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** Ordenar por CD3 reduce el costo de espera en unos USD 332.000 respecto de empezar por lo más grande o visible. Y el equipo no empieza todo a la vez: termina antes de empezar. La infraestructura de pruebas (F) queda al final pero con una **fecha de revisión**: si las fallas por falta de pruebas aumentan por encima de un umbral, su costo del retraso se reestima y sube de prioridad.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **priorización y costo de oportunidad**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Sensibilidad y ruido.** Tres personas estiman de forma independiente el costo del retraso de D: 5.000, 9.000 y 14.000. Se discute por qué difieren (probabilidad de perder el contrato) y se acuerda un rango de 7.000 a 11.000; con 7.000, el CD3 de D baja a 1.167 y sigue por encima de E. Se registra la razón.
+
+**Lo que no se hará.** El rediseño móvil se pospone hasta que haya evidencia de que el uso móvil limita retención; se reevalúa en el siguiente trimestre.
+
+**Qué muestra.** (1) Incorporar el tiempo cambió el orden y el costo. (2) Los perfiles distinguieron lo urgente de lo de fecha fija y de lo intangible. (3) Las estimaciones se discutieron con juicios independientes.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **priority** | orden relativo de asignación de atención y recursos | Cuando resource allocation es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **opportunity cost** | valor de la mejor alternativa sacrificada | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Costo del retraso frente a retorno de inversión.** El retorno compara beneficio y costo; el costo del retraso compara el valor del tiempo. Una iniciativa con retorno modesto pero que pierde mucho por semana puede merecer ir antes que una de retorno mayor que no depende del tiempo.
 
-**Frontera de aplicación:** Una fórmula produce precisión aparente si sus entradas son opiniones. Usa scoring como conversación estructurada, no como algoritmo de autoridad; revisa sensibilidad a supuestos.
+**Límites.** Las estimaciones de costo del retraso son juicios inciertos, especialmente en valor de aprendizaje o de reputación. La regla de CD3 supone iniciativas independientes y divisibles en el tiempo; con dependencias técnicas o complementariedades, el orden cambia. Los costos del retraso pueden manipularse para favorecer una idea. Las obligaciones regulatorias y los compromisos contractuales se verifican en sus fuentes y con asesoría. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre priorización y costo de oportunidad |
+| Nivel | Cómo participa en la priorización |
 |---|---|
-| **Profesional** | usa **priorización y costo de oportunidad** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **priority** y **opportunity cost** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta resource allocation con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si priorización y costo de oportunidad cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de priorización y costo de oportunidad reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **priorización y costo de oportunidad** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta estimaciones de esfuerzo y de impacto con honestidad. |
+| **Jefe / Team Lead** | Facilita la estimación del costo del retraso y limita el trabajo en curso. |
+| **Gerente** | Prioriza por costo del retraso y resultados, y comunica los «no». |
+| **CEO / Director** | Resiste presiones de la voz más fuerte y pide el costo de oportunidad. |
+| **Founder / Owner** | Elige lo que más pierde por semana de espera con el equipo disponible. |
 
 ## 🏢 Caso ejecutivo
 
-Un comité puntúa 60 features con RICE. Una mejora de onboarding queda cuarta, pero destraba activación de toda la cartera mientras las tres primeras dependen de un proveedor sin contrato.
+Una empresa de comercio electrónico tiene un equipo de producto con capacidad para tres iniciativas al trimestre y una lista de catorce solicitadas. El cliente más grande exige una integración con su sistema (USD 1,2 millones de ventas anuales en riesgo); el gerente comercial pide un programa de fidelidad; el de operaciones, un rediseño del proceso de devoluciones (12 % de los pedidos tienen problemas); el de tecnología, migrar la base de datos (el riesgo de caída aumenta y el próximo evento de ventas masivas es en 16 semanas); el director general, un lanzamiento en otro país. Hay una nueva norma de protección al consumidor con fecha en 20 semanas. Cada gerente defiende la suya con un puntaje de 1 a 10 que resulta casi siempre 9.
 
-Entrega un **decision brief de priorización y costo de oportunidad** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega una **priorización fundamentada** que contenga: (a) la estimación del costo del retraso de cada iniciativa con sus supuestos y su perfil; (b) las duraciones estimadas con rango; (c) el orden por CD3 y el tratamiento de fecha fija e intangibles; (d) la comparación con el uso de puntajes por gerente y la corrección del ruido; (e) la lista de lo que no se hará y cuándo se revisará; (f) la verificación de la norma de consumo en su fuente oficial y el plan de comunicación de la decisión.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **priorización y costo de oportunidad** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir criterio ligado a estrategia → 2. estimar valor riesgo y costo → 3. hacer explícita confianza → 4. comparar cartera y dependencias → 5. decidir y registrar qué se posterga** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta resource allocation, cost of delay; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Estima el costo del retraso semanal de cinco iniciativas de tu equipo y su perfil.
+2. Calcula el CD3 y ordena la lista; compara con tu orden actual.
+3. Calcula el costo total de espera de dos órdenes distintos.
+4. Haz que tres colegas estimen de forma independiente un costo del retraso y discute las diferencias.
+5. Escribe la lista de lo que no harás este trimestre y cuándo la revisarás.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar priority y opportunity cost como sinónimos | Se pierde la distinción entre “orden relativo de asignación de atención y recursos” y “valor de la mejor alternativa sacrificada” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “decidir y registrar qué se posterga” | Se saltó “definir criterio ligado a estrategia” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir criterio ligado a estrategia → 2. estimar valor riesgo y costo → 3. hacer explícita confianza → 4. comparar cartera y dependencias → 5. decidir y registrar qué se posterga y marca el primer supuesto no demostrado. |
-| Optimizar solo resource allocation | La métrica local sustituyó al resultado del sistema | Contrástala con cost of delay y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre priorización y costo de oportunidad | Una fórmula produce precisión aparente si sus entradas son opiniones. Usa scoring como conversación estructurada, no como algoritmo de autoridad; revisa sensibilidad a supuestos. |
-| No fijar revisión | Una decisión sobre priorización y costo de oportunidad se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Priorizar por voz más fuerte | Hay presión | Criterios explícitos y estimaciones independientes. |
+| Ignorar el tiempo | Se mira valor y costo | Costo del retraso y duración. |
+| Todo urgente | No se distinguen perfiles | Clasificar urgente, fecha fija, estándar e intangible. |
+| Empezar todo a la vez | Se quiere avance | Limitar el trabajo en curso. |
+| Puntajes como verdad | Parecen objetivos | Explicitar supuestos y pesos. |
+| Postergar la deuda técnica | Es invisible | Estimar su costo creciente y programarla. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **priority** y **opportunity cost** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **RICE** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir criterio ligado a estrategia → estimar valor riesgo y costo** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **resource allocation** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **priorización y costo de oportunidad**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Una fórmula produce precisión aparente si sus entradas son opiniones. Usa scoring como conversación estructurada, no como algoritmo de autoridad; revisa sensibilidad a supuestos.**?
+1. ¿Qué es el costo de oportunidad?
+2. ¿Qué es el costo del retraso y cómo se estima?
+3. ¿Qué cuatro perfiles de urgencia existen?
+4. ¿Cómo se calcula y qué hace el CD3?
+5. ¿Qué limitaciones tienen los puntajes ponderados?
+6. ¿Por qué se limita el trabajo en curso?
+7. ¿Cómo se reduce el ruido al priorizar?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El valor de la mejor alternativa a la que se renuncia al elegir una opción.
+2. El valor que se pierde por cada unidad de tiempo que se aplaza una iniciativa; se estima con ingresos o ahorros, riesgos evitados, aprendizaje y ventanas de oportunidad, en rangos y con supuestos discutidos.
+3. Urgente, fecha fija, estándar e intangible.
+4. Costo del retraso dividido por la duración; ordena primero lo que más pierde por semana y menos tarda, minimizando el costo total del retraso.
+5. Mezclan escalas, ocultan supuestos y dependen de los pesos elegidos.
+6. Porque con capacidad limitada más trabajo en curso alarga el tiempo de ciclo de todo por colas y cambios de contexto.
+7. Con estimaciones independientes antes de discutir, juicios estructurados por dimensiones, agregación y reglas simples.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/152-priorizacion-y-costo-de-oportunidad/`:
 
-- `leadership-decision-brief.md` con el problema específico de **priorización y costo de oportunidad**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **priorización y costo de oportunidad** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **priority**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un comité puntúa 60 features con RICE. Una mejora de onboarding queda cuarta, pero destraba activación de toda la cartera mientras las tres primeras dependen de un proveedor sin contrato.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con la priorización del caso ejecutivo;
+- `product-evidence-brief.md` (plantilla [Product evidence brief](../../../../templates/product-evidence-brief.md)) con los costos del retraso y su evidencia;
+- `decision-journal.md` con las razones, los «no» y las fechas de revisión.
 
 ## 📗 Fuentes y verificación
 
-- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** equipos de producto, discovery, riesgos de producto y outcomes. Lectura selectiva sobre **priorización y costo de oportunidad**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
-- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** discovery continuo, oportunidades, experimentos y decisiones basadas en evidencia. Lectura selectiva sobre **priorización y costo de oportunidad**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
-- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** jobs to be done y comprensión causal de por qué un cliente elige una solución. Lectura selectiva sobre **priorización y costo de oportunidad**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
-- Dan Olsen — *The Lean Product Playbook* (Wiley, 2015). **Uso en esta clase:** perspectiva de Producto aplicada al problema de la clase. Lectura selectiva sobre **priorización y costo de oportunidad**. **Localizador:** [ISBN-13 9781118960875](https://openlibrary.org/isbn/9781118960875).
-- Alexander Osterwalder et al. — *Value Proposition Design* (John Wiley & Sons, Incorporated, 2014). **Uso en esta clase:** perspectiva de Producto aplicada al problema de la clase. Lectura selectiva sobre **priorización y costo de oportunidad**. **Localizador:** [ISBN-13 9781118968062](https://openlibrary.org/isbn/9781118968062).
-- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** hipótesis de negocio, experimentos, evidencia y reducción de riesgo. Lectura selectiva sobre **priorización y costo de oportunidad**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **priorización y costo de oportunidad** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **priorización y costo de oportunidad**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **priorización y costo de oportunidad** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **priorización y costo de oportunidad** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **priorización y costo de oportunidad** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Donald G. Reinertsen — *The Principles of Product Development Flow* (Celeritas Publishing, 2009). **Uso en esta clase:** costo del retraso, CD3 y trabajo en curso. Lectura selectiva sobre **priorización y costo de oportunidad**. **Localizador:** [ISBN-13 9781935401001](https://openlibrary.org/isbn/9781935401001).
+- Melissa Perri — *Escaping the Build Trap* (O'Reilly, 2019). **Uso en esta clase:** prioridad subordinada a resultados y estrategia. Lectura selectiva sobre **priorización y costo de oportunidad**. **Localizador:** [ISBN-13 9781491973790](https://openlibrary.org/isbn/9781491973790).
+- Marty Cagan — *Inspired* (Shroff, 2008). **Uso en esta clase:** prioridades de producto desde problemas y riesgos. Lectura selectiva sobre **priorización y costo de oportunidad**. **Localizador:** [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor presente y costo de oportunidad. Lectura selectiva sobre **priorización y costo de oportunidad**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise* (Little, Brown Spark, 2021). **Uso en esta clase:** ruido y sesgo en juicios y cómo estructurarlos. Lectura selectiva sobre **priorización y costo de oportunidad**. **Localizador:** [ISBN-13 9780316451383](https://openlibrary.org/isbn/9780316451383).
 
-> **Regla de fuentes para Priorización y costo de oportunidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **priorización y costo de oportunidad** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Priorización y costo de oportunidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de protección al consumidor y los plazos regulatorios. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

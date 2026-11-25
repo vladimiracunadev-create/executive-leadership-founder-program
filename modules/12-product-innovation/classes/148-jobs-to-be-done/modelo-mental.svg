@@ -1,64 +1,47 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" width="1040" role="img" aria-labelledby="t-g148 d-g148" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g148">Ficha visual de la clase 148: Jobs to Be Done</title>
-<desc id="d-g148">Conceptos: job; circumstance; push; pull; anxiety-habit. Método: reconstruir evento de cambio → identificar circunstancia y progreso buscado → mapear push pull ansiedad y hábito → identificar soluciones competidoras → diseñar mensaje y producto alrededor del progreso.</desc>
-<defs><marker id="p-g148" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="560" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 148 · Jobs to Be Done</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 12 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >job</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >progreso que una persona busca en una circunstancia</text>
-<circle cx="38" cy="170" r="5" fill="#bc4c00"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >circumstance</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >contexto que activa o condiciona el job</text>
-<circle cx="38" cy="228" r="5" fill="#bc4c00"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >push</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >insatisfacción que empuja fuera de la solución actual</text>
-<circle cx="38" cy="286" r="5" fill="#bc4c00"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >pull</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >atractivo que acerca a una alternativa</text>
-<circle cx="38" cy="344" r="5" fill="#bc4c00"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >anxiety-habit</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >fuerzas que frenan el cambio por riesgo o rutina</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#bc4c00" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#bc4c00"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >reconstruir evento de cambio</text>
-<circle cx="485" cy="176" r="14" fill="#bc4c00"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >identificar circunstancia y progreso buscado</text>
-<circle cx="485" cy="230" r="14" fill="#bc4c00"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >mapear push pull ansiedad y hábito</text>
-<circle cx="485" cy="284" r="14" fill="#bc4c00"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >identificar soluciones competidoras</text>
-<circle cx="485" cy="338" r="14" fill="#bc4c00"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >diseñar mensaje y producto alrededor del progreso</text>
-<text x="28" y="416" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="428" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="441" r="3.5" fill="#bc4c00"/>
-<text x="52" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >switch events</text>
-<rect x="153.7" y="428" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="166.7" cy="441" r="3.5" fill="#bc4c00"/>
-<text x="177.7" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >trigger frequency</text>
-<rect x="307" y="428" width="164" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="320" cy="441" r="3.5" fill="#bc4c00"/>
-<text x="331" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >current alternatives</text>
-<rect x="481" y="428" width="88.1" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="494" cy="441" r="3.5" fill="#bc4c00"/>
-<text x="505" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >anxieties</text>
-<rect x="579.1" y="428" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="592.1" cy="441" r="3.5" fill="#bc4c00"/>
-<text x="603.1" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >time-to-progress</text>
-<rect x="28" y="474" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="474" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="494" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="512" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >JTBD es una lente, no una taxonomía universal. Puede complementar segmentación, necesidades y analítica; forzar toda decisión a un job</text>
-<text x="48" y="529.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >puede ocultar restricciones organizacionales, regulación o economía.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 436.56" width="1040" role="img" aria-labelledby="t-s148 d-s148" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s148">Clase 148 · Un trabajo a realizar tiene tres dimensiones</title>
+<desc id="d-s148">Dimensiones funcional, emocional y social de un trabajo que el cliente contrata, con una pregunta para cada una.</desc>
+<defs><marker id="p-s148" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="436.56" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 148 · Un trabajo a realizar tiene tres dimensiones</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Christensen et al. (2016) · Osterwalder et al. (2014)</text>
+<rect x="28" y="96" width="314.667" height="197.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M28.0,136 V108 a12,12 0 0 1 12,-12 H330.6666666666667 a12,12 0 0 1 12,12 V136 Z" fill="#0969da"/>
+<text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Funcional</text>
+<circle cx="50.0" cy="154" r="4" fill="#0969da"/>
+<text x="64" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >La tarea práctica que quiere lograr.</text>
+<circle cx="50.0" cy="181.25" r="4" fill="#0969da"/>
+<text x="64" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >¿Qué progreso busca en esta</text>
+<text x="64" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >situación?</text>
+<circle cx="50.0" cy="225.75" r="4" fill="#0969da"/>
+<text x="64" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Se mide con resultados observables.</text>
+<rect x="362.667" y="96" width="314.667" height="197.5" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<path d="M362.6666666666667,136 V108 a12,12 0 0 1 12,-12 H665.3333333333334 a12,12 0 0 1 12,12 V136 Z" fill="#8250df"/>
+<text x="378.667" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Emocional</text>
+<circle cx="384.6666666666667" cy="154" r="4" fill="#8250df"/>
+<text x="398.667" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Cómo quiere sentirse o evitar</text>
+<text x="398.667" y="175.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >sentirse.</text>
+<circle cx="384.6666666666667" cy="198.5" r="4" fill="#8250df"/>
+<text x="398.667" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >¿Qué le preocupa o le da</text>
+<text x="398.667" y="219.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >tranquilidad?</text>
+<circle cx="384.6666666666667" cy="243.0" r="4" fill="#8250df"/>
+<text x="398.667" y="247" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Explica elecciones que el precio no</text>
+<text x="398.667" y="264.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >explica.</text>
+<rect x="697.333" y="96" width="314.667" height="197.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M697.3333333333334,136 V108 a12,12 0 0 1 12,-12 H1000.0 a12,12 0 0 1 12,12 V136 Z" fill="#bc4c00"/>
+<text x="713.333" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Social</text>
+<circle cx="719.3333333333334" cy="154" r="4" fill="#bc4c00"/>
+<text x="733.333" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Cómo quiere ser visto por otros.</text>
+<circle cx="719.3333333333334" cy="181.25" r="4" fill="#bc4c00"/>
+<text x="733.333" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >¿Qué dirían su equipo, su jefe o su</text>
+<text x="733.333" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >familia?</text>
+<circle cx="719.3333333333334" cy="225.75" r="4" fill="#bc4c00"/>
+<text x="733.333" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Pesa en compras que se justifican</text>
+<text x="733.333" y="247" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ante otros.</text>
+<rect x="28" y="309.5" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="331.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Se define el trabajo por la situación y el progreso buscado, no por el perfil del cliente ni por el producto. La competencia incluye</text>
+<text x="44" y="348.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >todo lo que el cliente podría contratar para ese trabajo.</text>
+<text x="28" y="396" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Una declaración de trabajo se prueba con entrevistas de momentos reales de contratación; las inventadas en sala suelen ser genéricas.</text>
 </svg>

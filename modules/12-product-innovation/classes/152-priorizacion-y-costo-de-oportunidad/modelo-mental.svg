@@ -1,65 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g152 d-g152" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g152">Ficha visual de la clase 152: Priorización y costo de oportunidad</title>
-<desc id="d-g152">Conceptos: priority; opportunity cost; RICE; WSJF; confidence. Método: definir criterio ligado a estrategia → estimar valor riesgo y costo → hacer explícita confianza → comparar cartera y dependencias → decidir y registrar qué se posterga.</desc>
-<defs><marker id="p-g152" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 152 · Priorización y costo de oportunidad</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 12 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >priority</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >orden relativo de asignación de atención y recursos</text>
-<circle cx="38" cy="170" r="5" fill="#bc4c00"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >opportunity cost</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >valor de la mejor alternativa sacrificada</text>
-<circle cx="38" cy="228" r="5" fill="#bc4c00"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >RICE</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >alcance por impacto por confianza dividido por esfuerzo</text>
-<circle cx="38" cy="286" r="5" fill="#bc4c00"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >WSJF</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >cost of delay dividido por job size</text>
-<circle cx="38" cy="344" r="5" fill="#bc4c00"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >confidence</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grado de evidencia que sustenta los supuestos de</text>
-<text x="54" y="383.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >puntuación</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#bc4c00" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#bc4c00"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >definir criterio ligado a estrategia</text>
-<circle cx="485" cy="176" r="14" fill="#bc4c00"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >estimar valor riesgo y costo</text>
-<circle cx="485" cy="230" r="14" fill="#bc4c00"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >hacer explícita confianza</text>
-<circle cx="485" cy="284" r="14" fill="#bc4c00"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >comparar cartera y dependencias</text>
-<circle cx="485" cy="338" r="14" fill="#bc4c00"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >decidir y registrar qué se posterga</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >resource allocation</text>
-<rect x="195.1" y="442.12" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="208.1" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="219.1" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cost of delay</text>
-<rect x="320.8" y="442.12" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="333.8" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="344.8" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >confidence score</text>
-<rect x="467.2" y="442.12" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="480.2" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="491.2" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >dependency load</text>
-<rect x="606.7" y="442.12" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="619.7" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="630.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >outcome impact</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Una fórmula produce precisión aparente si sus entradas son opiniones. Usa scoring como conversación estructurada, no como algoritmo de</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >autoridad; revisa sensibilidad a supuestos.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 458.42" width="1040" role="img" aria-labelledby="t-s152 d-s152" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s152">Clase 152 · Cuatro perfiles de costo del retraso para ordenar el trabajo</title>
+<desc id="d-s152">Perfiles de costo del retraso: cómo crece la pérdida al aplazar, un ejemplo y qué implica para la prioridad.</desc>
+<defs><marker id="p-s152" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="458.42" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 152 · Cuatro perfiles de costo del retraso para ordenar el trabajo</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Reinertsen (2009) · Perri (2018)</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Perfil</text>
+<text x="225.391" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Cómo crece la pérdida al aplazar</text>
+<text x="539.13" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Ejemplo</text>
+<text x="824.348" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Prioridad</text>
+<rect x="28" y="136" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Urgente (expedite)</text>
+<text x="225.391" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Alta y creciente cada día.</text>
+<text x="539.13" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Falla que bloquea ventas.</text>
+<text x="824.348" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Primero.</text>
+<rect x="28" y="172.56" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Fecha fija</text>
+<text x="225.391" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Pequeña hasta la fecha; cae a cero después.</text>
+<text x="539.13" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Cumplimiento regulatorio con plazo.</text>
+<text x="824.348" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Antes de la fecha.</text>
+<rect x="28" y="209.12" width="984" height="53.12" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="229.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Estándar</text>
+<text x="225.391" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Constante por semana.</text>
+<text x="539.13" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Función que genera ingresos</text>
+<text x="539.13" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >recurrentes.</text>
+<text x="824.348" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Por valor sobre duración.</text>
+<rect x="28" y="262.24" width="984" height="53.12" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="282.24" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Intangible</text>
+<text x="225.391" y="282.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Baja al inicio y alta después.</text>
+<text x="539.13" y="282.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Deuda técnica, capacidad.</text>
+<text x="824.348" y="282.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Programar antes del punto</text>
+<text x="824.348" y="298.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >crítico.</text>
+<rect x="28" y="331.36" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="353.36" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Reinertsen propone ordenar por costo del retraso dividido por la duración: se hace antes lo que más pierde por semana de espera y menos</text>
+<text x="44" y="370.61" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >tarda en hacerse.</text>
+<text x="28" y="417.86" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Las estimaciones de costo del retraso son juicios: se explicitan sus supuestos y se discuten entre áreas.</text>
 </svg>

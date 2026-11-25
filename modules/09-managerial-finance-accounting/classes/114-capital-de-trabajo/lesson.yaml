@@ -5,28 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir working capital de DSO mediante evidencia observable."
-  - "Aplicar la secuencia: calcular componentes operativos → convertir saldos a días → identificar driver de variación → modelar caja liberada por mejoras → evitar trasladar riesgo abusivamente a proveedores o clientes."
-  - "Interpretar DSO, DIO, DPO sin atribuir causalidad automática."
-  - "Resolver el caso de capital de trabajo con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Calcular días de inventario, de cobro y de pago, y el ciclo de conversión de efectivo."
+  - "Estimar la necesidad de capital de trabajo por crecimiento."
+  - "Evaluar el costo y el beneficio de una política de crédito o de descuentos por pronto pago."
+  - "Decidir sobre niveles de inventario con criterio económico."
+  - "Negociar plazos con proveedores sin poner en riesgo la continuidad."
 deliverable: "modelo-financiero-y-memo-de-decision.md"
 references:
-  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
-  - "Aswath Damodaran — *Investment Valuation*"
   - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
   - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
-  - "Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*"
-  - "Stephen H. Penman — *Financial Statement Analysis and Security Valuation*"
-  - "IFRS Foundation — normas IFRS/IAS aplicables a presentación y lectura de estados financieros. Verificar edición vigente en <https://www.ifrs.org/>."
+  - "Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation*"
+  - "Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
 limits:
-  - "Extender pagos o reducir inventario tiene límites de relación, resiliencia y servicio. Optimizar caja destruyendo proveedores críticos o fill rate puede empeorar valor total."
+  - "Los días calculados con saldos de fin de período pueden ser engañosos si hay estacionalidad: se usan promedios."
 evidence_signals:
-  - "DSO"
-  - "DIO"
-  - "DPO"
-  - "cash conversion cycle"
-  - "cash released"
+  - "días de cobro, inventario y pago medidos"
+  - "ciclo de conversión calculado"
+  - "necesidad de financiamiento estimada"
+  - "tasa del descuento por pronto pago comparada"

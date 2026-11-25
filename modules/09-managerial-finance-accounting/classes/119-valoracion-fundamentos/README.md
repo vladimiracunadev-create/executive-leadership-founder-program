@@ -10,225 +10,195 @@
 
 ## 🎯 Propósito
 
-Valorar una empresa o activo es convertir expectativas futuras y riesgo en un valor presente, no buscar un número 'correcto'. DCF exige forecast de free cash flow, tasa de descuento y terminal value; comparables sirven como contraste, no sustituto de entender drivers.
+Valorar una empresa, una unidad o un proyecto es responder cuánto vale **hoy** lo que generará en el futuro. Parece una pregunta de banqueros, pero se presenta a diario a gerentes: ¿cuánto vale nuestra división?, ¿pagamos demasiado por esta adquisición?, ¿qué participación debemos ceder a un inversionista?, ¿esta iniciativa agrega valor? Una valoración no es un número exacto sino una **afirmación argumentada** sobre flujos futuros, riesgo y comparables, que debe explicitar sus supuestos y mostrar cuánto cambia el valor si se equivocan.
 
-La salida de esta parte es **leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **valoración: fundamentos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en Damodaran, en Koller, Goedhart y Wessels y en Brealey, Myers y Allen, que desarrollan el enfoque de flujos descontados, los múltiplos y el costo de capital. Al terminar sabrás los componentes de una valoración por flujos descontados, qué mide un múltiplo, qué supuestos pesan más, cómo pasar de valor de empresa a valor del patrimonio y cómo detectar valoraciones que parten de la conclusión.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `enterprise value`, `equity value`, `DCF`, `terminal value`, `multiple` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. normalizar histórico → 2. proyectar drivers y free cash flow → 3. estimar tasa de descuento → 4. calcular terminal y valor presente → 5. contrastar con múltiplos y sensibilidad** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** revenue growth, EBIT margin, free cash flow sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Explicar** el enfoque de flujos descontados y sus componentes.
+2. **Estimar** flujos libres, tasa de descuento y valor terminal con supuestos explícitos.
+3. **Interpretar** múltiplos de mercado y sus límites.
+4. **Pasar** del valor de la empresa al valor del patrimonio.
+5. **Analizar** la sensibilidad del valor y evaluar la solidez de una valoración.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define enterprise value y equity value sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con revenue growth y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuánto pagarías hoy por recibir USD 100 en cinco años y qué determina tu respuesta? |
+| 20–60 min | Flujos, descuento, valor terminal, múltiplos y puente a patrimonio. |
+| 60–105 min | Ejemplo trabajado: valoración de una empresa de servicios con tres escenarios. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **enterprise value** | valor de operaciones para proveedores de deuda y equity | Distingue un hecho compatible y otro que lo refute. |
-| **equity value** | valor residual para accionistas después de ajustes por deuda/caja | Distingue un hecho compatible y otro que lo refute. |
-| **DCF** | valor presente de flujos futuros esperados | Distingue un hecho compatible y otro que lo refute. |
-| **terminal value** | valor de flujos más allá del horizonte explícito | Distingue un hecho compatible y otro que lo refute. |
-| **multiple** | relación entre valor y una métrica como EBITDA o revenue | Distingue un hecho compatible y otro que lo refute. |
+| **Valor presente** | Equivalente hoy de un flujo futuro, descontado por tiempo y riesgo. | Flujo / (1 + r)ᵗ. |
+| **Flujo de caja libre** | Caja que genera la operación tras impuestos e inversiones necesarias. | Disponible para acreedores y accionistas. |
+| **Costo de capital (WACC)** | Tasa que remunera a acreedores y accionistas según el riesgo. | Tasa de descuento de los flujos de la empresa. |
+| **Valor terminal** | Valor de los flujos posteriores al horizonte explícito. | Suele ser más de la mitad del valor. |
+| **Valor de la empresa (enterprise value)** | Valor de las operaciones para todos los proveedores de capital. | Antes de restar la deuda neta. |
+| **Múltiplo** | Relación entre el valor y una medida (ingresos, EBITDA, utilidad). | Se compara con empresas parecidas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 119: 1. normalizar histórico → 2. proyectar drivers y free cash flow → 3. estimar tasa de descuento → 4. calcular terminal y valor presente → 5. contrastar con múltiplos y sensibilidad](modelo-mental.svg)
+![Cuatro pasos de una valoración por flujos descontados: proyectar flujos libres, descontar al costo de capital, estimar el valor terminal y pasar del valor de la empresa al del patrimonio.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. normalizar histórico → 2. proyectar drivers y free cash flow → 3. estimar tasa de descuento → 4. calcular terminal y valor presente → 5. contrastar con múltiplos y sensibilidad
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Valorar una empresa o activo es convertir expectativas futuras y riesgo en un valor presente, no buscar un número 'correcto'. DCF exige forecast de free cash flow, tasa de descuento y terminal value; comparables sirven como contraste, no sustituto de entender drivers.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La valoración es particularmente sensible a supuestos lejanos. No presentes una cifra puntual sin rango, escenarios y explicación de drivers.**
+**Cómo leer el diagrama.** Una escalera de cuatro peldaños. Se **proyectan los flujos libres** con supuestos explícitos; se **descuentan** al costo de capital, que refleja el riesgo; se estima el **valor terminal** de los años más allá del horizonte; y se pasa **del valor de la empresa al del patrimonio** restando la deuda neta. La nota recuerda la parte más importante: el valor depende mucho de pocos supuestos, y un buen informe muestra cuánto cambia cuando se mueven.
 
 ## 📖 Desarrollo
 
-### 1. enterprise value: mecanismo central
+### 1. La idea central
 
-**enterprise value** se entiende aquí como **valor de operaciones para proveedores de deuda y equity**. Esta es la pieza causal o estructural desde la que se inicia **valoración: fundamentos**: antes de normalizar histórico, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un activo vale lo que generará en el futuro, traído al presente. Dos fuerzas lo reducen: el **tiempo** (un dólar hoy vale más que uno mañana, porque puede invertirse) y el **riesgo** (un flujo incierto vale menos que uno seguro). El **valor presente** de un flujo se calcula descontándolo a una tasa que combina ambas. Damodaran subraya que toda valoración es una historia respaldada por números: una narrativa sobre el negocio (crecimiento, márgenes, reinversión, riesgo) que se traduce en flujos y se contrasta con la realidad.
 
-La lectura rectora de este bloque es Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*. Su aporte se usa para examinar **drivers de valor, ROIC, crecimiento y valoración por flujo descontado**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **revenue growth**; regístrala con periodo, unidad, población y baseline.
+### 2. Flujos de caja libre
 
-Relaciona el mecanismo con **equity value**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El **flujo de caja libre para la empresa** es el resultado operacional después de impuestos (NOPAT) más la depreciación, menos la inversión en activos fijos y en capital de trabajo. Se proyecta para un horizonte explícito (cinco a diez años) a partir de supuestos de crecimiento de ingresos, márgenes, tasa de impuestos y reinversión. Koller, Goedhart y Wessels subrayan la coherencia: el crecimiento exige reinversión, y la relación entre ambos se resume en el ROIC (clase 118). Un plan que supone crecer mucho sin invertir o con retornos exagerados es inconsistente.
 
-### 2. equity value: frontera conceptual y error de clasificación
+### 3. La tasa de descuento
 
-**Definición operacional:** valor residual para accionistas después de ajustes por deuda/caja. Su valor está en distinguirlo de **enterprise value** y **DCF**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Los flujos de la empresa se descuentan con el **WACC**: promedio ponderado del costo de la deuda (después de impuestos) y del costo del capital propio. El costo del capital propio suele estimarse con el modelo de **valoración de activos de capital (CAPM)**: tasa libre de riesgo más beta por la prima de riesgo de mercado; hay ajustes por riesgo país, tamaño y liquidez. Brealey, Myers y Allen explican sus fundamentos y límites. Pequeñas variaciones en la tasa cambian mucho el valor, sobre todo en empresas con flujos lejanos: es una de las variables que más debe someterse a sensibilidad.
 
-Contrasta el problema con Aswath Damodaran — *Investment Valuation*, que aporta una mirada sobre **valoración, riesgo, narrativas, costo de capital y supuestos explícitos**. Formula dos mini-casos: uno que sí satisface la definición de **equity value** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **EBIT margin** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Valor terminal
 
-Antes de proyectar drivers y free cash flow, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Más allá del horizonte explícito, la empresa sigue generando flujos. El **valor terminal** los resume con una **perpetuidad con crecimiento** (flujo del año siguiente / (WACC − g)) o con un **múltiplo de salida**. Suele representar más de la mitad del valor total, por lo que es un punto clave. El crecimiento perpetuo **g** no debería superar el crecimiento esperado de la economía; y el retorno sobre el capital en el valor terminal debe ser coherente con la competencia: asumir retornos extraordinarios para siempre es un error frecuente.
 
-### 3. DCF: operacionalización y medición
+### 5. Múltiplos
 
-**DCF** significa **valor presente de flujos futuros esperados**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un **múltiplo** relaciona el valor con una medida: valor de empresa/EBITDA, precio/utilidad, valor/ingresos. Se aplica a una empresa comparando con **empresas parecidas** (comparables) o con transacciones. Es rápido y refleja el sentimiento del mercado, pero **depende de la calidad de los comparables** (crecimiento, riesgo, márgenes, tamaño) y puede incluir sobrevaloraciones del mercado. Damodaran recomienda entender de qué fundamentos depende cada múltiplo (crecimiento, retorno, riesgo) y no compararlos de forma mecánica. Los múltiplos complementan, no reemplazan, el enfoque de flujos.
 
-Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* orienta este bloque mediante **valor del dinero, riesgo, costo de capital, inversión y financiación**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **free cash flow**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Del valor de la empresa al del patrimonio
 
-Al llegar a estimar tasa de descuento, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El valor presente de los flujos libres da el **valor de la empresa** (de sus operaciones). Para obtener el valor para los dueños se resta la **deuda neta** (deuda financiera menos caja) y otras obligaciones asimilables a deuda (por ejemplo, ciertos pasivos por pensiones o arrendamientos), y se suma el valor de activos no operativos. En empresas pequeñas y cerradas, se consideran descuentos por falta de liquidez y primas o descuentos por control. Estos ajustes tienen un efecto relevante y deben justificarse.
 
-### 4. terminal value: trade-offs y efectos de segundo orden
+### 7. Sensibilidad y evaluación de una valoración
 
-**Definición:** valor de flujos más allá del horizonte explícito. Este concepto obliga a abandonar la idea de que **valoración: fundamentos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de calcular terminal y valor presente, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* aporta una lente sobre **decisiones de inversión, financiación, capital de trabajo y valoración**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **WACC** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **valoración: fundamentos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **terminal value** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. multiple: gobernanza, límites e integración
-
-**multiple** se define como **relación entre valor y una métrica como EBITDA o revenue** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* se utiliza para estudiar **reconocimiento, medición y presentación de estados financieros y sus partidas** y contrastar la recomendación final. Al ejecutar contrastar con múltiplos y sensibilidad, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **La valoración es particularmente sensible a supuestos lejanos. No presentes una cifra puntual sin rango, escenarios y explicación de drivers.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **enterprise value**, **equity value**, **DCF**, **terminal value** y **multiple** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **valoración: fundamentos** no consiste en sumar cinco definiciones. Empieza por **enterprise value**, contrasta **equity value** con **DCF**, incorpora **terminal value** como restricción o mecanismo y usa **multiple** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. normalizar histórico → 2. proyectar drivers y free cash flow → 3. estimar tasa de descuento → 4. calcular terminal y valor presente → 5. contrastar con múltiplos y sensibilidad**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Valor presente y DCF como máquina de supuestos
-
-El principio es `PV = CF_t / (1+r)^t`. Una valoración DCF suma flujos explícitos y valor terminal. No empieces por Excel: primero define **qué flujo** valoras y quién tiene derecho a él. Para FCFF, la tasa suele relacionarse con WACC; para equity cash flow, con costo de equity.
-
-El valor terminal suele dominar el resultado, por lo que crecimiento terminal y tasa de descuento requieren sensibilidad. Presenta al menos un rango de `r` y `g`, no un único decimal. Damodaran y Koller son útiles precisamente porque obligan a conectar narrativa, drivers operativos y valoración.
+Un buen informe de valoración muestra: la **historia** del negocio, los **supuestos** y su origen, las **cifras proyectadas**, el **rango de valores** según escenarios, una **tabla de sensibilidad** (por ejemplo, valor frente a WACC y a crecimiento terminal), y la **contrastación con múltiplos**. Se desconfía de valoraciones que parten de un precio deseado y ajustan los supuestos para llegar a él: la dirección correcta va de los supuestos al valor. Y se distingue **valor** (lo que se estima que vale) de **precio** (lo que se paga), que depende de la negociación y de las condiciones del mercado.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* | drivers de valor, ROIC, crecimiento y valoración por flujo descontado | ¿Qué supuesto de **valoración: fundamentos** ayuda a desafiar? |
-| Aswath Damodaran — *Investment Valuation* | valoración, riesgo, narrativas, costo de capital y supuestos explícitos | ¿Qué supuesto de **valoración: fundamentos** ayuda a desafiar? |
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **valoración: fundamentos** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **valoración: fundamentos** ayuda a desafiar? |
-| Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* | reconocimiento, medición y presentación de estados financieros y sus partidas | ¿Qué supuesto de **valoración: fundamentos** ayuda a desafiar? |
-
-En **valoración: fundamentos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **enterprise value**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Damodaran | Valoración como historia y números; múltiplos y flujos. | Es extensa y requiere juicio. | ¿Qué historia sostiene tus números? |
+| Koller, Goedhart y Wessels | Flujos libres, ROIC y coherencia con el crecimiento. | Orientada a empresas grandes. | ¿Es coherente el crecimiento con la reinversión? |
+| Brealey, Myers y Allen | Valor presente, riesgo y costo de capital. | Supuestos de mercados eficientes. | ¿Qué tasa refleja el riesgo? |
+| Palepu, Healy y Peek | Análisis de estados y proyección para valorar. | Visión de analista. | ¿Qué parte de la historia contable es recurrente? |
+| Penman | Valoración a partir de estados financieros. | Más técnico. | ¿Qué parte del valor ya está en la operación actual? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un negocio proyecta FCF de 2, 3, 4, 5 y 6 millones, WACC 11% y crecimiento terminal 3%. Pequeñas variaciones de WACC y terminal pueden mover una gran parte del valor, mostrando por qué se necesita sensibilidad.
+**Situación (hipotética).** Una empresa de servicios de ingeniería con ingresos de USD 20 millones y margen operacional de 12 % evalúa su valor para una posible venta parcial. Deuda neta: USD 4 millones. Tasa de impuestos 25 %.
 
-**Paso 1 — normalizar histórico.** La gerencia escribe primero el supuesto asociado a **enterprise value** y evita convertirlo en hecho. Luego busca **revenue growth** para contrastarlo en el caso de **valoración: fundamentos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Supuestos base.** Crecimiento de ingresos 8 % anual durante cinco años, margen operacional estable, reinversión neta equivalente al 20 % del NOPAT, WACC 10 %, crecimiento terminal 3 %.
 
-**Paso 2 — proyectar drivers y free cash flow.** La gerencia escribe primero el supuesto asociado a **equity value** y evita convertirlo en hecho. Luego busca **EBIT margin** para contrastarlo en el caso de **valoración: fundamentos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Año | Ingresos | NOPAT (12 % × 0,75) | Reinversión (20 %) | Flujo libre | Valor presente al 10 % |
+|---|---|---|---|---|---|
+| 1 | 21,6 | 1,94 | 0,39 | 1,55 | 1,41 |
+| 2 | 23,3 | 2,10 | 0,42 | 1,68 | 1,39 |
+| 3 | 25,2 | 2,27 | 0,45 | 1,82 | 1,37 |
+| 4 | 27,2 | 2,45 | 0,49 | 1,96 | 1,34 |
+| 5 | 29,4 | 2,65 | 0,53 | 2,12 | 1,32 |
+| **Suma de flujos explícitos** | | | | | **6,83** |
 
-**Paso 3 — estimar tasa de descuento.** La gerencia escribe primero el supuesto asociado a **DCF** y evita convertirlo en hecho. Luego busca **free cash flow** para contrastarlo en el caso de **valoración: fundamentos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Valor terminal.** Flujo del año 6 ≈ 2,12 × 1,03 = 2,18; valor terminal en el año 5 = 2,18 / (0,10 − 0,03) = 31,2; valor presente = 31,2 / 1,10⁵ ≈ 19,4.
 
-**Paso 4 — calcular terminal y valor presente.** La gerencia escribe primero el supuesto asociado a **terminal value** y evita convertirlo en hecho. Luego busca **WACC** para contrastarlo en el caso de **valoración: fundamentos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Valor de la empresa.** 6,83 + 19,4 ≈ USD 26,2 millones. **Valor del patrimonio.** 26,2 − 4 (deuda neta) ≈ USD 22,2 millones. El valor terminal es el 74 % del valor de la empresa.
 
-**Paso 5 — contrastar con múltiplos y sensibilidad.** La gerencia escribe primero el supuesto asociado a **multiple** y evita convertirlo en hecho. Luego busca **terminal growth** para contrastarlo en el caso de **valoración: fundamentos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Sensibilidad.** Con WACC de 12 %: valor terminal = 2,18 / 0,09 = 24,2; valor presente ≈ 13,7; flujos explícitos ≈ 6,5: empresa ≈ 20,2; patrimonio ≈ 16,2. Con WACC de 9 %: empresa ≈ 30,6. Un cambio de uno a dos puntos de tasa mueve el valor entre −23 % y +17 %.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **valoración: fundamentos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Contraste con múltiplos.** El EBITDA estimado es unos USD 3,4 millones; un múltiplo comparable de 7 a 8 veces implica valor de empresa de USD 24 a 27 millones, coherente con el resultado. Se verifica que los comparables tengan crecimiento y riesgo similares.
+
+**Conclusión.** Un rango razonable del valor del patrimonio es de USD 16 a 26 millones, con un punto central de unos 22. La negociación del precio dependerá de las alternativas del comprador y del vendedor.
+
+**Qué muestra.** (1) El valor terminal domina. (2) Uno o dos puntos de tasa mueven el valor entre un 17 % y un 23 %. (3) El resultado se contrastó con múltiplos y se presentó como rango.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **enterprise value** | valor de operaciones para proveedores de deuda y equity | Cuando revenue growth es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **equity value** | valor residual para accionistas después de ajustes por deuda/caja | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Valor frente a precio.** El valor es una estimación basada en fundamentos; el precio es el resultado de una negociación o del mercado. Pueden diferir mucho, y comprender por qué es parte del trabajo.
 
-**Frontera de aplicación:** La valoración es particularmente sensible a supuestos lejanos. No presentes una cifra puntual sin rango, escenarios y explicación de drivers.
+**Límites.** Toda valoración depende de proyecciones inciertas; el valor terminal y la tasa pesan demasiado. Para empresas jóvenes, sin historial o con negocios muy inciertos, el método requiere escenarios y probabilidades. Los múltiplos dependen de comparables imperfectos. Las normas contables, tributarias y de valoración con fines legales (por ejemplo, fusiones o reportes a reguladores) tienen requisitos propios que se verifican con asesoría especializada. Esta clase no entrega una valoración utilizable como opinión profesional.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre valoración: fundamentos |
+| Nivel | Cómo usa la valoración |
 |---|---|
-| **Profesional** | usa **valoración: fundamentos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **enterprise value** y **equity value** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta revenue growth con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si valoración: fundamentos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de valoración: fundamentos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **valoración: fundamentos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende cómo su trabajo afecta flujos y riesgo. |
+| **Jefe / Team Lead** | Estima el valor de una iniciativa con flujos y sensibilidad. |
+| **Gerente** | Evalúa unidades y proyectos con flujos descontados y comparables. |
+| **CEO / Director** | Usa la valoración para decidir compras, ventas y asignación de capital. |
+| **Founder / Owner** | Entiende qué impulsa el valor de su empresa y qué ofrecen los inversionistas. |
 
 ## 🏢 Caso ejecutivo
 
-Un negocio proyecta FCF de 2, 3, 4, 5 y 6 millones, WACC 11% y crecimiento terminal 3%. Pequeñas variaciones de WACC y terminal pueden mover una gran parte del valor, mostrando por qué se necesita sensibilidad.
+Una empresa familiar de transporte refrigerado con ventas de USD 60 millones recibe una oferta de adquisición de un fondo por USD 85 millones por el 100 % del patrimonio, equivalente a 8,5 veces el EBITDA. La empresa tiene deuda neta de USD 18 millones y flotas con 12 años de antigüedad promedio que requerirán renovación en cuatro años. Los dos socios fundadores discrepan: uno quiere vender; el otro considera que el valor es mayor por un contrato de largo plazo con un cliente que representa el 35 % de los ingresos y vence en tres años. El banco de inversión del comprador presenta un múltiplo basado en transacciones de empresas con flotas nuevas.
 
-Entrega un **decision brief de valoración: fundamentos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **informe de valoración y recomendación** que contenga: (a) la historia del negocio y los supuestos de crecimiento, márgenes y reinversión con la renovación de flota; (b) el valor por flujos descontados con tres escenarios (incluida la pérdida del contrato); (c) la revisión de los comparables del comprador y su ajuste; (d) la tabla de sensibilidad frente a WACC y crecimiento terminal; (e) el puente de valor de la empresa a valor del patrimonio; (f) la recomendación sobre la oferta, las condiciones de negociación y las verificaciones legales, contables y tributarias con asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **valoración: fundamentos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. normalizar histórico → 2. proyectar drivers y free cash flow → 3. estimar tasa de descuento → 4. calcular terminal y valor presente → 5. contrastar con múltiplos y sensibilidad** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta revenue growth, EBIT margin; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula el valor presente de tres flujos futuros a una tasa dada.
+2. Proyecta cinco años de flujo libre de una empresa y estima su valor terminal.
+3. Calcula el valor con dos tasas distintas y mide la diferencia.
+4. Elige dos múltiplos y explica de qué dependen.
+5. Escribe cinco supuestos de tu valoración y cómo los validarías.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar enterprise value y equity value como sinónimos | Se pierde la distinción entre “valor de operaciones para proveedores de deuda y equity” y “valor residual para accionistas después de ajustes por deuda/caja” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “contrastar con múltiplos y sensibilidad” | Se saltó “normalizar histórico” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. normalizar histórico → 2. proyectar drivers y free cash flow → 3. estimar tasa de descuento → 4. calcular terminal y valor presente → 5. contrastar con múltiplos y sensibilidad y marca el primer supuesto no demostrado. |
-| Optimizar solo revenue growth | La métrica local sustituyó al resultado del sistema | Contrástala con EBIT margin y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre valoración: fundamentos | La valoración es particularmente sensible a supuestos lejanos. No presentes una cifra puntual sin rango, escenarios y explicación de drivers. |
-| No fijar revisión | Una decisión sobre valoración: fundamentos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Partir del precio deseado | Se quiere justificar una cifra | Ir de los supuestos al valor. |
+| Valor terminal sin coherencia | Se asume crecimiento o retorno perpetuo excesivo | g menor al de la economía y retorno coherente. |
+| Un solo número | Se busca precisión | Rango y sensibilidad. |
+| Comparables inadecuados | Se eligen por conveniencia | Ajustar por crecimiento, riesgo y márgenes. |
+| Olvidar la reinversión | Se proyecta solo ingreso | Vincular crecimiento y capital. |
+| Confundir valor con precio | Se mezclan | Separar fundamentos de negociación. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **enterprise value** y **equity value** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **DCF** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **normalizar histórico → proyectar drivers y free cash flow** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **revenue growth** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **valoración: fundamentos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **La valoración es particularmente sensible a supuestos lejanos. No presentes una cifra puntual sin rango, escenarios y explicación de drivers.**?
+1. ¿Qué dos fuerzas reducen el valor presente de un flujo futuro?
+2. ¿Qué es el flujo de caja libre?
+3. ¿Qué representa el WACC y por qué es sensible?
+4. ¿Qué es el valor terminal y por qué es crítico?
+5. ¿Qué límites tienen los múltiplos?
+6. ¿Cómo se pasa del valor de la empresa al del patrimonio?
+7. ¿Qué diferencia hay entre valor y precio?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El tiempo (un dólar hoy vale más que uno mañana) y el riesgo (un flujo incierto vale menos).
+2. La caja que genera la operación después de impuestos e inversiones necesarias, disponible para acreedores y accionistas.
+3. La tasa que remunera a acreedores y accionistas según el riesgo; es sensible porque pequeñas variaciones cambian mucho el valor, sobre todo con flujos lejanos.
+4. El valor de los flujos posteriores al horizonte explícito; suele ser más de la mitad del valor y depende de supuestos de crecimiento y retorno de largo plazo.
+5. Dependen de comparables imperfectos y del sentimiento del mercado, y no reemplazan los fundamentos.
+6. Restando la deuda neta y otras obligaciones asimilables, sumando activos no operativos y ajustando por liquidez o control cuando corresponda.
+7. El valor es una estimación basada en fundamentos; el precio es lo que se paga en una negociación o en el mercado.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/119-valoracion-fundamentos/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **valoración: fundamentos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **valoración: fundamentos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **enterprise value**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un negocio proyecta FCF de 2, 3, 4, 5 y 6 millones, WACC 11% y crecimiento terminal 3%. Pequeñas variaciones de WACC y terminal pueden mover una gran parte del valor, mostrando por qué se necesita sensibilidad.** y el dato que podría invalidar la recomendación.
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el informe de valoración del caso ejecutivo;
+- `capital-allocation.md` (plantilla [Capital allocation](../../../../templates/capital-allocation.md)) con la comparación entre vender, mantener o renovar;
+- `decision-journal.md` con los supuestos, los escenarios y las condiciones de negociación.
 
 ## 📗 Fuentes y verificación
 
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **valoración: fundamentos**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Aswath Damodaran — *Investment Valuation* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** valoración, riesgo, narrativas, costo de capital y supuestos explícitos. Lectura selectiva sobre **valoración: fundamentos**. **Localizador:** [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546).
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **valoración: fundamentos**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **valoración: fundamentos**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** reconocimiento, medición y presentación de estados financieros y sus partidas. Lectura selectiva sobre **valoración: fundamentos**. **Localizador:** [ISBN-13 9780470098189](https://openlibrary.org/isbn/9780470098189).
-- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración. Lectura selectiva sobre **valoración: fundamentos**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **valoración: fundamentos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **valoración: fundamentos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **valoración: fundamentos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **valoración: fundamentos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **valoración: fundamentos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Aswath Damodaran — *Investment Valuation* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** valoración como historia respaldada por números. Lectura selectiva sobre **valoración: fundamentos**. **Localizador:** [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546).
+- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** flujos libres, ROIC y coherencia con el crecimiento. Lectura selectiva sobre **valoración: fundamentos**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor presente, riesgo y costo de capital. Lectura selectiva sobre **valoración: fundamentos**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** análisis de estados y proyección para valorar. Lectura selectiva sobre **valoración: fundamentos**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
+- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** valoración a partir de estados financieros. Lectura selectiva sobre **valoración: fundamentos**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
 
-> **Regla de fuentes para Valoración: fundamentos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **valoración: fundamentos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Valoración: fundamentos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los requisitos de valoración con fines legales o tributarios. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

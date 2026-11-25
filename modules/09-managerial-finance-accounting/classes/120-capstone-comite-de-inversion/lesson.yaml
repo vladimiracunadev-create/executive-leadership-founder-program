@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir investment memo de NPV mediante evidencia observable."
-  - "Aplicar la secuencia: definir decisión y alternativa base → modelar cash flows incrementales → calcular NPV y sensibilidad → comparar opciones y portfolio → aprobar con milestones y post-audit."
-  - "Interpretar NPV, cash at risk, downside sin atribuir causalidad automática."
-  - "Resolver el caso de capstone: comité de inversión con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Estructurar un memo de inversión con tesis, números, riesgos y decisión solicitada."
+  - "Construir el modelo financiero a partir de supuestos explícitos con escenarios."
+  - "Someter una propuesta a preguntas críticas y ajustar el análisis."
+  - "Comparar alternativas, incluida la de no hacer nada."
+  - "Registrar una decisión con condiciones, hitos y revisión posterior."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*"
-  - "Stephen H. Penman — *Financial Statement Analysis and Security Valuation*"
   - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
   - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
-  - "Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans*"
-  - "Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation*"
+  - "Aswath Damodaran — *Investment Valuation*"
+  - "John R. Graham & Campbell R. Harvey — *The theory and practice of corporate finance: evidence from the field*"
+  - "Michael C. Jensen — *Paying People to Lie: the Truth about the Budgeting Process*"
 limits:
-  - "La matemática no decide sola prioridades estratégicas ni restricciones de riesgo. El comité debe hacer explícito juicio, conflictos y capacidad de ejecución."
+  - "Los números del ejemplo son ilustrativos."
 evidence_signals:
-  - "NPV"
-  - "cash at risk"
-  - "downside"
-  - "milestones"
-  - "post-audit variance"
+  - "tesis y alternativa cero"
+  - "modelo conectado con los tres estados"
+  - "premortem y juicios previos"
+  - "decisión con condiciones y revisión posterior"

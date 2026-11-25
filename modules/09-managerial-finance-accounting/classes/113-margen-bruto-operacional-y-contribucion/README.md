@@ -10,226 +10,187 @@
 
 ## 🎯 Propósito
 
-Margen bruto, operacional y de contribución responden preguntas distintas. El margen bruto muestra economía después del costo de ventas; el operacional incorpora estructura; el de contribución observa cuánto aporta una unidad adicional después de costos variables para cubrir fijos y beneficio.
+«El margen» no existe: existen varios márgenes, y cada uno responde una pregunta diferente. Cuando un gerente comercial habla de margen pensando en el **bruto**, el financiero en el **operacional** y el de operaciones en el de **contribución**, la conversación termina en un desacuerdo que no es de fondo sino de definición. Elegir el margen correcto para una decisión es tan importante como calcularlo bien: para evaluar un descuento se usa el margen de contribución; para evaluar un producto, el bruto y su asignación de costos; para evaluar la organización, el operacional.
 
-La salida de esta parte es **leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **margen bruto, operacional y contribución** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la contabilidad de costos de Horngren y colegas, en la crítica de Kaplan y Cooper a la asignación tradicional de costos indirectos y en la lectura de márgenes de Palepu, Healy y Peek. Al terminar sabrás calcular y distinguir los cuatro márgenes, elegir el adecuado para cada decisión, evitar los errores típicos de la asignación de costos fijos y analizar la rentabilidad por producto, cliente y canal.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `gross margin`, `operating margin`, `contribution margin`, `variable cost`, `fixed cost` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir clasificación consistente → 2. calcular márgenes por producto o segmento → 3. comparar tendencia → 4. identificar driver precio-volumen-mix-costo → 5. usar contribución para decisiones incrementales** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** gross margin, contribution margin, operating margin sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Calcular** margen bruto, de contribución, operacional y neto.
+2. **Elegir** el margen apropiado para cada tipo de decisión.
+3. **Analizar** rentabilidad por producto, cliente o canal.
+4. **Reconocer** los efectos de asignar costos indirectos de forma arbitraria.
+5. **Evaluar** el efecto de precio, volumen y mezcla sobre el margen.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define gross margin y operating margin sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con gross margin y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuál es «el margen» que se usa en tu empresa y cómo se define? |
+| 20–60 min | Cuatro márgenes, decisiones, asignación de costos y mezcla. |
+| 60–105 min | Ejemplo trabajado: decidir si aceptar un pedido con descuento. |
+| 105–150 min | Caso ejecutivo y práctica por cliente. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **gross margin** | (ventas−costo de ventas)/ventas | Distingue un hecho compatible y otro que lo refute. |
-| **operating margin** | resultado operativo/ventas | Distingue un hecho compatible y otro que lo refute. |
-| **contribution margin** | ventas−costos variables atribuibles | Distingue un hecho compatible y otro que lo refute. |
-| **variable cost** | costo que cambia con volumen dentro del rango relevante | Distingue un hecho compatible y otro que lo refute. |
-| **fixed cost** | costo que no cambia inmediatamente con volumen dentro del rango relevante | Distingue un hecho compatible y otro que lo refute. |
+| **Margen bruto** | (Ingresos − costo de ventas) / ingresos. | Rentabilidad del producto antes de la operación. |
+| **Margen de contribución** | (Ingresos − costos variables) / ingresos. | Lo que cada venta aporta a cubrir costos fijos. |
+| **Margen operacional** | Resultado operacional / ingresos. | Rentabilidad del negocio tras gastos operativos. |
+| **Margen neto** | Utilidad neta / ingresos. | Lo que queda a los dueños. |
+| **Costo directo** | Costo que se asigna a un producto o cliente sin ambigüedad. | Materiales, comisión de venta. |
+| **Costo indirecto (overhead)** | Costo compartido que debe asignarse con un criterio. | Arriendo de planta, administración. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 113: 1. definir clasificación consistente → 2. calcular márgenes por producto o segmento → 3. comparar tendencia → 4. identificar driver precio-volumen-mix-costo → 5. usar contribución para decisiones incrementales](modelo-mental.svg)
+![Cuatro márgenes ordenados: bruto, de contribución, operacional y neto, con la pregunta que responde cada uno.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir clasificación consistente → 2. calcular márgenes por producto o segmento → 3. comparar tendencia → 4. identificar driver precio-volumen-mix-costo → 5. usar contribución para decisiones incrementales
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Margen bruto, operacional y de contribución responden preguntas distintas. El margen bruto muestra economía después del costo de ventas; el operacional incorpora estructura; el de contribución observa cuánto aporta una unidad adicional después de costos variables para cubrir fijos y beneficio.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El margen de contribución sirve en el rango relevante y horizonte apropiado. A largo plazo muchos costos 'fijos' cambian; no uses análisis incremental para justificar precios estructuralmente insuficientes.**
+**Cómo leer el diagrama.** Cuatro peldaños; cada uno descuenta más costos. El **bruto** responde si el producto deja margen. El de **contribución** indica cuánto aporta cada venta a cubrir los costos fijos y orienta decisiones marginales como un descuento o un pedido especial. El **operacional** evalúa el negocio con su estructura de gastos. El **neto** muestra lo que queda para los dueños. Cada decisión pide un peldaño distinto, y confundirlos produce decisiones erradas.
 
 ## 📖 Desarrollo
 
-### 1. gross margin: mecanismo central
+### 1. Cuatro márgenes, cuatro preguntas
 
-**gross margin** se entiende aquí como **(ventas−costo de ventas)/ventas**. Esta es la pieza causal o estructural desde la que se inicia **margen bruto, operacional y contribución**: antes de definir clasificación consistente, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+El **margen bruto** (ingresos menos costo de ventas) mide la rentabilidad del producto o servicio antes de los gastos de operar. El **margen de contribución** (ingresos menos todos los costos variables, incluidos los de venta y distribución) mide cuánto aporta cada venta para cubrir los costos fijos y generar utilidad. El **margen operacional** descuenta los gastos operativos y evalúa el negocio. El **margen neto** descuenta intereses e impuestos. Se calculan en porcentaje y en valor absoluto; ambos importan: un margen alto sobre pocas ventas puede producir menos dinero que uno bajo sobre muchas.
 
-La lectura rectora de este bloque es Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis*. Su aporte se usa para examinar **costos relevantes, presupuestos, variaciones y decisiones gerenciales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **gross margin**; regístrala con periodo, unidad, población y baseline.
+### 2. Costos variables, fijos y la contribución
 
-Relaciona el mecanismo con **operating margin**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Los costos **variables** cambian con el volumen (materiales, comisiones, fletes); los **fijos** no cambian en el corto plazo (arriendos, sueldos base). El margen de contribución reconoce esa diferencia y permite decisiones **marginales**: ¿conviene aceptar un pedido adicional a un precio menor si la capacidad está disponible? Si el precio supera el costo variable, el pedido aporta a cubrir costos fijos que ya existen. Pero un precio bajo repetido deteriora la estructura de precios y la expectativa de clientes, y puede no ser sostenible si la capacidad se necesita para pedidos mejores.
 
-### 2. operating margin: frontera conceptual y error de clasificación
+### 3. Asignación de costos indirectos
 
-**Definición operacional:** resultado operativo/ventas. Su valor está en distinguirlo de **gross margin** y **contribution margin**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Para calcular la rentabilidad por producto o cliente, hay que asignar costos compartidos. Horngren y colegas describen criterios (horas de mano de obra, horas máquina, ventas) y sus límites. Kaplan y Cooper critican que la asignación tradicional distribuye los indirectos según el volumen y distorsiona los costos: productos de bajo volumen y alta complejidad consumen muchos recursos de apoyo que no se les asignan, y subsidian los de alto volumen; propusieron el **costeo basado en actividades**, que asigna según los **generadores de costo** reales (número de pedidos, cambios de producción, atención al cliente). Es más preciso pero más costoso de mantener.
 
-Contrasta el problema con Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*, que aporta una mirada sobre **valor del dinero, riesgo, costo de capital, inversión y financiación**. Formula dos mini-casos: uno que sí satisface la definición de **operating margin** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **contribution margin** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Rentabilidad por producto, cliente y canal
 
-Antes de calcular márgenes por producto o segmento, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Con costos adecuados se pueden analizar márgenes por **producto** (qué vender), por **cliente** (a quién y cómo servir) y por **canal** (dónde). Hallazgos habituales: una parte pequeña de los clientes genera la mayor parte de la utilidad, y otra porción genera pérdida al incluir los costos de servirla (entregas especiales, soporte, descuentos). El análisis conduce a decisiones: ajustar precios, cambiar condiciones, reducir la complejidad, cambiar el modelo de servicio o, en casos extremos, dejar de servir. Kaplan y Cooper describen estas curvas de rentabilidad acumulada de clientes.
 
-### 3. contribution margin: operacionalización y medición
+### 5. Precio, volumen y mezcla
 
-**contribution margin** significa **ventas−costos variables atribuibles**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Una variación del margen total puede explicarse por tres factores: **precio** (se vendió más caro o más barato), **volumen** (se vendió más o menos) y **mezcla** (se vendió más de los productos de alto o bajo margen). El margen porcentual de la empresa puede caer aunque cada producto mantenga su margen, si la mezcla se desplaza hacia productos de menor margen. Por eso un comité debe pedir la descomposición: si el margen cayó por mezcla, el remedio es distinto que si cayó por precio o por costo.
 
-Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* orienta este bloque mediante **decisiones de inversión, financiación, capital de trabajo y valoración**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **operating margin**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Descuentos y su costo real
 
-Al llegar a comparar tendencia, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Un descuento reduce el margen en una proporción mayor de lo que parece. Si el margen de contribución es del 30 % y se da un descuento del 10 % sin cambiar el costo, el margen de contribución cae a 22,2 % ((90 − 70) / 90) y para mantener el aporte total hay que vender un 50 % más de volumen (porque cada unidad aporta 20 en lugar de 30). Las decisiones de descuento deben evaluarse con la **elasticidad esperada** (cuánto volumen adicional generan) y con sus efectos en la percepción de precio y en otros clientes.
 
-### 4. variable cost: trade-offs y efectos de segundo orden
+### 7. Márgenes y estrategia
 
-**Definición:** costo que cambia con volumen dentro del rango relevante. Este concepto obliga a abandonar la idea de que **margen bruto, operacional y contribución** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de identificar driver precio-volumen-mix-costo, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* aporta una lente sobre **reconocimiento, medición y presentación de estados financieros y sus partidas**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **price variance** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **margen bruto, operacional y contribución**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **variable cost** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. fixed cost: gobernanza, límites e integración
-
-**fixed cost** se define como **costo que no cambia inmediatamente con volumen dentro del rango relevante** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Stephen H. Penman — *Financial Statement Analysis and Security Valuation* se utiliza para estudiar **reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración** y contrastar la recomendación final. Al ejecutar usar contribución para decisiones incrementales, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **El margen de contribución sirve en el rango relevante y horizonte apropiado. A largo plazo muchos costos 'fijos' cambian; no uses análisis incremental para justificar precios estructuralmente insuficientes.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **gross margin**, **operating margin**, **contribution margin**, **variable cost** y **fixed cost** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **margen bruto, operacional y contribución** no consiste en sumar cinco definiciones. Empieza por **gross margin**, contrasta **operating margin** con **contribution margin**, incorpora **variable cost** como restricción o mecanismo y usa **fixed cost** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir clasificación consistente → 2. calcular márgenes por producto o segmento → 3. comparar tendencia → 4. identificar driver precio-volumen-mix-costo → 5. usar contribución para decisiones incrementales**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Árbol de márgenes
-
-No existe “el margen” como cifra única. `Margen bruto` observa economía de producto/servicio antes de estructura; `margen de contribución` suele restar costos variables relevantes para decisiones; `margen operativo` incorpora estructura operativa. Define siempre qué costos entran.
-
-Para una venta de 100 con costo de producto 55 y costo variable comercial/logístico 10: margen bruto = 45 %, contribución = 35 si se define sobre esos costos variables. Esa diferencia importa para pricing, promociones, capacidad y break-even. Analiza cambios por **precio, volumen, mix y costo**, no solo el porcentaje final.
+Los márgenes reflejan la estrategia: precio premium con costos altos, liderazgo en costos con márgenes bajos y volumen alto, nichos especializados. Comparar con competidores exige entender el modelo de negocio, no solo la cifra. Un margen alto puede estar sosteniendo una estructura ineficiente; uno bajo puede ser parte de un modelo de alto volumen y capital de trabajo eficiente. La pregunta clave es si el margen es **sostenible** frente a la competencia y si compensa el capital y el riesgo (clase 118).
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* | costos relevantes, presupuestos, variaciones y decisiones gerenciales | ¿Qué supuesto de **margen bruto, operacional y contribución** ayuda a desafiar? |
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **margen bruto, operacional y contribución** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **margen bruto, operacional y contribución** ayuda a desafiar? |
-| Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* | reconocimiento, medición y presentación de estados financieros y sus partidas | ¿Qué supuesto de **margen bruto, operacional y contribución** ayuda a desafiar? |
-| Stephen H. Penman — *Financial Statement Analysis and Security Valuation* | reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración | ¿Qué supuesto de **margen bruto, operacional y contribución** ayuda a desafiar? |
-
-En **margen bruto, operacional y contribución**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **gross margin**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Horngren et al. | Comportamiento de costos, contribución y asignación. | Es un texto de contabilidad de costos. | ¿Qué costos varían con la venta? |
+| Kaplan y Cooper | Costeo por actividades y rentabilidad por cliente. | Su implantación es costosa. | ¿Qué generadores de costo consumen tus clientes? |
+| Palepu, Healy y Peek | Lectura de márgenes y comparación con pares. | Marco general. | ¿Qué estrategia explica este margen? |
+| Brealey, Myers y Allen | Decisiones marginales y valor. | Teoría con supuestos. | ¿El aporte compensa el costo del capital? |
+| Penman | Márgenes operativos y calidad del resultado. | Más técnico. | ¿El margen es recurrente? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un servicio vende a 100, tiene costo variable 35 y costos de soporte asignados de 40. Un cliente adicional exige solo 35; confundir costo total con incremental puede llevar a rechazar una venta rentable, pero aceptar demasiadas puede exigir nueva capacidad fija.
+**Situación (hipotética).** Una fábrica de muebles vende una línea de escritorios a USD 400 la unidad. Costos variables por unidad: materiales 150, mano de obra directa 60, comisión y flete 40: total 250. Costos fijos mensuales: USD 90.000. Vende 800 unidades al mes.
 
-**Paso 1 — definir clasificación consistente.** La gerencia escribe primero el supuesto asociado a **gross margin** y evita convertirlo en hecho. Luego busca **gross margin** para contrastarlo en el caso de **margen bruto, operacional y contribución**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Cálculo | Valor |
+|---|---|
+| Margen de contribución unitario | 400 − 250 = 150 (37,5 %) |
+| Contribución total | 800 × 150 = 120.000 |
+| Resultado antes de impuestos | 120.000 − 90.000 = 30.000 |
+| Punto de equilibrio | 90.000 / 150 = 600 unidades |
 
-**Paso 2 — calcular márgenes por producto o segmento.** La gerencia escribe primero el supuesto asociado a **operating margin** y evita convertirlo en hecho. Luego busca **contribution margin** para contrastarlo en el caso de **margen bruto, operacional y contribución**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Pedido especial.** Una cadena pide 300 unidades a USD 320, con capacidad disponible y sin comisiones (el flete se mantiene). Costo variable del pedido: materiales 150 + mano de obra 60 + flete 25 = 235. Contribución del pedido: (320 − 235) × 300 = 25.500. Con costos fijos ya cubiertos, mejora el resultado en 25.500.
 
-**Paso 3 — comparar tendencia.** La gerencia escribe primero el supuesto asociado a **contribution margin** y evita convertirlo en hecho. Luego busca **operating margin** para contrastarlo en el caso de **margen bruto, operacional y contribución**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cuidados.** (a) Si la capacidad se llena, se pierde la posibilidad de vender a 400: el costo de oportunidad es 150 por unidad; (b) la cadena podría esperar el mismo precio en el futuro; (c) otros clientes pueden enterarse. Decisión: aceptar el pedido por única vez, con una cláusula de que es un precio de lanzamiento, y evitar usar el precio como referencia.
 
-**Paso 4 — identificar driver precio-volumen-mix-costo.** La gerencia escribe primero el supuesto asociado a **variable cost** y evita convertirlo en hecho. Luego busca **price variance** para contrastarlo en el caso de **margen bruto, operacional y contribución**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Análisis por cliente.** Con costeo por actividades, se descubre que el cliente A (30 % de las ventas) exige entregas urgentes y devoluciones frecuentes, con un costo de servicio de 14 % de sus ventas; su margen operacional es de 2 %, frente a 11 % del promedio. El cliente B (5 % de ventas) tiene 18 %. Se negocian condiciones con A y se amplía la relación con B.
 
-**Paso 5 — usar contribución para decisiones incrementales.** La gerencia escribe primero el supuesto asociado a **fixed cost** y evita convertirlo en hecho. Luego busca **mix variance** para contrastarlo en el caso de **margen bruto, operacional y contribución**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **margen bruto, operacional y contribución**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El margen de contribución guió la decisión marginal. (2) El costo de oportunidad cambió la lectura. (3) Costear por cliente reveló una rentabilidad distinta de la aparente.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **gross margin** | (ventas−costo de ventas)/ventas | Cuando gross margin es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **operating margin** | resultado operativo/ventas | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Margen frente a retorno.** El margen mide cuánto queda por cada venta; el retorno mide cuánto queda por cada dólar invertido (clase 118). Un negocio de margen bajo con rotación alta puede rendir más que otro de margen alto con rotación lenta.
 
-**Frontera de aplicación:** El margen de contribución sirve en el rango relevante y horizonte apropiado. A largo plazo muchos costos 'fijos' cambian; no uses análisis incremental para justificar precios estructuralmente insuficientes.
+**Límites.** La asignación de costos indirectos es en parte arbitraria y cambia el resultado por producto o cliente; se declara el criterio. La división entre costos fijos y variables depende del horizonte: a largo plazo casi todos son variables. Las decisiones de precio tienen efectos competitivos y legales (por ejemplo, prácticas de precios discriminatorios o predatorios) que se verifican con asesoría. Los números del ejemplo son ilustrativos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre margen bruto, operacional y contribución |
+| Nivel | Cómo usa los márgenes |
 |---|---|
-| **Profesional** | usa **margen bruto, operacional y contribución** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **gross margin** y **operating margin** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta gross margin con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si margen bruto, operacional y contribución cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de margen bruto, operacional y contribución reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **margen bruto, operacional y contribución** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende cuánto margen deja lo que vende o produce. |
+| **Jefe / Team Lead** | Usa la contribución para decisiones de precio y de pedidos. |
+| **Gerente** | Analiza rentabilidad por producto, cliente y canal. |
+| **CEO / Director** | Vigila la mezcla y la sostenibilidad del margen frente al capital empleado. |
+| **Founder / Owner** | Conoce su margen real por cliente y no vende por debajo de lo que lo sostiene. |
 
 ## 🏢 Caso ejecutivo
 
-Un servicio vende a 100, tiene costo variable 35 y costos de soporte asignados de 40. Un cliente adicional exige solo 35; confundir costo total con incremental puede llevar a rechazar una venta rentable, pero aceptar demasiadas puede exigir nueva capacidad fija.
+Una empresa de servicios de limpieza industrial atiende 120 clientes. Su margen bruto total es del 32 %, estable. El gerente comercial presiona por cerrar contratos con descuentos del 12 % para ganar volumen; el gerente de operaciones advierte que los contratos más grandes exigen turnos nocturnos y supervisión adicional; finanzas calcula que los costos indirectos (supervisión, transporte, administración) son el 18 % de las ventas y se asignan por igual a todos los clientes. Un análisis por cliente muestra que el 15 % de los clientes genera más del 100 % de la utilidad operacional y que 30 clientes operan con pérdida al considerar su costo de servicio.
 
-Entrega un **decision brief de margen bruto, operacional y contribución** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de márgenes** que contenga: (a) los cuatro márgenes de la empresa con su definición; (b) la evaluación del descuento del 12 % con su efecto en la contribución y el volumen necesario; (c) una propuesta de costeo por actividades simplificado y sus generadores; (d) el análisis de rentabilidad por cliente y las acciones sobre los 30 clientes en pérdida; (e) cómo se vigilará la mezcla; (f) los aspectos de precios y de contratos que se consultarán con asesoría legal.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **margen bruto, operacional y contribución** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir clasificación consistente → 2. calcular márgenes por producto o segmento → 3. comparar tendencia → 4. identificar driver precio-volumen-mix-costo → 5. usar contribución para decisiones incrementales** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta gross margin, contribution margin; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula los cuatro márgenes con datos de un caso.
+2. Evalúa un descuento del 10 % con margen de contribución del 35 %: ¿qué aumento de volumen compensa?
+3. Define tres generadores de costo para tus costos indirectos.
+4. Calcula la rentabilidad de tres clientes con costo de servicio.
+5. Descompone una variación de margen en precio, volumen y mezcla.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar gross margin y operating margin como sinónimos | Se pierde la distinción entre “(ventas−costo de ventas)/ventas” y “resultado operativo/ventas” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “usar contribución para decisiones incrementales” | Se saltó “definir clasificación consistente” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir clasificación consistente → 2. calcular márgenes por producto o segmento → 3. comparar tendencia → 4. identificar driver precio-volumen-mix-costo → 5. usar contribución para decisiones incrementales y marca el primer supuesto no demostrado. |
-| Optimizar solo gross margin | La métrica local sustituyó al resultado del sistema | Contrástala con contribution margin y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre margen bruto, operacional y contribución | El margen de contribución sirve en el rango relevante y horizonte apropiado. A largo plazo muchos costos 'fijos' cambian; no uses análisis incremental para justificar precios estructuralmente insuficientes. |
-| No fijar revisión | Una decisión sobre margen bruto, operacional y contribución se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Hablar de «margen» sin definir | Se supone un único margen | Nombrar cuál y cómo se calcula. |
+| Usar margen bruto para decisiones marginales | Es el más conocido | Usar contribución. |
+| Asignar indirectos por ventas | Es simple | Usar generadores de costo. |
+| Aceptar pedidos bajo costo variable | Se busca volumen | Verificar contribución y costo de oportunidad. |
+| Ignorar la mezcla | Se mira el promedio | Descomponer precio, volumen y mezcla. |
+| Descontar sin estimar el volumen necesario | Se asume que se compensa | Calcular el aumento requerido. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **gross margin** y **operating margin** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **contribution margin** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir clasificación consistente → calcular márgenes por producto o segmento** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **gross margin** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **margen bruto, operacional y contribución**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **El margen de contribución sirve en el rango relevante y horizonte apropiado. A largo plazo muchos costos 'fijos' cambian; no uses análisis incremental para justificar precios estructuralmente insuficientes.**?
+1. ¿Qué diferencia hay entre margen bruto y margen de contribución?
+2. ¿Para qué decisiones se usa el margen de contribución?
+3. ¿Qué critican Kaplan y Cooper de la asignación tradicional de indirectos?
+4. ¿Qué factores explican una variación del margen?
+5. ¿Por qué un descuento exige mucho más volumen para compensar?
+6. ¿Qué significa costo de oportunidad en un pedido especial?
+7. ¿Qué límite tiene la asignación de costos indirectos?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El bruto descuenta el costo de ventas; el de contribución descuenta todos los costos variables, incluidos los de venta y distribución.
+2. Para decisiones marginales: descuentos, pedidos especiales, mezcla de productos.
+3. Que reparte los indirectos según el volumen y subsidia los productos o clientes de bajo volumen y alta complejidad; proponen asignar por generadores de costo.
+4. Precio, volumen, mezcla y costo unitario.
+5. Porque el descuento reduce el aporte por unidad; con margen de 30 % y 10 % de descuento, el aporte baja de 30 a 20 y se necesita un 50 % más de volumen.
+6. El beneficio al que se renuncia por usar la capacidad en ese pedido en vez de en la mejor alternativa.
+7. Es parcialmente arbitraria; el criterio influye en la rentabilidad calculada y debe declararse.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/113-margen-bruto-operacional-y-contribucion/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **margen bruto, operacional y contribución**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **margen bruto, operacional y contribución** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **gross margin**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un servicio vende a 100, tiene costo variable 35 y costos de soporte asignados de 40. Un cliente adicional exige solo 35; confundir costo total con incremental puede llevar a rechazar una venta rentable, pero aceptar demasiadas puede exigir nueva capacidad fija.** y el dato que podría invalidar la recomendación.
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el análisis de márgenes del caso ejecutivo;
+- `commercial-decision-brief.md` (plantilla [Commercial decision brief](../../../../templates/commercial-decision-brief.md)) con la decisión sobre el descuento y los clientes en pérdida;
+- `decision-journal.md` con los criterios de asignación y el seguimiento de la mezcla.
 
 ## 📗 Fuentes y verificación
 
-- Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* (Prentice Hall College Div, 2002). **Uso en esta clase:** costos relevantes, presupuestos, variaciones y decisiones gerenciales. Lectura selectiva sobre **margen bruto, operacional y contribución**. **Localizador:** [ISBN-13 9780130650061](https://openlibrary.org/isbn/9780130650061).
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **margen bruto, operacional y contribución**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **margen bruto, operacional y contribución**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** reconocimiento, medición y presentación de estados financieros y sus partidas. Lectura selectiva sobre **margen bruto, operacional y contribución**. **Localizador:** [ISBN-13 9780470098189](https://openlibrary.org/isbn/9780470098189).
-- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración. Lectura selectiva sobre **margen bruto, operacional y contribución**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
-- Aswath Damodaran — *Investment Valuation* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** valoración, riesgo, narrativas, costo de capital y supuestos explícitos. Lectura selectiva sobre **margen bruto, operacional y contribución**. **Localizador:** [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546).
-- IFRS Foundation — *IFRS Accounting Standards*. **Uso en esta clase:** normas IFRS/IAS aplicables a la presentación y lectura de estados financieros. **Fuente primaria:** <https://www.ifrs.org/>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **margen bruto, operacional y contribución** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **margen bruto, operacional y contribución**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **margen bruto, operacional y contribución** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **margen bruto, operacional y contribución** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **margen bruto, operacional y contribución** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* (Prentice Hall College Div, 2002). **Uso en esta clase:** comportamiento de costos, contribución y asignación. Lectura selectiva sobre **margen bruto, operacional y contribución**. **Localizador:** [ISBN-13 9780130650061](https://openlibrary.org/isbn/9780130650061).
+- Robert S. Kaplan & Robin Cooper — *Cost & Effect* (Harvard Business School Press, 1998). **Uso en esta clase:** costeo por actividades y rentabilidad por cliente. Lectura selectiva sobre **margen bruto, operacional y contribución**. **Localizador:** [ISBN-13 9780875847887](https://openlibrary.org/isbn/9780875847887).
+- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** lectura de márgenes y comparación con pares. Lectura selectiva sobre **margen bruto, operacional y contribución**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** decisiones marginales y valor. Lectura selectiva sobre **margen bruto, operacional y contribución**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** márgenes operativos y calidad del resultado. Lectura selectiva sobre **margen bruto, operacional y contribución**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
 
-> **Regla de fuentes para Margen bruto, operacional y contribución:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **margen bruto, operacional y contribución** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Margen bruto, operacional y contribución:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de libre competencia aplicables a decisiones de precios. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

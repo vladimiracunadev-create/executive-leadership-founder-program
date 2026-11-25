@@ -10,226 +10,192 @@
 
 ## 🎯 Propósito
 
-El balance muestra recursos, obligaciones y patrimonio en una fecha. Leerlo gerencialmente exige observar liquidez, capital de trabajo, endeudamiento, composición de activos y calidad de cuentas. La ecuación activo = pasivo + patrimonio es identidad contable; el análisis pregunta qué riesgos y opciones contiene esa estructura.
+El estado de resultados cuenta una película; el balance es una fotografía. Muestra, en una fecha, qué recursos controla la empresa, con qué los financió y qué le queda a los dueños. De esa foto se lee algo que ninguna otra cifra muestra con tanta claridad: la **resistencia** de la empresa. ¿Puede pagar lo que vence? ¿Depende demasiado de la deuda? ¿Qué parte de sus activos son promesas de cobro o inventarios difíciles de vender? Muchas empresas rentables quiebran por falta de liquidez; otras sobreviven a años de pérdidas porque su balance es sólido.
 
-La salida de esta parte es **leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **balance y posición financiera** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis de Palepu, Healy y Peek, en la contabilidad de Kieso, Weygandt y Warfield, en la teoría de estructura de capital de Brealey, Myers y Allen y en la guía de Ross, Westerfield y Jaffe. Al terminar sabrás leer un balance, distinguir liquidez de solvencia, calcular razones básicas, entender la calidad de los activos y reconocer los riesgos de una estructura financiera frágil.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `activo`, `pasivo`, `patrimonio`, `liquidez`, `leverage` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. clasificar corriente y no corriente → 2. revisar calidad y concentración de activos → 3. medir liquidez → 4. analizar deuda y vencimientos → 5. conciliar cambios con resultado y caja** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** current ratio, net debt, receivable days sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Leer** el balance por bloques: activos, pasivos y patrimonio.
+2. **Distinguir** liquidez de solvencia y calcular razones básicas.
+3. **Evaluar** la calidad de los activos y el perfil de vencimientos de los pasivos.
+4. **Interpretar** la estructura de financiamiento y su riesgo.
+5. **Anticipar** señales de tensión financiera antes de que se agote la caja.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define activo y pasivo sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con current ratio y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué pasaría en tu empresa si mañana un banco no renovara una línea de crédito? |
+| 20–60 min | Activos, pasivos, patrimonio, liquidez y solvencia. |
+| 60–105 min | Ejemplo trabajado: balance de una distribuidora con un vencimiento de deuda. |
+| 105–150 min | Caso ejecutivo y práctica de razones. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **activo** | recurso controlado con beneficio económico futuro esperado | Distingue un hecho compatible y otro que lo refute. |
-| **pasivo** | obligación presente que requerirá recursos | Distingue un hecho compatible y otro que lo refute. |
-| **patrimonio** | interés residual después de pasivos | Distingue un hecho compatible y otro que lo refute. |
-| **liquidez** | capacidad de atender obligaciones de corto plazo | Distingue un hecho compatible y otro que lo refute. |
-| **leverage** | uso de deuda y obligaciones que amplifica exposición de los propietarios | Distingue un hecho compatible y otro que lo refute. |
+| **Activo corriente** | Recurso que se espera convertir en efectivo o usar en menos de un año. | Caja, cuentas por cobrar, inventario. |
+| **Pasivo corriente** | Obligación que vence en menos de un año. | Proveedores, deuda de corto plazo. |
+| **Liquidez** | Capacidad de pagar obligaciones de corto plazo. | Razón corriente, prueba ácida. |
+| **Solvencia** | Capacidad de sostener la estructura de deuda a largo plazo. | Deuda sobre patrimonio, cobertura de intereses. |
+| **Patrimonio** | Capital aportado más utilidades retenidas; activos menos pasivos. | Puede ser negativo. |
+| **Apalancamiento financiero** | Uso de deuda para financiar activos. | Aumenta retorno y riesgo. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 111: 1. clasificar corriente y no corriente → 2. revisar calidad y concentración de activos → 3. medir liquidez → 4. analizar deuda y vencimientos → 5. conciliar cambios con resultado y caja](modelo-mental.svg)
+![Los tres bloques del balance: activos, pasivos y patrimonio, con la pregunta gerencial de cada uno.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. clasificar corriente y no corriente → 2. revisar calidad y concentración de activos → 3. medir liquidez → 4. analizar deuda y vencimientos → 5. conciliar cambios con resultado y caja
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El balance muestra recursos, obligaciones y patrimonio en una fecha. Leerlo gerencialmente exige observar liquidez, capital de trabajo, endeudamiento, composición de activos y calidad de cuentas. La ecuación activo = pasivo + patrimonio es identidad contable; el análisis pregunta qué riesgos y opciones contiene esa estructura.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Ratios sin contexto sectorial engañan. Un negocio de suscripción y uno industrial requieren estructuras diferentes; analiza tendencia, comparables y condiciones contractuales.**
+**Cómo leer el diagrama.** Tres columnas que se relacionan por la ecuación activos = pasivos + patrimonio. Los **activos** son lo que la empresa controla; la pregunta gerencial es cuánto valen realmente. Los **pasivos** son lo que debe; la pregunta es cuándo vencen y cuánto cuestan. El **patrimonio** es lo que queda para los dueños; la pregunta es si crece o se consume. Al leerlos juntos se ve si la estructura es sostenible.
 
 ## 📖 Desarrollo
 
-### 1. activo: mecanismo central
+### 1. Los activos y su calidad
 
-**activo** se entiende aquí como **recurso controlado con beneficio económico futuro esperado**. Esta es la pieza causal o estructural desde la que se inicia **balance y posición financiera**: antes de clasificar corriente y no corriente, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Los activos se ordenan por liquidez. **Efectivo** y equivalentes son lo más líquido. **Cuentas por cobrar** dependen de que los clientes paguen, y su calidad se juzga por su antigüedad y concentración. El **inventario** depende de que se venda: un inventario antiguo o de baja rotación puede valer mucho menos que su valor en libros. Los **activos fijos** (equipos, edificios) se registran a costo menos depreciación y no se convierten en caja fácilmente. Los **intangibles** y el **menor valor de inversiones (goodwill)** dependen de supuestos que pueden no cumplirse. Un activo en libros no es necesariamente caja disponible.
 
-La lectura rectora de este bloque es Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*. Su aporte se usa para examinar **reconocimiento, medición y presentación de estados financieros y sus partidas**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **current ratio**; regístrala con periodo, unidad, población y baseline.
+### 2. Los pasivos y su perfil de vencimiento
 
-Relaciona el mecanismo con **pasivo**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Los pasivos se leen por **monto, costo y vencimiento**. Proveedores y gastos acumulados son de corto plazo y suelen no tener interés explícito; la deuda financiera tiene costo y condiciones (garantías, **covenants**, vencimientos). El **perfil de vencimientos** importa tanto como el nivel de deuda: una empresa con una deuda moderada que vence casi toda en un año puede estar en peor situación que otra con más deuda repartida en diez años. Los pasivos contingentes (litigios, garantías) y los compromisos fuera de balance también afectan el riesgo.
 
-### 2. pasivo: frontera conceptual y error de clasificación
+### 3. El patrimonio
 
-**Definición operacional:** obligación presente que requerirá recursos. Su valor está en distinguirlo de **activo** y **patrimonio**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El patrimonio es el residuo: activos menos pasivos. Crece con las utilidades que se retienen y con los aportes de capital, y disminuye con pérdidas y dividendos. Un patrimonio que se erosiona señala que la empresa consume valor; uno negativo indica que las deudas superan los activos registrados. Para los dueños, el patrimonio contable no es el valor de mercado de la empresa, que puede ser muy superior (marcas, tecnología) o inferior (activos sobrevalorados). Brealey, Myers y Allen subrayan que el valor depende de los flujos futuros, no de lo que se pagó por los activos en el pasado.
 
-Contrasta el problema con Stephen H. Penman — *Financial Statement Analysis and Security Valuation*, que aporta una mirada sobre **reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración**. Formula dos mini-casos: uno que sí satisface la definición de **pasivo** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **net debt** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Liquidez
 
-Antes de revisar calidad y concentración de activos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La liquidez responde: ¿puedo pagar lo que vence pronto? La **razón corriente** (activos corrientes / pasivos corrientes) y la **prueba ácida** (activos corrientes sin inventario / pasivos corrientes) son aproximaciones. Un valor sobre 1 indica que los activos de corto plazo cubren las obligaciones de corto plazo, pero depende de su calidad: cuentas por cobrar vencidas o inventario obsoleto inflan la razón. Más relevante que la razón es el **calendario de caja** proyectado (clase 112): qué entra y qué sale cada semana. Una empresa puede cumplir una razón sana y quedarse sin caja por una concentración de pagos.
 
-### 3. patrimonio: operacionalización y medición
+### 5. Solvencia y estructura de capital
 
-**patrimonio** significa **interés residual después de pasivos**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La solvencia responde: ¿la estructura es sostenible? Se miden razones como **deuda neta sobre EBITDA** (años de generación operativa para pagar la deuda neta), **deuda sobre patrimonio** y **cobertura de intereses** (resultado operacional / intereses). Ross, Westerfield y Jaffe y Brealey, Myers y Allen explican el **apalancamiento**: la deuda es más barata que el capital propio y aumenta el retorno cuando el negocio rinde más que su costo, pero también aumenta el riesgo, porque los intereses se pagan aun si las ventas caen. No existe una razón óptima universal: depende de la estabilidad del negocio y del acceso a financiamiento.
 
-Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* orienta este bloque mediante **estrategia, análisis contable, análisis financiero y proyección integrados**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **receivable days**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Compromisos y covenants
 
-Al llegar a medir liquidez, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Muchos préstamos incluyen **covenants**: condiciones que la empresa debe cumplir (por ejemplo, mantener una razón de deuda neta sobre EBITDA bajo cierto valor). Su incumplimiento puede permitir al acreedor exigir el pago anticipado. Un gerente debe conocer los covenants de sus contratos, proyectarlos y avisar con anticipación si están en riesgo. Las decisiones de inversión, dividendos o recompras también pueden estar limitadas por ellos. Los detalles de cada contrato y sus consecuencias legales se verifican con los documentos y con asesoría jurídica.
 
-### 4. liquidez: trade-offs y efectos de segundo orden
+### 7. Señales de tensión
 
-**Definición:** capacidad de atender obligaciones de corto plazo. Este concepto obliga a abandonar la idea de que **balance y posición financiera** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de analizar deuda y vencimientos, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* aporta una lente sobre **señales de calidad de resultados, partidas no recurrentes y posibles distorsiones contables**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **inventory days** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **balance y posición financiera**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **liquidez** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. leverage: gobernanza, límites e integración
-
-**leverage** se define como **uso de deuda y obligaciones que amplifica exposición de los propietarios** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* se utiliza para estudiar **decisiones de inversión, financiación, capital de trabajo y valoración** y contrastar la recomendación final. Al ejecutar conciliar cambios con resultado y caja, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Ratios sin contexto sectorial engañan. Un negocio de suscripción y uno industrial requieren estructuras diferentes; analiza tendencia, comparables y condiciones contractuales.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **activo**, **pasivo**, **patrimonio**, **liquidez** y **leverage** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **balance y posición financiera** no consiste en sumar cinco definiciones. Empieza por **activo**, contrasta **pasivo** con **patrimonio**, incorpora **liquidez** como restricción o mecanismo y usa **leverage** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. clasificar corriente y no corriente → 2. revisar calidad y concentración de activos → 3. medir liquidez → 4. analizar deuda y vencimientos → 5. conciliar cambios con resultado y caja**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Lectura estructurada del balance
-
-Organiza el balance por **liquidez, exigibilidad y permanencia**. Calcula al menos `capital de trabajo neto = activos corrientes - pasivos corrientes` y, cuando sea útil, `current ratio = activos corrientes / pasivos corrientes`. Después mira composición: caja, cuentas por cobrar, inventarios, PPE, deuda, proveedores y patrimonio.
-
-Dos balances con el mismo total pueden tener riesgos opuestos. Si cuentas por cobrar crecen mucho más rápido que ventas, la liquidez aparente puede depender de cobros dudosos. Si inventario crece mientras ventas se estancan, puede existir obsolescencia. Si deuda de corto plazo financia activos largos, aparece riesgo de refinanciamiento. El análisis no termina en ratios: reconcilia variaciones con resultados y flujo de caja.
+Algunas señales tempranas: **cuentas por cobrar** que crecen más que las ventas; **inventario** que aumenta sin que suban las ventas; **proveedores** que se pagan cada vez más tarde; **deuda de corto plazo** usada para financiar activos de largo plazo; **uso creciente** de líneas de crédito; **patrimonio** que se erosiona; **covenants** ajustados. Ninguna prueba un problema por sí sola; en conjunto, anticipan un riesgo de liquidez. Palepu, Healy y Peek recomiendan relacionar el balance con el flujo de caja y la estrategia: ¿el crecimiento se está financiando de manera sostenible?
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* | reconocimiento, medición y presentación de estados financieros y sus partidas | ¿Qué supuesto de **balance y posición financiera** ayuda a desafiar? |
-| Stephen H. Penman — *Financial Statement Analysis and Security Valuation* | reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración | ¿Qué supuesto de **balance y posición financiera** ayuda a desafiar? |
-| Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* | estrategia, análisis contable, análisis financiero y proyección integrados | ¿Qué supuesto de **balance y posición financiera** ayuda a desafiar? |
-| Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* | señales de calidad de resultados, partidas no recurrentes y posibles distorsiones contables | ¿Qué supuesto de **balance y posición financiera** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **balance y posición financiera** ayuda a desafiar? |
-
-En **balance y posición financiera**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **activo**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Palepu, Healy y Peek | Análisis integrado de liquidez, solvencia y estrategia. | Marco general. | ¿Qué dice el balance de la estrategia? |
+| Kieso, Weygandt y Warfield | Reglas de medición de activos y pasivos. | Se centra en preparación contable. | ¿Cómo se midió este activo? |
+| Brealey, Myers y Allen | Estructura de capital y riesgo. | Teoría con supuestos. | ¿Cuánta deuda soporta el negocio? |
+| Ross, Westerfield y Jaffe | Razones financieras y apalancamiento. | Es un texto de finanzas corporativas. | ¿Qué razón es relevante para este rubro? |
+| Penman | Separar activos operativos y financieros. | Más técnico. | ¿Qué parte de los activos es operativa? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa crece 20% en ventas y utilidad, pero cuentas por cobrar suben 65% y deuda de corto plazo financia esa expansión. El P&L luce saludable; el balance revela tensión.
+**Situación (hipotética).** Una distribuidora de materiales de construcción presenta este balance (USD miles).
 
-**Paso 1 — clasificar corriente y no corriente.** La gerencia escribe primero el supuesto asociado a **activo** y evita convertirlo en hecho. Luego busca **current ratio** para contrastarlo en el caso de **balance y posición financiera**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Activos | Monto | Pasivos y patrimonio | Monto |
+|---|---|---|---|
+| Efectivo | 400 | Proveedores | 2.200 |
+| Cuentas por cobrar | 3.800 | Deuda bancaria (vence en 8 meses) | 3.000 |
+| Inventario | 4.200 | Otros pasivos corrientes | 600 |
+| **Activo corriente** | **8.400** | **Pasivo corriente** | **5.800** |
+| Equipos y bodegas | 3.600 | Deuda bancaria de largo plazo | 2.000 |
+| | | Patrimonio | 4.200 |
+| **Total** | **12.000** | **Total** | **12.000** |
 
-**Paso 2 — revisar calidad y concentración de activos.** La gerencia escribe primero el supuesto asociado a **pasivo** y evita convertirlo en hecho. Luego busca **net debt** para contrastarlo en el caso de **balance y posición financiera**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Razones.** Razón corriente: 8.400 / 5.800 = 1,45. Prueba ácida: (8.400 − 4.200) / 5.800 = 0,72. Deuda total sobre patrimonio: 5.000 / 4.200 = 1,19. Si el EBITDA anual es de 1.800, la deuda neta (5.000 − 400 = 4.600) equivale a 2,6 veces el EBITDA.
 
-**Paso 3 — medir liquidez.** La gerencia escribe primero el supuesto asociado a **patrimonio** y evita convertirlo en hecho. Luego busca **receivable days** para contrastarlo en el caso de **balance y posición financiera**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** La razón corriente parece cómoda, pero 4.200 son inventario y la prueba ácida es de 0,72. Las cuentas por cobrar equivalen a un 40 % de las ventas anuales de unos USD 9,5 millones (cerca de 146 días), un plazo largo. En ocho meses vence una deuda de 3.000 y la caja es de 400.
 
-**Paso 4 — analizar deuda y vencimientos.** La gerencia escribe primero el supuesto asociado a **liquidez** y evita convertirlo en hecho. Luego busca **inventory days** para contrastarlo en el caso de **balance y posición financiera**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Escenarios.** (a) Si se renueva, la empresa sigue; (b) si el banco no renueva y el covenant de deuda neta sobre EBITDA de 3,0 se ajusta, hay riesgo. (c) Reducir cuentas por cobrar de 146 a 100 días libera unos USD 1,2 millones; reducir 15 % el inventario libera 630.
 
-**Paso 5 — conciliar cambios con resultado y caja.** La gerencia escribe primero el supuesto asociado a **leverage** y evita convertirlo en hecho. Luego busca **equity ratio** para contrastarlo en el caso de **balance y posición financiera**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisiones.** Negociar la renovación con anticipación mostrando un plan de capital de trabajo; mejorar cobranza y rotación de inventario; evitar pagar dividendos hasta refinanciar; proyectar caja semanal por ocho meses.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **balance y posición financiera**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La razón corriente ocultaba un problema de calidad de activos. (2) El perfil de vencimientos importaba más que el nivel de deuda. (3) El plan se enfocó en liberar caja antes de la fecha crítica.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **activo** | recurso controlado con beneficio económico futuro esperado | Cuando current ratio es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **pasivo** | obligación presente que requerirá recursos | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Liquidez frente a solvencia.** Una empresa solvente puede tener problemas de liquidez en el corto plazo (activos valiosos pero poco líquidos), y una líquida puede ser insolvente (caja prestada que supera lo que produce). Los dos riesgos se manejan con herramientas distintas.
 
-**Frontera de aplicación:** Ratios sin contexto sectorial engañan. Un negocio de suscripción y uno industrial requieren estructuras diferentes; analiza tendencia, comparables y condiciones contractuales.
+**Límites.** El balance usa valores contables que pueden diferir del valor de mercado. Es una foto en una fecha: puede incluir operaciones de «maquillaje» al cierre (por ejemplo, retrasar pagos o acelerar cobros). Las razones no tienen un valor universalmente correcto y se comparan con el rubro. Los covenants y garantías se leen en los contratos. Y los análisis de insolvencia o reestructuración tienen consecuencias legales que requieren asesoría especializada y la normativa vigente.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre balance y posición financiera |
+| Nivel | Cómo usa el balance |
 |---|---|
-| **Profesional** | usa **balance y posición financiera** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **activo** y **pasivo** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta current ratio con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si balance y posición financiera cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de balance y posición financiera reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **balance y posición financiera** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende cómo sus decisiones afectan inventario, cobranza y pagos. |
+| **Jefe / Team Lead** | Cuida su capital de trabajo (inventario, cobros) y avisa de tensiones. |
+| **Gerente** | Lee liquidez y solvencia, proyecta caja y covenants. |
+| **CEO / Director** | Decide la estructura de capital y los márgenes de seguridad. |
+| **Founder / Owner** | Evita crecer más rápido de lo que su balance puede financiar. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa crece 20% en ventas y utilidad, pero cuentas por cobrar suben 65% y deuda de corto plazo financia esa expansión. El P&L luce saludable; el balance revela tensión.
+Una empresa de agroindustria creció 60 % en dos años financiando bodegas y maquinaria con deuda de corto plazo renovable. Las cuentas por cobrar pasaron de 55 a 95 días, el inventario creció 40 %, y los proveedores se pagan a 110 días en promedio (antes 60). Su razón corriente es 1,3, pero su prueba ácida es 0,6. Un banco informa que revisará las líneas de crédito en cuatro meses y que un covenant de deuda neta sobre EBITDA de 3,5 podría ajustarse a 3,0. El EBITDA bajó 12 % este año por precios de materias primas. El directorio quiere seguir expandiéndose.
 
-Entrega un **decision brief de balance y posición financiera** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diagnóstico de posición financiera** que contenga: (a) la lectura del balance por bloques y la calidad de los activos; (b) razones de liquidez y solvencia y su proyección con los cambios previstos; (c) el perfil de vencimientos y el riesgo de covenants; (d) las señales de tensión identificadas; (e) un plan de 120 días para fortalecer el balance con acciones concretas y su efecto en caja; (f) la recomendación al directorio sobre la expansión y las verificaciones jurídicas de los contratos de deuda.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **balance y posición financiera** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. clasificar corriente y no corriente → 2. revisar calidad y concentración de activos → 3. medir liquidez → 4. analizar deuda y vencimientos → 5. conciliar cambios con resultado y caja** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta current ratio, net debt; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula razón corriente, prueba ácida y deuda neta sobre EBITDA para un balance.
+2. Evalúa la antigüedad de las cuentas por cobrar y la rotación de inventario.
+3. Construye el perfil de vencimientos de deuda de los próximos 24 meses.
+4. Identifica tres señales de tensión y cómo las seguirías.
+5. Propón dos acciones para liberar caja y estima su efecto.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar activo y pasivo como sinónimos | Se pierde la distinción entre “recurso controlado con beneficio económico futuro esperado” y “obligación presente que requerirá recursos” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “conciliar cambios con resultado y caja” | Se saltó “clasificar corriente y no corriente” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. clasificar corriente y no corriente → 2. revisar calidad y concentración de activos → 3. medir liquidez → 4. analizar deuda y vencimientos → 5. conciliar cambios con resultado y caja y marca el primer supuesto no demostrado. |
-| Optimizar solo current ratio | La métrica local sustituyó al resultado del sistema | Contrástala con net debt y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre balance y posición financiera | Ratios sin contexto sectorial engañan. Un negocio de suscripción y uno industrial requieren estructuras diferentes; analiza tendencia, comparables y condiciones contractuales. |
-| No fijar revisión | Una decisión sobre balance y posición financiera se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Confiar en la razón corriente | Parece suficiente | Evaluar calidad de activos y prueba ácida. |
+| Mirar el nivel de deuda sin el vencimiento | Se ignora el calendario | Perfil de vencimientos. |
+| Financiar largo plazo con corto plazo | Es más barato o más fácil | Calzar plazos. |
+| Ignorar covenants | Están en un contrato archivado | Proyectarlos y monitorearlos. |
+| Confundir patrimonio con valor | Es una cifra contable | Distinguir valor contable y económico. |
+| No relacionar balance con caja | Se leen por separado | Proyectar el flujo. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **activo** y **pasivo** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **patrimonio** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **clasificar corriente y no corriente → revisar calidad y concentración de activos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **current ratio** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **balance y posición financiera**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Ratios sin contexto sectorial engañan. Un negocio de suscripción y uno industrial requieren estructuras diferentes; analiza tendencia, comparables y condiciones contractuales.**?
+1. ¿Qué responde cada bloque del balance?
+2. ¿Qué diferencia hay entre liquidez y solvencia?
+3. ¿Por qué la razón corriente puede engañar?
+4. ¿Por qué importa el perfil de vencimientos?
+5. ¿Qué es un covenant?
+6. ¿Cuál es el efecto del apalancamiento?
+7. ¿Qué señales anticipan tensión de liquidez?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Los activos, qué controla la empresa y cuánto valen; los pasivos, qué debe, cuándo vence y cuánto cuesta; el patrimonio, lo que queda a los dueños.
+2. La liquidez es pagar lo que vence pronto; la solvencia es sostener la estructura de deuda a largo plazo.
+3. Porque incluye activos de baja calidad (cuentas vencidas, inventario obsoleto) que no se convierten en caja.
+4. Porque una deuda moderada que vence toda en un año puede ser más riesgosa que una mayor repartida en el tiempo.
+5. Una condición de un contrato de deuda que la empresa debe cumplir; su incumplimiento puede llevar al pago anticipado.
+6. Aumenta el retorno si el negocio rinde más que el costo de la deuda, y aumenta el riesgo porque los intereses se pagan aunque caigan las ventas.
+7. Cuentas por cobrar e inventario que crecen más que las ventas, pagos a proveedores cada vez más tarde, deuda corta para activos largos, uso creciente de líneas y covenants ajustados.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/111-balance-y-posicion-financiera/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **balance y posición financiera**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **balance y posición financiera** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **activo**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa crece 20% en ventas y utilidad, pero cuentas por cobrar suben 65% y deuda de corto plazo financia esa expansión. El P&L luce saludable; el balance revela tensión.** y el dato que podría invalidar la recomendación.
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el diagnóstico del caso ejecutivo;
+- `cash-runway.md` (plantilla [Cash runway](../../../../templates/cash-runway.md)) con la proyección de caja de 120 días;
+- `decision-journal.md` con las razones, los vencimientos y los covenants.
 
 ## 📗 Fuentes y verificación
 
-- Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** reconocimiento, medición y presentación de estados financieros y sus partidas. Lectura selectiva sobre **balance y posición financiera**. **Localizador:** [ISBN-13 9780470098189](https://openlibrary.org/isbn/9780470098189).
-- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración. Lectura selectiva sobre **balance y posición financiera**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
-- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** estrategia, análisis contable, análisis financiero y proyección integrados. Lectura selectiva sobre **balance y posición financiera**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
-- Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* (McGraw-Hill Education on Brilliance Audio, 2018). **Uso en esta clase:** señales de calidad de resultados, partidas no recurrentes y posibles distorsiones contables. Lectura selectiva sobre **balance y posición financiera**. **Localizador:** [ISBN-13 9781978605459](https://openlibrary.org/isbn/9781978605459).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **balance y posición financiera**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Aswath Damodaran — *Investment Valuation* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** valoración, riesgo, narrativas, costo de capital y supuestos explícitos. Lectura selectiva sobre **balance y posición financiera**. **Localizador:** [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546).
-- IFRS Foundation — *IFRS Accounting Standards*. **Uso en esta clase:** normas IFRS/IAS aplicables a la presentación y lectura de estados financieros. **Fuente primaria:** <https://www.ifrs.org/>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **balance y posición financiera** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **balance y posición financiera**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **balance y posición financiera** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **balance y posición financiera** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **balance y posición financiera** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** análisis integrado de liquidez, solvencia y estrategia. Lectura selectiva sobre **balance y posición financiera**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
+- Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** reglas de medición de activos y pasivos. Lectura selectiva sobre **balance y posición financiera**. **Localizador:** [ISBN-13 9780470098189](https://openlibrary.org/isbn/9780470098189).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** estructura de capital y riesgo. Lectura selectiva sobre **balance y posición financiera**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** razones financieras y apalancamiento. Lectura selectiva sobre **balance y posición financiera**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
+- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** separar activos operativos y financieros. Lectura selectiva sobre **balance y posición financiera**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
 
-> **Regla de fuentes para Balance y posición financiera:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **balance y posición financiera** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Balance y posición financiera:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los contratos de deuda y la normativa concursal aplicable. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

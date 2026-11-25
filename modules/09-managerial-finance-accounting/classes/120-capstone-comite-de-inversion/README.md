@@ -10,225 +10,191 @@
 
 ## 🎯 Propósito
 
-El comité de inversión integra estrategia, cash flows, riesgo, opciones y governance. Debe decidir no solo si un proyecto tiene NPV positivo, sino si es la mejor asignación de capital dada la cartera, la liquidez y la capacidad de ejecución.
+Un comité de inversión es el lugar donde las finanzas dejan de ser un reporte y se convierten en una decisión. Quien presenta una propuesta tiene incentivos para defenderla; quienes la evalúan suelen tener información incompleta y poco tiempo. Lo que distingue a los comités que deciden bien es la calidad del **proceso**: una tesis clara, números coherentes con los estados financieros, supuestos explícitos, escenarios, alternativas comparadas, riesgos con dueños y una decisión con condiciones y criterios de revisión.
 
-La salida de esta parte es **leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: comité de inversión** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Este capstone integra la parte 09 y se apoya en Brealey, Myers y Allen, Koller y colegas, Damodaran, Palepu, Healy y Peek, Graham y Harvey y Jensen. Al terminar sabrás preparar un memo de inversión, someterlo a un comité simulado que lo cuestiona, defender y ajustar los supuestos y registrar una decisión con condiciones, hitos y criterios para detener o ampliar.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `investment memo`, `NPV`, `hurdle rate`, `real option`, `post-audit` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir decisión y alternativa base → 2. modelar cash flows incrementales → 3. calcular NPV y sensibilidad → 4. comparar opciones y portfolio → 5. aprobar con milestones y post-audit** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** NPV, cash at risk, downside sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Estructurar** un memo de inversión con tesis, números, riesgos y decisión solicitada.
+2. **Construir** el modelo financiero a partir de supuestos explícitos con escenarios.
+3. **Someter** una propuesta a preguntas críticas y ajustar el análisis.
+4. **Comparar** alternativas, incluida la de no hacer nada.
+5. **Registrar** una decisión con condiciones, hitos y revisión posterior.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define investment memo y NPV sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con NPV y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué tres preguntas harías a una propuesta de inversión antes de ver el retorno? |
+| 20–60 min | Estructura del memo, modelo, escenarios y proceso del comité. |
+| 60–105 min | Ejemplo trabajado: comité sobre un nuevo centro de distribución. |
+| 105–150 min | Caso ejecutivo integrado. |
+| 150–175 min | Rúbrica, límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **investment memo** | documento que sintetiza tesis, cash flows, riesgos y decisión | Distingue un hecho compatible y otro que lo refute. |
-| **NPV** | valor presente de flujos incrementales descontados menos inversión | Distingue un hecho compatible y otro que lo refute. |
-| **hurdle rate** | retorno mínimo requerido según riesgo | Distingue un hecho compatible y otro que lo refute. |
-| **real option** | valor de poder expandir, esperar o abandonar | Distingue un hecho compatible y otro que lo refute. |
-| **post-audit** | revisión posterior de supuestos versus resultados | Distingue un hecho compatible y otro que lo refute. |
+| **Memo de inversión** | Documento que presenta la tesis, el análisis y la decisión solicitada. | Se puede evaluar sin la presencia de su autor. |
+| **Tesis** | Razón por la cual la inversión crea valor. | Responde por qué ganaremos y qué pasa si no actuamos. |
+| **Caso base y escenarios** | Proyección central y alternativas adversa y favorable. | Muestran el rango de resultados. |
+| **Alternativa cero** | No invertir o mantener la situación actual. | Es el punto de comparación. |
+| **Premortem** | Ejercicio de imaginar el fracaso y sus causas antes de decidir. | Revela riesgos que el entusiasmo oculta. |
+| **Revisión posterior** | Comparación de lo real con lo proyectado tras la inversión. | Alimenta aprendizaje del comité. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 120: 1. definir decisión y alternativa base → 2. modelar cash flows incrementales → 3. calcular NPV y sensibilidad → 4. comparar opciones y portfolio → 5. aprobar con milestones y post-audit](modelo-mental.svg)
+![Tres bloques de un memo de inversión: tesis, números y riesgos con decisión.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir decisión y alternativa base → 2. modelar cash flows incrementales → 3. calcular NPV y sensibilidad → 4. comparar opciones y portfolio → 5. aprobar con milestones y post-audit
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El comité de inversión integra estrategia, cash flows, riesgo, opciones y governance. Debe decidir no solo si un proyecto tiene NPV positivo, sino si es la mejor asignación de capital dada la cartera, la liquidez y la capacidad de ejecución.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La matemática no decide sola prioridades estratégicas ni restricciones de riesgo. El comité debe hacer explícito juicio, conflictos y capacidad de ejecución.**
+**Cómo leer el diagrama.** Tres columnas que forman el memo. La **tesis** dice qué problema u oportunidad se aborda, por qué ganaremos y qué alternativas se consideraron. Los **números** reúnen los flujos y supuestos (estados, capital de trabajo, presupuesto y escenarios, economía unitaria y retorno frente al costo de capital). **Riesgos y decisión** incluyen qué puede salir mal, qué se pide al comité y con qué condiciones y criterios de detención. Las cifras entre paréntesis remiten a las clases donde se desarrolla cada herramienta.
 
 ## 📖 Desarrollo
 
-### 1. investment memo: mecanismo central
+### 1. La tesis antes del modelo
 
-**investment memo** se entiende aquí como **documento que sintetiza tesis, cash flows, riesgos y decisión**. Esta es la pieza causal o estructural desde la que se inicia **capstone: comité de inversión**: antes de definir decisión y alternativa base, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un memo comienza con una **tesis** de una página: qué problema u oportunidad aborda, por qué la empresa tiene una ventaja para capturarlo, qué ocurre si no se hace nada y cuáles son las alternativas. Si la tesis no se sostiene sin números, no hay modelo que la rescate; si el modelo se construye antes de entender el negocio, tiende a ser un ejercicio de ajustar supuestos al resultado deseado. Damodaran insiste en que cada valoración es una historia respaldada por números: el comité evalúa primero la historia.
 
-La lectura rectora de este bloque es Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*. Su aporte se usa para examinar **reconocimiento, medición y presentación de estados financieros y sus partidas**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **NPV**; regístrala con periodo, unidad, población y baseline.
+### 2. Números coherentes con los estados
 
-Relaciona el mecanismo con **NPV**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El modelo conecta **estado de resultados, balance y flujo de caja** (clases 109 a 112): ingresos y márgenes (110, 113), capital de trabajo (114), inversión en activos, financiamiento y caja. Se verifica que el balance cuadre y que el flujo explique el cambio de caja. Las proyecciones se anclan en datos históricos y en el presupuesto vigente (115), y el crecimiento se conecta con la reinversión (118). Una revisión de **consistencia** detecta errores frecuentes: crecimiento sin capital de trabajo, márgenes que mejoran sin razón, impuestos olvidados o inversiones de mantenimiento ausentes.
 
-### 2. NPV: frontera conceptual y error de clasificación
+### 3. Supuestos, escenarios y sensibilidad
 
-**Definición operacional:** valor presente de flujos incrementales descontados menos inversión. Su valor está en distinguirlo de **investment memo** y **hurdle rate**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Los supuestos se presentan en **una sola hoja**, separados del cálculo, con su fuente y su rango plausible, y marcando cuáles mueven el resultado. Se construyen **tres escenarios** con supuestos diferenciados, y una **tabla de sensibilidad** para los dos o tres más influyentes. Se calcula el **punto de equilibrio** de la inversión (116): cuánto debe venderse para recuperar el capital. Siguiendo la advertencia de los sesgos de planificación (clase 076), se agrega la **visión desde afuera**: cómo les fue a inversiones similares de la empresa o del sector.
 
-Contrasta el problema con Stephen H. Penman — *Financial Statement Analysis and Security Valuation*, que aporta una mirada sobre **reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración**. Formula dos mini-casos: uno que sí satisface la definición de **NPV** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **cash at risk** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Retorno, valor y riesgo
 
-Antes de modelar cash flows incrementales, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Se calculan **VPN, TIR y período de recuperación** (118) a un costo de capital ajustado por riesgo, y su efecto en el **ROIC** de la empresa. Si la inversión es un negocio con clientes, se examina su **economía unitaria** (117). Si se trata de una adquisición, se hace una **valoración** (119) con rangos y se contrasta el precio con el valor. Se explicitan los **riesgos**: de ejecución, de mercado, de financiamiento, regulatorios, de dependencia de personas o clientes; cada uno con **probabilidad**, **impacto**, **señal de alerta** y **dueño**, siguiendo la lógica de las clases de gestión de riesgos.
 
-### 3. hurdle rate: operacionalización y medición
+### 5. El comité como proceso de decisión
 
-**hurdle rate** significa **retorno mínimo requerido según riesgo**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El comité cumple su función cuando **cuestiona con método**. Prácticas útiles, apoyadas en la evidencia sobre sesgos de grupo (clase 104): enviar el memo con anticipación; pedir **juicios individuales por escrito** antes de la discusión; asignar un **abogado del diablo** o un equipo rojo; realizar un **premortem** («imaginemos que fracasó en tres años: ¿por qué?»); separar la discusión de la tesis, de los números y de los riesgos; y registrar los **desacuerdos** y las condiciones. Eisenhardt mostró que los equipos que deciden bien consideran varias alternativas a la vez; el comité debe preguntar siempre por la alternativa cero y por una distinta.
 
-Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* orienta este bloque mediante **valor del dinero, riesgo, costo de capital, inversión y financiación**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **downside**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Decidir con condiciones
 
-Al llegar a calcular npv y sensibilidad, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Las decisiones no son solo «sí» o «no». Se puede **aprobar por etapas** (liberando fondos al cumplir hitos), **aprobar con condiciones** (contratos firmados, aprobación regulatoria, financiamiento asegurado), **pedir más información** con plazo definido, **aprobar una versión menor** o **rechazar** con razones. Se definen **criterios de detención** antes de comenzar: qué resultado, en qué fecha, hará que se pause o se cierre (clase 083). Y se asigna un **dueño** con autoridad y responsabilidad por resultados, y un calendario de **informes de avance**.
 
-### 4. real option: trade-offs y efectos de segundo orden
+### 7. Revisión posterior y aprendizaje
 
-**Definición:** valor de poder expandir, esperar o abandonar. Este concepto obliga a abandonar la idea de que **capstone: comité de inversión** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de comparar opciones y portfolio, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* aporta una lente sobre **drivers de valor, ROIC, crecimiento y valoración por flujo descontado**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **milestones** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capstone: comité de inversión**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **real option** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. post-audit: gobernanza, límites e integración
-
-**post-audit** se define como **revisión posterior de supuestos versus resultados** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* se utiliza para estudiar **señales de calidad de resultados, partidas no recurrentes y posibles distorsiones contables** y contrastar la recomendación final. Al ejecutar aprobar con milestones y post-audit, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **La matemática no decide sola prioridades estratégicas ni restricciones de riesgo. El comité debe hacer explícito juicio, conflictos y capacidad de ejecución.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **investment memo**, **NPV**, **hurdle rate**, **real option** y **post-audit** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: comité de inversión** no consiste en sumar cinco definiciones. Empieza por **investment memo**, contrasta **NPV** con **hurdle rate**, incorpora **real option** como restricción o mecanismo y usa **post-audit** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir decisión y alternativa base → 2. modelar cash flows incrementales → 3. calcular NPV y sensibilidad → 4. comparar opciones y portfolio → 5. aprobar con milestones y post-audit**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Contrato de un comité de inversión
-
-Una propuesta debe mostrar: problema/oportunidad, alternativa base (“no hacer”), desembolsos, flujos incrementales, supuestos, escenarios, NPV/IRR cuando correspondan, riesgos, reversibilidad, owner y post-audit. Nunca atribuyas beneficios hundidos o corporativos sin causalidad al proyecto.
-
-La pregunta de comité no es “¿el NPV es positivo?” sino “¿qué supuesto explica mayor parte del valor, qué evidencia lo respalda y qué haremos si falla?”. Incluye sensibilidad y *pre-mortem* antes de aprobar capital.
+Pocas empresas comparan sistemáticamente lo proyectado con lo ocurrido. Una **revisión posterior** al primer año y al tercero responde: ¿se cumplieron los supuestos?, ¿qué sorprendió?, ¿qué sesgos aparecieron (optimismo, subestimación de plazos)?, ¿qué haríamos distinto? Graham y Harvey muestran que las empresas usan diversos criterios, y los comités mejoran cuando registran qué criterio usaron y qué resultado produjo. También se revisa **cómo se incentiva** a quien propone (Jensen): si los proponentes son evaluados por la aprobación de sus proyectos y no por sus resultados, el comité recibirá propuestas infladas.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* | reconocimiento, medición y presentación de estados financieros y sus partidas | ¿Qué supuesto de **capstone: comité de inversión** ayuda a desafiar? |
-| Stephen H. Penman — *Financial Statement Analysis and Security Valuation* | reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración | ¿Qué supuesto de **capstone: comité de inversión** ayuda a desafiar? |
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **capstone: comité de inversión** ayuda a desafiar? |
-| Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* | drivers de valor, ROIC, crecimiento y valoración por flujo descontado | ¿Qué supuesto de **capstone: comité de inversión** ayuda a desafiar? |
-| Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* | señales de calidad de resultados, partidas no recurrentes y posibles distorsiones contables | ¿Qué supuesto de **capstone: comité de inversión** ayuda a desafiar? |
-
-En **capstone: comité de inversión**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **investment memo**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Brealey, Myers y Allen | Criterios de inversión y riesgo. | Supuestos de mercado. | ¿Qué tasa refleja el riesgo? |
+| Koller et al. | ROIC y creación de valor. | Visión de valoración de empresas. | ¿El proyecto rinde más que su costo de capital? |
+| Damodaran | Narrativa y números en una valoración. | Exige juicio. | ¿Qué historia sostiene la propuesta? |
+| Graham y Harvey | Práctica real de decisiones de inversión. | Encuesta de un período. | ¿Qué criterio usa realmente tu comité? |
+| Jensen | Incentivos que distorsionan propuestas y presupuestos. | Ensayo teórico. | ¿Qué gana quien propone? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Tienes 10 millones disponibles y tres proyectos con NPV positivo que juntos requieren 18. Uno fortalece core, otro abre mercado y otro reduce riesgo operativo.
+**Situación (hipotética).** El gerente de operaciones de una distribuidora de productos de consumo propone construir un centro de distribución propio por USD 14 millones para reemplazar bodegas arrendadas y atender 30 % más pedidos. Presenta un VPN de USD 5,2 millones, TIR de 17 % y payback de 6 años. El costo de capital de la empresa es 10 %. Le exigen un memo para el comité.
 
-**Paso 1 — definir decisión y alternativa base.** La gerencia escribe primero el supuesto asociado a **investment memo** y evita convertirlo en hecho. Luego busca **NPV** para contrastarlo en el caso de **capstone: comité de inversión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Tesis.** Reducir el costo logístico por pedido en 18 % y soportar el crecimiento. Alternativas: seguir arrendando y ampliar bodegas (alternativa cero mejorada); contratar un operador logístico; construir en dos fases.
 
-**Paso 2 — modelar cash flows incrementales.** La gerencia escribe primero el supuesto asociado a **NPV** y evita convertirlo en hecho. Luego busca **cash at risk** para contrastarlo en el caso de **capstone: comité de inversión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Revisión del comité.**
 
-**Paso 3 — calcular NPV y sensibilidad.** La gerencia escribe primero el supuesto asociado a **hurdle rate** y evita convertirlo en hecho. Luego busca **downside** para contrastarlo en el caso de **capstone: comité de inversión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Pregunta | Hallazgo |
+|---|---|
+| ¿El crecimiento de pedidos del 30 % tiene respaldo? | Sólo 12 % se debe a contratos firmados; el resto es expectativa. |
+| ¿Se incluyó capital de trabajo y mantenimiento? | No se incluyó inventario adicional (USD 1,8 M) ni mantenimiento mayor al año 8. |
+| ¿Qué dice la visión desde afuera? | Los dos últimos proyectos de infraestructura costaron 24 % más y tardaron 9 meses más. |
+| ¿Cuál es la sensibilidad? | Con 15 % menos de ahorro, el VPN cae a USD 1,6 M; con sobrecosto de 24 % y 9 meses de retraso, a USD −0,4 M. |
+| ¿Qué pasa con el operador logístico? | Sin inversión inicial; ahorro de 9 % y mayor dependencia de un tercero. |
 
-**Paso 4 — comparar opciones y portfolio.** La gerencia escribe primero el supuesto asociado a **real option** y evita convertirlo en hecho. Luego busca **milestones** para contrastarlo en el caso de **capstone: comité de inversión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Premortem.** Escenarios de fracaso: el crecimiento esperado no llega; el sobrecosto de construcción; el cliente principal cambia de modelo de entrega; la mano de obra no se consigue.
 
-**Paso 5 — aprobar con milestones y post-audit.** La gerencia escribe primero el supuesto asociado a **post-audit** y evita convertirlo en hecho. Luego busca **post-audit variance** para contrastarlo en el caso de **capstone: comité de inversión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisión del comité.** Aprobar por etapas: (1) 3 millones para el diseño, permisos y una opción de terreno; (2) liberar el resto al lograr contratos que cubran al menos el 25 % del crecimiento proyectado y una cotización de construcción a precio cerrado con garantías; (3) en paralelo, pilotear un operador logístico en una región. Criterios de detención: si en 12 meses los contratos no alcanzan el umbral o el precio supera 10 % lo presupuestado, se pausa y se opta por ampliar bodegas. Dueño: el gerente de operaciones; informes trimestrales; revisión posterior al primer año de operación.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: comité de inversión**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El comité cuestionó supuestos antes del retorno. (2) La sensibilidad y la visión desde afuera cambiaron el VPN. (3) La decisión fue por etapas, con criterios de detención.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **investment memo** | documento que sintetiza tesis, cash flows, riesgos y decisión | Cuando NPV es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **NPV** | valor presente de flujos incrementales descontados menos inversión | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Comité de inversión frente a decisión individual.** El comité reduce errores individuales pero introduce sesgos de grupo y dilución de responsabilidad; se mitigan con juicios previos, roles definidos y un dueño claro.
 
-**Frontera de aplicación:** La matemática no decide sola prioridades estratégicas ni restricciones de riesgo. El comité debe hacer explícito juicio, conflictos y capacidad de ejecución.
+**Límites.** Los números del ejemplo son ilustrativos. Un buen proceso no garantiza buenos resultados, pero mejora la probabilidad. Muchas inversiones tienen componentes estratégicos o de oportunidad que no se capturan en los flujos. Las decisiones con implicancias legales, tributarias, regulatorias o de financiamiento deben validarse con asesoría especializada, y los contratos de construcción y de deuda con abogados.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: comité de inversión |
+| Nivel | Cómo participa en el comité de inversión |
 |---|---|
-| **Profesional** | usa **capstone: comité de inversión** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **investment memo** y **NPV** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta NPV con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: comité de inversión cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: comité de inversión reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: comité de inversión** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta datos precisos y señala los supuestos débiles. |
+| **Jefe / Team Lead** | Prepara el análisis de una propuesta con sensibilidad. |
+| **Gerente** | Presenta el memo, defiende con evidencia y acepta condiciones. |
+| **CEO / Director** | Preside con método, protege el diálogo franco y decide con condiciones. |
+| **Founder / Owner** | Decide con su propio capital y disciplina la intuición con números. |
 
 ## 🏢 Caso ejecutivo
 
-Tienes 10 millones disponibles y tres proyectos con NPV positivo que juntos requieren 18. Uno fortalece core, otro abre mercado y otro reduce riesgo operativo.
+Una cadena de clínicas veterinarias con 18 sucursales evalúa tres propuestas para el próximo año, con presupuesto de inversión de USD 8 millones: (A) abrir 6 nuevas clínicas en comunas de ingresos medios (USD 6 millones); (B) adquirir una cadena de 5 clínicas con un descuento aparente (USD 7 millones y deuda asumida de USD 2 millones); (C) un centro de diagnóstico por imágenes compartido (USD 3 millones). Cada gerente defiende la suya. La empresa tiene deuda neta de 2,1 veces su EBITDA y un covenant de 3,0; su costo de capital es 10 %. Las últimas cuatro clínicas alcanzaron su punto de equilibrio en 26 meses en vez de los 14 proyectados.
 
-Entrega un **decision brief de capstone: comité de inversión** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de inversión y acta del comité** que contenga: (a) la tesis de cada propuesta y la alternativa cero; (b) el modelo comparable con supuestos, escenarios y sensibilidad, vinculado a los tres estados y a la caja; (c) VPN, TIR, payback y ROIC frente al costo de capital, ajustados con la visión desde afuera; (d) los riesgos, incluidos el covenant y el capital de trabajo; (e) el desarrollo del comité simulado, con juicios previos, premortem y desacuerdos; (f) la decisión con etapas, condiciones, criterios de detención, dueño y revisión posterior, y las verificaciones legales y contractuales.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: comité de inversión** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir decisión y alternativa base → 2. modelar cash flows incrementales → 3. calcular NPV y sensibilidad → 4. comparar opciones y portfolio → 5. aprobar con milestones y post-audit** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta NPV, cash at risk; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Redacta la tesis de una inversión en una página, con la alternativa cero.
+2. Arma una hoja de supuestos con fuente, rango y sensibilidad.
+3. Realiza un premortem con tres colegas sobre una propuesta.
+4. Escribe una decisión por etapas con criterios de detención.
+5. Diseña la revisión posterior a doce meses con tres preguntas.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar investment memo y NPV como sinónimos | Se pierde la distinción entre “documento que sintetiza tesis, cash flows, riesgos y decisión” y “valor presente de flujos incrementales descontados menos inversión” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “aprobar con milestones y post-audit” | Se saltó “definir decisión y alternativa base” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir decisión y alternativa base → 2. modelar cash flows incrementales → 3. calcular NPV y sensibilidad → 4. comparar opciones y portfolio → 5. aprobar con milestones y post-audit y marca el primer supuesto no demostrado. |
-| Optimizar solo NPV | La métrica local sustituyó al resultado del sistema | Contrástala con cash at risk y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: comité de inversión | La matemática no decide sola prioridades estratégicas ni restricciones de riesgo. El comité debe hacer explícito juicio, conflictos y capacidad de ejecución. |
-| No fijar revisión | Una decisión sobre capstone: comité de inversión se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Modelo antes de la tesis | Se busca el número | Tesis de una página primero. |
+| Sin alternativa cero | Se compara entre inversiones | Incluir no hacer nada y una distinta. |
+| Un solo escenario | Se busca simplicidad | Base, adverso y favorable con sensibilidad. |
+| Olvidar capital de trabajo y covenants | Se mira el proyecto aislado | Conectar con los tres estados y la deuda. |
+| Decisión binaria | Se evita la complejidad | Por etapas y con condiciones. |
+| No revisar | Se pasa a lo siguiente | Revisión posterior y aprendizaje. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **investment memo** y **NPV** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **hurdle rate** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir decisión y alternativa base → modelar cash flows incrementales** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **NPV** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: comité de inversión**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **La matemática no decide sola prioridades estratégicas ni restricciones de riesgo. El comité debe hacer explícito juicio, conflictos y capacidad de ejecución.**?
+1. ¿Qué contiene un memo de inversión?
+2. ¿Por qué se incluye la alternativa cero?
+3. ¿Qué verificaciones de consistencia debe hacer un modelo?
+4. ¿Para qué sirven la sensibilidad y la visión desde afuera?
+5. ¿Qué prácticas mejoran la calidad del debate de un comité?
+6. ¿Qué formas puede tener una decisión además de aprobar o rechazar?
+7. ¿Qué límite tiene un buen proceso de decisión?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Tesis, números con supuestos y escenarios, riesgos con dueños y la decisión solicitada con sus condiciones.
+2. Porque es el punto de comparación: toda inversión debe superar no hacer nada y una alternativa distinta.
+3. Que el balance cuadre, que el flujo explique la caja, que el crecimiento incluya capital de trabajo y reinversión y que los márgenes y los impuestos estén justificados.
+4. Para ver qué supuestos mueven más el resultado y corregir el optimismo con la experiencia de proyectos similares.
+5. Juicios individuales previos, abogado del diablo, premortem y registro de desacuerdos y condiciones.
+6. Aprobar por etapas, con condiciones, pedir más información con plazo, aprobar una versión menor o rechazar con razones.
+7. No garantiza buenos resultados; solo mejora su probabilidad, y muchas inversiones tienen componentes estratégicos difíciles de medir.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/120-capstone-comite-de-inversion/`:
 
-- `leadership-decision-brief.md` con el problema específico de **capstone: comité de inversión**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: comité de inversión** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **investment memo**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Tienes 10 millones disponibles y tres proyectos con NPV positivo que juntos requieren 18. Uno fortalece core, otro abre mercado y otro reduce riesgo operativo.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el memo y el acta del caso ejecutivo;
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el modelo, los escenarios y la sensibilidad;
+- `capital-allocation.md` (plantilla [Capital allocation](../../../../templates/capital-allocation.md)) con la comparación de alternativas y las etapas;
+- `decision-journal.md` con los juicios previos, los desacuerdos y la revisión posterior.
 
 ## 📗 Fuentes y verificación
 
-- Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** reconocimiento, medición y presentación de estados financieros y sus partidas. Lectura selectiva sobre **capstone: comité de inversión**. **Localizador:** [ISBN-13 9780470098189](https://openlibrary.org/isbn/9780470098189).
-- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración. Lectura selectiva sobre **capstone: comité de inversión**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **capstone: comité de inversión**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **capstone: comité de inversión**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* (McGraw-Hill Education on Brilliance Audio, 2018). **Uso en esta clase:** señales de calidad de resultados, partidas no recurrentes y posibles distorsiones contables. Lectura selectiva sobre **capstone: comité de inversión**. **Localizador:** [ISBN-13 9781978605459](https://openlibrary.org/isbn/9781978605459).
-- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** estrategia, análisis contable, análisis financiero y proyección integrados. Lectura selectiva sobre **capstone: comité de inversión**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: comité de inversión** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: comité de inversión**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: comité de inversión** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: comité de inversión** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: comité de inversión** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** criterios de inversión y riesgo. Lectura selectiva sobre **capstone: comité de inversión**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** ROIC y creación de valor. Lectura selectiva sobre **capstone: comité de inversión**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
+- Aswath Damodaran — *Investment Valuation* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** narrativa y números en una valoración. Lectura selectiva sobre **capstone: comité de inversión**. **Localizador:** [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546).
+- John R. Graham & Campbell R. Harvey — *The theory and practice of corporate finance: evidence from the field* (Journal of Financial Economics, 2001). **Uso en esta clase:** práctica real de decisiones de inversión. Lectura selectiva sobre **capstone: comité de inversión**. **Localizador:** [DOI 10.1016/s0304-405x(01)00044-7](https://doi.org/10.1016/s0304-405x(01)00044-7).
+- Michael C. Jensen — *Paying People to Lie: the Truth about the Budgeting Process* (European Financial Management, 2003). **Uso en esta clase:** incentivos que distorsionan propuestas y presupuestos. Lectura selectiva sobre **capstone: comité de inversión**. **Localizador:** [DOI 10.1111/1468-036x.00226](https://doi.org/10.1111/1468-036x.00226).
 
-> **Regla de fuentes para Capstone: comité de inversión:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: comité de inversión** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capstone: comité de inversión:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los contratos de deuda y de construcción y la normativa tributaria y regulatoria aplicable. Los ejemplos y casos son hipotéticos y no describen a ninguna empresa real. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

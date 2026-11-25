@@ -5,30 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir budget de forecast mediante evidencia observable."
-  - "Aplicar la secuencia: definir drivers y baseline → construir budget con recursos → actualizar actuals → reforecast sin manipular para alcanzar plan → usar escenarios para decisiones de capacidad y caja."
-  - "Interpretar forecast error, budget variance, driver accuracy sin atribuir causalidad automática."
-  - "Resolver el caso de presupuesto y forecast con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-  - "Presentar una proyección como rango de escenarios con drivers, sensibilidad, riesgos y trigger de revisión."
+  - "Distinguir presupuesto, forecast y meta, y la función de cada uno."
+  - "Construir un presupuesto a partir de supuestos explícitos."
+  - "Diseñar un forecast móvil con escenarios y disparadores."
+  - "Anticipar los incentivos que distorsionan el proceso."
+  - "Analizar desvíos por causas y decidir acciones."
 deliverable: "modelo-financiero-y-memo-de-decision.md"
 references:
-  - "Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis*"
+  - "Michael C. Jensen — *Paying People to Lie: the Truth about the Budgeting Process*"
   - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
-  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
-  - "Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*"
-  - "Stephen H. Penman — *Financial Statement Analysis and Security Valuation*"
-  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation*"
+  - "Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis*"
+  - "Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise*"
 limits:
-  - "Forecast no debe convertirse en target que la gente tema cambiar. Si se usa para evaluar a quien lo produce, se incentiva precisión política en vez de económica."
+  - "Ningún proceso elimina la incertidumbre."
 evidence_signals:
-  - "forecast error"
-  - "budget variance"
-  - "driver accuracy"
-  - "cash runway"
-  - "reforecast frequency"
-  - "scenario range"
-  - "sensitivity driver"
+  - "meta, pronóstico y presupuesto separados"
+  - "supuestos explícitos"
+  - "forecast con escenarios y disparadores"
+  - "desvíos analizados sin culpas"

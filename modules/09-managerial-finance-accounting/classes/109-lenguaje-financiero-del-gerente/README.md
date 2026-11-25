@@ -10,225 +10,187 @@
 
 ## 🎯 Propósito
 
-El lenguaje financiero permite traducir decisiones operativas a ingresos, costos, activos, pasivos, caja y retorno. Un gerente no necesita ser contador para reconocer la diferencia entre devengo y caja, gasto y activo, margen y utilidad, o beneficio contable y valor económico.
+Un gerente que no lee estados financieros delega en otros la comprensión de su propio negocio. No se trata de convertirse en contador, sino de hablar el idioma en que la empresa registra su desempeño: qué es ingreso y qué es caja, qué es costo y qué es gasto, qué es activo y qué es deuda, qué es utilidad y qué es valor. Las discusiones entre áreas suelen ser, en el fondo, confusiones de vocabulario: ventas dice que fue un gran mes; finanzas dice que no hay caja; operaciones dice que el margen es estrecho; todos pueden tener razón porque miran distintos estados con distintas definiciones.
 
-La salida de esta parte es **leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **lenguaje financiero del gerente** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en los textos de análisis de estados financieros de Palepu, Healy y Peek y de Penman, en el texto de contabilidad intermedia de Kieso, Weygandt y Warfield y en la advertencia de Schilit, Perler y Engelhart sobre los trucos contables. Al terminar sabrás ubicar los tres estados básicos y su relación, distinguir devengado de caja, leer una cifra con su definición y formular las preguntas que un gerente debe hacer antes de decidir.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `devengo`, `ingreso`, `gasto`, `activo`, `cash flow` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. traducir decisión a estado de resultados → 2. identificar impacto en balance → 3. modelar momento de caja → 4. separar contable de económico → 5. comprobar efecto en retorno y riesgo** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** revenue, margen, EBIT sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Explicar** qué responde cada estado financiero y qué no muestra.
+2. **Distinguir** devengado de caja, costo de gasto y utilidad de efectivo.
+3. **Relacionar** los tres estados entre sí con un ejemplo numérico.
+4. **Formular** preguntas gerenciales a partir de las cifras.
+5. **Reconocer** señales de que una cifra requiere una explicación más cuidadosa.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define devengo y ingreso sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con revenue y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: anota tres cifras financieras que usas en tu trabajo y cómo se definen. |
+| 20–60 min | Tres estados, devengado y caja, vocabulario esencial. |
+| 60–105 min | Ejemplo trabajado: tres estados de una pequeña empresa de servicios. |
+| 105–150 min | Caso ejecutivo y práctica de lectura. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **devengo** | reconocimiento económico cuando se genera el derecho u obligación, no cuando entra o sale efectivo | Distingue un hecho compatible y otro que lo refute. |
-| **ingreso** | valor reconocido por bienes o servicios según reglas contables aplicables | Distingue un hecho compatible y otro que lo refute. |
-| **gasto** | consumo de recursos reconocido en el periodo | Distingue un hecho compatible y otro que lo refute. |
-| **activo** | recurso controlado del que se esperan beneficios futuros | Distingue un hecho compatible y otro que lo refute. |
-| **cash flow** | movimiento real de efectivo en un periodo | Distingue un hecho compatible y otro que lo refute. |
+| **Estado de resultados** | Informe de ingresos, costos y gastos de un período. | Termina en la utilidad (o pérdida) del período. |
+| **Balance (estado de situación)** | Informe de activos, pasivos y patrimonio a una fecha. | Cumple activos = pasivos + patrimonio. |
+| **Estado de flujo de efectivo** | Informe del efectivo que entra y sale, clasificado por actividad. | Explica el cambio de caja entre dos fechas. |
+| **Base devengada** | Se reconoce el ingreso o el gasto cuando ocurre el hecho, no cuando se cobra o paga. | Hay cuentas por cobrar y por pagar. |
+| **Base de caja** | Se registra cuando se recibe o se paga el efectivo. | Coincide con el movimiento bancario. |
+| **Norma contable** | Conjunto de reglas para preparar los estados (por ejemplo, IFRS). | Las notas lo indican. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 109: 1. traducir decisión a estado de resultados → 2. identificar impacto en balance → 3. modelar momento de caja → 4. separar contable de económico → 5. comprobar efecto en retorno y riesgo](modelo-mental.svg)
+![Los tres estados financieros con la pregunta que responde cada uno y lo que no muestra.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. traducir decisión a estado de resultados → 2. identificar impacto en balance → 3. modelar momento de caja → 4. separar contable de económico → 5. comprobar efecto en retorno y riesgo
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El lenguaje financiero permite traducir decisiones operativas a ingresos, costos, activos, pasivos, caja y retorno. Un gerente no necesita ser contador para reconocer la diferencia entre devengo y caja, gasto y activo, margen y utilidad, o beneficio contable y valor económico.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Las definiciones contables dependen de normas y contratos. El gerente usa el lenguaje para preguntar mejor; reconocimiento formal debe validarse con contabilidad y normas vigentes.**
+**Cómo leer el diagrama.** Tres columnas: el **estado de resultados** responde si la actividad generó ganancia; el **balance** muestra qué tiene y qué debe la empresa en un momento; el **flujo de caja** explica cuánto efectivo entró y salió. Cada columna termina con lo que ese estado no muestra, que es exactamente lo que muestran los otros dos. Por eso la nota insiste: se leen juntos. Quien mira solo uno se engaña con facilidad.
 
 ## 📖 Desarrollo
 
-### 1. devengo: mecanismo central
+### 1. Por qué un gerente necesita este lenguaje
 
-**devengo** se entiende aquí como **reconocimiento económico cuando se genera el derecho u obligación, no cuando entra o sale efectivo**. Esta es la pieza causal o estructural desde la que se inicia **lenguaje financiero del gerente**: antes de traducir decisión a estado de resultados, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Las cifras financieras son el resumen de todas las decisiones de la empresa: precios, costos, inversiones, plazos de cobro, financiamiento. Un gerente de operaciones que no entiende cómo su política de inventario afecta la caja, o un gerente comercial que no ve cómo un descuento afecta el margen, decide con información parcial. Palepu, Healy y Peek presentan el análisis de estados financieros como una herramienta para entender el negocio, no solo para auditarlo: de las cifras se deducen la estrategia, la eficiencia operativa y los riesgos.
 
-La lectura rectora de este bloque es Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*. Su aporte se usa para examinar **reconocimiento, medición y presentación de estados financieros y sus partidas**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **revenue**; regístrala con periodo, unidad, población y baseline.
+### 2. El estado de resultados
 
-Relaciona el mecanismo con **ingreso**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Muestra, para un período (un mes, un trimestre, un año), cuánto se **vendió**, qué **costó** producirlo, qué **gastos** requirió la operación y qué **utilidad** quedó. Su fortaleza es que mide la rentabilidad de la actividad; su limitación, que se elabora con base devengada y con criterios contables que pueden variar. Una venta registrada en diciembre pero cobrada en marzo es ingreso de diciembre. La utilidad no es efectivo disponible: es una medida de resultado, sujeta a reglas de reconocimiento (clase 110).
 
-### 2. ingreso: frontera conceptual y error de clasificación
+### 3. El balance
 
-**Definición operacional:** valor reconocido por bienes o servicios según reglas contables aplicables. Su valor está en distinguirlo de **devengo** y **gasto**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Es una foto en una fecha. A la izquierda (o arriba), los **activos**: lo que la empresa controla y espera que le genere beneficios (efectivo, cuentas por cobrar, inventario, equipos). A la derecha (o abajo), cómo se **financió**: con **pasivos** (deuda, proveedores, obligaciones) y con **patrimonio** (capital aportado más utilidades retenidas). Siempre se cumple activos = pasivos + patrimonio. Del balance se lee la **liquidez** (si puede pagar lo que vence pronto) y la **solvencia** (si su estructura de deuda es sostenible), conceptos distintos (clase 111).
 
-Contrasta el problema con Stephen H. Penman — *Financial Statement Analysis and Security Valuation*, que aporta una mirada sobre **reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración**. Formula dos mini-casos: uno que sí satisface la definición de **ingreso** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **margen** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. El flujo de efectivo
 
-Antes de identificar impacto en balance, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Explica **por qué cambió la caja**. Se clasifica en tres actividades: **operación** (la caja que genera el negocio), **inversión** (compra o venta de equipos, inversiones) y **financiamiento** (préstamos, aportes de capital, pagos de deuda, dividendos). Es el estado que revela si una empresa con utilidades está consumiendo efectivo porque su capital de trabajo crece o porque paga inversiones. Para un gerente, es el más cercano a la pregunta «¿tendremos con qué pagar?» (clase 112).
 
-### 3. gasto: operacionalización y medición
+### 5. Devengado frente a caja
 
-**gasto** significa **consumo de recursos reconocido en el periodo**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La contabilidad devengada pretende reflejar mejor el desempeño económico, relacionando ingresos y costos del mismo período, aunque el efectivo se mueva antes o después. La contabilidad de caja es más simple y evidente, pero puede ocultar compromisos. Ejemplo: una consultora entrega un proyecto en diciembre y factura en enero; con base devengada, el ingreso es de diciembre; con base de caja, de enero o febrero. El gerente debe saber qué base se usa en cada reporte y qué efectos tiene sobre su lectura.
 
-Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* orienta este bloque mediante **costos relevantes, presupuestos, variaciones y decisiones gerenciales**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **EBIT**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Costo, gasto, inversión
 
-Al llegar a modelar momento de caja, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Son términos que se confunden. Un **costo** es un sacrificio de recursos para obtener un bien o servicio; cuando se consume para producir y vender, se registra como **costo de ventas**. Un **gasto** es un consumo de recursos de un período que no se asigna a un producto (administración, ventas, arriendos de oficina). Una **inversión** es un desembolso del cual se espera un beneficio durante varios períodos y se registra como activo (y luego se deprecia). Clasificar un desembolso como gasto o como activo cambia la utilidad del período sin cambiar la caja, lo que abre un espacio para manipulación (Schilit y otros).
 
-### 4. activo: trade-offs y efectos de segundo orden
+### 7. Preguntas que debe hacer un gerente
 
-**Definición:** recurso controlado del que se esperan beneficios futuros. Este concepto obliga a abandonar la idea de que **lenguaje financiero del gerente** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de separar contable de económico, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* aporta una lente sobre **decisiones de inversión, financiación, capital de trabajo y valoración**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **cash flow** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **lenguaje financiero del gerente**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **activo** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. cash flow: gobernanza, límites e integración
-
-**cash flow** se define como **movimiento real de efectivo en un periodo** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Aswath Damodaran — *Investment Valuation* se utiliza para estudiar **valoración, riesgo, narrativas, costo de capital y supuestos explícitos** y contrastar la recomendación final. Al ejecutar comprobar efecto en retorno y riesgo, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Las definiciones contables dependen de normas y contratos. El gerente usa el lenguaje para preguntar mejor; reconocimiento formal debe validarse con contabilidad y normas vigentes.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **devengo**, **ingreso**, **gasto**, **activo** y **cash flow** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **lenguaje financiero del gerente** no consiste en sumar cinco definiciones. Empieza por **devengo**, contrasta **ingreso** con **gasto**, incorpora **activo** como restricción o mecanismo y usa **cash flow** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. traducir decisión a estado de resultados → 2. identificar impacto en balance → 3. modelar momento de caja → 4. separar contable de económico → 5. comprobar efecto en retorno y riesgo**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Ecuación contable y tres preguntas del gerente
-
-La contabilidad conecta decisiones con tres estados. La identidad base es `Activos = Pasivos + Patrimonio`. El estado de resultados explica desempeño durante un periodo; el balance muestra recursos y obligaciones a una fecha; el flujo de efectivo explica movimientos de caja. Un gerente debe poder reconciliar las tres vistas: utilidad no equivale a caja, crecimiento de ventas puede consumir capital de trabajo y una compra de activo puede deteriorar caja sin ser gasto inmediato.
-
-Usa una transacción simple para comprobarlo: comprar una máquina por 100 con 40 de caja y 60 de deuda reduce caja 40, aumenta PPE 100 y pasivos 60; no crea de inmediato un gasto de 100. La depreciación aparecerá después en resultados. Esta separación entre **reconocimiento económico, posición financiera y caja** es la base de las clases 110–119.
+Ante cualquier cifra: ¿cómo se define?, ¿con qué base y qué norma?, ¿cómo se compara con el período anterior y con el plan?, ¿qué cambió en las políticas contables?, ¿qué la sostiene en caja? ¿qué parte es recurrente y cuál puntual? Y ante el conjunto: ¿concuerdan los tres estados? Schilit, Perler y Engelhart catalogan señales de alerta: ingresos reconocidos de forma anticipada, gastos capitalizados sin justificación, crecimiento de cuentas por cobrar mayor que el de ventas, utilidades que no se convierten en caja. Ninguna prueba un fraude, pero cada una merece una pregunta.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* | reconocimiento, medición y presentación de estados financieros y sus partidas | ¿Qué supuesto de **lenguaje financiero del gerente** ayuda a desafiar? |
-| Stephen H. Penman — *Financial Statement Analysis and Security Valuation* | reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración | ¿Qué supuesto de **lenguaje financiero del gerente** ayuda a desafiar? |
-| Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* | costos relevantes, presupuestos, variaciones y decisiones gerenciales | ¿Qué supuesto de **lenguaje financiero del gerente** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **lenguaje financiero del gerente** ayuda a desafiar? |
-| Aswath Damodaran — *Investment Valuation* | valoración, riesgo, narrativas, costo de capital y supuestos explícitos | ¿Qué supuesto de **lenguaje financiero del gerente** ayuda a desafiar? |
-
-En **lenguaje financiero del gerente**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **devengo**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Palepu, Healy y Peek | Análisis de estados para entender el negocio. | Es un texto de nivel alto. | ¿Qué estrategia revelan las cifras? |
+| Penman | Lectura de estados orientada a la valoración. | Más técnico. | ¿Qué parte del resultado es recurrente? |
+| Kieso, Weygandt y Warfield | Reglas contables y su lógica. | Es de preparación contable. | ¿Qué criterio contable se aplicó? |
+| Schilit, Perler y Engelhart | Señales de alerta de manipulación. | Un catálogo no prueba el fraude. | ¿Qué cifra no se convierte en caja? |
+| IFRS Foundation | Normas que definen cómo se reconocen y presentan las partidas. | Son normas, no manuales de gestión. | ¿Qué norma rige tus estados? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un gerente aprueba una venta grande con pago a 120 días y celebra revenue del trimestre. La empresa, sin embargo, necesita financiar inventario y nómina mucho antes de cobrar.
+**Situación (hipotética).** Una consultora comienza el año con USD 40.000 en caja, sin cuentas por cobrar y sin deudas. En el trimestre vende servicios por USD 300.000, de los cuales cobra USD 180.000. Paga sueldos y gastos por USD 210.000 y compra equipos por USD 30.000 al contado. Pide un préstamo de USD 50.000.
 
-**Paso 1 — traducir decisión a estado de resultados.** La gerencia escribe primero el supuesto asociado a **devengo** y evita convertirlo en hecho. Luego busca **revenue** para contrastarlo en el caso de **lenguaje financiero del gerente**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Estado de resultados del trimestre (simplificado, sin depreciación ni impuestos).** Ingresos 300.000; gastos 210.000; utilidad 90.000.
 
-**Paso 2 — identificar impacto en balance.** La gerencia escribe primero el supuesto asociado a **ingreso** y evita convertirlo en hecho. Luego busca **margen** para contrastarlo en el caso de **lenguaje financiero del gerente**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Flujo de caja.** Operación: cobros 180.000 − pagos 210.000 = −30.000. Inversión: −30.000. Financiamiento: +50.000. Cambio de caja: −10.000; caja final 30.000.
 
-**Paso 3 — modelar momento de caja.** La gerencia escribe primero el supuesto asociado a **gasto** y evita convertirlo en hecho. Luego busca **EBIT** para contrastarlo en el caso de **lenguaje financiero del gerente**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Balance al cierre.** Activos: caja 30.000; cuentas por cobrar 120.000 (300.000 − 180.000); equipos 30.000; total 180.000. Pasivos: préstamo 50.000. Patrimonio: 40.000 iniciales + 90.000 de utilidad = 130.000. Total pasivo + patrimonio = 180.000. Cuadra.
 
-**Paso 4 — separar contable de económico.** La gerencia escribe primero el supuesto asociado a **activo** y evita convertirlo en hecho. Luego busca **cash flow** para contrastarlo en el caso de **lenguaje financiero del gerente**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Lectura | Conclusión |
+|---|---|
+| Resultados | Una utilidad de USD 90.000: buen trimestre. |
+| Flujo | La caja bajó USD 10.000: el negocio operativo consumió efectivo. |
+| Balance | USD 120.000 en cuentas por cobrar: dos tercios de los activos son promesas de pago de clientes. |
 
-**Paso 5 — comprobar efecto en retorno y riesgo.** La gerencia escribe primero el supuesto asociado a **cash flow** y evita convertirlo en hecho. Luego busca **ROIC** para contrastarlo en el caso de **lenguaje financiero del gerente**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Preguntas gerenciales.** ¿Cuándo cobrará los USD 120.000? ¿Cuántos días tarda en cobrar (aquí, 120.000 / 300.000 × 90 ≈ 36 días)? ¿Podrá pagar sueldos del próximo mes con 30.000 en caja? ¿Es sostenible depender de un préstamo?
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **lenguaje financiero del gerente**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Utilidad y caja divergen. (2) Los tres estados se conectan: la utilidad aumenta el patrimonio, las ventas no cobradas aparecen como cuentas por cobrar. (3) Cada estado dio una pregunta distinta.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **devengo** | reconocimiento económico cuando se genera el derecho u obligación, no cuando entra o sale efectivo | Cuando revenue es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **ingreso** | valor reconocido por bienes o servicios según reglas contables aplicables | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Contabilidad financiera frente a contabilidad de gestión.** La financiera sigue normas para informar a terceros; la de gestión adapta los datos a las decisiones internas (costos por producto, cliente o canal). El gerente usa ambas y entiende que las cifras pueden diferir, con razón.
 
-**Frontera de aplicación:** Las definiciones contables dependen de normas y contratos. El gerente usa el lenguaje para preguntar mejor; reconocimiento formal debe validarse con contabilidad y normas vigentes.
+**Límites.** Los estados financieros siguen reglas que pueden no reflejar el valor económico: el costo histórico de un activo puede ser muy distinto de su valor actual, y los intangibles (marca, relaciones, conocimiento) suelen no aparecer. La contabilidad admite juicios y estimaciones. Esta clase no reemplaza al contador ni al auditor, y los criterios de reconocimiento y presentación deben verificarse en la norma contable aplicable vigente y con asesoría profesional.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre lenguaje financiero del gerente |
+| Nivel | Cómo usa el lenguaje financiero |
 |---|---|
-| **Profesional** | usa **lenguaje financiero del gerente** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **devengo** y **ingreso** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta revenue con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si lenguaje financiero del gerente cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de lenguaje financiero del gerente reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **lenguaje financiero del gerente** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende cómo su trabajo afecta ingresos, costos y caja. |
+| **Jefe / Team Lead** | Lee el estado de resultados de su área y explica desvíos. |
+| **Gerente** | Lee los tres estados, conecta decisiones con cifras y hace preguntas precisas. |
+| **CEO / Director** | Exige coherencia entre estrategia y estados, y vigila señales de alerta. |
+| **Founder / Owner** | Gobierna la caja y no confunde utilidad con efectivo. |
 
 ## 🏢 Caso ejecutivo
 
-Un gerente aprueba una venta grande con pago a 120 días y celebra revenue del trimestre. La empresa, sin embargo, necesita financiar inventario y nómina mucho antes de cobrar.
+Una empresa de software con 80 personas reporta al directorio una utilidad trimestral de USD 1,2 millones, el doble que el año anterior. El gerente comercial lo celebra; el director financiero advierte que la caja bajó USD 900.000 en el mismo trimestre y que las cuentas por cobrar subieron de 45 a 82 días de ventas. El gerente de producto explica que se capitalizaron USD 600.000 de desarrollo de un nuevo módulo como activo, en vez de llevarlos a gastos. Un director del directorio pregunta si «la empresa está ganando dinero o no».
 
-Entrega un **decision brief de lenguaje financiero del gerente** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **informe de lectura financiera** que contenga: (a) qué responde cada estado y qué ocultan por separado; (b) el análisis de la divergencia entre utilidad y caja con los tres factores mencionados; (c) las preguntas que harías sobre la capitalización del desarrollo y la política de cobro; (d) qué cifras necesitas ver y con qué definición; (e) la respuesta a «¿gana dinero?» con una posición matizada; (f) qué normas contables y asesoría profesional consultarías para validar el tratamiento.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **lenguaje financiero del gerente** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. traducir decisión a estado de resultados → 2. identificar impacto en balance → 3. modelar momento de caja → 4. separar contable de económico → 5. comprobar efecto en retorno y riesgo** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta revenue, margen; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Elige una cifra de tu área y escribe su definición, base y fuente.
+2. Construye los tres estados simplificados para un ejemplo de tres movimientos.
+3. Explica por qué una venta cobrada a 60 días aumenta la utilidad pero no la caja.
+4. Lista cinco preguntas que harías ante un aumento de utilidad con caída de caja.
+5. Distingue tres desembolsos de tu área como costo, gasto o inversión.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar devengo y ingreso como sinónimos | Se pierde la distinción entre “reconocimiento económico cuando se genera el derecho u obligación, no cuando entra o sale efectivo” y “valor reconocido por bienes o servicios según reglas contables aplicables” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “comprobar efecto en retorno y riesgo” | Se saltó “traducir decisión a estado de resultados” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. traducir decisión a estado de resultados → 2. identificar impacto en balance → 3. modelar momento de caja → 4. separar contable de económico → 5. comprobar efecto en retorno y riesgo y marca el primer supuesto no demostrado. |
-| Optimizar solo revenue | La métrica local sustituyó al resultado del sistema | Contrástala con margen y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre lenguaje financiero del gerente | Las definiciones contables dependen de normas y contratos. El gerente usa el lenguaje para preguntar mejor; reconocimiento formal debe validarse con contabilidad y normas vigentes. |
-| No fijar revisión | Una decisión sobre lenguaje financiero del gerente se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Confundir utilidad con caja | Ambas parecen «ganancia» | Leer el flujo de caja. |
+| Mirar un solo estado | Es el que se conoce | Leer los tres juntos. |
+| No conocer la definición de una cifra | Se asume que es común | Preguntar fórmula, base y fuente. |
+| Confundir costo, gasto e inversión | Los términos se usan como sinónimos | Aclarar el tratamiento. |
+| Creer que las cifras son exactas | Parecen objetivas | Reconocer estimaciones y juicios. |
+| Ignorar las notas | Se mira solo el cuadro | Leer políticas y supuestos. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **devengo** y **ingreso** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **gasto** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **traducir decisión a estado de resultados → identificar impacto en balance** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **revenue** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **lenguaje financiero del gerente**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Las definiciones contables dependen de normas y contratos. El gerente usa el lenguaje para preguntar mejor; reconocimiento formal debe validarse con contabilidad y normas vigentes.**?
+1. ¿Qué pregunta responde cada estado financiero?
+2. ¿Qué diferencia hay entre base devengada y base de caja?
+3. ¿Por qué utilidad y caja pueden divergir?
+4. ¿Qué diferencia hay entre costo, gasto e inversión?
+5. ¿Qué se cumple siempre en el balance?
+6. ¿Qué señales de alerta describen Schilit y sus coautores?
+7. ¿Qué límite tienen los estados financieros como medida de valor?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El de resultados, si la actividad generó ganancia; el balance, qué tiene y qué debe la empresa; el flujo, cuánto efectivo entró y salió.
+2. La devengada reconoce ingresos y gastos cuando ocurren los hechos; la de caja, cuando se cobra o se paga.
+3. Porque los ingresos pueden no estar cobrados, los gastos no pagados y hay inversiones y financiamiento que no pasan por resultados.
+4. El costo es un sacrificio de recursos para producir o vender; el gasto, un consumo del período sin asignación a un producto; la inversión, un desembolso con beneficio durante varios períodos.
+5. Activos = pasivos + patrimonio.
+6. Por ejemplo: ingresos reconocidos de forma anticipada, gastos capitalizados sin justificación, cuentas por cobrar que crecen más que las ventas y utilidades que no se convierten en caja.
+7. Siguen reglas contables que pueden diferir del valor económico y suelen omitir intangibles.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/109-lenguaje-financiero-del-gerente/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **lenguaje financiero del gerente**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **lenguaje financiero del gerente** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **devengo**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un gerente aprueba una venta grande con pago a 120 días y celebra revenue del trimestre. La empresa, sin embargo, necesita financiar inventario y nómina mucho antes de cobrar.** y el dato que podría invalidar la recomendación.
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el informe de lectura del caso ejecutivo;
+- `decision-journal.md` con las definiciones de las cifras clave y las preguntas para el área financiera.
 
 ## 📗 Fuentes y verificación
 
-- Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** reconocimiento, medición y presentación de estados financieros y sus partidas. Lectura selectiva sobre **lenguaje financiero del gerente**. **Localizador:** [ISBN-13 9780470098189](https://openlibrary.org/isbn/9780470098189).
-- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración. Lectura selectiva sobre **lenguaje financiero del gerente**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
-- Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* (Prentice Hall College Div, 2002). **Uso en esta clase:** costos relevantes, presupuestos, variaciones y decisiones gerenciales. Lectura selectiva sobre **lenguaje financiero del gerente**. **Localizador:** [ISBN-13 9780130650061](https://openlibrary.org/isbn/9780130650061).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **lenguaje financiero del gerente**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Aswath Damodaran — *Investment Valuation* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** valoración, riesgo, narrativas, costo de capital y supuestos explícitos. Lectura selectiva sobre **lenguaje financiero del gerente**. **Localizador:** [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546).
-- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** estrategia, análisis contable, análisis financiero y proyección integrados. Lectura selectiva sobre **lenguaje financiero del gerente**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **lenguaje financiero del gerente** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **lenguaje financiero del gerente**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **lenguaje financiero del gerente** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **lenguaje financiero del gerente** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **lenguaje financiero del gerente** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** análisis de estados para entender el negocio. Lectura selectiva sobre **lenguaje financiero del gerente**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
+- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** lectura de estados orientada a la valoración. Lectura selectiva sobre **lenguaje financiero del gerente**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
+- Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** reglas contables y su lógica. Lectura selectiva sobre **lenguaje financiero del gerente**. **Localizador:** [ISBN-13 9780470098189](https://openlibrary.org/isbn/9780470098189).
+- Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* (McGraw-Hill Education on Brilliance Audio, 2018). **Uso en esta clase:** señales de alerta de manipulación contable. Lectura selectiva sobre **lenguaje financiero del gerente**. **Localizador:** [ISBN-13 9781978605459](https://openlibrary.org/isbn/9781978605459).
+- IFRS Foundation — *IFRS Accounting Standards*. **Uso en esta clase:** normas que definen reconocimiento y presentación. **Fuente primaria:** <https://www.ifrs.org/>.
 
-> **Regla de fuentes para Lenguaje financiero del gerente:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **lenguaje financiero del gerente** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Lenguaje financiero del gerente:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, en particular las normas contables y tributarias aplicables. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

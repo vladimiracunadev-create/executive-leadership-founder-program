@@ -10,225 +10,192 @@
 
 ## 🎯 Propósito
 
-ROI mide retorno respecto de inversión con definiciones variables; ROIC conecta beneficio operativo después de impuestos con capital invertido y permite comparar creación de valor contra costo de capital. Una inversión atractiva por ROI contable puede destruir valor si ignora timing, riesgo o capital adicional.
+Invertir es renunciar hoy a dinero con la expectativa de recibir más mañana. Toda empresa toma esa decisión cada día —abrir una sede, comprar una máquina, desarrollar un producto, adquirir otra empresa— y la mayoría de las veces la justifica con una cifra de «ROI» que depende de supuestos poco examinados. La pregunta central no es si una inversión «gana dinero», sino si **gana más de lo que cuesta el capital que usa**, incluido el riesgo. Una empresa puede crecer, ser rentable en términos contables y destruir valor si sus inversiones rinden menos que el costo de financiarlas.
 
-La salida de esta parte es **leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **rOI, ROIC y decisiones de inversión** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el valor presente neto y la tasa interna de retorno de Brealey, Myers y Allen, en el enfoque de creación de valor y ROIC de Koller y colegas, en la evidencia de Graham y Harvey sobre cómo deciden realmente las empresas y en el análisis de Palepu, Healy y Peek. Al terminar sabrás calcular ROI, ROIC, VPN y TIR, entender sus límites, comparar alternativas con flujos de caja incrementales y tomar decisiones con escenarios y sensibilidad.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `ROI`, `NOPAT`, `invested capital`, `ROIC`, `WACC` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir cash flows y capital → 2. separar incremental de sunk cost → 3. calcular retorno y timing → 4. comparar con hurdle/WACC → 5. hacer sensibilidad y post-audit** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** ROI, ROIC, WACC sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Calcular** ROI, ROIC, VPN, TIR y período de recuperación.
+2. **Construir** los flujos incrementales de una inversión.
+3. **Comparar** el retorno con el costo de capital y el riesgo.
+4. **Analizar** la sensibilidad y los escenarios de una decisión.
+5. **Reconocer** errores de decisión: costos hundidos, ignorar el capital de trabajo, optimismo.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define ROI y NOPAT sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con ROI y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda una inversión de tu empresa y pregúntate cuál fue su retorno real y contra qué se comparó. |
+| 20–60 min | Medidas, flujos incrementales, costo de capital y riesgo. |
+| 60–105 min | Ejemplo trabajado: evaluar una nueva línea de producción. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **ROI** | beneficio neto atribuible/inversión, fórmula que debe declararse | Distingue un hecho compatible y otro que lo refute. |
-| **NOPAT** | resultado operativo después de impuestos normalizados | Distingue un hecho compatible y otro que lo refute. |
-| **invested capital** | capital operativo financiado por deuda y equity según definición | Distingue un hecho compatible y otro que lo refute. |
-| **ROIC** | NOPAT/capital invertido | Distingue un hecho compatible y otro que lo refute. |
-| **WACC** | costo promedio ponderado de las fuentes de capital | Distingue un hecho compatible y otro que lo refute. |
+| **ROI** | Ganancia de una inversión dividida por su costo. | Porcentaje simple; no considera el tiempo. |
+| **ROIC** | Resultado operacional después de impuestos dividido por el capital invertido. | Mide el retorno del negocio sobre el capital. |
+| **Costo de capital** | Retorno mínimo exigido por quienes financian, según el riesgo. | Tasa de descuento. |
+| **VPN (valor presente neto)** | Suma de flujos descontados menos la inversión inicial. | Positivo crea valor. |
+| **TIR** | Tasa de descuento que hace el VPN igual a cero. | Se compara con el costo de capital. |
+| **Flujo incremental** | Flujo adicional que ocurre por decidir la inversión. | Excluye costos hundidos. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 118: 1. definir cash flows y capital → 2. separar incremental de sunk cost → 3. calcular retorno y timing → 4. comparar con hurdle/WACC → 5. hacer sensibilidad y post-audit](modelo-mental.svg)
+![Cuadrante de retorno frente a costo de capital y de velocidad de crecimiento, con la decisión sugerida en cada zona.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir cash flows y capital → 2. separar incremental de sunk cost → 3. calcular retorno y timing → 4. comparar con hurdle/WACC → 5. hacer sensibilidad y post-audit
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **ROI mide retorno respecto de inversión con definiciones variables; ROIC conecta beneficio operativo después de impuestos con capital invertido y permite comparar creación de valor contra costo de capital. Una inversión atractiva por ROI contable puede destruir valor si ignora timing, riesgo o capital adicional.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **ROI aislado favorece proyectos cortos y puede ignorar valor estratégico o riesgo. Para inversiones materiales usa NPV/IRR, escenarios y capital total, no una sola razón.**
+**Cómo leer el diagrama.** Dos ejes: si el retorno supera o no el costo del capital, y si la empresa crece poco o mucho. Crecer con retorno **bajo** el costo de capital **destruye valor**; crecer con retorno **sobre** el costo de capital es la zona de creación de valor; no crecer y rendir poco pide corregir o salir; rendir bien sin crecer sugiere mejorar y distribuir caja. La clave: el crecimiento no es bueno por sí mismo; vale si cada dólar adicional rinde más que su costo.
 
 ## 📖 Desarrollo
 
-### 1. ROI: mecanismo central
+### 1. El costo de capital como vara
 
-**ROI** se entiende aquí como **beneficio neto atribuible/inversión, fórmula que debe declararse**. Esta es la pieza causal o estructural desde la que se inicia **rOI, ROIC y decisiones de inversión**: antes de definir cash flows y capital, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+El capital tiene un costo: los acreedores exigen intereses y los accionistas, un retorno acorde con el riesgo. El **costo promedio ponderado de capital (WACC)** combina ambos. Una inversión crea valor si su retorno supera el costo del capital ajustado por su riesgo. Brealey, Myers y Allen enfatizan que el costo de capital depende del **riesgo del proyecto**, no del de la empresa que lo ejecuta: un proyecto muy riesgoso exige más retorno que el promedio de la empresa. Usar una sola tasa para todo favorece los proyectos riesgosos y rechaza los seguros.
 
-La lectura rectora de este bloque es Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*. Su aporte se usa para examinar **drivers de valor, ROIC, crecimiento y valoración por flujo descontado**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **ROI**; regístrala con periodo, unidad, población y baseline.
+### 2. ROI y sus límites
 
-Relaciona el mecanismo con **NOPAT**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El **ROI** es (ganancia − inversión) / inversión. Es fácil y comunicable, pero tiene límites: no considera **cuándo** llegan los flujos (un retorno del 50 % en dos años es mejor que el mismo en diez), mezcla definiciones de ganancia (contable o de caja), ignora el **riesgo** y el **capital de trabajo** y, a menudo, se calcula sobre la inversión inicial sin incluir inversiones adicionales. Sirve como una primera aproximación, pero se complementa con medidas que traen los flujos al presente.
 
-### 2. NOPAT: frontera conceptual y error de clasificación
+### 3. VPN y TIR
 
-**Definición operacional:** resultado operativo después de impuestos normalizados. Su valor está en distinguirlo de **ROI** y **invested capital**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El **valor presente neto** descuenta los flujos de caja futuros a la tasa del costo de capital y resta la inversión: VPN = Σ FCₜ / (1+r)ᵗ − I₀. Si es positivo, la inversión crea valor. La **TIR** es la tasa que hace el VPN cero; se acepta si supera el costo de capital. Brealey, Myers y Allen recomiendan el VPN como criterio principal: la TIR puede dar resultados múltiples o engañosos con flujos que cambian de signo, y no distingue escala (una inversión pequeña con TIR alta puede crear menos valor que una grande con TIR menor). Graham y Harvey encontraron que muchas empresas usan en la práctica TIR y períodos de recuperación, además del VPN.
 
-Contrasta el problema con Aswath Damodaran — *Investment Valuation*, que aporta una mirada sobre **valoración, riesgo, narrativas, costo de capital y supuestos explícitos**. Formula dos mini-casos: uno que sí satisface la definición de **NOPAT** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **ROIC** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Período de recuperación
 
-Antes de separar incremental de sunk cost, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El **período de recuperación (payback)** es el tiempo en que los flujos acumulados cubren la inversión. Es popular por su simpleza y porque refleja el interés en liquidez y riesgo, pero **ignora los flujos posteriores** y el valor del dinero en el tiempo (una versión descontada corrige parcialmente lo segundo). Se usa como criterio complementario, especialmente en entornos de alta incertidumbre, donde recuperar pronto reduce la exposición. Un proyecto con payback corto y baja contribución total puede ser peor que uno con payback más largo y mucho mayor valor.
 
-### 3. invested capital: operacionalización y medición
+### 5. Flujos incrementales
 
-**invested capital** significa **capital operativo financiado por deuda y equity según definición**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La evaluación se hace sobre los **flujos que cambian por decidir**: ingresos adicionales, costos adicionales, impuestos, inversión inicial, **capital de trabajo adicional** y valor residual, y se ignoran los **costos hundidos** (gastos ya hechos que no cambian con la decisión). También se consideran los efectos sobre otras líneas (**canibalización**), los costos de oportunidad (por ejemplo, el uso de un terreno propio) y los costos de financiamiento, que no se incluyen en los flujos porque están en la tasa de descuento. Construir bien los flujos es más importante que el cálculo final.
 
-Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* orienta este bloque mediante **valor del dinero, riesgo, costo de capital, inversión y financiación**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **WACC**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. ROIC y creación de valor
 
-Al llegar a calcular retorno y timing, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Koller, Goedhart y Wessels sitúan al **ROIC** como motor de la creación de valor: el valor de una empresa depende de cuánto capital invierte, qué retorno obtiene sobre él, cuánto crece y cuál es su costo de capital. Si el ROIC supera el costo de capital, el crecimiento aumenta el valor; si es menor, crecer lo destruye. El ROIC se calcula como NOPAT (resultado operacional después de impuestos) / capital invertido (capital de trabajo operativo más activos fijos y otros operativos). Se descompone en **margen** y **rotación del capital**: un mismo ROIC puede lograrse con márgenes altos y baja rotación, o al revés (clase 113).
 
-### 4. ROIC: trade-offs y efectos de segundo orden
+### 7. Riesgo, sensibilidad y sesgos
 
-**Definición:** NOPAT/capital invertido. Este concepto obliga a abandonar la idea de que **rOI, ROIC y decisiones de inversión** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de comparar con hurdle/wacc, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* aporta una lente sobre **decisiones de inversión, financiación, capital de trabajo y valoración**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **payback** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **rOI, ROIC y decisiones de inversión**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **ROIC** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. WACC: gobernanza, límites e integración
-
-**WACC** se define como **costo promedio ponderado de las fuentes de capital** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* se utiliza para estudiar **reconocimiento, medición y presentación de estados financieros y sus partidas** y contrastar la recomendación final. Al ejecutar hacer sensibilidad y post-audit, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **ROI aislado favorece proyectos cortos y puede ignorar valor estratégico o riesgo. Para inversiones materiales usa NPV/IRR, escenarios y capital total, no una sola razón.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **ROI**, **NOPAT**, **invested capital**, **ROIC** y **WACC** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **rOI, ROIC y decisiones de inversión** no consiste en sumar cinco definiciones. Empieza por **ROI**, contrasta **NOPAT** con **invested capital**, incorpora **ROIC** como restricción o mecanismo y usa **WACC** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir cash flows y capital → 2. separar incremental de sunk cost → 3. calcular retorno y timing → 4. comparar con hurdle/WACC → 5. hacer sensibilidad y post-audit**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### ROI, ROIC y creación de valor
-
-`ROI` es una familia de cocientes y debe declarar numerador, denominador y horizonte. `ROIC` busca relacionar beneficio operativo después de impuestos con capital invertido en la operación. Una forma aproximada: `ROIC = NOPAT / capital invertido promedio`.
-
-La comparación gerencial clave es `ROIC` contra costo de capital: crecer con ROIC persistentemente inferior al costo de capital puede destruir valor. Pero no uses ROIC de un año aislado para negocios en inversión temprana; analiza cohorte de inversiones, madurez y retorno incremental.
+Las proyecciones son optimistas: los sesgos de planificación (clase 076) hacen que ventas se sobreestimen y costos y plazos se subestimen. Se complementa con **análisis de sensibilidad** (qué ocurre con el VPN si cambia cada supuesto clave), **escenarios** (adverso, base, optimista), **puntos de equilibrio** del proyecto y la **visión desde afuera** (cómo les fue a inversiones similares). También se valoran las **opciones**: invertir en etapas, con la posibilidad de abandonar o ampliar según resultados, tiene un valor que el VPN simple no recoge. Y se definen **criterios de revisión** posteriores a la inversión: comparar lo real con lo proyectado enseña a decidir mejor.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* | drivers de valor, ROIC, crecimiento y valoración por flujo descontado | ¿Qué supuesto de **rOI, ROIC y decisiones de inversión** ayuda a desafiar? |
-| Aswath Damodaran — *Investment Valuation* | valoración, riesgo, narrativas, costo de capital y supuestos explícitos | ¿Qué supuesto de **rOI, ROIC y decisiones de inversión** ayuda a desafiar? |
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **rOI, ROIC y decisiones de inversión** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **rOI, ROIC y decisiones de inversión** ayuda a desafiar? |
-| Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* | reconocimiento, medición y presentación de estados financieros y sus partidas | ¿Qué supuesto de **rOI, ROIC y decisiones de inversión** ayuda a desafiar? |
-
-En **rOI, ROIC y decisiones de inversión**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **ROI**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Brealey, Myers y Allen | VPN, TIR, costo de capital y riesgo. | Supuestos de mercados eficientes. | ¿El retorno supera el costo del capital del proyecto? |
+| Koller et al. | ROIC, crecimiento y creación de valor. | Más orientado a valoración de empresas. | ¿El crecimiento rinde más que su costo? |
+| Graham y Harvey (2001) | Cómo deciden en la práctica las empresas. | Encuesta de directivos de un período. | ¿Qué criterios usa tu empresa y por qué? |
+| Palepu, Healy y Peek | Medidas de retorno desde los estados financieros. | Visión de analista. | ¿Qué descomposición del ROIC explica el resultado? |
+| Ross, Westerfield y Jaffe | Presupuesto de capital y flujos incrementales. | Texto de finanzas corporativas. | ¿Qué flujos son incrementales? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una automatización cuesta 1,2 millones y ahorra 500.000 anuales antes de mantenimiento de 120.000. El ROI simple luce 31,7%, pero la decisión cambia al considerar implementación, impuestos, vida útil y costo de capital.
+**Situación (hipotética).** Una empresa de alimentos evalúa una nueva línea de producción: inversión inicial USD 2.000.000, capital de trabajo adicional USD 300.000 al inicio (se recupera al final), vida de 5 años, sin valor residual. Flujos de caja operativos después de impuestos: año 1: 450.000; año 2: 650.000; años 3 a 5: 750.000 cada uno. Costo de capital del proyecto: 10 %.
 
-**Paso 1 — definir cash flows y capital.** La gerencia escribe primero el supuesto asociado a **ROI** y evita convertirlo en hecho. Luego busca **ROI** para contrastarlo en el caso de **rOI, ROIC y decisiones de inversión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Año | Flujo | Factor 10 % | Valor presente |
+|---|---|---|---|
+| 0 | −2.300.000 | 1,000 | −2.300.000 |
+| 1 | 450.000 | 0,909 | 409.091 |
+| 2 | 650.000 | 0,826 | 537.190 |
+| 3 | 750.000 | 0,751 | 563.486 |
+| 4 | 750.000 | 0,683 | 512.260 |
+| 5 | 750.000 + 300.000 | 0,621 | 652.001 |
+| **VPN** | | | **≈ 374.000** |
 
-**Paso 2 — separar incremental de sunk cost.** La gerencia escribe primero el supuesto asociado a **NOPAT** y evita convertirlo en hecho. Luego busca **ROIC** para contrastarlo en el caso de **rOI, ROIC y decisiones de inversión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** VPN positivo de unos USD 374.000: crea valor al 10 %. La TIR es aproximadamente 15 %. El período de recuperación simple (sin descuento) es de unos 3,6 años.
 
-**Paso 3 — calcular retorno y timing.** La gerencia escribe primero el supuesto asociado a **invested capital** y evita convertirlo en hecho. Luego busca **WACC** para contrastarlo en el caso de **rOI, ROIC y decisiones de inversión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Sensibilidad.** Si los flujos operativos son un 15 % menores, el VPN cae a prácticamente cero: el proyecto deja de crear valor. Si el costo de capital sube a 13 % (riesgo mayor), el VPN sigue positivo (unos USD 157.000). El resultado es mucho más sensible a las ventas que a la tasa.
 
-**Paso 4 — comparar con hurdle/WACC.** La gerencia escribe primero el supuesto asociado a **ROIC** y evita convertirlo en hecho. Luego busca **payback** para contrastarlo en el caso de **rOI, ROIC y decisiones de inversión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Visión desde afuera.** Proyectos de ampliación de capacidad de la empresa en los últimos cinco años lograron en promedio flujos 20 % menores que los proyectados. Con ese ajuste (flujos operativos 20 % menores), el VPN es de unos −USD 124.000.
 
-**Paso 5 — hacer sensibilidad y post-audit.** La gerencia escribe primero el supuesto asociado a **WACC** y evita convertirlo en hecho. Luego busca **NPV** para contrastarlo en el caso de **rOI, ROIC y decisiones de inversión**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisión.** No aprobar con el plan actual. Alternativas: invertir en una primera fase con una línea más pequeña, con contratos de venta firmados que reduzcan el riesgo; renegociar el costo de la máquina; evaluar tercerizar. Se establece una revisión posterior al año y a los tres años.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **rOI, ROIC y decisiones de inversión**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El VPN y la sensibilidad cambiaron la lectura. (2) La visión desde afuera corrigió el optimismo. (3) La decisión incluyó una alternativa por etapas.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **ROI** | beneficio neto atribuible/inversión, fórmula que debe declararse | Cuando ROI es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **NOPAT** | resultado operativo después de impuestos normalizados | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Retorno financiero frente a valor estratégico.** Algunas inversiones tienen un valor estratégico (entrar a un mercado, proteger una posición) que no se refleja plenamente en flujos proyectados. No se debe usar «lo estratégico» como excusa para evitar el análisis: se explicita qué opción se compra y se estima su valor.
 
-**Frontera de aplicación:** ROI aislado favorece proyectos cortos y puede ignorar valor estratégico o riesgo. Para inversiones materiales usa NPV/IRR, escenarios y capital total, no una sola razón.
+**Límites.** El VPN depende de flujos y tasas inciertas; pequeñas variaciones cambian la decisión. El costo de capital se estima con modelos que tienen supuestos. Las encuestas de práctica empresarial (Graham y Harvey) describen lo que hacen las empresas, no necesariamente lo que conviene. Los impuestos, incentivos y normas contables o regulatorias que afectan los flujos se verifican en la normativa vigente y con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre rOI, ROIC y decisiones de inversión |
+| Nivel | Cómo participa en decisiones de inversión |
 |---|---|
-| **Profesional** | usa **rOI, ROIC y decisiones de inversión** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **ROI** y **NOPAT** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta ROI con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si rOI, ROIC y decisiones de inversión cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de rOI, ROIC y decisiones de inversión reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **rOI, ROIC y decisiones de inversión** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta datos realistas y evita inflar los supuestos. |
+| **Jefe / Team Lead** | Presenta casos con flujos incrementales y sensibilidades. |
+| **Gerente** | Compara alternativas con VPN y riesgo y propone etapas. |
+| **CEO / Director** | Exige que el retorno supere el costo del capital y revisa lo invertido. |
+| **Founder / Owner** | Invierte donde el retorno justifica el riesgo y el capital escaso. |
 
 ## 🏢 Caso ejecutivo
 
-Una automatización cuesta 1,2 millones y ahorra 500.000 anuales antes de mantenimiento de 120.000. El ROI simple luce 31,7%, pero la decisión cambia al considerar implementación, impuestos, vida útil y costo de capital.
+Una cadena de supermercados regionales evalúa abrir 12 nuevas tiendas en tres años, con una inversión total de USD 60 millones. El plan proyecta ventas por tienda de USD 9 millones al tercer año, margen operacional de 5,5 % y ROIC de 13 %. El costo de capital de la empresa es 9 %. Las últimas seis tiendas abiertas alcanzaron ventas 22 % inferiores a las proyectadas en su tercer año y su ROIC es de 6 %. El gerente de expansión argumenta que «cada tienda tiene un ROI de 40 % a cinco años». El director financiero advierte que el capital de trabajo y la canibalización de tiendas cercanas no están incluidos. El directorio debe decidir en 30 días.
 
-Entrega un **decision brief de rOI, ROIC y decisiones de inversión** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de decisión de inversión** que contenga: (a) los flujos incrementales de una tienda típica, con capital de trabajo y canibalización; (b) VPN, TIR y período de recuperación al costo de capital y a una tasa de riesgo mayor; (c) la sensibilidad a ventas y márgenes y la visión desde afuera; (d) el ROIC del programa frente al costo de capital; (e) una alternativa por etapas con opciones de abandono; (f) los criterios de revisión posterior y las verificaciones de permisos, arriendos y contratos con asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **rOI, ROIC y decisiones de inversión** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir cash flows y capital → 2. separar incremental de sunk cost → 3. calcular retorno y timing → 4. comparar con hurdle/WACC → 5. hacer sensibilidad y post-audit** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta ROI, ROIC; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula el VPN y la TIR de una inversión con cinco flujos y una tasa dada.
+2. Construye los flujos incrementales de una decisión de tu empresa.
+3. Evalúa la sensibilidad a una caída del 15 % en ventas.
+4. Calcula el ROIC de una unidad de negocio y descomponlo en margen y rotación.
+5. Diseña una alternativa por etapas con un criterio de abandono.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar ROI y NOPAT como sinónimos | Se pierde la distinción entre “beneficio neto atribuible/inversión, fórmula que debe declararse” y “resultado operativo después de impuestos normalizados” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “hacer sensibilidad y post-audit” | Se saltó “definir cash flows y capital” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir cash flows y capital → 2. separar incremental de sunk cost → 3. calcular retorno y timing → 4. comparar con hurdle/WACC → 5. hacer sensibilidad y post-audit y marca el primer supuesto no demostrado. |
-| Optimizar solo ROI | La métrica local sustituyó al resultado del sistema | Contrástala con ROIC y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre rOI, ROIC y decisiones de inversión | ROI aislado favorece proyectos cortos y puede ignorar valor estratégico o riesgo. Para inversiones materiales usa NPV/IRR, escenarios y capital total, no una sola razón. |
-| No fijar revisión | Una decisión sobre rOI, ROIC y decisiones de inversión se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Usar solo ROI simple | Es fácil de comunicar | Descontar flujos y comparar con el costo de capital. |
+| Incluir costos hundidos | Se quiere justificar lo gastado | Considerar solo flujos incrementales. |
+| Ignorar el capital de trabajo | No aparece como gasto | Incluir su inversión y recuperación. |
+| Una sola tasa para todo | Es simple | Ajustar por riesgo del proyecto. |
+| Proyecciones optimistas | Sesgo de planificación | Visión desde afuera, rangos y escenarios. |
+| No revisar después de invertir | Se pasa a lo siguiente | Revisión posterior y aprendizaje. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **ROI** y **NOPAT** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **invested capital** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir cash flows y capital → separar incremental de sunk cost** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **ROI** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **rOI, ROIC y decisiones de inversión**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **ROI aislado favorece proyectos cortos y puede ignorar valor estratégico o riesgo. Para inversiones materiales usa NPV/IRR, escenarios y capital total, no una sola razón.**?
+1. ¿Qué ventajas tiene el VPN sobre el ROI simple?
+2. ¿Cuándo crea valor una inversión?
+3. ¿Qué son los flujos incrementales y qué se excluye?
+4. ¿Qué limitaciones tiene la TIR?
+5. ¿Por qué el crecimiento puede destruir valor?
+6. ¿Para qué sirven la sensibilidad y los escenarios?
+7. ¿Qué mostró Graham y Harvey sobre la práctica empresarial?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Considera el momento de los flujos y el riesgo mediante el costo de capital, y expresa el valor creado en dinero.
+2. Cuando su retorno supera el costo del capital ajustado por su riesgo; es decir, cuando el VPN es positivo.
+3. Los flujos adicionales causados por la decisión; se excluyen los costos hundidos y se incluyen capital de trabajo, impuestos y canibalización.
+4. Puede dar resultados múltiples o engañosos con flujos que cambian de signo y no refleja la escala.
+5. Porque si el retorno del capital adicional es menor que su costo, cada dólar invertido resta valor.
+6. Para ver qué supuestos mueven más la decisión y qué ocurre si las proyecciones fallan.
+7. Que las empresas usan en la práctica varios criterios, entre ellos TIR y período de recuperación, además del VPN, con diferencias según su tamaño y contexto.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/118-roi-roic-y-decisiones-de-inversion/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **rOI, ROIC y decisiones de inversión**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **rOI, ROIC y decisiones de inversión** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **ROI**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una automatización cuesta 1,2 millones y ahorra 500.000 anuales antes de mantenimiento de 120.000. El ROI simple luce 31,7%, pero la decisión cambia al considerar implementación, impuestos, vida útil y costo de capital.** y el dato que podría invalidar la recomendación.
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el memo de inversión del caso ejecutivo;
+- `capital-allocation.md` (plantilla [Capital allocation](../../../../templates/capital-allocation.md)) con la comparación de alternativas y etapas;
+- `decision-journal.md` con los supuestos, la sensibilidad y los criterios de revisión posterior.
 
 ## 📗 Fuentes y verificación
 
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **roi, roic y decisiones de inversión**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Aswath Damodaran — *Investment Valuation* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** valoración, riesgo, narrativas, costo de capital y supuestos explícitos. Lectura selectiva sobre **roi, roic y decisiones de inversión**. **Localizador:** [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546).
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **roi, roic y decisiones de inversión**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **roi, roic y decisiones de inversión**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** reconocimiento, medición y presentación de estados financieros y sus partidas. Lectura selectiva sobre **roi, roic y decisiones de inversión**. **Localizador:** [ISBN-13 9780470098189](https://openlibrary.org/isbn/9780470098189).
-- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración. Lectura selectiva sobre **roi, roic y decisiones de inversión**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **roi, roic y decisiones de inversión** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **roi, roic y decisiones de inversión**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **roi, roic y decisiones de inversión** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **roi, roic y decisiones de inversión** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **roi, roic y decisiones de inversión** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** VPN, TIR, costo de capital y riesgo. Lectura selectiva sobre **roi, roic y decisiones de inversión**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** ROIC, crecimiento y creación de valor. Lectura selectiva sobre **roi, roic y decisiones de inversión**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
+- John R. Graham & Campbell R. Harvey — *The theory and practice of corporate finance: evidence from the field* (Journal of Financial Economics, 2001). **Uso en esta clase:** cómo deciden en la práctica las empresas. Lectura selectiva sobre **roi, roic y decisiones de inversión**. **Localizador:** [DOI 10.1016/s0304-405x(01)00044-7](https://doi.org/10.1016/s0304-405x(01)00044-7).
+- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** medidas de retorno desde los estados financieros. Lectura selectiva sobre **roi, roic y decisiones de inversión**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
+- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** presupuesto de capital y flujos incrementales. Lectura selectiva sobre **roi, roic y decisiones de inversión**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
 
-> **Regla de fuentes para ROI, ROIC y decisiones de inversión:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **rOI, ROIC y decisiones de inversión** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para ROI, ROIC y decisiones de inversión:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los incentivos tributarios y los permisos aplicables. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

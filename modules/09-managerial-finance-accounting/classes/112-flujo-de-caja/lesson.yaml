@@ -5,28 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir operating cash flow de investing cash flow mediante evidencia observable."
-  - "Aplicar la secuencia: partir de resultado o cobros-pagos → ajustar partidas no caja → incorporar capital de trabajo → separar CAPEX → conciliar financiamiento y saldo final."
-  - "Interpretar operating cash flow, free cash flow, cash conversion sin atribuir causalidad automática."
-  - "Resolver el caso de flujo de caja con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-deliverable: "modelo-financiero-y-memo-de-decision.md"
+  - "Explicar por qué utilidad y caja divergen y construir el puente entre ambas."
+  - "Leer los flujos de operación, inversión y financiamiento."
+  - "Calcular el flujo de caja libre y entender qué mide."
+  - "Proyectar el calendario de caja a 13 semanas con escenarios."
+  - "Definir el margen de seguridad de liquidez y las acciones de respuesta."
+deliverable: "cash-runway.md"
 references:
-  - "Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*"
-  - "Stephen H. Penman — *Financial Statement Analysis and Security Valuation*"
-  - "Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis*"
-  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
-  - "Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans*"
   - "Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation*"
-  - "IFRS Foundation — normas IFRS/IAS aplicables a presentación y lectura de estados financieros. Verificar edición vigente en <https://www.ifrs.org/>."
+  - "Stephen H. Penman — *Financial Statement Analysis and Security Valuation*"
+  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
+  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
+  - "Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans*"
 limits:
-  - "No existe una única definición universal de free cash flow o burn. Declara fórmula y propósito antes de comparar; evita tratar caja puntual como capacidad recurrente."
+  - "Las proyecciones de caja dependen de supuestos de cobranza y de ventas que se equivocan; se actualizan y se contrastan."
 evidence_signals:
-  - "operating cash flow"
-  - "free cash flow"
-  - "cash conversion"
-  - "burn rate"
-  - "ending cash"
+  - "puente de utilidad a caja"
+  - "calendario de 13 semanas con escenarios"
+  - "colchón de liquidez definido"
+  - "acciones preparadas con disparadores"

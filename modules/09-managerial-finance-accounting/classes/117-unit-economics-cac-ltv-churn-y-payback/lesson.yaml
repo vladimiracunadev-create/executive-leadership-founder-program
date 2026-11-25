@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir CAC de LTV mediante evidencia observable."
-  - "Aplicar la secuencia: definir unidad y cohortes → calcular CAC completo y marginal → medir retention/churn por cohorte → estimar LTV con margen y cautela → calcular payback y sensibilidad."
-  - "Interpretar CAC, gross-margin LTV, logo churn sin atribuir causalidad automática."
-  - "Resolver el caso de unit economics: CAC, LTV, churn y payback con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Calcular CAC, ingreso y margen por cliente, churn, LTV y payback."
+  - "Interpretar la relación LTV/CAC junto con el tiempo de recuperación."
+  - "Analizar cohortes para ver el comportamiento real de retención."
+  - "Reconocer los errores que inflan las métricas."
+  - "Decidir cuánto invertir en adquisición y retención según la economía unitaria."
 deliverable: "modelo-financiero-y-memo-de-decision.md"
 references:
+  - "Sunil Gupta, Donald R. Lehmann & Jennifer Ames Stuart — *Valuing Customers*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation*"
   - "Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis*"
-  - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
-  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
-  - "Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*"
   - "Stephen H. Penman — *Financial Statement Analysis and Security Valuation*"
-  - "Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans*"
 limits:
-  - "LTV/CAC no es verdad física. Pequeños cambios de churn cambian mucho LTV; usa cohortes observadas, horizontes limitados y escenarios antes de escalar gasto."
+  - "Las métricas dependen de supuestos de retención futura, que se equivocan."
 evidence_signals:
-  - "CAC"
-  - "gross-margin LTV"
-  - "logo churn"
-  - "net revenue retention"
-  - "payback months"
+  - "CAC con todos los costos"
+  - "LTV con margen y no con ingresos"
+  - "cohortes en vez de promedios"
+  - "payback financiable con la caja"

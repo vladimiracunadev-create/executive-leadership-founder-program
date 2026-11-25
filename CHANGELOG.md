@@ -39,6 +39,10 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 09 completa** (109–120): lenguaje financiero, estado de resultados, balance, flujo de caja,
+  márgenes y contribución (Kaplan y Cooper), capital de trabajo, presupuesto y forecast (Jensen), punto de
+  equilibrio, economía unitaria (Gupta, Lehmann y Stuart), ROI y ROIC (Graham y Harvey), valoración y capstone
+  de comité de inversión; cada clase con fuentes verificadas, cifras recalculadas y un diagrama a medida.
 - **La parte 08 completa** (097–108): de actividad a resultado, diseño de objetivos (Locke y Latham, Ordóñez y
   otros), OKR, fichas de KPI (Marr, Muller), indicadores adelantados y rezagados (Ittner y Larcker), cuadro de
   mando integral, ritmo de gestión, revisiones de negocio, priorización, asignación de recursos y gestión por

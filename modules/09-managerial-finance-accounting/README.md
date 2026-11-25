@@ -65,18 +65,18 @@ Las clases **118 a 120** enseñan a decidir: retorno, valoración y el capstone 
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 109 | [Lenguaje financiero del gerente](classes/109-lenguaje-financiero-del-gerente/README.md) | devengo, ingreso, gasto | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 110 | [Estado de resultados](classes/110-estado-de-resultados/README.md) | margen bruto, resultado operativo, EBITDA | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 111 | [Balance y posición financiera](classes/111-balance-y-posicion-financiera/README.md) | activo, pasivo, patrimonio | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 112 | [Flujo de caja](classes/112-flujo-de-caja/README.md) | operating cash flow, investing cash flow, financing cash flow | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 113 | [Margen bruto, operacional y contribución](classes/113-margen-bruto-operacional-y-contribucion/README.md) | gross margin, operating margin, contribution margin | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 114 | [Capital de trabajo](classes/114-capital-de-trabajo/README.md) | working capital, DSO, DIO | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 115 | [Presupuesto y forecast](classes/115-presupuesto-y-forecast/README.md) | budget, forecast, variance | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 116 | [Costos fijos, variables y break-even](classes/116-costos-fijos-variables-y-break-even/README.md) | fixed cost, variable cost, contribution per unit | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 117 | [Unit economics: CAC, LTV, churn y payback](classes/117-unit-economics-cac-ltv-churn-y-payback/README.md) | CAC, LTV, churn | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 118 | [ROI, ROIC y decisiones de inversión](classes/118-roi-roic-y-decisiones-de-inversion/README.md) | ROI, NOPAT, invested capital | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 119 | [Valoración: fundamentos](classes/119-valoracion-fundamentos/README.md) | enterprise value, equity value, DCF | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 120 | [Capstone: comité de inversión](classes/120-capstone-comite-de-inversion/README.md) | investment memo, NPV, hurdle rate | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 109 | [Lenguaje financiero del gerente](classes/109-lenguaje-financiero-del-gerente/README.md) | Estado de resultados, Balance (estado de situación), Estado de flujo de efectivo | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 110 | [Estado de resultados](classes/110-estado-de-resultados/README.md) | Ingresos, Costo de ventas, Margen bruto | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 111 | [Balance y posición financiera](classes/111-balance-y-posicion-financiera/README.md) | Activo corriente, Pasivo corriente, Liquidez | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 112 | [Flujo de caja](classes/112-flujo-de-caja/README.md) | Flujo operativo, Flujo de inversión, Flujo de financiamiento | [cash-runway](../../templates/cash-runway.md) | 150 |
+| 113 | [Margen bruto, operacional y contribución](classes/113-margen-bruto-operacional-y-contribucion/README.md) | Margen bruto, Margen de contribución, Margen operacional | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 114 | [Capital de trabajo](classes/114-capital-de-trabajo/README.md) | Capital de trabajo operativo, Días de cobro (DSO), Días de inventario (DIO) | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 115 | [Presupuesto y forecast](classes/115-presupuesto-y-forecast/README.md) | Presupuesto, Forecast, Meta | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 116 | [Costos fijos, variables y break-even](classes/116-costos-fijos-variables-y-break-even/README.md) | Costo variable, Costo fijo, Costo escalonado | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 117 | [Unit economics: CAC, LTV, churn y payback](classes/117-unit-economics-cac-ltv-churn-y-payback/README.md) | CAC, ARPU, Margen por cliente | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 118 | [ROI, ROIC y decisiones de inversión](classes/118-roi-roic-y-decisiones-de-inversion/README.md) | ROI, ROIC, Costo de capital | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 119 | [Valoración: fundamentos](classes/119-valoracion-fundamentos/README.md) | Valor presente, Flujo de caja libre, Costo de capital (WACC) | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 120 | [Capstone: comité de inversión](classes/120-capstone-comite-de-inversion/README.md) | Memo de inversión, Tesis, Caso base y escenarios | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -87,67 +87,80 @@ Las clases **118 a 120** enseñan a decidir: retorno, valoración y el capstone 
 
 ## 🔤 Glosario de la parte
 
-57 conceptos definidos en las clases, con la definición operacional que usa cada una.
+70 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **activo** | recurso controlado del que se esperan beneficios futuros. |
-| **break-even units** | costos fijos/margen de contribución unitario. |
-| **budget** | plan aprobado que asigna recursos y objetivos. |
-| **CAC** | gasto incremental o total de adquisición dividido por nuevos clientes según definición explícita. |
-| **cash conversion** | diferencia temporal entre resultado contable y cobro/pago real. |
-| **cash conversion cycle** | DSO + DIO − DPO. |
-| **cash flow** | movimiento real de efectivo en un periodo. |
-| **churn** | proporción de clientes o revenue perdido en un periodo. |
-| **cohort** | grupo de clientes adquirido en periodo o condición comparable. |
-| **contribution margin** | ventas−costos variables atribuibles. |
-| **contribution per unit** | precio menos costo variable unitario. |
-| **DCF** | valor presente de flujos futuros esperados. |
-| **devengo** | reconocimiento económico cuando se genera el derecho u obligación, no cuando entra o sale efectivo. |
-| **DIO** | días promedio de inventario. |
-| **DPO** | días promedio de cuentas por pagar. |
-| **driver-based model** | forecast construido desde variables causales del negocio. |
-| **DSO** | días promedio de cuentas por cobrar. |
-| **EBITDA** | aproximación a resultado antes de intereses, impuestos, depreciación y amortización, no flujo de caja. |
-| **enterprise value** | valor de operaciones para proveedores de deuda y equity. |
-| **equity value** | valor residual para accionistas después de ajustes por deuda/caja. |
-| **financing cash flow** | flujos con acreedores y propietarios. |
-| **fixed cost** | costo que no cambia inmediatamente con volumen dentro del rango relevante. |
-| **forecast** | estimación actualizada basada en evidencia reciente. |
-| **free cash flow** | efectivo disponible después de inversiones necesarias, según definición utilizada. |
-| **gasto** | consumo de recursos reconocido en el periodo. |
-| **gross margin** | (ventas−costo de ventas)/ventas. |
-| **hurdle rate** | retorno mínimo requerido según riesgo. |
-| **ingreso** | valor reconocido por bienes o servicios según reglas contables aplicables. |
-| **invested capital** | capital operativo financiado por deuda y equity según definición. |
-| **investing cash flow** | flujos por adquisición o venta de activos e inversiones. |
-| **investment memo** | documento que sintetiza tesis, cash flows, riesgos y decisión. |
-| **leverage** | uso de deuda y obligaciones que amplifica exposición de los propietarios. |
-| **liquidez** | capacidad de atender obligaciones de corto plazo. |
-| **LTV** | valor económico esperado de contribución de un cliente durante su vida. |
-| **margen bruto** | ventas menos costo de ventas, como porcentaje de ventas. |
-| **margin of safety** | ventas reales o esperadas por encima del break-even. |
-| **multiple** | relación entre valor y una métrica como EBITDA o revenue. |
-| **NOPAT** | resultado operativo después de impuestos normalizados. |
-| **NPV** | valor presente de flujos incrementales descontados menos inversión. |
-| **operating cash flow** | efectivo generado o consumido por operación. |
-| **operating margin** | resultado operativo/ventas. |
-| **partida no recurrente** | efecto material que no representa desempeño repetible. |
-| **pasivo** | obligación presente que requerirá recursos. |
-| **patrimonio** | interés residual después de pasivos. |
-| **payback** | tiempo para recuperar CAC con margen de contribución. |
-| **post-audit** | revisión posterior de supuestos versus resultados. |
-| **real option** | valor de poder expandir, esperar o abandonar. |
-| **resultado normalizado** | resultado ajustado para analizar capacidad recurrente. |
-| **resultado operativo** | resultado del negocio antes de estructura financiera e impuestos según presentación. |
-| **ROI** | beneficio neto atribuible/inversión, fórmula que debe declararse. |
-| **ROIC** | NOPAT/capital invertido. |
-| **scenario** | conjunto coherente de supuestos alternativos. |
-| **terminal value** | valor de flujos más allá del horizonte explícito. |
-| **variable cost** | costo que cambia con volumen dentro del rango relevante. |
-| **variance** | diferencia entre actual y referencia. |
-| **WACC** | costo promedio ponderado de las fuentes de capital. |
-| **working capital** | activos corrientes operativos menos pasivos corrientes operativos según definición de análisis. |
+| **Activo corriente** | Recurso que se espera convertir en efectivo o usar en menos de un año. |
+| **Alternativa cero** | No invertir o mantener la situación actual. |
+| **Apalancamiento financiero** | Uso de deuda para financiar activos. |
+| **Apalancamiento operativo** | Sensibilidad del resultado operacional al cambio en ventas por la presencia de costos fijos. |
+| **ARPU** | Ingreso promedio por cliente en un período. |
+| **Balance (estado de situación)** | Informe de activos, pasivos y patrimonio a una fecha. |
+| **Base de caja** | Se registra cuando se recibe o se paga el efectivo. |
+| **Base devengada** | Se reconoce el ingreso o el gasto cuando ocurre el hecho, no cuando se cobra o paga. |
+| **CAC** | Costo de adquisición por cliente nuevo: gasto de ventas y marketing / clientes nuevos. |
+| **Calendario de caja** | Proyección de entradas y salidas por semana. |
+| **Capital de trabajo operativo** | Cuentas por cobrar + inventario − cuentas por pagar operativas. |
+| **Caso base y escenarios** | Proyección central y alternativas adversa y favorable. |
+| **Churn** | Proporción de clientes (o de ingresos) que se pierden en un período. |
+| **Ciclo de conversión de efectivo (CCC)** | DIO + DSO − DPO. |
+| **Colchón de liquidez** | Caja o líneas disponibles que protegen ante imprevistos. |
+| **Costo de capital** | Retorno mínimo exigido por quienes financian, según el riesgo. |
+| **Costo de capital (WACC)** | Tasa que remunera a acreedores y accionistas según el riesgo. |
+| **Costo de ventas** | Costo directo de los bienes o servicios vendidos. |
+| **Costo directo** | Costo que se asigna a un producto o cliente sin ambigüedad. |
+| **Costo escalonado** | Fijo dentro de tramos de actividad; salta al cambiar de tramo. |
+| **Costo fijo** | No cambia con el volumen dentro de un rango relevante. |
+| **Costo indirecto (overhead)** | Costo compartido que debe asignarse con un criterio. |
+| **Costo variable** | Cambia en proporción al volumen. |
+| **Descuento por pronto pago** | Rebaja por cobrar antes (por ejemplo, 2/10 neto 30). |
+| **Desvío (varianza)** | Diferencia entre lo real y lo presupuestado o pronosticado. |
+| **Días de cobro (DSO)** | Cuentas por cobrar / ventas × días. |
+| **Días de inventario (DIO)** | Inventario / costo de ventas × días. |
+| **Días de pago (DPO)** | Cuentas por pagar / costo de ventas × días. |
+| **Estado de flujo de efectivo** | Informe del efectivo que entra y sale, clasificado por actividad. |
+| **Estado de resultados** | Informe de ingresos, costos y gastos de un período. |
+| **Flujo de caja libre** | Caja operativa menos inversiones necesarias para sostener el negocio. |
+| **Flujo de financiamiento** | Caja de préstamos, aportes y pagos a acreedores y dueños. |
+| **Flujo de inversión** | Caja usada o recibida por compra o venta de activos de largo plazo. |
+| **Flujo incremental** | Flujo adicional que ocurre por decidir la inversión. |
+| **Flujo operativo** | Caja generada o consumida por la actividad principal. |
+| **Forecast** | Mejor estimación actualizada de los resultados del período o de los siguientes. |
+| **Ingresos** | Importe por la venta de bienes o servicios en el período. |
+| **Liquidez** | Capacidad de pagar obligaciones de corto plazo. |
+| **LTV** | Valor del cliente durante su vida: margen por período × duración esperada, descontado. |
+| **Margen bruto** | Ingresos menos costo de ventas. |
+| **Margen de contribución** | (Ingresos − costos variables) / ingresos. |
+| **Margen de seguridad** | Distancia entre las ventas reales y el punto de equilibrio. |
+| **Margen neto** | Utilidad neta / ingresos. |
+| **Margen operacional** | Resultado operacional / ingresos. |
+| **Margen por cliente** | Ingreso menos costos de servir al cliente. |
+| **Memo de inversión** | Documento que presenta la tesis, el análisis y la decisión solicitada. |
+| **Meta** | Nivel de resultado que se busca lograr. |
+| **Múltiplo** | Relación entre el valor y una medida (ingresos, EBITDA, utilidad). |
+| **Norma contable** | Conjunto de reglas para preparar los estados (por ejemplo, IFRS). |
+| **Partida extraordinaria o no recurrente** | Efecto puntual que no se espera repetir. |
+| **Pasivo corriente** | Obligación que vence en menos de un año. |
+| **Patrimonio** | Capital aportado más utilidades retenidas; activos menos pasivos. |
+| **Payback** | Tiempo para recuperar el CAC con el margen del cliente. |
+| **Premortem** | Ejercicio de imaginar el fracaso y sus causas antes de decidir. |
+| **Presupuesto** | Plan financiero del período con asignación de recursos y compromisos. |
+| **Presupuesto móvil** | Horizonte que se extiende de forma continua (por ejemplo, 12 meses hacia adelante). |
+| **Punto de equilibrio (break-even)** | Volumen en que los ingresos igualan los costos totales. |
+| **Resultado operacional (EBIT)** | Margen bruto menos gastos operativos. |
+| **Revisión posterior** | Comparación de lo real con lo proyectado tras la inversión. |
+| **ROI** | Ganancia de una inversión dividida por su costo. |
+| **ROIC** | Resultado operacional después de impuestos dividido por el capital invertido. |
+| **Solvencia** | Capacidad de sostener la estructura de deuda a largo plazo. |
+| **Supuesto** | Premisa sobre el entorno o la operación que sostiene las cifras. |
+| **Tesis** | Razón por la cual la inversión crea valor. |
+| **TIR** | Tasa de descuento que hace el VPN igual a cero. |
+| **Utilidad neta** | Resultado final tras intereses e impuestos. |
+| **Valor de la empresa (enterprise value)** | Valor de las operaciones para todos los proveedores de capital. |
+| **Valor presente** | Equivalente hoy de un flujo futuro, descontado por tiempo y riesgo. |
+| **Valor terminal** | Valor de los flujos posteriores al horizonte explícito. |
+| **VPN (valor presente neto)** | Suma de flujos descontados menos la inversión inicial. |
 
 ## 📦 Qué queda como evidencia
 

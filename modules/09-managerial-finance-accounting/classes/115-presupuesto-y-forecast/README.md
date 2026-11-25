@@ -10,233 +10,188 @@
 
 ## 🎯 Propósito
 
-Presupuesto es una asignación y compromiso para un periodo; forecast es la mejor estimación actual del futuro. Confundirlos incentiva ocultar malas noticias para 'cumplir presupuesto'. Un gerente usa rolling forecast y escenarios para decidir, aunque el presupuesto siga siendo base de autorización.
+Cada año, en casi todas las empresas, se repite un ritual: durante semanas, las áreas negocian cifras que luego sirven de referencia para evaluar su desempeño y pagar bonos. Quienes participan saben que la cifra no es un pronóstico sino el resultado de una negociación: se piden recursos de más y se acuerdan metas de menos. El presupuesto, que debería ser una herramienta de planificación, se vuelve un instrumento de juego. Pocos temas de gestión tienen tanto consenso crítico y tan poco cambio práctico.
 
-La salida de esta parte es **leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **presupuesto y forecast** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis de Jensen sobre cómo vincular pagos a presupuestos premia la mentira, en el tratamiento de planificación financiera de Brealey, Myers y Allen y de Palepu, Healy y Peek y en la contabilidad de gestión de Horngren y colegas. Al terminar sabrás distinguir presupuesto, forecast y meta, diseñar un proceso que reduzca el juego, construir un forecast móvil con escenarios y gestionar los desvíos con diagnóstico y no con castigo.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `budget`, `forecast`, `variance`, `driver-based model`, `scenario` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir drivers y baseline → 2. construir budget con recursos → 3. actualizar actuals → 4. reforecast sin manipular para alcanzar plan → 5. usar escenarios para decisiones de capacidad y caja** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** forecast error, budget variance, driver accuracy sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
-7. **Presentar** una proyección como rango de escenarios con drivers, sensibilidad, riesgos y trigger de revisión.
+1. **Distinguir** presupuesto, forecast y meta, y la función de cada uno.
+2. **Construir** un presupuesto a partir de supuestos explícitos.
+3. **Diseñar** un forecast móvil con escenarios y disparadores.
+4. **Anticipar** los incentivos que distorsionan el proceso.
+5. **Analizar** desvíos por causas y decidir acciones.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define budget y forecast sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con forecast error y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿tu presupuesto del año se parece más a una predicción o a una negociación? |
+| 20–60 min | Funciones, proceso, forecast, incentivos y desvíos. |
+| 60–105 min | Ejemplo trabajado: del presupuesto al forecast trimestral. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **budget** | plan aprobado que asigna recursos y objetivos | Distingue un hecho compatible y otro que lo refute. |
-| **forecast** | estimación actualizada basada en evidencia reciente | Distingue un hecho compatible y otro que lo refute. |
-| **variance** | diferencia entre actual y referencia | Distingue un hecho compatible y otro que lo refute. |
-| **driver-based model** | forecast construido desde variables causales del negocio | Distingue un hecho compatible y otro que lo refute. |
-| **scenario** | conjunto coherente de supuestos alternativos | Distingue un hecho compatible y otro que lo refute. |
+| **Presupuesto** | Plan financiero del período con asignación de recursos y compromisos. | Se aprueba al inicio y sirve de referencia. |
+| **Forecast** | Mejor estimación actualizada de los resultados del período o de los siguientes. | Se revisa de forma periódica. |
+| **Meta** | Nivel de resultado que se busca lograr. | Puede ser más ambiciosa que el pronóstico. |
+| **Supuesto** | Premisa sobre el entorno o la operación que sostiene las cifras. | Se declara y se revisa. |
+| **Desvío (varianza)** | Diferencia entre lo real y lo presupuestado o pronosticado. | Se descompone en causas. |
+| **Presupuesto móvil** | Horizonte que se extiende de forma continua (por ejemplo, 12 meses hacia adelante). | Siempre mira el mismo plazo. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 115: 1. definir drivers y baseline → 2. construir budget con recursos → 3. actualizar actuals → 4. reforecast sin manipular para alcanzar plan → 5. usar escenarios para decisiones de capacidad y caja](modelo-mental.svg)
+![Presupuesto como compromiso y asignación frente a forecast como mejor estimación actualizada, con el riesgo de cada uno.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir drivers y baseline → 2. construir budget con recursos → 3. actualizar actuals → 4. reforecast sin manipular para alcanzar plan → 5. usar escenarios para decisiones de capacidad y caja
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Presupuesto es una asignación y compromiso para un periodo; forecast es la mejor estimación actual del futuro. Confundirlos incentiva ocultar malas noticias para 'cumplir presupuesto'. Un gerente usa rolling forecast y escenarios para decidir, aunque el presupuesto siga siendo base de autorización.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Forecast no debe convertirse en target que la gente tema cambiar. Si se usa para evaluar a quien lo produce, se incentiva precisión política en vez de económica.**
+**Cómo leer el diagrama.** Dos paneles con tres características cada uno. El **presupuesto** es un compromiso: fija metas y asigna recursos, se mantiene como referencia, y su riesgo es que, si se liga a bonos, se negocia a la baja. El **forecast** es una expectativa: refleja la mejor estimación, se actualiza con la información y su riesgo es que, sin disciplina, se ajusta para coincidir con lo que pasa y no enseña nada. La nota recoge la advertencia de Jensen sobre separar planificación y evaluación.
 
 ## 📖 Desarrollo
 
-### 1. budget: mecanismo central
+### 1. Tres cosas distintas
 
-**budget** se entiende aquí como **plan aprobado que asigna recursos y objetivos**. Esta es la pieza causal o estructural desde la que se inicia **presupuesto y forecast**: antes de definir drivers y baseline, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Es común usar «presupuesto», «meta» y «pronóstico» como sinónimos y esa confusión genera los problemas. El **pronóstico** (forecast) dice lo que se espera que ocurra. La **meta** dice lo que se quiere lograr (puede ser mayor al pronóstico para estirar el esfuerzo). El **presupuesto** asigna recursos y fija compromisos. Cuando un mismo número cumple las tres funciones, queda mal para todas: si se fija ambicioso para motivar, es mal pronóstico; si se fija conservador para cumplir, es mala meta. Separarlos, o al menos declarar cuál es cuál, mejora cada función.
 
-La lectura rectora de este bloque es Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis*. Su aporte se usa para examinar **costos relevantes, presupuestos, variaciones y decisiones gerenciales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **forecast error**; regístrala con periodo, unidad, población y baseline.
+### 2. Qué dice Jensen
 
-Relaciona el mecanismo con **forecast**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Jensen sostiene que el proceso típico de presupuestos paga a las personas por mentir: se premia a quien logra un presupuesto bajo y lo cumple (el gerente que subestima su capacidad), y se castiga a quien reporta con honestidad un potencial mayor. Se genera un juego: las áreas ocultan información, piden más recursos de los necesarios y evitan superar con holgura la meta para no subir la del año siguiente. Su propuesta central es **desvincular la evaluación y la compensación de la negociación de la meta**, pagando por el desempeño real frente a una referencia no negociada (por ejemplo, el desempeño del año anterior o de competidores).
 
-### 2. forecast: frontera conceptual y error de clasificación
+### 3. Construir un presupuesto con supuestos
 
-**Definición operacional:** estimación actualizada basada en evidencia reciente. Su valor está en distinguirlo de **budget** y **variance**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Un presupuesto útil parte de **supuestos explícitos y compartidos**: crecimiento del mercado, precios, mezcla, tasas de conversión, productividad, inflación de costos, tipo de cambio. A partir de ellos se proyectan ingresos, costos, inversiones y caja, en ese orden. Se conectan las áreas: el plan de ventas alimenta el de producción, compras y personal; el de personas alimenta los gastos; las inversiones alimentan la depreciación y la caja. Se hace una **revisión de consistencia** (el crecimiento supuesto es compatible con la capacidad y con el capital de trabajo, clase 114).
 
-Contrasta el problema con Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*, que aporta una mirada sobre **valor del dinero, riesgo, costo de capital, inversión y financiación**. Formula dos mini-casos: uno que sí satisface la definición de **forecast** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **budget variance** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Forecast móvil
 
-Antes de construir budget con recursos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un **forecast móvil** (*rolling forecast*) actualiza cada mes o trimestre la proyección para los próximos 12 meses o los trimestres siguientes. En lugar de congelar un número en enero y medir contra él todo el año, se renueva la visión: ¿qué esperamos ahora?, ¿qué cambió?, ¿qué decisiones debemos tomar? El foco se mueve de explicar por qué no se cumplió el presupuesto a decidir qué hacer con lo que se sabe hoy. Para que funcione, es breve, usa pocos **impulsores** (volumen, precio, tasa de conversión) y se asocia a decisiones de recursos.
 
-### 3. variance: operacionalización y medición
+### 5. Escenarios y disparadores
 
-**variance** significa **diferencia entre actual y referencia**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un forecast con un solo número ofrece falsa precisión. Se prepara un escenario **base**, uno **optimista** y uno **adverso**, definidos por supuestos distintos sobre pocos impulsores, y se acompañan con **disparadores**: si la tasa de conversión baja de X por dos meses, se activa un plan de contención; si supera Y, se libera inversión adicional. Los escenarios permiten decidir qué compromisos fijos adquirir (contratar, firmar arriendos) y cuáles mantener flexibles. Brealey, Myers y Allen plantean el análisis de sensibilidad y de escenarios como parte de la planificación financiera.
 
-Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* orienta este bloque mediante **decisiones de inversión, financiación, capital de trabajo y valoración**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **driver accuracy**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Análisis de desvíos
 
-Al llegar a actualizar actuals, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cuando el resultado difiere del plan, se **descompone** el desvío: volumen, precio, mezcla, costos unitarios, eficiencia, y se asigna a quien lo controla. Se distingue lo **controlable** de lo **no controlable** (variación del mercado, tipo de cambio). Se separa lo **recurrente** de lo **puntual**. El análisis termina en una decisión: corregir, aceptar, ajustar el plan o revisar un supuesto. Los desvíos desfavorables que llegan sin diagnóstico terminan en culpas; los favorables sin explicación pasan desapercibidos y se pierden aprendizajes.
 
-### 4. driver-based model: trade-offs y efectos de segundo orden
+### 7. Incentivos y cultura
 
-**Definición:** forecast construido desde variables causales del negocio. Este concepto obliga a abandonar la idea de que **presupuesto y forecast** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de reforecast sin manipular para alcanzar plan, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* aporta una lente sobre **reconocimiento, medición y presentación de estados financieros y sus partidas**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **cash runway** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **presupuesto y forecast**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **driver-based model** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. scenario: gobernanza, límites e integración
-
-**scenario** se define como **conjunto coherente de supuestos alternativos** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Stephen H. Penman — *Financial Statement Analysis and Security Valuation* se utiliza para estudiar **reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración** y contrastar la recomendación final. Al ejecutar usar escenarios para decisiones de capacidad y caja, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Forecast no debe convertirse en target que la gente tema cambiar. Si se usa para evaluar a quien lo produce, se incentiva precisión política en vez de económica.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **budget**, **forecast**, **variance**, **driver-based model** y **scenario** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **presupuesto y forecast** no consiste en sumar cinco definiciones. Empieza por **budget**, contrasta **forecast** con **variance**, incorpora **driver-based model** como restricción o mecanismo y usa **scenario** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir drivers y baseline → 2. construir budget con recursos → 3. actualizar actuals → 4. reforecast sin manipular para alcanzar plan → 5. usar escenarios para decisiones de capacidad y caja**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Presupuesto, forecast y análisis de variaciones
-
-Presupuesto fija una intención/plan; forecast actualiza la mejor estimación con información reciente. No “corrijas” el forecast para proteger el presupuesto. Separa variaciones en drivers: precio, volumen, mix, costo unitario, headcount, tipo de cambio u otros que correspondan.
-
-Ejemplo: ventas presupuestadas 1.000 = 100 unidades × 10. Si se venden 90 a 11, ventas reales 990. La variación total es -10, pero precio aportó positivamente y volumen negativamente. El análisis driver-based evita respuestas equivocadas, como recortar marketing cuando el problema real fue capacidad de entrega.
-
-### Salida para una decisión ejecutiva
-
-Una proyección presentada como cifra única oculta la incertidumbre que el comité necesita gobernar. El pre-read debe mostrar: (1) supuestos con fuente, confianza y responsable; (2) rango y escenarios coherentes; (3) drivers de ingresos, margen, costos, caja, capital de trabajo, ROI y capital requerido; (4) sensibilidad al supuesto dominante; (5) riesgos fuera del modelo; y (6) fecha o trigger de reforecast.
-
-El ejecutivo no rehace el modelo financiero: interroga si la conclusión sigue en pie cuando cambia el driver dominante y decide cuánta exposición aceptar antes de obtener nueva evidencia.
+El comportamiento depende de qué se premia. Si el bono depende de cumplir el presupuesto negociado, habrá sandbagging (esconder potencial) y se ajustarán decisiones al cierre (adelantar o postergar ventas y gastos). Alternativas: evaluar por **desempeño relativo** (frente a pares o históricos), por **múltiples medidas** (resultado, calidad, aprendizaje), con **juicio** sobre las circunstancias, y **separar** el proceso de planificación del de compensación. Ninguna solución es perfecta y exige confianza; cualquier cambio en esquemas de pago debe revisar las condiciones contractuales y laborales.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* | costos relevantes, presupuestos, variaciones y decisiones gerenciales | ¿Qué supuesto de **presupuesto y forecast** ayuda a desafiar? |
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **presupuesto y forecast** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **presupuesto y forecast** ayuda a desafiar? |
-| Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* | reconocimiento, medición y presentación de estados financieros y sus partidas | ¿Qué supuesto de **presupuesto y forecast** ayuda a desafiar? |
-| Stephen H. Penman — *Financial Statement Analysis and Security Valuation* | reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración | ¿Qué supuesto de **presupuesto y forecast** ayuda a desafiar? |
-
-En **presupuesto y forecast**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **budget**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Jensen (2003) | Crítica de los presupuestos ligados a pagos. | Es un ensayo teórico; ofrece pocas recetas operativas. | ¿Qué incentivos distorsionan tu presupuesto? |
+| Brealey, Myers y Allen | Planificación financiera, sensibilidad y escenarios. | Teoría con supuestos. | ¿Qué supuesto mueve más el resultado? |
+| Palepu, Healy y Peek | Proyección de estados y análisis de supuestos. | Orientado al analista externo. | ¿Qué supuestos explícitos sostienen tus cifras? |
+| Horngren et al. | Presupuestos operativos y análisis de varianzas. | Contabilidad de gestión clásica. | ¿Quién controla esta varianza? |
+| Kahneman et al. (*Noise*) | Reducir el ruido y el sesgo de las estimaciones. | No es un manual de presupuestos. | ¿Qué sesgo tienen tus proyecciones? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** El presupuesto asume 25% crecimiento. A mitad de año los datos apuntan a 8%, pero el equipo mantiene el forecast original para no 'verse pesimista', retrasando ajustes de gasto.
+**Situación (hipotética).** Una empresa de software para empresas medianas tiene este presupuesto anual: ingresos USD 12 millones, crecimiento de 20 %, gastos USD 11 millones, utilidad operacional USD 1 millón. En el primer trimestre, los ingresos fueron USD 2,6 millones (presupuesto: 2,8) y los gastos USD 2,7 (presupuesto: 2,7).
 
-**Paso 1 — definir drivers y baseline.** La gerencia escribe primero el supuesto asociado a **budget** y evita convertirlo en hecho. Luego busca **forecast error** para contrastarlo en el caso de **presupuesto y forecast**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Descomposición del desvío en ingresos (−200).** Nuevos clientes: −260 (se cerraron 14 contratos en lugar de 20, por demoras en dos grandes); renovaciones: +60 (mejor retención). Causa del primero: ciclos de decisión de clientes más largos (de 90 a 120 días) por la incertidumbre económica.
 
-**Paso 2 — construir budget con recursos.** La gerencia escribe primero el supuesto asociado a **forecast** y evita convertirlo en hecho. Luego busca **budget variance** para contrastarlo en el caso de **presupuesto y forecast**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Forecast móvil.**
 
-**Paso 3 — actualizar actuals.** La gerencia escribe primero el supuesto asociado a **variance** y evita convertirlo en hecho. Luego busca **driver accuracy** para contrastarlo en el caso de **presupuesto y forecast**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Escenario | Supuesto clave | Ingresos de 12 meses | Utilidad operacional |
+|---|---|---|---|
+| Adverso | Ciclo de ventas sigue en 120 días y baja la conversión de 22 % a 18 % | 10,9 | −0,4 |
+| Base | Ciclo de ventas 110 días; conversión 22 % | 11,5 | 0,4 |
+| Optimista | Ciclo vuelve a 90 días | 12,1 | 1,0 |
 
-**Paso 4 — reforecast sin manipular para alcanzar plan.** La gerencia escribe primero el supuesto asociado a **driver-based model** y evita convertirlo en hecho. Luego busca **cash runway** para contrastarlo en el caso de **presupuesto y forecast**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Disparadores.** Si en dos meses la conversión baja de 20 %, se congela la contratación prevista de seis personas (ahorro de USD 0,5 millones en el año); si el ciclo de ventas baja de 100 días, se libera.
 
-**Paso 5 — usar escenarios para decisiones de capacidad y caja.** La gerencia escribe primero el supuesto asociado a **scenario** y evita convertirlo en hecho. Luego busca **reforecast frequency** para contrastarlo en el caso de **presupuesto y forecast**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Incentivos.** Se decide que el bono comercial se calcule sobre el desempeño frente al año anterior y frente a un indicador de mercado, y no solo frente al presupuesto negociado. La decisión se coordina con recursos humanos y asesoría laboral.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **presupuesto y forecast**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El desvío se explicó por causas y responsables. (2) El forecast cambió decisiones (contratación). (3) Los incentivos se revisaron para reducir el juego.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **budget** | plan aprobado que asigna recursos y objetivos | Cuando forecast error es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **forecast** | estimación actualizada basada en evidencia reciente | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Presupuesto frente a plan estratégico.** El plan fija dirección y apuestas multianuales; el presupuesto traduce el primer año a recursos y compromisos. Sin plan, el presupuesto proyecta el pasado.
 
-**Frontera de aplicación:** Forecast no debe convertirse en target que la gente tema cambiar. Si se usa para evaluar a quien lo produce, se incentiva precisión política en vez de económica.
+**Límites.** Ningún proceso elimina la incertidumbre. Los forecast móviles exigen disciplina y pueden volverse burocráticos si son largos. Eliminar los presupuestos tradicionales requiere cultura y alternativas de coordinación de recursos. La propuesta de Jensen es una crítica influyente más que una evidencia causal de cada empresa. Las decisiones sobre esquemas de remuneración variable deben respetar la normativa laboral y los contratos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre presupuesto y forecast |
+| Nivel | Cómo participa en presupuesto y forecast |
 |---|---|
-| **Profesional** | usa **presupuesto y forecast** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **budget** y **forecast** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta forecast error con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si presupuesto y forecast cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de presupuesto y forecast reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **presupuesto y forecast** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entrega estimaciones honestas y avisa cuando cambian los supuestos. |
+| **Jefe / Team Lead** | Propone presupuesto con supuestos y explica desvíos. |
+| **Gerente** | Construye el plan de su área, gestiona el forecast y los escenarios. |
+| **CEO / Director** | Diseña el proceso para que premie la honestidad y la decisión. |
+| **Founder / Owner** | Mantiene un forecast de caja y de ventas simple y lo revisa cada mes. |
 
 ## 🏢 Caso ejecutivo
 
-El presupuesto asume 25% crecimiento. A mitad de año los datos apuntan a 8%, pero el equipo mantiene el forecast original para no 'verse pesimista', retrasando ajustes de gasto.
+Una empresa de retail con 60 tiendas negocia su presupuesto en un proceso de tres meses. Cada gerente regional pide aumentos de dotación y de inversión; se aprueban recortes arbitrarios de 8 % a todos; las metas de venta se fijan 10 % sobre el año anterior sin importar el mercado local. El bono anual depende de cumplir el presupuesto de ventas y de gasto. Cada año, el 80 % de las regiones lo cumple casi exacto en el último mes, con liquidaciones y facturas adelantadas. El año siguiente, los resultados de enero y febrero son muy débiles. El nuevo director financiero quiere un forecast móvil y cambiar el sistema de bonos.
 
-Entrega un **decision brief de presupuesto y forecast** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **rediseño del proceso de presupuesto y forecast** que contenga: (a) el diagnóstico de los juegos y su costo; (b) la separación entre meta, pronóstico y presupuesto; (c) el modelo de forecast móvil con impulsores y escenarios; (d) los disparadores de decisión; (e) la propuesta de evaluación y bonos con su transición y las verificaciones laborales necesarias; (f) el análisis de desvíos y la forma de usarlo sin castigo.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **presupuesto y forecast** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir drivers y baseline → 2. construir budget con recursos → 3. actualizar actuals → 4. reforecast sin manipular para alcanzar plan → 5. usar escenarios para decisiones de capacidad y caja** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta forecast error, budget variance; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
-7. Reexpresa el forecast como rango y escenarios; identifica la sensibilidad dominante y fija el trigger de reforecast.
+1. Escribe cinco supuestos explícitos que sostengan el presupuesto de tu área.
+2. Descompone un desvío de ingresos en volumen, precio y mezcla.
+3. Diseña un forecast de 12 meses con tres escenarios y un disparador.
+4. Identifica un incentivo que distorsione tu presupuesto y propón un ajuste.
+5. Redacta cómo explicarías un desvío desfavorable sin buscar culpables.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar budget y forecast como sinónimos | Se pierde la distinción entre “plan aprobado que asigna recursos y objetivos” y “estimación actualizada basada en evidencia reciente” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “usar escenarios para decisiones de capacidad y caja” | Se saltó “definir drivers y baseline” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir drivers y baseline → 2. construir budget con recursos → 3. actualizar actuals → 4. reforecast sin manipular para alcanzar plan → 5. usar escenarios para decisiones de capacidad y caja y marca el primer supuesto no demostrado. |
-| Optimizar solo forecast error | La métrica local sustituyó al resultado del sistema | Contrástala con budget variance y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre presupuesto y forecast | Forecast no debe convertirse en target que la gente tema cambiar. Si se usa para evaluar a quien lo produce, se incentiva precisión política en vez de económica. |
-| No fijar revisión | Una decisión sobre presupuesto y forecast se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Mismo número para meta, pronóstico y presupuesto | Se busca simplicidad | Declarar y separar funciones. |
+| Pagar por cumplir lo negociado | Parece objetivo | Evaluar con referencias no negociadas y con juicio. |
+| Presupuesto sin supuestos | Se proyecta el pasado | Supuestos explícitos y revisión. |
+| Forecast que se ajusta al resultado | No hay disciplina | Registrar versiones y medir su precisión. |
+| Un único escenario | Se evita la incertidumbre | Base, adverso y optimista. |
+| Desvíos sin diagnóstico | Se busca al responsable | Descomponer por causas y controlabilidad. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **budget** y **forecast** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **variance** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir drivers y baseline → construir budget con recursos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **forecast error** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **presupuesto y forecast**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Forecast no debe convertirse en target que la gente tema cambiar. Si se usa para evaluar a quien lo produce, se incentiva precisión política en vez de económica.**?
+1. ¿Qué diferencia hay entre presupuesto, forecast y meta?
+2. ¿Qué crítica hace Jensen al proceso de presupuestos?
+3. ¿Qué es un forecast móvil y qué ventaja tiene?
+4. ¿Para qué sirven los escenarios y los disparadores?
+5. ¿Cómo se analiza un desvío?
+6. ¿Qué alternativas hay a pagar por cumplir un presupuesto negociado?
+7. ¿Qué límite tiene la propuesta de Jensen?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El presupuesto asigna recursos y fija compromisos; el forecast es la mejor estimación actualizada; la meta es el nivel que se busca lograr.
+2. Que vincular el pago al cumplimiento de un presupuesto negociado premia la subestimación y la ocultación de información.
+3. Una proyección que se renueva de forma continua sobre un horizonte constante; reorienta la discusión hacia decisiones con la información actual.
+4. Para decidir qué compromisos fijos asumir y qué hacer si ocurren ciertos hechos, con acciones preparadas.
+5. Descomponiéndolo en volumen, precio, mezcla y costos, separando lo controlable de lo no controlable y lo recurrente de lo puntual, y decidiendo una acción.
+6. Evaluar por desempeño relativo, múltiples medidas, juicio y separar la planificación de la compensación.
+7. Es una crítica influyente y teórica que no prueba por sí sola el efecto en cada empresa, y su aplicación exige cultura y revisión laboral.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/115-presupuesto-y-forecast/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **presupuesto y forecast**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **presupuesto y forecast** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **budget**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **El presupuesto asume 25% crecimiento. A mitad de año los datos apuntan a 8%, pero el equipo mantiene el forecast original para no 'verse pesimista', retrasando ajustes de gasto.** y el dato que podría invalidar la recomendación.
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el forecast y los escenarios del caso ejecutivo;
+- `monthly-business-review.md` (plantilla [Monthly business review](../../../../templates/monthly-business-review.md)) con el análisis de desvíos;
+- `decision-journal.md` con los supuestos, los disparadores y los cambios de incentivos.
 
 ## 📗 Fuentes y verificación
 
-- Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* (Prentice Hall College Div, 2002). **Uso en esta clase:** costos relevantes, presupuestos, variaciones y decisiones gerenciales. Lectura selectiva sobre **presupuesto y forecast**. **Localizador:** [ISBN-13 9780130650061](https://openlibrary.org/isbn/9780130650061).
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **presupuesto y forecast**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **presupuesto y forecast**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** reconocimiento, medición y presentación de estados financieros y sus partidas. Lectura selectiva sobre **presupuesto y forecast**. **Localizador:** [ISBN-13 9780470098189](https://openlibrary.org/isbn/9780470098189).
-- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración. Lectura selectiva sobre **presupuesto y forecast**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **presupuesto y forecast**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **presupuesto y forecast** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **presupuesto y forecast**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **presupuesto y forecast** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **presupuesto y forecast** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **presupuesto y forecast** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Michael C. Jensen — *Paying People to Lie: the Truth about the Budgeting Process* (European Financial Management, 2003). **Uso en esta clase:** crítica de los presupuestos ligados a pagos. Lectura selectiva sobre **presupuesto y forecast**. **Localizador:** [DOI 10.1111/1468-036x.00226](https://doi.org/10.1111/1468-036x.00226).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** planificación financiera, sensibilidad y escenarios. Lectura selectiva sobre **presupuesto y forecast**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** proyección de estados y análisis de supuestos. Lectura selectiva sobre **presupuesto y forecast**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
+- Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* (Prentice Hall College Div, 2002). **Uso en esta clase:** presupuestos operativos y análisis de varianzas. Lectura selectiva sobre **presupuesto y forecast**. **Localizador:** [ISBN-13 9780130650061](https://openlibrary.org/isbn/9780130650061).
+- Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise* (Little, Brown Spark, 2021). **Uso en esta clase:** reducir el ruido y el sesgo de las estimaciones. Lectura selectiva sobre **presupuesto y forecast**. **Localizador:** [ISBN-13 9780316451383](https://openlibrary.org/isbn/9780316451383).
 
-> **Regla de fuentes para Presupuesto y forecast:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **presupuesto y forecast** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Presupuesto y forecast:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales sobre remuneración variable. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

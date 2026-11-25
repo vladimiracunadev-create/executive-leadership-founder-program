@@ -367,18 +367,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
-        "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
-        "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
-        "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
-        "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
-        "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
-        "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
-        "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even",
-        "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
-        "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
-        "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
-        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
         "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
         "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
         "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
@@ -728,13 +716,8 @@
       "locator": "https://openlibrary.org/isbn/9781118206546",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
-        "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
-        "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
-        "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
-        "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even",
-        "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
         "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
+        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
         "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
         "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
         "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
@@ -1155,9 +1138,9 @@
       "locator": "https://openlibrary.org/isbn/9780130650061",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
-        "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
+        "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
         "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
+        "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
         "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
         "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even",
         "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback"
@@ -1856,17 +1839,7 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
-        "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
-        "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
-        "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
-        "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
-        "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
-        "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
-        "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even",
-        "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
-        "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
-        "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
-        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion"
+        "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera"
       ],
       "status": "verificada",
       "authority": "John Wiley & Sons, Incorporated"
@@ -2015,7 +1988,8 @@
         "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
         "modules/07-operations-process-quality/classes/088-capacidad-y-demanda",
         "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones",
-        "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion"
+        "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion",
+        "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo"
       ],
       "status": "verificada",
       "authority": "HighBridge Audio"
@@ -2289,18 +2263,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
-        "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
-        "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
-        "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
-        "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
-        "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
-        "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
-        "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even",
-        "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
-        "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
-        "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
-        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
         "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
         "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
         "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
@@ -2602,11 +2564,9 @@
       "locator": "https://openlibrary.org/isbn/9781978605459",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
         "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
-        "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
-        "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
-        "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
-        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion"
+        "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja"
       ],
       "status": "verificada",
       "authority": "McGraw-Hill Education on Brilliance Audio"
@@ -2624,11 +2584,8 @@
       "locator": "https://www.ifrs.org/",
       "accessed": "",
       "used_in": [
-        "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
-        "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
-        "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
-        "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
-        "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo"
+        "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
+        "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados"
       ],
       "status": "pendiente",
       "last_error": "URLError: <urlopen error [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1010)>"
@@ -3132,7 +3089,13 @@
         "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
         "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
         "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
-        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion"
+        "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
+        "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
+        "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
+        "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even",
+        "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
+        "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
+        "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos"
       ],
       "status": "verificada",
       "authority": "South-Western College Pub"
@@ -4094,18 +4057,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
-        "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
-        "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
-        "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
-        "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
-        "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
-        "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
-        "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even",
-        "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
-        "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
-        "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
-        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
         "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
         "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
         "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
@@ -4715,12 +4666,12 @@
       "locator": "https://openlibrary.org/isbn/9780070662025",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
+        "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
+        "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
         "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
         "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
         "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
         "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even",
-        "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
         "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
         "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
         "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
@@ -5321,13 +5272,9 @@
         "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
         "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
         "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
-        "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
-        "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
         "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even",
         "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
-        "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
-        "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
-        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion"
+        "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos"
       ],
       "status": "verificada",
       "authority": "McGraw-Hill/Irwin"
@@ -5347,15 +5294,10 @@
       "locator": "https://openlibrary.org/isbn/9781259918940",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
         "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
-        "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
+        "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
         "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
-        "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
-        "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even",
-        "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
         "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
-        "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
         "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
         "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
         "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
@@ -5515,18 +5457,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
-        "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
-        "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
-        "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
-        "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
-        "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
-        "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
-        "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even",
-        "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
-        "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
-        "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
-        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
         "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
         "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
         "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
@@ -5818,10 +5748,7 @@
       "locator": "https://openlibrary.org/isbn/9780471702191",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
-        "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
-        "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
-        "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
+        "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
         "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
         "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
         "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
@@ -5968,18 +5895,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
-        "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
-        "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
-        "modules/09-managerial-finance-accounting/classes/112-flujo-de-caja",
-        "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
-        "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
-        "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
-        "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even",
-        "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
-        "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
-        "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
-        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
         "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
         "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
         "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
@@ -7037,7 +6952,8 @@
         "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
         "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
         "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
-        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos"
+        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
+        "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast"
       ],
       "status": "verificada"
     },
@@ -7411,6 +7327,85 @@
       "used_in": [
         "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
         "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "michael-c-jensen-paying-people-to-lie-the-truth-about-the-budgeting-process",
+      "type": "paper",
+      "authors": [
+        "Jensen, Michael C."
+      ],
+      "title": "Paying People to Lie: the Truth about the Budgeting Process",
+      "cited_as": "Michael C. Jensen — Paying People to Lie: the Truth about the Budgeting Process",
+      "authority": "European Financial Management",
+      "published": "2003",
+      "doi": "10.1111/1468-036x.00226",
+      "locator": "https://doi.org/10.1111/1468-036x.00226",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
+        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "john-r-graham-campbell-r-harvey-the-theory-and-practice-of-corporate-finance-evi",
+      "type": "paper",
+      "authors": [
+        "Graham, John R.",
+        "Harvey, Campbell R."
+      ],
+      "title": "The theory and practice of corporate finance: evidence from the field",
+      "cited_as": "John R. Graham & Campbell R. Harvey — The theory and practice of corporate finance: evidence from the field",
+      "authority": "Journal of Financial Economics",
+      "published": "2001",
+      "doi": "10.1016/s0304-405x(01)00044-7",
+      "locator": "https://doi.org/10.1016/s0304-405x(01)00044-7",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
+        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "sunil-gupta-donald-r-lehmann-jennifer-ames-stuart-valuing-customers",
+      "type": "paper",
+      "authors": [
+        "Gupta, Sunil",
+        "Lehmann, Donald R.",
+        "Stuart, Jennifer Ames"
+      ],
+      "title": "Valuing Customers",
+      "cited_as": "Sunil Gupta, Donald R. Lehmann & Jennifer Ames Stuart — Valuing Customers",
+      "authority": "Journal of Marketing Research",
+      "published": "2004",
+      "doi": "10.1509/jmkr.41.1.7.25084",
+      "locator": "https://doi.org/10.1509/jmkr.41.1.7.25084",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "robert-s-kaplan-robin-cooper-cost-effect",
+      "type": "book",
+      "authors": [
+        "Kaplan, Robert S.",
+        "Cooper, Robin"
+      ],
+      "title": "Cost & Effect",
+      "cited_as": "Robert S. Kaplan & Robin Cooper — Cost & Effect",
+      "authority": "Harvard Business School Press",
+      "published": "1998",
+      "isbn13": "9780875847887",
+      "locator": "https://openlibrary.org/isbn/9780875847887",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
+        "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even"
       ],
       "status": "verificada"
     }

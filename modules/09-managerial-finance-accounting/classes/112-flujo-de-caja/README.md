@@ -10,226 +10,200 @@
 
 ## 🎯 Propósito
 
-El flujo de caja revela cuándo el efectivo entra y sale por operación, inversión y financiamiento. Beneficio no es caja: crecimiento puede consumir efectivo por capital de trabajo y CAPEX. El gerente debe distinguir generación operativa recurrente de financiamiento externo.
+Las empresas no quiebran por tener pérdidas: quiebran porque no pueden pagar lo que deben el día en que vence. La utilidad es una opinión contable; la caja es un hecho. Por eso el flujo de caja es la información más cercana a la supervivencia, y gestionarlo exige dos miradas: la **retrospectiva** (por qué cambió la caja en el período) y la **prospectiva** (cuánta caja habrá en las próximas semanas y meses, y qué tan sensible es a lo que no controlamos).
 
-La salida de esta parte es **leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **flujo de caja** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el estado de flujo de efectivo según Palepu, Healy y Peek y Penman, en la teoría de flujos libres de Brealey, Myers y Allen y en la lógica de planificación financiera de Ross, Westerfield y Jaffe. Al terminar sabrás explicar la diferencia entre utilidad y caja, leer los tres flujos (operación, inversión y financiamiento), calcular el flujo de caja libre y construir un calendario de caja de corto plazo con escenarios.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `operating cash flow`, `investing cash flow`, `financing cash flow`, `free cash flow`, `cash conversion` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. partir de resultado o cobros-pagos → 2. ajustar partidas no caja → 3. incorporar capital de trabajo → 4. separar CAPEX → 5. conciliar financiamiento y saldo final** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** operating cash flow, free cash flow, cash conversion sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Explicar** por qué utilidad y caja divergen y construir el puente entre ambas.
+2. **Leer** los flujos de operación, inversión y financiamiento.
+3. **Calcular** el flujo de caja libre y entender qué mide.
+4. **Proyectar** el calendario de caja a 13 semanas con escenarios.
+5. **Definir** el margen de seguridad de liquidez y las acciones de respuesta.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define operating cash flow y investing cash flow sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con operating cash flow y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuántas semanas de pagos cubre hoy la caja de tu empresa o de tu hogar sin nuevos ingresos? |
+| 20–60 min | Puente utilidad–caja, flujos y calendario. |
+| 60–105 min | Ejemplo trabajado: una empresa que crece con utilidades y se queda sin caja. |
+| 105–150 min | Caso ejecutivo y práctica de proyección. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **operating cash flow** | efectivo generado o consumido por operación | Distingue un hecho compatible y otro que lo refute. |
-| **investing cash flow** | flujos por adquisición o venta de activos e inversiones | Distingue un hecho compatible y otro que lo refute. |
-| **financing cash flow** | flujos con acreedores y propietarios | Distingue un hecho compatible y otro que lo refute. |
-| **free cash flow** | efectivo disponible después de inversiones necesarias, según definición utilizada | Distingue un hecho compatible y otro que lo refute. |
-| **cash conversion** | diferencia temporal entre resultado contable y cobro/pago real | Distingue un hecho compatible y otro que lo refute. |
+| **Flujo operativo** | Caja generada o consumida por la actividad principal. | Utilidad ajustada por partidas no monetarias y capital de trabajo. |
+| **Flujo de inversión** | Caja usada o recibida por compra o venta de activos de largo plazo. | Compra de equipos, adquisiciones. |
+| **Flujo de financiamiento** | Caja de préstamos, aportes y pagos a acreedores y dueños. | Deuda nueva, pagos de capital, dividendos. |
+| **Flujo de caja libre** | Caja operativa menos inversiones necesarias para sostener el negocio. | Lo que queda para acreedores y dueños. |
+| **Calendario de caja** | Proyección de entradas y salidas por semana. | Muestra el saldo mínimo y cuándo ocurre. |
+| **Colchón de liquidez** | Caja o líneas disponibles que protegen ante imprevistos. | Se mide en semanas de gastos. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 112: 1. partir de resultado o cobros-pagos → 2. ajustar partidas no caja → 3. incorporar capital de trabajo → 4. separar CAPEX → 5. conciliar financiamiento y saldo final](modelo-mental.svg)
+![De la utilidad al flujo de caja operativo: partidas que separan una de otra, con su efecto y razón.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. partir de resultado o cobros-pagos → 2. ajustar partidas no caja → 3. incorporar capital de trabajo → 4. separar CAPEX → 5. conciliar financiamiento y saldo final
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El flujo de caja revela cuándo el efectivo entra y sale por operación, inversión y financiamiento. Beneficio no es caja: crecimiento puede consumir efectivo por capital de trabajo y CAPEX. El gerente debe distinguir generación operativa recurrente de financiamiento externo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No existe una única definición universal de free cash flow o burn. Declara fórmula y propósito antes de comparar; evita tratar caja puntual como capacidad recurrente.**
+**Cómo leer el diagrama.** Una tabla que parte de la **utilidad neta** y llega al **flujo de caja operativo** con ajustes. Se **suma** la depreciación porque no sale caja. Se **resta** el aumento de cuentas por cobrar y de inventario, porque la empresa vendió o compró sin que el efectivo se moviera todavía. Se **suma** el aumento de cuentas por pagar, que financia la operación. La nota señala el efecto más peligroso: una empresa que crece rápido consume caja en capital de trabajo aunque tenga utilidades.
 
 ## 📖 Desarrollo
 
-### 1. operating cash flow: mecanismo central
+### 1. Por qué la caja manda
 
-**operating cash flow** se entiende aquí como **efectivo generado o consumido por operación**. Esta es la pieza causal o estructural desde la que se inicia **flujo de caja**: antes de partir de resultado o cobros-pagos, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Una empresa con utilidad pero sin caja no puede pagar sueldos, proveedores ni impuestos; una con pérdidas pero con caja puede sobrevivir años. Brealey, Myers y Allen definen el valor de una empresa como el valor presente de sus flujos de caja futuros, no de sus utilidades contables: son los flujos los que pagan a acreedores y accionistas. Para el gerente, esto significa que cada decisión (plazos, inventarios, inversiones, descuentos) debe evaluarse también por su efecto en la caja y en su calendario.
 
-La lectura rectora de este bloque es Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*. Su aporte se usa para examinar **reconocimiento, medición y presentación de estados financieros y sus partidas**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **operating cash flow**; regístrala con periodo, unidad, población y baseline.
+### 2. El puente de la utilidad a la caja
 
-Relaciona el mecanismo con **investing cash flow**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El método indirecto parte de la utilidad neta y la corrige: **suma** gastos que no son salida de caja (depreciación, amortización, provisiones) y **ajusta por el cambio en el capital de trabajo operativo**. Si las cuentas por cobrar suben, la empresa vendió pero no cobró: resta caja. Si el inventario sube, compró o produjo sin vender: resta caja. Si las cuentas por pagar suben, financió con proveedores: suma caja. El resultado es el **flujo de caja operativo**. Palepu, Healy y Peek recomiendan compararlo con la utilidad: una brecha persistente invita a investigar la calidad del resultado.
 
-### 2. investing cash flow: frontera conceptual y error de clasificación
+### 3. Operación, inversión y financiamiento
 
-**Definición operacional:** flujos por adquisición o venta de activos e inversiones. Su valor está en distinguirlo de **operating cash flow** y **financing cash flow**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El estado de flujo de efectivo clasifica el movimiento de caja en tres actividades. **Operación**: lo que genera el negocio. **Inversión**: compra y venta de activos de largo plazo, adquisiciones y colocaciones. **Financiamiento**: préstamos nuevos y pagos, aportes de capital, dividendos. Una empresa sana típicamente genera caja operativa positiva, invierte para sostener o crecer y ajusta el financiamiento en consecuencia. Una combinación peligrosa es **operación negativa financiada con deuda**: se consume caja del negocio con préstamos, lo que no es sostenible salvo en una etapa de crecimiento con fuente de capital asegurada.
 
-Contrasta el problema con Stephen H. Penman — *Financial Statement Analysis and Security Valuation*, que aporta una mirada sobre **reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración**. Formula dos mini-casos: uno que sí satisface la definición de **investing cash flow** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **free cash flow** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Flujo de caja libre
 
-Antes de ajustar partidas no caja, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El **flujo de caja libre** es la caja operativa menos las inversiones necesarias para mantener y hacer crecer el negocio (inversión en activos fijos y, a veces, en capital de trabajo). Representa la caja que la empresa podría distribuir a acreedores y dueños sin dañar su operación. Es la base de la valoración por flujos descontados (clase 119). Hay variantes —libre para la empresa (antes de intereses) y libre para el accionista (después)— y la elección debe ser consistente con la tasa de descuento. Un flujo libre negativo no es malo por sí mismo si financia crecimiento rentable.
 
-### 3. financing cash flow: operacionalización y medición
+### 5. El calendario de caja de corto plazo
 
-**financing cash flow** significa **flujos con acreedores y propietarios**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La proyección de 13 semanas es una herramienta de supervivencia. Se construye con: **saldo inicial**; **entradas** por cobranza proyectada (por antigüedad de las cuentas, no por fecha de facturación); **salidas**: sueldos, proveedores, impuestos, arriendos, servicio de deuda, inversiones comprometidas; y **saldo final** de cada semana. Se identifica el **saldo mínimo** y la semana en que ocurre. Se actualiza semanalmente comparando lo proyectado con lo real: las diferencias enseñan dónde se equivocan los supuestos de cobranza o de pagos.
 
-Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* orienta este bloque mediante **costos relevantes, presupuestos, variaciones y decisiones gerenciales**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **cash conversion**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Escenarios y margen de seguridad
 
-Al llegar a incorporar capital de trabajo, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Se construyen al menos tres escenarios: **base**, **adverso** (por ejemplo, cobranza 15 días más lenta y ventas 10 % menores) y **severo** (un cliente grande que no paga). Para cada uno, se calcula el saldo mínimo y se define qué acciones se activarían: acelerar cobranza, diferir inversiones, negociar plazos con proveedores, activar líneas de crédito. El **colchón de liquidez** se expresa en semanas de gasto operativo; la cifra apropiada depende de la volatilidad del negocio y del acceso a financiamiento. Conviene definir **disparadores**: si la caja cae bajo X semanas, se activan acciones preparadas.
 
-### 4. free cash flow: trade-offs y efectos de segundo orden
+### 7. Las palancas de la caja
 
-**Definición:** efectivo disponible después de inversiones necesarias, según definición utilizada. Este concepto obliga a abandonar la idea de que **flujo de caja** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de separar capex, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* aporta una lente sobre **drivers de valor, ROIC, crecimiento y valoración por flujo descontado**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **burn rate** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **flujo de caja**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **free cash flow** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. cash conversion: gobernanza, límites e integración
-
-**cash conversion** se define como **diferencia temporal entre resultado contable y cobro/pago real** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* se utiliza para estudiar **señales de calidad de resultados, partidas no recurrentes y posibles distorsiones contables** y contrastar la recomendación final. Al ejecutar conciliar financiamiento y saldo final, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No existe una única definición universal de free cash flow o burn. Declara fórmula y propósito antes de comparar; evita tratar caja puntual como capacidad recurrente.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **operating cash flow**, **investing cash flow**, **financing cash flow**, **free cash flow** y **cash conversion** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **flujo de caja** no consiste en sumar cinco definiciones. Empieza por **operating cash flow**, contrasta **investing cash flow** con **financing cash flow**, incorpora **free cash flow** como restricción o mecanismo y usa **cash conversion** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. partir de resultado o cobros-pagos → 2. ajustar partidas no caja → 3. incorporar capital de trabajo → 4. separar CAPEX → 5. conciliar financiamiento y saldo final**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### CFO, CFI, CFF y flujo libre
-
-El estado de flujo separa `CFO` (operación), `CFI` (inversión) y `CFF` (financiación). Por método indirecto, CFO parte del resultado y ajusta partidas no monetarias y cambios en capital de trabajo. Una forma gerencial simplificada de flujo libre es `FCF ≈ CFO - CAPEX`, siempre aclarando definición y propósito.
-
-Ejemplo: una empresa puede reportar utilidad de 10, aumentar cuentas por cobrar en 8 e inventario en 4 y terminar con CFO mucho menor. El crecimiento “rentable” consume caja cuando se financia a clientes o inventario. Por eso el gerente debe rastrear la conversión de beneficio a efectivo y distinguir un problema operativo de una decisión de inversión o financiación.
+Las palancas más rápidas están en el capital de trabajo: **cobrar antes** (facturación oportuna, cobranza activa, incentivos por pronto pago), **pagar a plazos razonables** sin dañar relaciones críticas, **reducir inventario** y **vender lo que no rota**. Otras: renegociar precios, diferir inversiones no críticas, vender activos no estratégicos y alterar la estructura de deuda. Cada palanca tiene costos (descuentos, pérdida de crédito de proveedores, riesgos operativos) que se evalúan. Una regla de prudencia: no depender de una sola palanca ni de que el próximo trimestre «mejore».
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* | reconocimiento, medición y presentación de estados financieros y sus partidas | ¿Qué supuesto de **flujo de caja** ayuda a desafiar? |
-| Stephen H. Penman — *Financial Statement Analysis and Security Valuation* | reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración | ¿Qué supuesto de **flujo de caja** ayuda a desafiar? |
-| Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* | costos relevantes, presupuestos, variaciones y decisiones gerenciales | ¿Qué supuesto de **flujo de caja** ayuda a desafiar? |
-| Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* | drivers de valor, ROIC, crecimiento y valoración por flujo descontado | ¿Qué supuesto de **flujo de caja** ayuda a desafiar? |
-| Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* | señales de calidad de resultados, partidas no recurrentes y posibles distorsiones contables | ¿Qué supuesto de **flujo de caja** ayuda a desafiar? |
-
-En **flujo de caja**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **operating cash flow**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Palepu, Healy y Peek | Lectura del flujo y comparación con la utilidad. | Marco de análisis, no de planificación. | ¿La utilidad se convierte en caja? |
+| Penman | Separar flujos operativos de financieros. | Más técnico. | ¿Qué flujo es sostenible? |
+| Brealey, Myers y Allen | El valor como flujos futuros descontados. | Teoría con supuestos. | ¿Qué flujo libre genera el negocio? |
+| Ross, Westerfield y Jaffe | Planificación financiera y capital de trabajo. | Orientado a grandes empresas. | ¿Cuántas semanas de caja hay? |
+| Schilit et al. | Señales de que la utilidad no se convierte en caja. | Catálogo de alertas. | ¿Por qué divergen utilidad y caja? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una firma muestra EBITDA de 10 millones, pero aumenta inventario 6 millones, cuentas por cobrar 4 millones e invierte 5 millones en equipos. Necesita financiación pese al EBITDA positivo.
+**Situación (hipotética).** Una empresa de equipamiento médico crece 50 % en el año. Cifras anuales (USD miles).
 
-**Paso 1 — partir de resultado o cobros-pagos.** La gerencia escribe primero el supuesto asociado a **operating cash flow** y evita convertirlo en hecho. Luego busca **operating cash flow** para contrastarlo en el caso de **flujo de caja**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Partida | Año anterior | Año actual |
+|---|---|---|
+| Ventas | 8.000 | 12.000 |
+| Utilidad neta | 640 | 1.000 |
+| Depreciación | 200 | 260 |
+| Cuentas por cobrar (final) | 1.200 | 2.400 |
+| Inventario (final) | 1.000 | 2.200 |
+| Cuentas por pagar (final) | 800 | 1.100 |
 
-**Paso 2 — ajustar partidas no caja.** La gerencia escribe primero el supuesto asociado a **investing cash flow** y evita convertirlo en hecho. Luego busca **free cash flow** para contrastarlo en el caso de **flujo de caja**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Puente utilidad–caja del año actual.**
 
-**Paso 3 — incorporar capital de trabajo.** La gerencia escribe primero el supuesto asociado a **financing cash flow** y evita convertirlo en hecho. Luego busca **cash conversion** para contrastarlo en el caso de **flujo de caja**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Concepto | USD miles |
+|---|---|
+| Utilidad neta | 1.000 |
+| + Depreciación | 260 |
+| − Aumento de cuentas por cobrar (2.400 − 1.200) | −1.200 |
+| − Aumento de inventario (2.200 − 1.000) | −1.200 |
+| + Aumento de cuentas por pagar (1.100 − 800) | +300 |
+| **Flujo de caja operativo** | **−840** |
 
-**Paso 4 — separar CAPEX.** La gerencia escribe primero el supuesto asociado a **free cash flow** y evita convertirlo en hecho. Luego busca **burn rate** para contrastarlo en el caso de **flujo de caja**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** Con una utilidad de 1.000, la operación consumió 840 de caja. Si además se invirtieron 500 en equipos, la necesidad de financiamiento fue de 1.340. Los días de cobro subieron de 55 a 73 (2.400 / 12.000 × 365) y los de inventario crecieron en proporción.
 
-**Paso 5 — conciliar financiamiento y saldo final.** La gerencia escribe primero el supuesto asociado a **cash conversion** y evita convertirlo en hecho. Luego busca **ending cash** para contrastarlo en el caso de **flujo de caja**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Calendario de 13 semanas.** Con caja inicial de 600, salidas semanales de 190 y cobranzas lentas, el saldo mínimo proyectado en la semana 7 es de −120 en el escenario adverso. Acciones preparadas: acelerar cobranza de tres clientes que concentran 40 % de las cuentas por cobrar, diferir una compra de equipos y activar una línea de crédito de 400 (con costo).
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **flujo de caja**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Decisión.** Antes de aprobar un nuevo crecimiento de 30 %, se exige un plan de financiamiento del capital de trabajo adicional: unas USD 1.700 en cuentas por cobrar e inventario. Se evalúan alternativas: factoring de cuentas por cobrar, línea de crédito o aporte de capital.
+
+**Qué muestra.** (1) Crecer con utilidades consumió caja. (2) El calendario de corto plazo anticipó la semana crítica. (3) Las acciones estaban definidas antes de necesitarlas.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **operating cash flow** | efectivo generado o consumido por operación | Cuando operating cash flow es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **investing cash flow** | flujos por adquisición o venta de activos e inversiones | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Flujo de caja frente a EBITDA.** El EBITDA aproxima la caja operativa antes de capital de trabajo, impuestos e inversiones; no es caja. Confundirlos lleva a subestimar las necesidades de financiamiento.
 
-**Frontera de aplicación:** No existe una única definición universal de free cash flow o burn. Declara fórmula y propósito antes de comparar; evita tratar caja puntual como capacidad recurrente.
+**Límites.** Las proyecciones de caja dependen de supuestos de cobranza y de ventas que se equivocan; se actualizan y se contrastan. El método indirecto oculta la composición de cobros y pagos. Los flujos de un período pueden estar afectados por operaciones puntuales de fin de año (por ejemplo, adelantar cobros). Las obligaciones tributarias, laborales y de deuda tienen fechas y consecuencias legales que se verifican en la normativa y los contratos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre flujo de caja |
+| Nivel | Cómo participa en la gestión de caja |
 |---|---|
-| **Profesional** | usa **flujo de caja** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **operating cash flow** y **investing cash flow** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta operating cash flow con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si flujo de caja cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de flujo de caja reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **flujo de caja** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Factura a tiempo, documenta entregas y avisa de retrasos que afecten cobros. |
+| **Jefe / Team Lead** | Gestiona inventario, compras o cobranza de su equipo. |
+| **Gerente** | Lee el calendario de caja y activa las palancas. |
+| **CEO / Director** | Fija el colchón y los disparadores y decide el financiamiento. |
+| **Founder / Owner** | Mira la caja semanal y la trata como indicador de supervivencia. |
 
 ## 🏢 Caso ejecutivo
 
-Una firma muestra EBITDA de 10 millones, pero aumenta inventario 6 millones, cuentas por cobrar 4 millones e invierte 5 millones en equipos. Necesita financiación pese al EBITDA positivo.
+Una empresa de tecnología educativa vende licencias anuales a colegios, con facturación en marzo y cobranza entre abril y julio. Sus gastos son uniformes durante el año. Tras tres años de crecimiento, el año pasado tuvo una utilidad de USD 900.000, pero en septiembre la caja llegó a USD 50.000 y debió retrasar pagos a proveedores. Este año planea contratar 20 personas y lanzar un producto nuevo, con inversión de USD 700.000. Un colegio grande, que representa el 15 % de las ventas, informa que pagará en octubre en lugar de junio. El banco ofrece una línea de crédito a 12 meses con covenants de liquidez.
 
-Entrega un **decision brief de flujo de caja** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de gestión de caja** con: (a) el puente utilidad–caja del año pasado y la explicación de la estacionalidad; (b) el calendario de 13 semanas y de 12 meses con tres escenarios; (c) el saldo mínimo y las semanas críticas; (d) las palancas de caja con su costo y su efecto; (e) la decisión sobre la contratación y el producto nuevo con condiciones; (f) los covenants a verificar en el contrato de crédito y la asesoría necesaria.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **flujo de caja** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. partir de resultado o cobros-pagos → 2. ajustar partidas no caja → 3. incorporar capital de trabajo → 4. separar CAPEX → 5. conciliar financiamiento y saldo final** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta operating cash flow, free cash flow; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Construye el puente de utilidad a caja operativa con datos de un caso.
+2. Calcula el flujo de caja libre y compáralo con la utilidad.
+3. Arma un calendario de caja de 13 semanas con saldo inicial, entradas y salidas.
+4. Define un escenario adverso y las acciones que activarías.
+5. Calcula el colchón de liquidez en semanas de gasto operativo.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar operating cash flow y investing cash flow como sinónimos | Se pierde la distinción entre “efectivo generado o consumido por operación” y “flujos por adquisición o venta de activos e inversiones” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “conciliar financiamiento y saldo final” | Se saltó “partir de resultado o cobros-pagos” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. partir de resultado o cobros-pagos → 2. ajustar partidas no caja → 3. incorporar capital de trabajo → 4. separar CAPEX → 5. conciliar financiamiento y saldo final y marca el primer supuesto no demostrado. |
-| Optimizar solo operating cash flow | La métrica local sustituyó al resultado del sistema | Contrástala con free cash flow y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre flujo de caja | No existe una única definición universal de free cash flow o burn. Declara fórmula y propósito antes de comparar; evita tratar caja puntual como capacidad recurrente. |
-| No fijar revisión | Una decisión sobre flujo de caja se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Confundir utilidad con caja | Se mira el estado de resultados | Leer el flujo de caja. |
+| No proyectar | Se confía en el saldo actual | Calendario de 13 semanas. |
+| Un solo escenario | Se asume lo mejor | Base, adverso y severo. |
+| Proyectar la cobranza por facturación | Se ignora el comportamiento de pago | Proyectar por antigüedad real. |
+| Crecer sin financiar el capital de trabajo | Se piensa en ventas | Calcular la necesidad adicional. |
+| Reaccionar tarde | Se espera a quedarse sin caja | Disparadores y acciones preparadas. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **operating cash flow** y **investing cash flow** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **financing cash flow** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **partir de resultado o cobros-pagos → ajustar partidas no caja** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **operating cash flow** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **flujo de caja**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No existe una única definición universal de free cash flow o burn. Declara fórmula y propósito antes de comparar; evita tratar caja puntual como capacidad recurrente.**?
+1. ¿Por qué utilidad y caja pueden divergir?
+2. ¿Qué ajustes separan la utilidad del flujo operativo?
+3. ¿Qué mide el flujo de caja libre?
+4. ¿Qué compone un calendario de caja de 13 semanas?
+5. ¿Por qué se usan escenarios?
+6. ¿Qué es un colchón de liquidez?
+7. ¿Qué palancas rápidas existen sobre la caja?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Porque hay ingresos no cobrados, gastos no pagados, gastos sin salida de caja, y movimientos de inversión y financiamiento que no pasan por resultados.
+2. Se suma la depreciación y se ajusta por el cambio en cuentas por cobrar, inventario y cuentas por pagar.
+3. La caja operativa que queda tras las inversiones necesarias, disponible para acreedores y dueños.
+4. Saldo inicial, entradas por cobranza proyectada, salidas por sueldos, proveedores, impuestos, deuda e inversiones y saldo final semanal.
+5. Porque los supuestos fallan y se necesita saber qué ocurre y qué acciones activar en situaciones adversas.
+6. Caja o líneas disponibles que protegen ante imprevistos, medida en semanas de gasto operativo.
+7. Cobrar antes, negociar plazos de pago, reducir inventario, diferir inversiones, vender activos no estratégicos y ajustar el financiamiento.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/112-flujo-de-caja/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **flujo de caja**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **flujo de caja** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **operating cash flow**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una firma muestra EBITDA de 10 millones, pero aumenta inventario 6 millones, cuentas por cobrar 4 millones e invierte 5 millones en equipos. Necesita financiación pese al EBITDA positivo.** y el dato que podría invalidar la recomendación.
+- `cash-runway.md` (plantilla [Cash runway](../../../../templates/cash-runway.md)) con el calendario de caja y los escenarios del caso ejecutivo;
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el puente utilidad–caja y la decisión sobre la inversión;
+- `decision-journal.md` con los disparadores y las acciones preparadas.
 
 ## 📗 Fuentes y verificación
 
-- Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** reconocimiento, medición y presentación de estados financieros y sus partidas. Lectura selectiva sobre **flujo de caja**. **Localizador:** [ISBN-13 9780470098189](https://openlibrary.org/isbn/9780470098189).
-- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración. Lectura selectiva sobre **flujo de caja**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
-- Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* (Prentice Hall College Div, 2002). **Uso en esta clase:** costos relevantes, presupuestos, variaciones y decisiones gerenciales. Lectura selectiva sobre **flujo de caja**. **Localizador:** [ISBN-13 9780130650061](https://openlibrary.org/isbn/9780130650061).
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **flujo de caja**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* (McGraw-Hill Education on Brilliance Audio, 2018). **Uso en esta clase:** señales de calidad de resultados, partidas no recurrentes y posibles distorsiones contables. Lectura selectiva sobre **flujo de caja**. **Localizador:** [ISBN-13 9781978605459](https://openlibrary.org/isbn/9781978605459).
-- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** estrategia, análisis contable, análisis financiero y proyección integrados. Lectura selectiva sobre **flujo de caja**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
-- IFRS Foundation — *IFRS Accounting Standards*. **Uso en esta clase:** normas IFRS/IAS aplicables a la presentación y lectura de estados financieros. **Fuente primaria:** <https://www.ifrs.org/>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **flujo de caja** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **flujo de caja**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **flujo de caja** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **flujo de caja** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **flujo de caja** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** lectura del flujo de efectivo y comparación con la utilidad. Lectura selectiva sobre **flujo de caja**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
+- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** separar flujos operativos y financieros. Lectura selectiva sobre **flujo de caja**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** el valor como flujos futuros descontados. Lectura selectiva sobre **flujo de caja**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** planificación financiera y capital de trabajo. Lectura selectiva sobre **flujo de caja**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
+- Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* (McGraw-Hill Education on Brilliance Audio, 2018). **Uso en esta clase:** señales de que la utilidad no se convierte en caja. Lectura selectiva sobre **flujo de caja**. **Localizador:** [ISBN-13 9781978605459](https://openlibrary.org/isbn/9781978605459).
 
-> **Regla de fuentes para Flujo de caja:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **flujo de caja** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Flujo de caja:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las obligaciones tributarias y los contratos de deuda. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

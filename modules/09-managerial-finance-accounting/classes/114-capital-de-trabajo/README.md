@@ -10,226 +10,192 @@
 
 ## 🎯 Propósito
 
-Capital de trabajo conecta crecimiento con caja mediante cuentas por cobrar, inventario y cuentas por pagar. Un negocio rentable puede quebrar si cobra tarde, compra demasiado inventario o paga antes de financiar el ciclo. El cash conversion cycle hace visible esa dinámica.
+El capital de trabajo es el dinero atrapado en el ciclo operativo: la mercadería que se compró y aún no se vende, las ventas que aún no se cobran, menos lo que se debe a los proveedores. Es invisible en el estado de resultados y, sin embargo, determina cuánta caja necesita un negocio para funcionar y crecer. Un negocio con buenos márgenes y un ciclo de capital de trabajo largo necesita financiar cada dólar de crecimiento; uno con proveedores que financian la operación puede crecer con poca inversión. La gestión del capital de trabajo es, por eso, una de las fuentes de caja más inmediatas.
 
-La salida de esta parte es **leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capital de trabajo** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en los textos de finanzas corporativas de Brealey, Myers y Allen y de Ross, Westerfield y Jaffe y en el análisis de Palepu, Healy y Peek sobre capital de trabajo y eficiencia operativa. Al terminar sabrás calcular los días de inventario, de cobro y de pago, el ciclo de conversión de efectivo, estimar las necesidades de financiamiento por crecimiento y decidir sobre inventario, crédito a clientes y plazos con proveedores.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `working capital`, `DSO`, `DIO`, `DPO`, `cash conversion cycle` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. calcular componentes operativos → 2. convertir saldos a días → 3. identificar driver de variación → 4. modelar caja liberada por mejoras → 5. evitar trasladar riesgo abusivamente a proveedores o clientes** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** DSO, DIO, DPO sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Calcular** días de inventario, de cobro y de pago, y el ciclo de conversión de efectivo.
+2. **Estimar** la necesidad de capital de trabajo por crecimiento.
+3. **Evaluar** el costo y el beneficio de una política de crédito o de descuentos por pronto pago.
+4. **Decidir** sobre niveles de inventario con criterio económico.
+5. **Negociar** plazos con proveedores sin poner en riesgo la continuidad.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define working capital y DSO sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con DSO y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuántos días pasan desde que pagas un insumo hasta que cobras la venta que genera? |
+| 20–60 min | Ciclo de conversión, políticas y financiamiento. |
+| 60–105 min | Ejemplo trabajado: descuento por pronto pago y reducción de inventario. |
+| 105–150 min | Caso ejecutivo y práctica de cálculo. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **working capital** | activos corrientes operativos menos pasivos corrientes operativos según definición de análisis | Distingue un hecho compatible y otro que lo refute. |
-| **DSO** | días promedio de cuentas por cobrar | Distingue un hecho compatible y otro que lo refute. |
-| **DIO** | días promedio de inventario | Distingue un hecho compatible y otro que lo refute. |
-| **DPO** | días promedio de cuentas por pagar | Distingue un hecho compatible y otro que lo refute. |
-| **cash conversion cycle** | DSO + DIO − DPO | Distingue un hecho compatible y otro que lo refute. |
+| **Capital de trabajo operativo** | Cuentas por cobrar + inventario − cuentas por pagar operativas. | Dinero inmovilizado en el ciclo. |
+| **Días de cobro (DSO)** | Cuentas por cobrar / ventas × días. | Cuánto tarda en cobrarse una venta. |
+| **Días de inventario (DIO)** | Inventario / costo de ventas × días. | Cuánto tarda en venderse el inventario. |
+| **Días de pago (DPO)** | Cuentas por pagar / costo de ventas × días. | Cuánto tarda en pagarse a proveedores. |
+| **Ciclo de conversión de efectivo (CCC)** | DIO + DSO − DPO. | Días que el efectivo permanece inmovilizado. |
+| **Descuento por pronto pago** | Rebaja por cobrar antes (por ejemplo, 2/10 neto 30). | Equivale a un costo financiero. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 114: 1. calcular componentes operativos → 2. convertir saldos a días → 3. identificar driver de variación → 4. modelar caja liberada por mejoras → 5. evitar trasladar riesgo abusivamente a proveedores o clientes](modelo-mental.svg)
+![Ciclo del capital de trabajo: comprar y pagar, mantener inventario, vender a crédito y cobrar, con retorno del efectivo a la siguiente compra.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. calcular componentes operativos → 2. convertir saldos a días → 3. identificar driver de variación → 4. modelar caja liberada por mejoras → 5. evitar trasladar riesgo abusivamente a proveedores o clientes
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Capital de trabajo conecta crecimiento con caja mediante cuentas por cobrar, inventario y cuentas por pagar. Un negocio rentable puede quebrar si cobra tarde, compra demasiado inventario o paga antes de financiar el ciclo. El cash conversion cycle hace visible esa dinámica.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Extender pagos o reducir inventario tiene límites de relación, resiliencia y servicio. Optimizar caja destruyendo proveedores críticos o fill rate puede empeorar valor total.**
+**Cómo leer el diagrama.** Cuatro etapas en ciclo. Se **compra** y se paga al proveedor tras DPO días; la mercadería **espera** en inventario DIO días; se **vende a crédito**; y el cliente **paga** tras DSO días. El efectivo vuelve y financia la siguiente compra. El tiempo entre que el efectivo sale (pago) y vuelve (cobro) es el ciclo de conversión de efectivo; cada día de ese ciclo debe financiarse con caja, deuda o capital.
 
 ## 📖 Desarrollo
 
-### 1. working capital: mecanismo central
+### 1. Qué es el capital de trabajo operativo
 
-**working capital** se entiende aquí como **activos corrientes operativos menos pasivos corrientes operativos según definición de análisis**. Esta es la pieza causal o estructural desde la que se inicia **capital de trabajo**: antes de calcular componentes operativos, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Es la inversión permanente que el negocio necesita para operar: **cuentas por cobrar** (ventas a crédito aún no cobradas) más **inventario** menos **cuentas por pagar** a proveedores. Crece con las ventas: si el negocio duplica sus ventas manteniendo sus plazos, el capital de trabajo también se duplica. Ross, Westerfield y Jaffe lo presentan como una inversión que, aunque se recupere al liquidar el negocio, debe financiarse mientras opere. Por eso un crecimiento rápido es hambriento de caja (clase 112).
 
-La lectura rectora de este bloque es Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*. Su aporte se usa para examinar **drivers de valor, ROIC, crecimiento y valoración por flujo descontado**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **DSO**; regístrala con periodo, unidad, población y baseline.
+### 2. Los días de capital de trabajo
 
-Relaciona el mecanismo con **DSO**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Tres medidas expresan la eficiencia: **DSO** (días de cobro), **DIO** (días de inventario) y **DPO** (días de pago), calculadas con promedios del período. Se suman en el **ciclo de conversión de efectivo**: CCC = DIO + DSO − DPO. Un CCC de 60 días significa que cada peso de venta diaria requiere 60 días de financiamiento. Reducir el CCC libera caja: acortar el cobro, bajar inventarios o alargar los pagos (con prudencia). Palepu, Healy y Peek recomiendan comparar con empresas del rubro y seguir su evolución: un deterioro puede indicar problemas de cobranza o de rotación.
 
-### 2. DSO: frontera conceptual y error de clasificación
+### 3. Crédito a clientes
 
-**Definición operacional:** días promedio de cuentas por cobrar. Su valor está en distinguirlo de **working capital** y **DIO**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Otorgar crédito aumenta ventas y cuesta capital de trabajo y riesgo de impago. La política de crédito define **a quién** (evaluación del cliente), **cuánto** (límites), **cuánto plazo** y **qué se hace ante la mora**. La decisión se evalúa comparando el margen de las ventas adicionales con el costo de financiar las cuentas por cobrar (tasa × días / 365) y el riesgo de incobrabilidad. Un **descuento por pronto pago** (por ejemplo, 2 % si paga en 10 días en lugar de 30) equivale a una tasa muy alta anualizada: aproximadamente 37 % ( 2/98 × 365/20 ). Si el costo del financiamiento alternativo es menor, conviene ofrecer el descuento o aprovecharlo como comprador.
 
-Contrasta el problema con Aswath Damodaran — *Investment Valuation*, que aporta una mirada sobre **valoración, riesgo, narrativas, costo de capital y supuestos explícitos**. Formula dos mini-casos: uno que sí satisface la definición de **DSO** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **DIO** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Inventario
 
-Antes de convertir saldos a días, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El inventario cumple funciones: **amortiguar variabilidad** de demanda y suministro, **aprovechar** economías de compra y **asegurar** el servicio. Pero cuesta: capital inmovilizado, almacenaje, obsolescencia, mermas, seguros. La decisión es un equilibrio entre el costo de mantener y el de no tener (ventas perdidas, urgencias). Se clasifica por rotación y valor (por ejemplo, un esquema ABC) para aplicar políticas distintas: los productos de alta rotación y alto margen se protegen; los de baja rotación se revisan con rigor. Reducir inventario sin entender la variabilidad (clase 090) puede dañar el servicio.
 
-### 3. DIO: operacionalización y medición
+### 5. Proveedores
 
-**DIO** significa **días promedio de inventario**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Pagar a plazo es financiamiento sin interés explícito, pero no es gratuito: los proveedores pueden compensar con precios más altos, y retrasar pagos más allá de lo pactado daña la relación y el acceso a crédito. Una política prudente: pactar plazos razonables, aprovechar descuentos por pronto pago cuando su tasa implícita supere el costo de financiamiento, y cuidar a los proveedores críticos (clase 093). Algunos programas de financiamiento a proveedores (como el *confirming*) pueden facilitar plazos largos para el comprador y pago anticipado para el proveedor, pero deben evaluarse por su efecto contable y de riesgo.
 
-Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* orienta este bloque mediante **valor del dinero, riesgo, costo de capital, inversión y financiación**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **DPO**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Financiar el crecimiento
 
-Al llegar a identificar driver de variación, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La necesidad de capital de trabajo adicional por crecimiento se estima como el **capital de trabajo como porcentaje de ventas** multiplicado por el aumento de ventas. Si el capital de trabajo operativo es del 25 % de las ventas y las ventas crecen USD 4 millones, se necesitan unos USD 1 millón adicionales. Las fuentes: reducir el ciclo, usar líneas de crédito de corto plazo, factoring de cuentas por cobrar, financiamiento de inventario o aportes de capital. Financiar capital de trabajo permanente con deuda de corto plazo crea riesgo de refinanciamiento (clase 111).
 
-### 4. DPO: trade-offs y efectos de segundo orden
+### 7. Riesgos y buenas prácticas
 
-**Definición:** días promedio de cuentas por pagar. Este concepto obliga a abandonar la idea de que **capital de trabajo** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de modelar caja liberada por mejoras, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* aporta una lente sobre **decisiones de inversión, financiación, capital de trabajo y valoración**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **cash conversion cycle** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capital de trabajo**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **DPO** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. cash conversion cycle: gobernanza, límites e integración
-
-**cash conversion cycle** se define como **DSO + DIO − DPO** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* se utiliza para estudiar **reconocimiento, medición y presentación de estados financieros y sus partidas** y contrastar la recomendación final. Al ejecutar evitar trasladar riesgo abusivamente a proveedores o clientes, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Extender pagos o reducir inventario tiene límites de relación, resiliencia y servicio. Optimizar caja destruyendo proveedores críticos o fill rate puede empeorar valor total.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **working capital**, **DSO**, **DIO**, **DPO** y **cash conversion cycle** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capital de trabajo** no consiste en sumar cinco definiciones. Empieza por **working capital**, contrasta **DSO** con **DIO**, incorpora **DPO** como restricción o mecanismo y usa **cash conversion cycle** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. calcular componentes operativos → 2. convertir saldos a días → 3. identificar driver de variación → 4. modelar caja liberada por mejoras → 5. evitar trasladar riesgo abusivamente a proveedores o clientes**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Ciclo de conversión de caja
-
-Capital de trabajo operativo puede analizarse con `DSO` (días de cobro), `DIO` (días de inventario) y `DPO` (días de pago). Una aproximación común es `CCC = DSO + DIO - DPO`. No compares días entre industrias sin contexto.
-
-Si DSO sube de 35 a 60 días mientras ventas crecen, el crecimiento exige más financiación. Si DIO sube por stock preventivo, puede reducir riesgo de quiebre pero aumentar caja inmovilizada y obsolescencia. Gestionar capital de trabajo exige coordinar ventas, operaciones, compras y finanzas; no es tarea exclusiva de tesorería.
+Riesgos: **concentración** de cuentas por cobrar en pocos clientes, **antigüedad** creciente, **obsolescencia** del inventario, **dependencia** de plazos de proveedores que pueden cambiar. Buenas prácticas: reportes de **antigüedad de cuentas por cobrar**, provisiones prudentes, **conteos de inventario**, indicadores semanales de DSO, DIO y DPO, **responsables** por cada componente (cobranza, compras, logística) y metas coherentes entre áreas (si ventas es premiada por volumen y no por cobro, el crédito se amplía sin control).
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* | drivers de valor, ROIC, crecimiento y valoración por flujo descontado | ¿Qué supuesto de **capital de trabajo** ayuda a desafiar? |
-| Aswath Damodaran — *Investment Valuation* | valoración, riesgo, narrativas, costo de capital y supuestos explícitos | ¿Qué supuesto de **capital de trabajo** ayuda a desafiar? |
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **capital de trabajo** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **capital de trabajo** ayuda a desafiar? |
-| Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* | reconocimiento, medición y presentación de estados financieros y sus partidas | ¿Qué supuesto de **capital de trabajo** ayuda a desafiar? |
-
-En **capital de trabajo**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **working capital**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Brealey, Myers y Allen | Capital de trabajo y política de crédito. | Teoría con supuestos. | ¿El costo del crédito compensa el margen? |
+| Ross, Westerfield y Jaffe | Ciclo operativo y de efectivo; financiamiento de corto plazo. | Grandes empresas. | ¿Cuántos días necesitas financiar? |
+| Palepu, Healy y Peek | Eficiencia operativa y comparación con pares. | Marco general. | ¿Cómo evolucionan tus días frente al sector? |
+| Horngren et al. | Costos de inventario y decisiones asociadas. | Contabilidad de costos. | ¿Qué cuesta mantener inventario? |
+| Goldratt y Cox | Inventario como señal de problemas de flujo. | Perspectiva de operaciones. | ¿Qué acumula inventario? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Ventas suben de 100 a 130 millones. DSO pasa de 45 a 70 días y el negocio necesita financiar el crecimiento con deuda aunque su margen no cambió.
+**Situación (hipotética).** Una distribuidora de repuestos con ventas anuales de USD 24 millones y costo de ventas de USD 18 millones tiene: cuentas por cobrar USD 4,0 millones, inventario USD 4,5 millones, cuentas por pagar USD 2,0 millones.
 
-**Paso 1 — calcular componentes operativos.** La gerencia escribe primero el supuesto asociado a **working capital** y evita convertirlo en hecho. Luego busca **DSO** para contrastarlo en el caso de **capital de trabajo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Medida | Cálculo | Resultado |
+|---|---|---|
+| DSO | 4,0 / 24 × 365 | 61 días |
+| DIO | 4,5 / 18 × 365 | 91 días |
+| DPO | 2,0 / 18 × 365 | 41 días |
+| CCC | 91 + 61 − 41 | 111 días |
+| Capital de trabajo operativo | 4,0 + 4,5 − 2,0 | USD 6,5 millones (27 % de las ventas) |
 
-**Paso 2 — convertir saldos a días.** La gerencia escribe primero el supuesto asociado a **DSO** y evita convertirlo en hecho. Luego busca **DIO** para contrastarlo en el caso de **capital de trabajo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Mejoras evaluadas.**
 
-**Paso 3 — identificar driver de variación.** La gerencia escribe primero el supuesto asociado a **DIO** y evita convertirlo en hecho. Luego busca **DPO** para contrastarlo en el caso de **capital de trabajo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+1. **Cobranza**: reducir DSO de 61 a 50 días libera 24 × 11 / 365 = USD 0,72 millones.
+2. **Inventario**: bajar DIO de 91 a 75 libera 18 × 16 / 365 = USD 0,79 millones, con revisión de los productos de baja rotación.
+3. **Proveedores**: subir DPO de 41 a 50 días libera 18 × 9 / 365 = USD 0,44 millones; pero un proveedor crítico ofrece un 1,5 % de descuento por pagar en 15 días en vez de 45 (tasa anualizada cercana a 18 %).
 
-**Paso 4 — modelar caja liberada por mejoras.** La gerencia escribe primero el supuesto asociado a **DPO** y evita convertirlo en hecho. Luego busca **cash conversion cycle** para contrastarlo en el caso de **capital de trabajo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisión sobre el descuento.** La empresa financia su capital de trabajo con una línea de crédito al 11 % anual. Tomar el descuento implica pagar 30 días antes a cambio de 1,5 %, lo que equivale a unos 18 % anuales: conviene aprovecharlo, usando la línea para financiar el pago anticipado, que cuesta menos que el beneficio.
 
-**Paso 5 — evitar trasladar riesgo abusivamente a proveedores o clientes.** La gerencia escribe primero el supuesto asociado a **cash conversion cycle** y evita convertirlo en hecho. Luego busca **cash released** para contrastarlo en el caso de **capital de trabajo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Impacto total.** Las dos primeras mejoras liberan USD 1,5 millones; con una línea de crédito al 11 %, eso evita unos USD 165.000 de interés anual. Se define un plan con responsables, metas trimestrales y controles de servicio (para que no baje la disponibilidad de repuestos).
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capital de trabajo**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Los días explicaron el consumo de caja. (2) Cada mejora se cuantificó. (3) La decisión del descuento se tomó comparando tasas.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **working capital** | activos corrientes operativos menos pasivos corrientes operativos según definición de análisis | Cuando DSO es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **DSO** | días promedio de cuentas por cobrar | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Capital de trabajo frente a inversión en activos fijos.** El capital de trabajo es flexible y se recupera al reducir el negocio; los activos fijos son más rígidos. Pero ambos inmovilizan caja y se evalúan con el mismo criterio de retorno sobre capital (clase 118).
 
-**Frontera de aplicación:** Extender pagos o reducir inventario tiene límites de relación, resiliencia y servicio. Optimizar caja destruyendo proveedores críticos o fill rate puede empeorar valor total.
+**Límites.** Los días calculados con saldos de fin de período pueden ser engañosos si hay estacionalidad: se usan promedios. Reducir inventario o endurecer el crédito puede perder ventas y clientes; se evalúa el efecto comercial. Las operaciones de factoring, confirming u otras tienen efectos contables, tributarios y legales que se verifican con asesoría. Y los plazos de pago a proveedores pueden estar regulados por la normativa aplicable.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capital de trabajo |
+| Nivel | Cómo gestiona el capital de trabajo |
 |---|---|
-| **Profesional** | usa **capital de trabajo** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **working capital** y **DSO** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta DSO con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capital de trabajo cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capital de trabajo reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capital de trabajo** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Factura y documenta con exactitud; compra y recibe con control. |
+| **Jefe / Team Lead** | Gestiona cobranza, compras o inventario de su equipo con indicadores. |
+| **Gerente** | Define políticas de crédito, inventario y proveedores y sus metas. |
+| **CEO / Director** | Alinea incentivos y decide el financiamiento del crecimiento. |
+| **Founder / Owner** | Cuida cada día de ciclo porque su caja es limitada. |
 
 ## 🏢 Caso ejecutivo
 
-Ventas suben de 100 a 130 millones. DSO pasa de 45 a 70 días y el negocio necesita financiar el crecimiento con deuda aunque su margen no cambió.
+Una empresa de alimentos envasados vende a supermercados con plazos de 60 a 90 días. Su producción exige comprar envases e ingredientes con plazos de 30 días y mantener 75 días de inventario. Crece 25 % anual y debe financiar USD 3 millones de capital de trabajo adicional. Un supermercado que representa el 22 % de las ventas pide ampliar su plazo a 120 días como condición para un contrato de tres años; el gerente comercial quiere aceptar. El gerente financiero propone un descuento por pronto pago de 1,2 % a 15 días o factorizar las facturas con un costo equivalente al 14 % anual.
 
-Entrega un **decision brief de capital de trabajo** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de capital de trabajo** que contenga: (a) el cálculo de DSO, DIO, DPO y CCC con sus supuestos; (b) la necesidad de financiamiento por crecimiento con y sin el nuevo plazo; (c) la evaluación del contrato: margen adicional frente al costo de financiar 120 días y al riesgo de concentración; (d) la comparación entre descuento por pronto pago y factoring con sus tasas anualizadas; (e) las mejoras de inventario y de proveedores; (f) la recomendación con los controles de cobranza y las verificaciones jurídicas y tributarias que corresponden.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capital de trabajo** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. calcular componentes operativos → 2. convertir saldos a días → 3. identificar driver de variación → 4. modelar caja liberada por mejoras → 5. evitar trasladar riesgo abusivamente a proveedores o clientes** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta DSO, DIO; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula DSO, DIO, DPO y CCC con datos de un caso.
+2. Estima la caja liberada al reducir cada indicador en 10 días.
+3. Calcula la tasa anualizada de un descuento 2/10 neto 30.
+4. Estima el capital de trabajo adicional para un crecimiento del 20 %.
+5. Define tres indicadores semanales de seguimiento y sus responsables.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar working capital y DSO como sinónimos | Se pierde la distinción entre “activos corrientes operativos menos pasivos corrientes operativos según definición de análisis” y “días promedio de cuentas por cobrar” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “evitar trasladar riesgo abusivamente a proveedores o clientes” | Se saltó “calcular componentes operativos” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. calcular componentes operativos → 2. convertir saldos a días → 3. identificar driver de variación → 4. modelar caja liberada por mejoras → 5. evitar trasladar riesgo abusivamente a proveedores o clientes y marca el primer supuesto no demostrado. |
-| Optimizar solo DSO | La métrica local sustituyó al resultado del sistema | Contrástala con DIO y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capital de trabajo | Extender pagos o reducir inventario tiene límites de relación, resiliencia y servicio. Optimizar caja destruyendo proveedores críticos o fill rate puede empeorar valor total. |
-| No fijar revisión | Una decisión sobre capital de trabajo se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Vender a crédito sin costear | Se mira solo el margen | Incluir costo financiero y riesgo. |
+| Reducir inventario sin entender el servicio | Se busca caja rápida | Clasificar y proteger lo crítico. |
+| Alargar pagos sin cuidar proveedores | Se busca financiamiento barato | Plazos acordados y relación. |
+| No medir antigüedad de cobros | Se mira el promedio | Reporte de antigüedad. |
+| Financiar permanente con corto plazo | Es más fácil | Calzar plazos. |
+| Incentivos solo por volumen | Se premia vender | Incluir cobro y margen. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **working capital** y **DSO** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **DIO** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **calcular componentes operativos → convertir saldos a días** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **DSO** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capital de trabajo**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Extender pagos o reducir inventario tiene límites de relación, resiliencia y servicio. Optimizar caja destruyendo proveedores críticos o fill rate puede empeorar valor total.**?
+1. ¿Qué compone el capital de trabajo operativo?
+2. ¿Cómo se calcula el ciclo de conversión de efectivo?
+3. ¿Por qué el crecimiento rápido consume caja?
+4. ¿Qué tasa implícita tiene un descuento 2/10 neto 30 y cómo se usa?
+5. ¿Qué equilibrio busca la gestión del inventario?
+6. ¿Qué riesgos tiene alargar los pagos a proveedores?
+7. ¿Qué límite tiene calcular los días con saldos de fin de período?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Cuentas por cobrar más inventario menos cuentas por pagar operativas.
+2. DIO más DSO menos DPO.
+3. Porque con los mismos plazos necesita más cuentas por cobrar e inventario antes de cobrar.
+4. Cerca de 37 % anualizada; conviene tomar el descuento si el financiamiento alternativo cuesta menos.
+5. Entre el costo de mantener (capital, obsolescencia, almacenaje) y el costo de no tener (ventas perdidas y urgencias).
+6. Daño a la relación, pérdida de crédito o descuentos y, a veces, precios más altos.
+7. Con estacionalidad pueden ser engañosos; se usan promedios.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/114-capital-de-trabajo/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **capital de trabajo**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capital de trabajo** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **working capital**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Ventas suben de 100 a 130 millones. DSO pasa de 45 a 70 días y el negocio necesita financiar el crecimiento con deuda aunque su margen no cambió.** y el dato que podría invalidar la recomendación.
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el análisis del caso ejecutivo;
+- `cash-runway.md` (plantilla [Cash runway](../../../../templates/cash-runway.md)) con el efecto de las mejoras en la caja;
+- `decision-journal.md` con las políticas de crédito, inventario y proveedores y sus responsables.
 
 ## 📗 Fuentes y verificación
 
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **capital de trabajo**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Aswath Damodaran — *Investment Valuation* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** valoración, riesgo, narrativas, costo de capital y supuestos explícitos. Lectura selectiva sobre **capital de trabajo**. **Localizador:** [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546).
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **capital de trabajo**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** reconocimiento, medición y presentación de estados financieros y sus partidas. Lectura selectiva sobre **capital de trabajo**. **Localizador:** [ISBN-13 9780470098189](https://openlibrary.org/isbn/9780470098189).
-- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración. Lectura selectiva sobre **capital de trabajo**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
-- IFRS Foundation — *IFRS Accounting Standards*. **Uso en esta clase:** normas IFRS/IAS aplicables a la presentación y lectura de estados financieros. **Fuente primaria:** <https://www.ifrs.org/>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capital de trabajo** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capital de trabajo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capital de trabajo** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capital de trabajo** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capital de trabajo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** capital de trabajo y política de crédito. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** ciclo operativo y de efectivo y financiamiento de corto plazo. Lectura selectiva sobre **capital de trabajo**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
+- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** eficiencia operativa y comparación con pares. Lectura selectiva sobre **capital de trabajo**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
+- Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* (Prentice Hall College Div, 2002). **Uso en esta clase:** costos de inventario y decisiones asociadas. Lectura selectiva sobre **capital de trabajo**. **Localizador:** [ISBN-13 9780130650061](https://openlibrary.org/isbn/9780130650061).
+- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** inventario como señal de problemas de flujo. Lectura selectiva sobre **capital de trabajo**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
 
-> **Regla de fuentes para Capital de trabajo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capital de trabajo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capital de trabajo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los plazos de pago regulados y el tratamiento contable y tributario del factoring. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

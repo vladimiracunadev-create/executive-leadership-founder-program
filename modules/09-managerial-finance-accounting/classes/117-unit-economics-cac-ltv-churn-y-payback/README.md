@@ -10,225 +10,190 @@
 
 ## 🎯 Propósito
 
-Unit economics prueba si adquirir y servir un cliente crea valor antes de gastos corporativos. CAC, LTV, churn y payback deben definirse por cohorte y margen, no como promedios vistosos. Un LTV alto basado en churn inestable puede justificar gasto que nunca se recupera.
+Una empresa puede crecer rápido y perder dinero con cada cliente nuevo. La **economía unitaria** —el análisis de lo que cuesta ganar, servir y retener a un cliente, y de lo que ese cliente deja a lo largo de su vida— muestra si el crecimiento crea valor o lo destruye. Es especialmente útil en negocios de suscripción, servicios recurrentes y plataformas, donde el ingreso llega en el tiempo pero el gasto de adquisición se paga al inicio. Y es especialmente mal usado: razones llamativas como «LTV/CAC de 5» se calculan con supuestos optimistas y sin mirar cuánto tarda la caja en volver.
 
-La salida de esta parte es **leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **unit economics: CAC, LTV, churn y payback** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el trabajo de Gupta, Lehmann y Stuart sobre el valor de los clientes como activos, en el análisis de estados de Palepu, Healy y Peek y en la teoría de valoración de Koller y colegas, que vincula el crecimiento con el retorno sobre el capital. Al terminar sabrás calcular CAC, ARPU, margen, churn, LTV y payback, leer cohortes en vez de promedios y reconocer los errores que inflan estas métricas.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `CAC`, `LTV`, `churn`, `payback`, `cohort` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir unidad y cohortes → 2. calcular CAC completo y marginal → 3. medir retention/churn por cohorte → 4. estimar LTV con margen y cautela → 5. calcular payback y sensibilidad** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** CAC, gross-margin LTV, logo churn sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Calcular** CAC, ingreso y margen por cliente, churn, LTV y payback.
+2. **Interpretar** la relación LTV/CAC junto con el tiempo de recuperación.
+3. **Analizar** cohortes para ver el comportamiento real de retención.
+4. **Reconocer** los errores que inflan las métricas.
+5. **Decidir** cuánto invertir en adquisición y retención según la economía unitaria.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define CAC y LTV sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con CAC y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuánto cuesta ganar un cliente en tu negocio y cuánto tarda en pagarse? |
+| 20–60 min | Métricas, cohortes, relaciones y errores. |
+| 60–105 min | Ejemplo trabajado: economía unitaria de un servicio por suscripción. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **CAC** | gasto incremental o total de adquisición dividido por nuevos clientes según definición explícita | Distingue un hecho compatible y otro que lo refute. |
-| **LTV** | valor económico esperado de contribución de un cliente durante su vida | Distingue un hecho compatible y otro que lo refute. |
-| **churn** | proporción de clientes o revenue perdido en un periodo | Distingue un hecho compatible y otro que lo refute. |
-| **payback** | tiempo para recuperar CAC con margen de contribución | Distingue un hecho compatible y otro que lo refute. |
-| **cohort** | grupo de clientes adquirido en periodo o condición comparable | Distingue un hecho compatible y otro que lo refute. |
+| **CAC** | Costo de adquisición por cliente nuevo: gasto de ventas y marketing / clientes nuevos. | Incluye todos los costos de captación. |
+| **ARPU** | Ingreso promedio por cliente en un período. | Mensual o anual. |
+| **Margen por cliente** | Ingreso menos costos de servir al cliente. | Se calcula sobre el margen de contribución. |
+| **Churn** | Proporción de clientes (o de ingresos) que se pierden en un período. | Tasa mensual o anual. |
+| **LTV** | Valor del cliente durante su vida: margen por período × duración esperada, descontado. | Estimación, no dato. |
+| **Payback** | Tiempo para recuperar el CAC con el margen del cliente. | Meses. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 117: 1. definir unidad y cohortes → 2. calcular CAC completo y marginal → 3. medir retention/churn por cohorte → 4. estimar LTV con margen y cautela → 5. calcular payback y sensibilidad](modelo-mental.svg)
+![Cinco pasos de la economía unitaria: adquirir, activar, retener, monetizar y recuperar la inversión.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir unidad y cohortes → 2. calcular CAC completo y marginal → 3. medir retention/churn por cohorte → 4. estimar LTV con margen y cautela → 5. calcular payback y sensibilidad
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Unit economics prueba si adquirir y servir un cliente crea valor antes de gastos corporativos. CAC, LTV, churn y payback deben definirse por cohorte y margen, no como promedios vistosos. Un LTV alto basado en churn inestable puede justificar gasto que nunca se recupera.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **LTV/CAC no es verdad física. Pequeños cambios de churn cambian mucho LTV; usa cohortes observadas, horizontes limitados y escenarios antes de escalar gasto.**
+**Cómo leer el diagrama.** Cinco pasos que siguen la vida de un cliente. Se **adquiere** (CAC); se **activa**, es decir, empieza a recibir valor; se **retiene** (churn y duración); se **monetiza** (ingreso y margen); y se **recupera** la inversión (payback y LTV). La nota recuerda lo esencial: una razón LTV/CAC alta con un payback largo puede ahogar la caja, de modo que se mira la razón y el tiempo.
 
 ## 📖 Desarrollo
 
-### 1. CAC: mecanismo central
+### 1. Por qué una mirada por cliente
 
-**CAC** se entiende aquí como **gasto incremental o total de adquisición dividido por nuevos clientes según definición explícita**. Esta es la pieza causal o estructural desde la que se inicia **unit economics: CAC, LTV, churn y payback**: antes de definir unidad y cohortes, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Los estados financieros agregan: el gasto de marketing de un año se resta del resultado del año, aunque los clientes captados generen ingresos durante varios. La economía unitaria **desagrega** y compara el costo de captar y servir a un cliente con lo que genera a lo largo de su relación. Gupta, Lehmann y Stuart plantean valorar los clientes como activos de la empresa: el valor de la empresa es, en parte, el valor presente de los flujos que generarán sus clientes actuales y futuros. Esta perspectiva ayuda a decidir cuánto vale la pena gastar para captar y retener.
 
-La lectura rectora de este bloque es Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis*. Su aporte se usa para examinar **costos relevantes, presupuestos, variaciones y decisiones gerenciales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **CAC**; regístrala con periodo, unidad, población y baseline.
+### 2. CAC y qué incluye
 
-Relaciona el mecanismo con **LTV**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El **CAC** es el gasto total de ventas y marketing en un período dividido por los clientes nuevos conseguidos. Debe incluir **todos** los costos de captación: publicidad, salarios y comisiones de ventas y marketing, herramientas, eventos y la parte proporcional de gestión. Errores frecuentes: excluir sueldos del equipo de ventas, incluir clientes que no provienen de esas acciones (referidos, orgánicos) o desfasar el gasto y las altas. Se puede calcular un **CAC mezclado** (todo el gasto sobre todos los clientes) y uno **por canal**; el segundo es más útil para decidir dónde invertir, pero exige atribuir con cuidado.
 
-### 2. LTV: frontera conceptual y error de clasificación
+### 3. Ingreso y margen por cliente
 
-**Definición operacional:** valor económico esperado de contribución de un cliente durante su vida. Su valor está en distinguirlo de **CAC** y **churn**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El **ARPU** es el ingreso promedio por cliente. Pero el valor depende del **margen**: se descuentan los costos de servir (soporte, infraestructura, costos de entrega, comisiones de pago). Usar ingresos en lugar de margen para calcular el LTV es uno de los errores más comunes y lo infla de forma importante. Si el ARPU es USD 100 al mes y el margen de contribución es 70 %, el aporte mensual es USD 70. También conviene separar clientes por segmento: pueden tener ARPU, margen y retención muy distintos.
 
-Contrasta el problema con Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*, que aporta una mirada sobre **valor del dinero, riesgo, costo de capital, inversión y financiación**. Formula dos mini-casos: uno que sí satisface la definición de **LTV** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **gross-margin LTV** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Churn y duración
 
-Antes de calcular cac completo y marginal, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El **churn** es la proporción de clientes que se pierde en un período. Con un churn mensual constante c, la **duración esperada** es 1/c meses: con 3 % mensual, unos 33 meses; con 6 %, unos 17. Es una aproximación: en la práctica el churn no es constante, suele ser alto al inicio y bajar para quienes superan los primeros meses. Por eso se analizan **cohortes**: grupos de clientes que empezaron en el mismo período, seguidos en el tiempo. El análisis por cohortes revela si la retención mejora o empeora y si el promedio oculta diferencias entre segmentos.
 
-### 3. churn: operacionalización y medición
+### 5. LTV con cuidado
 
-**churn** significa **proporción de clientes o revenue perdido en un periodo**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Una aproximación habitual: LTV = margen mensual por cliente / churn mensual. Con margen de USD 70 y churn de 3 %, el LTV es unos USD 2.333. Es una **simplificación** que ignora el descuento por el tiempo, los cambios de precio, la expansión o la reducción de ingresos por cliente y que el churn cambia con la antigüedad. Se prefieren versiones con un horizonte acotado (por ejemplo, 3 a 5 años) y con descuento. Sobre todo, se reconoce que el LTV es una **estimación** con alta incertidumbre y se trabaja con rangos, no con una cifra única.
 
-Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* orienta este bloque mediante **decisiones de inversión, financiación, capital de trabajo y valoración**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **logo churn**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Payback y la razón LTV/CAC
 
-Al llegar a medir retention/churn por cohorte, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El **payback** es el tiempo para que el margen acumulado del cliente cubra el CAC: CAC / margen mensual. Con CAC de USD 840 y margen de USD 70, el payback es de 12 meses. La razón **LTV/CAC** compara el valor con el costo: reglas prácticas citadas en la industria (por ejemplo, una razón cercana o superior a 3) son orientaciones, no leyes. Lo importante es leerlas juntas: una razón alta con payback de 30 meses implica financiar durante dos años y medio cada cliente nuevo; si el churn de los primeros meses es alto, muchos clientes nunca devolverán el CAC. Koller y colegas vinculan esto con el retorno sobre el capital invertido (clase 118).
 
-### 4. payback: trade-offs y efectos de segundo orden
+### 7. Errores y decisiones
 
-**Definición:** tiempo para recuperar CAC con margen de contribución. Este concepto obliga a abandonar la idea de que **unit economics: CAC, LTV, churn y payback** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de estimar ltv con margen y cautela, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* aporta una lente sobre **reconocimiento, medición y presentación de estados financieros y sus partidas**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **net revenue retention** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **unit economics: CAC, LTV, churn y payback**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **payback** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. cohort: gobernanza, límites e integración
-
-**cohort** se define como **grupo de clientes adquirido en periodo o condición comparable** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Stephen H. Penman — *Financial Statement Analysis and Security Valuation* se utiliza para estudiar **reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración** y contrastar la recomendación final. Al ejecutar calcular payback y sensibilidad, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **LTV/CAC no es verdad física. Pequeños cambios de churn cambian mucho LTV; usa cohortes observadas, horizontes limitados y escenarios antes de escalar gasto.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **CAC**, **LTV**, **churn**, **payback** y **cohort** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **unit economics: CAC, LTV, churn y payback** no consiste en sumar cinco definiciones. Empieza por **CAC**, contrasta **LTV** con **churn**, incorpora **payback** como restricción o mecanismo y usa **cohort** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir unidad y cohortes → 2. calcular CAC completo y marginal → 3. medir retention/churn por cohorte → 4. estimar LTV con margen y cautela → 5. calcular payback y sensibilidad**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Unit economics coherentes
-
-Define cohortes y periodos antes de calcular. `CAC = gasto atribuible de adquisición / nuevos clientes adquiridos` (declarando qué gastos incluyes). Una aproximación de `LTV` puede usar `ARPA × margen bruto × vida esperada`, pero la vida derivada de churn exige supuestos; no uses `1/churn` mecánicamente si la retención no es estacionaria. `Payback = CAC / margen bruto mensual por cliente` es una aproximación útil.
-
-Un ratio LTV/CAC alto no salva un negocio si el payback supera el runway. Complementa con churn logo, churn revenue, expansión, margen bruto y cohortes. El objetivo es entender **economía marginal y recuperación de caja**, no optimizar una cifra de presentación.
+Errores frecuentes: **LTV con ingresos en lugar de margen**, **churn sin cohortes**, **CAC sin costos indirectos**, **promedios que esconden segmentos**, **ignorar el descuento financiero**, **mezclar clientes orgánicos con pagados** y **confundir crecimiento con valor**. Decisiones que se apoyan en la economía unitaria: **cuánto invertir en adquisición** (hasta que el retorno marginal caiga), **qué canales y segmentos priorizar**, **dónde mejorar la retención** (a menudo más barato que adquirir), **cómo fijar precios** y **cuándo crecer** (cuando la economía unitaria es sana y el payback es financiable) o corregir antes.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* | costos relevantes, presupuestos, variaciones y decisiones gerenciales | ¿Qué supuesto de **unit economics: CAC, LTV, churn y payback** ayuda a desafiar? |
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **unit economics: CAC, LTV, churn y payback** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **unit economics: CAC, LTV, churn y payback** ayuda a desafiar? |
-| Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* | reconocimiento, medición y presentación de estados financieros y sus partidas | ¿Qué supuesto de **unit economics: CAC, LTV, churn y payback** ayuda a desafiar? |
-| Stephen H. Penman — *Financial Statement Analysis and Security Valuation* | reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración | ¿Qué supuesto de **unit economics: CAC, LTV, churn y payback** ayuda a desafiar? |
-
-En **unit economics: CAC, LTV, churn y payback**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **CAC**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Gupta, Lehmann y Stuart (2004) | Valorar clientes como activos con flujos futuros. | Supuestos de modelos de valor del cliente. | ¿Qué supuestos sostienen tu LTV? |
+| Koller et al. | Crecimiento y retorno sobre el capital como base del valor. | No es un manual de métricas de clientes. | ¿El crecimiento rinde más que el costo del capital? |
+| Palepu, Healy y Peek | Relación entre métricas operativas y estados financieros. | Marco general. | ¿Cómo se refleja el CAC en los estados? |
+| Horngren et al. | Costos de servir y asignación. | Contabilidad de costos. | ¿Qué costos de servir incluyes? |
+| Penman | Calidad de los ingresos recurrentes. | Más técnico. | ¿Qué parte del ingreso es recurrente? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un SaaS tiene ARPA 100 mensual, margen bruto 80%, churn mensual 4% y CAC 900. Una aproximación simple de LTV por margen/churn es 2.000, pero el payback supera 11 meses y cohortes nuevas churnean más.
+**Situación (hipotética).** Una empresa de software de gestión para consultorios cobra USD 100 al mes por cliente. Costo de servir (soporte, infraestructura, pagos): USD 30. Gasto trimestral de ventas y marketing: USD 420.000, con 500 clientes nuevos pagados en el trimestre. Churn mensual observado: 4 % en los primeros 6 meses y 1,5 % después.
 
-**Paso 1 — definir unidad y cohortes.** La gerencia escribe primero el supuesto asociado a **CAC** y evita convertirlo en hecho. Luego busca **CAC** para contrastarlo en el caso de **unit economics: CAC, LTV, churn y payback**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Cálculo | Resultado |
+|---|---|
+| CAC | 420.000 / 500 = USD 840 |
+| Margen mensual por cliente | 100 − 30 = USD 70 |
+| Payback simple | 840 / 70 = 12 meses |
+| Retención a 12 meses (aprox.) | 0,96⁶ × 0,985⁶ = 0,783 × 0,913 ≈ 71,5 % |
+| Margen acumulado esperado a 12 meses por cliente captado | ≈ USD 70 × ~10 meses-cliente ≈ 700 |
 
-**Paso 2 — calcular CAC completo y marginal.** La gerencia escribe primero el supuesto asociado a **LTV** y evita convertirlo en hecho. Luego busca **gross-margin LTV** para contrastarlo en el caso de **unit economics: CAC, LTV, churn y payback**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura por cohorte.** Al incluir el churn, en el mes 12 el margen acumulado esperado por cliente captado es de unos USD 700 (los meses de vida promedio en los 12 primeros son cerca de 10), menor que el CAC de 840: el payback real, considerando la pérdida de clientes, es de unos 15 meses.
 
-**Paso 3 — medir retention/churn por cohorte.** La gerencia escribe primero el supuesto asociado a **churn** y evita convertirlo en hecho. Luego busca **logo churn** para contrastarlo en el caso de **unit economics: CAC, LTV, churn y payback**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**LTV a 5 años (con churn de 1,5 % tras el mes 6 y descuento ignorado por simplicidad).** Aproximadamente USD 70 × (5,4 meses promedio de los primeros 6 + 0,783 × (1 − 0,985^54)/0,015) ≈ 70 × (5,4 + 0,783 × 37,2) ≈ 70 × 34,5 ≈ USD 2.400. LTV/CAC ≈ 2,9.
 
-**Paso 4 — estimar LTV con margen y cautela.** La gerencia escribe primero el supuesto asociado a **payback** y evita convertirlo en hecho. Luego busca **net revenue retention** para contrastarlo en el caso de **unit economics: CAC, LTV, churn y payback**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Segmentos.** Los clientes captados por referidos tienen CAC de USD 250 y churn de 1,2 %; los de publicidad pagada, CAC de USD 1.150 y churn de 4,5 %: su LTV/CAC es inferior a 1,5.
 
-**Paso 5 — calcular payback y sensibilidad.** La gerencia escribe primero el supuesto asociado a **cohort** y evita convertirlo en hecho. Luego busca **payback months** para contrastarlo en el caso de **unit economics: CAC, LTV, churn y payback**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisiones.** Reducir la inversión en el canal pagado, reforzar el programa de referidos, mejorar el proceso de incorporación en los primeros 60 días (donde se pierde la mayor parte) y probar un aumento de precio con un segmento. Se vigilan cohortes mensuales de retención y payback.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **unit economics: CAC, LTV, churn y payback**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El payback simple de 12 meses era optimista. (2) El churn temprano pesaba. (3) La segmentación cambió la decisión de inversión.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **CAC** | gasto incremental o total de adquisición dividido por nuevos clientes según definición explícita | Cuando CAC es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **LTV** | valor económico esperado de contribución de un cliente durante su vida | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Economía unitaria frente a rentabilidad total.** La unitaria dice si cada cliente deja valor; la rentabilidad total depende, además, de los costos fijos de la empresa. Una economía unitaria sana con costos fijos excesivos puede dejar pérdidas.
 
-**Frontera de aplicación:** LTV/CAC no es verdad física. Pequeños cambios de churn cambian mucho LTV; usa cohortes observadas, horizontes limitados y escenarios antes de escalar gasto.
+**Límites.** Las métricas dependen de supuestos de retención futura, que se equivocan. El CAC sufre problemas de atribución. Las reglas empíricas citadas en la industria no son universales: dependen del sector, de la caja y del acceso a capital. Las cifras de ejemplo son ilustrativas. Y el tratamiento de ingresos recurrentes y de costos de adquisición en los estados financieros sigue la norma contable aplicable, que debe verificarse en su fuente.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre unit economics: CAC, LTV, churn y payback |
+| Nivel | Cómo usa la economía unitaria |
 |---|---|
-| **Profesional** | usa **unit economics: CAC, LTV, churn y payback** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **CAC** y **LTV** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta CAC con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si unit economics: CAC, LTV, churn y payback cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de unit economics: CAC, LTV, churn y payback reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **unit economics: CAC, LTV, churn y payback** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende cómo su trabajo influye en la activación y la retención. |
+| **Jefe / Team Lead** | Sigue cohortes y mejora la parte del ciclo que le corresponde. |
+| **Gerente** | Decide inversión por canal y segmento con CAC, margen y retención. |
+| **CEO / Director** | Evalúa si el crecimiento crea valor y si el payback es financiable. |
+| **Founder / Owner** | Mide pronto y evita escalar adquisición con una economía unitaria débil. |
 
 ## 🏢 Caso ejecutivo
 
-Un SaaS tiene ARPA 100 mensual, margen bruto 80%, churn mensual 4% y CAC 900. Una aproximación simple de LTV por margen/churn es 2.000, pero el payback supera 11 meses y cohortes nuevas churnean más.
+Una empresa de educación en línea para adultos cobra USD 40 al mes. Su CAC mezclado es USD 260, su margen de contribución es 60 % y declara un churn de 7 % mensual. Su director de crecimiento propone duplicar el presupuesto de marketing porque «el LTV/CAC es de 3,3». El análisis por cohorte muestra que el 45 % de los usuarios abandona en el primer mes y que, tras el tercero, el churn baja a 3 %. El canal de redes sociales tiene CAC de USD 380 y retención muy baja; las alianzas con empresas tienen CAC de USD 110 y churn de 2 %. La caja alcanza para ocho meses de operación.
 
-Entrega un **decision brief de unit economics: CAC, LTV, churn y payback** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de economía unitaria** que contenga: (a) el cálculo de CAC, margen, churn, LTV y payback con sus supuestos; (b) el análisis por cohortes y por canal; (c) la revisión del LTV/CAC de 3,3 y por qué podría estar inflado; (d) la capacidad de financiar el payback con la caja disponible; (e) las decisiones de inversión en adquisición y retención; (f) las métricas de seguimiento y las verificaciones sobre ingresos recurrentes y consumidores que correspondan.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **unit economics: CAC, LTV, churn y payback** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir unidad y cohortes → 2. calcular CAC completo y marginal → 3. medir retention/churn por cohorte → 4. estimar LTV con margen y cautela → 5. calcular payback y sensibilidad** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta CAC, gross-margin LTV; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula CAC, margen mensual, payback y LTV simple para un negocio.
+2. Arma una tabla de retención por cohorte y estima la duración esperada.
+3. Recalcula el LTV/CAC usando margen y no ingresos.
+4. Compara dos canales con distinto CAC y churn y decide dónde invertir.
+5. Calcula cuántos clientes nuevos puedes financiar con tu caja dado el payback.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar CAC y LTV como sinónimos | Se pierde la distinción entre “gasto incremental o total de adquisición dividido por nuevos clientes según definición explícita” y “valor económico esperado de contribución de un cliente durante su vida” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “calcular payback y sensibilidad” | Se saltó “definir unidad y cohortes” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir unidad y cohortes → 2. calcular CAC completo y marginal → 3. medir retention/churn por cohorte → 4. estimar LTV con margen y cautela → 5. calcular payback y sensibilidad y marca el primer supuesto no demostrado. |
-| Optimizar solo CAC | La métrica local sustituyó al resultado del sistema | Contrástala con gross-margin LTV y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre unit economics: CAC, LTV, churn y payback | LTV/CAC no es verdad física. Pequeños cambios de churn cambian mucho LTV; usa cohortes observadas, horizontes limitados y escenarios antes de escalar gasto. |
-| No fijar revisión | Una decisión sobre unit economics: CAC, LTV, churn y payback se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| LTV con ingresos | Es más fácil | Usar margen de contribución. |
+| Churn sin cohortes | Se usa el promedio | Analizar por cohorte y antigüedad. |
+| CAC sin costos indirectos | Solo se cuenta publicidad | Incluir todo el costo de captación. |
+| Mirar solo LTV/CAC | La razón parece suficiente | Leerla con el payback y la caja. |
+| Un promedio para todos los segmentos | Se simplifica | Segmentar por canal y tipo de cliente. |
+| Crecer con payback inalcanzable | Se prioriza crecimiento | Financiar el payback antes de escalar. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **CAC** y **LTV** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **churn** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir unidad y cohortes → calcular CAC completo y marginal** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **CAC** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **unit economics: CAC, LTV, churn y payback**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **LTV/CAC no es verdad física. Pequeños cambios de churn cambian mucho LTV; usa cohortes observadas, horizontes limitados y escenarios antes de escalar gasto.**?
+1. ¿Qué incluye el CAC?
+2. ¿Por qué el LTV se calcula con margen y no con ingresos?
+3. ¿Qué duración esperada implica un churn mensual del 4 %?
+4. ¿Qué es el payback y por qué se lee junto con LTV/CAC?
+5. ¿Qué ventaja tiene el análisis por cohortes?
+6. ¿Qué errores inflan el LTV?
+7. ¿Qué límites tienen estas métricas?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Todos los costos de captación: publicidad, sueldos y comisiones de ventas y marketing, herramientas y eventos, divididos por los clientes nuevos.
+2. Porque el cliente deja lo que queda tras los costos de servirlo; usar ingresos sobrestima el valor.
+3. Cerca de 25 meses (1/0,04).
+4. Es el tiempo para recuperar el CAC con el margen; una razón alta con payback largo exige financiar mucho tiempo cada cliente.
+5. Muestra cómo cambia la retención con la antigüedad y entre grupos, algo que el promedio oculta.
+6. Usar ingresos, churn constante sin cohortes, ignorar el descuento, promedios entre segmentos y mezclar clientes orgánicos con pagados.
+7. Dependen de supuestos de retención futura y de atribución; las reglas de la industria no son universales.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/117-unit-economics-cac-ltv-churn-y-payback/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **unit economics: CAC, LTV, churn y payback**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **unit economics: CAC, LTV, churn y payback** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **CAC**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un SaaS tiene ARPA 100 mensual, margen bruto 80%, churn mensual 4% y CAC 900. Una aproximación simple de LTV por margen/churn es 2.000, pero el payback supera 11 meses y cohortes nuevas churnean más.** y el dato que podría invalidar la recomendación.
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el análisis del caso ejecutivo;
+- `kpi-tree.md` (plantilla [KPI tree](../../../../templates/kpi-tree.md)) con las métricas de economía unitaria y su seguimiento;
+- `decision-journal.md` con los supuestos de retención y las decisiones de inversión.
 
 ## 📗 Fuentes y verificación
 
-- Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* (Prentice Hall College Div, 2002). **Uso en esta clase:** costos relevantes, presupuestos, variaciones y decisiones gerenciales. Lectura selectiva sobre **unit economics: cac, ltv, churn y payback**. **Localizador:** [ISBN-13 9780130650061](https://openlibrary.org/isbn/9780130650061).
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **unit economics: cac, ltv, churn y payback**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **unit economics: cac, ltv, churn y payback**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** reconocimiento, medición y presentación de estados financieros y sus partidas. Lectura selectiva sobre **unit economics: cac, ltv, churn y payback**. **Localizador:** [ISBN-13 9780470098189](https://openlibrary.org/isbn/9780470098189).
-- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración. Lectura selectiva sobre **unit economics: cac, ltv, churn y payback**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
-- Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* (McGraw-Hill Education on Brilliance Audio, 2018). **Uso en esta clase:** señales de calidad de resultados, partidas no recurrentes y posibles distorsiones contables. Lectura selectiva sobre **unit economics: cac, ltv, churn y payback**. **Localizador:** [ISBN-13 9781978605459](https://openlibrary.org/isbn/9781978605459).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **unit economics: cac, ltv, churn y payback** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **unit economics: cac, ltv, churn y payback**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **unit economics: cac, ltv, churn y payback** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **unit economics: cac, ltv, churn y payback** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **unit economics: cac, ltv, churn y payback** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Sunil Gupta, Donald R. Lehmann & Jennifer Ames Stuart — *Valuing Customers* (Journal of Marketing Research, 2004). **Uso en esta clase:** valorar clientes como activos con flujos futuros. Lectura selectiva sobre **unit economics: cac, ltv, churn y payback**. **Localizador:** [DOI 10.1509/jmkr.41.1.7.25084](https://doi.org/10.1509/jmkr.41.1.7.25084).
+- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** crecimiento y retorno sobre el capital como base del valor. Lectura selectiva sobre **unit economics: cac, ltv, churn y payback**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
+- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** relación entre métricas operativas y estados financieros. Lectura selectiva sobre **unit economics: cac, ltv, churn y payback**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
+- Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* (Prentice Hall College Div, 2002). **Uso en esta clase:** costos de servir y asignación. Lectura selectiva sobre **unit economics: cac, ltv, churn y payback**. **Localizador:** [ISBN-13 9780130650061](https://openlibrary.org/isbn/9780130650061).
+- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** calidad de los ingresos recurrentes. Lectura selectiva sobre **unit economics: cac, ltv, churn y payback**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
 
-> **Regla de fuentes para Unit economics: CAC, LTV, churn y payback:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **unit economics: CAC, LTV, churn y payback** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Unit economics: CAC, LTV, churn y payback:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluido el tratamiento contable de ingresos recurrentes y la normativa de protección al consumidor. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

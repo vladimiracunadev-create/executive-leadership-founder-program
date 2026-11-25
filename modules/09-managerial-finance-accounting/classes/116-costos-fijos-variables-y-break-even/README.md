@@ -10,225 +10,193 @@
 
 ## 🎯 Propósito
 
-Costos fijos, variables y break-even permiten entender cuántas unidades o cuánto revenue se necesitan para cubrir estructura. El análisis depende del rango relevante y del margen de contribución; también permite calcular margen de seguridad y sensibilidad a precio o mix.
+Toda decisión de crecimiento, de precio o de inversión cambia la proporción entre costos que se mueven con las ventas y costos que se mantienen estén o no las ventas. Esa proporción —la **estructura de costos**— determina cuánto debe vender un negocio para no perder, cuánto se amplifica la ganancia cuando las ventas suben y cuánto se hunde cuando bajan. Contratar una persona más, firmar un arriendo, automatizar una línea o cambiar a un modelo de comisiones transforman costos variables en fijos o al revés, y con ello el riesgo operativo de la empresa.
 
-La salida de esta parte es **leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **costos fijos, variables y break-even** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis costo–volumen–utilidad de Horngren y colegas, en el tratamiento de Kaplan y Cooper sobre el comportamiento real de los costos y en la lectura de apalancamiento y riesgo de Brealey, Myers y Allen. Al terminar sabrás clasificar costos según su comportamiento, calcular el punto de equilibrio y el margen de seguridad, evaluar el apalancamiento operativo y decidir cómo cambia el riesgo de una estructura con otra.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `fixed cost`, `variable cost`, `contribution per unit`, `break-even units`, `margin of safety` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. clasificar costos por comportamiento → 2. calcular contribución unitaria → 3. obtener break-even → 4. hacer sensibilidad de precio-volumen-costo → 5. comparar capacidad y rango relevante** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** break-even units, contribution margin, fixed cost coverage sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Clasificar** costos como fijos, variables o semivariables y reconocer los escalonados.
+2. **Calcular** el punto de equilibrio en unidades y en ingresos.
+3. **Calcular** el margen de seguridad y el apalancamiento operativo.
+4. **Comparar** estructuras de costos alternativas y su riesgo.
+5. **Decidir** con análisis de sensibilidad ante cambios de precio, costo y volumen.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define fixed cost y variable cost sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con break-even units y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: clasifica cinco costos de tu área en fijos o variables y pregúntate qué pasa con ellos si las ventas caen 20 %. |
+| 20–60 min | Clasificación, punto de equilibrio, apalancamiento y sensibilidad. |
+| 60–105 min | Ejemplo trabajado: elegir entre dos estructuras de costos. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **fixed cost** | costo que permanece aproximadamente constante frente a volumen dentro de un rango | Distingue un hecho compatible y otro que lo refute. |
-| **variable cost** | costo que cambia con unidades | Distingue un hecho compatible y otro que lo refute. |
-| **contribution per unit** | precio menos costo variable unitario | Distingue un hecho compatible y otro que lo refute. |
-| **break-even units** | costos fijos/margen de contribución unitario | Distingue un hecho compatible y otro que lo refute. |
-| **margin of safety** | ventas reales o esperadas por encima del break-even | Distingue un hecho compatible y otro que lo refute. |
+| **Costo variable** | Cambia en proporción al volumen. | Materiales, comisiones, fletes. |
+| **Costo fijo** | No cambia con el volumen dentro de un rango relevante. | Arriendo, sueldos base. |
+| **Costo escalonado** | Fijo dentro de tramos de actividad; salta al cambiar de tramo. | Un supervisor por cada 20 operarios. |
+| **Punto de equilibrio (break-even)** | Volumen en que los ingresos igualan los costos totales. | Utilidad cero. |
+| **Margen de seguridad** | Distancia entre las ventas reales y el punto de equilibrio. | Cuánto pueden caer las ventas sin pérdidas. |
+| **Apalancamiento operativo** | Sensibilidad del resultado operacional al cambio en ventas por la presencia de costos fijos. | Mayor con más costos fijos. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 116: 1. clasificar costos por comportamiento → 2. calcular contribución unitaria → 3. obtener break-even → 4. hacer sensibilidad de precio-volumen-costo → 5. comparar capacidad y rango relevante](modelo-mental.svg)
+![Cálculo del punto de equilibrio con un ejemplo numérico: precio, costo variable, margen de contribución, costos fijos, equilibrio y margen de seguridad.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. clasificar costos por comportamiento → 2. calcular contribución unitaria → 3. obtener break-even → 4. hacer sensibilidad de precio-volumen-costo → 5. comparar capacidad y rango relevante
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Costos fijos, variables y break-even permiten entender cuántas unidades o cuánto revenue se necesitan para cubrir estructura. El análisis depende del rango relevante y del margen de contribución; también permite calcular margen de seguridad y sensibilidad a precio o mix.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La clasificación fija/variable cambia con horizonte y escala. Un contrato anual puede ser fijo este mes y evitable el próximo año; modela según la decisión concreta.**
+**Cómo leer el diagrama.** Una tabla que construye el punto de equilibrio en seis filas: precio, costo variable unitario, **margen de contribución** (la diferencia), **costos fijos**, el **equilibrio** (costos fijos divididos por el margen de contribución) y el **margen de seguridad**. Cada fila se apoya en la anterior. La nota advierte que más costos fijos exigen más ventas para cubrirlos y aumentan la sensibilidad a una caída de ventas.
 
 ## 📖 Desarrollo
 
-### 1. fixed cost: mecanismo central
+### 1. Clasificar por comportamiento
 
-**fixed cost** se entiende aquí como **costo que permanece aproximadamente constante frente a volumen dentro de un rango**. Esta es la pieza causal o estructural desde la que se inicia **costos fijos, variables y break-even**: antes de clasificar costos por comportamiento, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Los costos se clasifican según cómo reaccionan al volumen. Los **variables** suben y bajan con él: materiales, comisiones de venta, fletes, costos de pago. Los **fijos** no cambian dentro de un rango de actividad: arriendo de local, sueldos base, licencias de software, seguros. Existen **semivariables** (un componente fijo y uno variable, como una cuenta de electricidad con cargo fijo y consumo) y **escalonados** (se mantienen hasta cierto nivel y luego saltan: otra bodega, otro turno). Horngren y colegas insisten en que la clasificación depende del **horizonte** y del **rango relevante**: a largo plazo casi todos los costos son variables, y en el corto plazo casi todos son fijos.
 
-La lectura rectora de este bloque es Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis*. Su aporte se usa para examinar **costos relevantes, presupuestos, variaciones y decisiones gerenciales**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **break-even units**; regístrala con periodo, unidad, población y baseline.
+### 2. Margen de contribución y punto de equilibrio
 
-Relaciona el mecanismo con **variable cost**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El **margen de contribución unitario** es el precio menos el costo variable unitario. El **punto de equilibrio en unidades** es costos fijos / margen de contribución unitario; en ingresos, costos fijos / porcentaje de margen de contribución. Para lograr una utilidad objetivo, se suma esa utilidad a los costos fijos antes de dividir. Con una mezcla de productos, se usa el margen de contribución ponderado por la mezcla esperada: un cambio de mezcla altera el equilibrio. El cálculo es sencillo y revelador: dice cuánto hay que vender solo para cubrir la estructura.
 
-### 2. variable cost: frontera conceptual y error de clasificación
+### 3. Margen de seguridad y apalancamiento operativo
 
-**Definición operacional:** costo que cambia con unidades. Su valor está en distinguirlo de **fixed cost** y **contribution per unit**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El **margen de seguridad** es (ventas reales − ventas de equilibrio) / ventas reales: cuánto pueden caer las ventas sin entrar en pérdida. El **grado de apalancamiento operativo** es margen de contribución total / resultado operacional: cuántos por ciento cambia el resultado operacional por cada 1 % de cambio en ventas. Con muchos costos fijos, el apalancamiento es alto: un aumento de ventas multiplica la utilidad, y una caída la destruye con rapidez. Brealey, Myers y Allen lo conectan con el riesgo del negocio: una empresa con alto apalancamiento operativo debería ser prudente con la deuda, que agrega apalancamiento financiero.
 
-Contrasta el problema con Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*, que aporta una mirada sobre **valor del dinero, riesgo, costo de capital, inversión y financiación**. Formula dos mini-casos: uno que sí satisface la definición de **variable cost** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **contribution margin** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Estructuras alternativas
 
-Antes de calcular contribución unitaria, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un mismo negocio puede organizarse con estructuras de costo distintas. Ejemplos: vendedores con sueldo fijo o con comisión; fabricar en planta propia (más fijos, menos variable) o tercerizar (menos fijos, más variable); arrendar con renta fija o con renta variable sobre ventas; software con servidores propios o en la nube con pago por uso. Cada alternativa cambia el punto de equilibrio y el riesgo: más variable reduce el riesgo y el potencial de utilidad por unidad; más fijo aumenta ambos. La decisión depende de la **incertidumbre de la demanda**, la **escala esperada** y la **capacidad de financiar** el riesgo.
 
-### 3. contribution per unit: operacionalización y medición
+### 5. Escalones y capacidad
 
-**contribution per unit** significa **precio menos costo variable unitario**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Los costos escalonados crean puntos críticos: al superar la capacidad de un tramo, aparece un salto (contratar, arrendar, invertir). El análisis debe considerar **cuántas unidades se pueden producir** con la estructura actual y **cuánto cuesta el siguiente tramo**. Si el siguiente salto es grande, puede convenir resolver con horas extra o tercerización temporal. La rentabilidad por unidad no es constante: un crecimiento que exige un nuevo tramo puede reducir el margen operacional durante un período hasta que se absorba la nueva capacidad.
 
-Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* orienta este bloque mediante **decisiones de inversión, financiación, capital de trabajo y valoración**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **fixed cost coverage**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Sensibilidad y escenarios
 
-Al llegar a obtener break-even, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Se analiza el efecto en el equilibrio y en la utilidad de cambios en las variables clave: **precio** (una baja del 5 % puede exigir un aumento del 20 % en volumen para mantener la contribución si el margen es del 30 %), **costo variable**, **costos fijos** y **volumen**. Con escenarios se identifican las variables más sensibles y se definen controles: seguimiento de la que más mueve el resultado, contratos que traspasen riesgo (precios indexados), y planes de contingencia si las ventas caen. Los modelos simples ayudan a entender; las decisiones grandes requieren modelos más detallados.
 
-### 4. break-even units: trade-offs y efectos de segundo orden
+### 7. Costos hundidos y decisiones marginales
 
-**Definición:** costos fijos/margen de contribución unitario. Este concepto obliga a abandonar la idea de que **costos fijos, variables y break-even** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de hacer sensibilidad de precio-volumen-costo, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* aporta una lente sobre **reconocimiento, medición y presentación de estados financieros y sus partidas**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **margin of safety** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **costos fijos, variables y break-even**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **break-even units** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. margin of safety: gobernanza, límites e integración
-
-**margin of safety** se define como **ventas reales o esperadas por encima del break-even** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Stephen H. Penman — *Financial Statement Analysis and Security Valuation* se utiliza para estudiar **reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración** y contrastar la recomendación final. Al ejecutar comparar capacidad y rango relevante, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **La clasificación fija/variable cambia con horizonte y escala. Un contrato anual puede ser fijo este mes y evitable el próximo año; modela según la decisión concreta.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **fixed cost**, **variable cost**, **contribution per unit**, **break-even units** y **margin of safety** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **costos fijos, variables y break-even** no consiste en sumar cinco definiciones. Empieza por **fixed cost**, contrasta **variable cost** con **contribution per unit**, incorpora **break-even units** como restricción o mecanismo y usa **margin of safety** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. clasificar costos por comportamiento → 2. calcular contribución unitaria → 3. obtener break-even → 4. hacer sensibilidad de precio-volumen-costo → 5. comparar capacidad y rango relevante**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Break-even y margen de seguridad
-
-Con un producto simple, `margen de contribución unitario = precio - costo variable unitario` y `unidades de equilibrio = costos fijos / margen de contribución unitario`. Si precio = 100, variable = 60 y costos fijos = 200.000, el punto de equilibrio es 5.000 unidades.
-
-Agrega `margen de seguridad = ventas esperadas - ventas de equilibrio`. En negocios multiproducto, el mix importa; en SaaS, los costos “variables” pueden comportarse distinto por etapa. El break-even no predice demanda: solo muestra qué volumen exige una estructura de costos dada.
+Una decisión se toma con **costos relevantes**: los futuros y diferenciales entre alternativas. Los **costos hundidos** (ya incurridos, irrecuperables) no deben pesar. Un error común: seguir produciendo un producto «porque ya se invirtió en la línea». La pregunta es si el ingreso adicional supera los costos adicionales evitables. Y los costos fijos **comunes** (administración central) se asignan a productos de manera arbitraria; decidir cerrar un producto porque «no cubre su parte de indirectos» puede reducir la utilidad total si su contribución a esos costos es positiva.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* | costos relevantes, presupuestos, variaciones y decisiones gerenciales | ¿Qué supuesto de **costos fijos, variables y break-even** ayuda a desafiar? |
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **costos fijos, variables y break-even** ayuda a desafiar? |
-| Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* | decisiones de inversión, financiación, capital de trabajo y valoración | ¿Qué supuesto de **costos fijos, variables y break-even** ayuda a desafiar? |
-| Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* | reconocimiento, medición y presentación de estados financieros y sus partidas | ¿Qué supuesto de **costos fijos, variables y break-even** ayuda a desafiar? |
-| Stephen H. Penman — *Financial Statement Analysis and Security Valuation* | reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración | ¿Qué supuesto de **costos fijos, variables y break-even** ayuda a desafiar? |
-
-En **costos fijos, variables y break-even**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **fixed cost**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Horngren et al. | Análisis costo–volumen–utilidad y comportamiento de costos. | Supone relaciones lineales. | ¿Qué rango de actividad es relevante? |
+| Kaplan y Cooper | Comportamiento real de costos y capacidad ociosa. | Su costeo es costoso de aplicar. | ¿Qué recursos son realmente fijos? |
+| Brealey, Myers y Allen | Apalancamiento operativo y riesgo del negocio. | Teoría con supuestos. | ¿Cuánto riesgo suma tu estructura? |
+| Palepu, Healy y Peek | Estructura de costos como reflejo de la estrategia. | Marco general. | ¿Qué estructura implica tu modelo? |
+| Penman | Sostenibilidad de márgenes. | Más técnico. | ¿El margen es recurrente? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un producto vende a 80, costo variable 32 y costos fijos mensuales 240.000. Su break-even es 5.000 unidades; vender 6.000 parece cómodo hasta que un descuento de 10% reduce la contribución a 40 y eleva break-even a 6.000.
+**Situación (hipotética).** Una empresa de reparto de comidas debe decidir cómo estructurar su flota. Vende 40.000 pedidos al mes a USD 12 promedio, con costo variable de producto y empaque de USD 5 por pedido.
 
-**Paso 1 — clasificar costos por comportamiento.** La gerencia escribe primero el supuesto asociado a **fixed cost** y evita convertirlo en hecho. Luego busca **break-even units** para contrastarlo en el caso de **costos fijos, variables y break-even**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Opción A (repartidores propios con sueldo).** Costo de reparto fijo: USD 120.000 mensuales (30 repartidores). Costos fijos del negocio (cocina, plataforma, administración): USD 130.000.
 
-**Paso 2 — calcular contribución unitaria.** La gerencia escribe primero el supuesto asociado a **variable cost** y evita convertirlo en hecho. Luego busca **contribution margin** para contrastarlo en el caso de **costos fijos, variables y break-even**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Opción B (repartidores por pedido).** Costo de reparto USD 2,5 por pedido (variable). Costos fijos: USD 130.000.
 
-**Paso 3 — obtener break-even.** La gerencia escribe primero el supuesto asociado a **contribution per unit** y evita convertirlo en hecho. Luego busca **fixed cost coverage** para contrastarlo en el caso de **costos fijos, variables y break-even**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Cálculo | Opción A | Opción B |
+|---|---|---|
+| Costo variable por pedido | 5,0 | 7,5 |
+| Margen de contribución por pedido | 7,0 | 4,5 |
+| Costos fijos totales | 250.000 | 130.000 |
+| Punto de equilibrio (pedidos) | 35.714 | 28.889 |
+| Resultado con 40.000 pedidos | 30.000 | 50.000 |
+| Margen de seguridad | 10,7 % | 27,8 % |
 
-**Paso 4 — hacer sensibilidad de precio-volumen-costo.** La gerencia escribe primero el supuesto asociado a **break-even units** y evita convertirlo en hecho. Luego busca **margin of safety** para contrastarlo en el caso de **costos fijos, variables y break-even**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Sensibilidad.** Con una caída de demanda del 25 % (30.000 pedidos): A: 7 × 30.000 − 250.000 = −40.000; B: 4,5 × 30.000 − 130.000 = +5.000. Con un aumento del 25 % (50.000 pedidos): A: 100.000; B: 95.000. Con 60.000 pedidos, A: 170.000; B: 140.000.
 
-**Paso 5 — comparar capacidad y rango relevante.** La gerencia escribe primero el supuesto asociado a **margin of safety** y evita convertirlo en hecho. Luego busca **operating leverage** para contrastarlo en el caso de **costos fijos, variables y break-even**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** A parte con mayor riesgo y rendimiento potencial a gran escala; B tiene un punto de equilibrio más bajo y es más robusta ante la incertidumbre. Con demanda estable y creciente, A se vuelve preferible desde unos 48.000 pedidos (donde las contribuciones se igualan: 7q − 250.000 = 4,5q − 130.000 → q = 48.000).
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **costos fijos, variables y break-even**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Decisión.** Dado que la demanda es incierta y la caja limitada, se elige B ahora y se fija un disparador: si la demanda supera 50.000 pedidos durante tres meses, evaluar contratar repartidores propios.
+
+**Qué muestra.** (1) La estructura de costos definió el riesgo. (2) Se calculó el volumen de indiferencia. (3) La decisión incluyó un disparador para revisarla.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **fixed cost** | costo que permanece aproximadamente constante frente a volumen dentro de un rango | Cuando break-even units es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **variable cost** | costo que cambia con unidades | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Break-even contable frente a económico.** El contable cubre costos explícitos; el económico incluye el costo del capital invertido (clase 118). Un negocio puede estar sobre su punto de equilibrio contable y no remunerar su capital.
 
-**Frontera de aplicación:** La clasificación fija/variable cambia con horizonte y escala. Un contrato anual puede ser fijo este mes y evitable el próximo año; modela según la decisión concreta.
+**Límites.** El modelo supone precios, costos unitarios y mezcla constantes y relaciones lineales dentro de un rango; fuera de él, los costos se comportan distinto. La clasificación fijo–variable es una simplificación. Los costos de oportunidad y de capital no aparecen. Los cambios de estructura que implican contratos laborales o de arriendo tienen condiciones legales y plazos que se verifican con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre costos fijos, variables y break-even |
+| Nivel | Cómo usa la estructura de costos |
 |---|---|
-| **Profesional** | usa **costos fijos, variables y break-even** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **fixed cost** y **variable cost** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta break-even units con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si costos fijos, variables y break-even cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de costos fijos, variables y break-even reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **costos fijos, variables y break-even** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende qué costos varían con su actividad. |
+| **Jefe / Team Lead** | Conoce el punto de equilibrio de su unidad. |
+| **Gerente** | Compara estructuras, calcula sensibilidad y define disparadores. |
+| **CEO / Director** | Decide cuánto riesgo operativo asumir según la incertidumbre. |
+| **Founder / Owner** | Mantiene costos fijos bajos al inicio para sobrevivir a la incertidumbre. |
 
 ## 🏢 Caso ejecutivo
 
-Un producto vende a 80, costo variable 32 y costos fijos mensuales 240.000. Su break-even es 5.000 unidades; vender 6.000 parece cómodo hasta que un descuento de 10% reduce la contribución a 40 y eleva break-even a 6.000.
+Una cadena de gimnasios boutique con 8 sedes tiene costos fijos (arriendo, instructores con contrato indefinido, equipos) de USD 600.000 al mes y un costo variable de USD 4 por clase asistida. Vende membresías mensuales a USD 80 con 6.000 socios activos y una asistencia promedio de 9 clases al mes. Tras una caída de socios de 15 % por competencia, el resultado mensual pasó de USD 120.000 a una pérdida de USD 40.000. El directorio considera tres opciones: (1) cerrar dos sedes, (2) pasar a los instructores a pago por clase y (3) invertir USD 1,2 millones en una nueva sede en un barrio con alta demanda.
 
-Entrega un **decision brief de costos fijos, variables y break-even** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de estructura de costos y equilibrio** que contenga: (a) la clasificación de costos y el margen de contribución por socio; (b) el punto de equilibrio actual en socios; (c) el efecto de cada opción en equilibrio, margen de seguridad y riesgo; (d) la sensibilidad a la retención y al precio; (e) los costos hundidos y los relevantes; (f) la recomendación con disparadores y las verificaciones laborales y contractuales necesarias.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **costos fijos, variables y break-even** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. clasificar costos por comportamiento → 2. calcular contribución unitaria → 3. obtener break-even → 4. hacer sensibilidad de precio-volumen-costo → 5. comparar capacidad y rango relevante** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta break-even units, contribution margin; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Clasifica los costos de tu área y marca los escalonados.
+2. Calcula el punto de equilibrio y el margen de seguridad de un caso.
+3. Compara dos estructuras de costo y calcula el volumen de indiferencia.
+4. Calcula el efecto de un descuento del 8 % sobre el punto de equilibrio.
+5. Identifica un costo hundido que esté pesando en una decisión de tu empresa.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar fixed cost y variable cost como sinónimos | Se pierde la distinción entre “costo que permanece aproximadamente constante frente a volumen dentro de un rango” y “costo que cambia con unidades” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “comparar capacidad y rango relevante” | Se saltó “clasificar costos por comportamiento” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. clasificar costos por comportamiento → 2. calcular contribución unitaria → 3. obtener break-even → 4. hacer sensibilidad de precio-volumen-costo → 5. comparar capacidad y rango relevante y marca el primer supuesto no demostrado. |
-| Optimizar solo break-even units | La métrica local sustituyó al resultado del sistema | Contrástala con contribution margin y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre costos fijos, variables y break-even | La clasificación fija/variable cambia con horizonte y escala. Un contrato anual puede ser fijo este mes y evitable el próximo año; modela según la decisión concreta. |
-| No fijar revisión | Una decisión sobre costos fijos, variables y break-even se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Tratar todos los costos como fijos o variables | Se simplifica de más | Revisar rango y horizonte. |
+| Calcular el equilibrio una sola vez | Se considera estático | Actualizar con precios y costos. |
+| Ignorar escalones | Se usa una línea recta | Mapear tramos de capacidad. |
+| Decidir por costo hundido | Se quiere justificar lo invertido | Considerar solo costos relevantes. |
+| Cerrar un producto por no cubrir su parte de indirectos | Se asignan costos comunes | Mirar la contribución incremental. |
+| Cambiar la estructura sin sensibilidad | Se confía en el escenario base | Analizar escenarios y disparadores. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **fixed cost** y **variable cost** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **contribution per unit** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **clasificar costos por comportamiento → calcular contribución unitaria** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **break-even units** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **costos fijos, variables y break-even**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **La clasificación fija/variable cambia con horizonte y escala. Un contrato anual puede ser fijo este mes y evitable el próximo año; modela según la decisión concreta.**?
+1. ¿Qué diferencia hay entre costos fijos, variables y escalonados?
+2. ¿Cómo se calcula el punto de equilibrio?
+3. ¿Qué mide el margen de seguridad?
+4. ¿Qué es el apalancamiento operativo y por qué importa?
+5. ¿Qué ventajas y riesgos tiene pasar costos fijos a variables?
+6. ¿Qué costos son relevantes para una decisión?
+7. ¿Qué límite tiene el análisis de punto de equilibrio?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Los variables cambian con el volumen, los fijos no cambian en un rango y los escalonados son fijos por tramos y saltan al cambiar de tramo.
+2. Costos fijos divididos por el margen de contribución unitario (o por el porcentaje de contribución para obtenerlo en ingresos).
+3. Cuánto pueden caer las ventas antes de entrar en pérdida.
+4. La sensibilidad del resultado operacional a cambios de ventas por costos fijos; mayor apalancamiento implica más ganancia al subir y más pérdida al caer.
+5. Reduce el punto de equilibrio y el riesgo, pero suele reducir el margen por unidad y el potencial a gran escala.
+6. Los futuros y diferenciales entre alternativas; no los hundidos.
+7. Supone precios, costos unitarios y mezcla constantes y relaciones lineales dentro de un rango relevante.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/116-costos-fijos-variables-y-break-even/`:
 
-- `risk-governance-brief.md` con el problema específico de **costos fijos, variables y break-even**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **costos fijos, variables y break-even** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **fixed cost**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un producto vende a 80, costo variable 32 y costos fijos mensuales 240.000. Su break-even es 5.000 unidades; vender 6.000 parece cómodo hasta que un descuento de 10% reduce la contribución a 40 y eleva break-even a 6.000.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con el análisis de riesgo de estructura del caso ejecutivo;
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el cálculo de equilibrio y la sensibilidad;
+- `decision-journal.md` con la opción elegida y los disparadores.
 
 ## 📗 Fuentes y verificación
 
-- Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* (Prentice Hall College Div, 2002). **Uso en esta clase:** costos relevantes, presupuestos, variaciones y decisiones gerenciales. Lectura selectiva sobre **costos fijos, variables y break-even**. **Localizador:** [ISBN-13 9780130650061](https://openlibrary.org/isbn/9780130650061).
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **costos fijos, variables y break-even**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Stephen Ross, Randolph Westerfield et al. — *Corporate Finance* (McGraw-Hill Education, 2018). **Uso en esta clase:** decisiones de inversión, financiación, capital de trabajo y valoración. Lectura selectiva sobre **costos fijos, variables y break-even**. **Localizador:** [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940).
-- Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** reconocimiento, medición y presentación de estados financieros y sus partidas. Lectura selectiva sobre **costos fijos, variables y break-even**. **Localizador:** [ISBN-13 9780470098189](https://openlibrary.org/isbn/9780470098189).
-- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración. Lectura selectiva sobre **costos fijos, variables y break-even**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
-- Aswath Damodaran — *Investment Valuation* (John Wiley & Sons, Incorporated, 2012). **Uso en esta clase:** valoración, riesgo, narrativas, costo de capital y supuestos explícitos. Lectura selectiva sobre **costos fijos, variables y break-even**. **Localizador:** [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **costos fijos, variables y break-even** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **costos fijos, variables y break-even**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **costos fijos, variables y break-even** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **costos fijos, variables y break-even** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **costos fijos, variables y break-even** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* (Prentice Hall College Div, 2002). **Uso en esta clase:** análisis costo–volumen–utilidad y comportamiento de costos. Lectura selectiva sobre **costos fijos, variables y break-even**. **Localizador:** [ISBN-13 9780130650061](https://openlibrary.org/isbn/9780130650061).
+- Robert S. Kaplan & Robin Cooper — *Cost & Effect* (Harvard Business School Press, 1998). **Uso en esta clase:** comportamiento real de costos y capacidad ociosa. Lectura selectiva sobre **costos fijos, variables y break-even**. **Localizador:** [ISBN-13 9780875847887](https://openlibrary.org/isbn/9780875847887).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** apalancamiento operativo y riesgo del negocio. Lectura selectiva sobre **costos fijos, variables y break-even**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** estructura de costos como reflejo de la estrategia. Lectura selectiva sobre **costos fijos, variables y break-even**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
+- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** sostenibilidad de márgenes. Lectura selectiva sobre **costos fijos, variables y break-even**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
 
-> **Regla de fuentes para Costos fijos, variables y break-even:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **costos fijos, variables y break-even** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Costos fijos, variables y break-even:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las condiciones laborales y contractuales de los cambios de estructura. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

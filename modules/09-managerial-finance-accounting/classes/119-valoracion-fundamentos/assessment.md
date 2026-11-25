@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **enterprise value** de **equity value** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **DCF** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **terminal value** con **multiple**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué dos fuerzas reducen el valor presente de un flujo futuro?
+2. ¿Qué es el flujo de caja libre?
+3. ¿Qué representa el WACC y por qué es sensible?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un negocio proyecta FCF de 2, 3, 4, 5 y 6 millones, WACC 11% y crecimiento terminal 3%. Pequeñas variaciones de WACC y terminal pueden mover una gran parte del valor, mostrando por qué se necesita sensibilidad.
+**Caso:** Una empresa familiar de transporte refrigerado con ventas de USD 60 millones recibe una oferta de adquisición de un fondo por USD 85 millones por el 100 % del patrimonio, equivalente a 8,5 veces el EBITDA. La empresa tiene deuda neta de USD 18 millones y flotas con 12 años de antigüedad promedio que requerirán renovación en cuatro años. Los dos socios fundadores discrepan: uno quiere vender; el otro considera que el valor es mayor por un contrato de largo plazo con un cliente que representa el 35 % de los ingresos y vence en tres años. El banco de inversión del comprador presenta un múltiplo basado en transacciones de empresas con flotas nuevas.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **normalizar histórico → proyectar drivers y free cash flow → estimar tasa de descuento → calcular terminal y valor presente → contrastar con múltiplos y sensibilidad**. Debes utilizar o diseñar cómo obtener **revenue growth, EBIT margin, free cash flow**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **informe de valoración y recomendación** que contenga: (a) la historia del negocio y los supuestos de crecimiento, márgenes y reinversión con la renovación de flota; (b) el valor por flujos descontados con tres escenarios (incluida la pérdida del contrato); (c) la revisión de los comparables del comprador y su ajuste; (d) la tabla de sensibilidad frente a WACC y crecimiento terminal; (e) el puente de valor de la empresa a valor del patrimonio; (f) la recomendación sobre la oferta, las condiciones de negociación y las verificaciones legales, contables y tributarias con asesoría. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **La valoración es particularmente sensible a supuestos lejanos. No presentes una cifra puntual sin rango, escenarios y explicación de drivers.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Toda valoración depende de proyecciones inciertas; el valor terminal y la tasa pesan demasiado.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

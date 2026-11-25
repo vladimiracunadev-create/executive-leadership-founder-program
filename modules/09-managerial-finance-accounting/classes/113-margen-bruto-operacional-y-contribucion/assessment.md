@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **gross margin** de **operating margin** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **contribution margin** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **variable cost** con **fixed cost**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre margen bruto y margen de contribución?
+2. ¿Para qué decisiones se usa el margen de contribución?
+3. ¿Qué critican Kaplan y Cooper de la asignación tradicional de indirectos?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un servicio vende a 100, tiene costo variable 35 y costos de soporte asignados de 40. Un cliente adicional exige solo 35; confundir costo total con incremental puede llevar a rechazar una venta rentable, pero aceptar demasiadas puede exigir nueva capacidad fija.
+**Caso:** Una empresa de servicios de limpieza industrial atiende 120 clientes. Su margen bruto total es del 32 %, estable. El gerente comercial presiona por cerrar contratos con descuentos del 12 % para ganar volumen; el gerente de operaciones advierte que los contratos más grandes exigen turnos nocturnos y supervisión adicional; finanzas calcula que los costos indirectos (supervisión, transporte, administración) son el 18 % de las ventas y se asignan por igual a todos los clientes. Un análisis por cliente muestra que el 15 % de los clientes genera más del 100 % de la utilidad operacional y que 30 clientes operan con pérdida al considerar su costo de servicio.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir clasificación consistente → calcular márgenes por producto o segmento → comparar tendencia → identificar driver precio-volumen-mix-costo → usar contribución para decisiones incrementales**. Debes utilizar o diseñar cómo obtener **gross margin, contribution margin, operating margin**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **análisis de márgenes** que contenga: (a) los cuatro márgenes de la empresa con su definición; (b) la evaluación del descuento del 12 % con su efecto en la contribución y el volumen necesario; (c) una propuesta de costeo por actividades simplificado y sus generadores; (d) el análisis de rentabilidad por cliente y las acciones sobre los 30 clientes en pérdida; (e) cómo se vigilará la mezcla; (f) los aspectos de precios y de contratos que se consultarán con asesoría legal. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **El margen de contribución sirve en el rango relevante y horizonte apropiado. A largo plazo muchos costos 'fijos' cambian; no uses análisis incremental para justificar precios estructuralmente insuficientes.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: La asignación de costos indirectos es en parte arbitraria y cambia el resultado por producto o cliente; se declara el criterio.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

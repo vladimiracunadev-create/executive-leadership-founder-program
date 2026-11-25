@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **devengo** de **ingreso** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **gasto** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **activo** con **cash flow**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué pregunta responde cada estado financiero?
+2. ¿Qué diferencia hay entre base devengada y base de caja?
+3. ¿Por qué utilidad y caja pueden divergir?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un gerente aprueba una venta grande con pago a 120 días y celebra revenue del trimestre. La empresa, sin embargo, necesita financiar inventario y nómina mucho antes de cobrar.
+**Caso:** Una empresa de software con 80 personas reporta al directorio una utilidad trimestral de USD 1,2 millones, el doble que el año anterior. El gerente comercial lo celebra; el director financiero advierte que la caja bajó USD 900.000 en el mismo trimestre y que las cuentas por cobrar subieron de 45 a 82 días de ventas. El gerente de producto explica que se capitalizaron USD 600.000 de desarrollo de un nuevo módulo como activo, en vez de llevarlos a gastos. Un director del directorio pregunta si «la empresa está ganando dinero o no».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **traducir decisión a estado de resultados → identificar impacto en balance → modelar momento de caja → separar contable de económico → comprobar efecto en retorno y riesgo**. Debes utilizar o diseñar cómo obtener **revenue, margen, EBIT**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **informe de lectura financiera** que contenga: (a) qué responde cada estado y qué ocultan por separado; (b) el análisis de la divergencia entre utilidad y caja con los tres factores mencionados; (c) las preguntas que harías sobre la capitalización del desarrollo y la política de cobro; (d) qué cifras necesitas ver y con qué definición; (e) la respuesta a «¿gana dinero?» con una posición matizada; (f) qué normas contables y asesoría profesional consultarías para validar el tratamiento. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Las definiciones contables dependen de normas y contratos. El gerente usa el lenguaje para preguntar mejor; reconocimiento formal debe validarse con contabilidad y normas vigentes.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los estados financieros siguen reglas que pueden no reflejar el valor económico: el costo histórico de un activo puede ser muy distinto de su valor actual, y los intangibles (marca, relaciones, conocimiento) suelen no aparecer.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

@@ -10,238 +10,192 @@
 
 ## 🎯 Propósito
 
-El estado de resultados explica desempeño durante un periodo mediante ingresos, costos, gastos, resultado operativo, financiero e impuestos. La lectura gerencial debe normalizar partidas no recurrentes y analizar márgenes por nivel: una utilidad neta positiva puede ocultar deterioro operativo.
+El estado de resultados cuenta, de arriba abajo, qué le ocurrió al dinero que entró por ventas: cuánto se fue en producir lo vendido, cuánto en operar la empresa, cuánto en financiarla y cuánto en impuestos, y cuánto quedó para los dueños. Cada línea es una pregunta gerencial: ¿el producto deja margen?, ¿la estructura de gastos es proporcional a la escala?, ¿la deuda pesa demasiado? Leerlo bien permite ubicar **dónde** se pierde la rentabilidad, que es el primer paso para corregirla.
 
-La salida de esta parte es **leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **estado de resultados** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis de estados de Palepu, Healy y Peek, en la visión de Penman sobre separar lo operativo de lo financiero y en el tratamiento de costos de Horngren y colegas. Al terminar sabrás leer un estado de resultados por escalones, calcular márgenes y variaciones, distinguir lo recurrente de lo extraordinario y reconocer cómo las decisiones de reconocimiento de ingresos y de clasificación de costos cambian la utilidad.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `margen bruto`, `resultado operativo`, `EBITDA`, `partida no recurrente`, `resultado normalizado` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. reconstruir cascada de resultados → 2. calcular márgenes por nivel → 3. separar operativo y no operativo → 4. normalizar no recurrentes → 5. comparar tendencia y explicar drivers** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** gross margin, operating margin, EBITDA margin sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Leer** el estado de resultados por escalones: ingresos, margen bruto, resultado operacional, antes de impuestos y neto.
+2. **Calcular** márgenes y variaciones entre períodos y frente al plan.
+3. **Separar** lo recurrente de lo extraordinario.
+4. **Explicar** cómo el reconocimiento de ingresos y la clasificación de costos afectan la utilidad.
+5. **Formular** hipótesis sobre dónde se origina un problema de rentabilidad.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define margen bruto y resultado operativo sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con gross margin y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda el último estado de resultados que viste y señala qué línea no entendiste. |
+| 20–60 min | Escalones, reconocimiento, recurrente y extraordinario. |
+| 60–105 min | Ejemplo trabajado: análisis de una cadena de cafeterías. |
+| 105–150 min | Caso ejecutivo y práctica de lectura. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **margen bruto** | ventas menos costo de ventas, como porcentaje de ventas | Distingue un hecho compatible y otro que lo refute. |
-| **resultado operativo** | resultado del negocio antes de estructura financiera e impuestos según presentación | Distingue un hecho compatible y otro que lo refute. |
-| **EBITDA** | aproximación a resultado antes de intereses, impuestos, depreciación y amortización, no flujo de caja | Distingue un hecho compatible y otro que lo refute. |
-| **partida no recurrente** | efecto material que no representa desempeño repetible | Distingue un hecho compatible y otro que lo refute. |
-| **resultado normalizado** | resultado ajustado para analizar capacidad recurrente | Distingue un hecho compatible y otro que lo refute. |
+| **Ingresos** | Importe por la venta de bienes o servicios en el período. | Primera línea del estado. |
+| **Costo de ventas** | Costo directo de los bienes o servicios vendidos. | Se resta de los ingresos. |
+| **Margen bruto** | Ingresos menos costo de ventas. | Mide lo que deja el producto antes de operar. |
+| **Resultado operacional (EBIT)** | Margen bruto menos gastos operativos. | Rentabilidad del negocio antes de financiamiento e impuestos. |
+| **Partida extraordinaria o no recurrente** | Efecto puntual que no se espera repetir. | Venta de un activo, indemnización, reestructuración. |
+| **Utilidad neta** | Resultado final tras intereses e impuestos. | Última línea. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 110: 1. reconstruir cascada de resultados → 2. calcular márgenes por nivel → 3. separar operativo y no operativo → 4. normalizar no recurrentes → 5. comparar tendencia y explicar drivers](modelo-mental.svg)
+![Del ingreso a la utilidad en cinco pasos: ingresos, margen bruto, resultado operacional, antes de impuestos y utilidad neta.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. reconstruir cascada de resultados → 2. calcular márgenes por nivel → 3. separar operativo y no operativo → 4. normalizar no recurrentes → 5. comparar tendencia y explicar drivers
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El estado de resultados explica desempeño durante un periodo mediante ingresos, costos, gastos, resultado operativo, financiero e impuestos. La lectura gerencial debe normalizar partidas no recurrentes y analizar márgenes por nivel: una utilidad neta positiva puede ocultar deterioro operativo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **EBITDA y normalizaciones pueden manipularse si se ajusta todo lo desfavorable. Justifica cada exclusión y cruza siempre con flujo de caja y balance.**
+**Cómo leer el diagrama.** Cinco pasos descendentes. Cada uno resta un tipo de costo y responde una pregunta: ¿el producto deja margen? (bruto), ¿el negocio operativo es rentable? (operacional), ¿pesa la deuda y otras partidas no operativas? (antes de impuestos), ¿cuánto queda a los dueños? (neta). Si la utilidad es baja, el diagrama sirve para ubicar en qué escalón se consume la rentabilidad.
 
 ## 📖 Desarrollo
 
-### 1. margen bruto: mecanismo central
+### 1. Leer de arriba abajo
 
-**margen bruto** se entiende aquí como **ventas menos costo de ventas, como porcentaje de ventas**. Esta es la pieza causal o estructural desde la que se inicia **estado de resultados**: antes de reconstruir cascada de resultados, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Se comienza por los **ingresos** y su evolución: crecimiento total y por línea, precio frente a volumen y concentración en clientes. Luego el **costo de ventas** y el **margen bruto**, que indican si el producto o servicio es sano. Después los **gastos operativos** (comerciales, administrativos, de investigación y desarrollo) y el **resultado operacional**, que mide el negocio sin los efectos de cómo se financia. Más abajo, **intereses**, **otros ingresos o gastos** e **impuestos** llevan a la **utilidad neta**. Palepu, Healy y Peek recomiendan leer en porcentajes de ingresos para comparar con períodos y con competidores.
 
-La lectura rectora de este bloque es Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*. Su aporte se usa para examinar **reconocimiento, medición y presentación de estados financieros y sus partidas**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **gross margin**; regístrala con periodo, unidad, población y baseline.
+### 2. Reconocimiento de ingresos
 
-Relaciona el mecanismo con **resultado operativo**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Cuándo se reconoce un ingreso afecta la utilidad del período. Las normas contables (por ejemplo, IFRS 15 en el marco IFRS) establecen que se reconoce cuando se transfiere el control del bien o servicio al cliente, en un monto que refleja lo que la empresa espera recibir. En contratos de varios años, con entregables o licencias, la decisión implica estimaciones. Para el gerente, la implicancia es práctica: una venta firmada no es necesariamente un ingreso del período, y el ritmo de facturación y de reconocimiento puede diferir del de la caja. La norma aplicable debe consultarse en su fuente vigente.
 
-### 2. resultado operativo: frontera conceptual y error de clasificación
+### 3. Costo de ventas y clasificación
 
-**Definición operacional:** resultado del negocio antes de estructura financiera e impuestos según presentación. Su valor está en distinguirlo de **margen bruto** y **EBITDA**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Qué entra en el costo de ventas (materiales, mano de obra directa, parte de los costos indirectos de producción) y qué en gastos operativos depende de la naturaleza del negocio y de la política contable. Dos empresas del mismo rubro pueden mostrar márgenes brutos distintos solo porque clasifican de forma diferente (por ejemplo, el soporte al cliente). Horngren y sus colegas muestran cómo la asignación de costos indirectos afecta el costo por producto y, con ello, las decisiones de precio y mezcla. Se comparan los márgenes con la misma definición.
 
-Contrasta el problema con Stephen H. Penman — *Financial Statement Analysis and Security Valuation*, que aporta una mirada sobre **reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración**. Formula dos mini-casos: uno que sí satisface la definición de **resultado operativo** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **operating margin** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Gastos operativos y apalancamiento
 
-Antes de calcular márgenes por nivel, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Los gastos operativos suelen tener un componente fijo importante. Cuando los ingresos crecen y los gastos fijos no, el resultado operacional crece más que proporcionalmente (**apalancamiento operativo**); cuando los ingresos caen, ocurre lo contrario. Por eso dos empresas con el mismo margen bruto pueden tener resultados operacionales muy distintos si una tiene una estructura fija más pesada. Se analiza la relación gastos/ingresos y su evolución, preguntando qué parte crece con la escala y cuál es decisión de la gerencia.
 
-### 3. EBITDA: operacionalización y medición
+### 5. Lo recurrente y lo no recurrente
 
-**EBITDA** significa **aproximación a resultado antes de intereses, impuestos, depreciación y amortización, no flujo de caja**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Penman insiste en separar lo que describe el negocio habitual de lo puntual: venta de activos, reestructuraciones, litigios, ajustes de valor. Una utilidad inflada por la venta de un edificio no predice la del año siguiente. Se revisan las notas y las líneas de «otros» para identificar partidas inusuales, y se calcula un **resultado operacional normalizado**. Las empresas también suelen presentar medidas «ajustadas» (por ejemplo, EBITDA ajustado) que excluyen partidas a criterio de la gerencia; se verifica su conciliación con la medida contable y su consistencia entre períodos.
 
-Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* orienta este bloque mediante **estrategia, análisis contable, análisis financiero y proyección integrados**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **EBITDA margin**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Variaciones y causas
 
-Al llegar a separar operativo y no operativo, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El análisis de desvíos compara con el período anterior y con el presupuesto, y descompone la variación: **volumen** (se vendió más o menos), **precio** (a qué precio), **mezcla** (qué productos o clientes) y **costo** (unitario). Un aumento de ingresos de 10 % puede esconder una caída de volumen compensada por un alza de precios, con consecuencias muy distintas. La pregunta central es qué decisión explica la diferencia y quién la controla. Sin esa descomposición, la discusión de resultados se vuelve una lista de cifras sin responsables.
 
-### 4. partida no recurrente: trade-offs y efectos de segundo orden
+### 7. Señales de alerta
 
-**Definición:** efecto material que no representa desempeño repetible. Este concepto obliga a abandonar la idea de que **estado de resultados** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de normalizar no recurrentes, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* aporta una lente sobre **señales de calidad de resultados, partidas no recurrentes y posibles distorsiones contables**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **net margin** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **estado de resultados**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **partida no recurrente** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. resultado normalizado: gobernanza, límites e integración
-
-**resultado normalizado** se define como **resultado ajustado para analizar capacidad recurrente** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* se utiliza para estudiar **valor del dinero, riesgo, costo de capital, inversión y financiación** y contrastar la recomendación final. Al ejecutar comparar tendencia y explicar drivers, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **EBITDA y normalizaciones pueden manipularse si se ajusta todo lo desfavorable. Justifica cada exclusión y cruza siempre con flujo de caja y balance.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **margen bruto**, **resultado operativo**, **EBITDA**, **partida no recurrente** y **resultado normalizado** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **estado de resultados** no consiste en sumar cinco definiciones. Empieza por **margen bruto**, contrasta **resultado operativo** con **EBITDA**, incorpora **partida no recurrente** como restricción o mecanismo y usa **resultado normalizado** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. reconstruir cascada de resultados → 2. calcular márgenes por nivel → 3. separar operativo y no operativo → 4. normalizar no recurrentes → 5. comparar tendencia y explicar drivers**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Cascada, márgenes y normalización
-
-Lee el estado de resultados en niveles, porque cada nivel responde una pregunta distinta:
-
-```text
-Ventas
-- Costo de ventas                  = Margen bruto
-- Gastos operativos               = Resultado operativo (EBIT, según presentación)
-+ Depreciación y amortización      -> puente aproximado hacia EBITDA
-± Resultado no operativo
-- Intereses
-- Impuestos                       = Resultado neto
-```
-
-Métricas mínimas: `margen bruto = (ventas - costo de ventas) / ventas`; `margen operativo = resultado operativo / ventas`; `margen neto = resultado neto / ventas`. EBITDA **no es caja**: omite inversiones, capital de trabajo, intereses e impuestos.
-
-Con el caso de la clase, si el año 3 reporta utilidad neta de 2,8 millones pero incluye 1,75 millones por venta de una planta, primero separa ese ingreso no recurrente. Si el margen operativo cayó de 9,7 % a 6,4 %, el negocio operativo se deterioró aunque el resultado neto haya mejorado. Penman y Palepu justifican reformular y analizar la capacidad recurrente; Schilit aporta la disciplina de desconfiar de “otros ingresos” y ajustes oportunistas. Una normalización válida documenta **qué se elimina, por qué no es recurrente y cuál es su efecto tributario**.
+Schilit, Perler y Engelhart documentan prácticas que inflan el resultado: reconocer ingresos de forma anticipada, diferir gastos capitalizándolos sin justificación, usar partidas extraordinarias para esconder costos recurrentes, cambiar estimaciones (vidas útiles, provisiones) para suavizar resultados. No son pruebas de fraude, sino indicios para investigar. Una verificación simple: comparar la **utilidad con el flujo de caja operativo**; si la utilidad sube y la caja no, hay que entender por qué (clase 112).
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* | reconocimiento, medición y presentación de estados financieros y sus partidas | ¿Qué supuesto de **estado de resultados** ayuda a desafiar? |
-| Stephen H. Penman — *Financial Statement Analysis and Security Valuation* | reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración | ¿Qué supuesto de **estado de resultados** ayuda a desafiar? |
-| Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* | estrategia, análisis contable, análisis financiero y proyección integrados | ¿Qué supuesto de **estado de resultados** ayuda a desafiar? |
-| Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* | señales de calidad de resultados, partidas no recurrentes y posibles distorsiones contables | ¿Qué supuesto de **estado de resultados** ayuda a desafiar? |
-| Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* | valor del dinero, riesgo, costo de capital, inversión y financiación | ¿Qué supuesto de **estado de resultados** ayuda a desafiar? |
-
-En **estado de resultados**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **margen bruto**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Palepu, Healy y Peek | Lectura de márgenes y comparación con pares. | Es un marco amplio. | ¿Cuál es el margen frente a competidores? |
+| Penman | Separar resultado operativo de financiero y lo recurrente de lo puntual. | Más técnico. | ¿Qué parte del resultado se repetirá? |
+| Horngren et al. | Clasificación y asignación de costos. | Pensado para contabilidad de costos. | ¿Cómo se asigna el costo indirecto? |
+| Schilit et al. | Señales de alerta en el resultado. | No prueba el fraude. | ¿Por qué cambió esta estimación? |
+| IFRS Foundation | Criterios de reconocimiento de ingresos. | Es norma, no guía de gestión. | ¿Cuándo se transfiere el control? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa reporta utilidad neta de 2,8 millones, superior al año previo. Otros ingresos incluyen 1,75 millones por venta de una planta mientras el margen operativo cae de 9,7% a 6,4%.
+**Situación (hipotética).** Una cadena de cafeterías con 20 locales presenta su estado de resultados anual (cifras en USD miles).
 
-**Paso 1 — reconstruir cascada de resultados.** La gerencia escribe primero el supuesto asociado a **margen bruto** y evita convertirlo en hecho. Luego busca **gross margin** para contrastarlo en el caso de **estado de resultados**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Línea | Año anterior | Año actual | % de ingresos actual |
+|---|---|---|---|
+| Ingresos | 12.000 | 13.800 | 100 % |
+| Costo de ventas | 4.200 | 5.100 | 37,0 % |
+| **Margen bruto** | 7.800 | 8.700 | 63,0 % |
+| Gastos de locales (arriendos, personal) | 5.400 | 6.480 | 47,0 % |
+| Administración y marketing | 1.300 | 1.450 | 10,5 % |
+| **Resultado operacional** | 1.100 | 770 | 5,6 % |
+| Intereses | 200 | 340 | 2,5 % |
+| Otros ingresos (venta de un local) | 0 | 300 | 2,2 % |
+| Resultado antes de impuestos | 900 | 730 | 5,3 % |
 
-**Paso 2 — calcular márgenes por nivel.** La gerencia escribe primero el supuesto asociado a **resultado operativo** y evita convertirlo en hecho. Luego busca **operating margin** para contrastarlo en el caso de **estado de resultados**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** Los ingresos crecen 15 %, pero el resultado operacional cae 30 %. El margen bruto baja de 65 % a 63 % (el costo de ventas sube más que los ingresos: insumos o promociones), los gastos de locales suben de 45 % a 47 % de ingresos (arriendos y sueldos) y los intereses suben por nueva deuda. Sin la venta del local (300), el resultado antes de impuestos habría sido de 430, menos de la mitad del año anterior.
 
-**Paso 3 — separar operativo y no operativo.** La gerencia escribe primero el supuesto asociado a **EBITDA** y evita convertirlo en hecho. Luego busca **EBITDA margin** para contrastarlo en el caso de **estado de resultados**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Preguntas.** ¿La caída del margen bruto es por precios de insumos o por descuentos? ¿Los locales nuevos están en etapa de maduración o son poco rentables? ¿Los ingresos subieron por más tráfico o por más precio? ¿La deuda financió locales que aún no rinden?
 
-**Paso 4 — normalizar no recurrentes.** La gerencia escribe primero el supuesto asociado a **partida no recurrente** y evita convertirlo en hecho. Luego busca **net margin** para contrastarlo en el caso de **estado de resultados**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisiones posibles.** Analizar el resultado por local para identificar los que no cubren su costo; revisar la política de precios y la compra de insumos; frenar nuevas aperturas hasta que los locales recientes maduren; cuidar el nivel de deuda.
 
-**Paso 5 — comparar tendencia y explicar drivers.** La gerencia escribe primero el supuesto asociado a **resultado normalizado** y evita convertirlo en hecho. Luego busca **normalization adjustments** para contrastarlo en el caso de **estado de resultados**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **estado de resultados**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La utilidad del año se sostenía en una venta puntual. (2) El problema estaba en el margen bruto y los gastos de locales, no en las ventas. (3) La lectura en porcentajes reveló lo que los valores absolutos escondían.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **margen bruto** | ventas menos costo de ventas, como porcentaje de ventas | Cuando gross margin es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **resultado operativo** | resultado del negocio antes de estructura financiera e impuestos según presentación | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Utilidad contable frente a utilidad económica.** La contable resta costos explícitos; la económica también resta el costo del capital que usa el negocio (clase 118). Una empresa puede tener utilidad contable y destruir valor si su retorno es menor al costo de su capital.
 
-**Frontera de aplicación:** EBITDA y normalizaciones pueden manipularse si se ajusta todo lo desfavorable. Justifica cada exclusión y cruza siempre con flujo de caja y balance.
+**Límites.** Los resultados dependen de estimaciones y criterios (vidas útiles, provisiones, reconocimiento), y de las políticas de cada empresa. Las comparaciones entre empresas exigen homogeneizar definiciones. El ejemplo es ilustrativo. Para decisiones con consecuencias contables, tributarias o de información a terceros, se debe consultar la norma vigente y a profesionales contables y tributarios.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre estado de resultados |
+| Nivel | Cómo usa el estado de resultados |
 |---|---|
-| **Profesional** | usa **estado de resultados** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **margen bruto** y **resultado operativo** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta gross margin con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si estado de resultados cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de estado de resultados reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **estado de resultados** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende en qué línea impacta su trabajo. |
+| **Jefe / Team Lead** | Lee el resultado de su centro y explica desvíos de costo. |
+| **Gerente** | Lee márgenes, analiza variaciones y propone correcciones. |
+| **CEO / Director** | Separa lo recurrente de lo puntual y exige definiciones consistentes. |
+| **Founder / Owner** | Conoce su margen por producto y cliente y toma decisiones con él. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa reporta utilidad neta de 2,8 millones, superior al año previo. Otros ingresos incluyen 1,75 millones por venta de una planta mientras el margen operativo cae de 9,7% a 6,4%.
+Una empresa de transporte de carga reporta utilidad récord en el año: USD 4,5 millones, un 40 % más que el anterior. El análisis revela que USD 2,2 millones provienen de la venta de 12 camiones antiguos, que el costo de combustible se contabilizó parcialmente como inventario, que una provisión por litigios se redujo en USD 600.000 por «mejor probabilidad de éxito» y que los ingresos crecieron solo 5 %. El directorio quiere distribuir un dividendo extraordinario basado en la utilidad. El gerente general afirma que «el negocio mejoró».
 
-Entrega un **decision brief de estado de resultados** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis del estado de resultados** que contenga: (a) la lectura por escalones con porcentajes; (b) el resultado operacional normalizado, con las partidas que quitarías y por qué; (c) las hipótesis sobre el efecto de la clasificación del combustible y de la provisión; (d) las señales de alerta a investigar; (e) la recomendación sobre el dividendo, matizada, con la información adicional que pedirías; (f) qué normas y asesoría profesional consultarías.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **estado de resultados** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. reconstruir cascada de resultados → 2. calcular márgenes por nivel → 3. separar operativo y no operativo → 4. normalizar no recurrentes → 5. comparar tendencia y explicar drivers** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta gross margin, operating margin; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Reexpresa un estado de resultados en porcentajes de ingresos y compara dos períodos.
+2. Descompone una variación de ingresos en volumen, precio y mezcla.
+3. Identifica las partidas no recurrentes y calcula un resultado normalizado.
+4. Escribe tres preguntas sobre la clasificación de costos de tu área.
+5. Compara la utilidad con la caja operativa y explica la diferencia.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar margen bruto y resultado operativo como sinónimos | Se pierde la distinción entre “ventas menos costo de ventas, como porcentaje de ventas” y “resultado del negocio antes de estructura financiera e impuestos según presentación” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “comparar tendencia y explicar drivers” | Se saltó “reconstruir cascada de resultados” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. reconstruir cascada de resultados → 2. calcular márgenes por nivel → 3. separar operativo y no operativo → 4. normalizar no recurrentes → 5. comparar tendencia y explicar drivers y marca el primer supuesto no demostrado. |
-| Optimizar solo gross margin | La métrica local sustituyó al resultado del sistema | Contrástala con operating margin y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre estado de resultados | EBITDA y normalizaciones pueden manipularse si se ajusta todo lo desfavorable. Justifica cada exclusión y cruza siempre con flujo de caja y balance. |
-| No fijar revisión | Una decisión sobre estado de resultados se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Mirar solo la última línea | Es la más visible | Leer por escalones. |
+| Aceptar utilidades con partidas puntuales | Se extrapola el resultado | Normalizar lo recurrente. |
+| Comparar márgenes con definiciones distintas | No se revisan las notas | Homogeneizar. |
+| Atribuir cambios a una sola causa | Se simplifica | Descomponer en volumen, precio, mezcla y costo. |
+| No verificar con la caja | Se confía en la utilidad | Comparar con el flujo operativo. |
+| Usar medidas «ajustadas» sin conciliación | Se toma lo presentado | Pedir la conciliación. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **margen bruto** y **resultado operativo** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **EBITDA** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **reconstruir cascada de resultados → calcular márgenes por nivel** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **gross margin** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **estado de resultados**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **EBITDA y normalizaciones pueden manipularse si se ajusta todo lo desfavorable. Justifica cada exclusión y cruza siempre con flujo de caja y balance.**?
+1. ¿Cuáles son los escalones del estado de resultados y qué pregunta responde cada uno?
+2. ¿Por qué se lee en porcentajes de ingresos?
+3. ¿Qué es el apalancamiento operativo?
+4. ¿Qué diferencia hay entre resultado recurrente y no recurrente?
+5. ¿Cómo se descompone una variación de ingresos?
+6. ¿Qué señales de alerta pueden inflar el resultado?
+7. ¿Qué límite tiene la utilidad contable?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Ingresos, margen bruto, resultado operacional, antes de impuestos y utilidad neta; se pregunta por el margen del producto, la rentabilidad operativa, el peso de la deuda y lo que queda a los dueños.
+2. Para comparar entre períodos y con otras empresas independientemente de su tamaño.
+3. El efecto de que, con costos fijos, el resultado operacional varía más que proporcionalmente con los ingresos.
+4. Lo recurrente describe el negocio habitual; lo no recurrente es puntual y no se espera repetir.
+5. En volumen, precio, mezcla y costo unitario.
+6. Reconocer ingresos antes de tiempo, capitalizar gastos sin justificación, esconder costos en partidas extraordinarias y cambiar estimaciones para suavizar resultados.
+7. No resta el costo del capital y depende de estimaciones y criterios contables.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/110-estado-de-resultados/`:
 
-- `leadership-decision-brief.md` con el problema específico de **estado de resultados**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **estado de resultados** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **margen bruto**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa reporta utilidad neta de 2,8 millones, superior al año previo. Otros ingresos incluyen 1,75 millones por venta de una planta mientras el margen operativo cae de 9,7% a 6,4%.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el análisis del caso ejecutivo;
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el estado reexpresado y normalizado;
+- `decision-journal.md` con las partidas ajustadas y las preguntas abiertas.
 
 ## 📗 Fuentes y verificación
 
-- Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** reconocimiento, medición y presentación de estados financieros y sus partidas. Lectura selectiva sobre **estado de resultados**. **Localizador:** [ISBN-13 9780470098189](https://openlibrary.org/isbn/9780470098189).
-- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** reformulación de estados, calidad del resultado y análisis de rentabilidad para valoración. Lectura selectiva sobre **estado de resultados**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
-- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** estrategia, análisis contable, análisis financiero y proyección integrados. Lectura selectiva sobre **estado de resultados**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
-- Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* (McGraw-Hill Education on Brilliance Audio, 2018). **Uso en esta clase:** señales de calidad de resultados, partidas no recurrentes y posibles distorsiones contables. Lectura selectiva sobre **estado de resultados**. **Localizador:** [ISBN-13 9781978605459](https://openlibrary.org/isbn/9781978605459).
-- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor del dinero, riesgo, costo de capital, inversión y financiación. Lectura selectiva sobre **estado de resultados**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **estado de resultados**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- IFRS Foundation — *IFRS Accounting Standards*. **Uso en esta clase:** normas IFRS/IAS aplicables a la presentación y lectura de estados financieros. **Fuente primaria:** <https://www.ifrs.org/>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **estado de resultados** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **estado de resultados**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **estado de resultados** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **estado de resultados** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **estado de resultados** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation* (South-Western College Pub, 1996). **Uso en esta clase:** lectura de márgenes y comparación con pares. Lectura selectiva sobre **estado de resultados**. **Localizador:** [ISBN-13 9780324375817](https://openlibrary.org/isbn/9780324375817).
+- Stephen H. Penman — *Financial Statement Analysis and Security Valuation* (McGraw-Hill/Irwin, 2001). **Uso en esta clase:** separar lo operativo de lo financiero y lo recurrente de lo puntual. Lectura selectiva sobre **estado de resultados**. **Localizador:** [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331).
+- Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis* (Prentice Hall College Div, 2002). **Uso en esta clase:** clasificación y asignación de costos. Lectura selectiva sobre **estado de resultados**. **Localizador:** [ISBN-13 9780130650061](https://openlibrary.org/isbn/9780130650061).
+- Howard Schilit, Jeremy Perler & Yoni Engelhart — *Financial Shenanigans* (McGraw-Hill Education on Brilliance Audio, 2018). **Uso en esta clase:** señales de alerta en el resultado. Lectura selectiva sobre **estado de resultados**. **Localizador:** [ISBN-13 9781978605459](https://openlibrary.org/isbn/9781978605459).
+- IFRS Foundation — *IFRS Accounting Standards*. **Uso en esta clase:** criterios de reconocimiento de ingresos. **Fuente primaria:** <https://www.ifrs.org/>.
 
-> **Regla de fuentes para Estado de resultados:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **estado de resultados** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Estado de resultados:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado (incluidos los criterios de reconocimiento de ingresos) debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

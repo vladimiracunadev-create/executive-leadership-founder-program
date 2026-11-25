@@ -5,28 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "leer la economía del negocio y decidir con estados, caja, márgenes, retorno y valoración"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir gross margin de operating margin mediante evidencia observable."
-  - "Aplicar la secuencia: definir clasificación consistente → calcular márgenes por producto o segmento → comparar tendencia → identificar driver precio-volumen-mix-costo → usar contribución para decisiones incrementales."
-  - "Interpretar gross margin, contribution margin, operating margin sin atribuir causalidad automática."
-  - "Resolver el caso de margen bruto, operacional y contribución con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Calcular margen bruto, de contribución, operacional y neto."
+  - "Elegir el margen apropiado para cada tipo de decisión."
+  - "Analizar rentabilidad por producto, cliente o canal."
+  - "Reconocer los efectos de asignar costos indirectos de forma arbitraria."
+  - "Evaluar el efecto de precio, volumen y mezcla sobre el margen."
 deliverable: "modelo-financiero-y-memo-de-decision.md"
 references:
   - "Charles Horngren et al. — *Cost Accounting: A Managerial Emphasis*"
+  - "Robert S. Kaplan & Robin Cooper — *Cost & Effect*"
+  - "Krishna G. Palepu, Paul M. Healy & Erik Peek — *Business Analysis and Valuation*"
   - "Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance*"
-  - "Stephen Ross, Randolph Westerfield et al. — *Corporate Finance*"
-  - "Donald E. Kieso, Jerry J. Weygandt & Terry D. Warfield — *Intermediate Accounting*"
   - "Stephen H. Penman — *Financial Statement Analysis and Security Valuation*"
-  - "Aswath Damodaran — *Investment Valuation*"
-  - "IFRS Foundation — normas IFRS/IAS aplicables a presentación y lectura de estados financieros. Verificar edición vigente en <https://www.ifrs.org/>."
 limits:
-  - "El margen de contribución sirve en el rango relevante y horizonte apropiado. A largo plazo muchos costos 'fijos' cambian; no uses análisis incremental para justificar precios estructuralmente insuficientes."
+  - "La asignación de costos indirectos es en parte arbitraria y cambia el resultado por producto o cliente; se declara el criterio."
 evidence_signals:
-  - "gross margin"
-  - "contribution margin"
-  - "operating margin"
-  - "price variance"
-  - "mix variance"
+  - "margen elegido según la decisión"
+  - "contribución en decisiones marginales"
+  - "costos indirectos con generadores"
+  - "mezcla descompuesta"

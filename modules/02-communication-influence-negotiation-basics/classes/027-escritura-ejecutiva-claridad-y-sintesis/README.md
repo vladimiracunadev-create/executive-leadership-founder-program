@@ -1,5 +1,9 @@
 # Clase 027 — Escritura ejecutiva: claridad y síntesis
 
+<!-- nav:inicio -->
+> **Parte 02 · Comunicación, influencia y presencia ejecutiva** — clase 3 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 02 — Comunicación, influencia y presencia ejecutiva  
 **Nivel:** Etapa 1 — Profesional → Líder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/027-escritura-ejecutiva-claridad-y-sintesis/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **escritura ejecutiva: claridad y síntesis** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Escritura ejecutiva: claridad y síntesis:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **escritura ejecutiva: claridad y síntesis** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 026 · Escucha activa y preguntas de calidad](../026-escucha-activa-y-preguntas-de-calidad/README.md) | [Parte 02](../../README.md) · [Programa](../../../../SYLLABUS.md) | [028 · Presentaciones para decisiones →](../028-presentaciones-para-decisiones/README.md) |
+<!-- pie:fin -->

@@ -1,5 +1,9 @@
 # Clase 216 — Capstone: board meeting
 
+<!-- nav:inicio -->
+> **Parte 17 · Directorios y gobierno corporativo** — clase 12 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 17 — Directorios y gobierno corporativo  
 **Nivel:** Etapa 5 — Director → CEO  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/216-capstone-board-meeting/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: board meeting** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Capstone: board meeting:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: board meeting** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 215 · Efectividad del directorio](../215-efectividad-del-directorio/README.md) | [Parte 17](../../README.md) · [Programa](../../../../SYLLABUS.md) | [217 · Estructura de capital →](../../../18-corporate-finance-capital-ma/classes/217-estructura-de-capital/README.md) |
+<!-- pie:fin -->

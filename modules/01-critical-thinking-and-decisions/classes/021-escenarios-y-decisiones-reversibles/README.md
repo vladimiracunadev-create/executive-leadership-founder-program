@@ -1,5 +1,9 @@
 # Clase 021 — Escenarios y decisiones reversibles
 
+<!-- nav:inicio -->
+> **Parte 01 · Pensamiento crítico y toma de decisiones** — clase 9 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 01 — Pensamiento crítico y toma de decisiones  
 **Nivel:** Etapa 1 — Profesional → Líder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/021-escenarios-y-decisiones-reversibles/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **escenarios y decisiones reversibles** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Escenarios y decisiones reversibles:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **escenarios y decisiones reversibles** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 020 · Efectos de segundo orden](../020-efectos-de-segundo-orden/README.md) | [Parte 01](../../README.md) · [Programa](../../../../SYLLABUS.md) | [022 · Decision journal y trazabilidad →](../022-decision-journal-y-trazabilidad/README.md) |
+<!-- pie:fin -->

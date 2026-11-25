@@ -21,3 +21,11 @@ Diseñar el sistema de personas para una empresa que crece de 10 a 40 colaborado
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 05](README.md) · [Programa](../../SYLLABUS.md) | [Parte 06 — Proyectos, Agile y entrega →](../06-projects-agile-delivery/README.md) |
+<!-- pie:fin -->

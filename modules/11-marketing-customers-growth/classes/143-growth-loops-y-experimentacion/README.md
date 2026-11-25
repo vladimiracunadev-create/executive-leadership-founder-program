@@ -1,5 +1,9 @@
 # Clase 143 — Growth loops y experimentación
 
+<!-- nav:inicio -->
+> **Parte 11 · Marketing, cliente y crecimiento** — clase 11 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 11 — Marketing, cliente y crecimiento  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/143-growth-loops-y-experimentacion/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **growth loops y experimentación** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Growth loops y experimentación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **growth loops y experimentación** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 142 · Retención, lealtad y customer success](../142-retencion-lealtad-y-customer-success/README.md) | [Parte 11](../../README.md) · [Programa](../../../../SYLLABUS.md) | [144 · Capstone: go-to-market →](../144-capstone-go-to-market/README.md) |
+<!-- pie:fin -->

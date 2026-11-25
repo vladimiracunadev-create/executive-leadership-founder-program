@@ -1,5 +1,9 @@
 # Clase 050 — Propósito, objetivos y team charter
 
+<!-- nav:inicio -->
+> **Parte 04 · Liderazgo de equipos** — clase 2 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 04 — Liderazgo de equipos  
 **Nivel:** Etapa 2 — Líder → Jefe  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/050-proposito-objetivos-y-team-charter/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **propósito, objetivos y team charter** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Propósito, objetivos y team charter:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **propósito, objetivos y team charter** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 049 · Qué hace a un equipo real](../049-que-hace-a-un-equipo-real/README.md) | [Parte 04](../../README.md) · [Programa](../../../../SYLLABUS.md) | [051 · Roles, responsabilidades y expectativas →](../051-roles-responsabilidades-y-expectativas/README.md) |
+<!-- pie:fin -->

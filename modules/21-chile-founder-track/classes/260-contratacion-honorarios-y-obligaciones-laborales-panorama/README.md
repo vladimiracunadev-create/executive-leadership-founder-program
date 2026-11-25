@@ -1,5 +1,9 @@
 # Clase 260 — Contratación, honorarios y obligaciones laborales: panorama
 
+<!-- nav:inicio -->
+> **Parte 21 · Founder Track Chile: formalización y operación** — clase 8 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 21 — Founder Track Chile: formalización y operación  
 **Nivel:** Etapa 6 — Founder en Chile  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -222,3 +226,11 @@ Guarda en `portfolio/260-contratacion-honorarios-y-obligaciones-laborales-panora
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **contratación, honorarios y obligaciones laborales: panorama** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Contratación, honorarios y obligaciones laborales: panorama:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **contratación, honorarios y obligaciones laborales: panorama** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 259 · Cuenta bancaria, pagos y medios de cobro](../259-cuenta-bancaria-pagos-y-medios-de-cobro/README.md) | [Parte 21](../../README.md) · [Programa](../../../../SYLLABUS.md) | [261 · Propiedad intelectual e INAPI →](../261-propiedad-intelectual-e-inapi/README.md) |
+<!-- pie:fin -->

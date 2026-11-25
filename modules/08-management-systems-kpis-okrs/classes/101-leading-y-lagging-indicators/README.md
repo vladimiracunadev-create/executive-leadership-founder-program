@@ -1,5 +1,9 @@
 # Clase 101 — Leading y lagging indicators
 
+<!-- nav:inicio -->
+> **Parte 08 · Sistemas de gestión, KPI y OKR** — clase 5 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 08 — Sistemas de gestión, KPI y OKR  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/101-leading-y-lagging-indicators/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **leading y lagging indicators** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Leading y lagging indicators:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **leading y lagging indicators** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 100 · KPI y métricas operativas](../100-kpi-y-metricas-operativas/README.md) | [Parte 08](../../README.md) · [Programa](../../../../SYLLABUS.md) | [102 · Balanced Scorecard y tableros →](../102-balanced-scorecard-y-tableros/README.md) |
+<!-- pie:fin -->

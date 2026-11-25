@@ -1,5 +1,9 @@
 # Clase 078 — Agile como sistema adaptativo
 
+<!-- nav:inicio -->
+> **Parte 06 · Proyectos, Agile y entrega** — clase 6 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 06 — Proyectos, Agile y entrega  
 **Nivel:** Etapa 2 — Jefe → Manager  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/078-agile-como-sistema-adaptativo/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **agile como sistema adaptativo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Agile como sistema adaptativo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **agile como sistema adaptativo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 077 · Gestión de riesgos y dependencias](../077-gestion-de-riesgos-y-dependencias/README.md) | [Parte 06](../../README.md) · [Programa](../../../../SYLLABUS.md) | [079 · Scrum con criterio →](../079-scrum-con-criterio/README.md) |
+<!-- pie:fin -->

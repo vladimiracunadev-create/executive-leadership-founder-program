@@ -1,5 +1,9 @@
 # Clase 083 — Recuperación de proyectos atrasados
 
+<!-- nav:inicio -->
+> **Parte 06 · Proyectos, Agile y entrega** — clase 11 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 06 — Proyectos, Agile y entrega  
 **Nivel:** Etapa 2 — Jefe → Manager  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/083-recuperacion-de-proyectos-atrasados/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **recuperación de proyectos atrasados** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Recuperación de proyectos atrasados:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **recuperación de proyectos atrasados** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 082 · Calidad y Definition of Done](../082-calidad-y-definition-of-done/README.md) | [Parte 06](../../README.md) · [Programa](../../../../SYLLABUS.md) | [084 · Capstone: rescate de una iniciativa crítica →](../084-capstone-rescate-de-una-iniciativa-critica/README.md) |
+<!-- pie:fin -->

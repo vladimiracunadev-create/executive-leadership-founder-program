@@ -1,5 +1,9 @@
 # Clase 107 — Escalamiento y gestión por excepción
 
+<!-- nav:inicio -->
+> **Parte 08 · Sistemas de gestión, KPI y OKR** — clase 11 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 08 — Sistemas de gestión, KPI y OKR  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/107-escalamiento-y-gestion-por-excepcion/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **escalamiento y gestión por excepción** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Escalamiento y gestión por excepción:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **escalamiento y gestión por excepción** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 106 · Asignación de recursos](../106-asignacion-de-recursos/README.md) | [Parte 08](../../README.md) · [Programa](../../../../SYLLABUS.md) | [108 · Capstone: operating review gerencial →](../108-capstone-operating-review-gerencial/README.md) |
+<!-- pie:fin -->

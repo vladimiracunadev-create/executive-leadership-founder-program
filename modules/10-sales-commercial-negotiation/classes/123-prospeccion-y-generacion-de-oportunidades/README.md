@@ -1,5 +1,9 @@
 # Clase 123 — Prospección y generación de oportunidades
 
+<!-- nav:inicio -->
+> **Parte 10 · Ventas, desarrollo comercial y negociación** — clase 3 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 10 — Ventas, desarrollo comercial y negociación  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/123-prospeccion-y-generacion-de-oportunidades/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **prospección y generación de oportunidades** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Prospección y generación de oportunidades:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **prospección y generación de oportunidades** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 122 · ICP y segmentación comercial](../122-icp-y-segmentacion-comercial/README.md) | [Parte 10](../../README.md) · [Programa](../../../../SYLLABUS.md) | [124 · Discovery y diagnóstico →](../124-discovery-y-diagnostico/README.md) |
+<!-- pie:fin -->

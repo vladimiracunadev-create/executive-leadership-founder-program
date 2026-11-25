@@ -21,3 +21,11 @@ Presentar un plan realista de independencia y defender un negocio ante un comit�
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 23](README.md) · [Programa](../../SYLLABUS.md) | — |
+<!-- pie:fin -->

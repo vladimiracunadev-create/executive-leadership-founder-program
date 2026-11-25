@@ -29,6 +29,7 @@ este material aunque lo termines entero.
 | Documento | Para qué sirve |
 |---|---|
 | [Primeros 90 días](90_DAY_START.md) | Un arranque concreto en vez de «leer 288 clases»: qué hacer cada semana y qué evidencia dejar. |
+| [Cómo se navega](NAVIGATION.md) | Los cuatro niveles, las reglas de recorrido y qué se genera. |
 | [Ruta de aprendizaje](LEARNING_PATH.md) | El orden recomendado y las rutas parciales según tu punto de partida. |
 | [Ruta de lectura priorizada](READING_PATH.md) | Qué obras leer de verdad cuando el catálogo tiene 229 y el tiempo no da para todas. |
 | [Cómo usar las fuentes](READING_METHOD.md) | El método que impide que el programa degenere en un resumen de libros. |

@@ -1,5 +1,9 @@
 # Clase 150 — MVP: prueba de hipótesis
 
+<!-- nav:inicio -->
+> **Parte 12 · Producto e innovación** — clase 6 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 12 — Producto e innovación  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/150-mvp-prueba-de-hipotesis/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **mvp: prueba de hipótesis** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para MVP: prueba de hipótesis:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **mVP: prueba de hipótesis** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 149 · Prototipos y aprendizaje temprano](../149-prototipos-y-aprendizaje-temprano/README.md) | [Parte 12](../../README.md) · [Programa](../../../../SYLLABUS.md) | [151 · Roadmap orientado a outcomes →](../151-roadmap-orientado-a-outcomes/README.md) |
+<!-- pie:fin -->

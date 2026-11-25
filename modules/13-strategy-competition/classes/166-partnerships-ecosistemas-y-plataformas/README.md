@@ -1,5 +1,9 @@
 # Clase 166 — Partnerships, ecosistemas y plataformas
 
+<!-- nav:inicio -->
+> **Parte 13 · Estrategia y competencia** — clase 10 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 13 — Estrategia y competencia  
 **Nivel:** Etapa 4 — Gerente → Director  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -229,3 +233,11 @@ Guarda en `portfolio/166-partnerships-ecosistemas-y-plataformas/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **partnerships, ecosistemas y plataformas** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Partnerships, ecosistemas y plataformas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **partnerships, ecosistemas y plataformas** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 165 · Opciones de crecimiento](../165-opciones-de-crecimiento/README.md) | [Parte 13](../../README.md) · [Programa](../../../../SYLLABUS.md) | [167 · Ejecución y adaptación de estrategia →](../167-ejecucion-y-adaptacion-de-estrategia/README.md) |
+<!-- pie:fin -->

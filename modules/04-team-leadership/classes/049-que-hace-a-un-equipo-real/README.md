@@ -1,5 +1,9 @@
 # Clase 049 — Qué hace a un equipo real
 
+<!-- nav:inicio -->
+> **Parte 04 · Liderazgo de equipos** — clase 1 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 04 — Liderazgo de equipos  
 **Nivel:** Etapa 2 — Líder → Jefe  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/049-que-hace-a-un-equipo-real/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **qué hace a un equipo real** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Qué hace a un equipo real:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **qué hace a un equipo real** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 048 · Capstone: liderar una crisis humana](../../../03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana/README.md) | [Parte 04](../../README.md) · [Programa](../../../../SYLLABUS.md) | [050 · Propósito, objetivos y team charter →](../050-proposito-objetivos-y-team-charter/README.md) |
+<!-- pie:fin -->

@@ -1,5 +1,9 @@
 # Clase 201 — Leadership pipeline
 
+<!-- nav:inicio -->
+> **Parte 16 · Alta dirección y oficina del CEO** — clase 9 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 16 — Alta dirección y oficina del CEO  
 **Nivel:** Etapa 5 — Director → CEO  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/201-leadership-pipeline/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **leadership pipeline** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Leadership pipeline:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **leadership pipeline** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 200 · Comunicación del CEO](../200-comunicacion-del-ceo/README.md) | [Parte 16](../../README.md) · [Programa](../../../../SYLLABUS.md) | [202 · Crisis y decisiones irreversibles →](../202-crisis-y-decisiones-irreversibles/README.md) |
+<!-- pie:fin -->

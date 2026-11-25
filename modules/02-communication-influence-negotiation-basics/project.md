@@ -21,3 +21,11 @@ Preparar un memo y una presentación ejecutiva para alinear stakeholders en conf
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 02](README.md) · [Programa](../../SYLLABUS.md) | [Parte 03 — Inteligencia emocional, resiliencia y liderazgo adaptativo →](../03-emotional-intelligence-resilience-adaptive-leadership/README.md) |
+<!-- pie:fin -->

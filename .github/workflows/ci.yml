@@ -65,6 +65,9 @@ jobs:
       - name: Verificar el registro de fuentes
         run: python scripts/verify-sources
 
+      - name: Verificar la navegación (portadas de parte, migas y pies de clase)
+        run: python tools/build_navigation.py --check
+
       - name: Verificar que SYLLABUS.md refleje las clases reales
         run: python tools/build_syllabus.py --check
 

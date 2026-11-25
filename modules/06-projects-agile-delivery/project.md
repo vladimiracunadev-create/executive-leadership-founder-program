@@ -21,3 +21,11 @@ Rescatar un proyecto estratégico atrasado, con sobrecosto y stakeholders enfren
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 06](README.md) · [Programa](../../SYLLABUS.md) | [Parte 07 — Operaciones, procesos y calidad →](../07-operations-process-quality/README.md) |
+<!-- pie:fin -->

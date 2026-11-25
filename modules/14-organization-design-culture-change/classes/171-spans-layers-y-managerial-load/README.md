@@ -1,5 +1,9 @@
 # Clase 171 — Spans, layers y managerial load
 
+<!-- nav:inicio -->
+> **Parte 14 · Diseño organizacional, cultura y cambio** — clase 3 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 14 — Diseño organizacional, cultura y cambio  
 **Nivel:** Etapa 4 — Gerente → Director  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/171-spans-layers-y-managerial-load/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **spans, layers y managerial load** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Spans, layers y managerial load:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **spans, layers y managerial load** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 170 · Estructuras funcionales, divisionales y matriciales](../170-estructuras-funcionales-divisionales-y-matriciales/README.md) | [Parte 14](../../README.md) · [Programa](../../../../SYLLABUS.md) | [172 · Operating model →](../172-operating-model/README.md) |
+<!-- pie:fin -->

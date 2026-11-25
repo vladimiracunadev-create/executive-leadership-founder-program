@@ -625,7 +625,7 @@ def verificar() -> int:
     patron = re.compile(r'href="(?!https?://|mailto:|#)([^"#]+)')
     for pagina in SALIDA.rglob("*.html"):
         for destino in patron.findall(pagina.read_text(encoding="utf-8")):
-            if not (pagina.parent / destino).exists():
+            if not (pagina.parent / destino).resolve().exists():
                 faltantes.append(f"{pagina.relative_to(SALIDA).as_posix()} -> {destino}")
 
     peso = sum(p.stat().st_size for p in SALIDA.rglob("*") if p.is_file())

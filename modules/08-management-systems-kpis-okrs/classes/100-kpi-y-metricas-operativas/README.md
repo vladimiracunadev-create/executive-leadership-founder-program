@@ -1,5 +1,9 @@
 # Clase 100 — KPI y métricas operativas
 
+<!-- nav:inicio -->
+> **Parte 08 · Sistemas de gestión, KPI y OKR** — clase 4 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 08 — Sistemas de gestión, KPI y OKR  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/100-kpi-y-metricas-operativas/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **kpi y métricas operativas** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para KPI y métricas operativas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **kPI y métricas operativas** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 099 · OKR: cuándo sirven y cuándo no](../099-okr-cuando-sirven-y-cuando-no/README.md) | [Parte 08](../../README.md) · [Programa](../../../../SYLLABUS.md) | [101 · Leading y lagging indicators →](../101-leading-y-lagging-indicators/README.md) |
+<!-- pie:fin -->

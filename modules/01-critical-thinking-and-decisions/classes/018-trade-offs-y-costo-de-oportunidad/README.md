@@ -1,5 +1,9 @@
 # Clase 018 — Trade-offs y costo de oportunidad
 
+<!-- nav:inicio -->
+> **Parte 01 · Pensamiento crítico y toma de decisiones** — clase 6 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 01 — Pensamiento crítico y toma de decisiones  
 **Nivel:** Etapa 1 — Profesional → Líder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/018-trade-offs-y-costo-de-oportunidad/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **trade-offs y costo de oportunidad** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Trade-offs y costo de oportunidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **trade-offs y costo de oportunidad** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 017 · Probabilidad, incertidumbre y riesgo](../017-probabilidad-incertidumbre-y-riesgo/README.md) | [Parte 01](../../README.md) · [Programa](../../../../SYLLABUS.md) | [019 · Análisis de causa raíz →](../019-analisis-de-causa-raiz/README.md) |
+<!-- pie:fin -->

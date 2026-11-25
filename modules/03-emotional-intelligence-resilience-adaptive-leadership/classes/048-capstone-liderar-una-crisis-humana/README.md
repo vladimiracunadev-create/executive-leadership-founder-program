@@ -1,5 +1,9 @@
 # Clase 048 — Capstone: liderar una crisis humana
 
+<!-- nav:inicio -->
+> **Parte 03 · Inteligencia emocional, resiliencia y liderazgo adaptativo** — clase 12 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 03 — Inteligencia emocional, resiliencia y liderazgo adaptativo  
 **Nivel:** Etapa 1 — Profesional → Líder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -226,3 +230,11 @@ Guarda en `portfolio/048-capstone-liderar-una-crisis-humana/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: liderar una crisis humana** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Capstone: liderar una crisis humana:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: liderar una crisis humana** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 047 · Recuperación, límites y sostenibilidad](../047-recuperacion-limites-y-sostenibilidad/README.md) | [Parte 03](../../README.md) · [Programa](../../../../SYLLABUS.md) | [049 · Qué hace a un equipo real →](../../../04-team-leadership/classes/049-que-hace-a-un-equipo-real/README.md) |
+<!-- pie:fin -->

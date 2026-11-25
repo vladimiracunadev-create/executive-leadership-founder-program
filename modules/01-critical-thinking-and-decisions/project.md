@@ -21,3 +21,11 @@ Resolver un caso ambiguo de negocio y defender la decisión ante un comité.
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 01](README.md) · [Programa](../../SYLLABUS.md) | [Parte 02 — Comunicación, influencia y presencia ejecutiva →](../02-communication-influence-negotiation-basics/README.md) |
+<!-- pie:fin -->

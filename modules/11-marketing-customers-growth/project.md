@@ -21,3 +21,11 @@ Diseñar el go-to-market de una oferta nueva y defender CAC, canal, mensaje y m�
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 11](README.md) · [Programa](../../SYLLABUS.md) | [Parte 12 — Producto e innovación →](../12-product-innovation/README.md) |
+<!-- pie:fin -->

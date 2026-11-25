@@ -1,5 +1,9 @@
 # Clase 077 — Gestión de riesgos y dependencias
 
+<!-- nav:inicio -->
+> **Parte 06 · Proyectos, Agile y entrega** — clase 5 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 06 — Proyectos, Agile y entrega  
 **Nivel:** Etapa 2 — Jefe → Manager  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/077-gestion-de-riesgos-y-dependencias/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **gestión de riesgos y dependencias** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Gestión de riesgos y dependencias:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **gestión de riesgos y dependencias** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 076 · Estimación y capacidad](../076-estimacion-y-capacidad/README.md) | [Parte 06](../../README.md) · [Programa](../../../../SYLLABUS.md) | [078 · Agile como sistema adaptativo →](../078-agile-como-sistema-adaptativo/README.md) |
+<!-- pie:fin -->

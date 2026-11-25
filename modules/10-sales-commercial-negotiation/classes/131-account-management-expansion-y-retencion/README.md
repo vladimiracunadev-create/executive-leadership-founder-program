@@ -1,5 +1,9 @@
 # Clase 131 — Account management, expansión y retención
 
+<!-- nav:inicio -->
+> **Parte 10 · Ventas, desarrollo comercial y negociación** — clase 11 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 10 — Ventas, desarrollo comercial y negociación  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/131-account-management-expansion-y-retencion/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **account management, expansión y retención** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Account management, expansión y retención:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **account management, expansión y retención** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 130 · Cierre y próximos pasos](../130-cierre-y-proximos-pasos/README.md) | [Parte 10](../../README.md) · [Programa](../../../../SYLLABUS.md) | [132 · Capstone: negociación enterprise →](../132-capstone-negociacion-enterprise/README.md) |
+<!-- pie:fin -->

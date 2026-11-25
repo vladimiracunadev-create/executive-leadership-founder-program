@@ -21,3 +21,11 @@ Diseñar la transición de una empresa founder-dependent a un negocio dirigido p
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 22](README.md) · [Programa](../../SYLLABUS.md) | [Parte 23 — Independencia profesional y Business Owner Capstone →](../23-independence-capstone/README.md) |
+<!-- pie:fin -->

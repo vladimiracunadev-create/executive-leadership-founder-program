@@ -1,5 +1,9 @@
 # Clase 122 — ICP y segmentación comercial
 
+<!-- nav:inicio -->
+> **Parte 10 · Ventas, desarrollo comercial y negociación** — clase 2 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 10 — Ventas, desarrollo comercial y negociación  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/122-icp-y-segmentacion-comercial/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **icp y segmentación comercial** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para ICP y segmentación comercial:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **iCP y segmentación comercial** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 121 · Ventas como sistema, no como improvisación](../121-ventas-como-sistema-no-como-improvisacion/README.md) | [Parte 10](../../README.md) · [Programa](../../../../SYLLABUS.md) | [123 · Prospección y generación de oportunidades →](../123-prospeccion-y-generacion-de-oportunidades/README.md) |
+<!-- pie:fin -->

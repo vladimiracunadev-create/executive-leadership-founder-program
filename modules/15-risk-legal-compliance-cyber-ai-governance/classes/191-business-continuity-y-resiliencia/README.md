@@ -1,5 +1,9 @@
 # Clase 191 — Business continuity y resiliencia
 
+<!-- nav:inicio -->
+> **Parte 15 · Riesgo, legal, compliance, ciberseguridad e IA** — clase 11 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 15 — Riesgo, legal, compliance, ciberseguridad e IA  
 **Nivel:** Etapa 4 — Gerente → Director  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -209,3 +213,11 @@ Guarda en `portfolio/191-business-continuity-y-resiliencia/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **business continuity y resiliencia** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Business continuity y resiliencia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **business continuity y resiliencia** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 190 · Crisis, incidentes y escalamiento](../190-crisis-incidentes-y-escalamiento/README.md) | [Parte 15](../../README.md) · [Programa](../../../../SYLLABUS.md) | [192 · Capstone: comité integrado de riesgos →](../192-capstone-comite-integrado-de-riesgos/README.md) |
+<!-- pie:fin -->

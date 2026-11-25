@@ -1,5 +1,9 @@
 # Clase 127 — Objeciones y manejo de riesgo percibido
 
+<!-- nav:inicio -->
+> **Parte 10 · Ventas, desarrollo comercial y negociación** — clase 7 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 10 — Ventas, desarrollo comercial y negociación  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/127-objeciones-y-manejo-de-riesgo-percibido/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **objeciones y manejo de riesgo percibido** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Objeciones y manejo de riesgo percibido:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **objeciones y manejo de riesgo percibido** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 126 · Pipeline y forecast comercial](../126-pipeline-y-forecast-comercial/README.md) | [Parte 10](../../README.md) · [Programa](../../../../SYLLABUS.md) | [128 · Negociación basada en intereses →](../128-negociacion-basada-en-intereses/README.md) |
+<!-- pie:fin -->

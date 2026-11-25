@@ -1,5 +1,9 @@
 # Clase 084 — Capstone: rescate de una iniciativa crítica
 
+<!-- nav:inicio -->
+> **Parte 06 · Proyectos, Agile y entrega** — clase 12 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 06 — Proyectos, Agile y entrega  
 **Nivel:** Etapa 2 — Jefe → Manager  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/084-capstone-rescate-de-una-iniciativa-critica/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: rescate de una iniciativa crítica** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Capstone: rescate de una iniciativa crítica:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: rescate de una iniciativa crítica** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 083 · Recuperación de proyectos atrasados](../083-recuperacion-de-proyectos-atrasados/README.md) | [Parte 06](../../README.md) · [Programa](../../../../SYLLABUS.md) | [085 · Pensar la empresa como sistema operativo →](../../../07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo/README.md) |
+<!-- pie:fin -->

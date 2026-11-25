@@ -1,5 +1,9 @@
 # Clase 105 — Priorización y portfolio
 
+<!-- nav:inicio -->
+> **Parte 08 · Sistemas de gestión, KPI y OKR** — clase 9 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 08 — Sistemas de gestión, KPI y OKR  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/105-priorizacion-y-portfolio/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **priorización y portfolio** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Priorización y portfolio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **priorización y portfolio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 104 · Business reviews](../104-business-reviews/README.md) | [Parte 08](../../README.md) · [Programa](../../../../SYLLABUS.md) | [106 · Asignación de recursos →](../106-asignacion-de-recursos/README.md) |
+<!-- pie:fin -->

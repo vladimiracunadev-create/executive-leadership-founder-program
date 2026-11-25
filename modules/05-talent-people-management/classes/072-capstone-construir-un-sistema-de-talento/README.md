@@ -1,5 +1,9 @@
 # Clase 072 — Capstone: construir un sistema de talento
 
+<!-- nav:inicio -->
+> **Parte 05 · Gestión de talento y personas** — clase 12 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 05 — Gestión de talento y personas  
 **Nivel:** Etapa 2 — Líder → Jefe  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/072-capstone-construir-un-sistema-de-talento/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: construir un sistema de talento** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Capstone: construir un sistema de talento:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: construir un sistema de talento** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 071 · Desvinculación responsable y documentación](../071-desvinculacion-responsable-y-documentacion/README.md) | [Parte 05](../../README.md) · [Programa](../../../../SYLLABUS.md) | [073 · Proyecto, producto, operación y programa →](../../../06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa/README.md) |
+<!-- pie:fin -->

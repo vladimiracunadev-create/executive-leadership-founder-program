@@ -1,5 +1,9 @@
 # Clase 130 — Cierre y próximos pasos
 
+<!-- nav:inicio -->
+> **Parte 10 · Ventas, desarrollo comercial y negociación** — clase 10 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 10 — Ventas, desarrollo comercial y negociación  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/130-cierre-y-proximos-pasos/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **cierre y próximos pasos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Cierre y próximos pasos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **cierre y próximos pasos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 129 · Pricing y concesiones](../129-pricing-y-concesiones/README.md) | [Parte 10](../../README.md) · [Programa](../../../../SYLLABUS.md) | [131 · Account management, expansión y retención →](../131-account-management-expansion-y-retencion/README.md) |
+<!-- pie:fin -->

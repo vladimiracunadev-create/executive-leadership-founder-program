@@ -1,5 +1,9 @@
 # Clase 181 — Enterprise Risk Management
 
+<!-- nav:inicio -->
+> **Parte 15 · Riesgo, legal, compliance, ciberseguridad e IA** — clase 1 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 15 — Riesgo, legal, compliance, ciberseguridad e IA  
 **Nivel:** Etapa 4 — Gerente → Director  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -216,3 +220,11 @@ Guarda en `portfolio/181-enterprise-risk-management/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **enterprise risk management** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Enterprise Risk Management:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **enterprise Risk Management** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 180 · Capstone: rediseño organizacional](../../../14-organization-design-culture-change/classes/180-capstone-rediseno-organizacional/README.md) | [Parte 15](../../README.md) · [Programa](../../../../SYLLABUS.md) | [182 · Apetito, tolerancia y límites de riesgo →](../182-apetito-tolerancia-y-limites-de-riesgo/README.md) |
+<!-- pie:fin -->

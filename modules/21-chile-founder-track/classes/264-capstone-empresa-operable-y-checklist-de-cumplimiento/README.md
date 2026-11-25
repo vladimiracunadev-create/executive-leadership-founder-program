@@ -1,5 +1,9 @@
 # Clase 264 — Capstone: empresa operable y checklist de cumplimiento
 
+<!-- nav:inicio -->
+> **Parte 21 · Founder Track Chile: formalización y operación** — clase 12 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 21 — Founder Track Chile: formalización y operación  
 **Nivel:** Etapa 6 — Founder en Chile  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -210,3 +214,11 @@ Guarda en `portfolio/264-capstone-empresa-operable-y-checklist-de-cumplimiento/`
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: empresa operable y checklist de cumplimiento** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Capstone: empresa operable y checklist de cumplimiento:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: empresa operable y checklist de cumplimiento** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 263 · ChileCompra, Sercotec, Corfo y ecosistema público](../263-chilecompra-sercotec-corfo-y-ecosistema-publico/README.md) | [Parte 21](../../README.md) · [Programa](../../../../SYLLABUS.md) | [265 · De fundador-operador a propietario →](../../../22-scaling-business-ownership/classes/265-de-fundador-operador-a-propietario/README.md) |
+<!-- pie:fin -->

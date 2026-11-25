@@ -1,5 +1,9 @@
 # Clase 009 — Aprendizaje deliberado y actualización continua
 
+<!-- nav:inicio -->
+> **Parte 00 · De profesional a líder** — clase 9 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 00 — De profesional a líder  
 **Nivel:** Etapa 1 — Profesional → Líder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/009-aprendizaje-deliberado-y-actualizacion-continua/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **aprendizaje deliberado y actualización continua** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Aprendizaje deliberado y actualización continua:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **aprendizaje deliberado y actualización continua** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 008 · Gestión de energía y sostenibilidad personal](../008-gestion-de-energia-y-sostenibilidad-personal/README.md) | [Parte 00](../../README.md) · [Programa](../../../../SYLLABUS.md) | [010 · Marca profesional basada en evidencia →](../010-marca-profesional-basada-en-evidencia/README.md) |
+<!-- pie:fin -->

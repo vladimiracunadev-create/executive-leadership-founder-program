@@ -1,5 +1,9 @@
 # Clase 154 — Métricas de producto
 
+<!-- nav:inicio -->
+> **Parte 12 · Producto e innovación** — clase 10 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 12 — Producto e innovación  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/154-metricas-de-producto/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **métricas de producto** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Métricas de producto:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **métricas de producto** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 153 · Experimentos y evidencia](../153-experimentos-y-evidencia/README.md) | [Parte 12](../../README.md) · [Programa](../../../../SYLLABUS.md) | [155 · Product-market fit →](../155-product-market-fit/README.md) |
+<!-- pie:fin -->

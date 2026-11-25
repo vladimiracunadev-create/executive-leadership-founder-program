@@ -1,5 +1,9 @@
 # Clase 199 — Balance entre clientes, personas, accionistas y sociedad
 
+<!-- nav:inicio -->
+> **Parte 16 · Alta dirección y oficina del CEO** — clase 7 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 16 — Alta dirección y oficina del CEO  
 **Nivel:** Etapa 5 — Director → CEO  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/199-balance-entre-clientes-personas-accionistas-y-sociedad/
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **balance entre clientes, personas, accionistas y sociedad** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Balance entre clientes, personas, accionistas y sociedad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **balance entre clientes, personas, accionistas y sociedad** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 198 · Asignación de capital y talento](../198-asignacion-de-capital-y-talento/README.md) | [Parte 16](../../README.md) · [Programa](../../../../SYLLABUS.md) | [200 · Comunicación del CEO →](../200-comunicacion-del-ceo/README.md) |
+<!-- pie:fin -->

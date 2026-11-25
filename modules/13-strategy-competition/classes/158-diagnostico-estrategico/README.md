@@ -1,5 +1,9 @@
 # Clase 158 — Diagnóstico estratégico
 
+<!-- nav:inicio -->
+> **Parte 13 · Estrategia y competencia** — clase 2 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 13 — Estrategia y competencia  
 **Nivel:** Etapa 4 — Gerente → Director  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/158-diagnostico-estrategico/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **diagnóstico estratégico** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Diagnóstico estratégico:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **diagnóstico estratégico** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 157 · Qué es y qué no es estrategia](../157-que-es-y-que-no-es-estrategia/README.md) | [Parte 13](../../README.md) · [Programa](../../../../SYLLABUS.md) | [159 · Industria y fuerzas competitivas →](../159-industria-y-fuerzas-competitivas/README.md) |
+<!-- pie:fin -->

@@ -21,3 +21,11 @@ Priorizar una cartera de transformación digital e IA con presupuesto restringid
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 19](README.md) · [Programa](../../SYLLABUS.md) | [Parte 20 — Founder y creación de empresas →](../20-founder-venture-creation/README.md) |
+<!-- pie:fin -->

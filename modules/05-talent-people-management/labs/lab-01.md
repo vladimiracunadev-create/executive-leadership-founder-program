@@ -24,3 +24,11 @@ Entrega un artefacto utilizable en trabajo real, no un ensayo teórico.
 ## Evaluación
 
 Usa la rúbrica de `docs/ASSESSMENT_FRAMEWORK.md`.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| — | [Parte 05](../README.md) · [Programa](../../../SYLLABUS.md) | [Laboratorio 2 →](lab-02.md) |
+<!-- pie:fin -->

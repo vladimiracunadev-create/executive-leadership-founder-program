@@ -1,5 +1,9 @@
 # Clase 159 — Industria y fuerzas competitivas
 
+<!-- nav:inicio -->
+> **Parte 13 · Estrategia y competencia** — clase 3 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 13 — Estrategia y competencia  
 **Nivel:** Etapa 4 — Gerente → Director  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -216,3 +220,11 @@ Guarda en `portfolio/159-industria-y-fuerzas-competitivas/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **industria y fuerzas competitivas** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Industria y fuerzas competitivas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **industria y fuerzas competitivas** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 158 · Diagnóstico estratégico](../158-diagnostico-estrategico/README.md) | [Parte 13](../../README.md) · [Programa](../../../../SYLLABUS.md) | [160 · Capacidades y recursos →](../160-capacidades-y-recursos/README.md) |
+<!-- pie:fin -->

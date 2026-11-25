@@ -21,3 +21,11 @@ Rediseñar una operación con atrasos, retrabajo y dependencia de una persona cl
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 07](README.md) · [Programa](../../SYLLABUS.md) | [Parte 08 — Sistemas de gestión, KPI y OKR →](../08-management-systems-kpis-okrs/README.md) |
+<!-- pie:fin -->

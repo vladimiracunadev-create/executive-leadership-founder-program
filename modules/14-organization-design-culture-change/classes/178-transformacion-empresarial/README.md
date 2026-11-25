@@ -1,5 +1,9 @@
 # Clase 178 — Transformación empresarial
 
+<!-- nav:inicio -->
+> **Parte 14 · Diseño organizacional, cultura y cambio** — clase 10 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 14 — Diseño organizacional, cultura y cambio  
 **Nivel:** Etapa 4 — Gerente → Director  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/178-transformacion-empresarial/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **transformación empresarial** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Transformación empresarial:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **transformación empresarial** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 177 · Coalición, narrativa y adopción](../177-coalicion-narrativa-y-adopcion/README.md) | [Parte 14](../../README.md) · [Programa](../../../../SYLLABUS.md) | [179 · Reorganizaciones y riesgos humanos →](../179-reorganizaciones-y-riesgos-humanos/README.md) |
+<!-- pie:fin -->

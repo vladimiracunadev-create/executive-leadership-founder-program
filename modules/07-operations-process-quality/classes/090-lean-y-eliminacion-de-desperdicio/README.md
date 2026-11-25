@@ -1,5 +1,9 @@
 # Clase 090 — Lean y eliminación de desperdicio
 
+<!-- nav:inicio -->
+> **Parte 07 · Operaciones, procesos y calidad** — clase 6 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 07 — Operaciones, procesos y calidad  
 **Nivel:** Etapa 2 — Jefe → Manager  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/090-lean-y-eliminacion-de-desperdicio/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **lean y eliminación de desperdicio** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Lean y eliminación de desperdicio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **lean y eliminación de desperdicio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 089 · Cuellos de botella y teoría de restricciones](../089-cuellos-de-botella-y-teoria-de-restricciones/README.md) | [Parte 07](../../README.md) · [Programa](../../../../SYLLABUS.md) | [091 · Calidad y variabilidad →](../091-calidad-y-variabilidad/README.md) |
+<!-- pie:fin -->

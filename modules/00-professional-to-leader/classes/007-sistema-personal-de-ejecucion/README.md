@@ -1,5 +1,9 @@
 # Clase 007 — Sistema personal de ejecución
 
+<!-- nav:inicio -->
+> **Parte 00 · De profesional a líder** — clase 7 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 00 — De profesional a líder  
 **Nivel:** Etapa 1 — Profesional → Líder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/007-sistema-personal-de-ejecucion/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **sistema personal de ejecución** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Sistema personal de ejecución:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **sistema personal de ejecución** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 006 · Prioridades y gestión de atención](../006-prioridades-y-gestion-de-atencion/README.md) | [Parte 00](../../README.md) · [Programa](../../../../SYLLABUS.md) | [008 · Gestión de energía y sostenibilidad personal →](../008-gestion-de-energia-y-sostenibilidad-personal/README.md) |
+<!-- pie:fin -->

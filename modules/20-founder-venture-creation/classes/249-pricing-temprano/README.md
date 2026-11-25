@@ -1,5 +1,9 @@
 # Clase 249 — Pricing temprano
 
+<!-- nav:inicio -->
+> **Parte 20 · Founder y creación de empresas** — clase 9 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 20 — Founder y creación de empresas  
 **Nivel:** Etapa 6 — Founder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/249-pricing-temprano/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **pricing temprano** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Pricing temprano:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **pricing temprano** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 248 · MVP y concierge tests](../248-mvp-y-concierge-tests/README.md) | [Parte 20](../../README.md) · [Programa](../../../../SYLLABUS.md) | [250 · Primeros diez clientes →](../250-primeros-diez-clientes/README.md) |
+<!-- pie:fin -->

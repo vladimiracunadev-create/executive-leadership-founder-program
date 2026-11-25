@@ -1,5 +1,9 @@
 # Clase 015 — Pensamiento sistémico para líderes
 
+<!-- nav:inicio -->
+> **Parte 01 · Pensamiento crítico y toma de decisiones** — clase 3 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 01 — Pensamiento crítico y toma de decisiones  
 **Nivel:** Etapa 1 — Profesional → Líder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/015-pensamiento-sistemico-para-lideres/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **pensamiento sistémico para líderes** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Pensamiento sistémico para líderes:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **pensamiento sistémico para líderes** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 014 · Hechos, opiniones, hipótesis y supuestos](../014-hechos-opiniones-hipotesis-y-supuestos/README.md) | [Parte 01](../../README.md) · [Programa](../../../../SYLLABUS.md) | [016 · Sesgos cognitivos en decisiones →](../016-sesgos-cognitivos-en-decisiones/README.md) |
+<!-- pie:fin -->

@@ -21,3 +21,11 @@ Rediseñar una organización que duplicó su tamaño pero conserva procesos info
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 14](README.md) · [Programa](../../SYLLABUS.md) | [Parte 15 — Riesgo, legal, compliance, ciberseguridad e IA →](../15-risk-legal-compliance-cyber-ai-governance/README.md) |
+<!-- pie:fin -->

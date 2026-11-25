@@ -1,5 +1,9 @@
 # Clase 277 — Independencia: definición económica y profesional
 
+<!-- nav:inicio -->
+> **Parte 23 · Independencia profesional y Business Owner Capstone** — clase 1 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 23 — Independencia profesional y Business Owner Capstone  
 **Nivel:** Etapa 6 — Independencia  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/277-independencia-definicion-economica-y-profesional/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **independencia: definición económica y profesional** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Independencia: definición económica y profesional:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **independencia: definición económica y profesional** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 276 · Capstone: empresa menos dependiente del fundador](../../../22-scaling-business-ownership/classes/276-capstone-empresa-menos-dependiente-del-fundador/README.md) | [Parte 23](../../README.md) · [Programa](../../../../SYLLABUS.md) | [278 · Inventario de capacidades monetizables →](../278-inventario-de-capacidades-monetizables/README.md) |
+<!-- pie:fin -->

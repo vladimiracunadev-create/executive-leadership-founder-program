@@ -1,5 +1,9 @@
 # Clase 028 — Presentaciones para decisiones
 
+<!-- nav:inicio -->
+> **Parte 02 · Comunicación, influencia y presencia ejecutiva** — clase 4 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 02 — Comunicación, influencia y presencia ejecutiva  
 **Nivel:** Etapa 1 — Profesional → Líder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/028-presentaciones-para-decisiones/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **presentaciones para decisiones** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Presentaciones para decisiones:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **presentaciones para decisiones** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 027 · Escritura ejecutiva: claridad y síntesis](../027-escritura-ejecutiva-claridad-y-sintesis/README.md) | [Parte 02](../../README.md) · [Programa](../../../../SYLLABUS.md) | [029 · Storytelling empresarial →](../029-storytelling-empresarial/README.md) |
+<!-- pie:fin -->

@@ -1,5 +1,9 @@
 # Clase 118 — ROI, ROIC y decisiones de inversión
 
+<!-- nav:inicio -->
+> **Parte 09 · Finanzas y contabilidad para gerentes** — clase 10 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 09 — Finanzas y contabilidad para gerentes  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -216,3 +220,11 @@ Guarda en `portfolio/118-roi-roic-y-decisiones-de-inversion/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **roi, roic y decisiones de inversión** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para ROI, ROIC y decisiones de inversión:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **rOI, ROIC y decisiones de inversión** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 117 · Unit economics: CAC, LTV, churn y payback](../117-unit-economics-cac-ltv-churn-y-payback/README.md) | [Parte 09](../../README.md) · [Programa](../../../../SYLLABUS.md) | [119 · Valoración: fundamentos →](../119-valoracion-fundamentos/README.md) |
+<!-- pie:fin -->

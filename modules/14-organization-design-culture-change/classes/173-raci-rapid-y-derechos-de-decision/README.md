@@ -1,5 +1,9 @@
 # Clase 173 — RACI, RAPID y derechos de decisión
 
+<!-- nav:inicio -->
+> **Parte 14 · Diseño organizacional, cultura y cambio** — clase 5 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 14 — Diseño organizacional, cultura y cambio  
 **Nivel:** Etapa 4 — Gerente → Director  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/173-raci-rapid-y-derechos-de-decision/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **raci, rapid y derechos de decisión** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para RACI, RAPID y derechos de decisión:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **rACI, RAPID y derechos de decisión** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 172 · Operating model](../172-operating-model/README.md) | [Parte 14](../../README.md) · [Programa](../../../../SYLLABUS.md) | [174 · Cultura observable y artefactos →](../174-cultura-observable-y-artefactos/README.md) |
+<!-- pie:fin -->

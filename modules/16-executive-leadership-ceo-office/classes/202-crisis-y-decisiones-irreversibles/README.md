@@ -1,5 +1,9 @@
 # Clase 202 — Crisis y decisiones irreversibles
 
+<!-- nav:inicio -->
+> **Parte 16 · Alta dirección y oficina del CEO** — clase 10 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 16 — Alta dirección y oficina del CEO  
 **Nivel:** Etapa 5 — Director → CEO  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -245,3 +249,11 @@ Guarda en `portfolio/202-crisis-y-decisiones-irreversibles/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **crisis y decisiones irreversibles** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Crisis y decisiones irreversibles:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **crisis y decisiones irreversibles** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 201 · Leadership pipeline](../201-leadership-pipeline/README.md) | [Parte 16](../../README.md) · [Programa](../../../../SYLLABUS.md) | [203 · Sucesión y continuidad de liderazgo →](../203-sucesion-y-continuidad-de-liderazgo/README.md) |
+<!-- pie:fin -->

@@ -1,5 +1,9 @@
 # Clase 286 — Riesgo, ética y reputación
 
+<!-- nav:inicio -->
+> **Parte 23 · Independencia profesional y Business Owner Capstone** — clase 10 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 23 — Independencia profesional y Business Owner Capstone  
 **Nivel:** Etapa 6 — Independencia  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -228,3 +232,11 @@ Guarda en `portfolio/286-riesgo-etica-y-reputacion/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **riesgo, ética y reputación** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Riesgo, ética y reputación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **riesgo, ética y reputación** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 285 · Sistema semanal de ventas](../285-sistema-semanal-de-ventas/README.md) | [Parte 23](../../README.md) · [Programa](../../../../SYLLABUS.md) | [287 · Plan de 90 días y plan anual →](../287-plan-de-90-dias-y-plan-anual/README.md) |
+<!-- pie:fin -->

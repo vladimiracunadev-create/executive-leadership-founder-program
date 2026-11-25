@@ -1,5 +1,9 @@
 # Clase 204 — Capstone: primeros 100 días como CEO
 
+<!-- nav:inicio -->
+> **Parte 16 · Alta dirección y oficina del CEO** — clase 12 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 16 — Alta dirección y oficina del CEO  
 **Nivel:** Etapa 5 — Director → CEO  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -274,3 +278,11 @@ Guarda en `portfolio/204-capstone-primeros-100-dias-como-ceo/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: primeros 100 días como CEO** como problema, evidencia, alternativas y recomendación. Lectura selectiva sobre **capstone: primeros 100 días como ceo**. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Capstone: primeros 100 días como CEO:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: primeros 100 días como CEO** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 203 · Sucesión y continuidad de liderazgo](../203-sucesion-y-continuidad-de-liderazgo/README.md) | [Parte 16](../../README.md) · [Programa](../../../../SYLLABUS.md) | [205 · Propiedad, administración y gobierno →](../../../17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno/README.md) |
+<!-- pie:fin -->

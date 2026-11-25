@@ -20,6 +20,19 @@
 
 ## Sin publicar
 
+### Navegación y portadas de parte
+
+- **Cada parte tiene portada pedagógica**: de qué trata, con qué hay que llegar,
+  resultados, mapa, cómo se encadenan las clases, **tabla con enlace a cada clase**,
+  riesgos, glosario derivado de las clases, evidencia y conexiones.
+- **Cada clase, laboratorio y proyecto** lleva miga bajo el título y pie
+  `Anterior · Índice · Siguiente`, también entre partes.
+- **Nuevo** `tools/build_navigation.py` (con `--check` en la CI), el contenido
+  propio de cada parte en `curriculum/part_pedagogy.py` y la guía
+  `docs/NAVIGATION.md` con las reglas de recorrido.
+- `tools/build_site.py` normaliza las rutas al comprobar enlaces, para no fallar
+  en Windows con nombres largos.
+
 ### Reputación, comunicación ejecutiva y liderazgo en crisis
 
 - **Nueve clases existentes se amplían** (010, 025, 034, 048, 137, 190, 200, 202,

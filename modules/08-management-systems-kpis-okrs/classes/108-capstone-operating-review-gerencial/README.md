@@ -1,5 +1,9 @@
 # Clase 108 — Capstone: operating review gerencial
 
+<!-- nav:inicio -->
+> **Parte 08 · Sistemas de gestión, KPI y OKR** — clase 12 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 08 — Sistemas de gestión, KPI y OKR  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/108-capstone-operating-review-gerencial/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: operating review gerencial** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Capstone: operating review gerencial:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: operating review gerencial** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 107 · Escalamiento y gestión por excepción](../107-escalamiento-y-gestion-por-excepcion/README.md) | [Parte 08](../../README.md) · [Programa](../../../../SYLLABUS.md) | [109 · Lenguaje financiero del gerente →](../../../09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente/README.md) |
+<!-- pie:fin -->

@@ -1,5 +1,9 @@
 # Clase 237 — Arquitectura y deuda técnica para ejecutivos
 
+<!-- nav:inicio -->
+> **Parte 19 · Tecnología, datos, IA y transformación digital para ejecutivos** — clase 9 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 19 — Tecnología, datos, IA y transformación digital para ejecutivos  
 **Nivel:** Etapa 5 — CEO → Transformador digital  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/237-arquitectura-y-deuda-tecnica-para-ejecutivos/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **arquitectura y deuda técnica para ejecutivos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Arquitectura y deuda técnica para ejecutivos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **arquitectura y deuda técnica para ejecutivos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 236 · Build, buy, partner o retire](../236-build-buy-partner-o-retire/README.md) | [Parte 19](../../README.md) · [Programa](../../../../SYLLABUS.md) | [238 · Métricas de entrega tecnológica →](../238-metricas-de-entrega-tecnologica/README.md) |
+<!-- pie:fin -->

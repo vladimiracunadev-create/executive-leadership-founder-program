@@ -1,5 +1,9 @@
 # Clase 203 — Sucesión y continuidad de liderazgo
 
+<!-- nav:inicio -->
+> **Parte 16 · Alta dirección y oficina del CEO** — clase 11 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 16 — Alta dirección y oficina del CEO  
 **Nivel:** Etapa 5 — Director → CEO  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/203-sucesion-y-continuidad-de-liderazgo/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **sucesión y continuidad de liderazgo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Sucesión y continuidad de liderazgo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **sucesión y continuidad de liderazgo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 202 · Crisis y decisiones irreversibles](../202-crisis-y-decisiones-irreversibles/README.md) | [Parte 16](../../README.md) · [Programa](../../../../SYLLABUS.md) | [204 · Capstone: primeros 100 días como CEO →](../204-capstone-primeros-100-dias-como-ceo/README.md) |
+<!-- pie:fin -->

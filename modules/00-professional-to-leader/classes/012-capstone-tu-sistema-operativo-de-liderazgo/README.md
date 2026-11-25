@@ -1,5 +1,9 @@
 # Clase 012 — Capstone: tu sistema operativo de liderazgo
 
+<!-- nav:inicio -->
+> **Parte 00 · De profesional a líder** — clase 12 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 00 — De profesional a líder  
 **Nivel:** Etapa 1 — Profesional → Líder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/012-capstone-tu-sistema-operativo-de-liderazgo/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: tu sistema operativo de liderazgo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Capstone: tu sistema operativo de liderazgo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: tu sistema operativo de liderazgo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 011 · Mapa de fortalezas, brechas y riesgos personales](../011-mapa-de-fortalezas-brechas-y-riesgos-personales/README.md) | [Parte 00](../../README.md) · [Programa](../../../../SYLLABUS.md) | [013 · Formular bien el problema →](../../../01-critical-thinking-and-decisions/classes/013-formular-bien-el-problema/README.md) |
+<!-- pie:fin -->

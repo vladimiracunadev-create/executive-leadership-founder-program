@@ -1,5 +1,9 @@
 # Clase 074 — Definición de alcance y éxito
 
+<!-- nav:inicio -->
+> **Parte 06 · Proyectos, Agile y entrega** — clase 2 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 06 — Proyectos, Agile y entrega  
 **Nivel:** Etapa 2 — Jefe → Manager  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/074-definicion-de-alcance-y-exito/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **definición de alcance y éxito** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Definición de alcance y éxito:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **definición de alcance y éxito** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 073 · Proyecto, producto, operación y programa](../073-proyecto-producto-operacion-y-programa/README.md) | [Parte 06](../../README.md) · [Programa](../../../../SYLLABUS.md) | [075 · Work breakdown y planificación →](../075-work-breakdown-y-planificacion/README.md) |
+<!-- pie:fin -->

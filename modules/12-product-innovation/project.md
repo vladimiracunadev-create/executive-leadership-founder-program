@@ -21,3 +21,11 @@ Defender ante un comité qué NO construir y cuál experimento ejecutar primero.
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 12](README.md) · [Programa](../../SYLLABUS.md) | [Parte 13 — Estrategia y competencia →](../13-strategy-competition/README.md) |
+<!-- pie:fin -->

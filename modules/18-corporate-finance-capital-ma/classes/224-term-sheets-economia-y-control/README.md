@@ -1,5 +1,9 @@
 # Clase 224 — Term sheets: economía y control
 
+<!-- nav:inicio -->
+> **Parte 18 · Finanzas corporativas, capital y M&A** — clase 8 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 18 — Finanzas corporativas, capital y M&A  
 **Nivel:** Etapa 5 — CEO → Capital allocator  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -216,3 +220,11 @@ Guarda en `portfolio/224-term-sheets-economia-y-control/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **term sheets: economía y control** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Term sheets: economía y control:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **term sheets: economía y control** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 223 · Cap table y dilución](../223-cap-table-y-dilucion/README.md) | [Parte 18](../../README.md) · [Programa](../../../../SYLLABUS.md) | [225 · M&A: lógica estratégica →](../225-m-a-logica-estrategica/README.md) |
+<!-- pie:fin -->

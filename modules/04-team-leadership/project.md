@@ -21,3 +21,11 @@ Intervenir un equipo con baja confianza, atrasos y responsabilidades difusas.
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 04](README.md) · [Programa](../../SYLLABUS.md) | [Parte 05 — Gestión de talento y personas →](../05-talent-people-management/README.md) |
+<!-- pie:fin -->

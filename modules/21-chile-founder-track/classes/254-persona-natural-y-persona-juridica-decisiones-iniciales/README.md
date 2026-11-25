@@ -1,5 +1,9 @@
 # Clase 254 — Persona natural y persona jurídica: decisiones iniciales
 
+<!-- nav:inicio -->
+> **Parte 21 · Founder Track Chile: formalización y operación** — clase 2 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 21 — Founder Track Chile: formalización y operación  
 **Nivel:** Etapa 6 — Founder en Chile  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -210,3 +214,11 @@ Guarda en `portfolio/254-persona-natural-y-persona-juridica-decisiones-iniciales
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **persona natural y persona jurídica: decisiones iniciales** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Persona natural y persona jurídica: decisiones iniciales:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **persona natural y persona jurídica: decisiones iniciales** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 253 · Mapa del ciclo empresarial en Chile](../253-mapa-del-ciclo-empresarial-en-chile/README.md) | [Parte 21](../../README.md) · [Programa](../../../../SYLLABUS.md) | [255 · RES y tipos societarios: panorama →](../255-res-y-tipos-societarios-panorama/README.md) |
+<!-- pie:fin -->

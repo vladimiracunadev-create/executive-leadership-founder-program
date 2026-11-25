@@ -1,5 +1,9 @@
 # Clase 248 — MVP y concierge tests
 
+<!-- nav:inicio -->
+> **Parte 20 · Founder y creación de empresas** — clase 8 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 20 — Founder y creación de empresas  
 **Nivel:** Etapa 6 — Founder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/248-mvp-y-concierge-tests/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **mvp y concierge tests** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para MVP y concierge tests:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **mVP y concierge tests** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 247 · Validación antes de construir](../247-validacion-antes-de-construir/README.md) | [Parte 20](../../README.md) · [Programa](../../../../SYLLABUS.md) | [249 · Pricing temprano →](../249-pricing-temprano/README.md) |
+<!-- pie:fin -->

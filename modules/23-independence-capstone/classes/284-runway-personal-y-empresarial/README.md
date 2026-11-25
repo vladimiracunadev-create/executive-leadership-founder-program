@@ -1,5 +1,9 @@
 # Clase 284 — Runway personal y empresarial
 
+<!-- nav:inicio -->
+> **Parte 23 · Independencia profesional y Business Owner Capstone** — clase 8 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 23 — Independencia profesional y Business Owner Capstone  
 **Nivel:** Etapa 6 — Independencia  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/284-runway-personal-y-empresarial/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **runway personal y empresarial** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Runway personal y empresarial:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **runway personal y empresarial** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 283 · Portafolio de ingresos y concentración de riesgo](../283-portafolio-de-ingresos-y-concentracion-de-riesgo/README.md) | [Parte 23](../../README.md) · [Programa](../../../../SYLLABUS.md) | [285 · Sistema semanal de ventas →](../285-sistema-semanal-de-ventas/README.md) |
+<!-- pie:fin -->

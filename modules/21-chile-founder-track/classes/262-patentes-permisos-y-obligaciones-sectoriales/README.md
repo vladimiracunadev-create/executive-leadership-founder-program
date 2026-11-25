@@ -1,5 +1,9 @@
 # Clase 262 — Patentes, permisos y obligaciones sectoriales
 
+<!-- nav:inicio -->
+> **Parte 21 · Founder Track Chile: formalización y operación** — clase 10 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 21 — Founder Track Chile: formalización y operación  
 **Nivel:** Etapa 6 — Founder en Chile  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -210,3 +214,11 @@ Guarda en `portfolio/262-patentes-permisos-y-obligaciones-sectoriales/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **patentes, permisos y obligaciones sectoriales** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Patentes, permisos y obligaciones sectoriales:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **patentes, permisos y obligaciones sectoriales** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 261 · Propiedad intelectual e INAPI](../261-propiedad-intelectual-e-inapi/README.md) | [Parte 21](../../README.md) · [Programa](../../../../SYLLABUS.md) | [263 · ChileCompra, Sercotec, Corfo y ecosistema público →](../263-chilecompra-sercotec-corfo-y-ecosistema-publico/README.md) |
+<!-- pie:fin -->

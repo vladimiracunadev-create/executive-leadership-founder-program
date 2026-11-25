@@ -1,5 +1,9 @@
 # Clase 215 — Efectividad del directorio
 
+<!-- nav:inicio -->
+> **Parte 17 · Directorios y gobierno corporativo** — clase 11 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 17 — Directorios y gobierno corporativo  
 **Nivel:** Etapa 5 — Director → CEO  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/215-efectividad-del-directorio/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **efectividad del directorio** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Efectividad del directorio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **efectividad del directorio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 214 · Evaluación del CEO y sucesión](../214-evaluacion-del-ceo-y-sucesion/README.md) | [Parte 17](../../README.md) · [Programa](../../../../SYLLABUS.md) | [216 · Capstone: board meeting →](../216-capstone-board-meeting/README.md) |
+<!-- pie:fin -->

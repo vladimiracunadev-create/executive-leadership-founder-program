@@ -1,5 +1,9 @@
 # Clase 058 — Accountability sin microgestión
 
+<!-- nav:inicio -->
+> **Parte 04 · Liderazgo de equipos** — clase 10 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 04 — Liderazgo de equipos  
 **Nivel:** Etapa 2 — Líder → Jefe  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/058-accountability-sin-microgestion/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **accountability sin microgestión** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Accountability sin microgestión:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **accountability sin microgestión** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 057 · Motivación y reconocimiento](../057-motivacion-y-reconocimiento/README.md) | [Parte 04](../../README.md) · [Programa](../../../../SYLLABUS.md) | [059 · Equipos híbridos y distribuidos →](../059-equipos-hibridos-y-distribuidos/README.md) |
+<!-- pie:fin -->

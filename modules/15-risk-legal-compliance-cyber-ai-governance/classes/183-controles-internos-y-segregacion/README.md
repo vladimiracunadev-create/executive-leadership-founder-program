@@ -1,5 +1,9 @@
 # Clase 183 — Controles internos y segregación
 
+<!-- nav:inicio -->
+> **Parte 15 · Riesgo, legal, compliance, ciberseguridad e IA** — clase 3 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 15 — Riesgo, legal, compliance, ciberseguridad e IA  
 **Nivel:** Etapa 4 — Gerente → Director  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/183-controles-internos-y-segregacion/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **controles internos y segregación** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Controles internos y segregación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **controles internos y segregación** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 182 · Apetito, tolerancia y límites de riesgo](../182-apetito-tolerancia-y-limites-de-riesgo/README.md) | [Parte 15](../../README.md) · [Programa](../../../../SYLLABUS.md) | [184 · Alfabetización legal del gerente →](../184-alfabetizacion-legal-del-gerente/README.md) |
+<!-- pie:fin -->

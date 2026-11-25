@@ -1,5 +1,9 @@
 # Clase 112 — Flujo de caja
 
+<!-- nav:inicio -->
+> **Parte 09 · Finanzas y contabilidad para gerentes** — clase 4 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 09 — Finanzas y contabilidad para gerentes  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -217,3 +221,11 @@ Guarda en `portfolio/112-flujo-de-caja/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **flujo de caja** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Flujo de caja:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **flujo de caja** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 111 · Balance y posición financiera](../111-balance-y-posicion-financiera/README.md) | [Parte 09](../../README.md) · [Programa](../../../../SYLLABUS.md) | [113 · Margen bruto, operacional y contribución →](../113-margen-bruto-operacional-y-contribucion/README.md) |
+<!-- pie:fin -->

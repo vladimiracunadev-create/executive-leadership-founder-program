@@ -21,3 +21,11 @@ Analizar una unidad de negocio, detectar riesgos de caja y asignar capital entre
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 09](README.md) · [Programa](../../SYLLABUS.md) | [Parte 10 — Ventas, desarrollo comercial y negociación →](../10-sales-commercial-negotiation/README.md) |
+<!-- pie:fin -->

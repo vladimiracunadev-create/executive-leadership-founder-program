@@ -1,5 +1,9 @@
 # Clase 061 — Diseño de cargos y resultados esperados
 
+<!-- nav:inicio -->
+> **Parte 05 · Gestión de talento y personas** — clase 1 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 05 — Gestión de talento y personas  
 **Nivel:** Etapa 2 — Líder → Jefe  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/061-diseno-de-cargos-y-resultados-esperados/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **diseño de cargos y resultados esperados** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Diseño de cargos y resultados esperados:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **diseño de cargos y resultados esperados** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 060 · Capstone: recuperar un equipo disfuncional](../../../04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional/README.md) | [Parte 05](../../README.md) · [Programa](../../../../SYLLABUS.md) | [062 · Planificación de dotación →](../062-planificacion-de-dotacion/README.md) |
+<!-- pie:fin -->

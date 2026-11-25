@@ -1,5 +1,9 @@
 # Clase 054 — Coaching y desarrollo cotidiano
 
+<!-- nav:inicio -->
+> **Parte 04 · Liderazgo de equipos** — clase 6 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 04 — Liderazgo de equipos  
 **Nivel:** Etapa 2 — Líder → Jefe  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/054-coaching-y-desarrollo-cotidiano/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **coaching y desarrollo cotidiano** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Coaching y desarrollo cotidiano:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **coaching y desarrollo cotidiano** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 053 · Delegación por resultados](../053-delegacion-por-resultados/README.md) | [Parte 04](../../README.md) · [Programa](../../../../SYLLABUS.md) | [055 · One-on-ones que producen información →](../055-one-on-ones-que-producen-informacion/README.md) |
+<!-- pie:fin -->

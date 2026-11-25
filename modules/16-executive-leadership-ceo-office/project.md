@@ -21,3 +21,11 @@ Asumir una empresa en crisis y presentar el plan de los primeros 100 días.
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 16](README.md) · [Programa](../../SYLLABUS.md) | [Parte 17 — Directorios y gobierno corporativo →](../17-boards-corporate-governance/README.md) |
+<!-- pie:fin -->

@@ -1,5 +1,9 @@
 # Clase 033 — Persuasión ética e influencia
 
+<!-- nav:inicio -->
+> **Parte 02 · Comunicación, influencia y presencia ejecutiva** — clase 9 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 02 — Comunicación, influencia y presencia ejecutiva  
 **Nivel:** Etapa 1 — Profesional → Líder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/033-persuasion-etica-e-influencia/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **persuasión ética e influencia** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Persuasión ética e influencia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **persuasión ética e influencia** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 032 · Conflicto productivo](../032-conflicto-productivo/README.md) | [Parte 02](../../README.md) · [Programa](../../../../SYLLABUS.md) | [034 · Mapa de stakeholders y poder →](../034-mapa-de-stakeholders-y-poder/README.md) |
+<!-- pie:fin -->

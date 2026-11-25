@@ -1,5 +1,9 @@
 # Clase 172 — Operating model
 
+<!-- nav:inicio -->
+> **Parte 14 · Diseño organizacional, cultura y cambio** — clase 4 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 14 — Diseño organizacional, cultura y cambio  
 **Nivel:** Etapa 4 — Gerente → Director  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/172-operating-model/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **operating model** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Operating model:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **operating model** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 171 · Spans, layers y managerial load](../171-spans-layers-y-managerial-load/README.md) | [Parte 14](../../README.md) · [Programa](../../../../SYLLABUS.md) | [173 · RACI, RAPID y derechos de decisión →](../173-raci-rapid-y-derechos-de-decision/README.md) |
+<!-- pie:fin -->

@@ -1,5 +1,9 @@
 # Clase 029 — Storytelling empresarial
 
+<!-- nav:inicio -->
+> **Parte 02 · Comunicación, influencia y presencia ejecutiva** — clase 5 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 02 — Comunicación, influencia y presencia ejecutiva  
 **Nivel:** Etapa 1 — Profesional → Líder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/029-storytelling-empresarial/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **storytelling empresarial** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Storytelling empresarial:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **storytelling empresarial** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 028 · Presentaciones para decisiones](../028-presentaciones-para-decisiones/README.md) | [Parte 02](../../README.md) · [Programa](../../../../SYLLABUS.md) | [030 · Feedback útil y accionable →](../030-feedback-util-y-accionable/README.md) |
+<!-- pie:fin -->

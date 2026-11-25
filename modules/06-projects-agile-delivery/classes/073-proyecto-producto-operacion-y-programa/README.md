@@ -1,5 +1,9 @@
 # Clase 073 — Proyecto, producto, operación y programa
 
+<!-- nav:inicio -->
+> **Parte 06 · Proyectos, Agile y entrega** — clase 1 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 06 — Proyectos, Agile y entrega  
 **Nivel:** Etapa 2 — Jefe → Manager  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/073-proyecto-producto-operacion-y-programa/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **proyecto, producto, operación y programa** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Proyecto, producto, operación y programa:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **proyecto, producto, operación y programa** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 072 · Capstone: construir un sistema de talento](../../../05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento/README.md) | [Parte 06](../../README.md) · [Programa](../../../../SYLLABUS.md) | [074 · Definición de alcance y éxito →](../074-definicion-de-alcance-y-exito/README.md) |
+<!-- pie:fin -->

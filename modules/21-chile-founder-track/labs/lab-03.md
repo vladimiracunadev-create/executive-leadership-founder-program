@@ -45,3 +45,11 @@ Entrega `portfolio/chile-labor-compliance-calendar.md` usando `templates/labor-c
 - fuente y vigencia: 25%;
 - responsables y evidencia: 25%;
 - capacidad de auditoría/escalamiento: 20%.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 2](lab-02.md) | [Parte 21](../README.md) · [Programa](../../../SYLLABUS.md) | [Laboratorio 4 →](lab-04.md) |
+<!-- pie:fin -->

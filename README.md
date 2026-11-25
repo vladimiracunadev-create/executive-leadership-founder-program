@@ -26,6 +26,7 @@
 [🌐 **Portal de estudio**](https://vladimiracunadev-create.github.io/executive-leadership-founder-program/) ·
 [📚 Temario de las 288 clases](SYLLABUS.md) ·
 [🧭 Ruta de aprendizaje](docs/LEARNING_PATH.md) ·
+[🗺️ Cómo se navega](docs/NAVIGATION.md) ·
 [🚀 Primeros 90 días](docs/90_DAY_START.md) ·
 [📖 Documentación](docs/README.md) ·
 [🇨🇱 Founder Track Chile](docs/CHILE_FOUNDER_TRACK.md) ·

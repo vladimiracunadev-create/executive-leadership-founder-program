@@ -1,5 +1,9 @@
 # Clase 103 — Ritmo semanal, mensual y trimestral
 
+<!-- nav:inicio -->
+> **Parte 08 · Sistemas de gestión, KPI y OKR** — clase 7 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 08 — Sistemas de gestión, KPI y OKR  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/103-ritmo-semanal-mensual-y-trimestral/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **ritmo semanal, mensual y trimestral** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Ritmo semanal, mensual y trimestral:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **ritmo semanal, mensual y trimestral** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 102 · Balanced Scorecard y tableros](../102-balanced-scorecard-y-tableros/README.md) | [Parte 08](../../README.md) · [Programa](../../../../SYLLABUS.md) | [104 · Business reviews →](../104-business-reviews/README.md) |
+<!-- pie:fin -->

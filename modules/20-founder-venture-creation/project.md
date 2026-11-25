@@ -21,3 +21,11 @@ Validar una oportunidad con evidencia real y producir un launch readiness review
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 20](README.md) · [Programa](../../SYLLABUS.md) | [Parte 21 — Founder Track Chile: formalización y operación →](../21-chile-founder-track/README.md) |
+<!-- pie:fin -->

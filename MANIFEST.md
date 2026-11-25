@@ -51,7 +51,7 @@
 | Escenarios del simulador | 48 |
 | Obras catalogadas | 229 |
 | Referencias citadas al cierre de clase | 3.203 |
-| Documentos Markdown | 830 |
+| Documentos Markdown | 831 |
 
 ## 🧱 Contrato de una clase
 

@@ -1,5 +1,9 @@
 # Clase 066 — Gestión de desempeño
 
+<!-- nav:inicio -->
+> **Parte 05 · Gestión de talento y personas** — clase 6 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 05 — Gestión de talento y personas  
 **Nivel:** Etapa 2 — Líder → Jefe  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/066-gestion-de-desempeno/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **gestión de desempeño** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Gestión de desempeño:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **gestión de desempeño** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 065 · Onboarding y primeros 90 días](../065-onboarding-y-primeros-90-dias/README.md) | [Parte 05](../../README.md) · [Programa](../../../../SYLLABUS.md) | [067 · Feedback, coaching y planes de mejora →](../067-feedback-coaching-y-planes-de-mejora/README.md) |
+<!-- pie:fin -->

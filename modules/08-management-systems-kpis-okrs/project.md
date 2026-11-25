@@ -21,3 +21,11 @@ Construir y defender un sistema de gestión para una unidad de negocio.
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 08](README.md) · [Programa](../../SYLLABUS.md) | [Parte 09 — Finanzas y contabilidad para gerentes →](../09-managerial-finance-accounting/README.md) |
+<!-- pie:fin -->

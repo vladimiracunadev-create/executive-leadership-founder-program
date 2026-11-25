@@ -1,5 +1,9 @@
 # Clase 137 — Marca y señales de confianza
 
+<!-- nav:inicio -->
+> **Parte 11 · Marketing, cliente y crecimiento** — clase 5 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 11 — Marketing, cliente y crecimiento  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -226,3 +230,11 @@ Guarda en `portfolio/137-marca-y-senales-de-confianza/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **marca y señales de confianza** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Marca y señales de confianza:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **marca y señales de confianza** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 136 · Posicionamiento](../136-posicionamiento/README.md) | [Parte 11](../../README.md) · [Programa](../../../../SYLLABUS.md) | [138 · Customer journey →](../138-customer-journey/README.md) |
+<!-- pie:fin -->

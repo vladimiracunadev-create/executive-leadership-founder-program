@@ -21,3 +21,11 @@ Diseñar y defender un Personal Leadership Operating System con métricas, hábi
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 00](README.md) · [Programa](../../SYLLABUS.md) | [Parte 01 — Pensamiento crítico y toma de decisiones →](../01-critical-thinking-and-decisions/README.md) |
+<!-- pie:fin -->

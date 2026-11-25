@@ -1,5 +1,9 @@
 # Clase 005 — De tareas a resultados: pensar en contribución
 
+<!-- nav:inicio -->
+> **Parte 00 · De profesional a líder** — clase 5 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 00 — De profesional a líder  
 **Nivel:** Etapa 1 — Profesional → Líder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/005-de-tareas-a-resultados-pensar-en-contribucion/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **de tareas a resultados: pensar en contribución** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para De tareas a resultados: pensar en contribución:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **de tareas a resultados: pensar en contribución** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 004 · Ética, integridad y límites del poder](../004-etica-integridad-y-limites-del-poder/README.md) | [Parte 00](../../README.md) · [Programa](../../../../SYLLABUS.md) | [006 · Prioridades y gestión de atención →](../006-prioridades-y-gestion-de-atencion/README.md) |
+<!-- pie:fin -->

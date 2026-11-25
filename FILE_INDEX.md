@@ -5,7 +5,7 @@
 
 **Todo el texto versionado del repositorio, en un listado plano y ordenado.**
 
-[![Archivos](https://img.shields.io/badge/archivos-1165-7c5cff?style=flat-square)](FILE_INDEX.md)
+[![Archivos](https://img.shields.io/badge/archivos-1168-7c5cff?style=flat-square)](FILE_INDEX.md)
 [![Generado por](https://img.shields.io/badge/generado%20por-build__file__index.py-007c83?style=flat-square)](tools/build_file_index.py)
 [![Se edita](https://img.shields.io/badge/se%20edita-nunca%20a%20mano-8b0000?style=flat-square)](MANIFEST.md)
 
@@ -23,9 +23,9 @@
 
 | Extensión | Archivos |
 |---|---:|
-| `.md` | 831 |
+| `.md` | 832 |
 | `.yaml` | 289 |
-| `.py` | 22 |
+| `.py` | 24 |
 | `.yml` | 8 |
 | `(sin extensión)` | 6 |
 | `.json` | 4 |
@@ -119,6 +119,7 @@
 - `curriculum.json`
 - `curriculum.yaml`
 - `deep_specs.py`
+- `part_pedagogy.py`
 - `topic_notes.py`
 
 ### `data/`
@@ -145,6 +146,7 @@
 - `LEARNING_PATH.md`
 - `LICENSING_HISTORY.md`
 - `MARKET_ALIGNMENT.md`
+- `NAVIGATION.md`
 - `OFFICIAL_SOURCES.md`
 - `PEDAGOGICAL_STANDARD.md`
 - `QUALITY_REPORT.md`
@@ -2244,6 +2246,7 @@
 
 - `build_file_index.py`
 - `build_manifest.py`
+- `build_navigation.py`
 - `build_site.py`
 - `build_status.py`
 - `build_syllabus.py`

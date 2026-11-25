@@ -1,5 +1,9 @@
 # Clase 205 — Propiedad, administración y gobierno
 
+<!-- nav:inicio -->
+> **Parte 17 · Directorios y gobierno corporativo** — clase 1 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 17 — Directorios y gobierno corporativo  
 **Nivel:** Etapa 5 — Director → CEO  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -216,3 +220,11 @@ Guarda en `portfolio/205-propiedad-administracion-y-gobierno/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **propiedad, administración y gobierno** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Propiedad, administración y gobierno:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **propiedad, administración y gobierno** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 204 · Capstone: primeros 100 días como CEO](../../../16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo/README.md) | [Parte 17](../../README.md) · [Programa](../../../../SYLLABUS.md) | [206 · Qué hace un directorio →](../206-que-hace-un-directorio/README.md) |
+<!-- pie:fin -->

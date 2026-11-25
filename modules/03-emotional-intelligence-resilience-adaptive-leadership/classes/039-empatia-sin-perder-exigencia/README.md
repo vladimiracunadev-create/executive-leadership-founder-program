@@ -1,5 +1,9 @@
 # Clase 039 — Empatía sin perder exigencia
 
+<!-- nav:inicio -->
+> **Parte 03 · Inteligencia emocional, resiliencia y liderazgo adaptativo** — clase 3 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 03 — Inteligencia emocional, resiliencia y liderazgo adaptativo  
 **Nivel:** Etapa 1 — Profesional → Líder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/039-empatia-sin-perder-exigencia/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **empatía sin perder exigencia** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Empatía sin perder exigencia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **empatía sin perder exigencia** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 038 · Autorregulación y respuesta bajo presión](../038-autorregulacion-y-respuesta-bajo-presion/README.md) | [Parte 03](../../README.md) · [Programa](../../../../SYLLABUS.md) | [040 · Motivación y propósito →](../040-motivacion-y-proposito/README.md) |
+<!-- pie:fin -->

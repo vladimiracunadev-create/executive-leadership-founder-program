@@ -21,3 +21,11 @@ Preparar y defender un board pack ante un directorio simulado.
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 17](README.md) · [Programa](../../SYLLABUS.md) | [Parte 18 — Finanzas corporativas, capital y M&A →](../18-corporate-finance-capital-ma/README.md) |
+<!-- pie:fin -->

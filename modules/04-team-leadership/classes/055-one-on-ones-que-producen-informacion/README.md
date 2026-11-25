@@ -1,5 +1,9 @@
 # Clase 055 — One-on-ones que producen información
 
+<!-- nav:inicio -->
+> **Parte 04 · Liderazgo de equipos** — clase 7 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 04 — Liderazgo de equipos  
 **Nivel:** Etapa 2 — Líder → Jefe  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/055-one-on-ones-que-producen-informacion/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **one-on-ones que producen información** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para One-on-ones que producen información:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **one-on-ones que producen información** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 054 · Coaching y desarrollo cotidiano](../054-coaching-y-desarrollo-cotidiano/README.md) | [Parte 04](../../README.md) · [Programa](../../../../SYLLABUS.md) | [056 · Reuniones que deciden →](../056-reuniones-que-deciden/README.md) |
+<!-- pie:fin -->

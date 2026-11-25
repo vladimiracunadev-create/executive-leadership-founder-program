@@ -1,5 +1,9 @@
 # Clase 117 — Unit economics: CAC, LTV, churn y payback
 
+<!-- nav:inicio -->
+> **Parte 09 · Finanzas y contabilidad para gerentes** — clase 9 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 09 — Finanzas y contabilidad para gerentes  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -216,3 +220,11 @@ Guarda en `portfolio/117-unit-economics-cac-ltv-churn-y-payback/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **unit economics: cac, ltv, churn y payback** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Unit economics: CAC, LTV, churn y payback:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **unit economics: CAC, LTV, churn y payback** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 116 · Costos fijos, variables y break-even](../116-costos-fijos-variables-y-break-even/README.md) | [Parte 09](../../README.md) · [Programa](../../../../SYLLABUS.md) | [118 · ROI, ROIC y decisiones de inversión →](../118-roi-roic-y-decisiones-de-inversion/README.md) |
+<!-- pie:fin -->

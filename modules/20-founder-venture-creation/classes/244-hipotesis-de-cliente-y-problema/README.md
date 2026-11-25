@@ -1,5 +1,9 @@
 # Clase 244 — Hipótesis de cliente y problema
 
+<!-- nav:inicio -->
+> **Parte 20 · Founder y creación de empresas** — clase 4 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 20 — Founder y creación de empresas  
 **Nivel:** Etapa 6 — Founder  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/244-hipotesis-de-cliente-y-problema/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **hipótesis de cliente y problema** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Hipótesis de cliente y problema:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **hipótesis de cliente y problema** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 243 · Customer discovery](../243-customer-discovery/README.md) | [Parte 20](../../README.md) · [Programa](../../../../SYLLABUS.md) | [245 · Propuesta de valor →](../245-propuesta-de-valor/README.md) |
+<!-- pie:fin -->

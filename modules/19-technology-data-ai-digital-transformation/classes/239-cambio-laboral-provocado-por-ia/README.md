@@ -1,5 +1,9 @@
 # Clase 239 — Cambio laboral provocado por IA
 
+<!-- nav:inicio -->
+> **Parte 19 · Tecnología, datos, IA y transformación digital para ejecutivos** — clase 11 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 19 — Tecnología, datos, IA y transformación digital para ejecutivos  
 **Nivel:** Etapa 5 — CEO → Transformador digital  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -209,3 +213,11 @@ Guarda en `portfolio/239-cambio-laboral-provocado-por-ia/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **cambio laboral provocado por ia** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Cambio laboral provocado por IA:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **cambio laboral provocado por IA** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 238 · Métricas de entrega tecnológica](../238-metricas-de-entrega-tecnologica/README.md) | [Parte 19](../../README.md) · [Programa](../../../../SYLLABUS.md) | [240 · Capstone: transformation board →](../240-capstone-transformation-board/README.md) |
+<!-- pie:fin -->

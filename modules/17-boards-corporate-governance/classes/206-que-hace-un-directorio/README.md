@@ -1,5 +1,9 @@
 # Clase 206 — Qué hace un directorio
 
+<!-- nav:inicio -->
+> **Parte 17 · Directorios y gobierno corporativo** — clase 2 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 17 — Directorios y gobierno corporativo  
 **Nivel:** Etapa 5 — Director → CEO  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -216,3 +220,11 @@ Guarda en `portfolio/206-que-hace-un-directorio/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **qué hace un directorio** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Qué hace un directorio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **qué hace un directorio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 205 · Propiedad, administración y gobierno](../205-propiedad-administracion-y-gobierno/README.md) | [Parte 17](../../README.md) · [Programa](../../../../SYLLABUS.md) | [207 · Rol del presidente y del CEO →](../207-rol-del-presidente-y-del-ceo/README.md) |
+<!-- pie:fin -->

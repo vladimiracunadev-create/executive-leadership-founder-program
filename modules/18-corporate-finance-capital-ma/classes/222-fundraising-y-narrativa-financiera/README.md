@@ -1,5 +1,9 @@
 # Clase 222 — Fundraising y narrativa financiera
 
+<!-- nav:inicio -->
+> **Parte 18 · Finanzas corporativas, capital y M&A** — clase 6 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 18 — Finanzas corporativas, capital y M&A  
 **Nivel:** Etapa 5 — CEO → Capital allocator  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -216,3 +220,11 @@ Guarda en `portfolio/222-fundraising-y-narrativa-financiera/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **fundraising y narrativa financiera** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Fundraising y narrativa financiera:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **fundraising y narrativa financiera** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 221 · Múltiplos y comparables](../221-multiplos-y-comparables/README.md) | [Parte 18](../../README.md) · [Programa](../../../../SYLLABUS.md) | [223 · Cap table y dilución →](../223-cap-table-y-dilucion/README.md) |
+<!-- pie:fin -->

@@ -1,5 +1,9 @@
 # Clase 198 — Asignación de capital y talento
 
+<!-- nav:inicio -->
+> **Parte 16 · Alta dirección y oficina del CEO** — clase 6 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 16 — Alta dirección y oficina del CEO  
 **Nivel:** Etapa 5 — Director → CEO  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/198-asignacion-de-capital-y-talento/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **asignación de capital y talento** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Asignación de capital y talento:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **asignación de capital y talento** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 197 · Agenda y tiempo del CEO](../197-agenda-y-tiempo-del-ceo/README.md) | [Parte 16](../../README.md) · [Programa](../../../../SYLLABUS.md) | [199 · Balance entre clientes, personas, accionistas y sociedad →](../199-balance-entre-clientes-personas-accionistas-y-sociedad/README.md) |
+<!-- pie:fin -->

@@ -1,5 +1,9 @@
 # Clase 266 — Sistemas antes que heroicidad
 
+<!-- nav:inicio -->
+> **Parte 22 · Escalamiento, propiedad y portafolio empresarial** — clase 2 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 22 — Escalamiento, propiedad y portafolio empresarial  
 **Nivel:** Etapa 6 — Business Owner  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/266-sistemas-antes-que-heroicidad/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **sistemas antes que heroicidad** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Sistemas antes que heroicidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **sistemas antes que heroicidad** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 265 · De fundador-operador a propietario](../265-de-fundador-operador-a-propietario/README.md) | [Parte 22](../../README.md) · [Programa](../../../../SYLLABUS.md) | [267 · Contratar líderes →](../267-contratar-lideres/README.md) |
+<!-- pie:fin -->

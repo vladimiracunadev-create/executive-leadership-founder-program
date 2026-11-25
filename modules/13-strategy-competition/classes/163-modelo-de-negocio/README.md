@@ -1,5 +1,9 @@
 # Clase 163 — Modelo de negocio
 
+<!-- nav:inicio -->
+> **Parte 13 · Estrategia y competencia** — clase 7 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 13 — Estrategia y competencia  
 **Nivel:** Etapa 4 — Gerente → Director  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -218,3 +222,11 @@ Guarda en `portfolio/163-modelo-de-negocio/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **modelo de negocio** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Modelo de negocio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **modelo de negocio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 162 · Trade-offs y coherencia](../162-trade-offs-y-coherencia/README.md) | [Parte 13](../../README.md) · [Programa](../../../../SYLLABUS.md) | [164 · Escenarios estratégicos →](../164-escenarios-estrategicos/README.md) |
+<!-- pie:fin -->

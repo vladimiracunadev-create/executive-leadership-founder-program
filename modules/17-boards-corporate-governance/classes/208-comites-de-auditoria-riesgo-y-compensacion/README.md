@@ -1,5 +1,9 @@
 # Clase 208 — Comités de auditoría, riesgo y compensación
 
+<!-- nav:inicio -->
+> **Parte 17 · Directorios y gobierno corporativo** — clase 4 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 17 — Directorios y gobierno corporativo  
 **Nivel:** Etapa 5 — Director → CEO  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/208-comites-de-auditoria-riesgo-y-compensacion/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **comités de auditoría, riesgo y compensación** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Comités de auditoría, riesgo y compensación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **comités de auditoría, riesgo y compensación** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 207 · Rol del presidente y del CEO](../207-rol-del-presidente-y-del-ceo/README.md) | [Parte 17](../../README.md) · [Programa](../../../../SYLLABUS.md) | [209 · Deberes, conflictos e independencia: fundamentos →](../209-deberes-conflictos-e-independencia-fundamentos/README.md) |
+<!-- pie:fin -->

@@ -1,5 +1,9 @@
 # Clase 240 — Capstone: transformation board
 
+<!-- nav:inicio -->
+> **Parte 19 · Tecnología, datos, IA y transformación digital para ejecutivos** — clase 12 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 19 — Tecnología, datos, IA y transformación digital para ejecutivos  
 **Nivel:** Etapa 5 — CEO → Transformador digital  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/240-capstone-transformation-board/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: transformation board** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Capstone: transformation board:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: transformation board** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 239 · Cambio laboral provocado por IA](../239-cambio-laboral-provocado-por-ia/README.md) | [Parte 19](../../README.md) · [Programa](../../../../SYLLABUS.md) | [241 · Founder versus freelance versus empresario →](../../../20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario/README.md) |
+<!-- pie:fin -->

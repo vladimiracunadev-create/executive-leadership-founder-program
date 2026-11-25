@@ -1,5 +1,9 @@
 # Clase 119 — Valoración: fundamentos
 
+<!-- nav:inicio -->
+> **Parte 09 · Finanzas y contabilidad para gerentes** — clase 11 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 09 — Finanzas y contabilidad para gerentes  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -216,3 +220,11 @@ Guarda en `portfolio/119-valoracion-fundamentos/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **valoración: fundamentos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Valoración: fundamentos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **valoración: fundamentos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 118 · ROI, ROIC y decisiones de inversión](../118-roi-roic-y-decisiones-de-inversion/README.md) | [Parte 09](../../README.md) · [Programa](../../../../SYLLABUS.md) | [120 · Capstone: comité de inversión →](../120-capstone-comite-de-inversion/README.md) |
+<!-- pie:fin -->

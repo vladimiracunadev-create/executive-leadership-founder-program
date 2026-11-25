@@ -1,5 +1,9 @@
 # Clase 257 — Documentos tributarios, IVA y registros: panorama ejecutivo
 
+<!-- nav:inicio -->
+> **Parte 21 · Founder Track Chile: formalización y operación** — clase 5 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 21 — Founder Track Chile: formalización y operación  
 **Nivel:** Etapa 6 — Founder en Chile  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -209,3 +213,11 @@ Guarda en `portfolio/257-documentos-tributarios-iva-y-registros-panorama-ejecuti
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **documentos tributarios, iva y registros: panorama ejecutivo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Documentos tributarios, IVA y registros: panorama ejecutivo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **documentos tributarios, IVA y registros: panorama ejecutivo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 256 · Inicio de actividades y ciclo tributario en SII](../256-inicio-de-actividades-y-ciclo-tributario-en-sii/README.md) | [Parte 21](../../README.md) · [Programa](../../../../SYLLABUS.md) | [258 · Contabilidad, tesorería y control documental →](../258-contabilidad-tesoreria-y-control-documental/README.md) |
+<!-- pie:fin -->

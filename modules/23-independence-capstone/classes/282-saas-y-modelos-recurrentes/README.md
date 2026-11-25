@@ -1,5 +1,9 @@
 # Clase 282 — SaaS y modelos recurrentes
 
+<!-- nav:inicio -->
+> **Parte 23 · Independencia profesional y Business Owner Capstone** — clase 6 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 23 — Independencia profesional y Business Owner Capstone  
 **Nivel:** Etapa 6 — Independencia  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/282-saas-y-modelos-recurrentes/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **saas y modelos recurrentes** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para SaaS y modelos recurrentes:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **saaS y modelos recurrentes** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 281 · Producto digital y propiedad intelectual](../281-producto-digital-y-propiedad-intelectual/README.md) | [Parte 23](../../README.md) · [Programa](../../../../SYLLABUS.md) | [283 · Portafolio de ingresos y concentración de riesgo →](../283-portafolio-de-ingresos-y-concentracion-de-riesgo/README.md) |
+<!-- pie:fin -->

@@ -1,5 +1,9 @@
 # Clase 142 — Retención, lealtad y customer success
 
+<!-- nav:inicio -->
+> **Parte 11 · Marketing, cliente y crecimiento** — clase 10 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 11 — Marketing, cliente y crecimiento  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/142-retencion-lealtad-y-customer-success/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **retención, lealtad y customer success** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Retención, lealtad y customer success:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **retención, lealtad y customer success** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 141 · Funnel y conversión](../141-funnel-y-conversion/README.md) | [Parte 11](../../README.md) · [Programa](../../../../SYLLABUS.md) | [143 · Growth loops y experimentación →](../143-growth-loops-y-experimentacion/README.md) |
+<!-- pie:fin -->

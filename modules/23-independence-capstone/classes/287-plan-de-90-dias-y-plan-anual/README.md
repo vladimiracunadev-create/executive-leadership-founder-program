@@ -1,5 +1,9 @@
 # Clase 287 — Plan de 90 días y plan anual
 
+<!-- nav:inicio -->
+> **Parte 23 · Independencia profesional y Business Owner Capstone** — clase 11 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 23 — Independencia profesional y Business Owner Capstone  
 **Nivel:** Etapa 6 — Independencia  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/287-plan-de-90-dias-y-plan-anual/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **plan de 90 días y plan anual** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Plan de 90 días y plan anual:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **plan de 90 días y plan anual** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 286 · Riesgo, ética y reputación](../286-riesgo-etica-y-reputacion/README.md) | [Parte 23](../../README.md) · [Programa](../../../../SYLLABUS.md) | [288 · Capstone final: defensa como CEO, founder y owner →](../288-capstone-final-defensa-como-ceo-founder-y-owner/README.md) |
+<!-- pie:fin -->

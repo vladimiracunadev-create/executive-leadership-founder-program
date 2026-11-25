@@ -1,5 +1,9 @@
 # Clase 052 — Confianza y vulnerabilidad profesional
 
+<!-- nav:inicio -->
+> **Parte 04 · Liderazgo de equipos** — clase 4 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 04 — Liderazgo de equipos  
 **Nivel:** Etapa 2 — Líder → Jefe  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/052-confianza-y-vulnerabilidad-profesional/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **confianza y vulnerabilidad profesional** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Confianza y vulnerabilidad profesional:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **confianza y vulnerabilidad profesional** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 051 · Roles, responsabilidades y expectativas](../051-roles-responsabilidades-y-expectativas/README.md) | [Parte 04](../../README.md) · [Programa](../../../../SYLLABUS.md) | [053 · Delegación por resultados →](../053-delegacion-por-resultados/README.md) |
+<!-- pie:fin -->

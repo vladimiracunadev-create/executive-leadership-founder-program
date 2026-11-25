@@ -1,5 +1,9 @@
 # Clase 068 — Compensación e incentivos: fundamentos
 
+<!-- nav:inicio -->
+> **Parte 05 · Gestión de talento y personas** — clase 8 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 05 — Gestión de talento y personas  
 **Nivel:** Etapa 2 — Líder → Jefe  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/068-compensacion-e-incentivos-fundamentos/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **compensación e incentivos: fundamentos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Compensación e incentivos: fundamentos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **compensación e incentivos: fundamentos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 067 · Feedback, coaching y planes de mejora](../067-feedback-coaching-y-planes-de-mejora/README.md) | [Parte 05](../../README.md) · [Programa](../../../../SYLLABUS.md) | [069 · Aprendizaje y upskilling →](../069-aprendizaje-y-upskilling/README.md) |
+<!-- pie:fin -->

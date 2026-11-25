@@ -21,3 +21,11 @@ Construir el dossier operativo de una empresa chilena y una matriz de obligacion
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 21](README.md) · [Programa](../../SYLLABUS.md) | [Parte 22 — Escalamiento, propiedad y portafolio empresarial →](../22-scaling-business-ownership/README.md) |
+<!-- pie:fin -->

@@ -1,5 +1,9 @@
 # Clase 271 — Multiunidad y portafolio
 
+<!-- nav:inicio -->
+> **Parte 22 · Escalamiento, propiedad y portafolio empresarial** — clase 7 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 22 — Escalamiento, propiedad y portafolio empresarial  
 **Nivel:** Etapa 6 — Business Owner  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/271-multiunidad-y-portafolio/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **multiunidad y portafolio** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Multiunidad y portafolio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **multiunidad y portafolio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 270 · Gobierno proporcional al tamaño](../270-gobierno-proporcional-al-tamano/README.md) | [Parte 22](../../README.md) · [Programa](../../../../SYLLABUS.md) | [272 · Holdings y estructuras de propiedad: conceptos →](../272-holdings-y-estructuras-de-propiedad-conceptos/README.md) |
+<!-- pie:fin -->

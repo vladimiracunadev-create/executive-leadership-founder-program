@@ -21,3 +21,11 @@ Elegir entre deuda, equity y adquisición para financiar una expansión estraté
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 18](README.md) · [Programa](../../SYLLABUS.md) | [Parte 19 — Tecnología, datos, IA y transformación digital para ejecutivos →](../19-technology-data-ai-digital-transformation/README.md) |
+<!-- pie:fin -->

@@ -1,5 +1,9 @@
 # Clase 170 — Estructuras funcionales, divisionales y matriciales
 
+<!-- nav:inicio -->
+> **Parte 14 · Diseño organizacional, cultura y cambio** — clase 2 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 14 — Diseño organizacional, cultura y cambio  
 **Nivel:** Etapa 4 — Gerente → Director  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/170-estructuras-funcionales-divisionales-y-matriciales/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **estructuras funcionales, divisionales y matriciales** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Estructuras funcionales, divisionales y matriciales:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **estructuras funcionales, divisionales y matriciales** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 169 · La organización como diseño](../169-la-organizacion-como-diseno/README.md) | [Parte 14](../../README.md) · [Programa](../../../../SYLLABUS.md) | [171 · Spans, layers y managerial load →](../171-spans-layers-y-managerial-load/README.md) |
+<!-- pie:fin -->

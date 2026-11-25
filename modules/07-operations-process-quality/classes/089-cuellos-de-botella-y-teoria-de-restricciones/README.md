@@ -1,5 +1,9 @@
 # Clase 089 — Cuellos de botella y teoría de restricciones
 
+<!-- nav:inicio -->
+> **Parte 07 · Operaciones, procesos y calidad** — clase 5 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 07 — Operaciones, procesos y calidad  
 **Nivel:** Etapa 2 — Jefe → Manager  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/089-cuellos-de-botella-y-teoria-de-restricciones/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **cuellos de botella y teoría de restricciones** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Cuellos de botella y teoría de restricciones:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **cuellos de botella y teoría de restricciones** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 088 · Capacidad y demanda](../088-capacidad-y-demanda/README.md) | [Parte 07](../../README.md) · [Programa](../../../../SYLLABUS.md) | [090 · Lean y eliminación de desperdicio →](../090-lean-y-eliminacion-de-desperdicio/README.md) |
+<!-- pie:fin -->

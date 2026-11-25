@@ -1,5 +1,9 @@
 # Clase 081 — Stakeholders y gobernanza de proyecto
 
+<!-- nav:inicio -->
+> **Parte 06 · Proyectos, Agile y entrega** — clase 9 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 06 — Proyectos, Agile y entrega  
 **Nivel:** Etapa 2 — Jefe → Manager  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/081-stakeholders-y-gobernanza-de-proyecto/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **stakeholders y gobernanza de proyecto** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Stakeholders y gobernanza de proyecto:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **stakeholders y gobernanza de proyecto** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 080 · Kanban y flujo](../080-kanban-y-flujo/README.md) | [Parte 06](../../README.md) · [Programa](../../../../SYLLABUS.md) | [082 · Calidad y Definition of Done →](../082-calidad-y-definition-of-done/README.md) |
+<!-- pie:fin -->

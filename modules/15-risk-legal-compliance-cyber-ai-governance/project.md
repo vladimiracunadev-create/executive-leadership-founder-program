@@ -21,3 +21,11 @@ Presidir un comité de riesgos ante incidente cibernético, exposición legal y 
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 15](README.md) · [Programa](../../SYLLABUS.md) | [Parte 16 — Alta dirección y oficina del CEO →](../16-executive-leadership-ceo-office/README.md) |
+<!-- pie:fin -->

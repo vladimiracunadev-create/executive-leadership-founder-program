@@ -1,5 +1,9 @@
 # Clase 151 — Roadmap orientado a outcomes
 
+<!-- nav:inicio -->
+> **Parte 12 · Producto e innovación** — clase 7 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 12 — Producto e innovación  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/151-roadmap-orientado-a-outcomes/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **roadmap orientado a outcomes** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Roadmap orientado a outcomes:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **roadmap orientado a outcomes** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 150 · MVP: prueba de hipótesis](../150-mvp-prueba-de-hipotesis/README.md) | [Parte 12](../../README.md) · [Programa](../../../../SYLLABUS.md) | [152 · Priorización y costo de oportunidad →](../152-priorizacion-y-costo-de-oportunidad/README.md) |
+<!-- pie:fin -->

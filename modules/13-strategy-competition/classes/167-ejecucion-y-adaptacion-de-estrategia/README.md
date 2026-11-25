@@ -1,5 +1,9 @@
 # Clase 167 — Ejecución y adaptación de estrategia
 
+<!-- nav:inicio -->
+> **Parte 13 · Estrategia y competencia** — clase 11 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 13 — Estrategia y competencia  
 **Nivel:** Etapa 4 — Gerente → Director  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/167-ejecucion-y-adaptacion-de-estrategia/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **ejecución y adaptación de estrategia** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Ejecución y adaptación de estrategia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **ejecución y adaptación de estrategia** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 166 · Partnerships, ecosistemas y plataformas](../166-partnerships-ecosistemas-y-plataformas/README.md) | [Parte 13](../../README.md) · [Programa](../../../../SYLLABUS.md) | [168 · Capstone: strategy memo →](../168-capstone-strategy-memo/README.md) |
+<!-- pie:fin -->

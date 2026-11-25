@@ -1,5 +1,9 @@
 # Clase 156 — Capstone: comité de producto
 
+<!-- nav:inicio -->
+> **Parte 12 · Producto e innovación** — clase 12 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 12 — Producto e innovación  
 **Nivel:** Etapa 3 — Manager → Gerente  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/156-capstone-comite-de-producto/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: comité de producto** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Capstone: comité de producto:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: comité de producto** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 155 · Product-market fit](../155-product-market-fit/README.md) | [Parte 12](../../README.md) · [Programa](../../../../SYLLABUS.md) | [157 · Qué es y qué no es estrategia →](../../../13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia/README.md) |
+<!-- pie:fin -->

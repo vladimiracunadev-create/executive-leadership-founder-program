@@ -21,3 +21,11 @@ Vender y negociar una solución B2B con múltiples decisores y presión por desc
 ## Aprobación
 
 ≥ 80/100 con la rúbrica ejecutiva.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← Laboratorio 4](labs/lab-04.md) | [Parte 10](README.md) · [Programa](../../SYLLABUS.md) | [Parte 11 — Marketing, cliente y crecimiento →](../11-marketing-customers-growth/README.md) |
+<!-- pie:fin -->

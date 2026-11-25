@@ -1,5 +1,9 @@
 # Clase 092 — SLA, SLO y niveles de servicio
 
+<!-- nav:inicio -->
+> **Parte 07 · Operaciones, procesos y calidad** — clase 8 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 07 — Operaciones, procesos y calidad  
 **Nivel:** Etapa 2 — Jefe → Manager  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/092-sla-slo-y-niveles-de-servicio/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **sla, slo y niveles de servicio** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para SLA, SLO y niveles de servicio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **sLA, SLO y niveles de servicio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 091 · Calidad y variabilidad](../091-calidad-y-variabilidad/README.md) | [Parte 07](../../README.md) · [Programa](../../../../SYLLABUS.md) | [093 · Proveedores y terceros →](../093-proveedores-y-terceros/README.md) |
+<!-- pie:fin -->

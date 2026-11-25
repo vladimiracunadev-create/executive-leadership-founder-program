@@ -1,5 +1,9 @@
 # Clase 184 — Alfabetización legal del gerente
 
+<!-- nav:inicio -->
+> **Parte 15 · Riesgo, legal, compliance, ciberseguridad e IA** — clase 4 de 12 · [índice de la parte](../../README.md) · [temario](../../../../SYLLABUS.md)
+<!-- nav:fin -->
+
 **Parte:** 15 — Riesgo, legal, compliance, ciberseguridad e IA  
 **Nivel:** Etapa 4 — Gerente → Director  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
@@ -208,3 +212,11 @@ Guarda en `portfolio/184-alfabetizacion-legal-del-gerente/`:
 - William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **alfabetización legal del gerente** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
 
 > **Regla de fuentes para Alfabetización legal del gerente:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **alfabetización legal del gerente** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+
+<!-- pie:inicio -->
+---
+
+| Anterior | Índice | Siguiente |
+|---|---|---|
+| [← 183 · Controles internos y segregación](../183-controles-internos-y-segregacion/README.md) | [Parte 15](../../README.md) · [Programa](../../../../SYLLABUS.md) | [185 · Contratos: riesgos que un ejecutivo debe detectar →](../185-contratos-riesgos-que-un-ejecutivo-debe-detectar/README.md) |
+<!-- pie:fin -->

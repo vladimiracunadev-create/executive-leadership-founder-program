@@ -39,6 +39,12 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 17 completa** (205–216): propiedad, gobierno y administración (Jensen y Meckling, Fama y Jensen),
+  qué hace un directorio, presidente y CEO, comités de auditoría, riesgo y compensación (COSO, OCDE), deberes,
+  conflictos e independencia (Cialdini sobre la influencia), información y transparencia, board pack, supervisión
+  de estrategia (Rumelt, Schwartz, Forbes y Milliken), supervisión de riesgo y controles, evaluación del CEO,
+  efectividad del directorio y capstone de una sesión completa; las normas se remiten a fuentes oficiales sin
+  interpretarlas, con cifras recalculadas y un diagrama a medida por clase.
 - **La parte 16 completa** (193–204, con la 200 ya hecha a mano): transición de gerente a ejecutivo (Gabarro,
   Watkins, Hambrick y Mason), pensar a nivel empresa (Rumelt, Goldratt, Koller), construir el equipo ejecutivo
   (Lencioni, Wageman y otros, Hackman), arquitectura de decisiones (Mankins y Garton, Kahneman y otros),

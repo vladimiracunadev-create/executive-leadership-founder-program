@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **risk oversight** de **critical control** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **assurance** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **KRI** con **three lines**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué estándar de supervisión se espera del directorio en riesgos?
+2. ¿Por qué conviene una lista corta de riesgos principales?
+3. ¿Qué es un control crítico y qué se pregunta sobre él?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** El board revisa cyber una vez al año con número de ataques bloqueados. Nunca pregunta si backups se restauran, si identidad es single point of failure o qué pérdida máxima se modeló.
+**Caso:** Una empresa de salud con 3.600 personas tiene un directorio que recibe cada trimestre un informe de riesgos de 45 páginas con 63 riesgos en una matriz de colores. En un año: sufrió un ransomware que dejó sin sistema clínico a dos centros durante 26 horas; una fiscalización detectó fallas en el control de medicamentos; una filtración de información sobre una compra pendiente llegó a la prensa antes del anuncio (la lista de acceso incluía a 52 personas, entre ellas asesores y asistentes); y un director aceptó un viaje pagado de un proveedor que luego se adjudicó un contrato. La auditoría interna depende del gerente financiero. El responsable de seguridad nunca ha hablado con el directorio. Una consultora propone «monitorear las redes sociales de los ejecutivos y directores» para evitar filtraciones, y un director pide revisar los antecedentes personales de todos los empleados con acceso a información sensible.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **alinear risk appetite con estrategia → seleccionar top risks y scenarios → identificar critical controls → obtener assurance independiente → seguir breaches y remediation**. Debes utilizar o diseñar cómo obtener **KRI trend, control effectiveness, audit findings**. Identifica personas clave, señales para consultar, medidas de protección en viajes y negociaciones y límites éticos del control. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **diseño de supervisión de riesgos** que contenga: (a) la lista corta de riesgos principales con escenarios, el apetito y los límites; (b) los controles críticos asociados y su plan de pruebas independientes; (c) la estructura de aseguramiento y de reportes al directorio; (d) el sistema de seguimiento de brechas y excesos; (e) las medidas defensivas frente a la influencia indebida y la fuga de información, con el análisis de las dos propuestas de la consultora y del director a la luz de la privacidad y las normas laborales; (f) las verificaciones legales y regulatorias pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **El board no puede garantizar ausencia de fallas. Su estándar es supervisión razonable y evidencia de governance, no certificar controles técnicos individuales.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: El directorio no puede garantizar la ausencia de fallas; su estándar es una supervisión razonable y evidencia de gobierno, no certificar controles técnicos individuales.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

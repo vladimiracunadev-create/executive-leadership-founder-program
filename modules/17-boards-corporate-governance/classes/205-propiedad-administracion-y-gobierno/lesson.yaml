@@ -5,28 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir ownership de governance mediante evidencia observable."
-  - "Aplicar la secuencia: mapear propietarios y derechos → definir materias reservadas → separar board de management → diseñar información y accountability → revisar conflictos y evolución del gobierno."
-  - "Interpretar reserved-matter breaches, board-management overlap, decision latency sin atribuir causalidad automática."
-  - "Resolver el caso de propiedad, administración y gobierno con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir propiedad, gobierno y administración y sus funciones."
+  - "Mapear a los propietarios, sus derechos y sus umbrales de decisión."
+  - "Definir las materias reservadas y la frontera entre directorio y gerencia."
+  - "Estimar los costos de agencia y diseñar mecanismos para reducirlos."
+  - "Documentar los sombreros y conflictos cuando los roles coinciden."
 deliverable: "board-or-executive-memo.md"
 references:
+  - "Michael C. Jensen & William H. Meckling — *Theory of the firm: Managerial behavior, agency costs and ownership structure*"
+  - "Eugene F. Fama & Michael C. Jensen — *Separation of Ownership and Control*"
   - "Bob Tricker — *Corporate Governance*"
   - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
-  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
-  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
-  - "Ram Charan — *Boards That Deliver*"
-  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+  - "Biblioteca del Congreso Nacional de Chile — *LeyChile: sociedades anónimas (Ley 18.046) y su reglamento*"
 limits:
-  - "La separación formal no elimina relaciones de poder. En empresas cerradas y startups, roles pueden coincidir; documenta sombreros, conflictos y proceso de decisión."
+  - "La separación formal no elimina las relaciones de poder: en empresas cerradas y startups los roles pueden coincidir y conviene documentar los sombreros, los conflictos y el proceso de decisión."
 evidence_signals:
-  - "reserved-matter breaches"
-  - "board-management overlap"
-  - "decision latency"
-  - "owner concentration"
-  - "governance exceptions"
+  - "propiedad y derechos mapeados"
+  - "materias reservadas definidas"
+  - "costos de agencia estimados"
+  - "sombreros y conflictos documentados"

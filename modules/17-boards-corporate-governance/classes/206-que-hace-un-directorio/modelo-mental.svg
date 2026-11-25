@@ -1,82 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g206 d-g206" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g206">Ficha visual de la clase 206: Qué hace un directorio</title>
-<desc id="d-g206">Conceptos: board mandate; oversight; management accountability; reserved matter; board calendar. Método: definir mandato y reserved matters → crear calendario anual → establecer información mínima → desafiar estrategia riesgo y performance → seguir acciones sin microgestión.</desc>
-<defs><marker id="p-g206" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 206 · Qué hace un directorio</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 17 · Alta dirección y gobierno</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#cf222e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >board mandate</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto de responsabilidades reservadas al directorio</text>
-<circle cx="38" cy="170" r="5" fill="#cf222e"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >oversight</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >supervisión mediante información challenge y</text>
-<text x="54" y="209.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >seguimiento</text>
-<circle cx="38" cy="242.12" r="5" fill="#cf222e"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >management accountability</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >obligación del equipo ejecutivo de responder por</text>
-<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ejecución</text>
-<circle cx="38" cy="314.24" r="5" fill="#cf222e"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >reserved matter</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >decisión que estatutos o governance reservan al board</text>
-<circle cx="38" cy="372.24" r="5" fill="#cf222e"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >board calendar</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >agenda anual de materias que requieren supervisión</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#cf222e"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir mandato y</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >reserved matters</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#cf222e"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >crear calendario</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >anual</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#cf222e"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >establecer</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >información mínima</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#cf222e"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >desafiar</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >estrategia riesgo</text>
-<text x="880" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >y performance</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#cf222e"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >seguir acciones</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >sin microgestión</text>
-<path d="M638,139 L656,139" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g206)"/>
-<path d="M826,139 L844,139" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g206)"/>
-<path d="M929,176 L929,222" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g206)"/>
-<path d="M844,259 L826,259" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g206)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#cf222e" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g206)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >board time allocation</text>
-<rect x="208.9" y="456.24" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="221.9" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="232.9" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decision quality</text>
-<rect x="355.3" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="368.3" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="379.3" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >management follow-up</text>
-<rect x="529.3" y="456.24" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="542.3" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="553.3" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >agenda balance</text>
-<rect x="661.9" y="456.24" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="674.9" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="685.9" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >information timeliness</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un board demasiado distante también falla. Oversight requiere profundidad suficiente para detectar problemas sin reemplazar a</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >management; ajusta según tamaño, crisis y regulación.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 488.06" width="1040" role="img" aria-labelledby="t-s206 d-s206" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s206">Clase 206 · Cómo trabaja un directorio durante el año</title>
+<desc id="d-s206">Cinco pasos del trabajo de un directorio: mandato, calendario, información, desafío y seguimiento de acciones.</desc>
+<defs><marker id="p-s206" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="488.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 206 · Cómo trabaja un directorio durante el año</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Charan · Tricker · OCDE (2023)</text>
+<rect x="28" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<circle cx="52.0" cy="122.0" r="13" fill="#0969da"/>
+<text x="52" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Mandato y materias</text>
+<text x="44" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Qué decide el directorio y</text>
+<text x="44" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >qué se reserva.</text>
+<path d="M260.5,144.25 L276.5,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s206)"/>
+<rect x="279.5" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<circle cx="303.5" cy="122.0" r="13" fill="#1a7f37"/>
+<text x="303.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Calendario anual</text>
+<text x="295.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Temas fijos y espacios para</text>
+<text x="295.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >lo estratégico.</text>
+<path d="M512,144.25 L528,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s206)"/>
+<rect x="531" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<circle cx="555.0" cy="122.0" r="13" fill="#bc4c00"/>
+<text x="555" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Información mínima</text>
+<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Lo necesario para decidir, a</text>
+<text x="547" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >tiempo.</text>
+<path d="M763.5,144.25 L779.5,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s206)"/>
+<rect x="782.5" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<circle cx="806.5" cy="122.0" r="13" fill="#8250df"/>
+<text x="806.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Desafío</text>
+<text x="798.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Preguntas sobre estrategia,</text>
+<text x="798.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >riesgo y desempeño.</text>
+<path d="M897.25,194.5 V206.5 H142.75 V224.5" stroke="#59636e" stroke-width="2" fill="none" marker-end="url(#p-s206)"/>
+<rect x="28" y="226.5" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<circle cx="52.0" cy="252.5" r="13" fill="#cf222e"/>
+<text x="52" y="257.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="72" y="250.5" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Seguimiento</text>
+<text x="44" y="282.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Acciones con dueño, sin</text>
+<text x="44" y="299.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >microgestión.</text>
+<path d="M142.75,325.0 V345.0 H142.75 V196.5" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="7 6" marker-end="url(#p-s206)"/>
+<text x="142.75" y="339" font-size="11.5" font-weight="600" fill="#59636e" text-anchor="middle" >el seguimiento ajusta el calendario</text>
+<rect x="28" y="361" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="383" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Supervisar exige la profundidad suficiente para detectar problemas sin reemplazar a la gerencia. Un directorio distante falla tanto</text>
+<text x="44" y="400.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >como uno que gestiona.</text>
+<text x="28" y="447.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >La frecuencia y la profundidad se ajustan al tamaño, a las crisis y a la regulación aplicable.</text>
 </svg>

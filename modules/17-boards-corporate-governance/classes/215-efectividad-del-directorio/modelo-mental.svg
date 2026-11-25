@@ -1,64 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g215 d-g215" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g215">Ficha visual de la clase 215: Efectividad del directorio</title>
-<desc id="d-g215">Conceptos: board effectiveness; skills matrix; board evaluation; board refreshment; psychological safety. Método: definir mandato y skills → observar agenda y conducta → recoger feedback individual y colectivo → elegir 2 o 3 mejoras → revisar composición y progreso.</desc>
-<defs><marker id="p-g215" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 215 · Efectividad del directorio</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 17 · Alta dirección y gobierno</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#cf222e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >board effectiveness</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad del board para cumplir mandato con buen</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >juicio y conducta</text>
-<circle cx="38" cy="184.12" r="5" fill="#cf222e"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >skills matrix</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >mapa de capacidades y experiencias requeridas</text>
-<circle cx="38" cy="242.12" r="5" fill="#cf222e"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >board evaluation</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >proceso para analizar desempeño colectivo e individual</text>
-<circle cx="38" cy="300.12" r="5" fill="#cf222e"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >board refreshment</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >renovación deliberada de composición</text>
-<circle cx="38" cy="358.12" r="5" fill="#cf222e"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >psychological safety</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >condición para preguntas y desacuerdo sin represalia</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir mandato y skills</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >observar agenda y conducta</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >recoger feedback individual y colectivo</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >elegir 2 o 3 mejoras</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >revisar composición y progreso</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#cf222e"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >meeting effectiveness</text>
-<rect x="208.9" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="221.9" cy="455.12" r="3.5" fill="#cf222e"/>
-<text x="232.9" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >challenge quality</text>
-<rect x="362.2" y="442.12" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="375.2" cy="455.12" r="3.5" fill="#cf222e"/>
-<text x="386.2" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >skills gaps</text>
-<rect x="474.1" y="442.12" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="487.1" cy="455.12" r="3.5" fill="#cf222e"/>
-<text x="498.1" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >action closure</text>
-<rect x="606.7" y="442.12" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="619.7" cy="455.12" r="3.5" fill="#cf222e"/>
-<text x="630.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >director contribution</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Diversidad de CV no garantiza diversidad cognitiva ni challenge. Evalúa cómo se usa la experiencia en decisiones reales y si el chair</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >habilita conflicto productivo.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 474.06" width="1040" role="img" aria-labelledby="t-s215 d-s215" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s215">Clase 215 · Un directorio que desafía y uno de formalidad</title>
+<desc id="d-s215">Rasgos de un directorio efectivo frente a uno que cumple solo la forma.</desc>
+<defs><marker id="p-s215" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="474.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 215 · Un directorio que desafía y uno de formalidad</text>
+<text x="1012" y="43" font-size="10.5" font-weight="400" fill="#59636e" text-anchor="end" >Forbes &amp; Milliken (1999) · Adams et al. (2010) · Charan</text>
+<text x="28" y="90" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">DIRECTORIO QUE DESAFÍA</text>
+<rect x="28" y="104" width="480" height="80.5" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.7" />
+<rect x="28.0" y="104" width="6" height="80.5" rx="3" fill="#1a7f37"/>
+<text x="46" y="126" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Usa la experiencia</text>
+<text x="46" y="144" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >El conocimiento de cada director aparece en las decisiones</text>
+<text x="46" y="161.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >reales.</text>
+<rect x="28" y="194.5" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.7" />
+<rect x="28.0" y="194.5" width="6" height="63.25" rx="3" fill="#0969da"/>
+<text x="46" y="216.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Presidente que habilita</text>
+<text x="46" y="234.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Permite el conflicto productivo y escucha la disidencia.</text>
+<rect x="28" y="267.75" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#8250df" stroke-width="1.7" />
+<rect x="28.0" y="267.75" width="6" height="63.25" rx="3" fill="#8250df"/>
+<text x="46" y="289.75" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Evalúa y mejora</text>
+<text x="46" y="307.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Dos o tres mejoras al año, con seguimiento.</text>
+<text x="532" y="90" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">DIRECTORIO DE FORMALIDAD</text>
+<rect x="532" y="104" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.7" />
+<rect x="532.0" y="104" width="6" height="63.25" rx="3" fill="#cf222e"/>
+<text x="550" y="126" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Currículos sin uso</text>
+<text x="550" y="144" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Perfiles brillantes que no se traducen en preguntas.</text>
+<rect x="532" y="177.25" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.7" />
+<rect x="532.0" y="177.25" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<text x="550" y="199.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Unanimidad rápida</text>
+<text x="550" y="217.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Se aprueba lo que llega sin discusión.</text>
+<rect x="532" y="250.5" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.7" />
+<rect x="532.0" y="250.5" width="6" height="63.25" rx="3" fill="#59636e"/>
+<text x="550" y="272.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Evaluación sin efecto</text>
+<text x="550" y="290.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Se llena el formulario y no cambia nada.</text>
+<rect x="28" y="347" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="369" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >La diversidad de currículos no garantiza diversidad cognitiva ni desafío. Se evalúa cómo se usa la experiencia en decisiones reales y</text>
+<text x="44" y="386.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >si el presidente habilita el conflicto productivo.</text>
+<text x="28" y="433.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Las evaluaciones del directorio se tratan con confidencialidad y de forma agregada.</text>
 </svg>

@@ -10,240 +10,203 @@
 
 ## 🎯 Propósito
 
-Deberes fiduciarios, conflictos e independencia dependen de jurisdicción, pero el principio gerencial es reconocer interés personal, revelar, abstenerse cuando corresponde y asegurar proceso informado. Independencia no significa ausencia de opinión; significa capacidad de ejercer juicio sin dependencia impropia.
+Un director no es solo una persona con experiencia que da opiniones: es alguien a quien la ley y los estatutos le imponen **deberes** frente a la empresa y sus propietarios, y cuya independencia de juicio es el activo principal que aporta. Los problemas más graves de gobierno nacen casi siempre de un conflicto de interés mal manejado: un director cuya firma vende servicios a la empresa, un ejecutivo que contrata a un familiar, un asesor que recibe un favor «sin importancia» y luego se siente en deuda. Rara vez empieza con una mala intención; empieza con una cercanía que se vuelve dependencia, y con la falta de reglas claras para detectarla, declararla y manejarla antes de que afecte la decisión.
 
-La salida de esta parte es **separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **deberes, conflictos e independencia: fundamentos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase no enseña derecho: enseña a **detectar y manejar** conflictos con método, y a reconocer los mecanismos de influencia que los generan, para decidir cuándo se debe consultar a asesoría legal y qué fuente oficial verificar. Se apoya en Tricker sobre el gobierno corporativo, en los principios de la OCDE sobre los deberes del directorio, en Monks y Minow sobre poder e independencia, y en los principios de influencia de Cialdini, útiles para entender cómo se construye, paso a paso, una relación de dependencia. Remite a la ley de sociedades y a los estatutos. Al terminar sabrás clasificar conflictos, aplicar un procedimiento de declaración, recusación y documentación, y diseñar políticas de regalos, partes relacionadas y acceso a información.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `fiduciary duty`, `conflict of interest`, `disclosure`, `recusal`, `independence` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. identificar interés y deber → 2. verificar ley o política aplicable → 3. revelar conflicto oportunamente → 4. definir recusal y proceso independiente → 5. documentar fundamento y aprobación** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** conflict disclosures, related-party transactions, recusals sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
-7. **Clasificar** conflictos reales, potenciales y percibidos y extraer el mecanismo de gobierno de casos históricos de influencia.
+1. **Identificar** los deberes generales de un director e identificar cuándo consultar la norma.
+2. **Clasificar** conflictos como reales, potenciales y percibidos.
+3. **Aplicar** un procedimiento de declaración, recusación y decisión independiente.
+4. **Reconocer** mecanismos de influencia que generan dependencia.
+5. **Diseñar** políticas de partes relacionadas, regalos y acceso a información.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define fiduciary duty y conflict of interest sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con conflict disclosures y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué relación personal o comercial de un director o ejecutivo de tu empresa podría afectar una decisión? |
+| 20–60 min | Deberes, tipos de conflicto, procedimiento, partes relacionadas, influencia e independencia. |
+| 60–105 min | Ejemplo trabajado: contrato con una empresa del cónyuge de un director. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **fiduciary duty** | deber jurídico de actuar conforme al estándar aplicable en interés de la entidad o beneficiarios | Distingue un hecho compatible y otro que lo refute. |
-| **conflict of interest** | situación donde interés personal puede interferir con deber | Distingue un hecho compatible y otro que lo refute. |
-| **disclosure** | revelación suficiente del conflicto relevante | Distingue un hecho compatible y otro que lo refute. |
-| **recusal** | abstención de participar en una decisión cuando corresponde | Distingue un hecho compatible y otro que lo refute. |
-| **independence** | capacidad de juicio no comprometida por vínculos materiales | Distingue un hecho compatible y otro que lo refute. |
+| **Deber fiduciario** | Obligación de actuar en el mejor interés de otro, con diligencia y lealtad. | Se aplica a directores y a quienes administran. |
+| **Conflicto de interés real** | Interés personal que choca con el deber hacia la empresa en una decisión concreta. | La persona puede ganar a costa de la empresa. |
+| **Conflicto potencial** | Situación que podría generar un conflicto real. | Vínculos que aún no se activan. |
+| **Conflicto percibido** | Apariencia de conflicto para un observador razonable. | Afecta la confianza aunque no haya daño. |
+| **Recusación** | Abstenerse de participar y de votar en un asunto. | Se registra en el acta. |
+| **Parte relacionada** | Persona o entidad vinculada a la empresa, a sus directores o ejecutivos. | Familiares, sociedades propias, controladores. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 209: 1. identificar interés y deber → 2. verificar ley o política aplicable → 3. revelar conflicto oportunamente → 4. definir recusal y proceso independiente → 5. documentar fundamento y aprobación](modelo-mental.svg)
+![Qué hacer ante un conflicto de interés: identificar, verificar, revelar a tiempo, recusarse y documentar.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. identificar interés y deber → 2. verificar ley o política aplicable → 3. revelar conflicto oportunamente → 4. definir recusal y proceso independiente → 5. documentar fundamento y aprobación
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Deberes fiduciarios, conflictos e independencia dependen de jurisdicción, pero el principio gerencial es reconocer interés personal, revelar, abstenerse cuando corresponde y asegurar proceso informado. Independencia no significa ausencia de opinión; significa capacidad de ejercer juicio sin dependencia impropia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No memorices reglas universales: deberes, umbrales e independencia tienen definición legal específica. Usa esta clase para issue spotting y verifica legislación o estatutos con asesoría.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos con retorno. **Identificar**: qué interés propio o de un tercero hay. **Verificar**: ley, estatutos y política aplicables. **Revelar a tiempo**: antes de que se delibere o decida. **Recusarse**: proceso independiente de decisión. **Documentar**: fundamento, aprobación y seguimiento. La flecha indica que el caso mejora la política. La nota explica que los conflictos pueden ser reales, potenciales o percibidos; el pie, que los deberes, los umbrales y la definición de independencia son legales y específicos y se verifican con asesoría, no de memoria.
 
 ## 📖 Desarrollo
 
-### 1. fiduciary duty: mecanismo central
+### 1. Los deberes de un director
 
-**fiduciary duty** se entiende aquí como **deber jurídico de actuar conforme al estándar aplicable en interés de la entidad o beneficiarios**. Esta es la pieza causal o estructural desde la que se inicia **deberes, conflictos e independencia: fundamentos**: antes de identificar interés y deber, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Los sistemas jurídicos imponen a los directores obligaciones que, en términos generales, se agrupan en: **diligencia y cuidado** (informarse, dedicar tiempo, preguntar, decidir con razonabilidad), **lealtad** (anteponer el interés de la empresa, no usar la posición ni la información para beneficio propio, evitar o declarar conflictos), **reserva** de la información confidencial y **cumplimiento** de la ley y de los estatutos. Los principios de la OCDE sostienen que los directores deben actuar con información completa, de buena fe, con la debida diligencia y en el mejor interés de la empresa y de los accionistas, tratando de forma equitativa a distintos grupos de accionistas y considerando los intereses de las partes interesadas. La ley de sociedades anónimas de cada país, y en Chile la normativa de sociedades y sus normas complementarias, regula los deberes, las operaciones con partes relacionadas y las responsabilidades; su alcance exacto, los umbrales y las excepciones se verifican en el texto vigente y con asesoría. Esta clase sirve para **ver el tema**, no para resolverlo de memoria.
 
-La lectura rectora de este bloque es Bob Tricker — *Corporate Governance*. Su aporte se usa para examinar **separación entre dirección, supervisión, accountability y gobierno corporativo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **conflict disclosures**; regístrala con periodo, unidad, población y baseline.
+### 2. Tipos de conflicto
 
-Relaciona el mecanismo con **conflict of interest**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Un conflicto **real** existe cuando una persona tiene un interés que choca, en la práctica, con su deber hacia la empresa en una decisión concreta (por ejemplo, vota la contratación de una firma de la que es socio). Un conflicto **potencial** es una situación que podría volverse real (por ejemplo, un director es socio minoritario de un proveedor al que la empresa podría contratar en el futuro). Un conflicto **percibido** es una apariencia que un observador razonable interpretaría como conflicto, aun cuando la persona esté segura de su imparcialidad (por ejemplo, un regalo de un licitante). Los tres exigen atención: el real, para evitar daño; el potencial, para anticiparlo; el percibido, para proteger la confianza de empleados, inversionistas y reguladores. Las reglas legales pueden tratar de manera distinta cada categoría.
 
-### 2. conflict of interest: frontera conceptual y error de clasificación
+### 3. El procedimiento: declarar, recusarse, decidir, documentar
 
-**Definición operacional:** situación donde interés personal puede interferir con deber. Su valor está en distinguirlo de **fiduciary duty** y **disclosure**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Un procedimiento sólido tiene cinco pasos. **Identificar** el interés propio, de un familiar o de una entidad vinculada. **Verificar** la norma, los estatutos y la política de la empresa, con asesoría si hay dudas. **Revelar** el conflicto por escrito y **antes** de que se delibere o decida: la revelación tardía es una señal de alerta en sí misma. **Recusarse**: la persona no participa en la deliberación ni vota, y no recibe información privilegiada sobre el asunto; la decisión la toman directores sin conflicto, con información comparativa independiente. **Documentar**: el acta recoge la declaración, la recusación, los antecedentes considerados, las alternativas y la fundamentación; se informa a quien corresponda. El procedimiento se **prueba** con casos y se revisa tras cada incidente.
 
-Contrasta el problema con OECD — *G20/OECD Principles of Corporate Governance 2023*, que aporta una mirada sobre **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno**. Formula dos mini-casos: uno que sí satisface la definición de **conflict of interest** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **related-party transactions** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Partes relacionadas
 
-Antes de verificar ley o política aplicable, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Las operaciones con partes relacionadas (compras, ventas, arriendos, préstamos, remuneraciones, servicios) son legítimas en muchos casos, pero llevan un riesgo de **transferencia de valor** hacia quien tiene el conflicto. Se rigen por reglas legales que suelen exigir revelación, aprobación por órganos o personas sin conflicto y condiciones **equivalentes a las de mercado**. En la práctica, una política efectiva incluye: **definición** de quién es parte relacionada; **registro** actualizado; **comparación** con alternativas de mercado (al menos tres cotizaciones o una tasación independiente); **aprobación** por directores independientes o un comité; **información** al directorio y, cuando corresponda, a los propietarios; y **seguimiento** posterior. Los umbrales y las excepciones dependen de la normativa vigente.
 
-### 3. disclosure: operacionalización y medición
+### 5. Regalos, hospitalidad y favores
 
-**disclosure** significa **revelación suficiente del conflicto relevante**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Los regalos y las invitaciones son el terreno donde el conflicto percibido es más frecuente. Una política simple define: **umbral de valor** por encima del cual se informa o se rechaza; **frecuencia** máxima; **prohibición total** en procesos de licitación y con funcionarios públicos (con la normativa anticorrupción aplicable, clase 189); **registro** público interno; y **devolución o destino** de lo rechazado. Cialdini describe que las personas tienden a corresponder a los favores recibidos (**reciprocidad**), aun cuando el favor sea pequeño y no pedido, y que los pequeños compromisos facilitan otros mayores (**coherencia y compromiso**). Conocer estas tendencias sirve como defensa: un regalo «sin importancia» puede ser el primer paso de una relación de dependencia.
 
-Ram Charan — *Boards That Deliver* orienta este bloque mediante **directorios que contribuyen a estrategia, talento, riesgo y sucesión**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **recusals**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Cómo se construye la influencia
 
-Al llegar a revelar conflicto oportunamente, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Los casos históricos de captura de personas con acceso a información o decisiones muestran un patrón repetido más que una sola gran falta: **acercamiento amistoso**, **favores o atenciones** que crean una deuda emocional, **solicitud de pequeños servicios** (una opinión, un dato), **progresión gradual** de las peticiones, **aislamiento** (pedir discreción) y, finalmente, **dependencia** que dificulta negarse. Cialdini añade los principios de **autoridad** (obedecer a quien parece experto), **simpatía** (ceder ante quien nos cae bien), **prueba social** y **escasez**. La defensa no es la desconfianza general, sino **reglas claras** (declarar contactos y ofrecimientos inusuales), **cultura de consulta** (preguntar sin temor) y **diseño de acceso** (menos información sensible a menos personas). No se trata de vigilar la vida privada de nadie, sino de proteger decisiones y datos de la empresa (clase 213).
 
-### 4. recusal: trade-offs y efectos de segundo orden
+### 7. Independencia: qué significa y qué no
 
-**Definición:** abstención de participar en una decisión cuando corresponde. Este concepto obliga a abandonar la idea de que **deberes, conflictos e independencia: fundamentos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de definir recusal y proceso independiente, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-COSO — *Enterprise Risk Management—Integrating with Strategy and Performance* aporta una lente sobre **riesgo integrado con estrategia, desempeño, revisión e información**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **independent approvals** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **deberes, conflictos e independencia: fundamentos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **recusal** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. independence: gobernanza, límites e integración
-
-**independence** se define como **capacidad de juicio no comprometida por vínculos materiales** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael E. Porter & Mark R. Kramer — *Creating Shared Value* se utiliza para estudiar **perspectiva de Estrategia / Impacto aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar documentar fundamento y aprobación, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No memorices reglas universales: deberes, umbrales e independencia tienen definición legal específica. Usa esta clase para issue spotting y verifica legislación o estatutos con asesoría.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **fiduciary duty**, **conflict of interest**, **disclosure**, **recusal** y **independence** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **deberes, conflictos e independencia: fundamentos** no consiste en sumar cinco definiciones. Empieza por **fiduciary duty**, contrasta **conflict of interest** con **disclosure**, incorpora **recusal** como restricción o mecanismo y usa **independence** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. identificar interés y deber → 2. verificar ley o política aplicable → 3. revelar conflicto oportunamente → 4. definir recusal y proceso independiente → 5. documentar fundamento y aprobación**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Conflictos, independencia y deberes
-
-Gobierno exige identificar conflictos antes de votar, declarar intereses y aplicar mecanismos de abstención/recusación o aprobación según norma y estatutos. “Independencia” no significa ausencia de experiencia o relación humana; se refiere a capacidad de juicio libre de relaciones que comprometan objetividad bajo el marco aplicable.
-
-Distingue un conflicto real, potencial y percibido. En materias legales concretas, usa estatutos y legislación vigente; el curso entrena el mapa de decisión, no reemplaza asesoría jurídica.
-
-### Conflictos de interés e influencia indebida: casos históricos de referencia
-
-Estos casos se usan por su **mecanismo**, no por la intimidad de nadie. Verifica fechas y detalles en fuentes primarias antes de citarlos.
-
-| Caso | Mecanismo | Lección de gobierno |
-|---|---|---|
-| **Enron y las sociedades LJM (1999–2001)** | El director financiero administraba entidades con las que la empresa contrataba; el directorio dispensó la regla de conflicto de interés del código de ética. | Una dispensa de conflicto exige controles compensatorios reales, no solo la aprobación formal. |
-| **Hewlett-Packard (2006)** | Para encontrar una filtración desde el directorio se usaron métodos engañosos de obtención de registros telefónicos. | Una investigación interna mal gobernada puede ser un abuso de autoridad mayor que lo investigado. |
-| **Caso Profumo (1963)** | Un ministro británico mantuvo una relación con una mujer vinculada también a un diplomático soviético; la sanción política vino de haber mentido al Parlamento. | El problema de gobierno fue el ocultamiento y el riesgo de acceso, no la vida privada en sí. |
-| **Caso Guillaume (1974)** | Un colaborador de la cancillería alemana resultó ser agente de la inteligencia de la RDA; precipitó la renuncia del canciller. | Las personas con acceso cercano a quien decide son vector de riesgo; la confianza requiere verificación proporcional. |
-
-**Tipos de conflicto:** real, potencial y percibido. **Salvaguardas:** declaración, abstención, recusación, revisión por un tercero independiente y registro en acta.
+La **independencia** de un director es la capacidad de juzgar sin que lo afecten vínculos con la gerencia, con propietarios relevantes o con la empresa. Las leyes, los reguladores y los códigos de gobierno definen criterios específicos (relaciones laborales o comerciales, parentesco, antigüedad, participación en propiedad, remuneraciones adicionales), que cambian según el país y el tipo de sociedad. La independencia **formal** (cumplir los criterios) no es sinónimo de independencia **de juicio** (voluntad de discrepar y capacidad para hacerlo). Se promueve con **procesos de selección** transparentes, **información** de calidad, **tiempo**, **sesiones ejecutivas** y **protección** frente a represalias. La definición aplicable se verifica en la fuente oficial, no se asume.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Bob Tricker — *Corporate Governance* | separación entre dirección, supervisión, accountability y gobierno corporativo | ¿Qué supuesto de **deberes, conflictos e independencia: fundamentos** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **deberes, conflictos e independencia: fundamentos** ayuda a desafiar? |
-| Ram Charan — *Boards That Deliver* | directorios que contribuyen a estrategia, talento, riesgo y sucesión | ¿Qué supuesto de **deberes, conflictos e independencia: fundamentos** ayuda a desafiar? |
-| COSO — *Enterprise Risk Management—Integrating with Strategy and Performance* | riesgo integrado con estrategia, desempeño, revisión e información | ¿Qué supuesto de **deberes, conflictos e independencia: fundamentos** ayuda a desafiar? |
-| Michael E. Porter & Mark R. Kramer — *Creating Shared Value* | perspectiva de Estrategia / Impacto aplicada al problema de la clase | ¿Qué supuesto de **deberes, conflictos e independencia: fundamentos** ayuda a desafiar? |
-
-En **deberes, conflictos e independencia: fundamentos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **fiduciary duty**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Tricker | Deberes y responsabilidades del directorio. | No es derecho local. | ¿Qué deber está en juego? |
+| OCDE (2023) | Deberes de diligencia, lealtad y trato equitativo; partes relacionadas. | Principios de alto nivel. | ¿Qué principio ilumina este caso? |
+| Monks y Minow | Poder, independencia y conflictos en el gobierno. | Posición fuerte sobre reforma. | ¿Quién controla a quién? |
+| Cialdini | Mecanismos de influencia: reciprocidad, compromiso, autoridad y otros. | Describe la influencia, no los deberes legales. | ¿Cómo se construyó esta relación? |
+| LeyChile (BCN) | Texto oficial de la normativa de sociedades. | No es asesoría ni interpretación. | ¿Qué versión rige y qué dicen los estatutos? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un director posee 20% de un proveedor que compite por contrato material. Informa el vínculo solo después de participar en la selección y defender la propuesta.
+**Situación (hipotética).** La gerencia propone renovar, por 420 millones de pesos al año, el contrato de servicios de mantenimiento con una empresa cuyo dueño es el cónyuge de la directora D. El contrato actual lleva cuatro años sin licitarse.
 
-**Paso 1 — identificar interés y deber.** La gerencia escribe primero el supuesto asociado a **fiduciary duty** y evita convertirlo en hecho. Luego busca **conflict disclosures** para contrastarlo en el caso de **deberes, conflictos e independencia: fundamentos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Clasificación.** Conflicto **real** para D en esta decisión (el interés económico de su cónyuge); **potencial** para la gerencia (la relación histórica con el proveedor); **percibido** para los empleados y los demás proveedores si no se compara.
 
-**Paso 2 — verificar ley o política aplicable.** La gerencia escribe primero el supuesto asociado a **conflict of interest** y evita convertirlo en hecho. Luego busca **related-party transactions** para contrastarlo en el caso de **deberes, conflictos e independencia: fundamentos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Procedimiento aplicado.**
 
-**Paso 3 — revelar conflicto oportunamente.** La gerencia escribe primero el supuesto asociado a **disclosure** y evita convertirlo en hecho. Luego busca **recusals** para contrastarlo en el caso de **deberes, conflictos e independencia: fundamentos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+1. **Identificar**: D declara por escrito el vínculo antes de la sesión.
+2. **Verificar**: la asesoría legal confirma qué norma y qué estatutos aplican a las operaciones con partes relacionadas y qué aprobaciones se requieren, y la empresa documenta la fuente consultada.
+3. **Revelar**: se incluye en el acta y en el registro de partes relacionadas.
+4. **Recusarse**: D se retira de la sala y no recibe los antecedentes; la decisión la toma el comité de auditoría sin D.
+5. **Comparar con el mercado**: se solicitan tres cotizaciones para el mismo alcance.
 
-**Paso 4 — definir recusal y proceso independiente.** La gerencia escribe primero el supuesto asociado a **recusal** y evita convertirlo en hecho. Luego busca **independent approvals** para contrastarlo en el caso de **deberes, conflictos e independencia: fundamentos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Comparación de ofertas.**
 
-**Paso 5 — documentar fundamento y aprobación.** La gerencia escribe primero el supuesto asociado a **independence** y evita convertirlo en hecho. Luego busca **governance breaches** para contrastarlo en el caso de **deberes, conflictos e independencia: fundamentos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Oferta | Monto anual (millones) | Diferencia con la mejor |
+|---|---|---|
+| Proveedor relacionado | 420 | +60 (+16,7 % sobre 360) |
+| Alternativa 1 | 360 | 0 |
+| Alternativa 2 | 372 | +12 |
+| Alternativa 3 | 395 | +35 |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **deberes, conflictos e independencia: fundamentos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+El promedio de las tres alternativas es (360 + 372 + 395) ÷ 3 ≈ 375,7 millones; el proveedor relacionado está 44,3 millones por encima (420 − 375,7), un 11,8 %.
+
+**Decisión.** El comité solicita al proveedor relacionado que iguale las condiciones de mercado; este ofrece 380 millones con el mismo alcance y mejora de plazos. El comité compara la calidad histórica (indicadores de servicio) y el costo de cambio (transición de 25 millones una sola vez). Costo a tres años: proveedor relacionado a 380 = 1.140 millones; alternativa 1 a 360 más 25 de transición = 1.105 millones. Diferencia: 35 millones a favor de la alternativa 1 (3,1 %). El comité decide contratar con la alternativa 1, con una cláusula de desempeño, y documenta la fundamentación.
+
+**Costo del procedimiento.** Asesoría, cotizaciones y análisis: unos 8 millones, frente a un sobrecosto potencial de 60 millones anuales (180 millones a tres años) si se hubiera renovado sin comparar.
+
+**Política de regalos.** Umbral de 150.000 pesos; prohibición en licitaciones; registro. Una revisión del año muestra 24 regalos o invitaciones declarados, 5 sobre el umbral (20,8 %): 3 se devolvieron y 2 se sortearon con fines benéficos.
+
+**Cuidados.** Los deberes de los directores, las operaciones con partes relacionadas, la definición de independencia y las sanciones se verifican en la ley, los estatutos y con asesoría; las cifras son ilustrativas.
+
+**Qué muestra.** (1) El conflicto se clasificó y se declaró antes de decidir. (2) La comparación con el mercado cuantificó la transferencia posible de valor. (3) La recusación y la documentación protegieron la decisión.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **fiduciary duty** | deber jurídico de actuar conforme al estándar aplicable en interés de la entidad o beneficiarios | Cuando conflict disclosures es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **conflict of interest** | situación donde interés personal puede interferir con deber | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Conflicto frente a incumplimiento.** Tener un conflicto no es una falta; no declararlo o decidir con él sí puede serlo. El objetivo del gobierno es manejarlo, no negarlo.
 
-**Frontera de aplicación:** No memorices reglas universales: deberes, umbrales e independencia tienen definición legal específica. Usa esta clase para issue spotting y verifica legislación o estatutos con asesoría.
+**Límites.** No memorices reglas universales: los deberes, los umbrales y la independencia tienen definiciones legales específicas. Esta clase sirve para detectar y ordenar los temas (*issue spotting*) y debe complementarse con la legislación, los estatutos y asesoría. Los patrones de influencia describen tendencias, no determinismos. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre deberes, conflictos e independencia: fundamentos |
+| Nivel | Cómo maneja conflictos |
 |---|---|
-| **Profesional** | usa **deberes, conflictos e independencia: fundamentos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **fiduciary duty** y **conflict of interest** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta conflict disclosures con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si deberes, conflictos e independencia: fundamentos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de deberes, conflictos e independencia: fundamentos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **deberes, conflictos e independencia: fundamentos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Declara vínculos y rechaza regalos fuera de política. |
+| **Jefe / Team Lead** | Evita decidir sobre personas o proveedores con vínculos. |
+| **Gerente** | Propone compras con comparación y se recusa cuando corresponde. |
+| **CEO / Director** | Declara, se recusa y protege el procedimiento. |
+| **Founder / Owner** | Separa el patrimonio personal del de la empresa y acepta controles. |
 
 ## 🏢 Caso ejecutivo
 
-Un director posee 20% de un proveedor que compite por contrato material. Informa el vínculo solo después de participar en la selección y defender la propuesta.
+Una empresa de energía con 1.500 personas va a licitar un contrato de 18.000 millones de pesos. El presidente del comité de adquisiciones, un director, almorzó con el gerente de uno de los licitantes, que además le regaló una invitación a un evento deportivo (valor aproximado de 400.000 pesos). La gerente de compras es prima del dueño de otro licitante; un tercer licitante contrató, hace dos meses, al hijo del gerente general como asesor; un cuarto ofreció a un director un puesto en su propio directorio tras la licitación. Un director independiente recibe de un competidor llamadas amistosas «sobre el mercado». La empresa no tiene política de regalos ni registro de partes relacionadas. Una denuncia anónima menciona «arreglos». El presidente del directorio quiere «resolverlo discretamente».
 
-Entrega un **decision brief de deberes, conflictos e independencia: fundamentos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **protocolo de conflictos** que contenga: (a) la clasificación de los cinco casos como reales, potenciales o percibidos, con la acción de cada uno; (b) el procedimiento de declaración, recusación, decisión independiente y documentación aplicado a la licitación; (c) las políticas de partes relacionadas y de regalos y hospitalidad, con umbrales y registro; (d) el análisis de mecanismos de influencia presentes y las defensas de diseño; (e) el tratamiento de la denuncia anónima con asesoría; (f) los puntos legales, estatutarios y de independencia a verificar en fuentes oficiales.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **deberes, conflictos e independencia: fundamentos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. identificar interés y deber → 2. verificar ley o política aplicable → 3. revelar conflicto oportunamente → 4. definir recusal y proceso independiente → 5. documentar fundamento y aprobación** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta conflict disclosures, related-party transactions; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
-7. Elige un caso de la tabla histórica y reescribe qué control del directorio habría cambiado el desenlace.
+1. Clasifica cinco situaciones reales de tu entorno como conflicto real, potencial o percibido y propón la acción.
+2. Redacta un formulario de declaración de intereses de una página.
+3. Escribe una política de regalos con umbral, registro y prohibiciones.
+4. Compara un contrato con una parte relacionada con tres cotizaciones y calcula la diferencia.
+5. Describe cómo se podría construir una dependencia con un directivo en seis pasos y qué regla la habría frenado.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar fiduciary duty y conflict of interest como sinónimos | Se pierde la distinción entre “deber jurídico de actuar conforme al estándar aplicable en interés de la entidad o beneficiarios” y “situación donde interés personal puede interferir con deber” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “documentar fundamento y aprobación” | Se saltó “identificar interés y deber” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. identificar interés y deber → 2. verificar ley o política aplicable → 3. revelar conflicto oportunamente → 4. definir recusal y proceso independiente → 5. documentar fundamento y aprobación y marca el primer supuesto no demostrado. |
-| Optimizar solo conflict disclosures | La métrica local sustituyó al resultado del sistema | Contrástala con related-party transactions y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre deberes, conflictos e independencia: fundamentos | No memorices reglas universales: deberes, umbrales e independencia tienen definición legal específica. Usa esta clase para issue spotting y verifica legislación o estatutos con asesoría. |
-| No fijar revisión | Una decisión sobre deberes, conflictos e independencia: fundamentos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Revelar tarde | Se espera que nadie lo note | Declarar antes de la deliberación. |
+| Recusarse sin dejar de influir | Se opina «informalmente» | Salir de la sala y no recibir antecedentes. |
+| Aprobar sin comparar | Se confía en la relación | Cotizaciones y tasaciones independientes. |
+| Regalos «sin importancia» | Se minimiza el efecto | Umbral, registro y prohibiciones. |
+| Confundir independencia formal con de juicio | Se miran los criterios | Cultura de desafío y sesiones ejecutivas. |
+| Resolver «discretamente» | Se teme el escándalo | Procedimiento formal con asesoría. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **fiduciary duty** y **conflict of interest** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **disclosure** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **identificar interés y deber → verificar ley o política aplicable** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **conflict disclosures** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **deberes, conflictos e independencia: fundamentos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No memorices reglas universales: deberes, umbrales e independencia tienen definición legal específica. Usa esta clase para issue spotting y verifica legislación o estatutos con asesoría.**?
+1. ¿Qué deberes generales tiene un director?
+2. ¿Qué diferencia hay entre conflicto real, potencial y percibido?
+3. ¿Qué pasos tiene el procedimiento ante un conflicto?
+4. ¿Qué incluye una política de partes relacionadas?
+5. ¿Qué principios de Cialdini ayudan a entender la construcción de dependencia?
+6. ¿Por qué la independencia formal no basta?
+7. ¿Qué se verifica con asesoría y fuentes oficiales?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Diligencia y cuidado, lealtad, reserva y cumplimiento de la ley y los estatutos.
+2. El real choca con el deber en una decisión concreta; el potencial podría serlo; el percibido es una apariencia que afecta la confianza.
+3. Identificar, verificar la norma, revelar a tiempo, recusarse y documentar.
+4. Definición, registro, comparación con el mercado, aprobación independiente, información y seguimiento.
+5. Reciprocidad, coherencia y compromiso, autoridad, simpatía, prueba social y escasez.
+6. Porque cumplir criterios no garantiza la voluntad ni la capacidad de discrepar.
+7. Los deberes, las operaciones con partes relacionadas, la definición de independencia, los umbrales y las sanciones.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/209-deberes-conflictos-e-independencia-fundamentos/`:
 
-- `risk-governance-brief.md` con el problema específico de **deberes, conflictos e independencia: fundamentos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **deberes, conflictos e independencia: fundamentos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **fiduciary duty**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un director posee 20% de un proveedor que compite por contrato material. Informa el vínculo solo después de participar en la selección y defender la propuesta.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el protocolo del caso ejecutivo;
+- `influence-and-conflict-disclosure-brief.md` (plantilla [Ficha de influencia y declaración de conflictos](../../../../templates/influence-and-conflict-disclosure-brief.md)) con la declaración y el tratamiento de cada caso;
+- `decision-journal.md` con la clasificación, los análisis comparativos y las verificaciones legales pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** separación entre dirección, supervisión, accountability y gobierno corporativo. Lectura selectiva sobre **deberes, conflictos e independencia: fundamentos**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, deberes del directorio y divulgación como referencia de gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Ram Charan — *Boards That Deliver* (John Wiley & Sons, Incorporated, 2007). **Uso en esta clase:** directorios que contribuyen a estrategia, talento, riesgo y sucesión. Lectura selectiva sobre **deberes, conflictos e independencia: fundamentos**. **Localizador:** [ISBN-13 9781118046616](https://openlibrary.org/isbn/9781118046616).
-- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** riesgo integrado con estrategia, desempeño, revisión e información. **Fuente primaria:** <https://www.coso.org/>.
-- Michael E. Porter & Mark R. Kramer — *Creating Shared Value* (Managing Sustainable Business, 2018). **Uso en esta clase:** perspectiva de Estrategia / Impacto aplicada al problema de la clase. Lectura selectiva sobre **deberes, conflictos e independencia: fundamentos**. **Localizador:** [DOI 10.1007/978-94-024-1144-7_16](https://doi.org/10.1007/978-94-024-1144-7_16).
-- Richard Leblanc & James Gillies — *Inside the Boardroom* (John Wiley & Sons, Incorporated, 2009). **Uso en esta clase:** comportamiento efectivo del directorio, composición y dinámica de gobierno. Lectura selectiva sobre **deberes, conflictos e independencia: fundamentos**. **Localizador:** [ISBN-13 9780470739952](https://openlibrary.org/isbn/9780470739952).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **deberes, conflictos e independencia: fundamentos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **deberes, conflictos e independencia: fundamentos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **deberes, conflictos e independencia: fundamentos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **deberes, conflictos e independencia: fundamentos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **deberes, conflictos e independencia: fundamentos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** deberes y responsabilidades del directorio. Lectura selectiva sobre **deberes, conflictos e independencia: fundamentos**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
+- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** deberes de diligencia, lealtad y trato equitativo. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
+- Robert A. G. Monks & Nell Minow — *Corporate Governance* (John Wiley & Sons, Incorporated, 2001). **Uso en esta clase:** poder, independencia y conflictos en el gobierno. Lectura selectiva sobre **deberes, conflictos e independencia: fundamentos**. **Localizador:** [ISBN-13 9781118874899](https://openlibrary.org/isbn/9781118874899).
+- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** mecanismos de influencia y dependencia. Lectura selectiva sobre **deberes, conflictos e independencia: fundamentos**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
+- Biblioteca del Congreso Nacional de Chile — *LeyChile: sociedades anónimas (Ley 18.046) y su reglamento* (1981). **Uso en esta clase:** texto oficial de la normativa chilena de sociedades anónimas. **Fuente primaria:** <https://www.bcn.cl/leychile/>.
 
-> **Regla de fuentes para Deberes, conflictos e independencia: fundamentos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **deberes, conflictos e independencia: fundamentos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Deberes, conflictos e independencia: fundamentos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los deberes de los directores, las operaciones con partes relacionadas y la definición de independencia, que no se interpretan de memoria. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **strategy oversight** de **strategic assumption** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **capital commitment** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **strategic milestone** con **board challenge**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Cuál es el rol del directorio frente a la estrategia?
+2. ¿Qué elementos tiene el núcleo de una buena estrategia según Rumelt?
+3. ¿Para qué sirven los escenarios y las pruebas de estrés?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Management propone entrar a un país nuevo con TAM grande. El board pregunta por forecast de ventas pero no por barreras regulatorias, capabilities locales ni alternativa de partnership.
+**Caso:** Una empresa de educación con 2.700 personas y ventas de 80.000 millones de pesos presenta a su directorio un plan quinquenal con ocho prioridades, inversiones por 14.000 millones y una meta de duplicar las ventas. El plan asume matrícula creciente en un contexto de caída demográfica en dos de sus tres mercados, el lanzamiento de una plataforma en línea sin presupuesto de talento tecnológico, y la compra de dos competidores pequeños cuyos datos no se han revisado. El directorio, de siete miembros, aprobó el plan anterior en 40 minutos y no volvió a verlo. Hoy el 60 % de las metas del plan anterior no se cumplió, y nadie sabe por qué. Los dos directores con experiencia en tecnología creen que el plan «no es creíble»; el presidente quiere aprobarlo para «dar una señal al mercado»; el CEO dice que «los detalles son de gestión».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **revisar diagnóstico y choices → challenge supuestos y escenarios → verificar capital y capabilities → definir milestones y signposts → revisar aprendizaje y reallocation**. Debes utilizar o diseñar cómo obtener **strategic milestone, assumption status, capital deployment**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega una **revisión estratégica del directorio** que contenga: (a) las preguntas sobre diagnóstico, elecciones y renuncias; (b) los diez supuestos críticos con su evidencia y la prueba de escenarios; (c) la verificación de capital, financiamiento y capacidades, con pruebas de estrés; (d) los hitos, las señales de alerta y los umbrales de revisión; (e) el mecanismo de aprendizaje y reasignación y el acuerdo con el CEO sobre el rol del directorio; (f) las condiciones con que se aprobaría y las verificaciones contractuales y legales. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **El board puede sobrepasar su rol si convierte challenge en diseño operativo. Formula preguntas y límites; deja al CEO accountable por ejecución y opciones detalladas.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: El directorio puede sobrepasar su rol si convierte el desafío en diseño operativo; formula preguntas y límites y deja al CEO responsable de la ejecución y de las opciones detalladas.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

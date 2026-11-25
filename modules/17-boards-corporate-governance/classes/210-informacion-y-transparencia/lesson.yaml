@@ -5,28 +5,27 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir materiality de disclosure mediante evidencia observable."
-  - "Aplicar la secuencia: definir audiencia y materialidad → seleccionar KPI y riesgos → explicar variaciones y supuestos → asegurar consistencia y controles → publicar o escalar según obligación."
-  - "Interpretar report timeliness, restatements, material surprises sin atribuir causalidad automática."
-  - "Resolver el caso de información y transparencia con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Definir audiencias y criterios de materialidad para decidir qué informar."
+  - "Seleccionar indicadores y riesgos con definiciones únicas y comparables."
+  - "Explicar variaciones y supuestos con una narrativa causal."
+  - "Asegurar consistencia y controles sobre la información."
+  - "Decidir cuándo publicar o escalar según obligaciones y límites legítimos."
 deliverable: "risk-governance-brief.md"
 references:
-  - "Bob Tricker — *Corporate Governance*"
   - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
+  - "Bob Tricker — *Corporate Governance*"
   - "Robert A. G. Monks & Nell Minow — *Corporate Governance*"
-  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
-  - "Paul Polman & Andrew Winston — *Net Positive*"
-  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
+  - "COSO — *Internal Control - Integrated Framework*"
+  - "Comisión para el Mercado Financiero — *Portal oficial de la CMF de Chile*"
 limits:
-  - "La transparencia tiene límites legítimos de confidencialidad, privilegio y competitividad. El objetivo es no ocultar lo material a quien debe decidir, no publicar todo."
+  - "La transparencia tiene límites legítimos de confidencialidad, privilegio y competitividad; el objetivo no es publicar todo."
 evidence_signals:
-  - "report timeliness"
-  - "restatements"
-  - "material surprises"
-  - "forecast accuracy"
-  - "disclosure exceptions"
+  - "audiencias y materialidad definidas"
+  - "indicadores con definición única"
+  - "variaciones explicadas con causas"
+  - "protocolo de divulgación y escalamiento"

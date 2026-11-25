@@ -5,31 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir fiduciary duty de conflict of interest mediante evidencia observable."
-  - "Aplicar la secuencia: identificar interés y deber → verificar ley o política aplicable → revelar conflicto oportunamente → definir recusal y proceso independiente → documentar fundamento y aprobación."
-  - "Interpretar conflict disclosures, related-party transactions, recusals sin atribuir causalidad automática."
-  - "Resolver el caso de deberes, conflictos e independencia: fundamentos con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-  - "Clasificar conflictos reales, potenciales y percibidos y extraer el mecanismo de gobierno de casos históricos de influencia."
+  - "Identificar los deberes generales de un director e identificar cuándo consultar la norma."
+  - "Clasificar conflictos como reales, potenciales y percibidos."
+  - "Aplicar un procedimiento de declaración, recusación y decisión independiente."
+  - "Reconocer mecanismos de influencia que generan dependencia."
+  - "Diseñar políticas de partes relacionadas, regalos y acceso a información."
 deliverable: "risk-governance-brief.md"
 references:
   - "Bob Tricker — *Corporate Governance*"
   - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
-  - "Ram Charan — *Boards That Deliver*"
-  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
-  - "Michael E. Porter & Mark R. Kramer — *Creating Shared Value*"
-  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, deberes del directorio y divulgación como referencia de gobierno. Fuente primaria: <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>."
+  - "Robert A. G. Monks & Nell Minow — *Corporate Governance*"
+  - "Robert B. Cialdini — *Influence*"
+  - "Biblioteca del Congreso Nacional de Chile — *LeyChile: sociedades anónimas (Ley 18.046) y su reglamento*"
 limits:
-  - "No memorices reglas universales: deberes, umbrales e independencia tienen definición legal específica. Usa esta clase para issue spotting y verifica legislación o estatutos con asesoría."
+  - "No memorices reglas universales: los deberes, los umbrales y la independencia tienen definiciones legales específicas."
 evidence_signals:
-  - "conflict disclosures"
-  - "related-party transactions"
-  - "recusals"
-  - "independent approvals"
-  - "governance breaches"
-  - "conflict classification"
-  - "abstention record"
+  - "conflictos clasificados"
+  - "procedimiento de recusación aplicado"
+  - "partes relacionadas comparadas con el mercado"
+  - "mecanismos de influencia reconocidos"

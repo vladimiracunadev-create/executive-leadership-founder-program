@@ -1,79 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 648.48" width="1040" role="img" aria-labelledby="t-g209 d-g209" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g209">Ficha visual de la clase 209: Deberes, conflictos e independencia: fundamentos</title>
-<desc id="d-g209">Conceptos: fiduciary duty; conflict of interest; disclosure; recusal; independence. Método: identificar interés y deber → verificar ley o política aplicable → revelar conflicto oportunamente → definir recusal y proceso independiente → documentar fundamento y aprobación.</desc>
-<defs><marker id="p-g209" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="648.48" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 209 · Deberes, conflictos e independencia: fundamentos</text>
-<text x="1012" y="43" font-size="11" font-weight="400" fill="#59636e" text-anchor="end" >Parte 17 · Alta dirección y gobierno</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#cf222e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >fiduciary duty</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >deber jurídico de actuar conforme al estándar aplicable</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >en interés de la entidad o beneficiarios</text>
-<circle cx="38" cy="184.12" r="5" fill="#cf222e"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >conflict of interest</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >situación donde interés personal puede interferir con</text>
-<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >deber</text>
-<circle cx="38" cy="256.24" r="5" fill="#cf222e"/>
-<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >disclosure</text>
-<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >revelación suficiente del conflicto relevante</text>
-<circle cx="38" cy="314.24" r="5" fill="#cf222e"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >recusal</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >abstención de participar en una decisión cuando</text>
-<text x="54" y="353.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >corresponde</text>
-<circle cx="38" cy="386.36" r="5" fill="#cf222e"/>
-<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >independence</text>
-<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad de juicio no comprometida por vínculos</text>
-<text x="54" y="425.92" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >materiales</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<rect x="470" y="336" width="6" height="52" rx="3" fill="#cf222e"/>
-<text x="486" y="356" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >1</text>
-<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >identificar interés y deber</text>
-<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<rect x="532" y="278" width="6" height="52" rx="3" fill="#cf222e"/>
-<text x="548" y="298" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >2</text>
-<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >verificar ley o política aplicable</text>
-<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<rect x="594" y="220" width="6" height="52" rx="3" fill="#cf222e"/>
-<text x="610" y="240" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >3</text>
-<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >revelar conflicto oportunamente</text>
-<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<rect x="656" y="162" width="6" height="52" rx="3" fill="#cf222e"/>
-<text x="672" y="182" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >4</text>
-<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >definir recusal y proceso</text>
-<text x="690" y="199.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >independiente</text>
-<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<rect x="718" y="104" width="6" height="52" rx="3" fill="#cf222e"/>
-<text x="734" y="124" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >5</text>
-<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >documentar fundamento y aprobación</text>
-<text x="28" y="472.48" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="484.48" width="164" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="41" cy="497.48" r="3.5" fill="#cf222e"/>
-<text x="52" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >conflict disclosures</text>
-<rect x="202" y="484.48" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="215" cy="497.48" r="3.5" fill="#cf222e"/>
-<text x="226" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >related-party transactions</text>
-<rect x="417.4" y="484.48" width="81.2" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="430.4" cy="497.48" r="3.5" fill="#cf222e"/>
-<text x="441.4" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >recusals</text>
-<rect x="508.6" y="484.48" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="521.6" cy="497.48" r="3.5" fill="#cf222e"/>
-<text x="532.6" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >independent approvals</text>
-<rect x="689.5" y="484.48" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="702.5" cy="497.48" r="3.5" fill="#cf222e"/>
-<text x="713.5" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >governance breaches</text>
-<rect x="28" y="516.48" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="41" cy="529.48" r="3.5" fill="#cf222e"/>
-<text x="52" y="533.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >conflict classification</text>
-<rect x="222.7" y="516.48" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="235.7" cy="529.48" r="3.5" fill="#cf222e"/>
-<text x="246.7" y="533.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >abstention record</text>
-<rect x="28" y="562.48" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="562.48" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="582.48" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="600.48" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No memorices reglas universales: deberes, umbrales e independencia tienen definición legal específica. Usa esta clase para issue</text>
-<text x="48" y="617.73" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >spotting y verifica legislación o estatutos con asesoría.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 488.06" width="1040" role="img" aria-labelledby="t-s209 d-s209" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s209">Clase 209 · Qué hacer ante un conflicto de interés</title>
+<desc id="d-s209">Cinco pasos ante un posible conflicto: identificar el interés, verificar la norma, revelar, recusarse y documentar.</desc>
+<defs><marker id="p-s209" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="488.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 209 · Qué hacer ante un conflicto de interés</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Tricker · OCDE (2023) · Cialdini</text>
+<rect x="28" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<circle cx="52.0" cy="122.0" r="13" fill="#0969da"/>
+<text x="52" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Identificar</text>
+<text x="44" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Qué interés propio o de un</text>
+<text x="44" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >tercero hay.</text>
+<path d="M260.5,144.25 L276.5,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s209)"/>
+<rect x="279.5" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<circle cx="303.5" cy="122.0" r="13" fill="#1a7f37"/>
+<text x="303.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Verificar</text>
+<text x="295.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Ley, estatutos y política</text>
+<text x="295.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >aplicables.</text>
+<path d="M512,144.25 L528,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s209)"/>
+<rect x="531" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<circle cx="555.0" cy="122.0" r="13" fill="#bc4c00"/>
+<text x="555" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Revelar a tiempo</text>
+<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Antes de que se delibere o</text>
+<text x="547" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >decida.</text>
+<path d="M763.5,144.25 L779.5,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s209)"/>
+<rect x="782.5" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<circle cx="806.5" cy="122.0" r="13" fill="#8250df"/>
+<text x="806.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Recusarse</text>
+<text x="798.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Proceso independiente de</text>
+<text x="798.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >decisión.</text>
+<path d="M897.25,194.5 V206.5 H142.75 V224.5" stroke="#59636e" stroke-width="2" fill="none" marker-end="url(#p-s209)"/>
+<rect x="28" y="226.5" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<circle cx="52.0" cy="252.5" r="13" fill="#cf222e"/>
+<text x="52" y="257.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="72" y="250.5" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Documentar</text>
+<text x="44" y="282.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Fundamento, aprobación y</text>
+<text x="44" y="299.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >seguimiento.</text>
+<path d="M142.75,325.0 V345.0 H142.75 V196.5" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="7 6" marker-end="url(#p-s209)"/>
+<text x="142.75" y="339" font-size="11.5" font-weight="600" fill="#59636e" text-anchor="middle" >el caso mejora la política</text>
+<rect x="28" y="361" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="383" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Los conflictos pueden ser reales, potenciales o percibidos; el deber es reconocerlos y manejarlos antes de que afecten la decisión o la</text>
+<text x="44" y="400.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >confianza.</text>
+<text x="28" y="447.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Los deberes, los umbrales y la definición de independencia son legales y específicos: se verifican con asesoría, no de memoria.</text>
 </svg>

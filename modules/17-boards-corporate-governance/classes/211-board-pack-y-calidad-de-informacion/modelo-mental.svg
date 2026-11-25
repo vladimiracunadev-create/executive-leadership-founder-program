@@ -1,66 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g211 d-g211" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g211">Ficha visual de la clase 211: Board pack y calidad de información</title>
-<desc id="d-g211">Conceptos: board pack; pre-read; variance; decision paper; board action log. Método: partir de preguntas del board → seleccionar información material → explicar variancias y drivers → separar decisiones de updates → distribuir temprano y cerrar action log.</desc>
-<defs><marker id="p-g211" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 211 · Board pack y calidad de información</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 17 · Alta dirección y gobierno</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#cf222e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >board pack</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >paquete periódico de información para supervisión y</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >decisión</text>
-<circle cx="38" cy="184.12" r="5" fill="#cf222e"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >pre-read</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >documento distribuido antes de reunión para preparar</text>
-<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >challenge</text>
-<circle cx="38" cy="256.24" r="5" fill="#cf222e"/>
-<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >variance</text>
-<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >desviación entre plan y resultado con explicación</text>
-<circle cx="38" cy="314.24" r="5" fill="#cf222e"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >decision paper</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >documento que presenta una decisión requerida y</text>
-<text x="54" y="353.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >alternativas</text>
-<circle cx="38" cy="386.36" r="5" fill="#cf222e"/>
-<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >board action log</text>
-<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >registro de acuerdos responsables y seguimiento</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >partir de preguntas del board</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >seleccionar información material</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >explicar variancias y drivers</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >separar decisiones de updates</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >distribuir temprano y cerrar action log</text>
-<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="470.36" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="41" cy="483.36" r="3.5" fill="#cf222e"/>
-<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >pack delivery lead time</text>
-<rect x="222.7" y="470.36" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="235.7" cy="483.36" r="3.5" fill="#cf222e"/>
-<text x="246.7" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >pages per decision</text>
-<rect x="382.9" y="470.36" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="395.9" cy="483.36" r="3.5" fill="#cf222e"/>
-<text x="406.9" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >action closure</text>
-<rect x="515.5" y="470.36" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="528.5" cy="483.36" r="3.5" fill="#cf222e"/>
-<text x="539.5" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >forecast variance</text>
-<rect x="668.8" y="470.36" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="681.8" cy="483.36" r="3.5" fill="#cf222e"/>
-<text x="692.8" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >board questions</text>
-<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Reducir páginas no basta; un pack breve puede omitir riesgos. La calidad depende de materialidad, comparabilidad y narrativa causal,</text>
-<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >no solo longitud.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 402.06" width="1040" role="img" aria-labelledby="t-s211 d-s211" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s211">Clase 211 · Un pack de directorio que sirve para decidir</title>
+<desc id="d-s211">Tres funciones de un buen paquete de información para el directorio: decidir, entender y dar seguimiento.</desc>
+<defs><marker id="p-s211" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="402.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 211 · Un pack de directorio que sirve para decidir</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Charan · Monks &amp; Minow · Kaplan &amp; Norton</text>
+<rect x="28" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M28.0,136 V108 a12,12 0 0 1 12,-12 H330.6666666666667 a12,12 0 0 1 12,12 V136 Z" fill="#0969da"/>
+<text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Decidir</text>
+<circle cx="50.0" cy="154" r="4" fill="#0969da"/>
+<text x="64" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Decisiones pedidas al comienzo.</text>
+<circle cx="50.0" cy="181.25" r="4" fill="#0969da"/>
+<text x="64" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Alternativas, recomendación y</text>
+<text x="64" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >riesgos.</text>
+<circle cx="50.0" cy="225.75" r="4" fill="#0969da"/>
+<text x="64" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Separadas de las actualizaciones.</text>
+<rect x="362.667" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<path d="M362.6666666666667,136 V108 a12,12 0 0 1 12,-12 H665.3333333333334 a12,12 0 0 1 12,12 V136 Z" fill="#1a7f37"/>
+<text x="378.667" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Entender</text>
+<circle cx="384.6666666666667" cy="154" r="4" fill="#1a7f37"/>
+<text x="398.667" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Resultados frente a plan y a años</text>
+<text x="398.667" y="175.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >anteriores.</text>
+<circle cx="384.6666666666667" cy="198.5" r="4" fill="#1a7f37"/>
+<text x="398.667" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Causas de las variaciones.</text>
+<circle cx="384.6666666666667" cy="225.75" r="4" fill="#1a7f37"/>
+<text x="398.667" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Indicadores comparables y definidos.</text>
+<rect x="697.333" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M697.3333333333334,136 V108 a12,12 0 0 1 12,-12 H1000.0 a12,12 0 0 1 12,12 V136 Z" fill="#bc4c00"/>
+<text x="713.333" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Dar seguimiento</text>
+<circle cx="719.3333333333334" cy="154" r="4" fill="#bc4c00"/>
+<text x="733.333" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Acuerdos y responsables.</text>
+<circle cx="719.3333333333334" cy="181.25" r="4" fill="#bc4c00"/>
+<text x="733.333" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Lista de acciones con fechas.</text>
+<circle cx="719.3333333333334" cy="208.5" r="4" fill="#bc4c00"/>
+<text x="733.333" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Envío con antelación suficiente.</text>
+<rect x="28" y="275" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="297" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Reducir páginas no basta: un pack breve puede omitir riesgos. La calidad depende de la materialidad, la comparabilidad y una narrativa</text>
+<text x="44" y="314.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >causal.</text>
+<text x="28" y="361.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >El pack parte de las preguntas del directorio, no de lo que cada área quiere mostrar.</text>
 </svg>

@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **board pack** de **pre-read** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **variance** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **decision paper** con **board action log**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué tres funciones cumple un pack?
+2. ¿Por qué se diseña a partir de las preguntas del directorio?
+3. ¿Qué estructura recomendada tiene un pack?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** El CFO envía 230 páginas a las 22:00 del día previo. La primera hora de board se usa para explicar tablas y la adquisición queda 15 minutos al final.
+**Caso:** Una empresa de transporte con 3.100 personas entrega a su directorio de siete personas un pack de 180 páginas, siempre un día antes de la sesión. Contiene 12 informes de áreas con distinto formato, un balance de 40 páginas sin comparación con el año anterior, y las decisiones al final. Los indicadores cambian cada mes: «puntualidad» se mide por salida en un informe y por llegada en otro. Una pérdida de un cliente que representa el 9 % de los ingresos aparece en una nota al pie de la página 134. El presidente dice que «nadie lee los packs»; la gerencia, que «hay que mostrar todo para que no digan que ocultamos». En la última sesión se aprobó una inversión de 5.200 millones de pesos tras una presentación de 10 minutos. Un director propone «contratar un consultor para que haga un pack bonito».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **partir de preguntas del board → seleccionar información material → explicar variancias y drivers → separar decisiones de updates → distribuir temprano y cerrar action log**. Debes utilizar o diseñar cómo obtener **pack delivery lead time, pages per decision, action closure**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **rediseño del pack** que contenga: (a) las preguntas que debe responder el directorio y la agenda de una sesión modelo; (b) la estructura del pack con cuerpo principal y anexos, y qué se elimina; (c) el diccionario de indicadores y la narrativa de variaciones con un ejemplo; (d) el formato de documento de decisión y la regla de lectura anticipada; (e) la distribución, la confidencialidad y el registro de acuerdos; (f) los indicadores de calidad, el plan de medición y las verificaciones legales sobre información confidencial. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Reducir páginas no basta; un pack breve puede omitir riesgos. La calidad depende de materialidad, comparabilidad y narrativa causal, no solo longitud.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Reducir páginas no basta: un pack breve puede omitir riesgos.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

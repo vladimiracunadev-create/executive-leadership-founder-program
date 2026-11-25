@@ -10,238 +10,199 @@
 
 ## 🎯 Propósito
 
-Supervisar riesgo y controles significa comprender top risks, apetito, exposición residual, controles críticos y assurance. El board necesita tendencias y escenarios, no una lista exhaustiva; también debe verificar que cultura e incentivos no contradigan el framework.
+Después de una crisis, la pregunta que se le hace al directorio siempre es la misma: ¿qué sabía y qué hizo? Nadie espera que un grupo de personas que se reúne ocho veces al año evite todas las fallas. Se espera algo más preciso: que haya **entendido los riesgos principales**, que haya fijado **cuánto riesgo aceptaba**, que haya preguntado por los **controles críticos**, que haya recibido **aseguramiento independiente** de que funcionaban y que haya **exigido acciones** cuando no lo hacían. La supervisión del riesgo no es una lista de verificación ni un informe trimestral: es una conversación informada, repetida, con registro, entre un directorio que pregunta y una gerencia que responde con datos.
 
-La salida de esta parte es **separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **supervisión de riesgo y controles** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase conecta lo aprendido en la parte 15 (riesgos, apetito, controles, ciberseguridad, cumplimiento) con el rol del directorio. Se apoya en el marco COSO de gestión de riesgos, en el marco de ciberseguridad del NIST (que incluye la función de gobierno), en la visión de Anderson sobre la ingeniería de seguridad y las amenazas internas, en Charan sobre el trabajo del directorio y en los principios de influencia de Cialdini, para incorporar una dimensión que suele ignorarse: la **protección ejecutiva defensiva** frente a la influencia indebida y la fuga de información, sin invadir la vida privada de las personas. Al terminar sabrás alinear el apetito con la estrategia, elegir los riesgos y controles que merecen atención del directorio, pedir aseguramiento independiente y seguir las brechas hasta su cierre.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `risk oversight`, `critical control`, `assurance`, `KRI`, `three lines` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. alinear risk appetite con estrategia → 2. seleccionar top risks y scenarios → 3. identificar critical controls → 4. obtener assurance independiente → 5. seguir breaches y remediation** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** KRI trend, control effectiveness, audit findings sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
-7. **Aplicar** contrainteligencia ejecutiva defensiva: reconocer señales de influencia, diseñar acceso y declaración, sin vigilar la vida privada.
+1. **Alinear** el apetito de riesgo con la estrategia y los límites aprobados.
+2. **Seleccionar** los riesgos principales y los controles críticos que el directorio debe vigilar.
+3. **Exigir** aseguramiento independiente y evaluar su calidad.
+4. **Seguir** brechas, excesos y remediaciones hasta su cierre.
+5. **Diseñar** medidas defensivas frente a la influencia indebida, el acceso a información y las amenazas internas, sin vigilar la vida privada.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define risk oversight y critical control sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con KRI trend y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué tres riesgos preocupan hoy al directorio de tu empresa y qué evidencia tiene de que están controlados? |
+| 20–60 min | Apetito, riesgos principales, controles críticos, aseguramiento, remediación y protección ejecutiva. |
+| 60–105 min | Ejemplo trabajado: tablero de riesgos, controles probados y acceso a información sensible. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **risk oversight** | responsabilidad del board de supervisar exposiciones materiales y framework | Distingue un hecho compatible y otro que lo refute. |
-| **critical control** | control cuya falla podría producir impacto material | Distingue un hecho compatible y otro que lo refute. |
-| **assurance** | grado de confianza obtenido mediante evaluación independiente o evidencia | Distingue un hecho compatible y otro que lo refute. |
-| **KRI** | indicador adelantado de exposición | Distingue un hecho compatible y otro que lo refute. |
-| **three lines** | modelo de responsabilidades entre management funciones de riesgo compliance y auditoría interna | Distingue un hecho compatible y otro que lo refute. |
+| **Supervisión de riesgos** | Revisión por el directorio del apetito, los riesgos principales y los controles. | Preguntas, informes y seguimiento con registro. |
+| **Control crítico** | Control cuya falla permitiría que un riesgo mayor se materialice. | Está asociado a un riesgo principal. |
+| **Aseguramiento independiente** | Evaluación de los controles por alguien ajeno a quien los opera. | Auditoría interna o externa, pruebas de terceros. |
+| **Línea de defensa** | Capa de responsabilidad en la gestión del riesgo. | Operación, funciones de control, auditoría. |
+| **Necesidad de saber (*need to know*)** | Acceso a información solo para quien lo requiere. | Listas de acceso con justificación. |
+| **Influencia indebida** | Intento de condicionar decisiones mediante favores, presión o engaño. | Regalos, solicitudes fuera de rol, secretos compartidos. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 213: 1. alinear risk appetite con estrategia → 2. seleccionar top risks y scenarios → 3. identificar critical controls → 4. obtener assurance independiente → 5. seguir breaches y remediation](modelo-mental.svg)
+![Supervisar riesgos sin gestionarlos: apetito y riesgos principales, controles críticos y aseguramiento independiente.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. alinear risk appetite con estrategia → 2. seleccionar top risks y scenarios → 3. identificar critical controls → 4. obtener assurance independiente → 5. seguir breaches y remediation
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Supervisar riesgo y controles significa comprender top risks, apetito, exposición residual, controles críticos y assurance. El board necesita tendencias y escenarios, no una lista exhaustiva; también debe verificar que cultura e incentivos no contradigan el framework.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El board no puede garantizar ausencia de fallas. Su estándar es supervisión razonable y evidencia de governance, no certificar controles técnicos individuales.**
+**Cómo leer el diagrama.** Tres columnas. **Apetito y riesgos principales**: apetito alineado con la estrategia, pocos riesgos y escenarios clave, límites e indicadores aprobados. **Controles críticos**: los controles de los riesgos mayores, fallas, excesos y remediación, y señales de influencia y de acceso indebido. **Aseguramiento independiente**: auditoría interna y externa, pruebas y revisiones de terceros, informe directo al directorio. La nota dice que el directorio no puede garantizar la ausencia de fallas y que su estándar es una supervisión razonable, con evidencia de que preguntó, recibió información y exigió acciones; el pie, que proteger de la influencia indebida no implica vigilar la vida privada.
 
 ## 📖 Desarrollo
 
-### 1. risk oversight: mecanismo central
+### 1. Qué se espera del directorio en riesgos
 
-**risk oversight** se entiende aquí como **responsabilidad del board de supervisar exposiciones materiales y framework**. Esta es la pieza causal o estructural desde la que se inicia **supervisión de riesgo y controles**: antes de alinear risk appetite con estrategia, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+El marco COSO de gestión de riesgos empresariales asigna al directorio la **supervisión** del riesgo en relación con la estrategia: entender el perfil de riesgo, fijar el apetito, exigir que la gerencia gestione con un proceso y que se informe con regularidad. Los principios de gobierno de la OCDE incluyen entre las funciones del directorio la revisión y orientación de la **política de riesgos** y el aseguramiento de la integridad de los sistemas de control. El estándar práctico es el de una **supervisión razonable**: no se exige que el directorio garantice la ausencia de fallas ni que revise controles técnicos uno por uno, sino que **demuestre**, con actas e informes, que identificó los riesgos principales, pidió información adecuada, discutió, y actuó cuando hubo señales de problemas. Los deberes legales precisos y las exigencias de los reguladores dependen de la jurisdicción y del sector y se verifican en fuente oficial.
 
-La lectura rectora de este bloque es Bob Tricker — *Corporate Governance*. Su aporte se usa para examinar **separación entre dirección, supervisión, accountability y gobierno corporativo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **KRI trend**; regístrala con periodo, unidad, población y baseline.
+### 2. Apetito y riesgos principales
 
-Relaciona el mecanismo con **critical control**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El directorio **aprueba el apetito** (clase 182) y lo contrasta con la estrategia: ¿el plan exige más riesgo del que estamos dispuestos a asumir?, ¿hay límites claros y medibles?, ¿quién es el dueño de cada uno? De allí surge la **lista corta de riesgos principales** (cinco a diez), cada uno descrito como **escenario** con probabilidad, impacto, exposición residual y tendencia (clase 181). Se agregan los riesgos de **cola** y las **interdependencias**. Esta lista es el centro de la conversación: si la gerencia presenta 80 riesgos con colores, el directorio no puede supervisar; si presenta 8 con escenarios, dueños y señales, sí. Los riesgos de **cumplimiento, de datos, de ciberseguridad y de IA** entran en esa lista cuando sean materiales (clases 186 a 189).
 
-### 2. critical control: frontera conceptual y error de clasificación
+### 3. Controles críticos
 
-**Definición operacional:** control cuya falla podría producir impacto material. Su valor está en distinguirlo de **risk oversight** y **assurance**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Para cada riesgo principal se identifican los **controles críticos**: aquellos cuya falla permitiría que el riesgo se materialice con consecuencias graves. Ejemplos: la autenticación multifactor y los respaldos probados para un riesgo de ransomware; la segregación de funciones en pagos para un riesgo de fraude; el control de calidad de un lote para un riesgo de seguridad de producto. El directorio no revisa todos los controles, pero pregunta por los críticos: ¿quién es el dueño?, ¿cómo se prueba que funcionan?, ¿cuándo fue la última prueba y su resultado?, ¿hay fallas pendientes? (clase 183). Anderson observa que muchas fallas de seguridad no son técnicas sino de **incentivos y diseño**: controles que nadie quiere operar, accesos acumulados o procesos que se saltan por presión de tiempo; esas son las preguntas que el directorio puede y debe hacer.
 
-Contrasta el problema con OECD — *G20/OECD Principles of Corporate Governance 2023*, que aporta una mirada sobre **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno**. Formula dos mini-casos: uno que sí satisface la definición de **critical control** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **control effectiveness** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Aseguramiento independiente
 
-Antes de seleccionar top risks y scenarios, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La gerencia informa sobre los controles que ella misma opera; por eso el directorio necesita una **segunda mirada**: la **auditoría interna** (con reporte funcional al comité de auditoría), la **auditoría externa**, pruebas **independientes** (por ejemplo, pruebas de intrusión de ciberseguridad), revisiones de **terceros especializados** y, en sectores regulados, inspecciones de la autoridad. En el modelo de tres líneas, la primera línea (gerencia operativa) es dueña de los riesgos; la segunda (riesgos, cumplimiento, seguridad) supervisa y desafía; la tercera (auditoría interna) aporta aseguramiento independiente al directorio. Se evalúa la **calidad del aseguramiento**: alcance, independencia, competencia, hallazgos y seguimiento; un auditor sin acceso directo al comité o con presupuesto controlado por la gerencia pierde independencia. El directorio se reúne con ellos **sin la gerencia** (clase 208).
 
-### 3. assurance: operacionalización y medición
+### 5. Brechas, excesos y remediación
 
-**assurance** significa **grado de confianza obtenido mediante evaluación independiente o evidencia**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Los informes de riesgos deben mostrar con transparencia: **brechas** (controles con falla o sin dueño), **excesos** de límites aprobados, **incidentes** materiales y **acciones de remediación** con responsables y fechas. Se siguen hasta su **cierre**, con un indicador de **envejecimiento** (cuántas brechas llevan más de 90 días abiertas) y con **escalamiento** de las críticas. Una señal de alarma es el hallazgo que reaparece de un año a otro, o la brecha que se reclasifica a menor gravedad sin justificación. El directorio pregunta por qué ocurrió (causa raíz) y no solo qué se corrigió, y verifica que las lecciones se incorporen al mapa de riesgos (clase 190).
 
-Robert A. G. Monks & Nell Minow — *Corporate Governance* orienta este bloque mediante **perspectiva de Gobierno corporativo aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **audit findings**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Protección ejecutiva defensiva: influencia indebida e información
 
-Al llegar a identificar critical controls, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Los directores y ejecutivos manejan información de alto valor (fusiones, resultados, litigios, estrategia, datos de clientes) y toman decisiones que benefician o perjudican a terceros; por eso son objetivos de **influencia indebida**: regalos, hospitalidad, favores, amistad instrumental, presión, halagos o engaño para obtener información o decisiones. Cialdini describe principios (reciprocidad, compromiso, simpatía, autoridad, escasez, prueba social) que facilitan esa influencia, y Anderson explica que las **amenazas internas** (por intención o descuido) son una de las fuentes principales de incidentes de seguridad. Una protección defensiva y proporcionada incluye: **declaración** de ofrecimientos y contactos inusuales; **canal** para consultar sin temor; **política de regalos y hospitalidad** (clase 209); **acceso por necesidad de saber** a información sensible, con listas, registro y caducidad; **capacitación** con casos; **controles técnicos** sobre datos críticos; y **protocolos** para viajes y reuniones con terceros sensibles.
 
-### 4. KRI: trade-offs y efectos de segundo orden
+### 7. Los límites: no vigilar la vida privada
 
-**Definición:** indicador adelantado de exposición. Este concepto obliga a abandonar la idea de que **supervisión de riesgo y controles** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de obtener assurance independiente, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Michael E. Porter & Mark R. Kramer — *Creating Shared Value* aporta una lente sobre **perspectiva de Estrategia / Impacto aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **risk appetite breaches** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **supervisión de riesgo y controles**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **KRI** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. three lines: gobernanza, límites e integración
-
-**three lines** se define como **modelo de responsabilidades entre management funciones de riesgo compliance y auditoría interna** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* se utiliza para estudiar **responsabilidad gerencial, propósito, organización y resultados** y contrastar la recomendación final. Al ejecutar seguir breaches y remediation, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **El board no puede garantizar ausencia de fallas. Su estándar es supervisión razonable y evidencia de governance, no certificar controles técnicos individuales.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **risk oversight**, **critical control**, **assurance**, **KRI** y **three lines** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **supervisión de riesgo y controles** no consiste en sumar cinco definiciones. Empieza por **risk oversight**, contrasta **critical control** con **assurance**, incorpora **KRI** como restricción o mecanismo y usa **three lines** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. alinear risk appetite con estrategia → 2. seleccionar top risks y scenarios → 3. identificar critical controls → 4. obtener assurance independiente → 5. seguir breaches y remediation**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Riesgos asociados a personas clave: contrainteligencia ejecutiva defensiva
-
-La **contrainteligencia ejecutiva** aquí no es vigilancia: es el conjunto de prácticas con que una organización reduce la probabilidad y el impacto de que alguien con acceso sea objeto de influencia indebida. El recurso central es la **cultura de declaración** y el **diseño de acceso**, no el seguimiento de las personas.
-
-| Término | Definición operacional |
-|---|---|
-| **HUMINT** | Información obtenida de y a través de personas, en oposición a señales o documentos. Para un ejecutivo, es el modo de aproximación que explota relaciones. |
-| **Honey trap** | Aproximación en la que la intimidad o la atracción se usan como instrumento para obtener acceso, información o ventaja. |
-| **Kompromat** | Material comprometedor, real o fabricado, retenido para presionar a alguien. |
-| **Intermediario** | Tercero que sirve de puente para evitar que el interés real aparezca. |
-| **MICE** | Marco clásico de motivaciones de captación: dinero, ideología, compromiso o coerción, ego. |
-| **Persona clave** | Quien concentra acceso, autoridad o conocimiento cuya pérdida o compromiso afecta a la organización. |
-
-**Señales para consultar, no para acusar:** interés intenso y desproporcionado por información que no necesita; solicitudes de acceso fuera de canal; regalos o favores fuera de escala; presión para decidir rápido; petición de reserva o secreto; aislamiento del entorno de asesores; intermediarios que reaparecen. **Medidas de protección:** confidencialidad profesional por clasificación; separación de roles; viajes y negociaciones con protocolos (dispositivos, reuniones con más de una persona, informe posterior); canales de declaración; revisión del directorio sobre dependencia de personas clave; asesoramiento independiente.
-
-Principio rector: el riesgo se gestiona con **diseño, declaración y verificación proporcional**; la vida privada de las personas no es materia de investigación salvo que genere un riesgo concreto para el cargo y con proceso formal.
+La protección defensiva **no consiste en espiar** a directores o empleados. Debe respetar la **privacidad**, la **dignidad** y las normas de protección de datos y laborales (clase 186): se informa a las personas qué se registra y por qué; se limita a los **sistemas, datos y decisiones de la empresa**; se evita el perfilamiento de la vida personal, política o familiar; y se involucra a asesoría legal y de personas antes de implementar controles. Su foco son las **señales de conducta en el trabajo** (accesos inusuales, solicitudes fuera de rol, incumplimientos de reglas) y no la condición personal de nadie. Se mide el efecto en la confianza: una política percibida como persecución debilita la cultura que se busca proteger.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Bob Tricker — *Corporate Governance* | separación entre dirección, supervisión, accountability y gobierno corporativo | ¿Qué supuesto de **supervisión de riesgo y controles** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **supervisión de riesgo y controles** ayuda a desafiar? |
-| Robert A. G. Monks & Nell Minow — *Corporate Governance* | perspectiva de Gobierno corporativo aplicada al problema de la clase | ¿Qué supuesto de **supervisión de riesgo y controles** ayuda a desafiar? |
-| Michael E. Porter & Mark R. Kramer — *Creating Shared Value* | perspectiva de Estrategia / Impacto aplicada al problema de la clase | ¿Qué supuesto de **supervisión de riesgo y controles** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **supervisión de riesgo y controles** ayuda a desafiar? |
-
-En **supervisión de riesgo y controles**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **risk oversight**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| COSO ERM | Supervisión del riesgo integrada con estrategia y desempeño. | No define límites concretos. | ¿Qué riesgo amenaza la estrategia? |
+| NIST CSF 2.0 | Función de gobierno de la ciberseguridad y supervisión. | Marco voluntario y genérico. | ¿Qué reporta el responsable de seguridad al directorio? |
+| Anderson | Seguridad como ingeniería, incentivos y amenazas internas. | Técnico; hay que traducirlo. | ¿Qué incentivo debilita este control? |
+| Charan | Trabajo del directorio en riesgos y estrategia. | Visión de práctica. | ¿Qué conversación se repite cada trimestre? |
+| Cialdini | Principios de influencia útiles para diseñar defensas. | Describe, no regula. | ¿Cómo se construiría una dependencia aquí? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** El board revisa cyber una vez al año con número de ataques bloqueados. Nunca pregunta si backups se restauran, si identidad es single point of failure o qué pérdida máxima se modeló.
+**Situación (hipotética).** El comité de riesgos de una empresa de servicios financieros con ventas de 90.000 millones de pesos revisa su tablero trimestral. Hay 8 riesgos principales y 12 controles críticos asociados.
 
-**Paso 1 — alinear risk appetite con estrategia.** La gerencia escribe primero el supuesto asociado a **risk oversight** y evita convertirlo en hecho. Luego busca **KRI trend** para contrastarlo en el caso de **supervisión de riesgo y controles**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultados de las pruebas independientes (auditoría interna y externa).**
 
-**Paso 2 — seleccionar top risks y scenarios.** La gerencia escribe primero el supuesto asociado a **critical control** y evita convertirlo en hecho. Luego busca **control effectiveness** para contrastarlo en el caso de **supervisión de riesgo y controles**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Resultado | Controles | % |
+|---|---|---|
+| Efectivos | 9 | 75,0 |
+| Efectivos con observaciones | 2 | 16,7 |
+| No efectivos | 1 | 8,3 |
+| **Total** | **12** | **100** |
 
-**Paso 3 — identificar critical controls.** La gerencia escribe primero el supuesto asociado a **assurance** y evita convertirlo en hecho. Luego busca **audit findings** para contrastarlo en el caso de **supervisión de riesgo y controles**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+El control no efectivo corresponde al respaldo y la recuperación del sistema de pagos (RTO real de 19 horas frente a 8 planificadas).
 
-**Paso 4 — obtener assurance independiente.** La gerencia escribe primero el supuesto asociado a **KRI** y evita convertirlo en hecho. Luego busca **risk appetite breaches** para contrastarlo en el caso de **supervisión de riesgo y controles**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Brechas y excesos.** 14 acciones de remediación abiertas: 9 vencen en menos de 90 días, 5 llevan más de 90 días (35,7 %; 5 ÷ 14); una es crítica (la del respaldo). Un límite de concentración de clientes (30 % del ingreso) se excedió: el principal cliente representa 33,5 %.
 
-**Paso 5 — seguir breaches y remediation.** La gerencia escribe primero el supuesto asociado a **three lines** y evita convertirlo en hecho. Luego busca **remediation age** para contrastarlo en el caso de **supervisión de riesgo y controles**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisiones del comité.** (1) Escalar la brecha del respaldo al directorio y exigir un plan con fecha en 30 días; (2) pedir a auditoría interna una prueba de seguimiento a los 60 días; (3) aprobar una excepción de concentración por seis meses con plan de diversificación; (4) solicitar un informe sobre por qué dos hallazgos se repiten desde el año anterior.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **supervisión de riesgo y controles**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Acceso a información sensible.** Un proyecto de adquisición confidencial tiene 40 personas con acceso (directores, ejecutivos, asesores, analistas y asistentes). Un análisis simple, bajo la hipótesis de que cada persona tiene una probabilidad de 0,5 % al año de filtrar o perder información por descuido o presión, estima la probabilidad de al menos una fuga: 1 − 0,995⁴⁰ ≈ 1 − 0,818 = 18,2 %. Con acceso por necesidad de saber, la lista baja a 14 personas: 1 − 0,995¹⁴ ≈ 1 − 0,932 = 6,8 %. La reducción es de 11,4 puntos porcentuales.
+
+**Medidas de protección defensiva.** Lista de acceso aprobada y registrada con caducidad; acuerdos de confidencialidad; sala y sistemas dedicados; recordatorio de la política de regalos y hospitalidad; canal de consulta; revisión de accesos al cierre del proyecto. Ninguna medida implica revisar la vida privada de las personas; se informa a todos qué se registra.
+
+**Señal de influencia.** Un asesor externo ofrece a un ejecutivo entradas a un evento y le pide «información de contexto» sobre la operación; el ejecutivo lo declara y se rechazan ambas cosas; el caso se registra y se refuerza la capacitación.
+
+**Informe al directorio.** Una página con los riesgos principales, el estado de los controles críticos, las brechas envejecidas, los excesos y excepciones, los incidentes, las decisiones requeridas y las señales de influencia reportadas.
+
+**Cuidados.** La probabilidad de fuga es una hipótesis para ilustrar el efecto del acceso; las medidas sobre personas respetan la normativa laboral y de protección de datos, que se verifica con asesoría; las cifras son ilustrativas.
+
+**Qué muestra.** (1) El aseguramiento independiente localizó el control crítico que fallaba. (2) El seguimiento de brechas fijó plazos y escalamiento. (3) La protección defensiva redujo el acceso sin vigilar la vida privada.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **risk oversight** | responsabilidad del board de supervisar exposiciones materiales y framework | Cuando KRI trend es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **critical control** | control cuya falla podría producir impacto material | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Supervisar frente a gestionar los riesgos.** La gerencia gestiona los riesgos; el directorio supervisa que exista un sistema que los gestione y que funcione. Cuando el directorio gestiona, diluye la responsabilidad.
 
-**Frontera de aplicación:** El board no puede garantizar ausencia de fallas. Su estándar es supervisión razonable y evidencia de governance, no certificar controles técnicos individuales.
+**Límites.** El directorio no puede garantizar la ausencia de fallas; su estándar es una supervisión razonable y evidencia de gobierno, no certificar controles técnicos individuales. Las probabilidades del ejemplo son hipótesis. La protección frente a la influencia indebida debe respetar la privacidad y las normas laborales y de datos. Las exigencias de los reguladores varían por sector y país. Las cifras son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre supervisión de riesgo y controles |
+| Nivel | Cómo participa en la supervisión de riesgos |
 |---|---|
-| **Profesional** | usa **supervisión de riesgo y controles** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **risk oversight** y **critical control** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta KRI trend con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si supervisión de riesgo y controles cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de supervisión de riesgo y controles reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **supervisión de riesgo y controles** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Cumple los controles y declara ofrecimientos inusuales. |
+| **Jefe / Team Lead** | Reporta fallas y evita accesos innecesarios. |
+| **Gerente** | Es dueño de riesgos y controles críticos y entrega información veraz. |
+| **CEO / Director** | Pregunta, exige aseguramiento y deja evidencia de la supervisión. |
+| **Founder / Owner** | Acepta controles sobre sí mismo y sobre su empresa. |
 
 ## 🏢 Caso ejecutivo
 
-El board revisa cyber una vez al año con número de ataques bloqueados. Nunca pregunta si backups se restauran, si identidad es single point of failure o qué pérdida máxima se modeló.
+Una empresa de salud con 3.600 personas tiene un directorio que recibe cada trimestre un informe de riesgos de 45 páginas con 63 riesgos en una matriz de colores. En un año: sufrió un ransomware que dejó sin sistema clínico a dos centros durante 26 horas; una fiscalización detectó fallas en el control de medicamentos; una filtración de información sobre una compra pendiente llegó a la prensa antes del anuncio (la lista de acceso incluía a 52 personas, entre ellas asesores y asistentes); y un director aceptó un viaje pagado de un proveedor que luego se adjudicó un contrato. La auditoría interna depende del gerente financiero. El responsable de seguridad nunca ha hablado con el directorio. Una consultora propone «monitorear las redes sociales de los ejecutivos y directores» para evitar filtraciones, y un director pide revisar los antecedentes personales de todos los empleados con acceso a información sensible.
 
-Entrega un **decision brief de supervisión de riesgo y controles** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diseño de supervisión de riesgos** que contenga: (a) la lista corta de riesgos principales con escenarios, el apetito y los límites; (b) los controles críticos asociados y su plan de pruebas independientes; (c) la estructura de aseguramiento y de reportes al directorio; (d) el sistema de seguimiento de brechas y excesos; (e) las medidas defensivas frente a la influencia indebida y la fuga de información, con el análisis de las dos propuestas de la consultora y del director a la luz de la privacidad y las normas laborales; (f) las verificaciones legales y regulatorias pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **supervisión de riesgo y controles** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. alinear risk appetite con estrategia → 2. seleccionar top risks y scenarios → 3. identificar critical controls → 4. obtener assurance independiente → 5. seguir breaches y remediation** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta KRI trend, control effectiveness; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
-7. Mapea personas clave de una organización y define para cada una declaración, diseño de acceso y protocolo de viaje.
+1. Reduce una lista de 30 riesgos a los 8 que merecen la atención del directorio y justifica la selección.
+2. Para tres riesgos, identifica el control crítico y cómo se probaría de forma independiente.
+3. Diseña un tablero de una página con riesgos, controles, brechas y excesos.
+4. Define las reglas de acceso por necesidad de saber para un proyecto confidencial.
+5. Redacta cinco reglas de protección ejecutiva que respeten la privacidad.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar risk oversight y critical control como sinónimos | Se pierde la distinción entre “responsabilidad del board de supervisar exposiciones materiales y framework” y “control cuya falla podría producir impacto material” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “seguir breaches y remediation” | Se saltó “alinear risk appetite con estrategia” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. alinear risk appetite con estrategia → 2. seleccionar top risks y scenarios → 3. identificar critical controls → 4. obtener assurance independiente → 5. seguir breaches y remediation y marca el primer supuesto no demostrado. |
-| Optimizar solo KRI trend | La métrica local sustituyó al resultado del sistema | Contrástala con control effectiveness y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre supervisión de riesgo y controles | El board no puede garantizar ausencia de fallas. Su estándar es supervisión razonable y evidencia de governance, no certificar controles técnicos individuales. |
-| No fijar revisión | Una decisión sobre supervisión de riesgo y controles se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Matriz de 60 riesgos | Se quiere cubrir todo | Lista corta con escenarios y dueños. |
+| Creer en el informe de la gerencia | Falta de segunda mirada | Aseguramiento independiente con acceso directo. |
+| Brechas que envejecen | No hay escalamiento | Indicador de antigüedad y plazos. |
+| Accesos amplios a lo sensible | Comodidad | Necesidad de saber con registro y caducidad. |
+| Vigilar la vida privada | Se busca seguridad total | Controles sobre sistemas y conductas laborales, con informe a las personas. |
+| Supervisión sin registro | Se confía en la memoria | Actas con preguntas, información y acciones. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **risk oversight** y **critical control** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **assurance** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **alinear risk appetite con estrategia → seleccionar top risks y scenarios** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **KRI trend** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **supervisión de riesgo y controles**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **El board no puede garantizar ausencia de fallas. Su estándar es supervisión razonable y evidencia de governance, no certificar controles técnicos individuales.**?
+1. ¿Qué estándar de supervisión se espera del directorio en riesgos?
+2. ¿Por qué conviene una lista corta de riesgos principales?
+3. ¿Qué es un control crítico y qué se pregunta sobre él?
+4. ¿Qué es el aseguramiento independiente y cómo se evalúa su calidad?
+5. ¿Cómo se siguen las brechas y los excesos?
+6. ¿Qué incluye una protección defensiva frente a la influencia indebida?
+7. ¿Qué límites tiene esa protección?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Una supervisión razonable, demostrable con actas e informes, no la garantía de que no habrá fallas.
+2. Porque permite una conversación informada; con decenas de riesgos el directorio no puede supervisar.
+3. Un control cuya falla permitiría que un riesgo mayor se materialice; se pregunta quién es el dueño, cómo se prueba y con qué resultado.
+4. Evaluación de los controles por alguien ajeno a quien los opera; se evalúan alcance, independencia, competencia, hallazgos y seguimiento.
+5. Con acciones con responsable y fecha, indicador de antigüedad, escalamiento de las críticas y análisis de causas.
+6. Declaración de ofrecimientos, canal de consulta, política de regalos, acceso por necesidad de saber, capacitación y controles técnicos.
+7. No vigila la vida privada; respeta la privacidad, las normas laborales y de datos y se centra en sistemas, datos y conductas laborales.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/213-supervision-de-riesgo-y-controles/`:
 
-- `risk-governance-brief.md` con el problema específico de **supervisión de riesgo y controles**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **supervisión de riesgo y controles** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **risk oversight**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **El board revisa cyber una vez al año con número de ataques bloqueados. Nunca pregunta si backups se restauran, si identidad es single point of failure o qué pérdida máxima se modeló.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el diseño del caso ejecutivo;
+- `influence-and-conflict-disclosure-brief.md` (plantilla [Ficha de influencia y declaración de conflictos](../../../../templates/influence-and-conflict-disclosure-brief.md)) con el protocolo de declaración de ofrecimientos y contactos;
+- `decision-journal.md` con el plan de pruebas, el seguimiento de brechas y las verificaciones legales pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** separación entre dirección, supervisión, accountability y gobierno corporativo. Lectura selectiva sobre **supervisión de riesgo y controles**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, deberes del directorio y divulgación como referencia de gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Robert A. G. Monks & Nell Minow — *Corporate Governance* (John Wiley & Sons, Incorporated, 2001). **Uso en esta clase:** perspectiva de Gobierno corporativo aplicada al problema de la clase. Lectura selectiva sobre **supervisión de riesgo y controles**. **Localizador:** [ISBN-13 9781118874899](https://openlibrary.org/isbn/9781118874899).
-- Michael E. Porter & Mark R. Kramer — *Creating Shared Value* (Managing Sustainable Business, 2018). **Uso en esta clase:** perspectiva de Estrategia / Impacto aplicada al problema de la clase. Lectura selectiva sobre **supervisión de riesgo y controles**. **Localizador:** [DOI 10.1007/978-94-024-1144-7_16](https://doi.org/10.1007/978-94-024-1144-7_16).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **supervisión de riesgo y controles**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Richard Leblanc & James Gillies — *Inside the Boardroom* (John Wiley & Sons, Incorporated, 2009). **Uso en esta clase:** comportamiento efectivo del directorio, composición y dinámica de gobierno. Lectura selectiva sobre **supervisión de riesgo y controles**. **Localizador:** [ISBN-13 9780470739952](https://openlibrary.org/isbn/9780470739952).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **supervisión de riesgo y controles** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **supervisión de riesgo y controles**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **supervisión de riesgo y controles** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **supervisión de riesgo y controles** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **supervisión de riesgo y controles** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** supervisión del riesgo integrada con estrategia y desempeño. **Fuente primaria:** <https://www.coso.org/>.
+- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** función de gobierno de la ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
+- Ross Anderson — *Security Engineering* (John Wiley & Sons, Incorporated, 2001). **Uso en esta clase:** seguridad como ingeniería, incentivos y amenazas internas. Lectura selectiva sobre **supervisión de riesgo y controles**. **Localizador:** [ISBN-13 9781119642831](https://openlibrary.org/isbn/9781119642831).
+- Ram Charan — *Boards That Deliver* (John Wiley & Sons, Incorporated, 2007). **Uso en esta clase:** trabajo del directorio en riesgos y estrategia. Lectura selectiva sobre **supervisión de riesgo y controles**. **Localizador:** [ISBN-13 9781118046616](https://openlibrary.org/isbn/9781118046616).
+- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** principios de influencia útiles para diseñar defensas. Lectura selectiva sobre **supervisión de riesgo y controles**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
 
-> **Regla de fuentes para Supervisión de riesgo y controles:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **supervisión de riesgo y controles** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Supervisión de riesgo y controles:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las exigencias de los reguladores, la normativa laboral y de protección de datos que limita las medidas sobre las personas. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

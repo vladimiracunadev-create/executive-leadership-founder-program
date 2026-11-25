@@ -29,8 +29,10 @@ mismo registro y el resumen del [README](../README.md#-registro-de-fuentes).
 | Biblioteca del Congreso Nacional de Chile | LeyChile: Ley N.º 20.659 y normativa vinculada | <https://www.bcn.cl/leychile/> | 2026-08-19 | verificada |
 | Biblioteca del Congreso Nacional de Chile | LeyChile: protección de datos personales (Ley 19.628 y Ley 21.719) | <https://www.bcn.cl/leychile/> | 2026-11-25 | verificada |
 | Biblioteca del Congreso Nacional de Chile | LeyChile: responsabilidad penal de las personas jurídicas (Ley 20.393) | <https://www.bcn.cl/leychile/> | 2026-11-25 | verificada |
+| Biblioteca del Congreso Nacional de Chile | LeyChile: sociedades anónimas (Ley 18.046) y su reglamento | <https://www.bcn.cl/leychile/> | 2026-11-25 | verificada |
 | ChileAtiende | Trámites y orientación del Estado | <https://www.chileatiende.gob.cl/> | 2026-08-19 | verificada |
 | Colegio de Contadores de Chile | Normativa contable aplicable y NIIF según tipo de entidad | — (pendiente) | — | pendiente |
+| Comisión para el Mercado Financiero | Portal oficial de la CMF de Chile | <https://www.cmfchile.cl/> | 2026-11-25 | verificada |
 | Comisión para el Mercado Financiero (Chile) | Normativa e información del mercado financiero | <https://www.cmfchile.cl/> | 2026-08-19 | verificada |
 | Corporación de Fomento de la Producción (Chile) | Programas, instrumentos y apoyo empresarial | <https://www.corfo.cl/> | 2026-08-19 | verificada |
 | COSO | Enterprise Risk Management—Integrating with Strategy and Performance | <https://www.coso.org/> | 2026-08-19 | verificada |

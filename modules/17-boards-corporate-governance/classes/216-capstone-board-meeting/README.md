@@ -10,217 +10,215 @@
 
 ## 🎯 Propósito
 
-El capstone simula una reunión de directorio con pre-read, decisiones materiales, riesgo, performance, estrategia y sesión ejecutiva. Se evalúa si management entrega información accionable y si el board pregunta, decide y supervisa sin microgestión.
+Esta clase integra la parte 17 en una sesión completa de directorio. Se trata de aplicar, en una simulación, todo lo aprendido: un mandato claro (clase 206), roles bien separados entre presidente y CEO (clase 207), comités que alimentan al pleno (clase 208), conflictos de interés declarados y manejados (clase 209), información material y consistente (clases 210 y 211), una supervisión seria de la estrategia (clase 212) y de los riesgos (clase 213), una evaluación y una sucesión pensadas (clase 214) y un directorio que se evalúa (clase 215). Una buena sesión de directorio no se mide por su duración ni por la cantidad de presentaciones, sino por la calidad de **dos o tres decisiones** bien preparadas, desafiadas y registradas, y por los **compromisos de acción** que dejan.
 
-La salida de esta parte es **separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: board meeting** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+El trabajo del capstone es un **paquete completo de una sesión**: agenda, resumen ejecutivo, documentos de decisión, desafío preparado, acta con acuerdos y disidencias, lista de acciones y temario de la sesión ejecutiva. Se apoya en Charan sobre directorios efectivos, en Tricker y los principios de la OCDE sobre las responsabilidades del directorio, en LeBlanc y Gillies sobre la dinámica de la sala y en Forbes y Milliken sobre los procesos de decisión. Es un ejercicio educativo: no reproduce los deberes legales de un directorio real, cuyas actas, quórums, materias reservadas y conflictos dependen de la ley y los estatutos.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `board agenda`, `decision paper`, `minutes`, `executive session`, `action log` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. preparar board pack → 2. identificar 2 o 3 decisiones → 3. conducir challenge y deliberación → 4. registrar acuerdos y dissent → 5. cerrar con actions y executive session** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** decision quality, pre-read timeliness, action closure sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Preparar** un pack con resumen ejecutivo, documentos de decisión y tablero.
+2. **Identificar** las dos o tres decisiones que el directorio debe tomar en la sesión.
+3. **Conducir** el desafío y la deliberación con información y respeto.
+4. **Registrar** acuerdos, razones y disidencias con precisión.
+5. **Cerrar** con acciones, responsables y una sesión ejecutiva útil.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define board agenda y decision paper sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con decision quality y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué decisión de tu directorio habría necesitado más desafío y qué pregunta nadie hizo? |
+| 20–60 min | Método de una sesión: pack, decisiones, desafío, registro y cierre. |
+| 60–105 min | Ejemplo trabajado: simulación de una sesión con una adquisición, una política de capital y un riesgo. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **board agenda** | secuencia de asuntos priorizada por mandato y decisión | Distingue un hecho compatible y otro que lo refute. |
-| **decision paper** | documento que define decisión alternativas y recomendación | Distingue un hecho compatible y otro que lo refute. |
-| **minutes** | registro formal de deliberaciones y acuerdos según requisitos aplicables | Distingue un hecho compatible y otro que lo refute. |
-| **executive session** | espacio del board sin management | Distingue un hecho compatible y otro que lo refute. |
-| **action log** | seguimiento de compromisos y responsables | Distingue un hecho compatible y otro que lo refute. |
+| **Agenda del directorio** | Lista ordenada de temas con tiempos y objetivos. | Decisiones primero y tiempo para el desafío. |
+| **Documento de decisión** | Escrito breve que prepara una decisión del directorio. | Afirmación, evidencia, supuestos, riesgos y propuesta. |
+| **Desafío preparado** | Preguntas anticipadas por uno o más directores. | Un director líder por tema. |
+| **Disidencia registrada** | Constancia de un voto o posición contraria con sus razones. | Figura en el acta. |
+| **Acuerdo con condiciones** | Aprobación sujeta a requisitos específicos. | Responsable y plazo por condición. |
+| **Sesión ejecutiva** | Reunión del directorio sin la gerencia. | Temas sensibles y retroalimentación. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 216: 1. preparar board pack → 2. identificar 2 o 3 decisiones → 3. conducir challenge y deliberación → 4. registrar acuerdos y dissent → 5. cerrar con actions y executive session](modelo-mental.svg)
+![Una sesión de directorio de principio a fin: preparar el pack, elegir dos o tres decisiones, desafiar y deliberar, registrar acuerdos y disidencia, cerrar con acciones.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. preparar board pack → 2. identificar 2 o 3 decisiones → 3. conducir challenge y deliberación → 4. registrar acuerdos y dissent → 5. cerrar con actions y executive session
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El capstone simula una reunión de directorio con pre-read, decisiones materiales, riesgo, performance, estrategia y sesión ejecutiva. Se evalúa si management entrega información accionable y si el board pregunta, decide y supervisa sin microgestión.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una simulación educativa no reproduce deberes legales de un directorio real. Para actas, quórums, materias reservadas y conflictos, verifica estatutos y legislación aplicable.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos con retorno. **Preparar el pack**: información material y enviada a tiempo. **Elegir dos o tres decisiones**: lo que el directorio debe resolver hoy. **Desafiar y deliberar**: preguntas, alternativas y riesgos. **Registrar**: acuerdos, razones y disidencia. **Cerrar con acciones**: responsables y sesión ejecutiva. La flecha indica que las acciones alimentan la próxima agenda. La nota afirma que una sesión efectiva se mide por la calidad de las decisiones y del registro, no por la cantidad de páginas ni la duración; el pie, que una simulación educativa no reproduce los deberes legales de un directorio real.
 
 ## 📖 Desarrollo
 
-### 1. board agenda: mecanismo central
+### 1. Antes de la sesión: preparar con intención
 
-**board agenda** se entiende aquí como **secuencia de asuntos priorizada por mandato y decisión**. Esta es la pieza causal o estructural desde la que se inicia **capstone: board meeting**: antes de preparar board pack, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+El éxito de la sesión se decide antes. El presidente y el CEO, con el secretario del directorio, definen el **objetivo** de la sesión y las **dos o tres decisiones** que deben tomarse; el resto es información. Cada decisión tiene un **documento de decisión** de una a tres páginas con: qué se pide, por qué ahora, alternativas consideradas, evidencia, supuestos críticos, riesgos (incluido el peor caso razonable), efecto financiero, recomendación y condiciones. Se prepara un **resumen ejecutivo** de una página, un **tablero** de indicadores con definiciones claras y un **registro de acciones** de la sesión anterior (clase 211). El pack se envía con siete días de antelación. Charan insiste en que una buena preparación libera tiempo para lo que solo el directorio puede hacer: desafiar y decidir.
 
-La lectura rectora de este bloque es Bob Tricker — *Corporate Governance*. Su aporte se usa para examinar **separación entre dirección, supervisión, accountability y gobierno corporativo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **decision quality**; regístrala con periodo, unidad, población y baseline.
+### 2. Elegir y priorizar decisiones
 
-Relaciona el mecanismo con **decision paper**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Las decisiones de una sesión se clasifican por **reversibilidad** y **materialidad** (clase 196). Las irreversibles y materiales (una adquisición, un endeudamiento mayor, un nombramiento clave) requieren una **primera lectura** en una sesión anterior (para que los directores puedan pedir información) y una **segunda** para aprobar; en una emergencia, se justifica la excepción y se documenta. Se verifican de antemano los **conflictos de interés** (clase 209): quién debe recusarse y cómo se manejará la deliberación. Se revisa si la decisión es **competencia del directorio** o corresponde a la junta de propietarios, según los estatutos y la ley (clase 205), y se coordina con los comités competentes (clase 208).
 
-### 2. decision paper: frontera conceptual y error de clasificación
+### 3. Preparar el desafío
 
-**Definición operacional:** documento que define decisión alternativas y recomendación. Su valor está en distinguirlo de **board agenda** y **minutes**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El desafío no debe improvisarse. Para cada decisión importante, el presidente asigna a un **director líder** que revisa el documento con antelación, habla con la gerencia y prepara **tres a cinco preguntas** críticas. Se recomienda que cada director envíe por escrito sus preguntas y reservas antes de la sesión, lo que reduce el efecto de la influencia de quien habla primero y facilita la discusión con datos (clase 214, sobre ruido). Las preguntas se organizan: **lógica** (¿se sostiene el argumento?), **supuestos** (¿qué pasaría si fallan?), **alternativas** (¿qué más se consideró?), **riesgos** (¿qué es lo peor razonable y lo podemos soportar?), **capacidad** (¿tenemos las personas y el capital?) y **ejecución** (¿quién es responsable y cómo sabremos si falla?). El presidente cuida que todos participen.
 
-Contrasta el problema con OECD — *G20/OECD Principles of Corporate Governance 2023*, que aporta una mirada sobre **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno**. Formula dos mini-casos: uno que sí satisface la definición de **decision paper** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **pre-read timeliness** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Conducir la sesión
 
-Antes de identificar 2 o 3 decisiones, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El presidente abre con el objetivo y las reglas del día. **Primero las decisiones**, cuando la energía es mayor. Cada decisión sigue una estructura: **breve presentación** de la gerencia (diez minutos, porque el documento ya se leyó), **preguntas del director líder** y de los demás, **respuestas** con datos, **discusión** sobre alternativas y condiciones, y **resolución**. El presidente modera: da la palabra a quienes hablan menos, pide ejemplos, evita que la discusión se desvíe a lo operativo y sintetiza. Forbes y Milliken muestran que el desafío constructivo y la participación de todos mejoran las decisiones, siempre que no derive en conflicto personal ni en pensamiento de grupo. El CEO responde por la propuesta y escucha sin defensa excesiva.
 
-### 3. minutes: operacionalización y medición
+### 5. Decidir y registrar
 
-**minutes** significa **registro formal de deliberaciones y acuerdos según requisitos aplicables**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La **decisión** se toma conforme a las reglas de quórum y mayoría de los estatutos. Se pueden adoptar tres formas: **aprobar**, **aprobar con condiciones** (con responsables y plazos) o **diferir** (con información que falta y fecha de nueva revisión). El **acta** registra: asistentes, conflictos declarados y recusaciones, documentos considerados, los puntos principales de la discusión, la decisión, los votos y las **disidencias con sus razones**, y los compromisos de acción. Tricker recuerda que el acta es la **evidencia** de cómo el directorio ejerció su deber de diligencia; debe ser precisa y neutral, sin transcribir todo ni omitir lo esencial. La redacción y aprobación de actas se ajustan a la ley y los estatutos, que se verifican con asesoría.
 
-Michael E. Porter & Mark R. Kramer — *Creating Shared Value* orienta este bloque mediante **perspectiva de Estrategia / Impacto aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **action closure**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Comités, riesgos y estrategia en la misma sesión
 
-Al llegar a conducir challenge y deliberación, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Aparte de las decisiones, la sesión incluye **informes de comités** breves (con recomendaciones y excepciones, clase 208), el **tablero de riesgos** con los cambios relevantes (clase 213), el **avance de la estrategia** con hitos y señales (clase 212) y los **asuntos de cumplimiento** que corresponda. Se separan en una sección de **información** que se lee antes y se discute solo si hay preguntas o alertas. Esto permite que la mayor parte del tiempo se dedique a las decisiones y a los temas de supervisión estratégica. Si surge un asunto material no previsto (una crisis, un incidente), se altera la agenda sin culpa.
 
-### 4. executive session: trade-offs y efectos de segundo orden
+### 7. Cierre: acciones y sesión ejecutiva
 
-**Definición:** espacio del board sin management. Este concepto obliga a abandonar la idea de que **capstone: board meeting** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de registrar acuerdos y dissent, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Richard Leblanc & James Gillies — *Inside the Boardroom* aporta una lente sobre **comportamiento efectivo del directorio, composición y dinámica de gobierno**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **agenda allocation** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capstone: board meeting**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **executive session** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. action log: gobernanza, límites e integración
-
-**action log** se define como **seguimiento de compromisos y responsables** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Robert A. G. Monks & Nell Minow — *Corporate Governance* se utiliza para estudiar **perspectiva de Gobierno corporativo aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar cerrar con actions y executive session, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Una simulación educativa no reproduce deberes legales de un directorio real. Para actas, quórums, materias reservadas y conflictos, verifica estatutos y legislación aplicable.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **board agenda**, **decision paper**, **minutes**, **executive session** y **action log** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: board meeting** no consiste en sumar cinco definiciones. Empieza por **board agenda**, contrasta **decision paper** con **minutes**, incorpora **executive session** como restricción o mecanismo y usa **action log** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. preparar board pack → 2. identificar 2 o 3 decisiones → 3. conducir challenge y deliberación → 4. registrar acuerdos y dissent → 5. cerrar con actions y executive session**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La sesión termina con un **resumen de acuerdos**: qué se decidió, qué condiciones se impusieron, qué acciones se asignaron, con responsable y fecha. Luego, la **sesión ejecutiva** (sin la gerencia) trata la evaluación de la reunión, el desempeño del CEO, la sucesión, las dudas sobre la calidad de la información y cualquier tema sensible. El presidente da luego retroalimentación al CEO (clase 207). Después de la sesión, el secretario envía el **borrador de acta** y el **registro de acciones**, y el CEO informa el avance. En la próxima sesión, el seguimiento de las acciones abre la agenda, y cada cierto tiempo el directorio revisa **cómo trabaja** (clase 215).
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Bob Tricker — *Corporate Governance* | separación entre dirección, supervisión, accountability y gobierno corporativo | ¿Qué supuesto de **capstone: board meeting** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **capstone: board meeting** ayuda a desafiar? |
-| Michael E. Porter & Mark R. Kramer — *Creating Shared Value* | perspectiva de Estrategia / Impacto aplicada al problema de la clase | ¿Qué supuesto de **capstone: board meeting** ayuda a desafiar? |
-| Richard Leblanc & James Gillies — *Inside the Boardroom* | comportamiento efectivo del directorio, composición y dinámica de gobierno | ¿Qué supuesto de **capstone: board meeting** ayuda a desafiar? |
-| Robert A. G. Monks & Nell Minow — *Corporate Governance* | perspectiva de Gobierno corporativo aplicada al problema de la clase | ¿Qué supuesto de **capstone: board meeting** ayuda a desafiar? |
-
-En **capstone: board meeting**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **board agenda**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Charan | Preparación del directorio y foco en lo que solo él puede hacer. | Visión de práctica. | ¿Qué decisiones requieren al directorio hoy? |
+| Tricker | Responsabilidades y evidencia del ejercicio del deber. | No es derecho local. | ¿Qué prueba el acta? |
+| OCDE (2023) | Principios sobre funciones y responsabilidades del directorio. | Principios de alto nivel. | ¿Se respetan en esta sesión? |
+| LeBlanc y Gillies | Dinámica real de la sala. | Casos específicos. | ¿Quién habla y quién calla? |
+| Forbes y Milliken | Procesos de decisión: conflicto cognitivo y cohesión. | Marco teórico. | ¿Hubo desafío o solo aprobación? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** La reunión debe decidir adquisición, aprobar presupuesto anual y revisar incidente de datos mientras EBITDA va bajo plan y el CEO propone cambiar estructura comercial.
+**Situación (hipotética).** Un directorio de seis personas (presidenta, cuatro directores y el CEO) de una empresa con ventas de 100.000 millones de pesos, EBITDA de 12.000 millones y deuda neta de 14.400 millones (1,2 veces) se reúne durante 4 horas. Se preparó un pack con 12 páginas de cuerpo principal y anexos.
 
-**Paso 1 — preparar board pack.** La gerencia escribe primero el supuesto asociado a **board agenda** y evita convertirlo en hecho. Luego busca **decision quality** para contrastarlo en el caso de **capstone: board meeting**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Agenda y tiempos.**
 
-**Paso 2 — identificar 2 o 3 decisiones.** La gerencia escribe primero el supuesto asociado a **decision paper** y evita convertirlo en hecho. Luego busca **pre-read timeliness** para contrastarlo en el caso de **capstone: board meeting**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Punto | Minutos |
+|---|---|
+| Apertura, conflictos declarados y acta anterior | 10 |
+| Informe del CEO (leído antes; solo preguntas) | 20 |
+| Decisión 1: adquisición de una empresa pequeña | 80 |
+| Decisión 2: política de capital (dividendo y límite de deuda) | 40 |
+| Decisión 3: riesgo de ciberseguridad y excepción de concentración | 40 |
+| Informes de comités | 15 |
+| Sesión ejecutiva | 20 |
+| Resumen de acuerdos y acciones | 15 |
+| **Total** | **240** |
 
-**Paso 3 — conducir challenge y deliberación.** La gerencia escribe primero el supuesto asociado a **minutes** y evita convertirlo en hecho. Luego busca **action closure** para contrastarlo en el caso de **capstone: board meeting**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisión 1: adquisición.** La gerencia propone adquirir una empresa con un EBITDA de 800 millones por 6.000 millones, 7,5 veces. Sinergias esperadas: 250 millones. Múltiplo ajustado por sinergias: 6.000 ÷ (800 + 250) = 5,7 veces. Riesgos: un cliente representa el 35 % de las ventas de la empresa objetivo; los fundadores se irían a los 12 meses. Un director independiente, líder del desafío, observa que el múltiplo propio de la empresa es de 8 veces (por lo que la operación sería «acretiva»), pero que las sinergias no están respaldadas por evidencia de clientes ni de costos.
 
-**Paso 4 — registrar acuerdos y dissent.** La gerencia escribe primero el supuesto asociado a **executive session** y evita convertirlo en hecho. Luego busca **agenda allocation** para contrastarlo en el caso de **capstone: board meeting**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Preguntas de desafío.** ¿Qué parte de las sinergias depende de ventas cruzadas y qué evidencia hay?, ¿qué pasa si el cliente grande se va?, ¿qué pasa con el equipo clave?, ¿se consideró comprar solo una parte?, ¿qué pasa con la deuda en un escenario de estrés?
 
-**Paso 5 — cerrar con actions y executive session.** La gerencia escribe primero el supuesto asociado a **action log** y evita convertirlo en hecho. Luego busca **board-management boundary** para contrastarlo en el caso de **capstone: board meeting**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Prueba de apalancamiento.** Pago de 4.500 millones al cierre financiado con deuda: deuda neta 14.400 + 4.500 = 18.900; EBITDA combinado 12.000 + 800 = 12.800; razón 18.900 ÷ 12.800 = 1,48. En estrés (EBITDA combinado −15 %: 10.880): 18.900 ÷ 10.880 = 1,74. Con el pago contingente de 1.500 millones: 20.400 ÷ 12.800 = 1,59. Todos bajo el límite de apetito de 2,5.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: board meeting**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Resolución.** El directorio **aprueba con condiciones**: precio total máximo de 6.000 millones, pero estructurado como 4.500 al cierre y 1.500 contingentes a que la empresa objetivo retenga al menos 85 % de las ventas del cliente grande durante 18 meses; acuerdos de permanencia con tres ejecutivos clave; un plan de integración con responsable y un informe al comité a los 90 días. **Votos:** 5 a favor y 1 en contra. La disidencia, de un director, se registra con sus razones: considera frágiles las sinergias y alto el riesgo de integración. El CEO responde por los resultados.
+
+**Decisión 2: política de capital.** Se aprueba un dividendo de 30 % de la utilidad y un límite de deuda neta de 2,0 veces el EBITDA, con aprobación del directorio para excederlo temporalmente.
+
+**Decisión 3: riesgo.** Se aprueba la inversión de 450 millones en un programa de ciberseguridad (autenticación multifactor, respaldos probados) y se aprueba una excepción temporal de concentración de clientes por seis meses, con plan de diversificación.
+
+**Acciones.**
+
+| Acción | Responsable | Fecha |
+|---|---|---|
+| Acuerdos de permanencia con ejecutivos clave de la empresa adquirida | Director comercial y legal | 30 días |
+| Plan de integración con hitos | CEO | 45 días |
+| Prueba de restauración de respaldos | Responsable de seguridad | 60 días |
+| Informe de diversificación de clientes | Gerente comercial | 90 días |
+| Informe al comité de auditoría sobre la integración | Gerente financiero | 90 días |
+
+**Sesión ejecutiva (20 minutos).** Se evalúa el nivel de desafío (hubo un voto en contra y preguntas de fondo), se revisa el tiempo de palabra (el presidente 18 %, el CEO 22 %, todos los directores sobre 10 %), se conversa con el presidente sobre retroalimentar al CEO sobre la solidez de las sinergias, y se pide más información sobre el cliente grande.
+
+**Cuidados.** La sesión es una simulación educativa: las atribuciones del directorio, los quórums, las mayorías, el tratamiento de operaciones de adquisición y los deberes de los directores dependen de la ley y los estatutos, que se verifican con asesoría; las cifras son ilustrativas.
+
+**Qué muestra.** (1) Se priorizaron tres decisiones con tiempo suficiente. (2) El desafío modificó la propuesta y quedó registrada la disidencia. (3) El cierre dejó acciones con responsables y fechas.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **board agenda** | secuencia de asuntos priorizada por mandato y decisión | Cuando decision quality es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **decision paper** | documento que define decisión alternativas y recomendación | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Simulación frente a directorio real.** Una simulación educativa permite practicar el método, pero no reproduce las responsabilidades legales, las presiones ni las relaciones de un directorio real.
 
-**Frontera de aplicación:** Una simulación educativa no reproduce deberes legales de un directorio real. Para actas, quórums, materias reservadas y conflictos, verifica estatutos y legislación aplicable.
+**Límites.** Para actas, quórums, materias reservadas y conflictos se deben verificar los estatutos y la legislación aplicable. Una buena sesión no garantiza buenas decisiones; mejora la probabilidad y deja evidencia. Los estudios sobre dinámica de directorios provienen de casos y muestras específicas. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: board meeting |
+| Nivel | Cómo participa en la sesión |
 |---|---|
-| **Profesional** | usa **capstone: board meeting** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **board agenda** y **decision paper** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta decision quality con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: board meeting cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: board meeting reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: board meeting** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Prepara datos exactos para los documentos de decisión. |
+| **Jefe / Team Lead** | Entiende cómo su trabajo llega al pack. |
+| **Gerente** | Presenta propuestas con alternativas, riesgos y condiciones. |
+| **CEO / Director** | Prepara el desafío, delibera con rigor y registra con precisión. |
+| **Founder / Owner** | Acepta ser desafiado y que el acta registre las disidencias. |
 
 ## 🏢 Caso ejecutivo
 
-La reunión debe decidir adquisición, aprobar presupuesto anual y revisar incidente de datos mientras EBITDA va bajo plan y el CEO propone cambiar estructura comercial.
+El directorio de una empresa de servicios de salud con 3.400 personas y ventas de 190.000 millones de pesos se reúne para decidir: (1) la compra de una red de seis clínicas por 22.000 millones de pesos (EBITDA objetivo de 2.600 millones, deuda asumida de 4.000 millones); (2) la renovación de un convenio con una aseguradora que representa el 24 % de las ventas, con una exigencia de baja de tarifas de 6 %; y (3) la aprobación de un plan de ciberseguridad por 1.100 millones tras un incidente reciente. El director D tiene un familiar socio de una de las clínicas objetivo; el CEO quiere cerrar la compra antes de fin de mes y ha enviado el pack tres días antes con 140 páginas; el presidente propone aprobar los tres temas «en bloque»; dos directores no han leído los materiales; un director independiente pide una segunda lectura. En la sala hay presión de los propietarios por crecer. Una investigación de un regulador sobre una de las clínicas objetivo no está en el pack.
 
-Entrega un **decision brief de capstone: board meeting** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **paquete de una sesión de directorio** que contenga: (a) el objetivo, la agenda con tiempos y el manejo de los conflictos; (b) el resumen ejecutivo y los documentos de decisión de las tres decisiones; (c) el desafío preparado, con director líder y preguntas críticas; (d) el análisis financiero y de riesgo de la compra, con pruebas de estrés; (e) un acta modelo con acuerdos, condiciones, votos y disidencias; (f) el registro de acciones, el temario de la sesión ejecutiva y las verificaciones estatutarias y legales.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: board meeting** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. preparar board pack → 2. identificar 2 o 3 decisiones → 3. conducir challenge y deliberación → 4. registrar acuerdos y dissent → 5. cerrar con actions y executive session** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta decision quality, pre-read timeliness; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Redacta la agenda de una sesión de cuatro horas con tres decisiones y los tiempos de cada punto.
+2. Escribe un documento de decisión de dos páginas con las ocho preguntas de pre-lectura.
+3. Prepara cinco preguntas críticas de desafío para una propuesta de inversión.
+4. Redacta un extracto de acta con una decisión aprobada con condiciones y una disidencia.
+5. Diseña el temario de una sesión ejecutiva y la retroalimentación al CEO.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar board agenda y decision paper como sinónimos | Se pierde la distinción entre “secuencia de asuntos priorizada por mandato y decisión” y “documento que define decisión alternativas y recomendación” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “cerrar con actions y executive session” | Se saltó “preparar board pack” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. preparar board pack → 2. identificar 2 o 3 decisiones → 3. conducir challenge y deliberación → 4. registrar acuerdos y dissent → 5. cerrar con actions y executive session y marca el primer supuesto no demostrado. |
-| Optimizar solo decision quality | La métrica local sustituyó al resultado del sistema | Contrástala con pre-read timeliness y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: board meeting | Una simulación educativa no reproduce deberes legales de un directorio real. Para actas, quórums, materias reservadas y conflictos, verifica estatutos y legislación aplicable. |
-| No fijar revisión | Una decisión sobre capstone: board meeting se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Aprobar «en bloque» | Falta tiempo | Priorizar dos o tres decisiones con tiempo propio. |
+| Pack tardío y extenso | No se planifica | Envío anticipado y cuerpo principal breve. |
+| Ignorar conflictos | Se espera que no se note | Declarar y recusarse antes de deliberar. |
+| Desafío improvisado | Se confía en la sala | Director líder y preguntas anticipadas. |
+| Acta incompleta | Se evita registrar discrepancias | Registrar acuerdos, razones y disidencias. |
+| Sesión sin cierre | Se acaba el tiempo | Resumen de acciones y sesión ejecutiva. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **board agenda** y **decision paper** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **minutes** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **preparar board pack → identificar 2 o 3 decisiones** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **decision quality** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: board meeting**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Una simulación educativa no reproduce deberes legales de un directorio real. Para actas, quórums, materias reservadas y conflictos, verifica estatutos y legislación aplicable.**?
+1. ¿Qué incluye la preparación de una sesión de directorio?
+2. ¿Cómo se eligen las decisiones de una sesión?
+3. ¿Qué es un director líder del desafío y para qué sirve?
+4. ¿Qué formas puede adoptar una decisión del directorio?
+5. ¿Qué debe registrar un acta?
+6. ¿Qué se trata en la sesión ejecutiva?
+7. ¿Qué límites tiene una simulación educativa?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Objetivo, dos o tres decisiones con documentos, resumen ejecutivo, tablero, registro de acciones, envío anticipado y verificación de conflictos.
+2. Por reversibilidad y materialidad, con primera y segunda lectura para las irreversibles, y verificando competencia y conflictos.
+3. Un director que revisa la propuesta antes, habla con la gerencia y prepara preguntas críticas para estructurar el desafío.
+4. Aprobar, aprobar con condiciones o diferir con información y fecha de nueva revisión.
+5. Asistentes, conflictos y recusaciones, documentos, puntos principales, decisión, votos, disidencias con razones y compromisos de acción.
+6. Evaluación de la sesión, desempeño del CEO, sucesión, calidad de la información y asuntos sensibles.
+7. No reproduce los deberes legales ni las presiones reales; actas, quórums y materias reservadas se verifican en estatutos y ley.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/216-capstone-board-meeting/`:
 
-- `board-or-executive-memo.md` con el problema específico de **capstone: board meeting**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: board meeting** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **board agenda**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **La reunión debe decidir adquisición, aprobar presupuesto anual y revisar incidente de datos mientras EBITDA va bajo plan y el CEO propone cambiar estructura comercial.** y el dato que podría invalidar la recomendación.
+- `board-or-executive-memo.md` (plantilla [Board or executive memo](../../../../templates/board-or-executive-memo.md)) con el documento de decisión y el acta modelo del caso ejecutivo;
+- `board-pack.md` (plantilla [Board pack](../../../../templates/board-pack.md)) con el pack de la sesión: agenda, resumen ejecutivo y tablero;
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el análisis de riesgos y los conflictos;
+- `decision-journal.md` con el registro de acciones, la sesión ejecutiva y las verificaciones estatutarias y legales.
 
 ## 📗 Fuentes y verificación
 
-- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** separación entre dirección, supervisión, accountability y gobierno corporativo. Lectura selectiva sobre **capstone: board meeting**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, deberes del directorio y divulgación como referencia de gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Michael E. Porter & Mark R. Kramer — *Creating Shared Value* (Managing Sustainable Business, 2018). **Uso en esta clase:** perspectiva de Estrategia / Impacto aplicada al problema de la clase. Lectura selectiva sobre **capstone: board meeting**. **Localizador:** [DOI 10.1007/978-94-024-1144-7_16](https://doi.org/10.1007/978-94-024-1144-7_16).
-- Richard Leblanc & James Gillies — *Inside the Boardroom* (John Wiley & Sons, Incorporated, 2009). **Uso en esta clase:** comportamiento efectivo del directorio, composición y dinámica de gobierno. Lectura selectiva sobre **capstone: board meeting**. **Localizador:** [ISBN-13 9780470739952](https://openlibrary.org/isbn/9780470739952).
-- Robert A. G. Monks & Nell Minow — *Corporate Governance* (John Wiley & Sons, Incorporated, 2001). **Uso en esta clase:** perspectiva de Gobierno corporativo aplicada al problema de la clase. Lectura selectiva sobre **capstone: board meeting**. **Localizador:** [ISBN-13 9781118874899](https://openlibrary.org/isbn/9781118874899).
-- Ram Charan — *Boards That Deliver* (John Wiley & Sons, Incorporated, 2007). **Uso en esta clase:** directorios que contribuyen a estrategia, talento, riesgo y sucesión. Lectura selectiva sobre **capstone: board meeting**. **Localizador:** [ISBN-13 9781118046616](https://openlibrary.org/isbn/9781118046616).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: board meeting** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: board meeting**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: board meeting** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: board meeting** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: board meeting** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Ram Charan — *Boards That Deliver* (John Wiley & Sons, Incorporated, 2007). **Uso en esta clase:** preparación del directorio y foco en lo que solo él puede hacer. Lectura selectiva sobre **capstone: board meeting**. **Localizador:** [ISBN-13 9781118046616](https://openlibrary.org/isbn/9781118046616).
+- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** responsabilidades del directorio y evidencia del ejercicio del deber. Lectura selectiva sobre **capstone: board meeting**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
+- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** principios sobre funciones y responsabilidades del directorio. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
+- Richard Leblanc & James Gillies — *Inside the Boardroom* (John Wiley & Sons, Incorporated, 2009). **Uso en esta clase:** dinámica real de la sala del directorio. Lectura selectiva sobre **capstone: board meeting**. **Localizador:** [ISBN-13 9780470739952](https://openlibrary.org/isbn/9780470739952).
+- Daniel P. Forbes & Frances J. Milliken — *Cognition and Corporate Governance: Understanding Boards of Directors as Strategic Decision-Making Groups* (The Academy of Management Review, 1999). **Uso en esta clase:** procesos de decisión con conflicto cognitivo y cohesión. Lectura selectiva sobre **capstone: board meeting**. **Localizador:** [DOI 10.2307/259138](https://doi.org/10.2307/259138).
 
-> **Regla de fuentes para Capstone: board meeting:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: board meeting** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para el Capstone de board meeting:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los estatutos, quórums, materias reservadas, deberes de los directores y la regulación aplicable. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

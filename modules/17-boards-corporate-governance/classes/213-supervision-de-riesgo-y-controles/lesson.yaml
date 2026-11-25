@@ -5,31 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir risk oversight de critical control mediante evidencia observable."
-  - "Aplicar la secuencia: alinear risk appetite con estrategia → seleccionar top risks y scenarios → identificar critical controls → obtener assurance independiente → seguir breaches y remediation."
-  - "Interpretar KRI trend, control effectiveness, audit findings sin atribuir causalidad automática."
-  - "Resolver el caso de supervisión de riesgo y controles con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-  - "Aplicar contrainteligencia ejecutiva defensiva: reconocer señales de influencia, diseñar acceso y declaración, sin vigilar la vida privada."
+  - "Alinear el apetito de riesgo con la estrategia y los límites aprobados."
+  - "Seleccionar los riesgos principales y los controles críticos que el directorio debe vigilar."
+  - "Exigir aseguramiento independiente y evaluar su calidad."
+  - "Seguir brechas, excesos y remediaciones hasta su cierre."
+  - "Diseñar medidas defensivas frente a la influencia indebida, el acceso a información y las amenazas internas, sin vigilar la vida privada."
 deliverable: "risk-governance-brief.md"
 references:
-  - "Bob Tricker — *Corporate Governance*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
-  - "Robert A. G. Monks & Nell Minow — *Corporate Governance*"
-  - "Michael E. Porter & Mark R. Kramer — *Creating Shared Value*"
-  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
-  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, deberes del directorio y divulgación como referencia de gobierno. Fuente primaria: <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>."
+  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
+  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
+  - "Ross Anderson — *Security Engineering*"
+  - "Ram Charan — *Boards That Deliver*"
+  - "Robert B. Cialdini — *Influence*"
 limits:
-  - "El board no puede garantizar ausencia de fallas. Su estándar es supervisión razonable y evidencia de governance, no certificar controles técnicos individuales."
+  - "El directorio no puede garantizar la ausencia de fallas; su estándar es una supervisión razonable y evidencia de gobierno, no certificar controles técnicos individuales."
 evidence_signals:
-  - "KRI trend"
-  - "control effectiveness"
-  - "audit findings"
-  - "risk appetite breaches"
-  - "remediation age"
-  - "key-person dependency"
-  - "access-design review"
+  - "riesgos principales y apetito alineados"
+  - "controles críticos y aseguramiento independiente"
+  - "brechas seguidas hasta su cierre"
+  - "protección defensiva sin vigilar la vida privada"

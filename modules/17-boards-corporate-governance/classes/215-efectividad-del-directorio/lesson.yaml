@@ -5,28 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir board effectiveness de skills matrix mediante evidencia observable."
-  - "Aplicar la secuencia: definir mandato y skills → observar agenda y conducta → recoger feedback individual y colectivo → elegir 2 o 3 mejoras → revisar composición y progreso."
-  - "Interpretar meeting effectiveness, challenge quality, skills gaps sin atribuir causalidad automática."
-  - "Resolver el caso de efectividad del directorio con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Definir el mandato y las capacidades que necesita el directorio."
+  - "Observar el uso del tiempo y la conducta del directorio con datos."
+  - "Recoger retroalimentación individual y colectiva de forma confidencial."
+  - "Elegir dos o tres mejoras y hacerles seguimiento."
+  - "Revisar la composición y la renovación con criterios explícitos."
 deliverable: "board-or-executive-memo.md"
 references:
-  - "Bob Tricker — *Corporate Governance*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
-  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
-  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Daniel P. Forbes & Frances J. Milliken — *Cognition and Corporate Governance: Understanding Boards of Directors as Strategic Decision-Making Groups*"
+  - "Renée B. Adams, Benjamin E. Hermalin & Michael S. Weisbach — *The Role of Boards of Directors in Corporate Governance: A Conceptual Framework and Survey*"
   - "Ram Charan — *Boards That Deliver*"
   - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+  - "Bob Tricker — *Corporate Governance*"
 limits:
-  - "Diversidad de CV no garantiza diversidad cognitiva ni challenge. Evalúa cómo se usa la experiencia en decisiones reales y si el chair habilita conflicto productivo."
+  - "La diversidad de currículos no garantiza diversidad cognitiva ni desafío: se evalúa cómo se usa la experiencia en decisiones reales y si el presidente habilita el conflicto productivo."
 evidence_signals:
-  - "meeting effectiveness"
-  - "challenge quality"
-  - "skills gaps"
-  - "action closure"
-  - "director contribution"
+  - "mandato y mapa de capacidades"
+  - "conducta observada con datos"
+  - "dos o tres mejoras con seguimiento"
+  - "composición y renovación revisadas"

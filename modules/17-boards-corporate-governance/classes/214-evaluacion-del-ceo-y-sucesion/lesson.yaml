@@ -5,28 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir CEO evaluation de scorecard mediante evidencia observable."
-  - "Aplicar la secuencia: definir expectativas ex ante → equilibrar outcomes y behaviors → reunir evidencia y contexto → discutir en sesión independiente → dar feedback compensation y development actions."
-  - "Interpretar enterprise results, strategic milestones, team health sin atribuir causalidad automática."
-  - "Resolver el caso de evaluación del CEO y sucesión con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Definir expectativas ex ante con objetivos y conductas acordados."
+  - "Equilibrar resultados financieros, estratégicos y conductas de liderazgo."
+  - "Reunir evidencia y contexto de varias fuentes."
+  - "Reducir el ruido y los sesgos del juicio de los directores."
+  - "Conectar la evaluación con la compensación, el desarrollo y la sucesión."
 deliverable: "people-decision-brief.md"
 references:
-  - "Bob Tricker — *Corporate Governance*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
-  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
-  - "Paul Polman & Andrew Winston — *Net Positive*"
-  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
   - "Ram Charan — *Boards That Deliver*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+  - "Elena L. Botelho, Kim R. Powell & Tahl Raz — *The CEO Next Door*"
+  - "Bob Tricker — *Corporate Governance*"
+  - "Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise*"
+  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
 limits:
-  - "Evita cambiar criterios retroactivamente para justificar una opinión. La evaluación requiere juicio, pero debe estar anclada en objetivos, contexto y evidencia acordados."
+  - "La evaluación requiere juicio, pero anclado en objetivos, contexto y evidencia acordados; evita cambiar criterios retroactivamente para justificar una opinión."
 evidence_signals:
-  - "enterprise results"
-  - "strategic milestones"
-  - "team health"
-  - "succession depth"
-  - "stakeholder trust"
+  - "expectativas fijadas antes del período"
+  - "resultados y conductas evaluados"
+  - "ruido reducido con calibración"
+  - "vínculo con compensación y sucesión"

@@ -10,217 +10,206 @@
 
 ## 🎯 Propósito
 
-El directorio supervisa estrategia asegurando que exista diagnóstico, choices, recursos, riesgos y capacidad de adaptación. No debe redactar la estrategia ni aprobar cada iniciativa; su función es challenge de supuestos, coherencia y creación de valor.
+Pocas cosas desgastan tanto a un directorio como la sesión anual de estrategia: una presentación de 80 diapositivas, un plan ya cerrado, tres horas de preguntas de detalle y una aprobación por unanimidad. El directorio sale con la sensación de haber visto «el plan», pero sin haberlo desafiado, y la gerencia sale con la sensación de haber cumplido un trámite. Meses después, cuando el mercado cambia o un supuesto falla, nadie recuerda qué se asumió, quién lo aprobó ni qué señales se iban a vigilar. La supervisión de la estrategia no consiste en diseñarla (es tarea de la gerencia) ni en aprobarla sin examen: consiste en asegurarse de que la estrategia sea **coherente, con supuestos explícitos, financiable, con capacidades para ejecutarla y con señales para saber si funciona**, y en acompañar su ajuste a lo largo del tiempo.
 
-La salida de esta parte es **separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **supervisión de estrategia** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la visión de Charan sobre directorios que contribuyen a la estrategia, en el análisis de Forbes y Milliken sobre los directorios como grupos de decisión estratégica, en el concepto de estrategia de Rumelt (diagnóstico, política guía y acciones coherentes), en el método de escenarios de Schwartz y en la mirada de McGrath sobre las ventajas transitorias y las señales de agotamiento. Al terminar sabrás conducir una revisión estratégica en cinco niveles, formular preguntas de desafío, verificar capital y capacidades, acordar hitos y señales y aprender y reasignar sin invadir el rol de la gerencia.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `strategy oversight`, `strategic assumption`, `capital commitment`, `strategic milestone`, `board challenge` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. revisar diagnóstico y choices → 2. challenge supuestos y escenarios → 3. verificar capital y capabilities → 4. definir milestones y signposts → 5. revisar aprendizaje y reallocation** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** strategic milestone, assumption status, capital deployment sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** la supervisión de la estrategia de su diseño operativo.
+2. **Revisar** diagnóstico, elecciones y renuncias de una estrategia.
+3. **Desafiar** los supuestos con escenarios y pruebas de estrés.
+4. **Verificar** que el capital y las capacidades alcancen para ejecutarla.
+5. **Acordar** hitos, señales de alerta y puntos de revisión y reasignación.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define strategy oversight y strategic assumption sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con strategic milestone y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué supuesto de la estrategia de tu empresa ya no es válido y quién lo notó primero? |
+| 20–60 min | Rol del directorio, diagnóstico, supuestos, escenarios, capital, señales y aprendizaje. |
+| 60–105 min | Ejemplo trabajado: revisión de un plan a tres años con prueba de estrés y señales. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **strategy oversight** | supervisión del proceso elecciones y ejecución estratégica | Distingue un hecho compatible y otro que lo refute. |
-| **strategic assumption** | condición incierta de la que depende una estrategia | Distingue un hecho compatible y otro que lo refute. |
-| **capital commitment** | recursos irreversibles o materiales dedicados a una choice | Distingue un hecho compatible y otro que lo refute. |
-| **strategic milestone** | señal de que la tesis progresa | Distingue un hecho compatible y otro que lo refute. |
-| **board challenge** | pregunta independiente que prueba lógica y evidencia | Distingue un hecho compatible y otro que lo refute. |
+| **Supervisión estratégica** | Revisión por el directorio de la lógica, los supuestos y la ejecución de la estrategia. | Preguntas, límites y seguimiento; sin decidir lo operativo. |
+| **Supuesto crítico** | Creencia cuya falsedad cambiaría el resultado de la estrategia. | Se puede probar con datos. |
+| **Escenario** | Historia plausible del entorno futuro usada para probar la estrategia. | Pocos, distintos y coherentes. |
+| **Señal de alerta (*signpost*)** | Indicador que anticipa que un supuesto falla. | Se vigila con umbral y dueño. |
+| **Hito** | Resultado intermedio verificable. | Fecha, métrica y responsable. |
+| **Reasignación** | Mover capital y talento de lo que no funciona a lo que sí. | Decisiones registradas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 212: 1. revisar diagnóstico y choices → 2. challenge supuestos y escenarios → 3. verificar capital y capabilities → 4. definir milestones y signposts → 5. revisar aprendizaje y reallocation](modelo-mental.svg)
+![Cómo supervisa el directorio la estrategia: diagnóstico y elecciones, supuestos y escenarios, capital y capacidades, hitos y señales, aprendizaje y reasignación.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. revisar diagnóstico y choices → 2. challenge supuestos y escenarios → 3. verificar capital y capabilities → 4. definir milestones y signposts → 5. revisar aprendizaje y reallocation
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El directorio supervisa estrategia asegurando que exista diagnóstico, choices, recursos, riesgos y capacidad de adaptación. No debe redactar la estrategia ni aprobar cada iniciativa; su función es challenge de supuestos, coherencia y creación de valor.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El board puede sobrepasar su rol si convierte challenge en diseño operativo. Formula preguntas y límites; deja al CEO accountable por ejecución y opciones detalladas.**
+**Cómo leer el diagrama.** Una escalera de cinco niveles. **Diagnóstico y elecciones**: qué desafío se enfrenta y qué se elige y se descarta. **Supuestos y escenarios**: qué debe cumplirse y qué cambiaría el rumbo. **Capital y capacidades**: si los recursos y las personas alcanzan. **Hitos y señales**: cómo se sabrá si va bien o mal. **Aprendizaje y reasignación**: qué se corrige y qué se reasigna. La nota dice que el directorio formula preguntas y fija límites y el CEO responde por las opciones detalladas y la ejecución; el pie, que los directorios deciden mejor si discuten supuestos y alternativas.
 
 ## 📖 Desarrollo
 
-### 1. strategy oversight: mecanismo central
+### 1. Qué le toca al directorio
 
-**strategy oversight** se entiende aquí como **supervisión del proceso elecciones y ejecución estratégica**. Esta es la pieza causal o estructural desde la que se inicia **supervisión de estrategia**: antes de revisar diagnóstico y choices, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Charan sostiene que los directorios deben participar en la estrategia **sin diseñarla**: asegurar que la gerencia tenga una, que sea sólida, que refleje la realidad del negocio y que cuente con los recursos para ejecutarse. Forbes y Milliken proponen entender el directorio como un **grupo de decisión estratégica** y muestran que su eficacia depende de procesos: el **esfuerzo** que los directores dedican, el **conflicto cognitivo** (debatir ideas con franqueza), el **uso de conocimientos y habilidades** de cada uno y la **cohesión** del grupo (que no se convierta en pensamiento de grupo). La implicancia es que el directorio aporta más cuando **desafía con información y respeto** que cuando solo aprueba o cuando intenta redactar el plan. La frontera entre desafío y diseño es: el directorio pregunta y fija límites; el CEO decide las opciones y responde por ellas.
 
-La lectura rectora de este bloque es Bob Tricker — *Corporate Governance*. Su aporte se usa para examinar **separación entre dirección, supervisión, accountability y gobierno corporativo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **strategic milestone**; regístrala con periodo, unidad, población y baseline.
+### 2. Nivel 1: diagnóstico y elecciones
 
-Relaciona el mecanismo con **strategic assumption**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Rumelt describe que una buena estrategia tiene un **núcleo**: un **diagnóstico** que identifica el desafío crítico, una **política guía** que elige un enfoque y renuncia a otros, y **acciones coherentes** que se refuerzan. El directorio comienza preguntando: ¿cuál es el **desafío crítico**?, ¿es el correcto o es una lista de metas?, ¿qué se **elige** y qué se **renuncia**?, ¿cómo se compite y por qué ganaremos?, ¿las acciones se refuerzan entre sí? Las estrategias que son listas de objetivos sin elecciones, o que prometen crecimiento en todos los frentes, merecen una pregunta directa: ¿qué no vamos a hacer? Un directorio que acepta un plan sin renuncias no está supervisando una estrategia.
 
-### 2. strategic assumption: frontera conceptual y error de clasificación
+### 3. Nivel 2: supuestos y escenarios
 
-**Definición operacional:** condición incierta de la que depende una estrategia. Su valor está en distinguirlo de **strategy oversight** y **capital commitment**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Todo plan descansa en **supuestos**: crecimiento del mercado, comportamiento de clientes y competidores, precios, costos, regulación, tecnología, tipo de cambio. El directorio pide que se **expliciten** los diez supuestos críticos, que se indique la **evidencia** de cada uno y que se señale cuáles, si fallan, cambiarían el resultado. Schwartz propone el método de **escenarios**: construir pocas historias plausibles y distintas del entorno futuro (no pronósticos) para probar la robustez de la estrategia: ¿qué pasa si ocurre A?, ¿y si B? El objetivo es descubrir **dónde la estrategia es frágil** y qué opciones se pueden preservar. Se acompaña con **pruebas de estrés**: ¿qué ocurre con la caja y los compromisos si las ventas caen 15 % o un cliente grande se va?
 
-Contrasta el problema con OECD — *G20/OECD Principles of Corporate Governance 2023*, que aporta una mirada sobre **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno**. Formula dos mini-casos: uno que sí satisface la definición de **strategic assumption** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **assumption status** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Nivel 3: capital y capacidades
 
-Antes de challenge supuestos y escenarios, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Una estrategia sin recursos es un deseo. El directorio verifica: ¿cuánto capital exige el plan y de dónde sale (generación de caja, deuda, aportes)?, ¿se respetan el apetito de riesgo y los compromisos con financistas? (clase 182), ¿hay **capacidades** (personas, tecnología, procesos, relaciones) para ejecutarlo, o hay que construirlas o comprarlas?, ¿el equipo tiene la experiencia necesaria?, ¿cuánto cambio simultáneo puede absorber la organización? Se contrasta con las **asignaciones** reales de capital y talento (clase 198): si el plan dice que la prioridad es X pero el presupuesto la subfinancia, la verdad está en el presupuesto. Y se evalúa la **secuencia**: qué debe hacerse primero para habilitar lo siguiente.
 
-### 3. capital commitment: operacionalización y medición
+### 5. Nivel 4: hitos y señales
 
-**capital commitment** significa **recursos irreversibles o materiales dedicados a una choice**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La estrategia necesita **hitos** (resultados intermedios verificables, con fecha y responsable) y **señales de alerta** (indicadores adelantados que muestran que un supuesto falla). McGrath sostiene que las ventajas competitivas son cada vez más **transitorias**; por eso, el directorio pide que la gerencia identifique cuándo una ventaja se agota (caída de márgenes, pérdida de clientes clave, aparición de sustitutos) y qué haría. Se acuerdan **umbrales de revisión**: si cierto indicador cae bajo cierto nivel durante un período, se reabre la decisión. Los hitos y señales se incorporan al tablero del directorio (clase 211) y se revisan en cada sesión; así, la supervisión no depende de una revisión anual.
 
-Ram Charan — *Boards That Deliver* orienta este bloque mediante **directorios que contribuyen a estrategia, talento, riesgo y sucesión**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **capital deployment**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Nivel 5: aprender y reasignar
 
-Al llegar a verificar capital y capabilities, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La última pregunta es: ¿qué hemos aprendido y qué cambiamos? Se revisan los resultados contra los hitos, se contrastan los supuestos con los datos y se decide: **continuar**, **ajustar**, **acelerar** o **detener**. Se pregunta por la **reasignación**: ¿qué capital y qué talento salen de lo que no funciona hacia lo que sí? Se evita la inercia: la mayoría de las estrategias fallan más por no ajustarse a tiempo que por estar mal diseñadas. Se registra el **aprendizaje** (qué se esperaba, qué ocurrió, por qué) para mejorar la próxima revisión. Duke recuerda que conviene separar la calidad de la decisión de la del resultado: una buena decisión puede dar un mal resultado por azar; lo importante es que la revisión mejore el proceso.
 
-### 4. strategic milestone: trade-offs y efectos de segundo orden
+### 7. Cuándo el directorio sobrepasa su rol
 
-**Definición:** señal de que la tesis progresa. Este concepto obliga a abandonar la idea de que **supervisión de estrategia** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de definir milestones y signposts, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* aporta una lente sobre **drivers de valor, ROIC, crecimiento y valoración por flujo descontado**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **portfolio return** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **supervisión de estrategia**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **strategic milestone** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. board challenge: gobernanza, límites e integración
-
-**board challenge** se define como **pregunta independiente que prueba lógica y evidencia** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Paul Polman & Andrew Winston — *Net Positive* se utiliza para estudiar **perspectiva de Sostenibilidad aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar revisar aprendizaje y reallocation, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **El board puede sobrepasar su rol si convierte challenge en diseño operativo. Formula preguntas y límites; deja al CEO accountable por ejecución y opciones detalladas.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **strategy oversight**, **strategic assumption**, **capital commitment**, **strategic milestone** y **board challenge** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **supervisión de estrategia** no consiste en sumar cinco definiciones. Empieza por **strategy oversight**, contrasta **strategic assumption** con **capital commitment**, incorpora **strategic milestone** como restricción o mecanismo y usa **board challenge** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. revisar diagnóstico y choices → 2. challenge supuestos y escenarios → 3. verificar capital y capabilities → 4. definir milestones y signposts → 5. revisar aprendizaje y reallocation**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El directorio sobrepasa su rol cuando convierte el desafío en **diseño operativo**: elegir proveedores, definir la estructura comercial, fijar precios. Señales: discute la ejecución de proyectos concretos, exige cambiar la estrategia sin evidencia, impone una visión personal de un director o aprueba y desaprueba iniciativas menores. También falla el directorio que **abdica**: aprueba el plan sin discusión, no verifica supuestos y solo se entera de los problemas cuando ya son crisis. El equilibrio se logra con **preguntas** y **límites**, **sesiones dedicadas** a la estrategia, **información independiente** (analistas, clientes, expertos) y un **acuerdo con el CEO** sobre cuándo y cómo se involucra el directorio.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Bob Tricker — *Corporate Governance* | separación entre dirección, supervisión, accountability y gobierno corporativo | ¿Qué supuesto de **supervisión de estrategia** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **supervisión de estrategia** ayuda a desafiar? |
-| Ram Charan — *Boards That Deliver* | directorios que contribuyen a estrategia, talento, riesgo y sucesión | ¿Qué supuesto de **supervisión de estrategia** ayuda a desafiar? |
-| Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* | drivers de valor, ROIC, crecimiento y valoración por flujo descontado | ¿Qué supuesto de **supervisión de estrategia** ayuda a desafiar? |
-| Paul Polman & Andrew Winston — *Net Positive* | perspectiva de Sostenibilidad aplicada al problema de la clase | ¿Qué supuesto de **supervisión de estrategia** ayuda a desafiar? |
-
-En **supervisión de estrategia**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **strategy oversight**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Charan | Participación del directorio en la estrategia sin diseñarla. | Visión de práctica. | ¿Qué estrategia ve el directorio y cuándo? |
+| Forbes y Milliken | Procesos del directorio como grupo de decisión: esfuerzo, conflicto cognitivo, conocimiento y cohesión. | Marco teórico con poca evidencia directa. | ¿Se debate o se aprueba? |
+| Rumelt | Diagnóstico, política guía y acciones coherentes. | No fija cómo supervisar. | ¿Cuál es el desafío crítico y qué se renuncia? |
+| Schwartz | Escenarios para probar estrategias. | Exige imaginación y tiempo. | ¿Dónde es frágil el plan? |
+| McGrath | Ventajas transitorias y señales de agotamiento. | Basado en ejemplos de empresas. | ¿Qué señal anticipa que la ventaja se agota? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Management propone entrar a un país nuevo con TAM grande. El board pregunta por forecast de ventas pero no por barreras regulatorias, capabilities locales ni alternativa de partnership.
+**Situación (hipotética).** El directorio de una empresa de servicios revisa un plan a tres años. Ventas actuales: 100.000 millones de pesos; EBITDA: 12.000 millones (12 %); deuda neta: 14.400 millones (1,2 veces el EBITDA). El plan propone crecer 9 % anual: 2 puntos por precio, 3 por volumen en el negocio actual y 4 por un nuevo segmento.
 
-**Paso 1 — revisar diagnóstico y choices.** La gerencia escribe primero el supuesto asociado a **strategy oversight** y evita convertirlo en hecho. Luego busca **strategic milestone** para contrastarlo en el caso de **supervisión de estrategia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Proyección del plan.** Ventas al año 3: 100.000 × 1,09³ = 129.503 millones.
 
-**Paso 2 — challenge supuestos y escenarios.** La gerencia escribe primero el supuesto asociado a **strategic assumption** y evita convertirlo en hecho. Luego busca **assumption status** para contrastarlo en el caso de **supervisión de estrategia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Supuestos críticos.** (1) El nuevo segmento aporta 4 puntos de crecimiento. (2) Se mantiene el margen de contribución de 18 %. (3) Un cliente grande (14 % de las ventas) renueva. (4) La inversión de 6.000 millones se ejecuta en tres años. (5) La empresa contrata 40 especialistas en 18 meses.
 
-**Paso 3 — verificar capital y capabilities.** La gerencia escribe primero el supuesto asociado a **capital commitment** y evita convertirlo en hecho. Luego busca **capital deployment** para contrastarlo en el caso de **supervisión de estrategia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Prueba de escenarios.**
 
-**Paso 4 — definir milestones y signposts.** La gerencia escribe primero el supuesto asociado a **strategic milestone** y evita convertirlo en hecho. Luego busca **portfolio return** para contrastarlo en el caso de **supervisión de estrategia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Escenario | Crecimiento anual | Ventas año 3 (millones) | Diferencia con el plan |
+|---|---|---|---|
+| Plan | 9 % | 129.503 | — |
+| El nuevo segmento rinde la mitad | 7 % | 122.504 | −6.999 |
+| Además se pierde el cliente grande en el año 2 | Se calcula aparte | Ver nota | |
 
-**Paso 5 — revisar aprendizaje y reallocation.** La gerencia escribe primero el supuesto asociado a **board challenge** y evita convertirlo en hecho. Luego busca **strategy review depth** para contrastarlo en el caso de **supervisión de estrategia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+(Con 1,07³ = 1,225043; 100.000 × 1,225043 = 122.504.) La caída de 6.999 millones de ventas, con 18 % de margen de contribución, representa 6.999 × 0,18 ≈ 1.260 millones de EBITDA menos al año 3.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **supervisión de estrategia**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Pérdida del cliente grande.** El 14 % de las ventas actuales son 14.000 millones; a margen de contribución de 18 %, 2.520 millones de EBITDA anuales. Si se pierde, el EBITDA del año 3 en el escenario combinado se reduce en 2.520 adicionales (sin considerar crecimiento de ese cliente).
+
+**Capital y capacidad.** La inversión de 6.000 millones se financia con 50 % de deuda (3.000) y 50 % de caja. Deuda neta resultante: 14.400 + 3.000 = 17.400 millones. Con un EBITDA estresado de −15 % (12.000 × 0,85 = 10.200): 17.400 ÷ 10.200 = 1,71 veces, por debajo del límite de apetito de 2,5. El plan es financiable; el cuello de botella es la contratación de 40 especialistas en 18 meses (la empresa contrató 12 el último año): el directorio pregunta por el plan de talento.
+
+**Hitos y señales.**
+
+| Hito o señal | Umbral | Revisión |
+|---|---|---|
+| Ventas del nuevo segmento a 12 meses | ≥ 3.000 millones | Si < 1.500 millones, se reabre la decisión de inversión |
+| Contratación de especialistas | ≥ 20 en 9 meses | Si < 12, se revisa el calendario |
+| Renovación del cliente grande | Conversaciones iniciadas a 6 meses del vencimiento | Informe al comité de riesgos |
+| Margen de contribución | ≥ 17,5 % | Si 2 trimestres bajo 16,5 %, revisión de precios |
+| Deuda neta/EBITDA | ≤ 2,0 | Si > 2,3, se congela el gasto de capital |
+
+**Resultado de la revisión.** El directorio no rechaza ni diseña: **aprueba la estrategia con condiciones**: un plan de talento antes de 60 días, una reunión de revisión a los seis meses con las señales, y la opción de detener la segundo tramo de la inversión (3.000 millones) si el nuevo segmento no alcanza los hitos. Registra el aprendizaje en el acta.
+
+**Cuidados.** Las proyecciones son escenarios, no pronósticos; las condiciones de financiamiento y covenants se verifican con asesoría y contratos; las cifras son ilustrativas.
+
+**Qué muestra.** (1) Los supuestos se hicieron explícitos y se estresaron. (2) La verificación de capital identificó el cuello de botella en capacidades. (3) Los hitos y señales hacen posible reasignar a tiempo.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **strategy oversight** | supervisión del proceso elecciones y ejecución estratégica | Cuando strategic milestone es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **strategic assumption** | condición incierta de la que depende una estrategia | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Supervisar frente a diseñar.** El directorio hace preguntas y fija límites; la gerencia propone y decide las opciones. Cuando el directorio diseña, diluye la responsabilidad del CEO.
 
-**Frontera de aplicación:** El board puede sobrepasar su rol si convierte challenge en diseño operativo. Formula preguntas y límites; deja al CEO accountable por ejecución y opciones detalladas.
+**Límites.** El directorio puede sobrepasar su rol si convierte el desafío en diseño operativo; formula preguntas y límites y deja al CEO responsable de la ejecución y de las opciones detalladas. Los escenarios no son pronósticos. Las señales de alerta pueden dar falsas alarmas. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre supervisión de estrategia |
+| Nivel | Cómo participa en la estrategia |
 |---|---|
-| **Profesional** | usa **supervisión de estrategia** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **strategy oversight** y **strategic assumption** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta strategic milestone con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si supervisión de estrategia cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de supervisión de estrategia reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **supervisión de estrategia** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta datos que contrastan los supuestos. |
+| **Jefe / Team Lead** | Traduce la estrategia a metas y señales de su equipo. |
+| **Gerente** | Explicita los supuestos de su parte del plan y acepta el desafío. |
+| **CEO / Director** | Presenta una estrategia con renuncias y supuestos y acepta ajustes. |
+| **Founder / Owner** | Acepta que el directorio cuestione su visión y la contraste con datos. |
 
 ## 🏢 Caso ejecutivo
 
-Management propone entrar a un país nuevo con TAM grande. El board pregunta por forecast de ventas pero no por barreras regulatorias, capabilities locales ni alternativa de partnership.
+Una empresa de educación con 2.700 personas y ventas de 80.000 millones de pesos presenta a su directorio un plan quinquenal con ocho prioridades, inversiones por 14.000 millones y una meta de duplicar las ventas. El plan asume matrícula creciente en un contexto de caída demográfica en dos de sus tres mercados, el lanzamiento de una plataforma en línea sin presupuesto de talento tecnológico, y la compra de dos competidores pequeños cuyos datos no se han revisado. El directorio, de siete miembros, aprobó el plan anterior en 40 minutos y no volvió a verlo. Hoy el 60 % de las metas del plan anterior no se cumplió, y nadie sabe por qué. Los dos directores con experiencia en tecnología creen que el plan «no es creíble»; el presidente quiere aprobarlo para «dar una señal al mercado»; el CEO dice que «los detalles son de gestión».
 
-Entrega un **decision brief de supervisión de estrategia** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega una **revisión estratégica del directorio** que contenga: (a) las preguntas sobre diagnóstico, elecciones y renuncias; (b) los diez supuestos críticos con su evidencia y la prueba de escenarios; (c) la verificación de capital, financiamiento y capacidades, con pruebas de estrés; (d) los hitos, las señales de alerta y los umbrales de revisión; (e) el mecanismo de aprendizaje y reasignación y el acuerdo con el CEO sobre el rol del directorio; (f) las condiciones con que se aprobaría y las verificaciones contractuales y legales.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **supervisión de estrategia** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. revisar diagnóstico y choices → 2. challenge supuestos y escenarios → 3. verificar capital y capabilities → 4. definir milestones y signposts → 5. revisar aprendizaje y reallocation** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta strategic milestone, assumption status; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe el desafío crítico de una estrategia y cinco preguntas de desafío sobre sus elecciones.
+2. Lista los diez supuestos críticos de un plan y marca los tres más frágiles.
+3. Diseña dos escenarios para una estrategia y calcula su efecto en ventas y EBITDA.
+4. Define cinco hitos y cinco señales de alerta con umbrales.
+5. Redacta un acuerdo breve con el CEO sobre cuándo se involucra el directorio.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar strategy oversight y strategic assumption como sinónimos | Se pierde la distinción entre “supervisión del proceso elecciones y ejecución estratégica” y “condición incierta de la que depende una estrategia” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar aprendizaje y reallocation” | Se saltó “revisar diagnóstico y choices” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. revisar diagnóstico y choices → 2. challenge supuestos y escenarios → 3. verificar capital y capabilities → 4. definir milestones y signposts → 5. revisar aprendizaje y reallocation y marca el primer supuesto no demostrado. |
-| Optimizar solo strategic milestone | La métrica local sustituyó al resultado del sistema | Contrástala con assumption status y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre supervisión de estrategia | El board puede sobrepasar su rol si convierte challenge en diseño operativo. Formula preguntas y límites; deja al CEO accountable por ejecución y opciones detalladas. |
-| No fijar revisión | Una decisión sobre supervisión de estrategia se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Aprobar planes ya cerrados | Se presenta al final | Revisar diagnóstico y supuestos antes. |
+| Estrategia sin renuncias | Se quiere complacer a todos | Preguntar qué no se hará. |
+| Supuestos implícitos | Se da por sentado | Listar y estresar los críticos. |
+| Plan sin capital ni talento | Se separa de la asignación | Verificar financiamiento y capacidades. |
+| Revisión anual única | Se trata como evento | Hitos y señales en el tablero del directorio. |
+| Diseñar desde el directorio | Falta de claridad de roles | Preguntas, límites y responsabilidad del CEO. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **strategy oversight** y **strategic assumption** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **capital commitment** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **revisar diagnóstico y choices → challenge supuestos y escenarios** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **strategic milestone** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **supervisión de estrategia**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **El board puede sobrepasar su rol si convierte challenge en diseño operativo. Formula preguntas y límites; deja al CEO accountable por ejecución y opciones detalladas.**?
+1. ¿Cuál es el rol del directorio frente a la estrategia?
+2. ¿Qué elementos tiene el núcleo de una buena estrategia según Rumelt?
+3. ¿Para qué sirven los escenarios y las pruebas de estrés?
+4. ¿Qué verifica el directorio sobre capital y capacidades?
+5. ¿Qué son los hitos y las señales de alerta?
+6. ¿Qué significa aprender y reasignar?
+7. ¿Cuándo el directorio sobrepasa su rol?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Asegurar que exista una estrategia sólida, con supuestos explícitos y recursos, y supervisar su ejecución sin diseñarla.
+2. Diagnóstico del desafío crítico, política guía que elige y renuncia, y acciones coherentes.
+3. Para descubrir dónde la estrategia es frágil y qué opciones preservar, sin pretender pronosticar.
+4. Cuánto capital se necesita y de dónde sale, si respeta el apetito de riesgo y si hay personas, tecnología y procesos para ejecutar.
+5. Los hitos son resultados intermedios verificables; las señales son indicadores adelantados de que un supuesto falla.
+6. Contrastar resultados y supuestos con los datos y decidir continuar, ajustar, acelerar o detener, moviendo capital y talento.
+7. Cuando convierte el desafío en diseño operativo o decide la ejecución que corresponde al CEO.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/212-supervision-de-estrategia/`:
 
-- `strategy-memo.md` con el problema específico de **supervisión de estrategia**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **supervisión de estrategia** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **strategy oversight**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Management propone entrar a un país nuevo con TAM grande. El board pregunta por forecast de ventas pero no por barreras regulatorias, capabilities locales ni alternativa de partnership.** y el dato que podría invalidar la recomendación.
+- `strategy-memo.md` (plantilla [Strategy memo](../../../../templates/strategy-memo.md)) con la revisión estratégica del caso ejecutivo;
+- `board-or-executive-memo.md` (plantilla [Board or executive memo](../../../../templates/board-or-executive-memo.md)) con las condiciones de aprobación y el acuerdo con el CEO;
+- `decision-journal.md` con los supuestos, las pruebas de escenarios, los hitos y las señales.
 
 ## 📗 Fuentes y verificación
 
-- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** separación entre dirección, supervisión, accountability y gobierno corporativo. Lectura selectiva sobre **supervisión de estrategia**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, deberes del directorio y divulgación como referencia de gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Ram Charan — *Boards That Deliver* (John Wiley & Sons, Incorporated, 2007). **Uso en esta clase:** directorios que contribuyen a estrategia, talento, riesgo y sucesión. Lectura selectiva sobre **supervisión de estrategia**. **Localizador:** [ISBN-13 9781118046616](https://openlibrary.org/isbn/9781118046616).
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **supervisión de estrategia**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Paul Polman & Andrew Winston — *Net Positive* (Harvard Business Review Press, 2021). **Uso en esta clase:** perspectiva de Sostenibilidad aplicada al problema de la clase. Lectura selectiva sobre **supervisión de estrategia**. **Localizador:** [ISBN-13 9781647821302](https://openlibrary.org/isbn/9781647821302).
-- Richard Leblanc & James Gillies — *Inside the Boardroom* (John Wiley & Sons, Incorporated, 2009). **Uso en esta clase:** comportamiento efectivo del directorio, composición y dinámica de gobierno. Lectura selectiva sobre **supervisión de estrategia**. **Localizador:** [ISBN-13 9780470739952](https://openlibrary.org/isbn/9780470739952).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **supervisión de estrategia** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **supervisión de estrategia**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **supervisión de estrategia** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **supervisión de estrategia** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **supervisión de estrategia** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Ram Charan — *Boards That Deliver* (John Wiley & Sons, Incorporated, 2007). **Uso en esta clase:** participación del directorio en la estrategia sin diseñarla. Lectura selectiva sobre **supervisión de estrategia**. **Localizador:** [ISBN-13 9781118046616](https://openlibrary.org/isbn/9781118046616).
+- Daniel P. Forbes & Frances J. Milliken — *Cognition and Corporate Governance: Understanding Boards of Directors as Strategic Decision-Making Groups* (The Academy of Management Review, 1999). **Uso en esta clase:** procesos del directorio como grupo de decisión estratégica. Lectura selectiva sobre **supervisión de estrategia**. **Localizador:** [DOI 10.2307/259138](https://doi.org/10.2307/259138).
+- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **supervisión de estrategia**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
+- Peter Schwartz — *The Art of the Long View* (Doubleday/Currency, 1991). **Uso en esta clase:** escenarios para probar estrategias. Lectura selectiva sobre **supervisión de estrategia**. **Localizador:** [ISBN-13 9780385267311](https://openlibrary.org/isbn/9780385267311).
+- Rita Gunther McGrath — *The End of Competitive Advantage* (Harvard Business Review Press, 2013). **Uso en esta clase:** ventajas transitorias y señales de agotamiento. Lectura selectiva sobre **supervisión de estrategia**. **Localizador:** [ISBN-13 9781422172810](https://openlibrary.org/isbn/9781422172810).
 
-> **Regla de fuentes para Supervisión de estrategia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **supervisión de estrategia** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Supervisión de estrategia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los covenants, contratos de financiamiento y obligaciones regulatorias. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

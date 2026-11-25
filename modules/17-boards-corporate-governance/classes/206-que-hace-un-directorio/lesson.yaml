@@ -5,28 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir board mandate de oversight mediante evidencia observable."
-  - "Aplicar la secuencia: definir mandato y reserved matters → crear calendario anual → establecer información mínima → desafiar estrategia riesgo y performance → seguir acciones sin microgestión."
-  - "Interpretar board time allocation, decision quality, management follow-up sin atribuir causalidad automática."
-  - "Resolver el caso de qué hace un directorio con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Definir el mandato y las materias reservadas de un directorio."
+  - "Diseñar un calendario anual alineado con ese mandato."
+  - "Establecer la información mínima que necesita el directorio para decidir."
+  - "Distinguir supervisión, asesoría y gestión, y evitar la microgestión."
+  - "Medir el uso del tiempo del directorio y ajustarlo."
 deliverable: "board-or-executive-memo.md"
 references:
   - "Bob Tricker — *Corporate Governance*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
-  - "Michael E. Porter & Mark R. Kramer — *Creating Shared Value*"
-  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
-  - "Robert A. G. Monks & Nell Minow — *Corporate Governance*"
   - "Ram Charan — *Boards That Deliver*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+  - "Renée B. Adams, Benjamin E. Hermalin & Michael S. Weisbach — *The Role of Boards of Directors in Corporate Governance: A Conceptual Framework and Survey*"
+  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
 limits:
-  - "Un board demasiado distante también falla. Oversight requiere profundidad suficiente para detectar problemas sin reemplazar a management; ajusta según tamaño, crisis y regulación."
+  - "Un directorio demasiado distante también falla: la supervisión requiere profundidad suficiente para detectar problemas sin reemplazar a la gerencia; ajusta según tamaño, crisis y regulación."
 evidence_signals:
-  - "board time allocation"
-  - "decision quality"
-  - "management follow-up"
-  - "agenda balance"
-  - "information timeliness"
+  - "mandato escrito del directorio"
+  - "calendario anual diseñado"
+  - "información mínima definida"
+  - "uso del tiempo medido"

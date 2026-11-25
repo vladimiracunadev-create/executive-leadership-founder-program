@@ -10,217 +10,229 @@
 
 ## 🎯 Propósito
 
-La efectividad del directorio depende de composición, información, agenda, confianza, challenge, liderazgo del chair y seguimiento. Evaluaciones periódicas deben producir cambios observables, no un formulario de satisfacción anual.
+Un directorio puede tener un currículo impresionante (ex gerentes generales, abogados, financistas, expertos en tecnología) y ser, aun así, un mal directorio: se reúne, aprueba y se despide sin haber desafiado nada importante. También puede tener directores menos célebres y funcionar muy bien, porque hace las preguntas correctas, trabaja con información de calidad y se tiene confianza para discrepar. La efectividad de un directorio no se infiere de su composición ni de su asistencia; se **observa en lo que hace con su tiempo y en la calidad de sus decisiones**. Y como casi ningún directorio se evalúa a sí mismo con rigor (el tema es incómodo, nadie quiere herir a un colega), los problemas persisten por años: directores que no se preparan, presidentes que dominan la conversación, comités que no aportan, composiciones que no se renuevan.
 
-La salida de esta parte es **separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **efectividad del directorio** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase propone un enfoque sencillo para evaluar y mejorar al directorio: definir el mandato y las capacidades requeridas, observar la agenda y la conducta, reunir retroalimentación individual y colectiva, elegir dos o tres mejoras con seguimiento y revisar la composición con criterio. Se apoya en el análisis de Forbes y Milliken sobre los procesos que hacen efectivos a los directorios, en la revisión de Adams, Hermalin y Weisbach sobre sus roles y su composición, en Charan y en LeBlanc y Gillies sobre cómo funcionan las salas, y en Tricker sobre sus responsabilidades. Al terminar sabrás diseñar una evaluación anual útil, interpretar un mapa de capacidades, medir indicadores de conducta y convertir los hallazgos en acciones.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `board effectiveness`, `skills matrix`, `board evaluation`, `board refreshment`, `psychological safety` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. definir mandato y skills → 2. observar agenda y conducta → 3. recoger feedback individual y colectivo → 4. elegir 2 o 3 mejoras → 5. revisar composición y progreso** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** meeting effectiveness, challenge quality, skills gaps sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** el mandato y las capacidades que necesita el directorio.
+2. **Observar** el uso del tiempo y la conducta del directorio con datos.
+3. **Recoger** retroalimentación individual y colectiva de forma confidencial.
+4. **Elegir** dos o tres mejoras y hacerles seguimiento.
+5. **Revisar** la composición y la renovación con criterios explícitos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define board effectiveness y skills matrix sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con meeting effectiveness y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué haría diferente tu directorio si dijera con franqueza lo que nadie dice en la sala? |
+| 20–60 min | Procesos, mandato, capacidades, observación, retroalimentación, mejoras y composición. |
+| 60–105 min | Ejemplo trabajado: evaluación de un directorio de siete personas con datos de sesión. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **board effectiveness** | capacidad del board para cumplir mandato con buen juicio y conducta | Distingue un hecho compatible y otro que lo refute. |
-| **skills matrix** | mapa de capacidades y experiencias requeridas | Distingue un hecho compatible y otro que lo refute. |
-| **board evaluation** | proceso para analizar desempeño colectivo e individual | Distingue un hecho compatible y otro que lo refute. |
-| **board refreshment** | renovación deliberada de composición | Distingue un hecho compatible y otro que lo refute. |
-| **psychological safety** | condición para preguntas y desacuerdo sin represalia | Distingue un hecho compatible y otro que lo refute. |
+| **Efectividad del directorio** | Capacidad de cumplir su mandato con decisiones y supervisión de calidad. | Desafío, información, conducta y resultados. |
+| **Mapa de capacidades (*skills matrix*)** | Tabla de capacidades requeridas frente a las de cada director. | Muestra brechas y redundancias. |
+| **Conflicto cognitivo** | Desacuerdo constructivo sobre ideas y supuestos. | Se debate antes de decidir. |
+| **Diversidad cognitiva** | Variedad de perspectivas y modos de pensar. | No equivale a variedad de currículos. |
+| **Autoevaluación** | Proceso por el cual el directorio se evalúa a sí mismo. | Encuesta, entrevistas y plan de acción. |
+| **Renovación** | Incorporación y salida planificada de directores. | Plazos, criterios y proceso. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 215: 1. definir mandato y skills → 2. observar agenda y conducta → 3. recoger feedback individual y colectivo → 4. elegir 2 o 3 mejoras → 5. revisar composición y progreso](modelo-mental.svg)
+![Un directorio que desafía frente a uno de formalidad: usa la experiencia, presidente que habilita, evalúa y mejora, frente a currículos sin uso, unanimidad rápida y evaluación sin efecto.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir mandato y skills → 2. observar agenda y conducta → 3. recoger feedback individual y colectivo → 4. elegir 2 o 3 mejoras → 5. revisar composición y progreso
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **La efectividad del directorio depende de composición, información, agenda, confianza, challenge, liderazgo del chair y seguimiento. Evaluaciones periódicas deben producir cambios observables, no un formulario de satisfacción anual.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Diversidad de CV no garantiza diversidad cognitiva ni challenge. Evalúa cómo se usa la experiencia en decisiones reales y si el chair habilita conflicto productivo.**
+**Cómo leer el diagrama.** Dos paneles. A la izquierda, el **directorio que desafía**: usa la experiencia (el conocimiento de cada director aparece en las decisiones reales), tiene un presidente que habilita el conflicto productivo y escucha la disidencia, y evalúa y mejora con dos o tres cambios al año. A la derecha, el **directorio de formalidad**: currículos sin uso, unanimidad rápida (se aprueba lo que llega sin discusión) y evaluación sin efecto (se llena el formulario y no cambia nada). La nota advierte que la diversidad de currículos no garantiza diversidad cognitiva ni desafío; el pie, que las evaluaciones se tratan con confidencialidad y de forma agregada.
 
 ## 📖 Desarrollo
 
-### 1. board effectiveness: mecanismo central
+### 1. Qué hace efectivo a un directorio
 
-**board effectiveness** se entiende aquí como **capacidad del board para cumplir mandato con buen juicio y conducta**. Esta es la pieza causal o estructural desde la que se inicia **efectividad del directorio**: antes de definir mandato y skills, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Forbes y Milliken propusieron que la efectividad de un directorio no se explica por la composición formal (porcentaje de independientes, tamaño, currículo) sino por los **procesos** que ocurren en él: el **esfuerzo** (tiempo y preparación), el **uso del conocimiento y las habilidades** de cada director, el **conflicto cognitivo** (desafío franco de ideas) y la **cohesión** (confianza para trabajar juntos sin caer en el pensamiento de grupo). Adams, Hermalin y Weisbach, al revisar la evidencia económica, concluyen que la composición y la estructura de los directorios responden a las condiciones de cada empresa y que no hay una fórmula universal. La implicancia práctica: para evaluar, hay que **mirar cómo trabaja el directorio**, no solo quiénes lo integran.
 
-La lectura rectora de este bloque es Bob Tricker — *Corporate Governance*. Su aporte se usa para examinar **separación entre dirección, supervisión, accountability y gobierno corporativo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **meeting effectiveness**; regístrala con periodo, unidad, población y baseline.
+### 2. Mandato y capacidades
 
-Relaciona el mecanismo con **skills matrix**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La evaluación comienza por el **mandato** (clase 206): ¿qué debe lograr este directorio para esta empresa en esta etapa? De allí se deducen las **capacidades** necesarias: experiencia en el negocio y en la industria, finanzas y control, gestión de riesgos, tecnología y datos, talento y sucesión, regulación, conocimiento de los mercados y de los clientes, gestión de crisis. Un **mapa de capacidades** cruza las requeridas con las de cada director; muestra brechas (capacidades que nadie tiene), redundancias (cinco directores con la misma experiencia) y riesgos de continuidad (una capacidad crítica que depende de una persona que se retira). El mapa debe basarse en **evidencia** y no en autoevaluaciones optimistas. Conviene complementar con **perfiles de comportamiento**: capacidad de hacer buenas preguntas, de escuchar, de discrepar con respeto.
 
-### 2. skills matrix: frontera conceptual y error de clasificación
+### 3. Observar: tiempo y conducta
 
-**Definición operacional:** mapa de capacidades y experiencias requeridas. Su valor está en distinguirlo de **board effectiveness** y **board evaluation**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La forma más directa de evaluar es **observar** cómo se usa el tiempo: porcentaje de la sesión en estrategia, riesgos, personas y cumplimiento (clase 206); proporción de **tiempo de palabra** de cada persona (el presidente, el CEO y cada director); número de **preguntas** y su naturaleza (informativas, desafiantes, operativas); frecuencia de **disidencias** registradas; **calidad de la preparación** (¿se leyeron los materiales?); y **seguimiento** de acuerdos. LeBlanc y Gillies, que observaron salas de directorio, describen patrones frecuentes: el presidente o el CEO hablan más de la mitad del tiempo, unos pocos directores concentran las intervenciones y las preguntas de fondo se hacen en los pasillos. Estos datos, presentados con respeto, son más persuasivos que una opinión.
 
-Contrasta el problema con OECD — *G20/OECD Principles of Corporate Governance 2023*, que aporta una mirada sobre **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno**. Formula dos mini-casos: uno que sí satisface la definición de **skills matrix** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **challenge quality** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Retroalimentación individual y colectiva
 
-Antes de observar agenda y conducta, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La **autoevaluación** combina: una **encuesta** anónima y breve (por ejemplo, 20 preguntas en escala de 1 a 5 sobre información, estrategia, riesgos, relación con el CEO, funcionamiento de los comités, cultura y conducta) y **entrevistas** individuales, a cargo del presidente, de un director independiente líder o de un facilitador **externo** (recomendable al menos cada dos o tres años, porque suelen decirle cosas que los directores no se dicen entre sí). También hay **evaluación de pares** (cada director recibe retroalimentación sobre su contribución, de forma confidencial y constructiva) y **opinión del CEO y del equipo directivo** sobre cómo es el directorio para ellos. Los resultados se presentan **agregados** y se discuten en sesión; la retroalimentación individual se entrega en privado.
 
-### 3. board evaluation: operacionalización y medición
+### 5. Elegir dos o tres mejoras
 
-**board evaluation** significa **proceso para analizar desempeño colectivo e individual**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Una evaluación que produce 30 recomendaciones no cambia nada. El directorio selecciona **dos o tres mejoras** de alto impacto, con **responsable**, **plazo** e **indicador**. Ejemplos: «reducir el tiempo en informes al 25 % de la sesión»; «establecer rondas de opinión iniciadas por los directores menos habladores»; «crear un comité de riesgos y redefinir la información de ciberseguridad»; «incorporar a un director con experiencia en tecnología». Se revisan al año siguiente y en cada sesión se dedica un breve espacio al **seguimiento**. Un directorio efectivo acepta la incomodidad de mirarse y de mejorar.
 
-Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* orienta este bloque mediante **drivers de valor, ROIC, crecimiento y valoración por flujo descontado**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **skills gaps**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Composición, renovación y diversidad
 
-Al llegar a recoger feedback individual y colectivo, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La renovación equilibra **continuidad** (conocimiento acumulado) y **frescura** (nuevas perspectivas). Criterios: un **proceso transparente** de selección con el mapa de capacidades, definición de **independencia** conforme a la ley y los estatutos (clase 209), **tiempos máximos de permanencia** o revisiones periódicas, **tamaño** adecuado (suficiente para cubrir capacidades y comités, no tan grande que impida la discusión), y **diversidad** en un sentido amplio (género, edad, trayectoria, disciplina, geografía). Pero Forbes y Milliken recuerdan que la **diversidad de currículos no garantiza diversidad cognitiva ni desafío**: lo que importa es si las perspectivas distintas se escuchan y se usan. Los procesos de nominación, los plazos de mandato y las reglas de elección dependen de la ley y los estatutos y se verifican con asesoría.
 
-### 4. board refreshment: trade-offs y efectos de segundo orden
+### 7. Cuándo un directorio necesita un cambio mayor
 
-**Definición:** renovación deliberada de composición. Este concepto obliga a abandonar la idea de que **efectividad del directorio** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de elegir 2 o 3 mejoras, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* aporta una lente sobre **responsabilidad gerencial, propósito, organización y resultados**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **action closure** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **efectividad del directorio**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **board refreshment** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. psychological safety: gobernanza, límites e integración
-
-**psychological safety** se define como **condición para preguntas y desacuerdo sin represalia** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Ram Charan — *Boards That Deliver* se utiliza para estudiar **directorios que contribuyen a estrategia, talento, riesgo y sucesión** y contrastar la recomendación final. Al ejecutar revisar composición y progreso, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Diversidad de CV no garantiza diversidad cognitiva ni challenge. Evalúa cómo se usa la experiencia en decisiones reales y si el chair habilita conflicto productivo.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **board effectiveness**, **skills matrix**, **board evaluation**, **board refreshment** y **psychological safety** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **efectividad del directorio** no consiste en sumar cinco definiciones. Empieza por **board effectiveness**, contrasta **skills matrix** con **board evaluation**, incorpora **board refreshment** como restricción o mecanismo y usa **psychological safety** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir mandato y skills → 2. observar agenda y conducta → 3. recoger feedback individual y colectivo → 4. elegir 2 o 3 mejoras → 5. revisar composición y progreso**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Algunas señales indican que no bastan los ajustes: **decisiones importantes que pasan sin discusión**, un presidente o un director que **dominan** y silencian, **conflictos personales** que bloquean, **información que se esconde**, **asistencia o preparación** sistemáticamente bajas, **brechas graves** de capacidades en riesgos críticos, o **fracasos repetidos** de supervisión. Las respuestas pueden ser: reforzar el rol del presidente o cambiarlo, incorporar directores, pedir la salida de miembros que no aportan (con respeto y de acuerdo con los estatutos), redefinir comités o reducir o ampliar el tamaño. Estas decisiones involucran a los propietarios y se toman con asesoría legal.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Bob Tricker — *Corporate Governance* | separación entre dirección, supervisión, accountability y gobierno corporativo | ¿Qué supuesto de **efectividad del directorio** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **efectividad del directorio** ayuda a desafiar? |
-| Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* | drivers de valor, ROIC, crecimiento y valoración por flujo descontado | ¿Qué supuesto de **efectividad del directorio** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **efectividad del directorio** ayuda a desafiar? |
-| Ram Charan — *Boards That Deliver* | directorios que contribuyen a estrategia, talento, riesgo y sucesión | ¿Qué supuesto de **efectividad del directorio** ayuda a desafiar? |
-
-En **efectividad del directorio**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **board effectiveness**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Forbes y Milliken | Procesos del directorio: esfuerzo, conocimiento, conflicto cognitivo, cohesión. | Marco con poca contrastación directa. | ¿Se debate o se aprueba? |
+| Adams, Hermalin y Weisbach | Composición y estructura como respuesta al contexto. | Revisión de evidencia económica. | ¿Qué composición necesita esta empresa? |
+| Charan | Directorios efectivos y su trabajo. | Visión de práctica. | ¿Qué hacemos que solo el directorio puede hacer? |
+| LeBlanc y Gillies | Dinámicas reales y conductas en la sala. | Casos específicos. | ¿Quién habla y quién calla? |
+| Tricker | Responsabilidades del directorio. | No fija métodos de evaluación. | ¿Cumplimos nuestras tareas? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** El board tiene experiencia financiera y legal, pero nadie entiende producto digital ni cyber. Todos son ex colegas del fundador y casi nunca existe desacuerdo visible.
+**Situación (hipotética).** Un directorio de siete personas (presidente, cinco directores y el CEO) se evalúa por primera vez. La sesión analizada dura 4 horas (240 minutos).
 
-**Paso 1 — definir mandato y skills.** La gerencia escribe primero el supuesto asociado a **board effectiveness** y evita convertirlo en hecho. Luego busca **meeting effectiveness** para contrastarlo en el caso de **efectividad del directorio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Mapa de capacidades requeridas (8) frente a los directores con experiencia sólida.**
 
-**Paso 2 — observar agenda y conducta.** La gerencia escribe primero el supuesto asociado a **skills matrix** y evita convertirlo en hecho. Luego busca **challenge quality** para contrastarlo en el caso de **efectividad del directorio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Capacidad | Directores con experiencia | % de 7 |
+|---|---|---|
+| Industria y clientes | 5 | 71 % |
+| Finanzas y control | 4 | 57 % |
+| Riesgos | 2 | 29 % |
+| Tecnología y datos | 1 | 14 % |
+| Talento y sucesión | 2 | 29 % |
+| Regulación y asuntos públicos | 1 | 14 % |
+| Gestión de crisis | 2 | 29 % |
+| Mercados internacionales | 0 | 0 % |
 
-**Paso 3 — recoger feedback individual y colectivo.** La gerencia escribe primero el supuesto asociado a **board evaluation** y evita convertirlo en hecho. Luego busca **skills gaps** para contrastarlo en el caso de **efectividad del directorio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Brechas.** Mercados internacionales (0 directores) y tecnología y regulación (1 cada una, ambos con riesgo de retiro en dos años). Redundancia: industria y clientes (5 de 7).
 
-**Paso 4 — elegir 2 o 3 mejoras.** La gerencia escribe primero el supuesto asociado a **board refreshment** y evita convertirlo en hecho. Luego busca **action closure** para contrastarlo en el caso de **efectividad del directorio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Observación de una sesión (tiempo de palabra).**
 
-**Paso 5 — revisar composición y progreso.** La gerencia escribe primero el supuesto asociado a **psychological safety** y evita convertirlo en hecho. Luego busca **director contribution** para contrastarlo en el caso de **efectividad del directorio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Participante | Minutos | % |
+|---|---|---|
+| Presidente | 67 | 27,9 |
+| CEO | 58 | 24,2 |
+| Director A | 42 | 17,5 |
+| Director B | 31 | 12,9 |
+| Director C | 24 | 10,0 |
+| Director D | 11 | 4,6 |
+| Director E | 7 | 2,9 |
+| **Total** | **240** | **100** |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **efectividad del directorio**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+El presidente y el CEO usan 125 minutos (52,1 %); los directores D y E, que son los de tecnología y regulación, solo 18 minutos (7,5 %).
+
+**Encuesta (1 a 5, promedio de los siete).**
+
+| Dimensión | Puntaje |
+|---|---|
+| Calidad de la información | 3,1 |
+| Tiempo dedicado a estrategia | 2,6 |
+| Facilitación del presidente | 3,8 |
+| Comodidad para discrepar | 2,9 |
+| Funcionamiento de los comités | 3,4 |
+| Cultura e integridad | 4,0 |
+
+**Decisiones y disidencias.** De 38 decisiones del año, 36 se aprobaron por unanimidad (94,7 %); hubo 2 disidencias registradas.
+
+**Hallazgos.** (1) La estrategia recibe poca atención y el directorio no se siente cómodo discrepando. (2) Las capacidades en tecnología y regulación están poco utilizadas, y quienes las tienen casi no hablan. (3) La unanimidad casi total sugiere poco desafío.
+
+**Mejoras elegidas (tres).**
+
+1. **Tiempo de estrategia**: de 10 % a 30 % de la sesión mediante pre-lecturas obligatorias; responsable: presidente; indicador: horas en estrategia por sesión.
+2. **Uso de capacidades y conducta**: rondas de opinión que empiezan por los directores menos habladores; el presidente reduce su tiempo de palabra al 20 %; indicador: ningún director bajo el 8 % del tiempo.
+3. **Composición**: iniciar la búsqueda de un director con experiencia internacional y otro con experiencia en tecnología, con un proceso transparente; plazo: 12 meses.
+
+**Seguimiento.** Al año siguiente: tiempo en estrategia 27 %; el presidente baja a 21 % de la palabra; directores D y E suben a 8,5 % y 7,2 % (casi en la meta); comodidad para discrepar sube de 2,9 a 3,8; disidencias registradas: 5 de 40 (12,5 %); se incorpora un director con experiencia internacional.
+
+**Cuidados.** Los resultados individuales de evaluación se tratan con confidencialidad y de forma agregada; los cambios de composición se rigen por la ley, los estatutos y las decisiones de los propietarios; las cifras son ilustrativas.
+
+**Qué muestra.** (1) Los datos de conducta revelaron lo que la encuesta sugería. (2) El mapa mostró brechas y redundancias. (3) Las tres mejoras fueron medibles y se siguieron.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **board effectiveness** | capacidad del board para cumplir mandato con buen juicio y conducta | Cuando meeting effectiveness es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **skills matrix** | mapa de capacidades y experiencias requeridas | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Efectividad frente a cumplimiento.** Cumplir las formas (reuniones, actas, comités) es necesario pero no suficiente: la efectividad se ve en la calidad del desafío y de las decisiones.
 
-**Frontera de aplicación:** Diversidad de CV no garantiza diversidad cognitiva ni challenge. Evalúa cómo se usa la experiencia en decisiones reales y si el chair habilita conflicto productivo.
+**Límites.** La diversidad de currículos no garantiza diversidad cognitiva ni desafío: se evalúa cómo se usa la experiencia en decisiones reales y si el presidente habilita el conflicto productivo. Las encuestas dependen de la franqueza de los directores. La observación de una sesión es una muestra. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre efectividad del directorio |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **efectividad del directorio** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **board effectiveness** y **skills matrix** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta meeting effectiveness con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si efectividad del directorio cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de efectividad del directorio reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **efectividad del directorio** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Pide que las decisiones se registren con razones. |
+| **Jefe / Team Lead** | Comparte lo que ve del funcionamiento de la gerencia con el directorio. |
+| **Gerente** | Ofrece retroalimentación franca sobre la información y el trato del directorio. |
+| **CEO / Director** | Se somete a la evaluación y propone mejoras al directorio. |
+| **Founder / Owner** | Acepta cambios de composición aunque afecten a personas cercanas. |
 
 ## 🏢 Caso ejecutivo
 
-El board tiene experiencia financiera y legal, pero nadie entiende producto digital ni cyber. Todos son ex colegas del fundador y casi nunca existe desacuerdo visible.
+Una empresa de servicios con 1.900 personas tiene un directorio de nueve miembros: cuatro representan al grupo controlador (uno es el presidente), tres son independientes y dos son ejecutivos. Se reúne diez veces al año; la asistencia es de 78 %; el 30 % de los directores declara que no lee los materiales; el presidente habla el 40 % del tiempo y el CEO el 25 %; en cuatro años no se registró una sola disidencia; los dos directores con experiencia en tecnología y en riesgos han faltado a seis de las últimas diez sesiones; el comité de auditoría se reúne dos veces al año. Un incidente que costó 1.200 millones de pesos podría haberse evitado si se hubiese discutido un informe de riesgos que estaba en el pack. El presidente cree que «el directorio funciona bien» y se opone a una evaluación externa «porque no hay problemas»; dos directores independientes la piden.
 
-Entrega un **decision brief de efectividad del directorio** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diseño de evaluación y mejora** que contenga: (a) el mandato y el mapa de capacidades con brechas y redundancias; (b) la observación de las sesiones con indicadores de tiempo de palabra, preparación y disidencia; (c) la encuesta, las entrevistas y la retroalimentación individual con su confidencialidad; (d) las tres mejoras elegidas con responsables, plazos e indicadores; (e) el plan de composición y renovación con criterios y proceso; (f) la gestión del rechazo del presidente y las verificaciones estatutarias y legales.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **efectividad del directorio** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir mandato y skills → 2. observar agenda y conducta → 3. recoger feedback individual y colectivo → 4. elegir 2 o 3 mejoras → 5. revisar composición y progreso** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta meeting effectiveness, challenge quality; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Redacta el mapa de capacidades de un directorio en ocho filas y marca brechas y redundancias.
+2. Observa una reunión y calcula el porcentaje de tiempo de palabra de cada participante.
+3. Diseña una encuesta de diez preguntas sobre el funcionamiento del directorio.
+4. Escribe tres mejoras con responsable, plazo e indicador.
+5. Define los criterios y el proceso de una búsqueda de un nuevo director.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar board effectiveness y skills matrix como sinónimos | Se pierde la distinción entre “capacidad del board para cumplir mandato con buen juicio y conducta” y “mapa de capacidades y experiencias requeridas” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar composición y progreso” | Se saltó “definir mandato y skills” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir mandato y skills → 2. observar agenda y conducta → 3. recoger feedback individual y colectivo → 4. elegir 2 o 3 mejoras → 5. revisar composición y progreso y marca el primer supuesto no demostrado. |
-| Optimizar solo meeting effectiveness | La métrica local sustituyó al resultado del sistema | Contrástala con challenge quality y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre efectividad del directorio | Diversidad de CV no garantiza diversidad cognitiva ni challenge. Evalúa cómo se usa la experiencia en decisiones reales y si el chair habilita conflicto productivo. |
-| No fijar revisión | Una decisión sobre efectividad del directorio se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| No evaluarse | Se teme la incomodidad | Evaluación anual con facilitador periódico. |
+| Evaluar solo composición | Es lo más visible | Observar procesos y conducta. |
+| Treinta recomendaciones | Se quiere cubrir todo | Dos o tres mejoras con seguimiento. |
+| Retroalimentación pública | Se expone a las personas | Resultados agregados y feedback individual privado. |
+| Diversidad cosmética | Se cuentan currículos | Evaluar si se escuchan y se usan las perspectivas. |
+| Evitar decisiones sobre composición | Hay relaciones personales | Proceso transparente y apoyo de los propietarios. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **board effectiveness** y **skills matrix** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **board evaluation** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir mandato y skills → observar agenda y conducta** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **meeting effectiveness** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **efectividad del directorio**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Diversidad de CV no garantiza diversidad cognitiva ni challenge. Evalúa cómo se usa la experiencia en decisiones reales y si el chair habilita conflicto productivo.**?
+1. ¿Qué procesos hacen efectivo a un directorio según Forbes y Milliken?
+2. ¿Qué es un mapa de capacidades y qué muestra?
+3. ¿Qué se observa en una sesión para evaluar la conducta?
+4. ¿Qué combina una autoevaluación completa?
+5. ¿Por qué elegir solo dos o tres mejoras?
+6. ¿Por qué la diversidad de currículos no garantiza efectividad?
+7. ¿Qué señales indican que se necesita un cambio mayor?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El esfuerzo, el uso del conocimiento, el conflicto cognitivo y la cohesión.
+2. Una tabla que cruza las capacidades requeridas con las de cada director; muestra brechas, redundancias y riesgos de continuidad.
+3. Uso del tiempo por tema, tiempo de palabra, tipo de preguntas, disidencias, preparación y seguimiento de acuerdos.
+4. Encuesta anónima, entrevistas, evaluación de pares y opinión del CEO y el equipo, con apoyo externo periódico.
+5. Porque muchas recomendaciones no se implementan; pocas con responsable, plazo e indicador sí.
+6. Porque lo que importa es si las perspectivas se escuchan y se usan en decisiones reales, y si el presidente habilita el conflicto productivo.
+7. Decisiones importantes sin discusión, dominio de una persona, conflictos que bloquean, información escondida, baja preparación o brechas graves.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/215-efectividad-del-directorio/`:
 
-- `board-or-executive-memo.md` con el problema específico de **efectividad del directorio**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **efectividad del directorio** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **board effectiveness**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **El board tiene experiencia financiera y legal, pero nadie entiende producto digital ni cyber. Todos son ex colegas del fundador y casi nunca existe desacuerdo visible.** y el dato que podría invalidar la recomendación.
+- `board-or-executive-memo.md` (plantilla [Board or executive memo](../../../../templates/board-or-executive-memo.md)) con el diseño del caso ejecutivo;
+- `team-charter.md` (plantilla [Team charter](../../../../templates/team-charter.md)) con las normas de funcionamiento y de conducta del directorio;
+- `decision-journal.md` con el mapa de capacidades, los datos de observación y el seguimiento de mejoras.
 
 ## 📗 Fuentes y verificación
 
-- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** separación entre dirección, supervisión, accountability y gobierno corporativo. Lectura selectiva sobre **efectividad del directorio**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, deberes del directorio y divulgación como referencia de gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **efectividad del directorio**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **efectividad del directorio**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Ram Charan — *Boards That Deliver* (John Wiley & Sons, Incorporated, 2007). **Uso en esta clase:** directorios que contribuyen a estrategia, talento, riesgo y sucesión. Lectura selectiva sobre **efectividad del directorio**. **Localizador:** [ISBN-13 9781118046616](https://openlibrary.org/isbn/9781118046616).
-- Richard Leblanc & James Gillies — *Inside the Boardroom* (John Wiley & Sons, Incorporated, 2009). **Uso en esta clase:** comportamiento efectivo del directorio, composición y dinámica de gobierno. Lectura selectiva sobre **efectividad del directorio**. **Localizador:** [ISBN-13 9780470739952](https://openlibrary.org/isbn/9780470739952).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **efectividad del directorio** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **efectividad del directorio**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **efectividad del directorio** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **efectividad del directorio** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **efectividad del directorio** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Daniel P. Forbes & Frances J. Milliken — *Cognition and Corporate Governance: Understanding Boards of Directors as Strategic Decision-Making Groups* (The Academy of Management Review, 1999). **Uso en esta clase:** procesos que hacen efectivo a un directorio. Lectura selectiva sobre **efectividad del directorio**. **Localizador:** [DOI 10.2307/259138](https://doi.org/10.2307/259138).
+- Renée B. Adams, Benjamin E. Hermalin & Michael S. Weisbach — *The Role of Boards of Directors in Corporate Governance: A Conceptual Framework and Survey* (Journal of Economic Literature, 2010). **Uso en esta clase:** composición y estructura de los directorios según el contexto. Lectura selectiva sobre **efectividad del directorio**. **Localizador:** [DOI 10.1257/jel.48.1.58](https://doi.org/10.1257/jel.48.1.58).
+- Ram Charan — *Boards That Deliver* (John Wiley & Sons, Incorporated, 2007). **Uso en esta clase:** directorios efectivos y su trabajo. Lectura selectiva sobre **efectividad del directorio**. **Localizador:** [ISBN-13 9781118046616](https://openlibrary.org/isbn/9781118046616).
+- Richard Leblanc & James Gillies — *Inside the Boardroom* (John Wiley & Sons, Incorporated, 2009). **Uso en esta clase:** dinámicas y conductas reales en la sala. Lectura selectiva sobre **efectividad del directorio**. **Localizador:** [ISBN-13 9780470739952](https://openlibrary.org/isbn/9780470739952).
+- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** responsabilidades del directorio. Lectura selectiva sobre **efectividad del directorio**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
 
-> **Regla de fuentes para Efectividad del directorio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **efectividad del directorio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Efectividad del directorio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los estatutos y las reglas de nombramiento, independencia y remoción de directores. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

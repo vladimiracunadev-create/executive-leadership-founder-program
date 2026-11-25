@@ -5,28 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir board committee de audit committee mediante evidencia observable."
-  - "Aplicar la secuencia: mapear riesgos y requisitos → crear charters → seleccionar independencia y expertise → definir calendario e información → reportar recomendaciones y excepciones al board."
-  - "Interpretar committee attendance, open findings, control assurance sin atribuir causalidad automática."
-  - "Resolver el caso de comités de auditoría, riesgo y compensación con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Decidir qué comités necesita un directorio según su escala, regulación y complejidad."
+  - "Redactar el estatuto de un comité con mandato, composición, facultades y calendario."
+  - "Seleccionar miembros considerando independencia y experiencia."
+  - "Definir la información que recibe el comité y lo que reporta al directorio."
+  - "Evitar la fragmentación y la duplicación entre comités y con el directorio."
 deliverable: "risk-governance-brief.md"
 references:
-  - "Bob Tricker — *Corporate Governance*"
   - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
-  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
-  - "Richard Leblanc & James Gillies — *Inside the Boardroom*"
-  - "Robert A. G. Monks & Nell Minow — *Corporate Governance*"
-  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*. Fuente primaria: <https://www.oecd.org/corporate/principles-corporate-governance/>."
+  - "COSO — *Internal Control - Integrated Framework*"
+  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
+  - "Bob Tricker — *Corporate Governance*"
+  - "Ram Charan — *Boards That Deliver*"
 limits:
-  - "Más comités pueden fragmentar accountability y duplicar trabajo. Crea solo donde escala, regulación o complejidad justifican profundidad adicional."
+  - "Más comités pueden fragmentar la responsabilidad y duplicar trabajo; se crean solo donde la escala, la regulación o la complejidad lo justifican."
 evidence_signals:
-  - "committee attendance"
-  - "open findings"
-  - "control assurance"
-  - "compensation alignment"
-  - "escalation timeliness"
+  - "comités justificados por escala y complejidad"
+  - "estatutos con independencia y experticia"
+  - "carga de trabajo medida"
+  - "seguimiento de hallazgos"

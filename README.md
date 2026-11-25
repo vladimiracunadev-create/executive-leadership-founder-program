@@ -281,11 +281,11 @@ usarse.
 
 | 📚 Obras registradas | 📎 Citas en clase | ✅ Con localizador comprobado | 🕓 Pendientes | 🏛️ Organismos | 📘 Clases |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **322** | **2124** | **316** | **6** | **74** | **288** |
+| **328** | **2053** | **322** | **6** | **77** | **288** |
 
 **Cobertura del registro: 100.0 %** — de todas las obras que las
 288 clases citan, esa proporción tiene entrada propia. De ellas,
-**98.1 %** tiene además el localizador resuelto contra su fuente.
+**98.2 %** tiene además el localizador resuelto contra su fuente.
 «Pendiente» no significa dudosa: significa que su localizador todavía no se
 resolvió y que el hueco está declarado en vez de disimulado. Última revalidación
 en red: **2026-08-19**.
@@ -297,16 +297,16 @@ y con su enlace, está en [docs/FUENTES.md](docs/FUENTES.md).**
 
 | Autor o emisor | Obra | Localizador | Clases |
 |---|---|---|---:|
-| Anders Ericsson & Robert Pool | *Peak* | [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143) | 109 |
-| Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel | *Make It Stick* | [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572) | 109 |
-| Susan A. Ambrose et al. | *How Learning Works* | [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601) | 109 |
-| Grant Wiggins & Jay McTighe | *Understanding by Design* | [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849) | 108 |
-| William Ellet | *The Case Study Handbook* | [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150) | 108 |
-| Peter F. Drucker | *Management: Tasks, Responsibilities, Practices* | [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925) | 44 |
+| Anders Ericsson & Robert Pool | *Peak* | [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143) | 97 |
+| Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel | *Make It Stick* | [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572) | 97 |
+| Susan A. Ambrose et al. | *How Learning Works* | [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601) | 97 |
+| Grant Wiggins & Jay McTighe | *Understanding by Design* | [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849) | 96 |
+| William Ellet | *The Case Study Handbook* | [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150) | 96 |
+| Peter F. Drucker | *Management: Tasks, Responsibilities, Practices* | [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925) | 39 |
 | Peter F. Drucker | *The Effective Executive* | [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079) | 35 |
-| Tim Koller, Marc Goedhart & David Wessels | *Valuation: Measuring and Managing the Value of Companies* | [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191) | 28 |
 | Andrew S. Grove | *High Output Management* | [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349) | 26 |
 | Amy C. Edmondson | *The Fearless Organization* | [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242) | 24 |
+| Michael E. Gerber | *The E-Myth Revisited* | [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901) | 24 |
 
 <!-- registro-de-fuentes:fin -->
 

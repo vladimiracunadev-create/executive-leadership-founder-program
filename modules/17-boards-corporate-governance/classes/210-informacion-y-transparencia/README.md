@@ -10,217 +10,208 @@
 
 ## 🎯 Propósito
 
-Transparencia útil significa entregar información material, comprensible, oportuna y equilibrada a quienes tienen derecho a ella. Más datos no equivalen a mejor disclosure; el board debe poder distinguir performance, riesgo, supuestos y excepciones sin quedar enterrado.
+Un directorio solo puede decidir tan bien como la información que recibe. Y la información que llega a un directorio es, casi siempre, **filtrada**: la gerencia decide qué mostrar, cómo, cuándo y con qué lenguaje. No hace falta mala fe para que el resultado sea engañoso: un indicador con una definición distinta cada mes, un promedio que esconde un cliente en problemas, una buena noticia al comienzo y una mala al pie de la página doce, una cifra que se «ajusta» para que cierre. Del mismo modo, hacia afuera, la empresa informa a bancos, inversionistas, reguladores, empleados y la sociedad, con distintos niveles de detalle y de obligación. Transparencia no es publicar todo; es **no ocultar lo material a quien debe decidir** y cumplir con lo que se debe informar, con consistencia entre lo que se dice a unos y a otros.
 
-La salida de esta parte es **separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **información y transparencia** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase propone un enfoque por **audiencia y materialidad**: ¿quién necesita saber qué, para qué decisión, con qué precisión y en qué plazo? Se apoya en los principios de gobierno de la OCDE sobre información y transparencia, en Tricker y en Monks y Minow sobre la relación entre información y poder, en el cuadro de mando integral de Kaplan y Norton para elegir y definir indicadores y en el marco COSO de control interno, que incluye la información y la comunicación. Remite a la ley y a la normativa del regulador para las obligaciones de información. Al terminar sabrás definir materialidad, seleccionar indicadores, explicar variaciones, asegurar la consistencia y decidir cuándo publicar o escalar.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `materiality`, `disclosure`, `information asymmetry`, `integrated reporting`, `selective disclosure` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. definir audiencia y materialidad → 2. seleccionar KPI y riesgos → 3. explicar variaciones y supuestos → 4. asegurar consistencia y controles → 5. publicar o escalar según obligación** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** report timeliness, restatements, material surprises sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** audiencias y criterios de materialidad para decidir qué informar.
+2. **Seleccionar** indicadores y riesgos con definiciones únicas y comparables.
+3. **Explicar** variaciones y supuestos con una narrativa causal.
+4. **Asegurar** consistencia y controles sobre la información.
+5. **Decidir** cuándo publicar o escalar según obligaciones y límites legítimos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define materiality y disclosure sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con report timeliness y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuántas versiones de la misma cifra circulan hoy en tu empresa y quién decide cuál es la correcta? |
+| 20–60 min | Audiencias, materialidad, indicadores, explicación, consistencia y límites. |
+| 60–105 min | Ejemplo trabajado: reconciliación de cifras y aplicación de un umbral de materialidad. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **materiality** | importancia suficiente para influir en una decisión razonable | Distingue un hecho compatible y otro que lo refute. |
-| **disclosure** | comunicación formal de información relevante | Distingue un hecho compatible y otro que lo refute. |
-| **information asymmetry** | diferencia de información entre management board y propietarios | Distingue un hecho compatible y otro que lo refute. |
-| **integrated reporting** | visión conectada de estrategia performance riesgos y recursos | Distingue un hecho compatible y otro que lo refute. |
-| **selective disclosure** | entrega desigual de información que puede crear problemas legales o de confianza | Distingue un hecho compatible y otro que lo refute. |
+| **Materialidad** | Importancia de una información para las decisiones de quien la recibe. | Su omisión o error cambiaría una decisión. |
+| **Divulgación (*disclosure*)** | Comunicación de información a terceros por obligación o decisión. | Informes, hechos esenciales, estados financieros. |
+| **Fuente única de verdad** | Una definición y un conjunto de datos para cada indicador. | Todos los informes usan la misma cifra. |
+| **Asimetría de información** | Una parte sabe más que otra. | La gerencia conoce más que el directorio. |
+| **Información privilegiada** | Información material no pública. | Su uso o filtración tiene reglas especiales. |
+| **Escalamiento** | Llevar un asunto a una instancia superior. | Reglas por umbral, tipo o plazo. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 210: 1. definir audiencia y materialidad → 2. seleccionar KPI y riesgos → 3. explicar variaciones y supuestos → 4. asegurar consistencia y controles → 5. publicar o escalar según obligación](modelo-mental.svg)
+![Materialidad y obligación de informar: informar con criterio, publicar o escalar sin demora, resumir u omitir, y cumplir la forma.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir audiencia y materialidad → 2. seleccionar KPI y riesgos → 3. explicar variaciones y supuestos → 4. asegurar consistencia y controles → 5. publicar o escalar según obligación
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Transparencia útil significa entregar información material, comprensible, oportuna y equilibrada a quienes tienen derecho a ella. Más datos no equivalen a mejor disclosure; el board debe poder distinguir performance, riesgo, supuestos y excepciones sin quedar enterrado.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La transparencia tiene límites legítimos de confidencialidad, privilegio y competitividad. El objetivo es no ocultar lo material a quien debe decidir, no publicar todo.**
+**Cómo leer el diagrama.** Un cuadrante con la obligación en el eje horizontal (voluntaria u obligatoria) y la materialidad en el vertical. **Material y obligatoria**: publicar o escalar sin demora, con plazo, contenido y responsable definidos. **Material pero voluntaria**: informar con criterio, decidiendo con el directorio. **Poco material y obligatoria**: cumplir la forma con precisión y sin ruido. **Poco material y voluntaria**: resumir u omitir para no saturar a quien decide. La nota afirma que el objetivo no es publicar todo sino no ocultar lo material a quien debe decidir; el pie, que las obligaciones de información dependen de la ley y del mercado.
 
 ## 📖 Desarrollo
 
-### 1. materiality: mecanismo central
+### 1. Información para decidir
 
-**materiality** se entiende aquí como **importancia suficiente para influir en una decisión razonable**. Esta es la pieza causal o estructural desde la que se inicia **información y transparencia**: antes de definir audiencia y materialidad, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Los principios de gobierno de la OCDE señalan que un marco de gobierno corporativo debe asegurar la **divulgación oportuna y precisa** de los asuntos materiales de la empresa (resultados financieros y operativos, objetivos, propiedad, remuneración de directores y ejecutivos, partes relacionadas, factores de riesgo, entre otros) y la existencia de una **auditoría independiente**. Pero la información no es solo un asunto hacia afuera: Tricker subraya que la calidad de la información que llega al directorio determina la calidad de su supervisión, y que los directores necesitan acceso a información **completa, oportuna y confiable**, además de contacto directo con las fuentes. Monks y Minow recuerdan que la **asimetría de información** es una de las fuentes de poder de la gerencia, y que el gobierno corporativo busca equilibrarla.
 
-La lectura rectora de este bloque es Bob Tricker — *Corporate Governance*. Su aporte se usa para examinar **separación entre dirección, supervisión, accountability y gobierno corporativo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **report timeliness**; regístrala con periodo, unidad, población y baseline.
+### 2. Audiencias y materialidad
 
-Relaciona el mecanismo con **disclosure**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se comienza con la pregunta: **¿para quién y para qué decisión?** Las audiencias típicas son: el **directorio** (supervisión y decisiones estratégicas), los **propietarios** (evaluar al directorio y asignar capital), los **financistas** (capacidad de pago y cumplimiento de condiciones), los **empleados** (rumbo y estabilidad), los **clientes y proveedores** (continuidad), los **reguladores** (cumplimiento) y el **público** (en empresas abiertas). Para cada una, la información **material** es la que, de omitirse o presentarse con error, **cambiaría su decisión**. Se establecen **criterios de materialidad** cuantitativos (por ejemplo, un porcentaje del resultado, del patrimonio o de los ingresos) y cualitativos (violaciones legales, conflictos, daño reputacional, efecto en covenants), y se aplican de forma **agregada**: varias partidas pequeñas pueden ser, en conjunto, materiales.
 
-### 2. disclosure: frontera conceptual y error de clasificación
+### 3. Indicadores con una sola definición
 
-**Definición operacional:** comunicación formal de información relevante. Su valor está en distinguirlo de **materiality** y **information asymmetry**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Kaplan y Norton proponen que los indicadores se organicen en perspectivas (financiera, clientes, procesos internos, aprendizaje y crecimiento) y vinculados a la estrategia; para el directorio, esto significa **pocos indicadores**, cada uno con **definición escrita**, fórmula, fuente de datos, responsable, frecuencia y meta. Un problema común es que cada área calcula el mismo indicador de forma distinta (por ejemplo, el «EBITDA ajustado» con distintos tratamientos de partidas extraordinarias), de modo que el directorio recibe cifras incompatibles. Se resuelve con un **diccionario de indicadores** aprobado por el comité de auditoría o finanzas, con cambios controlados y comunicados, y con **comparabilidad** en el tiempo: cuando una definición cambia, se reexpresan los períodos anteriores y se explica.
 
-Contrasta el problema con OECD — *G20/OECD Principles of Corporate Governance 2023*, que aporta una mirada sobre **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno**. Formula dos mini-casos: uno que sí satisface la definición de **disclosure** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **restatements** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Explicar, no solo mostrar
 
-Antes de seleccionar kpi y riesgos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un número sin explicación es una invitación a la especulación. Un buen informe explica **variaciones** frente al plan y al año anterior en sus **causas** (precio, volumen, mezcla, costo, eventos únicos), distingue lo **estructural** de lo **transitorio**, muestra los **supuestos** de las proyecciones y su sensibilidad, y declara **lo que no se sabe**. También separa lo **bueno** y lo **malo** con el mismo peso: los malos resultados no se entierran en anexos. La narrativa causal permite al directorio hacer buenas preguntas. Y la **conciliación** entre cifras de distintos informes (por ejemplo, contables y de gestión) forma parte de la explicación.
 
-### 3. information asymmetry: operacionalización y medición
+### 5. Consistencia y control de la información
 
-**information asymmetry** significa **diferencia de información entre management board y propietarios**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+COSO incluye la **información y la comunicación** como componente del control interno: los datos que se usan deben ser **relevantes, de calidad y oportunos**, y fluir hacia quienes los necesitan, hacia arriba, hacia abajo y hacia afuera. Esto implica controles sobre los datos (fuentes, conciliaciones, accesos, cambios), **revisión independiente** de los informes críticos, **trazabilidad** de las cifras hasta su origen y **un solo responsable** por indicador. Además, la información que se entrega a distintos públicos debe ser **consistente**: lo que se dice al banco no debe contradecir lo que se dice al directorio, ni lo que se dice a los empleados lo que se comunica al regulador. La inconsistencia es una de las primeras señales de problemas de gobierno.
 
-Robert A. G. Monks & Nell Minow — *Corporate Governance* orienta este bloque mediante **perspectiva de Gobierno corporativo aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **material surprises**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Obligación, voluntariedad y límites legítimos
 
-Al llegar a explicar variaciones y supuestos, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Parte de la información es **obligatoria** (estados financieros, hechos relevantes en empresas abiertas, informes a reguladores, información a accionistas) y su plazo, contenido y responsables dependen de la ley y de las normas del regulador (en Chile, por ejemplo, la normativa de sociedades y las normas de la Comisión para el Mercado Financiero para ciertas entidades), que se verifican en la fuente oficial y con asesoría. Otra es **voluntaria**: informes de sostenibilidad, comunicados, presentaciones a inversionistas. La transparencia tiene **límites legítimos**: confidencialidad comercial, secretos industriales, privilegio de las comunicaciones con abogados, protección de datos personales, información **privilegiada** cuyo uso o divulgación selectiva está regulado. El estándar es: no ocultar lo material a quien debe decidir y no publicar lo que no se debe.
 
-### 4. integrated reporting: trade-offs y efectos de segundo orden
+### 7. Publicar o escalar
 
-**Definición:** visión conectada de estrategia performance riesgos y recursos. Este concepto obliga a abandonar la idea de que **información y transparencia** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de asegurar consistencia y controles, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* aporta una lente sobre **drivers de valor, ROIC, crecimiento y valoración por flujo descontado**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **forecast accuracy** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **información y transparencia**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **integrated reporting** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. selective disclosure: gobernanza, límites e integración
-
-**selective disclosure** se define como **entrega desigual de información que puede crear problemas legales o de confianza** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Paul Polman & Andrew Winston — *Net Positive* se utiliza para estudiar **perspectiva de Sostenibilidad aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar publicar o escalar según obligación, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **La transparencia tiene límites legítimos de confidencialidad, privilegio y competitividad. El objetivo es no ocultar lo material a quien debe decidir, no publicar todo.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **materiality**, **disclosure**, **information asymmetry**, **integrated reporting** y **selective disclosure** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **información y transparencia** no consiste en sumar cinco definiciones. Empieza por **materiality**, contrasta **disclosure** con **information asymmetry**, incorpora **integrated reporting** como restricción o mecanismo y usa **selective disclosure** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir audiencia y materialidad → 2. seleccionar KPI y riesgos → 3. explicar variaciones y supuestos → 4. asegurar consistencia y controles → 5. publicar o escalar según obligación**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Se define un **protocolo** para decidir qué hacer cuando surge información material: ¿quién evalúa su materialidad?, ¿qué plazo hay para informar al presidente del directorio y al comité?, ¿corresponde divulgar al mercado o a un regulador?, ¿quién redacta y aprueba?, ¿cómo se evita la filtración selectiva? Se preparan **plantillas** y una **lista de verificación**. La regla de oro es la **escalada rápida**: un asunto material que el directorio se entera por un tercero indica un problema del sistema de información. Y se aprende de cada caso: ¿por qué no llegó antes?, ¿qué señal se ignoró?, ¿qué cambia en el protocolo?
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Bob Tricker — *Corporate Governance* | separación entre dirección, supervisión, accountability y gobierno corporativo | ¿Qué supuesto de **información y transparencia** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **información y transparencia** ayuda a desafiar? |
-| Robert A. G. Monks & Nell Minow — *Corporate Governance* | perspectiva de Gobierno corporativo aplicada al problema de la clase | ¿Qué supuesto de **información y transparencia** ayuda a desafiar? |
-| Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* | drivers de valor, ROIC, crecimiento y valoración por flujo descontado | ¿Qué supuesto de **información y transparencia** ayuda a desafiar? |
-| Paul Polman & Andrew Winston — *Net Positive* | perspectiva de Sostenibilidad aplicada al problema de la clase | ¿Qué supuesto de **información y transparencia** ayuda a desafiar? |
-
-En **información y transparencia**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **materiality**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| OCDE (2023) | Principios de divulgación y de auditoría independiente. | Principios generales. | ¿Qué divulgación es material para nuestros públicos? |
+| Tricker | Información como base de la supervisión del directorio. | No fija indicadores específicos. | ¿Qué sabe el directorio y cómo lo sabe? |
+| Monks y Minow | Asimetría de información y poder. | Posición firme sobre reforma. | ¿Quién controla la información? |
+| Kaplan y Norton | Indicadores por perspectivas ligados a la estrategia. | Puede producir exceso de indicadores. | ¿Cuáles son los pocos indicadores críticos? |
+| COSO Control Interno | Información y comunicación como componente del control. | No define qué informar. | ¿Los datos son confiables y trazables? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** El board recibe dashboard con 120 KPIs verdes; dos semanas después descubre por prensa que un cliente representa 42% de ingresos y amenaza terminar contrato.
+**Situación (hipotética).** El directorio de una empresa de servicios recibe cada mes un tablero. Un director nota que el EBITDA del mes difiere entre tres informes.
 
-**Paso 1 — definir audiencia y materialidad.** La gerencia escribe primero el supuesto asociado a **materiality** y evita convertirlo en hecho. Luego busca **report timeliness** para contrastarlo en el caso de **información y transparencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Reconciliación de la cifra.**
 
-**Paso 2 — seleccionar KPI y riesgos.** La gerencia escribe primero el supuesto asociado a **disclosure** y evita convertirlo en hecho. Luego busca **restatements** para contrastarlo en el caso de **información y transparencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Informe | EBITDA anual proyectado (millones) | Tratamiento de partidas únicas |
+|---|---|---|
+| Finanzas (contable) | 4.800 | Incluye gastos de reestructuración y venta de un activo |
+| Comercial (gestión) | 5.150 | Excluye reestructuración y la venta se contabiliza como ingreso |
+| Operaciones | 4.620 | Excluye la venta y suma un ajuste de inventario |
 
-**Paso 3 — explicar variaciones y supuestos.** La gerencia escribe primero el supuesto asociado a **information asymmetry** y evita convertirlo en hecho. Luego busca **material surprises** para contrastarlo en el caso de **información y transparencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+La diferencia entre la cifra más alta y la más baja es 5.150 − 4.620 = 530 millones, el 11,0 % de la cifra de finanzas (530 ÷ 4.800). La causa es la definición, no el negocio.
 
-**Paso 4 — asegurar consistencia y controles.** La gerencia escribe primero el supuesto asociado a **integrated reporting** y evita convertirlo en hecho. Luego busca **forecast accuracy** para contrastarlo en el caso de **información y transparencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Solución.** El comité de auditoría aprueba una definición única de «EBITDA ajustado» con una lista cerrada de partidas únicas y una conciliación mensual con el resultado contable; los informes de áreas usan solo esa cifra. Se reexpresan los últimos 12 meses.
 
-**Paso 5 — publicar o escalar según obligación.** La gerencia escribe primero el supuesto asociado a **selective disclosure** y evita convertirlo en hecho. Luego busca **disclosure exceptions** para contrastarlo en el caso de **información y transparencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Umbral de materialidad para escalar al directorio.** Se fija en 3 % del EBITDA anual (0,03 × 4.800 = 144 millones) por partida, o en 5 % en el agregado de partidas no individuales (240 millones), o cualquier asunto legal o reputacional grave sin importar el monto.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **información y transparencia**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Aplicación.** Surgen cuatro asuntos en el mes.
+
+| Asunto | Monto (millones) | ¿Supera 144? | Decisión |
+|---|---|---|---|
+| Disputa con un cliente por facturación | 210 | Sí | Escalar al directorio |
+| Castigo de inventario | 90 | No | Registrar; revisar en agregado |
+| Contingencia tributaria | 60 | No | Registrar; revisar en agregado |
+| Multa menor de un regulador | 45 | No (pero asunto de cumplimiento) | Informar al comité por su naturaleza |
+
+**Agregado.** 90 + 60 + 45 = 195 millones, por debajo del umbral agregado de 240 pero cercano; se informa al comité de auditoría con tendencia.
+
+**Pack mejorado.** Una página de resumen con decisiones y alertas; diez indicadores con definiciones; un cuadro de variaciones con causas (precio, volumen, mezcla, costos, únicos); un registro de asuntos legales y de cumplimiento; y un anexo con la conciliación. Los indicadores en rojo se explican en la misma página.
+
+**Consistencia hacia afuera.** Las cifras que se entregan al banco para el cálculo de covenants se concilian con las del directorio antes de su envío; las obligaciones de información al regulador se rigen por un calendario con responsables.
+
+**Resultados (hipotéticos).** Tras seis meses, los informes con cifras inconsistentes bajan de 9 a 1 por trimestre; el tiempo de preparación del pack baja de 5 a 3 días hábiles; el directorio se entera del 100 % de los asuntos sobre el umbral por la vía formal, frente a 60 % antes.
+
+**Cuidados.** Las obligaciones de divulgación, los plazos y los contenidos dependen de la ley y del regulador; el tratamiento de información privilegiada y de datos personales se verifica con asesoría; las cifras son ilustrativas.
+
+**Qué muestra.** (1) Una definición única eliminó la discrepancia. (2) El umbral de materialidad ordenó el escalamiento. (3) La conciliación aseguró consistencia hacia adentro y hacia afuera.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **materiality** | importancia suficiente para influir en una decisión razonable | Cuando report timeliness es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **disclosure** | comunicación formal de información relevante | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Transparencia frente a exceso de información.** Más páginas no es más transparencia: el exceso de información oculta lo importante. La transparencia efectiva destaca lo material y lo hace comprensible.
 
-**Frontera de aplicación:** La transparencia tiene límites legítimos de confidencialidad, privilegio y competitividad. El objetivo es no ocultar lo material a quien debe decidir, no publicar todo.
+**Límites.** La transparencia tiene límites legítimos de confidencialidad, privilegio y competitividad; el objetivo no es publicar todo. La materialidad es un juicio que se apoya en criterios, no una fórmula exacta. Las obligaciones de divulgación varían por país, mercado y tipo de empresa. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre información y transparencia |
+| Nivel | Cómo cuida la información |
 |---|---|
-| **Profesional** | usa **información y transparencia** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **materiality** y **disclosure** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta report timeliness con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si información y transparencia cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de información y transparencia reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **información y transparencia** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Registra datos con exactitud y no los «arregla». |
+| **Jefe / Team Lead** | Usa las definiciones oficiales y avisa de errores. |
+| **Gerente** | Presenta información material, explicada y consistente. |
+| **CEO / Director** | Exige información independiente y la usa para decidir. |
+| **Founder / Owner** | Acepta que el directorio y los terceros vean la realidad completa. |
 
 ## 🏢 Caso ejecutivo
 
-El board recibe dashboard con 120 KPIs verdes; dos semanas después descubre por prensa que un cliente representa 42% de ingresos y amenaza terminar contrato.
+Una empresa de alimentos con 2.300 personas y ventas de 110.000 millones de pesos tiene un covenant bancario de deuda neta sobre EBITDA máximo de 3,0 veces. Hace tres trimestres, el gerente financiero presentó al directorio una razón de 2,6 y al banco una de 2,4, con definiciones distintas de EBITDA. El informe de gestión muestra un crecimiento de ventas de 8 % «sin considerar devoluciones»; con ellas, el crecimiento es 3 %. Un incidente de calidad en una planta, con un costo estimado de 700 millones, se informó al directorio tres semanas después, tras una llamada de un cliente. El pack mensual tiene 120 páginas; una pérdida contingente de 1.100 millones por un juicio aparece en la página 97. Las presentaciones a inversionistas no coinciden con las de empleados. Un director pregunta por qué «los números cambian cada mes» y recibe respuestas distintas. Un auditor menciona una debilidad de control en el cierre.
 
-Entrega un **decision brief de información y transparencia** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **sistema de información y transparencia** que contenga: (a) el mapa de audiencias con decisiones y obligaciones; (b) los criterios de materialidad y las reglas de escalamiento; (c) el diccionario de indicadores y la reconciliación de las cifras en conflicto; (d) el formato del pack con narrativa causal y alertas; (e) los controles de calidad de la información y la consistencia hacia afuera; (f) el protocolo de divulgación y los límites legales, con las verificaciones en fuentes oficiales y asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **información y transparencia** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir audiencia y materialidad → 2. seleccionar KPI y riesgos → 3. explicar variaciones y supuestos → 4. asegurar consistencia y controles → 5. publicar o escalar según obligación** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta report timeliness, restatements; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Lista las audiencias de la información de tu empresa y la decisión que toma cada una.
+2. Define criterios de materialidad cuantitativos y cualitativos para tu directorio.
+3. Escribe la definición de tres indicadores clave con fórmula, fuente y responsable.
+4. Reconcilia dos cifras que difieran en tu empresa y explica la causa.
+5. Diseña un protocolo de escalamiento de asuntos materiales con plazos y responsables.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar materiality y disclosure como sinónimos | Se pierde la distinción entre “importancia suficiente para influir en una decisión razonable” y “comunicación formal de información relevante” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “publicar o escalar según obligación” | Se saltó “definir audiencia y materialidad” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir audiencia y materialidad → 2. seleccionar KPI y riesgos → 3. explicar variaciones y supuestos → 4. asegurar consistencia y controles → 5. publicar o escalar según obligación y marca el primer supuesto no demostrado. |
-| Optimizar solo report timeliness | La métrica local sustituyó al resultado del sistema | Contrástala con restatements y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre información y transparencia | La transparencia tiene límites legítimos de confidencialidad, privilegio y competitividad. El objetivo es no ocultar lo material a quien debe decidir, no publicar todo. |
-| No fijar revisión | Una decisión sobre información y transparencia se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Varias versiones de la cifra | Cada área define a su modo | Diccionario único y conciliación. |
+| Malas noticias al final | Se busca amortiguar | Alertas al comienzo con explicación. |
+| Exceso de páginas | Se quiere cubrir todo | Material primero; detalle en anexos. |
+| Materialidad por partida | Se mira cada asunto aislado | Evaluar también el agregado. |
+| Información inconsistente hacia afuera | Se adapta el mensaje a cada público | Conciliación previa y un responsable. |
+| Enterarse por terceros | Falta de protocolo | Escalamiento rápido y revisión de causas. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **materiality** y **disclosure** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **information asymmetry** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir audiencia y materialidad → seleccionar KPI y riesgos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **report timeliness** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **información y transparencia**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **La transparencia tiene límites legítimos de confidencialidad, privilegio y competitividad. El objetivo es no ocultar lo material a quien debe decidir, no publicar todo.**?
+1. ¿Qué es materialidad y cómo se define?
+2. ¿Por qué es importante una definición única de los indicadores?
+3. ¿Qué debe incluir la explicación de una variación?
+4. ¿Qué controles apoyan la calidad de la información?
+5. ¿Qué límites legítimos tiene la transparencia?
+6. ¿Qué incluye un protocolo de escalamiento o divulgación?
+7. ¿Por qué la consistencia hacia afuera es una señal de gobierno?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La importancia de una información para las decisiones de quien la recibe; se define con criterios cuantitativos y cualitativos, incluido el efecto agregado.
+2. Para que el directorio reciba cifras comparables y no incompatibles por diferencias de definición.
+3. Causas (precio, volumen, mezcla, costos, únicos), distinción estructural/transitorio, supuestos y lo que no se sabe.
+4. Fuentes confiables, conciliaciones, accesos, control de cambios, revisión independiente, trazabilidad y un responsable por indicador.
+5. Confidencialidad comercial, secretos, privilegio legal, datos personales e información privilegiada.
+6. Quién evalúa la materialidad, plazos, obligaciones de divulgación, quién redacta y aprueba, y cómo se evita la filtración selectiva.
+7. Porque la inconsistencia entre lo que se dice a distintos públicos suele indicar problemas de control o de honestidad.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/210-informacion-y-transparencia/`:
 
-- `risk-governance-brief.md` con el problema específico de **información y transparencia**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **información y transparencia** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **materiality**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **El board recibe dashboard con 120 KPIs verdes; dos semanas después descubre por prensa que un cliente representa 42% de ingresos y amenaza terminar contrato.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el sistema del caso ejecutivo;
+- `board-pack.md` (plantilla [Board pack](../../../../templates/board-pack.md)) con el formato de pack con materialidad y alertas;
+- `decision-journal.md` con el diccionario de indicadores, las reconciliaciones y las verificaciones legales pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** separación entre dirección, supervisión, accountability y gobierno corporativo. Lectura selectiva sobre **información y transparencia**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, deberes del directorio y divulgación como referencia de gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Robert A. G. Monks & Nell Minow — *Corporate Governance* (John Wiley & Sons, Incorporated, 2001). **Uso en esta clase:** perspectiva de Gobierno corporativo aplicada al problema de la clase. Lectura selectiva sobre **información y transparencia**. **Localizador:** [ISBN-13 9781118874899](https://openlibrary.org/isbn/9781118874899).
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **información y transparencia**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Paul Polman & Andrew Winston — *Net Positive* (Harvard Business Review Press, 2021). **Uso en esta clase:** perspectiva de Sostenibilidad aplicada al problema de la clase. Lectura selectiva sobre **información y transparencia**. **Localizador:** [ISBN-13 9781647821302](https://openlibrary.org/isbn/9781647821302).
-- Richard Leblanc & James Gillies — *Inside the Boardroom* (John Wiley & Sons, Incorporated, 2009). **Uso en esta clase:** comportamiento efectivo del directorio, composición y dinámica de gobierno. Lectura selectiva sobre **información y transparencia**. **Localizador:** [ISBN-13 9780470739952](https://openlibrary.org/isbn/9780470739952).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **información y transparencia** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **información y transparencia**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **información y transparencia** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **información y transparencia** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **información y transparencia** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** divulgación oportuna y auditoría independiente. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
+- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** información como base de la supervisión del directorio. Lectura selectiva sobre **información y transparencia**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
+- Robert A. G. Monks & Nell Minow — *Corporate Governance* (John Wiley & Sons, Incorporated, 2001). **Uso en esta clase:** asimetría de información y poder. Lectura selectiva sobre **información y transparencia**. **Localizador:** [ISBN-13 9781118874899](https://openlibrary.org/isbn/9781118874899).
+- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** indicadores por perspectivas ligados a la estrategia. Lectura selectiva sobre **información y transparencia**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
+- COSO — *Internal Control - Integrated Framework* (2013). **Uso en esta clase:** información y comunicación como componente del control interno. **Fuente primaria:** <https://www.coso.org/guidance-on-ic>.
+- Comisión para el Mercado Financiero — *Portal oficial de la CMF de Chile* (2017). **Uso en esta clase:** portal oficial del regulador para las obligaciones de información de las entidades supervisadas. **Fuente primaria:** <https://www.cmfchile.cl/>.
 
-> **Regla de fuentes para Información y transparencia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **información y transparencia** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Información y transparencia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las obligaciones de divulgación, los plazos, el tratamiento de información privilegiada y la protección de datos personales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

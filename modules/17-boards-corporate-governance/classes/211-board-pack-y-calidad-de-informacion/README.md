@@ -10,217 +10,209 @@
 
 ## 🎯 Propósito
 
-Un board pack debe ayudar a decidir: executive summary, performance versus plan, cash y capital, cliente, personas, riesgos, estrategia y asuntos para decisión. El pre-read libera reunión para challenge; información tardía o sin narrativa convierte al board en audiencia pasiva.
+El paquete de información que recibe el directorio antes de cada sesión (el *board pack*) es el producto más caro y menos evaluado del gobierno corporativo. Cada mes, decenas de personas dedican semanas a preparar cientos de páginas que los directores, con tiempo limitado, hojean en el avión o la noche anterior. El resultado es predecible: el pack se vuelve un archivo, las discusiones se centran en lo que alguien alcanzó a leer o en lo que se presenta en voz alta, y las decisiones importantes aparecen enterradas en el medio. Un directorio no se vuelve mejor leyendo más; se vuelve mejor leyendo **lo que necesita para decidir y supervisar**, organizado para ser comprendido y desafiado.
 
-La salida de esta parte es **separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **board pack y calidad de información** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase trata el pack como un **producto de información** con un cliente (el director), un propósito (decidir y supervisar) y un estándar de calidad (materialidad, comparabilidad, narrativa causal, oportunidad). Se apoya en Charan sobre cómo usan el tiempo los directorios efectivos, en Tricker sobre la información como base de la supervisión, en LeBlanc y Gillies sobre la dinámica real de las salas de directorio, en los principios de la OCDE sobre información y en el trabajo de Mankins y Garton sobre el uso del tiempo y la atención. Al terminar sabrás diseñar un pack a partir de las preguntas del directorio, separar decisiones de informes, explicar variaciones, distribuir con antelación y cerrar la lista de acciones.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `board pack`, `pre-read`, `variance`, `decision paper`, `board action log` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. partir de preguntas del board → 2. seleccionar información material → 3. explicar variancias y drivers → 4. separar decisiones de updates → 5. distribuir temprano y cerrar action log** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** pack delivery lead time, pages per decision, action closure sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Diseñar** un pack que parta de las preguntas del directorio.
+2. **Seleccionar** la información material y retirar la que no lo es.
+3. **Explicar** variaciones y causas con una narrativa causal.
+4. **Separar** decisiones de actualizaciones y distribuir con antelación.
+5. **Medir** la calidad del pack y cerrar la lista de acciones.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define board pack y pre-read sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con pack delivery lead time y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuántas páginas tiene el último pack de tu directorio y cuántas se discutieron realmente? |
+| 20–60 min | Propósito, preguntas, estructura, variaciones, decisiones, distribución y medición. |
+| 60–105 min | Ejemplo trabajado: rediseño de un pack de 120 páginas. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **board pack** | paquete periódico de información para supervisión y decisión | Distingue un hecho compatible y otro que lo refute. |
-| **pre-read** | documento distribuido antes de reunión para preparar challenge | Distingue un hecho compatible y otro que lo refute. |
-| **variance** | desviación entre plan y resultado con explicación | Distingue un hecho compatible y otro que lo refute. |
-| **decision paper** | documento que presenta una decisión requerida y alternativas | Distingue un hecho compatible y otro que lo refute. |
-| **board action log** | registro de acuerdos responsables y seguimiento | Distingue un hecho compatible y otro que lo refute. |
+| **Board pack** | Conjunto de documentos que se entrega al directorio para una sesión. | Incluye agenda, decisiones, informes y anexos. |
+| **Pre-lectura** | Documento breve que prepara una decisión o discusión. | Se lee antes y se discute en la sesión. |
+| **Resumen ejecutivo** | Primera página con lo esencial: decisiones y alertas. | Se entiende sin leer el resto. |
+| **Narrativa causal** | Explicación de por qué cambian los números. | Conecta resultados con causas. |
+| **Registro de acuerdos** | Lista de decisiones y acciones con responsables y fechas. | Se revisa en la siguiente sesión. |
+| **Anexo** | Información de apoyo que no se presenta. | Disponible para quien quiera profundizar. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 211: 1. partir de preguntas del board → 2. seleccionar información material → 3. explicar variancias y drivers → 4. separar decisiones de updates → 5. distribuir temprano y cerrar action log](modelo-mental.svg)
+![Un pack de directorio que sirve para decidir: decidir, entender y dar seguimiento.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. partir de preguntas del board → 2. seleccionar información material → 3. explicar variancias y drivers → 4. separar decisiones de updates → 5. distribuir temprano y cerrar action log
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un board pack debe ayudar a decidir: executive summary, performance versus plan, cash y capital, cliente, personas, riesgos, estrategia y asuntos para decisión. El pre-read libera reunión para challenge; información tardía o sin narrativa convierte al board en audiencia pasiva.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Reducir páginas no basta; un pack breve puede omitir riesgos. La calidad depende de materialidad, comparabilidad y narrativa causal, no solo longitud.**
+**Cómo leer el diagrama.** Tres columnas. **Decidir**: decisiones pedidas al comienzo, con alternativas, recomendación y riesgos, separadas de las actualizaciones. **Entender**: resultados frente a plan y a años anteriores, causas de las variaciones, indicadores comparables y definidos. **Dar seguimiento**: acuerdos y responsables, lista de acciones con fechas y envío con antelación suficiente. La nota explica que reducir páginas no basta porque un pack breve puede omitir riesgos; el pie, que el pack parte de las preguntas del directorio y no de lo que cada área quiere mostrar.
 
 ## 📖 Desarrollo
 
-### 1. board pack: mecanismo central
+### 1. El pack como producto
 
-**board pack** se entiende aquí como **paquete periódico de información para supervisión y decisión**. Esta es la pieza causal o estructural desde la que se inicia **board pack y calidad de información**: antes de partir de preguntas del board, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un pack tiene tres funciones: permitir al directorio **decidir** (asuntos que requieren su aprobación), **entender** (cómo va la empresa y por qué) y **supervisar** (seguimiento de acuerdos, riesgos y compromisos). Cada página debe servir a una de ellas; las que no sirven, sobran. Charan observa que los mejores directorios dedican su tiempo a lo que solo ellos pueden hacer y que, para lograrlo, necesitan que la información llegue ordenada por **relevancia**, no por área. Tricker subraya que los directores deben recibir información suficiente para ejercer su deber de supervisión, y los principios de la OCDE agregan que el acceso debe ser **oportuno y confiable**. El pack es, entonces, un **instrumento de gobierno**, no un informe de gestión.
 
-La lectura rectora de este bloque es Bob Tricker — *Corporate Governance*. Su aporte se usa para examinar **separación entre dirección, supervisión, accountability y gobierno corporativo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **pack delivery lead time**; regístrala con periodo, unidad, población y baseline.
+### 2. Partir de las preguntas del directorio
 
-Relaciona el mecanismo con **pre-read**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El pack se diseña de **afuera hacia adentro**: ¿qué preguntas necesita responder el directorio en esta sesión?, ¿qué decisiones se le piden?, ¿qué riesgos necesita vigilar?, ¿qué temas pidió seguir? A partir de allí se define el contenido. Un método simple: el presidente y el CEO (con el secretario del directorio) fijan la **agenda** con dos o tres decisiones principales y los temas de supervisión; cada responsable prepara un documento que responde a una pregunta específica, no un relato de actividades. Se revisa periódicamente, preguntando a los directores qué páginas usaron y qué echaron de menos; la respuesta suele ser reveladora: las secciones más extensas, a menudo, son las menos leídas.
 
-### 2. pre-read: frontera conceptual y error de clasificación
+### 3. Estructura recomendada
 
-**Definición operacional:** documento distribuido antes de reunión para preparar challenge. Su valor está en distinguirlo de **board pack** y **variance**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Una estructura eficaz: **1)** agenda con tiempos y objetivo de cada punto; **2)** **resumen ejecutivo** (una página) con las decisiones pedidas, las alertas y los cambios relevantes desde la última sesión; **3)** **documentos de decisión** (una a tres páginas cada uno, con la pre-lectura de ocho preguntas de la clase 196); **4)** **tablero** de indicadores clave con tendencia, meta y semáforo; **5)** **explicación de variaciones y riesgos principales**; **6)** **informe de comités** (resumen de recomendaciones); **7)** **registro de acciones** de sesiones anteriores; y **8)** **anexos** (detalle financiero y operativo, informes de áreas). Se numera todo y se enlaza para que cada director vaya directamente a lo que le interesa.
 
-Contrasta el problema con OECD — *G20/OECD Principles of Corporate Governance 2023*, que aporta una mirada sobre **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno**. Formula dos mini-casos: uno que sí satisface la definición de **pre-read** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **pages per decision** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Explicar variaciones: causas y no solo cifras
 
-Antes de seleccionar información material, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La parte «entender» es donde más fallan los packs. Una tabla con 80 líneas de resultados frente al presupuesto, sin explicación, obliga al director a adivinar. Se recomienda: mostrar pocos indicadores con **tendencia**, **comparación con el plan y con el año anterior** y **semáforo**; explicar las **tres a cinco variaciones más grandes** en sus causas (precio, volumen, mezcla, costos, eventos únicos); separar lo **estructural** de lo **transitorio**; señalar el **efecto en el año** y en la proyección; y declarar lo que **no se sabe**. La **comparabilidad** (mismas definiciones y períodos) permite ver tendencias; los cambios de definición se anuncian (clase 210). La narrativa causal es la diferencia entre un informe y un análisis.
 
-### 3. variance: operacionalización y medición
+### 5. Decisiones primero, actualizaciones después
 
-**variance** significa **desviación entre plan y resultado con explicación**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un error frecuente es que las decisiones aparezcan al final de la sesión, cuando queda poco tiempo y energía. Se ordena la agenda con **las decisiones al comienzo** y se separa lo que es **para aprobar** de lo que es **para informar**. Cada decisión incluye: qué se pide, por qué ahora, alternativas consideradas, recomendación, riesgos, efecto financiero y plazos. Las actualizaciones se leen **antes** y solo se discuten si hay preguntas o alertas. Esto libera tiempo para el desafío. También se acuerda con el presidente qué decisiones requieren **más de una sesión** (primera lectura y segunda para aprobar) para evitar aprobar bajo presión.
 
-Richard Leblanc & James Gillies — *Inside the Boardroom* orienta este bloque mediante **comportamiento efectivo del directorio, composición y dinámica de gobierno**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **action closure**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Distribución, formato y confidencialidad
 
-Al llegar a explicar variancias y drivers, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El pack llega con **antelación suficiente** (por ejemplo, siete días) y en un **formato accesible** (una plataforma segura para directores, con control de acceso y de versión). Se cuida la **confidencialidad**: la información privilegiada, los datos personales y los asuntos legales se manejan según las reglas de la empresa y de la ley, con acceso restringido y registro de quién descargó qué. Se define quién **aprueba** el contenido final (por ejemplo, el CEO y el presidente) y quién **resguarda** el pack (el secretario del directorio). Un pack enviado la noche anterior no es un pack: es una carga; la puntualidad se mide.
 
-### 4. decision paper: trade-offs y efectos de segundo orden
+### 7. Medir la calidad y cerrar el ciclo
 
-**Definición:** documento que presenta una decisión requerida y alternativas. Este concepto obliga a abandonar la idea de que **board pack y calidad de información** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de separar decisiones de updates, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-COSO — *Enterprise Risk Management—Integrating with Strategy and Performance* aporta una lente sobre **riesgo integrado con estrategia, desempeño, revisión e información**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **forecast variance** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **board pack y calidad de información**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **decision paper** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. board action log: gobernanza, límites e integración
-
-**board action log** se define como **registro de acuerdos responsables y seguimiento** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael E. Porter & Mark R. Kramer — *Creating Shared Value* se utiliza para estudiar **perspectiva de Estrategia / Impacto aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar distribuir temprano y cerrar action log, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Reducir páginas no basta; un pack breve puede omitir riesgos. La calidad depende de materialidad, comparabilidad y narrativa causal, no solo longitud.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **board pack**, **pre-read**, **variance**, **decision paper** y **board action log** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **board pack y calidad de información** no consiste en sumar cinco definiciones. Empieza por **board pack**, contrasta **pre-read** con **variance**, incorpora **decision paper** como restricción o mecanismo y usa **board action log** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. partir de preguntas del board → 2. seleccionar información material → 3. explicar variancias y drivers → 4. separar decisiones de updates → 5. distribuir temprano y cerrar action log**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Algunos indicadores de calidad: **número de páginas** del cuerpo principal (no del anexo); **tiempo de lectura estimado**; **porcentaje de directores que lo leyeron** antes (por encuesta o por la plataforma); **proporción de la sesión** dedicada a decisiones frente a presentaciones; **cantidad de preguntas** que quedan sin responder; **puntualidad** del envío; y **calidad percibida** (encuesta breve semestral). Después de cada sesión se actualiza el **registro de acuerdos** con responsables y fechas, y se revisa al inicio de la siguiente. Mankins y Garton muestran que el tiempo y la atención son los recursos más escasos de una organización; un pack bien diseñado los usa mejor y mejora la calidad de las decisiones.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Bob Tricker — *Corporate Governance* | separación entre dirección, supervisión, accountability y gobierno corporativo | ¿Qué supuesto de **board pack y calidad de información** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **board pack y calidad de información** ayuda a desafiar? |
-| Richard Leblanc & James Gillies — *Inside the Boardroom* | comportamiento efectivo del directorio, composición y dinámica de gobierno | ¿Qué supuesto de **board pack y calidad de información** ayuda a desafiar? |
-| COSO — *Enterprise Risk Management—Integrating with Strategy and Performance* | riesgo integrado con estrategia, desempeño, revisión e información | ¿Qué supuesto de **board pack y calidad de información** ayuda a desafiar? |
-| Michael E. Porter & Mark R. Kramer — *Creating Shared Value* | perspectiva de Estrategia / Impacto aplicada al problema de la clase | ¿Qué supuesto de **board pack y calidad de información** ayuda a desafiar? |
-
-En **board pack y calidad de información**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **board pack**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Charan | El directorio dedica su tiempo a lo que solo él puede hacer. | Visión de práctica. | ¿Qué pide el directorio que le llegue? |
+| Tricker | Información suficiente como base de la supervisión. | No fija un formato. | ¿Qué necesita saber para supervisar? |
+| LeBlanc y Gillies | Dinámica real: presentaciones largas y poca discusión. | Casos específicos. | ¿Cuánto del tiempo se usa en presentar? |
+| OCDE (2023) | Acceso oportuno y confiable a la información. | Principios generales. | ¿Llega a tiempo y es confiable? |
+| Mankins y Garton | Tiempo y atención como recursos escasos. | Estudio agregado. | ¿Qué páginas pueden eliminarse? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** El CFO envía 230 páginas a las 22:00 del día previo. La primera hora de board se usa para explicar tablas y la adquisición queda 15 minutos al final.
+**Situación (hipotética).** El pack mensual de un directorio de seis personas tiene 120 páginas, se envía dos días antes y las decisiones aparecen entre las páginas 55 y 80. Una encuesta muestra que los directores leen, en promedio, el 40 % de las páginas. La sesión dura 4 horas.
 
-**Paso 1 — partir de preguntas del board.** La gerencia escribe primero el supuesto asociado a **board pack** y evita convertirlo en hecho. Luego busca **pack delivery lead time** para contrastarlo en el caso de **board pack y calidad de información**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diagnóstico por sección (páginas y uso).**
 
-**Paso 2 — seleccionar información material.** La gerencia escribe primero el supuesto asociado a **pre-read** y evita convertirlo en hecho. Luego busca **pages per decision** para contrastarlo en el caso de **board pack y calidad de información**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Sección | Páginas | Páginas leídas (aprox.) | Valor para el directorio |
+|---|---|---|---|
+| Informes de áreas (ventas, operaciones, personas, TI) | 64 | 15 | Bajo: se repite lo del tablero |
+| Estados financieros y detalle | 26 | 12 | Medio: útil como anexo |
+| Decisiones | 14 | 11 | Alto |
+| Riesgos y cumplimiento | 10 | 6 | Alto |
+| Otros (agenda, actas) | 6 | 4 | Medio |
+| **Total** | **120** | **48** | |
 
-**Paso 3 — explicar variancias y drivers.** La gerencia escribe primero el supuesto asociado a **variance** y evita convertirlo en hecho. Luego busca **action closure** para contrastarlo en el caso de **board pack y calidad de información**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** Si se lee a razón de 3 minutos por página: 120 × 3 = 360 minutos (6,0 horas) para leer todo; los directores leen 48 páginas (2,4 horas), a menudo sin las más importantes.
 
-**Paso 4 — separar decisiones de updates.** La gerencia escribe primero el supuesto asociado a **decision paper** y evita convertirlo en hecho. Luego busca **forecast variance** para contrastarlo en el caso de **board pack y calidad de información**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Rediseño.**
 
-**Paso 5 — distribuir temprano y cerrar action log.** La gerencia escribe primero el supuesto asociado a **board action log** y evita convertirlo en hecho. Luego busca **board questions** para contrastarlo en el caso de **board pack y calidad de información**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- **Cuerpo principal de 12 páginas**: resumen ejecutivo (1), documentos de decisión (6, de dos páginas cada uno, para tres decisiones), tablero de 10 indicadores (2), variaciones y riesgos (2) y registro de acciones (1).
+- **Anexos de 16 páginas** (financiero, operativo, comités).
+- Los informes de áreas se reemplazan por un **tablero**; el detalle queda en el anexo.
+- Envío siete días antes; cierre de contenido cinco días antes; el secretario valida consistencia.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **board pack y calidad de información**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Tiempo de lectura nuevo.** Cuerpo principal: 12 × 4 minutos (se lee con más atención) = 48 minutos (0,8 horas). Anexo opcional: 16 × 4 = 64 minutos (1,07 horas). Si un director lee el cuerpo principal completo, invierte 0,8 horas frente a 2,4 horas de lectura parcial antes, y comprende más.
+
+**Efecto en la sesión (4 horas).**
+
+| Uso del tiempo | Antes | Después |
+|---|---|---|
+| Presentaciones de la gerencia | 2,4 h (60 %) | 0,6 h (15 %) |
+| Decisiones y desafío | 0,8 h (20 %) | 2,2 h (55 %) |
+| Riesgos y cumplimiento | 0,4 h (10 %) | 0,8 h (20 %) |
+| Sesión ejecutiva | 0,4 h (10 %) | 0,4 h (10 %) |
+
+**Indicadores a seis meses (hipotéticos).** Directores que leyeron el cuerpo principal antes: de 40 % a 92 %; acciones del registro cerradas en plazo: de 58 % a 88 %; preguntas que quedaron sin respuesta: de 11 a 3 por sesión; puntualidad del envío: de 2 a 7 días de antelación.
+
+**Cuidados.** La información privilegiada, los datos personales y los asuntos legales del pack tienen reglas de acceso y de registro que se verifican con asesoría y con la normativa; las cifras son ilustrativas.
+
+**Qué muestra.** (1) El análisis de uso reveló el valor real de cada sección. (2) El rediseño pasó de más páginas a mejor información. (3) La medición permite mejorar el pack.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **board pack** | paquete periódico de información para supervisión y decisión | Cuando pack delivery lead time es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **pre-read** | documento distribuido antes de reunión para preparar challenge | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Pack frente a pre-lectura.** El pack es el conjunto completo; la pre-lectura es el documento breve que prepara una decisión o un tema. Un buen pack contiene pre-lecturas bien hechas.
 
-**Frontera de aplicación:** Reducir páginas no basta; un pack breve puede omitir riesgos. La calidad depende de materialidad, comparabilidad y narrativa causal, no solo longitud.
+**Límites.** Reducir páginas no basta: un pack breve puede omitir riesgos. La calidad depende de materialidad, comparabilidad y narrativa causal, no solo de longitud. Los tiempos de lectura y los porcentajes de uso son aproximaciones. Las necesidades de información varían con la etapa y los riesgos de la empresa. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre board pack y calidad de información |
+| Nivel | Cómo contribuye al pack |
 |---|---|
-| **Profesional** | usa **board pack y calidad de información** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **board pack** y **pre-read** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta pack delivery lead time con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si board pack y calidad de información cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de board pack y calidad de información reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **board pack y calidad de información** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Prepara datos exactos y definiciones consistentes. |
+| **Jefe / Team Lead** | Resume lo esencial de su área en pocas líneas con causas. |
+| **Gerente** | Escribe documentos de decisión con alternativas y riesgos. |
+| **CEO / Director** | Pide información útil, la lee y devuelve preguntas concretas. |
+| **Founder / Owner** | Acepta información incómoda y completa, y no la filtra. |
 
 ## 🏢 Caso ejecutivo
 
-El CFO envía 230 páginas a las 22:00 del día previo. La primera hora de board se usa para explicar tablas y la adquisición queda 15 minutos al final.
+Una empresa de transporte con 3.100 personas entrega a su directorio de siete personas un pack de 180 páginas, siempre un día antes de la sesión. Contiene 12 informes de áreas con distinto formato, un balance de 40 páginas sin comparación con el año anterior, y las decisiones al final. Los indicadores cambian cada mes: «puntualidad» se mide por salida en un informe y por llegada en otro. Una pérdida de un cliente que representa el 9 % de los ingresos aparece en una nota al pie de la página 134. El presidente dice que «nadie lee los packs»; la gerencia, que «hay que mostrar todo para que no digan que ocultamos». En la última sesión se aprobó una inversión de 5.200 millones de pesos tras una presentación de 10 minutos. Un director propone «contratar un consultor para que haga un pack bonito».
 
-Entrega un **decision brief de board pack y calidad de información** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **rediseño del pack** que contenga: (a) las preguntas que debe responder el directorio y la agenda de una sesión modelo; (b) la estructura del pack con cuerpo principal y anexos, y qué se elimina; (c) el diccionario de indicadores y la narrativa de variaciones con un ejemplo; (d) el formato de documento de decisión y la regla de lectura anticipada; (e) la distribución, la confidencialidad y el registro de acuerdos; (f) los indicadores de calidad, el plan de medición y las verificaciones legales sobre información confidencial.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **board pack y calidad de información** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. partir de preguntas del board → 2. seleccionar información material → 3. explicar variancias y drivers → 4. separar decisiones de updates → 5. distribuir temprano y cerrar action log** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta pack delivery lead time, pages per decision; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Cuenta las páginas del último pack de tu directorio y clasifícalas por valor (alto, medio, bajo).
+2. Redacta las diez preguntas que debería responder el pack de la próxima sesión.
+3. Rediseña un pack de 50 páginas en un cuerpo principal de ocho y anexos.
+4. Escribe la narrativa de las tres mayores variaciones de un tablero con causas.
+5. Define cinco indicadores de calidad del pack y cómo se medirían.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar board pack y pre-read como sinónimos | Se pierde la distinción entre “paquete periódico de información para supervisión y decisión” y “documento distribuido antes de reunión para preparar challenge” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “distribuir temprano y cerrar action log” | Se saltó “partir de preguntas del board” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. partir de preguntas del board → 2. seleccionar información material → 3. explicar variancias y drivers → 4. separar decisiones de updates → 5. distribuir temprano y cerrar action log y marca el primer supuesto no demostrado. |
-| Optimizar solo pack delivery lead time | La métrica local sustituyó al resultado del sistema | Contrástala con pages per decision y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre board pack y calidad de información | Reducir páginas no basta; un pack breve puede omitir riesgos. La calidad depende de materialidad, comparabilidad y narrativa causal, no solo longitud. |
-| No fijar revisión | Una decisión sobre board pack y calidad de información se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Pack por área | Cada responsable quiere mostrar | Estructura por preguntas y decisiones. |
+| Decisiones al final | Se sigue el orden del organigrama | Decisiones al comienzo con pre-lecturas. |
+| Cifras sin causas | Se supone que se entienden | Narrativa causal de las variaciones principales. |
+| Envío tardío | Se prepara a último momento | Calendario con cierre de contenido y envío anticipado. |
+| Reducir páginas sin criterio | Se busca brevedad | Materialidad, comparabilidad y riesgos primero. |
+| No cerrar el registro de acciones | No hay seguimiento | Revisión al inicio de cada sesión. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **board pack** y **pre-read** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **variance** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **partir de preguntas del board → seleccionar información material** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **pack delivery lead time** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **board pack y calidad de información**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Reducir páginas no basta; un pack breve puede omitir riesgos. La calidad depende de materialidad, comparabilidad y narrativa causal, no solo longitud.**?
+1. ¿Qué tres funciones cumple un pack?
+2. ¿Por qué se diseña a partir de las preguntas del directorio?
+3. ¿Qué estructura recomendada tiene un pack?
+4. ¿Qué debe incluir la explicación de variaciones?
+5. ¿Por qué conviene poner las decisiones al comienzo?
+6. ¿Qué indicadores miden la calidad del pack?
+7. ¿Por qué reducir páginas no basta?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Permitir decidir, entender y supervisar.
+2. Porque el valor del pack está en responder lo que el directorio necesita para decidir y supervisar, no en lo que cada área quiere mostrar.
+3. Agenda, resumen ejecutivo, documentos de decisión, tablero, variaciones y riesgos, informe de comités, registro de acciones y anexos.
+4. Causas de las variaciones, distinción estructural/transitorio, efecto en el año, supuestos y lo que no se sabe.
+5. Porque al final de la sesión queda poco tiempo y energía; las decisiones merecen la mejor atención.
+6. Páginas del cuerpo principal, tiempo de lectura, directores que lo leyeron, tiempo en decisiones, preguntas sin responder, puntualidad y calidad percibida.
+7. Porque un pack breve puede omitir riesgos; la calidad depende de la materialidad, la comparabilidad y la narrativa causal.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/211-board-pack-y-calidad-de-informacion/`:
 
-- `operating-improvement-brief.md` con el problema específico de **board pack y calidad de información**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **board pack y calidad de información** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **board pack**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **El CFO envía 230 páginas a las 22:00 del día previo. La primera hora de board se usa para explicar tablas y la adquisición queda 15 minutos al final.** y el dato que podría invalidar la recomendación.
+- `operating-improvement-brief.md` (plantilla [Operating improvement brief](../../../../templates/operating-improvement-brief.md)) con el rediseño del caso ejecutivo;
+- `board-pack.md` (plantilla [Board pack](../../../../templates/board-pack.md)) con un pack modelo de una sesión;
+- `decision-journal.md` con el análisis de uso del pack, los indicadores de calidad y las verificaciones pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** separación entre dirección, supervisión, accountability y gobierno corporativo. Lectura selectiva sobre **board pack y calidad de información**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, deberes del directorio y divulgación como referencia de gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Richard Leblanc & James Gillies — *Inside the Boardroom* (John Wiley & Sons, Incorporated, 2009). **Uso en esta clase:** comportamiento efectivo del directorio, composición y dinámica de gobierno. Lectura selectiva sobre **board pack y calidad de información**. **Localizador:** [ISBN-13 9780470739952](https://openlibrary.org/isbn/9780470739952).
-- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** riesgo integrado con estrategia, desempeño, revisión e información. **Fuente primaria:** <https://www.coso.org/>.
-- Michael E. Porter & Mark R. Kramer — *Creating Shared Value* (Managing Sustainable Business, 2018). **Uso en esta clase:** perspectiva de Estrategia / Impacto aplicada al problema de la clase. Lectura selectiva sobre **board pack y calidad de información**. **Localizador:** [DOI 10.1007/978-94-024-1144-7_16](https://doi.org/10.1007/978-94-024-1144-7_16).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **board pack y calidad de información**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **board pack y calidad de información** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **board pack y calidad de información**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **board pack y calidad de información** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **board pack y calidad de información** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **board pack y calidad de información** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Ram Charan — *Boards That Deliver* (John Wiley & Sons, Incorporated, 2007). **Uso en esta clase:** el directorio dedica su tiempo a lo que solo él puede hacer. Lectura selectiva sobre **board pack y calidad de información**. **Localizador:** [ISBN-13 9781118046616](https://openlibrary.org/isbn/9781118046616).
+- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** información suficiente como base de la supervisión. Lectura selectiva sobre **board pack y calidad de información**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
+- Richard Leblanc & James Gillies — *Inside the Boardroom* (John Wiley & Sons, Incorporated, 2009). **Uso en esta clase:** dinámica real de las salas de directorio. Lectura selectiva sobre **board pack y calidad de información**. **Localizador:** [ISBN-13 9780470739952](https://openlibrary.org/isbn/9780470739952).
+- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** acceso oportuno y confiable a la información. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** tiempo y atención como recursos escasos. Lectura selectiva sobre **board pack y calidad de información**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
 
-> **Regla de fuentes para Board pack y calidad de información:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **board pack y calidad de información** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Board pack y calidad de información:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las reglas de confidencialidad, de información privilegiada y de protección de datos. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

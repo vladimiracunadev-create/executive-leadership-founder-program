@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **CEO evaluation** de **scorecard** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **relative performance** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **behavioral objective** con **succession readiness**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué propósitos tiene la evaluación del CEO?
+2. ¿Por qué se acuerdan los criterios antes del período?
+3. ¿Por qué se evalúan resultados y conductas por separado?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Ingresos quedan 8% bajo plan por recesión sectorial, pero CEO ganó share y redujo churn. El comité de compensación aplica fórmula automática y lo califica igual que si hubiera perdido share.
+**Caso:** Una empresa de manufactura con 2.400 personas y ventas de 140.000 millones de pesos evaluó a su CEO el último mes del año. Al inicio no se acordaron metas por escrito; el presidente dijo que «los números hablan solos». El año cerró con ventas 6 % sobre el presupuesto y un EBITDA 14 % sobre la meta, gracias a un alza de precios del sector. La rotación de gerentes fue de 24 %, se postergó la inversión de mantenimiento en dos plantas, dos accidentes laborales graves recibieron una sanción de la autoridad, y la encuesta de clima cayó 15 puntos. El director comercial dice que el CEO «es brillante»; un director independiente teme que se hayan sacrificado seguridad y talento; otro propone un bono de 180 % del objetivo; el presidente quiere renovar el contrato por cinco años. No hay plan de sucesión: el único candidato interno, el director de operaciones, es hostil con el CEO. El CEO pregunta cómo se le evaluó «si nadie le dijo qué se esperaba».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir expectativas ex ante → equilibrar outcomes y behaviors → reunir evidencia y contexto → discutir en sesión independiente → dar feedback compensation y development actions**. Debes utilizar o diseñar cómo obtener **enterprise results, strategic milestones, team health**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **proceso de evaluación del CEO** que contenga: (a) las expectativas ex ante con objetivos, conductas, pesos y tratamiento del contexto; (b) la evaluación del caso con evidencia, resultados y conductas, y el ajuste por el alza de precios del sector; (c) el procedimiento de calibración para reducir el ruido y los sesgos; (d) la sesión independiente y el contenido de la retroalimentación; (e) la propuesta sobre el bono y la renovación del contrato con criterios y contrapesos; (f) la conexión con el plan de sucesión y las verificaciones legales y laborales. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Evita cambiar criterios retroactivamente para justificar una opinión. La evaluación requiere juicio, pero debe estar anclada en objetivos, contexto y evidencia acordados.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: La evaluación requiere juicio, pero anclado en objetivos, contexto y evidencia acordados; evita cambiar criterios retroactivamente para justificar una opinión.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

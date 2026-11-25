@@ -10,217 +10,199 @@
 
 ## 🎯 Propósito
 
-Comités de auditoría, riesgo y compensaciones permiten profundidad especializada, pero no trasladan la responsabilidad colectiva del directorio. Cada comité necesita charter, miembros competentes, información, calendario y escalamiento claro al board completo.
+Un directorio completo no puede revisar en profundidad las cuentas, los riesgos, las remuneraciones, el nombramiento de directores y la ética de la empresa en cuatro horas mensuales. Por eso delega el trabajo de profundidad en **comités**: grupos pequeños de directores que estudian un tema con más detalle, conversan con los responsables y recomiendan al pleno. Bien diseñados, los comités multiplican la capacidad del directorio y protegen su independencia en los asuntos donde el conflicto es más probable: quién revisa las cuentas, quién fija el pago de los ejecutivos. Mal diseñados, fragmentan la responsabilidad, duplican trabajo y se convierten en instancias formales donde se aprueba lo que la gerencia presenta.
 
-La salida de esta parte es **separar propiedad, administración y supervisión para gobernar estrategia, riesgo y sucesión**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **comités de auditoría, riesgo y compensación** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase examina los tres comités más frecuentes (auditoría, riesgos y compensación), su composición, su mandato y su relación con el directorio. Se apoya en los principios de gobierno de la OCDE, en el marco COSO de control interno y de gestión de riesgos, en el análisis de Tricker sobre las funciones del directorio y en la visión de Charan sobre directorios efectivos. Remite a la ley de sociedades y a las normas del regulador para los comités obligatorios, sin interpretarlas. Al terminar sabrás decidir qué comités crear, definir su estatuto y composición, planificar su calendario e información y reportar al directorio con recomendaciones y excepciones.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `board committee`, `audit committee`, `risk committee`, `compensation committee`, `committee charter` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. mapear riesgos y requisitos → 2. crear charters → 3. seleccionar independencia y expertise → 4. definir calendario e información → 5. reportar recomendaciones y excepciones al board** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** committee attendance, open findings, control assurance sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Decidir** qué comités necesita un directorio según su escala, regulación y complejidad.
+2. **Redactar** el estatuto de un comité con mandato, composición, facultades y calendario.
+3. **Seleccionar** miembros considerando independencia y experiencia.
+4. **Definir** la información que recibe el comité y lo que reporta al directorio.
+5. **Evitar** la fragmentación y la duplicación entre comités y con el directorio.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define board committee y audit committee sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con committee attendance y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué comités tiene tu directorio y qué recomendación concreta produjo cada uno el último año? |
+| 20–60 min | Para qué sirven, auditoría, riesgos, compensación, composición, calendario e informe. |
+| 60–105 min | Ejemplo trabajado: composición, carga de trabajo y seguimiento de hallazgos. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **board committee** | subgrupo con mandato delegado para profundizar una materia | Distingue un hecho compatible y otro que lo refute. |
-| **audit committee** | comité que supervisa reporting financiero auditoría y controles | Distingue un hecho compatible y otro que lo refute. |
-| **risk committee** | comité que supervisa framework y exposiciones materiales | Distingue un hecho compatible y otro que lo refute. |
-| **compensation committee** | comité que diseña y supervisa remuneración ejecutiva | Distingue un hecho compatible y otro que lo refute. |
-| **committee charter** | documento que define alcance autoridad y reporting | Distingue un hecho compatible y otro que lo refute. |
+| **Comité del directorio** | Grupo de directores que estudia un tema y recomienda al pleno. | Estatuto, miembros, calendario e informe. |
+| **Comité de auditoría** | Supervisa la información financiera, el control interno y la auditoría. | Se relaciona con auditores y con control interno. |
+| **Comité de riesgos** | Supervisa el apetito, los riesgos principales y los controles críticos. | Revisa tablero de riesgos y excepciones. |
+| **Comité de compensación** | Propone la remuneración y los incentivos de la alta dirección. | Basado en desempeño y criterios previos. |
+| **Independencia** | Ausencia de vínculos que comprometan el juicio. | Se define por ley, estatutos o códigos. |
+| **Estatuto del comité** | Documento que fija mandato y reglas del comité. | Aprobado por el directorio. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 208: 1. mapear riesgos y requisitos → 2. crear charters → 3. seleccionar independencia y expertise → 4. definir calendario e información → 5. reportar recomendaciones y excepciones al board](modelo-mental.svg)
+![Comités del directorio: auditoría, riesgos, compensación y talento, y otros según necesidad, con foco, composición y reporte.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear riesgos y requisitos → 2. crear charters → 3. seleccionar independencia y expertise → 4. definir calendario e información → 5. reportar recomendaciones y excepciones al board
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Comités de auditoría, riesgo y compensaciones permiten profundidad especializada, pero no trasladan la responsabilidad colectiva del directorio. Cada comité necesita charter, miembros competentes, información, calendario y escalamiento claro al board completo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Más comités pueden fragmentar accountability y duplicar trabajo. Crea solo donde escala, regulación o complejidad justifican profundidad adicional.**
+**Cómo leer el diagrama.** Una tabla con cuatro filas. **Auditoría**: información financiera, controles internos y auditoría; independientes con experticia financiera; recomienda y reporta excepciones. **Riesgos**: apetito, riesgos principales y controles críticos; miembros con visión de riesgo y del negocio; presenta tablero y brechas. **Compensación y talento**: remuneración, desempeño y sucesión; independientes del equipo evaluado; propone con justificación. **Otros según necesidad**: ética, ciberseguridad, sostenibilidad; según escala y complejidad; informes breves y acciones. La nota advierte que más comités no significa más gobierno; el pie, que los comités obligatorios dependen de la normativa aplicable.
 
 ## 📖 Desarrollo
 
-### 1. board committee: mecanismo central
+### 1. Para qué sirven los comités
 
-**board committee** se entiende aquí como **subgrupo con mandato delegado para profundizar una materia**. Esta es la pieza causal o estructural desde la que se inicia **comités de auditoría, riesgo y compensación**: antes de mapear riesgos y requisitos, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Los comités permiten **profundizar** en temas técnicos (cuentas, riesgos, remuneración), **reunir experticia** específica, **proteger la independencia** en temas con conflicto potencial y **liberar tiempo** del pleno para estrategia y decisiones de fondo. Los principios de gobierno de la OCDE reconocen que los directorios pueden crear comités para tareas específicas, y recomiendan que las funciones de auditoría, nombramientos y remuneraciones se asignen a miembros no ejecutivos e independientes cuando haya conflictos potenciales. Pero el directorio **no delega su responsabilidad**: el comité estudia y recomienda; la decisión y el deber de supervisión siguen en el pleno, salvo facultades legalmente delegadas. Se crean comités donde la **escala**, la **regulación** o la **complejidad** lo justifican, y no por imitación.
 
-La lectura rectora de este bloque es Bob Tricker — *Corporate Governance*. Su aporte se usa para examinar **separación entre dirección, supervisión, accountability y gobierno corporativo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **committee attendance**; regístrala con periodo, unidad, población y baseline.
+### 2. Comité de auditoría
 
-Relaciona el mecanismo con **audit committee**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Es el más extendido. Supervisa la **integridad de la información financiera**, el **sistema de control interno** (COSO, clase 183), la función de **auditoría interna** (su plan, independencia y hallazgos) y la relación con el **auditor externo** (selección, independencia, alcance y honorarios). Se reúne con el auditor externo y con el auditor interno **sin la gerencia presente**, al menos algunas veces al año. Revisa los estados financieros antes de su aprobación, los juicios contables significativos, los hallazgos y su remediación, y los canales de denuncia y los casos graves (clase 189). Requiere miembros con **experticia financiera** y mayoría o totalidad de independientes. En muchos países, la ley o los reguladores bursátiles imponen requisitos sobre su existencia y composición; en Chile, la ley de sociedades anónimas contempla un comité de directores en ciertas sociedades abiertas, cuyas condiciones y facultades se verifican en LeyChile y en las normas de la autoridad, sin interpretarlas de memoria.
 
-### 2. audit committee: frontera conceptual y error de clasificación
+### 3. Comité de riesgos
 
-**Definición operacional:** comité que supervisa reporting financiero auditoría y controles. Su valor está en distinguirlo de **board committee** y **risk committee**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Supervisa el **apetito de riesgo** (clase 182), el **mapa de riesgos principales** y sus escenarios (clase 181), los **controles críticos** (clase 213), la **respuesta a incidentes** y la **continuidad**. Recibe un **tablero** periódico con tendencias, excepciones y brechas, y se reúne con el responsable de riesgos y, cuando corresponde, con ciberseguridad y cumplimiento. COSO enfatiza que la gestión de riesgos se integra con la estrategia y el desempeño; por eso, un comité de riesgos útil es el que conecta los riesgos con los objetivos de la empresa y no solo repasa listados. En empresas pequeñas, el comité de auditoría puede asumir esta función; en reguladas o complejas (bancos, seguros, salud, energía), suele ser un comité propio. Los requisitos regulatorios del sector se verifican en la fuente.
 
-Contrasta el problema con OECD — *G20/OECD Principles of Corporate Governance 2023*, que aporta una mirada sobre **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno**. Formula dos mini-casos: uno que sí satisface la definición de **audit committee** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **open findings** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Comité de compensación y talento
 
-Antes de crear charters, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Propone la **política de remuneración** del CEO y de la alta dirección, sus **incentivos** (corto y largo plazo, con contrapesos, clase 175), los **criterios de evaluación** y las condiciones de ingreso o salida. Conviene que esté formado por directores **independientes del equipo evaluado**, que no incluya al CEO, y que use **información comparativa** y asesoría externa con independencia. Su valor está en evitar dos extremos: pagar por resultados que no dependen del ejecutivo (suerte) o crear incentivos que premian riesgos excesivos. Con frecuencia se amplía a **talento y sucesión** (clases 201 y 203): evaluación del CEO, desarrollo de candidatos y planes de emergencia. La transparencia sobre las políticas de remuneración se ajusta a las exigencias legales y de mercado, que se verifican con asesoría.
 
-### 3. risk committee: operacionalización y medición
+### 5. Otros comités: nombramientos, ética, ciberseguridad, sostenibilidad
 
-**risk committee** significa **comité que supervisa framework y exposiciones materiales**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Según la empresa pueden existir comités de **nombramientos y gobierno corporativo** (composición, evaluación del directorio, independencia), de **ética y cumplimiento**, de **ciberseguridad y tecnología**, de **sostenibilidad** o de **partes relacionadas**. Cada uno debe justificar su existencia con una pregunta: ¿qué decisiones o supervisiones requieren una profundidad que el pleno no puede dar?, ¿hay una regulación que lo exija?, ¿hay un conflicto que requiere independencia especial? Una regla útil es **no crear más comités de los que el directorio pueda atender bien**: cada comité consume horas de directores, exige preparación de la gerencia y puede dispersar la responsabilidad.
 
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* orienta este bloque mediante **responsabilidad gerencial, propósito, organización y resultados**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **control assurance**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Composición, independencia y experticia
 
-Al llegar a seleccionar independencia y expertise, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La composición combina **independencia** (los directores sin vínculos con la gerencia, con propietarios relevantes o con la empresa que comprometan su juicio, según la definición legal y de los estatutos) y **experticia** (financiera, de riesgos, de talento, tecnológica). Se evita que los mismos directores se concentren en todos los comités: genera sobrecarga y poder excesivo. Se rota o se amplía el pool. Se verifica que los miembros **no tengan conflictos** con el tema (por ejemplo, un proveedor de la empresa en el comité de compras o un ejecutivo en el comité que fija su sueldo). La definición de independencia tiene contenido legal específico: no se asume, se verifica en la ley, los estatutos y los códigos aplicables.
 
-### 4. compensation committee: trade-offs y efectos de segundo orden
+### 7. Estatuto, calendario, información e informe
 
-**Definición:** comité que diseña y supervisa remuneración ejecutiva. Este concepto obliga a abandonar la idea de que **comités de auditoría, riesgo y compensación** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de definir calendario e información, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Richard Leblanc & James Gillies — *Inside the Boardroom* aporta una lente sobre **comportamiento efectivo del directorio, composición y dinámica de gobierno**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **compensation alignment** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **comités de auditoría, riesgo y compensación**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **compensation committee** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. committee charter: gobernanza, límites e integración
-
-**committee charter** se define como **documento que define alcance autoridad y reporting** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Robert A. G. Monks & Nell Minow — *Corporate Governance* se utiliza para estudiar **perspectiva de Gobierno corporativo aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar reportar recomendaciones y excepciones al board, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Más comités pueden fragmentar accountability y duplicar trabajo. Crea solo donde escala, regulación o complejidad justifican profundidad adicional.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **board committee**, **audit committee**, **risk committee**, **compensation committee** y **committee charter** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **comités de auditoría, riesgo y compensación** no consiste en sumar cinco definiciones. Empieza por **board committee**, contrasta **audit committee** con **risk committee**, incorpora **compensation committee** como restricción o mecanismo y usa **committee charter** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear riesgos y requisitos → 2. crear charters → 3. seleccionar independencia y expertise → 4. definir calendario e información → 5. reportar recomendaciones y excepciones al board**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Cada comité tiene un **estatuto** que define: propósito, facultades (por ejemplo, contratar asesores externos, acceder a información y a personas), composición, quórum, frecuencia, relación con el pleno e información que recibe. Un **calendario anual** distribuye los temas (por ejemplo, el comité de auditoría revisa en el primer trimestre el cierre y la auditoría; en el tercero, el plan de auditoría interna). La **información** llega con antelación y tiene un formato estable. Cada reunión termina con **acuerdos y recomendaciones**; el presidente del comité **informa al pleno** con un resumen breve: temas tratados, recomendaciones, excepciones y puntos que requieren decisión. Se hace una **autoevaluación** anual del comité y se actualiza el estatuto cuando cambia el contexto.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Bob Tricker — *Corporate Governance* | separación entre dirección, supervisión, accountability y gobierno corporativo | ¿Qué supuesto de **comités de auditoría, riesgo y compensación** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **comités de auditoría, riesgo y compensación** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **comités de auditoría, riesgo y compensación** ayuda a desafiar? |
-| Richard Leblanc & James Gillies — *Inside the Boardroom* | comportamiento efectivo del directorio, composición y dinámica de gobierno | ¿Qué supuesto de **comités de auditoría, riesgo y compensación** ayuda a desafiar? |
-| Robert A. G. Monks & Nell Minow — *Corporate Governance* | perspectiva de Gobierno corporativo aplicada al problema de la clase | ¿Qué supuesto de **comités de auditoría, riesgo y compensación** ayuda a desafiar? |
-
-En **comités de auditoría, riesgo y compensación**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **board committee**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| OCDE (2023) | Funciones del directorio y asignación a miembros independientes. | Principios de alto nivel. | ¿Qué tarea requiere independencia especial? |
+| COSO Control Interno | Cinco componentes y supervisión del control. | No define el estatuto de un comité. | ¿Qué evidencia recibe el comité de auditoría? |
+| COSO ERM | Integración del riesgo con estrategia y desempeño. | No fija la estructura del directorio. | ¿Conecta el comité de riesgos con la estrategia? |
+| Tricker | Tareas del directorio y relación con comités. | Marco general. | ¿Qué no se puede delegar? |
+| Charan | Directorios efectivos y uso del tiempo. | Visión de práctica. | ¿Nuestros comités ahorran tiempo o lo duplican? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** El comité de auditoría recibe 180 páginas el día anterior; no tiene nadie con experiencia financiera y el board asume que ellos ya revisaron todo.
+**Situación (hipotética).** Un directorio de seis personas (D1 a D6) de una empresa con ventas de 150.000 millones de pesos evalúa su estructura de comités. D1, D2 y D3 son independientes; D4 y D5 representan a propietarios; D6 es el CEO (director ejecutivo). El pleno sesiona ocho veces al año por 4 horas (32 horas).
 
-**Paso 1 — mapear riesgos y requisitos.** La gerencia escribe primero el supuesto asociado a **board committee** y evita convertirlo en hecho. Luego busca **committee attendance** para contrastarlo en el caso de **comités de auditoría, riesgo y compensación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Propuesta de comités.**
 
-**Paso 2 — crear charters.** La gerencia escribe primero el supuesto asociado a **audit committee** y evita convertirlo en hecho. Luego busca **open findings** para contrastarlo en el caso de **comités de auditoría, riesgo y compensación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Comité | Sesiones | Horas por sesión | Miembros | Horas de directores |
+|---|---|---|---|---|
+| Auditoría | 6 | 3 | D1, D2, D3 (3 miembros) | 6 × 3 × 3 = 54 |
+| Riesgos | 4 | 3 | D2, D3, D4 (3 miembros) | 4 × 3 × 3 = 36 |
+| Compensación y talento | 3 | 2 | D1, D3, D5 (3 miembros) | 3 × 2 × 3 = 18 |
+| **Total comités** | | | | **108** |
 
-**Paso 3 — seleccionar independencia y expertise.** La gerencia escribe primero el supuesto asociado a **risk committee** y evita convertirlo en hecho. Luego busca **control assurance** para contrastarlo en el caso de **comités de auditoría, riesgo y compensación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Carga total.** Pleno: 32 horas × 6 = 192 horas de directores. Total con comités: 192 + 108 = 300. Los comités representan 108 ÷ 300 = 36 % de las horas de directores.
 
-**Paso 4 — definir calendario e información.** La gerencia escribe primero el supuesto asociado a **compensation committee** y evita convertirlo en hecho. Luego busca **compensation alignment** para contrastarlo en el caso de **comités de auditoría, riesgo y compensación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Carga por director.** D3 participa en tres comités: 18 + 12 + 6 = 36 horas de comités más 32 del pleno: 68 horas. D2: auditoría 18, riesgos 12: 30 + 32 = 62. D1: auditoría 18, compensación 6: 24 + 32 = 56. D4: riesgos 12 + 32 = 44. D5: compensación 6 + 32 = 38. D6, el CEO, solo el pleno (32 horas) y no integra ningún comité. La carga se concentra en D3 (68 horas), un 79 % más que D5 (68 ÷ 38).
 
-**Paso 5 — reportar recomendaciones y excepciones al board.** La gerencia escribe primero el supuesto asociado a **committee charter** y evita convertirlo en hecho. Luego busca **escalation timeliness** para contrastarlo en el caso de **comités de auditoría, riesgo y compensación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Ajuste.** Se rota la presidencia de los comités, se incorpora a un cuarto independiente (D7) al comité de riesgos en lugar de D3 y se pasa a D3 a compensación solo cuando el comité lo requiere. Con ello, D3 baja a 56 horas (18 de auditoría, 6 de compensación y 32 del pleno).
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **comités de auditoría, riesgo y compensación**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Independencia.** Auditoría: 100 % independientes con experticia financiera de D1. Compensación: mayoría independiente (D1, D3) y D5 como representante de propietarios; el CEO no participa y sale de la sala cuando se discute su remuneración. Riesgos: mayoría independiente (D2, D3) y un propietario (D4) para la visión del negocio.
+
+**Costos.** Con un honorario de 1 millón por sesión y miembro: auditoría 6 × 3 × 1 = 18 millones; riesgos 4 × 3 × 1 = 12; compensación 3 × 3 × 1 = 9. Total: 39 millones al año.
+
+**Seguimiento de hallazgos de auditoría.** El comité de auditoría revisa 13 hallazgos de auditoría interna, de los cuales 8 están cerrados (61,5 %). Se fija la meta de 12 cerrados al cierre del año (92,3 %), con un responsable por hallazgo y un reporte trimestral al pleno de los vencidos.
+
+**Calendario de auditoría.** T1: cierre del año y auditor externo; T2: plan de auditoría interna y canal de denuncias; T3: hallazgos y control interno; T4: plan del año siguiente y evaluación del auditor.
+
+**Cuidados.** La obligación de contar con ciertos comités, su composición, sus facultades y los criterios de independencia dependen de la ley, de la normativa del regulador y de los estatutos; se verifican con asesoría. Las cifras son ilustrativas.
+
+**Qué muestra.** (1) Se dimensionó la carga de trabajo de comités. (2) Se cuidó la independencia donde hay conflicto. (3) Se fijó un seguimiento medible de los hallazgos.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **board committee** | subgrupo con mandato delegado para profundizar una materia | Cuando committee attendance es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **audit committee** | comité que supervisa reporting financiero auditoría y controles | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Comité frente a pleno.** El comité profundiza y recomienda; el pleno decide y responde. Un comité que reemplaza al pleno debilita la responsabilidad colectiva.
 
-**Frontera de aplicación:** Más comités pueden fragmentar accountability y duplicar trabajo. Crea solo donde escala, regulación o complejidad justifican profundidad adicional.
+**Límites.** Más comités pueden fragmentar la responsabilidad y duplicar trabajo; se crean solo donde la escala, la regulación o la complejidad lo justifican. La independencia formal no garantiza independencia de juicio. La experticia de un miembro no sustituye la revisión de los demás. Los requisitos legales varían por país, sector y tipo de sociedad. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre comités de auditoría, riesgo y compensación |
+| Nivel | Cómo se relaciona con los comités |
 |---|---|
-| **Profesional** | usa **comités de auditoría, riesgo y compensación** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **board committee** y **audit committee** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta committee attendance con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si comités de auditoría, riesgo y compensación cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de comités de auditoría, riesgo y compensación reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **comités de auditoría, riesgo y compensación** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entrega información precisa a las funciones que reportan a comités. |
+| **Jefe / Team Lead** | Responde por la remediación de hallazgos de su área. |
+| **Gerente** | Prepara informes y atiende los pedidos de los comités. |
+| **CEO / Director** | Respeta la independencia de los comités y facilita su acceso a información. |
+| **Founder / Owner** | Acepta que quienes controlan sean independientes de su influencia. |
 
 ## 🏢 Caso ejecutivo
 
-El comité de auditoría recibe 180 páginas el día anterior; no tiene nadie con experiencia financiera y el board asume que ellos ya revisaron todo.
+Una empresa de salud privada con 4.200 personas y ventas de 200.000 millones de pesos tiene un directorio de siete miembros y un único comité «de todo» que se reúne dos veces al año por tres horas y en el que participan cuatro directores, entre ellos el CEO y un proveedor de servicios clínicos. El auditor externo emitió una carta de control interno con 17 hallazgos, de los cuales 6 son críticos y nadie los sigue; la auditoría interna depende del gerente financiero; la remuneración del CEO la propone el propio CEO al directorio con un estudio que contrató la empresa; el mapa de riesgos no se ha presentado al directorio; y tras un incidente de ciberseguridad hace un año nadie recibió un informe. Dos directores independientes proponen crear «cuatro comités nuevos». Otro director dice que «con tres personas ya hay burocracia suficiente». Un regulador del sector pide evidencia de supervisión de riesgos.
 
-Entrega un **decision brief de comités de auditoría, riesgo y compensación** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diseño de comités** que contenga: (a) la decisión de qué comités crear, con justificación según escala, regulación y complejidad; (b) los estatutos con mandato, facultades, composición e independencia; (c) la carga de trabajo por director y los costos; (d) los calendarios anuales y la información que recibe cada comité; (e) el seguimiento de los 17 hallazgos con responsables, plazos y reportes al pleno; (f) las verificaciones legales y regulatorias sobre comités obligatorios e independencia.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **comités de auditoría, riesgo y compensación** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear riesgos y requisitos → 2. crear charters → 3. seleccionar independencia y expertise → 4. definir calendario e información → 5. reportar recomendaciones y excepciones al board** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta committee attendance, open findings; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Decide qué comités necesita un directorio de tu empresa y justifica cada uno con una pregunta.
+2. Redacta el estatuto de un comité de auditoría en una página.
+3. Calcula las horas de directores por comité y por persona, y detecta sobrecargas.
+4. Diseña el calendario anual de un comité de riesgos con la información de cada sesión.
+5. Define un formato de informe de una página del comité al pleno.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar board committee y audit committee como sinónimos | Se pierde la distinción entre “subgrupo con mandato delegado para profundizar una materia” y “comité que supervisa reporting financiero auditoría y controles” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “reportar recomendaciones y excepciones al board” | Se saltó “mapear riesgos y requisitos” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear riesgos y requisitos → 2. crear charters → 3. seleccionar independencia y expertise → 4. definir calendario e información → 5. reportar recomendaciones y excepciones al board y marca el primer supuesto no demostrado. |
-| Optimizar solo committee attendance | La métrica local sustituyó al resultado del sistema | Contrástala con open findings y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre comités de auditoría, riesgo y compensación | Más comités pueden fragmentar accountability y duplicar trabajo. Crea solo donde escala, regulación o complejidad justifican profundidad adicional. |
-| No fijar revisión | Una decisión sobre comités de auditoría, riesgo y compensación se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Un comité de todo | Se evita crear estructuras | Separar donde hay conflicto o complejidad. |
+| Muchos comités | Se imita a otras empresas | Crear solo los justificados y atenderlos bien. |
+| Los mismos directores en todos | Es más cómodo | Rotación y ampliación del pool. |
+| Independencia asumida | Se confía en las etiquetas | Verificar la definición legal y los vínculos. |
+| Comités que aprueban lo que presenta la gerencia | Falta de información independiente | Reuniones con auditores sin la gerencia y acceso a asesores. |
+| Informes sin recomendaciones | Se informa por informar | Formato con recomendaciones y excepciones. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **board committee** y **audit committee** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **risk committee** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear riesgos y requisitos → crear charters** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **committee attendance** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **comités de auditoría, riesgo y compensación**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Más comités pueden fragmentar accountability y duplicar trabajo. Crea solo donde escala, regulación o complejidad justifican profundidad adicional.**?
+1. ¿Para qué sirven los comités del directorio?
+2. ¿Qué supervisa un comité de auditoría?
+3. ¿Qué supervisa un comité de riesgos y cómo se conecta con la estrategia?
+4. ¿Por qué el comité de compensación debe ser independiente del equipo evaluado?
+5. ¿Qué debe incluir un estatuto de comité?
+6. ¿Por qué evitar que los mismos directores estén en todos los comités?
+7. ¿Qué se verifica con asesoría y fuentes oficiales?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Para profundizar en temas técnicos, reunir experticia, proteger la independencia en temas con conflicto y liberar tiempo del pleno.
+2. La información financiera, el control interno, la auditoría interna y la relación con el auditor externo.
+3. El apetito, los riesgos principales y los controles críticos; conecta con la estrategia al vincular los riesgos con los objetivos de la empresa.
+4. Para evitar conflictos de interés al fijar remuneraciones y para que los incentivos reflejen desempeño real y no influencia.
+5. Propósito, facultades, composición, quórum, frecuencia, información que recibe y relación con el pleno.
+6. Porque genera sobrecarga y concentración de poder.
+7. Los comités obligatorios, su composición, las facultades y la definición de independencia según la ley, el regulador y los estatutos.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/208-comites-de-auditoria-riesgo-y-compensacion/`:
 
-- `risk-governance-brief.md` con el problema específico de **comités de auditoría, riesgo y compensación**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **comités de auditoría, riesgo y compensación** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **board committee**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **El comité de auditoría recibe 180 páginas el día anterior; no tiene nadie con experiencia financiera y el board asume que ellos ya revisaron todo.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el diseño del caso ejecutivo;
+- `board-or-executive-memo.md` (plantilla [Board or executive memo](../../../../templates/board-or-executive-memo.md)) con el informe de ejemplo de un comité al pleno;
+- `decision-journal.md` con los estatutos, la carga de trabajo y el seguimiento de hallazgos.
 
 ## 📗 Fuentes y verificación
 
-- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** separación entre dirección, supervisión, accountability y gobierno corporativo. Lectura selectiva sobre **comités de auditoría, riesgo y compensación**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, deberes del directorio y divulgación como referencia de gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **comités de auditoría, riesgo y compensación**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Richard Leblanc & James Gillies — *Inside the Boardroom* (John Wiley & Sons, Incorporated, 2009). **Uso en esta clase:** comportamiento efectivo del directorio, composición y dinámica de gobierno. Lectura selectiva sobre **comités de auditoría, riesgo y compensación**. **Localizador:** [ISBN-13 9780470739952](https://openlibrary.org/isbn/9780470739952).
-- Robert A. G. Monks & Nell Minow — *Corporate Governance* (John Wiley & Sons, Incorporated, 2001). **Uso en esta clase:** perspectiva de Gobierno corporativo aplicada al problema de la clase. Lectura selectiva sobre **comités de auditoría, riesgo y compensación**. **Localizador:** [ISBN-13 9781118874899](https://openlibrary.org/isbn/9781118874899).
-- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** drivers de valor, ROIC, crecimiento y valoración por flujo descontado. Lectura selectiva sobre **comités de auditoría, riesgo y compensación**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **comités de auditoría, riesgo y compensación** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **comités de auditoría, riesgo y compensación**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **comités de auditoría, riesgo y compensación** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **comités de auditoría, riesgo y compensación** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **comités de auditoría, riesgo y compensación** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** funciones del directorio y asignación a miembros independientes. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
+- COSO — *Internal Control - Integrated Framework* (2013). **Uso en esta clase:** componentes del control interno y su supervisión. **Fuente primaria:** <https://www.coso.org/guidance-on-ic>.
+- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** integración del riesgo con la estrategia y el desempeño. **Fuente primaria:** <https://www.coso.org/>.
+- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** tareas del directorio y relación con los comités. Lectura selectiva sobre **comités de auditoría, riesgo y compensación**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
+- Ram Charan — *Boards That Deliver* (John Wiley & Sons, Incorporated, 2007). **Uso en esta clase:** directorios efectivos y uso del tiempo. Lectura selectiva sobre **comités de auditoría, riesgo y compensación**. **Localizador:** [ISBN-13 9781118046616](https://openlibrary.org/isbn/9781118046616).
 
-> **Regla de fuentes para Comités de auditoría, riesgo y compensación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **comités de auditoría, riesgo y compensación** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Comités de auditoría, riesgo y compensación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los comités obligatorios, los requisitos de independencia y las normas del regulador sectorial. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **board committee** de **audit committee** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **risk committee** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **compensation committee** con **committee charter**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Para qué sirven los comités del directorio?
+2. ¿Qué supervisa un comité de auditoría?
+3. ¿Qué supervisa un comité de riesgos y cómo se conecta con la estrategia?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** El comité de auditoría recibe 180 páginas el día anterior; no tiene nadie con experiencia financiera y el board asume que ellos ya revisaron todo.
+**Caso:** Una empresa de salud privada con 4.200 personas y ventas de 200.000 millones de pesos tiene un directorio de siete miembros y un único comité «de todo» que se reúne dos veces al año por tres horas y en el que participan cuatro directores, entre ellos el CEO y un proveedor de servicios clínicos. El auditor externo emitió una carta de control interno con 17 hallazgos, de los cuales 6 son críticos y nadie los sigue; la auditoría interna depende del gerente financiero; la remuneración del CEO la propone el propio CEO al directorio con un estudio que contrató la empresa; el mapa de riesgos no se ha presentado al directorio; y tras un incidente de ciberseguridad hace un año nadie recibió un informe. Dos directores independientes proponen crear «cuatro comités nuevos». Otro director dice que «con tres personas ya hay burocracia suficiente». Un regulador del sector pide evidencia de supervisión de riesgos.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **mapear riesgos y requisitos → crear charters → seleccionar independencia y expertise → definir calendario e información → reportar recomendaciones y excepciones al board**. Debes utilizar o diseñar cómo obtener **committee attendance, open findings, control assurance**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **diseño de comités** que contenga: (a) la decisión de qué comités crear, con justificación según escala, regulación y complejidad; (b) los estatutos con mandato, facultades, composición e independencia; (c) la carga de trabajo por director y los costos; (d) los calendarios anuales y la información que recibe cada comité; (e) el seguimiento de los 17 hallazgos con responsables, plazos y reportes al pleno; (f) las verificaciones legales y regulatorias sobre comités obligatorios e independencia. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Más comités pueden fragmentar accountability y duplicar trabajo. Crea solo donde escala, regulación o complejidad justifican profundidad adicional.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Más comités pueden fragmentar la responsabilidad y duplicar trabajo; se crean solo donde la escala, la regulación o la complejidad lo justifican.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

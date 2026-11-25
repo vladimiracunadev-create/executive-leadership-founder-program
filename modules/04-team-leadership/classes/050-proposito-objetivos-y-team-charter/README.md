@@ -5,222 +5,189 @@
 <!-- nav:fin -->
 
 **Parte:** 04 — Liderazgo de equipos  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Un team charter convierte propósito, objetivos, roles, normas y derechos de decisión en acuerdos visibles. Su valor no está en el documento inicial, sino en reducir ambigüedad cuando llega presión. Un charter debe ser corto, observable y revisable después de cambios relevantes en misión o composición.
+Un equipo sin un propósito que sienta suyo y metas que lo concreten pasa sus reuniones decidiendo qué hacer en lugar de hacerlo. El **acta del equipo** (*team charter*) es el documento donde se escribe, entre todos, para qué existe el equipo, qué logrará, quién hace qué y cómo trabajan juntos. Su valor no está en el papel sino en la conversación que obliga a tener.
 
-La salida de esta parte es **crear equipos con propósito, coordinación, confianza, aprendizaje y accountability**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **propósito, objetivos y team charter** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa las condiciones de Hackman —una dirección convincente y una estructura habilitante— y la teoría del establecimiento de metas de Locke y Latham, que resume décadas de investigación sobre cómo las metas mejoran el desempeño. Al terminar sabrás redactar un propósito y objetivos que orienten, y construir un acta con el equipo.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `propósito`, `objetivo`, `norma`, `derecho de decisión`, `working agreement` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. formular propósito externo → 2. definir 3–5 outcomes y métricas → 3. asignar roles y derechos de decisión → 4. acordar normas observables → 5. revisar charter después de 30–60 días** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** objetivos entendidos, conflictos por decisión, normas incumplidas sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Redactar** un propósito de equipo en una frase que oriente decisiones.
+2. **Formular** objetivos específicos y exigentes con medida y fecha.
+3. **Explicar** qué condiciones hacen que una meta mejore el desempeño según Locke y Latham.
+4. **Construir** un acta de equipo con propósito, objetivos, roles, normas y decisiones.
+5. **Revisar** el acta en el tiempo sin convertirla en un documento muerto.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define propósito y objetivo sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con objetivos entendidos y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿conoces el propósito de tu equipo? Escríbelo y compáralo con el de un colega. |
+| 20–60 min | Propósito, metas y los componentes del acta. |
+| 60–105 min | Ejemplo trabajado: construir el acta de un equipo nuevo. |
+| 105–140 min | Caso ejecutivo: un equipo con objetivos vagos. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **propósito** | razón de existencia del equipo vinculada a un stakeholder o resultado | Distingue un hecho compatible y otro que lo refute. |
-| **objetivo** | resultado concreto con horizonte y criterio de éxito | Distingue un hecho compatible y otro que lo refute. |
-| **norma** | conducta acordada para colaborar | Distingue un hecho compatible y otro que lo refute. |
-| **derecho de decisión** | definición de quién decide qué | Distingue un hecho compatible y otro que lo refute. |
-| **working agreement** | acuerdo práctico sobre comunicación, reuniones y disponibilidad | Distingue un hecho compatible y otro que lo refute. |
+| **Propósito del equipo** | Razón de ser del equipo: qué valor crea y para quién. | Orienta decisiones sin detalles de tareas. |
+| **Meta específica y difícil** | Objetivo claro, con medida, que exige un esfuerzo real (Locke y Latham, 2002). | Se sabe cuándo se alcanzó y cuesta alcanzarla. |
+| **Compromiso con la meta** | Grado en que las personas aceptan y persiguen la meta (Locke y Latham, 2002). | Dicen «es nuestra» y no «nos la dieron». |
+| **Retroalimentación** | Información sobre el avance hacia la meta. | El equipo ve su progreso. |
+| **Team charter** | Acta del equipo con propósito, objetivos, roles, normas y decisiones, acordada por sus miembros. | Existe, es breve y se usa. |
+| **Dirección convincente** | Propósito claro, desafiante y consecuente (Hackman, 2002). | El equipo sabe adónde va y por qué importa. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 050: 1. formular propósito externo → 2. definir 3–5 outcomes y métricas → 3. asignar roles y derechos de decisión → 4. acordar normas observables → 5. revisar charter después de 30–60 días](modelo-mental.svg)
+![Qué debe decir un acta de equipo: propósito, objetivos, roles y normas, con el criterio de cada una.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. formular propósito externo → 2. definir 3–5 outcomes y métricas → 3. asignar roles y derechos de decisión → 4. acordar normas observables → 5. revisar charter después de 30–60 días
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un team charter convierte propósito, objetivos, roles, normas y derechos de decisión en acuerdos visibles. Su valor no está en el documento inicial, sino en reducir ambigüedad cuando llega presión. Un charter debe ser corto, observable y revisable después de cambios relevantes en misión o composición.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un charter excesivamente detallado se vuelve burocracia y envejece rápido. Documenta las ambigüedades que generan costo, no cada comportamiento imaginable.**
+**Cómo leer el diagrama.** El acta tiene cuatro bloques, cada uno con su criterio: un propósito que se dice en una frase, objetivos específicos y exigentes, roles sin solapes ni vacíos y normas de trato. Un acta que no responde a alguno de los criterios es un decorado: cámbialo antes de archivarla.
 
 ## 📖 Desarrollo
 
-### 1. propósito: mecanismo central
+### 1. El propósito
 
-**propósito** se entiende aquí como **razón de existencia del equipo vinculada a un stakeholder o resultado**. Esta es la pieza causal o estructural desde la que se inicia **propósito, objetivos y team charter**: antes de formular propósito externo, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un propósito de equipo responde: ¿para qué existimos y para quién creamos valor? Debe ser **breve, concreto y desafiante**: «reducir a menos de 24 horas el tiempo en que un cliente nuevo empieza a usar el producto» orienta mejor que «ser un equipo de excelencia». Hackman llama **dirección convincente** a un propósito que es claro, exigente y consecuente; los equipos con dirección clara rinden mejor y sufren menos conflictos sobre qué hacer.
 
-La lectura rectora de este bloque es J. Richard Hackman — *Leading Teams*. Su aporte se usa para examinar **condiciones de efectividad de equipos y diseño del trabajo colectivo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **objetivos entendidos**; regístrala con periodo, unidad, población y baseline.
+### 2. Metas específicas y difíciles
 
-Relaciona el mecanismo con **objetivo**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Locke y Latham resumieron treinta y cinco años de investigación: las metas **específicas y difíciles** conducen a mejor desempeño que las vagas o que el «haz lo mejor que puedas». Funcionan porque dirigen la atención, movilizan esfuerzo, aumentan la persistencia y estimulan la búsqueda de estrategias. Condiciones: que haya **compromiso**, que exista **retroalimentación** sobre el avance y que la persona tenga la **capacidad** y los recursos.
 
-### 2. objetivo: frontera conceptual y error de clasificación
+### 3. Cuándo las metas fallan
 
-**Definición operacional:** resultado concreto con horizonte y criterio de éxito. Su valor está en distinguirlo de **propósito** y **norma**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Los mismos autores advierten sobre efectos adversos: metas demasiado difíciles en tareas complejas pueden llevar a probar estrategias riesgosas o a atajos éticamente dudosos; metas individuales competitivas pueden dañar la cooperación; metas mal elegidas orientan a optimizar lo medido y descuidar lo no medido. Por eso conviene metas de **aprendizaje** en tareas nuevas y metas de equipo donde se necesita colaboración.
 
-Contrasta el problema con Patrick Lencioni — *The Five Dysfunctions of a Team*, que aporta una mirada sobre **confianza, conflicto, compromiso, accountability y resultados**. Formula dos mini-casos: uno que sí satisface la definición de **objetivo** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **conflictos por decisión** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Del propósito a los objetivos
 
-Antes de definir 3–5 outcomes y métricas, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Una cadena sencilla: **propósito** (razón de ser, estable), **objetivos** (resultados a lograr en un período, medibles), **iniciativas** (acciones que se emprenden) y **medidas** (cómo se ve el progreso). Cada nivel responde al anterior. Si un objetivo no ayuda al propósito, se cuestiona el objetivo; si el propósito no se refleja en ningún objetivo, es una declaración.
 
-### 3. norma: operacionalización y medición
+### 5. Qué contiene el acta
 
-**norma** significa **conducta acordada para colaborar**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un acta práctica cabe en una o dos páginas. **Propósito**: una frase. **Objetivos**: dos a cinco, específicos y con fecha. **Roles**: quién decide qué (clase 051). **Normas**: cómo se discrepa, cómo se reportan los problemas, cómo se tratan los errores, qué horarios y canales se usan. **Decisiones**: cómo se toman las importantes y quién las toma. **Revisión**: cuándo se vuelve a leer.
 
-Kim Scott — *Radical Candor* orienta este bloque mediante **perspectiva de Feedback aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **normas incumplidas**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Cómo se construye
 
-Al llegar a asignar roles y derechos de decisión, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El proceso importa más que el documento. El líder propone un borrador, no un producto final; el equipo lo discute, corrige y lo hace suyo. Una sesión de dos a tres horas, con un borrador previo, suele bastar. La participación aumenta el compromiso con las metas, que es una condición para que funcionen. Conviene incluir las preguntas incómodas: ¿qué no haremos?, ¿cómo trataremos el incumplimiento?
 
-### 4. derecho de decisión: trade-offs y efectos de segundo orden
+### 7. Mantenerlo vivo
 
-**Definición:** definición de quién decide qué. Este concepto obliga a abandonar la idea de que **propósito, objetivos y team charter** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de acordar normas observables, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Michael Bungay Stanier — *The Coaching Habit* aporta una lente sobre **perspectiva de Coaching aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **reuniones reabiertas** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **propósito, objetivos y team charter**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **derecho de decisión** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. working agreement: gobernanza, límites e integración
-
-**working agreement** se define como **acuerdo práctico sobre comunicación, reuniones y disponibilidad** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Liz Wiseman — *Multipliers* se utiliza para estudiar **perspectiva de Liderazgo aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar revisar charter después de 30–60 días, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un charter excesivamente detallado se vuelve burocracia y envejece rápido. Documenta las ambigüedades que generan costo, no cada comportamiento imaginable.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **propósito**, **objetivo**, **norma**, **derecho de decisión** y **working agreement** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **propósito, objetivos y team charter** no consiste en sumar cinco definiciones. Empieza por **propósito**, contrasta **objetivo** con **norma**, incorpora **derecho de decisión** como restricción o mecanismo y usa **working agreement** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. formular propósito externo → 2. definir 3–5 outcomes y métricas → 3. asignar roles y derechos de decisión → 4. acordar normas observables → 5. revisar charter después de 30–60 días**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El acta se revisa en un momento fijo —al inicio de un trimestre, tras un cambio importante o una crisis— y se usa en la práctica: en una discusión, se lee la norma; en una priorización, el propósito. Si nunca se consulta, está muerta. Cambiar el acta no es un fracaso: es el signo de que el equipo aprende.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| J. Richard Hackman — *Leading Teams* | condiciones de efectividad de equipos y diseño del trabajo colectivo | ¿Qué supuesto de **propósito, objetivos y team charter** ayuda a desafiar? |
-| Patrick Lencioni — *The Five Dysfunctions of a Team* | confianza, conflicto, compromiso, accountability y resultados | ¿Qué supuesto de **propósito, objetivos y team charter** ayuda a desafiar? |
-| Kim Scott — *Radical Candor* | perspectiva de Feedback aplicada al problema de la clase | ¿Qué supuesto de **propósito, objetivos y team charter** ayuda a desafiar? |
-| Michael Bungay Stanier — *The Coaching Habit* | perspectiva de Coaching aplicada al problema de la clase | ¿Qué supuesto de **propósito, objetivos y team charter** ayuda a desafiar? |
-| Liz Wiseman — *Multipliers* | perspectiva de Liderazgo aplicada al problema de la clase | ¿Qué supuesto de **propósito, objetivos y team charter** ayuda a desafiar? |
-
-En **propósito, objetivos y team charter**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **propósito**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Locke y Latham (2002) | Condiciones para que las metas mejoren el desempeño y sus efectos adversos. | No dice cómo elegir el propósito. | ¿Tus metas son específicas y difíciles? |
+| Hackman (2002) | Dirección convincente y estructura habilitante. | No trae un formato de acta. | ¿Qué dirección ve tu equipo? |
+| Katzenbach y Smith (1993) | Propósito, metas y enfoque comunes como rasgos del equipo real. | Basado en estudios de caso. | ¿El propósito le pertenece al equipo? |
+| Doerr (2018) | Objetivos y resultados clave en organizaciones. | Es un texto divulgativo; los resultados no son universales. | ¿Cómo se ve el progreso cada semana? |
+| Edmondson (1999) | Seguridad psicológica para discutir metas y normas. | No trata del contenido del acta. | ¿Puede alguien discrepar del objetivo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un equipo nuevo de producto, ventas y operaciones inicia un proyecto estratégico. Todos apoyan la misión, pero nadie sabe quién puede cambiar alcance ni qué ocurre cuando ventas promete una fecha.
+**Situación (hipotética).** Una gerente forma un equipo de seis personas para mejorar la experiencia de incorporación de clientes nuevos. Convoca una sesión de dos horas con un borrador.
 
-**Paso 1 — formular propósito externo.** La gerencia escribe primero el supuesto asociado a **propósito** y evita convertirlo en hecho. Luego busca **objetivos entendidos** para contrastarlo en el caso de **propósito, objetivos y team charter**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Parte | Borrador inicial | Versión del equipo |
+|---|---|---|
+| **Propósito** | «Mejorar la experiencia de los clientes.» | «Que cada cliente nuevo use el producto en 24 horas desde la compra.» |
+| **Objetivos** | «Reducir tiempos.» | «Bajar la mediana de 6 a 2 días en el trimestre; satisfacción de incorporación ≥ 4,2 sobre 5.» |
+| **Roles** | No definidos. | Un responsable por etapa (contacto, configuración, capacitación) y un decisor para cambios del proceso. |
+| **Normas** | «Respeto.» | «Los problemas se reportan el mismo día; discrepamos con datos; se revisa sin culpas.» |
+| **Decisiones** | No definidas. | «Cambios menores los decide el responsable de etapa; cambios que afectan a más de una etapa, el líder tras consulta.» |
 
-**Paso 2 — definir 3–5 outcomes y métricas.** La gerencia escribe primero el supuesto asociado a **objetivo** y evita convertirlo en hecho. Luego busca **conflictos por decisión** para contrastarlo en el caso de **propósito, objetivos y team charter**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** El equipo pidió quitar un objetivo que no podía influir y agregó la norma de revisar los casos más lentos cada viernes.
 
-**Paso 3 — asignar roles y derechos de decisión.** La gerencia escribe primero el supuesto asociado a **norma** y evita convertirlo en hecho. Luego busca **normas incumplidas** para contrastarlo en el caso de **propósito, objetivos y team charter**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — acordar normas observables.** La gerencia escribe primero el supuesto asociado a **derecho de decisión** y evita convertirlo en hecho. Luego busca **reuniones reabiertas** para contrastarlo en el caso de **propósito, objetivos y team charter**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — revisar charter después de 30–60 días.** La gerencia escribe primero el supuesto asociado a **working agreement** y evita convertirlo en hecho. Luego busca **claridad de propósito** para contrastarlo en el caso de **propósito, objetivos y team charter**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **propósito, objetivos y team charter**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El propósito se hizo medible. (2) Los objetivos son específicos y difíciles. (3) El proceso de construcción generó compromiso.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **propósito** | razón de existencia del equipo vinculada a un stakeholder o resultado | Cuando objetivos entendidos es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **objetivo** | resultado concreto con horizonte y criterio de éxito | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Acta frente a descripción de cargos.** La descripción de cargos define lo individual; el acta, lo colectivo: propósito, metas y modo de trabajar.
 
-**Frontera de aplicación:** Un charter excesivamente detallado se vuelve burocracia y envejece rápido. Documenta las ambigüedades que generan costo, no cada comportamiento imaginable.
+**Límites.** La investigación de Locke y Latham muestra que las metas funcionan en promedio y con condiciones; no todo se debe medir ni toda meta mejora el desempeño. Un acta no resuelve conflictos de fondo ni reemplaza la autoridad de decisión. Y en equipos que cambian de integrantes con frecuencia, el acta debe incorporarse al proceso de ingreso.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre propósito, objetivos y team charter |
+| Nivel | Cómo trabaja el propósito y las metas |
 |---|---|
-| **Profesional** | usa **propósito, objetivos y team charter** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **propósito** y **objetivo** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta objetivos entendidos con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si propósito, objetivos y team charter cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de propósito, objetivos y team charter reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **propósito, objetivos y team charter** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende el propósito de su equipo y conecta su trabajo con él. |
+| **Jefe / Team Lead** | Facilita la construcción del acta y la usa para decidir. |
+| **Gerente** | Alinea las actas de sus equipos con la estrategia sin imponerlas. |
+| **CEO / Director** | Fija una dirección convincente y cuida la coherencia de los propósitos. |
+| **Founder / Owner** | Define el propósito de un equipo naciente y lo ajusta con la evidencia. |
 
 ## 🏢 Caso ejecutivo
 
-Un equipo nuevo de producto, ventas y operaciones inicia un proyecto estratégico. Todos apoyan la misión, pero nadie sabe quién puede cambiar alcance ni qué ocurre cuando ventas promete una fecha.
+El área de operaciones de una empresa de servicios tiene un equipo de ocho personas que «da soporte a todas las áreas». Sus objetivos del año son «mejorar la eficiencia» y «apoyar la estrategia». Cada semana reciben pedidos urgentes de cuatro gerentes distintos; el equipo dice que «nunca terminamos lo importante». La rotación es alta.
 
-Entrega un **decision brief de propósito, objetivos y team charter** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **acta de equipo** que contenga: (a) un propósito en una frase verificable; (b) tres objetivos específicos y difíciles, con medida y fecha; (c) qué no hará el equipo; (d) los roles y cómo se deciden las prioridades entre pedidos; (e) las normas de trabajo; (f) cómo se construyó con el equipo y cuándo se revisará.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **propósito, objetivos y team charter** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. formular propósito externo → 2. definir 3–5 outcomes y métricas → 3. asignar roles y derechos de decisión → 4. acordar normas observables → 5. revisar charter después de 30–60 días** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta objetivos entendidos, conflictos por decisión; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe el propósito de un equipo que lideras en una frase y pide a otro miembro que lo reescriba.
+2. Reescribe un objetivo vago como específico y exigente.
+3. Identifica una meta que podría inducir atajos y cómo lo evitarías.
+4. Redacta tres normas concretas para tu equipo.
+5. Fija una fecha de revisión del acta y qué evidencia la cambiaría.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar propósito y objetivo como sinónimos | Se pierde la distinción entre “razón de existencia del equipo vinculada a un stakeholder o resultado” y “resultado concreto con horizonte y criterio de éxito” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar charter después de 30–60 días” | Se saltó “formular propósito externo” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. formular propósito externo → 2. definir 3–5 outcomes y métricas → 3. asignar roles y derechos de decisión → 4. acordar normas observables → 5. revisar charter después de 30–60 días y marca el primer supuesto no demostrado. |
-| Optimizar solo objetivos entendidos | La métrica local sustituyó al resultado del sistema | Contrástala con conflictos por decisión y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre propósito, objetivos y team charter | Un charter excesivamente detallado se vuelve burocracia y envejece rápido. Documenta las ambigüedades que generan costo, no cada comportamiento imaginable. |
-| No fijar revisión | Una decisión sobre propósito, objetivos y team charter se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Propósito genérico | Se quiere que suene bien | Concretar para quién y qué cambia. |
+| Metas vagas | Es más cómodo | Específicas, medibles y con fecha. |
+| Acta impuesta | Se ahorra tiempo | Construirla con el equipo. |
+| Demasiados objetivos | Todo parece importante | Dos a cinco y qué no se hará. |
+| Acta archivada | Se hizo para cumplir | Usarla en decisiones y revisarla. |
+| Metas que inducen atajos | Se premia solo el número | Incluir calidad y aprendizaje. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **propósito** y **objetivo** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **norma** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **formular propósito externo → definir 3–5 outcomes y métricas** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **objetivos entendidos** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **propósito, objetivos y team charter**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un charter excesivamente detallado se vuelve burocracia y envejece rápido. Documenta las ambigüedades que generan costo, no cada comportamiento imaginable.**?
+1. ¿Qué características debe tener el propósito de un equipo?
+2. ¿Qué encontraron Locke y Latham sobre metas específicas y difíciles?
+3. ¿Qué tres condiciones deben darse para que una meta mejore el desempeño?
+4. ¿Qué efectos adversos pueden producir las metas?
+5. ¿Cuáles son las partes de un acta de equipo?
+6. ¿Por qué importa más el proceso que el documento?
+7. ¿Qué límite tiene el establecimiento de metas?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Breve, concreto, desafiante y que oriente decisiones.
+2. Conducen a mejor desempeño que las metas vagas o que «haz lo mejor que puedas».
+3. Compromiso con la meta, retroalimentación sobre el avance y capacidad y recursos.
+4. Atajos o estrategias riesgosas, competencia dañina entre personas y descuido de lo no medido.
+5. Propósito, objetivos, roles, normas, decisiones y revisión.
+6. Porque la participación genera compromiso con las metas, condición para que funcionen.
+7. Funcionan en promedio y con condiciones; no todo se debe medir ni toda meta mejora el desempeño.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/050-proposito-objetivos-y-team-charter/`:
 
-- `leadership-decision-brief.md` con el problema específico de **propósito, objetivos y team charter**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **propósito, objetivos y team charter** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **propósito**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un equipo nuevo de producto, ventas y operaciones inicia un proyecto estratégico. Todos apoyan la misión, pero nadie sabe quién puede cambiar alcance ni qué ocurre cuando ventas promete una fecha.** y el dato que podría invalidar la recomendación.
+- `team-charter.md` (plantilla [Team charter](../../../../templates/team-charter.md)) con el acta del caso ejecutivo;
+- `reading-note.md` con una tensión entre Locke y Latham y Hackman;
+- `decision-journal.md` con cómo se construyó el acta y cuándo se revisará.
 
 ## 📗 Fuentes y verificación
 
-- J. Richard Hackman — *Leading Teams* (Harvard Business School Press, 2002). **Uso en esta clase:** condiciones de efectividad de equipos y diseño del trabajo colectivo. Lectura selectiva sobre **propósito, objetivos y team charter**. **Localizador:** [ISBN-13 9781578513338](https://openlibrary.org/isbn/9781578513338).
-- Patrick Lencioni — *The Five Dysfunctions of a Team* (Pfeiffer, 2012). **Uso en esta clase:** confianza, conflicto, compromiso, accountability y resultados. Lectura selectiva sobre **propósito, objetivos y team charter**. **Localizador:** [ISBN-13 9781118127308](https://openlibrary.org/isbn/9781118127308).
-- Kim Scott — *Radical Candor* (PAN MACMILLAN U.K, 2017). **Uso en esta clase:** perspectiva de Feedback aplicada al problema de la clase. Lectura selectiva sobre **propósito, objetivos y team charter**. **Localizador:** [ISBN-13 9781509845385](https://openlibrary.org/isbn/9781509845385).
-- Michael Bungay Stanier — *The Coaching Habit* (Page Two/Portfolio/Canongate Books/Simon & Schuster UK, 2016). **Uso en esta clase:** perspectiva de Coaching aplicada al problema de la clase. Lectura selectiva sobre **propósito, objetivos y team charter**. **Localizador:** [ISBN-13 9780978440749](https://openlibrary.org/isbn/9780978440749).
-- Liz Wiseman — *Multipliers* (2017). **Uso en esta clase:** perspectiva de Liderazgo aplicada al problema de la clase. Lectura selectiva sobre **propósito, objetivos y team charter**. **Localizador:** [ISBN-13 9780062663078](https://openlibrary.org/isbn/9780062663078).
-- Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams* (McGraw-Hill, 2005). **Uso en esta clase:** propósito compartido, habilidades complementarias y responsabilidad mutua. Lectura selectiva sobre **propósito, objetivos y team charter**. **Localizador:** [ISBN-13 9780077111687](https://openlibrary.org/isbn/9780077111687).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **propósito, objetivos y team charter** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **propósito, objetivos y team charter**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **propósito, objetivos y team charter** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **propósito, objetivos y team charter** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **propósito, objetivos y team charter** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Edwin A. Locke & Gary P. Latham — *Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey* (American Psychologist, 2002). **Uso en esta clase:** condiciones y efectos adversos de las metas específicas y difíciles. Lectura selectiva sobre **propósito, objetivos y team charter**. **Localizador:** [DOI 10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705).
+- J. Richard Hackman — *Leading Teams* (Harvard Business School Press, 2002). **Uso en esta clase:** dirección convincente y estructura habilitante. Lectura selectiva sobre **propósito, objetivos y team charter**. **Localizador:** [ISBN-13 9781578513338](https://openlibrary.org/isbn/9781578513338).
+- Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams* (McGraw-Hill, 2005). **Uso en esta clase:** propósito, metas y enfoque comunes del equipo real. Lectura selectiva sobre **propósito, objetivos y team charter**. **Localizador:** [ISBN-13 9780077111687](https://openlibrary.org/isbn/9780077111687).
+- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** objetivos y resultados clave en las organizaciones. Lectura selectiva sobre **propósito, objetivos y team charter**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
+- Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams* (Administrative Science Quarterly, 1999). **Uso en esta clase:** seguridad psicológica para discutir metas y normas. Lectura selectiva sobre **propósito, objetivos y team charter**. **Localizador:** [DOI 10.2307/2666999](https://doi.org/10.2307/2666999).
 
-> **Regla de fuentes para Propósito, objetivos y team charter:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **propósito, objetivos y team charter** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Propósito, objetivos y team charter:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

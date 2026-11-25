@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **reconocimiento** de **recompensa** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **equidad** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **gaming** con **motivador**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre el aspecto informativo y el controlador de un reconocimiento?
+2. ¿Qué es un reconocimiento específico?
+3. ¿Qué dice el principio de progreso?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** La empresa entrega premio mensual al 'héroe' que resuelve más incidentes. Con el tiempo, mejora la respuesta pero nadie invierte en prevención porque el reconocimiento premia apagar incendios.
+**Caso:** Una empresa implementó un programa de «empleado del mes» con foto, premio de dinero y estacionamiento preferente. Después de seis meses, los premiados han sido siempre de las áreas comerciales, tres personas de soporte dijeron que «es un premio de popularidad» y un equipo técnico dejó de compartir información por «no regalar méritos». La gerente de personas quiere mantener el programa porque «la dirección lo aprobó».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **observar contribución específica → explicar impacto y valor relacionado → adaptar forma a la persona y contexto → separar reconocimiento de favoritismo → revisar incentivos por conductas no deseadas**. Debes utilizar o diseñar cómo obtener **participación, gaming de métricas, percepción de equidad**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **diagnóstico y rediseño del reconocimiento** que contenga: (a) el análisis del efecto del programa según el aspecto informativo o controlador; (b) las necesidades de autonomía, competencia y vínculo afectadas; (c) qué mantendrás, qué cambiarás y qué eliminarás; (d) los rituales de equipo que propondrás; (e) cómo preguntarás las preferencias de las personas; (f) cómo evaluarás el efecto en la colaboración. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Reconocer no debe crear competencia tóxica ni exponer a personas que prefieren privacidad. Y el reconocimiento nunca sustituye compensación justa o condiciones de trabajo adecuadas.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: La teoría de Ryan y Deci tiene amplio respaldo, pero los efectos varían según el tipo de recompensa, la tarea y la cultura.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

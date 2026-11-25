@@ -5,222 +5,189 @@
 <!-- nav:fin -->
 
 **Parte:** 04 — Liderazgo de equipos  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Recuperar un equipo disfuncional exige diagnosticar antes de intervenir. Bajo desempeño puede venir de propósito confuso, composición, capacidades, confianza, procesos, incentivos o liderazgo. El capstone obliga a construir una secuencia de 30–60–90 días que estabilice, aclare y luego desarrolle.
+Heredar un equipo que no funciona es una de las pruebas más frecuentes y más difíciles del liderazgo: hay desconfianza, metas confusas, conflictos acumulados, personas desgastadas y un historial de intentos fallidos. La tentación es doble: **cambiar a las personas** (despedir, reasignar) o **cambiar el discurso** (un taller, una consigna). Ninguna recompone un equipo por sí sola. Lo que lo recompone es un diagnóstico honesto, la restauración de las condiciones básicas y un trabajo sostenido.
 
-La salida de esta parte es **crear equipos con propósito, coordinación, confianza, aprendizaje y accountability**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: recuperar un equipo disfuncional** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Este capstone integra la parte 04: qué hace real a un equipo (049), propósito y acta (050), roles (051), confianza (052), delegación (053), coaching (054), uno a uno (055), reuniones (056), reconocimiento (057), rendición de cuentas (058) y trabajo distribuido (059). Se apoya en las condiciones de Hackman, la pirámide de Lencioni y la seguridad psicológica de Edmondson. Al terminar sabrás construir un plan de recuperación por etapas, con evidencia y criterios para decidir cuándo cambiar personas.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `disfunción`, `diagnóstico de equipo`, `estabilización`, `reset`, `turnaround` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. observar síntomas y segmentar causas → 2. proteger seguridad y continuidad → 3. resetear propósito, roles y normas → 4. intervenir capacidades o personas necesarias → 5. medir 30-60-90 días** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** calidad y entrega, rotación, conflictos sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Diagnosticar** un equipo con las condiciones de Hackman, la pirámide de Lencioni y la seguridad psicológica.
+2. **Secuenciar** una recuperación: seguridad, claridad, rendición de cuentas y sostenimiento.
+3. **Decidir** cuándo el problema es de condiciones y cuándo de una persona.
+4. **Conducir** las conversaciones iniciales con el equipo y con cada persona.
+5. **Medir** la recuperación con evidencia y ajustar el plan.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define disfunción y diagnóstico de equipo sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con calidad y entrega y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué síntomas te harían decir que un equipo es disfuncional? Ordénalos por gravedad. |
+| 20–60 min | Diagnóstico y secuencia de recuperación. |
+| 60–105 min | Ejemplo trabajado: los primeros 90 días con un equipo recién heredado. |
+| 105–150 min | Caso ejecutivo integrado. |
+| 150–170 min | Rúbrica, límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **disfunción** | patrón persistente que impide coordinación o desempeño saludable | Distingue un hecho compatible y otro que lo refute. |
-| **diagnóstico de equipo** | evaluación de propósito, diseño, relaciones, capacidades y contexto | Distingue un hecho compatible y otro que lo refute. |
-| **estabilización** | acciones iniciales para detener daño o caos | Distingue un hecho compatible y otro que lo refute. |
-| **reset** | renegociación explícita de expectativas y normas | Distingue un hecho compatible y otro que lo refute. |
-| **turnaround** | proceso de recuperación con métricas y horizonte | Distingue un hecho compatible y otro que lo refute. |
+| **Equipo disfuncional** | Equipo cuyo desempeño o clima está por debajo de lo que sus condiciones permitirían, de manera persistente (criterio de la clase). | Hay patrones repetidos, no un mal día. |
+| **Diagnóstico por condiciones** | Evaluación del equipo según equipo real, dirección, estructura, contexto de apoyo y coaching (Hackman, 2002). | Se revisan las condiciones antes que las personas. |
+| **Pirámide de disfunciones** | Cinco niveles dependientes: confianza, conflicto, compromiso, rendición de cuentas y resultados (Lencioni, 2002). | Se identifica el nivel inferior que falla. |
+| **Seguridad psicológica** | Creencia compartida de que el equipo es seguro para asumir riesgos interpersonales (Edmondson, 1999). | Se puede hablar sin castigo. |
+| **Ganancia temprana** | Resultado visible logrado pronto, que muestra que el cambio es posible. | El equipo ve un avance real. |
+| **Decisión de persona** | Medida individual (reasignar, apoyar, desvincular) tomada con proceso y evidencia. | Se documenta y es proporcional. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 060: 1. observar síntomas y segmentar causas → 2. proteger seguridad y continuidad → 3. resetear propósito, roles y normas → 4. intervenir capacidades o personas necesarias → 5. medir 30-60-90 días](modelo-mental.svg)
+![Recuperar un equipo disfuncional en cinco pasos: diagnosticar, restablecer seguridad, aclarar propósito y roles, recomponer la rendición de cuentas y sostener, con revisión trimestral.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. observar síntomas y segmentar causas → 2. proteger seguridad y continuidad → 3. resetear propósito, roles y normas → 4. intervenir capacidades o personas necesarias → 5. medir 30-60-90 días
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Recuperar un equipo disfuncional exige diagnosticar antes de intervenir. Bajo desempeño puede venir de propósito confuso, composición, capacidades, confianza, procesos, incentivos o liderazgo. El capstone obliga a construir una secuencia de 30–60–90 días que estabilice, aclare y luego desarrolle.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todos los equipos se recuperan solo con coaching. Puede ser necesario cambiar estructura, prioridades, staffing o conductas incompatibles; evitar decisiones difíciles también es una decisión.**
+**Cómo leer el diagrama.** Cinco pasos en orden, con retorno a la revisión. El orden es deliberado: se diagnostica antes de actuar; la **seguridad** va antes que la claridad porque, sin poder hablar, no se puede acordar nada; y la rendición de cuentas viene después de que propósito y roles estén claros, porque exigir cuentas sobre algo ambiguo es injusto.
 
 ## 📖 Desarrollo
 
-### 1. disfunción: mecanismo central
+### 1. Diagnosticar antes de actuar
 
-**disfunción** se entiende aquí como **patrón persistente que impide coordinación o desempeño saludable**. Esta es la pieza causal o estructural desde la que se inicia **capstone: recuperar un equipo disfuncional**: antes de observar síntomas y segmentar causas, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Los primeros treinta días son para observar y escuchar. Hackman propone revisar cinco condiciones: ¿es un **equipo real**, con límites e interdependencia?, ¿tiene una **dirección convincente**?, ¿una **estructura** que facilita el trabajo?, ¿un **contexto de apoyo** con recursos, información y recompensas coherentes?, ¿acceso a **coaching**? Complementa con la pirámide de Lencioni —¿en qué nivel se rompe?— y con una medición de seguridad psicológica. Usa fuentes múltiples: entrevistas individuales, observación de reuniones, datos de desempeño, historial de rotación.
 
-La lectura rectora de este bloque es J. Richard Hackman — *Leading Teams*. Su aporte se usa para examinar **condiciones de efectividad de equipos y diseño del trabajo colectivo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **calidad y entrega**; regístrala con periodo, unidad, población y baseline.
+### 2. Entrevistas y escucha
 
-Relaciona el mecanismo con **diagnóstico de equipo**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Conversa a solas con cada persona (clases 026 y 055) con preguntas humildes: «¿qué funciona bien aquí?, ¿qué te frustra?, ¿qué cambiarías si fueras tú?, ¿qué debería saber que no me han dicho?». Registra patrones, no anécdotas. Garantiza confidencialidad y cumple. Compara lo que oyes con lo que ves. Al terminar, devuelve al equipo un resumen **sin atribuciones personales**: «esto es lo que escuché; esto es lo que haré primero».
 
-### 2. diagnóstico de equipo: frontera conceptual y error de clasificación
+### 3. Restablecer la seguridad
 
-**Definición operacional:** evaluación de propósito, diseño, relaciones, capacidades y contexto. Su valor está en distinguirlo de **disfunción** y **estabilización**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Sin seguridad no hay verdad, y sin verdad no hay diagnóstico real. Primeras conductas: admitir lo que no sabes, reconocer errores propios, agradecer a quien habla con franqueza, responder sin castigo ante una mala noticia y **cumplir** lo que prometes. Si hubo conductas dañinas de un miembro o del líder anterior, se abordan con claridad. La confianza se reconstruye con hechos pequeños y repetidos (clase 052).
 
-Contrasta el problema con Patrick Lencioni — *The Five Dysfunctions of a Team*, que aporta una mirada sobre **confianza, conflicto, compromiso, accountability y resultados**. Formula dos mini-casos: uno que sí satisface la definición de **diagnóstico de equipo** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **rotación** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Aclarar propósito, metas y roles
 
-Antes de proteger seguridad y continuidad, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Con el equipo, se redactan un propósito, dos a cinco metas específicas y exigentes y una matriz de roles (clases 050 y 051). Esta etapa expone conflictos latentes sobre quién decide qué; se abordan con la regla de que una sola persona decide cada cosa. Se acuerdan normas de trabajo y el ritmo de reuniones (clase 056). El acta pasa a ser el marco para exigir cuentas.
 
-### 3. estabilización: operacionalización y medición
+### 5. Recomponer la rendición de cuentas
 
-**estabilización** significa **acciones iniciales para detener daño o caos**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Con acuerdos claros, se instala el ciclo de la clase 058: acuerdos escritos, seguimiento visible, conversación sobre brechas con hechos y consecuencias proporcionales. Se deja de hacer la parte del trabajo que corresponde a otros (clase 053) y se reconoce el avance (clase 057). Aquí aparecen las **decisiones de persona**: quien, con condiciones claras y apoyo, no cambia.
 
-Kim Scott — *Radical Candor* orienta este bloque mediante **perspectiva de Feedback aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **conflictos**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Cuándo cambiar personas
 
-Al llegar a resetear propósito, roles y normas, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La regla de la clase: **primero las condiciones, después las personas**. Antes de concluir que alguien es el problema, comprueba que tuvo claridad, recursos, feedback y apoyo. Si después de eso persiste un patrón que daña al equipo, la decisión es legítima y a veces necesaria: una persona puede mantener un equipo en la disfunción. Debe hacerse con **proceso y evidencia**, respetando la normativa laboral aplicable, que se verifica con asesoría, y con dignidad. Demorar esa decisión también cuesta: el equipo ve que no hay consecuencias.
 
-### 4. reset: trade-offs y efectos de segundo orden
+### 7. Ganancias tempranas y sostenimiento
 
-**Definición:** renegociación explícita de expectativas y normas. Este concepto obliga a abandonar la idea de que **capstone: recuperar un equipo disfuncional** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de intervenir capacidades o personas necesarias, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Michael Bungay Stanier — *The Coaching Habit* aporta una lente sobre **perspectiva de Coaching aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **claridad de roles** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capstone: recuperar un equipo disfuncional**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **reset** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. turnaround: gobernanza, límites e integración
-
-**turnaround** se define como **proceso de recuperación con métricas y horizonte** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Liz Wiseman — *Multipliers* se utiliza para estudiar **perspectiva de Liderazgo aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar medir 30-60-90 días, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No todos los equipos se recuperan solo con coaching. Puede ser necesario cambiar estructura, prioridades, staffing o conductas incompatibles; evitar decisiones difíciles también es una decisión.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **disfunción**, **diagnóstico de equipo**, **estabilización**, **reset** y **turnaround** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: recuperar un equipo disfuncional** no consiste en sumar cinco definiciones. Empieza por **disfunción**, contrasta **diagnóstico de equipo** con **estabilización**, incorpora **reset** como restricción o mecanismo y usa **turnaround** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. observar síntomas y segmentar causas → 2. proteger seguridad y continuidad → 3. resetear propósito, roles y normas → 4. intervenir capacidades o personas necesarias → 5. medir 30-60-90 días**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Una recuperación dura meses. Para mantener la energía, se buscan **ganancias tempranas**: un resultado visible, aunque pequeño, en el primer trimestre. Se miden indicadores de desempeño, de clima (seguridad psicológica, rotación) y de proceso (cumplimiento de acuerdos). Se revisa el plan cada trimestre y se ajusta. Si el equipo mejora, el líder cede espacio: el objetivo es un equipo que funcione sin depender de él.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| J. Richard Hackman — *Leading Teams* | condiciones de efectividad de equipos y diseño del trabajo colectivo | ¿Qué supuesto de **capstone: recuperar un equipo disfuncional** ayuda a desafiar? |
-| Patrick Lencioni — *The Five Dysfunctions of a Team* | confianza, conflicto, compromiso, accountability y resultados | ¿Qué supuesto de **capstone: recuperar un equipo disfuncional** ayuda a desafiar? |
-| Kim Scott — *Radical Candor* | perspectiva de Feedback aplicada al problema de la clase | ¿Qué supuesto de **capstone: recuperar un equipo disfuncional** ayuda a desafiar? |
-| Michael Bungay Stanier — *The Coaching Habit* | perspectiva de Coaching aplicada al problema de la clase | ¿Qué supuesto de **capstone: recuperar un equipo disfuncional** ayuda a desafiar? |
-| Liz Wiseman — *Multipliers* | perspectiva de Liderazgo aplicada al problema de la clase | ¿Qué supuesto de **capstone: recuperar un equipo disfuncional** ayuda a desafiar? |
-
-En **capstone: recuperar un equipo disfuncional**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **disfunción**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Hackman (2002) | Cinco condiciones para el diagnóstico. | No es un manual de recuperación. | ¿Qué condición revisaste primero? |
+| Lencioni (2002) | La pirámide para ubicar el nivel inferior que falla. | Es una fábula de gestión. | ¿Dónde se rompe tu equipo? |
+| Edmondson (1999) | Seguridad psicológica y aprendizaje. | No trata de decisiones de persona. | ¿Qué evidencia tienes de seguridad? |
+| Katzenbach y Smith (1993) | Qué define a un equipo real. | Basado en casos. | ¿Qué le falta para ser un equipo real? |
+| McChrystal et al. (2015) | Transparencia y confianza en equipos. | Contexto militar. | ¿Qué información comparte tu equipo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Asumes un equipo de 14 personas con dos renuncias, un lanzamiento atrasado, conflicto entre seniors y una encuesta de seguridad psicológica en descenso.
+**Situación (hipotética).** Ana asume la jefatura de un equipo de ocho personas de atención a clientes. Su predecesor se fue tras seis meses de conflictos. La rotación fue del 35 % el último año, hay dos subgrupos enfrentados y los indicadores de satisfacción están en mínimos.
 
-**Paso 1 — observar síntomas y segmentar causas.** La gerencia escribe primero el supuesto asociado a **disfunción** y evita convertirlo en hecho. Luego busca **calidad y entrega** para contrastarlo en el caso de **capstone: recuperar un equipo disfuncional**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Etapa | Qué hace Ana | Evidencia |
+|---|---|---|
+| **Días 1–30: diagnosticar** | Entrevista a cada persona; observa dos reuniones; revisa datos. Evalúa las cinco condiciones. | Dirección difusa, roles superpuestos, reuniones sin decisiones; nivel de la pirámide que falla: la confianza. |
+| **Días 15–45: seguridad** | Devuelve un resumen sin atribuciones; admite que no conoce los problemas y pide ayuda; responde sin castigo a una mala noticia de un colaborador. | Dos personas comienzan a hablar en reuniones. |
+| **Días 30–60: claridad** | Con el equipo redacta propósito, tres metas y una matriz de roles; acuerda tres normas. | Una sola persona decide cada cosa. |
+| **Días 45–90: rendición de cuentas** | Instala un tablero y acuerdos escritos; conversa con hechos sobre dos incumplimientos. | Se cumple el 70 % de los acuerdos. |
+| **Ganancia temprana** | El equipo reduce a la mitad un cuello de botella que afectaba a los clientes. | Satisfacción +0,4 puntos. |
+| **Decisión de persona** | Un integrante sigue socavando a otros tras tres conversaciones y un plan de apoyo; Ana, con asesoría, inicia un proceso. | Documentación de hechos y apoyo. |
 
-**Paso 2 — proteger seguridad y continuidad.** La gerencia escribe primero el supuesto asociado a **diagnóstico de equipo** y evita convertirlo en hecho. Luego busca **rotación** para contrastarlo en el caso de **capstone: recuperar un equipo disfuncional**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 3 — resetear propósito, roles y normas.** La gerencia escribe primero el supuesto asociado a **estabilización** y evita convertirlo en hecho. Luego busca **conflictos** para contrastarlo en el caso de **capstone: recuperar un equipo disfuncional**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — intervenir capacidades o personas necesarias.** La gerencia escribe primero el supuesto asociado a **reset** y evita convertirlo en hecho. Luego busca **claridad de roles** para contrastarlo en el caso de **capstone: recuperar un equipo disfuncional**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — medir 30-60-90 días.** La gerencia escribe primero el supuesto asociado a **turnaround** y evita convertirlo en hecho. Luego busca **dependencia del manager** para contrastarlo en el caso de **capstone: recuperar un equipo disfuncional**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: recuperar un equipo disfuncional**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Primero se diagnosticó y se restableció la seguridad. (2) Se esperó a tener claridad antes de exigir cuentas. (3) La decisión de persona se tomó con proceso, tras agotar las condiciones.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **disfunción** | patrón persistente que impide coordinación o desempeño saludable | Cuando calidad y entrega es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **diagnóstico de equipo** | evaluación de propósito, diseño, relaciones, capacidades y contexto | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Recuperar frente a reemplazar.** Reemplazar a todo el equipo es posible pero raramente deseable; suele ser más costoso y deja intactas las condiciones que lo produjeron.
 
-**Frontera de aplicación:** No todos los equipos se recuperan solo con coaching. Puede ser necesario cambiar estructura, prioridades, staffing o conductas incompatibles; evitar decisiones difíciles también es una decisión.
+**Límites.** Los modelos usados proceden de investigación y de consultoría con evidencia de calidad variable, y ningún diagnóstico es exhaustivo. Algunas disfunciones tienen causas fuera del alcance del líder: una estructura organizacional contradictoria, un incentivo mal diseñado o una cultura de la que depende. Las decisiones sobre personas están sujetas a la normativa laboral y a protocolos de la organización que se verifican con asesoría; esta clase no los sustituye.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: recuperar un equipo disfuncional |
+| Nivel | Cómo participa en una recuperación |
 |---|---|
-| **Profesional** | usa **capstone: recuperar un equipo disfuncional** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **disfunción** y **diagnóstico de equipo** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta calidad y entrega con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: recuperar un equipo disfuncional cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: recuperar un equipo disfuncional reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: recuperar un equipo disfuncional** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta información honesta y colabora con el nuevo acuerdo. |
+| **Jefe / Team Lead** | Lidera la recuperación de su equipo con diagnóstico y secuencia. |
+| **Gerente** | Apoya a los jefes con recursos y protege los plazos para que puedan hacerlo. |
+| **CEO / Director** | Revisa si la estructura y los incentivos producen la disfunción. |
+| **Founder / Owner** | Reconoce cuando el problema está en las decisiones de fundación y las corrige. |
 
 ## 🏢 Caso ejecutivo
 
-Asumes un equipo de 14 personas con dos renuncias, un lanzamiento atrasado, conflicto entre seniors y una encuesta de seguridad psicológica en descenso.
+Una gerente nueva recibe el área de operaciones de una empresa de servicios: diez personas, dos jefes de turno enfrentados, una rotación del 40 % y un cliente importante amenazando con irse. La dirección espera mejoras en 90 días. Dos personas del equipo le dicen en privado que «el problema es el jefe de turno B», otras dos que «es el jefe A». Los indicadores de calidad empeoraron en los últimos cuatro trimestres. El director dice que «si no funciona, cambia a quien haga falta».
 
-Entrega un **decision brief de capstone: recuperar un equipo disfuncional** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de recuperación de 90 días** que contenga: (a) el diagnóstico con las condiciones de Hackman, la pirámide y la seguridad psicológica, y qué evidencia buscarás; (b) la secuencia de recuperación con fechas; (c) cómo conducirás las entrevistas y la devolución al equipo; (d) cómo gestionarás el conflicto entre los jefes de turno y las acusaciones cruzadas; (e) los criterios y el proceso para una decisión de persona; (f) los indicadores, la ganancia temprana y la revisión; (g) cómo protegerás tu energía y la del equipo; (h) qué dirás al director.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: recuperar un equipo disfuncional** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. observar síntomas y segmentar causas → 2. proteger seguridad y continuidad → 3. resetear propósito, roles y normas → 4. intervenir capacidades o personas necesarias → 5. medir 30-60-90 días** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta calidad y entrega, rotación; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Evalúa un equipo con las cinco condiciones de Hackman y ubica el nivel de la pirámide que falla.
+2. Diseña las cinco preguntas de tus entrevistas y cómo devolverás un resumen sin atribuciones.
+3. Escribe las tres conductas con que restablecerías la seguridad en la primera semana.
+4. Define una ganancia temprana posible y cómo la harías visible.
+5. Define los criterios para considerar una decisión sobre una persona: qué habría que haber dado antes.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar disfunción y diagnóstico de equipo como sinónimos | Se pierde la distinción entre “patrón persistente que impide coordinación o desempeño saludable” y “evaluación de propósito, diseño, relaciones, capacidades y contexto” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “medir 30-60-90 días” | Se saltó “observar síntomas y segmentar causas” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. observar síntomas y segmentar causas → 2. proteger seguridad y continuidad → 3. resetear propósito, roles y normas → 4. intervenir capacidades o personas necesarias → 5. medir 30-60-90 días y marca el primer supuesto no demostrado. |
-| Optimizar solo calidad y entrega | La métrica local sustituyó al resultado del sistema | Contrástala con rotación y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: recuperar un equipo disfuncional | No todos los equipos se recuperan solo con coaching. Puede ser necesario cambiar estructura, prioridades, staffing o conductas incompatibles; evitar decisiones difíciles también es una decisión. |
-| No fijar revisión | Una decisión sobre capstone: recuperar un equipo disfuncional se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Actuar sin diagnosticar | Presión por resultados | Observar y escuchar los primeros 30 días. |
+| Cambiar personas primero | Es lo más visible | Revisar condiciones y luego decidir. |
+| Exigir cuentas sin claridad | Se quiere control | Aclarar propósito y roles antes. |
+| Atribuir en la devolución | Se quiere mostrar autoridad | Resumir patrones sin nombres. |
+| Demorar una decisión necesaria | Se teme el conflicto | Decidir con proceso y evidencia. |
+| Hacerlo todo el líder | No se delega | Compartir responsabilidades y ceder espacio. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **disfunción** y **diagnóstico de equipo** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **estabilización** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **observar síntomas y segmentar causas → proteger seguridad y continuidad** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **calidad y entrega** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: recuperar un equipo disfuncional**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No todos los equipos se recuperan solo con coaching. Puede ser necesario cambiar estructura, prioridades, staffing o conductas incompatibles; evitar decisiones difíciles también es una decisión.**?
+1. ¿Cuáles son las cinco condiciones habilitantes de Hackman?
+2. ¿Por qué se diagnostica antes de actuar?
+3. ¿Por qué la seguridad precede a la claridad en la secuencia?
+4. ¿Qué significa «primero las condiciones, después las personas»?
+5. ¿Qué es una ganancia temprana?
+6. ¿Qué requisitos debe cumplir una decisión sobre una persona?
+7. ¿Qué límite tienen estos modelos?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Equipo real, dirección convincente, estructura habilitante, contexto de apoyo y coaching experto.
+2. Porque las causas visibles pueden no ser las raíces, y actuar sin entender puede empeorar la situación.
+3. Porque sin poder hablar sin castigo no se puede acordar nada ni obtener información veraz.
+4. Antes de concluir que alguien es el problema, comprobar que tuvo claridad, recursos, feedback y apoyo.
+5. Un resultado visible, aunque pequeño, que muestra que el cambio es posible.
+6. Proceso y evidencia, proporcionalidad, respeto de la normativa laboral verificada con asesoría y trato digno.
+7. Proceden de investigación y consultoría de calidad variable; algunas causas están fuera del alcance del líder.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/060-capstone-recuperar-un-equipo-disfuncional/`:
 
-- `people-decision-brief.md` con el problema específico de **capstone: recuperar un equipo disfuncional**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: recuperar un equipo disfuncional** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **disfunción**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Asumes un equipo de 14 personas con dos renuncias, un lanzamiento atrasado, conflicto entre seniors y una encuesta de seguridad psicológica en descenso.** y el dato que podría invalidar la recomendación.
+- `people-decision-brief.md` (plantilla [People Decision Brief](../../../../templates/people-decision-brief.md)) con el plan de 90 días del caso ejecutivo;
+- `team-charter.md` (plantilla [Team charter](../../../../templates/team-charter.md)) con el acta y la matriz de roles propuestas;
+- `reading-note.md` con una tensión entre Hackman y Lencioni;
+- `decision-journal.md` con el diagnóstico, la secuencia, las decisiones sobre personas y la evaluación posterior.
 
 ## 📗 Fuentes y verificación
 
-- J. Richard Hackman — *Leading Teams* (Harvard Business School Press, 2002). **Uso en esta clase:** condiciones de efectividad de equipos y diseño del trabajo colectivo. Lectura selectiva sobre **capstone: recuperar un equipo disfuncional**. **Localizador:** [ISBN-13 9781578513338](https://openlibrary.org/isbn/9781578513338).
-- Patrick Lencioni — *The Five Dysfunctions of a Team* (Pfeiffer, 2012). **Uso en esta clase:** confianza, conflicto, compromiso, accountability y resultados. Lectura selectiva sobre **capstone: recuperar un equipo disfuncional**. **Localizador:** [ISBN-13 9781118127308](https://openlibrary.org/isbn/9781118127308).
-- Kim Scott — *Radical Candor* (PAN MACMILLAN U.K, 2017). **Uso en esta clase:** perspectiva de Feedback aplicada al problema de la clase. Lectura selectiva sobre **capstone: recuperar un equipo disfuncional**. **Localizador:** [ISBN-13 9781509845385](https://openlibrary.org/isbn/9781509845385).
-- Michael Bungay Stanier — *The Coaching Habit* (Page Two/Portfolio/Canongate Books/Simon & Schuster UK, 2016). **Uso en esta clase:** perspectiva de Coaching aplicada al problema de la clase. Lectura selectiva sobre **capstone: recuperar un equipo disfuncional**. **Localizador:** [ISBN-13 9780978440749](https://openlibrary.org/isbn/9780978440749).
-- Liz Wiseman — *Multipliers* (2017). **Uso en esta clase:** perspectiva de Liderazgo aplicada al problema de la clase. Lectura selectiva sobre **capstone: recuperar un equipo disfuncional**. **Localizador:** [ISBN-13 9780062663078](https://openlibrary.org/isbn/9780062663078).
-- Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams* (McGraw-Hill, 2005). **Uso en esta clase:** propósito compartido, habilidades complementarias y responsabilidad mutua. Lectura selectiva sobre **capstone: recuperar un equipo disfuncional**. **Localizador:** [ISBN-13 9780077111687](https://openlibrary.org/isbn/9780077111687).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: recuperar un equipo disfuncional** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: recuperar un equipo disfuncional**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: recuperar un equipo disfuncional** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: recuperar un equipo disfuncional** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: recuperar un equipo disfuncional** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- J. Richard Hackman — *Leading Teams* (Harvard Business School Press, 2002). **Uso en esta clase:** las cinco condiciones habilitantes para el diagnóstico. Lectura selectiva sobre **capstone: recuperar un equipo disfuncional**. **Localizador:** [ISBN-13 9781578513338](https://openlibrary.org/isbn/9781578513338).
+- Patrick Lencioni — *The Five Dysfunctions of a Team* (Pfeiffer, 2012). **Uso en esta clase:** la pirámide de disfunciones para ubicar el nivel inferior que falla. Lectura selectiva sobre **capstone: recuperar un equipo disfuncional**. **Localizador:** [ISBN-13 9781118127308](https://openlibrary.org/isbn/9781118127308).
+- Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams* (Administrative Science Quarterly, 1999). **Uso en esta clase:** seguridad psicológica y aprendizaje. Lectura selectiva sobre **capstone: recuperar un equipo disfuncional**. **Localizador:** [DOI 10.2307/2666999](https://doi.org/10.2307/2666999).
+- Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams* (McGraw-Hill, 2005). **Uso en esta clase:** qué define a un equipo real. Lectura selectiva sobre **capstone: recuperar un equipo disfuncional**. **Localizador:** [ISBN-13 9780077111687](https://openlibrary.org/isbn/9780077111687).
+- Stanley McChrystal et al. — *Team of Teams* (Penguin Books, Limited, 2015). **Uso en esta clase:** transparencia y confianza en equipos. Lectura selectiva sobre **capstone: recuperar un equipo disfuncional**. **Localizador:** [ISBN-13 9780241250846](https://openlibrary.org/isbn/9780241250846).
 
-> **Regla de fuentes para Capstone: recuperar un equipo disfuncional:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: recuperar un equipo disfuncional** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capstone: recuperar un equipo disfuncional:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, en particular la normativa laboral aplicable a decisiones sobre personas. Los ejemplos y casos son hipotéticos y no describen a ninguna empresa real. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

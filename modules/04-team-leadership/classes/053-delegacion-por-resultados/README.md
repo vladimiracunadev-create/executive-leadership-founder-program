@@ -5,222 +5,190 @@
 <!-- nav:fin -->
 
 **Parte:** 04 — Liderazgo de equipos  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Delegar por resultados transfiere un outcome y una franja de autoridad, no solo tareas. Requiere contexto, criterios, límites y checkpoints proporcionales a la madurez relevante de la persona. El objetivo es ampliar capacidad del sistema sin abandonar accountability del manager.
+Delegar es la decisión de gestión que más cuesta y más rinde. Cuesta porque quien delega sigue respondiendo por el resultado; rinde porque libera tiempo para lo que solo el líder puede hacer y desarrolla a quien recibe la tarea. Se hace mal de dos modos opuestos: no delegar (hacerlo todo, o revisar todo) y «abandonar» (entregar una tarea sin claridad y reclamar después).
 
-La salida de esta parte es **crear equipos con propósito, coordinación, confianza, aprendizaje y accountability**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **delegación por resultados** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase se apoya en la noción de **madurez para la tarea** de Andrew Grove —la capacidad y disposición de una persona para una tarea específica— y en la idea de Drucker de que se delega responsabilidad por resultados, no actividad. Al terminar sabrás elegir el nivel de autoridad a delegar, definir el resultado, los límites y los puntos de revisión, y recuperar una delegación que salió mal.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `delegación`, `outcome delegado`, `contexto`, `guardrail`, `checkpoint` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. definir outcome y por qué importa → 2. acordar autoridad y guardrails → 3. comprobar recursos y competencia → 4. definir checkpoints por riesgo → 5. revisar resultado y aprendizaje** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** decisiones devueltas al jefe, checkpoints extraordinarios, retrabajo sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** delegar tareas, delegar resultados y abdicar.
+2. **Evaluar** la madurez de una persona para una tarea concreta.
+3. **Elegir** el nivel de autoridad delegada que corresponde.
+4. **Redactar** una delegación con resultado, límites, recursos, plazos y revisión.
+5. **Gestionar** la tensión entre soltar y mantener la responsabilidad.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define delegación y outcome delegado sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con decisiones devueltas al jefe y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: lista cinco cosas que haces y podría hacer otra persona; ¿por qué no las delegas? |
+| 20–60 min | Madurez para la tarea y niveles de delegación. |
+| 60–105 min | Ejemplo trabajado: delegar la preparación de un informe mensual. |
+| 105–140 min | Caso ejecutivo: una gerente que no logra soltar. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **delegación** | transferencia deliberada de trabajo y autoridad con responsabilidad de seguimiento | Distingue un hecho compatible y otro que lo refute. |
-| **outcome delegado** | resultado que la persona puede producir con margen de decisión | Distingue un hecho compatible y otro que lo refute. |
-| **contexto** | información sobre propósito, restricciones y stakeholders | Distingue un hecho compatible y otro que lo refute. |
-| **guardrail** | límite que no puede cruzarse sin escalar | Distingue un hecho compatible y otro que lo refute. |
-| **checkpoint** | punto de revisión acordado que reduce riesgo sin microgestionar | Distingue un hecho compatible y otro que lo refute. |
+| **Delegación** | Transferencia de autoridad para decidir y actuar sobre un resultado, conservando quien delega la responsabilidad final. | Se define el resultado, los límites y la revisión. |
+| **Delegar por resultados** | Encargar un resultado y dejar a la persona decidir el cómo, dentro de límites. | La persona tiene libertad sobre el método. |
+| **Abdicación** | Entregar una tarea sin claridad ni seguimiento. | «Encárgate» sin criterios ni revisión. |
+| **Madurez para la tarea** | Capacidad y disposición de una persona para una tarea específica (Grove, 1983). | Varía por tarea: se es maduro en una y novato en otra. |
+| **Límites de autoridad** | Fronteras dentro de las cuales la persona puede decidir sin consultar. | «Hasta USD 5.000 decides; más, consultas.» |
+| **Punto de revisión** | Momento acordado en que se examina el avance. | Está en el calendario. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 053: 1. definir outcome y por qué importa → 2. acordar autoridad y guardrails → 3. comprobar recursos y competencia → 4. definir checkpoints por riesgo → 5. revisar resultado y aprendizaje](modelo-mental.svg)
+![Niveles de delegación de menor a mayor autoridad: hacer lo indicado, proponer y esperar, decidir e informar antes, decidir e informar después y decidir por completo.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir outcome y por qué importa → 2. acordar autoridad y guardrails → 3. comprobar recursos y competencia → 4. definir checkpoints por riesgo → 5. revisar resultado y aprendizaje
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Delegar por resultados transfiere un outcome y una franja de autoridad, no solo tareas. Requiere contexto, criterios, límites y checkpoints proporcionales a la madurez relevante de la persona. El objetivo es ampliar capacidad del sistema sin abandonar accountability del manager.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Delegar no es apropiado cuando falta capacidad crítica, cuando la ley exige una decisión específica del cargo o cuando el riesgo no puede tolerar aprendizaje sin supervisión.**
+**Cómo leer el diagrama.** Los cinco niveles ascienden en autoridad delegada. La regla de la clase es elegir el nivel según la **madurez para esa tarea concreta**: alto nivel cuando la persona tiene capacidad y disposición, más bajo cuando es nueva. Y subir de nivel con el tiempo es parte del desarrollo.
 
 ## 📖 Desarrollo
 
-### 1. delegación: mecanismo central
+### 1. Qué se delega
 
-**delegación** se entiende aquí como **transferencia deliberada de trabajo y autoridad con responsabilidad de seguimiento**. Esta es la pieza causal o estructural desde la que se inicia **delegación por resultados**: antes de definir outcome y por qué importa, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Drucker insiste en que un directivo responde por los resultados, no por la actividad. Delegar una **tarea** (haz esto de esta manera) conserva toda la decisión en el jefe y desarrolla poco. Delegar un **resultado** (necesito esto, con estas condiciones; decide cómo) transfiere autoridad y desarrolla. En ambos casos, quien delega **sigue siendo responsable**: la responsabilidad no se delega, la autoridad sí.
 
-La lectura rectora de este bloque es J. Richard Hackman — *Leading Teams*. Su aporte se usa para examinar **condiciones de efectividad de equipos y diseño del trabajo colectivo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **decisiones devueltas al jefe**; regístrala con periodo, unidad, población y baseline.
+### 2. La madurez para la tarea
 
-Relaciona el mecanismo con **outcome delegado**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Grove propone que el estilo de gestión se ajuste a la **madurez para la tarea**: la combinación de capacidad (conocimiento, experiencia) y disposición (motivación, confianza) para una tarea específica. Es **relativa a la tarea**: un experto puede ser novato en una tarea nueva. Con baja madurez, el jefe interviene más; con alta, menos. Un error frecuente es evaluar a la persona en general y no para la tarea.
 
-### 2. outcome delegado: frontera conceptual y error de clasificación
+### 3. Los niveles de autoridad
 
-**Definición operacional:** resultado que la persona puede producir con margen de decisión. Su valor está en distinguirlo de **delegación** y **contexto**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Una escala didáctica de la clase: **1)** hacer lo que se indica; **2)** analizar y proponer, el jefe decide; **3)** decidir e informar antes de ejecutar; **4)** decidir y informar después; **5)** decidir por completo, con revisión periódica. Dejar claro el nivel evita malentendidos: «yo creí que podía decidir» frente a «yo esperaba que me consultara». Nombrar el nivel («esto es un tres: decide y avísame antes») es una práctica simple y eficaz.
 
-Contrasta el problema con Patrick Lencioni — *The Five Dysfunctions of a Team*, que aporta una mirada sobre **confianza, conflicto, compromiso, accountability y resultados**. Formula dos mini-casos: uno que sí satisface la definición de **outcome delegado** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **checkpoints extraordinarios** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Cómo se redacta una delegación
 
-Antes de acordar autoridad y guardrails, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Seis elementos. **Resultado:** qué se espera, con criterios de aceptación. **Por qué importa:** el contexto. **Límites:** presupuesto, plazos, decisiones que requieren consulta. **Recursos:** personas, información, acceso. **Revisión:** cuándo se verá el avance. **Nivel de autoridad:** qué puede decidir sola. Una delegación escrita en cinco líneas evita meses de fricción.
 
-### 3. contexto: operacionalización y medición
+### 5. Seguimiento sin microgestión
 
-**contexto** significa **información sobre propósito, restricciones y stakeholders**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Delegar no es desaparecer. El seguimiento se acuerda: puntos de revisión fijos, indicadores de avance visibles y una vía para pedir ayuda. Entre revisiones, el jefe se abstiene de intervenir, salvo que se cruce un límite. Si el jefe quiere revisar todo, no está delegando. Y si interviene en el método sin que se haya cruzado un límite, le quita la tarea a la persona sin decirlo.
 
-Kim Scott — *Radical Candor* orienta este bloque mediante **perspectiva de Feedback aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **retrabajo**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Cuando algo sale mal
 
-Al llegar a comprobar recursos y competencia, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Si el resultado no llega, la conversación comienza por los hechos: ¿estaba claro el resultado?, ¿los límites?, ¿los recursos?, ¿la madurez estaba bien evaluada?, ¿hubo señales a tiempo? Muchos fallos de delegación son de delegación. Si la causa es la persona, se ajusta el nivel de autoridad y se acompaña; si es la tarea, se rediseña. Retirar una tarea sin explicación daña la confianza.
 
-### 4. guardrail: trade-offs y efectos de segundo orden
+### 7. Por qué cuesta soltar
 
-**Definición:** límite que no puede cruzarse sin escalar. Este concepto obliga a abandonar la idea de que **delegación por resultados** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de definir checkpoints por riesgo, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Patrick Lencioni — *Death by Meeting* aporta una lente sobre **perspectiva de Reuniones aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **tiempo del manager liberado** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **delegación por resultados**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **guardrail** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. checkpoint: gobernanza, límites e integración
-
-**checkpoint** se define como **punto de revisión acordado que reduce riesgo sin microgestionar** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Stanley McChrystal et al. — *Team of Teams* se utiliza para estudiar **adaptabilidad, conciencia compartida y ejecución descentralizada** y contrastar la recomendación final. Al ejecutar revisar resultado y aprendizaje, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Delegar no es apropiado cuando falta capacidad crítica, cuando la ley exige una decisión específica del cargo o cuando el riesgo no puede tolerar aprendizaje sin supervisión.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **delegación**, **outcome delegado**, **contexto**, **guardrail** y **checkpoint** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **delegación por resultados** no consiste en sumar cinco definiciones. Empieza por **delegación**, contrasta **outcome delegado** con **contexto**, incorpora **guardrail** como restricción o mecanismo y usa **checkpoint** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir outcome y por qué importa → 2. acordar autoridad y guardrails → 3. comprobar recursos y competencia → 4. definir checkpoints por riesgo → 5. revisar resultado y aprendizaje**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Soltar enfrenta temores: que salga peor, perder control, quedar mal ante la dirección. El mapa de inmunidad (clase 046) ayuda a ver qué se protege. Un experimento seguro —delegar algo de bajo riesgo y observar— suele ser mejor que una decisión de principio. Y conviene recordar el costo de no delegar: el líder se vuelve cuello de botella y el equipo no crece.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| J. Richard Hackman — *Leading Teams* | condiciones de efectividad de equipos y diseño del trabajo colectivo | ¿Qué supuesto de **delegación por resultados** ayuda a desafiar? |
-| Patrick Lencioni — *The Five Dysfunctions of a Team* | confianza, conflicto, compromiso, accountability y resultados | ¿Qué supuesto de **delegación por resultados** ayuda a desafiar? |
-| Kim Scott — *Radical Candor* | perspectiva de Feedback aplicada al problema de la clase | ¿Qué supuesto de **delegación por resultados** ayuda a desafiar? |
-| Patrick Lencioni — *Death by Meeting* | perspectiva de Reuniones aplicada al problema de la clase | ¿Qué supuesto de **delegación por resultados** ayuda a desafiar? |
-| Stanley McChrystal et al. — *Team of Teams* | adaptabilidad, conciencia compartida y ejecución descentralizada | ¿Qué supuesto de **delegación por resultados** ayuda a desafiar? |
-
-En **delegación por resultados**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **delegación**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Grove (1983) | Madurez para la tarea y ajuste del estilo de gestión. | Escrita en otro contexto empresarial. | ¿Cuál es la madurez de tu colaborador para esta tarea? |
+| Drucker (2006) | Delegar resultados y la responsabilidad del directivo. | No trae una escala. | ¿Delegas actividad o resultado? |
+| Hackman (2002) | Estructura y autonomía del equipo. | No trata la delegación individual. | ¿Qué autonomía tiene tu equipo? |
+| Kegan y Lahey (2009) | Compromisos ocultos que impiden soltar. | No da pasos de delegación. | ¿Qué proteges al no delegar? |
+| Bungay Stanier (2016) | Preguntas para delegar sin dar la solución. | Es divulgación. | ¿Qué pregunta harías antes de resolver? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una manager dice 'te delego el lanzamiento', pero aprueba cada correo, cambio y reunión. La persona ejecuta tareas y espera instrucciones; el manager sigue sobrecargado.
+**Situación (hipotética).** Una gerente, Marta, prepara cada mes un informe de resultados para la dirección. Lleva tres horas y le cuesta soltarlo. Decide delegarlo a Joaquín, analista con dos años de experiencia que conoce los datos pero nunca presentó a la dirección.
 
-**Paso 1 — definir outcome y por qué importa.** La gerencia escribe primero el supuesto asociado a **delegación** y evita convertirlo en hecho. Luego busca **decisiones devueltas al jefe** para contrastarlo en el caso de **delegación por resultados**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Elemento | Delegación |
+|---|---|
+| **Resultado** | Informe de dos páginas con cinco indicadores, entregado el día 3 de cada mes, sin errores de cifras. |
+| **Por qué importa** | La dirección decide el presupuesto con este informe. |
+| **Madurez** | Alta para el análisis; baja para presentar a la dirección. |
+| **Nivel de autoridad** | 3 para el contenido (decide y avisa antes); 1 para la presentación al comité (ensayan juntos). |
+| **Límites** | Cambios de indicadores los consulta; las cifras se verifican con una lista. |
+| **Revisión** | Marta revisa el primer informe antes de enviarlo; el segundo, solo la lista; el tercero, nada. |
 
-**Paso 2 — acordar autoridad y guardrails.** La gerencia escribe primero el supuesto asociado a **outcome delegado** y evita convertirlo en hecho. Luego busca **checkpoints extraordinarios** para contrastarlo en el caso de **delegación por resultados**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** En el primer mes Marta corrige dos cosas; en el tercero, Joaquín presenta solo. Marta ahorra tres horas y Joaquín gana visibilidad.
 
-**Paso 3 — comprobar recursos y competencia.** La gerencia escribe primero el supuesto asociado a **contexto** y evita convertirlo en hecho. Luego busca **retrabajo** para contrastarlo en el caso de **delegación por resultados**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — definir checkpoints por riesgo.** La gerencia escribe primero el supuesto asociado a **guardrail** y evita convertirlo en hecho. Luego busca **tiempo del manager liberado** para contrastarlo en el caso de **delegación por resultados**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — revisar resultado y aprendizaje.** La gerencia escribe primero el supuesto asociado a **checkpoint** y evita convertirlo en hecho. Luego busca **autonomía creciente** para contrastarlo en el caso de **delegación por resultados**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **delegación por resultados**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La madurez se evaluó por tarea, y el nivel varió por componente. (2) Hubo una trayectoria de subir el nivel. (3) El seguimiento fue acordado.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **delegación** | transferencia deliberada de trabajo y autoridad con responsabilidad de seguimiento | Cuando decisiones devueltas al jefe es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **outcome delegado** | resultado que la persona puede producir con margen de decisión | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Delegar frente a repartir trabajo.** Repartir asigna tareas dentro de un plan del jefe; delegar transfiere autoridad sobre un resultado.
 
-**Frontera de aplicación:** Delegar no es apropiado cuando falta capacidad crítica, cuando la ley exige una decisión específica del cargo o cuando el riesgo no puede tolerar aprendizaje sin supervisión.
+**Límites.** La escala de niveles es un recurso didáctico de la clase y no un modelo empírico; la madurez para la tarea de Grove es un concepto práctico, no una medición. Hay tareas que no se delegan: decisiones de personal sensibles, relaciones con la dirección y aquellas que, por su riesgo, exigen la autoridad del líder. Y delegar sin dar recursos ni tiempo es abdicar.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre delegación por resultados |
+| Nivel | Cómo delega |
 |---|---|
-| **Profesional** | usa **delegación por resultados** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **delegación** y **outcome delegado** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta decisiones devueltas al jefe con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si delegación por resultados cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de delegación por resultados reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **delegación por resultados** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Pide claridad sobre el resultado y los límites cuando recibe una tarea. |
+| **Jefe / Team Lead** | Delega resultados, define el nivel y acuerda revisiones. |
+| **Gerente** | Desarrolla a sus jefes delegando decisiones reales. |
+| **CEO / Director** | Delega a su equipo directivo y se concentra en decisiones de empresa. |
+| **Founder / Owner** | Aprende a soltar lo que antes hacía solo, para que el negocio no dependa de él. |
 
 ## 🏢 Caso ejecutivo
 
-Una manager dice 'te delego el lanzamiento', pero aprueba cada correo, cambio y reunión. La persona ejecuta tareas y espera instrucciones; el manager sigue sobrecargado.
+Una directora de operaciones revisa todas las propuestas comerciales de su área antes de que salgan, lo que retrasa las respuestas a los clientes en dos a tres días. Su equipo dice que «no le dejan decidir». Ella argumenta que «ya hubo errores» y que no puede arriesgarse. Dos buenos jefes de área están pensando en irse. Tiene una semana para presentar un plan al gerente general.
 
-Entrega un **decision brief de delegación por resultados** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de delegación** que contenga: (a) el análisis de qué proteges al no soltar; (b) la madurez de cada jefe para cada tipo de propuesta; (c) el nivel de autoridad por tipo, con límites; (d) cómo redactarás la delegación; (e) el seguimiento sin microgestión; (f) qué señal te haría subir o bajar el nivel.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **delegación por resultados** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir outcome y por qué importa → 2. acordar autoridad y guardrails → 3. comprobar recursos y competencia → 4. definir checkpoints por riesgo → 5. revisar resultado y aprendizaje** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta decisiones devueltas al jefe, checkpoints extraordinarios; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Elige una tarea que haces tú y redáctala como delegación con los seis elementos.
+2. Evalúa la madurez de una persona para esa tarea.
+3. Decide el nivel de autoridad y escríbelo en una frase.
+4. Define los puntos de revisión y cómo irán subiendo.
+5. Describe qué harías si el resultado no llega.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar delegación y outcome delegado como sinónimos | Se pierde la distinción entre “transferencia deliberada de trabajo y autoridad con responsabilidad de seguimiento” y “resultado que la persona puede producir con margen de decisión” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar resultado y aprendizaje” | Se saltó “definir outcome y por qué importa” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir outcome y por qué importa → 2. acordar autoridad y guardrails → 3. comprobar recursos y competencia → 4. definir checkpoints por riesgo → 5. revisar resultado y aprendizaje y marca el primer supuesto no demostrado. |
-| Optimizar solo decisiones devueltas al jefe | La métrica local sustituyó al resultado del sistema | Contrástala con checkpoints extraordinarios y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre delegación por resultados | Delegar no es apropiado cuando falta capacidad crítica, cuando la ley exige una decisión específica del cargo o cuando el riesgo no puede tolerar aprendizaje sin supervisión. |
-| No fijar revisión | Una decisión sobre delegación por resultados se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Delegar tareas, no resultados | Se quiere controlar el método | Definir resultado y límites. |
+| Abdicar | Se piensa que delegar es soltar | Acordar revisión y apoyo. |
+| Evaluar a la persona en general | Se usa una impresión global | Evaluar la madurez para esa tarea. |
+| Intervenir sin cruzar límites | Ansiedad | Esperar al punto de revisión. |
+| No explicar el nivel | Se supone claro | Nombrar el nivel de autoridad. |
+| Retirar la tarea sin explicar | Se reacciona al error | Revisar la delegación y conversar. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **delegación** y **outcome delegado** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **contexto** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir outcome y por qué importa → acordar autoridad y guardrails** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **decisiones devueltas al jefe** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **delegación por resultados**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Delegar no es apropiado cuando falta capacidad crítica, cuando la ley exige una decisión específica del cargo o cuando el riesgo no puede tolerar aprendizaje sin supervisión.**?
+1. ¿Qué se delega y qué no, según la idea de responsabilidad?
+2. ¿Qué es la madurez para la tarea y por qué es específica?
+3. ¿Cuáles son los cinco niveles de delegación de la clase?
+4. ¿Qué seis elementos tiene una delegación bien redactada?
+5. ¿Qué diferencia hay entre delegar y abdicar?
+6. Si una delegación sale mal, ¿qué revisas primero?
+7. ¿Qué límite tiene la escala de niveles?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Se delega la autoridad para decidir y actuar; la responsabilidad final sigue siendo de quien delega.
+2. La combinación de capacidad y disposición para una tarea concreta; una persona puede ser maduro en una tarea y novato en otra.
+3. Hacer lo indicado, proponer y esperar, decidir e informar antes, decidir e informar después, y decidir por completo.
+4. Resultado, por qué importa, límites, recursos, revisión y nivel de autoridad.
+5. Delegar acuerda resultado, límites y seguimiento; abdicar entrega la tarea sin claridad ni revisión.
+6. La claridad del resultado, los límites, los recursos, la evaluación de la madurez y las señales a tiempo.
+7. Es un recurso didáctico, no un modelo empírico.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/053-delegacion-por-resultados/`:
 
-- `leadership-decision-brief.md` con el problema específico de **delegación por resultados**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **delegación por resultados** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **delegación**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una manager dice 'te delego el lanzamiento', pero aprueba cada correo, cambio y reunión. La persona ejecuta tareas y espera instrucciones; el manager sigue sobrecargado.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan del caso ejecutivo;
+- `reading-note.md` con una tensión entre Grove y Drucker;
+- `decision-journal.md` con la delegación redactada, el nivel y el seguimiento.
 
 ## 📗 Fuentes y verificación
 
-- J. Richard Hackman — *Leading Teams* (Harvard Business School Press, 2002). **Uso en esta clase:** condiciones de efectividad de equipos y diseño del trabajo colectivo. Lectura selectiva sobre **delegación por resultados**. **Localizador:** [ISBN-13 9781578513338](https://openlibrary.org/isbn/9781578513338).
-- Patrick Lencioni — *The Five Dysfunctions of a Team* (Pfeiffer, 2012). **Uso en esta clase:** confianza, conflicto, compromiso, accountability y resultados. Lectura selectiva sobre **delegación por resultados**. **Localizador:** [ISBN-13 9781118127308](https://openlibrary.org/isbn/9781118127308).
-- Kim Scott — *Radical Candor* (PAN MACMILLAN U.K, 2017). **Uso en esta clase:** perspectiva de Feedback aplicada al problema de la clase. Lectura selectiva sobre **delegación por resultados**. **Localizador:** [ISBN-13 9781509845385](https://openlibrary.org/isbn/9781509845385).
-- Patrick Lencioni — *Death by Meeting* (Audio Renaissance, 2004). **Uso en esta clase:** perspectiva de Reuniones aplicada al problema de la clase. Lectura selectiva sobre **delegación por resultados**. **Localizador:** [ISBN-13 9781593974411](https://openlibrary.org/isbn/9781593974411).
-- Stanley McChrystal et al. — *Team of Teams* (Penguin Books, Limited, 2015). **Uso en esta clase:** adaptabilidad, conciencia compartida y ejecución descentralizada. Lectura selectiva sobre **delegación por resultados**. **Localizador:** [ISBN-13 9780241250846](https://openlibrary.org/isbn/9780241250846).
-- Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams* (McGraw-Hill, 2005). **Uso en esta clase:** propósito compartido, habilidades complementarias y responsabilidad mutua. Lectura selectiva sobre **delegación por resultados**. **Localizador:** [ISBN-13 9780077111687](https://openlibrary.org/isbn/9780077111687).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **delegación por resultados** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **delegación por resultados**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **delegación por resultados** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **delegación por resultados** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **delegación por resultados** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** madurez para la tarea y ajuste del estilo de gestión. Lectura selectiva sobre **delegación por resultados**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
+- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** delegar resultados y responsabilidad del directivo. Lectura selectiva sobre **delegación por resultados**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
+- J. Richard Hackman — *Leading Teams* (Harvard Business School Press, 2002). **Uso en esta clase:** estructura y autonomía del equipo. Lectura selectiva sobre **delegación por resultados**. **Localizador:** [ISBN-13 9781578513338](https://openlibrary.org/isbn/9781578513338).
+- Robert Kegan & Lisa Laskow Lahey — *Immunity to Change* (Harvard Business Press, 2009). **Uso en esta clase:** compromisos ocultos que impiden soltar. Lectura selectiva sobre **delegación por resultados**. **Localizador:** [ISBN-13 9781422117361](https://openlibrary.org/isbn/9781422117361).
+- Michael Bungay Stanier — *The Coaching Habit* (Page Two/Portfolio/Canongate Books/Simon & Schuster UK, 2016). **Uso en esta clase:** preguntas para delegar sin dar la solución. Lectura selectiva sobre **delegación por resultados**. **Localizador:** [ISBN-13 9780978440749](https://openlibrary.org/isbn/9780978440749).
 
-> **Regla de fuentes para Delegación por resultados:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **delegación por resultados** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Delegación por resultados:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

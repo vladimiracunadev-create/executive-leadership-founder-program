@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir reconocimiento de recompensa mediante evidencia observable."
-  - "Aplicar la secuencia: observar contribución específica → explicar impacto y valor relacionado → adaptar forma a la persona y contexto → separar reconocimiento de favoritismo → revisar incentivos por conductas no deseadas."
-  - "Interpretar participación, gaming de métricas, percepción de equidad sin atribuir causalidad automática."
-  - "Resolver el caso de motivación y reconocimiento con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Explicar por qué el reconocimiento puede sostener o dañar la motivación según cómo se perciba."
+  - "Formular un reconocimiento específico, oportuno y vinculado a un efecto."
+  - "Adaptar el reconocimiento a las preferencias de la persona sin suponerlas."
+  - "Diseñar rituales de equipo que hagan visible el progreso y la colaboración."
+  - "Evitar reconocimientos que generen competencia dañina o sensación de control."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "J. Richard Hackman — *Leading Teams*"
-  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
-  - "Liz Wiseman — *Multipliers*"
-  - "Andrew S. Grove — *High Output Management*"
-  - "John Whitmore — *Coaching for Performance*"
-  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+  - "Richard M. Ryan & Edward L. Deci — *Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being*"
+  - "Teresa M. Amabile & Steven J. Kramer — *The Progress Principle*"
+  - "Daniel H. Pink — *Drive*"
+  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
+  - "Kim Scott — *Radical Candor*"
 limits:
-  - "Reconocer no debe crear competencia tóxica ni exponer a personas que prefieren privacidad. Y el reconocimiento nunca sustituye compensación justa o condiciones de trabajo adecuadas."
+  - "La teoría de Ryan y Deci tiene amplio respaldo, pero los efectos varían según el tipo de recompensa, la tarea y la cultura."
 evidence_signals:
-  - "participación"
-  - "gaming de métricas"
-  - "percepción de equidad"
-  - "reconocimientos específicos"
-  - "retención de talento"
+  - "reconocimiento específico y oportuno"
+  - "preferencia de cada persona preguntada"
+  - "progreso hecho visible"
+  - "efecto en la colaboración"

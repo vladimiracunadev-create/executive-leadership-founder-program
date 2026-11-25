@@ -1,66 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g52 d-g52" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g52">Ficha visual de la clase 052: Confianza y vulnerabilidad profesional</title>
-<desc id="d-g52">Conceptos: vulnerabilidad profesional; confianza; fiabilidad; benevolencia; reparación. Método: modelar límites y errores desde liderazgo → pedir ayuda de forma concreta → cumplir compromisos pequeños → responder sin humillar a malas noticias → reparar rupturas con hechos y seguimiento.</desc>
-<defs><marker id="p-g52" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 052 · Confianza y vulnerabilidad profesional</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 04 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >vulnerabilidad profesional</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >acto de reconocer incertidumbre, error o necesidad de</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ayuda relevante al trabajo</text>
-<circle cx="38" cy="184.12" r="5" fill="#0969da"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >confianza</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >expectativa de conducta fiable bajo vulnerabilidad</text>
-<circle cx="38" cy="242.12" r="5" fill="#0969da"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >fiabilidad</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >cumplimiento consistente de compromisos</text>
-<circle cx="38" cy="300.12" r="5" fill="#0969da"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >benevolencia</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >percepción de que el otro no explotará intencionalmente</text>
-<text x="54" y="339.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >la vulnerabilidad</text>
-<circle cx="38" cy="372.24" r="5" fill="#0969da"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >reparación</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >acciones que restauran confianza después de una ruptura</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#0969da" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#0969da"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >modelar límites y errores desde liderazgo</text>
-<circle cx="485" cy="176" r="14" fill="#0969da"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >pedir ayuda de forma concreta</text>
-<circle cx="485" cy="230" r="14" fill="#0969da"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >cumplir compromisos pequeños</text>
-<circle cx="485" cy="284" r="14" fill="#0969da"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >responder sin humillar a malas noticias</text>
-<circle cx="485" cy="338" r="14" fill="#0969da"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >reparar rupturas con hechos y seguimiento</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="212.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >errores reportados temprano</text>
-<rect x="250.3" y="456.24" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="263.3" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="274.3" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >peticiones de ayuda</text>
-<rect x="417.4" y="456.24" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="430.4" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="441.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >compromisos cumplidos</text>
-<rect x="598.3" y="456.24" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="611.3" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="622.3" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >silencio ante riesgos</text>
-<rect x="779.2" y="456.24" width="191.6" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="792.2" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="803.2" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >reparaciones completadas</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Vulnerabilidad sin confiabilidad no crea confianza. Compartir dudas y emociones no compensa incumplimientos, incompetencia o abuso; la</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >seguridad se sostiene con conducta repetida.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 595.31" width="1040" role="img" aria-labelledby="t-s52 d-s52" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s52">Clase 052 · La pirámide de las cinco disfunciones</title>
+<desc id="d-s52">Cinco disfunciones de un equipo, cada una apoyada en la anterior: ausencia de confianza, miedo al conflicto, falta de compromiso, evasión de la rendición de cuentas e inatención a los resultados.</desc>
+<defs><marker id="p-s52" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="595.31" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 052 · La pirámide de las cinco disfunciones</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Lencioni (2002) · Mayer, Davis &amp; Schoorman (1995)</text>
+<rect x="164" y="96" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<rect x="164" y="96" width="6" height="63.25" rx="3" fill="#59636e"/>
+<circle cx="196" cy="127.625" r="15" fill="#59636e"/>
+<text x="196" y="132.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="224" y="120" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Inatención a los resultados</text>
+<text x="224" y="138" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Se priorizan el estatus individual o el departamento sobre el resultado colectivo.</text>
+<rect x="130" y="169.25" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="130" y="169.25" width="6" height="63.25" rx="3" fill="#0969da"/>
+<circle cx="162" cy="200.875" r="15" fill="#0969da"/>
+<text x="162" y="205.875" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="190" y="193.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Evasión de rendición de cuentas</text>
+<text x="190" y="211.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Sin compromiso claro, nadie corrige a nadie.</text>
+<rect x="96" y="242.5" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<rect x="96" y="242.5" width="6" height="63.25" rx="3" fill="#8250df"/>
+<circle cx="128" cy="274.125" r="15" fill="#8250df"/>
+<text x="128" y="279.125" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="156" y="266.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Falta de compromiso</text>
+<text x="156" y="284.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Sin debate no hay decisión clara: la ambigüedad persiste.</text>
+<rect x="62" y="315.75" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="62" y="315.75" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<circle cx="94" cy="347.375" r="15" fill="#bc4c00"/>
+<text x="94" y="352.375" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="122" y="339.75" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Miedo al conflicto</text>
+<text x="122" y="357.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Se evita el debate de ideas; la armonía es artificial.</text>
+<rect x="28" y="389" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<rect x="28" y="389.0" width="6" height="63.25" rx="3" fill="#cf222e"/>
+<circle cx="60" cy="420.625" r="15" fill="#cf222e"/>
+<text x="60" y="425.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="88" y="413" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Ausencia de confianza</text>
+<text x="88" y="431" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >No se muestra vulnerabilidad: no se admiten errores ni se pide ayuda.</text>
+<rect x="28" y="468.25" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="490.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Cada nivel se apoya en el anterior: se trabaja de abajo hacia arriba. La confianza que describe Lencioni es la de poder ser vulnerable</text>
+<text x="44" y="507.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >ante el equipo, afín al modelo de Mayer et al.</text>
+<text x="28" y="554.75" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >El modelo de Lencioni es una fábula de gestión, útil para conversar, no un resultado de investigación experimental.</text>
 </svg>

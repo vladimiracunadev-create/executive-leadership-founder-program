@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir disfunción de diagnóstico de equipo mediante evidencia observable."
-  - "Aplicar la secuencia: observar síntomas y segmentar causas → proteger seguridad y continuidad → resetear propósito, roles y normas → intervenir capacidades o personas necesarias → medir 30-60-90 días."
-  - "Interpretar calidad y entrega, rotación, conflictos sin atribuir causalidad automática."
-  - "Resolver el caso de capstone: recuperar un equipo disfuncional con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Diagnosticar un equipo con las condiciones de Hackman, la pirámide de Lencioni y la seguridad psicológica."
+  - "Secuenciar una recuperación: seguridad, claridad, rendición de cuentas y sostenimiento."
+  - "Decidir cuándo el problema es de condiciones y cuándo de una persona."
+  - "Conducir las conversaciones iniciales con el equipo y con cada persona."
+  - "Medir la recuperación con evidencia y ajustar el plan."
 deliverable: "people-decision-brief.md"
 references:
   - "J. Richard Hackman — *Leading Teams*"
   - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
-  - "Kim Scott — *Radical Candor*"
-  - "Michael Bungay Stanier — *The Coaching Habit*"
-  - "Liz Wiseman — *Multipliers*"
+  - "Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams*"
   - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+  - "Stanley McChrystal et al. — *Team of Teams*"
 limits:
-  - "No todos los equipos se recuperan solo con coaching. Puede ser necesario cambiar estructura, prioridades, staffing o conductas incompatibles; evitar decisiones difíciles también es una decisión."
+  - "Los modelos usados proceden de investigación y de consultoría con evidencia de calidad variable, y ningún diagnóstico es exhaustivo."
 evidence_signals:
-  - "calidad y entrega"
-  - "rotación"
-  - "conflictos"
-  - "claridad de roles"
-  - "dependencia del manager"
+  - "diagnóstico con las cinco condiciones"
+  - "seguridad psicológica medida"
+  - "ganancia temprana lograda"
+  - "decisión sobre personas con proceso"

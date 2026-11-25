@@ -1,65 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 620.24" width="1040" role="img" aria-labelledby="t-g51 d-g51" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g51">Ficha visual de la clase 051: Roles, responsabilidades y expectativas</title>
-<desc id="d-g51">Conceptos: rol; responsabilidad; autoridad; interface; expectativa. Método: definir outcomes del rol → separar responsabilidades recurrentes de proyectos → asignar autoridad y límites → mapear interfaces y handoffs → validar expectativas con la persona.</desc>
-<defs><marker id="p-g51" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="620.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 051 · Roles, responsabilidades y expectativas</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 04 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >rol</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto estable de responsabilidades y autoridad</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >alrededor de resultados</text>
-<circle cx="38" cy="184.12" r="5" fill="#0969da"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >responsabilidad</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >resultado o tarea por la que se espera respuesta</text>
-<circle cx="38" cy="242.12" r="5" fill="#0969da"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >autoridad</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >derecho de decidir o comprometer recursos dentro de</text>
-<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >límites</text>
-<circle cx="38" cy="314.24" r="5" fill="#0969da"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >interface</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >punto de interacción con otro rol o proceso</text>
-<circle cx="38" cy="372.24" r="5" fill="#0969da"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >expectativa</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >estándar explícito de resultado, conducta o tiempo</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir outcomes del rol</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >separar responsabilidades recurrentes de proyectos</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >asignar autoridad y límites</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >mapear interfaces y handoffs</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >validar expectativas con la persona</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="281.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decisiones escaladas innecesariamente</text>
-<rect x="319.3" y="456.24" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="332.3" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="343.3" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >duplicidad de trabajo</text>
-<rect x="500.2" y="456.24" width="198.5" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="513.2" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="524.2" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >huecos de responsabilidad</text>
-<rect x="708.7" y="456.24" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="721.7" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="732.7" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >retrabajo en handoffs</text>
-<rect x="28" y="488.24" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="501.24" r="3.5" fill="#0969da"/>
-<text x="52" y="505.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >claridad en evaluación</text>
-<rect x="28" y="534.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="534.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="554.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="572.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Claridad de roles no debe congelar colaboración. En entornos dinámicos algunas responsabilidades cambian; el marco debe permitir</text>
-<text x="48" y="589.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >negociar fronteras sin volver a la ambigüedad total.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 441.86" width="1040" role="img" aria-labelledby="t-s51 d-s51" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s51">Clase 051 · Matriz de responsabilidades: una sola persona responde</title>
+<desc id="d-s51">Ejemplo de matriz de responsabilidades con quien decide, quien ejecuta, quien es consultado y quien es informado en cuatro decisiones.</desc>
+<defs><marker id="p-s51" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="441.86" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 051 · Matriz de responsabilidades: una sola persona responde</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Rizzo, House &amp; Lirtzman (1970)</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Decisión</text>
+<text x="304" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Decide (una persona)</text>
+<text x="496" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Ejecuta</text>
+<text x="664" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Se consulta</text>
+<text x="856" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Se informa</text>
+<rect x="28" y="136" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Prioridad del trimestre</text>
+<text x="304" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Líder del equipo</text>
+<text x="496" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Todo el equipo</text>
+<text x="664" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Ventas, soporte</text>
+<text x="856" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Dirección</text>
+<rect x="28" y="172.56" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Contratar un perfil</text>
+<text x="304" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Líder del equipo</text>
+<text x="496" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Personas</text>
+<text x="664" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >El equipo</text>
+<text x="856" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Finanzas</text>
+<rect x="28" y="209.12" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="229.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Cambio de herramienta</text>
+<text x="304" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Responsable técnico</text>
+<text x="496" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >El equipo</text>
+<text x="664" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Usuarios clave</text>
+<text x="856" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Líder</text>
+<rect x="28" y="245.68" width="984" height="53.12" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="265.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Cierre de un incidente</text>
+<text x="304" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Quien comanda el</text>
+<text x="304" y="282.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >incidente</text>
+<text x="496" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Operación</text>
+<text x="664" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Legal, comunicaciones</text>
+<text x="856" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Dirección</text>
+<rect x="28" y="314.8" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="336.8" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Rizzo et al. midieron dos problemas de rol: la ambigüedad (no se sabe qué se espera) y el conflicto (se esperan cosas incompatibles).</text>
+<text x="44" y="354.05" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Ambos se asocian con tensión y menor satisfacción; la matriz los reduce.</text>
+<text x="28" y="401.3" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >La matriz aclara expectativas; no sustituye la conversación sobre cómo se ejerce cada rol.</text>
 </svg>

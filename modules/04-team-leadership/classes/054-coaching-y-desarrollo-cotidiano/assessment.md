@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **coaching** de **mentoring** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **instrucción** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **pregunta de coaching** con **experimento**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre coaching, instrucción y feedback?
+2. ¿Cuáles son los cuatro pasos de GROW y por qué importa su orden?
+3. ¿Qué característica tiene una buena pregunta de coaching?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un líder responde cada duda con la solución porque es más rápido. A los seis meses, el equipo escala los mismos problemas y espera que él piense por todos.
+**Caso:** Un gerente de ingeniería es el «solucionador» de su equipo: cada vez que alguien tiene un problema técnico, pasa por su oficina y él lo resuelve. Está agotado, el equipo no avanza sin él y dos ingenieros senior se quejan de «no crecer». Quiere cambiar, pero le preocupa que los plazos se alarguen si deja de dar respuestas.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **diagnosticar brecha de skill versus juicio → acordar objetivo de desarrollo → usar preguntas antes de consejo cuando existe capacidad → dar instrucción cuando falta conocimiento base → cerrar con experimento y seguimiento**. Debes utilizar o diseñar cómo obtener **autonomía, problemas resueltos sin escalamiento, conductas practicadas**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de coaching cotidiano** que contenga: (a) qué conversaciones serán de coaching, de instrucción y de feedback; (b) las cinco preguntas que usarás y en qué orden; (c) cómo estructurarás una conversación con GROW; (d) cómo cuidarás los plazos durante la transición; (e) cómo medirás que el equipo trae menos problemas y más propuestas; (f) cómo apoyarás el desarrollo de los dos ingenieros senior. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Coaching no reemplaza feedback claro, formación técnica ni decisiones urgentes. El estilo debe responder a tarea, madurez y riesgo, no a una identidad de 'coach'.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: GROW es un modelo de uso extendido en la práctica profesional, pero su evidencia de eficacia proviene de estudios con calidad variable, y depende de la relación y de la formación de quien lo conduce.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

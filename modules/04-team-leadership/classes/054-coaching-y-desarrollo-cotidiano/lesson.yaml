@@ -5,27 +5,27 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir coaching de mentoring mediante evidencia observable."
-  - "Aplicar la secuencia: diagnosticar brecha de skill versus juicio → acordar objetivo de desarrollo → usar preguntas antes de consejo cuando existe capacidad → dar instrucción cuando falta conocimiento base → cerrar con experimento y seguimiento."
-  - "Interpretar autonomía, problemas resueltos sin escalamiento, conductas practicadas sin atribuir causalidad automática."
-  - "Resolver el caso de coaching y desarrollo cotidiano con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Definir coaching y distinguirlo de instrucción, consejo y feedback."
+  - "Conducir una conversación con el modelo GROW: meta, realidad, opciones y voluntad."
+  - "Formular preguntas abiertas y breves que promuevan el pensamiento propio."
+  - "Decidir cuándo corresponde coaching y cuándo no."
+  - "Integrar el coaching en el trabajo diario como hábito breve."
 deliverable: "people-decision-brief.md"
 references:
-  - "J. Richard Hackman — *Leading Teams*"
-  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
   - "John Whitmore — *Coaching for Performance*"
-  - "Liz Wiseman — *Multipliers*"
-  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+  - "Michael Bungay Stanier — *The Coaching Habit*"
+  - "Edgar H. Schein — *Humble Inquiry*"
+  - "Kim Scott — *Radical Candor*"
   - "Andrew S. Grove — *High Output Management*"
+  - "Liz Wiseman — *Multipliers*"
 limits:
-  - "Coaching no reemplaza feedback claro, formación técnica ni decisiones urgentes. El estilo debe responder a tarea, madurez y riesgo, no a una identidad de 'coach'."
+  - "GROW es un modelo de uso extendido en la práctica profesional, pero su evidencia de eficacia proviene de estudios con calidad variable, y depende de la relación y de la formación de quien lo conduce."
 evidence_signals:
-  - "autonomía"
-  - "problemas resueltos sin escalamiento"
-  - "conductas practicadas"
-  - "calidad de preguntas"
-  - "progreso de habilidad"
+  - "preguntas abiertas usadas"
+  - "paso de GROW alcanzado"
+  - "compromiso con plazo"
+  - "problemas traídos al jefe"

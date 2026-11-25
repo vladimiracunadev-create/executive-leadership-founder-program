@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **vulnerabilidad profesional** de **confianza** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **fiabilidad** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **benevolencia** con **reparación**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Cuáles son las cinco disfunciones de Lencioni?
+2. ¿Por qué la confianza es la base de la pirámide?
+3. ¿Qué diferencia hay entre confianza predictiva y confianza basada en vulnerabilidad?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una jefa admite que no entiende una decisión técnica y pide explicación. En reuniones anteriores castigó preguntas básicas, por lo que el equipo interpreta la apertura como una trampa.
+**Caso:** Un director de ingeniería con fama de brillante nunca ha admitido un error ante su equipo. Cuando algo falla, explica por qué «fue una circunstancia». Hace dos trimestres, un incidente grave se detectó tarde porque un ingeniero lo notó y «no quiso incomodar». Dos personas se fueron diciendo que «con él no se puede hablar». El director cree que sus resultados demuestran que su estilo funciona.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **modelar límites y errores desde liderazgo → pedir ayuda de forma concreta → cumplir compromisos pequeños → responder sin humillar a malas noticias → reparar rupturas con hechos y seguimiento**. Debes utilizar o diseñar cómo obtener **errores reportados temprano, peticiones de ayuda, compromisos cumplidos**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de construcción de confianza** que contenga: (a) el diagnóstico por nivel de la pirámide con evidencia; (b) las conductas del líder que cambiarás y cómo las harás visibles; (c) los ejercicios de equipo, voluntarios y relevantes; (d) cómo responderás cuando alguien se exponga; (e) cómo medirás el avance; (f) qué harías si una confidencia se usara en contra de alguien. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Vulnerabilidad sin confiabilidad no crea confianza. Compartir dudas y emociones no compensa incumplimientos, incompetencia o abuso; la seguridad se sostiene con conducta repetida.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: El modelo de Lencioni es una fábula de gestión, sin validación empírica independiente de su estructura de cinco niveles.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

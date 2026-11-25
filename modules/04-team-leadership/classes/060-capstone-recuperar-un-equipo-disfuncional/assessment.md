@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **disfunción** de **diagnóstico de equipo** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **estabilización** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **reset** con **turnaround**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Cuáles son las cinco condiciones habilitantes de Hackman?
+2. ¿Por qué se diagnostica antes de actuar?
+3. ¿Por qué la seguridad precede a la claridad en la secuencia?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Asumes un equipo de 14 personas con dos renuncias, un lanzamiento atrasado, conflicto entre seniors y una encuesta de seguridad psicológica en descenso.
+**Caso:** Una gerente nueva recibe el área de operaciones de una empresa de servicios: diez personas, dos jefes de turno enfrentados, una rotación del 40 % y un cliente importante amenazando con irse. La dirección espera mejoras en 90 días. Dos personas del equipo le dicen en privado que «el problema es el jefe de turno B», otras dos que «es el jefe A». Los indicadores de calidad empeoraron en los últimos cuatro trimestres. El director dice que «si no funciona, cambia a quien haga falta».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **observar síntomas y segmentar causas → proteger seguridad y continuidad → resetear propósito, roles y normas → intervenir capacidades o personas necesarias → medir 30-60-90 días**. Debes utilizar o diseñar cómo obtener **calidad y entrega, rotación, conflictos**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de recuperación de 90 días** que contenga: (a) el diagnóstico con las condiciones de Hackman, la pirámide y la seguridad psicológica, y qué evidencia buscarás; (b) la secuencia de recuperación con fechas; (c) cómo conducirás las entrevistas y la devolución al equipo; (d) cómo gestionarás el conflicto entre los jefes de turno y las acusaciones cruzadas; (e) los criterios y el proceso para una decisión de persona; (f) los indicadores, la ganancia temprana y la revisión; (g) cómo protegerás tu energía y la del equipo; (h) qué dirás al director. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **No todos los equipos se recuperan solo con coaching. Puede ser necesario cambiar estructura, prioridades, staffing o conductas incompatibles; evitar decisiones difíciles también es una decisión.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los modelos usados proceden de investigación y de consultoría con evidencia de calidad variable, y ningún diagnóstico es exhaustivo.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

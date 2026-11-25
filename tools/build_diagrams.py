@@ -30,10 +30,11 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(RAIZ / "tools"))
 import diagramas_clase  # noqa: E402
-import diagramas_parte02  # noqa: E402
-import diagramas_parte03  # noqa: E402
+import importlib  # noqa: E402
 
-DIAGRAMAS = {**diagramas_clase.DIAGRAMAS, **diagramas_parte02.DIAGRAMAS, **diagramas_parte03.DIAGRAMAS}
+DIAGRAMAS = dict(diagramas_clase.DIAGRAMAS)
+for _ruta in sorted((RAIZ / "tools").glob("diagramas_parte[0-9][0-9].py")):
+    DIAGRAMAS.update(importlib.import_module(_ruta.stem).DIAGRAMAS)
 
 INI = "<!-- modelo:inicio -->"
 FIN = "<!-- modelo:fin -->"

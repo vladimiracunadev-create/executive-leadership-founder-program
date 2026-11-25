@@ -5,222 +5,187 @@
 <!-- nav:fin -->
 
 **Parte:** 04 — Liderazgo de equipos  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Un one-on-one eficaz es una infraestructura de información y desarrollo, no un reporte de estado. Debe permitir discutir prioridades, bloqueos, relaciones, feedback, carrera y señales que no emergen en reuniones grupales. La agenda pertenece parcialmente al colaborador y se sostiene con cadencia.
+Un jefe que solo conversa con su equipo cuando hay un problema recibe la información tarde y mal: cuando ya es un incidente, cuando la persona ya decidió irse, cuando el conflicto ya estalló. La reunión **uno a uno** regular existe para lo contrario: crear un canal estable donde la información llegue pronto, donde el desarrollo se trate sin urgencia y donde el vínculo entre jefe y colaborador se construya con el tiempo.
 
-La salida de esta parte es **crear equipos con propósito, coordinación, confianza, aprendizaje y accountability**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **one-on-ones que producen información** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase se apoya en el argumento de Andrew Grove de que la reunión uno a uno es el instrumento principal de transferencia de conocimiento y de corrección entre jefe y colaborador, y en las ideas de Kim Scott sobre las conversaciones de cuidado y desafío. Al terminar sabrás estructurar una reunión uno a uno que produzca información útil, evitando que se convierta en un informe de estado.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `one-on-one`, `agenda compartida`, `signal`, `development thread`, `commitment` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. mantener cadencia estable → 2. recoger temas antes de la reunión → 3. escuchar antes de convertirlo en status → 4. tratar un tema de desarrollo → 5. registrar compromisos y volver a ellos** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** cancelaciones, ratio status versus desarrollo, temas repetidos sin cierre sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Explicar** el propósito de la reunión uno a uno y qué la distingue de un informe de estado.
+2. **Estructurar** una reunión con tres bloques: agenda de la persona, desempeño y desarrollo, y compromisos.
+3. **Formular** preguntas que obtengan información que el colaborador no ofrecería de otro modo.
+4. **Mantener** la regularidad y la confidencialidad que la sostienen.
+5. **Detectar** señales tempranas de desmotivación, conflicto o sobrecarga.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define one-on-one y agenda compartida sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con cancelaciones y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿con qué frecuencia conversas con cada persona de tu equipo sobre algo que no sea una tarea? |
+| 20–60 min | Propósito, estructura y preguntas. |
+| 60–105 min | Ejemplo trabajado: un uno a uno de treinta minutos. |
+| 105–140 min | Caso ejecutivo: un jefe que cancela los uno a uno. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **one-on-one** | reunión recurrente entre manager y colaborador orientada a relación, contexto y desarrollo | Distingue un hecho compatible y otro que lo refute. |
-| **agenda compartida** | temas aportados por ambas partes | Distingue un hecho compatible y otro que lo refute. |
-| **signal** | información temprana sobre carga, riesgo o motivación | Distingue un hecho compatible y otro que lo refute. |
-| **development thread** | tema de crecimiento que se sigue en el tiempo | Distingue un hecho compatible y otro que lo refute. |
-| **commitment** | acción acordada con owner y fecha | Distingue un hecho compatible y otro que lo refute. |
+| **Reunión uno a uno** | Conversación regular, a solas, entre un jefe y un colaborador (Grove, 1983). | Está en el calendario y no se cancela por urgencia. |
+| **Reunión del colaborador** | Principio según el cual la agenda y el uso del tiempo pertenecen principalmente a quien no es el jefe (Grove, 1983). | El colaborador lleva los temas. |
+| **Transferencia de conocimiento** | Intercambio de información, contexto y criterio entre jefe y colaborador. | Ambos salen sabiendo algo nuevo. |
+| **Señal temprana** | Indicio débil de un problema que aún no es visible. | Un comentario de cansancio o de falta de claridad. |
+| **Confidencialidad** | Compromiso de no usar lo conversado fuera del acuerdo. | Se dice qué se comparte y qué no. |
+| **Compromiso mutuo** | Acuerdos que obligan a ambos, jefe y colaborador. | El jefe también se compromete. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 055: 1. mantener cadencia estable → 2. recoger temas antes de la reunión → 3. escuchar antes de convertirlo en status → 4. tratar un tema de desarrollo → 5. registrar compromisos y volver a ellos](modelo-mental.svg)
+![Una reunión uno a uno que produce información: primero la agenda de la persona, luego desempeño y desarrollo, y al final los compromisos.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mantener cadencia estable → 2. recoger temas antes de la reunión → 3. escuchar antes de convertirlo en status → 4. tratar un tema de desarrollo → 5. registrar compromisos y volver a ellos
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un one-on-one eficaz es una infraestructura de información y desarrollo, no un reporte de estado. Debe permitir discutir prioridades, bloqueos, relaciones, feedback, carrera y señales que no emergen en reuniones grupales. La agenda pertenece parcialmente al colaborador y se sostiene con cadencia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Los one-on-ones no deben ser canales secretos para decisiones que afectan a otros. Mantén privacidad personal, pero documenta acuerdos operativos y usa procesos formales cuando corresponda.**
+**Cómo leer el diagrama.** Tres bloques con un orden deliberado: **primero**, lo que trae la persona; **después**, lo que el jefe necesita tratar sobre desempeño y desarrollo; **al final**, los compromisos. Esta secuencia protege lo más importante: la información del colaborador no queda desplazada por la agenda del jefe.
 
 ## 📖 Desarrollo
 
-### 1. one-on-one: mecanismo central
+### 1. Para qué sirve
 
-**one-on-one** se entiende aquí como **reunión recurrente entre manager y colaborador orientada a relación, contexto y desarrollo**. Esta es la pieza causal o estructural desde la que se inicia **one-on-ones que producen información**: antes de mantener cadencia estable, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Grove sostiene que la reunión uno a uno es el **principal vehículo** para que el jefe sepa lo que ocurre, y para que transfiera su contexto y criterio. Sus beneficios: detectar problemas antes, ajustar prioridades, desarrollar a la persona y construir la relación que permite decir cosas difíciles. No es una reunión de estado: el estado se informa por escrito o en otras reuniones. Si se usa para repasar tareas, desperdicia su valor.
 
-La lectura rectora de este bloque es J. Richard Hackman — *Leading Teams*. Su aporte se usa para examinar **condiciones de efectividad de equipos y diseño del trabajo colectivo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **cancelaciones**; regístrala con periodo, unidad, población y baseline.
+### 2. Una reunión del colaborador
 
-Relaciona el mecanismo con **agenda compartida**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Grove propone que la reunión **pertenece al colaborador**: él elige los temas y el jefe escucha, pregunta y ayuda. Esto invierte la dinámica habitual en que el jefe usa el tiempo para sus propios asuntos. El jefe puede agregar sus temas, pero en segundo lugar. Si el colaborador no trae temas, es información: puede no tener confianza o no saber para qué sirve.
 
-### 2. agenda compartida: frontera conceptual y error de clasificación
+### 3. La estructura
 
-**Definición operacional:** temas aportados por ambas partes. Su valor está en distinguirlo de **one-on-one** y **signal**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Una estructura que funciona, adaptada a una reunión de treinta a sesenta minutos: **1)** *Su agenda*: obstáculos, decisiones que necesita, dudas, preocupaciones. **2)** *Desempeño y desarrollo*: feedback concreto, lo que quiere aprender, cómo se siente con la carga, cómo avanza en su plan de desarrollo. **3)** *Compromisos*: qué hará cada uno hasta la próxima vez, incluido el jefe. Se registra en un documento compartido.
 
-Contrasta el problema con Patrick Lencioni — *The Five Dysfunctions of a Team*, que aporta una mirada sobre **confianza, conflicto, compromiso, accountability y resultados**. Formula dos mini-casos: uno que sí satisface la definición de **agenda compartida** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **ratio status versus desarrollo** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Preguntas que producen información
 
-Antes de recoger temas antes de la reunión, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Las preguntas generales («¿cómo va todo?») producen respuestas corteses. Funcionan mejor las concretas: «¿qué te está costando más esta semana?», «¿qué decisión te gustaría que yo tomara y no estoy tomando?», «¿qué estás haciendo que crees que no sirve?», «¿qué te gustaría aprender este trimestre?», «¿cómo te estoy ayudando u obstaculizando?». La última es la más reveladora y la que más cuesta preguntar, y exige no defenderse al responderla.
 
-### 3. signal: operacionalización y medición
+### 5. Cuidado y desafío
 
-**signal** significa **información temprana sobre carga, riesgo o motivación**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Las reuniones regulares crean la base para lo que Scott llama franqueza radical (clase 039): cuando hay una relación, es más fácil decir algo difícil sin que se perciba como ataque. Aprovecha el uno a uno para dar feedback oportuno (clase 030) y para reconocer lo logrado. Un uno a uno sin feedback es una conversación agradable; uno con solo feedback correctivo se vuelve temido.
 
-Michael Bungay Stanier — *The Coaching Habit* orienta este bloque mediante **perspectiva de Coaching aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **temas repetidos sin cierre**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Regularidad y confidencialidad
 
-Al llegar a escuchar antes de convertirlo en status, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La **regularidad** importa más que la duración: una reunión semanal o quincenal, siempre en el mismo horario, enseña que la persona es prioridad. Cancelarla por «urgencias» transmite lo contrario; si es inevitable, se reprograma. La **confidencialidad** es la otra condición: se acuerda qué se comparte y qué no. Usar lo dicho en un uno a uno contra la persona destruye la práctica.
 
-### 4. development thread: trade-offs y efectos de segundo orden
+### 7. Qué buscar y qué hacer
 
-**Definición:** tema de crecimiento que se sigue en el tiempo. Este concepto obliga a abandonar la idea de que **one-on-ones que producen información** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de tratar un tema de desarrollo, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Stanley McChrystal et al. — *Team of Teams* aporta una lente sobre **adaptabilidad, conciencia compartida y ejecución descentralizada**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **bloqueos detectados temprano** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **one-on-ones que producen información**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **development thread** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. commitment: gobernanza, límites e integración
-
-**commitment** se define como **acción acordada con owner y fecha** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Andrew S. Grove — *High Output Management* se utiliza para estudiar **output managerial, leverage, reuniones, indicadores y gestión por procesos** y contrastar la recomendación final. Al ejecutar registrar compromisos y volver a ellos, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Los one-on-ones no deben ser canales secretos para decisiones que afectan a otros. Mantén privacidad personal, pero documenta acuerdos operativos y usa procesos formales cuando corresponda.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **one-on-one**, **agenda compartida**, **signal**, **development thread** y **commitment** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **one-on-ones que producen información** no consiste en sumar cinco definiciones. Empieza por **one-on-one**, contrasta **agenda compartida** con **signal**, incorpora **development thread** como restricción o mecanismo y usa **commitment** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mantener cadencia estable → 2. recoger temas antes de la reunión → 3. escuchar antes de convertirlo en status → 4. tratar un tema de desarrollo → 5. registrar compromisos y volver a ellos**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Con el tiempo, el jefe aprende a ver patrones: temas que se repiten, cambios de ánimo, caída en la energía, conflictos con un par, falta de claridad sobre prioridades. Esas señales tempranas permiten actuar: ajustar la carga, aclarar un rol, mediar un conflicto, ofrecer desarrollo. Y se cierra el circuito: lo que se dijo que se haría, se hace, y se informa. Si no hay respuesta a lo que la persona plantea, el canal se seca.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| J. Richard Hackman — *Leading Teams* | condiciones de efectividad de equipos y diseño del trabajo colectivo | ¿Qué supuesto de **one-on-ones que producen información** ayuda a desafiar? |
-| Patrick Lencioni — *The Five Dysfunctions of a Team* | confianza, conflicto, compromiso, accountability y resultados | ¿Qué supuesto de **one-on-ones que producen información** ayuda a desafiar? |
-| Michael Bungay Stanier — *The Coaching Habit* | perspectiva de Coaching aplicada al problema de la clase | ¿Qué supuesto de **one-on-ones que producen información** ayuda a desafiar? |
-| Stanley McChrystal et al. — *Team of Teams* | adaptabilidad, conciencia compartida y ejecución descentralizada | ¿Qué supuesto de **one-on-ones que producen información** ayuda a desafiar? |
-| Andrew S. Grove — *High Output Management* | output managerial, leverage, reuniones, indicadores y gestión por procesos | ¿Qué supuesto de **one-on-ones que producen información** ayuda a desafiar? |
-
-En **one-on-ones que producen información**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **one-on-one**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Grove (1983) | El propósito y la lógica de la reunión uno a uno. | Escrita en otro contexto. | ¿De quién es la agenda en tu uno a uno? |
+| Scott (2017) | Cuidado personal y desafío directo. | Es un marco práctico. | ¿Qué feedback evitas en tus uno a uno? |
+| Bungay Stanier (2016) | Preguntas breves. | Es divulgación. | ¿Qué pregunta incómoda no haces? |
+| Edmondson (2018) | Seguridad psicológica como condición. | No describe la reunión. | ¿Puede decirte la persona algo que no quieres oír? |
+| Stone y Heen (2014) | Recibir feedback del colaborador. | No trata de la estructura. | ¿Cómo reaccionas a lo que te dicen de ti? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una gerente cancela one-on-ones cuando hay mucho trabajo, precisamente cuando aumentan carga y conflictos. Las conversaciones terminan ocurriendo solo después de problemas visibles.
+**Situación (hipotética).** Una jefa, Lorena, tiene un uno a uno quincenal de cuarenta minutos con Pablo, analista con seis meses en el equipo. Ha notado que últimamente entrega más tarde.
 
-**Paso 1 — mantener cadencia estable.** La gerencia escribe primero el supuesto asociado a **one-on-one** y evita convertirlo en hecho. Luego busca **cancelaciones** para contrastarlo en el caso de **one-on-ones que producen información**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Bloque | Lo que ocurre |
+|---|---|
+| **Su agenda (15 min)** | Lorena pregunta: «¿Qué te está costando más estos días?». Pablo dice que las prioridades cambian dos veces por semana y no sabe qué es urgente. |
+| **Desempeño y desarrollo (15 min)** | Lorena da un feedback concreto: «Los dos últimos informes llegaron con un día de atraso, y eso retrasó al área comercial». Pregunta cómo se siente con la carga. Pablo dice que le gustaría aprender a presentar. Ella pregunta: «¿Cómo te estoy ayudando u obstaculizando?». Pablo menciona que los cambios de prioridad llegan por tres canales distintos. |
+| **Compromisos (10 min)** | Lorena: definir un único canal para prioridades y compartir cada lunes la lista. Pablo: avisar el mismo día cuando vea un riesgo de atraso. Lorena: buscarle una oportunidad para presentar un informe el próximo mes. |
 
-**Paso 2 — recoger temas antes de la reunión.** La gerencia escribe primero el supuesto asociado a **agenda compartida** y evita convertirlo en hecho. Luego busca **ratio status versus desarrollo** para contrastarlo en el caso de **one-on-ones que producen información**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Qué obtuvo Lorena.** Información que no tenía: el atraso nacía de cambios de prioridad por varios canales, un problema suyo y de otros jefes. Una intervención de feedback sobre «entregar a tiempo» habría errado.
 
-**Paso 3 — escuchar antes de convertirlo en status.** La gerencia escribe primero el supuesto asociado a **signal** y evita convertirlo en hecho. Luego busca **temas repetidos sin cierre** para contrastarlo en el caso de **one-on-ones que producen información**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — tratar un tema de desarrollo.** La gerencia escribe primero el supuesto asociado a **development thread** y evita convertirlo en hecho. Luego busca **bloqueos detectados temprano** para contrastarlo en el caso de **one-on-ones que producen información**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — registrar compromisos y volver a ellos.** La gerencia escribe primero el supuesto asociado a **commitment** y evita convertirlo en hecho. Luego busca **acciones de carrera** para contrastarlo en el caso de **one-on-ones que producen información**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **one-on-ones que producen información**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Empezar por la agenda de Pablo reveló la causa. (2) La pregunta sobre cómo ayuda u obstaculiza fue la más informativa. (3) Los compromisos incluyen al jefe.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **one-on-one** | reunión recurrente entre manager y colaborador orientada a relación, contexto y desarrollo | Cuando cancelaciones es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **agenda compartida** | temas aportados por ambas partes | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Uno a uno frente a evaluación de desempeño.** La evaluación es periódica, formal y evalúa; el uno a uno es frecuente, informal y conversa. Mezclarlos lo hace temido.
 
-**Frontera de aplicación:** Los one-on-ones no deben ser canales secretos para decisiones que afectan a otros. Mantén privacidad personal, pero documenta acuerdos operativos y usa procesos formales cuando corresponda.
+**Límites.** Las recomendaciones de Grove provienen de su experiencia en gestión y no de estudios sistemáticos; la frecuencia ideal depende del rol y de la madurez de la persona. En equipos grandes, un uno a uno con todos puede no ser viable y exige estructuras como jefes de equipo. Y la reunión no reemplaza la conversación sobre temas serios (acoso, desempeño crítico), que siguen protocolos propios.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre one-on-ones que producen información |
+| Nivel | Cómo usa el uno a uno |
 |---|---|
-| **Profesional** | usa **one-on-ones que producen información** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **one-on-one** y **agenda compartida** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta cancelaciones con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si one-on-ones que producen información cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de one-on-ones que producen información reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **one-on-ones que producen información** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Lleva temas a su jefe y pide feedback. |
+| **Jefe / Team Lead** | Tiene uno a uno regulares y aprende de ellos. |
+| **Gerente** | Exige uno a uno a sus jefes y los usa para ver su sistema. |
+| **CEO / Director** | Mantiene uno a uno con su equipo directivo y con personas clave más abajo. |
+| **Founder / Owner** | Sostiene la regularidad aunque el negocio lo absorba. |
 
 ## 🏢 Caso ejecutivo
 
-Una gerente cancela one-on-ones cuando hay mucho trabajo, precisamente cuando aumentan carga y conflictos. Las conversaciones terminan ocurriendo solo después de problemas visibles.
+Un gerente de ventas tiene doce personas a cargo y cancela los uno a uno «porque siempre hay algo urgente». Los vendedores saben que no se reúne con ellos desde hace dos meses; tres de ellos recibieron ofertas de otras empresas. La rotación subió. Él dice que «los resultados están bien» y que «si hay algo, me avisan». Hoy lo llama la directora para preguntar por la salida de un vendedor clave que él no sabía que estaba insatisfecho.
 
-Entrega un **decision brief de one-on-ones que producen información** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de uno a uno** que contenga: (a) la frecuencia, duración y formato; (b) la estructura de tres bloques y las preguntas; (c) cómo darás feedback en esa reunión; (d) cómo registrarás y cumplirás los compromisos; (e) cómo cuidarás la confidencialidad; (f) cómo harás viable la práctica con doce personas.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **one-on-ones que producen información** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mantener cadencia estable → 2. recoger temas antes de la reunión → 3. escuchar antes de convertirlo en status → 4. tratar un tema de desarrollo → 5. registrar compromisos y volver a ellos** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta cancelaciones, ratio status versus desarrollo; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Agenda un uno a uno regular con cada persona de tu equipo para el próximo mes.
+2. Prepara cinco preguntas concretas y descarta tres genéricas.
+3. Pregunta a una persona «¿cómo te estoy ayudando u obstaculizando?» y resume sin defenderte.
+4. Registra los compromisos de ambos y verifica su cumplimiento.
+5. Identifica una señal temprana que hayas ignorado y qué habría cambiado.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar one-on-one y agenda compartida como sinónimos | Se pierde la distinción entre “reunión recurrente entre manager y colaborador orientada a relación, contexto y desarrollo” y “temas aportados por ambas partes” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “registrar compromisos y volver a ellos” | Se saltó “mantener cadencia estable” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mantener cadencia estable → 2. recoger temas antes de la reunión → 3. escuchar antes de convertirlo en status → 4. tratar un tema de desarrollo → 5. registrar compromisos y volver a ellos y marca el primer supuesto no demostrado. |
-| Optimizar solo cancelaciones | La métrica local sustituyó al resultado del sistema | Contrástala con ratio status versus desarrollo y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre one-on-ones que producen información | Los one-on-ones no deben ser canales secretos para decisiones que afectan a otros. Mantén privacidad personal, pero documenta acuerdos operativos y usa procesos formales cuando corresponda. |
-| No fijar revisión | Una decisión sobre one-on-ones que producen información se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Convertirlo en informe de estado | Es más cómodo | Dejar el estado por escrito. |
+| Cancelarlo | Urgencias | Reprogramarlo y protegerlo. |
+| Que hable solo el jefe | Se usa para sus asuntos | Empezar por la agenda de la persona. |
+| Sin compromisos | Se queda en la charla | Cerrar con acciones de ambos. |
+| Usar lo dicho en contra | Se rompe la confianza | Acordar confidencialidad y respetarla. |
+| No responder a lo planteado | Se olvida | Registrar y cerrar el circuito. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **one-on-one** y **agenda compartida** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **signal** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mantener cadencia estable → recoger temas antes de la reunión** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **cancelaciones** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **one-on-ones que producen información**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Los one-on-ones no deben ser canales secretos para decisiones que afectan a otros. Mantén privacidad personal, pero documenta acuerdos operativos y usa procesos formales cuando corresponda.**?
+1. ¿Qué dice Grove sobre el propósito de la reunión uno a uno?
+2. ¿Por qué la reunión es «del colaborador»?
+3. ¿Cuáles son los tres bloques de la estructura propuesta?
+4. Nombra tres preguntas que producen más información que «¿cómo va todo?».
+5. ¿Por qué importa más la regularidad que la duración?
+6. ¿Qué haces con las señales tempranas?
+7. ¿Qué límite tienen las recomendaciones de Grove?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Que es el principal vehículo de transferencia de conocimiento y corrección entre jefe y colaborador, y de detección temprana de problemas.
+2. Porque el colaborador elige los temas y el jefe escucha y ayuda; invierte la dinámica en que el jefe usa el tiempo para lo suyo.
+3. Su agenda, desempeño y desarrollo, y compromisos.
+4. Por ejemplo: «¿Qué te está costando más esta semana?», «¿Cómo te estoy ayudando u obstaculizando?», «¿Qué te gustaría aprender este trimestre?».
+5. Porque una reunión regular enseña que la persona es prioridad; cancelarla transmite lo contrario.
+6. Actuar: ajustar la carga, aclarar roles, mediar, ofrecer desarrollo, y cerrar el circuito.
+7. Provienen de la experiencia en gestión y no de estudios sistemáticos; la frecuencia ideal depende del rol y de la persona.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/055-one-on-ones-que-producen-informacion/`:
 
-- `leadership-decision-brief.md` con el problema específico de **one-on-ones que producen información**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **one-on-ones que producen información** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **one-on-one**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una gerente cancela one-on-ones cuando hay mucho trabajo, precisamente cuando aumentan carga y conflictos. Las conversaciones terminan ocurriendo solo después de problemas visibles.** y el dato que podría invalidar la recomendación.
+- `one-on-one.md` (plantilla [One-on-one](../../../../templates/one-on-one.md)) con la estructura y un registro del caso;
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan del caso ejecutivo;
+- `decision-journal.md` con las señales tempranas y los compromisos.
 
 ## 📗 Fuentes y verificación
 
-- J. Richard Hackman — *Leading Teams* (Harvard Business School Press, 2002). **Uso en esta clase:** condiciones de efectividad de equipos y diseño del trabajo colectivo. Lectura selectiva sobre **one-on-ones que producen información**. **Localizador:** [ISBN-13 9781578513338](https://openlibrary.org/isbn/9781578513338).
-- Patrick Lencioni — *The Five Dysfunctions of a Team* (Pfeiffer, 2012). **Uso en esta clase:** confianza, conflicto, compromiso, accountability y resultados. Lectura selectiva sobre **one-on-ones que producen información**. **Localizador:** [ISBN-13 9781118127308](https://openlibrary.org/isbn/9781118127308).
-- Michael Bungay Stanier — *The Coaching Habit* (Page Two/Portfolio/Canongate Books/Simon & Schuster UK, 2016). **Uso en esta clase:** perspectiva de Coaching aplicada al problema de la clase. Lectura selectiva sobre **one-on-ones que producen información**. **Localizador:** [ISBN-13 9780978440749](https://openlibrary.org/isbn/9780978440749).
-- Stanley McChrystal et al. — *Team of Teams* (Penguin Books, Limited, 2015). **Uso en esta clase:** adaptabilidad, conciencia compartida y ejecución descentralizada. Lectura selectiva sobre **one-on-ones que producen información**. **Localizador:** [ISBN-13 9780241250846](https://openlibrary.org/isbn/9780241250846).
-- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** output managerial, leverage, reuniones, indicadores y gestión por procesos. Lectura selectiva sobre **one-on-ones que producen información**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
-- Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams* (McGraw-Hill, 2005). **Uso en esta clase:** propósito compartido, habilidades complementarias y responsabilidad mutua. Lectura selectiva sobre **one-on-ones que producen información**. **Localizador:** [ISBN-13 9780077111687](https://openlibrary.org/isbn/9780077111687).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **one-on-ones que producen información** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **one-on-ones que producen información**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **one-on-ones que producen información** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **one-on-ones que producen información** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **one-on-ones que producen información** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** propósito y lógica de la reunión uno a uno. Lectura selectiva sobre **one-on-ones que producen información**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
+- Kim Scott — *Radical Candor* (PAN MACMILLAN U.K, 2017). **Uso en esta clase:** cuidado personal y desafío directo en la relación. Lectura selectiva sobre **one-on-ones que producen información**. **Localizador:** [ISBN-13 9781509845385](https://openlibrary.org/isbn/9781509845385).
+- Michael Bungay Stanier — *The Coaching Habit* (Page Two/Portfolio/Canongate Books/Simon & Schuster UK, 2016). **Uso en esta clase:** preguntas breves que producen información. Lectura selectiva sobre **one-on-ones que producen información**. **Localizador:** [ISBN-13 9780978440749](https://openlibrary.org/isbn/9780978440749).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica como condición de la conversación. Lectura selectiva sobre **one-on-ones que producen información**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
+- Douglas Stone & Sheila Heen — *Thanks for the Feedback* (Viking, 2014). **Uso en esta clase:** recibir feedback del colaborador. Lectura selectiva sobre **one-on-ones que producen información**. **Localizador:** [ISBN-13 9780670014668](https://openlibrary.org/isbn/9780670014668).
 
-> **Regla de fuentes para One-on-ones que producen información:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **one-on-ones que producen información** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para One-on-ones que producen información:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

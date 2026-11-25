@@ -1,65 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g56 d-g56" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g56">Ficha visual de la clase 056: Reuniones que deciden</title>
-<desc id="d-g56">Conceptos: reunión informativa; reunión de decisión; pre-read; facilitador; decision log. Método: clasificar propósito antes de convocar → enviar pre-read con pregunta → definir decisor y participantes → facilitar discusión y cerrar → registrar decisión y acciones.</desc>
-<defs><marker id="p-g56" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 056 · Reuniones que deciden</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 04 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >reunión informativa</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >espacio cuyo fin principal es transmitir contexto</text>
-<circle cx="38" cy="170" r="5" fill="#0969da"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >reunión de decisión</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >espacio que culmina con una elección legítima</text>
-<circle cx="38" cy="228" r="5" fill="#0969da"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >pre-read</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >material consumido antes para reservar tiempo a</text>
-<text x="54" y="267.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >discusión</text>
-<circle cx="38" cy="300.12" r="5" fill="#0969da"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >facilitador</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >rol que protege proceso y participación</text>
-<circle cx="38" cy="358.12" r="5" fill="#0969da"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >decision log</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >registro de decisión, razón, owner y fecha</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#0969da" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#0969da"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >clasificar propósito antes de convocar</text>
-<circle cx="485" cy="176" r="14" fill="#0969da"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >enviar pre-read con pregunta</text>
-<circle cx="485" cy="230" r="14" fill="#0969da"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >definir decisor y participantes</text>
-<circle cx="485" cy="284" r="14" fill="#0969da"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >facilitar discusión y cerrar</text>
-<circle cx="485" cy="338" r="14" fill="#0969da"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >registrar decisión y acciones</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >horas de reunión</text>
-<rect x="174.4" y="442.12" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="187.4" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="198.4" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decisiones por reunión</text>
-<rect x="362.2" y="442.12" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="375.2" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="386.2" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >pre-reads leídos</text>
-<rect x="508.6" y="442.12" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="521.6" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="532.6" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >acciones sin owner</text>
-<rect x="668.8" y="442.12" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="681.8" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="692.8" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >temas reabiertos</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No todas las reuniones deben producir una decisión. Creatividad, aprendizaje y construcción de relaciones son fines legítimos; el</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >problema es no declarar qué tipo de reunión se está diseñando.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 456.06" width="1040" role="img" aria-labelledby="t-s56 d-s56" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s56">Clase 056 · Qué tipo de reunión es</title>
+<desc id="d-s56">Cuadrante según si la reunión requiere interacción y si debe producir una decisión: informar, coordinar, decidir y pensar juntos.</desc>
+<defs><marker id="p-s56" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="456.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 056 · Qué tipo de reunión es</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Rogelberg (2019) · Lencioni (2004)</text>
+<text x="362.5" y="100" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle" >Solo comunicar</text>
+<text x="799.5" y="100" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle" >Requiere conversación</text>
+<text transform="translate(120,160.25) rotate(-90)" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle">Explorar</text>
+<text transform="translate(120,268.75) rotate(-90)" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle">Producir una decisión</text>
+<rect x="150" y="112" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<rect x="150.0" y="112.0" width="425.0" height="34" rx="12" fill="#8250df"/>
+<text x="166" y="135" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Pensar juntos</text>
+<text x="166" y="170" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Explorar un problema abierto: sin decisión, con tiempo y</text>
+<text x="166" y="187.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >preguntas. No se mezcla con una decisión.</text>
+<rect x="587" y="112" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="587.0" y="112.0" width="425.0" height="34" rx="12" fill="#1a7f37"/>
+<text x="603" y="135" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Decidir</text>
+<text x="603" y="170" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Alternativas, criterio y responsable: se sale con una</text>
+<text x="603" y="187.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decisión y su dueño.</text>
+<rect x="150" y="220.5" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<rect x="150.0" y="220.5" width="425.0" height="34" rx="12" fill="#59636e"/>
+<text x="166" y="243.5" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Informar</text>
+<text x="166" y="278.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un dato sin discusión: mejor por escrito. Si hay una</text>
+<text x="166" y="295.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >reunión, que sea breve.</text>
+<rect x="587" y="220.5" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="587.0" y="220.5" width="425.0" height="34" rx="12" fill="#0969da"/>
+<text x="603" y="243.5" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Coordinar</text>
+<text x="603" y="278.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Alinear tareas y dependencias en poco tiempo con quien</text>
+<text x="603" y="295.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >las necesita.</text>
+<rect x="28" y="329" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="351" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Lencioni propone distinguir tipos de reunión con agendas distintas en lugar de una sola reunión que lo mezcle todo. Rogelberg encuentra</text>
+<text x="44" y="368.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >que las reuniones bien diseñadas dependen de propósito, participantes y seguimiento.</text>
+<text x="28" y="415.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Es una clasificación didáctica; muchas reuniones combinan propósitos y conviene separarlos en el tiempo.</text>
 </svg>

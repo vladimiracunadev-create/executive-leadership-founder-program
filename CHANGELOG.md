@@ -39,6 +39,11 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 04 completa** (049–060): equipo real (Katzenbach y Smith; Hackman), propósito
+  y metas (Locke y Latham), roles (Rizzo et al.), confianza (Lencioni), delegación
+  (Grove), coaching (Whitmore), uno a uno, reuniones (Rogelberg), reconocimiento,
+  rendición de cuentas, equipos distribuidos (Cramton; Hinds y Bailey) y el
+  capstone de recuperación de un equipo, con diagramas a medida.
 - **La parte 03 completa también** (037–048): autoconciencia (Goleman), regulación (Gross),
   empatía y exigencia (Scott), motivación (Ryan y Deci), resiliencia (Masten y
   Bonanno), seguridad psicológica (Edmondson), técnico y adaptativo (Heifetz),

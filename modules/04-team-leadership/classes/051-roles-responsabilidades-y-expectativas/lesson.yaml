@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir rol de responsabilidad mediante evidencia observable."
-  - "Aplicar la secuencia: definir outcomes del rol → separar responsabilidades recurrentes de proyectos → asignar autoridad y límites → mapear interfaces y handoffs → validar expectativas con la persona."
-  - "Interpretar decisiones escaladas innecesariamente, duplicidad de trabajo, huecos de responsabilidad sin atribuir causalidad automática."
-  - "Resolver el caso de roles, responsabilidades y expectativas con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Definir rol, responsabilidad y expectativa, y distinguirlos de cargo."
+  - "Distinguir ambigüedad de rol y conflicto de rol, y sus efectos."
+  - "Construir una matriz de responsabilidades con una sola persona que decide."
+  - "Conducir una conversación de expectativas con una persona o con el equipo."
+  - "Detectar señales de roles confusos: duplicación, vacíos y conflictos entre pares."
 deliverable: "leadership-decision-brief.md"
 references:
+  - "John R. Rizzo, Robert J. House & Sidney I. Lirtzman — *Role Conflict and Ambiguity in Complex Organizations*"
   - "J. Richard Hackman — *Leading Teams*"
-  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
   - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
-  - "John Whitmore — *Coaching for Performance*"
-  - "Patrick Lencioni — *Death by Meeting*"
+  - "Andrew S. Grove — *High Output Management*"
   - "Stanley McChrystal et al. — *Team of Teams*"
 limits:
-  - "Claridad de roles no debe congelar colaboración. En entornos dinámicos algunas responsabilidades cambian; el marco debe permitir negociar fronteras sin volver a la ambigüedad total."
+  - "Los estudios de Rizzo et al."
 evidence_signals:
-  - "decisiones escaladas innecesariamente"
-  - "duplicidad de trabajo"
-  - "huecos de responsabilidad"
-  - "retrabajo en handoffs"
-  - "claridad en evaluación"
+  - "una sola persona decide cada fila"
+  - "ambigüedad y conflicto de rol detectados"
+  - "expectativas dichas con resultado y revisión"
+  - "roles revisados ante cambios"

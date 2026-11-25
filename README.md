@@ -281,7 +281,7 @@ usarse.
 
 | 📚 Obras registradas | 📎 Citas en clase | ✅ Con localizador comprobado | 🕓 Pendientes | 🏛️ Organismos | 📘 Clases |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **237** | **3042** | **231** | **6** | **37** | **288** |
+| **242** | **2971** | **236** | **6** | **38** | **288** |
 
 **Cobertura del registro: 100.0 %** — de todas las obras que las
 288 clases citan, esa proporción tiene entrada propia. De ellas,
@@ -297,16 +297,16 @@ y con su enlace, está en [docs/FUENTES.md](docs/FUENTES.md).**
 
 | Autor o emisor | Obra | Localizador | Clases |
 |---|---|---|---:|
-| Anders Ericsson & Robert Pool | *Peak* | [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143) | 261 |
-| Grant Wiggins & Jay McTighe | *Understanding by Design* | [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849) | 261 |
-| Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel | *Make It Stick* | [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572) | 261 |
-| Susan A. Ambrose et al. | *How Learning Works* | [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601) | 261 |
-| William Ellet | *The Case Study Handbook* | [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150) | 261 |
+| Anders Ericsson & Robert Pool | *Peak* | [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143) | 249 |
+| Grant Wiggins & Jay McTighe | *Understanding by Design* | [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849) | 249 |
+| Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel | *Make It Stick* | [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572) | 249 |
+| Susan A. Ambrose et al. | *How Learning Works* | [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601) | 249 |
+| William Ellet | *The Case Study Handbook* | [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150) | 249 |
 | Peter F. Drucker | *Management: Tasks, Responsibilities, Practices* | [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925) | 51 |
-| Peter F. Drucker | *The Effective Executive* | [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079) | 36 |
+| Peter F. Drucker | *The Effective Executive* | [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079) | 37 |
 | Tim Koller, Marc Goedhart & David Wessels | *Valuation: Measuring and Managing the Value of Companies* | [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191) | 29 |
 | OECD | *G20/OECD Principles of Corporate Governance 2023* | [www.oecd.org](https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html) | 27 |
-| Andrew S. Grove | *High Output Management* | [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349) | 26 |
+| Andrew S. Grove | *High Output Management* | [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349) | 25 |
 
 <!-- registro-de-fuentes:fin -->
 

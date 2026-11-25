@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir remote-first de asincronía mediante evidencia observable."
-  - "Aplicar la secuencia: clasificar trabajo síncrono y asíncrono → definir fuente de verdad documental → establecer overlap y tiempos de respuesta → diseñar reuniones inclusivas → medir acceso y oportunidades sin proximity bias."
-  - "Interpretar decisiones documentadas, tiempo de respuesta, participación remota sin atribuir causalidad automática."
-  - "Resolver el caso de equipos híbridos y distribuidos con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Explicar el problema del conocimiento mutuo y sus consecuencias en la colaboración."
+  - "Describir cómo la distancia genera conflicto por falta de información y atribuciones."
+  - "Diagnosticar qué problema de distancia afecta a un equipo."
+  - "Diseñar acuerdos de comunicación, reunión y registro para equipos distribuidos e híbridos."
+  - "Asegurar equidad entre quienes están en remoto y quienes están en la oficina."
 deliverable: "people-decision-brief.md"
 references:
+  - "Catherine Durnell Cramton — *The Mutual Knowledge Problem and Its Consequences for Dispersed Collaboration*"
+  - "Pamela J. Hinds & Diane E. Bailey — *Out of Sight, Out of Sync: Understanding Conflict in Distributed Teams*"
   - "J. Richard Hackman — *Leading Teams*"
-  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
-  - "Andrew S. Grove — *High Output Management*"
-  - "John Whitmore — *Coaching for Performance*"
-  - "Patrick Lencioni — *Death by Meeting*"
-  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+  - "Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams*"
+  - "Stanley McChrystal et al. — *Team of Teams*"
 limits:
-  - "Remote-first no implica que toda interacción deba ser asíncrona. Conflictos, creatividad compleja y vínculos pueden beneficiarse de alta riqueza; el diseño elige intencionalmente."
+  - "Las investigaciones de Cramton y de Hinds y Bailey describen equipos de principios de los años 2000, con tecnologías y normas muy distintas; sus mecanismos siguen siendo útiles, pero sus recomendaciones concretas deben revisarse con evidencia más reciente."
 evidence_signals:
-  - "decisiones documentadas"
-  - "tiempo de respuesta"
-  - "participación remota"
-  - "promociones por modalidad"
-  - "reuniones fuera de horario"
+  - "acuerdos de comunicación escritos"
+  - "equidad en reuniones híbridas"
+  - "decisiones registradas"
+  - "contexto compartido semanalmente"

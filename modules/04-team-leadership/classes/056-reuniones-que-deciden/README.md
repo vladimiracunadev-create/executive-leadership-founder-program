@@ -5,222 +5,189 @@
 <!-- nav:fin -->
 
 **Parte:** 04 — Liderazgo de equipos  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Una reunión que decide tiene propósito, preparación, roles, regla de decisión y cierre. Si el objetivo es informar, puede existir un medio asincrónico mejor; si es debatir, debe llegar con material previo. La disciplina central es separar discusión de decisión y registrar quién hace qué después.
+Las reuniones son el lugar donde un equipo gasta buena parte de su tiempo y el que más se critica: se dice que son demasiado largas, demasiado numerosas y que no terminan en nada. La crítica suele ser cierta y la causa, casi siempre, la misma: **se convoca a una reunión sin saber qué debe producir**. Una reunión es una herramienta; antes de usarla hay que preguntarse si es la herramienta adecuada y, si lo es, para qué tipo de trabajo.
 
-La salida de esta parte es **crear equipos con propósito, coordinación, confianza, aprendizaje y accountability**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **reuniones que deciden** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa el análisis de Steven Rogelberg sobre la ciencia de las reuniones y la propuesta de Patrick Lencioni de distinguir tipos de reunión con agendas distintas. Al terminar sabrás decidir cuándo una reunión es necesaria, qué tipo de reunión convocar, cómo conducirla para que termine con una decisión y cómo hacer seguimiento.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `reunión informativa`, `reunión de decisión`, `pre-read`, `facilitador`, `decision log` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. clasificar propósito antes de convocar → 2. enviar pre-read con pregunta → 3. definir decisor y participantes → 4. facilitar discusión y cerrar → 5. registrar decisión y acciones** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** horas de reunión, decisiones por reunión, pre-reads leídos sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Decidir** si una reunión es necesaria o si existe un medio mejor.
+2. **Clasificar** una reunión como informativa, de coordinación, de decisión o de exploración.
+3. **Diseñar** una reunión de decisión: propósito, participantes, agenda, criterios y responsable.
+4. **Conducirla** de modo que termine con una decisión registrada.
+5. **Medir** y mejorar las reuniones de un equipo.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define reunión informativa y reunión de decisión sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con horas de reunión y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: toma tu agenda de la semana pasada y clasifica cada reunión según su tipo y si produjo algo. |
+| 20–60 min | Tipos de reunión y principios de diseño. |
+| 60–105 min | Ejemplo trabajado: rediseñar una reunión semanal de equipo. |
+| 105–140 min | Caso ejecutivo: un comité que se reúne sin decidir. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **reunión informativa** | espacio cuyo fin principal es transmitir contexto | Distingue un hecho compatible y otro que lo refute. |
-| **reunión de decisión** | espacio que culmina con una elección legítima | Distingue un hecho compatible y otro que lo refute. |
-| **pre-read** | material consumido antes para reservar tiempo a discusión | Distingue un hecho compatible y otro que lo refute. |
-| **facilitador** | rol que protege proceso y participación | Distingue un hecho compatible y otro que lo refute. |
-| **decision log** | registro de decisión, razón, owner y fecha | Distingue un hecho compatible y otro que lo refute. |
+| **Reunión de decisión** | Reunión cuyo propósito es llegar a una decisión con responsable (criterio de la clase). | Termina con una decisión escrita. |
+| **Reunión de coordinación** | Reunión breve para alinear tareas y dependencias. | Participan quienes dependen unos de otros. |
+| **Reunión informativa** | Reunión para comunicar sin necesidad de discusión. | Casi siempre puede reemplazarse por un mensaje. |
+| **Reunión de exploración** | Reunión para pensar juntos un problema abierto, sin decidir. | Se declara que no habrá decisión. |
+| **Propósito de la reunión** | Resultado que debe producir (Rogelberg, 2019). | Se puede formular en una frase. |
+| **Seguimiento** | Registro de decisiones y acciones con responsable y plazo. | Las acciones se revisan en la reunión siguiente. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 056: 1. clasificar propósito antes de convocar → 2. enviar pre-read con pregunta → 3. definir decisor y participantes → 4. facilitar discusión y cerrar → 5. registrar decisión y acciones](modelo-mental.svg)
+![Qué tipo de reunión es: un cuadrante según si debe producir una decisión y si requiere conversación, con zonas de informar, coordinar, decidir y pensar juntos.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. clasificar propósito antes de convocar → 2. enviar pre-read con pregunta → 3. definir decisor y participantes → 4. facilitar discusión y cerrar → 5. registrar decisión y acciones
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Una reunión que decide tiene propósito, preparación, roles, regla de decisión y cierre. Si el objetivo es informar, puede existir un medio asincrónico mejor; si es debatir, debe llegar con material previo. La disciplina central es separar discusión de decisión y registrar quién hace qué después.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todas las reuniones deben producir una decisión. Creatividad, aprendizaje y construcción de relaciones son fines legítimos; el problema es no declarar qué tipo de reunión se está diseñando.**
+**Cómo leer el diagrama.** Dos preguntas ordenan el diseño: ¿debe producir una decisión? y ¿requiere conversación? Una reunión que solo comunica puede ser un mensaje. Una que debe decidir necesita alternativas, criterio y responsable. Una que explora no decide. Mezclar los propósitos en una misma sesión es la causa frecuente de reuniones largas y sin resultado.
 
 ## 📖 Desarrollo
 
-### 1. reunión informativa: mecanismo central
+### 1. ¿Hace falta una reunión?
 
-**reunión informativa** se entiende aquí como **espacio cuyo fin principal es transmitir contexto**. Esta es la pieza causal o estructural desde la que se inicia **reuniones que deciden**: antes de clasificar propósito antes de convocar, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Antes de convocar, pregunta si existe un medio mejor. Para **informar**, suele bastar un mensaje o documento. Para **consultar a una persona**, una conversación breve. Para **coordinar a dos**, una llamada. La reunión se justifica cuando se necesita la **interacción simultánea** de varias personas: discutir alternativas, resolver desacuerdos, construir algo juntos o alinear a un grupo. Convocar por inercia o por no saber qué hacer es una de las causas principales de reuniones inútiles.
 
-La lectura rectora de este bloque es J. Richard Hackman — *Leading Teams*. Su aporte se usa para examinar **condiciones de efectividad de equipos y diseño del trabajo colectivo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **horas de reunión**; regístrala con periodo, unidad, población y baseline.
+### 2. Cuatro tipos
 
-Relaciona el mecanismo con **reunión de decisión**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Una clasificación didáctica, cercana a la de Lencioni, que propone tipos de reunión con agendas diferenciadas. La **informativa** comunica datos. La de **coordinación** alinea tareas, de forma breve y con quienes dependen entre sí. La de **decisión** examina alternativas y termina con una decisión y un responsable. La de **exploración** piensa un problema abierto, sin decidir. Cada una pide una duración, una preparación y unos participantes distintos. Combinar propósitos en una sola reunión hace que ninguno se cumpla bien.
 
-### 2. reunión de decisión: frontera conceptual y error de clasificación
+### 3. Diseñar una reunión de decisión
 
-**Definición operacional:** espacio que culmina con una elección legítima. Su valor está en distinguirlo de **reunión informativa** y **pre-read**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Rogelberg resume lo que el análisis de la investigación sugiere: las reuniones eficaces tienen **propósito claro**, **participantes adecuados**, **preparación** y **seguimiento**. Para una reunión de decisión: **1)** formula la decisión como pregunta; **2)** nombra quién decide; **3)** distribuye antes el material (alternativas, criterios, datos); **4)** invita solo a quienes aportan información o ejecutarán; **5)** define el tiempo; **6)** prepara cómo se registrará.
 
-Contrasta el problema con Patrick Lencioni — *The Five Dysfunctions of a Team*, que aporta una mirada sobre **confianza, conflicto, compromiso, accountability y resultados**. Formula dos mini-casos: uno que sí satisface la definición de **reunión de decisión** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **decisiones por reunión** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Conducirla
 
-Antes de enviar pre-read con pregunta, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un buen conductor hace cuatro cosas: **abre** con el propósito y la decisión esperada; **facilita** para que hablen todos, incluidos quienes callan, y que el debate sea sobre la tarea (clase 032); **controla el tiempo** y ordena los temas; y **cierra** con la decisión, el responsable de cada acción y el plazo. Si no se llega a una decisión, se dice qué falta y quién lo trae. Las decisiones se registran en el momento, no después.
 
-### 3. pre-read: operacionalización y medición
+### 5. Participación
 
-**pre-read** significa **material consumido antes para reservar tiempo a discusión**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Rogelberg encuentra que las reuniones mejoran cuando se invita a menos personas y se incluye a quienes realmente aportan. Para quienes no son necesarios, un resumen basta. Se favorece la participación de todos con prácticas como pedir primero ideas por escrito o una ronda breve en que cada uno habla. Cuidado con la dominancia de los más jerárquicos: el líder puede hablar al final para no sesgar la discusión.
 
-Patrick Lencioni — *Death by Meeting* orienta este bloque mediante **perspectiva de Reuniones aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **pre-reads leídos**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Seguimiento
 
-Al llegar a definir decisor y participantes, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La reunión no termina al salir de la sala. El registro de decisiones y acciones, con responsable y plazo, se distribuye el mismo día y se revisa al inicio de la siguiente. Si las acciones no se cumplen y no pasa nada, el equipo aprende que las reuniones son un trámite. Una regla útil: toda reunión comienza revisando lo acordado en la anterior.
 
-### 4. facilitador: trade-offs y efectos de segundo orden
+### 7. Medir y mejorar
 
-**Definición:** rol que protege proceso y participación. Este concepto obliga a abandonar la idea de que **reuniones que deciden** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de facilitar discusión y cerrar, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams* aporta una lente sobre **propósito compartido, habilidades complementarias y responsabilidad mutua**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **acciones sin owner** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **reuniones que deciden**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **facilitador** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. decision log: gobernanza, límites e integración
-
-**decision log** se define como **registro de decisión, razón, owner y fecha** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Kim Scott — *Radical Candor* se utiliza para estudiar **perspectiva de Feedback aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar registrar decisión y acciones, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No todas las reuniones deben producir una decisión. Creatividad, aprendizaje y construcción de relaciones son fines legítimos; el problema es no declarar qué tipo de reunión se está diseñando.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **reunión informativa**, **reunión de decisión**, **pre-read**, **facilitador** y **decision log** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **reuniones que deciden** no consiste en sumar cinco definiciones. Empieza por **reunión informativa**, contrasta **reunión de decisión** con **pre-read**, incorpora **facilitador** como restricción o mecanismo y usa **decision log** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. clasificar propósito antes de convocar → 2. enviar pre-read con pregunta → 3. definir decisor y participantes → 4. facilitar discusión y cerrar → 5. registrar decisión y acciones**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Una vez por trimestre, el equipo revisa sus reuniones: ¿cuáles producen decisiones?, ¿cuáles podrían ser un mensaje?, ¿cuántas horas semanales consumen?, ¿se cumplen las acciones? Un indicador sencillo es el **porcentaje de reuniones con una decisión o acción registrada**. Eliminar o acortar reuniones libera tiempo para el trabajo y es una forma de cuidado del equipo.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| J. Richard Hackman — *Leading Teams* | condiciones de efectividad de equipos y diseño del trabajo colectivo | ¿Qué supuesto de **reuniones que deciden** ayuda a desafiar? |
-| Patrick Lencioni — *The Five Dysfunctions of a Team* | confianza, conflicto, compromiso, accountability y resultados | ¿Qué supuesto de **reuniones que deciden** ayuda a desafiar? |
-| Patrick Lencioni — *Death by Meeting* | perspectiva de Reuniones aplicada al problema de la clase | ¿Qué supuesto de **reuniones que deciden** ayuda a desafiar? |
-| Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams* | propósito compartido, habilidades complementarias y responsabilidad mutua | ¿Qué supuesto de **reuniones que deciden** ayuda a desafiar? |
-| Kim Scott — *Radical Candor* | perspectiva de Feedback aplicada al problema de la clase | ¿Qué supuesto de **reuniones que deciden** ayuda a desafiar? |
-
-En **reuniones que deciden**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **reunión informativa**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Rogelberg (2019) | Resultados de investigación sobre diseño y conducción de reuniones. | No ofrece un formato único. | ¿Cuál de tus reuniones no necesita existir? |
+| Lencioni (2004) | Tipos de reunión con agendas diferenciadas. | Es una fábula de gestión. | ¿Cuál de tus reuniones mezcla propósitos? |
+| Grove (1983) | La reunión como instrumento de gestión. | Escrita en otro contexto. | ¿Qué tipo de reunión es la tuya? |
+| Edmondson (2018) | Seguridad psicológica para participar. | No trata de agendas. | ¿Quién calla en tus reuniones? |
+| Katzenbach y Smith (1993) | Cómo trabaja un equipo real. | No es un manual de reuniones. | ¿Tu reunión decide o informa? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un comité semanal de 90 minutos recorre 25 indicadores en pantalla. Todos escuchan; las decisiones importantes se postergan para conversaciones fuera de la reunión.
+**Situación (hipotética).** Un equipo de producto de ocho personas tiene una reunión semanal de dos horas: se reportan avances, se discuten problemas y se toman decisiones. Todos asisten; solo tres hablan; las decisiones se aplazan.
 
-**Paso 1 — clasificar propósito antes de convocar.** La gerencia escribe primero el supuesto asociado a **reunión informativa** y evita convertirlo en hecho. Luego busca **horas de reunión** para contrastarlo en el caso de **reuniones que deciden**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Antes | Después |
+|---|---|
+| Una reunión de dos horas semanal con todos. | Tres reuniones separadas. |
+| Informes de avance en la reunión. | Informe escrito el lunes; no se lee en voz alta. |
+| Decisiones sin responsable. | Reunión de decisión de 45 minutos solo con quienes participan del tema; decisión y responsable al cierre. |
+| Problemas abiertos sin tiempo. | Reunión de exploración quincenal de una hora, declarada sin decisión. |
+| Acciones sin registro. | Registro compartido; al inicio se revisan las acciones anteriores. |
 
-**Paso 2 — enviar pre-read con pregunta.** La gerencia escribe primero el supuesto asociado a **reunión de decisión** y evita convertirlo en hecho. Luego busca **decisiones por reunión** para contrastarlo en el caso de **reuniones que deciden**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** El tiempo semanal de reuniones baja de dos a una hora y cuarto; el porcentaje de reuniones con decisión registrada sube de 20 % a 80 %.
 
-**Paso 3 — definir decisor y participantes.** La gerencia escribe primero el supuesto asociado a **pre-read** y evita convertirlo en hecho. Luego busca **pre-reads leídos** para contrastarlo en el caso de **reuniones que deciden**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — facilitar discusión y cerrar.** La gerencia escribe primero el supuesto asociado a **facilitador** y evita convertirlo en hecho. Luego busca **acciones sin owner** para contrastarlo en el caso de **reuniones que deciden**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — registrar decisión y acciones.** La gerencia escribe primero el supuesto asociado a **decision log** y evita convertirlo en hecho. Luego busca **temas reabiertos** para contrastarlo en el caso de **reuniones que deciden**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **reuniones que deciden**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Separar los propósitos mejoró cada reunión. (2) Un mensaje reemplazó a una reunión informativa. (3) El seguimiento se instaló como regla.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **reunión informativa** | espacio cuyo fin principal es transmitir contexto | Cuando horas de reunión es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **reunión de decisión** | espacio que culmina con una elección legítima | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Reunión frente a comunicación asíncrona.** La reunión aporta interacción inmediata, pero consume tiempo de todos a la vez. La comunicación asíncrona libera tiempo, pero puede retrasar el consenso. Elige según el propósito.
 
-**Frontera de aplicación:** No todas las reuniones deben producir una decisión. Creatividad, aprendizaje y construcción de relaciones son fines legítimos; el problema es no declarar qué tipo de reunión se está diseñando.
+**Límites.** Los resultados que Rogelberg reúne provienen de estudios con calidad desigual y de contextos variados; su aplicación depende de la cultura del equipo. La clasificación de tipos de reunión es una simplificación; hay reuniones que necesitan combinar propósitos y conviene hacerlo de forma explícita y secuenciada. Y reducir reuniones no mejora por sí solo la colaboración si no se atienden las causas de la desorganización.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre reuniones que deciden |
+| Nivel | Cómo trabaja las reuniones |
 |---|---|
-| **Profesional** | usa **reuniones que deciden** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **reunión informativa** y **reunión de decisión** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta horas de reunión con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si reuniones que deciden cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de reuniones que deciden reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **reuniones que deciden** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Prepara lo que se le pide y pregunta cuál es el propósito. |
+| **Jefe / Team Lead** | Diseña las reuniones de su equipo según su tipo y las cierra con decisiones. |
+| **Gerente** | Revisa las reuniones de su área y reduce las que no producen. |
+| **CEO / Director** | Diseña el ritmo de reuniones de la empresa y cuida el tiempo de la organización. |
+| **Founder / Owner** | Evita reproducir las reuniones de una gran empresa en una pequeña. |
 
 ## 🏢 Caso ejecutivo
 
-Un comité semanal de 90 minutos recorre 25 indicadores en pantalla. Todos escuchan; las decisiones importantes se postergan para conversaciones fuera de la reunión.
+Un comité de dirección de seis personas se reúne cada lunes durante tres horas. Se revisan cifras, se discuten temas operativos y, a veces, decisiones estratégicas. Las decisiones importantes se postergan «hasta tener más información» y se reabren la semana siguiente. Dos directores han empezado a mandar suplentes. El gerente general sospecha que «se pierde tiempo», pero no sabe cómo rediseñarlo.
 
-Entrega un **decision brief de reuniones que deciden** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **rediseño del ritmo de reuniones** que contenga: (a) una clasificación de los temas del comité por tipo; (b) los formatos nuevos con propósito, participantes y duración; (c) cómo prepararás y registrarás las decisiones; (d) cómo manejarás la participación; (e) cómo revisarás el cumplimiento de las acciones; (f) los indicadores con que medirás la mejora.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **reuniones que deciden** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. clasificar propósito antes de convocar → 2. enviar pre-read con pregunta → 3. definir decisor y participantes → 4. facilitar discusión y cerrar → 5. registrar decisión y acciones** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta horas de reunión, decisiones por reunión; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Clasifica las reuniones de tu semana y marca cuáles podrían ser un mensaje.
+2. Rediseña una reunión con propósito, participantes, material previo y cierre.
+3. Redacta la decisión de una reunión como una pregunta.
+4. Diseña el registro de decisiones y acciones y cómo se revisa al inicio.
+5. Define un indicador para medir tus reuniones durante un mes.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar reunión informativa y reunión de decisión como sinónimos | Se pierde la distinción entre “espacio cuyo fin principal es transmitir contexto” y “espacio que culmina con una elección legítima” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “registrar decisión y acciones” | Se saltó “clasificar propósito antes de convocar” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. clasificar propósito antes de convocar → 2. enviar pre-read con pregunta → 3. definir decisor y participantes → 4. facilitar discusión y cerrar → 5. registrar decisión y acciones y marca el primer supuesto no demostrado. |
-| Optimizar solo horas de reunión | La métrica local sustituyó al resultado del sistema | Contrástala con decisiones por reunión y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre reuniones que deciden | No todas las reuniones deben producir una decisión. Creatividad, aprendizaje y construcción de relaciones son fines legítimos; el problema es no declarar qué tipo de reunión se está diseñando. |
-| No fijar revisión | Una decisión sobre reuniones que deciden se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Convocar por inercia | Es el hábito | Preguntar si hay un medio mejor. |
+| Mezclar propósitos | Se quiere ahorrar reuniones | Separar informar, decidir y explorar. |
+| Invitar a todos | Se evita excluir | Invitar a quienes aportan o ejecutan. |
+| Terminar sin decisión | No hay quien cierre | Responsable y registro al final. |
+| Sin seguimiento | Se olvida | Revisar acciones al inicio de la siguiente. |
+| Informes leídos en voz alta | Es lo habitual | Enviar por escrito antes. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **reunión informativa** y **reunión de decisión** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **pre-read** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **clasificar propósito antes de convocar → enviar pre-read con pregunta** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **horas de reunión** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **reuniones que deciden**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No todas las reuniones deben producir una decisión. Creatividad, aprendizaje y construcción de relaciones son fines legítimos; el problema es no declarar qué tipo de reunión se está diseñando.**?
+1. ¿Cuándo se justifica una reunión frente a un mensaje?
+2. ¿Cuáles son los cuatro tipos de reunión de la clase?
+3. ¿Qué debe tener el diseño de una reunión de decisión?
+4. ¿Cómo debe cerrarse una reunión?
+5. ¿Por qué conviene invitar a menos personas?
+6. ¿Qué indicador permite medir las reuniones?
+7. ¿Qué límite tiene la evidencia sobre reuniones?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Cuando se necesita la interacción simultánea de varias personas: discutir alternativas, resolver desacuerdos o construir algo juntos.
+2. Informativa, de coordinación, de decisión y de exploración.
+3. Decisión formulada como pregunta, quién decide, material previo, participantes necesarios, tiempo y registro.
+4. Con la decisión, el responsable de cada acción y el plazo, registrados.
+5. Porque las reuniones mejoran con participantes que aportan, y quienes no son necesarios pueden recibir un resumen.
+6. El porcentaje de reuniones con una decisión o acción registrada, entre otros.
+7. Los estudios tienen calidad desigual y dependen de la cultura del equipo.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/056-reuniones-que-deciden/`:
 
-- `leadership-decision-brief.md` con el problema específico de **reuniones que deciden**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **reuniones que deciden** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **reunión informativa**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un comité semanal de 90 minutos recorre 25 indicadores en pantalla. Todos escuchan; las decisiones importantes se postergan para conversaciones fuera de la reunión.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el rediseño del caso ejecutivo;
+- `reading-note.md` con una tensión entre Rogelberg y Lencioni;
+- `decision-journal.md` con la clasificación de tus reuniones y los cambios.
 
 ## 📗 Fuentes y verificación
 
-- J. Richard Hackman — *Leading Teams* (Harvard Business School Press, 2002). **Uso en esta clase:** condiciones de efectividad de equipos y diseño del trabajo colectivo. Lectura selectiva sobre **reuniones que deciden**. **Localizador:** [ISBN-13 9781578513338](https://openlibrary.org/isbn/9781578513338).
-- Patrick Lencioni — *The Five Dysfunctions of a Team* (Pfeiffer, 2012). **Uso en esta clase:** confianza, conflicto, compromiso, accountability y resultados. Lectura selectiva sobre **reuniones que deciden**. **Localizador:** [ISBN-13 9781118127308](https://openlibrary.org/isbn/9781118127308).
-- Patrick Lencioni — *Death by Meeting* (Audio Renaissance, 2004). **Uso en esta clase:** perspectiva de Reuniones aplicada al problema de la clase. Lectura selectiva sobre **reuniones que deciden**. **Localizador:** [ISBN-13 9781593974411](https://openlibrary.org/isbn/9781593974411).
-- Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams* (McGraw-Hill, 2005). **Uso en esta clase:** propósito compartido, habilidades complementarias y responsabilidad mutua. Lectura selectiva sobre **reuniones que deciden**. **Localizador:** [ISBN-13 9780077111687](https://openlibrary.org/isbn/9780077111687).
-- Kim Scott — *Radical Candor* (PAN MACMILLAN U.K, 2017). **Uso en esta clase:** perspectiva de Feedback aplicada al problema de la clase. Lectura selectiva sobre **reuniones que deciden**. **Localizador:** [ISBN-13 9781509845385](https://openlibrary.org/isbn/9781509845385).
-- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** output managerial, leverage, reuniones, indicadores y gestión por procesos. Lectura selectiva sobre **reuniones que deciden**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **reuniones que deciden** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **reuniones que deciden**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **reuniones que deciden** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **reuniones que deciden** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **reuniones que deciden** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Steven G. Rogelberg — *The Surprising Science of Meetings* (Oxford University Press, 2019). **Uso en esta clase:** resultados de investigación sobre diseño y conducción de reuniones. Lectura selectiva sobre **reuniones que deciden**. **Localizador:** [ISBN-13 9780190689216](https://openlibrary.org/isbn/9780190689216).
+- Patrick Lencioni — *Death by Meeting* (Audio Renaissance, 2004). **Uso en esta clase:** tipos de reunión con agendas diferenciadas. Lectura selectiva sobre **reuniones que deciden**. **Localizador:** [ISBN-13 9781593974411](https://openlibrary.org/isbn/9781593974411).
+- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** la reunión como instrumento de gestión. Lectura selectiva sobre **reuniones que deciden**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica para participar. Lectura selectiva sobre **reuniones que deciden**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
+- Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams* (McGraw-Hill, 2005). **Uso en esta clase:** cómo trabaja un equipo real. Lectura selectiva sobre **reuniones que deciden**. **Localizador:** [ISBN-13 9780077111687](https://openlibrary.org/isbn/9780077111687).
 
-> **Regla de fuentes para Reuniones que deciden:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **reuniones que deciden** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Reuniones que deciden:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

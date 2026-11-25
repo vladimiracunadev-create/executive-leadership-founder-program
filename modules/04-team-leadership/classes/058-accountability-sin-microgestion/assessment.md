@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **accountability** de **microgestión** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **guardrail** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **checkpoint** con **management by exception**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre rendición de cuentas y microgestión?
+2. ¿Qué debe contener un acuerdo claro?
+3. ¿Por qué el seguimiento visible reduce la necesidad de vigilar?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un jefe pide actualización cada dos horas de un proyecto estable porque teme un retraso. El equipo dedica tiempo a reportar y deja de tomar decisiones pequeñas sin permiso.
+**Caso:** En una empresa de servicios, las reuniones de seguimiento terminan con «nos juntamos la próxima semana y vemos». Los compromisos se renuevan sin cumplirse. Cuando alguien incumple, el gerente lo comenta en privado con otra persona y nadie le dice nada al responsable. Dos clientes se quejaron de promesas incumplidas. El gerente se debate entre «apretar el control» y «confiar más».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir outcome y estándar → acordar guardrails y señales → delegar método dentro del marco → revisar por excepción → usar postmortem para ajustar autonomía**. Debes utilizar o diseñar cómo obtener **escalamientos por excepción, intervenciones no planificadas, decisiones anuladas**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de rendición de cuentas** que contenga: (a) el diagnóstico: acuerdos, seguimiento, consecuencias y cultura entre pares; (b) el formato de acuerdo que usarás; (c) el seguimiento visible, su frecuencia y quién lo actualiza; (d) la conversación sobre un compromiso incumplido con hechos; (e) las consecuencias proporcionales; (f) cómo promoverás la responsabilidad entre pares. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Menos control no siempre es mejor. Riesgo alto, novedad, compliance o baja competencia pueden justificar checkpoints frecuentes; el criterio es proporcionalidad, no una ideología de autonomía.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Parte de lo que se sostiene sobre responsabilidad mutua procede de estudios de casos y de la experiencia de consultoría.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

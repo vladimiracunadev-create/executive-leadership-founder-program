@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir accountability de microgestión mediante evidencia observable."
-  - "Aplicar la secuencia: definir outcome y estándar → acordar guardrails y señales → delegar método dentro del marco → revisar por excepción → usar postmortem para ajustar autonomía."
-  - "Interpretar escalamientos por excepción, intervenciones no planificadas, decisiones anuladas sin atribuir causalidad automática."
-  - "Resolver el caso de accountability sin microgestión con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir rendición de cuentas, control y microgestión."
+  - "Establecer acuerdos claros con resultado, plazo, medida y consecuencia."
+  - "Diseñar un seguimiento visible que no requiera preguntar."
+  - "Conducir la conversación sobre un compromiso incumplido con hechos y sin atribuir intención."
+  - "Fomentar la responsabilidad entre pares y no solo ante el jefe."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "J. Richard Hackman — *Leading Teams*"
-  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
-  - "Stanley McChrystal et al. — *Team of Teams*"
   - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
-  - "Kim Scott — *Radical Candor*"
-  - "Michael Bungay Stanier — *The Coaching Habit*"
+  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
+  - "Edwin A. Locke & Gary P. Latham — *Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "Amy C. Edmondson — *The Fearless Organization*"
 limits:
-  - "Menos control no siempre es mejor. Riesgo alto, novedad, compliance o baja competencia pueden justificar checkpoints frecuentes; el criterio es proporcionalidad, no una ideología de autonomía."
+  - "Parte de lo que se sostiene sobre responsabilidad mutua procede de estudios de casos y de la experiencia de consultoría."
 evidence_signals:
-  - "escalamientos por excepción"
-  - "intervenciones no planificadas"
-  - "decisiones anuladas"
-  - "retrabajo"
-  - "autonomía por nivel de riesgo"
+  - "acuerdos con resultado, fecha y medida"
+  - "seguimiento visible"
+  - "conversación iniciada con hechos"
+  - "consecuencias proporcionales"

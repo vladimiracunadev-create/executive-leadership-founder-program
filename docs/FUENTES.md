@@ -63,16 +63,16 @@ sin que el CI lo diga.
 <!-- registro-de-fuentes:inicio -->
 ## 🧾 El registro en cifras
 
-El programa cita **3042** veces un total de
-**237** obras a lo largo de sus **288** clases.
-De esas obras, **231** tienen hoy un localizador comprobado
+El programa cita **2971** veces un total de
+**242** obras a lo largo de sus **288** clases.
+De esas obras, **236** tienen hoy un localizador comprobado
 —ISBN-13, DOI o URL oficial con fecha de acceso— y **6**
 siguen pendientes de resolver.
 
 | Tipo | Obras | Localizador que exige |
 |---|---:|---|
-| Libro | 174 | ISBN-13 con dígito de control válido |
-| Artículo | 21 | DOI |
+| Libro | 175 | ISBN-13 con dígito de control válido |
+| Artículo | 25 | DOI |
 | Referencia | 2 | URL https de la fuente primaria, con fecha de acceso |
 | Norma o documento oficial | 40 | URL https de la fuente primaria, con fecha de acceso |
 
@@ -90,8 +90,8 @@ las 288 clases se apoya cada una.
 | Autor | Obra | Editorial | Año | Localizador | Clases |
 |---|---|---|---:|---|---:|
 | Aaker, David | *Building Strong Brands* | Simon & Schuster Ltd | 2002 | [ISBN-13 9780743232135](https://openlibrary.org/isbn/9780743232135) | 4 |
-| Amabile, Teresa M. | *The Progress Principle* | Harvard Business Review Press | 2011 | [ISBN-13 9781422198575](https://openlibrary.org/isbn/9781422198575) | 1 |
-| Ambrose, Susan A. | *How Learning Works* | John Wiley & Sons, Incorporated | 2010 | [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601) | 261 |
+| Amabile, Teresa M. | *The Progress Principle* | Harvard Business Review Press | 2011 | [ISBN-13 9781422198575](https://openlibrary.org/isbn/9781422198575) | 2 |
+| Ambrose, Susan A. | *How Learning Works* | John Wiley & Sons, Incorporated | 2010 | [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601) | 249 |
 | Anderson, David J. | *Kanban* | Blue hole press | 2010 | [ISBN-13 9780984521401](https://openlibrary.org/isbn/9780984521401) | 7 |
 | Anderson, Ross | *Security Engineering* | John Wiley & Sons, Incorporated | 2001 | [ISBN-13 9781119642831](https://openlibrary.org/isbn/9781119642831) | 4 |
 | Armstrong, Michael | *Armstrong's Handbook of Human Resource Management Practice* | Kogan Page, Limited | 2023 | [ISBN-13 9781398606654](https://openlibrary.org/isbn/9781398606654) | 14 |
@@ -105,7 +105,7 @@ las 288 clases se apoya cada una.
 | Boudreau, John | *Beyond HR* | Harvard Business School Press | 2007 | [ISBN-13 9781422104156](https://openlibrary.org/isbn/9781422104156) | 5 |
 | Brealey, Richard et al. | *Principles of Corporate Finance* | McGraw-Hill International Book Co | 1984 | [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025) | 21 |
 | Brown, Brené | *Dare to Lead* | Ebury Publishing | 2018 | [ISBN-13 9781473562523](https://openlibrary.org/isbn/9781473562523) | 1 |
-| Brown, Peter C. et al. | *Make It Stick* | Harvard University Press | 2014 | [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572) | 261 |
+| Brown, Peter C. et al. | *Make It Stick* | Harvard University Press | 2014 | [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572) | 249 |
 | Buckingham, Marcus | *First, Break All the Rules* | Simon and Schuster | 1999 | [ISBN-13 9780684852867](https://openlibrary.org/isbn/9780684852867) | 12 |
 | Cagan, Marty | *Inspired* | Shroff | 2008 | [ISBN-13 9789352131501](https://openlibrary.org/isbn/9789352131501) | 12 |
 | Carnegie, Dale | *How to Win Friends and Influence People* | Min zhu yu jian she chu ban she | 2004 | [ISBN-13 9787801121820](https://openlibrary.org/isbn/9787801121820) | 1 |
@@ -121,6 +121,7 @@ las 288 clases se apoya cada una.
 | Clear, James | *Atomic Habits* | Avery, an Imprint of Penguin Random House LLC | 2018 | [ISBN-13 9780735211292](https://openlibrary.org/isbn/9780735211292) | 6 |
 | Colquitt, Jason A. et al. | *Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research* | Journal of Applied Psychology | 2001 | [DOI](https://doi.org/10.1037/0021-9010.86.3.425) | 2 |
 | Coombs, W. Timothy | *Protecting Organization Reputations During a Crisis: The Development and Application of Situational Crisis Communication Theory* | Corporate Reputation Review | 2007 | [DOI](https://doi.org/10.1057/palgrave.crr.1550049) | 5 |
+| Cramton, Catherine Durnell | *The Mutual Knowledge Problem and Its Consequences for Dispersed Collaboration* | Organization Science | 2001 | [DOI](https://doi.org/10.1287/orsc.12.3.346.10098) | 1 |
 | Cuddy, Amy | *Presence* | Little, Brown and Company | 2015 | [ISBN-13 9780316256551](https://openlibrary.org/isbn/9780316256551) | 1 |
 | Daft, Richard L. | *Organizational Information Requirements, Media Richness and Structural Design* | Management Science | 1986 | [DOI](https://doi.org/10.1287/mnsc.32.5.554) | 2 |
 | Damodaran, Aswath | *Investment Valuation* | John Wiley & Sons, Incorporated | 2012 | [ISBN-13 9781118206546](https://openlibrary.org/isbn/9781118206546) | 14 |
@@ -131,20 +132,20 @@ las 288 clases se apoya cada una.
 | Dignan, Aaron | *Brave New Work* | Portfolio | 2019 | [ISBN-13 9780525536208](https://openlibrary.org/isbn/9780525536208) | 5 |
 | Dixit, Avinash K. | *The Art of Strategy* | Norton & Company, Incorporated, W. W. | 2008 | [ISBN-13 9780393069952](https://openlibrary.org/isbn/9780393069952) | 5 |
 | Dixon, Matthew | *The Challenger Sale* | Portfolio/Penguin | 2011 | [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358) | 12 |
-| Doerr, John | *Measure What Matters* | Penguin Random House USA Ex | 2018 | [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349) | 12 |
+| Doerr, John | *Measure What Matters* | Penguin Random House USA Ex | 2018 | [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349) | 13 |
 | Doerr, John | *Speed & Scale* | Penguin Publishing Group | 2021 | [ISBN-13 9780593420478](https://openlibrary.org/isbn/9780593420478) | 5 |
 | Drucker, Peter F. | *Management: Tasks, Responsibilities, Practices* | Harper & Row | 1974 | [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925) | 51 |
-| Drucker, Peter F. | *The Effective Executive* | Collins | 2002 | [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079) | 36 |
+| Drucker, Peter F. | *The Effective Executive* | Collins | 2002 | [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079) | 37 |
 | Duarte, Nancy | *Resonate* | John Wiley & Sons, Incorporated | 2010 | [ISBN-13 9781118014875](https://openlibrary.org/isbn/9781118014875) | 4 |
 | Duckworth, Angela | *Grit* | Collins | 2018 | [ISBN-13 9781443442329](https://openlibrary.org/isbn/9781443442329) | 1 |
 | Duke, Annie | *How to Decide* | Portfolio | 2020 | [ISBN-13 9780593418482](https://openlibrary.org/isbn/9780593418482) | 7 |
 | Duke, Annie | *Thinking in Bets* | Portfolio/Penguin | 2019 | [ISBN-13 9780735216358](https://openlibrary.org/isbn/9780735216358) | 13 |
 | Dunford, April | *Obviously Awesome* | Ambient Press | 2019 | [ISBN-13 9781999023003](https://openlibrary.org/isbn/9781999023003) | 11 |
-| Edmondson, Amy | *Psychological Safety and Learning Behavior in Work Teams* | Administrative Science Quarterly | 1999 | [DOI](https://doi.org/10.2307/2666999) | 1 |
-| Edmondson, Amy C. | *The Fearless Organization* | Wiley | 2018 | [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242) | 12 |
-| Ellet, William | *The Case Study Handbook* | Harvard Business Review Press | 2018 | [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150) | 261 |
+| Edmondson, Amy | *Psychological Safety and Learning Behavior in Work Teams* | Administrative Science Quarterly | 1999 | [DOI](https://doi.org/10.2307/2666999) | 6 |
+| Edmondson, Amy C. | *The Fearless Organization* | Wiley | 2018 | [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242) | 16 |
+| Ellet, William | *The Case Study Handbook* | Harvard Business Review Press | 2018 | [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150) | 249 |
 | Ellis, Sean | *Hacking Growth* | Ebury Publishing | 2017 | [ISBN-13 9780753545386](https://openlibrary.org/isbn/9780753545386) | 5 |
-| Ericsson, Anders | *Peak* | Penguin Random House | 2016 | [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143) | 261 |
+| Ericsson, Anders | *Peak* | Penguin Random House | 2016 | [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143) | 249 |
 | Feld, Brad | *Venture Deals* | Wiley | 2011 | [ISBN-13 9781118443613](https://openlibrary.org/isbn/9781118443613) | 5 |
 | Fisher, Roger et al. | *Getting to Yes* | Hutchinson | 1983 | [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714) | 14 |
 | Fitzpatrick, Rob | *The Mom Test* | CreateSpace | 2014 | [ISBN-13 9781492180746](https://openlibrary.org/isbn/9781492180746) | 10 |
@@ -156,11 +157,11 @@ las 288 clases se apoya cada una.
 | Gil, Elad | *High Growth Handbook* | Stripe Matter Inc | 2018 | [ISBN-13 9781953953377](https://openlibrary.org/isbn/9781953953377) | 5 |
 | Goldratt, Eliyahu M. | *The Goal* | HighBridge Audio | 2014 | [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945) | 17 |
 | Goleman, Daniel | *Emotional Intelligence* | Bloomsbury | 1996 | [ISBN-13 9780747528302](https://openlibrary.org/isbn/9780747528302) | 3 |
-| Goleman, Daniel et al. | *Primal Leadership* | Harvard Business School Press | 2002 | [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861) | 19 |
+| Goleman, Daniel et al. | *Primal Leadership* | Harvard Business School Press | 2002 | [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861) | 20 |
 | Grant, Adam | *Think Again* | PENGUIN US | 2021 | [ISBN-13 9780593298749](https://openlibrary.org/isbn/9780593298749) | 1 |
 | Gross, James J. | *The Emerging Field of Emotion Regulation: An Integrative Review* | Review of General Psychology | 1998 | [DOI](https://doi.org/10.1037/1089-2680.2.3.271) | 2 |
-| Grove, Andrew S. | *High Output Management* | Random House | 1983 | [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349) | 26 |
-| Hackman, J. Richard | *Leading Teams* | Harvard Business School Press | 2002 | [ISBN-13 9781578513338](https://openlibrary.org/isbn/9781578513338) | 12 |
+| Grove, Andrew S. | *High Output Management* | Random House | 1983 | [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349) | 25 |
+| Hackman, J. Richard | *Leading Teams* | Harvard Business School Press | 2002 | [ISBN-13 9781578513338](https://openlibrary.org/isbn/9781578513338) | 7 |
 | Hall, Judith A. et al. | *Nonverbal Communication* | Annual Review of Psychology | 2019 | [DOI](https://doi.org/10.1146/annurev-psych-010418-103145) | 1 |
 | Hammer, Michael | *Reengineering the Corporation* | HarperBusiness | 2001 | [ISBN-13 9780066621128](https://openlibrary.org/isbn/9780066621128) | 10 |
 | Harnish, Verne | *Scaling Up* | Gazelles, Inc. | 2014 | [ISBN-13 9780986019555](https://openlibrary.org/isbn/9780986019555) | 12 |
@@ -170,6 +171,7 @@ las 288 clases se apoya cada una.
 | Heifetz, Ronald A. | *Leadership Without Easy Answers* | Belknap Press of Harvard University Press | 1994 | [ISBN-13 9780674518582](https://openlibrary.org/isbn/9780674518582) | 1 |
 | Heifetz, Ronald A. et al. | *The Practice of Adaptive Leadership* | Harvard Business Press | 2009 | [ISBN-13 9781422105764](https://openlibrary.org/isbn/9781422105764) | 3 |
 | Helmer, Hamilton | *7 Powers* | Deep Strategy | 2016 | [ISBN-13 9780998116303](https://openlibrary.org/isbn/9780998116303) | 5 |
+| Hinds, Pamela J. | *Out of Sight, Out of Sync: Understanding Conflict in Distributed Teams* | Organization Science | 2003 | [DOI](https://doi.org/10.1287/orsc.14.6.615.24872) | 1 |
 | Hoffman, Reid | *Blitzscaling* | HarperCollins Publishers Limited | 2018 | [ISBN-13 9780008303648](https://openlibrary.org/isbn/9780008303648) | 8 |
 | Horngren, Charles | *Cost Accounting: A Managerial Emphasis* | Prentice Hall College Div | 2002 | [ISBN-13 9780130650061](https://openlibrary.org/isbn/9780130650061) | 6 |
 | Horowitz, Ben | *The Hard Thing About Hard Things* | HarperCollins Publishers | 2014 | [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215) | 25 |
@@ -181,8 +183,8 @@ las 288 clases se apoya cada una.
 | Kahneman, Daniel | *Thinking, Fast and Slow* | Farrar, Straus and Giroux | 2011 | [ISBN-13 9780374275631](https://openlibrary.org/isbn/9780374275631) | 16 |
 | Kaplan, Robert S. | *Strategy Maps* | Harvard Business School Press | 2004 | [ISBN-13 9781591391340](https://openlibrary.org/isbn/9781591391340) | 5 |
 | Kaplan, Robert S. | *The Balanced Scorecard* | Harvard Business School Press | 1996 | [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514) | 17 |
-| Katzenbach, Jon R. | *The Wisdom of Teams* | McGraw-Hill | 2005 | [ISBN-13 9780077111687](https://openlibrary.org/isbn/9780077111687) | 12 |
-| Kegan, Robert | *Immunity to Change* | Harvard Business Press | 2009 | [ISBN-13 9781422117361](https://openlibrary.org/isbn/9781422117361) | 1 |
+| Katzenbach, Jon R. | *The Wisdom of Teams* | McGraw-Hill | 2005 | [ISBN-13 9780077111687](https://openlibrary.org/isbn/9780077111687) | 6 |
+| Kegan, Robert | *Immunity to Change* | Harvard Business Press | 2009 | [ISBN-13 9781422117361](https://openlibrary.org/isbn/9781422117361) | 2 |
 | Kerzner, Harold | *Project Management* | John Wiley & Sons Inc | 2003 | [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580) | 12 |
 | Kidder, Rushworth M. | *How Good People Make Tough Choices* | William Morrow | 2009 | [ISBN-13 9780061968723](https://openlibrary.org/isbn/9780061968723) | 1 |
 | Kieso, Donald E. et al. | *Intermediate Accounting* | John Wiley & Sons, Incorporated | 2006 | [ISBN-13 9780470098189](https://openlibrary.org/isbn/9780470098189) | 12 |
@@ -200,16 +202,17 @@ las 288 clases se apoya cada una.
 | Lafley, A.G. | *Playing to Win* | Harvard Business Review Press | 2013 | [ISBN-13 9781422187395](https://openlibrary.org/isbn/9781422187395) | 7 |
 | Laloux, Frederic | *Reinventing Organizations* | Nelson Parker | 2014 | [ISBN-13 9782960133516](https://openlibrary.org/isbn/9782960133516) | 5 |
 | Leblanc, Richard | *Inside the Boardroom* | John Wiley & Sons, Incorporated | 2009 | [ISBN-13 9780470739952](https://openlibrary.org/isbn/9780470739952) | 12 |
-| Lencioni, Patrick | *Death by Meeting* | Audio Renaissance | 2004 | [ISBN-13 9781593974411](https://openlibrary.org/isbn/9781593974411) | 5 |
+| Lencioni, Patrick | *Death by Meeting* | Audio Renaissance | 2004 | [ISBN-13 9781593974411](https://openlibrary.org/isbn/9781593974411) | 1 |
 | Lencioni, Patrick | *The Advantage* | John Wiley & Sons, Incorporated | 2012 | [ISBN-13 9781118147856](https://openlibrary.org/isbn/9781118147856) | 5 |
-| Lencioni, Patrick | *The Five Dysfunctions of a Team* | Pfeiffer | 2012 | [ISBN-13 9781118127308](https://openlibrary.org/isbn/9781118127308) | 12 |
+| Lencioni, Patrick | *The Five Dysfunctions of a Team* | Pfeiffer | 2012 | [ISBN-13 9781118127308](https://openlibrary.org/isbn/9781118127308) | 4 |
 | Liker, Jeffrey K. | *The Toyota Way* | American Media International | 2005 | [ISBN-13 9781932378702](https://openlibrary.org/isbn/9781932378702) | 4 |
+| Locke, Edwin A. | *Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey* | American Psychologist | 2002 | [DOI](https://doi.org/10.1037/0003-066X.57.9.705) | 2 |
 | Malhotra, Deepak | *Negotiation Genius* | Tantor Media | 2007 | [ISBN-13 9781400135400](https://openlibrary.org/isbn/9781400135400) | 4 |
 | Mankins, Michael C. | *Time, Talent, Energy* | Harvard Business Review Press | 2017 | [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766) | 10 |
 | Marr, Bernard | *Key Performance Indicators* | Pearson Financial Times Pub. | 2012 | [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116) | 12 |
 | Maslach, Christina et al. | *Job Burnout* | Annual Review of Psychology | 2001 | [DOI](https://doi.org/10.1146/annurev.psych.52.1.397) | 1 |
 | Masten, Ann S. | *Ordinary Magic: Resilience Processes in Development* | American Psychologist | 2001 | [DOI](https://doi.org/10.1037/0003-066X.56.3.227) | 1 |
-| Mayer, Roger C. et al. | *An Integrative Model of Organizational Trust* | Academy of Management Review | 1995 | [DOI](https://doi.org/10.2307/258792) | 2 |
+| Mayer, Roger C. et al. | *An Integrative Model of Organizational Trust* | Academy of Management Review | 1995 | [DOI](https://doi.org/10.2307/258792) | 3 |
 | McAfee, Andrew | *Machine, Platform, Crowd* | Norton & Company, Incorporated, W. W. | 2017 | [ISBN-13 9780393254303](https://openlibrary.org/isbn/9780393254303) | 7 |
 | McChrystal, Stanley | *Team of Teams* | Penguin Books, Limited | 2015 | [ISBN-13 9780241250846](https://openlibrary.org/isbn/9780241250846) | 9 |
 | McGrath, Rita Gunther | *The End of Competitive Advantage* | Harvard Business Review Press | 2013 | [ISBN-13 9781422172810](https://openlibrary.org/isbn/9781422172810) | 5 |
@@ -231,7 +234,7 @@ las 288 clases se apoya cada una.
 | Patterson, Kerry | *Crucial Conversations* | McGraw Hill | 2012 | [ISBN-13 9781259005213](https://openlibrary.org/isbn/9781259005213) | 3 |
 | Penman, Stephen H. | *Financial Statement Analysis and Security Valuation* | McGraw-Hill/Irwin | 2001 | [ISBN-13 9780072903331](https://openlibrary.org/isbn/9780072903331) | 12 |
 | Perri, Melissa | *Escaping the Build Trap* | O'Reilly | 2019 | [ISBN-13 9781491973790](https://openlibrary.org/isbn/9781491973790) | 4 |
-| Pink, Daniel H. | *Drive* | Riverhead Books | 2009 | [ISBN-13 9781594488849](https://openlibrary.org/isbn/9781594488849) | 1 |
+| Pink, Daniel H. | *Drive* | Riverhead Books | 2009 | [ISBN-13 9781594488849](https://openlibrary.org/isbn/9781594488849) | 2 |
 | Polman, Paul | *Net Positive* | Harvard Business Review Press | 2021 | [ISBN-13 9781647821302](https://openlibrary.org/isbn/9781647821302) | 4 |
 | Porter, Michael E. | *Competitive Advantage* | Free Press | 1985 | [ISBN-13 9780029250907](https://openlibrary.org/isbn/9780029250907) | 12 |
 | Porter, Michael E. | *Competitive Strategy* | Free Press | 1980 | [ISBN-13 9780684841489](https://openlibrary.org/isbn/9780684841489) | 12 |
@@ -243,25 +246,27 @@ las 288 clases se apoya cada una.
 | Raiffa, Howard | *Decision Analysis* | McGraw-Hill | 1997 | [ISBN-13 9780070525795](https://openlibrary.org/isbn/9780070525795) | 5 |
 | Ries, Al | *Positioning* | American Media International | 2004 | [ISBN-13 9781932378252](https://openlibrary.org/isbn/9781932378252) | 4 |
 | Ries, Eric | *The Lean Startup* | Crown Business | 2011 | [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894) | 14 |
+| Rizzo, John R. et al. | *Role Conflict and Ambiguity in Complex Organizations* | Administrative Science Quarterly | 1970 | [DOI](https://doi.org/10.2307/2391486) | 1 |
 | Roberge, Mark | *The Sales Acceleration Formula* | — | 2015 | [ISBN-13 9781119047070](https://openlibrary.org/isbn/9781119047070) | 5 |
+| Rogelberg, Steven G. | *The Surprising Science of Meetings* | Oxford University Press | 2019 | [ISBN-13 9780190689216](https://openlibrary.org/isbn/9780190689216) | 1 |
 | Ross, Aaron | *From Impossible to Inevitable* | John Wiley & Sons, Incorporated | 2016 | [ISBN-13 9781119166726](https://openlibrary.org/isbn/9781119166726) | 4 |
 | Ross, Aaron | *Predictable Revenue* | Pebblestorm | 2020 | [ISBN-13 9780984380244](https://openlibrary.org/isbn/9780984380244) | 5 |
 | Ross, Stephen et al. | *Corporate Finance* | McGraw-Hill Education | 2018 | [ISBN-13 9781259918940](https://openlibrary.org/isbn/9781259918940) | 21 |
 | Rousseau, Denise M. et al. | *Not So Different After All: A Cross-Discipline View of Trust* | Academy of Management Review | 1998 | [DOI](https://doi.org/10.5465/amr.1998.926617) | 1 |
 | Rumelt, Richard | *Good Strategy/Bad Strategy* | Profile Books | 2011 | [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807) | 22 |
 | Rummler, Geary A. | *Improving Performance* | Jossey-Bass | 1995 | [ISBN-13 9780787900908](https://openlibrary.org/isbn/9780787900908) | 5 |
-| Ryan, Richard M. | *Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being* | American Psychologist | 2000 | [DOI](https://doi.org/10.1037/0003-066X.55.1.68) | 1 |
-| Schein, Edgar H. | *Humble Inquiry* | ReadHowYouWant.com, Limited | 2013 | [ISBN-13 9780369308443](https://openlibrary.org/isbn/9780369308443) | 2 |
+| Ryan, Richard M. | *Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being* | American Psychologist | 2000 | [DOI](https://doi.org/10.1037/0003-066X.55.1.68) | 2 |
+| Schein, Edgar H. | *Humble Inquiry* | ReadHowYouWant.com, Limited | 2013 | [ISBN-13 9780369308443](https://openlibrary.org/isbn/9780369308443) | 3 |
 | Schein, Edgar H. | *Organizational Culture and Leadership* | John Wiley & Sons, Incorporated | 1991 | [ISBN-13 9780470640562](https://openlibrary.org/isbn/9780470640562) | 12 |
 | Schilit, Howard et al. | *Financial Shenanigans* | McGraw-Hill Education on Brilliance Audio | 2018 | [ISBN-13 9781978605459](https://openlibrary.org/isbn/9781978605459) | 5 |
-| Scott, Kim | *Radical Candor* | PAN MACMILLAN U.K | 2017 | [ISBN-13 9781509845385](https://openlibrary.org/isbn/9781509845385) | 12 |
+| Scott, Kim | *Radical Candor* | PAN MACMILLAN U.K | 2017 | [ISBN-13 9781509845385](https://openlibrary.org/isbn/9781509845385) | 10 |
 | Senge, Peter M. | *The Fifth Discipline* | Random House Audio | 1994 | [ISBN-13 9780553473216](https://openlibrary.org/isbn/9780553473216) | 5 |
 | Sharp, Byron | *How Brands Grow* | BookBaby | 2010 | [ISBN-13 9781483534701](https://openlibrary.org/isbn/9781483534701) | 11 |
 | Slack, Nigel | *Operations Management* | Pearson Education, Limited | 2019 | [ISBN-13 9781292254036](https://openlibrary.org/isbn/9781292254036) | 12 |
 | Sonnentag, Sabine | *The Recovery Experience Questionnaire: Development and Validation of a Measure for Assessing Recuperation and Unwinding From Work* | Journal of Occupational Health Psychology | 2007 | [DOI](https://doi.org/10.1037/1076-8998.12.3.204) | 1 |
-| Stanier, Michael Bungay | *The Coaching Habit* | Page Two/Portfolio/Canongate Books/Simon & Schuster UK | 2016 | [ISBN-13 9780978440749](https://openlibrary.org/isbn/9780978440749) | 5 |
+| Stanier, Michael Bungay | *The Coaching Habit* | Page Two/Portfolio/Canongate Books/Simon & Schuster UK | 2016 | [ISBN-13 9780978440749](https://openlibrary.org/isbn/9780978440749) | 3 |
 | Stone, Douglas et al. | *Difficult Conversations* | Random House Audio | 1999 | [ISBN-13 9780553525687](https://openlibrary.org/isbn/9780553525687) | 11 |
-| Stone, Douglas | *Thanks for the Feedback* | Viking | 2014 | [ISBN-13 9780670014668](https://openlibrary.org/isbn/9780670014668) | 2 |
+| Stone, Douglas | *Thanks for the Feedback* | Viking | 2014 | [ISBN-13 9780670014668](https://openlibrary.org/isbn/9780670014668) | 3 |
 | Sutton, Robert I. | *Good Boss, Bad Boss* | Business Plus | 2010 | [ISBN-13 9780446556088](https://openlibrary.org/isbn/9780446556088) | 7 |
 | Sutton, Robert I. | *Scaling Up Excellence* | Random House Canada | 2014 | [ISBN-13 9780307363428](https://openlibrary.org/isbn/9780307363428) | 12 |
 | Taleb, Nassim Nicholas | *Antifragile* | Random House | 2012 | [ISBN-13 9780679645276](https://openlibrary.org/isbn/9780679645276) | 7 |
@@ -278,9 +283,9 @@ las 288 clases se apoya cada una.
 | Weick, Karl E. | *Sensemaking in Organizations* | Sage Publications | 1995 | [ISBN-13 9780803971776](https://openlibrary.org/isbn/9780803971776) | 1 |
 | Weinberg, Gabriel | *Traction* | Gildan Media | 2015 | [ISBN-13 9781469096230](https://openlibrary.org/isbn/9781469096230) | 5 |
 | Westerman, George et al. | *Leading Digital* | Harvard Business Review Press | 2014 | [ISBN-13 9781625272478](https://openlibrary.org/isbn/9781625272478) | 12 |
-| Whitmore, John | *Coaching for Performance* | Ediciones Paidos Iberica | 2003 | [ISBN-13 9788449314322](https://openlibrary.org/isbn/9788449314322) | 10 |
-| Wiggins, Grant | *Understanding by Design* | Pearson Education, Inc. | 2006 | [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849) | 261 |
-| Wiseman, Liz | *Multipliers* | — | 2017 | [ISBN-13 9780062663078](https://openlibrary.org/isbn/9780062663078) | 5 |
+| Whitmore, John | *Coaching for Performance* | Ediciones Paidos Iberica | 2003 | [ISBN-13 9788449314322](https://openlibrary.org/isbn/9788449314322) | 6 |
+| Wiggins, Grant | *Understanding by Design* | Pearson Education, Inc. | 2006 | [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849) | 249 |
+| Wiseman, Liz | *Multipliers* | — | 2017 | [ISBN-13 9780062663078](https://openlibrary.org/isbn/9780062663078) | 1 |
 | Womack, James P. | *Lean Thinking* | Free Press | 2003 | [ISBN-13 9780743231640](https://openlibrary.org/isbn/9780743231640) | 12 |
 | Womack, James P. et al. | *The Machine That Changed the World* | Free Press | 2007 | [ISBN-13 9780743299794](https://openlibrary.org/isbn/9780743299794) | 5 |
 | Yukl, Gary | *Leadership in Organizations* | Prentice Hall | 2010 | [ISBN-13 9780132424318](https://openlibrary.org/isbn/9780132424318) | 7 |

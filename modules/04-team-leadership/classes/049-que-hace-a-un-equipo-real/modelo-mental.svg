@@ -1,75 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 616.48" width="1040" role="img" aria-labelledby="t-g49 d-g49" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g49">Ficha visual de la clase 049: Qué hace a un equipo real</title>
-<desc id="d-g49">Conceptos: equipo; grupo de trabajo; interdependencia; norma; accountability mutuo. Método: definir resultado común → mapear interdependencias reales → decidir qué trabajo requiere coordinación colectiva → establecer normas y decisiones de equipo → medir outcome común además de outputs individuales.</desc>
-<defs><marker id="p-g49" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="616.48" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 049 · Qué hace a un equipo real</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 04 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >equipo</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >unidad de personas interdependientes responsables por</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >un resultado común</text>
-<circle cx="38" cy="184.12" r="5" fill="#0969da"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >grupo de trabajo</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >personas coordinadas principalmente a través de un jefe</text>
-<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >pero con outputs separables</text>
-<circle cx="38" cy="256.24" r="5" fill="#0969da"/>
-<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >interdependencia</text>
-<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grado en que el resultado de uno depende del trabajo de</text>
-<text x="54" y="295.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >otros</text>
-<circle cx="38" cy="328.36" r="5" fill="#0969da"/>
-<text x="54" y="333.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >norma</text>
-<text x="54" y="351.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >expectativa compartida sobre conducta</text>
-<circle cx="38" cy="386.36" r="5" fill="#0969da"/>
-<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >accountability mutuo</text>
-<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >responsabilidad entre pares por compromisos que afectan</text>
-<text x="54" y="425.92" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >el resultado común</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<rect x="470" y="336" width="6" height="52" rx="3" fill="#0969da"/>
-<text x="486" y="356" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >1</text>
-<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >definir resultado común</text>
-<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<rect x="532" y="278" width="6" height="52" rx="3" fill="#0969da"/>
-<text x="548" y="298" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >2</text>
-<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >mapear interdependencias reales</text>
-<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<rect x="594" y="220" width="6" height="52" rx="3" fill="#0969da"/>
-<text x="610" y="240" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >3</text>
-<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decidir qué trabajo requiere</text>
-<text x="628" y="257.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >coordinación colectiva</text>
-<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<rect x="656" y="162" width="6" height="52" rx="3" fill="#0969da"/>
-<text x="672" y="182" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >4</text>
-<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >establecer normas y decisiones de</text>
-<text x="690" y="199.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >equipo</text>
-<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<rect x="718" y="104" width="6" height="52" rx="3" fill="#0969da"/>
-<text x="734" y="124" font-size="13" font-weight="800" fill="#0969da" text-anchor="start" >5</text>
-<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >medir outcome común además de</text>
-<text x="752" y="141.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >outputs individuales</text>
-<text x="28" y="472.48" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="484.48" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="497.48" r="3.5" fill="#0969da"/>
-<text x="52" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >outcome común</text>
-<rect x="153.7" y="484.48" width="81.2" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="166.7" cy="497.48" r="3.5" fill="#0969da"/>
-<text x="177.7" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >handoffs</text>
-<rect x="244.9" y="484.48" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="257.9" cy="497.48" r="3.5" fill="#0969da"/>
-<text x="268.9" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decisiones entre pares</text>
-<rect x="432.7" y="484.48" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="445.7" cy="497.48" r="3.5" fill="#0969da"/>
-<text x="456.7" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >retrabajo por coordinación</text>
-<rect x="648.1" y="484.48" width="164" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="661.1" cy="497.48" r="3.5" fill="#0969da"/>
-<text x="672.1" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >dependencia del jefe</text>
-<rect x="28" y="530.48" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="530.48" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="550.48" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="568.48" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Crear equipo donde no hay interdependencia puede agregar reuniones y conflicto sin valor. Algunas tareas funcionan mejor como grupo</text>
-<text x="48" y="585.73" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >coordinado o comunidad de práctica.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 595.31" width="1040" role="img" aria-labelledby="t-s49 d-s49" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s49">Clase 049 · De un grupo a un equipo de alto desempeño</title>
+<desc id="d-s49">Cinco niveles de la curva de desempeño de equipos: grupo de trabajo, pseudoequipo, equipo potencial, equipo real y equipo de alto desempeño.</desc>
+<defs><marker id="p-s49" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="595.31" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 049 · De un grupo a un equipo de alto desempeño</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Katzenbach &amp; Smith (1993) · Hackman (2002)</text>
+<rect x="164" y="96" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="164" y="96" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<circle cx="196" cy="127.625" r="15" fill="#1a7f37"/>
+<text x="196" y="132.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="224" y="120" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Alto desempeño</text>
+<text x="224" y="138" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Además del equipo real, sus miembros se comprometen con el crecimiento de los demás.</text>
+<rect x="130" y="169.25" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="130" y="169.25" width="6" height="63.25" rx="3" fill="#0969da"/>
+<circle cx="162" cy="200.875" r="15" fill="#0969da"/>
+<text x="162" y="205.875" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="190" y="193.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Equipo real</text>
+<text x="190" y="211.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Propósito común, metas de desempeño, habilidades complementarias y responsabilidad mutua.</text>
+<rect x="96" y="242.5" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="96" y="242.5" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<circle cx="128" cy="274.125" r="15" fill="#bc4c00"/>
+<text x="128" y="279.125" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="156" y="266.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Equipo potencial</text>
+<text x="156" y="284.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Quiere mejorar y tiene propósito, pero aún no tiene rendición de cuentas mutua.</text>
+<rect x="62" y="315.75" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<rect x="62" y="315.75" width="6" height="63.25" rx="3" fill="#cf222e"/>
+<circle cx="94" cy="347.375" r="15" fill="#cf222e"/>
+<text x="94" y="352.375" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="122" y="339.75" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Pseudoequipo</text>
+<text x="122" y="357.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Se llama equipo pero no ha definido un propósito común; rinde menos que un grupo de trabajo.</text>
+<rect x="28" y="389" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<rect x="28" y="389.0" width="6" height="63.25" rx="3" fill="#59636e"/>
+<circle cx="60" cy="420.625" r="15" fill="#59636e"/>
+<text x="60" y="425.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="88" y="413" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Grupo de trabajo</text>
+<text x="88" y="431" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Comparte información y se reparte tareas; cada uno responde por lo suyo.</text>
+<rect x="28" y="468.25" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="490.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Un equipo se define por su propósito compartido y su responsabilidad mutua, no por el organigrama. Pasar de nivel exige trabajo, no</text>
+<text x="44" y="507.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >solo reunir personas.</text>
+<text x="28" y="554.75" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >La curva es un modelo de trabajo de los autores, derivado de estudios de caso; no es una medición.</text>
 </svg>

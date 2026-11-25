@@ -5,222 +5,189 @@
 <!-- nav:fin -->
 
 **Parte:** 04 — Liderazgo de equipos  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Los equipos híbridos y distribuidos necesitan hacer explícito lo que una oficina resuelve de manera informal: documentación, disponibilidad, decisiones, socialización y acceso a información. Diseñar remote-first evita que quienes están fuera se conviertan en participantes de segunda clase.
+Un equipo distribuido no es un equipo presencial con una pantalla en medio: tiene problemas propios, y la mayoría se debe a un mismo mecanismo. Cuando las personas no se ven, **no saben lo que ocurre donde está el otro**, interpretan los silencios de manera desfavorable y descubren tarde que trabajaban con supuestos distintos. Los equipos híbridos añaden un segundo problema: la desigualdad entre quienes están en la sala y quienes están en remoto.
 
-La salida de esta parte es **crear equipos con propósito, coordinación, confianza, aprendizaje y accountability**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **equipos híbridos y distribuidos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa dos investigaciones sobre equipos dispersos: la de Cramton sobre el **problema del conocimiento mutuo** y la de Hinds y Bailey sobre el **conflicto en equipos distribuidos**. Ambas son anteriores a la generalización del trabajo remoto, y sus mecanismos siguen siendo útiles para diagnosticar. Al terminar sabrás identificar qué problema de la distancia afecta a un equipo y diseñar acuerdos de trabajo que lo reduzcan.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `remote-first`, `asincronía`, `overlap hours`, `documentation culture`, `proximity bias` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. clasificar trabajo síncrono y asíncrono → 2. definir fuente de verdad documental → 3. establecer overlap y tiempos de respuesta → 4. diseñar reuniones inclusivas → 5. medir acceso y oportunidades sin proximity bias** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** decisiones documentadas, tiempo de respuesta, participación remota sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Explicar** el problema del conocimiento mutuo y sus consecuencias en la colaboración.
+2. **Describir** cómo la distancia genera conflicto por falta de información y atribuciones.
+3. **Diagnosticar** qué problema de distancia afecta a un equipo.
+4. **Diseñar** acuerdos de comunicación, reunión y registro para equipos distribuidos e híbridos.
+5. **Asegurar** equidad entre quienes están en remoto y quienes están en la oficina.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define remote-first y asincronía sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con decisiones documentadas y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda un malentendido con alguien remoto; ¿qué no sabías de su contexto? |
+| 20–60 min | Conocimiento mutuo, conflicto por distancia y diferencias de contexto. |
+| 60–105 min | Ejemplo trabajado: un equipo en tres husos horarios. |
+| 105–140 min | Caso ejecutivo: un equipo híbrido con una brecha entre la sala y el remoto. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **remote-first** | diseño donde la información y los procesos funcionan aunque nadie comparta sala | Distingue un hecho compatible y otro que lo refute. |
-| **asincronía** | trabajo coordinado sin coincidencia temporal | Distingue un hecho compatible y otro que lo refute. |
-| **overlap hours** | ventana mínima de tiempo compartido para interacción sincrónica | Distingue un hecho compatible y otro que lo refute. |
-| **documentation culture** | hábito de registrar decisiones y contexto accesible | Distingue un hecho compatible y otro que lo refute. |
-| **proximity bias** | sobrevaloración de quienes están físicamente más visibles | Distingue un hecho compatible y otro que lo refute. |
+| **Equipo distribuido** | Equipo cuyos miembros trabajan en lugares distintos y se comunican sobre todo mediante tecnología. | No comparten un espacio físico habitual. |
+| **Equipo híbrido** | Equipo en que parte de los miembros trabaja junto y parte a distancia, de forma estable o alternada. | Hay reuniones con personas en la sala y otras conectadas. |
+| **Problema del conocimiento mutuo** | Dificultad para que las personas compartan y comprendan información de contexto entre sí, con consecuencias para la colaboración (Cramton, 2001). | Se interpretan silencios y demoras sin conocer su causa. |
+| **Atribución disposicional** | Explicar la conducta del otro por su carácter y no por su situación (Cramton, 2001). | «No responde porque no le importa.» |
+| **Conflicto en equipos distribuidos** | Conflicto que surge o se agrava por la distancia, la falta de información y las diferencias de contexto (Hinds y Bailey, 2003). | Se discute sobre tareas, relaciones y procesos. |
+| **Acuerdo de trabajo** | Regla acordada sobre cómo se comunica y colabora el equipo. | Está escrito y se revisa. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 059: 1. clasificar trabajo síncrono y asíncrono → 2. definir fuente de verdad documental → 3. establecer overlap y tiempos de respuesta → 4. diseñar reuniones inclusivas → 5. medir acceso y oportunidades sin proximity bias](modelo-mental.svg)
+![Por qué la distancia daña a los equipos: tres problemas —conocimiento mutuo, conflicto por distancia y diferencias de contexto— con una práctica de respuesta para cada uno.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. clasificar trabajo síncrono y asíncrono → 2. definir fuente de verdad documental → 3. establecer overlap y tiempos de respuesta → 4. diseñar reuniones inclusivas → 5. medir acceso y oportunidades sin proximity bias
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Los equipos híbridos y distribuidos necesitan hacer explícito lo que una oficina resuelve de manera informal: documentación, disponibilidad, decisiones, socialización y acceso a información. Diseñar remote-first evita que quienes están fuera se conviertan en participantes de segunda clase.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Remote-first no implica que toda interacción deba ser asíncrona. Conflictos, creatividad compleja y vínculos pueden beneficiarse de alta riqueza; el diseño elige intencionalmente.**
+**Cómo leer el diagrama.** Tres columnas, cada una con un problema distinto y una práctica asociada. El hilo común: lo que no se ve se interpreta, y se tiende a interpretar de manera desfavorable. Por eso las respuestas son sobre todo de **información**: hacer visible el contexto, acordar cómo se comunica y asegurar que todos participen en igualdad.
 
 ## 📖 Desarrollo
 
-### 1. remote-first: mecanismo central
+### 1. El conocimiento mutuo
 
-**remote-first** se entiende aquí como **diseño donde la información y los procesos funcionan aunque nadie comparta sala**. Esta es la pieza causal o estructural desde la que se inicia **equipos híbridos y distribuidos**: antes de clasificar trabajo síncrono y asíncrono, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Cramton, en un estudio de equipos dispersos, identificó el **problema del conocimiento mutuo**: las personas no logran compartir ni entender el contexto del otro, como sus prioridades, su carga o sus circunstancias. Cinco fuentes de falla: no distribuir información relevante, no reconocer que falta, dificultad para interpretar el silencio, diferencias en la velocidad de acceso a la información y distinto significado atribuido a un mismo dato. Sus efectos: malentendidos, retrasos y desconfianza.
 
-La lectura rectora de este bloque es J. Richard Hackman — *Leading Teams*. Su aporte se usa para examinar **condiciones de efectividad de equipos y diseño del trabajo colectivo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **decisiones documentadas**; regístrala con periodo, unidad, población y baseline.
+### 2. Atribuciones desfavorables
 
-Relaciona el mecanismo con **asincronía**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Una consecuencia importante: ante la falta de respuesta de un colega remoto, tendemos a pensar que no le importa o es poco profesional (**atribución disposicional**), y no que está sobrecargado, sin conexión o sin información. Quien está en el mismo lugar ve la causa situacional; quien está lejos, no. Esta asimetría genera resentimiento y daña la confianza. La práctica útil: preguntar antes de juzgar y hacer visibles las circunstancias.
 
-### 2. asincronía: frontera conceptual y error de clasificación
+### 3. Conflicto y distancia
 
-**Definición operacional:** trabajo coordinado sin coincidencia temporal. Su valor está en distinguirlo de **remote-first** y **overlap hours**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Hinds y Bailey estudiaron el conflicto en equipos distribuidos y propusieron que la distancia, la falta de información compartida y las diferencias de contexto aumentan el conflicto de **tarea**, de **relación** y de **proceso**, y lo hacen más difícil de resolver, porque los mecanismos informales para corregirlo —la conversación de pasillo, la señal no verbal— no existen. De ahí la importancia de crear mecanismos formales: acuerdos explícitos y espacios para resolver desacuerdos.
 
-Contrasta el problema con Patrick Lencioni — *The Five Dysfunctions of a Team*, que aporta una mirada sobre **confianza, conflicto, compromiso, accountability y resultados**. Formula dos mini-casos: uno que sí satisface la definición de **asincronía** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **tiempo de respuesta** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Acuerdos de trabajo
 
-Antes de definir fuente de verdad documental, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un equipo distribuido necesita acordar por escrito: **qué canal se usa para qué** (urgente, documentos, conversación); **tiempos de respuesta esperados**; **horarios de solapamiento** entre husos; **cómo se comunica la disponibilidad**; **cómo se toman las decisiones**; y **cómo se registran** para que los ausentes las encuentren. Documentar decisiones y su razón permite que quien no estuvo en la reunión las entienda sin depender de comentarios de pasillo.
 
-### 3. overlap hours: operacionalización y medición
+### 5. Hacer visible el contexto
 
-**overlap hours** significa **ventana mínima de tiempo compartido para interacción sincrónica**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Prácticas que reducen el problema del conocimiento mutuo: un **estado semanal** corto de cada persona (en qué trabaja, qué bloqueos tiene), un **calendario compartido** con la disponibilidad real, una **bitácora** pública de decisiones, y **conversaciones no operativas** regulares para conocerse. Y una norma: si una respuesta se va a demorar, se avisa. El silencio es la mayor fuente de interpretación negativa.
 
-Andrew S. Grove — *High Output Management* orienta este bloque mediante **output managerial, leverage, reuniones, indicadores y gestión por procesos**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **participación remota**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Equidad en reuniones híbridas
 
-Al llegar a establecer overlap y tiempos de respuesta, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+En una reunión mixta, quien está en la sala tiene ventaja: ve el lenguaje no verbal, participa en la conversación informal y interrumpe con más facilidad. Reglas que ayudan: **todos conectados individualmente**, aunque algunos estén en la misma sala; moderación que da la palabra a quienes están en remoto primero; documentos y pizarras compartidos; y no tomar decisiones en conversaciones de pasillo sin registrarlas. La pregunta de control: ¿alguien en remoto tuvo menos oportunidad de influir que alguien en la sala?
 
-### 4. documentation culture: trade-offs y efectos de segundo orden
+### 7. Cuándo conviene estar juntos
 
-**Definición:** hábito de registrar decisiones y contexto accesible. Este concepto obliga a abandonar la idea de que **equipos híbridos y distribuidos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de diseñar reuniones inclusivas, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-John Whitmore — *Coaching for Performance* aporta una lente sobre **perspectiva de Coaching aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **promociones por modalidad** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **equipos híbridos y distribuidos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **documentation culture** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. proximity bias: gobernanza, límites e integración
-
-**proximity bias** se define como **sobrevaloración de quienes están físicamente más visibles** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Patrick Lencioni — *Death by Meeting* se utiliza para estudiar **perspectiva de Reuniones aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar medir acceso y oportunidades sin proximity bias, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Remote-first no implica que toda interacción deba ser asíncrona. Conflictos, creatividad compleja y vínculos pueden beneficiarse de alta riqueza; el diseño elige intencionalmente.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **remote-first**, **asincronía**, **overlap hours**, **documentation culture** y **proximity bias** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **equipos híbridos y distribuidos** no consiste en sumar cinco definiciones. Empieza por **remote-first**, contrasta **asincronía** con **overlap hours**, incorpora **documentation culture** como restricción o mecanismo y usa **proximity bias** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. clasificar trabajo síncrono y asíncrono → 2. definir fuente de verdad documental → 3. establecer overlap y tiempos de respuesta → 4. diseñar reuniones inclusivas → 5. medir acceso y oportunidades sin proximity bias**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+No todo se puede hacer a distancia con igual eficacia. Hay momentos en que la presencia aporta: el inicio de un equipo, la construcción de confianza, la resolución de conflictos de fondo, los talleres creativos. Muchos equipos combinan un trabajo individual remoto con encuentros presenciales planificados, con propósito claro. Decidir cuándo reunirse es decidir qué necesita interacción de alto contenido (clase 025).
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| J. Richard Hackman — *Leading Teams* | condiciones de efectividad de equipos y diseño del trabajo colectivo | ¿Qué supuesto de **equipos híbridos y distribuidos** ayuda a desafiar? |
-| Patrick Lencioni — *The Five Dysfunctions of a Team* | confianza, conflicto, compromiso, accountability y resultados | ¿Qué supuesto de **equipos híbridos y distribuidos** ayuda a desafiar? |
-| Andrew S. Grove — *High Output Management* | output managerial, leverage, reuniones, indicadores y gestión por procesos | ¿Qué supuesto de **equipos híbridos y distribuidos** ayuda a desafiar? |
-| John Whitmore — *Coaching for Performance* | perspectiva de Coaching aplicada al problema de la clase | ¿Qué supuesto de **equipos híbridos y distribuidos** ayuda a desafiar? |
-| Patrick Lencioni — *Death by Meeting* | perspectiva de Reuniones aplicada al problema de la clase | ¿Qué supuesto de **equipos híbridos y distribuidos** ayuda a desafiar? |
-
-En **equipos híbridos y distribuidos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **remote-first**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Cramton (2001) | Problema del conocimiento mutuo y atribuciones. | Es un estudio de un conjunto de equipos y de otra época tecnológica. | ¿Qué desconoces del contexto de tu colega remoto? |
+| Hinds y Bailey (2003) | Conflicto y distancia. | No cubre el trabajo híbrido actual. | ¿Qué conflicto se agrava por la distancia? |
+| Hackman (2002) | Condiciones del equipo, útiles para diagnosticar. | No trata de distancia. | ¿Qué condición falla en tu equipo disperso? |
+| Edmondson (1999) | Seguridad psicológica, más difícil a distancia. | No habla de tecnología. | ¿Puede un remoto disentir con la misma facilidad? |
+| McChrystal et al. (2015) | Transparencia y comunicación en redes de equipos. | Contexto militar. | ¿Qué información comparte tu red de equipos? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa permite trabajo híbrido, pero las decisiones reales ocurren después de reuniones entre quienes están en oficina. Las personas remotas reciben el acta cuando todo está cerrado.
+**Situación (hipotética).** Un equipo de producto con nueve personas: tres en Santiago, tres en Ciudad de México y tres en Madrid. Las reuniones son a las 10:00 de Santiago, es decir, temprano en México y de noche en Madrid. Los de Madrid se quejan de que «las decisiones se toman antes de que podamos opinar»; los de Santiago creen que «Madrid casi no participa».
 
-**Paso 1 — clasificar trabajo síncrono y asíncrono.** La gerencia escribe primero el supuesto asociado a **remote-first** y evita convertirlo en hecho. Luego busca **decisiones documentadas** para contrastarlo en el caso de **equipos híbridos y distribuidos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Problema | Diagnóstico | Respuesta |
+|---|---|---|
+| Decisiones sin los de Madrid | Falta de conocimiento mutuo y de equidad | Decisiones solo con documento previo y 48 horas para comentarios asíncronos. |
+| Atribuciones negativas | Se interpreta el silencio | Estado semanal escrito de cada persona con bloqueos y disponibilidad. |
+| Reunión incómoda para todos | Horario fijo desfavorable | Rotar el horario cada mes y grabar con resumen escrito. |
+| Conflicto entre dos subgrupos | Falta de relación informal | Café virtual quincenal sin agenda; un encuentro presencial semestral. |
+| Decisiones sin registro | La información se queda en la sala | Bitácora de decisiones con razón y responsable. |
 
-**Paso 2 — definir fuente de verdad documental.** La gerencia escribe primero el supuesto asociado a **asincronía** y evita convertirlo en hecho. Luego busca **tiempo de respuesta** para contrastarlo en el caso de **equipos híbridos y distribuidos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** En tres meses disminuyen las quejas, aumenta la participación de Madrid y las decisiones se revisan menos.
 
-**Paso 3 — establecer overlap y tiempos de respuesta.** La gerencia escribe primero el supuesto asociado a **overlap hours** y evita convertirlo en hecho. Luego busca **participación remota** para contrastarlo en el caso de **equipos híbridos y distribuidos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — diseñar reuniones inclusivas.** La gerencia escribe primero el supuesto asociado a **documentation culture** y evita convertirlo en hecho. Luego busca **promociones por modalidad** para contrastarlo en el caso de **equipos híbridos y distribuidos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — medir acceso y oportunidades sin proximity bias.** La gerencia escribe primero el supuesto asociado a **proximity bias** y evita convertirlo en hecho. Luego busca **reuniones fuera de horario** para contrastarlo en el caso de **equipos híbridos y distribuidos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **equipos híbridos y distribuidos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Cada problema tenía una causa de información y de equidad. (2) Los acuerdos hicieron visible el contexto. (3) Se rediseñó la reunión para que nadie siempre pague el costo del horario.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **remote-first** | diseño donde la información y los procesos funcionan aunque nadie comparta sala | Cuando decisiones documentadas es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **asincronía** | trabajo coordinado sin coincidencia temporal | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Distribuido frente a híbrido.** El distribuido es homogéneo en su dispersión; el híbrido combina a quienes están juntos y a quienes no, y por eso tiene un riesgo de desigualdad que el otro no tiene.
 
-**Frontera de aplicación:** Remote-first no implica que toda interacción deba ser asíncrona. Conflictos, creatividad compleja y vínculos pueden beneficiarse de alta riqueza; el diseño elige intencionalmente.
+**Límites.** Las investigaciones de Cramton y de Hinds y Bailey describen equipos de principios de los años 2000, con tecnologías y normas muy distintas; sus mecanismos siguen siendo útiles, pero sus recomendaciones concretas deben revisarse con evidencia más reciente. Los acuerdos de trabajo no sustituyen la confianza, y la vigilancia tecnológica de la actividad de las personas es otra cosa y tiene límites éticos y legales que esta clase no trata.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre equipos híbridos y distribuidos |
+| Nivel | Cómo trabaja a distancia |
 |---|---|
-| **Profesional** | usa **equipos híbridos y distribuidos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **remote-first** y **asincronía** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta decisiones documentadas con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si equipos híbridos y distribuidos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de equipos híbridos y distribuidos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **equipos híbridos y distribuidos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Comparte su contexto y avisa de demoras antes de que se interpreten. |
+| **Jefe / Team Lead** | Acuerda cómo se trabaja y cuida la equidad en las reuniones. |
+| **Gerente** | Diseña la combinación de presencia y remoto según el trabajo. |
+| **CEO / Director** | Define principios de trabajo híbrido coherentes con la cultura. |
+| **Founder / Owner** | Decide dónde vale la pena estar juntos con un presupuesto limitado. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa permite trabajo híbrido, pero las decisiones reales ocurren después de reuniones entre quienes están en oficina. Las personas remotas reciben el acta cuando todo está cerrado.
+Una empresa de servicios adoptó un modelo híbrido: tres días en la oficina y dos en casa. Los equipos en la oficina toman decisiones en conversaciones informales; los que están en remoto dicen que «se enteran después». Los ascensos recientes fueron casi todos a personas que van más a la oficina. Dos personas excelentes, que viven lejos y trabajan sobre todo en remoto, evalúan irse. La dirección quiere «más presencia».
 
-Entrega un **decision brief de equipos híbridos y distribuidos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de trabajo híbrido** que contenga: (a) el diagnóstico de los problemas de conocimiento mutuo, atribución y equidad; (b) los acuerdos de comunicación, decisión y registro; (c) las reglas de reuniones híbridas; (d) cómo evaluarás el desempeño sin sesgo de presencia; (e) cuándo convocarás encuentros presenciales y con qué propósito; (f) las señales que revisarás en tres meses.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **equipos híbridos y distribuidos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. clasificar trabajo síncrono y asíncrono → 2. definir fuente de verdad documental → 3. establecer overlap y tiempos de respuesta → 4. diseñar reuniones inclusivas → 5. medir acceso y oportunidades sin proximity bias** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta decisiones documentadas, tiempo de respuesta; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Identifica a alguien con quien trabajas a distancia y escribe tres cosas de su contexto que desconoces.
+2. Redacta tres acuerdos de comunicación para tu equipo.
+3. Rediseña una reunión híbrida con reglas de equidad.
+4. Define cómo registrarás decisiones para quienes no asisten.
+5. Revisa si tus evaluaciones podrían tener un sesgo de presencia.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar remote-first y asincronía como sinónimos | Se pierde la distinción entre “diseño donde la información y los procesos funcionan aunque nadie comparta sala” y “trabajo coordinado sin coincidencia temporal” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “medir acceso y oportunidades sin proximity bias” | Se saltó “clasificar trabajo síncrono y asíncrono” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. clasificar trabajo síncrono y asíncrono → 2. definir fuente de verdad documental → 3. establecer overlap y tiempos de respuesta → 4. diseñar reuniones inclusivas → 5. medir acceso y oportunidades sin proximity bias y marca el primer supuesto no demostrado. |
-| Optimizar solo decisiones documentadas | La métrica local sustituyó al resultado del sistema | Contrástala con tiempo de respuesta y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre equipos híbridos y distribuidos | Remote-first no implica que toda interacción deba ser asíncrona. Conflictos, creatividad compleja y vínculos pueden beneficiarse de alta riqueza; el diseño elige intencionalmente. |
-| No fijar revisión | Una decisión sobre equipos híbridos y distribuidos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Decidir en el pasillo | Es más rápido | Registrar y consultar a quienes están en remoto. |
+| Interpretar el silencio | Falta de contexto | Preguntar y avisar demoras. |
+| Reunión híbrida sin reglas | Se improvisa | Conexión individual y moderación equitativa. |
+| Un solo horario permanente | Es cómodo para algunos | Rotarlo y grabar con resumen. |
+| Evaluar por presencia | Sesgo de visibilidad | Evaluar por resultados acordados. |
+| Eliminar los encuentros | Se busca ahorro | Reunirse con propósito claro. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **remote-first** y **asincronía** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **overlap hours** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **clasificar trabajo síncrono y asíncrono → definir fuente de verdad documental** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **decisiones documentadas** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **equipos híbridos y distribuidos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Remote-first no implica que toda interacción deba ser asíncrona. Conflictos, creatividad compleja y vínculos pueden beneficiarse de alta riqueza; el diseño elige intencionalmente.**?
+1. ¿Qué es el problema del conocimiento mutuo?
+2. ¿Por qué la distancia favorece las atribuciones desfavorables?
+3. ¿Qué tipos de conflicto agrava la distancia según Hinds y Bailey?
+4. ¿Qué debe contener un acuerdo de trabajo a distancia?
+5. Nombra tres reglas para reuniones híbridas equitativas.
+6. ¿Cuándo conviene reunirse presencialmente?
+7. ¿Qué límite tienen los estudios de Cramton y de Hinds y Bailey?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La dificultad para compartir y entender el contexto del otro, con consecuencias para la colaboración.
+2. Porque quien está lejos no ve las causas situacionales de la conducta del otro y tiende a atribuirla al carácter.
+3. De tarea, de relación y de proceso.
+4. Canales y su uso, tiempos de respuesta, horarios de solapamiento, disponibilidad, decisiones y su registro.
+5. Conexión individual de todos, dar la palabra primero a quienes están en remoto, documentos compartidos y registrar las decisiones.
+6. Al inicio del equipo, para construir confianza, resolver conflictos de fondo y en talleres creativos.
+7. Son de principios de los 2000, con tecnologías y normas distintas; sus mecanismos sirven, sus recomendaciones concretas deben revisarse.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/059-equipos-hibridos-y-distribuidos/`:
 
-- `people-decision-brief.md` con el problema específico de **equipos híbridos y distribuidos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **equipos híbridos y distribuidos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **remote-first**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa permite trabajo híbrido, pero las decisiones reales ocurren después de reuniones entre quienes están en oficina. Las personas remotas reciben el acta cuando todo está cerrado.** y el dato que podría invalidar la recomendación.
+- `people-decision-brief.md` (plantilla [People Decision Brief](../../../../templates/people-decision-brief.md)) con el plan del caso ejecutivo;
+- `team-charter.md` (plantilla [Team charter](../../../../templates/team-charter.md)) con los acuerdos de trabajo;
+- `decision-journal.md` con el diagnóstico y las señales de revisión.
 
 ## 📗 Fuentes y verificación
 
-- J. Richard Hackman — *Leading Teams* (Harvard Business School Press, 2002). **Uso en esta clase:** condiciones de efectividad de equipos y diseño del trabajo colectivo. Lectura selectiva sobre **equipos híbridos y distribuidos**. **Localizador:** [ISBN-13 9781578513338](https://openlibrary.org/isbn/9781578513338).
-- Patrick Lencioni — *The Five Dysfunctions of a Team* (Pfeiffer, 2012). **Uso en esta clase:** confianza, conflicto, compromiso, accountability y resultados. Lectura selectiva sobre **equipos híbridos y distribuidos**. **Localizador:** [ISBN-13 9781118127308](https://openlibrary.org/isbn/9781118127308).
-- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** output managerial, leverage, reuniones, indicadores y gestión por procesos. Lectura selectiva sobre **equipos híbridos y distribuidos**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
-- John Whitmore — *Coaching for Performance* (Ediciones Paidos Iberica, 2003). **Uso en esta clase:** perspectiva de Coaching aplicada al problema de la clase. Lectura selectiva sobre **equipos híbridos y distribuidos**. **Localizador:** [ISBN-13 9788449314322](https://openlibrary.org/isbn/9788449314322).
-- Patrick Lencioni — *Death by Meeting* (Audio Renaissance, 2004). **Uso en esta clase:** perspectiva de Reuniones aplicada al problema de la clase. Lectura selectiva sobre **equipos híbridos y distribuidos**. **Localizador:** [ISBN-13 9781593974411](https://openlibrary.org/isbn/9781593974411).
-- Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams* (McGraw-Hill, 2005). **Uso en esta clase:** propósito compartido, habilidades complementarias y responsabilidad mutua. Lectura selectiva sobre **equipos híbridos y distribuidos**. **Localizador:** [ISBN-13 9780077111687](https://openlibrary.org/isbn/9780077111687).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **equipos híbridos y distribuidos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **equipos híbridos y distribuidos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **equipos híbridos y distribuidos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **equipos híbridos y distribuidos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **equipos híbridos y distribuidos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Catherine Durnell Cramton — *The Mutual Knowledge Problem and Its Consequences for Dispersed Collaboration* (Organization Science, 2001). **Uso en esta clase:** el problema del conocimiento mutuo y las atribuciones. Lectura selectiva sobre **equipos híbridos y distribuidos**. **Localizador:** [DOI 10.1287/orsc.12.3.346.10098](https://doi.org/10.1287/orsc.12.3.346.10098).
+- Pamela J. Hinds & Diane E. Bailey — *Out of Sight, Out of Sync: Understanding Conflict in Distributed Teams* (Organization Science, 2003). **Uso en esta clase:** conflicto en equipos distribuidos. Lectura selectiva sobre **equipos híbridos y distribuidos**. **Localizador:** [DOI 10.1287/orsc.14.6.615.24872](https://doi.org/10.1287/orsc.14.6.615.24872).
+- J. Richard Hackman — *Leading Teams* (Harvard Business School Press, 2002). **Uso en esta clase:** condiciones del equipo para diagnosticar. Lectura selectiva sobre **equipos híbridos y distribuidos**. **Localizador:** [ISBN-13 9781578513338](https://openlibrary.org/isbn/9781578513338).
+- Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams* (Administrative Science Quarterly, 1999). **Uso en esta clase:** seguridad psicológica y aprendizaje. Lectura selectiva sobre **equipos híbridos y distribuidos**. **Localizador:** [DOI 10.2307/2666999](https://doi.org/10.2307/2666999).
+- Stanley McChrystal et al. — *Team of Teams* (Penguin Books, Limited, 2015). **Uso en esta clase:** transparencia y comunicación en redes de equipos. Lectura selectiva sobre **equipos híbridos y distribuidos**. **Localizador:** [ISBN-13 9780241250846](https://openlibrary.org/isbn/9780241250846).
 
-> **Regla de fuentes para Equipos híbridos y distribuidos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **equipos híbridos y distribuidos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Equipos híbridos y distribuidos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, en particular las normas laborales sobre trabajo remoto. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

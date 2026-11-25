@@ -312,6 +312,10 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana",
+        "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
+        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
+        "modules/04-team-leadership/classes/056-reuniones-que-deciden",
+        "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
         "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
       ],
@@ -356,18 +360,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
-        "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
-        "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
-        "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
-        "modules/04-team-leadership/classes/053-delegacion-por-resultados",
-        "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano",
-        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
-        "modules/04-team-leadership/classes/056-reuniones-que-deciden",
-        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
-        "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
-        "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
-        "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional",
         "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
         "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
         "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
@@ -647,13 +639,12 @@
         "modules/00-professional-to-leader/classes/010-marca-profesional-basada-en-evidencia",
         "modules/00-professional-to-leader/classes/011-mapa-de-fortalezas-brechas-y-riesgos-personales",
         "modules/00-professional-to-leader/classes/012-capstone-tu-sistema-operativo-de-liderazgo",
-        "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
-        "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
+        "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
+        "modules/04-team-leadership/classes/053-delegacion-por-resultados",
         "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano",
         "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
         "modules/04-team-leadership/classes/056-reuniones-que-deciden",
-        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
-        "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
+        "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
         "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
         "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
         "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
@@ -1526,6 +1517,7 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad",
+        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
         "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
         "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo",
@@ -1548,7 +1540,8 @@
       "locator": "https://openlibrary.org/isbn/9781594488849",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
+        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento"
       ],
       "status": "verificada",
       "authority": "Riverhead Books"
@@ -2031,7 +2024,8 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/02-communication-influence-negotiation-basics/classes/026-escucha-activa-y-preguntas-de-calidad",
-        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles"
+        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
+        "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano"
       ],
       "status": "verificada",
       "authority": "ReadHowYouWant.com, Limited"
@@ -2410,18 +2404,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
-        "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
-        "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
-        "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
-        "modules/04-team-leadership/classes/053-delegacion-por-resultados",
-        "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano",
-        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
-        "modules/04-team-leadership/classes/056-reuniones-que-deciden",
-        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
-        "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
-        "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
-        "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional",
         "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
         "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
         "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
@@ -2921,11 +2903,6 @@
         "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
         "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
         "modules/04-team-leadership/classes/053-delegacion-por-resultados",
-        "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano",
-        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
-        "modules/04-team-leadership/classes/056-reuniones-que-deciden",
-        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
-        "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
         "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
         "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional"
       ],
@@ -3128,6 +3105,7 @@
       "locator": "https://openlibrary.org/isbn/9780525538349",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
         "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
         "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
         "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
@@ -3229,11 +3207,7 @@
       "locator": "https://openlibrary.org/isbn/9788449314322",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
-        "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
         "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano",
-        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
-        "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
         "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
         "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
         "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
@@ -3260,14 +3234,8 @@
         "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
         "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
         "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
-        "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
-        "modules/04-team-leadership/classes/053-delegacion-por-resultados",
-        "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano",
-        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
         "modules/04-team-leadership/classes/056-reuniones-que-deciden",
-        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
         "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
-        "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
         "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional"
       ],
       "status": "verificada",
@@ -3338,11 +3306,9 @@
       "used_in": [
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
-        "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
-        "modules/04-team-leadership/classes/053-delegacion-por-resultados",
-        "modules/04-team-leadership/classes/056-reuniones-que-deciden",
-        "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
-        "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional",
+        "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano",
+        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
+        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
         "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
         "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
         "modules/05-talent-people-management/classes/068-compensacion-e-incentivos-fundamentos",
@@ -3422,11 +3388,7 @@
       "locator": "https://openlibrary.org/isbn/9780062663078",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
-        "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
-        "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano",
-        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
-        "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional"
+        "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano"
       ],
       "status": "verificada"
     },
@@ -3709,11 +3671,9 @@
       "locator": "https://openlibrary.org/isbn/9780978440749",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
-        "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
-        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
-        "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
-        "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional"
+        "modules/04-team-leadership/classes/053-delegacion-por-resultados",
+        "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano",
+        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion"
       ],
       "status": "verificada",
       "authority": "Page Two/Portfolio/Canongate Books/Simon & Schuster UK"
@@ -4263,11 +4223,7 @@
       "locator": "https://openlibrary.org/isbn/9781593974411",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
-        "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
-        "modules/04-team-leadership/classes/053-delegacion-por-resultados",
-        "modules/04-team-leadership/classes/056-reuniones-que-deciden",
-        "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos"
+        "modules/04-team-leadership/classes/056-reuniones-que-deciden"
       ],
       "status": "verificada",
       "authority": "Audio Renaissance"
@@ -4308,16 +4264,8 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
-        "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
-        "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
         "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
-        "modules/04-team-leadership/classes/053-delegacion-por-resultados",
-        "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano",
-        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
-        "modules/04-team-leadership/classes/056-reuniones-que-deciden",
-        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
         "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
-        "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
         "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional"
       ],
       "status": "verificada",
@@ -4384,18 +4332,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
-        "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
-        "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
-        "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
-        "modules/04-team-leadership/classes/053-delegacion-por-resultados",
-        "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano",
-        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
-        "modules/04-team-leadership/classes/056-reuniones-que-deciden",
-        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
-        "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
-        "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
-        "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional",
         "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
         "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
         "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
@@ -4715,6 +4651,7 @@
         "modules/00-professional-to-leader/classes/010-marca-profesional-basada-en-evidencia",
         "modules/00-professional-to-leader/classes/011-mapa-de-fortalezas-brechas-y-riesgos-personales",
         "modules/00-professional-to-leader/classes/012-capstone-tu-sistema-operativo-de-liderazgo",
+        "modules/04-team-leadership/classes/053-delegacion-por-resultados",
         "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
         "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
         "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
@@ -5672,10 +5609,10 @@
       "locator": "https://openlibrary.org/isbn/9780241250846",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
         "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
-        "modules/04-team-leadership/classes/053-delegacion-por-resultados",
-        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
-        "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
+        "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
+        "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional",
         "modules/14-organization-design-culture-change/classes/169-la-organizacion-como-diseno",
         "modules/14-organization-design-culture-change/classes/171-spans-layers-y-managerial-load",
         "modules/14-organization-design-culture-change/classes/173-raci-rapid-y-derechos-de-decision",
@@ -5896,18 +5833,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
-        "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
-        "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
-        "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
-        "modules/04-team-leadership/classes/053-delegacion-por-resultados",
-        "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano",
-        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
-        "modules/04-team-leadership/classes/056-reuniones-que-deciden",
-        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
-        "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
-        "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
-        "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional",
         "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
         "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
         "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
@@ -6406,18 +6331,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
-        "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
-        "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas",
-        "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
-        "modules/04-team-leadership/classes/053-delegacion-por-resultados",
-        "modules/04-team-leadership/classes/054-coaching-y-desarrollo-cotidiano",
-        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion",
-        "modules/04-team-leadership/classes/056-reuniones-que-deciden",
-        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
-        "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
-        "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
-        "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional",
         "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
         "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
         "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
@@ -6684,6 +6597,7 @@
       "locator": "https://doi.org/10.2307/258792",
       "accessed": "2026-11-25",
       "used_in": [
+        "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
         "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo"
       ],
@@ -6911,7 +6825,8 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
+        "modules/04-team-leadership/classes/055-one-on-ones-que-producen-informacion"
       ],
       "status": "verificada"
     },
@@ -6949,7 +6864,8 @@
       "locator": "https://doi.org/10.1037/0003-066X.55.1.68",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
+        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento"
       ],
       "status": "verificada"
     },
@@ -7003,7 +6919,12 @@
       "locator": "https://doi.org/10.2307/2666999",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/042-seguridad-psicologica-y-aprendizaje",
+        "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
+        "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
+        "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
+        "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
+        "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional"
       ],
       "status": "verificada"
     },
@@ -7102,7 +7023,8 @@
       "locator": "https://openlibrary.org/isbn/9781422117361",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
+        "modules/04-team-leadership/classes/053-delegacion-por-resultados"
       ],
       "status": "verificada"
     },
@@ -7157,7 +7079,103 @@
       "locator": "https://openlibrary.org/isbn/9781422198575",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
+        "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "edwin-a-locke-gary-p-latham-building-a-practically-useful-theory-of-goal-setting",
+      "type": "paper",
+      "authors": [
+        "Locke, Edwin A.",
+        "Latham, Gary P."
+      ],
+      "title": "Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey",
+      "cited_as": "Edwin A. Locke & Gary P. Latham — Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey",
+      "authority": "American Psychologist",
+      "published": "2002",
+      "doi": "10.1037/0003-066X.57.9.705",
+      "locator": "https://doi.org/10.1037/0003-066X.57.9.705",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
+        "modules/04-team-leadership/classes/058-accountability-sin-microgestion"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "john-r-rizzo-robert-j-house-sidney-i-lirtzman-role-conflict-and-ambiguity-in-com",
+      "type": "paper",
+      "authors": [
+        "Rizzo, John R.",
+        "House, Robert J.",
+        "Lirtzman, Sidney I."
+      ],
+      "title": "Role Conflict and Ambiguity in Complex Organizations",
+      "cited_as": "John R. Rizzo, Robert J. House & Sidney I. Lirtzman — Role Conflict and Ambiguity in Complex Organizations",
+      "authority": "Administrative Science Quarterly",
+      "published": "1970",
+      "doi": "10.2307/2391486",
+      "locator": "https://doi.org/10.2307/2391486",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/04-team-leadership/classes/051-roles-responsabilidades-y-expectativas"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "pamela-j-hinds-diane-e-bailey-out-of-sight-out-of-sync-understanding-conflict-in",
+      "type": "paper",
+      "authors": [
+        "Hinds, Pamela J.",
+        "Bailey, Diane E."
+      ],
+      "title": "Out of Sight, Out of Sync: Understanding Conflict in Distributed Teams",
+      "cited_as": "Pamela J. Hinds & Diane E. Bailey — Out of Sight, Out of Sync: Understanding Conflict in Distributed Teams",
+      "authority": "Organization Science",
+      "published": "2003",
+      "doi": "10.1287/orsc.14.6.615.24872",
+      "locator": "https://doi.org/10.1287/orsc.14.6.615.24872",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "catherine-durnell-cramton-the-mutual-knowledge-problem-and-its-consequences-for",
+      "type": "paper",
+      "authors": [
+        "Cramton, Catherine Durnell"
+      ],
+      "title": "The Mutual Knowledge Problem and Its Consequences for Dispersed Collaboration",
+      "cited_as": "Catherine Durnell Cramton — The Mutual Knowledge Problem and Its Consequences for Dispersed Collaboration",
+      "authority": "Organization Science",
+      "published": "2001",
+      "doi": "10.1287/orsc.12.3.346.10098",
+      "locator": "https://doi.org/10.1287/orsc.12.3.346.10098",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "steven-g-rogelberg-the-surprising-science-of-meetings",
+      "type": "book",
+      "authors": [
+        "Rogelberg, Steven G."
+      ],
+      "title": "The Surprising Science of Meetings",
+      "cited_as": "Steven G. Rogelberg — The Surprising Science of Meetings",
+      "authority": "Oxford University Press",
+      "published": "2019",
+      "isbn13": "9780190689216",
+      "locator": "https://openlibrary.org/isbn/9780190689216",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/04-team-leadership/classes/056-reuniones-que-deciden"
       ],
       "status": "verificada"
     }

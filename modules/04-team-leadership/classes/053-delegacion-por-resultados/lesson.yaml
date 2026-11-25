@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir delegación de outcome delegado mediante evidencia observable."
-  - "Aplicar la secuencia: definir outcome y por qué importa → acordar autoridad y guardrails → comprobar recursos y competencia → definir checkpoints por riesgo → revisar resultado y aprendizaje."
-  - "Interpretar decisiones devueltas al jefe, checkpoints extraordinarios, retrabajo sin atribuir causalidad automática."
-  - "Resolver el caso de delegación por resultados con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir delegar tareas, delegar resultados y abdicar."
+  - "Evaluar la madurez de una persona para una tarea concreta."
+  - "Elegir el nivel de autoridad delegada que corresponde."
+  - "Redactar una delegación con resultado, límites, recursos, plazos y revisión."
+  - "Gestionar la tensión entre soltar y mantener la responsabilidad."
 deliverable: "leadership-decision-brief.md"
 references:
+  - "Andrew S. Grove — *High Output Management*"
+  - "Peter F. Drucker — *The Effective Executive*"
   - "J. Richard Hackman — *Leading Teams*"
-  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
-  - "Kim Scott — *Radical Candor*"
-  - "Patrick Lencioni — *Death by Meeting*"
-  - "Stanley McChrystal et al. — *Team of Teams*"
-  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+  - "Robert Kegan & Lisa Laskow Lahey — *Immunity to Change*"
+  - "Michael Bungay Stanier — *The Coaching Habit*"
 limits:
-  - "Delegar no es apropiado cuando falta capacidad crítica, cuando la ley exige una decisión específica del cargo o cuando el riesgo no puede tolerar aprendizaje sin supervisión."
+  - "La escala de niveles es un recurso didáctico de la clase y no un modelo empírico; la madurez para la tarea de Grove es un concepto práctico, no una medición."
 evidence_signals:
-  - "decisiones devueltas al jefe"
-  - "checkpoints extraordinarios"
-  - "retrabajo"
-  - "tiempo del manager liberado"
-  - "autonomía creciente"
+  - "madurez para la tarea evaluada"
+  - "nivel de autoridad nombrado"
+  - "resultado, límites y revisión acordados"
+  - "tarea delegada cumplida"

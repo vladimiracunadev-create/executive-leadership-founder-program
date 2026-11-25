@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **equipo** de **grupo de trabajo** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **interdependencia** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **norma** con **accountability mutuo**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre un equipo y un grupo de trabajo según Katzenbach y Smith?
+2. ¿Por qué el pseudoequipo rinde peor que un grupo de trabajo?
+3. ¿Cuáles son los cuatro rasgos de un equipo real?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Doce especialistas reportan a la misma manager y participan en una reunión semanal, pero cada uno tiene metas independientes y no necesita a los demás para cumplirlas. La organización los llama 'equipo'.
+**Caso:** Una empresa de servicios tiene un «equipo comercial» de diez personas. Cada vendedor tiene su cartera y su meta; hay una reunión semanal de dos horas donde se revisan cifras individuales. Las ventas cruzadas con otras áreas son bajas, y los clientes grandes se quejan de que «nadie coordina». El gerente comercial quiere «fortalecer el espíritu de equipo» con un taller.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir resultado común → mapear interdependencias reales → decidir qué trabajo requiere coordinación colectiva → establecer normas y decisiones de equipo → medir outcome común además de outputs individuales**. Debes utilizar o diseñar cómo obtener **outcome común, handoffs, decisiones entre pares**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **diagnóstico de equipo** que contenga: (a) la ubicación en la curva con la evidencia; (b) la evaluación de las cinco condiciones de Hackman; (c) la decisión sobre si debe ser equipo, grupo de trabajo o ambos, y para qué tareas; (d) las condiciones que cambiarás y en qué orden; (e) cómo medirás el avance; (f) qué evidencia te haría concluir que el taller no era la respuesta. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Crear equipo donde no hay interdependencia puede agregar reuniones y conflicto sin valor. Algunas tareas funcionan mejor como grupo coordinado o comunidad de práctica.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: La curva de Katzenbach y Smith es un modelo derivado de estudios de caso, no una medición, y los autores mismos la presentan como una herramienta de reflexión.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

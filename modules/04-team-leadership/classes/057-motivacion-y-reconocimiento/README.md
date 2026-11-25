@@ -5,222 +5,190 @@
 <!-- nav:fin -->
 
 **Parte:** 04 — Liderazgo de equipos  
-**Nivel:** Etapa 2 — Líder → Jefe  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Motivación y reconocimiento funcionan cuando conectan conductas o contribuciones reales con significado y justicia. El reconocimiento genérico pierde información; el reconocimiento específico enseña qué vale la organización. Incentivos mal diseñados pueden desplazar motivación intrínseca o producir gaming.
+En la parte 03 vimos que la motivación depende de tres necesidades: autonomía, competencia y vínculo. Esta clase lo lleva al trabajo cotidiano de un jefe de equipo, donde la herramienta más usada y peor aprovechada es el **reconocimiento**: decir a alguien que lo que hizo importó. Bien hecho, informa sobre la competencia y fortalece el vínculo; mal hecho, es una frase vacía, una comparación injusta o un instrumento de control que desplaza la motivación propia.
 
-La salida de esta parte es **crear equipos con propósito, coordinación, confianza, aprendizaje y accountability**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **motivación y reconocimiento** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Se apoya en la teoría de la autodeterminación de Ryan y Deci y en el principio de progreso de Amabile y Kramer. Al terminar sabrás reconocer de manera específica y oportuna, adaptar el reconocimiento a la persona y diseñar prácticas de equipo que hagan visible el progreso sin convertir el reconocimiento en un incentivo que controle.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `reconocimiento`, `recompensa`, `equidad`, `gaming`, `motivador` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de líder → jefe.
-3. **Aplicar** la secuencia **1. observar contribución específica → 2. explicar impacto y valor relacionado → 3. adaptar forma a la persona y contexto → 4. separar reconocimiento de favoritismo → 5. revisar incentivos por conductas no deseadas** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** participación, gaming de métricas, percepción de equidad sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Explicar** por qué el reconocimiento puede sostener o dañar la motivación según cómo se perciba.
+2. **Formular** un reconocimiento específico, oportuno y vinculado a un efecto.
+3. **Adaptar** el reconocimiento a las preferencias de la persona sin suponerlas.
+4. **Diseñar** rituales de equipo que hagan visible el progreso y la colaboración.
+5. **Evitar** reconocimientos que generen competencia dañina o sensación de control.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define reconocimiento y recompensa sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con participación y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda el último reconocimiento que te importó y por qué. |
+| 20–60 min | Reconocimiento que informa frente al que controla; el principio de progreso. |
+| 60–105 min | Ejemplo trabajado: reemplazar un ranking por un ritual de progreso. |
+| 105–140 min | Caso ejecutivo: un programa de «empleado del mes». |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **reconocimiento** | señal explícita de que una contribución fue observada y valorada | Distingue un hecho compatible y otro que lo refute. |
-| **recompensa** | beneficio material o simbólico asociado a desempeño | Distingue un hecho compatible y otro que lo refute. |
-| **equidad** | percepción de justicia relativa en aportes y resultados | Distingue un hecho compatible y otro que lo refute. |
-| **gaming** | optimización de la métrica sin lograr el propósito | Distingue un hecho compatible y otro que lo refute. |
-| **motivador** | condición que aumenta energía o persistencia para una tarea | Distingue un hecho compatible y otro que lo refute. |
+| **Reconocimiento informativo** | Mensaje que informa sobre la competencia o contribución de alguien y su efecto (Ryan y Deci, 2000). | Dice qué hizo y qué logró. |
+| **Reconocimiento controlador** | Mensaje que usa la recompensa para regular la conducta (Ryan y Deci, 2000). | «Si haces esto, recibes aquello.» |
+| **Principio de progreso** | De los eventos que alimentan una buena vida laboral, el más potente es avanzar en un trabajo con sentido (Amabile y Kramer, 2011). | Los pequeños avances se notan. |
+| **Soporte del vínculo** | Acciones que muestran que la persona importa y pertenece. | Se la nombra, se la consulta, se la incluye. |
+| **Reconocimiento específico** | Dice concretamente qué se hizo bien y su efecto. | Se podría repetir. |
+| **Desplazamiento de la motivación** | Efecto por el cual un incentivo externo reduce el interés intrínseco. | Se hace solo lo premiado. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 057: 1. observar contribución específica → 2. explicar impacto y valor relacionado → 3. adaptar forma a la persona y contexto → 4. separar reconocimiento de favoritismo → 5. revisar incentivos por conductas no deseadas](modelo-mental.svg)
+![Reconocimiento que motiva y el que no: a la izquierda el específico, oportuno y propio de la persona; a la derecha el genérico, controlador y comparativo injusto.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. observar contribución específica → 2. explicar impacto y valor relacionado → 3. adaptar forma a la persona y contexto → 4. separar reconocimiento de favoritismo → 5. revisar incentivos por conductas no deseadas
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Motivación y reconocimiento funcionan cuando conectan conductas o contribuciones reales con significado y justicia. El reconocimiento genérico pierde información; el reconocimiento específico enseña qué vale la organización. Incentivos mal diseñados pueden desplazar motivación intrínseca o producir gaming.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Reconocer no debe crear competencia tóxica ni exponer a personas que prefieren privacidad. Y el reconocimiento nunca sustituye compensación justa o condiciones de trabajo adecuadas.**
+**Cómo leer el diagrama.** Dos listas enfrentadas. A la izquierda, tres rasgos del reconocimiento que sostiene la motivación: específico, oportuno y ajustado a la persona. A la derecha, tres que la dañan: genérico, controlador y comparativo. El criterio práctico es qué **efecto** tiene en quien lo recibe: ¿le informa de su competencia y lo conecta con otros, o lo siente como control?
 
 ## 📖 Desarrollo
 
-### 1. reconocimiento: mecanismo central
+### 1. Qué dice la teoría
 
-**reconocimiento** se entiende aquí como **señal explícita de que una contribución fue observada y valorada**. Esta es la pieza causal o estructural desde la que se inicia **motivación y reconocimiento**: antes de observar contribución específica, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Ryan y Deci distinguen dos aspectos de un evento externo, como una recompensa o un elogio: su aspecto **informativo** —comunica competencia y progreso— y su aspecto **controlador** —presiona hacia una conducta—. El mismo gesto puede tener ambos. Cuando predomina lo informativo, tiende a sostener la motivación; cuando predomina lo controlador, tiende a desplazarla. De ahí la importancia de cómo se enuncia y se entrega el reconocimiento.
 
-La lectura rectora de este bloque es J. Richard Hackman — *Leading Teams*. Su aporte se usa para examinar **condiciones de efectividad de equipos y diseño del trabajo colectivo**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **participación**; regístrala con periodo, unidad, población y baseline.
+### 2. Específico, oportuno y vinculado a un efecto
 
-Relaciona el mecanismo con **recompensa**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Un reconocimiento útil dice **qué** se hizo, **cuál fue su efecto** y, si corresponde, **qué habilidad** reveló: «el análisis de costos que armaste cambió la decisión del comité; mostraste que el proveedor B sale 8 % más caro en tres años». Compárese con «buen trabajo». Lo específico informa y es creíble. Lo **oportuno** —cerca del hecho— conecta el elogio con la conducta. Y lo vinculado a un efecto muestra que el trabajo importó.
 
-### 2. recompensa: frontera conceptual y error de clasificación
+### 3. El principio de progreso
 
-**Definición operacional:** beneficio material o simbólico asociado a desempeño. Su valor está en distinguirlo de **reconocimiento** y **equidad**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Amabile y Kramer analizaron diarios de trabajo y concluyeron que la sensación de **avanzar en un trabajo que importa** era el factor más ligado a un buen día. Esto sugiere reconocer el progreso, incluso pequeño, y no solo los grandes logros. Eliminar obstáculos, dar recursos, acordar metas claras y hacer visible el avance son formas de reconocimiento indirecto. Su inverso, el retroceso percibido, pesa más: un día de bloqueos puede borrar el efecto de un elogio.
 
-Contrasta el problema con Patrick Lencioni — *The Five Dysfunctions of a Team*, que aporta una mirada sobre **confianza, conflicto, compromiso, accountability y resultados**. Formula dos mini-casos: uno que sí satisface la definición de **recompensa** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **gaming de métricas** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Cada persona es distinta
 
-Antes de explicar impacto y valor relacionado, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+A algunos les importa el reconocimiento público; a otros, una conversación privada; a otros, una oportunidad de desarrollo o más autonomía. No es seguro adivinar: **pregunta**. «¿Cómo te gusta que se reconozca tu trabajo?» es una pregunta que casi nadie hace y que ahorra errores. Cuidado con el reconocimiento público a quienes lo incomoda y con ignorar contribuciones menos visibles, como el apoyo a otros o el trabajo de mantenimiento.
 
-### 3. equidad: operacionalización y medición
+### 5. Reconocimiento que daña
 
-**equidad** significa **percepción de justicia relativa en aportes y resultados**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Se daña con el elogio **genérico** (no informa), el **controlador** («si cumples, recibes»), el **comparativo** que enfrenta a las personas y erosiona la colaboración (rankings individuales), el **tardío** (sin conexión con el hecho) y el **inconsistente** (se reconoce a unos y se omite a otros por razones de afinidad). Y el reconocimiento que viene acompañado de una carga excesiva se vive como una manipulación.
 
-Liz Wiseman — *Multipliers* orienta este bloque mediante **perspectiva de Liderazgo aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **percepción de equidad**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Rituales de equipo
 
-Al llegar a adaptar forma a la persona y contexto, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Algunas prácticas simples: **cierre de semana** con tres avances del equipo; **agradecimientos entre pares**, y no solo del jefe; **historias de impacto** (cómo el trabajo benefició a un cliente); y **reconocimiento de aprendizaje** (quien reconoció un error a tiempo o compartió lo aprendido). Reconocer la colaboración, y no solo el resultado individual, favorece el vínculo.
 
-### 4. gaming: trade-offs y efectos de segundo orden
+### 7. Reconocimiento formal y recompensas
 
-**Definición:** optimización de la métrica sin lograr el propósito. Este concepto obliga a abandonar la idea de que **motivación y reconocimiento** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de separar reconocimiento de favoritismo, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Andrew S. Grove — *High Output Management* aporta una lente sobre **output managerial, leverage, reuniones, indicadores y gestión por procesos**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **reconocimientos específicos** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **motivación y reconocimiento**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **gaming** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. motivador: gobernanza, límites e integración
-
-**motivador** se define como **condición que aumenta energía o persistencia para una tarea** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-John Whitmore — *Coaching for Performance* se utiliza para estudiar **perspectiva de Coaching aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar revisar incentivos por conductas no deseadas, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Reconocer no debe crear competencia tóxica ni exponer a personas que prefieren privacidad. Y el reconocimiento nunca sustituye compensación justa o condiciones de trabajo adecuadas.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **reconocimiento**, **recompensa**, **equidad**, **gaming** y **motivador** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **motivación y reconocimiento** no consiste en sumar cinco definiciones. Empieza por **reconocimiento**, contrasta **recompensa** con **equidad**, incorpora **gaming** como restricción o mecanismo y usa **motivador** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. observar contribución específica → 2. explicar impacto y valor relacionado → 3. adaptar forma a la persona y contexto → 4. separar reconocimiento de favoritismo → 5. revisar incentivos por conductas no deseadas**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Los programas de «empleado del mes», los bonos y los premios son formas de reconocimiento formal. Pueden funcionar si los criterios son claros y se perciben como justos, y si incluyen el aporte colectivo. Fallan cuando son arbitrarios, repetidos entre los mismos, o cuando convierten el trabajo en un medio para ganar. Pink advierte que, en tareas que requieren creatividad, las recompensas contingentes pueden ser contraproducentes; en tareas rutinarias, funcionan.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| J. Richard Hackman — *Leading Teams* | condiciones de efectividad de equipos y diseño del trabajo colectivo | ¿Qué supuesto de **motivación y reconocimiento** ayuda a desafiar? |
-| Patrick Lencioni — *The Five Dysfunctions of a Team* | confianza, conflicto, compromiso, accountability y resultados | ¿Qué supuesto de **motivación y reconocimiento** ayuda a desafiar? |
-| Liz Wiseman — *Multipliers* | perspectiva de Liderazgo aplicada al problema de la clase | ¿Qué supuesto de **motivación y reconocimiento** ayuda a desafiar? |
-| Andrew S. Grove — *High Output Management* | output managerial, leverage, reuniones, indicadores y gestión por procesos | ¿Qué supuesto de **motivación y reconocimiento** ayuda a desafiar? |
-| John Whitmore — *Coaching for Performance* | perspectiva de Coaching aplicada al problema de la clase | ¿Qué supuesto de **motivación y reconocimiento** ayuda a desafiar? |
-
-En **motivación y reconocimiento**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **reconocimiento**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Ryan y Deci (2000) | Aspectos informativo y controlador de los eventos externos. | Es una teoría general. | ¿Tu reconocimiento informa o controla? |
+| Amabile y Kramer (2011) | El principio de progreso. | Se basa en diarios de equipos concretos. | ¿Qué progreso hiciste visible esta semana? |
+| Pink (2009) | Autonomía, maestría y propósito; límites de los incentivos. | Divulgación. | ¿Qué recompensa podría estar desplazando motivación? |
+| Goleman, Boyatzis y McKee (2002) | El efecto emocional del líder. | No trata de reconocimiento formal. | ¿Qué estado transmite tu reconocimiento? |
+| Scott (2017) | Cuidado personal en el reconocimiento. | Es un marco práctico. | ¿Conoces qué valora cada persona? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** La empresa entrega premio mensual al 'héroe' que resuelve más incidentes. Con el tiempo, mejora la respuesta pero nadie invierte en prevención porque el reconocimiento premia apagar incendios.
+**Situación (hipotética).** Un jefe de soporte, Esteban, tiene un ranking semanal de tickets cerrados por persona, visible para todos, con un bono trimestral al primero. Observa que los tickets complejos se evitan y que dos personas dejaron de ayudar a otras.
 
-**Paso 1 — observar contribución específica.** La gerencia escribe primero el supuesto asociado a **reconocimiento** y evita convertirlo en hecho. Luego busca **participación** para contrastarlo en el caso de **motivación y reconocimiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Elemento | Problema | Cambio |
+|---|---|---|
+| Ranking individual público | Competencia dañina; se evitan los tickets difíciles. | Se elimina; se muestra el avance del equipo hacia la meta de satisfacción. |
+| Bono al primero | Premio controlador; desplaza la colaboración. | Se sustituye por un bono de equipo ligado a la satisfacción y a reducir tickets repetidos. |
+| Reconocimiento genérico | «Buen trabajo, equipo.» | Reconocimiento específico: «Ana resolvió el caso del cliente de logística en una hora y evitó que se repitiera con una guía». |
+| Nada para el apoyo a otros | Se ignora el trabajo invisible. | Ritual semanal de agradecimientos entre pares. |
 
-**Paso 2 — explicar impacto y valor relacionado.** La gerencia escribe primero el supuesto asociado a **recompensa** y evita convertirlo en hecho. Luego busca **gaming de métricas** para contrastarlo en el caso de **motivación y reconocimiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cómo lo comunica.** Esteban explica los cambios, escucha objeciones y pregunta a cada persona cómo prefiere ser reconocida. Dos prefieren un mensaje privado; una, el reconocimiento público.
 
-**Paso 3 — adaptar forma a la persona y contexto.** La gerencia escribe primero el supuesto asociado a **equidad** y evita convertirlo en hecho. Luego busca **percepción de equidad** para contrastarlo en el caso de **motivación y reconocimiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** En dos meses se cierran más tickets complejos, aumenta la colaboración y baja la rotación.
 
-**Paso 4 — separar reconocimiento de favoritismo.** La gerencia escribe primero el supuesto asociado a **gaming** y evita convertirlo en hecho. Luego busca **reconocimientos específicos** para contrastarlo en el caso de **motivación y reconocimiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — revisar incentivos por conductas no deseadas.** La gerencia escribe primero el supuesto asociado a **motivador** y evita convertirlo en hecho. Luego busca **retención de talento** para contrastarlo en el caso de **motivación y reconocimiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **motivación y reconocimiento**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El diseño del reconocimiento afecta la conducta. (2) Lo informativo y lo específico reemplazan lo controlador. (3) Se preguntó a cada persona.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **reconocimiento** | señal explícita de que una contribución fue observada y valorada | Cuando participación es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **recompensa** | beneficio material o simbólico asociado a desempeño | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Reconocimiento frente a remuneración.** El salario es una condición: debe ser justo y no usarse como motivador cotidiano. El reconocimiento comunica valor y progreso. No se sustituyen.
 
-**Frontera de aplicación:** Reconocer no debe crear competencia tóxica ni exponer a personas que prefieren privacidad. Y el reconocimiento nunca sustituye compensación justa o condiciones de trabajo adecuadas.
+**Límites.** La teoría de Ryan y Deci tiene amplio respaldo, pero los efectos varían según el tipo de recompensa, la tarea y la cultura. Los diarios de Amabile y Kramer provienen de equipos de conocimiento concretos. Las recomendaciones de Pink simplifican hallazgos complejos. Y el reconocimiento no compensa condiciones de trabajo injustas: elogiar a alguien sobrecargado sin cambiar su carga se percibe como cinismo.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre motivación y reconocimiento |
+| Nivel | Cómo usa el reconocimiento |
 |---|---|
-| **Profesional** | usa **motivación y reconocimiento** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **reconocimiento** y **recompensa** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta participación con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si motivación y reconocimiento cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de motivación y reconocimiento reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **motivación y reconocimiento** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Reconoce a sus pares con hechos concretos. |
+| **Jefe / Team Lead** | Reconoce de forma específica y oportuna y pregunta preferencias. |
+| **Gerente** | Diseña sistemas de reconocimiento que no dañen la colaboración. |
+| **CEO / Director** | Cuida que lo que se premia coincida con lo que se declara. |
+| **Founder / Owner** | Reconoce a las primeras personas con hechos y con participación en lo que se construye. |
 
 ## 🏢 Caso ejecutivo
 
-La empresa entrega premio mensual al 'héroe' que resuelve más incidentes. Con el tiempo, mejora la respuesta pero nadie invierte en prevención porque el reconocimiento premia apagar incendios.
+Una empresa implementó un programa de «empleado del mes» con foto, premio de dinero y estacionamiento preferente. Después de seis meses, los premiados han sido siempre de las áreas comerciales, tres personas de soporte dijeron que «es un premio de popularidad» y un equipo técnico dejó de compartir información por «no regalar méritos». La gerente de personas quiere mantener el programa porque «la dirección lo aprobó».
 
-Entrega un **decision brief de motivación y reconocimiento** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diagnóstico y rediseño del reconocimiento** que contenga: (a) el análisis del efecto del programa según el aspecto informativo o controlador; (b) las necesidades de autonomía, competencia y vínculo afectadas; (c) qué mantendrás, qué cambiarás y qué eliminarás; (d) los rituales de equipo que propondrás; (e) cómo preguntarás las preferencias de las personas; (f) cómo evaluarás el efecto en la colaboración.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **motivación y reconocimiento** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. observar contribución específica → 2. explicar impacto y valor relacionado → 3. adaptar forma a la persona y contexto → 4. separar reconocimiento de favoritismo → 5. revisar incentivos por conductas no deseadas** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta participación, gaming de métricas; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe tres reconocimientos específicos y oportunos para personas de tu equipo.
+2. Pregunta a dos personas cómo prefieren ser reconocidas.
+3. Identifica un reconocimiento de tu organización que pueda ser controlador.
+4. Diseña un ritual de equipo para hacer visible el progreso.
+5. Escribe cómo reconocerías el trabajo menos visible de alguien.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar reconocimiento y recompensa como sinónimos | Se pierde la distinción entre “señal explícita de que una contribución fue observada y valorada” y “beneficio material o simbólico asociado a desempeño” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar incentivos por conductas no deseadas” | Se saltó “observar contribución específica” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. observar contribución específica → 2. explicar impacto y valor relacionado → 3. adaptar forma a la persona y contexto → 4. separar reconocimiento de favoritismo → 5. revisar incentivos por conductas no deseadas y marca el primer supuesto no demostrado. |
-| Optimizar solo participación | La métrica local sustituyó al resultado del sistema | Contrástala con gaming de métricas y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre motivación y reconocimiento | Reconocer no debe crear competencia tóxica ni exponer a personas que prefieren privacidad. Y el reconocimiento nunca sustituye compensación justa o condiciones de trabajo adecuadas. |
-| No fijar revisión | Una decisión sobre motivación y reconocimiento se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Elogio genérico | Es rápido | Decir qué hizo y qué efecto tuvo. |
+| Ranking individual | Parece motivador | Metas de equipo y reconocimiento a la colaboración. |
+| Suponer preferencias | Se generaliza | Preguntar a cada persona. |
+| Premiar siempre a los mismos | Se recuerda lo visible | Revisar los criterios y reconocer lo invisible. |
+| Reconocer sin cambiar condiciones | Se busca un gesto | Atender carga y recursos. |
+| Tardar semanas | Se acumula | Reconocer cerca del hecho. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **reconocimiento** y **recompensa** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **equidad** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **observar contribución específica → explicar impacto y valor relacionado** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **participación** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **motivación y reconocimiento**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Reconocer no debe crear competencia tóxica ni exponer a personas que prefieren privacidad. Y el reconocimiento nunca sustituye compensación justa o condiciones de trabajo adecuadas.**?
+1. ¿Qué diferencia hay entre el aspecto informativo y el controlador de un reconocimiento?
+2. ¿Qué es un reconocimiento específico?
+3. ¿Qué dice el principio de progreso?
+4. ¿Por qué hay que preguntar a cada persona cómo prefiere ser reconocida?
+5. Nombra tres tipos de reconocimiento que dañan.
+6. ¿Cuándo funcionan las recompensas contingentes según Pink?
+7. ¿Qué límite tiene el reconocimiento?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El informativo comunica competencia y progreso; el controlador presiona hacia una conducta con una recompensa.
+2. El que dice qué se hizo, qué efecto tuvo y, si corresponde, qué habilidad reveló.
+3. De los eventos de la vida laboral, avanzar en un trabajo con sentido es el más potente para la motivación diaria.
+4. Porque las preferencias varían y no se pueden adivinar.
+5. Genérico, controlador, comparativo injusto, tardío o inconsistente.
+6. En tareas rutinarias y bien definidas; en tareas creativas pueden ser contraproducentes.
+7. No compensa condiciones de trabajo injustas ni sobrecarga.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/057-motivacion-y-reconocimiento/`:
 
-- `leadership-decision-brief.md` con el problema específico de **motivación y reconocimiento**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **motivación y reconocimiento** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **reconocimiento**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **La empresa entrega premio mensual al 'héroe' que resuelve más incidentes. Con el tiempo, mejora la respuesta pero nadie invierte en prevención porque el reconocimiento premia apagar incendios.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el rediseño del caso ejecutivo;
+- `reading-note.md` con una tensión entre Ryan y Deci y Pink;
+- `decision-journal.md` con los reconocimientos que diste y su efecto.
 
 ## 📗 Fuentes y verificación
 
-- J. Richard Hackman — *Leading Teams* (Harvard Business School Press, 2002). **Uso en esta clase:** condiciones de efectividad de equipos y diseño del trabajo colectivo. Lectura selectiva sobre **motivación y reconocimiento**. **Localizador:** [ISBN-13 9781578513338](https://openlibrary.org/isbn/9781578513338).
-- Patrick Lencioni — *The Five Dysfunctions of a Team* (Pfeiffer, 2012). **Uso en esta clase:** confianza, conflicto, compromiso, accountability y resultados. Lectura selectiva sobre **motivación y reconocimiento**. **Localizador:** [ISBN-13 9781118127308](https://openlibrary.org/isbn/9781118127308).
-- Liz Wiseman — *Multipliers* (2017). **Uso en esta clase:** perspectiva de Liderazgo aplicada al problema de la clase. Lectura selectiva sobre **motivación y reconocimiento**. **Localizador:** [ISBN-13 9780062663078](https://openlibrary.org/isbn/9780062663078).
-- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** output managerial, leverage, reuniones, indicadores y gestión por procesos. Lectura selectiva sobre **motivación y reconocimiento**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
-- John Whitmore — *Coaching for Performance* (Ediciones Paidos Iberica, 2003). **Uso en esta clase:** perspectiva de Coaching aplicada al problema de la clase. Lectura selectiva sobre **motivación y reconocimiento**. **Localizador:** [ISBN-13 9788449314322](https://openlibrary.org/isbn/9788449314322).
-- Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams* (McGraw-Hill, 2005). **Uso en esta clase:** propósito compartido, habilidades complementarias y responsabilidad mutua. Lectura selectiva sobre **motivación y reconocimiento**. **Localizador:** [ISBN-13 9780077111687](https://openlibrary.org/isbn/9780077111687).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **motivación y reconocimiento** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **motivación y reconocimiento**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **motivación y reconocimiento** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **motivación y reconocimiento** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **motivación y reconocimiento** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Richard M. Ryan & Edward L. Deci — *Self-Determination Theory and the Facilitation of Intrinsic Motivation, Social Development, and Well-Being* (American Psychologist, 2000). **Uso en esta clase:** aspectos informativo y controlador de los eventos externos. Lectura selectiva sobre **motivación y reconocimiento**. **Localizador:** [DOI 10.1037/0003-066X.55.1.68](https://doi.org/10.1037/0003-066X.55.1.68).
+- Teresa M. Amabile & Steven J. Kramer — *The Progress Principle* (Harvard Business Review Press, 2011). **Uso en esta clase:** el principio de progreso. Lectura selectiva sobre **motivación y reconocimiento**. **Localizador:** [ISBN-13 9781422198575](https://openlibrary.org/isbn/9781422198575).
+- Daniel H. Pink — *Drive* (Riverhead Books, 2009). **Uso en esta clase:** autonomía, maestría y propósito, y límites de los incentivos. Lectura selectiva sobre **motivación y reconocimiento**. **Localizador:** [ISBN-13 9781594488849](https://openlibrary.org/isbn/9781594488849).
+- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** el efecto emocional del líder. Lectura selectiva sobre **motivación y reconocimiento**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
+- Kim Scott — *Radical Candor* (PAN MACMILLAN U.K, 2017). **Uso en esta clase:** cuidado personal en el reconocimiento. Lectura selectiva sobre **motivación y reconocimiento**. **Localizador:** [ISBN-13 9781509845385](https://openlibrary.org/isbn/9781509845385).
 
-> **Regla de fuentes para Motivación y reconocimiento:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **motivación y reconocimiento** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Motivación y reconocimiento:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

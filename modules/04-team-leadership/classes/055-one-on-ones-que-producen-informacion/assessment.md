@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **one-on-one** de **agenda compartida** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **signal** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **development thread** con **commitment**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué dice Grove sobre el propósito de la reunión uno a uno?
+2. ¿Por qué la reunión es «del colaborador»?
+3. ¿Cuáles son los tres bloques de la estructura propuesta?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una gerente cancela one-on-ones cuando hay mucho trabajo, precisamente cuando aumentan carga y conflictos. Las conversaciones terminan ocurriendo solo después de problemas visibles.
+**Caso:** Un gerente de ventas tiene doce personas a cargo y cancela los uno a uno «porque siempre hay algo urgente». Los vendedores saben que no se reúne con ellos desde hace dos meses; tres de ellos recibieron ofertas de otras empresas. La rotación subió. Él dice que «los resultados están bien» y que «si hay algo, me avisan». Hoy lo llama la directora para preguntar por la salida de un vendedor clave que él no sabía que estaba insatisfecho.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **mantener cadencia estable → recoger temas antes de la reunión → escuchar antes de convertirlo en status → tratar un tema de desarrollo → registrar compromisos y volver a ellos**. Debes utilizar o diseñar cómo obtener **cancelaciones, ratio status versus desarrollo, temas repetidos sin cierre**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de uno a uno** que contenga: (a) la frecuencia, duración y formato; (b) la estructura de tres bloques y las preguntas; (c) cómo darás feedback en esa reunión; (d) cómo registrarás y cumplirás los compromisos; (e) cómo cuidarás la confidencialidad; (f) cómo harás viable la práctica con doce personas. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Los one-on-ones no deben ser canales secretos para decisiones que afectan a otros. Mantén privacidad personal, pero documenta acuerdos operativos y usa procesos formales cuando corresponda.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las recomendaciones de Grove provienen de su experiencia en gestión y no de estudios sistemáticos; la frecuencia ideal depende del rol y de la madurez de la persona.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

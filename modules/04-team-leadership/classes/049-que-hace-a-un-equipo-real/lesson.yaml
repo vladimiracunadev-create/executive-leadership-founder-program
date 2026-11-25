@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Líder → Jefe"
 outcome: "crear equipos con propósito, coordinación, confianza, aprendizaje y accountability"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir equipo de grupo de trabajo mediante evidencia observable."
-  - "Aplicar la secuencia: definir resultado común → mapear interdependencias reales → decidir qué trabajo requiere coordinación colectiva → establecer normas y decisiones de equipo → medir outcome común además de outputs individuales."
-  - "Interpretar outcome común, handoffs, decisiones entre pares sin atribuir causalidad automática."
-  - "Resolver el caso de qué hace a un equipo real con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir grupo de trabajo, pseudoequipo y equipo real con criterios observables."
+  - "Ubicar a un equipo en la curva de desempeño de Katzenbach y Smith."
+  - "Enumerar las condiciones habilitantes de Hackman y evaluar cuáles faltan."
+  - "Decidir si un conjunto de personas necesita ser un equipo."
+  - "Reconocer el costo de crear equipos donde no hacen falta."
 deliverable: "people-decision-brief.md"
 references:
+  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
   - "J. Richard Hackman — *Leading Teams*"
   - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
-  - "Andrew S. Grove — *High Output Management*"
-  - "John Whitmore — *Coaching for Performance*"
-  - "Patrick Lencioni — *Death by Meeting*"
-  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+  - "Stanley McChrystal et al. — *Team of Teams*"
+  - "Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams*"
 limits:
-  - "Crear equipo donde no hay interdependencia puede agregar reuniones y conflicto sin valor. Algunas tareas funcionan mejor como grupo coordinado o comunidad de práctica."
+  - "La curva de Katzenbach y Smith es un modelo derivado de estudios de caso, no una medición, y los autores mismos la presentan como una herramienta de reflexión."
 evidence_signals:
-  - "outcome común"
-  - "handoffs"
-  - "decisiones entre pares"
-  - "retrabajo por coordinación"
-  - "dependencia del jefe"
+  - "ubicación en la curva con evidencia"
+  - "condiciones de Hackman evaluadas"
+  - "metas del equipo y no solo individuales"
+  - "decisión de si debe ser equipo"

@@ -281,7 +281,7 @@ usarse.
 
 | 📚 Obras registradas | 📎 Citas en clase | ✅ Con localizador comprobado | 🕓 Pendientes | 🏛️ Organismos | 📘 Clases |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **346** | **1906** | **340** | **6** | **81** | **288** |
+| **352** | **1834** | **346** | **6** | **82** | **288** |
 
 **Cobertura del registro: 100.0 %** — de todas las obras que las
 288 clases citan, esa proporción tiene entrada propia. De ellas,
@@ -297,16 +297,16 @@ y con su enlace, está en [docs/FUENTES.md](docs/FUENTES.md).**
 
 | Autor o emisor | Obra | Localizador | Clases |
 |---|---|---|---:|
-| Anders Ericsson & Robert Pool | *Peak* | [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143) | 73 |
-| Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel | *Make It Stick* | [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572) | 73 |
-| Susan A. Ambrose et al. | *How Learning Works* | [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601) | 73 |
-| Grant Wiggins & Jay McTighe | *Understanding by Design* | [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849) | 72 |
-| William Ellet | *The Case Study Handbook* | [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150) | 72 |
+| Anders Ericsson & Robert Pool | *Peak* | [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143) | 61 |
+| Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel | *Make It Stick* | [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572) | 61 |
+| Susan A. Ambrose et al. | *How Learning Works* | [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601) | 61 |
+| Grant Wiggins & Jay McTighe | *Understanding by Design* | [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849) | 60 |
+| William Ellet | *The Case Study Handbook* | [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150) | 60 |
 | Peter F. Drucker | *Management: Tasks, Responsibilities, Practices* | [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925) | 39 |
-| Peter F. Drucker | *The Effective Executive* | [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079) | 35 |
+| Peter F. Drucker | *The Effective Executive* | [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079) | 30 |
 | Andrew S. Grove | *High Output Management* | [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349) | 26 |
+| Michael E. Gerber | *The E-Myth Revisited* | [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901) | 25 |
 | Amy C. Edmondson | *The Fearless Organization* | [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242) | 24 |
-| Michael E. Gerber | *The E-Myth Revisited* | [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901) | 24 |
 
 <!-- registro-de-fuentes:fin -->
 

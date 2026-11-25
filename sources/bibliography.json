@@ -155,7 +155,8 @@
         "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
         "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
         "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
-        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion"
+        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
+        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes"
       ],
       "status": "verificada"
     },
@@ -212,18 +213,8 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/13-strategy-competition/classes/163-modelo-de-negocio",
-        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
-        "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
-        "modules/20-founder-venture-creation/classes/243-customer-discovery",
         "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema",
-        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
-        "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
-        "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
-        "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests",
-        "modules/20-founder-venture-creation/classes/249-pricing-temprano",
-        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
-        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos",
-        "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness"
+        "modules/20-founder-venture-creation/classes/246-modelo-de-negocio"
       ],
       "status": "verificada"
     },
@@ -244,11 +235,7 @@
         "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
         "modules/12-product-innovation/classes/147-customer-discovery",
         "modules/12-product-innovation/classes/148-jobs-to-be-done",
-        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
-        "modules/20-founder-venture-creation/classes/243-customer-discovery",
-        "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
-        "modules/20-founder-venture-creation/classes/249-pricing-temprano",
-        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos"
+        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor"
       ],
       "status": "verificada",
       "authority": "John Wiley & Sons, Incorporated"
@@ -333,18 +320,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
-        "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
-        "modules/20-founder-venture-creation/classes/243-customer-discovery",
-        "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema",
-        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
-        "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
-        "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
-        "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests",
-        "modules/20-founder-venture-creation/classes/249-pricing-temprano",
-        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
-        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos",
-        "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness",
         "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
         "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
         "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama",
@@ -579,7 +554,8 @@
       "used_in": [
         "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
         "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
-        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence"
+        "modules/18-corporate-finance-capital-ma/classes/226-due-diligence",
+        "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness"
       ],
       "status": "verificada",
       "authority": "Penguin Random House"
@@ -643,11 +619,6 @@
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
         "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo",
         "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
-        "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
-        "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema",
-        "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
-        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
-        "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness",
         "modules/22-scaling-business-ownership/classes/267-contratar-lideres",
         "modules/22-scaling-business-ownership/classes/269-controles-financieros-para-crecer",
         "modules/22-scaling-business-ownership/classes/271-multiunidad-y-portafolio",
@@ -763,17 +734,8 @@
       "locator": "https://openlibrary.org/isbn/9781299848641",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
         "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
-        "modules/20-founder-venture-creation/classes/243-customer-discovery",
-        "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema",
-        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
         "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
-        "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
-        "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests",
-        "modules/20-founder-venture-creation/classes/249-pricing-temprano",
-        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
-        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos",
         "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness",
         "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
         "modules/23-independence-capstone/classes/280-productized-services",
@@ -834,7 +796,8 @@
         "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
         "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
         "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion",
-        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control"
+        "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
+        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos"
       ],
       "status": "verificada",
       "authority": "Wiley"
@@ -1081,7 +1044,11 @@
         "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
         "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
         "modules/12-product-innovation/classes/147-customer-discovery",
-        "modules/12-product-innovation/classes/148-jobs-to-be-done"
+        "modules/12-product-innovation/classes/148-jobs-to-be-done",
+        "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
+        "modules/20-founder-venture-creation/classes/243-customer-discovery",
+        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
+        "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness"
       ],
       "status": "verificada",
       "authority": "HarperBusiness"
@@ -1199,7 +1166,10 @@
         "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
         "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
         "modules/12-product-innovation/classes/154-metricas-de-producto",
-        "modules/12-product-innovation/classes/155-product-market-fit"
+        "modules/12-product-innovation/classes/155-product-market-fit",
+        "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
+        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
+        "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests"
       ],
       "status": "verificada"
     },
@@ -1384,11 +1354,8 @@
         "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
         "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
         "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
-        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
         "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema",
-        "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
-        "modules/20-founder-venture-creation/classes/249-pricing-temprano",
-        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos"
+        "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir"
       ],
       "status": "verificada",
       "authority": "Wiley"
@@ -1427,7 +1394,9 @@
       "locator": "https://www.forentrepreneurs.com/saas-metrics-2/",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera"
+        "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
+        "modules/20-founder-venture-creation/classes/249-pricing-temprano",
+        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes"
       ],
       "status": "verificada"
     },
@@ -1785,10 +1754,11 @@
         "modules/12-product-innovation/classes/154-metricas-de-producto",
         "modules/12-product-innovation/classes/155-product-market-fit",
         "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
-        "modules/20-founder-venture-creation/classes/243-customer-discovery",
+        "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema",
         "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
+        "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
         "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests",
-        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
+        "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness",
         "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
         "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
         "modules/23-independence-capstone/classes/281-producto-digital-y-propiedad-intelectual",
@@ -1957,7 +1927,9 @@
         "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
         "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
         "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market",
-        "modules/12-product-innovation/classes/155-product-market-fit"
+        "modules/12-product-innovation/classes/155-product-market-fit",
+        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
+        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes"
       ],
       "status": "verificada"
     },
@@ -2021,18 +1993,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
-        "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
-        "modules/20-founder-venture-creation/classes/243-customer-discovery",
-        "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema",
-        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
-        "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
-        "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
-        "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests",
-        "modules/20-founder-venture-creation/classes/249-pricing-temprano",
-        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
-        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos",
-        "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness",
         "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
         "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
         "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama",
@@ -2629,7 +2589,8 @@
         "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional",
         "modules/14-organization-design-culture-change/classes/175-incentivos-y-comportamientos",
         "modules/14-organization-design-culture-change/classes/179-reorganizaciones-y-riesgos-humanos",
-        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team"
+        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
+        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos"
       ],
       "status": "verificada",
       "authority": "McGraw-Hill"
@@ -2921,7 +2882,8 @@
         "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos",
         "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
         "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise",
-        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success"
+        "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
+        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes"
       ],
       "status": "verificada",
       "authority": "Portfolio/Penguin"
@@ -3096,6 +3058,7 @@
       "locator": "https://openlibrary.org/isbn/9780060574901",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
         "modules/22-scaling-business-ownership/classes/265-de-fundador-operador-a-propietario",
         "modules/22-scaling-business-ownership/classes/266-sistemas-antes-que-heroicidad",
         "modules/22-scaling-business-ownership/classes/267-contratar-lideres",
@@ -3335,7 +3298,10 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
-        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido"
+        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
+        "modules/20-founder-venture-creation/classes/243-customer-discovery",
+        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
+        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes"
       ],
       "status": "verificada",
       "authority": "Highbridge Audio"
@@ -3410,12 +3376,8 @@
         "modules/18-corporate-finance-capital-ma/classes/222-fundraising-y-narrativa-financiera",
         "modules/18-corporate-finance-capital-ma/classes/223-cap-table-y-dilucion",
         "modules/18-corporate-finance-capital-ma/classes/224-term-sheets-economia-y-control",
-        "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
-        "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema",
-        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
-        "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
-        "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
-        "modules/20-founder-venture-creation/classes/249-pricing-temprano",
+        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
+        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos",
         "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness",
         "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
         "modules/23-independence-capstone/classes/281-producto-digital-y-propiedad-intelectual",
@@ -3594,18 +3556,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
-        "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
-        "modules/20-founder-venture-creation/classes/243-customer-discovery",
-        "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema",
-        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
-        "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
-        "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
-        "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests",
-        "modules/20-founder-venture-creation/classes/249-pricing-temprano",
-        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
-        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos",
-        "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness",
         "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
         "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
         "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama",
@@ -3730,11 +3680,6 @@
         "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
         "modules/14-organization-design-culture-change/classes/171-spans-layers-y-managerial-load",
         "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
-        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
-        "modules/20-founder-venture-creation/classes/243-customer-discovery",
-        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
-        "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests",
-        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos",
         "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
         "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
         "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
@@ -4209,11 +4154,8 @@
       "used_in": [
         "modules/12-product-innovation/classes/147-customer-discovery",
         "modules/12-product-innovation/classes/148-jobs-to-be-done",
-        "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
-        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
-        "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests",
-        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
-        "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness"
+        "modules/20-founder-venture-creation/classes/243-customer-discovery",
+        "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir"
       ],
       "status": "verificada",
       "authority": "CreateSpace"
@@ -4703,18 +4645,12 @@
         "modules/12-product-innovation/classes/147-customer-discovery",
         "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
         "modules/12-product-innovation/classes/155-product-market-fit",
-        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
         "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
         "modules/20-founder-venture-creation/classes/243-customer-discovery",
         "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema",
-        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
         "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
         "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
-        "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests",
-        "modules/20-founder-venture-creation/classes/249-pricing-temprano",
-        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
-        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos",
-        "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness"
+        "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests"
       ],
       "status": "verificada",
       "authority": "[Steve Blank?]"
@@ -4833,18 +4769,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
-        "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
-        "modules/20-founder-venture-creation/classes/243-customer-discovery",
-        "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema",
-        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
-        "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
-        "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
-        "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests",
-        "modules/20-founder-venture-creation/classes/249-pricing-temprano",
-        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
-        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos",
-        "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness",
         "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
         "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
         "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama",
@@ -4904,7 +4828,10 @@
         "modules/12-product-innovation/classes/147-customer-discovery",
         "modules/12-product-innovation/classes/148-jobs-to-be-done",
         "modules/12-product-innovation/classes/149-prototipos-y-aprendizaje-temprano",
-        "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes"
+        "modules/12-product-innovation/classes/151-roadmap-orientado-a-outcomes",
+        "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
+        "modules/20-founder-venture-creation/classes/243-customer-discovery",
+        "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests"
       ],
       "status": "verificada"
     },
@@ -4965,7 +4892,8 @@
       "used_in": [
         "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
         "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
-        "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise"
+        "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise",
+        "modules/20-founder-venture-creation/classes/249-pricing-temprano"
       ],
       "status": "verificada",
       "authority": "Taylor & Francis Group"
@@ -5129,18 +5057,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
-        "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
-        "modules/20-founder-venture-creation/classes/243-customer-discovery",
-        "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema",
-        "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
-        "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
-        "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
-        "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests",
-        "modules/20-founder-venture-creation/classes/249-pricing-temprano",
-        "modules/20-founder-venture-creation/classes/250-primeros-diez-clientes",
-        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos",
-        "modules/20-founder-venture-creation/classes/252-capstone-launch-readiness",
         "modules/21-chile-founder-track/classes/253-mapa-del-ciclo-empresarial-en-chile",
         "modules/21-chile-founder-track/classes/254-persona-natural-y-persona-juridica-decisiones-iniciales",
         "modules/21-chile-founder-track/classes/255-res-y-tipos-societarios-panorama",
@@ -6614,7 +6530,8 @@
       "locator": "https://doi.org/10.1287/mksc.4.3.199",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones"
+        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
+        "modules/20-founder-venture-creation/classes/249-pricing-temprano"
       ],
       "status": "verificada"
     },
@@ -6634,7 +6551,8 @@
       "locator": "https://doi.org/10.1162/00335530360535153",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones"
+        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
+        "modules/20-founder-venture-creation/classes/249-pricing-temprano"
       ],
       "status": "verificada"
     },
@@ -6699,7 +6617,8 @@
         "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
         "modules/11-marketing-customers-growth/classes/143-growth-loops-y-experimentacion",
         "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
-        "modules/12-product-innovation/classes/154-metricas-de-producto"
+        "modules/12-product-innovation/classes/154-metricas-de-producto",
+        "modules/20-founder-venture-creation/classes/249-pricing-temprano"
       ],
       "status": "verificada"
     },
@@ -7963,6 +7882,123 @@
         "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
         "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
         "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "thomas-hellmann-noam-wasserman-the-first-deal-the-division-of-founder-equity-in",
+      "type": "paper",
+      "authors": [
+        "Hellmann, Thomas",
+        "Wasserman, Noam"
+      ],
+      "title": "The First Deal: The Division of Founder Equity in New Ventures",
+      "cited_as": "Thomas Hellmann & Noam Wasserman — The First Deal: The Division of Founder Equity in New Ventures",
+      "authority": "Management Science",
+      "published": "2017",
+      "doi": "10.1287/mnsc.2016.2474",
+      "locator": "https://doi.org/10.1287/mnsc.2016.2474",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "martin-ruef-howard-e-aldrich-nancy-m-carter-the-structure-of-founding-teams-homo",
+      "type": "paper",
+      "authors": [
+        "Ruef, Martin",
+        "Aldrich, Howard E.",
+        "Carter, Nancy M."
+      ],
+      "title": "The Structure of Founding Teams: Homophily, Strong Ties, and Isolation among U.S. Entrepreneurs",
+      "cited_as": "Martin Ruef, Howard E. Aldrich & Nancy M. Carter — The Structure of Founding Teams: Homophily, Strong Ties, and Isolation among U.S. Entrepreneurs",
+      "authority": "American Sociological Review",
+      "published": "2003",
+      "doi": "10.1177/000312240306800202",
+      "locator": "https://doi.org/10.1177/000312240306800202",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/20-founder-venture-creation/classes/251-cofundadores-equity-y-acuerdos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "david-s-evans-boyan-jovanovic-an-estimated-model-of-entrepreneurial-choice-under",
+      "type": "paper",
+      "authors": [
+        "Evans, David S.",
+        "Jovanovic, Boyan"
+      ],
+      "title": "An Estimated Model of Entrepreneurial Choice under Liquidity Constraints",
+      "cited_as": "David S. Evans & Boyan Jovanovic — An Estimated Model of Entrepreneurial Choice under Liquidity Constraints",
+      "authority": "Journal of Political Economy",
+      "published": "1989",
+      "doi": "10.1086/261629",
+      "locator": "https://doi.org/10.1086/261629",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "william-r-kerr-ramana-nanda-matthew-rhodes-kropf-entrepreneurship-as-experimenta",
+      "type": "paper",
+      "authors": [
+        "Kerr, William R.",
+        "Nanda, Ramana",
+        "Rhodes-Kropf, Matthew"
+      ],
+      "title": "Entrepreneurship as Experimentation",
+      "cited_as": "William R. Kerr, Ramana Nanda & Matthew Rhodes-Kropf — Entrepreneurship as Experimentation",
+      "authority": "Journal of Economic Perspectives",
+      "published": "2014",
+      "doi": "10.1257/jep.28.3.25",
+      "locator": "https://doi.org/10.1257/jep.28.3.25",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
+        "modules/20-founder-venture-creation/classes/244-hipotesis-de-cliente-y-problema"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "saras-d-sarasvathy-causation-and-effectuation-toward-a-theoretical-shift-from-ec",
+      "type": "paper",
+      "authors": [
+        "Sarasvathy, Saras D."
+      ],
+      "title": "Causation and Effectuation: Toward a Theoretical Shift from Economic Inevitability to Entrepreneurial Contingency",
+      "cited_as": "Saras D. Sarasvathy — Causation and Effectuation: Toward a Theoretical Shift from Economic Inevitability to Entrepreneurial Contingency",
+      "authority": "The Academy of Management Review",
+      "published": "2001",
+      "doi": "10.2307/259121",
+      "locator": "https://doi.org/10.2307/259121",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "ash-maurya-running-lean",
+      "type": "book",
+      "authors": [
+        "Maurya, Ash"
+      ],
+      "title": "Running Lean",
+      "cited_as": "Ash Maurya — Running Lean",
+      "authority": "O'Reilly Media",
+      "published": "2012",
+      "isbn13": "9781449305178",
+      "locator": "https://openlibrary.org/isbn/9781449305178",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
+        "modules/20-founder-venture-creation/classes/247-validacion-antes-de-construir",
+        "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests"
       ],
       "status": "verificada"
     }

@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 6 — Founder"
 outcome: "descubrir, validar y lanzar una empresa antes de escalarla"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir demand test de pre-sale mediante evidencia observable."
-  - "Aplicar la secuencia: priorizar riesgo de demanda → diseñar test mínimo → definir commitment observable → ejecutar con segmento real → decidir build change o stop."
-  - "Interpretar qualified leads, pre-orders, deposit rate sin atribuir causalidad automática."
-  - "Resolver el caso de validación antes de construir con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir opinión, comportamiento y compromiso como tipos de evidencia."
+  - "Ordenar pruebas desde la más barata hasta la más costosa."
+  - "Fijar criterios de éxito y fracaso antes de ejecutar una prueba."
+  - "Diseñar una prueba de demanda sin construir el producto."
+  - "Decidir seguir, ajustar o detener con base en la evidencia reunida."
 deliverable: "founder-owner-decision-brief.md"
 references:
-  - "Steve Blank — *The Four Steps to the Epiphany*"
-  - "Alexander Osterwalder & Yves Pigneur — *Business Model Generation*"
-  - "Ben Horowitz — *The Hard Thing About Hard Things*"
-  - "Noam Wasserman — *The Founder's Dilemmas*"
+  - "Eric Ries — *The Lean Startup*"
+  - "Rob Fitzpatrick — *The Mom Test*"
   - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
-  - "Bill Aulet — *Disciplined Entrepreneurship*"
+  - "Steve Blank — *The Four Steps to the Epiphany*"
+  - "Ash Maurya — *Running Lean*"
 limits:
-  - "No vendas algo que no puedes entregar ni engañes con fake doors sin transparencia adecuada. Diseña experimentos éticos y cumple compromisos."
+  - "Las pruebas sin producto no miden retención ni calidad de entrega."
 evidence_signals:
-  - "qualified leads"
-  - "pre-orders"
-  - "deposit rate"
-  - "conversion"
-  - "customer interviews after test"
+  - "evidencia clasificada por compromiso"
+  - "criterios previos escritos"
+  - "falsos positivos descartados"
+  - "decisión de seguir ajustar o detener"

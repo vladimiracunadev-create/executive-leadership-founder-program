@@ -39,6 +39,12 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 20 completa** (241–252): founder y creación de empresas como conocimiento con fuente y diagrama a medida:
+  founder, freelance y empresario (Evans y Jovanovic, Kerr y otros, Sarasvathy), problemas valiosos, customer discovery
+  (Blank, Fitzpatrick), hipótesis de cliente (Maurya), propuesta de valor (Osterwalder, Christensen y otros), modelo de
+  negocio, validación antes de construir (Ries, Bland), MVP y concierge tests (Olsen, Torres), pricing temprano (Nagle,
+  Thaler, Ariely, Kohavi), primeros diez clientes (Moore, Ross, Rackham, Dixon, Skok), cofundadores y equity (Wasserman,
+  Hellmann, Ruef, Feld, Katzenbach) y capstone de launch readiness (Aulet, Gawande).
 - **La parte 19 completa** (229–240): tecnología como capacidad de negocio (Iansiti y Lakhani, Westerman y otros),
   estrategia digital (Shapiro y Varian), economía de la nube (Armbrust y otros, FinOps), datos como activo
   operativo (Kleppmann, Dehghani), portafolio de IA (Agrawal, Gans y Goldfarb, NIST), automatización y rediseño

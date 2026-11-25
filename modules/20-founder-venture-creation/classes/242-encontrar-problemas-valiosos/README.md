@@ -10,217 +10,209 @@
 
 ## 🎯 Propósito
 
-Los problemas valiosos combinan frecuencia, intensidad, presupuesto, urgencia, accesibilidad del cliente y posibilidad de construir ventaja. Una idea interesante no es oportunidad hasta que existe evidencia de que alguien experimenta el problema y prioriza resolverlo.
+La mayoría de los emprendimientos no fracasa por mala ejecución sino por resolver un problema que nadie estaba dispuesto a pagar por resolver. Se construye una solución elegante a una molestia menor, se lanza con entusiasmo y se descubre, meses después, que los clientes potenciales aplauden pero no compran. La causa casi siempre está en el origen: el fundador se enamoró de una **idea** antes de entender un **problema**. Un problema valioso se reconoce por cuatro rasgos: duele de verdad, ocurre con frecuencia, alguien tiene presupuesto para resolverlo y hay un grupo de personas accesibles que lo viven y que se pueden encontrar. Descubrirlo es un trabajo de observación y de conversación antes de ser un trabajo de ingeniería.
 
-La salida de esta parte es **descubrir, validar y lanzar una empresa antes de escalarla**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **encontrar problemas valiosos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase propone un método para listar problemas desde la experiencia y la observación, puntuarlos por dolor, frecuencia y presupuesto, entrevistar a segmentos accesibles, contrastarlos con el tamaño y la competencia y elegir uno para validar. Se apoya en Blank sobre el descubrimiento de clientes, en Aulet sobre la selección de un mercado inicial, en el enfoque de «trabajos por hacer» de Christensen y colaboradores, en los hábitos de descubrimiento continuo de Torres y en el análisis de producto de Olsen. Al terminar sabrás generar una lista de problemas, puntuarlos con criterios explícitos, identificar el sesgo de accesibilidad y elegir con evidencia el problema que merece los próximos meses de tu vida.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `problem value`, `frequency`, `urgency`, `budget`, `access` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de founder.
-3. **Aplicar** la secuencia **1. listar problemas desde experiencia y observación → 2. puntuar dolor frecuencia y budget → 3. entrevistar segmentos accesibles → 4. buscar workarounds y spend → 5. seleccionar problema para validar** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** problem frequency, current spend, time loss sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** un problema valioso de una molestia o de una idea.
+2. **Generar** una lista de problemas desde la experiencia y la observación.
+3. **Puntuar** problemas por dolor, frecuencia, presupuesto, accesibilidad y tamaño.
+4. **Detectar** el sesgo de accesibilidad y estimar el tamaño del mercado de abajo hacia arriba.
+5. **Elegir** un problema y definir cómo se validará.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define problem value y frequency sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con problem frequency y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué problema has visto repetirse en tu trabajo y a quién le duele más? |
+| 20–60 min | Qué es un problema valioso, fuentes, puntuación, entrevistas, tamaño y elección. |
+| 60–105 min | Ejemplo trabajado: ocho problemas de logística puntuados y verificados. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **problem value** | impacto económico funcional o emocional de un problema para un cliente | Distingue un hecho compatible y otro que lo refute. |
-| **frequency** | cuán a menudo ocurre | Distingue un hecho compatible y otro que lo refute. |
-| **urgency** | velocidad con que el cliente necesita resolver | Distingue un hecho compatible y otro que lo refute. |
-| **budget** | recursos disponibles o reasignables para solución | Distingue un hecho compatible y otro que lo refute. |
-| **access** | capacidad real de llegar y aprender de clientes potenciales | Distingue un hecho compatible y otro que lo refute. |
+| **Problema valioso** | Dificultad que duele, es frecuente y tiene presupuesto. | Hay quien paga por resolverla. |
+| **Trabajo por hacer (*job to be done*)** | Progreso que una persona intenta lograr en una situación. | «Cuando…, quiero…, para…». |
+| **Dolor** | Costo de no resolver el problema, en tiempo, dinero o riesgo. | Se cuantifica o se describe con ejemplos. |
+| **Frecuencia** | Cuán a menudo ocurre el problema. | Diaria, semanal, mensual. |
+| **Presupuesto** | Capacidad y disposición de pagar por resolverlo. | Gasto actual en alternativas. |
+| **Sesgo de accesibilidad** | Elegir lo que está cerca y no lo que es más valioso. | Se elige por conocidos, no por mercado. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 242: 1. listar problemas desde experiencia y observación → 2. puntuar dolor frecuencia y budget → 3. entrevistar segmentos accesibles → 4. buscar workarounds y spend → 5. seleccionar problema para validar](modelo-mental.svg)
+![Elegir problemas por dolor y frecuencia: nicho de alto valor, problema prioritario, descartar y molestia frecuente.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. listar problemas desde experiencia y observación → 2. puntuar dolor frecuencia y budget → 3. entrevistar segmentos accesibles → 4. buscar workarounds y spend → 5. seleccionar problema para validar
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Los problemas valiosos combinan frecuencia, intensidad, presupuesto, urgencia, accesibilidad del cliente y posibilidad de construir ventaja. Una idea interesante no es oportunidad hasta que existe evidencia de que alguien experimenta el problema y prioriza resolverlo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Elegir por accesibilidad puede sesgar hacia oportunidades pequeñas; úsala como ventaja de aprendizaje inicial y luego valida tamaño y competencia antes de comprometer.**
+**Cómo leer el diagrama.** Un cuadrante con la frecuencia en el eje horizontal (poco frecuente o frecuente) y el dolor en el vertical (poco o muy doloroso). **Muy doloroso y frecuente**: problema prioritario, que se investiga a fondo y se valida el pago. **Muy doloroso pero poco frecuente**: nicho de alto valor, que puede pagar bien si el segmento es alcanzable. **Frecuente pero poco doloroso**: molestia frecuente, donde la pregunta es si alguien pagaría. **Poco doloroso y poco frecuente**: se descarta. La nota advierte que elegir por accesibilidad puede llevar a oportunidades pequeñas; el pie, que un problema es valioso si alguien tiene presupuesto y urgencia.
 
 ## 📖 Desarrollo
 
-### 1. problem value: mecanismo central
+### 1. Problema frente a idea
 
-**problem value** se entiende aquí como **impacto económico funcional o emocional de un problema para un cliente**. Esta es la pieza causal o estructural desde la que se inicia **encontrar problemas valiosos**: antes de listar problemas desde experiencia y observación, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Una **idea** es una solución imaginada («una aplicación que haga X»); un **problema** es una dificultad vivida por alguien («los transportistas pierden tres horas a la semana conciliando facturas»). Blank insiste en que los emprendedores deben **salir del edificio** para entender a los clientes antes de definir el producto: lo que se sabe en un escritorio son hipótesis. Partir de un problema tiene ventajas prácticas: se puede **verificar** (¿existe, a quién le ocurre, cuánto cuesta?), admite **varias soluciones** y obliga a pensar en el cliente. Partir de una idea suele producir una búsqueda de confirmación. La regla: **enamorarse del problema, no de la solución**, y mantener la solución flexible hasta tener evidencia.
 
-La lectura rectora de este bloque es Steve Blank — *The Four Steps to the Epiphany*. Su aporte se usa para examinar **customer development y búsqueda sistemática de un modelo de negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **problem frequency**; regístrala con periodo, unidad, población y baseline.
+### 2. Dónde encontrar problemas
 
-Relaciona el mecanismo con **frequency**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Las fuentes más fértiles son: la **experiencia propia** (problemas vividos en el trabajo o en la vida, con ventaja de conocimiento y credibilidad); la **observación** (cómo trabajan realmente las personas, qué rodeos hacen, qué planillas paralelas mantienen); las **conversaciones** con personas de un sector («¿qué es lo más molesto de tu semana?»); las **quejas** repetidas (reseñas, foros, correos de soporte); los **parches** (soluciones improvisadas con planillas y mensajes que indican una necesidad insatisfecha); y los **cambios** (nueva regulación, tecnología o conducta que crean problemas nuevos). Christensen y colaboradores proponen mirar el **trabajo por hacer**: qué progreso quiere lograr una persona en una situación concreta; ese marco ayuda a distinguir lo que alguien hace de lo que realmente intenta conseguir.
 
-### 2. frequency: frontera conceptual y error de clasificación
+### 3. Puntuar con criterios explícitos
 
-**Definición operacional:** cuán a menudo ocurre. Su valor está en distinguirlo de **problem value** y **urgency**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Para no elegir por entusiasmo, se arma una **matriz** con criterios y pesos: **dolor** (cuánto cuesta el problema), **frecuencia**, **presupuesto** (¿hay gasto actual en alternativas?), **accesibilidad** (¿puedo llegar a estas personas?) y **tamaño** (¿cuántos son?). Aulet recomienda elegir un **mercado inicial** acotado, donde el fundador pueda conseguir clientes de referencia y construir ventaja antes de expandirse. Los pesos reflejan la etapa y las metas (clase 241): quien busca un negocio estable pondera más el presupuesto y la accesibilidad; quien busca un modelo escalable, el tamaño. La puntuación es una **hipótesis** que se contrasta con conversaciones; se registra la evidencia que respalda cada nota.
 
-Contrasta el problema con Alexander Osterwalder & Yves Pigneur — *Business Model Generation*, que aporta una mirada sobre **diseño de modelos de negocio mediante propuesta, clientes, recursos y economía**. Formula dos mini-casos: uno que sí satisface la definición de **frequency** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **current spend** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Entrevistar antes de decidir
 
-Antes de puntuar dolor frecuencia y budget, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Con una lista corta (tres a cinco problemas), se realizan **conversaciones** con personas que viven el problema (clase 243). El objetivo no es vender una idea sino entender: ¿cómo lo resuelven hoy?, ¿cuánto tiempo o dinero pierden?, ¿qué han intentado?, ¿qué pasaría si no se resolviera? Torres propone un hábito de **descubrimiento continuo**: conversaciones frecuentes y pequeñas, desde el inicio, para alimentar las decisiones. Se buscan **patrones** entre entrevistas (cuántos describen el mismo dolor, con qué intensidad, con qué gasto) y se compara con las notas iniciales: los problemas que parecían muy valiosos en la matriz pueden desinflarse en la conversación, y viceversa.
 
-### 3. urgency: operacionalización y medición
+### 5. El sesgo de accesibilidad
 
-**urgency** significa **velocidad con que el cliente necesita resolver**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Elegir por **accesibilidad** (los clientes que conozco, el sector en que trabajo) es una ventaja para aprender rápido, pero un riesgo si conduce a una **oportunidad pequeña**: ¿hay suficientes clientes como los que conozco? ¿Pagarán lo suficiente? ¿Hay competidores bien ubicados? Se usa la accesibilidad como **punto de partida** y luego se valida el **tamaño** con un cálculo de abajo hacia arriba (número de clientes alcanzables × precio realista × frecuencia) y se examina la **competencia** (incluida la «no acción»). Se pregunta con honestidad si el problema, aun resuelto, sostiene el modelo de negocio que se quiere (freelance, negocio estable o empresa escalable, clase 241).
 
-Noam Wasserman — *The Founder's Dilemmas* orienta este bloque mediante **dilemas de fundador, equity, control, equipo y decisiones tempranas**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **time loss**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Evidencia de presupuesto: ¿quién paga hoy?
 
-Al llegar a entrevistar segmentos accesibles, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El mejor indicador de un problema valioso es que **alguien ya está gastando** para resolverlo, aunque sea mal: contratando a una persona, usando un software inadecuado, pagando multas por no resolverlo o perdiendo ventas. Si nadie gasta tiempo ni dinero, es probable que el problema no duela lo suficiente. Se distinguen el **usuario** (quien sufre el problema), el **comprador** (quien decide y paga) y el **influenciador**; a veces el que sufre no tiene presupuesto (clase 243). También se examinan las **alternativas actuales** (incluida la planilla y el correo): el competidor más frecuente es el hábito. Un problema con alternativas satisfactorias, o sin consecuencias por no resolverse, es una oportunidad débil.
 
-### 4. budget: trade-offs y efectos de segundo orden
+### 7. Elegir y prepararse para validar
 
-**Definición:** recursos disponibles o reasignables para solución. Este concepto obliga a abandonar la idea de que **encontrar problemas valiosos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de buscar workarounds y spend, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Rob Fitzpatrick — *The Mom Test* aporta una lente sobre **perspectiva de Customer discovery aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **decision urgency** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **encontrar problemas valiosos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **budget** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. access: gobernanza, límites e integración
-
-**access** se define como **capacidad real de llegar y aprender de clientes potenciales** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Ben Horowitz — *The Hard Thing About Hard Things* se utiliza para estudiar **decisiones difíciles de CEO, organización, personas y ejecución bajo presión** y contrastar la recomendación final. Al ejecutar seleccionar problema para validar, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Elegir por accesibilidad puede sesgar hacia oportunidades pequeñas; úsala como ventaja de aprendizaje inicial y luego valida tamaño y competencia antes de comprometer.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **problem value**, **frequency**, **urgency**, **budget** y **access** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **encontrar problemas valiosos** no consiste en sumar cinco definiciones. Empieza por **problem value**, contrasta **frequency** con **urgency**, incorpora **budget** como restricción o mecanismo y usa **access** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. listar problemas desde experiencia y observación → 2. puntuar dolor frecuencia y budget → 3. entrevistar segmentos accesibles → 4. buscar workarounds y spend → 5. seleccionar problema para validar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La decisión no es definitiva: se elige un problema para **validarlo** con el siguiente paso (hipótesis de cliente y de problema, clase 244, y pruebas de demanda, clase 247). Se escribe: el segmento, el problema, la consecuencia, la alternativa actual, la evidencia disponible, lo que faltaría saber y qué evidencia haría **continuar, cambiar o descartar**. Se asigna un **plazo** (por ejemplo, 30 días) y un **costo máximo**. Kerr, Nanda y Rhodes-Kropf describen el emprendimiento como experimentación: la ventaja está en probar varias oportunidades con bajo costo. Si el problema elegido no resiste la validación, la lista permite volver a otro candidato sin empezar de cero.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Steve Blank — *The Four Steps to the Epiphany* | customer development y búsqueda sistemática de un modelo de negocio | ¿Qué supuesto de **encontrar problemas valiosos** ayuda a desafiar? |
-| Alexander Osterwalder & Yves Pigneur — *Business Model Generation* | diseño de modelos de negocio mediante propuesta, clientes, recursos y economía | ¿Qué supuesto de **encontrar problemas valiosos** ayuda a desafiar? |
-| Noam Wasserman — *The Founder's Dilemmas* | dilemas de fundador, equity, control, equipo y decisiones tempranas | ¿Qué supuesto de **encontrar problemas valiosos** ayuda a desafiar? |
-| Rob Fitzpatrick — *The Mom Test* | perspectiva de Customer discovery aplicada al problema de la clase | ¿Qué supuesto de **encontrar problemas valiosos** ayuda a desafiar? |
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **encontrar problemas valiosos** ayuda a desafiar? |
-
-En **encontrar problemas valiosos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **problem value**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Blank | Salir a descubrir clientes antes de construir. | Enfoque de startups tecnológicas. | ¿Qué hipótesis tengo que aún no he salido a probar? |
+| Aulet | Elegir un mercado inicial acotado y alcanzable. | Método con muchas etapas. | ¿Cuál es mi mercado inicial? |
+| Christensen y otros | Trabajos por hacer: el progreso que busca la persona. | Marco conceptual. | ¿Qué progreso intenta lograr? |
+| Torres | Hábitos de descubrimiento continuo con clientes. | Orientado a equipos de producto. | ¿Con cuántos clientes hablo cada semana? |
+| Olsen | Ajuste entre producto y mercado a partir de necesidades. | Enfoque de producto. | ¿Qué necesidad no satisfecha existe? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un founder tiene tres ideas: app social masiva, automatización para contadores que conoce y herramienta médica. Solo puede entrevistar contadores esta semana y ya pagan por planillas y manualidad.
+**Situación (hipotética).** Un ex jefe de operaciones de una empresa de transporte quiere emprender en logística. Lista ocho problemas y los califica de 1 a 5 con estos pesos: dolor 35 %, frecuencia 20 %, presupuesto 25 %, accesibilidad 10 % y tamaño 10 %.
 
-**Paso 1 — listar problemas desde experiencia y observación.** La gerencia escribe primero el supuesto asociado a **problem value** y evita convertirlo en hecho. Luego busca **problem frequency** para contrastarlo en el caso de **encontrar problemas valiosos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| # | Problema | Dolor | Frecuencia | Presupuesto | Accesibilidad | Tamaño | Puntaje |
+|---|---|---|---|---|---|---|---|
+| P1 | Programar rutas y turnos | 4 | 5 | 3 | 5 | 3 | 3,95 |
+| P2 | Conciliar facturas con guías de despacho | 5 | 3 | 5 | 4 | 4 | 4,40 |
+| P3 | Documentación de conductores | 3 | 5 | 2 | 4 | 2 | 3,15 |
+| P4 | Control de combustible | 3 | 4 | 3 | 3 | 3 | 3,20 |
+| P5 | Prueba de entrega para clientes | 4 | 5 | 4 | 3 | 4 | 4,10 |
+| P6 | Gestión de devoluciones | 2 | 2 | 2 | 3 | 2 | 2,10 |
+| P7 | Reclamos por daños | 5 | 2 | 4 | 3 | 3 | 3,75 |
+| P8 | Optimización de rutas | 4 | 4 | 3 | 2 | 5 | 3,65 |
 
-**Paso 2 — puntuar dolor frecuencia y budget.** La gerencia escribe primero el supuesto asociado a **frequency** y evita convertirlo en hecho. Luego busca **current spend** para contrastarlo en el caso de **encontrar problemas valiosos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+(Cálculo de P2: 0,35×5 + 0,20×3 + 0,25×5 + 0,10×4 + 0,10×4 = 1,75 + 0,60 + 1,25 + 0,40 + 0,40 = 4,40. P5: 1,40 + 1,00 + 1,00 + 0,30 + 0,40 = 4,10. P1: 1,40 + 1,00 + 0,75 + 0,50 + 0,30 = 3,95.)
 
-**Paso 3 — entrevistar segmentos accesibles.** La gerencia escribe primero el supuesto asociado a **urgency** y evita convertirlo en hecho. Luego busca **time loss** para contrastarlo en el caso de **encontrar problemas valiosos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Candidatos.** P2 (4,40), P5 (4,10) y P1 (3,95).
 
-**Paso 4 — buscar workarounds y spend.** La gerencia escribe primero el supuesto asociado a **budget** y evita convertirlo en hecho. Luego busca **decision urgency** para contrastarlo en el caso de **encontrar problemas valiosos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Conversaciones.** Doce entrevistas con dueños y jefes de operaciones de transportistas medianos.
 
-**Paso 5 — seleccionar problema para validar.** La gerencia escribe primero el supuesto asociado a **access** y evita convertirlo en hecho. Luego busca **customer access** para contrastarlo en el caso de **encontrar problemas valiosos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Problema | Describen el dolor con ejemplos | Pierden al menos 3 horas por semana | Gastan hoy en alternativas |
+|---|---|---|---|
+| P2 conciliación | 9 de 12 | 8 de 12 | 7 de 12 (contratan un asistente o usan un servicio) |
+| P5 prueba de entrega | 7 de 12 | 4 de 12 | 3 de 12 |
+| P1 programación | 8 de 12 | 6 de 12 | 4 de 12 |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **encontrar problemas valiosos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+La conciliación (P2) confirma su lugar: el 67 % pierde tres horas o más (8 ÷ 12) y el 58 % ya gasta dinero (7 ÷ 12).
+
+**Estimación del tamaño (de abajo hacia arriba).** En el país hay unos 2.400 transportistas medianos; el 35 % tiene más de 10 camiones: 840. Con un precio de 90.000 pesos al mes: 840 × 90.000 × 12 = **907,2 millones de pesos al año** de ingresos potenciales con el segmento accesible. Si el objetivo fuese una empresa de alto crecimiento (metas de 1.500 millones o más), el mercado inicial es insuficiente y habría que ampliar el segmento o el precio; si fuese un negocio estable, 907 millones es muy atractivo.
+
+**Control del sesgo de accesibilidad.** El fundador conoce a 15 transportistas, lo que le da acceso rápido; pero se verifica con entrevistas a 6 empresas fuera de su red (de las 12): el patrón se repite (4 de 6 pierden más de 3 horas).
+
+**Competencia.** Existen dos servicios de conciliación genéricos y un módulo de un sistema de gestión; 5 de 12 usan planillas y asistentes. La alternativa principal es el hábito.
+
+**Decisión.** Elegir **P2 (conciliación de facturas y guías)** para validar en 30 días con un costo máximo de 400.000 pesos; escribir las hipótesis (clase 244); dejar P5 como alternativa si la validación falla; y definir qué evidencia haría descartar P2 (menos de 4 de 10 nuevas entrevistas con gasto actual o rechazo a pagar 90.000 al mes).
+
+**Cuidados.** Las puntuaciones son subjetivas y se sustentan en la evidencia de las entrevistas; el tamaño depende de supuestos de precio y de segmentación; los datos de entrevistados se tratan con confidencialidad y conforme a la ley; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La matriz ordenó las alternativas. (2) Las entrevistas confirmaron o corrigieron las notas. (3) El tamaño de abajo hacia arriba y la prueba fuera de la red controlaron los sesgos.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **problem value** | impacto económico funcional o emocional de un problema para un cliente | Cuando problem frequency es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **frequency** | cuán a menudo ocurre | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Problema valioso frente a oportunidad de mercado.** Un problema valioso es condición necesaria, no suficiente: también se necesitan un mercado alcanzable, un modelo de negocio y la capacidad de ejecutarlo.
 
-**Frontera de aplicación:** Elegir por accesibilidad puede sesgar hacia oportunidades pequeñas; úsala como ventaja de aprendizaje inicial y luego valida tamaño y competencia antes de comprometer.
+**Límites.** Elegir por accesibilidad puede sesgar hacia oportunidades pequeñas: se usa como ventaja de aprendizaje inicial y luego se valida el tamaño y la competencia. Las puntuaciones son juicios. Las entrevistas con pocas personas no son una muestra estadística. El tamaño de mercado depende de supuestos. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre encontrar problemas valiosos |
+| Nivel | Cómo se relaciona con los problemas |
 |---|---|
-| **Profesional** | usa **encontrar problemas valiosos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **problem value** y **frequency** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta problem frequency con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si encontrar problemas valiosos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de encontrar problemas valiosos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **encontrar problemas valiosos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Observa los rodeos y las quejas del trabajo diario. |
+| **Jefe / Team Lead** | Reúne problemas de su equipo con costos estimados. |
+| **Gerente** | Prioriza problemas por valor y presupuesto. |
+| **CEO / Director** | Decide en qué problemas invertir capital y atención. |
+| **Founder / Owner** | Elige un problema, lo valida y construye un negocio a su alrededor. |
 
 ## 🏢 Caso ejecutivo
 
-Un founder tiene tres ideas: app social masiva, automatización para contadores que conoce y herramienta médica. Solo puede entrevistar contadores esta semana y ya pagan por planillas y manualidad.
+Una ex gerente de recursos humanos de una cadena de supermercados quiere emprender y anota diez problemas que vivió o vio: la gestión de turnos y reemplazos de 3.200 trabajadores en 85 tiendas, la inducción de nuevos empleados (rotación de 38 %), la gestión de licencias médicas, la liquidación de remuneraciones, la comunicación con trabajadores sin correo, la medición de clima, el control de asistencia, la gestión de horas extra, el cumplimiento de normas de seguridad y la capacitación. Tiene contactos en 12 empresas del retail. Por conversación informal, los jefes de tienda dicen que «los turnos son un dolor de cabeza» y que pierden unas 6 horas a la semana armándolos y corrigiéndolos; los gerentes de personas dicen que la inducción «se hace como se puede». Una consultora ya vende un software de turnos de 4.800 pesos por trabajador al mes. Su pareja dice que «mejor haz algo de moda como inteligencia artificial».
 
-Entrega un **decision brief de encontrar problemas valiosos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de elección de problema** que contenga: (a) la lista de problemas con segmento, consecuencia y alternativa actual; (b) la matriz de puntuación con criterios, pesos y evidencia; (c) el plan de entrevistas, incluidas personas fuera de su red; (d) el tamaño de mercado de abajo hacia arriba y el análisis de competencia; (e) la decisión del problema a validar, con plazo, costo máximo y criterios para continuar, cambiar o descartar; (f) los sesgos detectados y las verificaciones legales y de protección de datos pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **encontrar problemas valiosos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. listar problemas desde experiencia y observación → 2. puntuar dolor frecuencia y budget → 3. entrevistar segmentos accesibles → 4. buscar workarounds y spend → 5. seleccionar problema para validar** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta problem frequency, current spend; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe diez problemas que hayas vivido u observado, con quién los sufre y cuánto cuestan.
+2. Puntúalos con cinco criterios y pesos explícitos, y elige tres.
+3. Redacta las preguntas de una entrevista de 20 minutos para el problema elegido.
+4. Estima el tamaño del mercado de abajo hacia arriba con tres supuestos.
+5. Define qué evidencia te haría descartar el problema.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar problem value y frequency como sinónimos | Se pierde la distinción entre “impacto económico funcional o emocional de un problema para un cliente” y “cuán a menudo ocurre” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “seleccionar problema para validar” | Se saltó “listar problemas desde experiencia y observación” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. listar problemas desde experiencia y observación → 2. puntuar dolor frecuencia y budget → 3. entrevistar segmentos accesibles → 4. buscar workarounds y spend → 5. seleccionar problema para validar y marca el primer supuesto no demostrado. |
-| Optimizar solo problem frequency | La métrica local sustituyó al resultado del sistema | Contrástala con current spend y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre encontrar problemas valiosos | Elegir por accesibilidad puede sesgar hacia oportunidades pequeñas; úsala como ventaja de aprendizaje inicial y luego valida tamaño y competencia antes de comprometer. |
-| No fijar revisión | Una decisión sobre encontrar problemas valiosos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Enamorarse de la solución | Se parte de una idea | Describir el problema y su costo. |
+| Elegir por accesibilidad | Es lo más fácil | Validar tamaño y competencia. |
+| Confiar en la matriz | Las notas parecen datos | Contrastar con entrevistas. |
+| Entrevistar solo a conocidos | Es cómodo | Incluir personas fuera de la red. |
+| Ignorar quién paga | Se mira a quien sufre | Distinguir usuario y comprador. |
+| No definir cuándo descartar | Apego a la elección | Criterios de salida por escrito. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **problem value** y **frequency** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **urgency** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **listar problemas desde experiencia y observación → puntuar dolor frecuencia y budget** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **problem frequency** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **encontrar problemas valiosos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Elegir por accesibilidad puede sesgar hacia oportunidades pequeñas; úsala como ventaja de aprendizaje inicial y luego valida tamaño y competencia antes de comprometer.**?
+1. ¿En qué se diferencia un problema de una idea?
+2. ¿Qué rasgos tiene un problema valioso?
+3. ¿Cómo se puntúan los problemas y cómo se contrastan las notas?
+4. ¿Qué es el sesgo de accesibilidad y cómo se controla?
+5. ¿Por qué importa saber si alguien ya gasta para resolverlo?
+6. ¿Cómo se estima el tamaño de abajo hacia arriba?
+7. ¿Qué se escribe al elegir un problema para validar?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La idea es una solución imaginada; el problema es una dificultad vivida por alguien, que se puede verificar.
+2. Duele, ocurre con frecuencia, tiene presupuesto y las personas que lo viven son alcanzables.
+3. Con una matriz de criterios y pesos explícitos que se contrasta con conversaciones y evidencia.
+4. Elegir lo cercano en lugar de lo más valioso; se controla validando tamaño y competencia y entrevistando fuera de la red.
+5. Porque el gasto actual es la mejor señal de presupuesto y de dolor real.
+6. Número de clientes alcanzables por precio realista por frecuencia, con supuestos explícitos.
+7. Segmento, problema, consecuencia, alternativa actual, evidencia, lo que falta saber, plazo, costo máximo y criterios de continuar, cambiar o descartar.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/242-encontrar-problemas-valiosos/`:
 
-- `founder-owner-decision-brief.md` con el problema específico de **encontrar problemas valiosos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **encontrar problemas valiosos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **problem value**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un founder tiene tres ideas: app social masiva, automatización para contadores que conoce y herramienta médica. Solo puede entrevistar contadores esta semana y ya pagan por planillas y manualidad.** y el dato que podría invalidar la recomendación.
+- `founder-owner-decision-brief.md` (plantilla [Founder owner decision brief](../../../../templates/founder-owner-decision-brief.md)) con el memo del caso ejecutivo;
+- `venture-validation.md` (plantilla [Venture validation](../../../../templates/venture-validation.md)) con la matriz de problemas y la evidencia de las entrevistas;
+- `decision-journal.md` con los sesgos detectados, el tamaño de mercado y los criterios de descarte.
 
 ## 📗 Fuentes y verificación
 
-- Steve Blank — *The Four Steps to the Epiphany* ([Steve Blank?], 2013). **Uso en esta clase:** customer development y búsqueda sistemática de un modelo de negocio. Lectura selectiva sobre **encontrar problemas valiosos**. **Localizador:** [ISBN-13 9780989200509](https://openlibrary.org/isbn/9780989200509).
-- Alexander Osterwalder & Yves Pigneur — *Business Model Generation* (Wiley , 2010). **Uso en esta clase:** diseño de modelos de negocio mediante propuesta, clientes, recursos y economía. Lectura selectiva sobre **encontrar problemas valiosos**. **Localizador:** [ISBN-13 9780470876411](https://openlibrary.org/isbn/9780470876411).
-- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de fundador, equity, control, equipo y decisiones tempranas. Lectura selectiva sobre **encontrar problemas valiosos**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
-- Rob Fitzpatrick — *The Mom Test* (CreateSpace, 2014). **Uso en esta clase:** perspectiva de Customer discovery aplicada al problema de la clase. Lectura selectiva sobre **encontrar problemas valiosos**. **Localizador:** [ISBN-13 9781492180746](https://openlibrary.org/isbn/9781492180746).
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **encontrar problemas valiosos**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Bill Aulet — *Disciplined Entrepreneurship* (John Wiley & Sons, Incorporated, 2013). **Uso en esta clase:** secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio. Lectura selectiva sobre **encontrar problemas valiosos**. **Localizador:** [ISBN-13 9781299848641](https://openlibrary.org/isbn/9781299848641).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **encontrar problemas valiosos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **encontrar problemas valiosos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **encontrar problemas valiosos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **encontrar problemas valiosos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **encontrar problemas valiosos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Steve Blank — *The Four Steps to the Epiphany* ([Steve Blank?], 2013). **Uso en esta clase:** salir a descubrir clientes antes de construir. Lectura selectiva sobre **encontrar problemas valiosos**. **Localizador:** [ISBN-13 9780989200509](https://openlibrary.org/isbn/9780989200509).
+- Bill Aulet — *Disciplined Entrepreneurship* (John Wiley & Sons, Incorporated, 2013). **Uso en esta clase:** elegir un mercado inicial acotado y alcanzable. Lectura selectiva sobre **encontrar problemas valiosos**. **Localizador:** [ISBN-13 9781299848641](https://openlibrary.org/isbn/9781299848641).
+- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** trabajos por hacer y el progreso que busca la persona. Lectura selectiva sobre **encontrar problemas valiosos**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
+- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** hábitos de descubrimiento continuo con clientes. Lectura selectiva sobre **encontrar problemas valiosos**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
+- Dan Olsen — *The Lean Product Playbook* (Wiley, 2015). **Uso en esta clase:** ajuste entre producto y mercado a partir de necesidades. Lectura selectiva sobre **encontrar problemas valiosos**. **Localizador:** [ISBN-13 9781118960875](https://openlibrary.org/isbn/9781118960875).
 
-> **Regla de fuentes para Encontrar problemas valiosos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **encontrar problemas valiosos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Encontrar problemas valiosos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de protección de datos de las personas entrevistadas. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

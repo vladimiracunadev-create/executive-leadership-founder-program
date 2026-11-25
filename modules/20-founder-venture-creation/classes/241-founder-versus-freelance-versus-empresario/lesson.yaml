@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 6 — Founder"
 outcome: "descubrir, validar y lanzar una empresa antes de escalarla"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir freelancer de founder mediante evidencia observable."
-  - "Aplicar la secuencia: definir objetivo personal y económico → mapear dependencia de tiempo → identificar activos acumulables → comparar riesgo y capital → seleccionar modelo y transición."
-  - "Interpretar revenue per owner hour, recurring revenue, owner dependency sin atribuir causalidad automática."
-  - "Resolver el caso de founder versus freelance versus empresario con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir freelance, empresario y founder por su lógica económica."
+  - "Definir tus metas personales, económicas y de riesgo antes de elegir."
+  - "Mapear la dependencia de tu tiempo y los activos que se acumulan."
+  - "Comparar modelos con una matriz ponderada y una prueba de sensibilidad."
+  - "Diseñar un primer experimento barato para aprender antes de comprometerte."
 deliverable: "founder-owner-decision-brief.md"
 references:
-  - "Steve Blank — *The Four Steps to the Epiphany*"
-  - "Alexander Osterwalder & Yves Pigneur — *Business Model Generation*"
-  - "Bill Aulet — *Disciplined Entrepreneurship*"
-  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
-  - "Alexander Osterwalder et al. — *Value Proposition Design*"
-  - "Peter F. Drucker — *The Effective Executive*"
+  - "David S. Evans & Boyan Jovanovic — *An Estimated Model of Entrepreneurial Choice under Liquidity Constraints*"
+  - "William R. Kerr, Ramana Nanda & Matthew Rhodes-Kropf — *Entrepreneurship as Experimentation*"
+  - "Saras D. Sarasvathy — *Causation and Effectuation: Toward a Theoretical Shift from Economic Inevitability to Entrepreneurial Contingency*"
+  - "Michael E. Gerber — *The E-Myth Revisited*"
+  - "Noam Wasserman — *The Founder's Dilemmas*"
 limits:
-  - "No existe jerarquía moral: un freelance rentable puede ser mejor que una startup de alto burn. El modelo debe alinearse con metas, riesgo y estilo de vida."
+  - "No existe jerarquía moral: un *freelance* rentable puede ser mejor que una startup de alto consumo de caja."
 evidence_signals:
-  - "revenue per owner hour"
-  - "recurring revenue"
-  - "owner dependency"
-  - "gross margin"
-  - "customer concentration"
+  - "apetito de riesgo y control evaluado"
+  - "tres caminos distinguidos"
+  - "costo de oportunidad calculado"
+  - "condición de salida definida"

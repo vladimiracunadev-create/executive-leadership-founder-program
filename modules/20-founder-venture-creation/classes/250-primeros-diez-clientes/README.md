@@ -10,217 +10,202 @@
 
 ## 🎯 Propósito
 
-Los primeros diez clientes enseñan más sobre posicionamiento, onboarding y valor que sobre escala. Founder-led sales permite escuchar directamente, construir referencias y descubrir un proceso repetible antes de contratar una fuerza comercial.
+Los primeros diez clientes no son un mercado: son **la evidencia más cara y más valiosa** que tendrá un fundador. Se consiguen con esfuerzo personal, sin canales que escalen, a menudo con precios de lanzamiento y mucha atención a medida. Por eso se cometen dos errores opuestos. El primero es tratarlos como «ventas pequeñas» y no aprender de ellos: se cierran, se atienden y no se registra qué los convenció, qué casi los hizo irse ni qué pidieron. El segundo es **convertir a esos diez en el molde del producto**: construir para el cliente más ruidoso, aceptar encargos a medida que no se repetirán y terminar con una consultoría disfrazada de empresa de producto. Los primeros diez enseñan quién compra, por qué, cómo se llega a ellos y qué los hace quedarse.
 
-La salida de esta parte es **descubrir, validar y lanzar una empresa antes de escalarla**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **primeros diez clientes** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta el proceso como una **cadena comercial**: elegir un perfil de cliente ideal, construir una lista, contactar con un mensaje claro, conversar y calificar, cerrar con condiciones explícitas, incorporar y aprender, y decidir qué se repite. Se apoya en Ross sobre ventas predecibles, en Rackham sobre la venta basada en preguntas, en Dixon sobre la venta que desafía la forma de pensar del cliente, en Skok sobre métricas del embudo y en Moore sobre cruzar el abismo desde los primeros adoptantes. Al terminar sabrás definir tu perfil de cliente ideal, armar una lista y un mensaje, llevar el embudo con cifras, cerrar con condiciones claras, incorporar a cada cliente aprendiendo de él y decidir cuándo pasar de ventas del fundador a un proceso repetible.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `founder-led sales`, `ideal customer profile`, `design partner`, `referenceability`, `repeatable motion` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de founder.
-3. **Aplicar** la secuencia **1. definir ICP provisional → 2. crear lista de cuentas → 3. hacer outreach y discovery → 4. cerrar con scope y success criteria → 5. documentar patrón antes de delegar** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** meetings booked, close rate, time-to-first-value sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** un perfil de cliente ideal con criterios observables.
+2. **Construir** una lista y un mensaje de contacto verificables.
+3. **Conducir** conversaciones de venta basadas en preguntas y calificación.
+4. **Cerrar** con condiciones, alcance y expectativas explícitas.
+5. **Aprender** de cada cliente para decidir qué se repite y qué se rechaza.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define founder-led sales y ideal customer profile sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con meetings booked y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cómo conseguiste o conseguirías a tu próximo cliente y por qué lo harían? |
+| 20–60 min | Perfil ideal, lista, mensaje, conversación, cierre, incorporación, patrón. |
+| 60–105 min | Ejemplo trabajado: embudo para los diez primeros con costo por cliente. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **founder-led sales** | venta directa liderada por fundadores durante etapa de aprendizaje | Distingue un hecho compatible y otro que lo refute. |
-| **ideal customer profile** | descripción de cuentas con mayor probabilidad de valor y fit | Distingue un hecho compatible y otro que lo refute. |
-| **design partner** | cliente temprano que colabora estrechamente a cambio de acceso o condiciones | Distingue un hecho compatible y otro que lo refute. |
-| **referenceability** | disposición del cliente a recomendar o validar | Distingue un hecho compatible y otro que lo refute. |
-| **repeatable motion** | secuencia comercial que puede ser ejecutada por otra persona | Distingue un hecho compatible y otro que lo refute. |
+| **Perfil de cliente ideal** | Descripción de quien más valor obtiene y más fácil compra. | Tamaño, sector, problema, urgencia, decisor. |
+| **Embudo** | Etapas desde el contacto hasta el cliente que paga. | Contactos, respuestas, reuniones, propuestas, cierres. |
+| **Calificación** | Verificar que el prospecto tiene problema, presupuesto y decisor. | Preguntas antes de proponer. |
+| **Primeros adoptantes** | Clientes que toleran un producto incompleto por un beneficio mayor. | Dolor intenso, soluciones caseras. |
+| **Cliente a medida** | Cliente cuyas exigencias desvían el producto. | Pide funciones que nadie más pide. |
+| **Venta del fundador** | Ventas hechas por quien conoce el producto y el problema. | Aprendizaje directo y proceso aún no repetible. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 250: 1. definir ICP provisional → 2. crear lista de cuentas → 3. hacer outreach y discovery → 4. cerrar con scope y success criteria → 5. documentar patrón antes de delegar](modelo-mental.svg)
+![Cadena comercial de los primeros diez clientes: perfil, lista, mensaje, conversación, cierre, incorporación y patrón.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir ICP provisional → 2. crear lista de cuentas → 3. hacer outreach y discovery → 4. cerrar con scope y success criteria → 5. documentar patrón antes de delegar
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Los primeros diez clientes enseñan más sobre posicionamiento, onboarding y valor que sobre escala. Founder-led sales permite escuchar directamente, construir referencias y descubrir un proceso repetible antes de contratar una fuerza comercial.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No fuerces homogeneidad demasiado pronto; algunos outliers enseñan oportunidades. Pero distingue aprendizaje deliberado de aceptar cualquier ingreso por necesidad.**
+**Cómo leer el diagrama.** Una cadena de izquierda a derecha. **Perfil ideal**: a quién vender primero, con criterios observables. **Lista**: nombres reales con dato de contacto y motivo para hablarles. **Mensaje**: una propuesta breve centrada en su problema. **Conversación**: preguntas, calificación y propuesta. **Cierre**: alcance, precio, plazo y expectativas por escrito. **Incorporación**: arranque, seguimiento y aprendizaje. **Patrón**: qué se repite en quienes compran y se quedan. La nota afirma que cada cliente es una fuente de aprendizaje antes que de ingreso; el pie, que se decide qué repetir y qué rechazar.
 
 ## 📖 Desarrollo
 
-### 1. founder-led sales: mecanismo central
+### 1. Elegir un perfil de cliente ideal
 
-**founder-led sales** se entiende aquí como **venta directa liderada por fundadores durante etapa de aprendizaje**. Esta es la pieza causal o estructural desde la que se inicia **primeros diez clientes**: antes de definir icp provisional, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Moore recomienda comenzar por **un nicho concreto** donde el producto resuelva un problema urgente de manera casi completa, en vez de intentar vender a «todas las empresas». El perfil de cliente ideal se define con **criterios observables** y no con adjetivos: sector, tamaño (empleados, ingresos), tecnología que usa, problema que enfrenta, urgencia (qué lo obliga a actuar este trimestre), quién decide y quién paga, y señales de que ya gasta en alternativas. Se escribe una descripción de una página y se revisa con los clientes que compran. Un perfil estrecho **parece limitar** pero concentra el mensaje, reduce el costo de adquisición y facilita las referencias dentro del mismo nicho. Los primeros diez deberían parecerse entre sí más de lo que cómodamente se admitiría.
 
-La lectura rectora de este bloque es Steve Blank — *The Four Steps to the Epiphany*. Su aporte se usa para examinar **customer development y búsqueda sistemática de un modelo de negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **meetings booked**; regístrala con periodo, unidad, población y baseline.
+### 2. Construir la lista
 
-Relaciona el mecanismo con **ideal customer profile**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Con el perfil, se arma una lista de **nombres reales**: empresa, persona, cargo, dato de contacto y motivo de relevancia («acaba de abrir una sucursal», «publicó una oferta de empleo para este cargo»). Ross sostiene que las ventas predecibles parten de **un proceso con roles y métricas**, pero en la etapa de los diez primeros el fundador mismo recorre la lista. Las fuentes: la red propia (con cuidado, pues contamina la evidencia, clase 247), referencias de entrevistas anteriores, comunidades del sector, ferias, directorios públicos, redes profesionales. Se respetan las normas sobre **datos personales y comunicaciones comerciales** (consentimiento, derecho a excluirse); se consultan fuentes oficiales y asesoría. Una lista de 100 nombres bien elegidos vale más que 1.000 sin criterio.
 
-### 2. ideal customer profile: frontera conceptual y error de clasificación
+### 3. El mensaje de contacto
 
-**Definición operacional:** descripción de cuentas con mayor probabilidad de valor y fit. Su valor está en distinguirlo de **founder-led sales** y **design partner**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El primer mensaje debe ser **breve, específico y centrado en el cliente**: un problema que reconoce, una pista de que el fundador lo entiende y una petición pequeña («¿15 minutos para ver si le sirve?»). Se evitan listas de funciones, adjetivos y presentaciones largas. Dixon plantea que los vendedores más eficaces **aportan una perspectiva nueva** sobre el negocio del cliente: un dato o una observación que cambia cómo ve su problema, y luego conectan con la solución. Se prueban dos o tres variantes con grupos pequeños y se mide la tasa de respuesta. Una regla útil: si el mensaje podría enviarse a cualquier empresa sin cambiar nada, es demasiado genérico. Se responde con rapidez y se hace seguimiento educado, sin acosar.
 
-Contrasta el problema con Alexander Osterwalder & Yves Pigneur — *Business Model Generation*, que aporta una mirada sobre **diseño de modelos de negocio mediante propuesta, clientes, recursos y economía**. Formula dos mini-casos: uno que sí satisface la definición de **ideal customer profile** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **close rate** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Conversar y calificar con preguntas
 
-Antes de crear lista de cuentas, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Rackham, tras estudiar miles de visitas de ventas, concluye que en ventas complejas el éxito se asocia con **preguntar bien**: situación (cómo trabaja hoy), problema (qué le duele), implicación (qué cuesta ese problema) y necesidad de solución (qué valor tendría resolverlo). Se escucha más de lo que se habla. La **calificación** verifica cinco puntos: existe el problema, tiene un costo, hay presupuesto, hay un decisor presente y hay una razón para actuar ahora. Si faltan, se registra y no se insiste con una propuesta. Se evita la demostración temprana de todas las funciones; se muestra solo lo que responde a lo conversado. Después de cada reunión se anotan: lo que dijo, lo que pidió, las objeciones y el siguiente paso con fecha.
 
-### 3. design partner: operacionalización y medición
+### 5. Cerrar con condiciones claras
 
-**design partner** significa **cliente temprano que colabora estrechamente a cambio de acceso o condiciones**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un cierre sano deja por escrito: **alcance** (qué se entrega y qué no), **precio y forma de pago**, **plazo**, **responsabilidades del cliente** (datos, personas, tiempos), **criterios de éxito** y **cómo se termina** la relación. Los primeros clientes suelen recibir condiciones de lanzamiento (precio reducido a cambio de retroalimentación, testimonio o referencias); se explicitan y se limitan en el tiempo. Se rechazan encargos que **desvían** el producto: un cliente que paga bien por una función que ningún otro necesita no es un buen cliente temprano. Las cláusulas contractuales, tributarias y de datos se revisan con asesoría y fuentes oficiales; un contrato mal hecho cuesta más que la venta.
 
-Eric Ries — *The Lean Startup* orienta este bloque mediante **build-measure-learn, MVP y aprendizaje validado**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **time-to-first-value**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Incorporar y aprender
 
-Al llegar a hacer outreach y discovery, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La incorporación es parte de la venta: si el cliente no obtiene un primer resultado en pocos días, la probabilidad de cancelar sube. Se define un **primer valor** (la primera cosa que el cliente logra) y un plan de 30 días con reuniones de seguimiento. Se registra para cada cliente: por qué compró, qué alternativa usaba, qué le costó decidir, qué uso hace, qué le falta, qué pidió y qué pagó. Torres y Blank (clases 243 y 248) enseñan que el descubrimiento continúa tras la venta; los clientes iniciales son la mejor fuente de datos. Un cuaderno por cliente y una **revisión mensual** de patrones evitan que el aprendizaje se pierda en la memoria del fundador.
 
-### 4. referenceability: trade-offs y efectos de segundo orden
+### 7. De diez clientes a un proceso repetible
 
-**Definición:** disposición del cliente a recomendar o validar. Este concepto obliga a abandonar la idea de que **primeros diez clientes** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de cerrar con scope y success criteria, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Rob Fitzpatrick — *The Mom Test* aporta una lente sobre **perspectiva de Customer discovery aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **referenceable customers** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **primeros diez clientes**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **referenceability** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. repeatable motion: gobernanza, límites e integración
-
-**repeatable motion** se define como **secuencia comercial que puede ser ejecutada por otra persona** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Ben Horowitz — *The Hard Thing About Hard Things* se utiliza para estudiar **decisiones difíciles de CEO, organización, personas y ejecución bajo presión** y contrastar la recomendación final. Al ejecutar documentar patrón antes de delegar, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No fuerces homogeneidad demasiado pronto; algunos outliers enseñan oportunidades. Pero distingue aprendizaje deliberado de aceptar cualquier ingreso por necesidad.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **founder-led sales**, **ideal customer profile**, **design partner**, **referenceability** y **repeatable motion** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **primeros diez clientes** no consiste en sumar cinco definiciones. Empieza por **founder-led sales**, contrasta **ideal customer profile** con **design partner**, incorpora **referenceability** como restricción o mecanismo y usa **repeatable motion** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir ICP provisional → 2. crear lista de cuentas → 3. hacer outreach y discovery → 4. cerrar con scope y success criteria → 5. documentar patrón antes de delegar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Tras diez clientes se revisa el patrón: ¿se parecen?, ¿qué los llevó a comprar?, ¿qué canal funcionó?, ¿cuánto costó cada uno?, ¿cuántos se quedan? Skok recomienda seguir el **embudo con tasas por etapa** y el **costo de adquisición**; si el fundador consigue clientes solo con esfuerzo personal y no hay un canal que se pueda delegar, aún no hay un proceso. Moore advierte el **abismo** entre los primeros adoptantes y el mercado mayoritario: lo que convenció a los primeros (visión, tolerancia) puede no convencer a los siguientes (que quieren una solución completa y referencias). Se documenta el proceso (perfil, mensaje, preguntas, propuesta, cierre) para entrenar a otro vendedor solo cuando los resultados se repiten.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Steve Blank — *The Four Steps to the Epiphany* | customer development y búsqueda sistemática de un modelo de negocio | ¿Qué supuesto de **primeros diez clientes** ayuda a desafiar? |
-| Alexander Osterwalder & Yves Pigneur — *Business Model Generation* | diseño de modelos de negocio mediante propuesta, clientes, recursos y economía | ¿Qué supuesto de **primeros diez clientes** ayuda a desafiar? |
-| Eric Ries — *The Lean Startup* | build-measure-learn, MVP y aprendizaje validado | ¿Qué supuesto de **primeros diez clientes** ayuda a desafiar? |
-| Rob Fitzpatrick — *The Mom Test* | perspectiva de Customer discovery aplicada al problema de la clase | ¿Qué supuesto de **primeros diez clientes** ayuda a desafiar? |
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **primeros diez clientes** ayuda a desafiar? |
-
-En **primeros diez clientes**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **founder-led sales**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Moore | Nicho inicial y cruce del abismo. | Marco de tecnología emergente. | ¿Mi nicho es lo bastante estrecho? |
+| Ross | Ventas predecibles con roles y métricas. | Pensado para etapas posteriores. | ¿Qué parte es repetible hoy? |
+| Rackham | Venta consultiva basada en preguntas. | Estudio de ventas complejas. | ¿Qué preguntas hice antes de proponer? |
+| Dixon | Aportar una perspectiva que cambie la visión del cliente. | Exige conocimiento profundo del sector. | ¿Qué le enseñé que no sabía? |
+| Skok | Embudo con tasas y costo de adquisición. | Enfocado en negocios recurrentes. | ¿Cuánto me cuesta cada cliente? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Founder cierra diez clientes distintos: tres industrias, cuatro precios y cinco promesas. Revenue existe, pero no hay patrón que otro vendedor pueda repetir.
+**Situación (hipotética).** Una fundadora vende un servicio de control de inventario con alertas para ferreterías medianas. Su meta: diez clientes en 120 días.
 
-**Paso 1 — definir ICP provisional.** La gerencia escribe primero el supuesto asociado a **founder-led sales** y evita convertirlo en hecho. Luego busca **meetings booked** para contrastarlo en el caso de **primeros diez clientes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Perfil ideal.** Ferreterías con 4 a 12 empleados, dos o más sucursales, que hoy usan planillas, con un dueño que decide. Lista inicial: 120 ferreterías en tres comunas.
 
-**Paso 2 — crear lista de cuentas.** La gerencia escribe primero el supuesto asociado a **ideal customer profile** y evita convertirlo en hecho. Luego busca **close rate** para contrastarlo en el caso de **primeros diez clientes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Embudo observado en 12 semanas.**
 
-**Paso 3 — hacer outreach y discovery.** La gerencia escribe primero el supuesto asociado a **design partner** y evita convertirlo en hecho. Luego busca **time-to-first-value** para contrastarlo en el caso de **primeros diez clientes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Etapa | Cantidad | Conversión desde la etapa anterior |
+|---|---|---|
+| Contactos enviados | 120 | — |
+| Respuestas | 30 | 25 % |
+| Reuniones | 21 | 70 % |
+| Propuestas | 14 | 66,7 % |
+| Clientes | 7 | 50 % |
 
-**Paso 4 — cerrar con scope y success criteria.** La gerencia escribe primero el supuesto asociado a **referenceability** y evita convertirlo en hecho. Luego busca **referenceable customers** para contrastarlo en el caso de **primeros diez clientes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+De 120 contactos a 7 clientes: 5,8 % (7 ÷ 120). Con esa tasa, para 10 clientes se necesitan 10 ÷ 0,0583 ≈ **172 contactos**.
 
-**Paso 5 — documentar patrón antes de delegar.** La gerencia escribe primero el supuesto asociado a **repeatable motion** y evita convertirlo en hecho. Luego busca **founder sales hours** para contrastarlo en el caso de **primeros diez clientes**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costo de adquisición.** Se registra el tiempo total de la fundadora: 180 horas en 12 semanas, valoradas a 9.000 pesos = 1.620.000; más 380.000 en herramientas, transporte y materiales. Total 2.000.000. **CAC = 2.000.000 ÷ 7 ≈ 285.714 pesos.**
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **primeros diez clientes**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Economía por cliente.** Precio: 55.000 pesos mensuales; costo variable: 11.000; contribución: 44.000. Recuperación: 285.714 ÷ 44.000 ≈ **6,5 meses**. Si se cancela 5 % mensual (permanencia de 20 meses), el valor de vida es 44.000 × 20 = 880.000, relación 880.000 ÷ 285.714 ≈ 3,1.
+
+**Patrón de los siete.** 5 de 7 tienen dos sucursales; 5 de 7 mencionaron una pérdida por quiebres de stock en el último año; 6 de 7 decidieron en la misma reunión en que estaba el dueño. Los 7 que no compraron (de 14 propuestas): 4 no tenían decisor presente, 2 usaban un sistema de un proveedor, 1 dijo que no tenía urgencia. Los dos que pidieron integraciones a medida fueron rechazados: el costo de desarrollo (3 millones) superaba su contribución de un año (528.000).
+
+**Ajuste.** Se calificará con una pregunta inicial: «¿quién decide y puede estar en la reunión?». Se priorizan ferreterías con dos o más sucursales y quiebres recientes. Esa regla busca subir la conversión de propuesta a cliente de 50 % a 60 %.
+
+**Proyección a diez.** Con las tasas observadas hacen falta unos 172 contactos; ya se enviaron 120, y quedan 52 más. Tiempo estimado: 5 semanas adicionales. Con 10 clientes la contribución mensual será 440.000 pesos, aún lejos de cubrir un equipo; la meta del período es aprender, no cubrir costos.
+
+**Decisión.** Completar los diez clientes con el perfil ajustado, rechazar encargos a medida, documentar el proceso en una página y recién entonces evaluar si un segundo canal (alianza con distribuidores) puede bajar el CAC de 285.714 a menos de 200.000. Las obligaciones de datos, facturación y contratos se consultan con asesoría y fuentes oficiales.
+
+**Cuidados.** Las tasas provienen de una muestra pequeña; son una orientación. Las cifras son ilustrativas.
+
+**Qué muestra.** (1) El embudo permitió proyectar el esfuerzo. (2) El patrón de los siete afinó el perfil. (3) Rechazar el encargo a medida protegió el producto y la economía.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **founder-led sales** | venta directa liderada por fundadores durante etapa de aprendizaje | Cuando meetings booked es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **ideal customer profile** | descripción de cuentas con mayor probabilidad de valor y fit | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Venta del fundador frente a proceso comercial.** La primera busca aprender y cerrar los primeros clientes con atención personal; el segundo busca repetir resultados con otras personas, medidas y herramientas. Se pasa de uno a otro cuando los resultados se repiten.
 
-**Frontera de aplicación:** No fuerces homogeneidad demasiado pronto; algunos outliers enseñan oportunidades. Pero distingue aprendizaje deliberado de aceptar cualquier ingreso por necesidad.
+**Límites.** Con diez clientes, las estadísticas son frágiles. Los primeros adoptantes no representan al mercado. El perfil estrecho puede limitar el crecimiento si el nicho es pequeño. Las normas de comunicaciones comerciales y datos personales varían y se deben consultar en fuentes oficiales. Las cifras son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre primeros diez clientes |
+| Nivel | Cómo se relaciona con los primeros clientes |
 |---|---|
-| **Profesional** | usa **primeros diez clientes** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **founder-led sales** y **ideal customer profile** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta meetings booked con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si primeros diez clientes cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de primeros diez clientes reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **primeros diez clientes** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Atiende y registra lo que piden los clientes. |
+| **Jefe / Team Lead** | Entiende el perfil y el proceso de incorporación. |
+| **Gerente** | Gestiona el embudo y la tasa por etapa. |
+| **CEO / Director** | Decide el nicho y cuándo escalar el proceso. |
+| **Founder / Owner** | Vende, atiende y aprende de cada uno de los primeros diez. |
 
 ## 🏢 Caso ejecutivo
 
-Founder cierra diez clientes distintos: tres industrias, cuatro precios y cinco promesas. Revenue existe, pero no hay patrón que otro vendedor pueda repetir.
+Un fundador ofrece un servicio de mantenimiento preventivo de ascensores para edificios residenciales de tamaño medio. Tras cuatro meses tiene 5 clientes: dos administradores profesionales, dos comités de edificio y una inmobiliaria. Precio: 190.000 pesos mensuales por ascensor; costo variable: 120.000. Contactó 90 administradores: 18 respondieron, 12 tuvieron reunión, 8 recibieron propuesta y 5 compraron. Dedicó 220 horas (a 8.000 pesos la hora) y gastó 420.000 en traslados y materiales. Los dos administradores profesionales administran 14 edificios y 22 edificios; los comités compraron más lento (seis semanas contra dos) y reclaman más. La inmobiliaria pidió un contrato con penalizaciones que el fundador no puede cumplir con su equipo actual. Un administrador con 22 edificios pide un precio de 150.000 por ascensor para llevar todos.
 
-Entrega un **decision brief de primeros diez clientes** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de primeros clientes** que contenga: (a) el perfil de cliente ideal revisado con los datos del caso; (b) el embudo, las tasas por etapa y el costo de adquisición; (c) el patrón de quienes compraron y de quienes no; (d) la decisión sobre la inmobiliaria y sobre el descuento del administrador, con la contribución resultante; (e) el plan para llegar a diez clientes con proyección de contactos y tiempo; (f) las verificaciones contractuales, de seguridad y legales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **primeros diez clientes** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir ICP provisional → 2. crear lista de cuentas → 3. hacer outreach y discovery → 4. cerrar con scope y success criteria → 5. documentar patrón antes de delegar** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta meetings booked, close rate; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe tu perfil de cliente ideal con criterios observables.
+2. Arma una lista de 30 nombres reales con motivo de contacto.
+3. Redacta dos variantes de mensaje y define cómo medirás la respuesta.
+4. Diseña cinco preguntas de calificación para tu primera reunión.
+5. Calcula tasas por etapa y CAC de tus primeras ventas.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar founder-led sales y ideal customer profile como sinónimos | Se pierde la distinción entre “venta directa liderada por fundadores durante etapa de aprendizaje” y “descripción de cuentas con mayor probabilidad de valor y fit” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “documentar patrón antes de delegar” | Se saltó “definir ICP provisional” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir ICP provisional → 2. crear lista de cuentas → 3. hacer outreach y discovery → 4. cerrar con scope y success criteria → 5. documentar patrón antes de delegar y marca el primer supuesto no demostrado. |
-| Optimizar solo meetings booked | La métrica local sustituyó al resultado del sistema | Contrástala con close rate y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre primeros diez clientes | No fuerces homogeneidad demasiado pronto; algunos outliers enseñan oportunidades. Pero distingue aprendizaje deliberado de aceptar cualquier ingreso por necesidad. |
-| No fijar revisión | Una decisión sobre primeros diez clientes se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Vender a todos | Se teme perder ventas | Un nicho concreto primero. |
+| Mensaje genérico | Es más rápido | Aportar algo específico del cliente. |
+| Proponer sin calificar | Entusiasmo | Verificar problema, presupuesto y decisor. |
+| Aceptar encargos a medida | Se necesita ingreso | Rechazar los que desvían el producto. |
+| No registrar | Se confía en la memoria | Cuaderno por cliente y revisión mensual. |
+| Contratar vendedores demasiado pronto | Se quiere escala | Documentar un proceso que ya se repite. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **founder-led sales** y **ideal customer profile** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **design partner** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir ICP provisional → crear lista de cuentas** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **meetings booked** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **primeros diez clientes**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No fuerces homogeneidad demasiado pronto; algunos outliers enseñan oportunidades. Pero distingue aprendizaje deliberado de aceptar cualquier ingreso por necesidad.**?
+1. ¿Qué hace útil un perfil de cliente ideal?
+2. ¿Qué debe contener un mensaje de contacto?
+3. ¿Qué verifica la calificación?
+4. ¿Qué debe quedar por escrito en el cierre?
+5. ¿Qué se registra de cada cliente?
+6. ¿Por qué conviene rechazar ciertos encargos?
+7. ¿Cuándo se pasa de la venta del fundador a un proceso?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Que concentra el mensaje y el esfuerzo en quien más valor obtiene, con criterios observables.
+2. Un problema que el cliente reconoce, una perspectiva específica y una petición pequeña.
+3. Problema, costo, presupuesto, decisor presente y razón para actuar ahora.
+4. Alcance, precio y pago, plazo, responsabilidades, criterios de éxito y forma de terminar.
+5. Por qué compró, alternativa previa, uso, carencias, pedidos y pago.
+6. Porque desvían el producto y su costo supera la contribución.
+7. Cuando los resultados se repiten y el proceso está documentado.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/250-primeros-diez-clientes/`:
 
-- `commercial-decision-brief.md` con el problema específico de **primeros diez clientes**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **primeros diez clientes** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **founder-led sales**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Founder cierra diez clientes distintos: tres industrias, cuatro precios y cinco promesas. Revenue existe, pero no hay patrón que otro vendedor pueda repetir.** y el dato que podría invalidar la recomendación.
+- `commercial-decision-brief.md` (plantilla [Commercial decision brief](../../../../templates/commercial-decision-brief.md)) con el memo del caso ejecutivo;
+- `product-evidence-brief.md` (plantilla [Product evidence brief](../../../../templates/product-evidence-brief.md)) con el patrón de los clientes;
+- `decision-journal.md` con la decisión sobre encargos a medida y descuentos.
 
 ## 📗 Fuentes y verificación
 
-- Steve Blank — *The Four Steps to the Epiphany* ([Steve Blank?], 2013). **Uso en esta clase:** customer development y búsqueda sistemática de un modelo de negocio. Lectura selectiva sobre **primeros diez clientes**. **Localizador:** [ISBN-13 9780989200509](https://openlibrary.org/isbn/9780989200509).
-- Alexander Osterwalder & Yves Pigneur — *Business Model Generation* (Wiley , 2010). **Uso en esta clase:** diseño de modelos de negocio mediante propuesta, clientes, recursos y economía. Lectura selectiva sobre **primeros diez clientes**. **Localizador:** [ISBN-13 9780470876411](https://openlibrary.org/isbn/9780470876411).
-- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** build-measure-learn, MVP y aprendizaje validado. Lectura selectiva sobre **primeros diez clientes**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
-- Rob Fitzpatrick — *The Mom Test* (CreateSpace, 2014). **Uso en esta clase:** perspectiva de Customer discovery aplicada al problema de la clase. Lectura selectiva sobre **primeros diez clientes**. **Localizador:** [ISBN-13 9781492180746](https://openlibrary.org/isbn/9781492180746).
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **primeros diez clientes**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Bill Aulet — *Disciplined Entrepreneurship* (John Wiley & Sons, Incorporated, 2013). **Uso en esta clase:** secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio. Lectura selectiva sobre **primeros diez clientes**. **Localizador:** [ISBN-13 9781299848641](https://openlibrary.org/isbn/9781299848641).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **primeros diez clientes** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **primeros diez clientes**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **primeros diez clientes** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **primeros diez clientes** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **primeros diez clientes** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Geoffrey A. Moore — *Crossing the Chasm* (HarperBusiness, 1995). **Uso en esta clase:** nicho inicial y abismo entre primeros adoptantes y mercado mayoritario. Lectura selectiva sobre **primeros diez clientes**. **Localizador:** [ISBN-13 9780887307171](https://openlibrary.org/isbn/9780887307171).
+- Aaron Ross & Marylou Tyler — *Predictable Revenue* (Pebblestorm, 2020). **Uso en esta clase:** ventas predecibles con proceso, roles y métricas. Lectura selectiva sobre **primeros diez clientes**. **Localizador:** [ISBN-13 9780984380244](https://openlibrary.org/isbn/9780984380244).
+- Neil Rackham — *SPIN Selling* (Highbridge Audio, 1998). **Uso en esta clase:** venta consultiva basada en preguntas de situación, problema, implicación y necesidad. Lectura selectiva sobre **primeros diez clientes**. **Localizador:** [ISBN-13 9781565112605](https://openlibrary.org/isbn/9781565112605).
+- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** aportar una perspectiva que cambie la visión del cliente. Lectura selectiva sobre **primeros diez clientes**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
+- David Skok — *SaaS Metrics resources* (For Entrepreneurs (Matrix Partners)). **Uso en esta clase:** embudo con tasas por etapa y costo de adquisición. **Fuente primaria:** <https://www.forentrepreneurs.com/saas-metrics-2/>.
 
-> **Regla de fuentes para Primeros diez clientes:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **primeros diez clientes** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Primeros diez clientes:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de datos personales, comunicaciones comerciales y contratos. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

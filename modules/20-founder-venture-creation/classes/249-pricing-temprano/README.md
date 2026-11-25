@@ -10,217 +10,200 @@
 
 ## 🎯 Propósito
 
-Pricing temprano es un experimento sobre valor, segmento y modelo. Cost-plus puede poner piso, pero willingness to pay, alternatives y value metrics ayudan a capturar valor. Descuentos permanentes a primeros clientes pueden esconder que el problema no es suficientemente valioso.
+El precio es la decisión comercial más poderosa y la que más se improvisa. Muchos fundadores fijan el precio sumando costos y agregando un margen, o copiando al competidor más barato, o eligiendo una cifra que «no asuste». El resultado es doble: precios demasiado bajos que no cubren el costo de adquirir y servir, y que además comunican que el producto vale poco; o precios arbitrarios que nadie ha probado. Un precio es, al mismo tiempo, **una señal de valor**, **una decisión de segmento** (quién compra y quién no), **un ingreso** y **una hipótesis** que se prueba con clientes. En una etapa temprana no se busca el precio perfecto: se busca uno **defendible, probado y revisable**.
 
-La salida de esta parte es **descubrir, validar y lanzar una empresa antes de escalarla**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **pricing temprano** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta el pricing temprano como una **tabla de decisión**: el valor que el cliente recibe, el costo de servirlo, el precio de las alternativas, la sensibilidad del segmento y la estructura de cobro (por usuario, por uso, plana, por niveles). Se apoya en Nagle sobre la estrategia y las tácticas de precios basadas en valor, en Thaler sobre la contabilidad mental de los compradores, en Ariely sobre cómo el contexto influye en la percepción de precios, en Kohavi sobre la experimentación controlada y en Skok sobre la economía unitaria de los negocios recurrentes. Al terminar sabrás estimar el rango de precio, diseñar pruebas pequeñas de precio, elegir una estructura de cobro, comunicar el precio y revisarlo sin dañar la confianza.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `price`, `value metric`, `willingness to pay`, `price sensitivity`, `discount` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de founder.
-3. **Aplicar** la secuencia **1. estimar alternatives y value → 2. proponer 2 o 3 price points → 3. testear con compra real → 4. analizar objections y segment → 5. refinar package y value metric** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** close rate by price, discount rate, ARPA sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Estimar** un rango de precio a partir del valor para el cliente, el costo y las alternativas.
+2. **Elegir** una estructura de cobro coherente con el valor y el uso.
+3. **Diseñar** una prueba de precio pequeña con criterios previos.
+4. **Calcular** el efecto del precio en volumen y en contribución.
+5. **Comunicar** y revisar precios sin dañar la relación con los clientes.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define price y value metric sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con close rate by price y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cómo fijaste tu precio actual y con qué evidencia? |
+| 20–60 min | Valor, costo, alternativas, estructura de cobro, pruebas, comunicación, revisión. |
+| 60–105 min | Ejemplo trabajado: prueba de tres precios con contribución y valor percibido. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **price** | intercambio monetario exigido por la oferta | Distingue un hecho compatible y otro que lo refute. |
-| **value metric** | unidad según la cual precio escala con valor o uso | Distingue un hecho compatible y otro que lo refute. |
-| **willingness to pay** | máximo que un cliente considera razonable pagar | Distingue un hecho compatible y otro que lo refute. |
-| **price sensitivity** | cambio de demanda frente a cambios de precio | Distingue un hecho compatible y otro que lo refute. |
-| **discount** | reducción deliberada que debe tener propósito y límite | Distingue un hecho compatible y otro que lo refute. |
+| **Precio basado en valor** | Precio fijado según el valor que el cliente obtiene. | Se calcula el beneficio y se cobra una parte. |
+| **Precio piso** | Mínimo que cubre costos variables y de adquisición. | Costo de servir más margen mínimo. |
+| **Precio techo** | Máximo que el cliente aceptaría. | Valor total para el cliente. |
+| **Ancla** | Referencia que influye en la percepción del precio. | Plan caro que hace ver razonable el intermedio. |
+| **Contribución** | Precio menos costo variable por cliente. | Dinero que queda para costos fijos. |
+| **Experimento de precio** | Prueba controlada de distintos precios. | Grupos comparables con precios distintos. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 249: 1. estimar alternatives y value → 2. proponer 2 o 3 price points → 3. testear con compra real → 4. analizar objections y segment → 5. refinar package y value metric](modelo-mental.svg)
+![Tabla de decisión de precio: valor para el cliente, costo de servir, alternativas, sensibilidad y estructura de cobro.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. estimar alternatives y value → 2. proponer 2 o 3 price points → 3. testear con compra real → 4. analizar objections y segment → 5. refinar package y value metric
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Pricing temprano es un experimento sobre valor, segmento y modelo. Cost-plus puede poner piso, pero willingness to pay, alternatives y value metrics ayudan a capturar valor. Descuentos permanentes a primeros clientes pueden esconder que el problema no es suficientemente valioso.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Precios tempranos tienen muestras pequeñas y sesgo. No extrapoles elasticidad; usa experimentos éticos y coherencia contractual entre clientes.**
+**Cómo leer el diagrama.** Una tabla con filas de factores y columnas de qué mirar y qué decide. **Valor para el cliente**: cuánto ahorra o gana; fija el techo. **Costo de servir**: variable y de adquisición; fija el piso. **Alternativas**: lo que el cliente usa hoy, incluyendo hacer nada o hacerlo a mano; fija la referencia. **Sensibilidad del segmento**: quién compra y cómo reacciona a cambios. **Estructura de cobro**: por usuario, uso, plana o por niveles; alinea el cobro con el valor. La nota afirma que el precio es una hipótesis que se prueba; el pie, que el rango va entre el piso y el techo y se decide con datos.
 
 ## 📖 Desarrollo
 
-### 1. price: mecanismo central
+### 1. El precio como decisión de valor, no de costo
 
-**price** se entiende aquí como **intercambio monetario exigido por la oferta**. Esta es la pieza causal o estructural desde la que se inicia **pricing temprano**: antes de estimar alternatives y value, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Nagle plantea que los precios eficaces se fijan según el **valor que el cliente percibe** y no según el costo del vendedor: el costo marca el piso, el valor marca el techo, y el precio se ubica entre ambos según la competencia, el segmento y la estrategia. Un precio que solo suma costos deja dinero sobre la mesa cuando el valor es alto y expulsa al cliente cuando es bajo. Para estimar el valor se pregunta: ¿cuánto dinero ahorra el cliente?, ¿cuánto gana de más?, ¿qué riesgo evita?, ¿cuánto tiempo recupera? El **valor económico para el cliente** se compara con su mejor alternativa: lo que paga hoy, lo que le costaría hacerlo internamente y lo que perdería si no hace nada. Ese diferencial es el espacio de negociación.
 
-La lectura rectora de este bloque es Steve Blank — *The Four Steps to the Epiphany*. Su aporte se usa para examinar **customer development y búsqueda sistemática de un modelo de negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **close rate by price**; regístrala con periodo, unidad, población y baseline.
+### 2. Piso, techo y referencias
 
-Relaciona el mecanismo con **value metric**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El **piso** es la suma de lo que cuesta atender al cliente (variables) más una fracción del costo de adquirirlo, de modo que la contribución cubra el esfuerzo de ventas en un plazo razonable (clase 246). El **techo** es el valor total para el cliente; en la práctica se cobra una fracción, a menudo entre un cuarto y un tercio del beneficio cuantificable, porque el cliente debe sentir que gana más de lo que paga. Entre ambos están las **referencias**: precios de competidores, de sustitutos y de lo que el cliente gasta hoy. Se tabulan con cuidado, porque una comparación con productos distintos puede engañar. Un precio muy inferior al de las alternativas puede **señalar baja calidad**; uno muy superior exige una diferencia demostrable.
 
-### 2. value metric: frontera conceptual y error de clasificación
+### 3. Estructura de cobro
 
-**Definición operacional:** unidad según la cual precio escala con valor o uso. Su valor está en distinguirlo de **price** y **willingness to pay**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El **cómo** se cobra pesa tanto como el cuánto. Opciones: **cuota plana** (simple, predecible; deja valor sobre la mesa con clientes grandes), **por usuario** (crece con el equipo; puede desalentar la adopción), **por uso** (alinea cobro y valor; ingresos variables), **por niveles** (segmenta por disposición a pagar), **por resultado** (alinea incentivos; exige medir bien), o **mixta** (base más uso). Se elige la métrica de cobro que **crece cuando crece el valor para el cliente** y que es fácil de entender y medir. Thaler explica que los compradores usan **contabilidad mental**: pagar un monto fijo mensual se percibe distinto a pagar muchas pequeñas compras, aunque sumen igual; la estructura influye en cómo se vive el gasto.
 
-Contrasta el problema con Alexander Osterwalder & Yves Pigneur — *Business Model Generation*, que aporta una mirada sobre **diseño de modelos de negocio mediante propuesta, clientes, recursos y economía**. Formula dos mini-casos: uno que sí satisface la definición de **value metric** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **discount rate** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Contexto, anclas y niveles
 
-Antes de proponer 2 o 3 price points, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Ariely muestra que los compradores no tienen un precio absoluto en la cabeza: juzgan por **comparación**. Un plan alto hace parecer razonable el intermedio, y una opción claramente inferior empuja hacia la elegida. Por eso muchos productos ofrecen **tres niveles**: básico, recomendado y completo. Se diseñan con cuidado: cada nivel debe tener una **razón clara** para existir y no ser una trampa. Dos advertencias. La primera: las anclas funcionan, pero las manipulaciones engañosas dañan la confianza y pueden ser ilegales (publicidad y consumo: consulta fuentes oficiales). La segunda: en ventas entre empresas, los compradores comparan con presupuestos internos y procesos de aprobación, de modo que un precio bajo cierto umbral puede evitar comités y acelerar la compra.
 
-### 3. willingness to pay: operacionalización y medición
+### 5. Probar precios con experimentos pequeños
 
-**willingness to pay** significa **máximo que un cliente considera razonable pagar**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+No se necesita una gran muestra para aprender. Un esquema: se ofrecen **tres precios** a grupos comparables de clientes similares, sin que sepan de los otros; se registran **conversión** (cuántos compran) y **contribución** (precio menos costo variable por comprador) por grupo. Kohavi enseña que la experimentación controlada exige **asignación aleatoria**, **criterios previos** y cuidado con la **significancia**: con muestras pequeñas, diferencias grandes aparentes pueden ser ruido. Por eso se complementa con entrevistas sobre el valor y con la pregunta de **precios que cuestan demasiado o parecen demasiado baratos**. En etapa temprana se busca una dirección, no una certeza; se repite con más datos al crecer.
 
-Noam Wasserman — *The Founder's Dilemmas* orienta este bloque mediante **dilemas de fundador, equity, control, equipo y decisiones tempranas**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **ARPA**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Comunicar y negociar
 
-Al llegar a testear con compra real, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El precio se comunica con el **valor**: lo que el cliente gana, lo que incluye y cómo se compara con su alternativa. Se evitan descuentos improvisados que enseñan al cliente a negociar y erosionan el valor. Si se da un descuento, se cambia por algo: **compromiso de plazo, pago anticipado, testimonio o volumen**. Los **primeros clientes** a veces reciben un precio de lanzamiento: se informa que es temporal y hasta cuándo, y se registra. En ventas complejas, se prepara una **tabla de concesiones** definiendo qué se puede ceder y a cambio de qué. Skok recuerda que en negocios recurrentes un descuento permanente se arrastra durante toda la vida del cliente, así que se pesa contra el valor de vida (clase 246).
 
-### 4. price sensitivity: trade-offs y efectos de segundo orden
+### 7. Revisar el precio sin dañar la confianza
 
-**Definición:** cambio de demanda frente a cambios de precio. Este concepto obliga a abandonar la idea de que **pricing temprano** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de analizar objections y segment, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-David J. Bland & Alexander Osterwalder — *Testing Business Ideas* aporta una lente sobre **hipótesis de negocio, experimentos, evidencia y reducción de riesgo**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **gross margin** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **pricing temprano**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **price sensitivity** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. discount: gobernanza, límites e integración
-
-**discount** se define como **reducción deliberada que debe tener propósito y límite** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Alexander Osterwalder et al. — *Value Proposition Design* se utiliza para estudiar **perspectiva de Producto aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar refinar package y value metric, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Precios tempranos tienen muestras pequeñas y sesgo. No extrapoles elasticidad; usa experimentos éticos y coherencia contractual entre clientes.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **price**, **value metric**, **willingness to pay**, **price sensitivity** y **discount** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **pricing temprano** no consiste en sumar cinco definiciones. Empieza por **price**, contrasta **value metric** con **willingness to pay**, incorpora **price sensitivity** como restricción o mecanismo y usa **discount** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. estimar alternatives y value → 2. proponer 2 o 3 price points → 3. testear con compra real → 4. analizar objections y segment → 5. refinar package y value metric**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El precio se revisa periódicamente: al lanzar, tras 90 días, cuando cambia el costo o el valor, o cuando una prueba lo sugiere. Se sube con **aviso**, **justificación de valor** y, si corresponde, **protección** a clientes actuales por un plazo; se baja solo si la evidencia muestra que el precio impide el crecimiento. Los cambios de precio también tienen **efectos legales y contractuales** (cláusulas de reajuste, avisos mínimos, publicidad): se consultan con asesoría y fuentes oficiales. Un error es mantener un precio de lanzamiento demasiado tiempo porque «nadie se quejó»; la falta de reclamos no prueba que el precio sea el correcto, a veces prueba que es **demasiado bajo**. Se lleva un registro de precios, pruebas y decisiones.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Steve Blank — *The Four Steps to the Epiphany* | customer development y búsqueda sistemática de un modelo de negocio | ¿Qué supuesto de **pricing temprano** ayuda a desafiar? |
-| Alexander Osterwalder & Yves Pigneur — *Business Model Generation* | diseño de modelos de negocio mediante propuesta, clientes, recursos y economía | ¿Qué supuesto de **pricing temprano** ayuda a desafiar? |
-| Noam Wasserman — *The Founder's Dilemmas* | dilemas de fundador, equity, control, equipo y decisiones tempranas | ¿Qué supuesto de **pricing temprano** ayuda a desafiar? |
-| David J. Bland & Alexander Osterwalder — *Testing Business Ideas* | hipótesis de negocio, experimentos, evidencia y reducción de riesgo | ¿Qué supuesto de **pricing temprano** ayuda a desafiar? |
-| Alexander Osterwalder et al. — *Value Proposition Design* | perspectiva de Producto aplicada al problema de la clase | ¿Qué supuesto de **pricing temprano** ayuda a desafiar? |
-
-En **pricing temprano**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **price**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Nagle | Precio basado en valor, piso, techo y segmentación. | Requiere estimar el valor del cliente. | ¿Cuánto vale esto para quien lo compra? |
+| Thaler | Contabilidad mental y percepción del gasto. | No fija cifras. | ¿Cómo vive el cliente este cobro? |
+| Ariely | Influencia del contexto y de las anclas. | No es guía de diseño de precios. | ¿Con qué se compara mi precio? |
+| Kohavi | Experimentación controlada y significancia. | Requiere muestras y disciplina. | ¿La diferencia es señal o ruido? |
+| Skok | Economía unitaria en negocios recurrentes. | Enfocado en suscripciones. | ¿Cuánto tarda en recuperarse la adquisición? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Primeros 20 clientes pagan USD 10 porque founder teme cobrar USD 100. Todos usan el servicio para ahorrar más de USD 1.000 al mes.
+**Situación (hipotética).** Un software para clínicas veterinarias pequeñas registra fichas y recordatorios. Costo variable por cliente: 14.000 pesos al mes (alojamiento, mensajería y soporte). Los clientes dicen que el sistema les ahorra el tiempo de una persona a medio tiempo en recordatorios y cobros.
 
-**Paso 1 — estimar alternatives y value.** La gerencia escribe primero el supuesto asociado a **price** y evita convertirlo en hecho. Luego busca **close rate by price** para contrastarlo en el caso de **pricing temprano**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Valor para el cliente.** Ahorro estimado: 12 horas al mes × 10.000 pesos la hora = 120.000 pesos; más 30.000 en citas recuperadas por recordatorios. **Valor total: 150.000 pesos al mes.**
 
-**Paso 2 — proponer 2 o 3 price points.** La gerencia escribe primero el supuesto asociado a **value metric** y evita convertirlo en hecho. Luego busca **discount rate** para contrastarlo en el caso de **pricing temprano**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Piso y techo.** Piso: costo variable 14.000 + una fracción del costo de adquisición. Techo: 150.000. Una fracción de un tercio del valor da **50.000**; un cuarto da 37.500. El rango razonable inicial es de 30.000 a 50.000.
 
-**Paso 3 — testear con compra real.** La gerencia escribe primero el supuesto asociado a **willingness to pay** y evita convertirlo en hecho. Luego busca **ARPA** para contrastarlo en el caso de **pricing temprano**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Alternativas.** Una planilla (gratis, con trabajo manual) y un competidor que cobra 55.000 con más funciones y sin recordatorios por mensajería.
 
-**Paso 4 — analizar objections y segment.** La gerencia escribe primero el supuesto asociado a **price sensitivity** y evita convertirlo en hecho. Luego busca **gross margin** para contrastarlo en el caso de **pricing temprano**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Prueba de tres precios.** Se ofrece el mismo plan a tres grupos de 30 clínicas comparables, seleccionadas al azar de una lista de 90, sin que se conozcan los demás precios.
 
-**Paso 5 — refinar package y value metric.** La gerencia escribe primero el supuesto asociado a **discount** y evita convertirlo en hecho. Luego busca **expansion** para contrastarlo en el caso de **pricing temprano**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Precio mensual | Compradores (de 30) | Conversión | Ingreso mensual | Contribución mensual (precio − 14.000) |
+|---|---|---|---|---|
+| 29.000 | 12 | 40,0 % | 348.000 | 15.000 × 12 = 180.000 |
+| 39.000 | 9 | 30,0 % | 351.000 | 25.000 × 9 = 225.000 |
+| 49.000 | 5 | 16,7 % | 245.000 | 35.000 × 5 = 175.000 |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **pricing temprano**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Lectura.** El precio de 39.000 entrega la mayor contribución (225.000), 25 % más que con 29.000 (225.000 ÷ 180.000 = 1,25) y 28,6 % más que con 49.000 (225.000 ÷ 175.000 ≈ 1,29). Aun así, la diferencia entre 12 y 9 compradores, con 30 por grupo, **no es concluyente**: las conversiones de 40 % y 30 % tienen un error de unos 16 a 18 puntos porcentuales en cada grupo (aprox. 1,96 × √(p(1−p)/30)), de modo que los intervalos se solapan. La señal sí es fuerte en un punto: a 49.000 la conversión cae a 16,7 %.
+
+**Relación con el valor.** 39.000 ÷ 150.000 = 26 % del valor total; el cliente recibe 74 %.
+
+**Estructura de cobro.** Se evalúa cobrar por veterinario: las clínicas con 1 profesional pagarían 39.000 y las de 3, 117.000. Entre los compradores, 6 de 9 tienen un solo profesional. Se decide un plan de **tres niveles**: básico (1 profesional, 39.000), clínica (hasta 3, 79.000) y completo (hasta 6, con reportes, 119.000). El nivel intermedio, con un costo variable de 22.000, deja 57.000 de contribución.
+
+**Descuento.** A los 10 primeros clientes se ofrece 29.000 por 6 meses a cambio de un testimonio y de pagar el semestre por adelantado (174.000). Cuesta 10.000 mensuales por cliente respecto de 39.000; se registra como inversión de adquisición y se revisa en 6 meses.
+
+**Decisión.** Lanzar con 39.000 y tres niveles, repetir la prueba con 60 clínicas por grupo en 90 días, y vigilar la conversión por nivel. Se revisarán las cláusulas de reajuste y la facturación con asesoría y fuentes oficiales.
+
+**Cuidados.** Las cifras son ilustrativas; los intervalos son aproximados y la prueba es pequeña.
+
+**Qué muestra.** (1) El valor fijó un techo con evidencia. (2) La prueba mostró la contribución, no solo la conversión. (3) Se reconoció que la muestra es pequeña y se planificó una repetición.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **price** | intercambio monetario exigido por la oferta | Cuando close rate by price es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **value metric** | unidad según la cual precio escala con valor o uso | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Precio frente a descuento.** El precio comunica y captura valor de manera estable; el descuento es una concesión puntual que debe cambiarse por algo. Un descuento permanente es un precio más bajo no declarado.
 
-**Frontera de aplicación:** Precios tempranos tienen muestras pequeñas y sesgo. No extrapoles elasticidad; usa experimentos éticos y coherencia contractual entre clientes.
+**Límites.** Las pruebas de precio con muestras pequeñas son orientativas. Los clientes pueden comparar entre sí y descubrir las diferencias; hay riesgos de reputación y, según la jurisdicción, normas de consumo y de libre competencia que se deben consultar en fuentes oficiales. El valor percibido cambia con el segmento. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre pricing temprano |
+| Nivel | Cómo se relaciona con el precio |
 |---|---|
-| **Profesional** | usa **pricing temprano** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **price** y **value metric** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta close rate by price con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si pricing temprano cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de pricing temprano reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **pricing temprano** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Conoce el precio y su justificación ante el cliente. |
+| **Jefe / Team Lead** | Entiende cómo el costo de servir afecta el margen. |
+| **Gerente** | Gestiona descuentos y estructura de cobro por segmento. |
+| **CEO / Director** | Decide el posicionamiento y la política de precios. |
+| **Founder / Owner** | Prueba, comunica y revisa el precio con evidencia. |
 
 ## 🏢 Caso ejecutivo
 
-Primeros 20 clientes pagan USD 10 porque founder teme cobrar USD 100. Todos usan el servicio para ahorrar más de USD 1.000 al mes.
+Un fundador vende un servicio de limpieza de oficinas con control de calidad por fotografías. Fijó 280.000 pesos mensuales por oficina de 100 metros cuadrados, sumando costos (190.000) y un margen de 47 %. Tiene 14 clientes. Una oficina de abogados le dice que pagaría 450.000 por incluir limpieza profunda de alfombras y reportes semanales; un cliente pequeño pide 220.000. El competidor principal cobra 250.000 sin control por fotos. Los clientes que más reclaman son los que pagan menos. Un cliente evitó una multa sanitaria gracias a las fotografías y el fundador estima que el servicio le ahorró 600.000. El costo de incorporar a un cliente nuevo es de 150.000 y la cancelación mensual es de 4 %. Su socio propone bajar a 240.000 para ganar volumen.
 
-Entrega un **decision brief de pricing temprano** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de precio** que contenga: (a) el valor para el cliente, el piso, el techo y las referencias; (b) la estructura de cobro y los niveles propuestos; (c) la prueba de precio con criterios, muestra y lectura de significancia; (d) el efecto de la propuesta del socio sobre contribución y recuperación del costo de adquisición; (e) la política de descuentos y de revisión de precios; (f) las verificaciones contractuales, tributarias y de consumo pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **pricing temprano** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. estimar alternatives y value → 2. proponer 2 o 3 price points → 3. testear con compra real → 4. analizar objections y segment → 5. refinar package y value metric** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta close rate by price, discount rate; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Estima el valor total para tu cliente y su mejor alternativa.
+2. Calcula tu piso y define un rango entre piso y techo.
+3. Elige una estructura de cobro y justifica la métrica.
+4. Diseña una prueba de tres precios con grupos comparables.
+5. Escribe tu política de descuentos y de revisión.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar price y value metric como sinónimos | Se pierde la distinción entre “intercambio monetario exigido por la oferta” y “unidad según la cual precio escala con valor o uso” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “refinar package y value metric” | Se saltó “estimar alternatives y value” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. estimar alternatives y value → 2. proponer 2 o 3 price points → 3. testear con compra real → 4. analizar objections y segment → 5. refinar package y value metric y marca el primer supuesto no demostrado. |
-| Optimizar solo close rate by price | La métrica local sustituyó al resultado del sistema | Contrástala con discount rate y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre pricing temprano | Precios tempranos tienen muestras pequeñas y sesgo. No extrapoles elasticidad; usa experimentos éticos y coherencia contractual entre clientes. |
-| No fijar revisión | Una decisión sobre pricing temprano se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Costo más margen | Es simple | Partir del valor para el cliente. |
+| Precio bajo para no asustar | Se teme el rechazo | Probar con evidencia. |
+| Descuentos sin contraprestación | Se quiere cerrar | Cambiar por plazo, pago o testimonio. |
+| Concluir con muestra pequeña | Se busca certeza | Reconocer el ruido y repetir. |
+| No revisar | «Nadie se quejó» | Fechas de revisión y registro. |
+| Estructura que no crece con el valor | Se copia al mercado | Elegir métrica ligada al valor. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **price** y **value metric** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **willingness to pay** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **estimar alternatives y value → proponer 2 o 3 price points** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **close rate by price** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **pricing temprano**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Precios tempranos tienen muestras pequeñas y sesgo. No extrapoles elasticidad; usa experimentos éticos y coherencia contractual entre clientes.**?
+1. ¿Qué fija el piso y qué fija el techo del precio?
+2. ¿Qué es la contribución y por qué importa?
+3. ¿Qué criterios sigue una buena estructura de cobro?
+4. ¿Por qué se ofrecen tres niveles?
+5. ¿Cómo se diseña una prueba de precios?
+6. ¿Cómo se evita que un descuento erosione el valor?
+7. ¿Cuándo se revisa un precio?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El costo de servir y adquirir fija el piso; el valor total para el cliente fija el techo.
+2. Precio menos costo variable por cliente; es lo que cubre costos fijos y utilidad.
+3. Que el cobro crezca con el valor, sea fácil de entender y se pueda medir.
+4. Porque las comparaciones guían la percepción y los niveles segmentan la disposición a pagar.
+5. Con grupos comparables y asignación aleatoria, criterios previos y lectura de conversión y contribución.
+6. Cambiándolo por plazo, pago anticipado, volumen o testimonio.
+7. Al lanzar, a los 90 días, cuando cambian costos o valor, o cuando una prueba lo sugiere.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/249-pricing-temprano/`:
 
-- `commercial-decision-brief.md` con el problema específico de **pricing temprano**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **pricing temprano** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **price**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Primeros 20 clientes pagan USD 10 porque founder teme cobrar USD 100. Todos usan el servicio para ahorrar más de USD 1.000 al mes.** y el dato que podría invalidar la recomendación.
+- `commercial-decision-brief.md` (plantilla [Commercial decision brief](../../../../templates/commercial-decision-brief.md)) con el memo del caso ejecutivo;
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con la contribución por precio;
+- `decision-journal.md` con la prueba de precio y la política de descuentos.
 
 ## 📗 Fuentes y verificación
 
-- Steve Blank — *The Four Steps to the Epiphany* ([Steve Blank?], 2013). **Uso en esta clase:** customer development y búsqueda sistemática de un modelo de negocio. Lectura selectiva sobre **pricing temprano**. **Localizador:** [ISBN-13 9780989200509](https://openlibrary.org/isbn/9780989200509).
-- Alexander Osterwalder & Yves Pigneur — *Business Model Generation* (Wiley , 2010). **Uso en esta clase:** diseño de modelos de negocio mediante propuesta, clientes, recursos y economía. Lectura selectiva sobre **pricing temprano**. **Localizador:** [ISBN-13 9780470876411](https://openlibrary.org/isbn/9780470876411).
-- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de fundador, equity, control, equipo y decisiones tempranas. Lectura selectiva sobre **pricing temprano**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
-- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** hipótesis de negocio, experimentos, evidencia y reducción de riesgo. Lectura selectiva sobre **pricing temprano**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
-- Alexander Osterwalder et al. — *Value Proposition Design* (John Wiley & Sons, Incorporated, 2014). **Uso en esta clase:** perspectiva de Producto aplicada al problema de la clase. Lectura selectiva sobre **pricing temprano**. **Localizador:** [ISBN-13 9781118968062](https://openlibrary.org/isbn/9781118968062).
-- Bill Aulet — *Disciplined Entrepreneurship* (John Wiley & Sons, Incorporated, 2013). **Uso en esta clase:** secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio. Lectura selectiva sobre **pricing temprano**. **Localizador:** [ISBN-13 9781299848641](https://openlibrary.org/isbn/9781299848641).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **pricing temprano** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **pricing temprano**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **pricing temprano** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **pricing temprano** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **pricing temprano** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing* (Taylor & Francis Group, 1987). **Uso en esta clase:** precio basado en valor, piso, techo y segmentación. Lectura selectiva sobre **pricing temprano**. **Localizador:** [ISBN-13 9781315266220](https://openlibrary.org/isbn/9781315266220).
+- Richard Thaler — *Mental Accounting and Consumer Choice* (Marketing Science, 1985). **Uso en esta clase:** contabilidad mental y percepción del gasto. Lectura selectiva sobre **pricing temprano**. **Localizador:** [DOI 10.1287/mksc.4.3.199](https://doi.org/10.1287/mksc.4.3.199).
+- Dan Ariely, George Loewenstein & Drazen Prelec — *Coherent Arbitrariness: Stable Demand Curves Without Stable Preferences* (The Quarterly Journal of Economics, 2003). **Uso en esta clase:** influencia del contexto y de las anclas en el precio. Lectura selectiva sobre **pricing temprano**. **Localizador:** [DOI 10.1162/00335530360535153](https://doi.org/10.1162/00335530360535153).
+- Ron Kohavi, Diane Tang & Ya Xu — *Trustworthy Online Controlled Experiments* (Cambridge University Press, 2020). **Uso en esta clase:** experimentación controlada y lectura de significancia. Lectura selectiva sobre **pricing temprano**. **Localizador:** [ISBN-13 9781108724265](https://openlibrary.org/isbn/9781108724265).
+- David Skok — *SaaS Metrics resources* (For Entrepreneurs (Matrix Partners)). **Uso en esta clase:** economía unitaria en negocios recurrentes. **Fuente primaria:** <https://www.forentrepreneurs.com/saas-metrics-2/>.
 
-> **Regla de fuentes para Pricing temprano:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **pricing temprano** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Pricing temprano:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de consumo, libre competencia y tributarias. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

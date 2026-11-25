@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 6 — Founder"
 outcome: "descubrir, validar y lanzar una empresa antes de escalarla"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir launch readiness de go-no-go criterion mediante evidencia observable."
-  - "Aplicar la secuencia: revisar customer y value evidence → validar product ops y security → confirmar pricing channel y support → definir cohort y success-stop metrics → decidir go limited-go o no-go."
-  - "Interpretar activation, support load, critical defects sin atribuir causalidad automática."
-  - "Resolver el caso de capstone: launch readiness con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Integrar la evidencia de problema, cliente, propuesta, modelo, validación, MVP, precio y primeros clientes."
+  - "Puntuar la fuerza de la evidencia y la preparación operativa con criterios explícitos."
+  - "Ubicar el proyecto en un cuadrante y derivar una acción."
+  - "Definir condiciones de lanzamiento, métricas de las primeras semanas y criterios de detención."
+  - "Presentar una decisión de go / no-go con riesgos, caja y plan de contingencia."
 deliverable: "founder-owner-decision-brief.md"
 references:
-  - "Steve Blank — *The Four Steps to the Epiphany*"
-  - "Alexander Osterwalder & Yves Pigneur — *Business Model Generation*"
-  - "Noam Wasserman — *The Founder's Dilemmas*"
-  - "Rob Fitzpatrick — *The Mom Test*"
-  - "Ben Horowitz — *The Hard Thing About Hard Things*"
   - "Bill Aulet — *Disciplined Entrepreneurship*"
+  - "Eric Ries — *The Lean Startup*"
+  - "Atul Gawande — *The Checklist Manifesto*"
+  - "Noam Wasserman — *The Founder's Dilemmas*"
+  - "Clayton M. Christensen et al. — *Competing Against Luck*"
 limits:
-  - "Un checklist puede crear falsa seguridad. Prioriza riesgos que pueden dañar clientes, caja o reputación y limita rollout cuando incertidumbre sigue alta."
+  - "Los puntajes son subjetivos; dos revisores pueden diferir y ese desacuerdo es información."
 evidence_signals:
-  - "activation"
-  - "support load"
-  - "critical defects"
-  - "cash runway"
-  - "paid conversion"
+  - "evidencia puntuada por eslabón"
+  - "preparación operativa evaluada"
+  - "pista de caja en tres escenarios"
+  - "condiciones y criterios de detención"

@@ -10,217 +10,209 @@
 
 ## 🎯 Propósito
 
-Validar antes de construir significa buscar evidencia barata sobre demanda, pago, canal y workflow antes de invertir en software completo. Landing pages, pre-sales, entrevistas, manual service y prototypes permiten subir una evidence ladder desde interés hasta comportamiento y dinero.
+Construir es caro y, sobre todo, **tentador**: escribir código, diseñar el local o fabricar un prototipo da sensación de avance, mientras que salir a pedirle a un desconocido que pague por algo que todavía no existe da vergüenza. Por eso muchos fundadores dedican meses a producir algo que nadie había pedido. La validación antes de construir invierte el orden: se busca la **evidencia más barata y más rápida** de que existe un problema real, un comprador con presupuesto y disposición a actuar, y solo entonces se invierte en construir. Pero «validar» es una palabra resbaladiza: una persona amable que dice «me encanta la idea» no valida nada; una persona que **adelanta dinero, firma una carta de intención con condiciones claras o dedica su tiempo a un piloto** sí aporta evidencia.
 
-La salida de esta parte es **descubrir, validar y lanzar una empresa antes de escalarla**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **validación antes de construir** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta la validación como una **escalera de compromiso**: cada peldaño exige más del cliente que el anterior (opinión, tiempo, datos, reputación, dinero), y el fundador sube solo cuando el peldaño actual se sostiene con datos. Se apoya en Ries sobre el aprendizaje validado y el producto mínimo viable, en Fitzpatrick sobre cómo obtener información real sin que la gente mienta por cortesía, en Bland sobre pruebas rápidas de hipótesis, en Blank sobre salir del edificio y en Maurya sobre la priorización de riesgos. Al terminar sabrás clasificar la evidencia por su fuerza, diseñar la prueba más barata para cada hipótesis, fijar criterios de éxito antes de mirar los resultados y decidir con disciplina si seguir, ajustar o detener.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `demand test`, `pre-sale`, `smoke test`, `concierge`, `commitment` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de founder.
-3. **Aplicar** la secuencia **1. priorizar riesgo de demanda → 2. diseñar test mínimo → 3. definir commitment observable → 4. ejecutar con segmento real → 5. decidir build change o stop** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** qualified leads, pre-orders, deposit rate sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** opinión, comportamiento y compromiso como tipos de evidencia.
+2. **Ordenar** pruebas desde la más barata hasta la más costosa.
+3. **Fijar** criterios de éxito y fracaso antes de ejecutar una prueba.
+4. **Diseñar** una prueba de demanda sin construir el producto.
+5. **Decidir** seguir, ajustar o detener con base en la evidencia reunida.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define demand test y pre-sale sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con qualified leads y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué has construido sin que nadie te lo pidiera? |
+| 20–60 min | Escalera de compromiso, criterios previos, pruebas de demanda, sesgos, decisión. |
+| 60–105 min | Ejemplo trabajado: prueba de pre-venta con criterios previos y lectura de resultados. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **demand test** | experimento para observar interés o compromiso del mercado | Distingue un hecho compatible y otro que lo refute. |
-| **pre-sale** | compromiso de compra antes de producto final | Distingue un hecho compatible y otro que lo refute. |
-| **smoke test** | señalización de oferta para medir reacción sin construir todo | Distingue un hecho compatible y otro que lo refute. |
-| **concierge** | entrega manual del valor para aprender workflow | Distingue un hecho compatible y otro que lo refute. |
-| **commitment** | acción costosa que revela intención más fuerte que una opinión | Distingue un hecho compatible y otro que lo refute. |
+| **Validación** | Reunir evidencia de que una hipótesis crítica se sostiene. | Prueba con criterio previo y resultado medido. |
+| **Escalera de compromiso** | Orden de pruebas según lo que se le exige al cliente. | Opinión, tiempo, datos, reputación, dinero. |
+| **Criterio previo** | Umbral de éxito fijado antes de ver los datos. | «Si menos de 5 de 40 pagan, se detiene». |
+| **Prueba de demanda** | Experimento que mide interés real sin producto terminado. | Página de captación, pre-venta, carta de intención. |
+| **Cortesía** | Tendencia a dar respuestas agradables que no comprometen. | «Me encantaría» sin ninguna acción. |
+| **Falso positivo** | Señal que parece validar y no lo hace. | Interés de amigos, curiosos o la propia red. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 247: 1. priorizar riesgo de demanda → 2. diseñar test mínimo → 3. definir commitment observable → 4. ejecutar con segmento real → 5. decidir build change o stop](modelo-mental.svg)
+![La validación como escalera de compromiso: cada peldaño exige más del cliente y se sube solo con datos.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. priorizar riesgo de demanda → 2. diseñar test mínimo → 3. definir commitment observable → 4. ejecutar con segmento real → 5. decidir build change o stop
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Validar antes de construir significa buscar evidencia barata sobre demanda, pago, canal y workflow antes de invertir en software completo. Landing pages, pre-sales, entrevistas, manual service y prototypes permiten subir una evidence ladder desde interés hasta comportamiento y dinero.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No vendas algo que no puedes entregar ni engañes con fake doors sin transparencia adecuada. Diseña experimentos éticos y cumple compromisos.**
+**Cómo leer el diagrama.** Una escalera de abajo hacia arriba. **Opinión**: entrevistas y encuestas; es lo más barato y lo menos fiable porque la cortesía contamina. **Tiempo**: el cliente dedica una hora, acepta una demostración o responde un cuestionario largo. **Datos y acceso**: entrega información, conecta su sistema o abre una prueba piloto. **Reputación**: presenta al fundador a un colega o firma una carta de intención. **Dinero**: pre-venta, anticipo o contrato; es la evidencia más fuerte. La nota afirma que un peldaño se sube solo cuando el anterior se sostiene con datos; el pie, que el criterio de éxito se fija antes de mirar el resultado.
 
 ## 📖 Desarrollo
 
-### 1. demand test: mecanismo central
+### 1. Qué cuenta como validación y qué no
 
-**demand test** se entiende aquí como **experimento para observar interés o compromiso del mercado**. Esta es la pieza causal o estructural desde la que se inicia **validación antes de construir**: antes de priorizar riesgo de demanda, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Fitzpatrick sostiene que las conversaciones con clientes están llenas de **cumplidos, ideas vagas y promesas** que no sirven como evidencia. Sirve lo que el cliente **hace** o **entrega**: dedica tiempo, comparte datos, presenta a otra persona, paga o firma. Una clasificación práctica: **opinión** (lo que dice), **comportamiento** (lo que ya hace, como soluciones que usa hoy o dinero que ya gasta) y **compromiso** (lo que está dispuesto a perder para que esto exista). A mayor compromiso, más fuerte la evidencia. Validar no es convencerse de que la idea es buena; es **intentar refutarla** con la prueba más barata posible y observar si resiste.
 
-La lectura rectora de este bloque es Steve Blank — *The Four Steps to the Epiphany*. Su aporte se usa para examinar **customer development y búsqueda sistemática de un modelo de negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **qualified leads**; regístrala con periodo, unidad, población y baseline.
+### 2. La escalera de compromiso
 
-Relaciona el mecanismo con **pre-sale**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se ordenan las pruebas por lo que le cuestan al cliente. En el primer peldaño están las **entrevistas** sobre el problema (clase 243); luego, las pruebas que piden **tiempo** (una demostración de una hora, un cuestionario de diagnóstico); después las que piden **acceso o datos** (un piloto con sus archivos reales); luego las que comprometen su **reputación** (presentar a un colega, firmar una carta de intención con condiciones claras); y arriba, el **dinero** (pre-venta, anticipo, contrato). La regla es **no subir antes de que el peldaño actual muestre señal**, y tampoco quedarse abajo indefinidamente: si tras 30 entrevistas nadie da tiempo ni datos, no hace falta construir nada, hace falta cambiar de problema o de segmento.
 
-### 2. pre-sale: frontera conceptual y error de clasificación
+### 3. Criterios de éxito antes de mirar los resultados
 
-**Definición operacional:** compromiso de compra antes de producto final. Su valor está en distinguirlo de **demand test** y **smoke test**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El sesgo más difícil de evitar es **interpretar los datos a favor de la idea**. Para controlarlo, antes de ejecutar la prueba se escribe: la **hipótesis**, el **umbral de éxito**, el **umbral de fracaso** y la **decisión asociada** a cada resultado. Por ejemplo: «Si de 40 empresas contactadas al menos 5 pagan un anticipo, se construye la primera versión; si pagan 2 o menos, se cambia el segmento; entre 3 y 4, se repite la prueba con otro mensaje». Ries habla de **métricas accionables**: aquellas que cambian lo que haces; una cifra que no puede llevar a una decisión distinta no sirve como criterio. Bland propone fijar también el **plazo** y el **tamaño de muestra mínimo** para no decidir con tres respuestas.
 
-Contrasta el problema con Alexander Osterwalder & Yves Pigneur — *Business Model Generation*, que aporta una mirada sobre **diseño de modelos de negocio mediante propuesta, clientes, recursos y economía**. Formula dos mini-casos: uno que sí satisface la definición de **pre-sale** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **pre-orders** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Pruebas de demanda sin producto
 
-Antes de diseñar test mínimo, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Hay formas baratas de medir demanda real. **Página de captación** con propuesta de valor, precio y botón de reserva, enviada a un segmento concreto: mide interés a cambio de un dato de contacto o un anticipo. **Pre-venta** con entrega futura: se explica qué se entregará y cuándo, y se pide un pago o una reserva reembolsable. **Carta de intención** con condiciones: indica volumen, precio y plazo, y la reputación del firmante aumenta su peso. **Piloto pagado** limitado: el cliente paga por una versión manual (clase 248). **Prueba del «humo»**: anuncio o correo con la oferta para medir clics, aclarando después que el producto aún no existe. Estas pruebas deben cumplir con reglas de **honestidad**: no se vende lo que no se puede entregar ni se cobra sin informar claramente el estado del producto y las condiciones de devolución (consulta fuentes oficiales de consumo y asesoría).
 
-### 3. smoke test: operacionalización y medición
+### 5. Los falsos positivos
 
-**smoke test** significa **señalización de oferta para medir reacción sin construir todo**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Muchas «validaciones» son falsas. **Amigos y familiares** compran por cariño. **Curiosos** hacen clic por entretenimiento. **Usuarios sin presupuesto** (estudiantes, entusiastas) aman el producto pero no pagan. **Compradores sin autoridad** apoyan la idea y no pueden decidir. **Gratis** es un precio especial: una prueba gratuita mide curiosidad, no disposición a pagar. Y el **efecto de la propia red**: lo que funciona entre conocidos puede no funcionar con extraños (clase 246). Para reducirlos, se prueba con un **segmento definido y ajeno**, se pide un compromiso proporcional y se registra de dónde vino cada señal. Un buen indicador es que el cliente **tome una acción costosa sin que el fundador lo presione**.
 
-Ben Horowitz — *The Hard Thing About Hard Things* orienta este bloque mediante **decisiones difíciles de CEO, organización, personas y ejecución bajo presión**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **deposit rate**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Priorizar qué validar primero
 
-Al llegar a definir commitment observable, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+No todo se valida a la vez. Maurya recomienda atacar primero el **riesgo mayor**: ¿existe el problema?, ¿hay un comprador con presupuesto?, ¿se puede alcanzar?, ¿se puede entregar con margen? Se puntúan las hipótesis por **impacto y evidencia disponible** (clase 244) y se diseñan pruebas en orden. Una estrategia útil: **una prueba por hipótesis**, con un responsable, un umbral y una fecha. Si una prueba invalida la hipótesis central, se detiene el resto y se reformula. Blank insiste en que la validación es un proceso de **salir del edificio** y volver con datos, no un trámite de gabinete; el cuaderno de aprendizaje registra qué se creía, qué se probó y qué se concluyó.
 
-### 4. concierge: trade-offs y efectos de segundo orden
+### 7. Decidir: seguir, ajustar o detener
 
-**Definición:** entrega manual del valor para aprender workflow. Este concepto obliga a abandonar la idea de que **validación antes de construir** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de ejecutar con segmento real, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Noam Wasserman — *The Founder's Dilemmas* aporta una lente sobre **dilemas de fundador, equity, control, equipo y decisiones tempranas**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **conversion** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **validación antes de construir**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **concierge** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. commitment: gobernanza, límites e integración
-
-**commitment** se define como **acción costosa que revela intención más fuerte que una opinión** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-David J. Bland & Alexander Osterwalder — *Testing Business Ideas* se utiliza para estudiar **hipótesis de negocio, experimentos, evidencia y reducción de riesgo** y contrastar la recomendación final. Al ejecutar decidir build change o stop, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No vendas algo que no puedes entregar ni engañes con fake doors sin transparencia adecuada. Diseña experimentos éticos y cumple compromisos.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **demand test**, **pre-sale**, **smoke test**, **concierge** y **commitment** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **validación antes de construir** no consiste en sumar cinco definiciones. Empieza por **demand test**, contrasta **pre-sale** con **smoke test**, incorpora **concierge** como restricción o mecanismo y usa **commitment** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. priorizar riesgo de demanda → 2. diseñar test mínimo → 3. definir commitment observable → 4. ejecutar con segmento real → 5. decidir build change o stop**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Al cerrar una prueba hay tres decisiones. **Seguir**: el umbral de éxito se cumplió; se avanza al siguiente peldaño o se construye la versión mínima (clase 248). **Ajustar**: el resultado es ambiguo o muestra una señal en un subsegmento; se cambia mensaje, segmento o precio y se repite. **Detener**: el umbral de fracaso se cumplió; se documenta el aprendizaje y se cambia el problema o se cierra el proyecto. Detener a tiempo **no es fracasar**; es proteger caja, tiempo y reputación. Kerr y sus coautores (clase 241) muestran que los fundadores subestiman con frecuencia el costo de persistir; una regla escrita antes de comenzar ayuda a decidir sin que el entusiasmo lo distorsione. El registro de decisiones deja constancia y evita repetir errores.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Steve Blank — *The Four Steps to the Epiphany* | customer development y búsqueda sistemática de un modelo de negocio | ¿Qué supuesto de **validación antes de construir** ayuda a desafiar? |
-| Alexander Osterwalder & Yves Pigneur — *Business Model Generation* | diseño de modelos de negocio mediante propuesta, clientes, recursos y economía | ¿Qué supuesto de **validación antes de construir** ayuda a desafiar? |
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **validación antes de construir** ayuda a desafiar? |
-| Noam Wasserman — *The Founder's Dilemmas* | dilemas de fundador, equity, control, equipo y decisiones tempranas | ¿Qué supuesto de **validación antes de construir** ayuda a desafiar? |
-| David J. Bland & Alexander Osterwalder — *Testing Business Ideas* | hipótesis de negocio, experimentos, evidencia y reducción de riesgo | ¿Qué supuesto de **validación antes de construir** ayuda a desafiar? |
-
-En **validación antes de construir**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **demand test**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Ries | Aprendizaje validado, producto mínimo y métricas accionables. | Orientado a productos digitales. | ¿Qué métrica cambia mi decisión? |
+| Fitzpatrick | Cómo obtener evidencia real evitando la cortesía. | Se centra en conversaciones. | ¿Qué compromiso real obtuve? |
+| Bland | Pruebas rápidas de hipótesis con criterios previos. | Marco para ciclos cortos. | ¿Qué umbral fijé antes de empezar? |
+| Blank | Salir del edificio y validar con clientes reales. | Requiere disciplina de campo. | ¿Hablé con extraños o con conocidos? |
+| Maurya | Priorizar el riesgo mayor y probarlo primero. | Marco de una página. | ¿Cuál es mi riesgo más grande? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Founder construye ocho meses antes de ofrecer. Al lanzar descubre que clientes quieren integración con un sistema que nunca contempló.
+**Situación (hipotética).** Un fundador propone una herramienta de pedidos automáticos para panaderías de barrio. Antes de construir, fija una prueba de pre-venta.
 
-**Paso 1 — priorizar riesgo de demanda.** La gerencia escribe primero el supuesto asociado a **demand test** y evita convertirlo en hecho. Luego busca **qualified leads** para contrastarlo en el caso de **validación antes de construir**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Hipótesis.** Los dueños de panaderías con 3 a 10 empleados pagan 25.000 pesos mensuales por un sistema que registra pedidos de restaurantes y calcula la producción del día.
 
-**Paso 2 — diseñar test mínimo.** La gerencia escribe primero el supuesto asociado a **pre-sale** y evita convertirlo en hecho. Luego busca **pre-orders** para contrastarlo en el caso de **validación antes de construir**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Criterios previos (escritos antes de ejecutar).**
 
-**Paso 3 — definir commitment observable.** La gerencia escribe primero el supuesto asociado a **smoke test** y evita convertirlo en hecho. Luego busca **deposit rate** para contrastarlo en el caso de **validación antes de construir**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Resultado (de 60 panaderías contactadas) | Decisión |
+|---|---|
+| 6 o más anticipos de 25.000 pesos | Construir la primera versión |
+| 3 a 5 anticipos | Ajustar mensaje o segmento y repetir |
+| 2 o menos | Detener y cambiar de problema |
 
-**Paso 4 — ejecutar con segmento real.** La gerencia escribe primero el supuesto asociado a **concierge** y evita convertirlo en hecho. Luego busca **conversion** para contrastarlo en el caso de **validación antes de construir**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+El umbral de éxito de 6 sobre 60 es 10 %.
 
-**Paso 5 — decidir build change o stop.** La gerencia escribe primero el supuesto asociado a **commitment** y evita convertirlo en hecho. Luego busca **customer interviews after test** para contrastarlo en el caso de **validación antes de construir**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Ejecución.** Visita o llamada a 60 panaderías de tres comunas, con una demostración en pantalla de una maqueta y una oferta de anticipo de un mes, con devolución completa si no se entrega en 60 días.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **validación antes de construir**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Resultados.**
+
+| Etapa | Cantidad | Conversión |
+|---|---|---|
+| Contactadas | 60 | — |
+| Aceptaron demostración | 27 | 45 % |
+| Dijeron «me interesa» | 15 | 25 % de los 60 |
+| Pagaron anticipo | 4 | 6,7 % de los 60 |
+
+4 anticipos equivalen a 100.000 pesos, y 4 ÷ 60 = 6,7 %. Según el criterio previo, es la zona de **ajustar** (3 a 5), no de construir.
+
+**Lectura.** Hubo 15 interesados y solo 4 pagaron. Se revisan los 11 que no pagaron: 7 dijeron que decide el contador o un socio ausente, 3 que ya usan una planilla y 1 que prefería pagar por pedido. Una señal clara: el **comprador** no estaba presente en la conversación.
+
+**Ajuste.** Se repite la prueba con un segundo grupo de 40 panaderías, pidiendo que asista quien decide e incluyendo una opción de pago por pedido (300 pesos cada uno). Criterio nuevo: 4 anticipos o más de 40 (10 %).
+
+**Segunda ronda.** Resultado: 32 aceptan demostración, 9 dicen que sí, 5 pagan anticipo (12,5 %). Supera el umbral. Además, 3 de los 5 eligen la opción por pedido.
+
+**Decisión.** Construir una primera versión con cobro **por pedido** y un piloto con los 9 interesados, con metas de uso semanal. Los anticipos se registran como pasivo hasta la entrega. Se pospone la contratación.
+
+**Cuidados.** Se informa claramente que el producto aún no existe y las condiciones de devolución; las obligaciones tributarias y de consumo se consultan con asesoría y fuentes oficiales; las cifras son ilustrativas.
+
+**Qué muestra.** (1) El criterio previo evitó leer un 6,7 % como éxito. (2) El análisis de los que no pagaron reveló que faltaba el decisor. (3) El ajuste produjo una señal más fuerte y un modelo de cobro distinto.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **demand test** | experimento para observar interés o compromiso del mercado | Cuando qualified leads es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **pre-sale** | compromiso de compra antes de producto final | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Validación frente a venta.** Validar busca refutar o confirmar una hipótesis con la prueba más barata; vender busca cerrar clientes con una oferta estable. Se parecen en el gesto, no en el propósito.
 
-**Frontera de aplicación:** No vendas algo que no puedes entregar ni engañes con fake doors sin transparencia adecuada. Diseña experimentos éticos y cumple compromisos.
+**Límites.** Las pruebas sin producto no miden retención ni calidad de entrega. Un resultado positivo con una muestra pequeña es frágil. Algunas industrias (salud, finanzas, alimentos) tienen requisitos regulatorios que impiden ofrecer sin cumplirlos. Una pre-venta debe ser honesta y reembolsable. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre validación antes de construir |
+| Nivel | Cómo se relaciona con la validación |
 |---|---|
-| **Profesional** | usa **validación antes de construir** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **demand test** y **pre-sale** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta qualified leads con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si validación antes de construir cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de validación antes de construir reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **validación antes de construir** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta datos de clientes y pruebas cuando se le pide. |
+| **Jefe / Team Lead** | Pide evidencia antes de aprobar un desarrollo. |
+| **Gerente** | Exige criterios previos y revisa resultados. |
+| **CEO / Director** | Decide con qué evidencia se invierte o se detiene. |
+| **Founder / Owner** | Valida con su propio dinero y tiempo, y se detiene a tiempo. |
 
 ## 🏢 Caso ejecutivo
 
-Founder construye ocho meses antes de ofrecer. Al lanzar descubre que clientes quieren integración con un sistema que nunca contempló.
+Un fundador quiere lanzar una plataforma de reservas de canchas de pádel para recintos pequeños. Lleva tres meses desarrollando; ha gastado 9 millones de pesos. Antes de lanzar hace una encuesta a 80 jugadores y 70 responden que usarían la aplicación; 12 amigos la prueban y la califican con 4,6 sobre 5. Habló con 10 dueños de recintos: 8 dijeron «muy buena idea», 2 pidieron una reunión y ninguno firmó nada. Un recinto grande ya usa una planilla y un cuaderno; otro, un sistema de una cadena. Los recintos cobran en efectivo en un 60 %. Su socio quiere gastar 6 millones más en publicidad para captar jugadores.
 
-Entrega un **decision brief de validación antes de construir** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de validación** que contenga: (a) la clasificación de la evidencia actual en opinión, comportamiento y compromiso, con su fuerza real; (b) los falsos positivos probables; (c) el peldaño de la escalera en que está y la próxima prueba; (d) la prueba con criterios de éxito y fracaso, tamaño de muestra y plazo; (e) la decisión de seguir, ajustar o detener según los resultados posibles; (f) qué hacer con los 6 millones y las verificaciones legales y tributarias pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **validación antes de construir** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. priorizar riesgo de demanda → 2. diseñar test mínimo → 3. definir commitment observable → 4. ejecutar con segmento real → 5. decidir build change o stop** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta qualified leads, pre-orders; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Clasifica tu evidencia actual en opinión, comportamiento y compromiso.
+2. Ubica tu proyecto en la escalera y define la prueba del siguiente peldaño.
+3. Escribe criterios de éxito, ajuste y fracaso antes de ejecutarla.
+4. Lista tres falsos positivos probables y cómo los descartarás.
+5. Diseña una prueba de demanda sin producto con plazo y muestra.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar demand test y pre-sale como sinónimos | Se pierde la distinción entre “experimento para observar interés o compromiso del mercado” y “compromiso de compra antes de producto final” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “decidir build change o stop” | Se saltó “priorizar riesgo de demanda” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. priorizar riesgo de demanda → 2. diseñar test mínimo → 3. definir commitment observable → 4. ejecutar con segmento real → 5. decidir build change o stop y marca el primer supuesto no demostrado. |
-| Optimizar solo qualified leads | La métrica local sustituyó al resultado del sistema | Contrástala con pre-orders y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre validación antes de construir | No vendas algo que no puedes entregar ni engañes con fake doors sin transparencia adecuada. Diseña experimentos éticos y cumple compromisos. |
-| No fijar revisión | Una decisión sobre validación antes de construir se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Contar cumplidos como validación | La cortesía es agradable | Exigir compromiso proporcional. |
+| Fijar el umbral después | Se interpreta a favor | Escribirlo antes de ejecutar. |
+| Probar solo con amigos | Es fácil | Segmento definido y ajeno. |
+| Ofrecer gratis y concluir demanda | Se mide curiosidad | Pedir pago o reserva reembolsable. |
+| Construir antes de la prueba | Da sensación de avance | Probar demanda con maqueta. |
+| No detener | Costo hundido | Regla de detención escrita. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **demand test** y **pre-sale** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **smoke test** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **priorizar riesgo de demanda → diseñar test mínimo** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **qualified leads** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **validación antes de construir**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No vendas algo que no puedes entregar ni engañes con fake doors sin transparencia adecuada. Diseña experimentos éticos y cumple compromisos.**?
+1. ¿Qué diferencia hay entre opinión, comportamiento y compromiso?
+2. ¿Qué es la escalera de compromiso?
+3. ¿Por qué se fijan criterios antes de ejecutar la prueba?
+4. ¿Qué pruebas de demanda existen sin producto?
+5. ¿Qué es un falso positivo y cómo se reduce?
+6. ¿Cómo se prioriza qué validar primero?
+7. ¿Cuándo corresponde detener?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Opinión es lo que el cliente dice; comportamiento, lo que ya hace; compromiso, lo que está dispuesto a perder.
+2. Un orden de pruebas según lo que exigen al cliente: tiempo, datos, reputación y dinero.
+3. Para evitar interpretar los datos a favor de la idea.
+4. Página de captación, pre-venta, carta de intención, piloto pagado y prueba del humo, con honestidad.
+5. Una señal que parece validar y no lo hace; se reduce con segmentos ajenos y compromiso proporcional.
+6. Atacando primero el riesgo mayor según impacto y evidencia disponible.
+7. Cuando se cumple el umbral de fracaso fijado de antemano.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/247-validacion-antes-de-construir/`:
 
-- `founder-owner-decision-brief.md` con el problema específico de **validación antes de construir**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **validación antes de construir** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **demand test**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Founder construye ocho meses antes de ofrecer. Al lanzar descubre que clientes quieren integración con un sistema que nunca contempló.** y el dato que podría invalidar la recomendación.
+- `founder-owner-decision-brief.md` (plantilla [Founder owner decision brief](../../../../templates/founder-owner-decision-brief.md)) con el memo del caso ejecutivo;
+- `venture-validation.md` (plantilla [Venture validation](../../../../templates/venture-validation.md)) con la prueba y sus criterios;
+- `decision-journal.md` con la decisión de seguir, ajustar o detener.
 
 ## 📗 Fuentes y verificación
 
-- Steve Blank — *The Four Steps to the Epiphany* ([Steve Blank?], 2013). **Uso en esta clase:** customer development y búsqueda sistemática de un modelo de negocio. Lectura selectiva sobre **validación antes de construir**. **Localizador:** [ISBN-13 9780989200509](https://openlibrary.org/isbn/9780989200509).
-- Alexander Osterwalder & Yves Pigneur — *Business Model Generation* (Wiley , 2010). **Uso en esta clase:** diseño de modelos de negocio mediante propuesta, clientes, recursos y economía. Lectura selectiva sobre **validación antes de construir**. **Localizador:** [ISBN-13 9780470876411](https://openlibrary.org/isbn/9780470876411).
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **validación antes de construir**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de fundador, equity, control, equipo y decisiones tempranas. Lectura selectiva sobre **validación antes de construir**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
-- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** hipótesis de negocio, experimentos, evidencia y reducción de riesgo. Lectura selectiva sobre **validación antes de construir**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
-- Bill Aulet — *Disciplined Entrepreneurship* (John Wiley & Sons, Incorporated, 2013). **Uso en esta clase:** secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio. Lectura selectiva sobre **validación antes de construir**. **Localizador:** [ISBN-13 9781299848641](https://openlibrary.org/isbn/9781299848641).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **validación antes de construir** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **validación antes de construir**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **validación antes de construir** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **validación antes de construir** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **validación antes de construir** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** aprendizaje validado, producto mínimo viable y métricas accionables. Lectura selectiva sobre **validación antes de construir**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
+- Rob Fitzpatrick — *The Mom Test* (CreateSpace, 2014). **Uso en esta clase:** evidencia real sin cortesía, compromiso frente a opinión. Lectura selectiva sobre **validación antes de construir**. **Localizador:** [ISBN-13 9781492180746](https://openlibrary.org/isbn/9781492180746).
+- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** pruebas rápidas de hipótesis con criterios previos. Lectura selectiva sobre **validación antes de construir**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
+- Steve Blank — *The Four Steps to the Epiphany* ([Steve Blank?], 2013). **Uso en esta clase:** salir del edificio y validar con clientes reales. Lectura selectiva sobre **validación antes de construir**. **Localizador:** [ISBN-13 9780989200509](https://openlibrary.org/isbn/9780989200509).
+- Ash Maurya — *Running Lean* (O'Reilly Media, 2012). **Uso en esta clase:** priorización del riesgo mayor y pruebas en orden. Lectura selectiva sobre **validación antes de construir**. **Localizador:** [ISBN-13 9781449305178](https://openlibrary.org/isbn/9781449305178).
 
-> **Regla de fuentes para Validación antes de construir:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **validación antes de construir** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Validación antes de construir:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de protección al consumidor y tributarias. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

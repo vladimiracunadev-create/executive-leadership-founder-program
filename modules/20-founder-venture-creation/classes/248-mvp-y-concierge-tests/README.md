@@ -10,217 +10,209 @@
 
 ## 🎯 Propósito
 
-MVP y concierge tests permiten aprender el flujo de valor manualmente antes de automatizar. El founder actúa como sistema para descubrir excepciones, lenguaje, datos y willingness to pay; luego automatiza las partes repetibles con mejor evidencia.
+Un producto mínimo viable (MVP) no es una versión mala del producto final ni un prototipo apurado: es **la forma más pequeña de una cosa que permite aprender algo específico con clientes reales**. Muchos fundadores entienden «mínimo» como «incompleto» y lanzan algo que no resuelve el problema, o entienden «viable» como «completo» y tardan un año. La confusión tiene un costo: se aprende tarde, se gasta caja en funciones que nadie usa y, cuando llegan los primeros clientes, el producto ya tiene una forma que cuesta cambiar. Un **concierge test** va más lejos: el fundador entrega el servicio **a mano**, sin tecnología, a unos pocos clientes, para aprender qué necesitan realmente antes de automatizar nada.
 
-La salida de esta parte es **descubrir, validar y lanzar una empresa antes de escalarla**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **mVP y concierge tests** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta el MVP como una **cadena de decisiones**: qué hipótesis se quiere aprender, cuál es la versión más pequeña que la prueba, cómo se entrega a mano al principio, qué se mide, cuándo se automatiza y cuándo se descarta. Se apoya en Ries sobre el aprendizaje validado y el MVP, en Blank sobre el desarrollo de clientes, en Olsen sobre el ajuste producto-mercado, en Torres sobre el descubrimiento continuo y en Maurya sobre la priorización de riesgos. Al terminar sabrás elegir el tipo de MVP adecuado, diseñar un concierge test con criterios de éxito, medir lo que importa, decidir qué automatizar primero y reconocer cuándo el MVP ya no enseña nada nuevo.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `concierge MVP`, `Wizard of Oz`, `manual-first`, `service blueprint`, `automation candidate` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de founder.
-3. **Aplicar** la secuencia **1. definir outcome a entregar → 2. operar manualmente para pocos clientes → 3. registrar steps y exceptions → 4. medir value y willingness → 5. automatizar solo patrón estable** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** time-to-value, manual hours per customer, exception rate sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** un MVP por la hipótesis que prueba y no por sus funciones.
+2. **Distinguir** concierge, mago de Oz, prototipo y producto parcial.
+3. **Diseñar** un concierge test con alcance, medidas y criterios.
+4. **Decidir** qué se automatiza y cuándo, según el costo de lo manual.
+5. **Reconocer** cuándo el MVP deja de aportar aprendizaje y se debe cambiar.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define concierge MVP y Wizard of Oz sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con time-to-value y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué hipótesis prueba lo que estás construyendo? |
+| 20–60 min | Tipos de MVP, concierge, alcance, medidas, automatización, salida. |
+| 60–105 min | Ejemplo trabajado: concierge de 8 semanas con costo por cliente y decisión de automatizar. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **concierge MVP** | servicio manual que entrega valor prometido a pocos clientes | Distingue un hecho compatible y otro que lo refute. |
-| **Wizard of Oz** | interfaz que aparenta automatización mientras procesos internos son manuales | Distingue un hecho compatible y otro que lo refute. |
-| **manual-first** | estrategia de aprendizaje que pospone automatización | Distingue un hecho compatible y otro que lo refute. |
-| **service blueprint** | mapa frontstage y backstage del servicio | Distingue un hecho compatible y otro que lo refute. |
-| **automation candidate** | tarea repetible y estable apta para automatizar | Distingue un hecho compatible y otro que lo refute. |
+| **MVP** | Versión mínima que permite aprender una hipótesis con clientes. | Hipótesis explícita y medida asociada. |
+| **Concierge test** | Servicio entregado a mano, sin tecnología, a pocos clientes. | El fundador hace el trabajo y observa. |
+| **Mago de Oz** | Interfaz que parece automática pero se opera a mano. | El cliente cree usar un sistema. |
+| **Aprendizaje validado** | Conocimiento confirmado con datos de clientes. | Cambia una decisión. |
+| **Costo de lo manual** | Tiempo y dinero por cliente de la entrega manual. | Horas por cliente × costo hora. |
+| **Producto-mercado** | Estado en que el producto satisface a un mercado. | Retención y recomendación espontáneas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 248: 1. definir outcome a entregar → 2. operar manualmente para pocos clientes → 3. registrar steps y exceptions → 4. medir value y willingness → 5. automatizar solo patrón estable](modelo-mental.svg)
+![Cadena del MVP: hipótesis, versión mínima, entrega a mano, medida y decisión de automatizar o descartar.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir outcome a entregar → 2. operar manualmente para pocos clientes → 3. registrar steps y exceptions → 4. medir value y willingness → 5. automatizar solo patrón estable
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **MVP y concierge tests permiten aprender el flujo de valor manualmente antes de automatizar. El founder actúa como sistema para descubrir excepciones, lenguaje, datos y willingness to pay; luego automatiza las partes repetibles con mejor evidencia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Concierge no prueba escalabilidad. Sirve para aprender demanda y workflow; antes de escalar, modela costos y automatización necesaria.**
+**Cómo leer el diagrama.** Una cadena de izquierda a derecha. **Hipótesis**: qué se quiere aprender, escrito como afirmación que puede ser falsa. **Versión mínima**: lo más pequeño que permite probarla, sin funciones accesorias. **Entrega a mano**: el fundador presta el servicio manualmente a pocos clientes para ver el valor y los fallos. **Medida**: qué dato dirá si funcionó (uso, repetición, pago, tiempo ahorrado). **Decisión**: automatizar lo que se repite y duele, ajustar lo que no aporta o descartar. La nota afirma que mínimo no es incompleto: debe resolver el problema para unos pocos; el pie, que se automatiza solo lo que ya demostró valor.
 
 ## 📖 Desarrollo
 
-### 1. concierge MVP: mecanismo central
+### 1. Qué es un MVP y qué no es
 
-**concierge MVP** se entiende aquí como **servicio manual que entrega valor prometido a pocos clientes**. Esta es la pieza causal o estructural desde la que se inicia **mVP y concierge tests**: antes de definir outcome a entregar, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Ries define el MVP como la versión de un producto que permite **recoger la máxima cantidad de aprendizaje validado sobre los clientes con el menor esfuerzo**. Tres aclaraciones. Primero, «mínimo» se mide por la hipótesis, no por el número de funciones: si la hipótesis es «los clientes pagan por recibir el informe semanal», el MVP es el informe, no la plataforma. Segundo, «viable» significa que resuelve de verdad el problema a unos pocos clientes; un producto que no cumple su promesa no enseña nada sobre el valor. Tercero, un MVP no es un prototipo para impresionar a inversionistas ni una versión «beta» sin propósito: tiene **una pregunta, una medida y una fecha**. Si no puedes decir qué aprenderás, aún no tienes un MVP.
 
-La lectura rectora de este bloque es Steve Blank — *The Four Steps to the Epiphany*. Su aporte se usa para examinar **customer development y búsqueda sistemática de un modelo de negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **time-to-value**; regístrala con periodo, unidad, población y baseline.
+### 2. Los tipos de MVP
 
-Relaciona el mecanismo con **Wizard of Oz**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Hay varias formas, de menor a mayor costo. La **página de captación** o el video de demostración miden interés. El **concierge** entrega el servicio a mano y enseña qué valoran y qué fricciones aparecen. El **mago de Oz** presenta una interfaz que parece automática mientras personas operan por detrás: permite probar la experiencia sin construir el motor. El **producto parcial** implementa solo la función central, a veces con herramientas ya hechas (planillas, formularios, mensajería, pagos de terceros). La **pre-venta** con entrega posterior pone dinero en juego (clase 247). Se elige el más barato que pruebe la hipótesis crítica; construir código propio es casi siempre la última opción, no la primera.
 
-### 2. Wizard of Oz: frontera conceptual y error de clasificación
+### 3. El concierge test
 
-**Definición operacional:** interfaz que aparenta automatización mientras procesos internos son manuales. Su valor está en distinguirlo de **concierge MVP** y **manual-first**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+En un concierge test, el fundador **es** el producto: investiga, prepara, entrega y da seguimiento a mano, a entre 5 y 15 clientes. Las ventajas: se aprende qué necesita realmente cada cliente, qué partes del proceso tienen valor y cuáles son accesorias, y se observan las objeciones en tiempo real. Es costoso por cliente, pero barato en total comparado con construir lo equivocado. Se diseña con: **alcance** (qué se promete y qué no), **duración** (por ejemplo, 8 semanas), **precio** (idealmente pagado, aunque sea reducido), **registro** (horas dedicadas, pasos, problemas) y **criterios de éxito** (repetición, pago, recomendación). Torres recomienda mantener un hábito de descubrimiento continuo: lo que se aprende en el concierge alimenta decisiones semanales, no un informe final.
 
-Contrasta el problema con Alexander Osterwalder & Yves Pigneur — *Business Model Generation*, que aporta una mirada sobre **diseño de modelos de negocio mediante propuesta, clientes, recursos y economía**. Formula dos mini-casos: uno que sí satisface la definición de **Wizard of Oz** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **manual hours per customer** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Alcance y honestidad
 
-Antes de operar manualmente para pocos clientes, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un MVP debe ser **honesto**. Si el servicio se presta a mano, no se afirma que es automático; si es una versión limitada, se dice. La transparencia protege la confianza y, en algunos sectores, es una obligación legal (consumo, datos personales, salud, finanzas): se consultan fuentes oficiales y asesoría antes de ofrecer. También se delimita el alcance: pocos clientes, un segmento, una función, un plazo. Un error común es **prometer de más** para cerrar ventas y luego no poder entregar, o aceptar a cualquier cliente y diluir lo que se aprende. Se seleccionan clientes que **tengan el problema, presupuesto y disposición a dar retroalimentación**, y se acuerda por escrito qué reciben, qué dan a cambio y cómo se detiene la prueba.
 
-### 3. manual-first: operacionalización y medición
+### 5. Medir lo que importa
 
-**manual-first** significa **estrategia de aprendizaje que pospone automatización**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Olsen propone buscar el **ajuste producto-mercado** observando señales de valor: uso repetido, retención, recomendación espontánea y disposición a pagar o a lamentar perder el producto. En un MVP se eligen pocas medidas, y que sean **accionables**: ¿cuántos clientes repiten?, ¿cuánto tiempo ahorran?, ¿cuántos pagan la segunda vez?, ¿cuántas horas me cuesta cada cliente? Se evitan las **medidas de vanidad** (visitas, descargas). Se complementan con **observación cualitativa**: qué hicieron, qué pidieron fuera del alcance, dónde se confundieron. Se fija un umbral antes de comenzar (clase 247), por ejemplo «al menos 6 de 10 clientes renuevan al mes siguiente». Sin umbral, todo resultado parece alentador.
 
-Peter F. Drucker — *The Effective Executive* orienta este bloque mediante **efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **exception rate**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Cuándo automatizar y qué
 
-Al llegar a registrar steps y exceptions, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La automatización es una decisión económica. Se calcula el **costo de lo manual** por cliente (horas × costo hora) y se compara con el costo de automatizar y con el ahorro esperado. Se automatiza primero lo que **se repite**, **consume más tiempo**, **no requiere criterio humano** y **ya demostró valor**. Se deja manual lo que aún cambia o lo que el cliente valora precisamente por ser personal. Un error frecuente es automatizar demasiado pronto un proceso que luego se modifica. Blank sugiere avanzar con el producto solo en la medida en que el cliente confirma su valor; Ries, aprender antes de escalar. Una regla práctica: automatizar cuando el mismo paso se hizo a mano **más de 20 veces** con el mismo patrón y el ahorro cubre el costo en menos de 6 meses.
 
-### 4. service blueprint: trade-offs y efectos de segundo orden
+### 7. Cuándo el MVP deja de enseñar
 
-**Definición:** mapa frontstage y backstage del servicio. Este concepto obliga a abandonar la idea de que **mVP y concierge tests** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de medir value y willingness, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Bill Aulet — *Disciplined Entrepreneurship* aporta una lente sobre **secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **paid retention** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **mVP y concierge tests**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **service blueprint** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. automation candidate: gobernanza, límites e integración
-
-**automation candidate** se define como **tarea repetible y estable apta para automatizar** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Eric Ries — *The Lean Startup* se utiliza para estudiar **build-measure-learn, MVP y aprendizaje validado** y contrastar la recomendación final. Al ejecutar automatizar solo patrón estable, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Concierge no prueba escalabilidad. Sirve para aprender demanda y workflow; antes de escalar, modela costos y automatización necesaria.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **concierge MVP**, **Wizard of Oz**, **manual-first**, **service blueprint** y **automation candidate** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **mVP y concierge tests** no consiste en sumar cinco definiciones. Empieza por **concierge MVP**, contrasta **Wizard of Oz** con **manual-first**, incorpora **service blueprint** como restricción o mecanismo y usa **automation candidate** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir outcome a entregar → 2. operar manualmente para pocos clientes → 3. registrar steps y exceptions → 4. medir value y willingness → 5. automatizar solo patrón estable**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un MVP cumple su función cuando responde la pregunta. Después de eso hay tres caminos. **Escalar**: la hipótesis se confirmó con umbral y se invierte en producto, canal y equipo. **Ajustar** (pivotar): el aprendizaje muestra otro segmento, otro problema o otro modelo. **Cerrar**: no hay evidencia suficiente tras varias iteraciones. Una señal de alarma es **iterar sin cambiar la pregunta**: agregar funciones para retener a un cliente que no ve valor. Otra es **confundir el interés de los primeros adoptantes** con el de un mercado más amplio (Moore, clase 245: el abismo entre ambos). Se registra el aprendizaje en un cuaderno con fecha, hipótesis, resultado y decisión, para que el equipo y los inversionistas vean la lógica de lo que se hizo.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Steve Blank — *The Four Steps to the Epiphany* | customer development y búsqueda sistemática de un modelo de negocio | ¿Qué supuesto de **mVP y concierge tests** ayuda a desafiar? |
-| Alexander Osterwalder & Yves Pigneur — *Business Model Generation* | diseño de modelos de negocio mediante propuesta, clientes, recursos y economía | ¿Qué supuesto de **mVP y concierge tests** ayuda a desafiar? |
-| Peter F. Drucker — *The Effective Executive* | efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo | ¿Qué supuesto de **mVP y concierge tests** ayuda a desafiar? |
-| Bill Aulet — *Disciplined Entrepreneurship* | secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio | ¿Qué supuesto de **mVP y concierge tests** ayuda a desafiar? |
-| Eric Ries — *The Lean Startup* | build-measure-learn, MVP y aprendizaje validado | ¿Qué supuesto de **mVP y concierge tests** ayuda a desafiar? |
-
-En **mVP y concierge tests**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **concierge MVP**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Ries | MVP y aprendizaje validado. | Puede interpretarse como «lanzar rápido». | ¿Qué hipótesis prueba mi MVP? |
+| Blank | Desarrollo de clientes y salida del edificio. | Exige trabajo de campo continuo. | ¿Qué confirmó el cliente con hechos? |
+| Olsen | Ajuste producto-mercado y medidas de valor. | Enfoque en productos digitales. | ¿Quién lamentaría perder mi producto? |
+| Torres | Descubrimiento continuo y decisiones semanales. | Requiere equipo con hábito. | ¿Qué aprendí esta semana? |
+| Maurya | Priorizar el riesgo mayor en cada experimento. | Marco de una página. | ¿Qué riesgo reduce este MVP? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una startup ofrece reportes de riesgo generados manualmente a cinco clientes pagos. Aprende que 70% del trabajo está en limpieza de datos, no en el modelo esperado.
+**Situación (hipotética).** Una fundadora quiere crear un servicio de «planificación de turnos» para clínicas dentales pequeñas. En lugar de desarrollar un software, hace un concierge test de 8 semanas con 6 clínicas.
 
-**Paso 1 — definir outcome a entregar.** La gerencia escribe primero el supuesto asociado a **concierge MVP** y evita convertirlo en hecho. Luego busca **time-to-value** para contrastarlo en el caso de **mVP y concierge tests**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Hipótesis.** Las clínicas con 4 a 8 profesionales pagan 120.000 pesos mensuales por tener los turnos planificados cada semana sin conflictos, y al menos 4 de 6 renuevan.
 
-**Paso 2 — operar manualmente para pocos clientes.** La gerencia escribe primero el supuesto asociado a **Wizard of Oz** y evita convertirlo en hecho. Luego busca **manual hours per customer** para contrastarlo en el caso de **mVP y concierge tests**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Entrega manual.** Cada lunes, la fundadora recibe las disponibilidades por mensaje, arma los turnos en una planilla, resuelve conflictos y envía el plan; durante la semana corrige cambios.
 
-**Paso 3 — registrar steps y exceptions.** La gerencia escribe primero el supuesto asociado a **manual-first** y evita convertirlo en hecho. Luego busca **exception rate** para contrastarlo en el caso de **mVP y concierge tests**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Registro de horas (promedio por clínica).**
 
-**Paso 4 — medir value y willingness.** La gerencia escribe primero el supuesto asociado a **service blueprint** y evita convertirlo en hecho. Luego busca **paid retention** para contrastarlo en el caso de **mVP y concierge tests**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Actividad semanal | Horas |
+|---|---|
+| Recoger disponibilidades | 0,5 |
+| Armar y revisar el plan | 1,5 |
+| Cambios y consultas | 1,0 |
+| **Total** | **3,0 horas por semana** |
 
-**Paso 5 — automatizar solo patrón estable.** La gerencia escribe primero el supuesto asociado a **automation candidate** y evita convertirlo en hecho. Luego busca **automation potential** para contrastarlo en el caso de **mVP y concierge tests**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+Las 8 semanas son 24 horas por clínica. Costo de la hora de la fundadora, valorada en 9.000 pesos: 27.000 pesos por semana y **216.000 pesos por clínica** en el período.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **mVP y concierge tests**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Ingreso.** 120.000 pesos mensuales; en 8 semanas (casi 2 meses) se cobra 240.000 por clínica. Margen sobre el tiempo: 240.000 − 216.000 = **24.000 pesos** por clínica, es decir 10 % del ingreso. El servicio manual apenas se paga.
+
+**Resultados.**
+
+| Medida | Valor |
+|---|---|
+| Clínicas que pagaron el primer mes | 6 de 6 |
+| Clínicas que renuevan al tercer mes | 5 de 6 (83 %) |
+| Conflictos de turnos antes del servicio (promedio mensual) | 11 |
+| Conflictos durante el servicio | 2 |
+| Reducción de conflictos | 82 % (9 de 11) |
+
+La hipótesis de valor se **confirma** (5 de 6 ≥ 4 de 6).
+
+**Qué automatizar.** Del tiempo semanal, 1,5 horas (armar el plan) son repetitivas y siguen reglas claras: se puede automatizar. Recoger disponibilidades (0,5) es automatizable con un formulario. Los cambios y consultas (1,0) requieren criterio y siguen siendo manuales por ahora. Si se automatizan 2,0 de 3,0 horas, el tiempo manual baja a 1,0 hora semanal, es decir 4 horas por mes: 36.000 pesos mensuales frente al ingreso de 120.000, con margen de **84.000 pesos (70 %)**.
+
+**Costo de automatizar.** El desarrollo cuesta 6 millones. El ahorro por clínica es de 2,0 horas × 4 semanas × 9.000 = 72.000 pesos al mes; con 10 clínicas, 720.000 al mes. Recuperación: 6.000.000 ÷ 720.000 ≈ **8,3 meses**. Con 20 clínicas, 4,2 meses. Se decide esperar a tener 12 clínicas pagando (recuperación de 6,9 meses) y avanzar primero con el formulario de disponibilidades, de bajo costo.
+
+**Decisión.** Escalar el concierge a 12 clínicas durante 90 días, automatizar solo el formulario, mantener manual el armado, y revisar la decisión al llegar a 12 clientes con renovación sobre 70 %. Las obligaciones sobre datos de pacientes y de los profesionales se consultan con asesoría y fuentes oficiales.
+
+**Qué muestra.** (1) El concierge probó valor antes de programar. (2) El registro de horas mostró que lo manual aún no era rentable. (3) La decisión de automatizar se basó en recuperación y volumen.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **concierge MVP** | servicio manual que entrega valor prometido a pocos clientes | Cuando time-to-value es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **Wizard of Oz** | interfaz que aparenta automatización mientras procesos internos son manuales | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**MVP frente a prototipo.** El prototipo muestra cómo se vería o funcionaría algo; el MVP se entrega a clientes reales para aprender sobre valor. Un prototipo puede ser parte de un MVP, no reemplazarlo.
 
-**Frontera de aplicación:** Concierge no prueba escalabilidad. Sirve para aprender demanda y workflow; antes de escalar, modela costos y automatización necesaria.
+**Límites.** Un concierge no escala y puede subestimar costos si el fundador no valora su tiempo. Los primeros clientes pueden no representar al mercado. Algunos productos (dispositivos médicos, hardware, servicios financieros) no pueden probarse con versiones mínimas sin cumplir requisitos. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre mVP y concierge tests |
+| Nivel | Cómo se relaciona con el MVP |
 |---|---|
-| **Profesional** | usa **mVP y concierge tests** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **concierge MVP** y **Wizard of Oz** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta time-to-value con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si mVP y concierge tests cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de mVP y concierge tests reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **mVP y concierge tests** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Construye y entrega lo que se le pide. |
+| **Jefe / Team Lead** | Reduce alcance a lo que prueba la hipótesis. |
+| **Gerente** | Mide uso, costo y valor antes de ampliar. |
+| **CEO / Director** | Decide cuándo escalar, ajustar o cerrar. |
+| **Founder / Owner** | Entrega a mano, aprende y automatiza lo que duele. |
 
 ## 🏢 Caso ejecutivo
 
-Una startup ofrece reportes de riesgo generados manualmente a cinco clientes pagos. Aprende que 70% del trabajo está en limpieza de datos, no en el modelo esperado.
+Una fundadora quiere crear un servicio de entrega semanal de comida preparada para adultos mayores que viven solos. Gastó 14 millones en una aplicación con selección de menús, seguimiento de repartidores y pagos. Tiene 9 clientes y 5 han dejado de usar la aplicación; los demás piden que alguien los llame para pedir. Cada cliente paga 48.000 pesos por semana por 5 almuerzos; el costo de ingredientes y cocina es de 26.000 y el de reparto, 6.500. Una voluntaria llama a cada cliente dos veces por semana (30 minutos en total) y la fundadora dedica 6 horas semanales a coordinar con familiares, valoradas en 7.000 pesos la hora. Una hija de un cliente dice que lo importante es saber que su madre comió. Un inversionista ofrece 20 millones si demuestra 50 clientes en 4 meses.
 
-Entrega un **decision brief de mVP y concierge tests** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de MVP** que contenga: (a) la hipótesis que realmente se debería probar; (b) el MVP mínimo y el concierge que la probaría, con alcance, duración y criterios; (c) la economía por cliente del servicio manual con las cifras del caso; (d) qué medir y qué descartar de lo construido; (e) qué automatizar, cuándo y con qué recuperación; (f) la decisión sobre el inversionista y las verificaciones sanitarias, de datos y legales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **mVP y concierge tests** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir outcome a entregar → 2. operar manualmente para pocos clientes → 3. registrar steps y exceptions → 4. medir value y willingness → 5. automatizar solo patrón estable** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta time-to-value, manual hours per customer; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe la hipótesis que prueba tu producto actual.
+2. Define el MVP más barato que la pruebe y su plazo.
+3. Diseña un concierge con 5 clientes, registro de horas y umbral.
+4. Calcula el costo manual por cliente y el margen.
+5. Decide qué automatizar según repetición y recuperación.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar concierge MVP y Wizard of Oz como sinónimos | Se pierde la distinción entre “servicio manual que entrega valor prometido a pocos clientes” y “interfaz que aparenta automatización mientras procesos internos son manuales” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “automatizar solo patrón estable” | Se saltó “definir outcome a entregar” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir outcome a entregar → 2. operar manualmente para pocos clientes → 3. registrar steps y exceptions → 4. medir value y willingness → 5. automatizar solo patrón estable y marca el primer supuesto no demostrado. |
-| Optimizar solo time-to-value | La métrica local sustituyó al resultado del sistema | Contrástala con manual hours per customer y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre mVP y concierge tests | Concierge no prueba escalabilidad. Sirve para aprender demanda y workflow; antes de escalar, modela costos y automatización necesaria. |
-| No fijar revisión | Una decisión sobre mVP y concierge tests se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| MVP sin hipótesis | Se busca «lanzar» | Una pregunta, una medida, una fecha. |
+| Mínimo = incompleto | Se confunde precio y calidad | Debe resolver el problema a pocos. |
+| Automatizar demasiado pronto | Se quiere escala | Esperar patrón repetido y ahorro. |
+| No registrar horas | Se subestima el costo | Registrar cada actividad. |
+| Medir vanidad | Es fácil | Medir uso, repetición y pago. |
+| Prometer de más | Se quiere cerrar ventas | Alcance honesto y por escrito. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **concierge MVP** y **Wizard of Oz** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **manual-first** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir outcome a entregar → operar manualmente para pocos clientes** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **time-to-value** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **mVP y concierge tests**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Concierge no prueba escalabilidad. Sirve para aprender demanda y workflow; antes de escalar, modela costos y automatización necesaria.**?
+1. ¿Cómo se define un MVP?
+2. ¿Qué diferencia hay entre concierge y mago de Oz?
+3. ¿Qué incluye el diseño de un concierge test?
+4. ¿Qué medidas importan en un MVP?
+5. ¿Cuándo conviene automatizar?
+6. ¿Cómo se calcula el costo de lo manual?
+7. ¿Cuándo deja el MVP de enseñar?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Como la versión mínima que permite aprender una hipótesis con clientes reales.
+2. En el concierge el cliente sabe que el servicio es manual; en el mago de Oz parece automático.
+3. Alcance, duración, precio, registro de horas y criterios de éxito.
+4. Medidas accionables: uso repetido, pago, retención y costo por cliente.
+5. Cuando un paso se repite, consume tiempo, no exige criterio y ya demostró valor.
+6. Horas por cliente multiplicadas por el costo de la hora.
+7. Cuando responde la pregunta o se itera sin cambiar la pregunta.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/248-mvp-y-concierge-tests/`:
 
-- `product-evidence-brief.md` con el problema específico de **mVP y concierge tests**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **mVP y concierge tests** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **concierge MVP**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una startup ofrece reportes de riesgo generados manualmente a cinco clientes pagos. Aprende que 70% del trabajo está en limpieza de datos, no en el modelo esperado.** y el dato que podría invalidar la recomendación.
+- `product-evidence-brief.md` (plantilla [Product evidence brief](../../../../templates/product-evidence-brief.md)) con el memo del caso ejecutivo;
+- `venture-validation.md` (plantilla [Venture validation](../../../../templates/venture-validation.md)) con el diseño del concierge y sus criterios;
+- `decision-journal.md` con la decisión de automatizar o no.
 
 ## 📗 Fuentes y verificación
 
-- Steve Blank — *The Four Steps to the Epiphany* ([Steve Blank?], 2013). **Uso en esta clase:** customer development y búsqueda sistemática de un modelo de negocio. Lectura selectiva sobre **mvp y concierge tests**. **Localizador:** [ISBN-13 9780989200509](https://openlibrary.org/isbn/9780989200509).
-- Alexander Osterwalder & Yves Pigneur — *Business Model Generation* (Wiley , 2010). **Uso en esta clase:** diseño de modelos de negocio mediante propuesta, clientes, recursos y economía. Lectura selectiva sobre **mvp y concierge tests**. **Localizador:** [ISBN-13 9780470876411](https://openlibrary.org/isbn/9780470876411).
-- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **mvp y concierge tests**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Bill Aulet — *Disciplined Entrepreneurship* (John Wiley & Sons, Incorporated, 2013). **Uso en esta clase:** secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio. Lectura selectiva sobre **mvp y concierge tests**. **Localizador:** [ISBN-13 9781299848641](https://openlibrary.org/isbn/9781299848641).
-- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** build-measure-learn, MVP y aprendizaje validado. Lectura selectiva sobre **mvp y concierge tests**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
-- Rob Fitzpatrick — *The Mom Test* (CreateSpace, 2014). **Uso en esta clase:** perspectiva de Customer discovery aplicada al problema de la clase. Lectura selectiva sobre **mvp y concierge tests**. **Localizador:** [ISBN-13 9781492180746](https://openlibrary.org/isbn/9781492180746).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **mvp y concierge tests** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **mvp y concierge tests**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **mvp y concierge tests** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **mvp y concierge tests** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **mvp y concierge tests** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** MVP y aprendizaje validado. Lectura selectiva sobre **mvp y concierge tests**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
+- Steve Blank — *The Four Steps to the Epiphany* ([Steve Blank?], 2013). **Uso en esta clase:** desarrollo de clientes y salida del edificio. Lectura selectiva sobre **mvp y concierge tests**. **Localizador:** [ISBN-13 9780989200509](https://openlibrary.org/isbn/9780989200509).
+- Dan Olsen — *The Lean Product Playbook* (Wiley, 2015). **Uso en esta clase:** ajuste producto-mercado y medidas de valor. Lectura selectiva sobre **mvp y concierge tests**. **Localizador:** [ISBN-13 9781118960875](https://openlibrary.org/isbn/9781118960875).
+- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** descubrimiento continuo y decisiones semanales. Lectura selectiva sobre **mvp y concierge tests**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
+- Ash Maurya — *Running Lean* (O'Reilly Media, 2012). **Uso en esta clase:** priorización del riesgo mayor en cada experimento. Lectura selectiva sobre **mvp y concierge tests**. **Localizador:** [ISBN-13 9781449305178](https://openlibrary.org/isbn/9781449305178).
 
-> **Regla de fuentes para MVP y concierge tests:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **mVP y concierge tests** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para MVP y concierge tests:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas sanitarias, de consumo y de datos personales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

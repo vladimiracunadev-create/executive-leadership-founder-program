@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **founder-led sales** de **ideal customer profile** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **design partner** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **referenceability** con **repeatable motion**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué hace útil un perfil de cliente ideal?
+2. ¿Qué debe contener un mensaje de contacto?
+3. ¿Qué verifica la calificación?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Founder cierra diez clientes distintos: tres industrias, cuatro precios y cinco promesas. Revenue existe, pero no hay patrón que otro vendedor pueda repetir.
+**Caso:** Un fundador ofrece un servicio de mantenimiento preventivo de ascensores para edificios residenciales de tamaño medio. Tras cuatro meses tiene 5 clientes: dos administradores profesionales, dos comités de edificio y una inmobiliaria. Precio: 190.000 pesos mensuales por ascensor; costo variable: 120.000. Contactó 90 administradores: 18 respondieron, 12 tuvieron reunión, 8 recibieron propuesta y 5 compraron. Dedicó 220 horas (a 8.000 pesos la hora) y gastó 420.000 en traslados y materiales. Los dos administradores profesionales administran 14 edificios y 22 edificios; los comités compraron más lento (seis semanas contra dos) y reclaman más. La inmobiliaria pidió un contrato con penalizaciones que el fundador no puede cumplir con su equipo actual. Un administrador con 22 edificios pide un precio de 150.000 por ascensor para llevar todos.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir ICP provisional → crear lista de cuentas → hacer outreach y discovery → cerrar con scope y success criteria → documentar patrón antes de delegar**. Debes utilizar o diseñar cómo obtener **meetings booked, close rate, time-to-first-value**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **memo de primeros clientes** que contenga: (a) el perfil de cliente ideal revisado con los datos del caso; (b) el embudo, las tasas por etapa y el costo de adquisición; (c) el patrón de quienes compraron y de quienes no; (d) la decisión sobre la inmobiliaria y sobre el descuento del administrador, con la contribución resultante; (e) el plan para llegar a diez clientes con proyección de contactos y tiempo; (f) las verificaciones contractuales, de seguridad y legales pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **No fuerces homogeneidad demasiado pronto; algunos outliers enseñan oportunidades. Pero distingue aprendizaje deliberado de aceptar cualquier ingreso por necesidad.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Con diez clientes, las estadísticas son frágiles.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

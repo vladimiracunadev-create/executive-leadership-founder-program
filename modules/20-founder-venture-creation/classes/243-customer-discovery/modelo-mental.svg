@@ -1,64 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g243 d-g243" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g243">Ficha visual de la clase 243: Customer discovery</title>
-<desc id="d-g243">Conceptos: buyer; user; trigger; buying process; willingness to pay. Método: formular hipótesis de cliente y problema → entrevistar episodios recientes → mapear buyer user y process → testear severity y spend → actualizar hipótesis y segmentación.</desc>
-<defs><marker id="p-g243" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#59636e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 243 · Customer discovery</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 20 · Fundador, propietario e independencia</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#59636e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >buyer</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >persona o función que autoriza gasto</text>
-<circle cx="38" cy="170" r="5" fill="#59636e"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >user</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >persona que usa o experimenta la solución</text>
-<circle cx="38" cy="228" r="5" fill="#59636e"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >trigger</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >evento que activa búsqueda o compra</text>
-<circle cx="38" cy="286" r="5" fill="#59636e"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >buying process</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >pasos y actores que llevan a decisión</text>
-<circle cx="38" cy="344" r="5" fill="#59636e"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >willingness to pay</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >disposición revelada o declarada a intercambiar dinero</text>
-<text x="54" y="383.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >por valor</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#59636e" stroke="#59636e" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >formular hipótesis de cliente y problema</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#59636e" stroke="#59636e" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >entrevistar episodios recientes</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#59636e" stroke="#59636e" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >mapear buyer user y process</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#59636e" stroke="#59636e" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >testear severity y spend</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#59636e" stroke="#59636e" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >actualizar hipótesis y segmentación</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="95" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >interviews</text>
-<rect x="133" y="442.12" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="146" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="157" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >buyer clarity</text>
-<rect x="258.7" y="442.12" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="271.7" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="282.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >current spend</text>
-<rect x="384.4" y="442.12" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="397.4" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="408.4" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >trigger recurrence</text>
-<rect x="544.6" y="442.12" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#59636e" stroke-width="1.2" />
-<circle cx="557.6" cy="455.12" r="3.5" fill="#59636e"/>
-<text x="568.6" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >commitment signals</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Entrevistar hasta oír repetición no prueba mercado. Discovery cualitativo debe complementarse con datos de demanda, tamaño y</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >experimentos de compromiso.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 488.06" width="1040" role="img" aria-labelledby="t-s243 d-s243" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s243">Clase 243 · Descubrir al cliente con episodios reales</title>
+<desc id="d-s243">Cinco pasos del descubrimiento de cliente: hipótesis, entrevistas sobre episodios recientes, mapa de comprador y usuario, severidad y alternativas, y decisión.</desc>
+<defs><marker id="p-s243" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="488.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 243 · Descubrir al cliente con episodios reales</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Blank · Fitzpatrick (The Mom Test) · Torres</text>
+<rect x="28" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<circle cx="52.0" cy="122.0" r="13" fill="#0969da"/>
+<text x="52" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Hipótesis</text>
+<text x="44" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Qué creemos del cliente y</text>
+<text x="44" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >del problema.</text>
+<path d="M260.5,144.25 L276.5,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s243)"/>
+<rect x="279.5" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<circle cx="303.5" cy="122.0" r="13" fill="#1a7f37"/>
+<text x="303.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Episodios recientes</text>
+<text x="295.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Qué hicieron la última vez,</text>
+<text x="295.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >no qué harían.</text>
+<path d="M512,144.25 L528,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s243)"/>
+<rect x="531" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<circle cx="555.0" cy="122.0" r="13" fill="#bc4c00"/>
+<text x="555" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Comprador y usuario</text>
+<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Quién usa, quién decide y</text>
+<text x="547" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >quién paga.</text>
+<path d="M763.5,144.25 L779.5,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s243)"/>
+<rect x="782.5" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<circle cx="806.5" cy="122.0" r="13" fill="#8250df"/>
+<text x="806.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Severidad y</text>
+<text x="826.5" y="138.63" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >alternativas</text>
+<text x="798.5" y="159.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Cuánto duele y qué usan hoy.</text>
+<path d="M897.25,194.5 V206.5 H142.75 V224.5" stroke="#59636e" stroke-width="2" fill="none" marker-end="url(#p-s243)"/>
+<rect x="28" y="226.5" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<circle cx="52.0" cy="252.5" r="13" fill="#cf222e"/>
+<text x="52" y="257.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="72" y="250.5" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Decidir</text>
+<text x="44" y="282.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Continuar, cambiar de</text>
+<text x="44" y="299.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >segmento o descartar.</text>
+<path d="M142.75,325.0 V345.0 H142.75 V196.5" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="7 6" marker-end="url(#p-s243)"/>
+<text x="142.75" y="339" font-size="11.5" font-weight="600" fill="#59636e" text-anchor="middle" >lo aprendido reescribe la hipótesis</text>
+<rect x="28" y="361" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="383" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Entrevistar hasta oír repetición no prueba el mercado: el descubrimiento cualitativo se complementa con datos de demanda, tamaño y</text>
+<text x="44" y="400.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >experimentos de compromiso.</text>
+<text x="28" y="447.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Las opiniones y los halagos no son evidencia; los hechos y los compromisos sí.</text>
 </svg>

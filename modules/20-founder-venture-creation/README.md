@@ -67,18 +67,18 @@ Las clases **250 a 252** la lanzan: primeros clientes, cofundadores y el capston
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 241 | [Founder versus freelance versus empresario](classes/241-founder-versus-freelance-versus-empresario/README.md) | freelancer, founder, business owner | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 242 | [Encontrar problemas valiosos](classes/242-encontrar-problemas-valiosos/README.md) | problem value, frequency, urgency | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 243 | [Customer discovery](classes/243-customer-discovery/README.md) | buyer, user, trigger | [product-evidence-brief](../../templates/product-evidence-brief.md) | 150 |
-| 244 | [Hipótesis de cliente y problema](classes/244-hipotesis-de-cliente-y-problema/README.md) | customer hypothesis, problem hypothesis, falsifiability | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
-| 245 | [Propuesta de valor](classes/245-propuesta-de-valor/README.md) | value proposition, gain, pain reliever | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 246 | [Modelo de negocio](classes/246-modelo-de-negocio/README.md) | business model, channel, revenue stream | [strategy-memo](../../templates/strategy-memo.md) | 150 |
-| 247 | [Validación antes de construir](classes/247-validacion-antes-de-construir/README.md) | demand test, pre-sale, smoke test | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 248 | [MVP y concierge tests](classes/248-mvp-y-concierge-tests/README.md) | concierge MVP, Wizard of Oz, manual-first | [product-evidence-brief](../../templates/product-evidence-brief.md) | 150 |
-| 249 | [Pricing temprano](classes/249-pricing-temprano/README.md) | price, value metric, willingness to pay | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
-| 250 | [Primeros diez clientes](classes/250-primeros-diez-clientes/README.md) | founder-led sales, ideal customer profile, design partner | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
-| 251 | [Cofundadores, equity y acuerdos](classes/251-cofundadores-equity-y-acuerdos/README.md) | cofounder agreement, vesting, cliff | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
-| 252 | [Capstone: launch readiness](classes/252-capstone-launch-readiness/README.md) | launch readiness, go-no-go criterion, operational readiness | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 241 | [Founder versus freelance versus empresario](classes/241-founder-versus-freelance-versus-empresario/README.md) | Freelance, Empresario, Founder | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 242 | [Encontrar problemas valiosos](classes/242-encontrar-problemas-valiosos/README.md) | Problema valioso, Trabajo por hacer (*job to be done*), Dolor | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 243 | [Customer discovery](classes/243-customer-discovery/README.md) | Descubrimiento de clientes, Episodio reciente, Comprador | [product-evidence-brief](../../templates/product-evidence-brief.md) | 150 |
+| 244 | [Hipótesis de cliente y problema](classes/244-hipotesis-de-cliente-y-problema/README.md) | Hipótesis de cliente, Hipótesis de problema, Refutable | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 245 | [Propuesta de valor](classes/245-propuesta-de-valor/README.md) | Propuesta de valor, Trabajo por hacer, Dolor y ganancia | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 246 | [Modelo de negocio](classes/246-modelo-de-negocio/README.md) | Modelo de negocio, Eslabón más riesgoso, Economía por cliente | [strategy-memo](../../templates/strategy-memo.md) | 150 |
+| 247 | [Validación antes de construir](classes/247-validacion-antes-de-construir/README.md) | Validación, Escalera de compromiso, Criterio previo | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 248 | [MVP y concierge tests](classes/248-mvp-y-concierge-tests/README.md) | MVP, Concierge test, Mago de Oz | [product-evidence-brief](../../templates/product-evidence-brief.md) | 150 |
+| 249 | [Pricing temprano](classes/249-pricing-temprano/README.md) | Precio basado en valor, Precio piso, Precio techo | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 250 | [Primeros diez clientes](classes/250-primeros-diez-clientes/README.md) | Perfil de cliente ideal, Embudo, Calificación | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 251 | [Cofundadores, equity y acuerdos](classes/251-cofundadores-equity-y-acuerdos/README.md) | Equity, Vesting, Cliff | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
+| 252 | [Capstone: launch readiness](classes/252-capstone-launch-readiness/README.md) | Launch readiness, Go / no-go, Riesgo bloqueante | [founder-owner-decision-brief](../../templates/founder-owner-decision-brief.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -89,69 +89,82 @@ Las clases **250 a 252** la lanzan: primeros clientes, cofundadores y el capston
 
 ## 🔤 Glosario de la parte
 
-59 conceptos definidos en las clases, con la definición operacional que usa cada una.
+72 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **access** | capacidad real de llegar y aprender de clientes potenciales. |
-| **assumption map** | mapa de supuestos por importancia e incertidumbre. |
-| **automation candidate** | tarea repetible y estable apta para automatizar. |
-| **budget** | recursos disponibles o reasignables para solución. |
-| **business model** | arquitectura de creación entrega y captura de valor. |
-| **business owner** | propietario de un sistema empresarial que puede operar con otros líderes. |
-| **buyer** | persona o función que autoriza gasto. |
-| **buying process** | pasos y actores que llevan a decisión. |
-| **channel** | medio para llegar vender y entregar. |
-| **cliff** | periodo inicial antes de adquirir primera porción. |
-| **cofounder agreement** | acuerdo sobre roles ownership decisiones y contingencias. |
-| **commitment** | acción costosa que revela intención más fuerte que una opinión. |
-| **concierge** | entrega manual del valor para aprender workflow. |
-| **concierge MVP** | servicio manual que entrega valor prometido a pocos clientes. |
-| **customer hypothesis** | afirmación falsable sobre segmento que tiene un patrón relevante. |
-| **deadlock** | empate que impide decisión en ownership o control. |
-| **demand test** | experimento para observar interés o compromiso del mercado. |
-| **design partner** | cliente temprano que colabora estrechamente a cambio de acceso o condiciones. |
-| **differentiator** | atributo o mecanismo relevante que separa de alternativas. |
-| **discount** | reducción deliberada que debe tener propósito y límite. |
-| **early adopter** | subgrupo con dolor y urgencia suficientes para probar antes. |
-| **falsifiability** | posibilidad de observar evidencia que contradiga afirmación. |
-| **founder** | persona que crea y asume riesgo inicial de una nueva empresa. |
-| **founder-led sales** | venta directa liderada por fundadores durante etapa de aprendizaje. |
-| **freelancer** | persona que vende servicios profesionales directamente. |
-| **frequency** | cuán a menudo ocurre. |
-| **gain** | resultado positivo que el cliente valora. |
-| **go-no-go criterion** | condición explícita para lanzar o detener. |
-| **ideal customer profile** | descripción de cuentas con mayor probabilidad de valor y fit. |
-| **IP assignment** | cesión de propiedad intelectual a la compañía. |
-| **key resource** | activo necesario para operar propuesta. |
-| **launch cohort** | grupo inicial controlado de clientes. |
-| **launch readiness** | grado de preparación para exponer oferta a mercado real. |
-| **manual-first** | estrategia de aprendizaje que pospone automatización. |
-| **operational readiness** | capacidad de entregar soportar y recuperar. |
-| **pain reliever** | mecanismo que reduce una fricción material. |
-| **pre-sale** | compromiso de compra antes de producto final. |
-| **price** | intercambio monetario exigido por la oferta. |
-| **price sensitivity** | cambio de demanda frente a cambios de precio. |
-| **problem hypothesis** | afirmación falsable sobre problema y consecuencia. |
-| **problem value** | impacto económico funcional o emocional de un problema para un cliente. |
-| **proof** | prueba o evidencia que hace creíble la promesa. |
-| **referenceability** | disposición del cliente a recomendar o validar. |
-| **repeatable motion** | secuencia comercial que puede ser ejecutada por otra persona. |
-| **revenue stream** | fuente y mecanismo de ingreso. |
-| **rollback plan** | forma de revertir o limitar impacto si falla. |
-| **scalability** | capacidad de crecer output o ingresos sin crecimiento proporcional de esfuerzo. |
-| **self-employment** | trabajo por cuenta propia donde ingreso depende fuertemente del trabajo personal. |
-| **service blueprint** | mapa frontstage y backstage del servicio. |
-| **smoke test** | señalización de oferta para medir reacción sin construir todo. |
-| **trigger** | evento que activa búsqueda o compra. |
-| **unit economics** | ingresos y costos atribuibles a una unidad de cliente o venta. |
-| **urgency** | velocidad con que el cliente necesita resolver. |
-| **user** | persona que usa o experimenta la solución. |
-| **value metric** | unidad según la cual precio escala con valor o uso. |
-| **value proposition** | promesa específica de valor para un segmento. |
-| **vesting** | adquisición gradual de equity vinculada a permanencia. |
-| **willingness to pay** | disposición revelada o declarada a intercambiar dinero por valor. |
-| **Wizard of Oz** | interfaz que aparenta automatización mientras procesos internos son manuales. |
+| **Activo acumulable** | Recurso que crece con el tiempo y no depende de horas. |
+| **Acuerdo de socios** | Contrato que regula decisiones, transferencias y salida. |
+| **Alternativa actual** | Lo que el cliente hace hoy, incluido no hacer nada. |
+| **Ancla** | Referencia que influye en la percepción del precio. |
+| **Aprendizaje validado** | Conocimiento confirmado con datos de clientes. |
+| **Calificación** | Verificar que el prospecto tiene problema, presupuesto y decisor. |
+| **Cliente a medida** | Cliente cuyas exigencias desvían el producto. |
+| **Cliff** | Período inicial tras el cual se adquiere el primer tramo. |
+| **Comprador** | Quien decide y paga. |
+| **Concierge test** | Servicio entregado a mano, sin tecnología, a pocos clientes. |
+| **Contribución** | Precio menos costo variable por cliente. |
+| **Cortesía** | Tendencia a dar respuestas agradables que no comprometen. |
+| **Costo de adquisición (CAC)** | Costo de conseguir un cliente nuevo. |
+| **Costo de lo manual** | Tiempo y dinero por cliente de la entrega manual. |
+| **Criterio de detención** | Condición que obliga a parar o ajustar. |
+| **Criterio previo** | Umbral de éxito fijado antes de ver los datos. |
+| **Descubrimiento de clientes** | Investigación para entender problemas, contexto y comportamiento antes de construir. |
+| **Dilución** | Reducción del porcentaje al emitirse nuevas participaciones. |
+| **Dolor** | Costo de no resolver el problema, en tiempo, dinero o riesgo. |
+| **Dolor y ganancia** | Obstáculos y resultados deseados por el cliente. |
+| **Economía por cliente** | Ingresos y costos asociados a un cliente. |
+| **Embudo** | Etapas desde el contacto hasta el cliente que paga. |
+| **Empresario** | Dueño de un negocio con clientes, equipo y procesos. |
+| **Episodio reciente** | Situación concreta vivida por la persona hace poco. |
+| **Equity** | Participación en la propiedad de la empresa. |
+| **Escalera de compromiso** | Orden de pruebas según lo que se le exige al cliente. |
+| **Eslabón más riesgoso** | Hipótesis cuya falsedad invalida el modelo. |
+| **Evidencia fuerte** | Hechos, compromisos y datos, no opiniones. |
+| **Experimento barato** | Prueba de bajo costo para aprender antes de comprometerse. |
+| **Experimento de precio** | Prueba controlada de distintos precios. |
+| **Falso positivo** | Señal que parece validar y no lo hace. |
+| **Founder** | Creador de una empresa diseñada para crecer de forma repetible. |
+| **Frecuencia** | Cuán a menudo ocurre el problema. |
+| **Freelance** | Persona que vende su trabajo por proyecto o por hora. |
+| **Go / no-go** | Decisión de lanzar o no, con condiciones. |
+| **Hipótesis de cliente** | Creencia sobre quién es el cliente y en qué contexto actúa. |
+| **Hipótesis de problema** | Creencia sobre lo que intenta lograr y qué se lo impide. |
+| **Launch readiness** | Grado de preparación para lanzar con riesgos conocidos. |
+| **Lista de verificación** | Lista breve de pasos críticos que no deben omitirse. |
+| **Mago de Oz** | Interfaz que parece automática pero se opera a mano. |
+| **Mecanismo** | Cómo el producto produce la mejora prometida. |
+| **Modelo de negocio** | Forma en que una empresa crea, entrega y captura valor. |
+| **MVP** | Versión mínima que permite aprender una hipótesis con clientes. |
+| **Perfil de cliente ideal** | Descripción de quien más valor obtiene y más fácil compra. |
+| **Pista de caja (runway)** | Meses que la caja alcanza al ritmo de gasto actual. |
+| **Pivote** | Cambio estructurado de una hipótesis fundamental. |
+| **Precio basado en valor** | Precio fijado según el valor que el cliente obtiene. |
+| **Precio piso** | Mínimo que cubre costos variables y de adquisición. |
+| **Precio techo** | Máximo que el cliente aceptaría. |
+| **Presupuesto** | Capacidad y disposición de pagar por resolverlo. |
+| **Primeros adoptantes** | Clientes que toleran un producto incompleto por un beneficio mayor. |
+| **Problema valioso** | Dificultad que duele, es frecuente y tiene presupuesto. |
+| **Producto-mercado** | Estado en que el producto satisface a un mercado. |
+| **Propuesta de valor** | Razón concreta por la que un cliente elegiría tu solución frente a su alternativa. |
+| **Prueba (*proof*)** | Evidencia que respalda la promesa. |
+| **Prueba de demanda** | Experimento que mide interés real sin producto terminado. |
+| **Punto de equilibrio** | Nivel de clientes en que ingresos cubren costos. |
+| **Refutable** | Formulada de modo que algún resultado la contradiga. |
+| **Restricción de liquidez** | Limitación de capital propio para emprender. |
+| **Riesgo bloqueante** | Riesgo que, si ocurre, impide operar o destruye el valor. |
+| **Roles** | Responsabilidades claras de cada cofundador. |
+| **Sesgo de accesibilidad** | Elegir lo que está cerca y no lo que es más valioso. |
+| **Severidad** | Intensidad del problema y de sus consecuencias. |
+| **Supuesto crítico** | Creencia cuya falsedad invalida el negocio. |
+| **Trabajo por hacer** | Progreso que el cliente intenta lograr en una situación. |
+| **Trabajo por hacer (*job to be done*)** | Progreso que una persona intenta lograr en una situación. |
+| **Umbral previo** | Resultado mínimo definido antes de probar. |
+| **Usuario** | Quien usa la solución. |
+| **Validación** | Reunir evidencia de que una hipótesis crítica se sostiene. |
+| **Valor de vida del cliente (LTV)** | Contribución total esperada de un cliente. |
+| **Venta del fundador** | Ventas hechas por quien conoce el producto y el problema. |
+| **Vesting** | Adquisición gradual del derecho a la participación. |
 
 ## 📦 Qué queda como evidencia
 

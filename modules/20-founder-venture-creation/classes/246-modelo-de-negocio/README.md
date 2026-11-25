@@ -10,217 +10,221 @@
 
 ## 🎯 Propósito
 
-El modelo de negocio de una startup integra cliente, propuesta, canal, relación, revenue, cost, resources, activities y partners. La pregunta no es completar Canvas sino demostrar que el sistema puede adquirir, servir y retener clientes con economics sostenibles.
+Un modelo de negocio responde a una pregunta que el producto no contesta: **¿cómo gana dinero esta empresa de manera repetible?** Una idea excelente, con clientes entusiasmados, puede ser un mal negocio si cuesta más conseguir un cliente que lo que ese cliente deja, si el servicio exige tanto trabajo manual que cada venta destruye margen, si el canal de ventas no escala o si nadie con presupuesto está dispuesto a pagar. Los fundadores suelen dibujar un lienzo de negocio con nueve bloques que parece completo y es, en realidad, una lista de **hipótesis**: de quién es el cliente, cuánto vale para él, cómo lo alcanzamos, cuánto nos cuesta atenderlo, cuánto tiempo se queda. La utilidad del modelo no está en el dibujo sino en **identificar cuáles eslabones son más riesgosos y probarlos primero**.
 
-La salida de esta parte es **descubrir, validar y lanzar una empresa antes de escalarla**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **modelo de negocio** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta el modelo de negocio como una **cadena de hipótesis con números**: quién paga y por qué, cómo se entrega el servicio y cuánto cuesta y deja cada cliente. Se apoya en Osterwalder y Pigneur sobre los bloques de un modelo, en Blank sobre la búsqueda de un modelo repetible y escalable, en Aulet sobre los pasos para definir un mercado y un modelo, en Maurya sobre la adaptación del lienzo a una página de hipótesis y en Ries sobre el aprendizaje validado. Al terminar sabrás dibujar un modelo inicial, localizar los eslabones más riesgosos, estimar ingresos y costos con supuestos explícitos, probar el canal y la entrega y actualizar el modelo con evidencia.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `business model`, `channel`, `revenue stream`, `key resource`, `unit economics` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de founder.
-3. **Aplicar** la secuencia **1. dibujar hipótesis de modelo → 2. identificar riskiest links → 3. estimar revenue y cost → 4. probar canal y delivery → 5. actualizar con evidencia de clientes** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** ARPU, gross margin, CAC sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** modelo de negocio, canal y producto.
+2. **Dibujar** un modelo inicial como un conjunto de hipótesis.
+3. **Identificar** los eslabones más riesgosos y diseñar pruebas.
+4. **Estimar** ingresos, costos y economía por cliente con supuestos explícitos.
+5. **Actualizar** el modelo con evidencia sin convertirlo en un plan fijo.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define business model y channel sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con ARPU y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿quién paga en tu negocio, por qué y cuánto cuesta conseguirlo? |
+| 20–60 min | Bloques, hipótesis, eslabones riesgosos, economía por cliente, canal y delivery, actualización. |
+| 60–105 min | Ejemplo trabajado: economía por cliente, punto de equilibrio y sensibilidad. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **business model** | arquitectura de creación entrega y captura de valor | Distingue un hecho compatible y otro que lo refute. |
-| **channel** | medio para llegar vender y entregar | Distingue un hecho compatible y otro que lo refute. |
-| **revenue stream** | fuente y mecanismo de ingreso | Distingue un hecho compatible y otro que lo refute. |
-| **key resource** | activo necesario para operar propuesta | Distingue un hecho compatible y otro que lo refute. |
-| **unit economics** | ingresos y costos atribuibles a una unidad de cliente o venta | Distingue un hecho compatible y otro que lo refute. |
+| **Modelo de negocio** | Forma en que una empresa crea, entrega y captura valor. | Cliente, propuesta, canal, ingresos, costos. |
+| **Eslabón más riesgoso** | Hipótesis cuya falsedad invalida el modelo. | Alta incertidumbre e impacto. |
+| **Economía por cliente** | Ingresos y costos asociados a un cliente. | Margen de contribución, costo de adquisición, vida útil. |
+| **Costo de adquisición (CAC)** | Costo de conseguir un cliente nuevo. | Marketing y ventas por cliente. |
+| **Valor de vida del cliente (LTV)** | Contribución total esperada de un cliente. | Margen mensual × permanencia. |
+| **Punto de equilibrio** | Nivel de clientes en que ingresos cubren costos. | Costos fijos ÷ contribución por cliente. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 246: 1. dibujar hipótesis de modelo → 2. identificar riskiest links → 3. estimar revenue y cost → 4. probar canal y delivery → 5. actualizar con evidencia de clientes](modelo-mental.svg)
+![Un modelo de negocio como cadena de hipótesis: quién paga y por qué, cómo se entrega y cuánto cuesta y deja.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. dibujar hipótesis de modelo → 2. identificar riskiest links → 3. estimar revenue y cost → 4. probar canal y delivery → 5. actualizar con evidencia de clientes
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El modelo de negocio de una startup integra cliente, propuesta, canal, relación, revenue, cost, resources, activities y partners. La pregunta no es completar Canvas sino demostrar que el sistema puede adquirir, servir y retener clientes con economics sostenibles.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un modelo temprano cambia rápido; no lo conviertas en plan fijo. Mantén hipótesis y fechas de verificación, especialmente sobre canal y costos ocultos.**
+**Cómo leer el diagrama.** Tres columnas. **Quién paga y por qué**: segmento, problema y propuesta, quién decide y quién paga, y cuánto vale resolverlo. **Cómo se entrega**: canal para llegar al cliente, cómo se produce y se presta el servicio y qué se hace a mano al comienzo. **Cuánto cuesta y deja**: costo de adquirir y servir, margen por cliente, y costos ocultos con su verificación. La nota afirma que un modelo temprano cambia rápido y no debe convertirse en un plan fijo; el pie, que se prueba primero el eslabón más riesgoso, el que invalida el resto si falla.
 
 ## 📖 Desarrollo
 
-### 1. business model: mecanismo central
+### 1. Qué es un modelo de negocio y qué no es
 
-**business model** se entiende aquí como **arquitectura de creación entrega y captura de valor**. Esta es la pieza causal o estructural desde la que se inicia **modelo de negocio**: antes de dibujar hipótesis de modelo, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Osterwalder y Pigneur describen un modelo de negocio como la manera en que una organización **crea, entrega y captura valor**, y proponen nueve bloques: segmentos de clientes, propuesta de valor, canales, relación con clientes, fuentes de ingresos, recursos clave, actividades clave, socios clave y estructura de costos. Es una herramienta útil para **comunicar y discutir**. Pero hay tres confusiones frecuentes: el **producto** no es el modelo (un mismo producto puede venderse con modelos muy distintos); el **canal** (cómo se llega al cliente) es solo un bloque; y un lienzo lleno no es un negocio validado. Blank recuerda que una startup busca un **modelo repetible y escalable**; mientras no lo encuentre, todo en el lienzo es una hipótesis que debe contrastarse con clientes reales.
 
-La lectura rectora de este bloque es Steve Blank — *The Four Steps to the Epiphany*. Su aporte se usa para examinar **customer development y búsqueda sistemática de un modelo de negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **ARPU**; regístrala con periodo, unidad, población y baseline.
+### 2. Dibujar el modelo como hipótesis
 
-Relaciona el mecanismo con **channel**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se parte de una versión **rápida e imperfecta**: en una hoja, el fundador completa cada bloque con lo que cree hoy y marca, con color o con un signo de interrogación, lo que **no ha verificado**. Maurya propone un formato de una página (el «lienzo ágil») que prioriza problema, segmento, propuesta, solución, canales, ingresos, costos, métricas y ventaja diferencial. Lo importante es la **honestidad**: ¿esto lo sé o lo supongo? Luego se redactan las hipótesis críticas con números: «El 30 % de los talleres contactados acepta una demostración», «El costo de conseguir un cliente es menor de 300.000 pesos», «El servicio consume menos de 2 horas mensuales de soporte por cliente». Cada hipótesis tendrá un umbral y una fecha de verificación.
 
-### 2. channel: frontera conceptual y error de clasificación
+### 3. Identificar los eslabones más riesgosos
 
-**Definición operacional:** medio para llegar vender y entregar. Su valor está en distinguirlo de **business model** y **revenue stream**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Un modelo de negocio es una **cadena**: si un eslabón se rompe, el resto no importa. Los eslabones más riesgosos suelen ser: que **exista un comprador con presupuesto**, que **pague el precio previsto**, que se pueda **alcanzar** a un costo razonable, que el servicio se pueda **entregar** con un costo que deje margen, que el cliente **se quede** el tiempo necesario y que el **mercado** sea suficiente. Se puntúan por impacto e incertidumbre (clase 244) y se prueba primero el que más preocupa. Aulet insiste en construir el modelo con **evidencia de clientes**, calculando la **vida útil del cliente** y el **costo de adquirirlo** con datos reales, no con promedios de otras industrias. Una regla práctica: probar la **demanda** antes de optimizar los costos.
 
-Contrasta el problema con Alexander Osterwalder & Yves Pigneur — *Business Model Generation*, que aporta una mirada sobre **diseño de modelos de negocio mediante propuesta, clientes, recursos y economía**. Formula dos mini-casos: uno que sí satisface la definición de **channel** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **gross margin** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. La economía por cliente
 
-Antes de identificar riskiest links, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El núcleo numérico del modelo es la **economía por cliente**. **Ingreso mensual** (precio); **costos variables** por cliente (producción, soporte, hosting, comisiones de pago); **margen de contribución** (ingreso menos costos variables); **costo de adquisición** (CAC: marketing y ventas por cliente nuevo, incluyendo el tiempo del fundador valorado); **costo de implementación** (incorporación); **permanencia** (por ejemplo, 1 ÷ tasa de cancelación mensual); y **valor de vida** (contribución mensual × permanencia). De ahí salen: el **período de recuperación** del CAC (meses), la **relación valor de vida / costo de adquisición** y el **punto de equilibrio** (costos fijos ÷ contribución por cliente). Los **costos ocultos** (soporte manual, correcciones, cobranza, impuestos, comisiones) suelen aparecer tarde y alterar el resultado, por eso se buscan desde el inicio.
 
-### 3. revenue stream: operacionalización y medición
+### 5. Canal y entrega: probar cómo se llega y cómo se presta
 
-**revenue stream** significa **fuente y mecanismo de ingreso**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un modelo puede ser atractivo en teoría y fracasar en el **canal**: el cliente existe, pero no se lo puede alcanzar de forma rentable. Se prueba el canal con experimentos pequeños (correos y llamadas, publicidad, alianzas, ferias, referidos), midiendo el **embudo**: contactos, respuestas, demostraciones, pilotos, ventas. Se calcula el **costo por cada etapa** y el costo total de adquisición. En la **entrega**, se examina cómo se produce el servicio: ¿qué se hace a mano?, ¿cuánto tiempo toma?, ¿qué se puede automatizar? (clase 248). Blank sugiere que muchas startups confunden un canal que funciona con unos cuantos clientes cercanos con un canal **escalable**; hay que probarlo con personas fuera de la propia red.
 
-Alexander Osterwalder et al. — *Value Proposition Design* orienta este bloque mediante **perspectiva de Producto aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **CAC**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Estimar y estresar con sensibilidad
 
-Al llegar a estimar revenue y cost, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Se hace una **proyección simple** con supuestos explícitos: número de clientes por mes, precio, costos, cancelaciones. Luego se hace un **análisis de sensibilidad**: ¿qué pasa si la cancelación es del doble?, ¿si el costo de adquisición sube 50 %?, ¿si el precio es 20 % menor? Se identifican los **supuestos que más mueven** el resultado, que coinciden con los eslabones más riesgosos. Ries sugiere elegir las **métricas que importan** (accionables) y no las «de vanidad». Se calcula también la **caja** necesaria hasta el punto de equilibrio para saber cuánto tiempo y capital se necesita (clase 222). Si el modelo solo funciona en un escenario muy optimista, es frágil y se rediseña (precio, segmento, canal, entrega).
 
-### 4. key resource: trade-offs y efectos de segundo orden
+### 7. Actualizar sin convertirlo en un plan fijo
 
-**Definición:** activo necesario para operar propuesta. Este concepto obliga a abandonar la idea de que **modelo de negocio** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de probar canal y delivery, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Bill Aulet — *Disciplined Entrepreneurship* aporta una lente sobre **secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **retention** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **modelo de negocio**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **key resource** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. unit economics: gobernanza, límites e integración
-
-**unit economics** se define como **ingresos y costos atribuibles a una unidad de cliente o venta** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Eric Ries — *The Lean Startup* se utiliza para estudiar **build-measure-learn, MVP y aprendizaje validado** y contrastar la recomendación final. Al ejecutar actualizar con evidencia de clientes, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un modelo temprano cambia rápido; no lo conviertas en plan fijo. Mantén hipótesis y fechas de verificación, especialmente sobre canal y costos ocultos.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **business model**, **channel**, **revenue stream**, **key resource** y **unit economics** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **modelo de negocio** no consiste en sumar cinco definiciones. Empieza por **business model**, contrasta **channel** con **revenue stream**, incorpora **key resource** como restricción o mecanismo y usa **unit economics** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. dibujar hipótesis de modelo → 2. identificar riskiest links → 3. estimar revenue y cost → 4. probar canal y delivery → 5. actualizar con evidencia de clientes**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un modelo temprano cambia rápido; no se convierte en un plan rígido. Se mantiene una **versión vigente** con las hipótesis y su estado (sin probar, apoyada, refutada), con **fechas de verificación** (por ejemplo, cada 30 días) y se actualiza con cada aprendizaje. Los cambios importantes (segmento, precio, canal, tipo de ingreso) son **pivotes** que deben estar justificados por evidencia. Se evita el error de creer que cada ajuste es un fracaso: es el trabajo central de esta etapa. Y se cuida de no confundir **actividad** con **progreso**: lo que cuenta es cuántas hipótesis críticas se han reducido con datos. Cuando la economía por cliente es positiva con supuestos conservadores y el canal es repetible, el modelo está listo para escalar (y para pensar en capital).
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Steve Blank — *The Four Steps to the Epiphany* | customer development y búsqueda sistemática de un modelo de negocio | ¿Qué supuesto de **modelo de negocio** ayuda a desafiar? |
-| Alexander Osterwalder & Yves Pigneur — *Business Model Generation* | diseño de modelos de negocio mediante propuesta, clientes, recursos y economía | ¿Qué supuesto de **modelo de negocio** ayuda a desafiar? |
-| Alexander Osterwalder et al. — *Value Proposition Design* | perspectiva de Producto aplicada al problema de la clase | ¿Qué supuesto de **modelo de negocio** ayuda a desafiar? |
-| Bill Aulet — *Disciplined Entrepreneurship* | secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio | ¿Qué supuesto de **modelo de negocio** ayuda a desafiar? |
-| Eric Ries — *The Lean Startup* | build-measure-learn, MVP y aprendizaje validado | ¿Qué supuesto de **modelo de negocio** ayuda a desafiar? |
-
-En **modelo de negocio**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **business model**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Osterwalder y Pigneur | Nueve bloques para describir y discutir un modelo. | No dice si el modelo es rentable. | ¿Qué bloque es una hipótesis sin verificar? |
+| Blank | Búsqueda de un modelo repetible y escalable. | Orientado a startups tecnológicas. | ¿Mi canal funciona fuera de mi red? |
+| Aulet | Evidencia de clientes para calcular vida útil y costo de adquirirlos. | Proceso extenso. | ¿Qué datos reales tengo del cliente? |
+| Maurya | Lienzo de una página y priorización de riesgos. | Marco para startups. | ¿Cuál es el riesgo mayor de este modelo? |
+| Ries | Métricas accionables y aprendizaje validado. | Orientado a productos digitales. | ¿Qué métrica cambia mis decisiones? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un SaaS de USD 20 al mes requiere demos de una hora, implementación manual y soporte telefónico ilimitado. El Canvas luce completo, pero CAC y payback nunca cierran.
+**Situación (hipotética).** Un servicio de conciliación para empresas de transporte tiene este modelo inicial.
 
-**Paso 1 — dibujar hipótesis de modelo.** La gerencia escribe primero el supuesto asociado a **business model** y evita convertirlo en hecho. Luego busca **ARPU** para contrastarlo en el caso de **modelo de negocio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Ingresos y costos variables por cliente al mes.**
 
-**Paso 2 — identificar riskiest links.** La gerencia escribe primero el supuesto asociado a **channel** y evita convertirlo en hecho. Luego busca **gross margin** para contrastarlo en el caso de **modelo de negocio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Concepto | Pesos |
+|---|---|
+| Precio de la suscripción | 90.000 |
+| Alojamiento y procesamiento | 6.000 |
+| Comisión de pago (2,5 %) | 2.250 |
+| Soporte y correcciones (promedio) | 12.000 |
+| **Margen de contribución mensual** | **69.750** (77,5 %) |
 
-**Paso 3 — estimar revenue y cost.** La gerencia escribe primero el supuesto asociado a **revenue stream** y evita convertirlo en hecho. Luego busca **CAC** para contrastarlo en el caso de **modelo de negocio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costos por cliente nuevo.** Incorporación (8 horas del equipo a 7.500 pesos la hora): 60.000; costo de adquisición (CAC) supuesto: 240.000 pesos. Total: 300.000.
 
-**Paso 4 — probar canal y delivery.** La gerencia escribe primero el supuesto asociado a **key resource** y evita convertirlo en hecho. Luego busca **retention** para contrastarlo en el caso de **modelo de negocio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Recuperación.** 300.000 ÷ 69.750 ≈ **4,3 meses**.
 
-**Paso 5 — actualizar con evidencia de clientes.** La gerencia escribe primero el supuesto asociado a **unit economics** y evita convertirlo en hecho. Luego busca **payback** para contrastarlo en el caso de **modelo de negocio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Valor de vida.** Con una cancelación mensual de 5 %, la permanencia esperada es 1 ÷ 0,05 = 20 meses; valor de vida = 69.750 × 20 = 1.395.000 pesos. Relación valor de vida / costo total de adquisición: 1.395.000 ÷ 300.000 = **4,65**.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **modelo de negocio**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Punto de equilibrio.** Costos fijos mensuales (equipo mínimo, herramientas, contabilidad): 6,5 millones. Clientes necesarios: 6.500.000 ÷ 69.750 = 93,2 → **94 clientes**.
+
+**Prueba del canal.** Un experimento con correos y llamadas a 400 empresas arroja:
+
+| Etapa | Conversión | Resultado |
+|---|---|---|
+| Contactos → respuesta y demostración | 25 % | 100 |
+| Demostración → piloto | 30 % | 30 |
+| Piloto → cliente de pago | 60 % | 18 |
+
+De 400 contactos se obtienen 18 clientes (4,5 %). El costo del experimento fue de 7,2 millones (tiempo del fundador, herramientas y llamadas): **CAC real = 7.200.000 ÷ 18 = 400.000 pesos**, mayor que el supuesto de 240.000.
+
+**Economía actualizada.** Costo total por cliente nuevo: 400.000 + 60.000 = 460.000; recuperación: 460.000 ÷ 69.750 ≈ 6,6 meses; relación valor de vida / costo: 1.395.000 ÷ 460.000 = **3,0**. Todavía es positiva, pero más ajustada de lo que se pensó.
+
+**Sensibilidad.**
+
+| Escenario | Valor de vida | Costo total por cliente | Relación |
+|---|---|---|---|
+| Base actualizado (cancelación 5 %, CAC 400.000) | 1.395.000 | 460.000 | 3,0 |
+| Cancelación de 8 % (permanencia de 12,5 meses) | 871.875 | 460.000 | 1,9 |
+| CAC de 600.000 | 1.395.000 | 660.000 | 2,1 |
+| Ambos | 871.875 | 660.000 | 1,3 |
+
+**Lectura.** El modelo es sensible a la **cancelación** y al **costo de adquisición**; en el peor caso (relación de 1,3) apenas cubre costos. Los eslabones más riesgosos son la permanencia y el canal. Se priorizan dos pruebas: medir la cancelación con los primeros 18 clientes durante 3 meses, y probar un segundo canal (alianza con asociaciones de transportistas) que podría bajar el CAC a 250.000.
+
+**Costos ocultos verificados.** Tiempo de soporte de 14 horas mensuales (el doble de lo previsto) para 18 clientes: se agrega al modelo; se evalúa automatizar la incorporación.
+
+**Decisión.** Continuar con una versión del modelo con precio de 90.000, un segundo canal de prueba y metas de cancelación bajo 5 % y CAC bajo 300.000 en 90 días; revisión de hipótesis cada 30 días; no contratar más personal hasta confirmar la permanencia.
+
+**Cuidados.** Los supuestos de cancelación y costos se verifican con datos reales; las obligaciones tributarias y de facturación del servicio se consultan con asesoría y fuentes oficiales; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La economía por cliente se calculó con supuestos explícitos. (2) El experimento de canal corrigió el costo de adquisición. (3) La sensibilidad identificó los eslabones más riesgosos.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **business model** | arquitectura de creación entrega y captura de valor | Cuando ARPU es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **channel** | medio para llegar vender y entregar | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Modelo de negocio frente a plan de negocios.** El modelo describe cómo se crea y captura valor y se actualiza con evidencia; el plan de negocios es un documento más extenso con proyecciones que suele envejecer rápido.
 
-**Frontera de aplicación:** Un modelo temprano cambia rápido; no lo conviertas en plan fijo. Mantén hipótesis y fechas de verificación, especialmente sobre canal y costos ocultos.
+**Límites.** Un modelo temprano cambia rápido: no lo conviertas en un plan fijo; mantén hipótesis y fechas de verificación, especialmente sobre canal y costos ocultos. Las proyecciones con pocos clientes son inestables. Los promedios de la industria pueden no aplicar. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre modelo de negocio |
+| Nivel | Cómo se relaciona con el modelo |
 |---|---|
-| **Profesional** | usa **modelo de negocio** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **business model** y **channel** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta ARPU con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si modelo de negocio cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de modelo de negocio reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **modelo de negocio** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende cómo su trabajo afecta los ingresos y costos. |
+| **Jefe / Team Lead** | Conoce el costo de servir a los clientes de su área. |
+| **Gerente** | Mide la economía por cliente y por canal. |
+| **CEO / Director** | Decide el modelo y el momento de escalar. |
+| **Founder / Owner** | Prueba el modelo con clientes reales y ajusta con evidencia. |
 
 ## 🏢 Caso ejecutivo
 
-Un SaaS de USD 20 al mes requiere demos de una hora, implementación manual y soporte telefónico ilimitado. El Canvas luce completo, pero CAC y payback nunca cierran.
+Una fundadora tiene un servicio de «cajas de alimentos saludables» para oficinas: por 38.000 pesos semanales por persona, entrega fruta, frutos secos y colaciones. Datos de los primeros 90 días: 12 oficinas con 180 personas en total; costo de los productos y empaque, 21.000 pesos por persona por semana; despacho, 4.500 por persona; comisiones de pago, 2 %; una persona dedica 25 horas semanales a coordinar pedidos y reclamos (a 6.000 pesos la hora); cancelaciones: 3 oficinas en 3 meses; el costo de conseguir las 12 oficinas fue de 5,4 millones (ferias, visitas y degustaciones, más su tiempo); el 40 % de las personas no consume todo y pide ajustes; los costos fijos son de 4,2 millones al mes (local, vehículo y sueldos). Un inversionista le pregunta cuántas oficinas necesita para llegar al equilibrio y cuál es su ventaja. Ella supone un crecimiento de 8 oficinas por mes.
 
-Entrega un **decision brief de modelo de negocio** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de modelo de negocio** que contenga: (a) el modelo como hipótesis con las verificadas y las no verificadas; (b) la economía por persona y por oficina, con margen de contribución, CAC, permanencia y valor de vida; (c) el punto de equilibrio y la sensibilidad a cancelación, costo de productos y CAC; (d) los eslabones más riesgosos y las pruebas con umbral y fecha; (e) el análisis del canal y de la entrega, con los costos ocultos y las opciones de automatización o simplificación; (f) la decisión de qué probar en 90 días y las verificaciones sanitarias, tributarias y legales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **modelo de negocio** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. dibujar hipótesis de modelo → 2. identificar riskiest links → 3. estimar revenue y cost → 4. probar canal y delivery → 5. actualizar con evidencia de clientes** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta ARPU, gross margin; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Dibuja tu modelo en una página y marca las hipótesis no verificadas.
+2. Calcula margen de contribución, CAC, permanencia y valor de vida de un cliente.
+3. Estima el punto de equilibrio y qué clientes necesitas.
+4. Haz una sensibilidad con tres variables y señala las críticas.
+5. Diseña una prueba de canal con embudo, umbrales y fecha.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar business model y channel como sinónimos | Se pierde la distinción entre “arquitectura de creación entrega y captura de valor” y “medio para llegar vender y entregar” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “actualizar con evidencia de clientes” | Se saltó “dibujar hipótesis de modelo” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. dibujar hipótesis de modelo → 2. identificar riskiest links → 3. estimar revenue y cost → 4. probar canal y delivery → 5. actualizar con evidencia de clientes y marca el primer supuesto no demostrado. |
-| Optimizar solo ARPU | La métrica local sustituyó al resultado del sistema | Contrástala con gross margin y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre modelo de negocio | Un modelo temprano cambia rápido; no lo conviertas en plan fijo. Mantén hipótesis y fechas de verificación, especialmente sobre canal y costos ocultos. |
-| No fijar revisión | Una decisión sobre modelo de negocio se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Confundir producto con modelo | Se piensa en lo que se construye | Describir cómo se captura valor. |
+| Lienzo sin números | Es más fácil dibujar | Cada bloque con hipótesis y umbral. |
+| Costos ocultos tardíos | No se miden | Registrar soporte, correcciones y cobranza desde el inicio. |
+| Canal que no escala | Se usan contactos cercanos | Probar fuera de la red. |
+| Optimizar costos sin demanda | Se persigue eficiencia | Probar demanda primero. |
+| Plan rígido | Se teme cambiar | Versión vigente con fechas de verificación. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **business model** y **channel** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **revenue stream** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **dibujar hipótesis de modelo → identificar riskiest links** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **ARPU** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **modelo de negocio**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un modelo temprano cambia rápido; no lo conviertas en plan fijo. Mantén hipótesis y fechas de verificación, especialmente sobre canal y costos ocultos.**?
+1. ¿Qué diferencia hay entre modelo de negocio, producto y canal?
+2. ¿Cómo se identifican los eslabones más riesgosos?
+3. ¿Qué incluye la economía por cliente?
+4. ¿Cómo se calcula el punto de equilibrio?
+5. ¿Por qué se prueba el canal con personas fuera de la red?
+6. ¿Para qué sirve la sensibilidad?
+7. ¿Cuándo está un modelo listo para escalar?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El modelo es cómo se crea y captura valor; el producto es lo que se ofrece; el canal es cómo se llega al cliente.
+2. Puntuando cada hipótesis por impacto e incertidumbre y priorizando las que invalidarían el modelo si fallan.
+3. Precio, costos variables, margen de contribución, costo de adquisición, incorporación, permanencia y valor de vida.
+4. Costos fijos divididos por la contribución por cliente.
+5. Porque un canal que funciona con conocidos puede no escalar.
+6. Para ver qué supuestos mueven más el resultado y qué tan frágil es el modelo.
+7. Cuando la economía por cliente es positiva con supuestos conservadores y el canal es repetible con evidencia.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/246-modelo-de-negocio/`:
 
-- `strategy-memo.md` con el problema específico de **modelo de negocio**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **modelo de negocio** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **business model**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un SaaS de USD 20 al mes requiere demos de una hora, implementación manual y soporte telefónico ilimitado. El Canvas luce completo, pero CAC y payback nunca cierran.** y el dato que podría invalidar la recomendación.
+- `strategy-memo.md` (plantilla [Strategy memo](../../../../templates/strategy-memo.md)) con el memo del caso ejecutivo;
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con la economía por cliente y la sensibilidad;
+- `decision-journal.md` con las hipótesis, las pruebas y los costos ocultos.
 
 ## 📗 Fuentes y verificación
 
-- Steve Blank — *The Four Steps to the Epiphany* ([Steve Blank?], 2013). **Uso en esta clase:** customer development y búsqueda sistemática de un modelo de negocio. **Localizador:** [ISBN-13 9780989200509](https://openlibrary.org/isbn/9780989200509).
-- Alexander Osterwalder & Yves Pigneur — *Business Model Generation* (Wiley , 2010). **Uso en esta clase:** diseño de modelos de negocio mediante propuesta, clientes, recursos y economía. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9780470876411](https://openlibrary.org/isbn/9780470876411).
-- Alexander Osterwalder et al. — *Value Proposition Design* (John Wiley & Sons, Incorporated, 2014). **Uso en esta clase:** perspectiva de Producto aplicada al problema de la clase. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9781118968062](https://openlibrary.org/isbn/9781118968062).
-- Bill Aulet — *Disciplined Entrepreneurship* (John Wiley & Sons, Incorporated, 2013). **Uso en esta clase:** secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9781299848641](https://openlibrary.org/isbn/9781299848641).
-- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** build-measure-learn, MVP y aprendizaje validado. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
-- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de fundador, equity, control, equipo y decisiones tempranas. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **modelo de negocio** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **modelo de negocio**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **modelo de negocio** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **modelo de negocio** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **modelo de negocio** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Alexander Osterwalder & Yves Pigneur — *Business Model Generation* (Wiley , 2010). **Uso en esta clase:** nueve bloques para describir y discutir un modelo de negocio. **Localizador:** [ISBN-13 9780470876411](https://openlibrary.org/isbn/9780470876411).
+- Steve Blank — *The Four Steps to the Epiphany* ([Steve Blank?], 2013). **Uso en esta clase:** búsqueda de un modelo repetible y escalable. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9780989200509](https://openlibrary.org/isbn/9780989200509).
+- Bill Aulet — *Disciplined Entrepreneurship* (John Wiley & Sons, Incorporated, 2013). **Uso en esta clase:** evidencia de clientes para calcular vida útil y costo de adquisición. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9781299848641](https://openlibrary.org/isbn/9781299848641).
+- Ash Maurya — *Running Lean* (O'Reilly Media, 2012). **Uso en esta clase:** lienzo de una página y priorización de riesgos. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9781449305178](https://openlibrary.org/isbn/9781449305178).
+- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** métricas accionables y aprendizaje validado. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
 
-> **Regla de fuentes para Modelo de negocio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **modelo de negocio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Modelo de negocio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las obligaciones tributarias, sanitarias y legales del negocio. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

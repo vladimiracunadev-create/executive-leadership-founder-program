@@ -10,217 +10,208 @@
 
 ## 🎯 Propósito
 
-Founder, freelancer y empresario pueden generar ingresos propios pero construyen activos distintos. Freelancer vende principalmente su tiempo o capacidad; founder crea una organización o producto escalable; empresario puede poseer y asignar capital entre negocios. Elegir conscientemente evita perseguir escala cuando se desea autonomía o viceversa.
+«Quiero emprender» es una frase que esconde decisiones muy distintas. Un diseñador que cobra por proyecto, la dueña de una panadería con tres empleados y el fundador de una empresa de software que busca capital para crecer diez veces en cinco años dicen lo mismo, pero viven trabajos diferentes, asumen riesgos diferentes y buscan resultados diferentes. Confundirlos es una fuente frecuente de frustración: quien quería estabilidad e independencia se embarca en una startup que consume su tiempo y sus ahorros; quien quería construir algo grande se queda en un trabajo independiente que depende de sus propias horas y nunca escala. Antes de elegir qué empresa crear, conviene elegir **qué clase de camino** se está dispuesto a recorrer y para qué.
 
-La salida de esta parte es **descubrir, validar y lanzar una empresa antes de escalarla**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **founder versus freelance versus empresario** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase compara tres modelos (freelance, empresario de un negocio estable y *founder* de un emprendimiento de alto crecimiento) con criterios de objetivo personal y económico, dependencia del tiempo, activos acumulables, riesgo y capital necesario. Se apoya en el modelo de decisión de entrada al emprendimiento de Evans y Jovanovic y su énfasis en las restricciones de liquidez, en el enfoque de Kerr, Nanda y Rhodes-Kropf sobre el emprendimiento como experimentación, en la lógica de *effectuation* de Sarasvathy, en el análisis de Gerber sobre por qué muchos negocios dependen del dueño y en los dilemas de los fundadores de Wasserman. Al terminar sabrás definir tus metas, mapear tu dependencia de tiempo, identificar qué activos se acumulan en cada modelo y elegir con criterio, sin jerarquías morales.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `freelancer`, `founder`, `business owner`, `self-employment`, `scalability` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de founder.
-3. **Aplicar** la secuencia **1. definir objetivo personal y económico → 2. mapear dependencia de tiempo → 3. identificar activos acumulables → 4. comparar riesgo y capital → 5. seleccionar modelo y transición** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** revenue per owner hour, recurring revenue, owner dependency sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** freelance, empresario y founder por su lógica económica.
+2. **Definir** tus metas personales, económicas y de riesgo antes de elegir.
+3. **Mapear** la dependencia de tu tiempo y los activos que se acumulan.
+4. **Comparar** modelos con una matriz ponderada y una prueba de sensibilidad.
+5. **Diseñar** un primer experimento barato para aprender antes de comprometerte.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define freelancer y founder sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con revenue per owner hour y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué quieres lograr en cinco años con tu trabajo y cuánto riesgo estás dispuesto a asumir? |
+| 20–60 min | Metas, modelos, tiempo, activos, riesgo, capital y primeros experimentos. |
+| 60–105 min | Ejemplo trabajado: tres opciones y una matriz con dos juegos de pesos. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **freelancer** | persona que vende servicios profesionales directamente | Distingue un hecho compatible y otro que lo refute. |
-| **founder** | persona que crea y asume riesgo inicial de una nueva empresa | Distingue un hecho compatible y otro que lo refute. |
-| **business owner** | propietario de un sistema empresarial que puede operar con otros líderes | Distingue un hecho compatible y otro que lo refute. |
-| **self-employment** | trabajo por cuenta propia donde ingreso depende fuertemente del trabajo personal | Distingue un hecho compatible y otro que lo refute. |
-| **scalability** | capacidad de crecer output o ingresos sin crecimiento proporcional de esfuerzo | Distingue un hecho compatible y otro que lo refute. |
+| **Freelance** | Persona que vende su trabajo por proyecto o por hora. | Ingreso ligado a sus horas. |
+| **Empresario** | Dueño de un negocio con clientes, equipo y procesos. | Ingresos del negocio y del dueño. |
+| **Founder** | Creador de una empresa diseñada para crecer de forma repetible. | Busca un modelo escalable y, a menudo, capital. |
+| **Activo acumulable** | Recurso que crece con el tiempo y no depende de horas. | Marca, clientes recurrentes, producto, equipo. |
+| **Restricción de liquidez** | Limitación de capital propio para emprender. | Ahorros, deuda, acceso a financiamiento. |
+| **Experimento barato** | Prueba de bajo costo para aprender antes de comprometerse. | Piloto, preventa, prueba con pocos clientes. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 241: 1. definir objetivo personal y económico → 2. mapear dependencia de tiempo → 3. identificar activos acumulables → 4. comparar riesgo y capital → 5. seleccionar modelo y transición](modelo-mental.svg)
+![Freelance, empresario y founder: qué construye cada modelo, cómo escala y su riesgo principal.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir objetivo personal y económico → 2. mapear dependencia de tiempo → 3. identificar activos acumulables → 4. comparar riesgo y capital → 5. seleccionar modelo y transición
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Founder, freelancer y empresario pueden generar ingresos propios pero construyen activos distintos. Freelancer vende principalmente su tiempo o capacidad; founder crea una organización o producto escalable; empresario puede poseer y asignar capital entre negocios. Elegir conscientemente evita perseguir escala cuando se desea autonomía o viceversa.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No existe jerarquía moral: un freelance rentable puede ser mejor que una startup de alto burn. El modelo debe alinearse con metas, riesgo y estilo de vida.**
+**Cómo leer el diagrama.** Una tabla con tres modelos. **Freelance**: construye ingresos propios por tiempo y reputación; escala con precio y especialización; su riesgo es depender del tiempo de una sola persona. **Empresario de un negocio estable**: construye un negocio con clientes, equipo y procesos; escala con sucursales o mejores márgenes; su riesgo es que el dueño sea el cuello de botella. **Founder de alto crecimiento**: construye un modelo repetible que multiplica ingresos; escala con producto, tecnología y capital; su riesgo es quemar capital antes de probar la demanda. La nota afirma que no hay jerarquía moral entre ellos.
 
 ## 📖 Desarrollo
 
-### 1. freelancer: mecanismo central
+### 1. Empezar por el objetivo, no por la idea
 
-**freelancer** se entiende aquí como **persona que vende servicios profesionales directamente**. Esta es la pieza causal o estructural desde la que se inicia **founder versus freelance versus empresario**: antes de definir objetivo personal y económico, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Muchas personas parten de una idea («una aplicación para…») sin haber definido qué quieren de su vida laboral. Se recomienda partir de preguntas personales: ¿qué nivel de ingresos necesito y en cuánto tiempo?, ¿cuánta incertidumbre puedo tolerar?, ¿cuánto tiempo y capital puedo comprometer sin dañar a mi familia?, ¿qué valoro más: autonomía, estabilidad, impacto, riqueza o aprendizaje?, ¿qué tan cómodo estoy con jefes, inversionistas y socios? Estas respuestas **filtran** los modelos. Evans y Jovanovic mostraron que la decisión de emprender depende de la **capacidad** de la persona y de sus **restricciones de liquidez**: quien dispone de poco capital propio enfrenta límites para iniciar proyectos intensivos en capital, aunque tenga talento. Conocer las restricciones evita elegir un camino que se quedará sin recursos antes de probarse.
 
-La lectura rectora de este bloque es Steve Blank — *The Four Steps to the Epiphany*. Su aporte se usa para examinar **customer development y búsqueda sistemática de un modelo de negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **revenue per owner hour**; regístrala con periodo, unidad, población y baseline.
+### 2. Freelance: vender tiempo y reputación
 
-Relaciona el mecanismo con **founder**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El *freelance* vende su conocimiento por proyecto o por hora. Sus ventajas: **barrera de entrada baja**, ingresos desde el primer cliente, autonomía y aprendizaje rápido. Sus límites: el ingreso está **acotado por las horas** que puede trabajar y por la tarifa que el mercado paga; hay **riesgo de concentración** (pocos clientes grandes) y de **volatilidad**; los activos que acumula (reputación, red, portafolio) son valiosos, pero no se pueden vender fácilmente. Para crecer, el freelance puede **subir su tarifa**, **especializarse**, **empaquetar** servicios con alcance y precio fijo, **productizar** parte del trabajo o **construir un equipo**, y entonces su modelo se acerca al de empresario. Un freelance rentable y satisfecho no es un emprendedor «frustrado»: es una elección legítima.
 
-### 2. founder: frontera conceptual y error de clasificación
+### 3. Empresario: un negocio con vida propia
 
-**Definición operacional:** persona que crea y asume riesgo inicial de una nueva empresa. Su valor está en distinguirlo de **freelancer** y **business owner**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El **empresario** es dueño de un negocio con clientes, empleados, procesos y, con suerte, utilidades que no dependen de su presencia constante. Gerber, en *The E-Myth Revisited*, sostiene que muchos pequeños negocios fracasan porque su dueño es un **técnico** que abre un negocio para hacer su oficio, pero no lo **diseña como un sistema**: todo depende de él. La alternativa es pensar en el negocio como un **producto** que se puede operar sin el dueño: procesos documentados, personas capacitadas, indicadores. El empresario puede acumular activos reales (marca, clientes recurrentes, locales, equipo) y vender el negocio o escalarlo, a un ritmo moderado y con capital propio o crédito. Su riesgo es que **el dueño sea el cuello de botella** y que el negocio se estanque.
 
-Contrasta el problema con Alexander Osterwalder & Yves Pigneur — *Business Model Generation*, que aporta una mirada sobre **diseño de modelos de negocio mediante propuesta, clientes, recursos y economía**. Formula dos mini-casos: uno que sí satisface la definición de **founder** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **recurring revenue** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Founder: diseñar un modelo repetible y escalable
 
-Antes de mapear dependencia de tiempo, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El *founder* en el sentido de la clase es quien crea una empresa con la intención de buscar un **modelo de negocio repetible y escalable**: que pueda multiplicar ingresos sin multiplicar costos en la misma proporción, a menudo con tecnología, y que, para lograrlo, suele necesitar **capital externo**. Kerr, Nanda y Rhodes-Kropf describen el emprendimiento como **experimentación**: la mayoría de las ideas fallan, el aprendizaje es el producto, y la clave económica es probar muchas cosas con costos bajos y escalar las que funcionan. Para el founder, el riesgo principal es **gastar capital antes de probar la demanda**; el potencial, un resultado desproporcionado si el modelo funciona. Wasserman recuerda que las decisiones tempranas sobre socios, propiedad y capital son difíciles de revertir y que los fundadores enfrentan dilemas entre riqueza y control (clase 251).
 
-### 3. business owner: operacionalización y medición
+### 5. Dependencia del tiempo y activos acumulables
 
-**business owner** significa **propietario de un sistema empresarial que puede operar con otros líderes**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Una pregunta clave es: **¿cuánto de mi ingreso depende de mi tiempo?** En el freelance, casi todo; en el empresario, parte; en el founder, idealmente poco al cabo de unos años, aunque al comienzo el fundador trabaja más que nadie. La pregunta complementaria es: **¿qué activos acumulo mientras trabajo?** Un freelance acumula reputación y relaciones; un empresario, clientes recurrentes, procesos y marca; un founder, producto, datos, tecnología, equipo y, si hay inversión, participación en una empresa de valor creciente. Un modelo en el que todo lo que se construye desaparece cuando se deja de trabajar es un **empleo bien pagado**; uno en el que se construyen activos que siguen produciendo es un **negocio**. Ambos son válidos, pero distintos.
 
-Bill Aulet — *Disciplined Entrepreneurship* orienta este bloque mediante **secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **owner dependency**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Riesgo, capital y estilo de vida
 
-Al llegar a identificar activos acumulables, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cada modelo tiene un perfil de riesgo y capital. El freelance arriesga poco capital y tiempo de búsqueda de clientes; el empresario arriesga capital de inversión y compromisos con empleados y proveedores; el founder arriesga capital propio o ajeno y años de trabajo con alta probabilidad de fracaso, a cambio de un retorno potencialmente grande. Hay que ver también el **estilo de vida**: horarios, estrés, estabilidad, vida familiar, tolerancia a la incertidumbre, deseo de liderar equipos. Las **obligaciones** (deuda, personas a cargo) limitan la capacidad de asumir riesgo. Sarasvathy describe a los emprendedores expertos como personas que parten de **los medios que tienen** (quiénes son, qué saben, a quiénes conocen) y de la **pérdida asumible**, en lugar de fijar una meta y buscar los recursos; es un buen criterio para empezar con lo que hay.
 
-### 4. self-employment: trade-offs y efectos de segundo orden
+### 7. Decidir con una matriz y experimentar barato
 
-**Definición:** trabajo por cuenta propia donde ingreso depende fuertemente del trabajo personal. Este concepto obliga a abandonar la idea de que **founder versus freelance versus empresario** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de comparar riesgo y capital, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-David J. Bland & Alexander Osterwalder — *Testing Business Ideas* aporta una lente sobre **hipótesis de negocio, experimentos, evidencia y reducción de riesgo**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **gross margin** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **founder versus freelance versus empresario**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **self-employment** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. scalability: gobernanza, límites e integración
-
-**scalability** se define como **capacidad de crecer output o ingresos sin crecimiento proporcional de esfuerzo** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Alexander Osterwalder et al. — *Value Proposition Design* se utiliza para estudiar **perspectiva de Producto aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar seleccionar modelo y transición, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No existe jerarquía moral: un freelance rentable puede ser mejor que una startup de alto burn. El modelo debe alinearse con metas, riesgo y estilo de vida.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **freelancer**, **founder**, **business owner**, **self-employment** y **scalability** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **founder versus freelance versus empresario** no consiste en sumar cinco definiciones. Empieza por **freelancer**, contrasta **founder** con **business owner**, incorpora **self-employment** como restricción o mecanismo y usa **scalability** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir objetivo personal y económico → 2. mapear dependencia de tiempo → 3. identificar activos acumulables → 4. comparar riesgo y capital → 5. seleccionar modelo y transición**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Una forma práctica de decidir es una **matriz ponderada**: se listan los criterios (ingresos estables, acumulación de patrimonio, autonomía, riesgo, escalabilidad, aprendizaje), se ponderan según las metas personales y se califica cada modelo. Luego se hace una **prueba de sensibilidad**: si los pesos cambian, ¿la elección cambia? Si cambia con facilidad, la decisión es frágil y conviene recoger más información. La mejor respuesta suele ser un **experimento barato**: un proyecto freelance para probar un servicio, una preventa, una prueba con cinco clientes; así se aprende sobre demanda, sobre uno mismo y sobre el trabajo, sin comprometer ahorros ni carrera. Se fija de antemano qué evidencia haría avanzar, ajustar o detener.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Steve Blank — *The Four Steps to the Epiphany* | customer development y búsqueda sistemática de un modelo de negocio | ¿Qué supuesto de **founder versus freelance versus empresario** ayuda a desafiar? |
-| Alexander Osterwalder & Yves Pigneur — *Business Model Generation* | diseño de modelos de negocio mediante propuesta, clientes, recursos y economía | ¿Qué supuesto de **founder versus freelance versus empresario** ayuda a desafiar? |
-| Bill Aulet — *Disciplined Entrepreneurship* | secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio | ¿Qué supuesto de **founder versus freelance versus empresario** ayuda a desafiar? |
-| David J. Bland & Alexander Osterwalder — *Testing Business Ideas* | hipótesis de negocio, experimentos, evidencia y reducción de riesgo | ¿Qué supuesto de **founder versus freelance versus empresario** ayuda a desafiar? |
-| Alexander Osterwalder et al. — *Value Proposition Design* | perspectiva de Producto aplicada al problema de la clase | ¿Qué supuesto de **founder versus freelance versus empresario** ayuda a desafiar? |
-
-En **founder versus freelance versus empresario**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **freelancer**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Evans y Jovanovic | Decisión de emprender y restricciones de liquidez. | Modelo económico estilizado. | ¿Qué capital propio tengo y cuánto puedo perder? |
+| Kerr, Nanda y Rhodes-Kropf | Emprendimiento como experimentación con opciones. | No guía la elección personal. | ¿Qué experimento barato puedo hacer primero? |
+| Sarasvathy | *Effectuation*: partir de los medios y la pérdida asumible. | Estudio de emprendedores expertos. | ¿Con qué medios cuento hoy? |
+| Gerber | El negocio como sistema y no como extensión del dueño. | Enfoque en pequeños negocios. | ¿Funciona sin mí? |
+| Wasserman | Dilemas de riqueza y control de los fundadores. | Evidencia de ciertos mercados. | ¿Qué decisión temprana es difícil de revertir? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un consultor factura bien y se llama startup, pero 100% de ingresos depende de horas del fundador y cada venta crea más trabajo manual.
+**Situación (hipotética).** Una diseñadora con seis años de experiencia, ahorros de 18 millones de pesos y dos hijos pequeños piensa en tres caminos: seguir como *freelance*, abrir una agencia pequeña o crear una empresa de software para diseñadores que busque financiamiento.
 
-**Paso 1 — definir objetivo personal y económico.** La gerencia escribe primero el supuesto asociado a **freelancer** y evita convertirlo en hecho. Luego busca **revenue per owner hour** para contrastarlo en el caso de **founder versus freelance versus empresario**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Economía básica del *freelance*.** Cobra 45.000 pesos por hora y factura 100 horas al mes: 4,5 millones al mes, 54 millones al año. Si sube su tarifa 20 %: 54.000 pesos la hora, 5,4 millones al mes (64,8 millones al año) con las mismas horas. Con paquetes de precio fijo de 1,2 millones por proyecto de 20 horas (60.000 pesos la hora gracias a plantillas y a un proceso mejor), cinco proyectos al mes dan 6 millones con las mismas 100 horas. El ingreso está limitado por las horas y por su capacidad de captar clientes.
 
-**Paso 2 — mapear dependencia de tiempo.** La gerencia escribe primero el supuesto asociado a **founder** y evita convertirlo en hecho. Luego busca **recurring revenue** para contrastarlo en el caso de **founder versus freelance versus empresario**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Matriz ponderada (calificaciones de 1 a 5).**
 
-**Paso 3 — identificar activos acumulables.** La gerencia escribe primero el supuesto asociado a **business owner** y evita convertirlo en hecho. Luego busca **owner dependency** para contrastarlo en el caso de **founder versus freelance versus empresario**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Criterio | Freelance | Agencia pequeña | Startup de software |
+|---|---|---|---|
+| Ingresos estables en 2 años | 5 | 3 | 1 |
+| Acumulación de patrimonio | 2 | 4 | 5 |
+| Autonomía | 4 | 3 | 3 |
+| Riesgo (5 = bajo) | 4 | 3 | 1 |
+| Escalabilidad | 1 | 3 | 5 |
 
-**Paso 4 — comparar riesgo y capital.** La gerencia escribe primero el supuesto asociado a **self-employment** y evita convertirlo en hecho. Luego busca **gross margin** para contrastarlo en el caso de **founder versus freelance versus empresario**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Primer juego de pesos (estabilidad familiar):** ingresos 30 %, patrimonio 25 %, autonomía 15 %, riesgo 20 %, escalabilidad 10 %.
 
-**Paso 5 — seleccionar modelo y transición.** La gerencia escribe primero el supuesto asociado a **scalability** y evita convertirlo en hecho. Luego busca **customer concentration** para contrastarlo en el caso de **founder versus freelance versus empresario**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Freelance: 0,30×5 + 0,25×2 + 0,15×4 + 0,20×4 + 0,10×1 = 1,50 + 0,50 + 0,60 + 0,80 + 0,10 = **3,50**
+- Agencia: 0,90 + 1,00 + 0,45 + 0,60 + 0,30 = **3,25**
+- Startup: 0,30 + 1,25 + 0,45 + 0,20 + 0,50 = **2,70**
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **founder versus freelance versus empresario**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Segundo juego de pesos (ambición de construir):** ingresos 10 %, patrimonio 35 %, autonomía 15 %, riesgo 10 %, escalabilidad 30 %.
+
+- Freelance: 0,50 + 0,70 + 0,60 + 0,40 + 0,30 = **2,50**
+- Agencia: 0,30 + 1,40 + 0,45 + 0,30 + 0,90 = **3,35**
+- Startup: 0,10 + 1,75 + 0,45 + 0,10 + 1,50 = **3,90**
+
+**Lectura.** La elección **cambia por completo** según las metas: con estabilidad como prioridad gana el *freelance*; con ambición de construir, la startup. La decisión es sensible a las metas personales, no a la idea.
+
+**Capital en riesgo.** Con ahorros de 18 millones y gastos familiares de 1,6 millones al mes, la diseñadora tiene 11 meses de reserva sin ingresos. Una startup que no genera ingresos en ese plazo es inviable sin capital externo; por eso se decide un **camino escalonado**.
+
+**Experimento barato (90 días).** Mantener el *freelance* a 60 horas al mes (2,7 millones) y dedicar 40 horas al mes a validar una herramienta para diseñadores: entrevistar a 20 colegas, ofrecer una preventa de 30 licencias a 120.000 pesos cada una (3,6 millones si se venden todas) y registrar el compromiso real. Reglas: avanzar si al menos 12 de 30 licencias se pagan por adelantado (40 %); ajustar si se venden entre 5 y 11; detener si menos de 5. La pérdida máxima es el tiempo y unos 600.000 pesos.
+
+**Resultado hipotético.** Se pagan 14 licencias: 1,68 millones; se avanza a una versión mínima con financiamiento propio y el *freelance* como base de ingresos, con una nueva revisión a los seis meses.
+
+**Cuidados.** Las decisiones sobre dedicación, ahorros y socios afectan a la familia y se hablan con las personas implicadas; los aspectos tributarios, de seguridad social y legales de cada modelo se verifican con asesoría y en fuentes oficiales; las cifras son ilustrativas.
+
+**Qué muestra.** (1) Las metas decidieron la elección. (2) La prueba de sensibilidad mostró la fragilidad. (3) El experimento limitó la pérdida y generó evidencia.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **freelancer** | persona que vende servicios profesionales directamente | Cuando revenue per owner hour es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **founder** | persona que crea y asume riesgo inicial de una nueva empresa | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Founder frente a empresario.** El founder busca un modelo escalable y suele necesitar capital externo; el empresario construye un negocio estable con crecimiento moderado. Ninguno es superior: responden a metas distintas.
 
-**Frontera de aplicación:** No existe jerarquía moral: un freelance rentable puede ser mejor que una startup de alto burn. El modelo debe alinearse con metas, riesgo y estilo de vida.
+**Límites.** No existe jerarquía moral: un *freelance* rentable puede ser mejor que una startup de alto consumo de caja. La estadística de éxito de los emprendimientos es incierta y depende del contexto. Las matrices ponderadas son subjetivas. Las decisiones personales dependen de obligaciones y de apoyo. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre founder versus freelance versus empresario |
+| Nivel | Cómo se relaciona con el emprendimiento |
 |---|---|
-| **Profesional** | usa **founder versus freelance versus empresario** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **freelancer** y **founder** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta revenue per owner hour con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si founder versus freelance versus empresario cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de founder versus freelance versus empresario reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **founder versus freelance versus empresario** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aprende un oficio y construye reputación y red. |
+| **Jefe / Team Lead** | Aprende a liderar y a ver el negocio completo. |
+| **Gerente** | Aprende de finanzas, ventas y decisiones de capital. |
+| **CEO / Director** | Aprende a gobernar un negocio con riesgo y capital ajeno. |
+| **Founder / Owner** | Elige un modelo, asume el riesgo y construye activos propios. |
 
 ## 🏢 Caso ejecutivo
 
-Un consultor factura bien y se llama startup, pero 100% de ingresos depende de horas del fundador y cada venta crea más trabajo manual.
+Un ingeniero de 34 años, jefe de proyectos en una empresa de tecnología con un salario de 4,2 millones de pesos al mes, ahorros de 24 millones y una hipoteca de 650.000 pesos mensuales, evalúa tres caminos: (a) ofrecer consultoría independiente a las empresas que ya conoce (potencial de 6 millones al mes, con contratos intermitentes); (b) abrir con un socio una empresa de mantenimiento industrial con una inversión inicial de 45 millones (créditos de 25 millones) y márgenes de 18 %; (c) fundar una empresa de software para gestión de activos industriales, que requiere dos años de desarrollo y capital externo de 400 millones. Su pareja está embarazada; él disfruta liderar equipos pero no vender; tiene una oferta interna de ascenso a gerente con 5,6 millones al mes. Un mentor le dice «si no te lanzas ahora, te arrepentirás»; otro, «con tu situación, no lo hagas». Un amigo de la universidad propone ser su cofundador en la opción (c).
 
-Entrega un **decision brief de founder versus freelance versus empresario** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de decisión de founder** que contenga: (a) las metas personales, económicas y de riesgo, con la capacidad de pérdida en pesos y en meses de reserva; (b) la comparación de las cuatro alternativas (incluido el ascenso) por dependencia de tiempo, activos acumulables, riesgo y capital; (c) la matriz ponderada con dos juegos de pesos y la lectura de la sensibilidad; (d) el diseño de un experimento barato de 90 días con criterios de avance, ajuste y detención; (e) los aspectos familiares, tributarios, de seguridad social y legales a verificar; (f) la decisión recomendada y su fecha de revisión.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **founder versus freelance versus empresario** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir objetivo personal y económico → 2. mapear dependencia de tiempo → 3. identificar activos acumulables → 4. comparar riesgo y capital → 5. seleccionar modelo y transición** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta revenue per owner hour, recurring revenue; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe tus metas de cinco años en ingresos, patrimonio, autonomía y riesgo, con números.
+2. Calcula cuántos meses de reserva tienes si no hubiera ingresos y cuánto puedes perder sin dañar tu vida.
+3. Califica tres modelos en cinco criterios con dos juegos de pesos y observa si la elección cambia.
+4. Diseña un experimento de 90 días con una pérdida máxima definida.
+5. Lista tres activos que acumularías en cada modelo y cuáles dependen de tu tiempo.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar freelancer y founder como sinónimos | Se pierde la distinción entre “persona que vende servicios profesionales directamente” y “persona que crea y asume riesgo inicial de una nueva empresa” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “seleccionar modelo y transición” | Se saltó “definir objetivo personal y económico” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir objetivo personal y económico → 2. mapear dependencia de tiempo → 3. identificar activos acumulables → 4. comparar riesgo y capital → 5. seleccionar modelo y transición y marca el primer supuesto no demostrado. |
-| Optimizar solo revenue per owner hour | La métrica local sustituyó al resultado del sistema | Contrástala con recurring revenue y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre founder versus freelance versus empresario | No existe jerarquía moral: un freelance rentable puede ser mejor que una startup de alto burn. El modelo debe alinearse con metas, riesgo y estilo de vida. |
-| No fijar revisión | Una decisión sobre founder versus freelance versus empresario se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Partir de la idea y no de las metas | Entusiasmo por una oportunidad | Definir metas y riesgo antes. |
+| Creer que un modelo es superior | Jerarquías sociales | Alinear el modelo con las metas. |
+| Ignorar la liquidez | Se subestiman los gastos | Calcular meses de reserva y pérdida asumible. |
+| Comprometerse sin experimentar | Se quiere «dar el salto» | Experimento barato con criterios. |
+| Negocio que depende del dueño | Falta de sistema | Diseñar procesos y delegar. |
+| Decidir solo | Se evita la conversación | Involucrar a la familia y a asesores. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **freelancer** y **founder** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **business owner** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir objetivo personal y económico → mapear dependencia de tiempo** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **revenue per owner hour** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **founder versus freelance versus empresario**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No existe jerarquía moral: un freelance rentable puede ser mejor que una startup de alto burn. El modelo debe alinearse con metas, riesgo y estilo de vida.**?
+1. ¿Qué distingue a un *freelance*, un empresario y un *founder*?
+2. ¿Por qué se parte de las metas y no de la idea?
+3. ¿Qué es la dependencia del tiempo y por qué importa?
+4. ¿Qué activos se acumulan en cada modelo?
+5. ¿Qué significa emprender como experimentación?
+6. ¿Para qué sirve una prueba de sensibilidad en la matriz?
+7. ¿Qué características tiene un buen experimento barato?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El freelance vende tiempo y reputación; el empresario dirige un negocio con equipo y procesos; el founder diseña un modelo repetible y escalable, a menudo con capital externo.
+2. Porque las metas y el riesgo asumible filtran qué modelos tienen sentido y evitan elegir un camino que no se alinea con la vida que se quiere.
+3. Es cuánto de los ingresos depende de las propias horas; determina el límite del crecimiento y la vulnerabilidad.
+4. Freelance: reputación y red; empresario: clientes recurrentes, procesos, marca y equipo; founder: producto, datos, tecnología, equipo y participación en la empresa.
+5. Probar muchas ideas con costos bajos, aprender de cada una y escalar las que funcionan.
+6. Para ver si la elección cambia con otras prioridades; si cambia con facilidad, la decisión es frágil y requiere más información.
+7. Costo y pérdida máxima acotados, evidencia de compromiso real, criterios previos de avanzar, ajustar o detener, y plazo definido.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/241-founder-versus-freelance-versus-empresario/`:
 
-- `founder-owner-decision-brief.md` con el problema específico de **founder versus freelance versus empresario**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **founder versus freelance versus empresario** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **freelancer**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un consultor factura bien y se llama startup, pero 100% de ingresos depende de horas del fundador y cada venta crea más trabajo manual.** y el dato que podría invalidar la recomendación.
+- `founder-owner-decision-brief.md` (plantilla [Founder owner decision brief](../../../../templates/founder-owner-decision-brief.md)) con el memo del caso ejecutivo;
+- `cash-runway.md` (plantilla [Cash runway](../../../../templates/cash-runway.md)) con la reserva personal y la pérdida asumible;
+- `decision-journal.md` con las metas, la matriz, el experimento y las verificaciones pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Steve Blank — *The Four Steps to the Epiphany* ([Steve Blank?], 2013). **Uso en esta clase:** customer development y búsqueda sistemática de un modelo de negocio. Lectura selectiva sobre **founder versus freelance versus empresario**. **Localizador:** [ISBN-13 9780989200509](https://openlibrary.org/isbn/9780989200509).
-- Alexander Osterwalder & Yves Pigneur — *Business Model Generation* (Wiley , 2010). **Uso en esta clase:** diseño de modelos de negocio mediante propuesta, clientes, recursos y economía. Lectura selectiva sobre **founder versus freelance versus empresario**. **Localizador:** [ISBN-13 9780470876411](https://openlibrary.org/isbn/9780470876411).
-- Bill Aulet — *Disciplined Entrepreneurship* (John Wiley & Sons, Incorporated, 2013). **Uso en esta clase:** secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio. Lectura selectiva sobre **founder versus freelance versus empresario**. **Localizador:** [ISBN-13 9781299848641](https://openlibrary.org/isbn/9781299848641).
-- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** hipótesis de negocio, experimentos, evidencia y reducción de riesgo. Lectura selectiva sobre **founder versus freelance versus empresario**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
-- Alexander Osterwalder et al. — *Value Proposition Design* (John Wiley & Sons, Incorporated, 2014). **Uso en esta clase:** perspectiva de Producto aplicada al problema de la clase. Lectura selectiva sobre **founder versus freelance versus empresario**. **Localizador:** [ISBN-13 9781118968062](https://openlibrary.org/isbn/9781118968062).
-- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **founder versus freelance versus empresario**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **founder versus freelance versus empresario** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **founder versus freelance versus empresario**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **founder versus freelance versus empresario** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **founder versus freelance versus empresario** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **founder versus freelance versus empresario** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- David S. Evans & Boyan Jovanovic — *An Estimated Model of Entrepreneurial Choice under Liquidity Constraints* (Journal of Political Economy, 1989). **Uso en esta clase:** decisión de emprender y restricciones de liquidez. Lectura selectiva sobre **founder versus freelance versus empresario**. **Localizador:** [DOI 10.1086/261629](https://doi.org/10.1086/261629).
+- William R. Kerr, Ramana Nanda & Matthew Rhodes-Kropf — *Entrepreneurship as Experimentation* (Journal of Economic Perspectives, 2014). **Uso en esta clase:** emprendimiento como experimentación con opciones. Lectura selectiva sobre **founder versus freelance versus empresario**. **Localizador:** [DOI 10.1257/jep.28.3.25](https://doi.org/10.1257/jep.28.3.25).
+- Saras D. Sarasvathy — *Causation and Effectuation: Toward a Theoretical Shift from Economic Inevitability to Entrepreneurial Contingency* (The Academy of Management Review, 2001). **Uso en esta clase:** effectuation: partir de los medios y la pérdida asumible. Lectura selectiva sobre **founder versus freelance versus empresario**. **Localizador:** [DOI 10.2307/259121](https://doi.org/10.2307/259121).
+- Michael E. Gerber — *The E-Myth Revisited* (HarperAudio, 1995). **Uso en esta clase:** el negocio como sistema y no como extensión del dueño. Lectura selectiva sobre **founder versus freelance versus empresario**. **Localizador:** [ISBN-13 9780060574901](https://openlibrary.org/isbn/9780060574901).
+- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilemas de riqueza y control de los fundadores. Lectura selectiva sobre **founder versus freelance versus empresario**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
 
-> **Regla de fuentes para Founder versus freelance versus empresario:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **founder versus freelance versus empresario** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Founder versus freelance versus empresario:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas tributarias, de seguridad social y de sociedades aplicables a cada modelo. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

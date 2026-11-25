@@ -10,217 +10,202 @@
 
 ## 🎯 Propósito
 
-Customer discovery para founder debe producir evidencia que cambie una decisión de negocio: problema, buyer, user, trigger, proceso de compra, alternativas y willingness to pay. La disciplina es buscar contradicciones, no acumular cumplidos.
+Casi todos los fundadores hacen entrevistas con clientes potenciales, y casi todos salen de ellas con la misma conclusión: «les encantó». Es una conclusión peligrosa, porque se construye sobre cortesía. Las personas responden con amabilidad a quien les cuenta una idea con entusiasmo: dicen que sería útil, que lo usarían, que conocen a alguien a quien le interesaría. Nada de eso cuesta nada, nada de eso predice una compra. El **descubrimiento de clientes** (*customer discovery*) bien hecho es lo contrario de una venta: es una investigación para entender **qué hacen realmente las personas**, qué problemas enfrentan, qué han intentado, cuánto les cuesta y qué gastan hoy, con preguntas que no inducen la respuesta y que se centran en **episodios recientes y concretos**, no en opiniones ni en intenciones futuras.
 
-La salida de esta parte es **descubrir, validar y lanzar una empresa antes de escalarla**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **customer discovery** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta un método para formular hipótesis de cliente y problema, entrevistar sobre episodios reales, distinguir comprador, usuario y proceso de compra, medir severidad y alternativas, y tomar decisiones con criterios previos. Se apoya en Blank, que formuló el descubrimiento de clientes como la primera etapa de un emprendimiento, en Fitzpatrick (*The Mom Test*), que enseña a hacer preguntas que producen verdad en lugar de cortesía, en Torres sobre hábitos de descubrimiento continuo, en el marco de los trabajos por hacer de Christensen y colaboradores y en las preguntas de situación y problema de Rackham. Al terminar sabrás preparar, conducir y analizar entrevistas, registrar evidencia por categorías y decidir con reglas claras si el problema merece continuar.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `buyer`, `user`, `trigger`, `buying process`, `willingness to pay` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de founder.
-3. **Aplicar** la secuencia **1. formular hipótesis de cliente y problema → 2. entrevistar episodios recientes → 3. mapear buyer user y process → 4. testear severity y spend → 5. actualizar hipótesis y segmentación** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** interviews, buyer clarity, current spend sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Formular** hipótesis de cliente y de problema que se puedan refutar.
+2. **Conducir** entrevistas sobre episodios recientes sin inducir respuestas.
+3. **Distinguir** comprador, usuario e influenciador, y mapear el proceso de compra.
+4. **Registrar y analizar** la evidencia por tipo y por fuerza.
+5. **Decidir** con criterios previos si continuar, cambiar de segmento o descartar.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define buyer y user sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con interviews y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué te dijo la última persona que entrevistaste y qué de eso fue un hecho y qué una cortesía? |
+| 20–60 min | Hipótesis, preguntas, episodios, comprador y usuario, severidad, análisis y decisión. |
+| 60–105 min | Ejemplo trabajado: 15 entrevistas, evidencia clasificada y regla de decisión. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **buyer** | persona o función que autoriza gasto | Distingue un hecho compatible y otro que lo refute. |
-| **user** | persona que usa o experimenta la solución | Distingue un hecho compatible y otro que lo refute. |
-| **trigger** | evento que activa búsqueda o compra | Distingue un hecho compatible y otro que lo refute. |
-| **buying process** | pasos y actores que llevan a decisión | Distingue un hecho compatible y otro que lo refute. |
-| **willingness to pay** | disposición revelada o declarada a intercambiar dinero por valor | Distingue un hecho compatible y otro que lo refute. |
+| **Descubrimiento de clientes** | Investigación para entender problemas, contexto y comportamiento antes de construir. | Entrevistas, observación, datos. |
+| **Episodio reciente** | Situación concreta vivida por la persona hace poco. | «La última vez que…». |
+| **Comprador** | Quien decide y paga. | Tiene presupuesto y autoridad. |
+| **Usuario** | Quien usa la solución. | Sufre el problema en su trabajo. |
+| **Severidad** | Intensidad del problema y de sus consecuencias. | Costo, frecuencia y urgencia. |
+| **Evidencia fuerte** | Hechos, compromisos y datos, no opiniones. | Gasto actual, tiempo, documentos. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 243: 1. formular hipótesis de cliente y problema → 2. entrevistar episodios recientes → 3. mapear buyer user y process → 4. testear severity y spend → 5. actualizar hipótesis y segmentación](modelo-mental.svg)
+![Descubrir al cliente con episodios reales: hipótesis, episodios recientes, comprador y usuario, severidad y alternativas, decidir.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. formular hipótesis de cliente y problema → 2. entrevistar episodios recientes → 3. mapear buyer user y process → 4. testear severity y spend → 5. actualizar hipótesis y segmentación
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Customer discovery para founder debe producir evidencia que cambie una decisión de negocio: problema, buyer, user, trigger, proceso de compra, alternativas y willingness to pay. La disciplina es buscar contradicciones, no acumular cumplidos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Entrevistar hasta oír repetición no prueba mercado. Discovery cualitativo debe complementarse con datos de demanda, tamaño y experimentos de compromiso.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos con retorno. **Hipótesis**: qué creemos del cliente y del problema. **Episodios recientes**: qué hicieron la última vez, no qué harían. **Comprador y usuario**: quién usa, quién decide y quién paga. **Severidad y alternativas**: cuánto duele y qué usan hoy. **Decidir**: continuar, cambiar de segmento o descartar. La flecha indica que lo aprendido reescribe la hipótesis. La nota advierte que entrevistar hasta oír repetición no prueba el mercado y que el descubrimiento cualitativo se complementa con datos de demanda y experimentos de compromiso; el pie, que las opiniones y los halagos no son evidencia.
 
 ## 📖 Desarrollo
 
-### 1. buyer: mecanismo central
+### 1. Qué es el descubrimiento y qué no es
 
-**buyer** se entiende aquí como **persona o función que autoriza gasto**. Esta es la pieza causal o estructural desde la que se inicia **customer discovery**: antes de formular hipótesis de cliente y problema, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Blank describe el descubrimiento de clientes como la primera etapa del desarrollo de clientes: antes de construir, se **formulan hipótesis** sobre quién es el cliente, qué problema tiene y cómo lo resuelve, y se **salen a probar** con conversaciones y observación. No es una encuesta (que pregunta lo que se cree que importa), ni una demostración (que presenta lo que ya se decidió), ni una venta (que busca un sí). Es una **investigación** cuyo éxito se mide por lo que se aprende, incluido que la hipótesis estaba equivocada. Una entrevista en la que el fundador habla más del 20 % del tiempo probablemente es una venta disfrazada. El objetivo es entender la **realidad** del cliente, no obtener su aprobación.
 
-La lectura rectora de este bloque es Steve Blank — *The Four Steps to the Epiphany*. Su aporte se usa para examinar **customer development y búsqueda sistemática de un modelo de negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **interviews**; regístrala con periodo, unidad, población y baseline.
+### 2. Preguntas que producen verdad
 
-Relaciona el mecanismo con **user**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Fitzpatrick formula tres reglas para conversaciones que no engañan: hablar de **la vida del cliente** y no de tu idea; preguntar por **hechos pasados** y no por opiniones o intenciones futuras; y **hablar menos y escuchar más**. Los tres errores típicos son los **halagos** («me encanta tu idea»), las **generalidades** («siempre me pasa») y las **hipótesis** («creo que lo usaría»). Preguntas útiles: «¿Cuándo fue la última vez que te pasó?», «¿Qué hiciste?», «¿Cuánto tiempo te tomó?», «¿Qué más intentaste?», «¿Cuánto te costó?», «¿Por qué no lo resolviste antes?», «¿Con quién más hablas de esto?». Preguntas que conviene evitar: «¿Te gustaría una herramienta que…?», «¿Pagarías por…?», «¿Cuánto pagarías?». Rackham agrega la distinción entre preguntas de **situación**, de **problema**, de **implicancia** y de **necesidad de solución**, útil para profundizar en las consecuencias del problema.
 
-### 2. user: frontera conceptual y error de clasificación
+### 3. Episodios recientes: el material más confiable
 
-**Definición operacional:** persona que usa o experimenta la solución. Su valor está en distinguirlo de **buyer** y **trigger**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La memoria de lo que una persona haría en el futuro es poco confiable; la de lo que **hizo hace poco** es más precisa. Por eso se pide narrar episodios: «Cuéntame la última vez que cerraste el mes y conciliaste las facturas: ¿qué pasó primero?, ¿con qué herramientas?, ¿qué salió mal?, ¿cuánto tardaste?». Christensen y colaboradores sostienen que las personas «contratan» productos para hacer un **trabajo** en una situación específica; los episodios revelan la situación, la motivación, las alternativas y los obstáculos. Se pide, siempre que sea posible, **ver** (una pantalla, un documento, una planilla) y **cuantificar** (horas, montos, frecuencias). Se registran las citas literales y los datos, y se separan de las interpretaciones del entrevistador.
 
-Contrasta el problema con Alexander Osterwalder & Yves Pigneur — *Business Model Generation*, que aporta una mirada sobre **diseño de modelos de negocio mediante propuesta, clientes, recursos y economía**. Formula dos mini-casos: uno que sí satisface la definición de **user** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **buyer clarity** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Comprador, usuario y proceso de compra
 
-Antes de entrevistar episodios recientes, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Una trampa frecuente es entrevistar solo al **usuario** (quien sufre el problema), que suele entusiasmarse pero no tiene presupuesto. Hay que identificar a todos los roles: **usuario** (quien usa), **comprador** (quien decide y paga), **influenciador** (quien opina o veta, como tecnología o legal) y a veces un **bloqueador**. Se mapea el **proceso de compra**: quién lo inicia, qué criterios usa, qué aprobaciones requiere, cuánto tarda, qué presupuesto existe y qué alternativas evalúa. La conversación con el comprador cambia: interesa el **costo del problema** para la organización, el **retorno** esperado y el **riesgo** de cambiar. Torres recomienda conversar con frecuencia con ambos roles para entender no solo el dolor, sino el contexto de decisión.
 
-### 3. trigger: operacionalización y medición
+### 5. Severidad y alternativas
 
-**trigger** significa **evento que activa búsqueda o compra**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Se evalúa qué tan **severo** es el problema: ¿cuánto tiempo o dinero cuesta?, ¿con qué frecuencia?, ¿qué ocurre si no se resuelve?, ¿es urgente o puede esperar? Un problema severo suele mostrar **conductas**: la persona ya buscó soluciones, ya gastó tiempo o dinero, usa parches creativos. Si no hay conductas, el problema probablemente no es lo bastante importante. Se registran las **alternativas actuales**, incluida la de no hacer nada, y por qué no satisfacen. Blank advierte que el principal competidor de una startup suele ser el **statu quo**. Se puntúa cada entrevista con criterios predefinidos (por ejemplo, severidad de 1 a 5, con evidencia que la sustente) para evitar que el entusiasmo del fundador infle la interpretación.
 
-Eric Ries — *The Lean Startup* orienta este bloque mediante **build-measure-learn, MVP y aprendizaje validado**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **current spend**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Registrar, analizar y contar con honestidad
 
-Al llegar a mapear buyer user y process, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Se mantiene un **registro** estructurado de cada entrevista: perfil, rol, fecha, episodios, cuantificaciones, alternativas, citas, compromisos y señales de alerta. Se codifica la evidencia por **fuerza**: hechos y conductas (fuerte), compromisos (muy fuerte), opiniones (débil), halagos y hipótesis (ruido). Se buscan **patrones** entre entrevistas, no anécdotas llamativas. Se cuenta **honestamente**: cuántas personas describieron el problema sin que se les guiara, cuántas gastan hoy, cuántas cumplieron un compromiso pequeño. Y se evita el error de **entrevistar hasta oír repetición** y concluir que existe un mercado: la repetición de un dolor entre personas accesibles no prueba que haya suficientes clientes que paguen; se necesita **tamaño** (clase 242) y pruebas de **demanda** (clase 247).
 
-### 4. buying process: trade-offs y efectos de segundo orden
+### 7. Decidir con criterios previos
 
-**Definición:** pasos y actores que llevan a decisión. Este concepto obliga a abandonar la idea de que **customer discovery** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de testear severity y spend, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Alexander Osterwalder et al. — *Value Proposition Design* aporta una lente sobre **perspectiva de Producto aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **trigger recurrence** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **customer discovery**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **buying process** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. willingness to pay: gobernanza, límites e integración
-
-**willingness to pay** se define como **disposición revelada o declarada a intercambiar dinero por valor** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Peter F. Drucker — *The Effective Executive* se utiliza para estudiar **efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo** y contrastar la recomendación final. Al ejecutar actualizar hipótesis y segmentación, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Entrevistar hasta oír repetición no prueba mercado. Discovery cualitativo debe complementarse con datos de demanda, tamaño y experimentos de compromiso.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **buyer**, **user**, **trigger**, **buying process** y **willingness to pay** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **customer discovery** no consiste en sumar cinco definiciones. Empieza por **buyer**, contrasta **user** con **trigger**, incorpora **buying process** como restricción o mecanismo y usa **willingness to pay** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. formular hipótesis de cliente y problema → 2. entrevistar episodios recientes → 3. mapear buyer user y process → 4. testear severity y spend → 5. actualizar hipótesis y segmentación**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Antes de empezar se fijan los **criterios de decisión**: por ejemplo, «continuar si al menos 8 de 15 describen el problema con un episodio concreto en los últimos tres meses, al menos 5 gastan hoy tiempo o dinero para resolverlo y al menos 4 aceptan un compromiso pequeño (datos, introducción, piloto)». Las decisiones posibles son: **continuar** con la misma hipótesis y pasar a validar la solución; **cambiar** (de segmento, problema o propuesta) con lo aprendido; o **descartar** y volver a la lista. Falsar una hipótesis no es un fracaso: es información barata. Se documenta qué se esperaba, qué se encontró y qué se decide. Y se mantiene un **ritmo** de conversación con clientes durante todo el desarrollo, no solo al comienzo.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Steve Blank — *The Four Steps to the Epiphany* | customer development y búsqueda sistemática de un modelo de negocio | ¿Qué supuesto de **customer discovery** ayuda a desafiar? |
-| Alexander Osterwalder & Yves Pigneur — *Business Model Generation* | diseño de modelos de negocio mediante propuesta, clientes, recursos y economía | ¿Qué supuesto de **customer discovery** ayuda a desafiar? |
-| Eric Ries — *The Lean Startup* | build-measure-learn, MVP y aprendizaje validado | ¿Qué supuesto de **customer discovery** ayuda a desafiar? |
-| Alexander Osterwalder et al. — *Value Proposition Design* | perspectiva de Producto aplicada al problema de la clase | ¿Qué supuesto de **customer discovery** ayuda a desafiar? |
-| Peter F. Drucker — *The Effective Executive* | efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo | ¿Qué supuesto de **customer discovery** ayuda a desafiar? |
-
-En **customer discovery**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **buyer**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Blank | Descubrimiento de clientes como etapa previa a construir. | Marco de startups tecnológicas. | ¿Qué hipótesis voy a probar? |
+| Fitzpatrick | Preguntas que producen hechos y evitan cortesías. | No da criterios de mercado. | ¿Qué hecho aprendí, no qué opinión? |
+| Torres | Descubrimiento continuo y mapas de oportunidades. | Orientado a equipos de producto. | ¿Con quién hablé esta semana? |
+| Christensen y otros | Trabajos por hacer y situaciones de compra. | Marco conceptual. | ¿Qué progreso intenta lograr? |
+| Rackham | Preguntas de situación, problema, implicancia y necesidad. | Diseñado para ventas complejas. | ¿Qué consecuencia tiene el problema? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Diez usuarios aman la idea, pero procurement exige seguridad y el CFO es quien firma. El founder nunca habló con ninguno de esos actores.
+**Situación (hipotética).** Un fundador explora un servicio para conciliar facturas y guías de despacho en empresas de transporte (problema elegido en la clase 242). Formula la hipótesis: «Los jefes de operaciones de transportistas con más de 10 camiones pierden al menos tres horas por semana conciliando guías con facturas, ya gastan en resolverlo y pagarían por una solución».
 
-**Paso 1 — formular hipótesis de cliente y problema.** La gerencia escribe primero el supuesto asociado a **buyer** y evita convertirlo en hecho. Luego busca **interviews** para contrastarlo en el caso de **customer discovery**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Criterios de decisión fijados antes.** Continuar si: (a) al menos 8 de 15 describen un episodio concreto de los últimos tres meses; (b) al menos 5 gastan hoy en resolverlo; (c) al menos 4 aceptan un compromiso pequeño (entregar una muestra de datos o presentar al comprador).
 
-**Paso 2 — entrevistar episodios recientes.** La gerencia escribe primero el supuesto asociado a **user** y evita convertirlo en hecho. Luego busca **buyer clarity** para contrastarlo en el caso de **customer discovery**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Entrevistas.** 15 conversaciones de 40 minutos con usuarios (jefes de operaciones y administrativos) y compradores (dueños y gerentes).
 
-**Paso 3 — mapear buyer user y process.** La gerencia escribe primero el supuesto asociado a **trigger** y evita convertirlo en hecho. Luego busca **current spend** para contrastarlo en el caso de **customer discovery**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Indicador | Resultado |
+|---|---|
+| Episodio concreto en los últimos tres meses | 11 de 15 (73 %) |
+| Describieron el problema **sin que se les guiara** | 9 de 15 (60 %) |
+| Pierden 3 horas o más por semana | 9 de 15 (60 %) |
+| Gastan hoy (asistente, software o servicio externo) | 7 de 15 (47 %) |
+| Aceptaron entregar una muestra de datos | 5 de 15 (33 %) |
+| Presentaron al comprador | 2 de 15 (13 %) |
+| Pagaron algo por adelantado | 0 de 15 |
 
-**Paso 4 — testear severity y spend.** La gerencia escribe primero el supuesto asociado a **buying process** y evita convertirlo en hecho. Luego busca **trigger recurrence** para contrastarlo en el caso de **customer discovery**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Roles identificados.** El **usuario** (administrativo o jefe de operaciones) sufre el problema; el **comprador** es el dueño o el gerente general, que decide por criterios de costo y de riesgo; el **influenciador** es quien administra el sistema contable y teme las integraciones. En 8 de las 15 empresas, quien siente el dolor no es quien decide el gasto.
 
-**Paso 5 — actualizar hipótesis y segmentación.** La gerencia escribe primero el supuesto asociado a **willingness to pay** y evita convertirlo en hecho. Luego busca **commitment signals** para contrastarlo en el caso de **customer discovery**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cuantificación.** De los 9 que pierden tres horas o más, el promedio es de 5,5 horas por semana; a un costo hora de 6.000 pesos (administrativo con cargas) equivale a 5,5 × 52 × 6.000 = 1,72 millones al año por empresa, más errores de facturación que según 4 empresas costaron entre 0,8 y 3 millones en el último año.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **customer discovery**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Severidad.** Puntuación de 1 a 5 con evidencia: 4 o más en 8 de 15 (53 %).
+
+**Evaluación contra los criterios.** (a) 11 de 15 ≥ 8 ✓; (b) 7 de 15 ≥ 5 ✓; (c) 5 de 15 ≥ 4 ✓. Se **continúa**, con matices: el costo anual por empresa (1,72 millones) frente a un precio posible de 90.000 al mes (1,08 millones al año) da un ahorro bruto de 37 % (1,72 − 1,08 = 0,64 ÷ 1,72), apenas atractivo; la brecha entre usuario y comprador exige un mensaje al comprador centrado en errores y riesgo.
+
+**Alertas.** Nadie pagó por adelantado; solo 2 de 15 presentaron al comprador; el 40 % dijo «lo resolvemos con la planilla». La evidencia de compromiso es débil: se pasa a una prueba de demanda con compromiso real (clase 247).
+
+**Decisión.** Continuar con una hipótesis ajustada: el comprador es el dueño o gerente; el mensaje se centra en reducir errores de facturación y en el tiempo; la siguiente etapa es una preventa o un piloto pagado con 5 empresas.
+
+**Cuidados.** Los datos de entrevistados y de sus empresas se tratan con confidencialidad y conforme a la normativa de protección de datos; las entrevistas no se usan para vender; las cifras son ilustrativas.
+
+**Qué muestra.** (1) Las preguntas se centraron en episodios y hechos. (2) La evidencia se codificó por fuerza. (3) Los criterios previos permitieron decidir sin autoengaño.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **buyer** | persona o función que autoriza gasto | Cuando interviews es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **user** | persona que usa o experimenta la solución | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Descubrimiento frente a investigación de mercado.** La investigación de mercado mide opiniones y tamaños con muestras; el descubrimiento busca entender comportamientos y problemas con pocas conversaciones profundas. Se complementan.
 
-**Frontera de aplicación:** Entrevistar hasta oír repetición no prueba mercado. Discovery cualitativo debe complementarse con datos de demanda, tamaño y experimentos de compromiso.
+**Límites.** Entrevistar hasta oír repetición no prueba mercado: el descubrimiento cualitativo debe complementarse con datos de demanda, tamaño y experimentos de compromiso. Las muestras pequeñas y accesibles sesgan. Los entrevistados pueden recordar mal o querer agradar. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre customer discovery |
+| Nivel | Cómo practica el descubrimiento |
 |---|---|
-| **Profesional** | usa **customer discovery** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **buyer** y **user** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta interviews con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si customer discovery cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de customer discovery reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **customer discovery** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Escucha a clientes y compañeros sin defender la solución. |
+| **Jefe / Team Lead** | Conversa con usuarios de su proceso para encontrar fricciones. |
+| **Gerente** | Mantiene conversaciones regulares con clientes clave. |
+| **CEO / Director** | Se acerca al cliente con preguntas abiertas y decide con evidencia. |
+| **Founder / Owner** | Dedica tiempo semanal a hablar con clientes y a cuestionar sus hipótesis. |
 
 ## 🏢 Caso ejecutivo
 
-Diez usuarios aman la idea, pero procurement exige seguridad y el CFO es quien firma. El founder nunca habló con ninguno de esos actores.
+Una fundadora quiere crear un servicio de planificación de turnos para clínicas veterinarias y realiza 20 entrevistas con dueños y administrativos. Salió con estas impresiones: 17 dijeron que «sería muy útil»; 12 preguntaron cuánto costaría; 4 dijeron que «ya lo tienen resuelto» con una planilla; 3 dijeron que lo usarían «seguro». Al revisar sus notas, ve que en 14 entrevistas ella describió su producto en los primeros diez minutos; que en 6 le preguntó «¿pagarías 25.000 pesos al mes?» y 5 dijeron que sí; que solo 5 relataron un episodio concreto de problema con turnos en el último mes; que los usuarios (asistentes) quieren el servicio, pero los compradores (veterinarios dueños) piensan que «el problema no es tan grave»; y que ninguno ha gastado en una solución. Su cofundador quiere avanzar a construir porque «el 85 % dijo que sí».
 
-Entrega un **decision brief de customer discovery** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **informe de descubrimiento** que contenga: (a) las hipótesis de cliente y de problema reescritas de forma refutable; (b) el análisis de las 20 entrevistas con la evidencia clasificada por fuerza y los errores de método detectados; (c) el mapa de comprador, usuario e influenciador y el proceso de compra; (d) la severidad y las alternativas actuales con cuantificación; (e) los criterios de decisión fijados y la decisión recomendada (continuar, cambiar o descartar); (f) el plan para las siguientes 10 conversaciones con preguntas mejoradas y las verificaciones de confidencialidad.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **customer discovery** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. formular hipótesis de cliente y problema → 2. entrevistar episodios recientes → 3. mapear buyer user y process → 4. testear severity y spend → 5. actualizar hipótesis y segmentación** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta interviews, buyer clarity; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Reescribe tres preguntas de una entrevista que inducen respuestas en preguntas sobre hechos pasados.
+2. Prepara una guía de entrevista de 30 minutos centrada en episodios recientes.
+3. Codifica las notas de una entrevista por fuerza de evidencia.
+4. Mapea usuario, comprador e influenciador de un producto y su proceso de compra.
+5. Fija tres criterios de decisión antes de hacer diez entrevistas.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar buyer y user como sinónimos | Se pierde la distinción entre “persona o función que autoriza gasto” y “persona que usa o experimenta la solución” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “actualizar hipótesis y segmentación” | Se saltó “formular hipótesis de cliente y problema” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. formular hipótesis de cliente y problema → 2. entrevistar episodios recientes → 3. mapear buyer user y process → 4. testear severity y spend → 5. actualizar hipótesis y segmentación y marca el primer supuesto no demostrado. |
-| Optimizar solo interviews | La métrica local sustituyó al resultado del sistema | Contrástala con buyer clarity y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre customer discovery | Entrevistar hasta oír repetición no prueba mercado. Discovery cualitativo debe complementarse con datos de demanda, tamaño y experimentos de compromiso. |
-| No fijar revisión | Una decisión sobre customer discovery se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Presentar la idea primero | Entusiasmo | Hablar de la vida del cliente. |
+| Preguntar intenciones | Es lo que más se quiere saber | Preguntar por hechos pasados. |
+| Contar halagos como evidencia | Se busca validación | Codificar por fuerza. |
+| Entrevistar solo al usuario | Es el más accesible | Entrevistar también al comprador. |
+| No fijar criterios de decisión | Se interpreta después | Criterios previos por escrito. |
+| Parar de hablar con clientes | Se pasa a construir | Mantener un ritmo semanal. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **buyer** y **user** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **trigger** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **formular hipótesis de cliente y problema → entrevistar episodios recientes** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **interviews** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **customer discovery**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Entrevistar hasta oír repetición no prueba mercado. Discovery cualitativo debe complementarse con datos de demanda, tamaño y experimentos de compromiso.**?
+1. ¿Qué diferencia hay entre una entrevista de descubrimiento y una venta?
+2. ¿Qué tres reglas ayudan a obtener hechos y no cortesías?
+3. ¿Por qué se piden episodios recientes?
+4. ¿Qué roles hay en una compra y por qué importan?
+5. ¿Cómo se codifica la evidencia por fuerza?
+6. ¿Por qué entrevistar hasta oír repetición no prueba un mercado?
+7. ¿Qué incluye una decisión con criterios previos?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El descubrimiento busca entender la realidad del cliente y refutar hipótesis; la venta busca un sí.
+2. Hablar de la vida del cliente y no de la idea, preguntar por hechos pasados y no por opiniones o intenciones, y hablar menos y escuchar más.
+3. Porque la memoria de lo que hicieron es más precisa y revela situación, alternativas y obstáculos.
+4. Usuario, comprador, influenciador y bloqueador; quien sufre el problema no siempre decide ni paga.
+5. Hechos y conductas fuertes, compromisos muy fuertes, opiniones débiles y halagos o hipótesis como ruido.
+6. Porque la repetición entre personas accesibles no demuestra tamaño ni disposición a pagar; se necesitan datos y pruebas de compromiso.
+7. Umbrales fijados antes, resultados observados, decisión (continuar, cambiar o descartar) y su razón documentada.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/243-customer-discovery/`:
 
-- `product-evidence-brief.md` con el problema específico de **customer discovery**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **customer discovery** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **buyer**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Diez usuarios aman la idea, pero procurement exige seguridad y el CFO es quien firma. El founder nunca habló con ninguno de esos actores.** y el dato que podría invalidar la recomendación.
+- `product-evidence-brief.md` (plantilla [Product evidence brief](../../../../templates/product-evidence-brief.md)) con el informe del caso ejecutivo;
+- `venture-validation.md` (plantilla [Venture validation](../../../../templates/venture-validation.md)) con el registro de entrevistas y la evidencia por fuerza;
+- `decision-journal.md` con los criterios de decisión, la decisión y las verificaciones de confidencialidad.
 
 ## 📗 Fuentes y verificación
 
-- Steve Blank — *The Four Steps to the Epiphany* ([Steve Blank?], 2013). **Uso en esta clase:** customer development y búsqueda sistemática de un modelo de negocio. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9780989200509](https://openlibrary.org/isbn/9780989200509).
-- Alexander Osterwalder & Yves Pigneur — *Business Model Generation* (Wiley , 2010). **Uso en esta clase:** diseño de modelos de negocio mediante propuesta, clientes, recursos y economía. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9780470876411](https://openlibrary.org/isbn/9780470876411).
-- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** build-measure-learn, MVP y aprendizaje validado. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
-- Alexander Osterwalder et al. — *Value Proposition Design* (John Wiley & Sons, Incorporated, 2014). **Uso en esta clase:** perspectiva de Producto aplicada al problema de la clase. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9781118968062](https://openlibrary.org/isbn/9781118968062).
-- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Bill Aulet — *Disciplined Entrepreneurship* (John Wiley & Sons, Incorporated, 2013). **Uso en esta clase:** secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9781299848641](https://openlibrary.org/isbn/9781299848641).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **customer discovery** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **customer discovery**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **customer discovery** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **customer discovery** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **customer discovery** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Steve Blank — *The Four Steps to the Epiphany* ([Steve Blank?], 2013). **Uso en esta clase:** descubrimiento de clientes como etapa previa a construir. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9780989200509](https://openlibrary.org/isbn/9780989200509).
+- Rob Fitzpatrick — *The Mom Test* (CreateSpace, 2014). **Uso en esta clase:** preguntas que producen hechos y evitan cortesías. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9781492180746](https://openlibrary.org/isbn/9781492180746).
+- Teresa Torres — *Continuous Discovery Habits* (Product Talk LLC, 2021). **Uso en esta clase:** descubrimiento continuo y mapas de oportunidades. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9781736633304](https://openlibrary.org/isbn/9781736633304).
+- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** trabajos por hacer y situaciones de compra. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
+- Neil Rackham — *SPIN Selling* (Highbridge Audio, 1998). **Uso en esta clase:** preguntas de situación, problema, implicancia y necesidad. Lectura selectiva sobre **customer discovery**. **Localizador:** [ISBN-13 9781565112605](https://openlibrary.org/isbn/9781565112605).
 
-> **Regla de fuentes para Customer discovery:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **customer discovery** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Customer discovery:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de protección de datos de las personas entrevistadas. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

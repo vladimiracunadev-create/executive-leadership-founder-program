@@ -10,217 +10,211 @@
 
 ## 🎯 Propósito
 
-Cofundadores deben alinear roles, equity, vesting, propiedad intelectual, decisiones, salida y escenarios difíciles antes de que el valor crezca. Repartir 50/50 por amistad sin proceso de deadlock o vesting puede crear riesgo existencial.
+La decisión más difícil de revertir en una empresa nueva no es el producto ni el precio: es **con quién se funda y cómo se reparte la propiedad**. Una mala división de la sociedad se arrastra durante años, afecta las rondas de inversión, desmotiva a quien aporta más de lo que recibe y, cuando un cofundador se va, puede dejar a la empresa con una persona que ya no trabaja pero conserva una parte grande. Los conflictos entre cofundadores figuran entre las causas más citadas del fracaso de empresas nuevas, y casi siempre se anuncian temprano: roles confusos, expectativas distintas de dedicación, ausencia de reglas para salir. Hablar de dinero, de poder y de salida con alguien a quien se aprecia es incómodo, y por eso se posterga hasta que el costo es alto.
 
-La salida de esta parte es **descubrir, validar y lanzar una empresa antes de escalarla**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **cofundadores, equity y acuerdos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta la relación entre cofundadores como un **sistema de tres columnas**: **quién** (complementariedad, confianza y compromiso), **cuánto** (reparto de propiedad, adquisición gradual y dilución) y **cómo** (acuerdos de gobierno, decisiones, salida y resolución de conflictos). Se apoya en Wasserman sobre el dilema entre riqueza y control y las decisiones tempranas del fundador, en Hellmann y Wasserman sobre cómo se dividen las partes en la práctica, en Ruef y coautores sobre la formación de equipos fundadores, en Feld sobre términos de inversión y relaciones con inversionistas y en Katzenbach sobre qué hace que un grupo sea un equipo. Al terminar sabrás evaluar a un posible cofundador, proponer un reparto con criterios, entender adquisición gradual (vesting) y dilución, redactar los puntos de un acuerdo y preparar una salida ordenada. Las normas societarias se consultan en fuentes oficiales y con asesoría; aquí no se interpretan.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `cofounder agreement`, `vesting`, `cliff`, `deadlock`, `IP assignment` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de founder.
-3. **Aplicar** la secuencia **1. alinear visión y compromiso → 2. definir roles y decision rights → 3. negociar equity y vesting → 4. establecer IP y confidentiality → 5. planificar departure deadlock y dispute** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** founder time commitment, equity split, vesting coverage sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Evaluar** la complementariedad, el compromiso y la confianza de un posible cofundador.
+2. **Proponer** un reparto de propiedad con criterios explícitos y no con una división automática.
+3. **Calcular** el efecto de adquisición gradual, salida y dilución sobre cada participación.
+4. **Listar** los puntos que debe cubrir un acuerdo entre socios, para revisarlos con asesoría.
+5. **Preparar** una salida ordenada y un mecanismo de resolución de conflictos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define cofounder agreement y vesting sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con founder time commitment y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿con quién fundarías y qué no te atreves a decirle? |
+| 20–60 min | Selección, reparto, adquisición gradual, dilución, acuerdos, gobierno y salida. |
+| 60–105 min | Ejemplo trabajado: reparto, vesting, salida y dilución con cifras. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **cofounder agreement** | acuerdo sobre roles ownership decisiones y contingencias | Distingue un hecho compatible y otro que lo refute. |
-| **vesting** | adquisición gradual de equity vinculada a permanencia | Distingue un hecho compatible y otro que lo refute. |
-| **cliff** | periodo inicial antes de adquirir primera porción | Distingue un hecho compatible y otro que lo refute. |
-| **deadlock** | empate que impide decisión en ownership o control | Distingue un hecho compatible y otro que lo refute. |
-| **IP assignment** | cesión de propiedad intelectual a la compañía | Distingue un hecho compatible y otro que lo refute. |
+| **Equity** | Participación en la propiedad de la empresa. | Porcentaje de acciones o derechos sociales. |
+| **Vesting** | Adquisición gradual del derecho a la participación. | Plazo total y período inicial sin derechos. |
+| **Cliff** | Período inicial tras el cual se adquiere el primer tramo. | Un año sin derechos, luego un tramo. |
+| **Dilución** | Reducción del porcentaje al emitirse nuevas participaciones. | Ronda de inversión o bolsa de opciones. |
+| **Acuerdo de socios** | Contrato que regula decisiones, transferencias y salida. | Derechos, deberes y reglas de salida. |
+| **Roles** | Responsabilidades claras de cada cofundador. | Quién decide qué. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 251: 1. alinear visión y compromiso → 2. definir roles y decision rights → 3. negociar equity y vesting → 4. establecer IP y confidentiality → 5. planificar departure deadlock y dispute](modelo-mental.svg)
+![Tres columnas de la relación entre cofundadores: quién, cuánto y cómo.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. alinear visión y compromiso → 2. definir roles y decision rights → 3. negociar equity y vesting → 4. establecer IP y confidentiality → 5. planificar departure deadlock y dispute
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Cofundadores deben alinear roles, equity, vesting, propiedad intelectual, decisiones, salida y escenarios difíciles antes de que el valor crezca. Repartir 50/50 por amistad sin proceso de deadlock o vesting puede crear riesgo existencial.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No existe fórmula universal de equity. Considera aportes, riesgo futuro y compromiso, y formaliza con asesoría jurídica según jurisdicción.**
+**Cómo leer el diagrama.** Tres columnas. **Quién**: habilidades complementarias, historia de trabajo conjunto, compromiso de tiempo y confianza. **Cuánto**: reparto según aportes y riesgos, adquisición gradual con un período inicial y dilución futura. **Cómo**: roles y decisiones, acuerdo escrito, salida ordenada y mecanismo para resolver desacuerdos. La nota afirma que se habla de dinero, poder y salida antes de necesitarlo; el pie, que el acuerdo se revisa con asesoría legal y fuentes oficiales vigentes.
 
 ## 📖 Desarrollo
 
-### 1. cofounder agreement: mecanismo central
+### 1. Elegir con quién fundar
 
-**cofounder agreement** se entiende aquí como **acuerdo sobre roles ownership decisiones y contingencias**. Esta es la pieza causal o estructural desde la que se inicia **cofundadores, equity y acuerdos**: antes de alinear visión y compromiso, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Ruef, Aldrich y Carter estudiaron cómo se forman los equipos fundadores y encontraron que muchos se constituyen entre **personas con vínculos previos** (amistad, familia, trabajo conjunto), lo que facilita la confianza pero reduce la diversidad de habilidades. Wasserman muestra que las decisiones tempranas sobre **quién entra** tienen consecuencias duraderas sobre el control y el rendimiento. Criterios para evaluar: **complementariedad** (¿qué sabe esta persona que yo no sé?), **historia** (¿hemos trabajado juntos bajo presión?), **compromiso** (¿tiempo completo o parcial, y por cuánto?), **valores y expectativas** (ambición, tolerancia al riesgo, horizonte), **situación personal** (ingresos, dependientes, cuánto tiempo puede sostenerse sin sueldo) y **confianza** para decir cosas incómodas. Un periodo de **trabajo conjunto previo** (un proyecto de dos o tres meses) revela más que cualquier conversación.
 
-La lectura rectora de este bloque es Steve Blank — *The Four Steps to the Epiphany*. Su aporte se usa para examinar **customer development y búsqueda sistemática de un modelo de negocio**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **founder time commitment**; regístrala con periodo, unidad, población y baseline.
+### 2. Cómo repartir: criterios, no una regla automática
 
-Relaciona el mecanismo con **vesting**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Hellmann y Wasserman observan que muchos equipos reparten de forma **pareja** por comodidad, aunque los aportes y riesgos sean distintos; otros reparten pronto y no revisan. No hay una fórmula correcta, pero sí **criterios** que pueden ponerse sobre la mesa: **idea y trabajo previo**, **dedicación** (tiempo completo o parcial), **capital aportado**, **habilidad crítica** para el éxito, **riesgo personal asumido** (renunciar a un empleo), **red y credibilidad** y **rol futuro** (quien será CEO). Se asigna un peso a cada criterio, se puntúa a cada persona y se discute el resultado. Un reparto pareja es defendible si los aportes son similares y se quiere preservar la cohesión; lo importante es que sea una **decisión consciente**. Wasserman recuerda además que el reparto interactúa con el **control**: el que tiene más participación pesa más en las decisiones.
 
-### 2. vesting: frontera conceptual y error de clasificación
+### 3. Adquisición gradual (vesting) y período inicial
 
-**Definición operacional:** adquisición gradual de equity vinculada a permanencia. Su valor está en distinguirlo de **cofounder agreement** y **cliff**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El reparto debe depender del **tiempo de permanencia y del trabajo realizado**, no solo de la firma. La práctica común: un plazo total (por ejemplo, 4 años) con **adquisición mensual** tras un período inicial (cliff) de un año. Si un cofundador se va antes del período inicial, no conserva nada de lo no adquirido; si se va a los 18 meses, conserva lo adquirido hasta entonces. Esto protege a quienes se quedan y evita que una persona que abandona al mes seis conserve una parte grande. A veces se reconoce **trabajo previo** con un tramo ya adquirido. Los detalles (aceleración ante venta de la empresa, tratamiento de la salida por causa justificada o no, recompra de lo adquirido) se discuten con asesoría legal y fuentes oficiales; Feld describe prácticas habituales en los términos de inversión, y los inversionistas suelen exigir adquisición gradual a los fundadores.
 
-Contrasta el problema con Alexander Osterwalder & Yves Pigneur — *Business Model Generation*, que aporta una mirada sobre **diseño de modelos de negocio mediante propuesta, clientes, recursos y economía**. Formula dos mini-casos: uno que sí satisface la definición de **vesting** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **equity split** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Dilución y bolsa de opciones
 
-Antes de definir roles y decision rights, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Cada ronda de inversión y cada emisión para empleados **diluye** a los fundadores: su porcentaje baja, aunque el valor total de lo que poseen pueda subir. Se calcula con la regla: nuevo porcentaje = porcentaje anterior × (1 − porcentaje nuevo emitido). Por ejemplo, si una ronda entrega 20 % a inversionistas y se reserva una bolsa de opciones del 10 % posterior a la ronda, los fundadores conservan el 70 % en conjunto. Feld explica por qué conviene entender estas cifras antes de negociar: el tamaño de la bolsa y el momento en que se crea afectan quién absorbe la dilución. Los cofundadores deben **modelar escenarios** (una, dos y tres rondas) y asegurarse de que, tras la dilución, el reparto siga motivando a todos. Una participación demasiado pequeña desanima; una demasiado concentrada hace que los demás se sientan empleados.
 
-### 3. cliff: operacionalización y medición
+### 5. El acuerdo entre socios
 
-**cliff** significa **periodo inicial antes de adquirir primera porción**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El acuerdo escrito convierte conversaciones en reglas. Puntos habituales que se consultan con asesoría y fuentes oficiales: **roles y dedicación**; **reparto y adquisición gradual**; **decisiones** (qué requiere unanimidad o mayoría); **salarios y retiros**; **propiedad intelectual** (que lo desarrollado para la empresa pertenezca a la empresa); **no competencia y confidencialidad** (con las limitaciones que la ley permita); **transferencia de participaciones** (derechos de preferencia, restricciones a vender a terceros); **ingreso de nuevos socios**; **muerte, invalidez o salida**; **valoración para recompra**; **resolución de conflictos** (mediación y arbitraje). Un acuerdo hecho cuando todos se llevan bien es más justo que uno redactado en medio de una pelea. La plantilla del equipo (carta de equipo) complementa el contrato con normas de convivencia y comunicación.
 
-Bill Aulet — *Disciplined Entrepreneurship* orienta este bloque mediante **secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **vesting coverage**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Gobierno, roles y decisiones
 
-Al llegar a negociar equity y vesting, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Katzenbach distingue un **grupo de trabajo** de un **equipo real**: el segundo tiene un propósito común, metas de desempeño, un enfoque compartido, habilidades complementarias y **responsabilidad mutua**. En una empresa nueva, esto exige definir **quién decide qué**. Una práctica útil: un cofundador es responsable final de cada área (producto, ventas, finanzas), y las decisiones que cambian el rumbo (precio, financiamiento, contratación clave, venta de la empresa) se toman según una regla acordada. Los **desempates** se pactan con antelación (un tercero de confianza, un consejo asesor). Se fijan **revisiones periódicas** del rendimiento de cada uno y de la relación (cada trimestre, con una conversación estructurada). Evitar el CEO «rotativo» y las decisiones por desgaste: la ambigüedad se paga después.
 
-### 4. deadlock: trade-offs y efectos de segundo orden
+### 7. Salida ordenada y conflictos
 
-**Definición:** empate que impide decisión en ownership o control. Este concepto obliga a abandonar la idea de que **cofundadores, equity y acuerdos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de establecer ip y confidentiality, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-David J. Bland & Alexander Osterwalder — *Testing Business Ideas* aporta una lente sobre **hipótesis de negocio, experimentos, evidencia y reducción de riesgo**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **decision rights** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **cofundadores, equity y acuerdos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **deadlock** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. IP assignment: gobernanza, límites e integración
-
-**IP assignment** se define como **cesión de propiedad intelectual a la compañía** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Alexander Osterwalder et al. — *Value Proposition Design* se utiliza para estudiar **perspectiva de Producto aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar planificar departure deadlock y dispute, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No existe fórmula universal de equity. Considera aportes, riesgo futuro y compromiso, y formaliza con asesoría jurídica según jurisdicción.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **cofounder agreement**, **vesting**, **cliff**, **deadlock** y **IP assignment** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **cofundadores, equity y acuerdos** no consiste en sumar cinco definiciones. Empieza por **cofounder agreement**, contrasta **vesting** con **cliff**, incorpora **deadlock** como restricción o mecanismo y usa **IP assignment** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. alinear visión y compromiso → 2. definir roles y decision rights → 3. negociar equity y vesting → 4. establecer IP y confidentiality → 5. planificar departure deadlock y dispute**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La salida de un cofundador es probable en algún momento. Se acuerdan de antemano: qué ocurre con lo adquirido, **cómo se valora** para una recompra, plazos y forma de pago, y qué obligaciones persisten (confidencialidad, no competencia dentro de los límites legales, traspaso de conocimiento). Se distingue entre una **salida amistosa** (cambio de vida) y una **salida por incumplimiento**, con tratamientos distintos. Para los **desacuerdos**, se pactan escalas: conversación directa, mediador, y si es necesario, procedimiento formal. La empresa debe poder **seguir operando** durante un conflicto: acceso a cuentas, claves, propiedad intelectual y contratos. Wasserman subraya que estas decisiones tienen efectos en el control y la riqueza de los fundadores; se toman con información, tiempo y asesoría, no bajo presión.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Steve Blank — *The Four Steps to the Epiphany* | customer development y búsqueda sistemática de un modelo de negocio | ¿Qué supuesto de **cofundadores, equity y acuerdos** ayuda a desafiar? |
-| Alexander Osterwalder & Yves Pigneur — *Business Model Generation* | diseño de modelos de negocio mediante propuesta, clientes, recursos y economía | ¿Qué supuesto de **cofundadores, equity y acuerdos** ayuda a desafiar? |
-| Bill Aulet — *Disciplined Entrepreneurship* | secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio | ¿Qué supuesto de **cofundadores, equity y acuerdos** ayuda a desafiar? |
-| David J. Bland & Alexander Osterwalder — *Testing Business Ideas* | hipótesis de negocio, experimentos, evidencia y reducción de riesgo | ¿Qué supuesto de **cofundadores, equity y acuerdos** ayuda a desafiar? |
-| Alexander Osterwalder et al. — *Value Proposition Design* | perspectiva de Producto aplicada al problema de la clase | ¿Qué supuesto de **cofundadores, equity y acuerdos** ayuda a desafiar? |
-
-En **cofundadores, equity y acuerdos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **cofounder agreement**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Wasserman | Dilema riqueza-control y decisiones tempranas del fundador. | No es un manual de contratos. | ¿Qué cedo en control al ceder participación? |
+| Hellmann y Wasserman | Cómo reparten los equipos en la práctica. | Datos de ciertos contextos. | ¿Mi reparto es una decisión o una comodidad? |
+| Ruef, Aldrich y Carter | Cómo se forman los equipos fundadores. | Descriptivo, no prescriptivo. | ¿Fundo con quien conozco o con quien complementa? |
+| Feld | Términos de inversión y relación con inversionistas. | Enfoque de capital de riesgo. | ¿Cómo se diluye cada uno en las rondas? |
+| Katzenbach | Qué distingue a un equipo de un grupo. | No fija reparto de propiedad. | ¿Tenemos responsabilidad mutua? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Dos amigos forman 50/50. Uno deja trabajo full-time; el otro aporta fines de semana. Seis meses después reciben oferta de inversión y discrepan sobre quién será CEO.
+**Situación (hipotética).** Tres personas fundan una empresa de software para gestión de talleres mecánicos: Ana (producto y tecnología, tiempo completo desde el inicio), Beto (ventas, tiempo completo desde el mes 3) y Carla (finanzas y operaciones, medio tiempo durante el primer año).
 
-**Paso 1 — alinear visión y compromiso.** La gerencia escribe primero el supuesto asociado a **cofounder agreement** y evita convertirlo en hecho. Luego busca **founder time commitment** para contrastarlo en el caso de **cofundadores, equity y acuerdos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Reparto por criterios.** Se asignan pesos y puntajes de 0 a 10.
 
-**Paso 2 — definir roles y decision rights.** La gerencia escribe primero el supuesto asociado a **vesting** y evita convertirlo en hecho. Luego busca **equity split** para contrastarlo en el caso de **cofundadores, equity y acuerdos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Criterio | Peso | Ana | Beto | Carla |
+|---|---|---|---|---|
+| Idea y trabajo previo | 20 % | 9 | 3 | 2 |
+| Dedicación | 25 % | 10 | 8 | 4 |
+| Habilidad crítica | 25 % | 9 | 8 | 6 |
+| Riesgo asumido (renuncia, ahorros) | 15 % | 9 | 7 | 3 |
+| Capital aportado | 5 % | 5 | 5 | 10 |
+| Red y credibilidad | 10 % | 4 | 9 | 7 |
 
-**Paso 3 — negociar equity y vesting.** La gerencia escribe primero el supuesto asociado a **cliff** y evita convertirlo en hecho. Luego busca **vesting coverage** para contrastarlo en el caso de **cofundadores, equity y acuerdos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Puntaje ponderado.**
 
-**Paso 4 — establecer IP y confidentiality.** La gerencia escribe primero el supuesto asociado a **deadlock** y evita convertirlo en hecho. Luego busca **decision rights** para contrastarlo en el caso de **cofundadores, equity y acuerdos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Ana: 0,20×9 + 0,25×10 + 0,25×9 + 0,15×9 + 0,05×5 + 0,10×4 = 1,80 + 2,50 + 2,25 + 1,35 + 0,25 + 0,40 = **8,55**.
+- Beto: 0,60 + 2,00 + 2,00 + 1,05 + 0,25 + 0,90 = **6,80**.
+- Carla: 0,40 + 1,00 + 1,50 + 0,45 + 0,50 + 0,70 = **4,55**.
 
-**Paso 5 — planificar departure deadlock y dispute.** La gerencia escribe primero el supuesto asociado a **IP assignment** y evita convertirlo en hecho. Luego busca **IP assignment status** para contrastarlo en el caso de **cofundadores, equity y acuerdos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+Total: 8,55 + 6,80 + 4,55 = 19,90. Participaciones: Ana 8,55 ÷ 19,90 = 43,0 %; Beto 6,80 ÷ 19,90 = 34,2 %; Carla 4,55 ÷ 19,90 = 22,9 %. Tras discusión se redondea a **Ana 42 %, Beto 35 %, Carla 23 %** (suma 100 %).
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **cofundadores, equity y acuerdos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Adquisición gradual.** Plazo de 48 meses con período inicial de 12 meses; adquisición mensual después (un 25 % al cumplir el mes 12 y luego 1/48 por mes).
+
+**Salida de Beto en el mes 18.** Derechos adquiridos: 18 ÷ 48 = 37,5 % de su 35 %, es decir **13,125 %** de la empresa; el resto, 21,875 %, vuelve a la empresa (por recompra o reasignación, según lo acordado con asesoría). Si hubiera salido en el mes 10, habría conservado **0 %**.
+
+**Dilución.** Una ronda semilla entrega 20 % a inversionistas y se reserva una bolsa de opciones del 10 % (ambos posteriores a la ronda). Los fundadores quedan con 70 % en conjunto, repartido en proporción a lo que tenían:
+
+- Ana: 42 % × 0,70 = **29,4 %**.
+- Beto: 35 % × 0,70 = **24,5 %**.
+- Carla: 23 % × 0,70 = **16,1 %**.
+
+Suma: 29,4 + 24,5 + 16,1 = 70,0 %.
+
+**Lectura.** Con una segunda ronda que entregue otro 15 %, los fundadores quedarían con 70 % × 0,85 = 59,5 % (Ana 25,0 %, Beto 20,8 %, Carla 13,7 %, aproximadamente). El reparto sigue siendo motivador si el valor de la empresa crece; se acuerda revisar roles y participación si Carla pasa a tiempo completo (un tramo adicional del 3 % condicionado a hitos).
+
+**Acuerdos.** Se documentan: roles (Ana CEO y producto, Beto ventas, Carla finanzas), decisiones por mayoría de participación con vetos en venta de la empresa y endeudamiento, propiedad intelectual de la empresa, recompra a valor justo determinado por un tercero, mediación previa a cualquier acción formal. Todo se revisa con asesoría y las fuentes oficiales vigentes.
+
+**Cuidados.** Las cifras son ilustrativas; los porcentajes, plazos y cláusulas reales dependen de la negociación y de la normativa.
+
+**Qué muestra.** (1) El reparto surgió de criterios discutidos. (2) El vesting cambió el resultado de una salida temprana. (3) La dilución se modeló antes de la ronda.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **cofounder agreement** | acuerdo sobre roles ownership decisiones y contingencias | Cuando founder time commitment es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **vesting** | adquisición gradual de equity vinculada a permanencia | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Cofundador frente a primer empleado.** El cofundador comparte riesgo, decisiones y propiedad; el primer empleado recibe sueldo y, en general, una pequeña participación o bolsa de opciones. Confundirlos produce reparto excesivo o descontento.
 
-**Frontera de aplicación:** No existe fórmula universal de equity. Considera aportes, riesgo futuro y compromiso, y formaliza con asesoría jurídica según jurisdicción.
+**Límites.** Ninguna fórmula elimina la necesidad de confianza. Los puntajes son subjetivos y sirven para ordenar la conversación. Las normas societarias, tributarias y laborales cambian por jurisdicción y no se interpretan aquí: se consultan en fuentes oficiales y con asesoría. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre cofundadores, equity y acuerdos |
+| Nivel | Cómo se relaciona con cofundadores y equity |
 |---|---|
-| **Profesional** | usa **cofundadores, equity y acuerdos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **cofounder agreement** y **vesting** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta founder time commitment con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si cofundadores, equity y acuerdos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de cofundadores, equity y acuerdos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **cofundadores, equity y acuerdos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Recibe opciones o participación como parte de su compensación. |
+| **Jefe / Team Lead** | Conoce el efecto de la participación sobre la motivación del equipo. |
+| **Gerente** | Participa en esquemas de incentivos de largo plazo. |
+| **CEO / Director** | Gestiona la relación con socios y con el directorio. |
+| **Founder / Owner** | Elige socios, reparte propiedad y fija reglas de salida. |
 
 ## 🏢 Caso ejecutivo
 
-Dos amigos forman 50/50. Uno deja trabajo full-time; el otro aporta fines de semana. Seis meses después reciben oferta de inversión y discrepan sobre quién será CEO.
+Dos amigos, Diego y Elena, fundaron hace un año una empresa de logística de última milla con 50 % cada uno, sin acuerdo escrito. Diego trabaja a tiempo completo y puso 12 millones de pesos; Elena trabaja medio tiempo y puso 3 millones, pero aportó los contactos con los primeros clientes, que representan 70 % de las ventas. Elena quiere irse a otra empresa en tres meses y conservar su 50 %. Un inversionista ofrece 60 millones por el 20 % de la empresa, con una bolsa de opciones del 10 % posterior a la ronda y exige adquisición gradual a los fundadores. Diego propone que Elena se quede con 20 %. Los clientes de Elena han dicho que les importa su relación con ella.
 
-Entrega un **decision brief de cofundadores, equity y acuerdos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de equity y acuerdos** que contenga: (a) el análisis de aportes de cada uno con criterios y pesos; (b) un reparto propuesto con su justificación y alternativas; (c) el efecto de adquisición gradual con un plazo de 48 meses y período inicial de 12 sobre la salida de Elena; (d) la dilución con la oferta del inversionista; (e) los puntos del acuerdo de socios y los mecanismos de salida y de solución de conflictos; (f) las verificaciones societarias, tributarias y contractuales pendientes con asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **cofundadores, equity y acuerdos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. alinear visión y compromiso → 2. definir roles y decision rights → 3. negociar equity y vesting → 4. establecer IP y confidentiality → 5. planificar departure deadlock y dispute** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta founder time commitment, equity split; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Evalúa a tu posible cofundador con los seis criterios de selección.
+2. Puntúa los aportes de cada socio con pesos y compara con tu reparto actual.
+3. Calcula derechos adquiridos si alguien se va en los meses 10, 18 y 30.
+4. Modela la dilución en dos rondas y revisa si el reparto sigue motivando.
+5. Redacta los diez puntos que llevarías a asesoría para un acuerdo de socios.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar cofounder agreement y vesting como sinónimos | Se pierde la distinción entre “acuerdo sobre roles ownership decisiones y contingencias” y “adquisición gradual de equity vinculada a permanencia” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “planificar departure deadlock y dispute” | Se saltó “alinear visión y compromiso” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. alinear visión y compromiso → 2. definir roles y decision rights → 3. negociar equity y vesting → 4. establecer IP y confidentiality → 5. planificar departure deadlock y dispute y marca el primer supuesto no demostrado. |
-| Optimizar solo founder time commitment | La métrica local sustituyó al resultado del sistema | Contrástala con equity split y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre cofundadores, equity y acuerdos | No existe fórmula universal de equity. Considera aportes, riesgo futuro y compromiso, y formaliza con asesoría jurídica según jurisdicción. |
-| No fijar revisión | Una decisión sobre cofundadores, equity y acuerdos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Reparto pareja por comodidad | Evita una conversación incómoda | Usar criterios y decidirlo conscientemente. |
+| Sin adquisición gradual | Confianza entre amigos | Plazo y período inicial acordados. |
+| Sin acuerdo escrito | «Nos llevamos bien» | Redactarlo ahora, con asesoría. |
+| Ignorar la dilución | Se mira solo el hoy | Modelar rondas y bolsa de opciones. |
+| Roles difusos | Se decide sobre la marcha | Responsable final por área. |
+| Salida sin reglas | Se supone que no ocurrirá | Pactar valoración, plazos y obligaciones. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **cofounder agreement** y **vesting** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **cliff** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **alinear visión y compromiso → definir roles y decision rights** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **founder time commitment** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **cofundadores, equity y acuerdos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No existe fórmula universal de equity. Considera aportes, riesgo futuro y compromiso, y formaliza con asesoría jurídica según jurisdicción.**?
+1. ¿Qué criterios sirven para evaluar a un cofundador?
+2. ¿Por qué se reparte con criterios y no de forma automática?
+3. ¿Qué es la adquisición gradual y qué protege?
+4. ¿Cómo se calcula la dilución de una ronda?
+5. ¿Qué puntos cubre un acuerdo entre socios?
+6. ¿Qué distingue a un equipo de un grupo de trabajo?
+7. ¿Qué debe acordarse sobre la salida de un cofundador?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Complementariedad, historia de trabajo, compromiso, valores, situación personal y confianza.
+2. Porque los aportes y riesgos difieren y la decisión debe ser consciente y defendible.
+3. Derechos que se obtienen con el tiempo; protege a quienes se quedan frente a salidas tempranas.
+4. Multiplicando el porcentaje anterior por uno menos el porcentaje emitido.
+5. Roles, reparto, decisiones, propiedad intelectual, transferencias, salida y resolución de conflictos.
+6. Propósito común, metas, enfoque compartido, habilidades complementarias y responsabilidad mutua.
+7. Qué ocurre con lo adquirido, cómo se valora, plazos de pago y obligaciones que persisten.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/251-cofundadores-equity-y-acuerdos/`:
 
-- `founder-owner-decision-brief.md` con el problema específico de **cofundadores, equity y acuerdos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **cofundadores, equity y acuerdos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **cofounder agreement**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Dos amigos forman 50/50. Uno deja trabajo full-time; el otro aporta fines de semana. Seis meses después reciben oferta de inversión y discrepan sobre quién será CEO.** y el dato que podría invalidar la recomendación.
+- `founder-owner-decision-brief.md` (plantilla [Founder owner decision brief](../../../../templates/founder-owner-decision-brief.md)) con el memo del caso ejecutivo;
+- `team-charter.md` (plantilla [Team charter](../../../../templates/team-charter.md)) con roles, decisiones y normas del equipo;
+- `decision-journal.md` con el reparto, la adquisición gradual y los puntos para asesoría.
 
 ## 📗 Fuentes y verificación
 
-- Steve Blank — *The Four Steps to the Epiphany* ([Steve Blank?], 2013). **Uso en esta clase:** customer development y búsqueda sistemática de un modelo de negocio. Lectura selectiva sobre **cofundadores, equity y acuerdos**. **Localizador:** [ISBN-13 9780989200509](https://openlibrary.org/isbn/9780989200509).
-- Alexander Osterwalder & Yves Pigneur — *Business Model Generation* (Wiley , 2010). **Uso en esta clase:** diseño de modelos de negocio mediante propuesta, clientes, recursos y economía. Lectura selectiva sobre **cofundadores, equity y acuerdos**. **Localizador:** [ISBN-13 9780470876411](https://openlibrary.org/isbn/9780470876411).
-- Bill Aulet — *Disciplined Entrepreneurship* (John Wiley & Sons, Incorporated, 2013). **Uso en esta clase:** secuencia disciplinada desde mercado inicial hasta economía y diseño del negocio. Lectura selectiva sobre **cofundadores, equity y acuerdos**. **Localizador:** [ISBN-13 9781299848641](https://openlibrary.org/isbn/9781299848641).
-- David J. Bland & Alexander Osterwalder — *Testing Business Ideas* (Wiley, 2019). **Uso en esta clase:** hipótesis de negocio, experimentos, evidencia y reducción de riesgo. Lectura selectiva sobre **cofundadores, equity y acuerdos**. **Localizador:** [ISBN-13 9781119551447](https://openlibrary.org/isbn/9781119551447).
-- Alexander Osterwalder et al. — *Value Proposition Design* (John Wiley & Sons, Incorporated, 2014). **Uso en esta clase:** perspectiva de Producto aplicada al problema de la clase. Lectura selectiva sobre **cofundadores, equity y acuerdos**. **Localizador:** [ISBN-13 9781118968062](https://openlibrary.org/isbn/9781118968062).
-- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **cofundadores, equity y acuerdos**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **cofundadores, equity y acuerdos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **cofundadores, equity y acuerdos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **cofundadores, equity y acuerdos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **cofundadores, equity y acuerdos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **cofundadores, equity y acuerdos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Noam Wasserman — *The Founder's Dilemmas* (Princeton University Press, 2012). **Uso en esta clase:** dilema riqueza-control y decisiones tempranas del fundador. Lectura selectiva sobre **cofundadores, equity y acuerdos**. **Localizador:** [ISBN-13 9780691149134](https://openlibrary.org/isbn/9780691149134).
+- Thomas Hellmann & Noam Wasserman — *The First Deal: The Division of Founder Equity in New Ventures* (Management Science, 2017). **Uso en esta clase:** cómo reparten la propiedad los equipos fundadores en la práctica. Lectura selectiva sobre **cofundadores, equity y acuerdos**. **Localizador:** [DOI 10.1287/mnsc.2016.2474](https://doi.org/10.1287/mnsc.2016.2474).
+- Martin Ruef, Howard E. Aldrich & Nancy M. Carter — *The Structure of Founding Teams: Homophily, Strong Ties, and Isolation among U.S. Entrepreneurs* (American Sociological Review, 2003). **Uso en esta clase:** formación de equipos fundadores y vínculos previos. Lectura selectiva sobre **cofundadores, equity y acuerdos**. **Localizador:** [DOI 10.1177/000312240306800202](https://doi.org/10.1177/000312240306800202).
+- Brad Feld & Jason Mendelson — *Venture Deals* (Wiley, 2011). **Uso en esta clase:** términos de inversión, dilución y relación con inversionistas. Lectura selectiva sobre **cofundadores, equity y acuerdos**. **Localizador:** [ISBN-13 9781118443613](https://openlibrary.org/isbn/9781118443613).
+- Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams* (McGraw-Hill, 2005). **Uso en esta clase:** qué distingue a un equipo de un grupo de trabajo. Lectura selectiva sobre **cofundadores, equity y acuerdos**. **Localizador:** [ISBN-13 9780077111687](https://openlibrary.org/isbn/9780077111687).
 
-> **Regla de fuentes para Cofundadores, equity y acuerdos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **cofundadores, equity y acuerdos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Cofundadores, equity y acuerdos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas societarias, tributarias y laborales, que no se interpretan aquí y requieren asesoría. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

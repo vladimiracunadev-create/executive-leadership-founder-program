@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **launch readiness** de **go-no-go criterion** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **operational readiness** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **launch cohort** con **rollback plan**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué dos ejes componen el cuadrante de preparación?
+2. ¿Qué acción corresponde a evidencia alta y preparación baja?
+3. ¿Cómo se calcula la pista de caja?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Startup tiene 30 clientes en waitlist, pero pagos no concilian, no existe backup y el único founder conoce deployment. Marketing quiere lanzar a 5.000 usuarios.
+**Caso:** Una fundadora quiere lanzar en 45 días una plataforma de cursos de cocina en vivo para personas mayores. Datos: 14 entrevistas confirman interés, pero solo 3 personas pagaron una clase de prueba de 8.000 pesos; en un piloto de 4 sesiones asistieron 18 personas, 11 repitieron y 5 pidieron grabaciones; el precio previsto es de 22.000 pesos mensuales por 4 clases; el costo por clase (profesora, plataforma y soporte) es de 90.000 pesos y la profesora no tiene contrato; la fundadora tiene 21 millones de caja y gasta 3,2 millones mensuales sin contar su sueldo; un socio le ofrece 10 millones por 25 % y quiere lanzar de inmediato; no ha consultado trámites, protección de datos ni condiciones de pago; las clases en vivo con plataforma de terceros han tenido dos caídas.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **revisar customer y value evidence → validar product ops y security → confirmar pricing channel y support → definir cohort y success-stop metrics → decidir go limited-go o no-go**. Debes utilizar o diseñar cómo obtener **activation, support load, critical defects**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **memo de launch readiness** que contenga: (a) el inventario de evidencia por eslabón con puntajes y respaldo; (b) la puntuación de preparación operativa; (c) el cuadrante y la acción derivada, con los umbrales fijados antes; (d) la pista de caja en tres escenarios y la economía por clase con las cifras del caso; (e) las condiciones de lanzamiento con responsable y fecha, y los criterios de detención; (f) la evaluación de la oferta del socio y las verificaciones legales, tributarias y de datos pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Un checklist puede crear falsa seguridad. Prioriza riesgos que pueden dañar clientes, caja o reputación y limita rollout cuando incertidumbre sigue alta.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los puntajes son subjetivos; dos revisores pueden diferir y ese desacuerdo es información.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

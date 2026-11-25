@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **concierge MVP** de **Wizard of Oz** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **manual-first** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **service blueprint** con **automation candidate**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Cómo se define un MVP?
+2. ¿Qué diferencia hay entre concierge y mago de Oz?
+3. ¿Qué incluye el diseño de un concierge test?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una startup ofrece reportes de riesgo generados manualmente a cinco clientes pagos. Aprende que 70% del trabajo está en limpieza de datos, no en el modelo esperado.
+**Caso:** Una fundadora quiere crear un servicio de entrega semanal de comida preparada para adultos mayores que viven solos. Gastó 14 millones en una aplicación con selección de menús, seguimiento de repartidores y pagos. Tiene 9 clientes y 5 han dejado de usar la aplicación; los demás piden que alguien los llame para pedir. Cada cliente paga 48.000 pesos por semana por 5 almuerzos; el costo de ingredientes y cocina es de 26.000 y el de reparto, 6.500. Una voluntaria llama a cada cliente dos veces por semana (30 minutos en total) y la fundadora dedica 6 horas semanales a coordinar con familiares, valoradas en 7.000 pesos la hora. Una hija de un cliente dice que lo importante es saber que su madre comió. Un inversionista ofrece 20 millones si demuestra 50 clientes en 4 meses.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir outcome a entregar → operar manualmente para pocos clientes → registrar steps y exceptions → medir value y willingness → automatizar solo patrón estable**. Debes utilizar o diseñar cómo obtener **time-to-value, manual hours per customer, exception rate**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **memo de MVP** que contenga: (a) la hipótesis que realmente se debería probar; (b) el MVP mínimo y el concierge que la probaría, con alcance, duración y criterios; (c) la economía por cliente del servicio manual con las cifras del caso; (d) qué medir y qué descartar de lo construido; (e) qué automatizar, cuándo y con qué recuperación; (f) la decisión sobre el inversionista y las verificaciones sanitarias, de datos y legales pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Concierge no prueba escalabilidad. Sirve para aprender demanda y workflow; antes de escalar, modela costos y automatización necesaria.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Un concierge no escala y puede subestimar costos si el fundador no valora su tiempo.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

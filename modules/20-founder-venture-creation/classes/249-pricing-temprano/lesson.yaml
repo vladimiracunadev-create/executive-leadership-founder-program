@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 6 — Founder"
 outcome: "descubrir, validar y lanzar una empresa antes de escalarla"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir price de value metric mediante evidencia observable."
-  - "Aplicar la secuencia: estimar alternatives y value → proponer 2 o 3 price points → testear con compra real → analizar objections y segment → refinar package y value metric."
-  - "Interpretar close rate by price, discount rate, ARPA sin atribuir causalidad automática."
-  - "Resolver el caso de pricing temprano con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Estimar un rango de precio a partir del valor para el cliente, el costo y las alternativas."
+  - "Elegir una estructura de cobro coherente con el valor y el uso."
+  - "Diseñar una prueba de precio pequeña con criterios previos."
+  - "Calcular el efecto del precio en volumen y en contribución."
+  - "Comunicar y revisar precios sin dañar la relación con los clientes."
 deliverable: "commercial-decision-brief.md"
 references:
-  - "Steve Blank — *The Four Steps to the Epiphany*"
-  - "Alexander Osterwalder & Yves Pigneur — *Business Model Generation*"
-  - "Noam Wasserman — *The Founder's Dilemmas*"
-  - "David J. Bland & Alexander Osterwalder — *Testing Business Ideas*"
-  - "Alexander Osterwalder et al. — *Value Proposition Design*"
-  - "Bill Aulet — *Disciplined Entrepreneurship*"
+  - "Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing*"
+  - "Richard Thaler — *Mental Accounting and Consumer Choice*"
+  - "Dan Ariely, George Loewenstein & Drazen Prelec — *Coherent Arbitrariness: Stable Demand Curves Without Stable Preferences*"
+  - "Ron Kohavi, Diane Tang & Ya Xu — *Trustworthy Online Controlled Experiments*"
+  - "David Skok — *SaaS Metrics resources*"
 limits:
-  - "Precios tempranos tienen muestras pequeñas y sesgo. No extrapoles elasticidad; usa experimentos éticos y coherencia contractual entre clientes."
+  - "Las pruebas de precio con muestras pequeñas son orientativas."
 evidence_signals:
-  - "close rate by price"
-  - "discount rate"
-  - "ARPA"
-  - "gross margin"
-  - "expansion"
+  - "valor piso y techo estimados"
+  - "estructura de cobro elegida"
+  - "prueba de precio con criterios"
+  - "revisión y descuentos con política"

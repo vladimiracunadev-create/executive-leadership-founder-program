@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **cofounder agreement** de **vesting** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **cliff** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **deadlock** con **IP assignment**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué criterios sirven para evaluar a un cofundador?
+2. ¿Por qué se reparte con criterios y no de forma automática?
+3. ¿Qué es la adquisición gradual y qué protege?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Dos amigos forman 50/50. Uno deja trabajo full-time; el otro aporta fines de semana. Seis meses después reciben oferta de inversión y discrepan sobre quién será CEO.
+**Caso:** Dos amigos, Diego y Elena, fundaron hace un año una empresa de logística de última milla con 50 % cada uno, sin acuerdo escrito. Diego trabaja a tiempo completo y puso 12 millones de pesos; Elena trabaja medio tiempo y puso 3 millones, pero aportó los contactos con los primeros clientes, que representan 70 % de las ventas. Elena quiere irse a otra empresa en tres meses y conservar su 50 %. Un inversionista ofrece 60 millones por el 20 % de la empresa, con una bolsa de opciones del 10 % posterior a la ronda y exige adquisición gradual a los fundadores. Diego propone que Elena se quede con 20 %. Los clientes de Elena han dicho que les importa su relación con ella.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **alinear visión y compromiso → definir roles y decision rights → negociar equity y vesting → establecer IP y confidentiality → planificar departure deadlock y dispute**. Debes utilizar o diseñar cómo obtener **founder time commitment, equity split, vesting coverage**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **memo de equity y acuerdos** que contenga: (a) el análisis de aportes de cada uno con criterios y pesos; (b) un reparto propuesto con su justificación y alternativas; (c) el efecto de adquisición gradual con un plazo de 48 meses y período inicial de 12 sobre la salida de Elena; (d) la dilución con la oferta del inversionista; (e) los puntos del acuerdo de socios y los mecanismos de salida y de solución de conflictos; (f) las verificaciones societarias, tributarias y contractuales pendientes con asesoría. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **No existe fórmula universal de equity. Considera aportes, riesgo futuro y compromiso, y formaliza con asesoría jurídica según jurisdicción.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Ninguna fórmula elimina la necesidad de confianza.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

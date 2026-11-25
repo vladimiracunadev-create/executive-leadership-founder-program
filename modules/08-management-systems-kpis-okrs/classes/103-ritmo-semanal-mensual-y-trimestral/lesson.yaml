@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir weekly cadence de monthly review mediante evidencia observable."
-  - "Aplicar la secuencia: clasificar decisiones por horizonte → diseñar weekly de excepciones → usar monthly para tendencias y forecast → reservar quarterly para estrategia y recursos → retirar reuniones redundantes."
-  - "Interpretar horas de reuniones, decisiones por foro, temas reabiertos sin atribuir causalidad automática."
-  - "Resolver el caso de ritmo semanal, mensual y trimestral con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Asignar a cada frecuencia un propósito, un insumo y una decisión."
+  - "Diseñar agendas que prioricen decisiones sobre informes."
+  - "Calcular el costo del tiempo de reunión y compararlo con su valor."
+  - "Coordinar el ritmo de equipo, de área y de empresa."
+  - "Detectar reuniones redundantes y proponer su reemplazo o eliminación."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "John Doerr — *Measure What Matters*"
-  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
-  - "Robert S. Kaplan & David P. Norton — *Strategy Maps*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "Larry Bossidy & Ram Charan — *Execution*"
   - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
-  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
-  - "Bernard Marr — *Key Performance Indicators*"
+  - "Robert S. Kaplan & David P. Norton — *Strategy Maps*"
+  - "John Doerr — *Measure What Matters*"
 limits:
-  - "Cadencia no debe sobrevivir por tradición. Si una reunión deja de producir decisiones o aprendizaje, rediseña o elimina; el calendario es parte del sistema operativo."
+  - "La frecuencia ideal depende del ritmo del negocio y de su incertidumbre; los ejemplos son ilustrativos."
 evidence_signals:
-  - "horas de reuniones"
-  - "decisiones por foro"
-  - "temas reabiertos"
-  - "escalamientos"
-  - "acciones vencidas"
+  - "propósito y decisión por ritmo"
+  - "costo del tiempo directivo calculado"
+  - "insumos previos acordados"
+  - "reuniones sin decisión eliminadas"

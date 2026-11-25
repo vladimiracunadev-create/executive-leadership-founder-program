@@ -10,217 +10,186 @@
 
 ## 🎯 Propósito
 
-Pasar de actividad a outcome exige distinguir cuánto trabajo hicimos de qué cambio produjo ese trabajo. Los outputs son necesarios para operar; los outcomes permiten saber si la estrategia funciona. Un sistema gerencial saludable conecta ambos mediante una teoría causal explícita y evita premiar volumen que no crea valor.
+Un equipo puede estar muy ocupado y no lograr nada que importe. Las reuniones se hacen, los informes se entregan, las campañas se lanzan y, sin embargo, el cliente no cambia su comportamiento ni el negocio mejora. La confusión entre **actividad**, **producto entregado**, **resultado** e **impacto** es la causa más frecuente de sistemas de gestión que miden mucho y orientan poco. Aprender a subir por esa cadena es la base de todo lo que sigue en la parte: objetivos, indicadores, tableros y revisiones.
 
-La salida de esta parte es **dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **de actividad a outcome** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la idea de Drucker de que los resultados están fuera de la organización y no dentro de ella, en el enfoque de Kaplan y Norton sobre cómo traducir la estrategia en medidas conectadas por causas y en la exigencia de Rumelt de que una estrategia nombre un problema y una acción coherente. Al terminar sabrás distinguir los cuatro eslabones, reescribir un plan de actividades como un plan de resultados y decidir en qué eslabón conviene medir y exigir.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `activity`, `output`, `outcome`, `impact`, `theory of change` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. nombrar outcome y stakeholder → 2. mapear outputs que plausiblemente lo habilitan → 3. explicitar mecanismo causal → 4. seleccionar métricas de outcome y driver → 5. revisar si los outputs realmente mueven la señal** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** outputs utilizados, outcome trend, conversion output-to-outcome sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** actividad, producto entregado, resultado (outcome) e impacto.
+2. **Reescribir** un plan de actividades como una cadena de resultados con hipótesis.
+3. **Elegir** el eslabón en que un equipo debe ser responsable.
+4. **Detectar** métricas de vanidad y de actividad.
+5. **Formular** la pregunta que conecta cada eslabón con el siguiente.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define activity y output sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con outputs utilizados y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: toma el último informe de tu área y marca cada línea como actividad, producto, resultado o impacto. |
+| 20–60 min | Cadena de resultados, hipótesis causales y responsabilidad. |
+| 60–105 min | Ejemplo trabajado: un plan de capacitación comercial. |
+| 105–150 min | Caso ejecutivo y práctica de reescritura. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **activity** | acción ejecutada que consume recursos | Distingue un hecho compatible y otro que lo refute. |
-| **output** | producto directo y controlable de una actividad | Distingue un hecho compatible y otro que lo refute. |
-| **outcome** | cambio observable en cliente, negocio o capacidad | Distingue un hecho compatible y otro que lo refute. |
-| **impact** | efecto de largo plazo al que contribuyen múltiples factores | Distingue un hecho compatible y otro que lo refute. |
-| **theory of change** | hipótesis que conecta actividades, outputs y outcomes | Distingue un hecho compatible y otro que lo refute. |
+| **Actividad** | Acción que el equipo ejecuta. | Verbos como realizar, lanzar, reunir. |
+| **Producto entregado (output)** | Lo que sale terminado de la actividad. | Se puede mostrar o contar. |
+| **Resultado (outcome)** | Cambio en el comportamiento o la condición de clientes, personas o procesos. | Hay un antes y un después en quien recibe. |
+| **Impacto** | Efecto sobre los objetivos del negocio: ingresos, costos, riesgo, reputación. | Se mide con variables financieras o estratégicas. |
+| **Hipótesis causal** | Creencia de que un eslabón produce el siguiente. | Se puede contrastar con datos. |
+| **Métrica de vanidad** | Cifra que crece sin que cambie nada importante. | Se celebra y no se usa para decidir. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 097: 1. nombrar outcome y stakeholder → 2. mapear outputs que plausiblemente lo habilitan → 3. explicitar mecanismo causal → 4. seleccionar métricas de outcome y driver → 5. revisar si los outputs realmente mueven la señal](modelo-mental.svg)
+![Cadena de cuatro eslabones: actividad, producto entregado, resultado e impacto, con la pregunta de cada uno.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. nombrar outcome y stakeholder → 2. mapear outputs que plausiblemente lo habilitan → 3. explicitar mecanismo causal → 4. seleccionar métricas de outcome y driver → 5. revisar si los outputs realmente mueven la señal
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Pasar de actividad a outcome exige distinguir cuánto trabajo hicimos de qué cambio produjo ese trabajo. Los outputs son necesarios para operar; los outcomes permiten saber si la estrategia funciona. Un sistema gerencial saludable conecta ambos mediante una teoría causal explícita y evita premiar volumen que no crea valor.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un outcome puede estar influido por factores fuera del equipo. No lo conviertas en evaluación simplista de una persona; combina controlabilidad, contribución y contexto.**
+**Cómo leer el diagrama.** Cuatro eslabones con una pregunta cada uno. En la **actividad** se pregunta si se hizo; en el **producto**, si quedó listo; en el **resultado**, si cambió algo para quien lo recibe; en el **impacto**, si valió la pena para el negocio. Cuanto más a la derecha, más importante y más difícil de atribuir. La disciplina gerencial consiste en no quedarse en los eslabones de la izquierda y, a la vez, no exigir a un equipo un impacto que no controla.
 
 ## 📖 Desarrollo
 
-### 1. activity: mecanismo central
+### 1. Los resultados están afuera
 
-**activity** se entiende aquí como **acción ejecutada que consume recursos**. Esta es la pieza causal o estructural desde la que se inicia **de actividad a outcome**: antes de nombrar outcome y stakeholder, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Drucker sostuvo que, dentro de una organización, solo hay costos; los resultados existen fuera, en los clientes y en el entorno. Medir lo que ocurre adentro (horas trabajadas, reuniones realizadas, informes publicados) describe esfuerzo, no logro. Esto no significa que la actividad sea irrelevante: es el medio por el cual se produce el resultado y también el costo que se paga. La pregunta gerencial es si ese costo está produciendo un cambio real que alguien fuera del equipo pueda reconocer.
 
-La lectura rectora de este bloque es John Doerr — *Measure What Matters*. Su aporte se usa para examinar **objetivos, resultados clave, foco, transparencia y cadencia de seguimiento**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **outputs utilizados**; regístrala con periodo, unidad, población y baseline.
+### 2. Los cuatro eslabones
 
-Relaciona el mecanismo con **output**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Una actividad (capacitar a 40 vendedores) produce un **producto** (40 personas con un curso terminado). Ese producto puede generar un **resultado** (los vendedores cambian cómo llevan la conversación comercial y la tasa de cierre de propuestas sube) y, a su vez, un **impacto** (crecen los ingresos y el margen). Cada flecha es una hipótesis: capacitar no garantiza que se aprenda; aprender no garantiza que se aplique; aplicar no garantiza que se venda más. Un plan serio explicita esas hipótesis y define cómo comprobarlas.
 
-### 2. output: frontera conceptual y error de clasificación
+### 3. Dónde pedir cuentas
 
-**Definición operacional:** producto directo y controlable de una actividad. Su valor está en distinguirlo de **activity** y **outcome**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Si se exige solo el producto («terminar el curso»), el equipo cumple y nada cambia. Si se exige solo el impacto («aumentar ventas 15 %»), el equipo responde por variables que no controla del todo: precios, competencia, ciclo económico. El eslabón más útil para pedir cuentas a un equipo suele ser el **resultado**: un cambio que depende en buena medida de su trabajo y que se puede observar con relativa rapidez. El impacto se usa para evaluar si la estrategia tiene sentido; el resultado, para saber si el equipo avanza.
 
-Contrasta el problema con Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*, que aporta una mirada sobre **traducción de estrategia a objetivos, indicadores y relaciones causales**. Formula dos mini-casos: uno que sí satisface la definición de **output** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **outcome trend** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Métricas de vanidad y de actividad
 
-Antes de mapear outputs que plausiblemente lo habilitan, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Una **métrica de vanidad** crece sin informar decisiones: visitas a una página, descargas de un documento, número de reuniones. Una **métrica de actividad** mide esfuerzo: tareas cerradas, correos enviados. No son inútiles, pero se vuelven peligrosas cuando se transforman en meta: el equipo optimiza lo medido. Una prueba sencilla: ¿qué decisión cambiaría si esta cifra subiera o bajara 20 %? Si nadie puede responder, la métrica probablemente no sirve para gestionar.
 
-### 3. outcome: operacionalización y medición
+### 5. Hipótesis y evidencia
 
-**outcome** significa **cambio observable en cliente, negocio o capacidad**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Kaplan y Norton enfatizan que una estrategia es un conjunto de **hipótesis sobre causas y efectos** que se prueban con datos. Un mapa de estrategia es eso: una cadena de creencias («si mejoramos la formación, mejorará la ejecución comercial; si mejora la ejecución, aumentará la retención de clientes»). La gestión de resultados exige volver periódicamente a las hipótesis y preguntar si se están cumpliendo. Si el producto se entrega y el resultado no aparece, el problema puede estar en el diseño del producto, en su aplicación o en que la hipótesis era errónea.
 
-John Doerr — *Speed & Scale* orienta este bloque mediante **perspectiva de Ejecución aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **conversion output-to-outcome**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. La estrategia debe nombrar un problema
 
-Al llegar a explicitar mecanismo causal, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Rumelt critica los planes que son listas de metas y actividades sin diagnóstico. Una buena estrategia identifica el desafío crítico, define una política que lo enfrenta y coordina acciones coherentes. Pasar de actividad a resultado obliga a explicitar qué problema se resuelve. Sin esa claridad, cada área llena su calendario y nadie puede decir qué cambiará. Por eso la reescritura de un plan de actividades empieza por la pregunta: ¿qué situación queremos ver distinta y cómo lo notaremos?
 
-### 4. impact: trade-offs y efectos de segundo orden
+### 7. Reescribir un plan
 
-**Definición:** efecto de largo plazo al que contribuyen múltiples factores. Este concepto obliga a abandonar la idea de que **de actividad a outcome** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de seleccionar métricas de outcome y driver, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Andrew S. Grove — *High Output Management* aporta una lente sobre **output managerial, leverage, reuniones, indicadores y gestión por procesos**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **cost per outcome** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **de actividad a outcome**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **impact** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. theory of change: gobernanza, límites e integración
-
-**theory of change** se define como **hipótesis que conecta actividades, outputs y outcomes** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Larry Bossidy & Ram Charan — *Execution* se utiliza para estudiar **disciplina de ejecución, personas, estrategia y operaciones** y contrastar la recomendación final. Al ejecutar revisar si los outputs realmente mueven la señal, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un outcome puede estar influido por factores fuera del equipo. No lo conviertas en evaluación simplista de una persona; combina controlabilidad, contribución y contexto.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **activity**, **output**, **outcome**, **impact** y **theory of change** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **de actividad a outcome** no consiste en sumar cinco definiciones. Empieza por **activity**, contrasta **output** con **outcome**, incorpora **impact** como restricción o mecanismo y usa **theory of change** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. nombrar outcome y stakeholder → 2. mapear outputs que plausiblemente lo habilitan → 3. explicitar mecanismo causal → 4. seleccionar métricas de outcome y driver → 5. revisar si los outputs realmente mueven la señal**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El método práctico tiene cuatro pasos. (1) Para cada actividad del plan, preguntar «¿para qué?» hasta llegar a un cambio en alguien o algo fuera del equipo. (2) Formular ese cambio como resultado observable con una medida y un plazo. (3) Escribir la hipótesis que une actividad y resultado y la forma de verificarla. (4) Decidir qué actividades se mantienen, cuáles se cambian y cuáles se eliminan porque no tienen un resultado asociado. Es habitual que entre una cuarta parte y la mitad de las actividades de un plan no resistan esa pregunta.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| John Doerr — *Measure What Matters* | objetivos, resultados clave, foco, transparencia y cadencia de seguimiento | ¿Qué supuesto de **de actividad a outcome** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* | traducción de estrategia a objetivos, indicadores y relaciones causales | ¿Qué supuesto de **de actividad a outcome** ayuda a desafiar? |
-| John Doerr — *Speed & Scale* | perspectiva de Ejecución aplicada al problema de la clase | ¿Qué supuesto de **de actividad a outcome** ayuda a desafiar? |
-| Andrew S. Grove — *High Output Management* | output managerial, leverage, reuniones, indicadores y gestión por procesos | ¿Qué supuesto de **de actividad a outcome** ayuda a desafiar? |
-| Larry Bossidy & Ram Charan — *Execution* | disciplina de ejecución, personas, estrategia y operaciones | ¿Qué supuesto de **de actividad a outcome** ayuda a desafiar? |
-
-En **de actividad a outcome**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **activity**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Drucker | Resultados fuera de la organización; gestión por objetivos con autocontrol. | Es amplio; no entrega fichas de medición. | ¿Quién fuera del equipo notaría el cambio? |
+| Kaplan y Norton (*Strategy Maps*) | Cadena causal entre perspectivas y medidas. | Exige una estrategia ya definida. | ¿Qué hipótesis une tus eslabones? |
+| Rumelt | Diagnóstico, política y acciones coherentes. | No prescribe medidas. | ¿Qué problema crítico enfrentas? |
+| Marr | Criterios para elegir indicadores. | Poco sobre estrategia. | ¿Qué decisión cambia con este indicador? |
+| Doerr | Resultados clave medibles frente a tareas. | Casos seleccionados. | ¿Tu resultado clave es una tarea disfrazada? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un equipo de soporte celebra cerrar 4.000 tickets al mes. El volumen sube, pero la tasa de reapertura y el tiempo del cliente para resolver el problema empeoran.
+**Situación (hipotética).** La gerencia comercial de una empresa de software de gestión para clínicas presenta su plan anual con cinco líneas: (1) capacitar a 40 ejecutivos, (2) lanzar 12 campañas de correo, (3) asistir a 6 ferias, (4) rediseñar la página web, (5) implementar un CRM nuevo.
 
-**Paso 1 — nombrar outcome y stakeholder.** La gerencia escribe primero el supuesto asociado a **activity** y evita convertirlo en hecho. Luego busca **outputs utilizados** para contrastarlo en el caso de **de actividad a outcome**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Línea | Eslabón | Pregunta «¿para qué?» | Reescritura como resultado |
+|---|---|---|---|
+| Capacitar a 40 ejecutivos | Actividad | Para que conduzcan mejor las demostraciones | La tasa de avance de demostración a propuesta sube de 28 % a 38 % en el segundo semestre |
+| 12 campañas de correo | Actividad | Para generar reuniones con clínicas medianas | 60 reuniones calificadas por trimestre con clínicas de 10 a 50 profesionales |
+| 6 ferias | Actividad | Para conocer más clínicas | No hay un resultado claro; se evalúa cada feria por reuniones calificadas y costo por reunión |
+| Rediseñar la web | Producto | Para que quienes llegan pidan una demostración | Las solicitudes de demostración desde la web suben de 40 a 70 al mes |
+| Implementar un CRM | Producto | Para que el equipo registre el avance de cada oportunidad | 90 % de las oportunidades con etapa y próxima acción actualizada semanalmente |
 
-**Paso 2 — mapear outputs que plausiblemente lo habilitan.** La gerencia escribe primero el supuesto asociado a **output** y evita convertirlo en hecho. Luego busca **outcome trend** para contrastarlo en el caso de **de actividad a outcome**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Hipótesis explícitas.** (a) Mejores demostraciones elevan la conversión a propuesta. (b) Más reuniones calificadas elevan las propuestas, si el equipo tiene capacidad para atenderlas (la capacidad se verifica). (c) Registrar etapas permite detectar oportunidades estancadas y actuar.
 
-**Paso 3 — explicitar mecanismo causal.** La gerencia escribe primero el supuesto asociado a **outcome** y evita convertirlo en hecho. Luego busca **conversion output-to-outcome** para contrastarlo en el caso de **de actividad a outcome**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisión.** Se mantienen las líneas 1, 2, 4 y 5 con sus resultados. La línea 3 se reduce a dos ferias con criterio de reuniones calificadas; los recursos liberados financian pruebas del segmento.
 
-**Paso 4 — seleccionar métricas de outcome y driver.** La gerencia escribe primero el supuesto asociado a **impact** y evita convertirlo en hecho. Luego busca **cost per outcome** para contrastarlo en el caso de **de actividad a outcome**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — revisar si los outputs realmente mueven la señal.** La gerencia escribe primero el supuesto asociado a **theory of change** y evita convertirlo en hecho. Luego busca **acciones sin efecto** para contrastarlo en el caso de **de actividad a outcome**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **de actividad a outcome**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Cada línea se conectó con un cambio externo. (2) Las hipótesis quedaron explícitas y verificables. (3) Una actividad sin resultado claro se redujo en lugar de repetirse por costumbre.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **activity** | acción ejecutada que consume recursos | Cuando outputs utilizados es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **output** | producto directo y controlable de una actividad | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Resultado frente a impacto.** El resultado es el cambio que el equipo puede provocar; el impacto es su efecto en el negocio, mezclado con muchas otras causas. Exigir impacto a un equipo sin autoridad sobre las demás causas genera frustración y manipulación.
 
-**Frontera de aplicación:** Un outcome puede estar influido por factores fuera del equipo. No lo conviertas en evaluación simplista de una persona; combina controlabilidad, contribución y contexto.
+**Límites.** No todo resultado es fácil de medir en el corto plazo (reputación, aprendizaje, cultura); en esos casos se usan indicadores indirectos con cautela. La cadena causal es una simplificación: los efectos suelen tener varias causas y retardos. Y la exigencia de resultados no debe empujar a ocultar el costo humano o a descuidar actividades necesarias pero invisibles, como el mantenimiento o el cumplimiento normativo, que tienen su propio criterio de «hecho».
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre de actividad a outcome |
+| Nivel | Cómo piensa en resultados |
 |---|---|
-| **Profesional** | usa **de actividad a outcome** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **activity** y **output** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta outputs utilizados con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si de actividad a outcome cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de de actividad a outcome reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **de actividad a outcome** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Pregunta para qué sirve su tarea y qué cambio produce. |
+| **Jefe / Team Lead** | Plantea a su equipo resultados y no solo tareas. |
+| **Gerente** | Conecta los resultados de sus equipos con los impactos de la estrategia. |
+| **CEO / Director** | Pide hipótesis y evidencia antes de aprobar actividades. |
+| **Founder / Owner** | Evita construir por inercia y mide si lo que hace cambia algo para el cliente. |
 
 ## 🏢 Caso ejecutivo
 
-Un equipo de soporte celebra cerrar 4.000 tickets al mes. El volumen sube, pero la tasa de reapertura y el tiempo del cliente para resolver el problema empeoran.
+Una cadena de colegios privados presenta al directorio su plan de «transformación digital»: comprar tabletas para 3.000 estudiantes, capacitar a 180 docentes en una plataforma y lanzar una aplicación para apoderados. Cada línea tiene presupuesto y fecha. El presidente del directorio pregunta qué cambiará en la experiencia de los estudiantes y qué se espera en matrículas y retención. La gerencia responde con el avance de las compras y las horas de capacitación. Hay tensión: los docentes sienten que se les exige usar una plataforma sin saber para qué; los apoderados reclaman por información que no llega.
 
-Entrega un **decision brief de de actividad a outcome** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de resultados** que contenga: (a) la cadena actividad–producto–resultado–impacto de cada línea; (b) los resultados observables con medida y plazo; (c) las hipótesis causales y cómo se verificarán; (d) el eslabón en que se pedirá cuentas a cada equipo; (e) las actividades que se cambiarían o eliminarían; (f) qué decisión del directorio tomarías según los primeros resultados.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **de actividad a outcome** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. nombrar outcome y stakeholder → 2. mapear outputs que plausiblemente lo habilitan → 3. explicitar mecanismo causal → 4. seleccionar métricas de outcome y driver → 5. revisar si los outputs realmente mueven la señal** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta outputs utilizados, outcome trend; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Clasifica diez líneas de un plan real como actividad, producto, resultado o impacto.
+2. Reescribe tres actividades como resultados con medida y plazo.
+3. Escribe la hipótesis que une una actividad con su resultado y cómo la verificarías.
+4. Identifica una métrica de vanidad de tu área y propón una alternativa.
+5. Define en qué eslabón pedirás cuentas a un equipo y por qué.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar activity y output como sinónimos | Se pierde la distinción entre “acción ejecutada que consume recursos” y “producto directo y controlable de una actividad” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar si los outputs realmente mueven la señal” | Se saltó “nombrar outcome y stakeholder” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. nombrar outcome y stakeholder → 2. mapear outputs que plausiblemente lo habilitan → 3. explicitar mecanismo causal → 4. seleccionar métricas de outcome y driver → 5. revisar si los outputs realmente mueven la señal y marca el primer supuesto no demostrado. |
-| Optimizar solo outputs utilizados | La métrica local sustituyó al resultado del sistema | Contrástala con outcome trend y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre de actividad a outcome | Un outcome puede estar influido por factores fuera del equipo. No lo conviertas en evaluación simplista de una persona; combina controlabilidad, contribución y contexto. |
-| No fijar revisión | Una decisión sobre de actividad a outcome se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Medir solo actividad | Es fácil de contar | Preguntar «¿para qué?» hasta el cambio externo. |
+| Exigir impacto a quien no lo controla | Se quiere responsabilidad total | Pedir cuentas por el resultado. |
+| Dar por cierta la hipótesis | Parece obvia | Explicitarla y verificarla. |
+| Celebrar métricas de vanidad | Suben solas | Preguntar qué decisión cambiaría. |
+| Resultados sin plazo ni medida | Se redactan como deseos | Medida, línea base y fecha. |
+| Mantener actividades sin resultado | Costumbre | Revisar y eliminar. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **activity** y **output** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **outcome** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **nombrar outcome y stakeholder → mapear outputs que plausiblemente lo habilitan** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **outputs utilizados** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **de actividad a outcome**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un outcome puede estar influido por factores fuera del equipo. No lo conviertas en evaluación simplista de una persona; combina controlabilidad, contribución y contexto.**?
+1. ¿Qué diferencia hay entre producto entregado y resultado?
+2. ¿Por qué Drucker dice que los resultados están fuera de la organización?
+3. ¿En qué eslabón suele convenir pedir cuentas a un equipo?
+4. ¿Qué es una métrica de vanidad y cómo se detecta?
+5. ¿Qué es una hipótesis causal en un plan?
+6. ¿Qué cuatro pasos tiene la reescritura de un plan de actividades?
+7. ¿Qué límite tiene la cadena de resultados?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El producto es lo que sale terminado; el resultado es el cambio que produce en quien lo recibe.
+2. Porque dentro solo hay esfuerzo y costo; el valor lo reconocen clientes y entorno.
+3. En el resultado, porque el equipo lo puede influir en buena medida y observar con rapidez.
+4. Una cifra que crece sin informar decisiones; se detecta preguntando qué decisión cambiaría si subiera o bajara 20 %.
+5. Una creencia de que un eslabón produce el siguiente, que se puede contrastar con datos.
+6. Preguntar «¿para qué?», formular el resultado observable, escribir la hipótesis y su verificación, y decidir qué actividades se mantienen, cambian o eliminan.
+7. Es una simplificación: los efectos tienen varias causas y retardos, y algunos resultados son difíciles de medir en el corto plazo.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/097-de-actividad-a-outcome/`:
 
-- `leadership-decision-brief.md` con el problema específico de **de actividad a outcome**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **de actividad a outcome** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **activity**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un equipo de soporte celebra cerrar 4.000 tickets al mes. El volumen sube, pero la tasa de reapertura y el tiempo del cliente para resolver el problema empeoran.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan de resultados del caso ejecutivo;
+- `kpi-tree.md` (plantilla [KPI tree](../../../../templates/kpi-tree.md)) con la cadena actividad–producto–resultado–impacto;
+- `decision-journal.md` con las hipótesis, su verificación y las actividades eliminadas.
 
 ## 📗 Fuentes y verificación
 
-- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** objetivos, resultados clave, foco, transparencia y cadencia de seguimiento. Lectura selectiva sobre **de actividad a outcome**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
-- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** traducción de estrategia a objetivos, indicadores y relaciones causales. Lectura selectiva sobre **de actividad a outcome**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
-- John Doerr — *Speed & Scale* (Penguin Publishing Group, 2021). **Uso en esta clase:** perspectiva de Ejecución aplicada al problema de la clase. Lectura selectiva sobre **de actividad a outcome**. **Localizador:** [ISBN-13 9780593420478](https://openlibrary.org/isbn/9780593420478).
-- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** output managerial, leverage, reuniones, indicadores y gestión por procesos. Lectura selectiva sobre **de actividad a outcome**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
-- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva sobre **de actividad a outcome**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
-- Bernard Marr — *Key Performance Indicators* (Pearson Financial Times Pub., 2012). **Uso en esta clase:** selección de métricas útiles y conexión entre indicadores y decisiones. Lectura selectiva sobre **de actividad a outcome**. **Localizador:** [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **de actividad a outcome** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **de actividad a outcome**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **de actividad a outcome** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **de actividad a outcome** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **de actividad a outcome** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** resultados fuera de la organización y gestión por objetivos. Lectura selectiva sobre **de actividad a outcome**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
+- Robert S. Kaplan & David P. Norton — *Strategy Maps* (Harvard Business School Press, 2004). **Uso en esta clase:** cadena causal entre perspectivas y medidas. Lectura selectiva sobre **de actividad a outcome**. **Localizador:** [ISBN-13 9781591391340](https://openlibrary.org/isbn/9781591391340).
+- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política y acciones coherentes. Lectura selectiva sobre **de actividad a outcome**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
+- Bernard Marr — *Key Performance Indicators* (Pearson Financial Times Pub., 2012). **Uso en esta clase:** criterios para elegir indicadores. Lectura selectiva sobre **de actividad a outcome**. **Localizador:** [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116).
+- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** resultados clave medibles frente a tareas. Lectura selectiva sobre **de actividad a outcome**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
 
-> **Regla de fuentes para De actividad a outcome:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **de actividad a outcome** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para De actividad a outcome:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

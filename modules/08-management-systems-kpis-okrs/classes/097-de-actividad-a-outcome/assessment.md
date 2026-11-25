@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **activity** de **output** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **outcome** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **impact** con **theory of change**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre producto entregado y resultado?
+2. ¿Por qué Drucker dice que los resultados están fuera de la organización?
+3. ¿En qué eslabón suele convenir pedir cuentas a un equipo?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un equipo de soporte celebra cerrar 4.000 tickets al mes. El volumen sube, pero la tasa de reapertura y el tiempo del cliente para resolver el problema empeoran.
+**Caso:** Una cadena de colegios privados presenta al directorio su plan de «transformación digital»: comprar tabletas para 3.000 estudiantes, capacitar a 180 docentes en una plataforma y lanzar una aplicación para apoderados. Cada línea tiene presupuesto y fecha. El presidente del directorio pregunta qué cambiará en la experiencia de los estudiantes y qué se espera en matrículas y retención. La gerencia responde con el avance de las compras y las horas de capacitación. Hay tensión: los docentes sienten que se les exige usar una plataforma sin saber para qué; los apoderados reclaman por información que no llega.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **nombrar outcome y stakeholder → mapear outputs que plausiblemente lo habilitan → explicitar mecanismo causal → seleccionar métricas de outcome y driver → revisar si los outputs realmente mueven la señal**. Debes utilizar o diseñar cómo obtener **outputs utilizados, outcome trend, conversion output-to-outcome**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de resultados** que contenga: (a) la cadena actividad–producto–resultado–impacto de cada línea; (b) los resultados observables con medida y plazo; (c) las hipótesis causales y cómo se verificarán; (d) el eslabón en que se pedirá cuentas a cada equipo; (e) las actividades que se cambiarían o eliminarían; (f) qué decisión del directorio tomarías según los primeros resultados. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Un outcome puede estar influido por factores fuera del equipo. No lo conviertas en evaluación simplista de una persona; combina controlabilidad, contribución y contexto.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: No todo resultado es fácil de medir en el corto plazo (reputación, aprendizaje, cultura); en esos casos se usan indicadores indirectos con cautela.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

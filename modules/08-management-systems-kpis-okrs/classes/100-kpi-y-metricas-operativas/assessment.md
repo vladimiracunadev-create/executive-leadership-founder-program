@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **metric** de **KPI** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **definition** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **denominator** con **owner**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Por qué se parte de las decisiones para elegir indicadores?
+2. ¿Qué campos tiene la ficha de un KPI?
+3. ¿Qué diferencia hay entre indicadores operativos, de gestión y estratégicos?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Dos áreas reportan churn de 4% y 9%. Una usa clientes y otra MRR como denominador; ambas llaman al indicador exactamente igual.
+**Caso:** Una empresa de salud con 14 clínicas tiene un tablero de 62 indicadores que el directorio recibe cada mes. El tiempo de espera de pacientes se calcula de tres formas distintas según la clínica. Los directores de clínica son evaluados por «cumplimiento del tiempo de espera menor a 30 minutos» y por «productividad médica (consultas por hora)». Desde que se introdujo la meta, el tiempo de espera medido bajó de 41 a 26 minutos, pero aumentaron las reclamaciones por consultas apuradas y aparecieron clínicas que registran la «hora de llegada» al momento de pasar a box. El gerente general quiere un tablero más corto y confiable.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **empezar por decisión → definir métrica y fórmula → validar fuente y población → establecer baseline, target y frecuencia → documentar qué acción activa cada rango**. Debes utilizar o diseñar cómo obtener **data quality, KPI ownership, frequency**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **rediseño del sistema de indicadores** que contenga: (a) la selección de 8 a 12 indicadores con la decisión que informa cada uno; (b) tres fichas completas, incluida la del tiempo de espera; (c) las familias de indicadores con contrapesos; (d) el análisis de manipulación y cómo se detectará; (e) la separación entre indicadores operativos, de gestión y estratégicos; (f) la política de revisión y retiro, y los aspectos de datos de pacientes y de evaluación de personas que deberán verificarse con asesoría. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Un KPI que se convierte en objetivo puede dejar de ser buen indicador por gaming. Mantén métricas de control y señales complementarias.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: No todo lo importante se mide con precisión (confianza, cultura, reputación).
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

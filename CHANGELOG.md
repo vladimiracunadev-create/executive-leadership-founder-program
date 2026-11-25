@@ -39,6 +39,10 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 08 completa** (097–108): de actividad a resultado, diseño de objetivos (Locke y Latham, Ordóñez y
+  otros), OKR, fichas de KPI (Marr, Muller), indicadores adelantados y rezagados (Ittner y Larcker), cuadro de
+  mando integral, ritmo de gestión, revisiones de negocio, priorización, asignación de recursos y gestión por
+  excepción; cada clase con fuentes verificadas y un diagrama a medida.
 - **La parte 07 completa** (085–096): la empresa como sistema, mapeo de procesos, SOP, capacidad y demanda,
   teoría de restricciones, lean, variabilidad y control estadístico, niveles de servicio (SLI, SLO, SLA),
   proveedores y terceros, continuidad, automatización y capstone de rediseño; cada clase con fuentes

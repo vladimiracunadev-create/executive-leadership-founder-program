@@ -10,217 +10,187 @@
 
 ## 🎯 Propósito
 
-Un KPI es una métrica seleccionada porque informa sobre un aspecto material del desempeño. El problema no es tener pocos o muchos datos, sino confundir indicador con objetivo, causalidad o explicación. Cada KPI necesita definición, owner, fuente, frecuencia, segmentación y acción asociada.
+Casi toda organización tiene más indicadores de los que usa. Los tableros se llenan de cifras que nadie sabe de dónde salen, que dos áreas calculan de formas distintas y que no cambian ninguna decisión. Un **indicador clave de desempeño (KPI)** vale por la decisión que informa, no por la cantidad de datos que muestra. Elegir pocos, definirlos con precisión, asignarles un dueño y asociarles un umbral de acción es un trabajo de diseño tan importante como la estrategia que pretenden vigilar.
 
-La salida de esta parte es **dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **kPI y métricas operativas** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la guía práctica de Marr para seleccionar y definir indicadores, en la advertencia de Muller sobre la «tiranía de las métricas» cuando la medición sustituye al juicio, y en la lógica de medidas conectadas de Kaplan y Norton. Al terminar sabrás construir la ficha de un KPI, distinguir métricas operativas de indicadores estratégicos, detectar los efectos de convertir un indicador en meta y diseñar contrapesos.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `metric`, `KPI`, `definition`, `denominator`, `owner` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. empezar por decisión → 2. definir métrica y fórmula → 3. validar fuente y población → 4. establecer baseline, target y frecuencia → 5. documentar qué acción activa cada rango** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** data quality, KPI ownership, frequency sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Elegir** pocos indicadores a partir de las decisiones que deben informar.
+2. **Escribir** la ficha de un KPI con definición, fuente, frecuencia, dueño y umbral.
+3. **Distinguir** métricas operativas, KPI e indicadores estratégicos.
+4. **Anticipar** los efectos de convertir un indicador en meta.
+5. **Diseñar** contrapesos y revisiones para mantener la confiabilidad del indicador.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define metric y KPI sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con data quality y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: elige un indicador de tu tablero y pregúntate qué decisión cambió el último mes por su valor. |
+| 20–60 min | Selección, ficha, tipos de indicador y efectos de la medición. |
+| 60–105 min | Ejemplo trabajado: el indicador de entregas a tiempo de una distribuidora. |
+| 105–150 min | Caso ejecutivo y práctica de fichas. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **metric** | medida cuantitativa de una propiedad | Distingue un hecho compatible y otro que lo refute. |
-| **KPI** | indicador material para una decisión o resultado clave | Distingue un hecho compatible y otro que lo refute. |
-| **definition** | regla exacta de cálculo, población y periodo | Distingue un hecho compatible y otro que lo refute. |
-| **denominator** | base que hace comparables tasas y ratios | Distingue un hecho compatible y otro que lo refute. |
-| **owner** | rol responsable de calidad y uso del indicador | Distingue un hecho compatible y otro que lo refute. |
+| **Métrica** | Medida cuantitativa de algo. | Cualquier cifra calculada. |
+| **KPI** | Indicador que informa el avance hacia un objetivo importante y apoya decisiones. | Tiene decisión, dueño y umbral. |
+| **Métrica operativa** | Medida de la ejecución diaria de un proceso. | Se mira con frecuencia alta y acción inmediata. |
+| **Indicador estratégico** | Medida del avance de la estrategia. | Cambia lento y se revisa periódicamente. |
+| **Ficha de indicador** | Documento que define el indicador sin ambigüedad. | Dos personas calculan lo mismo. |
+| **Ley de Campbell / Goodhart (informal)** | Cuando una medida se vuelve meta, tiende a perder su valor como medida. | Se observa manipulación del número. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 100: 1. empezar por decisión → 2. definir métrica y fórmula → 3. validar fuente y población → 4. establecer baseline, target y frecuencia → 5. documentar qué acción activa cada rango](modelo-mental.svg)
+![Ficha de un indicador clave: decisión que informa, definición, fuente y frecuencia, dueño, umbral y señal.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. empezar por decisión → 2. definir métrica y fórmula → 3. validar fuente y población → 4. establecer baseline, target y frecuencia → 5. documentar qué acción activa cada rango
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un KPI es una métrica seleccionada porque informa sobre un aspecto material del desempeño. El problema no es tener pocos o muchos datos, sino confundir indicador con objetivo, causalidad o explicación. Cada KPI necesita definición, owner, fuente, frecuencia, segmentación y acción asociada.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un KPI que se convierte en objetivo puede dejar de ser buen indicador por gaming. Mantén métricas de control y señales complementarias.**
+**Cómo leer el diagrama.** Cada fila es un campo de la ficha con la pregunta que responde y un ejemplo. El primer campo es el más importante y el más olvidado: la **decisión que informa**. Si no se puede decir qué se haría distinto según el valor, el indicador es decoración. Los demás campos (definición, fuente, dueño, umbral) evitan que el indicador sea una opinión disfrazada de dato.
 
 ## 📖 Desarrollo
 
-### 1. metric: mecanismo central
+### 1. Partir de las decisiones
 
-**metric** se entiende aquí como **medida cuantitativa de una propiedad**. Esta es la pieza causal o estructural desde la que se inicia **kPI y métricas operativas**: antes de empezar por decisión, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Marr propone una pregunta inicial: ¿qué necesitamos saber para dirigir mejor? En lugar de preguntar qué se puede medir, se pregunta qué decisiones se toman y qué información las mejoraría. El resultado suele ser un conjunto corto: entre 5 y 10 indicadores por equipo o por proceso. Cada KPI debe poder responder: ¿qué objetivo apoya?, ¿qué decisión informa?, ¿quién actuará?, ¿con qué frecuencia se revisa?, ¿qué valor dispara una acción? Si faltan respuestas, el indicador no está listo.
 
-La lectura rectora de este bloque es John Doerr — *Measure What Matters*. Su aporte se usa para examinar **objetivos, resultados clave, foco, transparencia y cadencia de seguimiento**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **data quality**; regístrala con periodo, unidad, población y baseline.
+### 2. La ficha del indicador
 
-Relaciona el mecanismo con **KPI**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La ficha elimina ambigüedades. Incluye: **nombre**; **objetivo al que apoya**; **definición y fórmula** con lo que entra y lo que se excluye; **unidad**; **fuente de datos** y su responsable; **frecuencia** de medición y de revisión; **dueño**, que puede influir en el valor; **umbral o señal de acción**; **valor meta y línea base**; y **limitaciones conocidas**. El ejemplo clásico: «entregas a tiempo» puede significar entregas antes de la hora prometida, del día prometido o dentro de una ventana; sin definición, dos áreas reportarán cifras distintas y discutirán el número en lugar de la logística.
 
-### 2. KPI: frontera conceptual y error de clasificación
+### 3. Operativo, de gestión y estratégico
 
-**Definición operacional:** indicador material para una decisión o resultado clave. Su valor está en distinguirlo de **metric** y **definition**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Los indicadores operan en capas. **Operativos**: miden la ejecución diaria (pedidos despachados, tiempo de atención) y se revisan con alta frecuencia. **De gestión (KPI)**: resumen el desempeño de un proceso o área (cumplimiento de plazo, rotación, margen) y se revisan semanal o mensualmente. **Estratégicos**: indican si la estrategia avanza (participación en un segmento, retención de clientes ideales) y se revisan trimestralmente. Una buena cascada conecta las capas: los operativos explican los KPI, y los KPI los estratégicos. Un tablero que mezcla capas sin orden confunde a quienes deben decidir.
 
-Contrasta el problema con Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*, que aporta una mirada sobre **traducción de estrategia a objetivos, indicadores y relaciones causales**. Formula dos mini-casos: uno que sí satisface la definición de **KPI** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **KPI ownership** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Cuando medir distorsiona
 
-Antes de definir métrica y fórmula, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Muller documenta cómo, en educación, salud, policía y empresas, la medición con incentivos genera efectos indeseados: **foco en lo medido** a costa de lo importante, **manipulación** (clasificar casos para mejorar el número), **desplazamiento de metas**, **desmoralización** de profesionales que sienten que se reemplaza su juicio por cifras y **burocracia** por el costo de medir. No propone abandonar la medición, sino usarla con **juicio**: complementar con información cualitativa, evitar vincular mecánicamente indicadores a premios y castigos y aceptar que algunas dimensiones valiosas no se miden bien.
 
-### 3. definition: operacionalización y medición
+### 5. Contrapesos y familias de indicadores
 
-**definition** significa **regla exacta de cálculo, población y periodo**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un indicador solo puede ser engañoso; un conjunto equilibrado reduce el riesgo. Si se mide velocidad de atención, se acompaña con calidad de la resolución; si se mide ventas, con margen y devoluciones; si se mide productividad, con calidad y bienestar del equipo. Es la idea de **familias de indicadores**: unos empujan el desempeño y otros vigilan los efectos laterales. El diseño responde a la pregunta: «si alguien quisiera cumplir este número haciendo lo menos deseable, ¿cómo lo haría y qué indicador lo detectaría?».
 
-Robert S. Kaplan & David P. Norton — *Strategy Maps* orienta este bloque mediante **perspectiva de Estrategia aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **frequency**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Calidad del dato
 
-Al llegar a validar fuente y población, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Un indicador confiable necesita datos confiables: fuente única, proceso de captura claro, controles de calidad, tratamiento de datos faltantes y historial de cambios en la definición. Cuando se modifica una fórmula, se deja constancia y se recalculan las series para poder comparar. Se verifican periódicamente las cifras contra una fuente independiente (por ejemplo, una muestra revisada a mano). Y se declara la **incertidumbre**: con pocos datos o variabilidad alta, un cambio pequeño puede ser ruido (clase 091), por lo que se informan rangos o tendencias en lugar de comparar puntos aislados.
 
-### 4. denominator: trade-offs y efectos de segundo orden
+### 7. Revisar y retirar
 
-**Definición:** base que hace comparables tasas y ratios. Este concepto obliga a abandonar la idea de que **kPI y métricas operativas** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de establecer baseline, target y frecuencia, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Richard Rumelt — *Good Strategy/Bad Strategy* aporta una lente sobre **diagnóstico, política guía y acciones coherentes**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **actionability** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **kPI y métricas operativas**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **denominator** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. owner: gobernanza, límites e integración
-
-**owner** se define como **rol responsable de calidad y uso del indicador** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-John Doerr — *Speed & Scale* se utiliza para estudiar **perspectiva de Ejecución aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar documentar qué acción activa cada rango, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un KPI que se convierte en objetivo puede dejar de ser buen indicador por gaming. Mantén métricas de control y señales complementarias.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **metric**, **KPI**, **definition**, **denominator** y **owner** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **kPI y métricas operativas** no consiste en sumar cinco definiciones. Empieza por **metric**, contrasta **KPI** con **definition**, incorpora **denominator** como restricción o mecanismo y usa **owner** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. empezar por decisión → 2. definir métrica y fórmula → 3. validar fuente y población → 4. establecer baseline, target y frecuencia → 5. documentar qué acción activa cada rango**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Los indicadores tienen ciclo de vida. Se **revisan** cada seis o doce meses: ¿siguen apoyando una decisión?, ¿alguien los usó?, ¿cambió la estrategia? Se **retiran** los que no informan decisiones y se **agregan** los que surgen de nuevos objetivos. Un tablero que solo crece termina ignorado. Una regla práctica es exigir que, al agregar un indicador, se retire otro o se justifique por qué la atención adicional vale el costo de medirlo y revisarlo.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| John Doerr — *Measure What Matters* | objetivos, resultados clave, foco, transparencia y cadencia de seguimiento | ¿Qué supuesto de **kPI y métricas operativas** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* | traducción de estrategia a objetivos, indicadores y relaciones causales | ¿Qué supuesto de **kPI y métricas operativas** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *Strategy Maps* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **kPI y métricas operativas** ayuda a desafiar? |
-| Richard Rumelt — *Good Strategy/Bad Strategy* | diagnóstico, política guía y acciones coherentes | ¿Qué supuesto de **kPI y métricas operativas** ayuda a desafiar? |
-| John Doerr — *Speed & Scale* | perspectiva de Ejecución aplicada al problema de la clase | ¿Qué supuesto de **kPI y métricas operativas** ayuda a desafiar? |
-
-En **kPI y métricas operativas**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **metric**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Marr | Selección y definición de indicadores desde las decisiones. | Es una guía práctica; poca evidencia empírica. | ¿Qué decisión informa tu indicador? |
+| Muller | Efectos de medir con incentivos y límites del juicio métrico. | Es una crítica; ofrece pocas fórmulas. | ¿Qué conducta indeseada produce tu medida? |
+| Kaplan y Norton | Medidas conectadas por hipótesis causales. | Requiere una estrategia explícita. | ¿Qué relación causal supones? |
+| Deming | Variación y crítica a metas numéricas sin método. | No da fichas de indicadores. | ¿Es señal o ruido? |
+| Simons | Sistemas de control de diagnóstico e interactivos. | Marco general. | ¿Qué indicadores discutes y cuáles solo vigilas? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Dos áreas reportan churn de 4% y 9%. Una usa clientes y otra MRR como denominador; ambas llaman al indicador exactamente igual.
+**Situación (hipotética).** Una distribuidora de alimentos reporta «entregas a tiempo» de 94 %. Los clientes reclaman retrasos. Finanzas cuenta como «a tiempo» cualquier entrega realizada el día prometido; logística, la que llega dentro de la ventana de dos horas pactada con el cliente; comercial, la que llegó antes de la hora de cierre del local.
 
-**Paso 1 — empezar por decisión.** La gerencia escribe primero el supuesto asociado a **metric** y evita convertirlo en hecho. Luego busca **data quality** para contrastarlo en el caso de **kPI y métricas operativas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Campo | Definición acordada |
+|---|---|
+| **Decisión que informa** | Si baja de 88 % por tres días seguidos, se refuerzan rutas y se revisa la planificación del turno de tarde. |
+| **Definición** | Pedidos entregados dentro de la ventana de dos horas acordada, dividido por pedidos despachados en el día; se excluyen los rechazados por el cliente por motivos ajenos a la logística. |
+| **Fuente y frecuencia** | Sistema de seguimiento de rutas; se calcula cada día y se revisa semanalmente. |
+| **Dueño** | Jefa de logística. |
+| **Umbral** | Verde sobre 92 %; ámbar entre 88 % y 92 %; rojo bajo 88 %. |
+| **Contrapesos** | Costo por entrega y proporción de entregas con producto dañado, para evitar mejorar el plazo con rutas costosas o apuradas. |
 
-**Paso 2 — definir métrica y fórmula.** La gerencia escribe primero el supuesto asociado a **KPI** y evita convertirlo en hecho. Luego busca **KPI ownership** para contrastarlo en el caso de **kPI y métricas operativas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado de la nueva definición.** El indicador pasa de 94 % a 81 %. La diferencia no es un empeoramiento, sino una definición más cercana a la experiencia del cliente. El equipo no se desalienta porque se acuerda la línea base de 81 %, la meta de 90 % en seis meses y los contrapesos.
 
-**Paso 3 — validar fuente y población.** La gerencia escribe primero el supuesto asociado a **definition** y evita convertirlo en hecho. Luego busca **frequency** para contrastarlo en el caso de **kPI y métricas operativas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Uso.** En la tercera semana, el indicador cae a 84 % en una zona; se descubre que las rutas se planifican por la mañana con pedidos que llegan hasta mediodía. Se cambia el corte de pedidos. En dos meses sube a 89 %, con costo por entrega estable.
 
-**Paso 4 — establecer baseline, target y frecuencia.** La gerencia escribe primero el supuesto asociado a **denominator** y evita convertirlo en hecho. Luego busca **actionability** para contrastarlo en el caso de **kPI y métricas operativas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — documentar qué acción activa cada rango.** La gerencia escribe primero el supuesto asociado a **owner** y evita convertirlo en hecho. Luego busca **metric disputes** para contrastarlo en el caso de **kPI y métricas operativas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **kPI y métricas operativas**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La definición explícita cambió el número y la conversación. (2) El indicador dirigió una decisión concreta. (3) El contrapeso evitó lograr plazo a costa de costo o daño.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **metric** | medida cuantitativa de una propiedad | Cuando data quality es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **KPI** | indicador material para una decisión o resultado clave | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Indicador frente a objetivo.** El indicador mide; el objetivo fija un valor a lograr. Convertir cada indicador en objetivo multiplica los incentivos a manipular: se fijan metas solo en los indicadores que representan el logro buscado.
 
-**Frontera de aplicación:** Un KPI que se convierte en objetivo puede dejar de ser buen indicador por gaming. Mantén métricas de control y señales complementarias.
+**Límites.** No todo lo importante se mide con precisión (confianza, cultura, reputación). Un indicador rezagado informa tarde. La precisión aparente de un número puede dar falsa seguridad. Según Muller, la medición reemplaza al juicio cuando se la usa para premiar o castigar de forma mecánica. Y los indicadores sobre personas (productividad, desempeño) tienen implicancias laborales y de protección de datos que se verifican en la normativa vigente.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre kPI y métricas operativas |
+| Nivel | Cómo trabaja con indicadores |
 |---|---|
-| **Profesional** | usa **kPI y métricas operativas** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **metric** y **KPI** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta data quality con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si kPI y métricas operativas cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de kPI y métricas operativas reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **kPI y métricas operativas** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Registra datos con cuidado y señala cuando una definición no refleja la realidad. |
+| **Jefe / Team Lead** | Usa pocos indicadores operativos para decidir cada semana. |
+| **Gerente** | Define KPI con ficha, dueño y umbral, y diseña contrapesos. |
+| **CEO / Director** | Selecciona indicadores estratégicos y evita que la medición reemplace al juicio. |
+| **Founder / Owner** | Mide pocas cosas desde temprano y las revisa con rigor para no gobernarse por intuición. |
 
 ## 🏢 Caso ejecutivo
 
-Dos áreas reportan churn de 4% y 9%. Una usa clientes y otra MRR como denominador; ambas llaman al indicador exactamente igual.
+Una empresa de salud con 14 clínicas tiene un tablero de 62 indicadores que el directorio recibe cada mes. El tiempo de espera de pacientes se calcula de tres formas distintas según la clínica. Los directores de clínica son evaluados por «cumplimiento del tiempo de espera menor a 30 minutos» y por «productividad médica (consultas por hora)». Desde que se introdujo la meta, el tiempo de espera medido bajó de 41 a 26 minutos, pero aumentaron las reclamaciones por consultas apuradas y aparecieron clínicas que registran la «hora de llegada» al momento de pasar a box. El gerente general quiere un tablero más corto y confiable.
 
-Entrega un **decision brief de kPI y métricas operativas** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **rediseño del sistema de indicadores** que contenga: (a) la selección de 8 a 12 indicadores con la decisión que informa cada uno; (b) tres fichas completas, incluida la del tiempo de espera; (c) las familias de indicadores con contrapesos; (d) el análisis de manipulación y cómo se detectará; (e) la separación entre indicadores operativos, de gestión y estratégicos; (f) la política de revisión y retiro, y los aspectos de datos de pacientes y de evaluación de personas que deberán verificarse con asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **kPI y métricas operativas** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. empezar por decisión → 2. definir métrica y fórmula → 3. validar fuente y población → 4. establecer baseline, target y frecuencia → 5. documentar qué acción activa cada rango** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta data quality, KPI ownership; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Lista los indicadores de tu tablero y marca cuáles informan una decisión concreta.
+2. Escribe la ficha completa de tres indicadores clave.
+3. Define una familia de indicadores con un contrapeso para el principal.
+4. Identifica cómo alguien podría «cumplir» el número sin lograr el objetivo.
+5. Propón qué indicador retirarías y por qué.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar metric y KPI como sinónimos | Se pierde la distinción entre “medida cuantitativa de una propiedad” y “indicador material para una decisión o resultado clave” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “documentar qué acción activa cada rango” | Se saltó “empezar por decisión” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. empezar por decisión → 2. definir métrica y fórmula → 3. validar fuente y población → 4. establecer baseline, target y frecuencia → 5. documentar qué acción activa cada rango y marca el primer supuesto no demostrado. |
-| Optimizar solo data quality | La métrica local sustituyó al resultado del sistema | Contrástala con KPI ownership y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre kPI y métricas operativas | Un KPI que se convierte en objetivo puede dejar de ser buen indicador por gaming. Mantén métricas de control y señales complementarias. |
-| No fijar revisión | Una decisión sobre kPI y métricas operativas se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Tablero con decenas de indicadores | Se agregan sin retirar | Seleccionar por decisión y retirar los que no sirven. |
+| Definiciones distintas del mismo indicador | No hay ficha | Ficha única y control de cambios. |
+| Convertir cada indicador en meta | Se busca control | Metas solo en los centrales, con contrapesos. |
+| Sin dueño | Se asigna a «el área» | Una persona que puede influir. |
+| Comparar puntos aislados | Se interpreta ruido | Tendencias y rangos. |
+| Premiar o castigar mecánicamente | Parece objetivo | Combinar con juicio y contexto. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **metric** y **KPI** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **definition** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **empezar por decisión → definir métrica y fórmula** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **data quality** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **kPI y métricas operativas**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un KPI que se convierte en objetivo puede dejar de ser buen indicador por gaming. Mantén métricas de control y señales complementarias.**?
+1. ¿Por qué se parte de las decisiones para elegir indicadores?
+2. ¿Qué campos tiene la ficha de un KPI?
+3. ¿Qué diferencia hay entre indicadores operativos, de gestión y estratégicos?
+4. ¿Qué efectos describe Muller al medir con incentivos?
+5. ¿Qué es un contrapeso y qué problema evita?
+6. ¿Cómo se protege la calidad del dato?
+7. ¿Por qué se retiran indicadores?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Porque un indicador vale por la decisión que informa; elegir por lo que se puede medir llena el tablero de cifras sin uso.
+2. Nombre, objetivo, definición y fórmula, unidad, fuente, frecuencia, dueño, umbral, meta y línea base, y limitaciones.
+3. Los operativos miden la ejecución diaria, los de gestión resumen un proceso o área y los estratégicos indican el avance de la estrategia.
+4. Foco en lo medido, manipulación, desplazamiento de metas, desmoralización y burocracia.
+5. Un indicador que vigila un efecto lateral; evita cumplir un número a costa de otra dimensión importante.
+6. Fuente única, captura clara, controles, tratamiento de faltantes, historial de cambios y verificación con una fuente independiente.
+7. Porque los que no informan decisiones consumen atención y costo, y un tablero que solo crece termina ignorado.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/100-kpi-y-metricas-operativas/`:
 
-- `leadership-decision-brief.md` con el problema específico de **kPI y métricas operativas**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **kPI y métricas operativas** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **metric**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Dos áreas reportan churn de 4% y 9%. Una usa clientes y otra MRR como denominador; ambas llaman al indicador exactamente igual.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el rediseño del caso ejecutivo;
+- `kpi-tree.md` (plantilla [KPI tree](../../../../templates/kpi-tree.md)) con los indicadores, sus capas y sus contrapesos;
+- `decision-journal.md` con las tres fichas y la política de revisión.
 
 ## 📗 Fuentes y verificación
 
-- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** objetivos, resultados clave, foco, transparencia y cadencia de seguimiento. Lectura selectiva sobre **kpi y métricas operativas**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
-- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** traducción de estrategia a objetivos, indicadores y relaciones causales. Lectura selectiva sobre **kpi y métricas operativas**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
-- Robert S. Kaplan & David P. Norton — *Strategy Maps* (Harvard Business School Press, 2004). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **kpi y métricas operativas**. **Localizador:** [ISBN-13 9781591391340](https://openlibrary.org/isbn/9781591391340).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **kpi y métricas operativas**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- John Doerr — *Speed & Scale* (Penguin Publishing Group, 2021). **Uso en esta clase:** perspectiva de Ejecución aplicada al problema de la clase. Lectura selectiva sobre **kpi y métricas operativas**. **Localizador:** [ISBN-13 9780593420478](https://openlibrary.org/isbn/9780593420478).
-- Bernard Marr — *Key Performance Indicators* (Pearson Financial Times Pub., 2012). **Uso en esta clase:** selección de métricas útiles y conexión entre indicadores y decisiones. Lectura selectiva sobre **kpi y métricas operativas**. **Localizador:** [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **kpi y métricas operativas** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **kpi y métricas operativas**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **kpi y métricas operativas** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **kpi y métricas operativas** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **kpi y métricas operativas** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Bernard Marr — *Key Performance Indicators* (Pearson Financial Times Pub., 2012). **Uso en esta clase:** selección y definición de indicadores desde las decisiones. Lectura selectiva sobre **kpi y métricas operativas**. **Localizador:** [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116).
+- Jerry Z. Muller — *The Tyranny of Metrics* (Princeton University Press, 2018). **Uso en esta clase:** efectos de medir con incentivos y límites del juicio métrico. Lectura selectiva sobre **kpi y métricas operativas**. **Localizador:** [ISBN-13 9780691174952](https://openlibrary.org/isbn/9780691174952).
+- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** medidas conectadas por hipótesis causales. Lectura selectiva sobre **kpi y métricas operativas**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
+- W. Edwards Deming — *Out of the Crisis* (The MIT Press, 2000). **Uso en esta clase:** variación y crítica a las metas numéricas sin método. Lectura selectiva sobre **kpi y métricas operativas**. **Localizador:** [ISBN-13 9780262541152](https://openlibrary.org/isbn/9780262541152).
+- Robert Simons — *Levers of Control* (Harvard Business School Press, 1995). **Uso en esta clase:** sistemas de control de diagnóstico e interactivos. Lectura selectiva sobre **kpi y métricas operativas**. **Localizador:** [ISBN-13 9780875845593](https://openlibrary.org/isbn/9780875845593).
 
-> **Regla de fuentes para KPI y métricas operativas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **kPI y métricas operativas** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para KPI y métricas operativas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de protección de datos. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

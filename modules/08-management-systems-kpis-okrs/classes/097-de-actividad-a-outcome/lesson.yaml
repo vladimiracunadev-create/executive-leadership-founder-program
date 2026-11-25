@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir activity de output mediante evidencia observable."
-  - "Aplicar la secuencia: nombrar outcome y stakeholder → mapear outputs que plausiblemente lo habilitan → explicitar mecanismo causal → seleccionar métricas de outcome y driver → revisar si los outputs realmente mueven la señal."
-  - "Interpretar outputs utilizados, outcome trend, conversion output-to-outcome sin atribuir causalidad automática."
-  - "Resolver el caso de de actividad a outcome con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir actividad, producto entregado, resultado (outcome) e impacto."
+  - "Reescribir un plan de actividades como una cadena de resultados con hipótesis."
+  - "Elegir el eslabón en que un equipo debe ser responsable."
+  - "Detectar métricas de vanidad y de actividad."
+  - "Formular la pregunta que conecta cada eslabón con el siguiente."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "John Doerr — *Measure What Matters*"
-  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
-  - "John Doerr — *Speed & Scale*"
-  - "Andrew S. Grove — *High Output Management*"
-  - "Larry Bossidy & Ram Charan — *Execution*"
+  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Robert S. Kaplan & David P. Norton — *Strategy Maps*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
   - "Bernard Marr — *Key Performance Indicators*"
+  - "John Doerr — *Measure What Matters*"
 limits:
-  - "Un outcome puede estar influido por factores fuera del equipo. No lo conviertas en evaluación simplista de una persona; combina controlabilidad, contribución y contexto."
+  - "No todo resultado es fácil de medir en el corto plazo (reputación, aprendizaje, cultura); en esos casos se usan indicadores indirectos con cautela."
 evidence_signals:
-  - "outputs utilizados"
-  - "outcome trend"
-  - "conversion output-to-outcome"
-  - "cost per outcome"
-  - "acciones sin efecto"
+  - "cadena actividad–producto–resultado–impacto"
+  - "hipótesis causales explícitas"
+  - "eslabón donde se pide cuentas"
+  - "actividades sin resultado eliminadas"

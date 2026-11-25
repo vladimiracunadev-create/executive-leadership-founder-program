@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir operating review de scorecard mediante evidencia observable."
-  - "Aplicar la secuencia: preparar scorecard y variances → actualizar forecast → identificar top risks y asks → decidir recursos y acciones → registrar y revisar en próxima cadencia."
-  - "Interpretar forecast accuracy, actions closed, resource shifts sin atribuir causalidad automática."
-  - "Resolver el caso de capstone: operating review gerencial con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Diseñar un sistema de gestión coherente: objetivos, indicadores, ritmo y decisiones."
+  - "Preparar una revisión con datos confiables y un tablero legible."
+  - "Conducir el diagnóstico y las decisiones con juicio independiente y sin culpas."
+  - "Priorizar y reasignar recursos con criterios explícitos."
+  - "Cerrar el ciclo con compromisos, ajustes y aprendizajes."
 deliverable: "risk-governance-brief.md"
 references:
-  - "John Doerr — *Measure What Matters*"
+  - "Larry Bossidy & Ram Charan — *Execution*"
   - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
-  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
-  - "Bernard Marr — *Key Performance Indicators*"
-  - "Robert S. Kaplan & David P. Norton — *Strategy Maps*"
-  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+  - "John Doerr — *Measure What Matters*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
 limits:
-  - "Un review no debe sustituir trabajo diario ni convertirse en mecanismo de vigilancia individual. Mantén foco en sistema, decisiones y accountability del nivel correcto."
+  - "El ejemplo es ilustrativo y no hay un sistema único."
 evidence_signals:
-  - "forecast accuracy"
-  - "actions closed"
-  - "resource shifts"
-  - "risks escalated"
-  - "outcome trend"
+  - "sistema coherente de objetivos e indicadores"
+  - "revisión con diagnóstico y decisiones"
+  - "priorización y reasignación explícitas"
+  - "ciclo cerrado con rúbrica"

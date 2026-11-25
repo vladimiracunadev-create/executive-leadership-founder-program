@@ -10,217 +10,188 @@
 
 ## 🎯 Propósito
 
-Leading indicators aparecen antes y están más cerca de acciones; lagging indicators confirman resultados después. La gestión necesita ambos: drivers sin outcome pueden optimizar actividad inútil, y outcomes tardíos llegan demasiado tarde para corregir. La relación entre ambos debe tratarse como hipótesis causal.
+Un tablero de indicadores rezagados es un espejo retrovisor: confirma con precisión lo que ya pasó, cuando ya no se puede cambiar. Los ingresos, la rotación, la utilidad y la satisfacción trimestral llegan tarde. Los **indicadores adelantados** prometen avisar antes, y por eso son tan atractivos: permitirían corregir el rumbo mientras aún hay tiempo. Pero un indicador adelantado es una **hipótesis**, no un hecho: se supone que anticipa un resultado, y esa suposición puede ser falsa, estar desactualizada o ser fácil de manipular.
 
-La salida de esta parte es **dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **leading y lagging indicators** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el estudio de Ittner y Larcker sobre si las medidas no financieras anticipan el desempeño financiero, en la lógica causal de los mapas de estrategia de Kaplan y Norton y en la guía de selección de indicadores de Marr. Al terminar sabrás distinguir indicadores adelantados, coincidentes y rezagados, validar la relación entre un adelantado y su resultado, evitar el engaño de los proxies manipulables y diseñar una familia de indicadores con ambos tipos.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `leading indicator`, `lagging indicator`, `driver`, `proxy`, `causal link` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir outcome lagging → 2. formular drivers plausibles → 3. buscar evidencia histórica o experimental → 4. seleccionar leading controllable → 5. revisar si la relación se sostiene** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** correlación driver-outcome, lead time de señal, acciones por driver sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Clasificar** indicadores como adelantados, coincidentes o rezagados.
+2. **Formular** la hipótesis que une un indicador adelantado con su resultado.
+3. **Validar** esa hipótesis con datos y reconocer sus límites.
+4. **Detectar** proxies fáciles de manipular y diseñar controles.
+5. **Diseñar** una familia de indicadores equilibrada con ambos tipos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define leading indicator y lagging indicator sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con correlación driver-outcome y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: elige un resultado que te importa y lista qué señales previas crees que lo anticipan. |
+| 20–60 min | Tipos, hipótesis, validación y manipulación. |
+| 60–105 min | Ejemplo trabajado: anticipar la rotación de clientes de una empresa de suscripción. |
+| 105–150 min | Caso ejecutivo y práctica de validación. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **leading indicator** | señal anticipada o driver cercano a una acción | Distingue un hecho compatible y otro que lo refute. |
-| **lagging indicator** | resultado que se observa después de que el sistema actuó | Distingue un hecho compatible y otro que lo refute. |
-| **driver** | métrica con relación causal o predictiva plausible | Distingue un hecho compatible y otro que lo refute. |
-| **proxy** | medida sustituta usada cuando el outcome es lento o difícil | Distingue un hecho compatible y otro que lo refute. |
-| **causal link** | relación que debe contrastarse antes de gestionar como palanca | Distingue un hecho compatible y otro que lo refute. |
+| **Indicador rezagado (lagging)** | Mide un resultado ya ocurrido. | Ingresos, utilidad, rotación anual. |
+| **Indicador adelantado (leading)** | Cambia antes del resultado y se supone que lo anticipa. | Uso del producto antes de una baja. |
+| **Indicador coincidente** | Se mueve junto con el resultado. | Pedidos del día frente a ventas del día. |
+| **Impulsor (driver)** | Variable sobre la que la organización puede actuar y que influye en el resultado. | Se puede intervenir directamente. |
+| **Proxy** | Medida sustituta de algo difícil de medir. | Representa, no es, lo que importa. |
+| **Retardo** | Tiempo entre un cambio en el adelantado y su efecto en el resultado. | Se estima con datos históricos. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 101: 1. definir outcome lagging → 2. formular drivers plausibles → 3. buscar evidencia histórica o experimental → 4. seleccionar leading controllable → 5. revisar si la relación se sostiene](modelo-mental.svg)
+![Tres tipos de indicador según su momento: adelantados, coincidentes y rezagados, con ejemplos y uso.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir outcome lagging → 2. formular drivers plausibles → 3. buscar evidencia histórica o experimental → 4. seleccionar leading controllable → 5. revisar si la relación se sostiene
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Leading indicators aparecen antes y están más cerca de acciones; lagging indicators confirman resultados después. La gestión necesita ambos: drivers sin outcome pueden optimizar actividad inútil, y outcomes tardíos llegan demasiado tarde para corregir. La relación entre ambos debe tratarse como hipótesis causal.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un leading indicator fácil de mover es especialmente vulnerable a gaming. Nunca confíes en proxy sin volver periódicamente al outcome que pretende anticipar.**
+**Cómo leer el diagrama.** Tres columnas ordenadas en el tiempo. Los **adelantados** cambian antes y permiten actuar, pero su valor depende de que la relación con el resultado sea real. Los **coincidentes** describen el presente. Los **rezagados** confirman lo que pasó y son difíciles de discutir, pero llegan tarde. La nota recuerda lo esencial: un adelantado es una hipótesis que hay que verificar, no una certeza.
 
 ## 📖 Desarrollo
 
-### 1. leading indicator: mecanismo central
+### 1. Por qué ambos tipos
 
-**leading indicator** se entiende aquí como **señal anticipada o driver cercano a una acción**. Esta es la pieza causal o estructural desde la que se inicia **leading y lagging indicators**: antes de definir outcome lagging, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un tablero solo con rezagados es fiable pero tardío: informa cuánto vendimos, no cuánto venderemos. Un tablero solo con adelantados es oportuno pero especulativo: informa señales cuya relación con el resultado puede ser débil. La gestión equilibrada usa los adelantados para **actuar** y los rezagados para **verificar** si esas acciones funcionaron. Kaplan y Norton lo describen en el cuadro de mando: las medidas de resultado (rezagadas) y los impulsores del desempeño (adelantados) deben ir juntos y vinculados por una cadena causal.
 
-La lectura rectora de este bloque es John Doerr — *Measure What Matters*. Su aporte se usa para examinar **objetivos, resultados clave, foco, transparencia y cadencia de seguimiento**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **correlación driver-outcome**; regístrala con periodo, unidad, población y baseline.
+### 2. El adelantado como hipótesis
 
-Relaciona el mecanismo con **lagging indicator**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Decir que «las demostraciones agendadas anticipan las ventas» es una hipótesis causal o predictiva. Se puede estar equivocado: quizás las demostraciones crecen por campañas que atraen interesados que nunca comprarán. Por eso toda propuesta de indicador adelantado debe responder: ¿**por qué** debería anticipar el resultado?, ¿**cuánto antes**?, ¿**con qué fuerza**? y ¿**qué evidencia** hay? La respuesta no es «parece lógico», sino un análisis con datos propios o, al menos, un plan para probarla.
 
-### 2. lagging indicator: frontera conceptual y error de clasificación
+### 3. Validar con datos
 
-**Definición operacional:** resultado que se observa después de que el sistema actuó. Su valor está en distinguirlo de **leading indicator** y **driver**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Ittner y Larcker se preguntaron si las medidas no financieras (como la satisfacción de clientes) anticipan el desempeño contable; el artículo plantea que la relación debe comprobarse con datos y no darse por supuesta, y que la evidencia disponible depende del contexto y del período estudiados. La lección práctica: para validar, se compara la serie del adelantado con la del resultado a lo largo del tiempo, con **retardos** distintos, en distintos segmentos, y se verifica si cambios del adelantado preceden cambios del resultado. La correlación no prueba causalidad: puede haber una causa común o un efecto inverso.
 
-Contrasta el problema con Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*, que aporta una mirada sobre **traducción de estrategia a objetivos, indicadores y relaciones causales**. Formula dos mini-casos: uno que sí satisface la definición de **lagging indicator** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **lead time de señal** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Manipulación y proxies
 
-Antes de formular drivers plausibles, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un adelantado **fácil de mover** es especialmente vulnerable: si se premia el número de visitas a clientes, se harán visitas inútiles; si se premia el uso de una función, se empujará a las personas a usarla sin necesidad. Cuando el adelantado se convierte en meta, deja de anticipar con la misma fuerza (el efecto que se resumió en la clase 100). Defensas: **no premiar mecánicamente** los adelantados, **volver periódicamente al resultado** para comprobar que sigue la relación y **auditar** una muestra de casos para ver si el indicador refleja el hecho que pretende medir.
 
-### 3. driver: operacionalización y medición
+### 5. Elegir adelantados útiles
 
-**driver** significa **métrica con relación causal o predictiva plausible**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un buen adelantado cumple cinco condiciones: es **accionable** (un equipo puede influirlo), **temprano** (da tiempo de respuesta), **relacionado** con el resultado con evidencia, **difícil de manipular** sin lograr el resultado, y **barato** de medir. En un negocio de suscripción, por ejemplo, la frecuencia de uso en las primeras semanas suele anticipar la baja; en ventas B2B, el avance a la etapa de propuesta con decisores involucrados suele anticipar el cierre; en proyectos, la proporción de entregables aceptados a la primera suele anticipar el cumplimiento del plazo. Son ejemplos de hipótesis que se validan, no verdades universales.
 
-Bernard Marr — *Key Performance Indicators* orienta este bloque mediante **selección de métricas útiles y conexión entre indicadores y decisiones**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **acciones por driver**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Retardos y ventanas
 
-Al llegar a buscar evidencia histórica o experimental, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La relación entre adelantado y resultado tiene un retardo: la satisfacción de este trimestre puede reflejarse en la retención de dos o tres trimestres más tarde. Ignorar el retardo conduce a conclusiones erróneas: se abandona una iniciativa que aún no tuvo tiempo de rendir o se atribuye un resultado a una acción reciente cuando se debe a una anterior. Se define, para cada adelantado, **cuánto tiempo se espera** para ver efecto y se evalúa en esa ventana, sin sobrerreaccionar a variaciones de corto plazo que pueden ser ruido (clase 091).
 
-### 4. proxy: trade-offs y efectos de segundo orden
+### 7. Una familia equilibrada
 
-**Definición:** medida sustituta usada cuando el outcome es lento o difícil. Este concepto obliga a abandonar la idea de que **leading y lagging indicators** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de seleccionar leading controllable, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Larry Bossidy & Ram Charan — *Execution* aporta una lente sobre **disciplina de ejecución, personas, estrategia y operaciones**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **falsos positivos** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **leading y lagging indicators**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **proxy** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. causal link: gobernanza, límites e integración
-
-**causal link** se define como **relación que debe contrastarse antes de gestionar como palanca** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael C. Mankins & Eric Garton — *Time, Talent, Energy* se utiliza para estudiar **perspectiva de Organización aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar revisar si la relación se sostiene, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un leading indicator fácil de mover es especialmente vulnerable a gaming. Nunca confíes en proxy sin volver periódicamente al outcome que pretende anticipar.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **leading indicator**, **lagging indicator**, **driver**, **proxy** y **causal link** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **leading y lagging indicators** no consiste en sumar cinco definiciones. Empieza por **leading indicator**, contrasta **lagging indicator** con **driver**, incorpora **proxy** como restricción o mecanismo y usa **causal link** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir outcome lagging → 2. formular drivers plausibles → 3. buscar evidencia histórica o experimental → 4. seleccionar leading controllable → 5. revisar si la relación se sostiene**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Se diseña para cada objetivo una **pequeña familia**: uno o dos rezagados (el resultado), dos o tres adelantados (los impulsores), y un contrapeso. Por ejemplo, para «retener clientes»: tasa de bajas (rezagado), uso del producto en la semana 2 y satisfacción de la primera interacción con soporte (adelantados), y margen por cliente (contrapeso, para no retener a costa de regalar el servicio). Cada trimestre se revisa si los adelantados siguen anticipando; si no, se reemplazan, y se registra el aprendizaje.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| John Doerr — *Measure What Matters* | objetivos, resultados clave, foco, transparencia y cadencia de seguimiento | ¿Qué supuesto de **leading y lagging indicators** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* | traducción de estrategia a objetivos, indicadores y relaciones causales | ¿Qué supuesto de **leading y lagging indicators** ayuda a desafiar? |
-| Bernard Marr — *Key Performance Indicators* | selección de métricas útiles y conexión entre indicadores y decisiones | ¿Qué supuesto de **leading y lagging indicators** ayuda a desafiar? |
-| Larry Bossidy & Ram Charan — *Execution* | disciplina de ejecución, personas, estrategia y operaciones | ¿Qué supuesto de **leading y lagging indicators** ayuda a desafiar? |
-| Michael C. Mankins & Eric Garton — *Time, Talent, Energy* | perspectiva de Organización aplicada al problema de la clase | ¿Qué supuesto de **leading y lagging indicators** ayuda a desafiar? |
-
-En **leading y lagging indicators**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **leading indicator**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Ittner y Larcker (1998) | Pregunta y método para contrastar medidas no financieras con el desempeño. | Su evidencia depende del contexto estudiado. | ¿Has validado tu relación con datos propios? |
+| Kaplan y Norton | Resultados e impulsores unidos por una cadena causal. | Requiere estrategia explícita. | ¿Qué hipótesis causal supones? |
+| Marr | Selección de indicadores desde las preguntas clave. | Evidencia limitada. | ¿Qué pregunta responde el adelantado? |
+| Muller | Riesgos de manipular medidas. | Es una crítica general. | ¿Cómo se podría manipular tu proxy? |
+| Deming | Distinguir señal de ruido. | No trata de validar relaciones. | ¿El cambio es mayor que la variación normal? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Ventas usa reuniones agendadas como leading indicator. El volumen sube 60% tras incentivar booking, pero win rate cae porque la calidad de prospectos se deteriora.
+**Situación (hipotética).** Una empresa de software por suscripción mensual tiene una tasa de baja de clientes de 3,8 % mensual (rezagado). Quiere un adelantado. Propone: «número de inicios de sesión en los primeros 14 días».
 
-**Paso 1 — definir outcome lagging.** La gerencia escribe primero el supuesto asociado a **leading indicator** y evita convertirlo en hecho. Luego busca **correlación driver-outcome** para contrastarlo en el caso de **leading y lagging indicators**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Validación con datos.** Analiza 1.200 clientes nuevos de los últimos 12 meses y clasifica por inicios de sesión en 14 días:
 
-**Paso 2 — formular drivers plausibles.** La gerencia escribe primero el supuesto asociado a **lagging indicator** y evita convertirlo en hecho. Luego busca **lead time de señal** para contrastarlo en el caso de **leading y lagging indicators**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Inicios de sesión en 14 días | Clientes | Bajas en los siguientes 90 días |
+|---|---|---|
+| 0 a 2 | 260 | 31 % |
+| 3 a 9 | 540 | 12 % |
+| 10 o más | 400 | 5 % |
 
-**Paso 3 — buscar evidencia histórica o experimental.** La gerencia escribe primero el supuesto asociado a **driver** y evita convertirlo en hecho. Luego busca **acciones por driver** para contrastarlo en el caso de **leading y lagging indicators**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** La asociación es fuerte y consistente. Pero la correlación no prueba que mover el número reduzca las bajas: clientes motivados inician sesión más y también se quedan más. Para probar el efecto causal se hace un **experimento**: a la mitad de los clientes nuevos con menos de 3 sesiones se les ofrece una guía de inicio con acompañamiento; la otra mitad queda como control.
 
-**Paso 4 — seleccionar leading controllable.** La gerencia escribe primero el supuesto asociado a **proxy** y evita convertirlo en hecho. Luego busca **falsos positivos** para contrastarlo en el caso de **leading y lagging indicators**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado del experimento.** En el grupo con acompañamiento, las bajas a 90 días son 22 %, frente a 31 % del control. Parte de la mejora se explica porque el acompañamiento fue de valor, no solo por subir las sesiones. Se decide mantener el adelantado, pero no premiar a nadie por «sesiones» y medir también el uso de la función central.
 
-**Paso 5 — revisar si la relación se sostiene.** La gerencia escribe primero el supuesto asociado a **causal link** y evita convertirlo en hecho. Luego busca **outcome final** para contrastarlo en el caso de **leading y lagging indicators**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Familia final.** Rezagado: baja mensual a 90 días. Adelantados: sesiones en 14 días y uso de la función central en 30 días. Contrapeso: costo de acompañamiento por cliente. Se revisa cada trimestre si la relación se mantiene.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **leading y lagging indicators**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Se validó con datos propios. (2) Se distinguió asociación de efecto. (3) Se evitó premiar el proxy.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **leading indicator** | señal anticipada o driver cercano a una acción | Cuando correlación driver-outcome es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **lagging indicator** | resultado que se observa después de que el sistema actuó | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Adelantado frente a predictor estadístico.** Un adelantado de gestión se elige por ser accionable y comprensible; un predictor estadístico puede ser más preciso pero menos intervenible. Un modelo que predice bajas sin decir qué hacer sirve para priorizar, no necesariamente para mejorar.
 
-**Frontera de aplicación:** Un leading indicator fácil de mover es especialmente vulnerable a gaming. Nunca confíes en proxy sin volver periódicamente al outcome que pretende anticipar.
+**Límites.** Las relaciones entre indicadores cambian con el tiempo, el segmento y el contexto. Con pocos datos, las relaciones observadas pueden ser casualidad. La evidencia sobre medidas no financieras depende del contexto, y no hay garantías de que un adelantado válido en una empresa lo sea en otra. Los experimentos con clientes o personas requieren consideraciones éticas y, cuando corresponde, de protección de datos y consentimiento.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre leading y lagging indicators |
+| Nivel | Cómo trabaja con adelantados y rezagados |
 |---|---|
-| **Profesional** | usa **leading y lagging indicators** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **leading indicator** y **lagging indicator** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta correlación driver-outcome con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si leading y lagging indicators cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de leading y lagging indicators reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **leading y lagging indicators** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Registra bien las señales tempranas y avisa cuando algo no encaja. |
+| **Jefe / Team Lead** | Usa pocos adelantados semanales y verifica con el resultado. |
+| **Gerente** | Valida las hipótesis de sus indicadores y evita premiar proxies. |
+| **CEO / Director** | Exige ver ambos tipos y la evidencia de su relación. |
+| **Founder / Owner** | Empieza con pocos adelantados simples y los contrasta con la caja y los clientes reales. |
 
 ## 🏢 Caso ejecutivo
 
-Ventas usa reuniones agendadas como leading indicator. El volumen sube 60% tras incentivar booking, pero win rate cae porque la calidad de prospectos se deteriora.
+Una empresa de formación corporativa mide como indicador principal de sus ejecutivos comerciales el «número de reuniones con clientes por mes», porque cree que anticipa las ventas. Durante seis meses las reuniones aumentaron 45 % y las ventas no. El gerente comercial defiende que «hay un rezago»; el director financiero propone eliminar la medición de reuniones. Un analista descubre que muchas reuniones son de seguimiento con clientes actuales, que los ejecutivos agendan reuniones breves para cumplir y que las reuniones con decisores nuevos sí se asocian a propuestas posteriores.
 
-Entrega un **decision brief de leading y lagging indicators** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **rediseño de la familia de indicadores** que contenga: (a) la clasificación de los indicadores actuales; (b) la hipótesis causal y la validación propuesta con datos; (c) los adelantados alternativos y sus condiciones de calidad; (d) el análisis del retardo esperado; (e) las medidas contra la manipulación y el uso en la evaluación de personas; (f) el contrapeso y la revisión trimestral.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **leading y lagging indicators** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir outcome lagging → 2. formular drivers plausibles → 3. buscar evidencia histórica o experimental → 4. seleccionar leading controllable → 5. revisar si la relación se sostiene** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta correlación driver-outcome, lead time de señal; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Elige un resultado y lista tres posibles adelantados con su hipótesis.
+2. Define el retardo esperado entre cada adelantado y el resultado.
+3. Diseña cómo validarías la relación con datos propios.
+4. Identifica cómo podría manipularse cada adelantado y cómo lo detectarías.
+5. Arma una familia con un rezagado, dos adelantados y un contrapeso.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar leading indicator y lagging indicator como sinónimos | Se pierde la distinción entre “señal anticipada o driver cercano a una acción” y “resultado que se observa después de que el sistema actuó” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar si la relación se sostiene” | Se saltó “definir outcome lagging” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir outcome lagging → 2. formular drivers plausibles → 3. buscar evidencia histórica o experimental → 4. seleccionar leading controllable → 5. revisar si la relación se sostiene y marca el primer supuesto no demostrado. |
-| Optimizar solo correlación driver-outcome | La métrica local sustituyó al resultado del sistema | Contrástala con lead time de señal y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre leading y lagging indicators | Un leading indicator fácil de mover es especialmente vulnerable a gaming. Nunca confíes en proxy sin volver periódicamente al outcome que pretende anticipar. |
-| No fijar revisión | Una decisión sobre leading y lagging indicators se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Dar por válido un adelantado | Parece lógico | Validar con datos propios. |
+| Confundir correlación con efecto | Se quiere una acción simple | Pruebas controladas o análisis cuidadoso. |
+| Premiar el proxy | Es fácil de medir | No vincularlo mecánicamente a incentivos. |
+| Ignorar el retardo | Se quiere resultado rápido | Fijar la ventana de evaluación. |
+| Solo rezagados | Son los fiables | Sumar adelantados validados. |
+| No revisar la relación | Se supone estable | Revisión trimestral. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **leading indicator** y **lagging indicator** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **driver** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir outcome lagging → formular drivers plausibles** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **correlación driver-outcome** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **leading y lagging indicators**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un leading indicator fácil de mover es especialmente vulnerable a gaming. Nunca confíes en proxy sin volver periódicamente al outcome que pretende anticipar.**?
+1. ¿Qué diferencia hay entre indicador adelantado, coincidente y rezagado?
+2. ¿Por qué un adelantado es una hipótesis?
+3. ¿Cómo se valida la relación entre un adelantado y su resultado?
+4. ¿Por qué un adelantado fácil de mover es peligroso?
+5. ¿Qué condiciones tiene un buen adelantado?
+6. ¿Qué papel cumple el retardo?
+7. ¿Qué compone una familia equilibrada de indicadores?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El adelantado cambia antes del resultado, el coincidente se mueve con él y el rezagado lo confirma después.
+2. Porque supone que anticipa el resultado, y esa relación puede no existir o cambiar.
+3. Comparando series en el tiempo con distintos retardos y segmentos, y con experimentos cuando sea posible; la correlación sola no prueba causalidad.
+4. Porque, al convertirse en meta, se manipula y deja de anticipar el resultado.
+5. Accionable, temprano, relacionado con evidencia, difícil de manipular y barato de medir.
+6. Define cuánto tiempo esperar para ver el efecto y evita abandonar o atribuir iniciativas erróneamente.
+7. Uno o dos rezagados, dos o tres adelantados y un contrapeso, revisados periódicamente.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/101-leading-y-lagging-indicators/`:
 
-- `leadership-decision-brief.md` con el problema específico de **leading y lagging indicators**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **leading y lagging indicators** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **leading indicator**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Ventas usa reuniones agendadas como leading indicator. El volumen sube 60% tras incentivar booking, pero win rate cae porque la calidad de prospectos se deteriora.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el rediseño del caso ejecutivo;
+- `kpi-tree.md` (plantilla [KPI tree](../../../../templates/kpi-tree.md)) con la familia de indicadores y sus hipótesis;
+- `decision-journal.md` con la validación, los retardos y las medidas contra la manipulación.
 
 ## 📗 Fuentes y verificación
 
-- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** objetivos, resultados clave, foco, transparencia y cadencia de seguimiento. Lectura selectiva sobre **leading y lagging indicators**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
-- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** traducción de estrategia a objetivos, indicadores y relaciones causales. Lectura selectiva sobre **leading y lagging indicators**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
-- Bernard Marr — *Key Performance Indicators* (Pearson Financial Times Pub., 2012). **Uso en esta clase:** selección de métricas útiles y conexión entre indicadores y decisiones. Lectura selectiva sobre **leading y lagging indicators**. **Localizador:** [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116).
-- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva sobre **leading y lagging indicators**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
-- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** perspectiva de Organización aplicada al problema de la clase. Lectura selectiva sobre **leading y lagging indicators**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **leading y lagging indicators**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **leading y lagging indicators** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **leading y lagging indicators**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **leading y lagging indicators** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **leading y lagging indicators** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **leading y lagging indicators** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Christopher D. Ittner & David F. Larcker — *Are Nonfinancial Measures Leading Indicators of Financial Performance?* (Journal of Accounting Research, 1998). **Uso en esta clase:** evidencia sobre medidas no financieras y desempeño financiero. Lectura selectiva sobre **leading y lagging indicators**. **Localizador:** [DOI 10.2307/2491304](https://doi.org/10.2307/2491304).
+- Robert S. Kaplan & David P. Norton — *Strategy Maps* (Harvard Business School Press, 2004). **Uso en esta clase:** resultados e impulsores unidos por una cadena causal. Lectura selectiva sobre **leading y lagging indicators**. **Localizador:** [ISBN-13 9781591391340](https://openlibrary.org/isbn/9781591391340).
+- Bernard Marr — *Key Performance Indicators* (Pearson Financial Times Pub., 2012). **Uso en esta clase:** selección de indicadores desde las preguntas clave. Lectura selectiva sobre **leading y lagging indicators**. **Localizador:** [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116).
+- Jerry Z. Muller — *The Tyranny of Metrics* (Princeton University Press, 2018). **Uso en esta clase:** riesgos de manipular medidas. Lectura selectiva sobre **leading y lagging indicators**. **Localizador:** [ISBN-13 9780691174952](https://openlibrary.org/isbn/9780691174952).
+- W. Edwards Deming — *Out of the Crisis* (The MIT Press, 2000). **Uso en esta clase:** distinción entre señal y ruido. Lectura selectiva sobre **leading y lagging indicators**. **Localizador:** [ISBN-13 9780262541152](https://openlibrary.org/isbn/9780262541152).
 
-> **Regla de fuentes para Leading y lagging indicators:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **leading y lagging indicators** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Leading y lagging indicators:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluida la protección de datos en experimentos con clientes o personas. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

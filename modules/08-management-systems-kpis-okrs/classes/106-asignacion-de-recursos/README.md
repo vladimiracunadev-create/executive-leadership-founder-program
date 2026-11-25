@@ -10,217 +10,188 @@
 
 ## 🎯 Propósito
 
-Asignar recursos convierte estrategia en realidad. Presupuesto, personas y atención ejecutiva deben moverse hacia prioridades declaradas; si la estrategia cambia y los recursos no, la organización recibe dos mensajes. La reasignación tiene costos de transición que deben incluirse.
+La estrategia de una empresa no es lo que dice su plan sino lo que financia. La asignación de recursos —dinero, personas, tiempo de la dirección— revela las prioridades reales, y en la mayoría de las organizaciones es sorprendentemente inercial: el presupuesto de este año se parece mucho al del año pasado, cada área defiende su porción y las nuevas apuestas se financian con lo que sobra. Asignar con criterio exige mirar el conjunto, comparar usos alternativos y mover recursos de donde rinden menos a donde rinden más, aun cuando eso implique conflictos.
 
-La salida de esta parte es **dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **asignación de recursos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el estudio de Mankins y Garton sobre el tiempo y el talento como recursos que las empresas asignan con menos disciplina que el capital, en la crítica de Rumelt a los planes sin concentración de fuerzas y en la evidencia de Kahneman, Sibony y Sunstein sobre el ruido y los sesgos en juicios de asignación. Al terminar sabrás diagnosticar la inercia presupuestaria, asignar tiempo, talento y dinero con criterios explícitos y diseñar un proceso de reasignación que se pueda sostener.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `resource allocation`, `fixed commitment`, `discretionary capacity`, `reallocation cost`, `hurdle rate` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. mapear recursos actuales → 2. comparar con prioridades → 3. clasificar compromiso fijo y movible → 4. estimar costo de reasignación → 5. decidir y seguir transición** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** spend by priority, headcount by priority, reallocation lead time sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Diagnosticar** la inercia en la asignación de dinero, personas y tiempo.
+2. **Asignar** recursos desde las prioridades estratégicas y no desde la historia.
+3. **Tratar** el talento y el tiempo de dirección como recursos presupuestables.
+4. **Diseñar** un proceso de reasignación con criterios, datos y decisores claros.
+5. **Gestionar** el costo humano de las reasignaciones.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define resource allocation y fixed commitment sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con spend by priority y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: compara el presupuesto de tu área de este año con el del anterior y calcula cuánto cambió. |
+| 20–60 min | Inercia, criterios, talento y tiempo, y proceso de reasignación. |
+| 60–105 min | Ejemplo trabajado: reasignación de personas en una empresa de servicios. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **resource allocation** | decisión sobre dónde ubicar capital, personas y atención | Distingue un hecho compatible y otro que lo refute. |
-| **fixed commitment** | recurso difícil de mover en corto plazo | Distingue un hecho compatible y otro que lo refute. |
-| **discretionary capacity** | capacidad reasignable | Distingue un hecho compatible y otro que lo refute. |
-| **reallocation cost** | costo de cambiar personas, contratos o capital | Distingue un hecho compatible y otro que lo refute. |
-| **hurdle rate** | umbral mínimo de retorno o valor para inversión | Distingue un hecho compatible y otro que lo refute. |
+| **Asignación de recursos** | Decisión de cuánto dinero, talento y tiempo recibe cada uso. | Se refleja en presupuestos, dotaciones y agendas. |
+| **Inercia presupuestaria** | Tendencia a repetir la asignación previa con ajustes menores. | La correlación entre años es muy alta. |
+| **Presupuesto base cero** | Método que obliga a justificar cada asignación desde cero. | Se revisa lo existente como lo nuevo. |
+| **Talento clave** | Personas cuyo trabajo tiene un impacto desproporcionado en las apuestas. | Su ausencia detiene una iniciativa. |
+| **Tiempo directivo** | Horas de la alta dirección disponibles para decisiones y liderazgo. | Es limitado y se puede presupuestar. |
+| **Reasignación** | Movimiento de recursos de un uso a otro. | Hay costos de transición y de moral. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 106: 1. mapear recursos actuales → 2. comparar con prioridades → 3. clasificar compromiso fijo y movible → 4. estimar costo de reasignación → 5. decidir y seguir transición](modelo-mental.svg)
+![Asignación por inercia frente a asignación deliberada de recursos.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear recursos actuales → 2. comparar con prioridades → 3. clasificar compromiso fijo y movible → 4. estimar costo de reasignación → 5. decidir y seguir transición
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Asignar recursos convierte estrategia en realidad. Presupuesto, personas y atención ejecutiva deben moverse hacia prioridades declaradas; si la estrategia cambia y los recursos no, la organización recibe dos mensajes. La reasignación tiene costos de transición que deben incluirse.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Reasignar personas como fichas puede destruir conocimiento, compromiso y productividad. Incluye skill, equipos estables y costos humanos, no solo headcount.**
+**Cómo leer el diagrama.** A la izquierda, lo que ocurre cuando nadie decide de forma deliberada: se repite el presupuesto, gana quien negocia mejor y todo se financia a medias. A la derecha, la asignación deliberada: se parte de las prioridades, se revisa lo que ya se financia con el mismo rigor que lo nuevo y se tratan el tiempo y el talento como recursos. La nota recuerda que el recurso más escaso suele ser la atención de la dirección, no el dinero.
 
 ## 📖 Desarrollo
 
-### 1. resource allocation: mecanismo central
+### 1. La asignación es la estrategia en acción
 
-**resource allocation** se entiende aquí como **decisión sobre dónde ubicar capital, personas y atención**. Esta es la pieza causal o estructural desde la que se inicia **asignación de recursos**: antes de mapear recursos actuales, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Mankins y Garton sostienen que el éxito de una estrategia depende de si los recursos se dirigen a las prioridades. Observan que, en muchas empresas, los equipos directivos asignan el capital con ciertos procesos formales, pero el **tiempo y el talento** —que suelen ser más escasos y valiosos— se distribuyen por costumbre, por la agenda de cada uno o por la presión del momento. El primer paso es hacer visible esa distribución: cuánto del tiempo y del talento se dedica a cada prioridad, y compararlo con lo que se dice que es importante.
 
-La lectura rectora de este bloque es John Doerr — *Measure What Matters*. Su aporte se usa para examinar **objetivos, resultados clave, foco, transparencia y cadencia de seguimiento**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **spend by priority**; regístrala con periodo, unidad, población y baseline.
+### 2. La inercia como regla
 
-Relaciona el mecanismo con **fixed commitment**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+En muchas organizaciones, la asignación de un año es casi igual a la del anterior, más o menos un porcentaje. Las razones: es **cómodo** (evita conflictos), **creíble** (se basa en la historia), **defendible** (nadie puede acusar de arbitrariedad) y **políticamente estable**. Su costo: los recursos no siguen a las oportunidades; las unidades en decadencia conservan fondos y las emergentes carecen de ellos. Se diagnostica comparando la asignación de los últimos tres a cinco años con el desempeño y las prioridades: si no hay relación, hay inercia.
 
-### 2. fixed commitment: frontera conceptual y error de clasificación
+### 3. Criterios para asignar
 
-**Definición operacional:** recurso difícil de mover en corto plazo. Su valor está en distinguirlo de **resource allocation** y **discretionary capacity**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Se pueden usar criterios similares a los de priorización (clase 105), con foco en recursos: **contribución a la estrategia**, **retorno esperado y riesgo**, **etapa y potencial** (qué necesita para crecer), **desempeño demostrado** y **costo de oportunidad**. Se acostumbra separar tres tipos de asignación: **mantener** (operación existente, con metas de eficiencia), **crecer** (apuestas con retorno esperado) y **explorar** (opciones que cuestan poco y enseñan mucho). Cada tipo se evalúa con criterios distintos: pedir el mismo retorno a una exploración que a una operación madura la mata antes de nacer.
 
-Contrasta el problema con Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*, que aporta una mirada sobre **traducción de estrategia a objetivos, indicadores y relaciones causales**. Formula dos mini-casos: uno que sí satisface la definición de **fixed commitment** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **headcount by priority** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Presupuesto base cero y revisión de lo existente
 
-Antes de comparar con prioridades, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un método para romper la inercia es examinar cada partida como si fuera nueva: ¿qué problema resuelve?, ¿qué pasaría si no existiera?, ¿cuánto cuesta alcanzar el resultado de otra forma? El presupuesto base cero completo es costoso y se usa de forma periódica o parcial (por ejemplo, una categoría de gasto cada año). Otra práctica es **comparar lo existente con lo nuevo** en un mismo proceso: quien propone una nueva iniciativa debe indicar qué se libera, de dónde sale el recurso y cuándo se detendrá algo.
 
-### 3. discretionary capacity: operacionalización y medición
+### 5. Talento y tiempo como recursos presupuestables
 
-**discretionary capacity** significa **capacidad reasignable**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Se asigna talento con el mismo rigor que dinero: se identifica el **talento clave** necesario para cada prioridad y se decide, de forma explícita, cuántas personas (con qué habilidades) se dedican a cada una, incluso si eso implica mover a alguien de su área de confort. Se hace un **presupuesto del tiempo** de la alta dirección: cuántas horas semanales se destinan a cada prioridad, y qué se deja de hacer. Mankins y Garton recomiendan revisar la agenda de los directivos a la luz de las prioridades y delegar o eliminar lo que no las sirve.
 
-Michael C. Mankins & Eric Garton — *Time, Talent, Energy* orienta este bloque mediante **perspectiva de Organización aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **reallocation lead time**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Procesos de reasignación
 
-Al llegar a clasificar compromiso fijo y movible, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Un buen proceso tiene: **calendario** (al menos una revisión anual y una intermedia), **criterios conocidos**, **datos comparables** entre iniciativas y unidades, **decisores claros** (quién tiene la última palabra), **espacios de discusión franca** y **mecanismos para reducir el ruido**: estimaciones independientes, rangos y registro de supuestos. Kahneman y colegas muestran que los juicios de expertos sobre decisiones similares varían más de lo que se cree; estructurar la evaluación, descomponer en dimensiones y agregar juicios independientes mejora la consistencia. La reasignación se comunica con razones.
 
-### 4. reallocation cost: trade-offs y efectos de segundo orden
+### 7. El costo humano y la transición
 
-**Definición:** costo de cambiar personas, contratos o capital. Este concepto obliga a abandonar la idea de que **asignación de recursos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de estimar costo de reasignación, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Bernard Marr — *Key Performance Indicators* aporta una lente sobre **selección de métricas útiles y conexión entre indicadores y decisiones**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **sunk initiatives** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **asignación de recursos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **reallocation cost** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. hurdle rate: gobernanza, límites e integración
-
-**hurdle rate** se define como **umbral mínimo de retorno o valor para inversión** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Robert S. Kaplan & David P. Norton — *Strategy Maps* se utiliza para estudiar **perspectiva de Estrategia aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar decidir y seguir transición, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Reasignar personas como fichas puede destruir conocimiento, compromiso y productividad. Incluye skill, equipos estables y costos humanos, no solo headcount.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **resource allocation**, **fixed commitment**, **discretionary capacity**, **reallocation cost** y **hurdle rate** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **asignación de recursos** no consiste en sumar cinco definiciones. Empieza por **resource allocation**, contrasta **fixed commitment** con **discretionary capacity**, incorpora **reallocation cost** como restricción o mecanismo y usa **hurdle rate** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear recursos actuales → 2. comparar con prioridades → 3. clasificar compromiso fijo y movible → 4. estimar costo de reasignación → 5. decidir y seguir transición**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Mover recursos tiene costos: equipos desmovilizados, conocimientos que se pierden, conflictos entre áreas y personas que sienten castigo. Se gestionan con **claridad de criterios**, **anticipación**, **apoyo a quienes cambian de rol** (capacitación, reconocimiento), **ritmo razonable** (reasignaciones masivas y frecuentes paralizan) y **cuidado de la equidad**. Cuando la reasignación implica cambios de funciones, jornadas o desvinculaciones, se deben comprobar las condiciones laborales y legales aplicables y actuar con asesoría. Una reasignación bien explicada rara vez se percibe como arbitraria.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| John Doerr — *Measure What Matters* | objetivos, resultados clave, foco, transparencia y cadencia de seguimiento | ¿Qué supuesto de **asignación de recursos** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* | traducción de estrategia a objetivos, indicadores y relaciones causales | ¿Qué supuesto de **asignación de recursos** ayuda a desafiar? |
-| Michael C. Mankins & Eric Garton — *Time, Talent, Energy* | perspectiva de Organización aplicada al problema de la clase | ¿Qué supuesto de **asignación de recursos** ayuda a desafiar? |
-| Bernard Marr — *Key Performance Indicators* | selección de métricas útiles y conexión entre indicadores y decisiones | ¿Qué supuesto de **asignación de recursos** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *Strategy Maps* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **asignación de recursos** ayuda a desafiar? |
-
-En **asignación de recursos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **resource allocation**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Mankins y Garton | Tiempo y talento como recursos de la estrategia. | Datos de empresas grandes. | ¿Cuánto tiempo directivo se dedica a las prioridades? |
+| Rumelt | Concentración de fuerzas y coherencia. | No da un método de presupuesto. | ¿Dónde concentras recursos? |
+| Kahneman, Sibony y Sunstein | Ruido y sesgos en juicios de asignación. | No es un manual de presupuestos. | ¿Dos evaluadores asignarían igual? |
+| Kaplan y Norton | Vincular iniciativas, presupuesto y estrategia. | Requiere estrategia explícita. | ¿Qué iniciativa financia qué objetivo? |
+| Eisenhardt | Decidir con alternativas múltiples. | Estudio de entornos de alta velocidad. | ¿Qué alternativas comparaste? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Dirección declara IA como prioridad número uno, pero 92% del presupuesto tecnológico ya está comprometido con mantenimiento y proyectos heredados.
+**Situación (hipotética).** Una consultora de 150 personas tiene tres líneas: «Operaciones» (madura, 60 % de ingresos), «Datos» (creciendo 35 % anual, 25 % de ingresos) y «Sostenibilidad» (naciente, 5 % de ingresos, con alta demanda). Cada año asigna consultores senior a las líneas casi en proporción a los ingresos del año anterior.
 
-**Paso 1 — mapear recursos actuales.** La gerencia escribe primero el supuesto asociado a **resource allocation** y evita convertirlo en hecho. Luego busca **spend by priority** para contrastarlo en el caso de **asignación de recursos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Línea | Ingresos | Seniors asignados | Utilización | Propuestas rechazadas por falta de gente |
+|---|---|---|---|---|
+| Operaciones | 60 % | 18 | 71 % | 2 |
+| Datos | 25 % | 8 | 93 % | 11 |
+| Sostenibilidad | 5 % | 2 | 98 % | 9 |
 
-**Paso 2 — comparar con prioridades.** La gerencia escribe primero el supuesto asociado a **fixed commitment** y evita convertirlo en hecho. Luego busca **headcount by priority** para contrastarlo en el caso de **asignación de recursos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diagnóstico.** La asignación sigue a los ingresos pasados, no a la demanda: las dos líneas con mayor utilización pierden propuestas por falta de gente, mientras Operaciones tiene capacidad ociosa. Hay inercia.
 
-**Paso 3 — clasificar compromiso fijo y movible.** La gerencia escribe primero el supuesto asociado a **discretionary capacity** y evita convertirlo en hecho. Luego busca **reallocation lead time** para contrastarlo en el caso de **asignación de recursos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Opciones.** (a) Mantener. (b) Reasignar 4 seniors de Operaciones a Datos (3) y Sostenibilidad (1) en un año, con formación. (c) Contratar 6 seniors nuevos (costo de selección, curva de aprendizaje, tiempo).
 
-**Paso 4 — estimar costo de reasignación.** La gerencia escribe primero el supuesto asociado a **reallocation cost** y evita convertirlo en hecho. Luego busca **sunk initiatives** para contrastarlo en el caso de **asignación de recursos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cálculo orientador.** Cada senior en Datos genera unos USD 300.000 al año de ingresos con 93 % de utilización; las propuestas rechazadas representan unos USD 2,6 millones al año. Reasignar 3 seniors recupera hasta USD 0,9 millones en el primer año; la formación cuesta USD 12.000 por persona. Contratar es más lento y caro; la reasignación tiene costo humano (dos de los cuatro consultores no quieren cambiar de línea).
 
-**Paso 5 — decidir y seguir transición.** La gerencia escribe primero el supuesto asociado a **hurdle rate** y evita convertirlo en hecho. Luego busca **executive attention** para contrastarlo en el caso de **asignación de recursos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisión.** Se aprueba (b) para dos personas voluntarias, más (c) para tres cargos; se comunica con criterios y se fija una revisión en seis meses con tres indicadores: propuestas ganadas, utilización por línea y satisfacción de los equipos. Se reserva una fracción de capacidad para exploración.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **asignación de recursos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Los datos mostraron la inercia. (2) La decisión comparó alternativas con costos. (3) Se cuidó el costo humano.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **resource allocation** | decisión sobre dónde ubicar capital, personas y atención | Cuando spend by priority es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **fixed commitment** | recurso difícil de mover en corto plazo | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Asignar frente a presupuestar.** El presupuesto es el instrumento contable; la asignación es la decisión de prioridades que lo origina. Un presupuesto bien elaborado con prioridades débiles reproduce la inercia.
 
-**Frontera de aplicación:** Reasignar personas como fichas puede destruir conocimiento, compromiso y productividad. Incluye skill, equipos estables y costos humanos, no solo headcount.
+**Límites.** Las proyecciones de retorno por línea son inciertas, y reasignar con excesiva frecuencia desestabiliza. No todos los recursos son intercambiables: el talento tiene habilidades específicas. Un análisis financiero simple no refleja el valor estratégico de las opciones. Los números del ejemplo son ilustrativos. Las reasignaciones que afectan a las personas se rigen por la ley laboral y los contratos, que se verifican con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre asignación de recursos |
+| Nivel | Cómo participa en la asignación |
 |---|---|
-| **Profesional** | usa **asignación de recursos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **resource allocation** y **fixed commitment** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta spend by priority con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si asignación de recursos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de asignación de recursos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **asignación de recursos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Explica con datos qué necesita para lograr su resultado. |
+| **Jefe / Team Lead** | Propone la asignación de su equipo según prioridades y capacidad. |
+| **Gerente** | Defiende y justifica la asignación con criterios, y acepta ceder recursos. |
+| **CEO / Director** | Decide el balance entre mantener, crecer y explorar, y protege el talento clave. |
+| **Founder / Owner** | Dirige su propio tiempo y el escaso capital a lo que más mueve la empresa. |
 
 ## 🏢 Caso ejecutivo
 
-Dirección declara IA como prioridad número uno, pero 92% del presupuesto tecnológico ya está comprometido con mantenimiento y proyectos heredados.
+Una empresa de manufactura de envases con 900 empleados asigna cada año su inversión en capital y su dotación de ingeniería con el método de «histórico más 3 %». La división de plásticos, que representa el 55 % de los ingresos y está en un mercado en declive, recibe el 60 % de la inversión. La división de envases biodegradables, que crece 40 % anual y tiene lista de espera de clientes, recibe el 8 % y no logra contratar ingenieros. El comité de dirección dedica el 70 % de su tiempo a problemas de las plantas existentes. Un competidor entró al mercado biodegradable con financiamiento. Los gerentes de plásticos advierten que recortar su presupuesto pondría en riesgo la caja que financia todo.
 
-Entrega un **decision brief de asignación de recursos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de reasignación** que contenga: (a) el diagnóstico de la inercia con datos de tres años; (b) los criterios de asignación y la distinción entre mantener, crecer y explorar; (c) la nueva asignación de capital, talento y tiempo de dirección, con cifras y transición por etapas; (d) el análisis de riesgo para la caja y para las personas; (e) el proceso de revisión anual e intermedia con decisores y datos; (f) las verificaciones laborales y legales y la comunicación a los equipos.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **asignación de recursos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear recursos actuales → 2. comparar con prioridades → 3. clasificar compromiso fijo y movible → 4. estimar costo de reasignación → 5. decidir y seguir transición** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta spend by priority, headcount by priority; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula la variación de la asignación de tu área en tres años y compárala con el desempeño.
+2. Presupuesta el tiempo de tu equipo directivo por prioridad durante un mes.
+3. Clasifica las partidas en mantener, crecer y explorar.
+4. Diseña un criterio de reasignación y aplícalo a dos opciones.
+5. Redacta cómo comunicarías una reasignación a un equipo que pierde recursos.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar resource allocation y fixed commitment como sinónimos | Se pierde la distinción entre “decisión sobre dónde ubicar capital, personas y atención” y “recurso difícil de mover en corto plazo” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “decidir y seguir transición” | Se saltó “mapear recursos actuales” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear recursos actuales → 2. comparar con prioridades → 3. clasificar compromiso fijo y movible → 4. estimar costo de reasignación → 5. decidir y seguir transición y marca el primer supuesto no demostrado. |
-| Optimizar solo spend by priority | La métrica local sustituyó al resultado del sistema | Contrástala con headcount by priority y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre asignación de recursos | Reasignar personas como fichas puede destruir conocimiento, compromiso y productividad. Incluye skill, equipos estables y costos humanos, no solo headcount. |
-| No fijar revisión | Una decisión sobre asignación de recursos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Histórico más porcentaje | Es cómodo y defendible | Partir de las prioridades. |
+| Financiar todo a medias | Se evita decidir | Concentrar y detener. |
+| Ignorar tiempo y talento | Se mira solo el dinero | Presupuestarlos. |
+| Exigir el mismo retorno a todo | Se busca un criterio único | Distinguir mantener, crecer y explorar. |
+| Reasignar sin explicar | Se espera obediencia | Criterios y comunicación. |
+| Reasignar con demasiada frecuencia | Se reacciona a cada dato | Ritmo definido y revisión. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **resource allocation** y **fixed commitment** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **discretionary capacity** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear recursos actuales → comparar con prioridades** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **spend by priority** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **asignación de recursos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Reasignar personas como fichas puede destruir conocimiento, compromiso y productividad. Incluye skill, equipos estables y costos humanos, no solo headcount.**?
+1. ¿Por qué la asignación de recursos revela la estrategia real?
+2. ¿Cómo se diagnostica la inercia presupuestaria?
+3. ¿Por qué se distinguen mantener, crecer y explorar?
+4. ¿Qué significa tratar el talento y el tiempo como recursos presupuestables?
+5. ¿Qué elementos tiene un buen proceso de reasignación?
+6. ¿Cómo se reduce el ruido en los juicios de asignación?
+7. ¿Qué costos humanos tiene reasignar y cómo se gestionan?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Porque lo que recibe recursos es lo que efectivamente se prioriza, aunque el plan diga otra cosa.
+2. Comparando la asignación de varios años con el desempeño y las prioridades; si no hay relación, hay inercia.
+3. Porque cada tipo requiere criterios distintos; exigir el retorno de una operación madura a una exploración la mata antes de nacer.
+4. Decidir explícitamente cuántas personas y horas se dedican a cada prioridad, con el mismo rigor que el dinero.
+5. Calendario, criterios conocidos, datos comparables, decisores claros, discusión franca y mecanismos contra el ruido.
+6. Con estimaciones independientes, descomposición en dimensiones, rangos y agregación de juicios.
+7. Equipos desmovilizados, pérdida de conocimiento y percepción de castigo; se gestionan con criterios claros, anticipación, apoyo, ritmo razonable y verificación laboral.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/106-asignacion-de-recursos/`:
 
-- `leadership-decision-brief.md` con el problema específico de **asignación de recursos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **asignación de recursos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **resource allocation**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Dirección declara IA como prioridad número uno, pero 92% del presupuesto tecnológico ya está comprometido con mantenimiento y proyectos heredados.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan de reasignación del caso ejecutivo;
+- `capital-allocation.md` (plantilla [Capital allocation](../../../../templates/capital-allocation.md)) con la nueva asignación de capital y talento;
+- `decision-journal.md` con los criterios, las alternativas comparadas y la revisión.
 
 ## 📗 Fuentes y verificación
 
-- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** objetivos, resultados clave, foco, transparencia y cadencia de seguimiento. Lectura selectiva sobre **asignación de recursos**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
-- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** traducción de estrategia a objetivos, indicadores y relaciones causales. Lectura selectiva sobre **asignación de recursos**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
-- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** perspectiva de Organización aplicada al problema de la clase. Lectura selectiva sobre **asignación de recursos**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
-- Bernard Marr — *Key Performance Indicators* (Pearson Financial Times Pub., 2012). **Uso en esta clase:** selección de métricas útiles y conexión entre indicadores y decisiones. Lectura selectiva sobre **asignación de recursos**. **Localizador:** [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116).
-- Robert S. Kaplan & David P. Norton — *Strategy Maps* (Harvard Business School Press, 2004). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **asignación de recursos**. **Localizador:** [ISBN-13 9781591391340](https://openlibrary.org/isbn/9781591391340).
-- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** output managerial, leverage, reuniones, indicadores y gestión por procesos. Lectura selectiva sobre **asignación de recursos**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **asignación de recursos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **asignación de recursos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **asignación de recursos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **asignación de recursos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **asignación de recursos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** tiempo y talento como recursos de la estrategia. Lectura selectiva sobre **asignación de recursos**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
+- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** concentración de fuerzas y coherencia. Lectura selectiva sobre **asignación de recursos**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
+- Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise* (Little, Brown Spark, 2021). **Uso en esta clase:** ruido y sesgos en juicios de asignación. Lectura selectiva sobre **asignación de recursos**. **Localizador:** [ISBN-13 9780316451383](https://openlibrary.org/isbn/9780316451383).
+- Robert S. Kaplan & David P. Norton — *Strategy Maps* (Harvard Business School Press, 2004). **Uso en esta clase:** vincular iniciativas, presupuesto y estrategia. Lectura selectiva sobre **asignación de recursos**. **Localizador:** [ISBN-13 9781591391340](https://openlibrary.org/isbn/9781591391340).
+- Kathleen M. Eisenhardt — *Making Fast Strategic Decisions in High-Velocity Environments* (Academy of Management Journal, 1989). **Uso en esta clase:** decidir con alternativas múltiples. Lectura selectiva sobre **asignación de recursos**. **Localizador:** [DOI 10.2307/256434](https://doi.org/10.2307/256434).
 
-> **Regla de fuentes para Asignación de recursos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **asignación de recursos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Asignación de recursos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las condiciones laborales aplicables a las reasignaciones. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

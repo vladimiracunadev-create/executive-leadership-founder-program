@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **Objective** de **Key Result** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **initiative** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **commitment** con **check-in**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué es un objetivo y qué es un resultado clave?
+2. ¿Qué diferencia hay entre OKR y KPI?
+3. ¿Qué distingue un OKR de compromiso de uno de estiramiento?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un OKR dice 'Mejorar onboarding' y sus KRs son 'crear manual, hacer cinco workshops y lanzar dashboard'. Todo puede completarse sin que el nuevo empleado sea productivo antes.
+**Caso:** Una empresa de logística con 600 personas adoptó OKR hace un año. Cada gerencia tiene entre 8 y 12 OKR por trimestre; la mayoría de los resultados clave son hitos («implementar el módulo de rutas», «realizar 10 capacitaciones»). Se calculan puntajes y se vinculan al bono anual. En los últimos tres ciclos, el 92 % de los OKR se cumplió y la utilidad cayó. Los equipos dicen que fijan metas «seguras» porque «los OKR son parte de la evaluación». El nuevo director general quiere abandonar los OKR; el gerente de estrategia quiere mantenerlos y «hacerlos bien».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **seleccionar pocos Objectives → escribir KRs de outcome o driver → separar iniciativas → etiquetar commitments → hacer check-ins y cambiar iniciativas según evidencia**. Debes utilizar o diseñar cómo obtener **KRs de actividad, confidence score, initiatives changed**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega una **evaluación y rediseño del sistema de OKR** que contenga: (a) el diagnóstico de los fallos según las condiciones de uso; (b) la decisión de mantener, reducir o abandonar los OKR, con criterios; (c) el rediseño: número de OKR, calidad de los resultados clave, compromiso y estiramiento, contrapesos; (d) qué parte pasará a KPI; (e) la relación con la remuneración y los aspectos laborales a consultar; (f) el ciclo y la revisión. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **OKR no reemplaza presupuestos, SLA, compliance ni gestión operativa. Úsalo donde foco y aprendizaje agreguen valor, no como lenguaje obligatorio para toda tarea.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: La evidencia de efectividad proviene sobre todo de relatos de empresas que los adoptaron, sin comparaciones controladas; el éxito puede deberse a otros factores.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

@@ -1,64 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" width="1040" role="img" aria-labelledby="t-g100 d-g100" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g100">Ficha visual de la clase 100: KPI y métricas operativas</title>
-<desc id="d-g100">Conceptos: metric; KPI; definition; denominator; owner. Método: empezar por decisión → definir métrica y fórmula → validar fuente y población → establecer baseline, target y frecuencia → documentar qué acción activa cada rango.</desc>
-<defs><marker id="p-g100" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="560" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 100 · KPI y métricas operativas</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 08 · Gestión de negocio</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#8250df"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >metric</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >medida cuantitativa de una propiedad</text>
-<circle cx="38" cy="170" r="5" fill="#8250df"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >KPI</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >indicador material para una decisión o resultado clave</text>
-<circle cx="38" cy="228" r="5" fill="#8250df"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >definition</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >regla exacta de cálculo, población y periodo</text>
-<circle cx="38" cy="286" r="5" fill="#8250df"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >denominator</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >base que hace comparables tasas y ratios</text>
-<circle cx="38" cy="344" r="5" fill="#8250df"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >owner</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >rol responsable de calidad y uso del indicador</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#8250df" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#8250df"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >empezar por decisión</text>
-<circle cx="485" cy="176" r="14" fill="#8250df"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >definir métrica y fórmula</text>
-<circle cx="485" cy="230" r="14" fill="#8250df"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >validar fuente y población</text>
-<circle cx="485" cy="284" r="14" fill="#8250df"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >establecer baseline, target y frecuencia</text>
-<circle cx="485" cy="338" r="14" fill="#8250df"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >documentar qué acción activa cada rango</text>
-<text x="28" y="416" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="428" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="41" cy="441" r="3.5" fill="#8250df"/>
-<text x="52" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >data quality</text>
-<rect x="146.8" y="428" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="159.8" cy="441" r="3.5" fill="#8250df"/>
-<text x="170.8" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >KPI ownership</text>
-<rect x="272.5" y="428" width="88.1" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="285.5" cy="441" r="3.5" fill="#8250df"/>
-<text x="296.5" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >frequency</text>
-<rect x="370.6" y="428" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="383.6" cy="441" r="3.5" fill="#8250df"/>
-<text x="394.6" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >actionability</text>
-<rect x="496.3" y="428" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="509.3" cy="441" r="3.5" fill="#8250df"/>
-<text x="520.3" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >metric disputes</text>
-<rect x="28" y="474" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="474" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="494" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="512" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un KPI que se convierte en objetivo puede dejar de ser buen indicador por gaming. Mantén métricas de control y señales</text>
-<text x="48" y="529.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >complementarias.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 478.42" width="1040" role="img" aria-labelledby="t-s100 d-s100" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s100">Clase 100 · La ficha de un KPI: lo que lo vuelve confiable</title>
+<desc id="d-s100">Campos de la ficha de un indicador clave, qué pregunta responde cada campo y un ejemplo.</desc>
+<defs><marker id="p-s100" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="478.42" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 100 · La ficha de un KPI: lo que lo vuelve confiable</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Marr (2012) · Muller (2018) · Kaplan &amp; Norton</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Campo</text>
+<text x="274.286" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Qué responde</text>
+<text x="617.905" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Ejemplo</text>
+<rect x="28" y="136" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Decisión que informa</text>
+<text x="274.286" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Qué se decidirá distinto según el valor?</text>
+<text x="617.905" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Si baja de 85 %, se refuerza el turno de tarde.</text>
+<rect x="28" y="172.56" width="984" height="53.12" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Definición y fórmula</text>
+<text x="274.286" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Qué cuenta y qué no?</text>
+<text x="617.905" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Pedidos entregados en plazo / pedidos despachados, sin</text>
+<text x="617.905" y="209.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >devoluciones.</text>
+<rect x="28" y="225.68" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="245.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Fuente y frecuencia</text>
+<text x="274.286" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿De dónde sale y cada cuánto?</text>
+<text x="617.905" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Sistema de despachos, cada día.</text>
+<rect x="28" y="262.24" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="282.24" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Dueño</text>
+<text x="274.286" y="282.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Quién responde y puede actuar?</text>
+<text x="617.905" y="282.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Jefa de logística.</text>
+<rect x="28" y="298.8" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="318.8" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Umbral y señal</text>
+<text x="274.286" y="318.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Qué valor dispara una acción?</text>
+<text x="617.905" y="318.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Menos de 88 % por tres días seguidos.</text>
+<rect x="28" y="351.36" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="373.36" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Un indicador sin decisión asociada es decoración. La ficha evita que dos áreas calculen el mismo KPI de formas distintas y discutan los</text>
+<text x="44" y="390.61" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >números en vez de las decisiones.</text>
+<text x="28" y="437.86" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Cuando un indicador se vuelve meta, las personas tienden a optimizar el indicador y no lo que representa: se vigila con medidas de contrapeso.</text>
 </svg>

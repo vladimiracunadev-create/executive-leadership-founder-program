@@ -10,217 +10,187 @@
 
 ## 🎯 Propósito
 
-El operating review gerencial integra KPI, forecast, portfolio, recursos, riesgos y decisiones en una conversación de negocio. El capstone evalúa si el gerente puede pasar de explicar el pasado a decidir el futuro con una visión integrada y sin esconder malas noticias.
+Una disciplina gerencial no consiste en tener buenos indicadores, ni buenos objetivos, ni buenas reuniones: consiste en que todo eso funcione **como un sistema**. Los objetivos orientan, los indicadores muestran, el ritmo ordena la atención, las revisiones convierten datos en decisiones, la priorización y la asignación dirigen los recursos y el escalamiento protege la atención de la dirección. Si una pieza falla, las demás pierden eficacia: objetivos sin indicadores son deseos; indicadores sin revisión son decoración; revisiones sin decisiones son teatro.
 
-La salida de esta parte es **dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: operating review gerencial** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Este capstone integra la parte 08 y se apoya en Bossidy y Charan, Kaplan y Norton, Doerr, Grove y Mankins y Garton. Al terminar sabrás diseñar y conducir un ciclo completo de revisión operativa de un área: preparar el tablero con indicadores confiables, conducir una revisión con diagnóstico y decisiones, priorizar y reasignar recursos, definir excepciones y cerrar con compromisos y ajustes de objetivos.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `operating review`, `scorecard`, `forecast`, `decision log`, `management narrative` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. preparar scorecard y variances → 2. actualizar forecast → 3. identificar top risks y asks → 4. decidir recursos y acciones → 5. registrar y revisar en próxima cadencia** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** forecast accuracy, actions closed, resource shifts sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Diseñar** un sistema de gestión coherente: objetivos, indicadores, ritmo y decisiones.
+2. **Preparar** una revisión con datos confiables y un tablero legible.
+3. **Conducir** el diagnóstico y las decisiones con juicio independiente y sin culpas.
+4. **Priorizar y reasignar** recursos con criterios explícitos.
+5. **Cerrar** el ciclo con compromisos, ajustes y aprendizajes.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define operating review y scorecard sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con forecast accuracy y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ordena las piezas del sistema de gestión según cuál falla más en tu organización. |
+| 20–60 min | Preparar, conducir y cerrar el ciclo. |
+| 60–105 min | Ejemplo trabajado: una revisión operativa trimestral de una unidad de servicios. |
+| 105–150 min | Caso ejecutivo integrado. |
+| 150–175 min | Rúbrica, límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **operating review** | foro periódico de performance y decisiones | Distingue un hecho compatible y otro que lo refute. |
-| **scorecard** | conjunto compacto de señales | Distingue un hecho compatible y otro que lo refute. |
-| **forecast** | estimación actualizada del periodo futuro | Distingue un hecho compatible y otro que lo refute. |
-| **decision log** | registro de elecciones y owners | Distingue un hecho compatible y otro que lo refute. |
-| **management narrative** | explicación coherente de qué cambió, por qué y qué se hará | Distingue un hecho compatible y otro que lo refute. |
+| **Sistema de gestión** | Conjunto articulado de objetivos, indicadores, ritmo, revisiones y decisiones. | Cada pieza alimenta a las otras. |
+| **Revisión operativa (operating review)** | Revisión periódica del desempeño de un área con decisiones. | Tiene tablero, diagnóstico y compromisos. |
+| **Línea de visión** | Conexión entre el trabajo del equipo y el objetivo de la empresa. | Cada persona ve cómo aporta. |
+| **Cierre del ciclo** | Verificación de compromisos, ajuste de objetivos y registro de aprendizajes. | La próxima revisión parte de lo anterior. |
+| **Disciplina gerencial** | Constancia en el ritmo y en el seguimiento. | Se mantiene aunque haya presión. |
+| **Rúbrica de calidad** | Criterios para juzgar la calidad del sistema y de la revisión. | Permite mejorar con evidencia. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 108: 1. preparar scorecard y variances → 2. actualizar forecast → 3. identificar top risks y asks → 4. decidir recursos y acciones → 5. registrar y revisar en próxima cadencia](modelo-mental.svg)
+![Ciclo gerencial en tres tramos: preparar con objetivos, indicadores y datos, conducir la revisión con decisiones y cerrar el ciclo con compromisos y ajustes.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. preparar scorecard y variances → 2. actualizar forecast → 3. identificar top risks y asks → 4. decidir recursos y acciones → 5. registrar y revisar en próxima cadencia
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El operating review gerencial integra KPI, forecast, portfolio, recursos, riesgos y decisiones en una conversación de negocio. El capstone evalúa si el gerente puede pasar de explicar el pasado a decidir el futuro con una visión integrada y sin esconder malas noticias.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un review no debe sustituir trabajo diario ni convertirse en mecanismo de vigilancia individual. Mantén foco en sistema, decisiones y accountability del nivel correcto.**
+**Cómo leer el diagrama.** Tres columnas. **Preparar** reúne objetivos y resultados deseados, indicadores con ficha, un tablero con pocas perspectivas y datos acordados antes de la reunión. **Conducir** contrasta, diagnostica y decide, priorizando y reasignando recursos y aplicando umbrales de excepción. **Cerrar el ciclo** registra acuerdos con dueño y fecha, ajusta objetivos y umbrales y revisa el ritmo. Las cifras entre paréntesis remiten a las clases de la parte.
 
 ## 📖 Desarrollo
 
-### 1. operating review: mecanismo central
+### 1. Coherencia antes que sofisticación
 
-**operating review** se entiende aquí como **foro periódico de performance y decisiones**. Esta es la pieza causal o estructural desde la que se inicia **capstone: operating review gerencial**: antes de preparar scorecard y variances, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La primera pregunta de un sistema de gestión es: ¿qué queremos lograr y cómo lo sabremos? Se parte de un número reducido de **objetivos** formulados como resultados (097–099), cada uno con **indicadores** definidos por ficha, con dueño y umbral (100–101), organizados en un **tablero** coherente con la estrategia (102). Antes de agregar herramientas, se verifica que las existentes se hablen: ¿los objetivos tienen indicadores?, ¿los indicadores informan decisiones?, ¿las decisiones se registran y se revisan? La coherencia pesa más que la sofisticación.
 
-La lectura rectora de este bloque es John Doerr — *Measure What Matters*. Su aporte se usa para examinar **objetivos, resultados clave, foco, transparencia y cadencia de seguimiento**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **forecast accuracy**; regístrala con periodo, unidad, población y baseline.
+### 2. Diseñar el ritmo
 
-Relaciona el mecanismo con **scorecard**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El sistema necesita un **calendario**: reuniones semanales de coordinación, revisión mensual de gestión, revisión trimestral de estrategia y OKR y planificación anual (103). Cada reunión tiene un propósito, un insumo y una decisión. Se presupuesta el tiempo directivo y se eliminan las reuniones redundantes. El ritmo se protege: se mantiene aunque haya urgencias, porque su valor está en la regularidad. Una revisión que se suspende cuando hay problemas es una revisión que solo funciona cuando no se necesita.
 
-### 2. scorecard: frontera conceptual y error de clasificación
+### 3. Preparar la revisión
 
-**Definición operacional:** conjunto compacto de señales. Su valor está en distinguirlo de **operating review** y **forecast**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La calidad de la revisión se define antes. Se envía el tablero con **datos confiables** (clase 100), tendencia y comparación con metas; los dueños de desvíos significativos entregan un análisis breve de causas; se identifican las decisiones que se pedirán y se invita solo a quienes deben decidir o aportar. Se pide a los participantes juicios previos por escrito en los temas más inciertos para reducir sesgos (104). Se acuerda que no habrá sorpresas: los problemas graves se avisan antes. La preparación es la mejor inversión de tiempo de todo el ciclo.
 
-Contrasta el problema con Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*, que aporta una mirada sobre **traducción de estrategia a objetivos, indicadores y relaciones causales**. Formula dos mini-casos: uno que sí satisface la definición de **scorecard** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **actions closed** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Conducir el diagnóstico y la decisión
 
-Antes de actualizar forecast, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+En la sala se dedica poco tiempo a lo verde y mucho a los desvíos (107). Se hace el diagnóstico en tres niveles —qué pasó, por qué, qué supuesto falló— con preguntas que busquen causas y no culpables. Luego se decide con las cuatro respuestas posibles: seguir, corregir, escalar o replantear. Se **prioriza** si hay más demandas que capacidad (105) y se **reasigna** si hace falta (106), cuidando el costo humano. Quien preside escucha, pregunta y protege el diálogo franco. Todo compromiso sale con dueño, fecha y criterio de verificación.
 
-### 3. forecast: operacionalización y medición
+### 5. Cerrar el ciclo
 
-**forecast** significa **estimación actualizada del periodo futuro**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La revisión termina con un **acta breve**: decisiones tomadas, compromisos, escalamientos y temas pendientes. Se ajustan, si corresponde, los **objetivos** (por cambios de supuestos), los **umbrales** (según falsos positivos y omisiones) y el **ritmo** (si una reunión no produce decisiones). Se registra el aprendizaje: qué hipótesis se confirmó y cuál no. En la siguiente revisión se abre con la verificación de los compromisos anteriores. Sin ese cierre, el sistema acumula decisiones sin memoria y repite errores.
 
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* orienta este bloque mediante **responsabilidad gerencial, propósito, organización y resultados**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **resource shifts**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Cultura y comportamiento
 
-Al llegar a identificar top risks y asks, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El sistema es tan bueno como las conductas que produce. Si las malas noticias se castigan, los datos se maquillan; si los objetivos se usan para evaluar y castigar de forma mecánica, se fijarán metas seguras (098–099); si los líderes no cumplen sus propios compromisos, nadie lo hará. Se cultiva: seguridad para reportar (107), reconocimiento del reporte temprano, coherencia entre lo que se mide y lo que se premia y transparencia en las decisiones de reasignación. Los gerentes son responsables de ser el modelo de la disciplina que piden.
 
-### 4. decision log: trade-offs y efectos de segundo orden
+### 7. Evaluar el sistema
 
-**Definición:** registro de elecciones y owners. Este concepto obliga a abandonar la idea de que **capstone: operating review gerencial** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de decidir recursos y acciones, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Bernard Marr — *Key Performance Indicators* aporta una lente sobre **selección de métricas útiles y conexión entre indicadores y decisiones**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **risks escalated** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capstone: operating review gerencial**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **decision log** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. management narrative: gobernanza, límites e integración
-
-**management narrative** se define como **explicación coherente de qué cambió, por qué y qué se hará** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Robert S. Kaplan & David P. Norton — *Strategy Maps* se utiliza para estudiar **perspectiva de Estrategia aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar registrar y revisar en próxima cadencia, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un review no debe sustituir trabajo diario ni convertirse en mecanismo de vigilancia individual. Mantén foco en sistema, decisiones y accountability del nivel correcto.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **operating review**, **scorecard**, **forecast**, **decision log** y **management narrative** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: operating review gerencial** no consiste en sumar cinco definiciones. Empieza por **operating review**, contrasta **scorecard** con **forecast**, incorpora **decision log** como restricción o mecanismo y usa **management narrative** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. preparar scorecard y variances → 2. actualizar forecast → 3. identificar top risks y asks → 4. decidir recursos y acciones → 5. registrar y revisar en próxima cadencia**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Se evalúa periódicamente con una **rúbrica**: ¿los objetivos son resultados medibles?, ¿los indicadores tienen ficha y dueño?, ¿el tablero cabe en una página y cada cifra informa una decisión?, ¿las revisiones terminan con acuerdos?, ¿se cumplen los compromisos?, ¿se detiene lo que no rinde?, ¿hay reporte temprano? Se asigna una escala simple por criterio y se usa para decidir una o dos mejoras por trimestre, no una reforma total. El sistema de gestión también se gestiona.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| John Doerr — *Measure What Matters* | objetivos, resultados clave, foco, transparencia y cadencia de seguimiento | ¿Qué supuesto de **capstone: operating review gerencial** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* | traducción de estrategia a objetivos, indicadores y relaciones causales | ¿Qué supuesto de **capstone: operating review gerencial** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **capstone: operating review gerencial** ayuda a desafiar? |
-| Bernard Marr — *Key Performance Indicators* | selección de métricas útiles y conexión entre indicadores y decisiones | ¿Qué supuesto de **capstone: operating review gerencial** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *Strategy Maps* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **capstone: operating review gerencial** ayuda a desafiar? |
-
-En **capstone: operating review gerencial**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **operating review**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Bossidy y Charan | Ejecución como disciplina de seguimiento. | Se centra en grandes empresas. | ¿Qué compromisos se cumplieron? |
+| Kaplan y Norton | Alineación entre estrategia, indicadores y tablero. | Requiere estrategia explícita. | ¿Qué hipótesis causales revisas? |
+| Doerr | Objetivos y resultados clave con ritmo trimestral. | Casos seleccionados. | ¿Qué objetivos se revisan cada semana? |
+| Grove | Reuniones y apalancamiento gerencial. | Estilo de su época. | ¿Qué produce cada reunión? |
+| Mankins y Garton | Tiempo y talento como recursos de la estrategia. | Datos de empresas grandes. | ¿Cuánto tiempo se dedica a lo que importa? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Eres gerente de una unidad con revenue 8% bajo plan, margen estable, churn creciente y tres proyectos consumiendo capacidad. El review mensual debe producir decisiones, no explicaciones defensivas.
+**Situación (hipotética).** Una unidad de servicios de TI de 70 personas presta soporte a 3.000 usuarios internos. Su gerente, Paula, diseña y conduce la revisión operativa del tercer trimestre.
 
-**Paso 1 — preparar scorecard y variances.** La gerencia escribe primero el supuesto asociado a **operating review** y evita convertirlo en hecho. Luego busca **forecast accuracy** para contrastarlo en el caso de **capstone: operating review gerencial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Preparar.** Objetivo del trimestre: «Que las áreas puedan trabajar sin interrupciones por problemas de TI». Resultados clave: reducir el tiempo de resolución de incidentes críticos de 9 a 5 horas; subir la satisfacción posterior a la atención de 3,8 a 4,3; mantener el costo por usuario en USD 62. Tablero de una página con 9 indicadores y semáforo; contrapeso: proporción de incidentes reabiertos.
 
-**Paso 2 — actualizar forecast.** La gerencia escribe primero el supuesto asociado a **scorecard** y evita convertirlo en hecho. Luego busca **actions closed** para contrastarlo en el caso de **capstone: operating review gerencial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos del trimestre.** Incidentes críticos: 6,8 horas (meta 5; ámbar). Satisfacción: 4,0 (ámbar). Costo por usuario: USD 66 (rojo, 6 % sobre la meta). Reabiertos: 14 % (de 9 %). Rotación en el equipo de soporte: 25 % anualizada.
 
-**Paso 3 — identificar top risks y asks.** La gerencia escribe primero el supuesto asociado a **forecast** y evita convertirlo en hecho. Luego busca **resource shifts** para contrastarlo en el caso de **capstone: operating review gerencial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Juicios previos.** Cada participante escribió la causa principal de los desvíos: capacidad insuficiente (3), falta de documentación (2), cambios no coordinados con el área de aplicaciones (2), proveedor de infraestructura (1).
 
-**Paso 4 — decidir recursos y acciones.** La gerencia escribe primero el supuesto asociado a **decision log** y evita convertirlo en hecho. Luego busca **risks escalated** para contrastarlo en el caso de **capstone: operating review gerencial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diagnóstico.** El análisis de 47 incidentes críticos muestra que 19 se originaron en cambios no comunicados; el 62 % de los reabiertos corresponden a técnicos con menos de 6 meses de antigüedad. El costo sube por horas extra y por contratar externos para cubrir la rotación.
 
-**Paso 5 — registrar y revisar en próxima cadencia.** La gerencia escribe primero el supuesto asociado a **management narrative** y evita convertirlo en hecho. Luego busca **outcome trend** para contrastarlo en el caso de **capstone: operating review gerencial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisiones.** (1) Proceso de gestión de cambios con aprobación y aviso a soporte (responsable: Luis, jefe de aplicaciones; 30 días; verificación: cambios sin aviso = 0). (2) Programa de acompañamiento para técnicos nuevos con un mentor (responsable: Paula; inicio en 2 semanas; verificación: reabiertos de nuevos). (3) Reasignación de tres horas semanales de dos senior a documentación de los diez incidentes más frecuentes. (4) Priorización: se pospone el proyecto de portal de autoservicio (bajo valor frente a esfuerzo) y se reserva la capacidad. (5) Umbral: el costo por usuario en rojo dos meses seguidos se escala al comité financiero. (6) Se revisa el objetivo de costo si la rotación no baja en el próximo trimestre.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: operating review gerencial**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Cierre.** Acta de una página con los seis acuerdos, dueños, fechas y verificaciones. En la siguiente revisión se abre con ese seguimiento.
+
+**Qué muestra.** (1) El sistema funcionó como un conjunto: objetivo, indicadores, juicio, diagnóstico, decisión y seguimiento. (2) La priorización y la reasignación resolvieron una restricción de capacidad. (3) Las decisiones tenían dueño y verificación.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **operating review** | foro periódico de performance y decisiones | Cuando forecast accuracy es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **scorecard** | conjunto compacto de señales | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Sistema de gestión frente a cultura.** El sistema define rutinas; la cultura define cómo se viven. Un sistema bueno con una cultura de miedo produce datos maquillados; una buena cultura sin sistema produce buenas intenciones sin seguimiento.
 
-**Frontera de aplicación:** Un review no debe sustituir trabajo diario ni convertirse en mecanismo de vigilancia individual. Mantén foco en sistema, decisiones y accountability del nivel correcto.
+**Límites.** El ejemplo es ilustrativo y no hay un sistema único. Un exceso de instrumentos genera burocracia: la regla es usar lo mínimo que produzca decisiones. Los indicadores y las evaluaciones que afectan a personas tienen implicancias laborales y de protección de datos que se verifican con asesoría. Y ningún sistema reemplaza el juicio ni la conversación con clientes y equipos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: operating review gerencial |
+| Nivel | Cómo participa en el sistema de gestión |
 |---|---|
-| **Profesional** | usa **capstone: operating review gerencial** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **operating review** y **scorecard** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta forecast accuracy con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: operating review gerencial cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: operating review gerencial reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: operating review gerencial** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Registra datos fiables y cumple sus compromisos. |
+| **Jefe / Team Lead** | Conduce su ciclo semanal y escala con el formato acordado. |
+| **Gerente** | Diseña y conduce el ciclo completo de su área. |
+| **CEO / Director** | Exige coherencia, protege el ritmo y modela la cultura. |
+| **Founder / Owner** | Construye un sistema mínimo antes de que el crecimiento lo exija. |
 
 ## 🏢 Caso ejecutivo
 
-Eres gerente de una unidad con revenue 8% bajo plan, margen estable, churn creciente y tres proyectos consumiendo capacidad. El review mensual debe producir decisiones, no explicaciones defensivas.
+Una empresa de energía solar para viviendas, con 350 empleados, creció 60 % en dos años. Tiene OKR por equipo, un tablero de 70 indicadores, una revisión mensual de cuatro horas y un comité semanal. Los márgenes bajaron, el tiempo de instalación pasó de 12 a 24 días, la rotación de instaladores es de 38 % y los reclamos subieron. La dirección dice que «todo está medido», pero nadie puede decir qué cambió por las revisiones. Un nuevo gerente general pide al gerente de operaciones diseñar y conducir en 60 días una revisión operativa que lleve a decisiones.
 
-Entrega un **decision brief de capstone: operating review gerencial** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **sistema de gestión y una revisión operativa** que contenga: (a) los objetivos y resultados clave del trimestre con indicadores, fichas y contrapesos; (b) el tablero de una página y los umbrales de excepción; (c) el ritmo semanal, mensual y trimestral; (d) la preparación de la revisión, incluidos los juicios previos; (e) el diagnóstico propuesto y al menos cinco decisiones con dueño, plazo y verificación; (f) la priorización y reasignación de recursos y el costo humano; (g) el cierre del ciclo, la rúbrica de calidad del sistema y los aspectos laborales y de datos que se verificarán.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: operating review gerencial** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. preparar scorecard y variances → 2. actualizar forecast → 3. identificar top risks y asks → 4. decidir recursos y acciones → 5. registrar y revisar en próxima cadencia** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta forecast accuracy, actions closed; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Elige un área y diseña tres objetivos con indicadores y contrapesos.
+2. Arma un tablero de una página con umbrales.
+3. Prepara una revisión de 90 minutos con insumos y juicios previos.
+4. Redacta cinco compromisos con dueño, fecha y verificación.
+5. Aplica la rúbrica de calidad a tu sistema y elige dos mejoras.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar operating review y scorecard como sinónimos | Se pierde la distinción entre “foro periódico de performance y decisiones” y “conjunto compacto de señales” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “registrar y revisar en próxima cadencia” | Se saltó “preparar scorecard y variances” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. preparar scorecard y variances → 2. actualizar forecast → 3. identificar top risks y asks → 4. decidir recursos y acciones → 5. registrar y revisar en próxima cadencia y marca el primer supuesto no demostrado. |
-| Optimizar solo forecast accuracy | La métrica local sustituyó al resultado del sistema | Contrástala con actions closed y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: operating review gerencial | Un review no debe sustituir trabajo diario ni convertirse en mecanismo de vigilancia individual. Mantén foco en sistema, decisiones y accountability del nivel correcto. |
-| No fijar revisión | Una decisión sobre capstone: operating review gerencial se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Piezas desconectadas | Cada una se diseña por separado | Verificar la coherencia del conjunto. |
+| Revisiones sin decisiones | Se informa en lugar de decidir | Empezar por las decisiones. |
+| Demasiados indicadores | No se retira nada | Máximo útil y retiro periódico. |
+| No cerrar el ciclo | Se pasa a lo siguiente | Acta, seguimiento y ajustes. |
+| Cultura de miedo | Se castigan las malas noticias | Reconocer el reporte temprano. |
+| Sistema que crece sin límite | Se agregan herramientas | Evaluar con rúbrica y simplificar. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **operating review** y **scorecard** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **forecast** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **preparar scorecard y variances → actualizar forecast** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **forecast accuracy** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: operating review gerencial**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un review no debe sustituir trabajo diario ni convertirse en mecanismo de vigilancia individual. Mantén foco en sistema, decisiones y accountability del nivel correcto.**?
+1. ¿Qué piezas componen un sistema de gestión y cómo se relacionan?
+2. ¿Qué se prepara antes de una revisión?
+3. ¿Qué tres niveles tiene el diagnóstico?
+4. ¿Qué respuestas puede tener cada punto de la revisión?
+5. ¿Cómo se cierra el ciclo?
+6. ¿Qué papel cumple la cultura?
+7. ¿Qué límite tiene un sistema de gestión?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Objetivos, indicadores, tablero, ritmo, revisiones, priorización y asignación, y escalamiento; cada pieza alimenta a las otras.
+2. Datos confiables con tendencia y meta, análisis de causas de los desvíos, decisiones por pedir, participantes necesarios y juicios previos.
+3. Qué pasó, por qué pasó y qué supuesto del plan falló.
+4. Seguir como está, corregir, escalar o replantear el objetivo o el supuesto.
+5. Con un acta de decisiones y compromisos, ajustes de objetivos, umbrales y ritmo, y aprendizajes registrados, que se revisan al abrir la siguiente.
+6. Determina si los datos son veraces y si se reporta a tiempo; un sistema bueno con cultura de miedo produce datos maquillados.
+7. No hay un sistema único; el exceso genera burocracia y ninguno reemplaza el juicio ni la conversación con clientes y equipos.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/108-capstone-operating-review-gerencial/`:
 
-- `risk-governance-brief.md` con el problema específico de **capstone: operating review gerencial**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: operating review gerencial** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **operating review**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Eres gerente de una unidad con revenue 8% bajo plan, margen estable, churn creciente y tres proyectos consumiendo capacidad. El review mensual debe producir decisiones, no explicaciones defensivas.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con el sistema de gestión y la revisión operativa del caso ejecutivo;
+- `monthly-business-review.md` (plantilla [Monthly business review](../../../../templates/monthly-business-review.md)) con el formato, los insumos y el acta de la revisión;
+- `kpi-tree.md` (plantilla [KPI tree](../../../../templates/kpi-tree.md)) con los objetivos, indicadores y contrapesos;
+- `decision-journal.md` con las decisiones, el seguimiento y la evaluación con la rúbrica.
 
 ## 📗 Fuentes y verificación
 
-- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** objetivos, resultados clave, foco, transparencia y cadencia de seguimiento. Lectura selectiva sobre **capstone: operating review gerencial**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
-- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** traducción de estrategia a objetivos, indicadores y relaciones causales. Lectura selectiva sobre **capstone: operating review gerencial**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **capstone: operating review gerencial**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Bernard Marr — *Key Performance Indicators* (Pearson Financial Times Pub., 2012). **Uso en esta clase:** selección de métricas útiles y conexión entre indicadores y decisiones. Lectura selectiva sobre **capstone: operating review gerencial**. **Localizador:** [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116).
-- Robert S. Kaplan & David P. Norton — *Strategy Maps* (Harvard Business School Press, 2004). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **capstone: operating review gerencial**. **Localizador:** [ISBN-13 9781591391340](https://openlibrary.org/isbn/9781591391340).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **capstone: operating review gerencial**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: operating review gerencial** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: operating review gerencial**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: operating review gerencial** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: operating review gerencial** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: operating review gerencial** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** ejecución como disciplina de seguimiento. Lectura selectiva sobre **capstone: operating review gerencial**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
+- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** alineación entre estrategia, indicadores y tablero. Lectura selectiva sobre **capstone: operating review gerencial**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
+- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** objetivos y resultados clave con ritmo trimestral. Lectura selectiva sobre **capstone: operating review gerencial**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
+- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** reuniones y apalancamiento gerencial. Lectura selectiva sobre **capstone: operating review gerencial**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** tiempo y talento como recursos de la estrategia. Lectura selectiva sobre **capstone: operating review gerencial**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
 
-> **Regla de fuentes para Capstone: operating review gerencial:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: operating review gerencial** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capstone: operating review gerencial:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales y de protección de datos aplicables. Los ejemplos y casos son hipotéticos y no describen a ninguna empresa real. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

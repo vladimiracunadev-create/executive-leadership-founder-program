@@ -1,72 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g97 d-g97" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g97">Ficha visual de la clase 097: De actividad a outcome</title>
-<desc id="d-g97">Conceptos: activity; output; outcome; impact; theory of change. Método: nombrar outcome y stakeholder → mapear outputs que plausiblemente lo habilitan → explicitar mecanismo causal → seleccionar métricas de outcome y driver → revisar si los outputs realmente mueven la señal.</desc>
-<defs><marker id="p-g97" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 097 · De actividad a outcome</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 08 · Gestión de negocio</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#8250df"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >activity</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >acción ejecutada que consume recursos</text>
-<circle cx="38" cy="170" r="5" fill="#8250df"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >output</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >producto directo y controlable de una actividad</text>
-<circle cx="38" cy="228" r="5" fill="#8250df"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >outcome</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >cambio observable en cliente, negocio o capacidad</text>
-<circle cx="38" cy="286" r="5" fill="#8250df"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >impact</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >efecto de largo plazo al que contribuyen múltiples</text>
-<text x="54" y="325.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >factores</text>
-<circle cx="38" cy="358.12" r="5" fill="#8250df"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >theory of change</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >hipótesis que conecta actividades, outputs y outcomes</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<rect x="470" y="336" width="6" height="52" rx="3" fill="#8250df"/>
-<text x="486" y="356" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >1</text>
-<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >nombrar outcome y stakeholder</text>
-<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<rect x="532" y="278" width="6" height="52" rx="3" fill="#8250df"/>
-<text x="548" y="298" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >2</text>
-<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >mapear outputs que plausiblemente</text>
-<text x="566" y="315.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >lo habilitan</text>
-<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<rect x="594" y="220" width="6" height="52" rx="3" fill="#8250df"/>
-<text x="610" y="240" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >3</text>
-<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >explicitar mecanismo causal</text>
-<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<rect x="656" y="162" width="6" height="52" rx="3" fill="#8250df"/>
-<text x="672" y="182" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >4</text>
-<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >seleccionar métricas de outcome y</text>
-<text x="690" y="199.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >driver</text>
-<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<rect x="718" y="104" width="6" height="52" rx="3" fill="#8250df"/>
-<text x="734" y="124" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >5</text>
-<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >revisar si los outputs realmente</text>
-<text x="752" y="141.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >mueven la señal</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >outputs utilizados</text>
-<rect x="188.2" y="442.12" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="201.2" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="212.2" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >outcome trend</text>
-<rect x="313.9" y="442.12" width="219.2" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="326.9" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="337.9" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >conversion output-to-outcome</text>
-<rect x="543.1" y="442.12" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="556.1" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="567.1" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cost per outcome</text>
-<rect x="689.5" y="442.12" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="702.5" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="713.5" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >acciones sin efecto</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un outcome puede estar influido por factores fuera del equipo. No lo conviertas en evaluación simplista de una persona; combina</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >controlabilidad, contribución y contexto.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 350.81" width="1040" role="img" aria-labelledby="t-s97 d-s97" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s97">Clase 097 · De lo que se hace a lo que cambia</title>
+<desc id="d-s97">Cuatro eslabones: actividad, producto entregado, resultado (outcome) e impacto en el negocio, con la pregunta que se hace en cada uno.</desc>
+<defs><marker id="p-s97" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="350.81" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 097 · De lo que se hace a lo que cambia</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Drucker · Kaplan &amp; Norton · Rumelt</text>
+<rect x="28" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<circle cx="52.0" cy="122.0" r="13" fill="#59636e"/>
+<text x="52" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Actividad</text>
+<text x="44" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Qué hacemos: reuniones,</text>
+<text x="44" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >campañas, desarrollos. ¿Se</text>
+<text x="44" y="186.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >hizo?</text>
+<path d="M260.5,152.875 L276.5,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s97)"/>
+<rect x="279.5" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<circle cx="303.5" cy="122.0" r="13" fill="#0969da"/>
+<text x="303.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Producto entregado</text>
+<text x="295.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Lo que sale terminado:</text>
+<text x="295.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >informe, función, curso.</text>
+<text x="295.5" y="186.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >¿Quedó listo?</text>
+<path d="M512,152.875 L528,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s97)"/>
+<rect x="531" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<circle cx="555.0" cy="122.0" r="13" fill="#1a7f37"/>
+<text x="555" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Resultado (outcome)</text>
+<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Cambio de comportamiento o</text>
+<text x="547" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >condición en clientes o</text>
+<text x="547" y="186.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >procesos. ¿Cambió algo?</text>
+<path d="M763.5,152.875 L779.5,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s97)"/>
+<rect x="782.5" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<circle cx="806.5" cy="122.0" r="13" fill="#bc4c00"/>
+<text x="806.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Impacto en el negocio</text>
+<text x="798.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Efecto en ingresos, costo,</text>
+<text x="798.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >riesgo o reputación. ¿Valió</text>
+<text x="798.5" y="186.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >la pena?</text>
+<rect x="28" y="223.75" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="245.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Medir solo actividad premia estar ocupado; medir solo impacto llega tarde y mezcla muchas causas. El resultado es el eslabón donde un</text>
+<text x="44" y="263" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >equipo puede decidir y aprender.</text>
+<text x="28" y="310.25" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Los eslabones se conectan por hipótesis causales, que se contrastan con datos y no se dan por ciertas.</text>
 </svg>

@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir resource allocation de fixed commitment mediante evidencia observable."
-  - "Aplicar la secuencia: mapear recursos actuales → comparar con prioridades → clasificar compromiso fijo y movible → estimar costo de reasignación → decidir y seguir transición."
-  - "Interpretar spend by priority, headcount by priority, reallocation lead time sin atribuir causalidad automática."
-  - "Resolver el caso de asignación de recursos con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Diagnosticar la inercia en la asignación de dinero, personas y tiempo."
+  - "Asignar recursos desde las prioridades estratégicas y no desde la historia."
+  - "Tratar el talento y el tiempo de dirección como recursos presupuestables."
+  - "Diseñar un proceso de reasignación con criterios, datos y decisores claros."
+  - "Gestionar el costo humano de las reasignaciones."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "John Doerr — *Measure What Matters*"
-  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
   - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
-  - "Bernard Marr — *Key Performance Indicators*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+  - "Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise*"
   - "Robert S. Kaplan & David P. Norton — *Strategy Maps*"
-  - "Andrew S. Grove — *High Output Management*"
+  - "Kathleen M. Eisenhardt — *Making Fast Strategic Decisions in High-Velocity Environments*"
 limits:
-  - "Reasignar personas como fichas puede destruir conocimiento, compromiso y productividad. Incluye skill, equipos estables y costos humanos, no solo headcount."
+  - "Las proyecciones de retorno por línea son inciertas, y reasignar con excesiva frecuencia desestabiliza."
 evidence_signals:
-  - "spend by priority"
-  - "headcount by priority"
-  - "reallocation lead time"
-  - "sunk initiatives"
-  - "executive attention"
+  - "inercia diagnosticada con datos"
+  - "mantener, crecer y explorar distinguidos"
+  - "talento y tiempo presupuestados"
+  - "costo humano gestionado"

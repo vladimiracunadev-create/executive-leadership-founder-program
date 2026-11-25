@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir financial perspective de customer perspective mediante evidencia observable."
-  - "Aplicar la secuencia: traducir estrategia en outcomes financieros y de cliente → identificar procesos críticos → definir capacidades habilitadoras → conectar objetivos causalmente → seleccionar pocos indicadores por objetivo."
-  - "Interpretar indicadores por objetivo, causal links revisados, balance leading-lagging sin atribuir causalidad automática."
-  - "Resolver el caso de balanced Scorecard y tableros con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Explicar las cuatro perspectivas del cuadro de mando y su relación causal."
+  - "Construir un mapa de estrategia con objetivos, indicadores y metas."
+  - "Diseñar un tablero legible para la decisión que debe apoyar."
+  - "Distinguir tablero estratégico, de gestión y operativo."
+  - "Detectar tableros decorativos y corregirlos."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "John Doerr — *Measure What Matters*"
   - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
-  - "Andrew S. Grove — *High Output Management*"
-  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
-  - "John Doerr — *Speed & Scale*"
+  - "Robert S. Kaplan & David P. Norton — *Strategy Maps*"
   - "Bernard Marr — *Key Performance Indicators*"
+  - "Robert Simons — *Levers of Control*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
 limits:
-  - "No todos los modelos de negocio encajan igual en cuatro perspectivas. Adapta el mapa a stakeholders y estrategia; no fuerces la herramienta sobre la realidad."
+  - "La aplicación mecánica del cuadro de mando produce listas largas y sin causalidad."
 evidence_signals:
-  - "indicadores por objetivo"
-  - "causal links revisados"
-  - "balance leading-lagging"
-  - "strategy review"
-  - "metric retirement"
+  - "mapa de estrategia con causalidad"
+  - "tablero por audiencia y decisión"
+  - "metas y tendencia visibles"
+  - "hipótesis causales contrastadas"

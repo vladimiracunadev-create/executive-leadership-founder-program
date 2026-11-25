@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir metric de KPI mediante evidencia observable."
-  - "Aplicar la secuencia: empezar por decisión → definir métrica y fórmula → validar fuente y población → establecer baseline, target y frecuencia → documentar qué acción activa cada rango."
-  - "Interpretar data quality, KPI ownership, frequency sin atribuir causalidad automática."
-  - "Resolver el caso de kPI y métricas operativas con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Elegir pocos indicadores a partir de las decisiones que deben informar."
+  - "Escribir la ficha de un KPI con definición, fuente, frecuencia, dueño y umbral."
+  - "Distinguir métricas operativas, KPI e indicadores estratégicos."
+  - "Anticipar los efectos de convertir un indicador en meta."
+  - "Diseñar contrapesos y revisiones para mantener la confiabilidad del indicador."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "John Doerr — *Measure What Matters*"
-  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
-  - "Robert S. Kaplan & David P. Norton — *Strategy Maps*"
-  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
-  - "John Doerr — *Speed & Scale*"
   - "Bernard Marr — *Key Performance Indicators*"
+  - "Jerry Z. Muller — *The Tyranny of Metrics*"
+  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
+  - "W. Edwards Deming — *Out of the Crisis*"
+  - "Robert Simons — *Levers of Control*"
 limits:
-  - "Un KPI que se convierte en objetivo puede dejar de ser buen indicador por gaming. Mantén métricas de control y señales complementarias."
+  - "No todo lo importante se mide con precisión (confianza, cultura, reputación)."
 evidence_signals:
-  - "data quality"
-  - "KPI ownership"
-  - "frequency"
-  - "actionability"
-  - "metric disputes"
+  - "decisión que informa cada indicador"
+  - "ficha con definición, fuente y dueño"
+  - "contrapeso frente a manipulación"
+  - "revisión y retiro periódicos"

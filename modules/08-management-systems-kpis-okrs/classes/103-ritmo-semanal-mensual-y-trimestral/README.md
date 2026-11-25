@@ -10,217 +10,189 @@
 
 ## 🎯 Propósito
 
-El ritmo semanal, mensual y trimestral separa horizontes de gestión. La semana corrige ejecución; el mes analiza tendencias y recursos; el trimestre revisa prioridades y supuestos. Mezclar todos los temas en cada reunión produce microgestión estratégica o estrategia sin seguimiento.
+Una organización se gobierna, en la práctica, por el calendario de sus reuniones: lo que se revisa cada semana recibe atención; lo que se revisa una vez al año se descuida. Un **ritmo de gestión** bien diseñado asigna a cada frecuencia un propósito, un conjunto de datos y una decisión propia: la semana sirve para operar y desbloquear; el mes, para gestionar desvíos y recursos; el trimestre, para dirigir apuestas y supuestos. Cuando todas las reuniones tratan lo mismo, la dirección se pierde en la operación y nadie piensa en el rumbo; cuando faltan, los problemas se descubren cuando ya son crisis.
 
-La salida de esta parte es **dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **ritmo semanal, mensual y trimestral** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la descripción de Grove sobre las reuniones como instrumento de producción gerencial, en la insistencia de Bossidy y Charan en una disciplina de ejecución con revisiones regulares, y en el estudio de Mankins y Garton sobre cómo las empresas gastan el tiempo de su equipo directivo. Al terminar sabrás diseñar un calendario de gestión con agendas, insumos y decisiones, medir el costo del tiempo de reunión y eliminar las que no deciden nada.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `weekly cadence`, `monthly review`, `quarterly review`, `operating rhythm`, `escalation` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. clasificar decisiones por horizonte → 2. diseñar weekly de excepciones → 3. usar monthly para tendencias y forecast → 4. reservar quarterly para estrategia y recursos → 5. retirar reuniones redundantes** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** horas de reuniones, decisiones por foro, temas reabiertos sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Asignar** a cada frecuencia un propósito, un insumo y una decisión.
+2. **Diseñar** agendas que prioricen decisiones sobre informes.
+3. **Calcular** el costo del tiempo de reunión y compararlo con su valor.
+4. **Coordinar** el ritmo de equipo, de área y de empresa.
+5. **Detectar** reuniones redundantes y proponer su reemplazo o eliminación.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define weekly cadence y monthly review sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con horas de reuniones y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: lista las reuniones recurrentes de tu semana y marca cuáles terminaron en una decisión. |
+| 20–60 min | Tres ritmos, agendas y costo del tiempo. |
+| 60–105 min | Ejemplo trabajado: calendario de gestión de una empresa de servicios. |
+| 105–150 min | Caso ejecutivo y práctica de diseño. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **weekly cadence** | ritmo corto de compromisos, bloqueos y señales | Distingue un hecho compatible y otro que lo refute. |
-| **monthly review** | análisis de desempeño, forecast y causas | Distingue un hecho compatible y otro que lo refute. |
-| **quarterly review** | revisión de estrategia, recursos y objetivos | Distingue un hecho compatible y otro que lo refute. |
-| **operating rhythm** | arquitectura integrada de reuniones y decisiones | Distingue un hecho compatible y otro que lo refute. |
-| **escalation** | movimiento de excepciones hacia el nivel que puede resolverlas | Distingue un hecho compatible y otro que lo refute. |
+| **Ritmo de gestión** | Calendario de reuniones y revisiones con propósito y decisión definidos. | Cada reunión tiene agenda, insumos y resultado. |
+| **Reunión operativa** | Coordinación de corto plazo para desbloquear el trabajo. | Breve, frecuente, pocas cifras. |
+| **Revisión de gestión** | Análisis periódico de desempeño y desvíos. | Compara con plan y decide correcciones. |
+| **Revisión estratégica** | Evaluación de supuestos, prioridades y apuestas. | Se discute qué cambió en el entorno. |
+| **Costo de reunión** | Tiempo de las personas multiplicado por su costo, más el costo de oportunidad. | Se calcula y se compara con la decisión lograda. |
+| **Insumo previo (pre-read)** | Información enviada antes para usar la reunión en decidir. | Evita leer en voz alta en la sala. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 103: 1. clasificar decisiones por horizonte → 2. diseñar weekly de excepciones → 3. usar monthly para tendencias y forecast → 4. reservar quarterly para estrategia y recursos → 5. retirar reuniones redundantes](modelo-mental.svg)
+![Tres ritmos de gestión: semanal para operar, mensual para gestionar y trimestral para dirigir, cada uno con su propósito y su decisión.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. clasificar decisiones por horizonte → 2. diseñar weekly de excepciones → 3. usar monthly para tendencias y forecast → 4. reservar quarterly para estrategia y recursos → 5. retirar reuniones redundantes
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El ritmo semanal, mensual y trimestral separa horizontes de gestión. La semana corrige ejecución; el mes analiza tendencias y recursos; el trimestre revisa prioridades y supuestos. Mezclar todos los temas en cada reunión produce microgestión estratégica o estrategia sin seguimiento.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Cadencia no debe sobrevivir por tradición. Si una reunión deja de producir decisiones o aprendizaje, rediseña o elimina; el calendario es parte del sistema operativo.**
+**Cómo leer el diagrama.** Tres columnas, tres escalas de tiempo. La **semanal** coordina y desbloquea con pocas cifras. La **mensual** revisa desvíos frente al plan, sus causas y los recursos. La **trimestral** dirige: revisa supuestos, prioridades y apuestas. La nota previene el error más común: tratar los mismos temas en todos los ritmos, lo que consume el tiempo de dirección en operar y deja sin espacio la conversación estratégica.
 
 ## 📖 Desarrollo
 
-### 1. weekly cadence: mecanismo central
+### 1. Las reuniones como producción gerencial
 
-**weekly cadence** se entiende aquí como **ritmo corto de compromisos, bloqueos y señales**. Esta es la pieza causal o estructural desde la que se inicia **ritmo semanal, mensual y trimestral**: antes de clasificar decisiones por horizonte, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Grove sostuvo que el trabajo de un gerente consiste en gran parte en influir en otras personas, y que las reuniones son el medio principal de hacerlo; por eso son parte de la producción, no un obstáculo. Una reunión se justifica si **produce** algo: una decisión, un compromiso, una coordinación o una información que cambia lo que se hará. Clasificó las reuniones por propósito (compartir información, resolver problemas, tomar decisiones, desarrollar personas) y recomendó diseñarlas según ese propósito. Una reunión que mezcla todos los propósitos suele cumplir ninguno.
 
-La lectura rectora de este bloque es John Doerr — *Measure What Matters*. Su aporte se usa para examinar **objetivos, resultados clave, foco, transparencia y cadencia de seguimiento**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **horas de reuniones**; regístrala con periodo, unidad, población y baseline.
+### 2. Ritmo semanal: operar
 
-Relaciona el mecanismo con **monthly review**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La reunión semanal de un equipo dura entre 30 y 60 minutos y responde: ¿qué logramos?, ¿qué se bloqueó?, ¿qué haremos esta semana?, ¿qué necesitamos de otros? Se revisan pocos indicadores operativos (clase 100), se asignan compromisos con dueño y fecha y se escalan los bloqueos que el equipo no puede resolver (clase 107). No es lugar para discutir la estrategia ni para presentaciones largas. Su valor es el **ritmo de cumplimiento**: la costumbre de que lo prometido se revisa pronto.
 
-### 2. monthly review: frontera conceptual y error de clasificación
+### 3. Ritmo mensual: gestionar
 
-**Definición operacional:** análisis de desempeño, forecast y causas. Su valor está en distinguirlo de **weekly cadence** y **quarterly review**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La revisión mensual de un área o de la empresa compara resultados con el plan y entre meses, **diagnostica los desvíos** y decide correcciones y reasignación de recursos (clases 104 y 106). Se apoya en un tablero de gestión con pocos indicadores y su tendencia, más un breve análisis de causas de los desvíos significativos. Su pregunta central es: ¿vamos a cumplir los compromisos del trimestre?, y si no, ¿qué cambiamos ahora? Es el ritmo donde se corrige el rumbo antes de que se note en los resultados trimestrales.
 
-Contrasta el problema con Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*, que aporta una mirada sobre **traducción de estrategia a objetivos, indicadores y relaciones causales**. Formula dos mini-casos: uno que sí satisface la definición de **monthly review** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **decisiones por foro** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Ritmo trimestral: dirigir
 
-Antes de diseñar weekly de excepciones, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La revisión trimestral reúne a la dirección para evaluar si la estrategia sigue siendo la correcta: **supuestos** (qué creíamos del mercado, de clientes y de competencia, y qué cambió), **prioridades y apuestas** (qué iniciativas continúan, aceleran o se detienen), **OKR del ciclo** (resultados y aprendizajes) y **asignación de recursos** (clase 106). Bossidy y Charan insisten en que la ejecución se vincula con la estrategia y con las personas mediante procesos operativos regulares; el trimestre es el punto donde se revisan los tres. Se dedican horas, no minutos, y se protege la agenda.
 
-### 3. quarterly review: operacionalización y medición
+### 5. Ritmo anual
 
-**quarterly review** significa **revisión de estrategia, recursos y objetivos**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+A los tres ritmos se suma el anual: revisión de la estrategia, presupuesto, plan de personas y de capital. El ciclo anual no debe ser una réplica de ocho trimestres seguidos; es el espacio para decisiones de mayor plazo: entrar o salir de un negocio, cambiar el modelo, reorganizar. Los tres ritmos menores alimentan al anual con datos y aprendizajes. Una organización sin ritmo anual avanza sin preguntarse si va en la dirección correcta; una sin ritmos cortos descubre los problemas tarde.
 
-Robert S. Kaplan & David P. Norton — *Strategy Maps* orienta este bloque mediante **perspectiva de Estrategia aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **temas reabiertos**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. El costo del tiempo directivo
 
-Al llegar a usar monthly para tendencias y forecast, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Mankins y Garton muestran que el tiempo de un equipo directivo es un recurso escaso que muchas empresas gestionan con menos rigor que el capital. Una reunión de ocho ejecutivos de dos horas cuesta 16 horas de ejecutivos, a lo que se suma la preparación. Se recomienda **presupuestar** el tiempo: cuántas horas del equipo se dedican a cada tipo de tema, y compararlo con las prioridades. Muchos equipos descubren que dedican la mayor parte del tiempo a temas operativos y casi nada a las apuestas que definen su futuro.
 
-### 4. operating rhythm: trade-offs y efectos de segundo orden
+### 7. Diseño de una buena reunión
 
-**Definición:** arquitectura integrada de reuniones y decisiones. Este concepto obliga a abandonar la idea de que **ritmo semanal, mensual y trimestral** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de reservar quarterly para estrategia y recursos, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Michael C. Mankins & Eric Garton — *Time, Talent, Energy* aporta una lente sobre **perspectiva de Organización aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **escalamientos** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **ritmo semanal, mensual y trimestral**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **operating rhythm** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. escalation: gobernanza, límites e integración
-
-**escalation** se define como **movimiento de excepciones hacia el nivel que puede resolverlas** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* se utiliza para estudiar **responsabilidad gerencial, propósito, organización y resultados** y contrastar la recomendación final. Al ejecutar retirar reuniones redundantes, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Cadencia no debe sobrevivir por tradición. Si una reunión deja de producir decisiones o aprendizaje, rediseña o elimina; el calendario es parte del sistema operativo.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **weekly cadence**, **monthly review**, **quarterly review**, **operating rhythm** y **escalation** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **ritmo semanal, mensual y trimestral** no consiste en sumar cinco definiciones. Empieza por **weekly cadence**, contrasta **monthly review** con **quarterly review**, incorpora **operating rhythm** como restricción o mecanismo y usa **escalation** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. clasificar decisiones por horizonte → 2. diseñar weekly de excepciones → 3. usar monthly para tendencias y forecast → 4. reservar quarterly para estrategia y recursos → 5. retirar reuniones redundantes**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Cada reunión tiene: **propósito** de una línea, **agenda** con tiempos, **insumos previos** que se leen antes, **lista de quienes deciden** y solo las personas necesarias, **resultados escritos** (decisiones, compromisos con dueño y fecha) y **seguimiento** en la siguiente. Se empieza por las decisiones, no por los informes. Se usa el tiempo de la reunión para discutir, no para leer. Y se revisa cada semestre si la reunión sigue sirviendo: si no ha producido decisiones en tres meses, se elimina o se transforma.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| John Doerr — *Measure What Matters* | objetivos, resultados clave, foco, transparencia y cadencia de seguimiento | ¿Qué supuesto de **ritmo semanal, mensual y trimestral** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* | traducción de estrategia a objetivos, indicadores y relaciones causales | ¿Qué supuesto de **ritmo semanal, mensual y trimestral** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *Strategy Maps* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **ritmo semanal, mensual y trimestral** ayuda a desafiar? |
-| Michael C. Mankins & Eric Garton — *Time, Talent, Energy* | perspectiva de Organización aplicada al problema de la clase | ¿Qué supuesto de **ritmo semanal, mensual y trimestral** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **ritmo semanal, mensual y trimestral** ayuda a desafiar? |
-
-En **ritmo semanal, mensual y trimestral**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **weekly cadence**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Grove | Reuniones como producción gerencial y su clasificación. | Estilo de una empresa técnica de su época. | ¿Qué produce tu reunión? |
+| Bossidy y Charan | Disciplina de ejecución y revisiones regulares. | Se centra en grandes empresas. | ¿Qué revisión vincula estrategia, personas y operación? |
+| Mankins y Garton | Gestión del tiempo directivo como recurso escaso. | Datos de empresas grandes. | ¿Cuánto del tiempo se dedica a apuestas? |
+| Kaplan y Norton | Revisión estratégica con el cuadro de mando. | Requiere estrategia explícita. | ¿Qué hipótesis revisas? |
+| Doerr | Seguimiento semanal y cierre trimestral de OKR. | Casos seleccionados. | ¿Tu seguimiento cambia el trabajo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un gerente revisa detalles de tickets en el comité trimestral y discute estrategia en la daily. Nadie sabe qué foro tiene autoridad para cambiar recursos.
+**Situación (hipotética).** Una empresa de servicios de ingeniería de 200 personas tiene un comité de dirección de seis personas que se reúne cada semana, dos horas, para «revisar todo». Un estudio interno de tiempo muestra: 60 % de la reunión se dedica a proyectos en curso, 25 % a temas de personas, 10 % a ventas y 5 % a estrategia. Nadie recuerda la última decisión de largo plazo.
 
-**Paso 1 — clasificar decisiones por horizonte.** La gerencia escribe primero el supuesto asociado a **weekly cadence** y evita convertirlo en hecho. Luego busca **horas de reuniones** para contrastarlo en el caso de **ritmo semanal, mensual y trimestral**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costo.** 6 personas × 2 horas × 48 semanas = 576 horas de dirección al año, sin contar la preparación (otras 300 horas estimadas). A un costo promedio de USD 70 por hora, unos USD 61.000 al año, sin incluir el costo de oportunidad.
 
-**Paso 2 — diseñar weekly de excepciones.** La gerencia escribe primero el supuesto asociado a **monthly review** y evita convertirlo en hecho. Luego busca **decisiones por foro** para contrastarlo en el caso de **ritmo semanal, mensual y trimestral**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Rediseño.**
 
-**Paso 3 — usar monthly para tendencias y forecast.** La gerencia escribe primero el supuesto asociado a **quarterly review** y evita convertirlo en hecho. Luego busca **temas reabiertos** para contrastarlo en el caso de **ritmo semanal, mensual y trimestral**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Ritmo | Reunión | Duración | Propósito y decisión |
+|---|---|---|---|
+| Semanal | Coordinación de dirección | 45 min | Bloqueos y compromisos; temas de proyectos se revisan con los gerentes de proyecto |
+| Mensual | Revisión de gestión | 3 horas | Tablero de 12 indicadores, desvíos, reasignación de personas y recursos |
+| Trimestral | Revisión estratégica | 1 día | Supuestos, apuestas, OKR, cartera de proyectos y precios |
+| Anual | Planificación | 2 días | Estrategia, presupuesto, plan de personas |
 
-**Paso 4 — reservar quarterly para estrategia y recursos.** La gerencia escribe primero el supuesto asociado a **operating rhythm** y evita convertirlo en hecho. Luego busca **escalamientos** para contrastarlo en el caso de **ritmo semanal, mensual y trimestral**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Nuevo costo.** Semanal: 6 × 0,75 × 48 = 216 h; mensual: 6 × 3 × 12 = 216 h; trimestral: 6 × 8 × 4 = 192 h; anual: 6 × 16 = 96 h; total 720 horas. Aumenta el tiempo de dirección, pero la proporción dedicada a revisión estratégica y planificación (trimestral y anual: 288 de 720 horas) pasa de 5 % a 40 %.
 
-**Paso 5 — retirar reuniones redundantes.** La gerencia escribe primero el supuesto asociado a **escalation** y evita convertirlo en hecho. Luego busca **acciones vencidas** para contrastarlo en el caso de **ritmo semanal, mensual y trimestral**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Seguimiento.** Tras un semestre se mide cuántas decisiones tomó cada reunión; la semanal pierde 15 minutos porque los compromisos se cierran más rápido. Se elimina una reunión de coordinación que duplicaba la mensual.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **ritmo semanal, mensual y trimestral**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El tiempo directivo se trató como presupuesto. (2) Cada ritmo tuvo una decisión propia. (3) Se verificó con datos si las reuniones producían lo esperado.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **weekly cadence** | ritmo corto de compromisos, bloqueos y señales | Cuando horas de reuniones es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **monthly review** | análisis de desempeño, forecast y causas | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Ritmo frente a respuesta a crisis.** El ritmo regular ordena lo previsible; una crisis exige reunirse fuera de calendario con otro propósito (clase 190). Un buen ritmo reduce las crisis porque los problemas se detectan antes.
 
-**Frontera de aplicación:** Cadencia no debe sobrevivir por tradición. Si una reunión deja de producir decisiones o aprendizaje, rediseña o elimina; el calendario es parte del sistema operativo.
+**Límites.** La frecuencia ideal depende del ritmo del negocio y de su incertidumbre; los ejemplos son ilustrativos. Más reuniones no equivalen a mejor gestión: el exceso de coordinación puede ser un síntoma de roles confusos. Las reuniones a distancia exigen cuidar la participación y el tiempo. Y la medición del tiempo de personas tiene un límite práctico y ético: no debe usarse para vigilar individuos, sino para diseñar el sistema.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre ritmo semanal, mensual y trimestral |
+| Nivel | Cómo participa en el ritmo |
 |---|---|
-| **Profesional** | usa **ritmo semanal, mensual y trimestral** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **weekly cadence** y **monthly review** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta horas de reuniones con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si ritmo semanal, mensual y trimestral cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de ritmo semanal, mensual y trimestral reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **ritmo semanal, mensual y trimestral** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Llega preparado, cumple compromisos y avisa de bloqueos. |
+| **Jefe / Team Lead** | Conduce una reunión semanal breve con decisiones y seguimiento. |
+| **Gerente** | Diseña el calendario de su área y protege tiempo para lo importante. |
+| **CEO / Director** | Presupuesta el tiempo directivo y protege el ritmo estratégico. |
+| **Founder / Owner** | Evita que las reuniones lo vuelvan el cuello de botella de todas las decisiones. |
 
 ## 🏢 Caso ejecutivo
 
-Un gerente revisa detalles de tickets en el comité trimestral y discute estrategia en la daily. Nadie sabe qué foro tiene autoridad para cambiar recursos.
+Una empresa de retail con 90 tiendas tiene un calendario saturado: reunión diaria de gerentes regionales, semanal de comité de dirección, mensual de «resultados» con 90 diapositivas, trimestral de presupuesto y una anual de estrategia que se hace en tres días de retiro. El gerente general siente que decide poco y que se entera tarde de los problemas. Los gerentes regionales dicen que el 40 % de su semana son reuniones. El directorio pide «más foco en la estrategia digital», pero esa agenda nunca llega al comité.
 
-Entrega un **decision brief de ritmo semanal, mensual y trimestral** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **rediseño del ritmo de gestión** que contenga: (a) el inventario de reuniones con su propósito y su costo; (b) los ritmos semanal, mensual, trimestral y anual con agenda, insumo y decisión de cada uno; (c) qué reuniones se eliminan, se fusionan o se transforman; (d) el presupuesto de tiempo directivo por tipo de tema; (e) los indicadores que verán en cada ritmo; (f) cómo medirás si el nuevo ritmo produce decisiones.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **ritmo semanal, mensual y trimestral** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. clasificar decisiones por horizonte → 2. diseñar weekly de excepciones → 3. usar monthly para tendencias y forecast → 4. reservar quarterly para estrategia y recursos → 5. retirar reuniones redundantes** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta horas de reuniones, decisiones por foro; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Haz el inventario de tus reuniones recurrentes y su costo mensual en horas.
+2. Define el propósito y la decisión de cada una; elimina o transforma una.
+3. Diseña una agenda semanal de 30 minutos con insumo previo.
+4. Calcula cuánto del tiempo de tu equipo se dedica a operar y cuánto a dirigir.
+5. Define una medida para saber si tu reunión mensual produce decisiones.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar weekly cadence y monthly review como sinónimos | Se pierde la distinción entre “ritmo corto de compromisos, bloqueos y señales” y “análisis de desempeño, forecast y causas” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “retirar reuniones redundantes” | Se saltó “clasificar decisiones por horizonte” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. clasificar decisiones por horizonte → 2. diseñar weekly de excepciones → 3. usar monthly para tendencias y forecast → 4. reservar quarterly para estrategia y recursos → 5. retirar reuniones redundantes y marca el primer supuesto no demostrado. |
-| Optimizar solo horas de reuniones | La métrica local sustituyó al resultado del sistema | Contrástala con decisiones por foro y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre ritmo semanal, mensual y trimestral | Cadencia no debe sobrevivir por tradición. Si una reunión deja de producir decisiones o aprendizaje, rediseña o elimina; el calendario es parte del sistema operativo. |
-| No fijar revisión | Una decisión sobre ritmo semanal, mensual y trimestral se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Los mismos temas en todos los ritmos | Se reúne a las mismas personas | Propósito y decisión por ritmo. |
+| Reuniones sin decisión | Se informa en lugar de decidir | Empezar por las decisiones. |
+| Informes leídos en voz alta | No hay insumo previo | Enviar antes y discutir en sala. |
+| Demasiados participantes | Se quiere no dejar a nadie fuera | Solo quienes deciden o aportan. |
+| No medir el costo | Parece gratis | Calcular horas y comparar con decisiones. |
+| Sin ritmo anual | Se opera sin revisar el rumbo | Planificación anual de estrategia y recursos. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **weekly cadence** y **monthly review** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **quarterly review** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **clasificar decisiones por horizonte → diseñar weekly de excepciones** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **horas de reuniones** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **ritmo semanal, mensual y trimestral**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Cadencia no debe sobrevivir por tradición. Si una reunión deja de producir decisiones o aprendizaje, rediseña o elimina; el calendario es parte del sistema operativo.**?
+1. ¿Qué propósito tiene la reunión semanal, la mensual y la trimestral?
+2. ¿Por qué Grove considera las reuniones parte de la producción gerencial?
+3. ¿Cómo se calcula el costo de una reunión?
+4. ¿Qué debe tener una buena agenda?
+5. ¿Qué ocurre si todas las reuniones tratan los mismos temas?
+6. ¿Para qué sirve el ritmo anual?
+7. ¿Qué límite tiene medir el tiempo de las personas?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La semanal opera y desbloquea; la mensual gestiona desvíos y recursos; la trimestral dirige supuestos, prioridades y apuestas.
+2. Porque el trabajo gerencial consiste en influir en otros, y la reunión es el medio principal para decidir y coordinar.
+3. Horas de cada persona por su costo, más la preparación y el costo de oportunidad, comparado con la decisión que produce.
+4. Propósito, tiempos, insumos previos, participantes necesarios, resultados escritos y seguimiento.
+5. El tiempo de dirección se consume en operar y la estrategia no avanza.
+6. Para decisiones de mayor plazo: estrategia, presupuesto, plan de personas y capital.
+7. No debe usarse para vigilar individuos, sino para diseñar el sistema.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/103-ritmo-semanal-mensual-y-trimestral/`:
 
-- `leadership-decision-brief.md` con el problema específico de **ritmo semanal, mensual y trimestral**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **ritmo semanal, mensual y trimestral** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **weekly cadence**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un gerente revisa detalles de tickets en el comité trimestral y discute estrategia en la daily. Nadie sabe qué foro tiene autoridad para cambiar recursos.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el rediseño del ritmo del caso ejecutivo;
+- `monthly-business-review.md` (plantilla [Monthly business review](../../../../templates/monthly-business-review.md)) con la agenda y los insumos de la revisión mensual;
+- `decision-journal.md` con el presupuesto de tiempo directivo y la medición de decisiones.
 
 ## 📗 Fuentes y verificación
 
-- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** objetivos, resultados clave, foco, transparencia y cadencia de seguimiento. Lectura selectiva sobre **ritmo semanal, mensual y trimestral**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
-- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** traducción de estrategia a objetivos, indicadores y relaciones causales. Lectura selectiva sobre **ritmo semanal, mensual y trimestral**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
-- Robert S. Kaplan & David P. Norton — *Strategy Maps* (Harvard Business School Press, 2004). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **ritmo semanal, mensual y trimestral**. **Localizador:** [ISBN-13 9781591391340](https://openlibrary.org/isbn/9781591391340).
-- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** perspectiva de Organización aplicada al problema de la clase. Lectura selectiva sobre **ritmo semanal, mensual y trimestral**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **ritmo semanal, mensual y trimestral**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Bernard Marr — *Key Performance Indicators* (Pearson Financial Times Pub., 2012). **Uso en esta clase:** selección de métricas útiles y conexión entre indicadores y decisiones. Lectura selectiva sobre **ritmo semanal, mensual y trimestral**. **Localizador:** [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **ritmo semanal, mensual y trimestral** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **ritmo semanal, mensual y trimestral**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **ritmo semanal, mensual y trimestral** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **ritmo semanal, mensual y trimestral** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **ritmo semanal, mensual y trimestral** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** reuniones como producción gerencial y su clasificación. Lectura selectiva sobre **ritmo semanal, mensual y trimestral**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
+- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución y revisiones regulares. Lectura selectiva sobre **ritmo semanal, mensual y trimestral**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** gestión del tiempo directivo como recurso escaso. Lectura selectiva sobre **ritmo semanal, mensual y trimestral**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
+- Robert S. Kaplan & David P. Norton — *Strategy Maps* (Harvard Business School Press, 2004). **Uso en esta clase:** revisión estratégica con el cuadro de mando. Lectura selectiva sobre **ritmo semanal, mensual y trimestral**. **Localizador:** [ISBN-13 9781591391340](https://openlibrary.org/isbn/9781591391340).
+- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** seguimiento semanal y cierre trimestral de OKR. Lectura selectiva sobre **ritmo semanal, mensual y trimestral**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
 
-> **Regla de fuentes para Ritmo semanal, mensual y trimestral:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **ritmo semanal, mensual y trimestral** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Ritmo semanal, mensual y trimestral:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

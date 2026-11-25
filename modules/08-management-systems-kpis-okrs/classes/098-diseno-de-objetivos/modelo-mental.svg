@@ -1,81 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g98 d-g98" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g98">Ficha visual de la clase 098: Diseño de objetivos</title>
-<desc id="d-g98">Conceptos: objective; target; constraint; stretch; commitment. Método: partir de prioridad estratégica → definir outcome y horizonte → seleccionar 1–3 medidas → declarar constraints y trade-offs → alinear recursos y revisión.</desc>
-<defs><marker id="p-g98" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 098 · Diseño de objetivos</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 08 · Gestión de negocio</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#8250df"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >objective</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >estado futuro cualitativo que orienta decisiones</text>
-<circle cx="38" cy="170" r="5" fill="#8250df"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >target</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >valor cuantitativo esperado para una métrica</text>
-<circle cx="38" cy="228" r="5" fill="#8250df"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >constraint</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >límite que debe respetarse al perseguir la meta</text>
-<circle cx="38" cy="286" r="5" fill="#8250df"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >stretch</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grado deliberado de ambición más allá del baseline</text>
-<circle cx="38" cy="344" r="5" fill="#8250df"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >commitment</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >objetivo que la organización asume como promesa</text>
-<text x="54" y="383.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >operacional</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#8250df"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >partir de</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >prioridad</text>
-<text x="504" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >estratégica</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#8250df"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir outcome y</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >horizonte</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#8250df"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >seleccionar 1–3</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >medidas</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#8250df"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >declarar</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >constraints y</text>
-<text x="880" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >trade-offs</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#8250df"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >alinear recursos y</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >revisión</text>
-<path d="M638,139 L656,139" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g98)"/>
-<path d="M826,139 L844,139" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g98)"/>
-<path d="M929,176 L929,222" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g98)"/>
-<path d="M844,259 L826,259" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g98)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#8250df" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g98)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="212.3" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >número de objetivos activos</text>
-<rect x="250.3" y="442.12" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="263.3" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="274.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >recursos sin objetivo</text>
-<rect x="431.2" y="442.12" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="444.2" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="455.2" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >objetivos incompatibles</text>
-<rect x="625.9" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="638.9" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="649.9" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >target attainment</text>
-<rect x="779.2" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="792.2" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="803.2" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >re-priorizaciones</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un objetivo agresivo puede inducir gaming o riesgo si no incluye límites. Ambición sin guardrails no es liderazgo de desempeño.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 458.42" width="1040" role="img" aria-labelledby="t-s98 d-s98" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s98">Clase 098 · Un objetivo que se puede juzgar</title>
+<desc id="d-s98">Cuatro características de un objetivo bien formulado, con un ejemplo débil y su versión corregida.</desc>
+<defs><marker id="p-s98" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="458.42" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 098 · Un objetivo que se puede juzgar</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Locke &amp; Latham (2002) · Ordóñez et al. (2009) · Doerr</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Característica</text>
+<text x="260.299" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Versión débil</text>
+<text x="583.403" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Versión que se puede juzgar</text>
+<rect x="28" y="136" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Específico</text>
+<text x="260.299" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Mejorar la atención al cliente.</text>
+<text x="583.403" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Responder el primer contacto en menos de 4 horas hábiles.</text>
+<rect x="28" y="172.56" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Medible</text>
+<text x="260.299" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Aumentar las ventas.</text>
+<text x="583.403" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Subir de 120 a 150 contratos mensuales.</text>
+<rect x="28" y="209.12" width="984" height="53.12" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="229.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Con plazo y dueño</text>
+<text x="260.299" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Reducir los reclamos.</text>
+<text x="583.403" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Bajar de 9 % a 5 % antes del cierre del trimestre; responde la</text>
+<text x="583.403" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >jefa de postventa.</text>
+<rect x="28" y="262.24" width="984" height="53.12" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="282.24" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Con resultado y límites</text>
+<text x="260.299" y="282.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Cerrar 30 ventas, cueste lo que cueste.</text>
+<text x="583.403" y="282.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Cerrar 30 ventas sin bajar el margen de 22 % ni aumentar las</text>
+<text x="583.403" y="298.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >devoluciones.</text>
+<rect x="28" y="331.36" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="353.36" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Los objetivos exigentes y específicos mejoran el desempeño en tareas bien comprendidas, pero un objetivo mal diseñado puede empujar a</text>
+<text x="44" y="370.61" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >conductas dañinas. Por eso se acompañan de límites.</text>
+<text x="28" y="417.86" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Con tareas nuevas o complejas, fijar el aprendizaje como objetivo funciona mejor que fijar un número de resultado.</text>
 </svg>

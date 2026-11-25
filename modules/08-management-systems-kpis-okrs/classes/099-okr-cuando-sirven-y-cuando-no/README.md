@@ -10,217 +10,188 @@
 
 ## 🎯 Propósito
 
-Los OKR funcionan como sistema de foco y aprendizaje cuando un Objective expresa dirección y los Key Results miden resultados, no tareas. No son apropiados para cada proceso regulado o compromiso contractual. Separar OKR aspiracionales de commitments evita convertir incumplimiento planificado en normalidad.
+Los OKR (objetivos y resultados clave) se han vuelto un estándar de moda: muchas empresas los adoptan esperando alineación y foco, y varias los abandonan frustradas porque terminaron como una planilla trimestral más. La diferencia no está en la herramienta sino en las condiciones en que se usa. Los OKR son un mecanismo para **elegir pocas apuestas, alinear equipos y revisar con frecuencia si el avance es real**; no son un sistema de evaluación de personas, ni un reemplazo de la estrategia, ni un tablero de operación.
 
-La salida de esta parte es **dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **oKR: cuándo sirven y cuándo no** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la descripción de Doerr (*Measure What Matters* y *Speed & Scale*), en el origen del método en el trabajo de Grove sobre gestión de alto rendimiento y en la advertencia de Ordóñez y colegas sobre los efectos de las metas mal diseñadas. Al terminar sabrás escribir objetivos y resultados clave de buena calidad, decidir cuándo adoptar OKR, diferenciarlos de los KPI y evitar los fallos más comunes.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `Objective`, `Key Result`, `initiative`, `commitment`, `check-in` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. seleccionar pocos Objectives → 2. escribir KRs de outcome o driver → 3. separar iniciativas → 4. etiquetar commitments → 5. hacer check-ins y cambiar iniciativas según evidencia** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** KRs de actividad, confidence score, initiatives changed sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Redactar** un objetivo cualitativo inspirador y de dos a cinco resultados clave medibles.
+2. **Diferenciar** OKR de KPI, de tareas y de evaluación del desempeño.
+3. **Decidir** si la organización está lista para adoptar OKR y con qué alcance.
+4. **Diseñar** un ciclo de OKR con cascada, revisión y cierre.
+5. **Reconocer** los modos de fallo y proponer correcciones.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define Objective y Key Result sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con KRs de actividad y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuántas prioridades tiene tu equipo ahora y cuántas puede perseguir de verdad? |
+| 20–60 min | Estructura, condiciones de uso y fallos. |
+| 60–105 min | Ejemplo trabajado: un ciclo de OKR de una empresa de servicios. |
+| 105–150 min | Caso ejecutivo y práctica de redacción. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **Objective** | dirección cualitativa y memorable | Distingue un hecho compatible y otro que lo refute. |
-| **Key Result** | resultado cuantitativo que evidencia progreso hacia el Objective | Distingue un hecho compatible y otro que lo refute. |
-| **initiative** | actividad elegida para mover un KR, sustituible si no funciona | Distingue un hecho compatible y otro que lo refute. |
-| **commitment** | obligación que debe cumplirse | Distingue un hecho compatible y otro que lo refute. |
-| **check-in** | revisión breve de progreso, confianza y aprendizaje | Distingue un hecho compatible y otro que lo refute. |
+| **Objetivo (O)** | Descripción cualitativa y motivadora de lo que se quiere lograr en un ciclo. | Se entiende y entusiasma sin cifras. |
+| **Resultado clave (KR)** | Medida cuantitativa que indica si el objetivo se logró. | Tiene línea base, meta y fecha. |
+| **Meta de estiramiento** | OKR ambicioso cuyo logro pleno es poco probable. | Se acuerda qué puntaje se considera bueno. |
+| **Compromiso** | OKR que se espera cumplir al 100 %. | Se distingue explícitamente de los de estiramiento. |
+| **Alineación** | Relación entre OKR de distintos niveles. | Cada equipo puede ver cómo aporta. |
+| **Puntuación y cierre** | Valoración al final del ciclo y registro de lecciones. | Se compara lo esperado con lo ocurrido. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 099: 1. seleccionar pocos Objectives → 2. escribir KRs de outcome o driver → 3. separar iniciativas → 4. etiquetar commitments → 5. hacer check-ins y cambiar iniciativas según evidencia](modelo-mental.svg)
+![Condiciones en que los OKR suelen ayudar y condiciones en que suelen estorbar.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. seleccionar pocos Objectives → 2. escribir KRs de outcome o driver → 3. separar iniciativas → 4. etiquetar commitments → 5. hacer check-ins y cambiar iniciativas según evidencia
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Los OKR funcionan como sistema de foco y aprendizaje cuando un Objective expresa dirección y los Key Results miden resultados, no tareas. No son apropiados para cada proceso regulado o compromiso contractual. Separar OKR aspiracionales de commitments evita convertir incumplimiento planificado en normalidad.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **OKR no reemplaza presupuestos, SLA, compliance ni gestión operativa. Úsalo donde foco y aprendizaje agreguen valor, no como lenguaje obligatorio para toda tarea.**
+**Cómo leer el diagrama.** Dos paneles. A la izquierda, tres condiciones en que los OKR suelen aportar: alinear esfuerzos, enfocar cuando hay demasiadas prioridades y aprender midiendo con revisiones frecuentes. A la derecha, tres en que suelen estorbar: si se usan para evaluar personas, si los resultados clave son tareas y si el trabajo es de rutina estable. La decisión de adoptar OKR parte de preguntar a cuál de los dos paneles se parece más la situación real.
 
 ## 📖 Desarrollo
 
-### 1. Objective: mecanismo central
+### 1. Origen y propósito
 
-**Objective** se entiende aquí como **dirección cualitativa y memorable**. Esta es la pieza causal o estructural desde la que se inicia **oKR: cuándo sirven y cuándo no**: antes de seleccionar pocos objectives, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Grove, en *High Output Management*, describió un sistema de objetivos y resultados clave para centrar la atención de una organización técnica en lo que importa. Doerr lo introdujo en Google y lo popularizó. La premisa: pocos objetivos, con resultados medibles, revisados con frecuencia, públicos dentro de la organización. El método busca responder dos preguntas: **¿hacia dónde vamos?** (el objetivo) y **¿cómo sabremos que llegamos?** (los resultados clave). La claridad compartida sobre esas dos preguntas es el beneficio central.
 
-La lectura rectora de este bloque es John Doerr — *Measure What Matters*. Su aporte se usa para examinar **objetivos, resultados clave, foco, transparencia y cadencia de seguimiento**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **KRs de actividad**; regístrala con periodo, unidad, población y baseline.
+### 2. Cómo se escribe un buen OKR
 
-Relaciona el mecanismo con **Key Result**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El **objetivo** es breve, cualitativo y memorable: «Ser la primera opción de las clínicas medianas». Los **resultados clave** son de dos a cinco, medibles, y describen **resultados**, no tareas (clase 097): «Subir el NPS de clínicas medianas de 32 a 45», «Pasar de 18 a 30 clínicas activas mensuales». Una señal de calidad: un tercero puede decir sin ambigüedad si cada resultado clave se logró. Una señal de alerta: los resultados clave empiezan con verbos de actividad («lanzar», «implementar»), lo que indica que son un plan de trabajo y no una medida de logro.
 
-### 2. Key Result: frontera conceptual y error de clasificación
+### 3. Compromiso y estiramiento
 
-**Definición operacional:** resultado cuantitativo que evidencia progreso hacia el Objective. Su valor está en distinguirlo de **Objective** y **initiative**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Doerr distingue los OKR **comprometidos**, que se espera cumplir por completo y se asocian a responsabilidades operativas, de los OKR de **estiramiento** (*moonshots*), que buscan resultados excepcionales y se considera exitoso lograr entre el 60 % y el 70 %. Mezclar ambos sin aclararlo genera confusión: un equipo no sabe si un 70 % es un fracaso o un éxito. Por eso el ciclo comienza con un acuerdo explícito sobre qué tipo de OKR es cada uno y cómo se valorará, y se evita usar el cumplimiento de los de estiramiento como evaluación individual.
 
-Contrasta el problema con Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*, que aporta una mirada sobre **traducción de estrategia a objetivos, indicadores y relaciones causales**. Formula dos mini-casos: uno que sí satisface la definición de **Key Result** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **confidence score** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. OKR frente a KPI
 
-Antes de escribir krs de outcome o driver, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Los **KPI** vigilan la salud estable de lo que ya se opera (tasa de entregas a tiempo, margen, rotación); sus valores se mantienen o se mejoran gradualmente. Los **OKR** impulsan un cambio en un período determinado, centrados en pocas apuestas. Ambos coexisten: un KPI que se deteriora puede convertirse en un OKR de corrección; un OKR logrado puede transformarse en KPI de mantenimiento. Usar OKR para todo lo que el equipo hace deja el trabajo de rutina sin atención. Usar solo KPI deja a la empresa sin mecanismo de cambio.
 
-### 3. initiative: operacionalización y medición
+### 5. Cascada y alineación
 
-**initiative** significa **actividad elegida para mover un KR, sustituible si no funciona**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La alineación no exige que los OKR de arriba se descompongan mecánicamente hacia abajo. Funciona mejor un diálogo: la dirección define pocas prioridades, los equipos proponen cómo contribuyen y negocian los resultados clave, y se verifican las dependencias entre equipos. La transparencia (cada persona puede ver los OKR de los demás) facilita la coordinación. Una cascada rígida convierte los OKR en órdenes y quita compromiso; una falta de alineación produce equipos que optimizan lo suyo.
 
-Andrew S. Grove — *High Output Management* orienta este bloque mediante **output managerial, leverage, reuniones, indicadores y gestión por procesos**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **initiatives changed**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Ritmo del ciclo
 
-Al llegar a separar iniciativas, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Un ciclo típico es trimestral con un marco anual. Incluye: **definición** (dos semanas antes), **seguimiento semanal** breve (confianza en alcanzar cada resultado clave, bloqueos), **revisión de mitad de ciclo** y **cierre** con puntuación y aprendizaje. Si los OKR solo se miran al principio y al final, funcionan como un deseo; si se miran cada semana sin decisión, como un trámite. El valor aparece cuando la revisión cambia el trabajo: se detiene lo que no avanza y se refuerza lo que sí.
 
-### 4. commitment: trade-offs y efectos de segundo orden
+### 7. Cuándo no usar OKR y modos de fallo
 
-**Definición:** obligación que debe cumplirse. Este concepto obliga a abandonar la idea de que **oKR: cuándo sirven y cuándo no** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de etiquetar commitments, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Larry Bossidy & Ram Charan — *Execution* aporta una lente sobre **disciplina de ejecución, personas, estrategia y operaciones**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **objective count** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **oKR: cuándo sirven y cuándo no**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **commitment** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. check-in: gobernanza, límites e integración
-
-**check-in** se define como **revisión breve de progreso, confianza y aprendizaje** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael C. Mankins & Eric Garton — *Time, Talent, Energy* se utiliza para estudiar **perspectiva de Organización aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar hacer check-ins y cambiar iniciativas según evidencia, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **OKR no reemplaza presupuestos, SLA, compliance ni gestión operativa. Úsalo donde foco y aprendizaje agreguen valor, no como lenguaje obligatorio para toda tarea.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **Objective**, **Key Result**, **initiative**, **commitment** y **check-in** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **oKR: cuándo sirven y cuándo no** no consiste en sumar cinco definiciones. Empieza por **Objective**, contrasta **Key Result** con **initiative**, incorpora **commitment** como restricción o mecanismo y usa **check-in** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. seleccionar pocos Objectives → 2. escribir KRs de outcome o driver → 3. separar iniciativas → 4. etiquetar commitments → 5. hacer check-ins y cambiar iniciativas según evidencia**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Fallos frecuentes: **demasiados OKR** (diluye el foco); **resultados clave que son tareas**; **vincularlos a la remuneración de forma automática** (los equipos fijan metas seguras y esconden ambición, justo lo que Ordóñez y colegas advierten); **no revisarlos**; **usarlos como control** en lugar de aprendizaje; y **aplicarlos sin estrategia**: ordenan prioridades, pero no las crean. Conviene no usar OKR cuando la organización es muy pequeña y sus prioridades ya son evidentes, o cuando la cultura penaliza el no cumplimiento, porque no se declararán apuestas reales.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| John Doerr — *Measure What Matters* | objetivos, resultados clave, foco, transparencia y cadencia de seguimiento | ¿Qué supuesto de **oKR: cuándo sirven y cuándo no** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* | traducción de estrategia a objetivos, indicadores y relaciones causales | ¿Qué supuesto de **oKR: cuándo sirven y cuándo no** ayuda a desafiar? |
-| Andrew S. Grove — *High Output Management* | output managerial, leverage, reuniones, indicadores y gestión por procesos | ¿Qué supuesto de **oKR: cuándo sirven y cuándo no** ayuda a desafiar? |
-| Larry Bossidy & Ram Charan — *Execution* | disciplina de ejecución, personas, estrategia y operaciones | ¿Qué supuesto de **oKR: cuándo sirven y cuándo no** ayuda a desafiar? |
-| Michael C. Mankins & Eric Garton — *Time, Talent, Energy* | perspectiva de Organización aplicada al problema de la clase | ¿Qué supuesto de **oKR: cuándo sirven y cuándo no** ayuda a desafiar? |
-
-En **oKR: cuándo sirven y cuándo no**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **Objective**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Doerr (*Measure What Matters*) | Estructura, casos y principios del método. | Relatos de organizaciones exitosas. | ¿Qué parte aplica a tu contexto? |
+| Doerr (*Speed & Scale*) | Uso de OKR en objetivos de gran escala. | Mezcla método con visión de impacto. | ¿Cuál es tu apuesta grande? |
+| Grove | Origen en la gestión de alto rendimiento. | Estilo de empresa de semiconductores de su época. | ¿Qué mide la producción de tu equipo? |
+| Ordóñez et al. | Riesgos de metas mal diseñadas. | No evalúa OKR específicamente. | ¿Qué conducta podría incentivar tu OKR? |
+| Rumelt | Sin diagnóstico no hay estrategia. | No ofrece un método de seguimiento. | ¿Qué desafío crítico atacan tus OKR? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un OKR dice 'Mejorar onboarding' y sus KRs son 'crear manual, hacer cinco workshops y lanzar dashboard'. Todo puede completarse sin que el nuevo empleado sea productivo antes.
+**Situación (hipotética).** Una consultora de 120 personas adopta OKR para el siguiente trimestre. El equipo de dirección fija un objetivo de empresa: «Ser la consultora de referencia en operaciones para empresas medianas».
 
-**Paso 1 — seleccionar pocos Objectives.** La gerencia escribe primero el supuesto asociado a **Objective** y evita convertirlo en hecho. Luego busca **KRs de actividad** para contrastarlo en el caso de **oKR: cuándo sirven y cuándo no**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**OKR de la empresa.**
 
-**Paso 2 — escribir KRs de outcome o driver.** La gerencia escribe primero el supuesto asociado a **Key Result** y evita convertirlo en hecho. Luego busca **confidence score** para contrastarlo en el caso de **oKR: cuándo sirven y cuándo no**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Resultado clave | Línea base | Meta |
+|---|---|---|
+| Proyectos recomendados por clientes que cierran con nuevos trabajos | 22 % | 35 % |
+| Clientes medianos nuevos (50–500 empleados) | 9 por trimestre | 15 por trimestre |
+| Margen de proyecto promedio | 31 % | 31 % o más (se mantiene) |
 
-**Paso 3 — separar iniciativas.** La gerencia escribe primero el supuesto asociado a **initiative** y evita convertirlo en hecho. Luego busca **initiatives changed** para contrastarlo en el caso de **oKR: cuándo sirven y cuándo no**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Calidad.** Los tres resultados son medidas y no tareas; el tercero es un **contrapeso** que impide crecer sacrificando margen. El primero y el tercero son de compromiso; el segundo, de estiramiento (se considerará bueno llegar a 12).
 
-**Paso 4 — etiquetar commitments.** La gerencia escribe primero el supuesto asociado a **commitment** y evita convertirlo en hecho. Luego busca **objective count** para contrastarlo en el caso de **oKR: cuándo sirven y cuándo no**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**OKR del equipo de propuestas.** Objetivo: «Presentar propuestas que ganen». Resultados clave: subir la tasa de conversión de propuestas de 24 % a 32 % y bajar el tiempo de elaboración de 9 a 6 días. La actividad «capacitar al equipo en un nuevo método» queda como iniciativa, no como resultado clave.
 
-**Paso 5 — hacer check-ins y cambiar iniciativas según evidencia.** La gerencia escribe primero el supuesto asociado a **check-in** y evita convertirlo en hecho. Luego busca **commitment misses** para contrastarlo en el caso de **oKR: cuándo sirven y cuándo no**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Seguimiento.** Cada lunes, 15 minutos: confianza de 1 a 10 por resultado clave. En la semana 5, el segundo baja a 4; se descubre que el equipo comercial no tiene capacidad de atención; la dirección reasigna dos personas. En el cierre se puntúa: 0,8; 0,6; 1,0. Se registra que la meta de estiramiento se alcanzó al 60 % y se decide mantenerla otro trimestre.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **oKR: cuándo sirven y cuándo no**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Los resultados clave eran medidas con contrapeso. (2) La revisión semanal permitió corregir a tiempo. (3) Se distinguió lo comprometido de lo de estiramiento.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **Objective** | dirección cualitativa y memorable | Cuando KRs de actividad es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **Key Result** | resultado cuantitativo que evidencia progreso hacia el Objective | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**OKR frente a gestión por objetivos clásica.** Los OKR agregan transparencia, ciclos cortos, estiramiento y separación del vínculo directo con compensación; la gestión por objetivos clásica suele ser anual y asociada a evaluación. Las diferencias son de práctica, no de principio.
 
-**Frontera de aplicación:** OKR no reemplaza presupuestos, SLA, compliance ni gestión operativa. Úsalo donde foco y aprendizaje agreguen valor, no como lenguaje obligatorio para toda tarea.
+**Límites.** La evidencia de efectividad proviene sobre todo de relatos de empresas que los adoptaron, sin comparaciones controladas; el éxito puede deberse a otros factores. Los OKR requieren una cultura donde se pueda declarar una apuesta y no lograrla sin castigo. Son costosos de mantener y su beneficio disminuye si se aplican en exceso. Y vincular su resultado a remuneración o desvinculaciones tiene implicancias laborales que se verifican con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre oKR: cuándo sirven y cuándo no |
+| Nivel | Cómo usa OKR |
 |---|---|
-| **Profesional** | usa **oKR: cuándo sirven y cuándo no** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **Objective** y **Key Result** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta KRs de actividad con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si oKR: cuándo sirven y cuándo no cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de oKR: cuándo sirven y cuándo no reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **oKR: cuándo sirven y cuándo no** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende cómo su trabajo aporta a un resultado clave y avisa de bloqueos. |
+| **Jefe / Team Lead** | Propone los OKR de su equipo y los revisa semanalmente. |
+| **Gerente** | Negocia las prioridades entre equipos y cuida el contrapeso. |
+| **CEO / Director** | Elige pocas apuestas, da el ejemplo de transparencia y protege el estiramiento. |
+| **Founder / Owner** | Usa OKR para alinear al equipo sin burocracia, cuando ya hay más de un equipo. |
 
 ## 🏢 Caso ejecutivo
 
-Un OKR dice 'Mejorar onboarding' y sus KRs son 'crear manual, hacer cinco workshops y lanzar dashboard'. Todo puede completarse sin que el nuevo empleado sea productivo antes.
+Una empresa de logística con 600 personas adoptó OKR hace un año. Cada gerencia tiene entre 8 y 12 OKR por trimestre; la mayoría de los resultados clave son hitos («implementar el módulo de rutas», «realizar 10 capacitaciones»). Se calculan puntajes y se vinculan al bono anual. En los últimos tres ciclos, el 92 % de los OKR se cumplió y la utilidad cayó. Los equipos dicen que fijan metas «seguras» porque «los OKR son parte de la evaluación». El nuevo director general quiere abandonar los OKR; el gerente de estrategia quiere mantenerlos y «hacerlos bien».
 
-Entrega un **decision brief de oKR: cuándo sirven y cuándo no** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega una **evaluación y rediseño del sistema de OKR** que contenga: (a) el diagnóstico de los fallos según las condiciones de uso; (b) la decisión de mantener, reducir o abandonar los OKR, con criterios; (c) el rediseño: número de OKR, calidad de los resultados clave, compromiso y estiramiento, contrapesos; (d) qué parte pasará a KPI; (e) la relación con la remuneración y los aspectos laborales a consultar; (f) el ciclo y la revisión.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **oKR: cuándo sirven y cuándo no** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. seleccionar pocos Objectives → 2. escribir KRs de outcome o driver → 3. separar iniciativas → 4. etiquetar commitments → 5. hacer check-ins y cambiar iniciativas según evidencia** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta KRs de actividad, confidence score; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Redacta un objetivo y tres resultados clave para tu equipo.
+2. Clasifica tus resultados clave en resultado o actividad y corrige los que sean tareas.
+3. Define cuál es de compromiso y cuál de estiramiento.
+4. Define un contrapeso para el OKR más importante.
+5. Diseña el ritmo semanal de seguimiento de 15 minutos.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar Objective y Key Result como sinónimos | Se pierde la distinción entre “dirección cualitativa y memorable” y “resultado cuantitativo que evidencia progreso hacia el Objective” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “hacer check-ins y cambiar iniciativas según evidencia” | Se saltó “seleccionar pocos Objectives” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. seleccionar pocos Objectives → 2. escribir KRs de outcome o driver → 3. separar iniciativas → 4. etiquetar commitments → 5. hacer check-ins y cambiar iniciativas según evidencia y marca el primer supuesto no demostrado. |
-| Optimizar solo KRs de actividad | La métrica local sustituyó al resultado del sistema | Contrástala con confidence score y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre oKR: cuándo sirven y cuándo no | OKR no reemplaza presupuestos, SLA, compliance ni gestión operativa. Úsalo donde foco y aprendizaje agreguen valor, no como lenguaje obligatorio para toda tarea. |
-| No fijar revisión | Una decisión sobre oKR: cuándo sirven y cuándo no se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Demasiados OKR | Se quiere cubrir todo | Dos a cinco objetivos con pocos resultados clave. |
+| Resultados clave como tareas | Es más fácil de redactar | Medir el cambio. |
+| Vincular a la remuneración | Parece incentivo claro | Separar o suavizar. |
+| Mezclar compromiso y estiramiento | No se aclara | Etiquetar cada OKR. |
+| No revisar | Se cree que basta fijarlos | Seguimiento semanal con decisión. |
+| Aplicar sin estrategia | El método parece suficiente | Definir primero el desafío crítico. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **Objective** y **Key Result** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **initiative** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **seleccionar pocos Objectives → escribir KRs de outcome o driver** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **KRs de actividad** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **oKR: cuándo sirven y cuándo no**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **OKR no reemplaza presupuestos, SLA, compliance ni gestión operativa. Úsalo donde foco y aprendizaje agreguen valor, no como lenguaje obligatorio para toda tarea.**?
+1. ¿Qué es un objetivo y qué es un resultado clave?
+2. ¿Qué diferencia hay entre OKR y KPI?
+3. ¿Qué distingue un OKR de compromiso de uno de estiramiento?
+4. ¿Por qué un resultado clave no debería ser una tarea?
+5. ¿Por qué vincular los OKR a la remuneración puede perjudicar?
+6. ¿En qué condiciones conviene no usar OKR?
+7. ¿Qué límite tiene la evidencia sobre su efectividad?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El objetivo es cualitativo y motivador; el resultado clave es una medida cuantitativa, con línea base, meta y fecha, que indica si se logró.
+2. Los KPI vigilan la salud estable de lo que se opera; los OKR impulsan un cambio en pocas apuestas durante un ciclo.
+3. El de compromiso se espera cumplir por completo; el de estiramiento es muy ambicioso y se considera bueno un logro parcial.
+4. Porque mide esfuerzo y no logro; un tercero no podría verificar si hubo cambio.
+5. Los equipos fijan metas seguras y ocultan ambición para asegurar el pago, lo que anula el sentido del estiramiento.
+6. Organización muy pequeña con prioridades evidentes, cultura que castiga no cumplir, trabajo de rutina estable o ausencia de estrategia.
+7. Proviene sobre todo de relatos de empresas exitosas, sin comparaciones controladas.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/099-okr-cuando-sirven-y-cuando-no/`:
 
-- `leadership-decision-brief.md` con el problema específico de **oKR: cuándo sirven y cuándo no**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **oKR: cuándo sirven y cuándo no** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **Objective**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un OKR dice 'Mejorar onboarding' y sus KRs son 'crear manual, hacer cinco workshops y lanzar dashboard'. Todo puede completarse sin que el nuevo empleado sea productivo antes.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con la evaluación y el rediseño del caso ejecutivo;
+- `kpi-tree.md` (plantilla [KPI tree](../../../../templates/kpi-tree.md)) con los OKR, los KPI y los contrapesos;
+- `decision-journal.md` con la decisión de adopción y los criterios de revisión.
 
 ## 📗 Fuentes y verificación
 
-- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** objetivos, resultados clave, foco, transparencia y cadencia de seguimiento. Lectura selectiva sobre **okr: cuándo sirven y cuándo no**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
-- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** traducción de estrategia a objetivos, indicadores y relaciones causales. Lectura selectiva sobre **okr: cuándo sirven y cuándo no**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
-- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** output managerial, leverage, reuniones, indicadores y gestión por procesos. Lectura selectiva sobre **okr: cuándo sirven y cuándo no**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
-- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva sobre **okr: cuándo sirven y cuándo no**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
-- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** perspectiva de Organización aplicada al problema de la clase. Lectura selectiva sobre **okr: cuándo sirven y cuándo no**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
-- Bernard Marr — *Key Performance Indicators* (Pearson Financial Times Pub., 2012). **Uso en esta clase:** selección de métricas útiles y conexión entre indicadores y decisiones. Lectura selectiva sobre **okr: cuándo sirven y cuándo no**. **Localizador:** [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **okr: cuándo sirven y cuándo no** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **okr: cuándo sirven y cuándo no**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **okr: cuándo sirven y cuándo no** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **okr: cuándo sirven y cuándo no** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **okr: cuándo sirven y cuándo no** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** estructura, casos y principios del método. Lectura selectiva sobre **okr: cuándo sirven y cuándo no**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
+- John Doerr — *Speed & Scale* (Penguin Publishing Group, 2021). **Uso en esta clase:** uso de OKR en objetivos de gran escala. Lectura selectiva sobre **okr: cuándo sirven y cuándo no**. **Localizador:** [ISBN-13 9780593420478](https://openlibrary.org/isbn/9780593420478).
+- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** origen del método en la gestión de alto rendimiento. Lectura selectiva sobre **okr: cuándo sirven y cuándo no**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
+- Lisa D. Ordóñez, Maurice E. Schweitzer, Adam D. Galinsky & Max H. Bazerman — *Goals Gone Wild: The Systematic Side Effects of Overprescribing Goal Setting* (Academy of Management Perspectives, 2009). **Uso en esta clase:** riesgos de metas mal diseñadas. Lectura selectiva sobre **okr: cuándo sirven y cuándo no**. **Localizador:** [DOI 10.5465/amp.2009.37007999](https://doi.org/10.5465/amp.2009.37007999).
+- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico del desafío crítico antes de fijar metas. Lectura selectiva sobre **okr: cuándo sirven y cuándo no**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
 
-> **Regla de fuentes para OKR: cuándo sirven y cuándo no:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **oKR: cuándo sirven y cuándo no** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para OKR: cuándo sirven y cuándo no:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales sobre evaluación y remuneración. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

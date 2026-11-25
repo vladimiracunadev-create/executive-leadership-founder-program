@@ -10,217 +10,184 @@
 
 ## 🎯 Propósito
 
-Un business review combina resultados, causas, forecast, riesgos y decisiones. No es una sesión donde cada área defiende sus métricas. El pre-read debe llegar antes, el tiempo se concentra en desviaciones materiales y la reunión termina con decisiones, owners y cambios de forecast.
+Una revisión de negocio (*business review*) es el momento donde un sistema de objetivos e indicadores se convierte en decisiones. Cuando funciona, la dirección ve la situación real, entiende por qué se desvió, decide qué hacer y se compromete con un seguimiento. Cuando falla, se convierte en un ritual de diapositivas: cada área defiende su cifra, se buscan culpables, nadie decide y la reunión siguiente repite el relato con otros números.
 
-La salida de esta parte es **dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **business reviews** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la insistencia de Bossidy y Charan en el seguimiento riguroso y el diálogo franco como núcleo de la ejecución, en la visión de Grove sobre la reunión como producción gerencial y en la evidencia de Kahneman, Sibony y Sunstein sobre cómo los grupos mejoran sus juicios cuando se estructuran. Al terminar sabrás diseñar el formato de una revisión, conducirla con preguntas que descubran causas, evitar la búsqueda de culpables y cerrarla con acuerdos verificables.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `variance`, `forecast`, `root cause`, `decision ask`, `management by exception` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. preparar actual, plan y forecast → 2. explicar variances materiales → 3. separar causa de excusa → 4. elevar decision asks → 5. actualizar acciones y forecast** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** forecast accuracy, variances sin explicación, decisions closed sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Estructurar** una revisión en cinco pasos: preparar, contrastar, diagnosticar, decidir y registrar.
+2. **Formular** preguntas que lleven de la cifra a la causa.
+3. **Reducir** los sesgos de grupo con técnicas simples de juicio independiente.
+4. **Diferenciar** el diagnóstico de los hechos de la atribución de culpas.
+5. **Cerrar** con acuerdos con dueño, fecha y criterio de verificación.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define variance y forecast sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con forecast accuracy y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda la última revisión de tu área y pregúntate qué decisión salió de ella. |
+| 20–60 min | Cinco pasos, preguntas, sesgos y seguimiento. |
+| 60–105 min | Ejemplo trabajado: una revisión de ventas con una desviación de 14 %. |
+| 105–150 min | Caso ejecutivo y práctica de conducción. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **variance** | diferencia entre actual y plan o forecast | Distingue un hecho compatible y otro que lo refute. |
-| **forecast** | mejor estimación actual, distinta de presupuesto original | Distingue un hecho compatible y otro que lo refute. |
-| **root cause** | explicación respaldada del cambio | Distingue un hecho compatible y otro que lo refute. |
-| **decision ask** | decisión requerida del foro | Distingue un hecho compatible y otro que lo refute. |
-| **management by exception** | foco en señales fuera de rango material | Distingue un hecho compatible y otro que lo refute. |
+| **Revisión de negocio** | Reunión periódica que compara resultados con el plan y decide acciones. | Termina con decisiones y compromisos. |
+| **Desvío** | Diferencia entre lo esperado y lo ocurrido. | Se explica con causas, no con adjetivos. |
+| **Diálogo franco** | Conversación que dice lo que se piensa con respeto y con hechos. | Se discuten desacuerdos reales. |
+| **Compromiso verificable** | Acuerdo con dueño, fecha y criterio de cumplimiento. | Se revisa en la próxima reunión. |
+| **Sesgo de grupo** | Distorsión del juicio por influencia mutua en la discusión. | Las primeras opiniones arrastran al resto. |
+| **Revisión sin culpas** | Análisis centrado en el sistema y no en los individuos. | Se pregunta qué falló en el sistema. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 104: 1. preparar actual, plan y forecast → 2. explicar variances materiales → 3. separar causa de excusa → 4. elevar decision asks → 5. actualizar acciones y forecast](modelo-mental.svg)
+![Cinco pasos de una revisión de negocio: preparar, contrastar con el plan, diagnosticar, decidir y registrar y seguir.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. preparar actual, plan y forecast → 2. explicar variances materiales → 3. separar causa de excusa → 4. elevar decision asks → 5. actualizar acciones y forecast
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un business review combina resultados, causas, forecast, riesgos y decisiones. No es una sesión donde cada área defiende sus métricas. El pre-read debe llegar antes, el tiempo se concentra en desviaciones materiales y la reunión termina con decisiones, owners y cambios de forecast.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un review puede volverse punitivo y fomentar ocultamiento si cada desviación se interpreta como fracaso. Diferencia error de forecast, aprendizaje y mala ejecución.**
+**Cómo leer el diagrama.** Cinco pasos con retorno. **Preparar** garantiza que los datos lleguen antes y sin sorpresas. **Contrastar** compara resultado y plan con la tendencia. **Diagnosticar** busca causas con hechos. **Decidir** asigna acciones, dueños y fechas. **Registrar y seguir** deja los acuerdos escritos, y la siguiente revisión parte de ellos. El retorno es lo que convierte una reunión suelta en un sistema de gestión.
 
 ## 📖 Desarrollo
 
-### 1. variance: mecanismo central
+### 1. Qué debe lograr una revisión
 
-**variance** se entiende aquí como **diferencia entre actual y plan o forecast**. Esta es la pieza causal o estructural desde la que se inicia **business reviews**: antes de preparar actual, plan y forecast, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Una buena revisión logra tres cosas: **ver la situación real** (no la versión pulida), **entender causas** (no solo describir síntomas) y **cambiar algo** (una decisión, una asignación, un plan). Bossidy y Charan describen la ejecución como la disciplina de seguir con rigor, con un diálogo que sea franco y que discuta la realidad, no el relato. Si una revisión termina sin acuerdos nuevos o con los mismos de siempre, probablemente fue una presentación.
 
-La lectura rectora de este bloque es John Doerr — *Measure What Matters*. Su aporte se usa para examinar **objetivos, resultados clave, foco, transparencia y cadencia de seguimiento**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **forecast accuracy**; regístrala con periodo, unidad, población y baseline.
+### 2. Preparar
 
-Relaciona el mecanismo con **forecast**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La preparación define la calidad. Se envían **antes** (24 a 48 horas) los datos acordados, con las definiciones de la ficha del indicador (clase 100), el resultado contra la meta, la tendencia y, para los desvíos materiales, un breve análisis de causas hecho por el dueño. En la sala no se lee: se discute. Cada participante sabe qué se espera de él. Se evitan las sorpresas: nadie debería enterarse en la reunión de un problema grave de su propia área; el dueño avisa antes, y reconocer un problema temprano se valora, no se castiga.
 
-### 2. forecast: frontera conceptual y error de clasificación
+### 3. Contrastar con el plan
 
-**Definición operacional:** mejor estimación actual, distinta de presupuesto original. Su valor está en distinguirlo de **variance** y **root cause**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Se parte de los resultados contra el plan, por exclusión: se dedican pocos minutos a lo que va bien y el tiempo principal a los desvíos significativos (clase 107). Se miran **tendencias**, no puntos aislados, para distinguir señal de ruido (clase 091), y se separan los desvíos por **volumen, precio, mezcla** u otras dimensiones relevantes. Un número agregado esconde diferencias: un resultado total en línea puede ocultar una unidad en caída compensada por otra en alza. La pregunta del paso es: ¿qué nos dice la diferencia entre lo planeado y lo ocurrido?
 
-Contrasta el problema con Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*, que aporta una mirada sobre **traducción de estrategia a objetivos, indicadores y relaciones causales**. Formula dos mini-casos: uno que sí satisface la definición de **forecast** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **variances sin explicación** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Diagnosticar
 
-Antes de explicar variances materiales, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El diagnóstico hace la pregunta «¿por qué?» varias veces, con hechos. Un recurso útil: **separar tres niveles**: qué pasó (hechos y datos), por qué pasó (causas probables, con evidencia) y qué supuesto del plan resultó falso. Las preguntas ayudan: ¿qué sabemos con certeza y qué suponemos?, ¿qué cambió desde la última revisión?, ¿qué dato contradiría nuestra explicación? La búsqueda de culpables cierra la conversación: quien teme ser culpado ocultará información, y la revisión se vuelve defensiva. Se discute el sistema, no a la persona.
 
-### 3. root cause: operacionalización y medición
+### 5. Reducir sesgos del grupo
 
-**root cause** significa **explicación respaldada del cambio**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Kahneman, Sibony y Sunstein muestran que las discusiones grupales sin estructura amplifican sesgos: las primeras opiniones influyen en el resto, quien tiene más jerarquía arrastra, y el consenso aparente puede ser cascada de información. Técnicas simples: **pedir juicios individuales por escrito antes de debatir** (por ejemplo, una estimación del resultado esperado y de la causa principal), **hablar primero los de menor jerarquía**, **asignar un abogado del diablo**, **separar la generación de opciones de su evaluación** y **registrar la incertidumbre** con rangos. Estas prácticas son baratas y mejoran la calidad de las decisiones.
 
-Larry Bossidy & Ram Charan — *Execution* orienta este bloque mediante **disciplina de ejecución, personas, estrategia y operaciones**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **decisions closed**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Decidir y comprometerse
 
-Al llegar a separar causa de excusa, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cada punto de la revisión se cierra con una de cuatro respuestas: **seguir como está**, **corregir** (con una acción concreta), **escalar** (a quien puede decidir) o **replantear el objetivo o el supuesto**. Los compromisos se escriben con **qué, quién, para cuándo y cómo se verificará**. Se evita el «lo vemos» o el «trabajaremos en ello». Los recursos que se requieren se solicitan en la misma reunión y se decide si se asignan (clase 106). Un buen indicador de la calidad de una revisión es la proporción de compromisos de la reunión anterior que se cumplieron.
 
-### 4. decision ask: trade-offs y efectos de segundo orden
+### 7. Seguimiento y cultura
 
-**Definición:** decisión requerida del foro. Este concepto obliga a abandonar la idea de que **business reviews** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de elevar decision asks, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-John Doerr — *Speed & Scale* aporta una lente sobre **perspectiva de Ejecución aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **action aging** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **business reviews**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **decision ask** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. management by exception: gobernanza, límites e integración
-
-**management by exception** se define como **foco en señales fuera de rango material** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Bernard Marr — *Key Performance Indicators* se utiliza para estudiar **selección de métricas útiles y conexión entre indicadores y decisiones** y contrastar la recomendación final. Al ejecutar actualizar acciones y forecast, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un review puede volverse punitivo y fomentar ocultamiento si cada desviación se interpreta como fracaso. Diferencia error de forecast, aprendizaje y mala ejecución.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **variance**, **forecast**, **root cause**, **decision ask** y **management by exception** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **business reviews** no consiste en sumar cinco definiciones. Empieza por **variance**, contrasta **forecast** con **root cause**, incorpora **decision ask** como restricción o mecanismo y usa **management by exception** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. preparar actual, plan y forecast → 2. explicar variances materiales → 3. separar causa de excusa → 4. elevar decision asks → 5. actualizar acciones y forecast**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La revisión siguiente comienza con los acuerdos anteriores: ¿se cumplieron?, ¿qué resultado produjeron? Si no se cumplen, se pregunta por qué —prioridad, capacidad, claridad— antes de pensar en sanciones. La cultura de la revisión depende del comportamiento de quien la preside: si reacciona con enojo ante malas noticias, aprenderá solo noticias buenas. Grove aconsejaba que quien lidera haga preguntas y escuche; Bossidy y Charan, que sea riguroso con los hechos y respetuoso con las personas. Las reuniones se evalúan con una pregunta final: ¿qué valió la pena y qué cambiaremos?
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| John Doerr — *Measure What Matters* | objetivos, resultados clave, foco, transparencia y cadencia de seguimiento | ¿Qué supuesto de **business reviews** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* | traducción de estrategia a objetivos, indicadores y relaciones causales | ¿Qué supuesto de **business reviews** ayuda a desafiar? |
-| Larry Bossidy & Ram Charan — *Execution* | disciplina de ejecución, personas, estrategia y operaciones | ¿Qué supuesto de **business reviews** ayuda a desafiar? |
-| John Doerr — *Speed & Scale* | perspectiva de Ejecución aplicada al problema de la clase | ¿Qué supuesto de **business reviews** ayuda a desafiar? |
-| Bernard Marr — *Key Performance Indicators* | selección de métricas útiles y conexión entre indicadores y decisiones | ¿Qué supuesto de **business reviews** ayuda a desafiar? |
-
-En **business reviews**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **variance**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Bossidy y Charan | Seguimiento, diálogo franco y ejecución. | Se centra en grandes empresas. | ¿Qué realidad se discute? |
+| Grove | La reunión como instrumento gerencial. | Estilo de su época. | ¿Qué decisión produce la reunión? |
+| Kahneman, Sibony y Sunstein | Reducir el ruido y los sesgos del juicio en grupo. | No es un manual de gestión. | ¿Recogiste juicios antes de debatir? |
+| Edmondson (clase 042) | Seguridad psicológica para decir la verdad. | No trata de indicadores. | ¿Pueden decir un mal resultado sin temor? |
+| Kaplan y Norton | Revisión estratégica con el cuadro de mando. | Requiere estrategia explícita. | ¿Qué hipótesis se revisa? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Cada área presenta 15 slides de actividades. El negocio está 12% bajo revenue, pero la causa aparece diluida y nadie pide una decisión sobre inversión comercial.
+**Situación (hipotética).** En la revisión mensual de una empresa de equipos industriales, las ventas del mes quedan 14 % bajo el plan (USD 1,72 millones frente a 2,0). El gerente comercial dice que «el mercado está lento». El de operaciones, que «hay retrasos de entrega por falta de materia prima». Finanzas, que «los descuentos aumentaron».
 
-**Paso 1 — preparar actual, plan y forecast.** La gerencia escribe primero el supuesto asociado a **variance** y evita convertirlo en hecho. Luego busca **forecast accuracy** para contrastarlo en el caso de **business reviews**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Preparación.** El dueño de ventas envió un análisis con los datos acordados: ventas por línea, por región y por tamaño de cliente, y el embudo por etapa.
 
-**Paso 2 — explicar variances materiales.** La gerencia escribe primero el supuesto asociado a **forecast** y evita convertirlo en hecho. Luego busca **variances sin explicación** para contrastarlo en el caso de **business reviews**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Contraste.** Por línea: dos líneas en el plan; la tercera, 41 % abajo. Por región: una región concentra el 70 % de la brecha. Por etapa: las propuestas emitidas están 8 % bajo el plan, pero la tasa de cierre bajó de 31 % a 24 %.
 
-**Paso 3 — separar causa de excusa.** La gerencia escribe primero el supuesto asociado a **root cause** y evita convertirlo en hecho. Luego busca **decisions closed** para contrastarlo en el caso de **business reviews**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Juicios independientes.** Antes del debate, cada participante escribe la causa principal del desvío. Resultados: «mercado» (2), «retrasos de entrega» (2), «precio» (1), «cambio de equipo comercial en la región» (1). No hay consenso.
 
-**Paso 4 — elevar decision asks.** La gerencia escribe primero el supuesto asociado a **decision ask** y evita convertirlo en hecho. Luego busca **action aging** para contrastarlo en el caso de **business reviews**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diagnóstico.** Preguntas: ¿qué dato contradiría «el mercado está lento»? Las ventas de la competencia en esa línea subieron según una asociación sectorial, lo que contradice la hipótesis. Los retrasos de entrega afectaron a 11 pedidos, que se cerraron al mes siguiente (explica 3 puntos de los 14). La región con la brecha cambió a su jefe comercial hace tres meses; sus ejecutivos tienen la mitad de reuniones de propuesta.
 
-**Paso 5 — actualizar acciones y forecast.** La gerencia escribe primero el supuesto asociado a **management by exception** y evita convertirlo en hecho. Luego busca **meeting time on exceptions** para contrastarlo en el caso de **business reviews**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisiones.** (1) Plan de recuperación en la región con la gerencia comercial y recursos humanos: acompañamiento de dos ejecutivos senior (responsable: gerente comercial; plazo: 15 días; verificación: reuniones de propuesta por semana). (2) Revisión de la política de precios de la tercera línea (responsable: gerente de producto; 30 días). (3) Informar a clientes sobre retrasos y reasignar materia prima (operaciones; 7 días). (4) Revisar la meta de la región si en 60 días no se observa recuperación.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **business reviews**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Los juicios independientes mostraron que no había una causa compartida. (2) Los hechos contradijeron una explicación cómoda. (3) Las decisiones tenían dueño, plazo y verificación.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **variance** | diferencia entre actual y plan o forecast | Cuando forecast accuracy es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **forecast** | mejor estimación actual, distinta de presupuesto original | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Revisión de negocio frente a auditoría.** La auditoría verifica el cumplimiento de reglas por una parte independiente; la revisión de negocio gestiona resultados con quienes los producen. La revisión no reemplaza los controles independientes.
 
-**Frontera de aplicación:** Un review puede volverse punitivo y fomentar ocultamiento si cada desviación se interpreta como fracaso. Diferencia error de forecast, aprendizaje y mala ejecución.
+**Límites.** Una revisión no reemplaza la conversación continua con clientes y equipos. Las técnicas para reducir sesgos tienen efecto moderado y no eliminan el juicio. Las cifras del ejemplo son ilustrativas. Y las decisiones sobre personas (cambios de jefaturas, evaluaciones) deben conducirse con debido proceso y respetar la normativa laboral; no se resuelven en una reunión de resultados.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre business reviews |
+| Nivel | Cómo participa en las revisiones |
 |---|---|
-| **Profesional** | usa **business reviews** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **variance** y **forecast** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta forecast accuracy con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si business reviews cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de business reviews reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **business reviews** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Prepara datos fiables y habla de causas con hechos. |
+| **Jefe / Team Lead** | Presenta su desvío con análisis y propuestas. |
+| **Gerente** | Conduce la revisión de su área y cierra con compromisos. |
+| **CEO / Director** | Pregunta, escucha y protege el diálogo franco. |
+| **Founder / Owner** | Evita que las revisiones se vuelvan un espacio donde solo él habla. |
 
 ## 🏢 Caso ejecutivo
 
-Cada área presenta 15 slides de actividades. El negocio está 12% bajo revenue, pero la causa aparece diluida y nadie pide una decisión sobre inversión comercial.
+Una empresa de alimentos con 1.400 empleados realiza cada mes una revisión de negocio de cuatro horas con 22 asistentes. Cada gerente presenta 20 diapositivas; el gerente general interrumpe con críticas y a veces con enojo. Los gerentes llegan con explicaciones preparadas para defenderse; las malas noticias se suavizan o se presentan sin datos. Los compromisos se anotan en un acta que nadie revisa. Hace seis meses, un problema de calidad en una planta se conoció primero por un reclamo de un cliente grande, aunque el jefe de planta lo sabía desde hacía tres semanas.
 
-Entrega un **decision brief de business reviews** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **rediseño de la revisión de negocio** que contenga: (a) el formato en cinco pasos con tiempos y participantes; (b) los insumos previos y las definiciones de indicadores; (c) las preguntas de diagnóstico para pasar de la cifra a la causa; (d) las técnicas para reducir sesgos del grupo; (e) el comportamiento esperado del presidente de la reunión y cómo se cultivará; (f) el sistema de compromisos y su seguimiento.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **business reviews** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. preparar actual, plan y forecast → 2. explicar variances materiales → 3. separar causa de excusa → 4. elevar decision asks → 5. actualizar acciones y forecast** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta forecast accuracy, variances sin explicación; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Diseña una agenda de revisión de 90 minutos con los cinco pasos.
+2. Escribe cinco preguntas de diagnóstico para un desvío concreto.
+3. Prepara un ejercicio de juicios independientes para abrir una discusión.
+4. Redacta tres compromisos con dueño, fecha y verificación.
+5. Define cómo medirás la calidad de tus revisiones durante un trimestre.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar variance y forecast como sinónimos | Se pierde la distinción entre “diferencia entre actual y plan o forecast” y “mejor estimación actual, distinta de presupuesto original” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “actualizar acciones y forecast” | Se saltó “preparar actual, plan y forecast” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. preparar actual, plan y forecast → 2. explicar variances materiales → 3. separar causa de excusa → 4. elevar decision asks → 5. actualizar acciones y forecast y marca el primer supuesto no demostrado. |
-| Optimizar solo forecast accuracy | La métrica local sustituyó al resultado del sistema | Contrástala con variances sin explicación y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre business reviews | Un review puede volverse punitivo y fomentar ocultamiento si cada desviación se interpreta como fracaso. Diferencia error de forecast, aprendizaje y mala ejecución. |
-| No fijar revisión | Una decisión sobre business reviews se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Presentación en vez de discusión | No hay insumo previo | Enviar antes y usar la sala para decidir. |
+| Búsqueda de culpables | Se quiere cerrar rápido | Preguntar qué falló en el sistema. |
+| Sorpresas en la sala | No se avisa antes | Acordar que los problemas se avisan primero. |
+| Consenso aparente | Influyen los primeros en hablar | Juicios individuales antes del debate. |
+| Compromisos vagos | Se evita el conflicto | Qué, quién, para cuándo y cómo se verifica. |
+| No revisar acuerdos previos | Se pasa a lo nuevo | Abrir con el seguimiento. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **variance** y **forecast** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **root cause** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **preparar actual, plan y forecast → explicar variances materiales** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **forecast accuracy** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **business reviews**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un review puede volverse punitivo y fomentar ocultamiento si cada desviación se interpreta como fracaso. Diferencia error de forecast, aprendizaje y mala ejecución.**?
+1. ¿Qué tres cosas debe lograr una revisión de negocio?
+2. ¿Qué debe llegar antes de la reunión?
+3. ¿Por qué se discuten tendencias y no puntos aislados?
+4. ¿Qué tres niveles se separan en el diagnóstico?
+5. ¿Qué técnicas reducen los sesgos de grupo?
+6. ¿Qué respuestas puede tener cada punto de la revisión?
+7. ¿Cómo influye el comportamiento de quien preside en la información que llega?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Ver la situación real, entender las causas y cambiar algo con decisiones y compromisos.
+2. Los datos acordados con sus definiciones, la comparación con la meta, la tendencia y el análisis de causas de los desvíos materiales.
+3. Para distinguir señal de ruido y no reaccionar a variaciones normales.
+4. Qué pasó, por qué pasó y qué supuesto del plan resultó falso.
+5. Juicios individuales por escrito antes de debatir, hablar primero los de menor jerarquía, abogado del diablo, separar opciones de evaluación y registrar incertidumbre.
+6. Seguir como está, corregir con una acción, escalar o replantear el objetivo o el supuesto.
+7. Si reacciona con enojo ante malas noticias, aprenderá solo noticias buenas y se oculta información.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/104-business-reviews/`:
 
-- `leadership-decision-brief.md` con el problema específico de **business reviews**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **business reviews** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **variance**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Cada área presenta 15 slides de actividades. El negocio está 12% bajo revenue, pero la causa aparece diluida y nadie pide una decisión sobre inversión comercial.** y el dato que podría invalidar la recomendación.
+- `monthly-business-review.md` (plantilla [Monthly business review](../../../../templates/monthly-business-review.md)) con el formato rediseñado del caso ejecutivo;
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con las decisiones del ejemplo adaptadas a tu área;
+- `decision-journal.md` con los juicios previos, las decisiones y su seguimiento.
 
 ## 📗 Fuentes y verificación
 
-- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** objetivos, resultados clave, foco, transparencia y cadencia de seguimiento. Lectura selectiva sobre **business reviews**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
-- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** traducción de estrategia a objetivos, indicadores y relaciones causales. Lectura selectiva sobre **business reviews**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
-- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva sobre **business reviews**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
-- John Doerr — *Speed & Scale* (Penguin Publishing Group, 2021). **Uso en esta clase:** perspectiva de Ejecución aplicada al problema de la clase. Lectura selectiva sobre **business reviews**. **Localizador:** [ISBN-13 9780593420478](https://openlibrary.org/isbn/9780593420478).
-- Bernard Marr — *Key Performance Indicators* (Pearson Financial Times Pub., 2012). **Uso en esta clase:** selección de métricas útiles y conexión entre indicadores y decisiones. Lectura selectiva sobre **business reviews**. **Localizador:** [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116).
-- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** output managerial, leverage, reuniones, indicadores y gestión por procesos. Lectura selectiva sobre **business reviews**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **business reviews** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **business reviews**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **business reviews** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **business reviews** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **business reviews** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** seguimiento riguroso, diálogo franco y ejecución. Lectura selectiva sobre **business reviews**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
+- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** la reunión como instrumento gerencial. Lectura selectiva sobre **business reviews**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
+- Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise* (Little, Brown Spark, 2021). **Uso en esta clase:** reducir el ruido y los sesgos del juicio en grupo. Lectura selectiva sobre **business reviews**. **Localizador:** [ISBN-13 9780316451383](https://openlibrary.org/isbn/9780316451383).
+- Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams* (Administrative Science Quarterly, 1999). **Uso en esta clase:** seguridad para decir la verdad. Lectura selectiva sobre **business reviews**. **Localizador:** [DOI 10.2307/2666999](https://doi.org/10.2307/2666999).
+- Robert S. Kaplan & David P. Norton — *Strategy Maps* (Harvard Business School Press, 2004). **Uso en esta clase:** revisión estratégica con el cuadro de mando. Lectura selectiva sobre **business reviews**. **Localizador:** [ISBN-13 9781591391340](https://openlibrary.org/isbn/9781591391340).
 
-> **Regla de fuentes para Business reviews:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **business reviews** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Business reviews:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales para decisiones sobre personas. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

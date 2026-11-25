@@ -367,18 +367,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
-        "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
-        "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
-        "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
-        "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
-        "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
-        "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
-        "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
-        "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
-        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
-        "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion",
-        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial",
         "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
         "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
         "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
@@ -618,13 +606,11 @@
         "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
         "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
         "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
-        "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
         "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
-        "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
+        "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
         "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
-        "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
-        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
-        "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion"
+        "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion",
+        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial"
       ],
       "status": "verificada",
       "authority": "Random House"
@@ -879,17 +865,9 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
-        "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
-        "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
         "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
         "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
-        "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
-        "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
-        "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
-        "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
-        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
-        "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion",
-        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial"
+        "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros"
       ],
       "status": "verificada",
       "authority": "Pearson Financial Times Pub."
@@ -2311,18 +2289,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
-        "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
-        "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
-        "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
-        "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
-        "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
-        "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
-        "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
-        "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
-        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
-        "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion",
-        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial",
         "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
         "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
         "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
@@ -2962,14 +2928,7 @@
         "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
         "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
         "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
-        "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
-        "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
-        "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
         "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
-        "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
-        "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
-        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
-        "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion",
         "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial"
       ],
       "status": "verificada",
@@ -2985,11 +2944,7 @@
       "cited_as": "John Doerr — Speed & Scale",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
-        "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
-        "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
-        "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
-        "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion"
+        "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no"
       ],
       "status": "verificada",
       "isbn13": "9780593420478",
@@ -3196,11 +3151,10 @@
       "locator": "https://openlibrary.org/isbn/9781598954838",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
-        "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
-        "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
+        "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
         "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
         "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion",
+        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial",
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
         "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
         "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
@@ -3512,10 +3466,10 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad",
         "modules/05-talent-people-management/classes/061-diseno-de-cargos-y-resultados-esperados",
         "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
-        "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
-        "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
         "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
+        "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
         "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
+        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial",
         "modules/14-organization-design-culture-change/classes/170-estructuras-funcionales-divisionales-y-matriciales",
         "modules/14-organization-design-culture-change/classes/172-operating-model",
         "modules/14-organization-design-culture-change/classes/174-cultura-observable-y-artefactos",
@@ -4140,18 +4094,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
-        "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
-        "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
-        "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
-        "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
-        "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
-        "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
-        "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
-        "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
-        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
-        "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion",
-        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial",
         "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
         "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
         "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
@@ -4358,11 +4300,8 @@
         "modules/00-professional-to-leader/classes/010-marca-profesional-basada-en-evidencia",
         "modules/00-professional-to-leader/classes/011-mapa-de-fortalezas-brechas-y-riesgos-personales",
         "modules/00-professional-to-leader/classes/012-capstone-tu-sistema-operativo-de-liderazgo",
+        "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
         "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
-        "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
-        "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
-        "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
-        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial",
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
         "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
         "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
@@ -4844,11 +4783,11 @@
       "locator": "https://openlibrary.org/isbn/9781846684807",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
-        "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
+        "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
+        "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
         "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
         "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
-        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial",
+        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
         "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
         "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
         "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
@@ -5052,11 +4991,13 @@
       "locator": "https://openlibrary.org/isbn/9781591391340",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
-        "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
+        "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
+        "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
+        "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
         "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
-        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
-        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial"
+        "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
+        "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
+        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos"
       ],
       "status": "verificada",
       "authority": "Harvard Business School Press"
@@ -5076,17 +5017,8 @@
       "locator": "https://openlibrary.org/isbn/9780875846514",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
-        "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
-        "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
         "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
-        "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
         "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
-        "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
-        "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
-        "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
-        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
-        "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion",
         "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial",
         "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
         "modules/13-strategy-competition/classes/160-capacidades-y-recursos",
@@ -5583,18 +5515,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
-        "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
-        "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
-        "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
-        "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
-        "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
-        "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
-        "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
-        "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
-        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
-        "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion",
-        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial",
         "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
         "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
         "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
@@ -6002,7 +5922,10 @@
         "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
         "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
         "modules/07-operations-process-quality/classes/094-continuidad-operacional",
-        "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion"
+        "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion",
+        "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
+        "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
+        "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion"
       ],
       "status": "verificada",
       "authority": "The MIT Press"
@@ -6045,18 +5968,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
-        "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
-        "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
-        "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
-        "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators",
-        "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
-        "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
-        "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
-        "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
-        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
-        "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion",
-        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial",
         "modules/09-managerial-finance-accounting/classes/109-lenguaje-financiero-del-gerente",
         "modules/09-managerial-finance-accounting/classes/110-estado-de-resultados",
         "modules/09-managerial-finance-accounting/classes/111-balance-y-posicion-financiera",
@@ -6615,7 +6526,9 @@
         "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional",
         "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
         "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
-        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica"
+        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica",
+        "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
+        "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion"
       ],
       "status": "verificada"
     },
@@ -6794,7 +6707,8 @@
         "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
         "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
         "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
-        "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito"
+        "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
+        "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos"
       ],
       "status": "verificada"
     },
@@ -7119,7 +7033,11 @@
         "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
         "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
         "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
-        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad"
+        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
+        "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
+        "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
+        "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
+        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos"
       ],
       "status": "verificada"
     },
@@ -7394,6 +7312,105 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/07-operations-process-quality/classes/093-proveedores-y-terceros"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "jerry-z-muller-the-tyranny-of-metrics",
+      "type": "book",
+      "authors": [
+        "Muller, Jerry Z."
+      ],
+      "title": "The Tyranny of Metrics",
+      "cited_as": "Jerry Z. Muller — The Tyranny of Metrics",
+      "authority": "Princeton University Press",
+      "published": "2018",
+      "isbn13": "9780691174952",
+      "locator": "https://openlibrary.org/isbn/9780691174952",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
+        "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "robert-simons-levers-of-control",
+      "type": "book",
+      "authors": [
+        "Simons, Robert"
+      ],
+      "title": "Levers of Control",
+      "cited_as": "Robert Simons — Levers of Control",
+      "authority": "Harvard Business School Press",
+      "published": "1995",
+      "isbn13": "9780875845593",
+      "locator": "https://openlibrary.org/isbn/9780875845593",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
+        "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
+        "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "lisa-d-ordonez-maurice-e-schweitzer-adam-d-galinsky-max-h-bazerman-goals-gone-wi",
+      "type": "paper",
+      "authors": [
+        "Ordóñez, Lisa D.",
+        "Schweitzer, Maurice E.",
+        "Galinsky, Adam D.",
+        "Bazerman, Max H."
+      ],
+      "title": "Goals Gone Wild: The Systematic Side Effects of Overprescribing Goal Setting",
+      "cited_as": "Lisa D. Ordóñez, Maurice E. Schweitzer, Adam D. Galinsky & Max H. Bazerman — Goals Gone Wild: The Systematic Side Effects of Overprescribing Goal Setting",
+      "authority": "Academy of Management Perspectives",
+      "published": "2009",
+      "doi": "10.5465/amp.2009.37007999",
+      "locator": "https://doi.org/10.5465/amp.2009.37007999",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
+        "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "christopher-d-ittner-david-f-larcker-are-nonfinancial-measures-leading-indicator",
+      "type": "paper",
+      "authors": [
+        "Ittner, Christopher D.",
+        "Larcker, David F."
+      ],
+      "title": "Are Nonfinancial Measures Leading Indicators of Financial Performance?",
+      "cited_as": "Christopher D. Ittner & David F. Larcker — Are Nonfinancial Measures Leading Indicators of Financial Performance?",
+      "authority": "Journal of Accounting Research",
+      "published": "1998",
+      "doi": "10.2307/2491304",
+      "locator": "https://doi.org/10.2307/2491304",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/08-management-systems-kpis-okrs/classes/101-leading-y-lagging-indicators"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "kathleen-m-eisenhardt-making-fast-strategic-decisions-in-high-velocity-environme",
+      "type": "paper",
+      "authors": [
+        "Eisenhardt, Kathleen M."
+      ],
+      "title": "Making Fast Strategic Decisions in High-Velocity Environments",
+      "cited_as": "Kathleen M. Eisenhardt — Making Fast Strategic Decisions in High-Velocity Environments",
+      "authority": "Academy of Management Journal",
+      "published": "1989",
+      "doi": "10.2307/256434",
+      "locator": "https://doi.org/10.2307/256434",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
+        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos"
       ],
       "status": "verificada"
     }

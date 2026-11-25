@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir objective de target mediante evidencia observable."
-  - "Aplicar la secuencia: partir de prioridad estratégica → definir outcome y horizonte → seleccionar 1–3 medidas → declarar constraints y trade-offs → alinear recursos y revisión."
-  - "Interpretar número de objetivos activos, recursos sin objetivo, objetivos incompatibles sin atribuir causalidad automática."
-  - "Resolver el caso de diseño de objetivos con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Formular un objetivo específico, medible, con dueño, plazo y resultado esperado."
+  - "Distinguir objetivos de resultado, de proceso y de aprendizaje."
+  - "Calibrar la dificultad: exigente pero alcanzable según el contexto."
+  - "Anticipar efectos secundarios y fijar límites y medidas de contrapeso."
+  - "Revisar un objetivo ante nueva información sin perder credibilidad."
 deliverable: "leadership-decision-brief.md"
 references:
+  - "Edwin A. Locke & Gary P. Latham — *Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey*"
+  - "Lisa D. Ordóñez, Maurice E. Schweitzer, Adam D. Galinsky & Max H. Bazerman — *Goals Gone Wild: The Systematic Side Effects of Overprescribing Goal Setting*"
   - "John Doerr — *Measure What Matters*"
-  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
   - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
-  - "Bernard Marr — *Key Performance Indicators*"
-  - "Robert S. Kaplan & David P. Norton — *Strategy Maps*"
-  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+  - "Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise*"
 limits:
-  - "Un objetivo agresivo puede inducir gaming o riesgo si no incluye límites. Ambición sin guardrails no es liderazgo de desempeño."
+  - "La evidencia de laboratorio y de estudios de campo sobre metas no cubre todos los contextos; el efecto depende de la tarea, la cultura y la forma de evaluación."
 evidence_signals:
-  - "número de objetivos activos"
-  - "recursos sin objetivo"
-  - "objetivos incompatibles"
-  - "target attainment"
-  - "re-priorizaciones"
+  - "objetivo específico y medible"
+  - "dueño y plazo definidos"
+  - "límites y contrapesos"
+  - "revisión con criterios y registro"

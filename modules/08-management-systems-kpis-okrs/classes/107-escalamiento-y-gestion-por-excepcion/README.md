@@ -10,217 +10,189 @@
 
 ## 🎯 Propósito
 
-Escalar por excepción permite que niveles superiores se ocupen de decisiones que exceden tolerancias, no de toda operación. Requiere límites claros de costo, tiempo, riesgo o calidad y una cultura donde escalar temprano no sea castigo. Sin límites, se microgestiona o se ocultan problemas hasta ser crisis.
+Un gerente no puede mirarlo todo. Si revisa cada indicador de cada equipo, se ahoga; si no revisa nada, se entera tarde. La **gestión por excepción** resuelve el dilema: se definen de antemano los límites dentro de los cuales cada nivel actúa por su cuenta, y solo lo que los cruza llega al nivel superior. Funciona cuando los umbrales son claros, cuando escalar a tiempo se premia en lugar de castigarse y cuando se complementa con revisiones de fondo. Falla cuando los umbrales son arbitrarios, cuando se esconden los problemas por miedo o cuando se escala todo «por si acaso».
 
-La salida de esta parte es **dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **escalamiento y gestión por excepción** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la concepción de Grove sobre el apalancamiento gerencial y las decisiones por excepción, en la distinción de Simons entre sistemas de control de diagnóstico e interactivos y en los hallazgos de Edmondson sobre la seguridad psicológica como condición para reportar problemas. Al terminar sabrás definir umbrales, diseñar reglas de escalamiento con tiempos, responsabilidades y criterios, y proteger el sistema de sus dos fallos típicos: silencio y exceso de ruido.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `tolerance`, `exception`, `threshold`, `decision right`, `early warning` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir tolerancias por objetivo → 2. asignar derechos de decisión → 3. instrumentar early warnings → 4. escalar con opciones y recomendación → 5. revisar umbrales según aprendizaje** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** breaches, late escalations, false escalations sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** umbrales de excepción para indicadores clave.
+2. **Diseñar** reglas de escalamiento con quién, cuándo y con qué información.
+3. **Distinguir** control de diagnóstico y control interactivo.
+4. **Proteger** la cultura de reporte temprano.
+5. **Revisar** los umbrales con datos sobre falsos positivos y omisiones.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define tolerance y exception sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con breaches y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda un problema que te llegó tarde y pregúntate por qué no subió antes. |
+| 20–60 min | Umbrales, reglas de escalamiento, cultura y revisión. |
+| 60–105 min | Ejemplo trabajado: semáforo de gestión de un centro de distribución. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **tolerance** | rango dentro del cual un equipo puede decidir sin escalar | Distingue un hecho compatible y otro que lo refute. |
-| **exception** | desviación material fuera de tolerancia | Distingue un hecho compatible y otro que lo refute. |
-| **threshold** | valor observable que activa escalamiento | Distingue un hecho compatible y otro que lo refute. |
-| **decision right** | autoridad definida para resolver una clase de excepción | Distingue un hecho compatible y otro que lo refute. |
-| **early warning** | señal previa al breach | Distingue un hecho compatible y otro que lo refute. |
+| **Gestión por excepción** | Atender solo lo que se aparta de lo esperado más allá de un umbral. | Los resultados en rango no se discuten. |
+| **Umbral (tolerancia)** | Límite a partir del cual se actúa o se escala. | Se define antes, con criterio. |
+| **Escalamiento** | Traslado de un asunto a un nivel con más autoridad o recursos. | Tiene destinatario, plazo e información mínima. |
+| **Falso positivo** | Alerta que no era un problema real. | Genera fatiga de alertas. |
+| **Omisión (falso negativo)** | Problema real que no activó la alerta. | Se descubre tarde. |
+| **Control de diagnóstico** | Vigilancia por excepción de resultados programados. | Informes con alertas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 107: 1. definir tolerancias por objetivo → 2. asignar derechos de decisión → 3. instrumentar early warnings → 4. escalar con opciones y recomendación → 5. revisar umbrales según aprendizaje](modelo-mental.svg)
+![Semáforo de gestión por excepción: estado, criterio, respuesta y responsable, con la revisión periódica de los umbrales.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir tolerancias por objetivo → 2. asignar derechos de decisión → 3. instrumentar early warnings → 4. escalar con opciones y recomendación → 5. revisar umbrales según aprendizaje
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Escalar por excepción permite que niveles superiores se ocupen de decisiones que exceden tolerancias, no de toda operación. Requiere límites claros de costo, tiempo, riesgo o calidad y una cultura donde escalar temprano no sea castigo. Sin límites, se microgestiona o se ocultan problemas hasta ser crisis.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Tolerancias demasiado amplias pueden esconder deterioro; demasiado estrechas destruyen autonomía. Ajusta al riesgo, madurez y capacidad de corrección.**
+**Cómo leer el diagrama.** Una tabla con cuatro estados. En **verde**, dentro del rango, se sigue y no se discute en reunión. En **ámbar**, un desvío moderado o una tendencia adversa, el dueño prepara un plan de corrección en un plazo corto. En **rojo**, un desvío grande o un riesgo para un compromiso clave, se escala a quien decide y se resuelve en pocas horas. La última fila recuerda lo que más se omite: los umbrales también se revisan, con datos de falsos positivos y de problemas que no se detectaron.
 
 ## 📖 Desarrollo
 
-### 1. tolerance: mecanismo central
+### 1. Por qué gestionar por excepción
 
-**tolerance** se entiende aquí como **rango dentro del cual un equipo puede decidir sin escalar**. Esta es la pieza causal o estructural desde la que se inicia **escalamiento y gestión por excepción**: antes de definir tolerancias por objetivo, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La atención de un gerente es su recurso más escaso. Grove describe el trabajo gerencial como apalancamiento: el resultado de un gerente es el de su organización, y su tiempo debe dedicarse a las actividades de mayor efecto. Revisar lo que va bien consume la atención que se necesita en lo que va mal. La gestión por excepción formaliza un acuerdo: **dentro del rango acordado, el equipo decide y actúa; fuera de él, informa y pide apoyo**. Esto da autonomía a los equipos y protege la atención de la dirección.
 
-La lectura rectora de este bloque es John Doerr — *Measure What Matters*. Su aporte se usa para examinar **objetivos, resultados clave, foco, transparencia y cadencia de seguimiento**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **breaches**; regístrala con periodo, unidad, población y baseline.
+### 2. Definir umbrales
 
-Relaciona el mecanismo con **exception**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Los umbrales deben establecerse con criterio, no al azar. Se combinan tres fuentes: la **variación normal** del indicador (clase 091: dentro de los límites de control es ruido), el **riesgo para el objetivo** (qué desvío pone en peligro un compromiso) y la **capacidad de respuesta** (cuánto tiempo toma corregir). Se definen niveles —por ejemplo, verde, ámbar y rojo— y reglas por **tendencia** además de por valor (tres semanas seguidas de deterioro es una señal aunque cada valor esté en rango). Se documentan en la ficha del indicador (clase 100).
 
-### 2. exception: frontera conceptual y error de clasificación
+### 3. Reglas de escalamiento
 
-**Definición operacional:** desviación material fuera de tolerancia. Su valor está en distinguirlo de **tolerance** y **threshold**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Una regla clara responde: **qué** se escala (criterio), **a quién** (destinatario y suplente), **cuándo** (plazo máximo), **con qué información** (formato mínimo: qué pasó, cuál es el impacto, qué se hizo, qué se necesita) y **qué se espera** (decisión, recursos, información). Se distingue **informar** (se avisa, no se pide nada) de **escalar** (se pide una decisión). Un buen formato corto evita que la escalación se convierta en un correo largo que nadie lee. Y se acuerda que quien escala sigue siendo responsable hasta que el receptor acepte el asunto.
 
-Contrasta el problema con Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*, que aporta una mirada sobre **traducción de estrategia a objetivos, indicadores y relaciones causales**. Formula dos mini-casos: uno que sí satisface la definición de **exception** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **late escalations** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Cultura de reporte temprano
 
-Antes de asignar derechos de decisión, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El sistema depende de que la gente escale a tiempo. Edmondson muestra que, en equipos con baja seguridad psicológica, los problemas y errores se esconden porque se teme el castigo, la humillación o el juicio. Un gerente que reacciona con enojo a las malas noticias recibirá solo buenas noticias, hasta que sea demasiado tarde. Prácticas que ayudan: **agradecer** las alertas tempranas, **separar** el análisis del problema de la búsqueda de culpables, **compartir** los errores propios y **medir** la oportunidad del reporte, no solo la ausencia de problemas.
 
-### 3. threshold: operacionalización y medición
+### 5. Control de diagnóstico y control interactivo
 
-**threshold** significa **valor observable que activa escalamiento**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Simons distingue dos usos de los sistemas de control. El de **diagnóstico** vigila resultados contra un estándar y actúa por excepción: es la lógica del semáforo. El **interactivo** dedica atención continua de la alta dirección a las **incertidumbres estratégicas** (qué pasa con un nuevo competidor, una tecnología, un segmento) y fomenta la conversación con los equipos. Una organización necesita ambos: la gestión por excepción libera tiempo para dedicarlo al control interactivo. Sin esta segunda parte, el sistema vigila lo conocido y ignora lo emergente.
 
-John Doerr — *Speed & Scale* orienta este bloque mediante **perspectiva de Ejecución aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **false escalations**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Los dos fallos del sistema
 
-Al llegar a instrumentar early warnings, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El primero es el **silencio**: umbrales altos, miedo a reportar o definiciones que permiten ocultar desvíos; los problemas llegan como crisis. El segundo es el **ruido**: umbrales demasiado sensibles o escalamientos por seguridad que saturan a la dirección con alertas, hasta que se ignoran todas (fatiga de alertas). Se equilibran con **datos**: cuántas alertas fueron falsas, cuántos problemas importantes se detectaron tarde y qué reglas habrían evitado cada caso. Se ajustan los umbrales con esa información y se registran los cambios.
 
-### 4. decision right: trade-offs y efectos de segundo orden
+### 7. Revisiones de fondo y límites de la excepción
 
-**Definición:** autoridad definida para resolver una clase de excepción. Este concepto obliga a abandonar la idea de que **escalamiento y gestión por excepción** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de escalar con opciones y recomendación, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Andrew S. Grove — *High Output Management* aporta una lente sobre **output managerial, leverage, reuniones, indicadores y gestión por procesos**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **decision latency** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **escalamiento y gestión por excepción**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **decision right** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. early warning: gobernanza, límites e integración
-
-**early warning** se define como **señal previa al breach** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Larry Bossidy & Ram Charan — *Execution* se utiliza para estudiar **disciplina de ejecución, personas, estrategia y operaciones** y contrastar la recomendación final. Al ejecutar revisar umbrales según aprendizaje, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Tolerancias demasiado amplias pueden esconder deterioro; demasiado estrechas destruyen autonomía. Ajusta al riesgo, madurez y capacidad de corrección.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **tolerance**, **exception**, **threshold**, **decision right** y **early warning** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **escalamiento y gestión por excepción** no consiste en sumar cinco definiciones. Empieza por **tolerance**, contrasta **exception** con **threshold**, incorpora **decision right** como restricción o mecanismo y usa **early warning** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir tolerancias por objetivo → 2. asignar derechos de decisión → 3. instrumentar early warnings → 4. escalar con opciones y recomendación → 5. revisar umbrales según aprendizaje**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Gestionar por excepción no significa ignorar lo que está en verde. Hay riesgos que aún no cruzan el umbral (deterioro lento, dependencias frágiles, cumplimiento). Se complementa con **revisiones periódicas de fondo** (trimestrales) de procesos, riesgos y controles, con auditorías, con conversaciones directas con equipos y clientes y con la verificación de que los datos que alimentan el semáforo son confiables. Un semáforo verde con datos defectuosos es peor que uno rojo, porque da una falsa tranquilidad.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| John Doerr — *Measure What Matters* | objetivos, resultados clave, foco, transparencia y cadencia de seguimiento | ¿Qué supuesto de **escalamiento y gestión por excepción** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* | traducción de estrategia a objetivos, indicadores y relaciones causales | ¿Qué supuesto de **escalamiento y gestión por excepción** ayuda a desafiar? |
-| John Doerr — *Speed & Scale* | perspectiva de Ejecución aplicada al problema de la clase | ¿Qué supuesto de **escalamiento y gestión por excepción** ayuda a desafiar? |
-| Andrew S. Grove — *High Output Management* | output managerial, leverage, reuniones, indicadores y gestión por procesos | ¿Qué supuesto de **escalamiento y gestión por excepción** ayuda a desafiar? |
-| Larry Bossidy & Ram Charan — *Execution* | disciplina de ejecución, personas, estrategia y operaciones | ¿Qué supuesto de **escalamiento y gestión por excepción** ayuda a desafiar? |
-
-En **escalamiento y gestión por excepción**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **tolerance**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Grove | Apalancamiento gerencial y decisiones por excepción. | Estilo de su época. | ¿En qué actividades se multiplica tu tiempo? |
+| Simons | Control de diagnóstico e interactivo. | Marco general. | ¿Qué incertidumbres conversas y no solo vigilas? |
+| Edmondson | Seguridad psicológica y reporte de errores. | No trata de umbrales. | ¿Qué pasa con quien trae una mala noticia? |
+| Bossidy y Charan | Seguimiento riguroso y diálogo franco. | Se centra en grandes empresas. | ¿Qué hecho se discute y cuál se esconde? |
+| Deming | Distinguir variación normal de señal. | No define reglas de escalamiento. | ¿Tu umbral reacciona a ruido? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un proyecto puede variar 5% de presupuesto sin aprobación, pero nadie sabe el límite de fecha. El PM oculta un retraso de tres semanas porque espera recuperarlo.
+**Situación (hipotética).** Un centro de distribución de una cadena de farmacias despacha 8.000 pedidos diarios. Su jefe, Ana, reporta al gerente de logística, Marcos, y este a un comité de operaciones. Marcos recibía 34 indicadores semanales y no tenía tiempo de leerlos; hace dos meses se enteró de un problema de un proveedor de transporte cuando ya había 400 pedidos retrasados.
 
-**Paso 1 — definir tolerancias por objetivo.** La gerencia escribe primero el supuesto asociado a **tolerance** y evita convertirlo en hecho. Luego busca **breaches** para contrastarlo en el caso de **escalamiento y gestión por excepción**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diseño.** Se acuerdan seis indicadores con semáforo:
 
-**Paso 2 — asignar derechos de decisión.** La gerencia escribe primero el supuesto asociado a **exception** y evita convertirlo en hecho. Luego busca **late escalations** para contrastarlo en el caso de **escalamiento y gestión por excepción**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Indicador | Verde | Ámbar | Rojo |
+|---|---|---|---|
+| Pedidos a tiempo | Sobre 95 % | 90 % a 95 % o baja durante 3 días | Bajo 90 % o bajo 93 % por 3 días |
+| Errores de preparación | Bajo 0,8 % | 0,8 % a 1,5 % | Sobre 1,5 % |
+| Disponibilidad de equipos | Sobre 97 % | 94 % a 97 % | Bajo 94 % |
+| Quiebres de producto críticos | 0 | 1 o 2 productos | 3 o más o uno de la lista de esenciales |
+| Accidentes con tiempo perdido | 0 | — | Cualquiera (se informa de inmediato) |
+| Dotación disponible frente a plan | Sobre 92 % | 85 % a 92 % | Bajo 85 % |
 
-**Paso 3 — instrumentar early warnings.** La gerencia escribe primero el supuesto asociado a **threshold** y evita convertirlo en hecho. Luego busca **false escalations** para contrastarlo en el caso de **escalamiento y gestión por excepción**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Reglas.** Ámbar: Ana prepara un plan de corrección en 24 horas y lo comparte con Marcos; no se pide decisión. Rojo: Ana llama a Marcos en menos de dos horas con el formato corto (qué pasó, impacto, acciones tomadas, qué necesita) y se decide en la misma jornada. Un rojo de seguridad se escala de inmediato, sin plazo.
 
-**Paso 4 — escalar con opciones y recomendación.** La gerencia escribe primero el supuesto asociado a **decision right** y evita convertirlo en hecho. Luego busca **decision latency** para contrastarlo en el caso de **escalamiento y gestión por excepción**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultados a tres meses.** Hubo 31 ámbares y 4 rojos; Marcos dedicó 3 horas semanales a excepciones en vez de 7 a lectura de informes. Un rojo en «pedidos a tiempo» por falla del proveedor de transporte se resolvió en 6 horas, con 420 pedidos retrasados evitados. Pero se detectó que una caída lenta de la «rotación del personal» (que no estaba en el semáforo) llevó a la dotación a 82 % durante dos semanas antes de activar el rojo; se agrega el indicador de rotación en ámbar y se revisan los umbrales.
 
-**Paso 5 — revisar umbrales según aprendizaje.** La gerencia escribe primero el supuesto asociado a **early warning** y evita convertirlo en hecho. Luego busca **management attention** para contrastarlo en el caso de **escalamiento y gestión por excepción**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **escalamiento y gestión por excepción**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Los umbrales liberaron tiempo y aceleraron la respuesta. (2) Las reglas definieron plazo y formato. (3) La revisión de omisiones mejoró el sistema.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **tolerance** | rango dentro del cual un equipo puede decidir sin escalar | Cuando breaches es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **exception** | desviación material fuera de tolerancia | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Excepción frente a microgestión.** La microgestión interviene en lo que va bien; la excepción respeta la autonomía mientras el resultado se mantenga en rango y actúa cuando se sale.
 
-**Frontera de aplicación:** Tolerancias demasiado amplias pueden esconder deterioro; demasiado estrechas destruyen autonomía. Ajusta al riesgo, madurez y capacidad de corrección.
+**Límites.** Los umbrales son juicios y se revisan. La gestión por excepción puede ocultar riesgos que aún no cruzan límites o que no están en los indicadores. Depende de datos confiables y de una cultura de reporte seguro; sin ellas, se vuelve un sistema de apariencia. En seguridad de las personas, medioambiente y cumplimiento, el criterio es de tolerancia cero o de reglas legales que se verifican en la normativa vigente, no de umbral estadístico.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre escalamiento y gestión por excepción |
+| Nivel | Cómo participa en escalamiento y excepción |
 |---|---|
-| **Profesional** | usa **escalamiento y gestión por excepción** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **tolerance** y **exception** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta breaches con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si escalamiento y gestión por excepción cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de escalamiento y gestión por excepción reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **escalamiento y gestión por excepción** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Avisa temprano y con el formato acordado. |
+| **Jefe / Team Lead** | Gestiona dentro de su rango y escala lo que lo excede. |
+| **Gerente** | Define umbrales con su equipo, atiende excepciones y protege el reporte temprano. |
+| **CEO / Director** | Dedica su atención a las excepciones y a las incertidumbres estratégicas. |
+| **Founder / Owner** | Aprende a delegar con límites claros y a no ser quien se entera último. |
 
 ## 🏢 Caso ejecutivo
 
-Un proyecto puede variar 5% de presupuesto sin aprobación, pero nadie sabe el límite de fecha. El PM oculta un retraso de tres semanas porque espera recuperarlo.
+Una empresa de transporte de pasajeros con 1.200 conductores tiene un sistema de «alertas» que envía cada día más de 200 correos a la gerencia de operaciones. Los gerentes dejaron de leerlos. Hace tres semanas, una falla recurrente de frenos en una flota se había reportado en cuatro alertas ámbar que nadie atendió; un accidente sin víctimas graves hizo que el directorio exigiera cambios. Los conductores dicen que reportan fallas pero que «no pasa nada»; los jefes de taller, que si reportan todo les piden explicaciones; la dirección, que ahora quiere que «todo se escale al gerente general».
 
-Entrega un **decision brief de escalamiento y gestión por excepción** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diseño de gestión por excepción y escalamiento** que contenga: (a) la selección de los indicadores de excepción con umbrales de verde, ámbar y rojo; (b) las reglas de escalamiento con destinatario, plazo y formato; (c) el tratamiento de los asuntos de seguridad (tolerancia cero) frente a los de desempeño; (d) cómo recuperarás la confianza de conductores y talleres para reportar temprano; (e) la medición de falsos positivos y omisiones y el ajuste de umbrales; (f) las revisiones de fondo que complementan el semáforo y las normas de seguridad vigentes que se verificarán.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **escalamiento y gestión por excepción** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir tolerancias por objetivo → 2. asignar derechos de decisión → 3. instrumentar early warnings → 4. escalar con opciones y recomendación → 5. revisar umbrales según aprendizaje** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta breaches, late escalations; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Define semáforo con umbrales para cinco indicadores de tu área.
+2. Escribe una regla de escalamiento con destinatario, plazo y formato corto.
+3. Distingue qué asuntos informan y cuáles escalan.
+4. Diseña dos acciones para fortalecer el reporte temprano en tu equipo.
+5. Define cómo medirás falsos positivos y omisiones durante un trimestre.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar tolerance y exception como sinónimos | Se pierde la distinción entre “rango dentro del cual un equipo puede decidir sin escalar” y “desviación material fuera de tolerancia” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar umbrales según aprendizaje” | Se saltó “definir tolerancias por objetivo” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir tolerancias por objetivo → 2. asignar derechos de decisión → 3. instrumentar early warnings → 4. escalar con opciones y recomendación → 5. revisar umbrales según aprendizaje y marca el primer supuesto no demostrado. |
-| Optimizar solo breaches | La métrica local sustituyó al resultado del sistema | Contrástala con late escalations y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre escalamiento y gestión por excepción | Tolerancias demasiado amplias pueden esconder deterioro; demasiado estrechas destruyen autonomía. Ajusta al riesgo, madurez y capacidad de corrección. |
-| No fijar revisión | Una decisión sobre escalamiento y gestión por excepción se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Umbrales arbitrarios | Se fijan sin datos | Basarlos en variación, riesgo y respuesta. |
+| Escalar todo | Se teme una omisión | Reglas claras y revisión de falsos positivos. |
+| Castigar al que avisa | Se reacciona con enojo | Agradecer la alerta temprana. |
+| Datos poco confiables | Se confía en el semáforo | Controles de calidad del dato. |
+| Ignorar lo verde | Se asume que está bien | Revisiones de fondo periódicas. |
+| Aplicar umbral estadístico a seguridad | Se trata como desempeño | Tolerancia cero y reglas legales. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **tolerance** y **exception** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **threshold** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir tolerancias por objetivo → asignar derechos de decisión** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **breaches** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **escalamiento y gestión por excepción**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Tolerancias demasiado amplias pueden esconder deterioro; demasiado estrechas destruyen autonomía. Ajusta al riesgo, madurez y capacidad de corrección.**?
+1. ¿Qué es la gestión por excepción y qué problema resuelve?
+2. ¿Con qué tres fuentes se definen los umbrales?
+3. ¿Qué debe incluir una regla de escalamiento?
+4. ¿Por qué importa la seguridad psicológica?
+5. ¿Qué distingue el control de diagnóstico del interactivo?
+6. ¿Cuáles son los dos fallos del sistema?
+7. ¿Qué complementa a la gestión por excepción?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Atender solo lo que se aparta del rango acordado; resuelve el dilema entre ahogarse con todo y enterarse tarde.
+2. La variación normal del indicador, el riesgo para el objetivo y la capacidad de respuesta.
+3. Qué se escala, a quién, cuándo, con qué información y qué se espera del receptor.
+4. Porque sin ella los problemas se esconden por miedo y llegan como crisis.
+5. El de diagnóstico vigila resultados contra un estándar; el interactivo dedica atención de la dirección a las incertidumbres estratégicas.
+6. El silencio (umbrales altos o miedo) y el ruido (alertas excesivas que se ignoran).
+7. Revisiones de fondo, auditorías, conversación con equipos y clientes y verificación de la calidad de los datos.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/107-escalamiento-y-gestion-por-excepcion/`:
 
-- `leadership-decision-brief.md` con el problema específico de **escalamiento y gestión por excepción**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **escalamiento y gestión por excepción** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **tolerance**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un proyecto puede variar 5% de presupuesto sin aprobación, pero nadie sabe el límite de fecha. El PM oculta un retraso de tres semanas porque espera recuperarlo.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el diseño del caso ejecutivo;
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con los asuntos de seguridad y sus reglas;
+- `decision-journal.md` con los umbrales, los ajustes y la medición de falsos positivos y omisiones.
 
 ## 📗 Fuentes y verificación
 
-- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** objetivos, resultados clave, foco, transparencia y cadencia de seguimiento. Lectura selectiva sobre **escalamiento y gestión por excepción**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
-- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** traducción de estrategia a objetivos, indicadores y relaciones causales. Lectura selectiva sobre **escalamiento y gestión por excepción**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
-- John Doerr — *Speed & Scale* (Penguin Publishing Group, 2021). **Uso en esta clase:** perspectiva de Ejecución aplicada al problema de la clase. Lectura selectiva sobre **escalamiento y gestión por excepción**. **Localizador:** [ISBN-13 9780593420478](https://openlibrary.org/isbn/9780593420478).
-- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** output managerial, leverage, reuniones, indicadores y gestión por procesos. Lectura selectiva sobre **escalamiento y gestión por excepción**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
-- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva sobre **escalamiento y gestión por excepción**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
-- Bernard Marr — *Key Performance Indicators* (Pearson Financial Times Pub., 2012). **Uso en esta clase:** selección de métricas útiles y conexión entre indicadores y decisiones. Lectura selectiva sobre **escalamiento y gestión por excepción**. **Localizador:** [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **escalamiento y gestión por excepción** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **escalamiento y gestión por excepción**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **escalamiento y gestión por excepción** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **escalamiento y gestión por excepción** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **escalamiento y gestión por excepción** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** apalancamiento gerencial y decisiones por excepción. Lectura selectiva sobre **escalamiento y gestión por excepción**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
+- Robert Simons — *Levers of Control* (Harvard Business School Press, 1995). **Uso en esta clase:** control de diagnóstico e interactivo. Lectura selectiva sobre **escalamiento y gestión por excepción**. **Localizador:** [ISBN-13 9780875845593](https://openlibrary.org/isbn/9780875845593).
+- Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams* (Administrative Science Quarterly, 1999). **Uso en esta clase:** seguridad psicológica y reporte de errores. Lectura selectiva sobre **escalamiento y gestión por excepción**. **Localizador:** [DOI 10.2307/2666999](https://doi.org/10.2307/2666999).
+- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** seguimiento riguroso y diálogo franco. Lectura selectiva sobre **escalamiento y gestión por excepción**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
+- W. Edwards Deming — *Out of the Crisis* (The MIT Press, 2000). **Uso en esta clase:** distinción entre variación normal y señal. Lectura selectiva sobre **escalamiento y gestión por excepción**. **Localizador:** [ISBN-13 9780262541152](https://openlibrary.org/isbn/9780262541152).
 
-> **Regla de fuentes para Escalamiento y gestión por excepción:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **escalamiento y gestión por excepción** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Escalamiento y gestión por excepción:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de seguridad aplicables al sector. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

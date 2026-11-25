@@ -10,217 +10,188 @@
 
 ## 🎯 Propósito
 
-Balanced Scorecard evita dirigir solo con finanzas al conectar perspectiva financiera, cliente, procesos y aprendizaje/capacidades. Su valor está en el mapa causal y la selección disciplinada de indicadores, no en crear un tablero con cuatro cuadrantes y decenas de métricas.
+Un tablero es un instrumento para decidir, no una galería de gráficos. El **cuadro de mando integral (balanced scorecard)**, propuesto por Kaplan y Norton, nació de una crítica: las empresas se gestionaban casi solo con medidas financieras, que llegan tarde y no explican cómo se genera el valor. Su propuesta fue medir también a clientes, procesos internos y aprendizaje, y sobre todo **conectar** esas medidas con la estrategia mediante relaciones de causa y efecto. Hoy abundan tableros con cuatro cuadrantes que no cumplen esa lógica.
 
-La salida de esta parte es **dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **balanced Scorecard y tableros** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en los libros de Kaplan y Norton (*The Balanced Scorecard* y *Strategy Maps*), en la guía de diseño de indicadores de Marr y en la visión de Simons sobre sistemas de control. Al terminar sabrás construir un cuadro de mando con perspectivas conectadas, diseñar un tablero legible para quien decide, evitar los errores de diseño más frecuentes y distinguir tablero estratégico, de gestión y operativo.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `financial perspective`, `customer perspective`, `process perspective`, `learning perspective`, `strategy map` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. traducir estrategia en outcomes financieros y de cliente → 2. identificar procesos críticos → 3. definir capacidades habilitadoras → 4. conectar objetivos causalmente → 5. seleccionar pocos indicadores por objetivo** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** indicadores por objetivo, causal links revisados, balance leading-lagging sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Explicar** las cuatro perspectivas del cuadro de mando y su relación causal.
+2. **Construir** un mapa de estrategia con objetivos, indicadores y metas.
+3. **Diseñar** un tablero legible para la decisión que debe apoyar.
+4. **Distinguir** tablero estratégico, de gestión y operativo.
+5. **Detectar** tableros decorativos y corregirlos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define financial perspective y customer perspective sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con indicadores por objetivo y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: toma un tablero de tu empresa y señala qué decisión apoya cada panel. |
+| 20–60 min | Perspectivas, mapa de estrategia y diseño del tablero. |
+| 60–105 min | Ejemplo trabajado: un cuadro de mando de una cadena de gimnasios. |
+| 105–150 min | Caso ejecutivo y práctica de diseño. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **financial perspective** | resultados económicos finales | Distingue un hecho compatible y otro que lo refute. |
-| **customer perspective** | valor y comportamiento del cliente | Distingue un hecho compatible y otro que lo refute. |
-| **process perspective** | capacidades operativas que entregan la propuesta | Distingue un hecho compatible y otro que lo refute. |
-| **learning perspective** | personas, datos y capacidades que sostienen procesos | Distingue un hecho compatible y otro que lo refute. |
-| **strategy map** | hipótesis causal entre objetivos de las perspectivas | Distingue un hecho compatible y otro que lo refute. |
+| **Cuadro de mando integral** | Sistema que traduce la estrategia en objetivos e indicadores en cuatro perspectivas. | Hay relaciones causales entre perspectivas. |
+| **Perspectiva financiera** | Resultado económico esperado de la estrategia. | Crecimiento, margen, rentabilidad. |
+| **Perspectiva de clientes** | Propuesta de valor y su percepción. | Satisfacción, retención, participación. |
+| **Perspectiva de procesos internos** | Procesos críticos para entregar la propuesta de valor. | Calidad, tiempo, innovación. |
+| **Perspectiva de aprendizaje y crecimiento** | Capital humano, de información y organizacional que habilita los procesos. | Competencias, sistemas, cultura. |
+| **Mapa de estrategia** | Diagrama de objetivos conectados por causalidad. | Se lee de abajo arriba. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 102: 1. traducir estrategia en outcomes financieros y de cliente → 2. identificar procesos críticos → 3. definir capacidades habilitadoras → 4. conectar objetivos causalmente → 5. seleccionar pocos indicadores por objetivo](modelo-mental.svg)
+![Las cuatro perspectivas del cuadro de mando como escalera causal: aprendizaje, procesos, clientes y finanzas.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. traducir estrategia en outcomes financieros y de cliente → 2. identificar procesos críticos → 3. definir capacidades habilitadoras → 4. conectar objetivos causalmente → 5. seleccionar pocos indicadores por objetivo
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Balanced Scorecard evita dirigir solo con finanzas al conectar perspectiva financiera, cliente, procesos y aprendizaje/capacidades. Su valor está en el mapa causal y la selección disciplinada de indicadores, no en crear un tablero con cuatro cuadrantes y decenas de métricas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todos los modelos de negocio encajan igual en cuatro perspectivas. Adapta el mapa a stakeholders y estrategia; no fuerces la herramienta sobre la realidad.**
+**Cómo leer el diagrama.** Una escalera que se lee de abajo arriba. El **aprendizaje y el crecimiento** (personas, información, cultura) habilitan los **procesos internos**; procesos bien ejecutados generan lo que valoran los **clientes**; y la satisfacción de clientes produce el resultado **financiero**. Cada peldaño es una hipótesis causal que se debe verificar. Si las perspectivas se miden sin esa conexión, el cuadro de mando se convierte en cuatro listas de indicadores sin historia.
 
 ## 📖 Desarrollo
 
-### 1. financial perspective: mecanismo central
+### 1. Por qué un cuadro de mando
 
-**financial perspective** se entiende aquí como **resultados económicos finales**. Esta es la pieza causal o estructural desde la que se inicia **balanced Scorecard y tableros**: antes de traducir estrategia en outcomes financieros y de cliente, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Kaplan y Norton observaron que los indicadores financieros son necesarios pero insuficientes: informan resultados pasados y no indican cómo mejorar el futuro. Propusieron complementar con medidas de clientes, procesos y aprendizaje, que actúan como **impulsores** del resultado. La idea central es el **equilibrio**: entre corto y largo plazo, entre resultado e impulsor, entre medidas objetivas y subjetivas, entre perspectiva externa e interna. El valor no está en tener cuatro cuadrantes, sino en la coherencia entre ellos.
 
-La lectura rectora de este bloque es John Doerr — *Measure What Matters*. Su aporte se usa para examinar **objetivos, resultados clave, foco, transparencia y cadencia de seguimiento**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **indicadores por objetivo**; regístrala con periodo, unidad, población y baseline.
+### 2. Las cuatro perspectivas
 
-Relaciona el mecanismo con **customer perspective**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La **financiera** responde: ¿qué esperan los accionistas? (crecimiento, rentabilidad, uso de capital). La de **clientes** responde: ¿qué valor ofrecemos a quién? (satisfacción, retención, adquisición, participación en segmentos objetivo). La de **procesos internos** responde: ¿en qué procesos debemos sobresalir? (operaciones, relación con clientes, innovación, regulación y sociedad). La de **aprendizaje y crecimiento** responde: ¿qué capacidades necesitamos? (competencias de personas, sistemas de información, cultura y liderazgo). Las perspectivas se adaptan al tipo de organización: una entidad sin fines de lucro puede poner la misión en lo más alto.
 
-### 2. customer perspective: frontera conceptual y error de clasificación
+### 3. Mapa de estrategia
 
-**Definición operacional:** valor y comportamiento del cliente. Su valor está en distinguirlo de **financial perspective** y **process perspective**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Los mapas de estrategia son la pieza que evita la lista de indicadores sin sentido. Se arma de abajo arriba o de arriba abajo, pero siempre con flechas causales: «si capacitamos a los asesores en el diagnóstico de clientes (aprendizaje), mejorará la calidad de las propuestas (procesos), aumentará la satisfacción (clientes) y crecerá la retención (financiera)». Cada objetivo tiene **indicador, meta e iniciativa**. Se escoge un número pequeño de objetivos (15 a 25 en total para una organización mediana) y se verifica con datos que las flechas funcionan.
 
-Contrasta el problema con Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*, que aporta una mirada sobre **traducción de estrategia a objetivos, indicadores y relaciones causales**. Formula dos mini-casos: uno que sí satisface la definición de **customer perspective** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **causal links revisados** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Del mapa al tablero
 
-Antes de identificar procesos críticos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El mapa es el diseño; el **tablero** es la interfaz que usa quien decide. Un buen tablero comienza con la pregunta: ¿qué decisión debe tomar esta persona y con qué frecuencia? Para un comité de dirección mensual, serán pocos indicadores estratégicos con tendencia, meta y estado; para un jefe de turno, indicadores operativos casi en tiempo real. Los principios de lectura: **pocas cifras**, **comparación** con meta y período anterior, **tendencia** más que punto, **señal de estado** clara y **acceso al detalle** cuando algo se desvía.
 
-### 3. process perspective: operacionalización y medición
+### 5. Errores de diseño
 
-**process perspective** significa **capacidades operativas que entregan la propuesta**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Los más frecuentes: **demasiados indicadores** (el ojo no sabe dónde mirar); **cuatro cuadrantes sin conexión**; **colores sin criterio** (semáforos sin umbral definido); **gráficos decorativos** (3D, tortas con muchas porciones) que dificultan comparar; **ausencia de meta** (se muestra un valor sin saber si es bueno); **datos desactualizados** o con definiciones cambiantes; y **mezcla de audiencias** (un solo tablero para todos). Un test simple: si se oculta el título, ¿quien lo mira sabe qué decidir y con qué frecuencia?
 
-Andrew S. Grove — *High Output Management* orienta este bloque mediante **output managerial, leverage, reuniones, indicadores y gestión por procesos**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **balance leading-lagging**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Tablero y conversación
 
-Al llegar a definir capacidades habilitadoras, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Simons distingue sistemas de control de **diagnóstico**, que se vigilan por excepción, y **interactivos**, en los que la dirección dedica atención recurrente y conversa con los equipos sobre incertidumbres estratégicas. Un cuadro de mando útil combina ambos: la mayoría de los indicadores se revisan por excepción y unos pocos, los de mayor incertidumbre estratégica, se discuten en cada reunión de dirección con preguntas abiertas: ¿qué supuesto cambió?, ¿qué estamos aprendiendo? El tablero es una invitación a la conversación, no una sentencia.
 
-### 4. learning perspective: trade-offs y efectos de segundo orden
+### 7. Cascada y mantenimiento
 
-**Definición:** personas, datos y capacidades que sostienen procesos. Este concepto obliga a abandonar la idea de que **balanced Scorecard y tableros** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de conectar objetivos causalmente, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Richard Rumelt — *Good Strategy/Bad Strategy* aporta una lente sobre **diagnóstico, política guía y acciones coherentes**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **strategy review** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **balanced Scorecard y tableros**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **learning perspective** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. strategy map: gobernanza, límites e integración
-
-**strategy map** se define como **hipótesis causal entre objetivos de las perspectivas** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-John Doerr — *Speed & Scale* se utiliza para estudiar **perspectiva de Ejecución aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar seleccionar pocos indicadores por objetivo, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No todos los modelos de negocio encajan igual en cuatro perspectivas. Adapta el mapa a stakeholders y estrategia; no fuerces la herramienta sobre la realidad.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **financial perspective**, **customer perspective**, **process perspective**, **learning perspective** y **strategy map** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **balanced Scorecard y tableros** no consiste en sumar cinco definiciones. Empieza por **financial perspective**, contrasta **customer perspective** con **process perspective**, incorpora **learning perspective** como restricción o mecanismo y usa **strategy map** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. traducir estrategia en outcomes financieros y de cliente → 2. identificar procesos críticos → 3. definir capacidades habilitadoras → 4. conectar objetivos causalmente → 5. seleccionar pocos indicadores por objetivo**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El cuadro de mando de la empresa se despliega en cuadros de áreas que contribuyen a los objetivos superiores. La cascada debe conservar la lógica causal y evitar duplicar o contradecir medidas. Se actualiza cuando cambia la estrategia o cuando los datos muestran que una relación no funciona. Un cuadro de mando que no cambia en tres años probablemente no está siendo usado. Su ciclo de vida incluye revisión anual de la estrategia, trimestral de indicadores y mensual de resultados.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| John Doerr — *Measure What Matters* | objetivos, resultados clave, foco, transparencia y cadencia de seguimiento | ¿Qué supuesto de **balanced Scorecard y tableros** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* | traducción de estrategia a objetivos, indicadores y relaciones causales | ¿Qué supuesto de **balanced Scorecard y tableros** ayuda a desafiar? |
-| Andrew S. Grove — *High Output Management* | output managerial, leverage, reuniones, indicadores y gestión por procesos | ¿Qué supuesto de **balanced Scorecard y tableros** ayuda a desafiar? |
-| Richard Rumelt — *Good Strategy/Bad Strategy* | diagnóstico, política guía y acciones coherentes | ¿Qué supuesto de **balanced Scorecard y tableros** ayuda a desafiar? |
-| John Doerr — *Speed & Scale* | perspectiva de Ejecución aplicada al problema de la clase | ¿Qué supuesto de **balanced Scorecard y tableros** ayuda a desafiar? |
-
-En **balanced Scorecard y tableros**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **financial perspective**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Kaplan y Norton (*The Balanced Scorecard*) | Cuatro perspectivas y equilibrio de medidas. | Puede aplicarse mecánicamente. | ¿Qué relación causal une tus perspectivas? |
+| Kaplan y Norton (*Strategy Maps*) | Mapas de estrategia y alineación. | Requiere estrategia explícita. | ¿Qué objetivo falta en tu cadena? |
+| Marr | Selección y definición de indicadores. | Menos estructura de mapa. | ¿Qué pregunta responde cada indicador? |
+| Simons | Control de diagnóstico e interactivo. | Marco general. | ¿Qué discutes y qué solo vigilas? |
+| Rumelt | Estrategia con diagnóstico y acciones coherentes. | No ofrece medición. | ¿Tu mapa expresa una estrategia o una lista de deseos? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa mide revenue, margen y caja semanalmente, pero no observa defectos, retención ni capacidad crítica. Descubre deterioro cuando el resultado financiero ya cayó.
+**Situación (hipotética).** Una cadena de 25 gimnasios decide pasar de competir por precio a competir por experiencia y comunidad. Su estrategia: retener más socios con una propuesta distinta.
 
-**Paso 1 — traducir estrategia en outcomes financieros y de cliente.** La gerencia escribe primero el supuesto asociado a **financial perspective** y evita convertirlo en hecho. Luego busca **indicadores por objetivo** para contrastarlo en el caso de **balanced Scorecard y tableros**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Perspectiva | Objetivo | Indicador | Meta |
+|---|---|---|---|
+| **Finanzas** | Crecer ingresos recurrentes con margen sostenido | Ingresos por socio; margen de sede | +9 %; 24 % |
+| **Clientes** | Fidelizar socios con experiencia diferenciada | Retención a 12 meses; satisfacción | 68 % a 76 %; 4,2 a 4,5 |
+| **Procesos** | Excelente primera experiencia; clases de calidad | Socios con plan personal en 14 días; clases con ocupación entre 60 % y 90 % | 45 % a 75 %; 70 % de las clases |
+| **Aprendizaje** | Entrenadores con capacidades de acompañamiento | Entrenadores certificados en coaching; rotación de entrenadores | 30 % a 80 %; de 35 % a 20 % |
 
-**Paso 2 — identificar procesos críticos.** La gerencia escribe primero el supuesto asociado a **customer perspective** y evita convertirlo en hecho. Luego busca **causal links revisados** para contrastarlo en el caso de **balanced Scorecard y tableros**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Hipótesis causales.** Entrenadores capacitados elaboran mejores planes personales, que mejoran la primera experiencia; la primera experiencia eleva la satisfacción y la retención; mayor retención sube ingresos por socio con costos de adquisición menores.
 
-**Paso 3 — definir capacidades habilitadoras.** La gerencia escribe primero el supuesto asociado a **process perspective** y evita convertirlo en hecho. Luego busca **balance leading-lagging** para contrastarlo en el caso de **balanced Scorecard y tableros**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Tablero de la reunión mensual de dirección.** Doce indicadores en una página: por perspectiva, valor actual, meta, tendencia de seis meses y estado. Dos indicadores se marcan «interactivos»: el porcentaje de socios con plan personal en 14 días y la retención a 6 meses, que se discuten en cada reunión con la pregunta «¿qué estamos aprendiendo?».
 
-**Paso 4 — conectar objetivos causalmente.** La gerencia escribe primero el supuesto asociado a **learning perspective** y evita convertirlo en hecho. Luego busca **strategy review** para contrastarlo en el caso de **balanced Scorecard y tableros**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Verificación a los seis meses.** Las sedes con 70 % o más de socios con plan en 14 días tienen retención a 6 meses de 84 %, frente a 71 % del resto. Pero se descubre que esas sedes también tienen entrenadores más antiguos; se decide un piloto en sedes con entrenadores nuevos para separar el efecto.
 
-**Paso 5 — seleccionar pocos indicadores por objetivo.** La gerencia escribe primero el supuesto asociado a **strategy map** y evita convertirlo en hecho. Luego busca **metric retirement** para contrastarlo en el caso de **balanced Scorecard y tableros**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **balanced Scorecard y tableros**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Cada indicador tenía un lugar en una cadena causal. (2) El tablero respondía a una decisión mensual. (3) Se verificó la hipótesis, con prudencia sobre un factor de confusión.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **financial perspective** | resultados económicos finales | Cuando indicadores por objetivo es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **customer perspective** | valor y comportamiento del cliente | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Cuadro de mando frente a OKR.** El cuadro de mando describe la estrategia y vigila sus medidas de forma estable; los OKR impulsan apuestas de un ciclo. Se complementan: los OKR de un trimestre pueden mover indicadores del cuadro de mando.
 
-**Frontera de aplicación:** No todos los modelos de negocio encajan igual en cuatro perspectivas. Adapta el mapa a stakeholders y estrategia; no fuerces la herramienta sobre la realidad.
+**Límites.** La aplicación mecánica del cuadro de mando produce listas largas y sin causalidad. Su construcción exige una estrategia explícita; si la estrategia es difusa, el cuadro no la aclarará. Las relaciones causales son hipótesis y se validan con datos que no siempre existen. Las medidas de aprendizaje y cultura son difíciles y fácilmente se convierten en cifras decorativas. Y los indicadores sobre personas tienen implicancias de privacidad y laborales que se verifican en la normativa.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre balanced Scorecard y tableros |
+| Nivel | Cómo usa el cuadro de mando |
 |---|---|
-| **Profesional** | usa **balanced Scorecard y tableros** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **financial perspective** y **customer perspective** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta indicadores por objetivo con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si balanced Scorecard y tableros cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de balanced Scorecard y tableros reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **balanced Scorecard y tableros** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende cómo su trabajo aparece en el tablero. |
+| **Jefe / Team Lead** | Usa un tablero operativo con pocas cifras y decide con él. |
+| **Gerente** | Traduce la estrategia en un mapa y un tablero de gestión de su área. |
+| **CEO / Director** | Revisa pocas medidas estratégicas y conversa sobre supuestos. |
+| **Founder / Owner** | Construye un tablero mínimo de cuatro a seis indicadores que vincule la caja con el cliente. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa mide revenue, margen y caja semanalmente, pero no observa defectos, retención ni capacidad crítica. Descubre deterioro cuando el resultado financiero ya cayó.
+Una aseguradora mediana presenta cada mes al directorio un tablero de 48 indicadores organizado en los cuatro cuadrantes del cuadro de mando. Las cifras financieras tienen metas; las demás no. Los semáforos cambian de color sin umbrales definidos. El directorio dedica casi todo el tiempo a discutir las cifras financieras, que ya conoce, y no tiene claro cómo la estrategia de «transformación centrada en el cliente» se refleja en los datos. El área de estrategia sostiene que el tablero «cubre todo». Los gerentes dicen que lo llenan por obligación.
 
-Entrega un **decision brief de balanced Scorecard y tableros** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **rediseño del cuadro de mando y del tablero** con: (a) el mapa de estrategia con objetivos conectados por causalidad; (b) los indicadores, metas e iniciativas, con un máximo de 20; (c) el tablero del directorio (12 indicadores) con tendencia, meta y estado; (d) cuáles indicadores serán de diagnóstico y cuáles interactivos; (e) los tableros de gestión y operativos y su relación; (f) el plan de validación de las hipótesis y de mantenimiento.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **balanced Scorecard y tableros** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. traducir estrategia en outcomes financieros y de cliente → 2. identificar procesos críticos → 3. definir capacidades habilitadoras → 4. conectar objetivos causalmente → 5. seleccionar pocos indicadores por objetivo** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta indicadores por objetivo, causal links revisados; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Dibuja un mapa de estrategia de cuatro perspectivas para tu área con flechas causales.
+2. Define indicador, meta e iniciativa para cada objetivo.
+3. Diseña un tablero de una página para una reunión mensual.
+4. Marca dos indicadores interactivos y define las preguntas que se harán.
+5. Escribe cómo comprobarías una de las hipótesis causales.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar financial perspective y customer perspective como sinónimos | Se pierde la distinción entre “resultados económicos finales” y “valor y comportamiento del cliente” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “seleccionar pocos indicadores por objetivo” | Se saltó “traducir estrategia en outcomes financieros y de cliente” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. traducir estrategia en outcomes financieros y de cliente → 2. identificar procesos críticos → 3. definir capacidades habilitadoras → 4. conectar objetivos causalmente → 5. seleccionar pocos indicadores por objetivo y marca el primer supuesto no demostrado. |
-| Optimizar solo indicadores por objetivo | La métrica local sustituyó al resultado del sistema | Contrástala con causal links revisados y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre balanced Scorecard y tableros | No todos los modelos de negocio encajan igual en cuatro perspectivas. Adapta el mapa a stakeholders y estrategia; no fuerces la herramienta sobre la realidad. |
-| No fijar revisión | Una decisión sobre balanced Scorecard y tableros se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Cuatro cuadrantes sin conexión | Se llena la plantilla | Mapa con causalidad. |
+| Demasiados indicadores | No se decide qué excluir | Máximo de 15 a 25 objetivos en total. |
+| Semáforos sin umbral | Se pinta a criterio | Definir umbrales por indicador. |
+| Un tablero para todos | Se busca simplicidad | Tableros por audiencia y decisión. |
+| Falta de metas | Se muestra solo el valor | Meta y tendencia visibles. |
+| No actualizar | Se considera terminado | Revisión periódica y cambio con la estrategia. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **financial perspective** y **customer perspective** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **process perspective** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **traducir estrategia en outcomes financieros y de cliente → identificar procesos críticos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **indicadores por objetivo** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **balanced Scorecard y tableros**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No todos los modelos de negocio encajan igual en cuatro perspectivas. Adapta el mapa a stakeholders y estrategia; no fuerces la herramienta sobre la realidad.**?
+1. ¿Qué cuatro perspectivas propone el cuadro de mando integral?
+2. ¿Qué es un mapa de estrategia y por qué importa la causalidad?
+3. ¿Qué diferencia hay entre tablero estratégico, de gestión y operativo?
+4. ¿Cuáles son tres errores frecuentes de diseño?
+5. ¿Qué distingue el control de diagnóstico del interactivo?
+6. ¿Cómo se valida una relación causal del mapa?
+7. ¿Qué límite tiene el cuadro de mando si la estrategia es difusa?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Financiera, de clientes, de procesos internos y de aprendizaje y crecimiento.
+2. Un diagrama de objetivos conectados por relaciones de causa y efecto; sin causalidad el cuadro es una lista de indicadores.
+3. El estratégico muestra pocas medidas del avance de la estrategia, el de gestión resume procesos o áreas y el operativo apoya decisiones diarias con alta frecuencia.
+4. Demasiados indicadores, semáforos sin umbral, gráficos decorativos, ausencia de metas, datos desactualizados o mezcla de audiencias.
+5. El de diagnóstico se vigila por excepción; el interactivo recibe atención recurrente de la dirección y se discute con los equipos.
+6. Con datos propios a lo largo del tiempo, por segmentos y con pruebas controladas cuando sea posible, cuidando los factores de confusión.
+7. No lo aclarará: construirlo exige una estrategia explícita.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/102-balanced-scorecard-y-tableros/`:
 
-- `leadership-decision-brief.md` con el problema específico de **balanced Scorecard y tableros**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **balanced Scorecard y tableros** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **financial perspective**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa mide revenue, margen y caja semanalmente, pero no observa defectos, retención ni capacidad crítica. Descubre deterioro cuando el resultado financiero ya cayó.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el rediseño del caso ejecutivo;
+- `ceo-dashboard.md` (plantilla [CEO dashboard](../../../../templates/ceo-dashboard.md)) con el tablero del directorio;
+- `kpi-tree.md` (plantilla [KPI tree](../../../../templates/kpi-tree.md)) con el mapa de estrategia y las hipótesis;
+- `decision-journal.md` con la validación y el plan de mantenimiento.
 
 ## 📗 Fuentes y verificación
 
-- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** objetivos, resultados clave, foco, transparencia y cadencia de seguimiento. Lectura selectiva sobre **balanced scorecard y tableros**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
-- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** traducción de estrategia a objetivos, indicadores y relaciones causales. Lectura selectiva sobre **balanced scorecard y tableros**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
-- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** output managerial, leverage, reuniones, indicadores y gestión por procesos. Lectura selectiva sobre **balanced scorecard y tableros**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **balanced scorecard y tableros**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- John Doerr — *Speed & Scale* (Penguin Publishing Group, 2021). **Uso en esta clase:** perspectiva de Ejecución aplicada al problema de la clase. Lectura selectiva sobre **balanced scorecard y tableros**. **Localizador:** [ISBN-13 9780593420478](https://openlibrary.org/isbn/9780593420478).
-- Bernard Marr — *Key Performance Indicators* (Pearson Financial Times Pub., 2012). **Uso en esta clase:** selección de métricas útiles y conexión entre indicadores y decisiones. Lectura selectiva sobre **balanced scorecard y tableros**. **Localizador:** [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **balanced scorecard y tableros** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **balanced scorecard y tableros**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **balanced scorecard y tableros** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **balanced scorecard y tableros** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **balanced scorecard y tableros** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** cuatro perspectivas y equilibrio de medidas. Lectura selectiva sobre **balanced scorecard y tableros**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
+- Robert S. Kaplan & David P. Norton — *Strategy Maps* (Harvard Business School Press, 2004). **Uso en esta clase:** mapas de estrategia y alineación. Lectura selectiva sobre **balanced scorecard y tableros**. **Localizador:** [ISBN-13 9781591391340](https://openlibrary.org/isbn/9781591391340).
+- Bernard Marr — *Key Performance Indicators* (Pearson Financial Times Pub., 2012). **Uso en esta clase:** selección y definición de indicadores. Lectura selectiva sobre **balanced scorecard y tableros**. **Localizador:** [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116).
+- Robert Simons — *Levers of Control* (Harvard Business School Press, 1995). **Uso en esta clase:** control de diagnóstico e interactivo. Lectura selectiva sobre **balanced scorecard y tableros**. **Localizador:** [ISBN-13 9780875845593](https://openlibrary.org/isbn/9780875845593).
+- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** estrategia con diagnóstico y acciones coherentes. Lectura selectiva sobre **balanced scorecard y tableros**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
 
-> **Regla de fuentes para Balanced Scorecard y tableros:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **balanced Scorecard y tableros** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Balanced Scorecard y tableros:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluida la protección de datos de personas y clientes. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

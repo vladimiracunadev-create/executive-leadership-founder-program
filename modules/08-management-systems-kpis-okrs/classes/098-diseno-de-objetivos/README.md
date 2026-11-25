@@ -10,217 +10,184 @@
 
 ## 🎯 Propósito
 
-Diseñar objetivos significa elegir un estado futuro, un horizonte y una medida suficiente de logro. Un objetivo útil crea foco y trade-offs; si solo enumera trabajo, no ayuda a decidir. Debe ser lo bastante estable para coordinar y lo bastante revisable para responder a evidencia nueva.
+Un objetivo es una promesa de qué cambiará y cuándo, hecha antes de saber si se cumplirá. Bien diseñado, orienta la atención, moviliza esfuerzo y permite aprender de la diferencia entre lo esperado y lo ocurrido. Mal diseñado, genera conductas indeseadas: se persigue el número y se descuida lo que importa, se esconden los problemas o se fijan metas tan seguras que no exigen nada. La investigación sobre fijación de metas muestra ambas caras con la misma claridad.
 
-La salida de esta parte es **dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **diseño de objetivos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la teoría de la fijación de metas de Locke y Latham, en la advertencia de Ordóñez y sus colegas sobre los efectos secundarios de recetar metas sin cuidado y en la práctica de objetivos y resultados clave descrita por Doerr. Al terminar sabrás formular objetivos específicos, medibles, con dueño y plazo, cuándo conviene una meta de resultado y cuándo una de aprendizaje, y cómo acompañarlos con límites que eviten daños colaterales.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `objective`, `target`, `constraint`, `stretch`, `commitment` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. partir de prioridad estratégica → 2. definir outcome y horizonte → 3. seleccionar 1–3 medidas → 4. declarar constraints y trade-offs → 5. alinear recursos y revisión** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** número de objetivos activos, recursos sin objetivo, objetivos incompatibles sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Formular** un objetivo específico, medible, con dueño, plazo y resultado esperado.
+2. **Distinguir** objetivos de resultado, de proceso y de aprendizaje.
+3. **Calibrar** la dificultad: exigente pero alcanzable según el contexto.
+4. **Anticipar** efectos secundarios y fijar límites y medidas de contrapeso.
+5. **Revisar** un objetivo ante nueva información sin perder credibilidad.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define objective y target sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con número de objetivos activos y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: toma un objetivo de tu equipo y pregúntate cómo sabrías, sin discusión, si se cumplió. |
+| 20–60 min | Características, tipos de meta, dificultad y efectos secundarios. |
+| 60–105 min | Ejemplo trabajado: objetivos de un área de postventa. |
+| 105–150 min | Caso ejecutivo y práctica de reescritura. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **objective** | estado futuro cualitativo que orienta decisiones | Distingue un hecho compatible y otro que lo refute. |
-| **target** | valor cuantitativo esperado para una métrica | Distingue un hecho compatible y otro que lo refute. |
-| **constraint** | límite que debe respetarse al perseguir la meta | Distingue un hecho compatible y otro que lo refute. |
-| **stretch** | grado deliberado de ambición más allá del baseline | Distingue un hecho compatible y otro que lo refute. |
-| **commitment** | objetivo que la organización asume como promesa operacional | Distingue un hecho compatible y otro que lo refute. |
+| **Objetivo** | Estado futuro deseado, con medida, plazo y responsable. | Se puede juzgar sin discusión al llegar la fecha. |
+| **Meta de resultado** | Valor a lograr en una variable final. | «Subir la retención a 90 %». |
+| **Meta de aprendizaje** | Compromiso con adquirir conocimiento o habilidad. | «Probar tres formas de reducir el tiempo de respuesta». |
+| **Compromiso** | Aceptación real del objetivo por quien debe cumplirlo. | La persona participó o entiende el porqué. |
+| **Medida de contrapeso** | Indicador que vigila un efecto lateral posible. | Calidad junto a velocidad. |
+| **Meta de estiramiento** | Objetivo muy ambicioso, con probabilidad baja de lograrse del todo. | Se acuerda que cumplir el 70 % puede ser buen resultado. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 098: 1. partir de prioridad estratégica → 2. definir outcome y horizonte → 3. seleccionar 1–3 medidas → 4. declarar constraints y trade-offs → 5. alinear recursos y revisión](modelo-mental.svg)
+![Cuatro características de un objetivo que se puede juzgar, con una versión débil y una corregida.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. partir de prioridad estratégica → 2. definir outcome y horizonte → 3. seleccionar 1–3 medidas → 4. declarar constraints y trade-offs → 5. alinear recursos y revisión
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Diseñar objetivos significa elegir un estado futuro, un horizonte y una medida suficiente de logro. Un objetivo útil crea foco y trade-offs; si solo enumera trabajo, no ayuda a decidir. Debe ser lo bastante estable para coordinar y lo bastante revisable para responder a evidencia nueva.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un objetivo agresivo puede inducir gaming o riesgo si no incluye límites. Ambición sin guardrails no es liderazgo de desempeño.**
+**Cómo leer el diagrama.** Cada fila toma una característica —específico, medible, con plazo y dueño, con resultado y límites— y muestra una formulación débil y su versión corregida. El patrón común: la versión débil es una intención («mejorar», «aumentar», «reducir»), mientras que la corregida permite verificar sin discusión qué se logró y a qué costo. La última fila agrega los límites que evitan lograr el objetivo dañando algo más.
 
 ## 📖 Desarrollo
 
-### 1. objective: mecanismo central
+### 1. Qué dice la investigación sobre metas
 
-**objective** se entiende aquí como **estado futuro cualitativo que orienta decisiones**. Esta es la pieza causal o estructural desde la que se inicia **diseño de objetivos**: antes de partir de prioridad estratégica, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Locke y Latham resumieron décadas de estudios: las metas **específicas y difíciles** conducen a mejor desempeño que las vagas («hacer lo mejor posible») o fáciles, siempre que la persona tenga **compromiso**, reciba **retroalimentación** y cuente con la **habilidad** y los recursos necesarios. Las metas dirigen la atención, movilizan esfuerzo, aumentan la persistencia y estimulan la búsqueda de estrategias. El efecto es robusto en tareas relativamente bien comprendidas; en tareas muy complejas o nuevas, la presión por un resultado puede perjudicar el aprendizaje.
 
-La lectura rectora de este bloque es John Doerr — *Measure What Matters*. Su aporte se usa para examinar **objetivos, resultados clave, foco, transparencia y cadencia de seguimiento**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **número de objetivos activos**; regístrala con periodo, unidad, población y baseline.
+### 2. Los efectos secundarios
 
-Relaciona el mecanismo con **target**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Ordóñez y sus coautores argumentan que fijar metas se receta con demasiada ligereza. Los riesgos documentados incluyen: **foco excesivo** en lo medido y descuido de lo que no se mide; **conductas poco éticas** para alcanzar el número; **asunción excesiva de riesgos**; **daño a la cooperación** cuando las metas individuales compiten; y **erosión de la motivación intrínseca**. No se trata de evitar las metas, sino de diseñarlas con cuidado, como un medicamento con efectos adversos conocidos: se prescribe con dosis, supervisión y contraindicaciones.
 
-### 2. target: frontera conceptual y error de clasificación
+### 3. Metas de resultado, de proceso y de aprendizaje
 
-**Definición operacional:** valor cuantitativo esperado para una métrica. Su valor está en distinguirlo de **objective** y **constraint**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Una meta de **resultado** fija el valor final («cerrar 150 contratos»). Una de **proceso** compromete conductas que se creen eficaces («hacer cinco visitas a clientes por semana»). Una de **aprendizaje** compromete a descubrir («probar tres modelos de precio y decidir con datos»). Cuando la relación entre acciones y resultados es conocida, la meta de resultado orienta bien. Cuando es incierta, las metas de proceso o de aprendizaje evitan que se castigue la exploración. Mezclar los tres tipos en un mismo conjunto de objetivos es habitual y sano.
 
-Contrasta el problema con Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*, que aporta una mirada sobre **traducción de estrategia a objetivos, indicadores y relaciones causales**. Formula dos mini-casos: uno que sí satisface la definición de **target** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **recursos sin objetivo** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Específico, medible, con dueño y plazo
 
-Antes de definir outcome y horizonte, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un objetivo bien formulado permite responder cuatro preguntas sin discusión: **¿qué cambiará?** (específico), **¿cómo sabremos cuánto?** (medida con línea base y valor meta), **¿quién responde?** (un dueño, no un comité) y **¿para cuándo?** (fecha). A esto se suma una quinta: **¿a qué costo no se admitirá lograrlo?** (límites). La medida debe poder obtenerse con datos que existan o se puedan obtener; un objetivo cuyo cumplimiento nadie puede verificar solo genera debate sobre cifras.
 
-### 3. constraint: operacionalización y medición
+### 5. Dificultad y compromiso
 
-**constraint** significa **límite que debe respetarse al perseguir la meta**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La dificultad óptima depende de la persona y de la tarea. Una meta demasiado fácil no moviliza; una imposible desmoraliza o incita a trampas. El compromiso aumenta cuando la persona **entiende el porqué**, **participa en fijar la meta**, confía en que es alcanzable y percibe justicia en la evaluación. Imponer metas con explicaciones débiles produce cumplimiento aparente. Doerr describe los objetivos ambiciosos como una forma de pensar en grande, con la cláusula de que no se usen para castigar ni para determinar la remuneración de forma mecánica.
 
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* orienta este bloque mediante **responsabilidad gerencial, propósito, organización y resultados**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **objetivos incompatibles**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Límites y contrapesos
 
-Al llegar a seleccionar 1–3 medidas, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Todo objetivo cuantitativo debería acompañarse de al menos una **medida de contrapeso** que vigile lo que podría deteriorarse: si se persigue velocidad, se mide calidad; si se persigue volumen de ventas, se mide margen y devoluciones; si se reduce costo, se mide satisfacción. También se acuerdan **límites explícitos**: lo que no se hará para lograrlo (descuentos sobre un piso, atajos de seguridad, prácticas comerciales cuestionables). Esta parte del diseño es la que más protege la integridad de la organización y la que más se omite por apuro.
 
-### 4. stretch: trade-offs y efectos de segundo orden
+### 7. Revisar sin perder credibilidad
 
-**Definición:** grado deliberado de ambición más allá del baseline. Este concepto obliga a abandonar la idea de que **diseño de objetivos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de declarar constraints y trade-offs, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Bernard Marr — *Key Performance Indicators* aporta una lente sobre **selección de métricas útiles y conexión entre indicadores y decisiones**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **target attainment** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **diseño de objetivos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **stretch** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. commitment: gobernanza, límites e integración
-
-**commitment** se define como **objetivo que la organización asume como promesa operacional** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Robert S. Kaplan & David P. Norton — *Strategy Maps* se utiliza para estudiar **perspectiva de Estrategia aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar alinear recursos y revisión, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un objetivo agresivo puede inducir gaming o riesgo si no incluye límites. Ambición sin guardrails no es liderazgo de desempeño.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **objective**, **target**, **constraint**, **stretch** y **commitment** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **diseño de objetivos** no consiste en sumar cinco definiciones. Empieza por **objective**, contrasta **target** con **constraint**, incorpora **stretch** como restricción o mecanismo y usa **commitment** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. partir de prioridad estratégica → 2. definir outcome y horizonte → 3. seleccionar 1–3 medidas → 4. declarar constraints y trade-offs → 5. alinear recursos y revisión**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Los objetivos se fijan con información incompleta. Si el contexto cambia radicalmente, mantenerlos intactos puede ser absurdo; si se cambian con cada dificultad, pierden sentido. Una regla útil: se revisan en momentos acordados (trimestre, hito), con criterios explícitos (cambio de supuestos, nueva información material) y con registro de la decisión y su razón. La revisión no se oculta ni se usa para evitar la rendición de cuentas: se conserva la meta original y la ajustada para aprender de la diferencia.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| John Doerr — *Measure What Matters* | objetivos, resultados clave, foco, transparencia y cadencia de seguimiento | ¿Qué supuesto de **diseño de objetivos** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* | traducción de estrategia a objetivos, indicadores y relaciones causales | ¿Qué supuesto de **diseño de objetivos** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **diseño de objetivos** ayuda a desafiar? |
-| Bernard Marr — *Key Performance Indicators* | selección de métricas útiles y conexión entre indicadores y decisiones | ¿Qué supuesto de **diseño de objetivos** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *Strategy Maps* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **diseño de objetivos** ayuda a desafiar? |
-
-En **diseño de objetivos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **objective**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Locke y Latham (2002) | Síntesis de la teoría de fijación de metas. | Parte de estudios con tareas definidas. | ¿Tu tarea es bien comprendida? |
+| Ordóñez et al. (2009) | Efectos secundarios sistemáticos de las metas. | No cubre toda la evidencia a favor. | ¿Qué conducta indeseada podría incentivar? |
+| Doerr | Objetivos inspiradores y resultados clave medibles. | Casos de empresas exitosas. | ¿Tu objetivo inspira o solo exige? |
+| Drucker | Gestión por objetivos con autocontrol. | Es una visión general. | ¿Quién fija y quién se compromete? |
+| Kahneman et al. (*Noise*) | Variabilidad del juicio al evaluar desempeño. | No trata de metas. | ¿Se evaluará de manera consistente? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una gerencia tiene 18 objetivos trimestrales, todos 'prioridad alta'. Los equipos no pueden explicar cuál se sacrifica cuando dos compiten por las mismas personas.
+**Situación (hipotética).** La jefa de postventa de una empresa de electrodomésticos recibe del gerente tres objetivos para el año: «mejorar la satisfacción del cliente», «reducir los costos de garantía» y «aumentar la productividad del equipo». Los reescribe con el equipo.
 
-**Paso 1 — partir de prioridad estratégica.** La gerencia escribe primero el supuesto asociado a **objective** y evita convertirlo en hecho. Luego busca **número de objetivos activos** para contrastarlo en el caso de **diseño de objetivos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Objetivo original | Problema | Objetivo reescrito |
+|---|---|---|
+| Mejorar la satisfacción | No dice cuánto ni cómo se mide | Subir la satisfacción posterior a la visita técnica de 3,9 a 4,4 sobre 5 en seis meses; mide la encuesta enviada a todos los clientes atendidos |
+| Reducir costos de garantía | Podría lograrse rechazando garantías legítimas | Bajar el costo promedio por garantía de USD 78 a USD 70 **sin** aumentar la proporción de reclamos escalados (hoy 6 %) ni bajar la satisfacción |
+| Aumentar la productividad | Podría lograrse bajando calidad | Aumentar de 5,2 a 6 las visitas resueltas por técnico y día, manteniendo la resolución en la primera visita sobre 82 % |
 
-**Paso 2 — definir outcome y horizonte.** La gerencia escribe primero el supuesto asociado a **target** y evita convertirlo en hecho. Luego busca **recursos sin objetivo** para contrastarlo en el caso de **diseño de objetivos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Tipos de meta.** La primera es de resultado; la segunda, de resultado con límite; la tercera, de resultado con contrapeso. Se agrega una meta de **aprendizaje**: probar durante dos meses un diagnóstico remoto para determinar qué fallas pueden resolverse sin visita y decidir su adopción con datos.
 
-**Paso 3 — seleccionar 1–3 medidas.** La gerencia escribe primero el supuesto asociado a **constraint** y evita convertirlo en hecho. Luego busca **objetivos incompatibles** para contrastarlo en el caso de **diseño de objetivos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Compromiso y revisión.** Se fijan los valores con el equipo a partir de los datos de los últimos 12 meses (la satisfacción de 3,9 varió entre 3,7 y 4,1). Se acuerda una revisión a los tres meses; si se cambia el modelo de producto, se renegocia.
 
-**Paso 4 — declarar constraints y trade-offs.** La gerencia escribe primero el supuesto asociado a **stretch** y evita convertirlo en hecho. Luego busca **target attainment** para contrastarlo en el caso de **diseño de objetivos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — alinear recursos y revisión.** La gerencia escribe primero el supuesto asociado a **commitment** y evita convertirlo en hecho. Luego busca **re-priorizaciones** para contrastarlo en el caso de **diseño de objetivos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **diseño de objetivos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Los objetivos pasaron de intención a verificables. (2) Los límites evitaron lograr costos dañando a los clientes. (3) Se agregó una meta de aprendizaje donde la relación entre acción y resultado era incierta.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **objective** | estado futuro cualitativo que orienta decisiones | Cuando número de objetivos activos es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **target** | valor cuantitativo esperado para una métrica | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Objetivo frente a pronóstico.** Un pronóstico dice qué se espera que ocurra; un objetivo dice qué se quiere lograr. Confundirlos produce metas que se fijan por inercia o pronósticos que se inflan por presión.
 
-**Frontera de aplicación:** Un objetivo agresivo puede inducir gaming o riesgo si no incluye límites. Ambición sin guardrails no es liderazgo de desempeño.
+**Límites.** La evidencia de laboratorio y de estudios de campo sobre metas no cubre todos los contextos; el efecto depende de la tarea, la cultura y la forma de evaluación. Vincular metas rígidamente a remuneración variable aumenta el riesgo de manipulación. Los números del ejemplo son ilustrativos. Y los objetivos de personas tienen implicancias laborales (evaluación, remuneración) que deben respetar la normativa y los contratos vigentes.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre diseño de objetivos |
+| Nivel | Cómo trabaja los objetivos |
 |---|---|
-| **Profesional** | usa **diseño de objetivos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **objective** y **target** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta número de objetivos activos con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si diseño de objetivos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de diseño de objetivos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **diseño de objetivos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Pregunta qué se espera, cómo se medirá y qué no se debe sacrificar. |
+| **Jefe / Team Lead** | Fija objetivos con su equipo y revisa avances con datos. |
+| **Gerente** | Alinea objetivos entre áreas y define límites y contrapesos. |
+| **CEO / Director** | Cuida que la presión por metas no erosione la integridad. |
+| **Founder / Owner** | Evita metas que le sirvan a él pero que su equipo no entienda ni comparta. |
 
 ## 🏢 Caso ejecutivo
 
-Una gerencia tiene 18 objetivos trimestrales, todos 'prioridad alta'. Los equipos no pueden explicar cuál se sacrifica cuando dos compiten por las mismas personas.
+Una empresa de telecomunicaciones fija a su fuerza de ventas una meta anual de «300 nuevos clientes corporativos» con un bono creciente. A mitad de año, la dirección descubre que se está ofreciendo descuentos no autorizados, que se registran como «cerrados» contratos sin firma completa y que los ejecutivos evitan compartir contactos con colegas. La rotación de clientes nuevos a seis meses subió de 8 % a 19 %. El gerente comercial defiende la meta como «clara y exigente»; el gerente de personas pide reemplazarla por algo «más equilibrado».
 
-Entrega un **decision brief de diseño de objetivos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **rediseño de objetivos** que contenga: (a) el diagnóstico de los efectos secundarios observados con base en la evidencia; (b) los objetivos reformulados con medida, plazo, dueño y límites; (c) las medidas de contrapeso; (d) cómo combinarás metas de resultado, de proceso y de aprendizaje; (e) cómo se fijarán con la fuerza de ventas y cómo se revisarán; (f) qué cambios en la remuneración variable deberán consultarse con asesoría laboral.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **diseño de objetivos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. partir de prioridad estratégica → 2. definir outcome y horizonte → 3. seleccionar 1–3 medidas → 4. declarar constraints y trade-offs → 5. alinear recursos y revisión** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta número de objetivos activos, recursos sin objetivo; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Reescribe tres objetivos vagos de tu área con medida, plazo, dueño y límites.
+2. Para un objetivo cuantitativo, define una medida de contrapeso.
+3. Clasifica tus objetivos en resultado, proceso y aprendizaje.
+4. Identifica una conducta indeseada que podría incentivar un objetivo tuyo y cómo la evitarías.
+5. Define cuándo y con qué criterios revisarás un objetivo.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar objective y target como sinónimos | Se pierde la distinción entre “estado futuro cualitativo que orienta decisiones” y “valor cuantitativo esperado para una métrica” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “alinear recursos y revisión” | Se saltó “partir de prioridad estratégica” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. partir de prioridad estratégica → 2. definir outcome y horizonte → 3. seleccionar 1–3 medidas → 4. declarar constraints y trade-offs → 5. alinear recursos y revisión y marca el primer supuesto no demostrado. |
-| Optimizar solo número de objetivos activos | La métrica local sustituyó al resultado del sistema | Contrástala con recursos sin objetivo y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre diseño de objetivos | Un objetivo agresivo puede inducir gaming o riesgo si no incluye límites. Ambición sin guardrails no es liderazgo de desempeño. |
-| No fijar revisión | Una decisión sobre diseño de objetivos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Objetivos como intenciones | Es más cómodo | Medida, línea base, meta y plazo. |
+| Un número sin límites | Se mide solo lo central | Límites y contrapesos. |
+| Imponer sin explicar | Se supone obediencia | Explicar el porqué y fijar con el equipo. |
+| Metas de resultado en tareas nuevas | Se quiere control | Metas de aprendizaje. |
+| Vincular todo a remuneración | Parece incentivo claro | Separar o suavizar el vínculo. |
+| Cambiar el objetivo sin registro | Se busca evitar un fracaso | Revisión con criterios y registro. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **objective** y **target** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **constraint** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **partir de prioridad estratégica → definir outcome y horizonte** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **número de objetivos activos** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **diseño de objetivos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un objetivo agresivo puede inducir gaming o riesgo si no incluye límites. Ambición sin guardrails no es liderazgo de desempeño.**?
+1. ¿Qué condiciones hacen que las metas específicas y difíciles mejoren el desempeño?
+2. Menciona tres efectos secundarios de las metas descritos por Ordóñez y sus colegas.
+3. ¿Cuándo conviene una meta de aprendizaje?
+4. ¿Qué cuatro preguntas responde un objetivo bien formulado?
+5. ¿Qué es una medida de contrapeso?
+6. ¿Qué eleva el compromiso con una meta?
+7. ¿Cómo se revisa un objetivo sin perder credibilidad?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Compromiso, retroalimentación, habilidad y recursos, y una tarea razonablemente comprendida.
+2. Por ejemplo: foco excesivo en lo medido, conductas poco éticas, asunción excesiva de riesgos, daño a la cooperación y erosión de la motivación intrínseca.
+3. Cuando la relación entre acciones y resultados es incierta o la tarea es nueva.
+4. Qué cambiará, cuánto y cómo se medirá, quién responde y para cuándo.
+5. Un indicador que vigila lo que podría deteriorarse al perseguir el objetivo, como la calidad junto a la velocidad.
+6. Entender el porqué, participar en fijarla, creerla alcanzable y percibir justicia en la evaluación.
+7. En momentos y con criterios acordados, registrando la decisión y conservando la meta original y la ajustada.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/098-diseno-de-objetivos/`:
 
-- `leadership-decision-brief.md` con el problema específico de **diseño de objetivos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **diseño de objetivos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **objective**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una gerencia tiene 18 objetivos trimestrales, todos 'prioridad alta'. Los equipos no pueden explicar cuál se sacrifica cuando dos compiten por las mismas personas.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el rediseño de objetivos del caso ejecutivo;
+- `kpi-tree.md` (plantilla [KPI tree](../../../../templates/kpi-tree.md)) con los objetivos, sus medidas y sus contrapesos;
+- `decision-journal.md` con los criterios de revisión y los efectos secundarios vigilados.
 
 ## 📗 Fuentes y verificación
 
-- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** objetivos, resultados clave, foco, transparencia y cadencia de seguimiento. Lectura selectiva sobre **diseño de objetivos**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
-- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** traducción de estrategia a objetivos, indicadores y relaciones causales. Lectura selectiva sobre **diseño de objetivos**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **diseño de objetivos**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Bernard Marr — *Key Performance Indicators* (Pearson Financial Times Pub., 2012). **Uso en esta clase:** selección de métricas útiles y conexión entre indicadores y decisiones. Lectura selectiva sobre **diseño de objetivos**. **Localizador:** [ISBN-13 9780273750116](https://openlibrary.org/isbn/9780273750116).
-- Robert S. Kaplan & David P. Norton — *Strategy Maps* (Harvard Business School Press, 2004). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **diseño de objetivos**. **Localizador:** [ISBN-13 9781591391340](https://openlibrary.org/isbn/9781591391340).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **diseño de objetivos**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **diseño de objetivos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **diseño de objetivos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **diseño de objetivos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **diseño de objetivos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **diseño de objetivos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Edwin A. Locke & Gary P. Latham — *Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey* (American Psychologist, 2002). **Uso en esta clase:** síntesis de la teoría de fijación de metas. Lectura selectiva sobre **diseño de objetivos**. **Localizador:** [DOI 10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705).
+- Lisa D. Ordóñez, Maurice E. Schweitzer, Adam D. Galinsky & Max H. Bazerman — *Goals Gone Wild: The Systematic Side Effects of Overprescribing Goal Setting* (Academy of Management Perspectives, 2009). **Uso en esta clase:** efectos secundarios sistemáticos de las metas. Lectura selectiva sobre **diseño de objetivos**. **Localizador:** [DOI 10.5465/amp.2009.37007999](https://doi.org/10.5465/amp.2009.37007999).
+- John Doerr — *Measure What Matters* (Penguin Random House USA Ex, 2018). **Uso en esta clase:** objetivos ambiciosos y resultados clave medibles. Lectura selectiva sobre **diseño de objetivos**. **Localizador:** [ISBN-13 9780525538349](https://openlibrary.org/isbn/9780525538349).
+- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** gestión por objetivos con autocontrol. Lectura selectiva sobre **diseño de objetivos**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
+- Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise* (Little, Brown Spark, 2021). **Uso en esta clase:** variabilidad del juicio al evaluar desempeño. Lectura selectiva sobre **diseño de objetivos**. **Localizador:** [ISBN-13 9780316451383](https://openlibrary.org/isbn/9780316451383).
 
-> **Regla de fuentes para Diseño de objetivos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **diseño de objetivos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Diseño de objetivos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales sobre evaluación y remuneración. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

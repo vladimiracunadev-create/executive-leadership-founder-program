@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir leading indicator de lagging indicator mediante evidencia observable."
-  - "Aplicar la secuencia: definir outcome lagging → formular drivers plausibles → buscar evidencia histórica o experimental → seleccionar leading controllable → revisar si la relación se sostiene."
-  - "Interpretar correlación driver-outcome, lead time de señal, acciones por driver sin atribuir causalidad automática."
-  - "Resolver el caso de leading y lagging indicators con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Clasificar indicadores como adelantados, coincidentes o rezagados."
+  - "Formular la hipótesis que une un indicador adelantado con su resultado."
+  - "Validar esa hipótesis con datos y reconocer sus límites."
+  - "Detectar proxies fáciles de manipular y diseñar controles."
+  - "Diseñar una familia de indicadores equilibrada con ambos tipos."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "John Doerr — *Measure What Matters*"
-  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
+  - "Christopher D. Ittner & David F. Larcker — *Are Nonfinancial Measures Leading Indicators of Financial Performance?*"
+  - "Robert S. Kaplan & David P. Norton — *Strategy Maps*"
   - "Bernard Marr — *Key Performance Indicators*"
-  - "Larry Bossidy & Ram Charan — *Execution*"
-  - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
-  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "Jerry Z. Muller — *The Tyranny of Metrics*"
+  - "W. Edwards Deming — *Out of the Crisis*"
 limits:
-  - "Un leading indicator fácil de mover es especialmente vulnerable a gaming. Nunca confíes en proxy sin volver periódicamente al outcome que pretende anticipar."
+  - "Las relaciones entre indicadores cambian con el tiempo, el segmento y el contexto."
 evidence_signals:
-  - "correlación driver-outcome"
-  - "lead time de señal"
-  - "acciones por driver"
-  - "falsos positivos"
-  - "outcome final"
+  - "tipo de indicador clasificado"
+  - "hipótesis validada con datos"
+  - "proxy protegido de manipulación"
+  - "retardo esperado definido"

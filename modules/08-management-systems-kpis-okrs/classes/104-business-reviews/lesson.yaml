@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "dirigir mediante outcomes, métricas, revisiones y asignación explícita de recursos"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir variance de forecast mediante evidencia observable."
-  - "Aplicar la secuencia: preparar actual, plan y forecast → explicar variances materiales → separar causa de excusa → elevar decision asks → actualizar acciones y forecast."
-  - "Interpretar forecast accuracy, variances sin explicación, decisions closed sin atribuir causalidad automática."
-  - "Resolver el caso de business reviews con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-deliverable: "leadership-decision-brief.md"
+  - "Estructurar una revisión en cinco pasos: preparar, contrastar, diagnosticar, decidir y registrar."
+  - "Formular preguntas que lleven de la cifra a la causa."
+  - "Reducir los sesgos de grupo con técnicas simples de juicio independiente."
+  - "Diferenciar el diagnóstico de los hechos de la atribución de culpas."
+  - "Cerrar con acuerdos con dueño, fecha y criterio de verificación."
+deliverable: "monthly-business-review.md"
 references:
-  - "John Doerr — *Measure What Matters*"
-  - "Robert S. Kaplan & David P. Norton — *The Balanced Scorecard*"
   - "Larry Bossidy & Ram Charan — *Execution*"
-  - "John Doerr — *Speed & Scale*"
-  - "Bernard Marr — *Key Performance Indicators*"
   - "Andrew S. Grove — *High Output Management*"
+  - "Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise*"
+  - "Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams*"
+  - "Robert S. Kaplan & David P. Norton — *Strategy Maps*"
 limits:
-  - "Un review puede volverse punitivo y fomentar ocultamiento si cada desviación se interpreta como fracaso. Diferencia error de forecast, aprendizaje y mala ejecución."
+  - "Una revisión no reemplaza la conversación continua con clientes y equipos."
 evidence_signals:
-  - "forecast accuracy"
-  - "variances sin explicación"
-  - "decisions closed"
-  - "action aging"
-  - "meeting time on exceptions"
+  - "datos enviados antes"
+  - "causas con hechos y no culpables"
+  - "juicios previos independientes"
+  - "compromisos con dueño, fecha y verificación"

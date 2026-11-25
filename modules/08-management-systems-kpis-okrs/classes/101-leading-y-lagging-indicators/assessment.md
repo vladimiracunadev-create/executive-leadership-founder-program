@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **leading indicator** de **lagging indicator** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **driver** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **proxy** con **causal link**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre indicador adelantado, coincidente y rezagado?
+2. ¿Por qué un adelantado es una hipótesis?
+3. ¿Cómo se valida la relación entre un adelantado y su resultado?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Ventas usa reuniones agendadas como leading indicator. El volumen sube 60% tras incentivar booking, pero win rate cae porque la calidad de prospectos se deteriora.
+**Caso:** Una empresa de formación corporativa mide como indicador principal de sus ejecutivos comerciales el «número de reuniones con clientes por mes», porque cree que anticipa las ventas. Durante seis meses las reuniones aumentaron 45 % y las ventas no. El gerente comercial defiende que «hay un rezago»; el director financiero propone eliminar la medición de reuniones. Un analista descubre que muchas reuniones son de seguimiento con clientes actuales, que los ejecutivos agendan reuniones breves para cumplir y que las reuniones con decisores nuevos sí se asocian a propuestas posteriores.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir outcome lagging → formular drivers plausibles → buscar evidencia histórica o experimental → seleccionar leading controllable → revisar si la relación se sostiene**. Debes utilizar o diseñar cómo obtener **correlación driver-outcome, lead time de señal, acciones por driver**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **rediseño de la familia de indicadores** que contenga: (a) la clasificación de los indicadores actuales; (b) la hipótesis causal y la validación propuesta con datos; (c) los adelantados alternativos y sus condiciones de calidad; (d) el análisis del retardo esperado; (e) las medidas contra la manipulación y el uso en la evaluación de personas; (f) el contrapeso y la revisión trimestral. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Un leading indicator fácil de mover es especialmente vulnerable a gaming. Nunca confíes en proxy sin volver periódicamente al outcome que pretende anticipar.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las relaciones entre indicadores cambian con el tiempo, el segmento y el contexto.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

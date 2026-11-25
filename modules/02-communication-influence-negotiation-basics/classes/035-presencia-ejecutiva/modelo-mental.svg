@@ -1,65 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g35 d-g35" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g35">Ficha visual de la clase 035: Presencia ejecutiva</title>
-<desc id="d-g35">Conceptos: gravitas; claridad; composure; credibilidad; adaptabilidad. Método: preparar tres mensajes y datos clave → regular ritmo, respiración y lenguaje → responder primero a la pregunta central → declarar incertidumbre y compromiso de seguimiento → solicitar feedback sobre impacto real.</desc>
-<defs><marker id="p-g35" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#1a7f37"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 035 · Presencia ejecutiva</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 02 · Autoliderazgo y fundamentos ejecutivos</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#1a7f37"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >gravitas</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >percepción de juicio y estabilidad bajo presión</text>
-<circle cx="38" cy="170" r="5" fill="#1a7f37"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >claridad</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad de expresar prioridades y razonamiento sin</text>
-<text x="54" y="209.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ruido</text>
-<circle cx="38" cy="242.12" r="5" fill="#1a7f37"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >composure</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >regulación visible de respuesta emocional</text>
-<circle cx="38" cy="300.12" r="5" fill="#1a7f37"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >credibilidad</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >confianza basada en competencia y consistencia</text>
-<circle cx="38" cy="358.12" r="5" fill="#1a7f37"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >adaptabilidad</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ajuste consciente de estilo al contexto sin perder</text>
-<text x="54" y="397.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >autenticidad</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >preparar tres mensajes y datos clave</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >regular ritmo, respiración y lenguaje</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >responder primero a la pregunta central</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >declarar incertidumbre y compromiso de seguimiento</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >solicitar feedback sobre impacto real</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >respuestas evasivas</text>
-<rect x="195.1" y="456.24" width="212.3" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="208.1" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="219.1" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >tiempo para llegar al punto</text>
-<rect x="417.4" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="430.4" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="441.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >follow-ups cumplidos</text>
-<rect x="591.4" y="456.24" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="604.4" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="615.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >feedback de audiencia</text>
-<rect x="772.3" y="456.24" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="785.3" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="796.3" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decisiones entendidas</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Trabajar presencia no debe imponer un molde cultural o físico único ni penalizar introversión, neurodiversidad, discapacidad, edad,</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >género, origen cultural, rasgos físicos o estilos de comunicación no dominantes. Evalúa claridad, criterio…</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 580" width="1040" role="img" aria-labelledby="t-035 d-035" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-035">Ajuste de contexto: la presencia se decide mirando el entorno</title>
+<desc id="d-035">El propósito de la reunión, en el centro, se ajusta con variables de industria, organización, audiencia, cultura, modalidad y clima; apariencia no equivale a competencia.</desc>
+<defs><marker id="p-035" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="580" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 035 · Presencia: claridad y criterio ante la atención</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Hall et al. (2019) · Chang &amp; Cortina (2024)</text>
+<circle cx="330" cy="300" r="78" fill="#1a7f37" fill-opacity="0.14" stroke="#1a7f37" stroke-width="2"/>
+<text x="330" y="296" font-size="14" font-weight="800" fill="#1a7f37" text-anchor="middle" letter-spacing="1.2">PROPÓSITO</text>
+<text x="330" y="316" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle" >qué debe lograr</text>
+<text x="330" y="330" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="middle" >la reunión</text>
+<path d="M330,222 L330,160" stroke="#d0d7de" stroke-width="1.6"/>
+<rect x="260" y="123" width="140" height="34" rx="17" fill="#ffffff" stroke="#0969da" stroke-width="1.4" />
+<text x="330" y="145" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle" >Industria</text>
+<path d="M385.154,244.846 L436.066,201.005" stroke="#d0d7de" stroke-width="1.6"/>
+<rect x="394.35" y="169.863" width="140" height="34" rx="17" fill="#ffffff" stroke="#0969da" stroke-width="1.4" />
+<text x="464.35" y="191.863" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle" >Organización</text>
+<path d="M408,300 L480,300" stroke="#d0d7de" stroke-width="1.6"/>
+<rect x="450" y="283" width="140" height="34" rx="17" fill="#ffffff" stroke="#0969da" stroke-width="1.4" />
+<text x="520" y="305" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle" >Rol y responsabilidad</text>
+<path d="M385.154,355.154 L436.066,398.995" stroke="#d0d7de" stroke-width="1.6"/>
+<rect x="394.35" y="396.137" width="140" height="34" rx="17" fill="#ffffff" stroke="#0969da" stroke-width="1.4" />
+<text x="464.35" y="418.137" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle" >Audiencia</text>
+<path d="M330,378 L330,440" stroke="#d0d7de" stroke-width="1.6"/>
+<rect x="260" y="443" width="140" height="34" rx="17" fill="#ffffff" stroke="#0969da" stroke-width="1.4" />
+<text x="330" y="465" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle" >Tipo de reunión</text>
+<path d="M274.846,355.154 L223.934,398.995" stroke="#d0d7de" stroke-width="1.6"/>
+<rect x="125.65" y="396.137" width="140" height="34" rx="17" fill="#ffffff" stroke="#0969da" stroke-width="1.4" />
+<text x="195.65" y="418.137" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle" >Cultura y país</text>
+<path d="M252,300 L180,300" stroke="#d0d7de" stroke-width="1.6"/>
+<rect x="70" y="283" width="140" height="34" rx="17" fill="#ffffff" stroke="#0969da" stroke-width="1.4" />
+<text x="140" y="305" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle" >Modalidad</text>
+<path d="M274.846,244.846 L223.934,201.005" stroke="#d0d7de" stroke-width="1.6"/>
+<rect x="125.65" y="169.863" width="140" height="34" rx="17" fill="#ffffff" stroke="#0969da" stroke-width="1.4" />
+<text x="195.65" y="191.863" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle" >Clima</text>
+<text x="650" y="100" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.2">DOS DESIGUALDADES QUE ORDENAN LA CLASE</text>
+<rect x="650" y="118" width="362" height="114" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<text x="666" y="148" font-size="16" font-weight="800" fill="#1f2328" text-anchor="start" >apariencia  ≠  competencia</text>
+<text x="666" y="172" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Una primera impresión no mide capacidad ni</text>
+<text x="666" y="189.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >liderazgo, y puede reflejar sesgos de quien</text>
+<text x="666" y="206.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >observa.</text>
+<rect x="650" y="248" width="362" height="114" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<text x="666" y="278" font-size="16" font-weight="800" fill="#1f2328" text-anchor="start" >vestirse formal  ≠  presencia ejecutiva</text>
+<text x="666" y="302" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >La presencia es claridad, estabilidad y</text>
+<text x="666" y="319.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >criterio bajo atención.</text>
+<rect x="650" y="390" width="362" height="120" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="666" y="414" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.2">CÓMO SE DECIDE</text>
+<text x="666" y="434" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Investiga el contexto, identifica restricciones</text>
+<text x="666" y="451.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >funcionales y elige una opción coherente con</text>
+<text x="666" y="468.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >quien serás en el cargo, de modo que el mensaje</text>
+<text x="666" y="485.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >concentre la atención.</text>
+<text x="28" y="558" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Ninguna variable decide sola. Las impresiones dependen del contexto y del observador; esto no es un código de vestimenta.</text>
 </svg>

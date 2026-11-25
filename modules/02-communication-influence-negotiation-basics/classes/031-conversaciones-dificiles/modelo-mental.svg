@@ -1,64 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g31 d-g31" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g31">Ficha visual de la clase 031: Conversaciones difíciles</title>
-<desc id="d-g31">Conceptos: hechos; intención atribuida; contribución; identidad; objetivo conversacional. Método: preparar hechos y emociones propias → separar intención de impacto → reconocer contribución propia → abrir con una tercera historia neutral → acordar decisión, límite o próximo experimento.</desc>
-<defs><marker id="p-g31" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#1a7f37"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 031 · Conversaciones difíciles</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 02 · Autoliderazgo y fundamentos ejecutivos</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#1a7f37"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >hechos</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >eventos observables que las partes pueden verificar</text>
-<circle cx="38" cy="170" r="5" fill="#1a7f37"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >intención atribuida</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >explicación sobre motivos ajenos que puede ser</text>
-<text x="54" y="209.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >incorrecta</text>
-<circle cx="38" cy="242.12" r="5" fill="#1a7f37"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >contribución</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >parte propia del patrón aunque no sea culpa equivalente</text>
-<circle cx="38" cy="300.12" r="5" fill="#1a7f37"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >identidad</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >historia sobre quién soy que se activa en el conflicto</text>
-<circle cx="38" cy="358.12" r="5" fill="#1a7f37"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >objetivo conversacional</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >resultado razonable de comprensión, decisión o límite</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >preparar hechos y emociones propias</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >separar intención de impacto</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >reconocer contribución propia</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >abrir con una tercera historia neutral</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >acordar decisión, límite o próximo experimento</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="226.1" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#1a7f37"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >interrupciones y defensividad</text>
-<rect x="264.1" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="277.1" cy="455.12" r="3.5" fill="#1a7f37"/>
-<text x="288.1" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >hechos disputados</text>
-<rect x="417.4" y="442.12" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="430.4" cy="455.12" r="3.5" fill="#1a7f37"/>
-<text x="441.4" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >acuerdos concretos</text>
-<rect x="577.6" y="442.12" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="590.6" cy="455.12" r="3.5" fill="#1a7f37"/>
-<text x="601.6" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >reincidencia del conflicto</text>
-<rect x="793" y="442.12" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="806" cy="455.12" r="3.5" fill="#1a7f37"/>
-<text x="817" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >seguimientos cumplidos</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No toda conversación debe resolverse informalmente. Si hay violencia, acoso, discriminación, riesgo de seguridad o una obligación</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >legal, se activa el proceso formal correspondiente.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" width="1040" role="img" aria-labelledby="t-031 d-031" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-031">El camino a la acción: de lo que se observa a lo que se hace</title>
+<desc id="d-031">Se observan hechos, se cuenta una historia sobre ellos, se siente una emoción y se actúa. Para cambiar una conversación se retrocede por el camino.</desc>
+<defs><marker id="p-031" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="560" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 031 · Volver a los hechos antes de hablar</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Patterson et al. (2012) · Stone, Patton &amp; Heen (1999)</text>
+<rect x="28" y="96" width="232" height="210" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M28,134 V108 a12,12 0 0 1 12,-12 H248 a12,12 0 0 1 12,12 V134 Z" fill="#0969da"/>
+<text x="44" y="121" font-size="12.5" font-weight="800" fill="#ffffff" text-anchor="start" letter-spacing="1">VER Y OÍR</text>
+<text x="44" y="160" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >Lo observable: qué se</text>
+<text x="44" y="178.63" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >dijo, qué se hizo, cuándo.</text>
+<text x="44" y="211.26" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Ejemplo</text>
+<text x="44" y="229.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >«No contestó mi correo en</text>
+<text x="44" y="246.51" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >dos días.»</text>
+<path d="M263,200 L281,200" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-031)"/>
+<rect x="284" y="96" width="232" height="210" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M284,134 V108 a12,12 0 0 1 12,-12 H504 a12,12 0 0 1 12,12 V134 Z" fill="#bc4c00"/>
+<text x="300" y="121" font-size="12.5" font-weight="800" fill="#ffffff" text-anchor="start" letter-spacing="1">CONTAR UNA HISTORIA</text>
+<text x="300" y="160" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >La interpretación que se</text>
+<text x="300" y="178.63" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >agrega: motivos,</text>
+<text x="300" y="197.26" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >intención, carácter.</text>
+<text x="300" y="229.89" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Ejemplo</text>
+<text x="300" y="247.89" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >«Me ignora a propósito.»</text>
+<path d="M519,200 L537,200" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-031)"/>
+<rect x="540" y="96" width="232" height="210" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<path d="M540,134 V108 a12,12 0 0 1 12,-12 H760 a12,12 0 0 1 12,12 V134 Z" fill="#cf222e"/>
+<text x="556" y="121" font-size="12.5" font-weight="800" fill="#ffffff" text-anchor="start" letter-spacing="1">SENTIR</text>
+<text x="556" y="160" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >La emoción que genera la</text>
+<text x="556" y="178.63" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >historia.</text>
+<text x="556" y="211.26" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Ejemplo</text>
+<text x="556" y="229.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Enojo, desconfianza,</text>
+<text x="556" y="246.51" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >vergüenza.</text>
+<path d="M775,200 L793,200" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-031)"/>
+<rect x="796" y="96" width="232" height="210" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<path d="M796,134 V108 a12,12 0 0 1 12,-12 H1016 a12,12 0 0 1 12,12 V134 Z" fill="#8250df"/>
+<text x="812" y="121" font-size="12.5" font-weight="800" fill="#ffffff" text-anchor="start" letter-spacing="1">ACTUAR</text>
+<text x="812" y="160" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >Lo que se hace con esa</text>
+<text x="812" y="178.63" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >emoción: callar, atacar o</text>
+<text x="812" y="197.26" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >hablar.</text>
+<text x="812" y="229.89" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Ejemplo</text>
+<text x="812" y="247.89" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Evitar, reclamar o</text>
+<text x="812" y="265.14" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >conversar.</text>
+<path d="M912.0,308 V340 H144.0 V312" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="7 6" marker-end="url(#p-031)"/>
+<rect x="300" y="326" width="440" height="28" rx="14" fill="#f6f8fa" stroke="#59636e" stroke-width="1.2" />
+<text x="520" y="345" font-size="12" font-weight="600" fill="#1f2328" text-anchor="middle" >retroceder: de la acción a la emoción, a la historia y a los hechos</text>
+<rect x="28" y="380" width="480" height="130" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<text x="46" y="404" font-size="11.5" font-weight="700" fill="#1a7f37" text-anchor="start" letter-spacing="1.2">CÓMO SE USA</text>
+<text x="46" y="424" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Antes de hablar, separa lo observado de la historia. Empieza la</text>
+<text x="46" y="441.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >conversación por los hechos y presenta la historia como una</text>
+<text x="46" y="458.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >hipótesis, no como un hecho.</text>
+<rect x="532" y="380" width="480" height="130" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<text x="550" y="404" font-size="11.5" font-weight="700" fill="#0969da" text-anchor="start" letter-spacing="1.2">TRES CONVERSACIONES EN UNA</text>
+<text x="550" y="424" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Qué ocurrió, los sentimientos y la identidad (Stone, Patton y</text>
+<text x="550" y="441.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Heen). El camino a la acción ayuda a ordenar las dos primeras.</text>
+<text x="28" y="540" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Es un modelo de trabajo propuesto por los autores, no una ley de la conducta: sirve para preparar, no para predecir.</text>
 </svg>

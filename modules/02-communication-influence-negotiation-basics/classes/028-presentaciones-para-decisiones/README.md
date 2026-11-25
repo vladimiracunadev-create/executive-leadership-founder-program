@@ -10,217 +10,184 @@
 
 ## 🎯 Propósito
 
-Una presentación para decisiones no es una exposición de todo el trabajo realizado. Diseña una secuencia que lleve a una decisión: contexto, tensión, evidencia, opciones, recomendación, riesgos y pedido. Las diapositivas son soporte visual; el razonamiento debe sobrevivir si se leen sin narrador.
+Muchas presentaciones de gestión informan y pocas deciden. Se muestran resultados, se recorren análisis y la sala termina con la sensación de haber visto mucho sin saber qué se esperaba de ella. Una presentación para decidir tiene otro propósito: **llevar a un grupo desde una situación actual hasta una decisión concreta**, con la evidencia mínima necesaria y la petición explícita al final.
 
-La salida de esta parte es **convertir comunicación, influencia y negociación en sistemas de decisión y relación**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **presentaciones para decisiones** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase enseña a construir ese tipo de presentación combinando dos aportes: la estructura de respuesta primero de Minto y la idea de Duarte de que una presentación persuasiva recorre la distancia entre lo que **es** y lo que **podría ser**. Al terminar sabrás diseñar láminas cuyo título sea una afirmación, preparar la petición de decisión y anticipar las objeciones.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `decision ask`, `storyline`, `slide headline`, `visual evidence`, `appendix` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. definir quién decide y qué necesita decidir → 2. construir storyline de cinco a siete mensajes → 3. usar headlines que expresen conclusiones → 4. mostrar evidencia mínima suficiente → 5. ensayar objeciones y cerrar con ask** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** tiempo hasta llegar a la decisión, slides por mensaje, preguntas resueltas en appendix sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** la decisión que se pide y quién la toma antes de diseñar una sola lámina.
+2. **Escribir** títulos que sean afirmaciones comprobables, no temas.
+3. **Elegir** la evidencia mínima que sostiene cada afirmación y descartar el resto.
+4. **Construir** el contraste entre la situación actual y la posible como puente hacia la decisión.
+5. **Anticipar** las tres objeciones más fuertes y preparar la respuesta.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define decision ask y storyline sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con tiempo hasta llegar a la decisión y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué se decidió en la última reunión a la que asististe y quién lo decidió? |
+| 20–60 min | La anatomía de una lámina de decisión y el contraste «es / podría ser». |
+| 60–105 min | Ejemplo trabajado: de una presentación informativa a una de decisión. |
+| 105–140 min | Caso ejecutivo: pedir un presupuesto adicional a un comité. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **decision ask** | acción concreta solicitada a la audiencia | Distingue un hecho compatible y otro que lo refute. |
-| **storyline** | secuencia lógica que conecta problema con recomendación | Distingue un hecho compatible y otro que lo refute. |
-| **slide headline** | título que expresa el punto, no solo el tema | Distingue un hecho compatible y otro que lo refute. |
-| **visual evidence** | gráfico o tabla elegido para sostener una afirmación | Distingue un hecho compatible y otro que lo refute. |
-| **appendix** | material de respaldo para preguntas sin contaminar la narrativa | Distingue un hecho compatible y otro que lo refute. |
+| **Presentación para decidir** | Exposición cuyo objetivo es obtener una decisión concreta de un grupo. | Termina con una petición clara y una fecha. |
+| **Título afirmación** | Título que enuncia la conclusión de la lámina en forma de oración. | Se puede aceptar o rebatir. |
+| **Decisión pedida** | Lo que se solicita al grupo: aprobar, elegir, financiar o desestimar. | Se puede responder con sí, no o una condición. |
+| **Contraste «es / podría ser»** | Distancia entre la situación actual y la deseada que impulsa el cambio (Duarte, 2010). | La audiencia ve qué se gana al decidir. |
+| **Evidencia mínima** | Los datos estrictamente necesarios para sostener una afirmación. | Quitar un dato haría dudosa la afirmación. |
+| **Objeción anticipada** | Reparo previsible de la audiencia, respondido antes de que se formule. | Aparece en el guion con su respuesta. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 028: 1. definir quién decide y qué necesita decidir → 2. construir storyline de cinco a siete mensajes → 3. usar headlines que expresen conclusiones → 4. mostrar evidencia mínima suficiente → 5. ensayar objeciones y cerrar con ask](modelo-mental.svg)
+![Anatomía de una presentación para decidir: una lámina con título afirmación, evidencia mínima y decisión pedida con fecha, y la distancia entre lo actual y lo posible.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir quién decide y qué necesita decidir → 2. construir storyline de cinco a siete mensajes → 3. usar headlines que expresen conclusiones → 4. mostrar evidencia mínima suficiente → 5. ensayar objeciones y cerrar con ask
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Una presentación para decisiones no es una exposición de todo el trabajo realizado. Diseña una secuencia que lleve a una decisión: contexto, tensión, evidencia, opciones, recomendación, riesgos y pedido. Las diapositivas son soporte visual; el razonamiento debe sobrevivir si se leen sin narrador.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todas las decisiones requieren slides. Un memo puede ser superior cuando se necesita precisión, lectura asincrónica o discusión detallada; el medio debe servir al problema.**
+**Cómo leer el diagrama.** Cada lámina de decisión tiene tres partes visibles: un título que afirma, la evidencia que lo respalda y, al pie, la decisión que se pide. Entre una lámina y otra, el recorrido va de «cómo es hoy» a «cómo podría ser». Si una lámina no sirve para ninguna de las tres cosas, sobra.
 
 ## 📖 Desarrollo
 
-### 1. decision ask: mecanismo central
+### 1. Empieza por la decisión, no por las láminas
 
-**decision ask** se entiende aquí como **acción concreta solicitada a la audiencia**. Esta es la pieza causal o estructural desde la que se inicia **presentaciones para decisiones**: antes de definir quién decide y qué necesita decidir, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Antes de abrir el programa de diapositivas, responde tres preguntas: **¿qué decisión pido?**, **¿quién la toma?** y **¿qué necesita saber para tomarla?** Si no puedes responder la primera en una frase, tu presentación aún informa. La respuesta fija el contenido: lo que no ayuda a decidir se queda fuera o va a un anexo.
 
-La lectura rectora de este bloque es Chip Heath & Dan Heath — *Made to Stick*. Su aporte se usa para examinar **diseño de mensajes memorables, concretos y accionables**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **tiempo hasta llegar a la decisión**; regístrala con periodo, unidad, población y baseline.
+### 2. Respuesta primero
 
-Relaciona el mecanismo con **storyline**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Siguiendo el principio de Minto, la presentación comienza con la recomendación y la petición, y continúa con las razones. Quien decide sabe desde el inicio qué se le pide y escucha el resto con esa pregunta en mente. Si se espera resistencia, se puede preparar el contexto, pero sin ocultar la dirección.
 
-### 2. storyline: frontera conceptual y error de clasificación
+### 3. Lo que es y lo que podría ser
 
-**Definición operacional:** secuencia lógica que conecta problema con recomendación. Su valor está en distinguirlo de **decision ask** y **slide headline**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Duarte propone que una presentación que mueve a la acción construye una **tensión** entre dos estados: cómo es la situación hoy y cómo podría ser si se decide. La audiencia es conducida a ver esa distancia y a considerar la decisión como el puente. Alternar ambos estados mantiene el interés y da sentido a cada dato: sirve para mostrar qué se pierde si no se decide.
 
-Contrasta el problema con Robert B. Cialdini — *Influence*, que aporta una mirada sobre **mecanismos de influencia y sus límites éticos**. Formula dos mini-casos: uno que sí satisface la definición de **storyline** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **slides por mensaje** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Títulos que afirman
 
-Antes de construir storyline de cinco a siete mensajes, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un título como «Resultados del tercer trimestre» es un tema. «Los costos de transporte subieron 12 % y explican el 70 % de la caída del margen» es una afirmación: se puede discutir con datos. Escribir los títulos de todas las láminas y leerlos en secuencia debería contar la historia completa de la presentación.
 
-### 3. slide headline: operacionalización y medición
+### 5. Evidencia mínima y diseño sobrio
 
-**slide headline** significa **título que expresa el punto, no solo el tema**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Cada afirmación se sostiene con el dato que la hace creíble y nada más. Un gráfico por lámina, con el mensaje resaltado y sin elementos que no aporten. Cifras con unidad, período y fuente. La densidad de una lámina de decisión es menor que la de un documento: lo que se entrega por escrito no se lee en voz alta.
 
-Chris Voss & Tahl Raz — *Never Split the Difference* orienta este bloque mediante **negociación táctica, escucha, calibración y manejo de información imperfecta**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **preguntas resueltas en appendix**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Anticipar objeciones
 
-Al llegar a usar headlines que expresen conclusiones, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Una presentación para decidir pasa por la prueba de las objeciones. Las tres más frecuentes: **el costo** (¿cuánto y por qué ahora?), **el riesgo** (¿qué puede salir mal y qué hacemos?) y **la alternativa** (¿por qué no otra cosa?). Prepara la respuesta con un dato y decide si va en la presentación o en el anexo. Presentar la alternativa descartada y por qué se descartó evita que la discusión empiece desde cero.
 
-### 4. visual evidence: trade-offs y efectos de segundo orden
+### 7. Los últimos cinco minutos
 
-**Definición:** gráfico o tabla elegido para sostener una afirmación. Este concepto obliga a abandonar la idea de que **presentaciones para decisiones** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de mostrar evidencia mínima suficiente, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* aporta una lente sobre **negociación basada en intereses, opciones y criterios objetivos**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **claridad del ask** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **presentaciones para decisiones**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **visual evidence** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. appendix: gobernanza, límites e integración
-
-**appendix** se define como **material de respaldo para preguntas sin contaminar la narrativa** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Kerry Patterson et al. — *Crucial Conversations* se utiliza para estudiar **perspectiva de Comunicación aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar ensayar objeciones y cerrar con ask, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No todas las decisiones requieren slides. Un memo puede ser superior cuando se necesita precisión, lectura asincrónica o discusión detallada; el medio debe servir al problema.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **decision ask**, **storyline**, **slide headline**, **visual evidence** y **appendix** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **presentaciones para decisiones** no consiste en sumar cinco definiciones. Empieza por **decision ask**, contrasta **storyline** con **slide headline**, incorpora **visual evidence** como restricción o mecanismo y usa **appendix** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir quién decide y qué necesita decidir → 2. construir storyline de cinco a siete mensajes → 3. usar headlines que expresen conclusiones → 4. mostrar evidencia mínima suficiente → 5. ensayar objeciones y cerrar con ask**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La petición se repite al cierre con la fecha de decisión y lo que ocurre con cada respuesta: si se aprueba, qué sigue; si no, qué alternativa hay. Termina con la lámina de decisión, no con una de agradecimiento: quien decide debe tener delante lo que debe resolver mientras discute.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Chip Heath & Dan Heath — *Made to Stick* | diseño de mensajes memorables, concretos y accionables | ¿Qué supuesto de **presentaciones para decisiones** ayuda a desafiar? |
-| Robert B. Cialdini — *Influence* | mecanismos de influencia y sus límites éticos | ¿Qué supuesto de **presentaciones para decisiones** ayuda a desafiar? |
-| Chris Voss & Tahl Raz — *Never Split the Difference* | negociación táctica, escucha, calibración y manejo de información imperfecta | ¿Qué supuesto de **presentaciones para decisiones** ayuda a desafiar? |
-| Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* | negociación basada en intereses, opciones y criterios objetivos | ¿Qué supuesto de **presentaciones para decisiones** ayuda a desafiar? |
-| Kerry Patterson et al. — *Crucial Conversations* | perspectiva de Comunicación aplicada al problema de la clase | ¿Qué supuesto de **presentaciones para decisiones** ayuda a desafiar? |
-
-En **presentaciones para decisiones**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **decision ask**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Duarte (2010) | El contraste entre lo actual y lo posible y la presentación como viaje de la audiencia. | No es una guía de análisis. | ¿Qué distancia muestra tu presentación? |
+| Minto (2005) | Respuesta primero y razones agrupadas. | No trata del diseño visual. | ¿Qué decisión pides en la primera lámina? |
+| Heath y Heath (2007) | Un mensaje simple y concreto. | No estructura la presentación. | ¿Qué recordará la sala mañana? |
+| Cialdini (2016) | Cómo se influye en una decisión y dónde está la frontera ética. | No es un método de presentación. | ¿Qué palanca usas y puedes declararla? |
+| Goleman, Boyatzis y McKee (2002) | El efecto del estado del presentador. | No da una estructura. | ¿Cómo llegas a la sala? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un equipo prepara 45 slides para un comité de 30 minutos. Los primeros 20 explican metodología y la recomendación aparece cuando quedan cinco minutos.
+**Situación (hipotética, con cifras ilustrativas).** Una jefa de logística prepara su presentación al comité sobre cambiar de proveedor de transporte. Su borrador tiene 24 láminas: historia de la empresa, descripción de los tres proveedores, tablas de tarifas y, en la lámina 22, una recomendación.
 
-**Paso 1 — definir quién decide y qué necesita decidir.** La gerencia escribe primero el supuesto asociado a **decision ask** y evita convertirlo en hecho. Luego busca **tiempo hasta llegar a la decisión** para contrastarlo en el caso de **presentaciones para decisiones**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Problema del borrador | Versión para decidir |
+|---|---|
+| Empieza con la historia del área | Empieza con la decisión: «Pedimos aprobar la renovación con el proveedor actual antes del 30 de marzo». |
+| Títulos como «Análisis de tarifas» | «Mantener al proveedor actual cuesta 8 % menos en 3 años». |
+| Tres tablas de tarifas | Un gráfico con los tres costos acumulados y la diferencia resaltada. |
+| Las alternativas aparecen en notas | Una lámina «Por qué no cambiar»: el costo de transición supera el ahorro de los dos primeros años. |
+| Cierra con «Gracias» | Cierra con la decisión pedida, la fecha y lo que ocurre si se aprueba o no. |
 
-**Paso 2 — construir storyline de cinco a siete mensajes.** La gerencia escribe primero el supuesto asociado a **storyline** y evita convertirlo en hecho. Luego busca **slides por mensaje** para contrastarlo en el caso de **presentaciones para decisiones**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** La presentación pasa de 24 a 7 láminas más un anexo. La primera lámina dice qué se pide, y las tres siguientes responden las objeciones de costo, riesgo y alternativa.
 
-**Paso 3 — usar headlines que expresen conclusiones.** La gerencia escribe primero el supuesto asociado a **slide headline** y evita convertirlo en hecho. Luego busca **preguntas resueltas en appendix** para contrastarlo en el caso de **presentaciones para decisiones**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — mostrar evidencia mínima suficiente.** La gerencia escribe primero el supuesto asociado a **visual evidence** y evita convertirlo en hecho. Luego busca **claridad del ask** para contrastarlo en el caso de **presentaciones para decisiones**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — ensayar objeciones y cerrar con ask.** La gerencia escribe primero el supuesto asociado a **appendix** y evita convertirlo en hecho. Luego busca **decisiones pospuestas por ambigüedad** para contrastarlo en el caso de **presentaciones para decisiones**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **presentaciones para decisiones**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Cambiar el orden y los títulos ya mejora la decisión. (2) El anexo conserva el detalle para quien quiera verificar. (3) Cada lámina tiene un propósito para la decisión.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **decision ask** | acción concreta solicitada a la audiencia | Cuando tiempo hasta llegar a la decisión es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **storyline** | secuencia lógica que conecta problema con recomendación | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Presentar para informar frente a presentar para decidir.** Informar requiere completitud; decidir requiere selección. Ambos son legítimos, pero se confunden. Si la reunión es de información, dilo; si es de decisión, no la conviertas en una cuenta de lo que hiciste.
 
-**Frontera de aplicación:** No todas las decisiones requieren slides. Un memo puede ser superior cuando se necesita precisión, lectura asincrónica o discusión detallada; el medio debe servir al problema.
+**Límites.** Estas estructuras son una guía derivada de la práctica de comunicación y de consultoría; su eficacia depende de la audiencia y de la cultura de la organización. Una presentación bien construida no compensa una recomendación mal sustentada. Y las técnicas de influencia deben ser transparentes: la clase 033 desarrolla la frontera entre persuadir y manipular.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre presentaciones para decisiones |
+| Nivel | Cómo presenta |
 |---|---|
-| **Profesional** | usa **presentaciones para decisiones** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **decision ask** y **storyline** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta tiempo hasta llegar a la decisión con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si presentaciones para decisiones cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de presentaciones para decisiones reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **presentaciones para decisiones** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Pide una decisión a su jefatura con la evidencia mínima. |
+| **Jefe / Team Lead** | Presenta el estado de su equipo en función de qué se necesita de otros. |
+| **Gerente** | Defiende presupuestos y cambios con alternativas, costo y riesgo. |
+| **CEO / Director** | Presenta al directorio las decisiones de mayor impacto con una petición exacta. |
+| **Founder / Owner** | Presenta a inversionistas y clientes: su claridad al pedir decide si recibe lo que busca. |
 
 ## 🏢 Caso ejecutivo
 
-Un equipo prepara 45 slides para un comité de 30 minutos. Los primeros 20 explican metodología y la recomendación aparece cuando quedan cinco minutos.
+Una directora de producto necesita que el comité apruebe USD 180.000 adicionales para terminar una funcionalidad que lleva 4 meses de atraso. Hay tres alternativas: aprobar el presupuesto, reducir el alcance o detener el proyecto. Una de las dos vocales del comité tiene mala experiencia con el equipo.
 
-Entrega un **decision brief de presentaciones para decisiones** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega una **presentación de decisión** que contenga: (a) la decisión pedida y quién la toma; (b) los títulos de las láminas como afirmaciones; (c) el contraste entre la situación actual y la posible; (d) la evidencia mínima de cada lámina; (e) las tres objeciones más fuertes con su respuesta; (f) la lámina final con la petición y la fecha.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **presentaciones para decisiones** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir quién decide y qué necesita decidir → 2. construir storyline de cinco a siete mensajes → 3. usar headlines que expresen conclusiones → 4. mostrar evidencia mínima suficiente → 5. ensayar objeciones y cerrar con ask** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta tiempo hasta llegar a la decisión, slides por mensaje; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe en una frase la decisión que pedirás en tu próxima presentación.
+2. Reescribe los títulos de tu último documento como afirmaciones.
+3. Elige una lámina y quita todo lo que no sostiene su afirmación.
+4. Prepara la respuesta a las tres objeciones más fuertes.
+5. Ensaya el primer minuto: ¿queda claro qué se pide?
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar decision ask y storyline como sinónimos | Se pierde la distinción entre “acción concreta solicitada a la audiencia” y “secuencia lógica que conecta problema con recomendación” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “ensayar objeciones y cerrar con ask” | Se saltó “definir quién decide y qué necesita decidir” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir quién decide y qué necesita decidir → 2. construir storyline de cinco a siete mensajes → 3. usar headlines que expresen conclusiones → 4. mostrar evidencia mínima suficiente → 5. ensayar objeciones y cerrar con ask y marca el primer supuesto no demostrado. |
-| Optimizar solo tiempo hasta llegar a la decisión | La métrica local sustituyó al resultado del sistema | Contrástala con slides por mensaje y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre presentaciones para decisiones | No todas las decisiones requieren slides. Un memo puede ser superior cuando se necesita precisión, lectura asincrónica o discusión detallada; el medio debe servir al problema. |
-| No fijar revisión | Una decisión sobre presentaciones para decisiones se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Empezar por los antecedentes | Se sigue el orden del trabajo | Empezar por la decisión que se pide. |
+| Muchas láminas | Se teme omitir | Dejar en la presentación solo lo que decide y mover lo demás al anexo. |
+| Títulos de tema | Se rotula el contenido | Títulos como afirmaciones. |
+| Ocultar la alternativa descartada | Se quiere defender la propia | Presentar la alternativa y por qué no. |
+| Cerrar con «gracias» | Es la convención | Cerrar con la petición y la fecha. |
+| No anticipar objeciones | Se confía en la audiencia | Preparar las tres más fuertes. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **decision ask** y **storyline** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **slide headline** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir quién decide y qué necesita decidir → construir storyline de cinco a siete mensajes** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **tiempo hasta llegar a la decisión** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **presentaciones para decisiones**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No todas las decisiones requieren slides. Un memo puede ser superior cuando se necesita precisión, lectura asincrónica o discusión detallada; el medio debe servir al problema.**?
+1. ¿Qué tres preguntas debes responder antes de diseñar láminas?
+2. ¿Qué diferencia hay entre un título tema y un título afirmación?
+3. ¿Qué es el contraste «es / podría ser» y para qué sirve?
+4. ¿Qué es la evidencia mínima y cómo se decide qué dato queda?
+5. ¿Cuáles son las tres objeciones más frecuentes en una decisión?
+6. ¿Por qué se cierra con la petición y no con un agradecimiento?
+7. ¿Cuándo una presentación debe informar y no decidir?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Qué decisión pido, quién la toma y qué necesita saber para tomarla.
+2. El tema rotula el contenido; la afirmación enuncia la conclusión y puede aceptarse o rebatirse.
+3. La distancia entre la situación actual y la deseada; da sentido a los datos y presenta la decisión como puente.
+4. Los datos estrictamente necesarios para sostener la afirmación; se decide quitando uno y viendo si la afirmación sigue siendo creíble.
+5. El costo, el riesgo y la alternativa.
+6. Porque la sala debe tener delante lo que debe resolver mientras discute.
+7. Cuando el objetivo de la reunión es compartir información y no hay una decisión que tomar; debe declararse así.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/028-presentaciones-para-decisiones/`:
 
-- `leadership-decision-brief.md` con el problema específico de **presentaciones para decisiones**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **presentaciones para decisiones** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **decision ask**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un equipo prepara 45 slides para un comité de 30 minutos. Los primeros 20 explican metodología y la recomendación aparece cuando quedan cinco minutos.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con la presentación del caso ejecutivo;
+- `reading-note.md` con una tensión entre Duarte y Minto y su efecto en tu presentación;
+- `decision-journal.md` con las láminas que eliminaste y por qué.
 
 ## 📗 Fuentes y verificación
 
-- Chip Heath & Dan Heath — *Made to Stick* (Penguin Random House, 2007). **Uso en esta clase:** diseño de mensajes memorables, concretos y accionables. Lectura selectiva sobre **presentaciones para decisiones**. **Localizador:** [ISBN-13 9781905211562](https://openlibrary.org/isbn/9781905211562).
-- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** mecanismos de influencia y sus límites éticos. Lectura selectiva sobre **presentaciones para decisiones**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
-- Chris Voss & Tahl Raz — *Never Split the Difference* (Penguin Random House, 2016). **Uso en esta clase:** negociación táctica, escucha, calibración y manejo de información imperfecta. Lectura selectiva sobre **presentaciones para decisiones**. **Localizador:** [ISBN-13 9781847941480](https://openlibrary.org/isbn/9781847941480).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **presentaciones para decisiones**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Kerry Patterson et al. — *Crucial Conversations* (McGraw Hill, 2012). **Uso en esta clase:** perspectiva de Comunicación aplicada al problema de la clase. Lectura selectiva sobre **presentaciones para decisiones**. **Localizador:** [ISBN-13 9781259005213](https://openlibrary.org/isbn/9781259005213).
-- Nancy Duarte — *Resonate* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseño narrativo de presentaciones que movilizan una audiencia. Lectura selectiva sobre **presentaciones para decisiones**. **Localizador:** [ISBN-13 9781118014875](https://openlibrary.org/isbn/9781118014875).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **presentaciones para decisiones** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **presentaciones para decisiones**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **presentaciones para decisiones** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **presentaciones para decisiones** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **presentaciones para decisiones** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Nancy Duarte — *Resonate* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** el contraste entre lo actual y lo posible y la presentación como viaje de la audiencia. Lectura selectiva sobre **presentaciones para decisiones**. **Localizador:** [ISBN-13 9781118014875](https://openlibrary.org/isbn/9781118014875).
+- Barbara Minto — *The Pyramid Principle* (Financial Times/ Prentice Hall, 2005). **Uso en esta clase:** respuesta primero y razones agrupadas. Lectura selectiva sobre **presentaciones para decisiones**. **Localizador:** [ISBN-13 9781405822145](https://openlibrary.org/isbn/9781405822145).
+- Chip Heath & Dan Heath — *Made to Stick* (Penguin Random House, 2007). **Uso en esta clase:** un mensaje simple y concreto. Lectura selectiva sobre **presentaciones para decisiones**. **Localizador:** [ISBN-13 9781905211562](https://openlibrary.org/isbn/9781905211562).
+- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** cómo se influye en una decisión y la frontera ética. Lectura selectiva sobre **presentaciones para decisiones**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
+- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** el efecto del estado del presentador. Lectura selectiva sobre **presentaciones para decisiones**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
 
-> **Regla de fuentes para Presentaciones para decisiones:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **presentaciones para decisiones** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Presentaciones para decisiones:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

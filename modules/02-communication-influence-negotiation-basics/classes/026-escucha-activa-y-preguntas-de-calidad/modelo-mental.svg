@@ -1,84 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 620.24" width="1040" role="img" aria-labelledby="t-g26 d-g26" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g26">Ficha visual de la clase 026: Escucha activa y preguntas de calidad</title>
-<desc id="d-g26">Conceptos: pregunta abierta; paráfrasis; inferencia; silencio; humble inquiry. Método: suspender consejo inmediato → pedir hechos y perspectiva → parafrasear y comprobar → explorar inferencias y emociones relevantes → resumir acuerdos, desacuerdos y siguiente paso.</desc>
-<defs><marker id="p-g26" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="620.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#1a7f37"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 026 · Escucha activa y preguntas de calidad</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 02 · Autoliderazgo y fundamentos ejecutivos</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#1a7f37"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >pregunta abierta</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >invita explicación sin restringir a sí/no</text>
-<circle cx="38" cy="170" r="5" fill="#1a7f37"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >paráfrasis</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >reexpresión del contenido para comprobar comprensión</text>
-<circle cx="38" cy="228" r="5" fill="#1a7f37"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >inferencia</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >significado añadido por el oyente más allá de lo dicho</text>
-<circle cx="38" cy="286" r="5" fill="#1a7f37"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >silencio</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >espacio que permite elaboración y reduce respuesta</text>
-<text x="54" y="325.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >automática</text>
-<circle cx="38" cy="358.12" r="5" fill="#1a7f37"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >humble inquiry</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >preguntar desde curiosidad genuina sin usar la pregunta</text>
-<text x="54" y="397.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >como afirmación disfrazada</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#1a7f37"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >suspender consejo</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >inmediato</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#1a7f37"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >pedir hechos y</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >perspectiva</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#1a7f37"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >parafrasear y</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >comprobar</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#1a7f37"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >explorar</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >inferencias y</text>
-<text x="880" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >emociones</text>
-<text x="880" y="292.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >relevantes</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#1a7f37"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >resumir acuerdos,</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >desacuerdos y</text>
-<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >siguiente paso</text>
-<path d="M638,139 L656,139" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g26)"/>
-<path d="M826,139 L844,139" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g26)"/>
-<path d="M929,176 L929,222" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g26)"/>
-<path d="M844,259 L826,259" stroke="#1a7f37" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g26)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#1a7f37" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g26)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="267.5" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ratio preguntas versus afirmaciones</text>
-<rect x="305.5" y="456.24" width="233" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="318.5" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="329.5" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >correcciones de interpretación</text>
-<rect x="548.5" y="456.24" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="561.5" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="572.5" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >información nueva emergida</text>
-<rect x="763.9" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="776.9" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="787.9" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >acuerdos confirmados</text>
-<rect x="28" y="488.24" width="288.2" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="501.24" r="3.5" fill="#1a7f37"/>
-<text x="52" y="505.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >conflictos reabiertos por mala escucha</text>
-<rect x="28" y="534.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="534.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="554.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="572.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Escuchar no implica convertir cada conversación en terapia ni renunciar a decidir. En incidentes urgentes puede ser necesario actuar</text>
-<text x="48" y="589.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >primero; luego se recupera contexto.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" width="1040" role="img" aria-labelledby="t-026 d-026" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-026">Cuatro tipos de pregunta según cuánto controla quien pregunta</title>
+<desc id="d-026">Indagación humilde, diagnóstica, confrontacional y de proceso: cada una con su pregunta típica, su función y su riesgo.</desc>
+<defs><marker id="p-026" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="560" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 026 · Preguntar para entender, no para confirmar</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Schein (2013)</text>
+<rect x="28" y="96" width="232" height="340" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<path d="M28,134 V108 a12,12 0 0 1 12,-12 H248 a12,12 0 0 1 12,12 V134 Z" fill="#1a7f37"/>
+<text x="44" y="121" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" letter-spacing="1.2">HUMILDE</text>
+<text x="44" y="160" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Pregunta típica</text>
+<text x="44" y="178" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start" >¿Qué pasó? ¿Cómo lo ves</text>
+<text x="44" y="197.32" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start" >tú?</text>
+<text x="44" y="230.64" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Qué hace</text>
+<text x="44" y="248.64" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Invita a hablar sin dirigir.</text>
+<text x="44" y="265.89" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Se pregunta algo que no se</text>
+<text x="44" y="283.14" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >sabe.</text>
+<text x="44" y="312.39" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Riesgo</text>
+<text x="44" y="330.39" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Puede dispersarse si no hay</text>
+<text x="44" y="347.64" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >foco.</text>
+<rect x="284" y="96" width="232" height="340" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M284,134 V108 a12,12 0 0 1 12,-12 H504 a12,12 0 0 1 12,12 V134 Z" fill="#0969da"/>
+<text x="300" y="121" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" letter-spacing="1.2">DIAGNÓSTICA</text>
+<text x="300" y="160" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Pregunta típica</text>
+<text x="300" y="178" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start" >¿Qué sentiste? ¿Por qué</text>
+<text x="300" y="197.32" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start" >crees que ocurrió?</text>
+<text x="300" y="230.64" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Qué hace</text>
+<text x="300" y="248.64" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Dirige la atención hacia</text>
+<text x="300" y="265.89" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >causas o emociones del otro.</text>
+<text x="300" y="295.14" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Riesgo</text>
+<text x="300" y="313.14" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Puede inducir una</text>
+<text x="300" y="330.39" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >explicación.</text>
+<rect x="540" y="96" width="232" height="340" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M540,134 V108 a12,12 0 0 1 12,-12 H760 a12,12 0 0 1 12,12 V134 Z" fill="#bc4c00"/>
+<text x="556" y="121" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" letter-spacing="1.2">CONFRONTACIONAL</text>
+<text x="556" y="160" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Pregunta típica</text>
+<text x="556" y="178" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start" >¿Has pensado en probar</text>
+<text x="556" y="197.32" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start" >otra cosa?</text>
+<text x="556" y="230.64" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Qué hace</text>
+<text x="556" y="248.64" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Introduce la idea de quien</text>
+<text x="556" y="265.89" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >pregunta en forma de</text>
+<text x="556" y="283.14" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >pregunta.</text>
+<text x="556" y="312.39" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Riesgo</text>
+<text x="556" y="330.39" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Es una opinión disfrazada;</text>
+<text x="556" y="347.64" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >puede cerrar la</text>
+<text x="556" y="364.89" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >conversación.</text>
+<rect x="796" y="96" width="232" height="340" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<path d="M796,134 V108 a12,12 0 0 1 12,-12 H1016 a12,12 0 0 1 12,12 V134 Z" fill="#8250df"/>
+<text x="812" y="121" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" letter-spacing="1.2">DE PROCESO</text>
+<text x="812" y="160" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Pregunta típica</text>
+<text x="812" y="178" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start" >¿Cómo vamos en esta</text>
+<text x="812" y="197.32" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start" >conversación?</text>
+<text x="812" y="230.64" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Qué hace</text>
+<text x="812" y="248.64" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Se pregunta por la</text>
+<text x="812" y="265.89" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >conversación misma.</text>
+<text x="812" y="295.14" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Riesgo</text>
+<text x="812" y="313.14" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Mal usada, evade el</text>
+<text x="812" y="330.39" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >contenido.</text>
+<path d="M28,470 L1012,470" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-026)"/>
+<text x="28" y="494" font-size="12" font-weight="600" fill="#59636e" text-anchor="start" >más abierta, más información del otro</text>
+<text x="1012" y="494" font-size="12" font-weight="600" fill="#59636e" text-anchor="end" >más dirigida por quien pregunta</text>
+<text x="28" y="528" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Regla de la clase: empieza humilde. Pasa a un tipo más dirigido solo después de haber escuchado, y dilo en voz alta.</text>
 </svg>

@@ -1,68 +1,75 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 648.48" width="1040" role="img" aria-labelledby="t-g36 d-g36" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g36">Ficha visual de la clase 036: Capstone: comunicar una decisión impopular</title>
-<desc id="d-g36">Conceptos: decisión impopular; criterio; impacto humano; Q&amp;A; consistencia. Método: preparar razones y alternativas consideradas → nombrar decisión temprano → explicar criterio y límites → reconocer impacto sin falsa promesa → abrir preguntas y documentar seguimiento.</desc>
-<defs><marker id="p-g36" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="648.48" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#1a7f37"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 036 · Capstone: comunicar una decisión impopular</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 02 · Autoliderazgo y fundamentos ejecutivos</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#1a7f37"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >decisión impopular</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >elección legítima que impone costos a parte de los</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >stakeholders</text>
-<circle cx="38" cy="184.12" r="5" fill="#1a7f37"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >criterio</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >regla usada para comparar alternativas</text>
-<circle cx="38" cy="242.12" r="5" fill="#1a7f37"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >impacto humano</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >efecto sobre carga, seguridad, rol, identidad o</text>
-<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >confianza</text>
-<circle cx="38" cy="314.24" r="5" fill="#1a7f37"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Q&amp;A</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >espacio de aclaración que no reabre una decisión</text>
-<text x="54" y="353.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >cerrada salvo nueva evidencia</text>
-<circle cx="38" cy="386.36" r="5" fill="#1a7f37"/>
-<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >consistencia</text>
-<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >coherencia entre mensaje, políticas y acciones</text>
-<text x="54" y="425.92" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >posteriores</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#1a7f37" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#1a7f37"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >preparar razones y alternativas consideradas</text>
-<circle cx="485" cy="176" r="14" fill="#1a7f37"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >nombrar decisión temprano</text>
-<circle cx="485" cy="230" r="14" fill="#1a7f37"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >explicar criterio y límites</text>
-<circle cx="485" cy="284" r="14" fill="#1a7f37"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >reconocer impacto sin falsa promesa</text>
-<circle cx="485" cy="338" r="14" fill="#1a7f37"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >abrir preguntas y documentar seguimiento</text>
-<text x="28" y="472.48" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="484.48" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="497.48" r="3.5" fill="#1a7f37"/>
-<text x="52" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >comprensión de la decisión</text>
-<rect x="243.4" y="484.48" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="256.4" cy="497.48" r="3.5" fill="#1a7f37"/>
-<text x="267.4" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >rumores posteriores</text>
-<rect x="410.5" y="484.48" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="423.5" cy="497.48" r="3.5" fill="#1a7f37"/>
-<text x="434.5" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >preguntas sin respuesta</text>
-<rect x="605.2" y="484.48" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="618.2" cy="497.48" r="3.5" fill="#1a7f37"/>
-<text x="629.2" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >rotación o compromiso</text>
-<rect x="28" y="516.48" width="226.1" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="529.48" r="3.5" fill="#1a7f37"/>
-<text x="52" y="533.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >acciones prometidas cumplidas</text>
-<rect x="28" y="562.48" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="562.48" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="582.48" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="600.48" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Transparencia tiene límites legítimos por privacidad, negociación o información sensible. Explica tanto como sea posible sin inventar</text>
-<text x="48" y="617.73" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >certeza ni divulgar datos que no corresponde compartir.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 600" width="1040" role="img" aria-labelledby="t-036 d-036" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-036">Cuatro formas de justicia en una decisión impopular</title>
+<desc id="d-036">Distributiva, procedimental, interpersonal e informacional: lo que las personas evalúan al recibir una decisión que las perjudica, y qué debe contener el anuncio.</desc>
+<defs><marker id="p-036" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="600" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 036 · Comunicar una decisión que no gusta</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Colquitt et al. (2001)</text>
+<rect x="28" y="92" width="232" height="230" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<path d="M28,130 V104 a12,12 0 0 1 12,-12 H248 a12,12 0 0 1 12,12 V130 Z" fill="#cf222e"/>
+<text x="44" y="117" font-size="12.5" font-weight="800" fill="#ffffff" text-anchor="start" letter-spacing="1">DISTRIBUTIVA</text>
+<text x="44" y="158" font-size="14.5" font-weight="700" fill="#1f2328" text-anchor="start" >¿Es justo el resultado?</text>
+<text x="44" y="214" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Qué debe contener el anuncio</text>
+<text x="44" y="232" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Qué cambia, para quién y en</text>
+<text x="44" y="249.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >qué medida; sin eufemismos.</text>
+<rect x="284" y="92" width="232" height="230" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M284,130 V104 a12,12 0 0 1 12,-12 H504 a12,12 0 0 1 12,12 V130 Z" fill="#bc4c00"/>
+<text x="300" y="117" font-size="12.5" font-weight="800" fill="#ffffff" text-anchor="start" letter-spacing="1">PROCEDIMENTAL</text>
+<text x="300" y="158" font-size="14.5" font-weight="700" fill="#1f2328" text-anchor="start" >¿Fue justo el proceso?</text>
+<text x="300" y="214" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Qué debe contener el anuncio</text>
+<text x="300" y="232" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Cómo se decidió, qué</text>
+<text x="300" y="249.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >alternativas se evaluaron y</text>
+<text x="300" y="266.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >quién participó.</text>
+<rect x="540" y="92" width="232" height="230" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M540,130 V104 a12,12 0 0 1 12,-12 H760 a12,12 0 0 1 12,12 V130 Z" fill="#0969da"/>
+<text x="556" y="117" font-size="12.5" font-weight="800" fill="#ffffff" text-anchor="start" letter-spacing="1">INTERPERSONAL</text>
+<text x="556" y="158" font-size="14.5" font-weight="700" fill="#1f2328" text-anchor="start" >¿Me trataron con</text>
+<text x="556" y="178.01" font-size="14.5" font-weight="700" fill="#1f2328" text-anchor="start" >respeto?</text>
+<text x="556" y="214" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Qué debe contener el anuncio</text>
+<text x="556" y="232" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Trato digno, sincero y</text>
+<text x="556" y="249.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cuidadoso al comunicar.</text>
+<rect x="796" y="92" width="232" height="230" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<path d="M796,130 V104 a12,12 0 0 1 12,-12 H1016 a12,12 0 0 1 12,12 V130 Z" fill="#1a7f37"/>
+<text x="812" y="117" font-size="12.5" font-weight="800" fill="#ffffff" text-anchor="start" letter-spacing="1">INFORMACIONAL</text>
+<text x="812" y="158" font-size="14.5" font-weight="700" fill="#1f2328" text-anchor="start" >¿Se explicó con</text>
+<text x="812" y="178.01" font-size="14.5" font-weight="700" fill="#1f2328" text-anchor="start" >claridad?</text>
+<text x="812" y="214" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" >Qué debe contener el anuncio</text>
+<text x="812" y="232" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Razones honestas, oportunas</text>
+<text x="812" y="249.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >y suficientes.</text>
+<text x="28" y="356" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">SECUENCIA DEL ANUNCIO</text>
+<rect x="28" y="372" width="182.4" height="76" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.4" />
+<circle cx="46.0" cy="390" r="11" fill="#59636e"/>
+<text x="46" y="394.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="64" y="394" font-size="12" font-weight="600" fill="#1f2328" text-anchor="start" >Primero a los más</text>
+<text x="64" y="410.56" font-size="12" font-weight="600" fill="#1f2328" text-anchor="start" >afectados</text>
+<path d="M212.4,410 L226.4,410" stroke="#59636e" stroke-width="1.8" fill="none" stroke-linecap="round"  marker-end="url(#p-036)"/>
+<rect x="228.4" y="372" width="182.4" height="76" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.4" />
+<circle cx="246.4" cy="390" r="11" fill="#59636e"/>
+<text x="246.4" y="394.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="264.4" y="394" font-size="12" font-weight="600" fill="#1f2328" text-anchor="start" >Hecho y resultado,</text>
+<text x="264.4" y="410.56" font-size="12" font-weight="600" fill="#1f2328" text-anchor="start" >sin rodeos</text>
+<path d="M412.8,410 L426.8,410" stroke="#59636e" stroke-width="1.8" fill="none" stroke-linecap="round"  marker-end="url(#p-036)"/>
+<rect x="428.8" y="372" width="182.4" height="76" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.4" />
+<circle cx="446.8" cy="390" r="11" fill="#59636e"/>
+<text x="446.8" y="394.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="464.8" y="394" font-size="12" font-weight="600" fill="#1f2328" text-anchor="start" >Proceso y razones</text>
+<path d="M613.2,410 L627.2,410" stroke="#59636e" stroke-width="1.8" fill="none" stroke-linecap="round"  marker-end="url(#p-036)"/>
+<rect x="629.2" y="372" width="182.4" height="76" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.4" />
+<circle cx="647.2" cy="390" r="11" fill="#59636e"/>
+<text x="647.2" y="394.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="665.2" y="394" font-size="12" font-weight="600" fill="#1f2328" text-anchor="start" >Qué viene y qué se</text>
+<text x="665.2" y="410.56" font-size="12" font-weight="600" fill="#1f2328" text-anchor="start" >hará por ellos</text>
+<path d="M813.6,410 L827.6,410" stroke="#59636e" stroke-width="1.8" fill="none" stroke-linecap="round"  marker-end="url(#p-036)"/>
+<rect x="829.6" y="372" width="182.4" height="76" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.4" />
+<circle cx="847.6" cy="390" r="11" fill="#59636e"/>
+<text x="847.6" y="394.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="865.6" y="394" font-size="12" font-weight="600" fill="#1f2328" text-anchor="start" >Canal para preguntas</text>
+<text x="865.6" y="410.56" font-size="12" font-weight="600" fill="#1f2328" text-anchor="start" >y fecha de</text>
+<text x="865.6" y="427.12" font-size="12" font-weight="600" fill="#1f2328" text-anchor="start" >seguimiento</text>
+<rect x="28" y="466" width="984" height="60" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="488" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Colquitt et al. hallaron que las cuatro dimensiones se distinguen y se relacionan con distintos resultados: explicar bien no compensa</text>
+<text x="44" y="505.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >un proceso injusto ni un trato irrespetuoso.</text>
+<text x="28" y="566" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Es un metaanálisis de investigación organizacional: indica qué evalúan las personas, no garantiza su aceptación.</text>
 </svg>

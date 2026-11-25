@@ -10,217 +10,184 @@
 
 ## 🎯 Propósito
 
-El conflicto productivo confronta ideas, prioridades y supuestos sin degradar dignidad ni seguridad. Requiere reglas que permitan disentir y luego comprometerse con la decisión. Evitar todo conflicto produce acuerdos superficiales; permitir conflicto personal destruye información y confianza.
+Muchos equipos tratan todo conflicto como una falla y hacen lo posible por evitarlo. La investigación sobre grupos muestra algo más matizado: **hay conflictos que mejoran las decisiones y otros que las destruyen**, y se diferencian por su objeto. Discutir sobre cómo resolver una tarea puede ser productivo; discutir sobre quién es quién, casi nunca lo es.
 
-La salida de esta parte es **convertir comunicación, influencia y negociación en sistemas de decisión y relación**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **conflicto productivo** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase se apoya en el estudio de Karen Jehn sobre conflicto de tarea y de relación en grupos de trabajo, en la noción de seguridad psicológica de Amy Edmondson y en el enfoque de intereses de Fisher, Ury y Patton. Al terminar sabrás clasificar un conflicto, mantener el debate en la tarea, evitar que se vuelva personal y llevar la discusión desde posiciones a intereses.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `conflicto de tarea`, `conflicto relacional`, `disenso`, `commitment`, `norma de conflicto` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. nombrar tema y objetivo común → 2. separar persona de argumento → 3. pedir evidencia y alternativa → 4. usar un decisor o regla de cierre → 5. registrar decisión y desacuerdo residual** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** ideas alternativas consideradas, decisiones reabiertas, ataques personales sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** conflicto de tarea y de relación.
+2. **Explicar** qué mostró la investigación sobre sus efectos y bajo qué condiciones.
+3. **Conducir** un debate de tarea separando personas y problema.
+4. **Pasar** de posiciones a intereses en una discusión.
+5. **Detectar** cuando un conflicto de tarea se está contaminando de conflicto personal.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define conflicto de tarea y conflicto relacional sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con ideas alternativas consideradas y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda una discusión de trabajo que mejoró una decisión y otra que la empeoró; ¿qué las diferenció? |
+| 20–60 min | Tipos de conflicto, evidencia de Jehn y cuadrante de la clase. |
+| 60–105 min | Ejemplo trabajado: un desacuerdo de prioridades convertido en debate de tarea. |
+| 105–140 min | Caso ejecutivo: un equipo directivo dividido. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **conflicto de tarea** | desacuerdo sobre contenido, prioridades o método | Distingue un hecho compatible y otro que lo refute. |
-| **conflicto relacional** | tensión centrada en identidad, respeto o intención | Distingue un hecho compatible y otro que lo refute. |
-| **disenso** | expresión explícita de una alternativa o objeción | Distingue un hecho compatible y otro que lo refute. |
-| **commitment** | apoyo a la ejecución después de una decisión legítima | Distingue un hecho compatible y otro que lo refute. |
-| **norma de conflicto** | regla compartida sobre cómo se debate y se cierra | Distingue un hecho compatible y otro que lo refute. |
+| **Conflicto de tarea** | Desacuerdo sobre el contenido del trabajo: ideas, criterios, opiniones (Jehn, 1995). | Se discute qué hacer y cómo. |
+| **Conflicto de relación** | Incompatibilidad entre personas, con tensión y fricción afectiva (Jehn, 1995). | Se discute sobre las personas. |
+| **Seguridad psicológica** | Creencia compartida de que el equipo es seguro para correr riesgos interpersonales (Edmondson, 2018). | Se puede decir lo que se piensa sin temor a castigo. |
+| **Posición** | Lo que una parte exige. | «Quiero entregar el viernes.» |
+| **Interés** | La necesidad o preocupación que explica la posición (Fisher, Ury y Patton, 1983). | «Necesito que el cliente reciba antes del cierre.» |
+| **Separar personas y problema** | Tratar el desacuerdo como un problema compartido, no como una disputa entre personas. | Se habla del criterio y no de quién lo propone. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 032: 1. nombrar tema y objetivo común → 2. separar persona de argumento → 3. pedir evidencia y alternativa → 4. usar un decisor o regla de cierre → 5. registrar decisión y desacuerdo residual](modelo-mental.svg)
+![Conflicto de tarea y conflicto de relación: un cuadrante con debate productivo, conflicto tóxico, falta de contraste y conflicto personal, y lo que muestra la evidencia sobre cada tipo.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. nombrar tema y objetivo común → 2. separar persona de argumento → 3. pedir evidencia y alternativa → 4. usar un decisor o regla de cierre → 5. registrar decisión y desacuerdo residual
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El conflicto productivo confronta ideas, prioridades y supuestos sin degradar dignidad ni seguridad. Requiere reglas que permitan disentir y luego comprometerse con la decisión. Evitar todo conflicto produce acuerdos superficiales; permitir conflicto personal destruye información y confianza.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todos los desacuerdos merecen consenso. La organización necesita derechos de decisión claros; debate abierto sin mecanismo de cierre consume energía y crea ambigüedad.**
+**Cómo leer el diagrama.** El eje horizontal es el nivel de conflicto de relación; el vertical, el de tarea. La zona verde —mucho conflicto de tarea, poco de relación— es el debate productivo. La roja ocurre cuando el desacuerdo de tarea se mezcla con conflicto personal. Ausencia total de conflicto de tarea no es necesariamente buena: puede significar que nadie discute alternativas.
 
 ## 📖 Desarrollo
 
-### 1. conflicto de tarea: mecanismo central
+### 1. Qué dos conflictos hay
 
-**conflicto de tarea** se entiende aquí como **desacuerdo sobre contenido, prioridades o método**. Esta es la pieza causal o estructural desde la que se inicia **conflicto productivo**: antes de nombrar tema y objetivo común, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Jehn distinguió el conflicto de **tarea** —desacuerdos sobre ideas, opiniones y criterios del trabajo— del conflicto de **relación** —tensión interpersonal, fricción y sentimientos negativos—. La distinción es analítica; en la práctica se mezclan. Pero es útil porque cada tipo tiene un efecto distinto y exige una respuesta distinta.
 
-La lectura rectora de este bloque es Chip Heath & Dan Heath — *Made to Stick*. Su aporte se usa para examinar **diseño de mensajes memorables, concretos y accionables**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **ideas alternativas consideradas**; regístrala con periodo, unidad, población y baseline.
+### 2. Qué encontró la investigación
 
-Relaciona el mecanismo con **conflicto relacional**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+En su estudio de grupos de trabajo, Jehn halló que el conflicto de relación se asoció a **menor satisfacción** y a menor desempeño. El conflicto de tarea, en cambio, podía asociarse a **mejores resultados** en tareas no rutinarias, particularmente en niveles moderados, y no tanto en tareas rutinarias. El efecto dependía también del tipo de tarea y de la presencia simultánea de conflicto de relación. Los resultados son de grupos concretos y orientan, no son una ley.
 
-### 2. conflicto relacional: frontera conceptual y error de clasificación
+### 3. Por qué el desacuerdo de tarea ayuda
 
-**Definición operacional:** tensión centrada en identidad, respeto o intención. Su valor está en distinguirlo de **conflicto de tarea** y **disenso**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Un debate sobre una tarea compleja obliga a explicitar supuestos, a considerar alternativas y a detectar errores. Un grupo en el que todos están de acuerdo desde el inicio puede dejar de examinar lo que no ve. Sin embargo, el debate solo sirve si las personas se sienten seguras de discrepar, y ahí entra la seguridad psicológica.
 
-Contrasta el problema con Robert B. Cialdini — *Influence*, que aporta una mirada sobre **mecanismos de influencia y sus límites éticos**. Formula dos mini-casos: uno que sí satisface la definición de **conflicto relacional** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **decisiones reabiertas** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Seguridad psicológica
 
-Antes de separar persona de argumento, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Edmondson define la seguridad psicológica como la creencia compartida de que el equipo es seguro para asumir riesgos interpersonales: preguntar, admitir un error, disentir. Es la condición para que el conflicto de tarea ocurra y para que no se convierta en personal. Un jefe que castiga la discrepancia elimina el debate y el aprendizaje; uno que la pide y agradece la hace posible.
 
-### 3. disenso: operacionalización y medición
+### 5. Cuando el debate se vuelve personal
 
-**disenso** significa **expresión explícita de una alternativa o objeción**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Hay señales de que un conflicto de tarea se está contaminando: se atribuyen motivos («lo dices para quedar bien»), aparecen generalizaciones («siempre»), se discute quién propone y no qué se propone, o alguien deja de hablar. Es el momento de detenerse y devolver la conversación al asunto: nombrar el criterio en discusión («estamos discutiendo la prioridad del cliente A») y separar a las personas del problema.
 
-Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* orienta este bloque mediante **perspectiva de Comunicación aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **ataques personales**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. De posiciones a intereses
 
-Al llegar a pedir evidencia y alternativa, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Fisher, Ury y Patton proponen discutir **intereses** y no posiciones. Dos personas que piden «entregar el viernes» y «entregar el lunes» tienen posiciones opuestas; sus intereses —cumplir con el cliente, tener calidad— pueden ser compatibles. Preguntar «¿qué necesitas que ocurra?» abre opciones que la posición oculta. Después, se generan alternativas y se elige con criterios objetivos.
 
-### 4. commitment: trade-offs y efectos de segundo orden
+### 7. Cerrar el debate
 
-**Definición:** apoyo a la ejecución después de una decisión legítima. Este concepto obliga a abandonar la idea de que **conflicto productivo** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de usar un decisor o regla de cierre, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Nancy Duarte — *Resonate* aporta una lente sobre **diseño narrativo de presentaciones que movilizan una audiencia**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **participación desigual** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **conflicto productivo**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **commitment** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. norma de conflicto: gobernanza, límites e integración
-
-**norma de conflicto** se define como **regla compartida sobre cómo se debate y se cierra** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Dale Carnegie — *How to Win Friends and Influence People* se utiliza para estudiar **perspectiva de Comunicación aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar registrar decisión y desacuerdo residual, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No todos los desacuerdos merecen consenso. La organización necesita derechos de decisión claros; debate abierto sin mecanismo de cierre consume energía y crea ambigüedad.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **conflicto de tarea**, **conflicto relacional**, **disenso**, **commitment** y **norma de conflicto** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **conflicto productivo** no consiste en sumar cinco definiciones. Empieza por **conflicto de tarea**, contrasta **conflicto relacional** con **disenso**, incorpora **commitment** como restricción o mecanismo y usa **norma de conflicto** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. nombrar tema y objetivo común → 2. separar persona de argumento → 3. pedir evidencia y alternativa → 4. usar un decisor o regla de cierre → 5. registrar decisión y desacuerdo residual**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un conflicto productivo termina en una **decisión clara**, con razones expuestas y un responsable, aun si no todos están de acuerdo. La regla de la clase: *disentir y comprometerse*. Quien disintió expone su razón y luego actúa con el equipo. Revisar más adelante con evidencia nueva es legítimo; reabrir la discusión sin evidencia, no.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Chip Heath & Dan Heath — *Made to Stick* | diseño de mensajes memorables, concretos y accionables | ¿Qué supuesto de **conflicto productivo** ayuda a desafiar? |
-| Robert B. Cialdini — *Influence* | mecanismos de influencia y sus límites éticos | ¿Qué supuesto de **conflicto productivo** ayuda a desafiar? |
-| Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* | perspectiva de Comunicación aplicada al problema de la clase | ¿Qué supuesto de **conflicto productivo** ayuda a desafiar? |
-| Nancy Duarte — *Resonate* | diseño narrativo de presentaciones que movilizan una audiencia | ¿Qué supuesto de **conflicto productivo** ayuda a desafiar? |
-| Dale Carnegie — *How to Win Friends and Influence People* | perspectiva de Comunicación aplicada al problema de la clase | ¿Qué supuesto de **conflicto productivo** ayuda a desafiar? |
-
-En **conflicto productivo**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **conflicto de tarea**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Jehn (1995) | Distinción y efectos del conflicto de tarea y de relación. | Es un estudio con una muestra concreta. | ¿Tu último desacuerdo era de tarea o de relación? |
+| Edmondson (2018) | La seguridad psicológica como condición. | No da una técnica de debate. | ¿Quién calla en tu equipo y por qué? |
+| Fisher, Ury y Patton (1983) | Intereses en lugar de posiciones. | No trata de equipos estables. | ¿Qué interés hay tras la posición del otro? |
+| Stone, Patton y Heen (1999) | Cómo conducir la parte emocional. | No clasifica conflictos. | ¿Sobre qué conversación discuten? |
+| Patterson et al. (2012) | Mantener el diálogo cuando hay mucho en juego. | No distingue tipos. | ¿Cuándo se vuelve peligroso hablar? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Producto quiere lanzar en dos semanas; seguridad exige seis. Ambos equipos repiten posiciones y escalan el conflicto como 'ellos no entienden el negocio'.
+**Situación (hipotética).** Un equipo directivo discute si lanzar un producto en abril o esperar a septiembre. El gerente comercial insiste en abril; la gerente de operaciones, en septiembre. La discusión se calienta: «a ti solo te importa tu bono» / «tú nunca asumes un riesgo».
 
-**Paso 1 — nombrar tema y objetivo común.** La gerencia escribe primero el supuesto asociado a **conflicto de tarea** y evita convertirlo en hecho. Luego busca **ideas alternativas consideradas** para contrastarlo en el caso de **conflicto productivo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diagnóstico.** Hay conflicto de tarea (fecha y riesgo) y de relación (atribución de motivos). El debate se contaminó.
 
-**Paso 2 — separar persona de argumento.** La gerencia escribe primero el supuesto asociado a **conflicto relacional** y evita convertirlo en hecho. Luego busca **decisiones reabiertas** para contrastarlo en el caso de **conflicto productivo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Intervención del director.**
 
-**Paso 3 — pedir evidencia y alternativa.** La gerencia escribe primero el supuesto asociado a **disenso** y evita convertirlo en hecho. Luego busca **ataques personales** para contrastarlo en el caso de **conflicto productivo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+1. *Nombra el asunto:* «Estamos decidiendo la fecha de lanzamiento. Dejemos de hablar de motivos.»
+2. *Separa posiciones de intereses.* Comercial: no perder la ventana de ventas de otoño. Operaciones: no lanzar con una capacidad de entrega insuficiente.
+3. *Genera alternativas:* lanzar en abril solo en una región; lanzar en junio con una fase piloto; esperar a septiembre.
+4. *Elige con criterios objetivos:* capacidad de entrega comprobada, ventas esperadas, riesgo reputacional.
+5. *Decide y registra:* piloto regional en junio; la gerente de operaciones certificará la capacidad antes de ampliar.
 
-**Paso 4 — usar un decisor o regla de cierre.** La gerencia escribe primero el supuesto asociado a **commitment** y evita convertirlo en hecho. Luego busca **participación desigual** para contrastarlo en el caso de **conflicto productivo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — registrar decisión y desacuerdo residual.** La gerencia escribe primero el supuesto asociado a **norma de conflicto** y evita convertirlo en hecho. Luego busca **tiempo hasta commitment** para contrastarlo en el caso de **conflicto productivo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **conflicto productivo**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Reconocer el tipo de conflicto permitió devolver la discusión a la tarea. (2) Los intereses eran compatibles. (3) La decisión quedó con un responsable y con un criterio de revisión.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **conflicto de tarea** | desacuerdo sobre contenido, prioridades o método | Cuando ideas alternativas consideradas es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **conflicto relacional** | tensión centrada en identidad, respeto o intención | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Conflicto frente a falta de acuerdo.** Un conflicto de tarea bien conducido puede terminar en acuerdo o en una decisión con disenso. No siempre debe resolverse buscando consenso: a veces la decisión corresponde a un responsable.
 
-**Frontera de aplicación:** No todos los desacuerdos merecen consenso. La organización necesita derechos de decisión claros; debate abierto sin mecanismo de cierre consume energía y crea ambigüedad.
+**Límites.** El estudio de Jehn es una investigación de grupos específicos y la relación entre conflicto de tarea y desempeño depende del tipo de tarea y de otras variables; no hay un nivel óptimo universal. Distinguir tarea y relación en la práctica es difícil, porque se alimentan entre sí. Y en entornos donde hay una asimetría de poder fuerte, el «debate abierto» puede ser una ficción si las personas temen consecuencias.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre conflicto productivo |
+| Nivel | Cómo trabaja el conflicto |
 |---|---|
-| **Profesional** | usa **conflicto productivo** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **conflicto de tarea** y **conflicto relacional** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta ideas alternativas consideradas con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si conflicto productivo cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de conflicto productivo reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **conflicto productivo** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Discute el contenido, no a la persona, y pide el criterio detrás de una posición. |
+| **Jefe / Team Lead** | Provoca el desacuerdo de tarea y protege la seguridad de quien discrepa. |
+| **Gerente** | Conduce el conflicto entre áreas hacia intereses y decisiones. |
+| **CEO / Director** | Fomenta el debate en el equipo directivo y decide cuando el disenso persiste. |
+| **Founder / Owner** | Aborda con socios los conflictos de relación antes de que dañen el negocio. |
 
 ## 🏢 Caso ejecutivo
 
-Producto quiere lanzar en dos semanas; seguridad exige seis. Ambos equipos repiten posiciones y escalan el conflicto como 'ellos no entienden el negocio'.
+El comité ejecutivo de una empresa de servicios se divide sobre si abrir una sucursal en una nueva ciudad. La gerente de finanzas se opone por el costo; el gerente comercial dice que «si no crecemos, nos quedamos atrás». Dos directores dejaron de hablarse. El gerente general debe tomar la decisión en tres semanas.
 
-Entrega un **decision brief de conflicto productivo** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de conducción del conflicto** que contenga: (a) clasificación de lo que es de tarea y lo que es de relación, con hechos; (b) las posiciones y los intereses de cada parte; (c) cómo restablecerás la seguridad psicológica; (d) las alternativas y los criterios objetivos de elección; (e) cómo cerrarás con una decisión y un responsable; (f) cuándo y con qué evidencia se revisará.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **conflicto productivo** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. nombrar tema y objetivo común → 2. separar persona de argumento → 3. pedir evidencia y alternativa → 4. usar un decisor o regla de cierre → 5. registrar decisión y desacuerdo residual** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta ideas alternativas consideradas, decisiones reabiertas; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Clasifica los tres últimos desacuerdos de tu equipo como de tarea, de relación o mixtos.
+2. Para uno, escribe las posiciones y los intereses de cada parte.
+3. Escribe tres frases que devuelvan una discusión personal a la tarea.
+4. Identifica quién calla en tu equipo y qué haces tú que lo explica.
+5. Redacta cómo comunicarás una decisión con disenso: razones, responsable y fecha de revisión.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar conflicto de tarea y conflicto relacional como sinónimos | Se pierde la distinción entre “desacuerdo sobre contenido, prioridades o método” y “tensión centrada en identidad, respeto o intención” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “registrar decisión y desacuerdo residual” | Se saltó “nombrar tema y objetivo común” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. nombrar tema y objetivo común → 2. separar persona de argumento → 3. pedir evidencia y alternativa → 4. usar un decisor o regla de cierre → 5. registrar decisión y desacuerdo residual y marca el primer supuesto no demostrado. |
-| Optimizar solo ideas alternativas consideradas | La métrica local sustituyó al resultado del sistema | Contrástala con decisiones reabiertas y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre conflicto productivo | No todos los desacuerdos merecen consenso. La organización necesita derechos de decisión claros; debate abierto sin mecanismo de cierre consume energía y crea ambigüedad. |
-| No fijar revisión | Una decisión sobre conflicto productivo se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Evitar todo conflicto | Se lo asocia a mal clima | Provocar el desacuerdo de tarea y proteger a quien discrepa. |
+| Dejar que se vuelva personal | Se pierde el control del asunto | Nombrar el asunto y separar personas y problema. |
+| Discutir posiciones | Es lo visible | Preguntar por intereses. |
+| Buscar siempre consenso | Se teme decidir | Decidir con razones expuestas y un responsable. |
+| Reabrir sin evidencia | Se insiste en la posición | Revisar solo con evidencia nueva. |
+| Ignorar el poder | Se supone igualdad | Reconocer la asimetría y reforzar la seguridad. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **conflicto de tarea** y **conflicto relacional** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **disenso** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **nombrar tema y objetivo común → separar persona de argumento** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **ideas alternativas consideradas** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **conflicto productivo**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No todos los desacuerdos merecen consenso. La organización necesita derechos de decisión claros; debate abierto sin mecanismo de cierre consume energía y crea ambigüedad.**?
+1. ¿Qué diferencia hay entre conflicto de tarea y de relación?
+2. ¿Qué efectos asoció Jehn a cada uno?
+3. ¿Por qué la seguridad psicológica es condición del conflicto productivo?
+4. ¿Qué señales muestran que un debate de tarea se está volviendo personal?
+5. ¿Qué diferencia hay entre una posición y un interés? Da un ejemplo.
+6. ¿Qué significa «disentir y comprometerse»?
+7. ¿Qué límite tiene el estudio de Jehn?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El de tarea es sobre el contenido del trabajo; el de relación, sobre las personas y la fricción afectiva.
+2. El de relación se asoció a menor satisfacción y desempeño; el de tarea, en tareas no rutinarias y en niveles moderados, a mejores resultados.
+3. Porque permite discrepar sin temor a castigo, que es lo que hace posible el debate sin que se vuelva personal.
+4. Atribución de motivos, generalizaciones («siempre»), discusión sobre quién propone y no sobre qué se propone, y personas que dejan de hablar.
+5. La posición es lo que se exige; el interés, la necesidad que la explica. «Entregar el viernes» frente a «que el cliente reciba antes del cierre».
+6. Quien discrepó expone su razón y luego actúa con el equipo según la decisión.
+7. Es un estudio de grupos concretos; el efecto depende del tipo de tarea y de otras variables, y no hay un nivel óptimo universal.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/032-conflicto-productivo/`:
 
-- `leadership-decision-brief.md` con el problema específico de **conflicto productivo**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **conflicto productivo** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **conflicto de tarea**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Producto quiere lanzar en dos semanas; seguridad exige seis. Ambos equipos repiten posiciones y escalan el conflicto como 'ellos no entienden el negocio'.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan de conducción del caso ejecutivo;
+- `reading-note.md` con una tensión entre Jehn y Edmondson;
+- `decision-journal.md` con la clasificación, las posiciones e intereses y la decisión.
 
 ## 📗 Fuentes y verificación
 
-- Chip Heath & Dan Heath — *Made to Stick* (Penguin Random House, 2007). **Uso en esta clase:** diseño de mensajes memorables, concretos y accionables. Lectura selectiva sobre **conflicto productivo**. **Localizador:** [ISBN-13 9781905211562](https://openlibrary.org/isbn/9781905211562).
-- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** mecanismos de influencia y sus límites éticos. Lectura selectiva sobre **conflicto productivo**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
-- Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* (Random House Audio, 1999). **Uso en esta clase:** perspectiva de Comunicación aplicada al problema de la clase. Lectura selectiva sobre **conflicto productivo**. **Localizador:** [ISBN-13 9780553525687](https://openlibrary.org/isbn/9780553525687).
-- Nancy Duarte — *Resonate* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseño narrativo de presentaciones que movilizan una audiencia. Lectura selectiva sobre **conflicto productivo**. **Localizador:** [ISBN-13 9781118014875](https://openlibrary.org/isbn/9781118014875).
-- Dale Carnegie — *How to Win Friends and Influence People* (Min zhu yu jian she chu ban she, 2004). **Uso en esta clase:** perspectiva de Comunicación aplicada al problema de la clase. Lectura selectiva sobre **conflicto productivo**. **Localizador:** [ISBN-13 9787801121820](https://openlibrary.org/isbn/9787801121820).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **conflicto productivo**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **conflicto productivo** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **conflicto productivo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **conflicto productivo** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **conflicto productivo** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **conflicto productivo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Karen A. Jehn — *A Multimethod Examination of the Benefits and Detriments of Intragroup Conflict* (Administrative Science Quarterly, 1995). **Uso en esta clase:** conflicto de tarea y de relación y sus efectos. Lectura selectiva sobre **conflicto productivo**. **Localizador:** [DOI 10.2307/2393638](https://doi.org/10.2307/2393638).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica como condición del debate. Lectura selectiva sobre **conflicto productivo**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
+- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** intereses en lugar de posiciones y separación de personas y problema. Lectura selectiva sobre **conflicto productivo**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
+- Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* (Random House Audio, 1999). **Uso en esta clase:** conducir la parte emocional del conflicto. Lectura selectiva sobre **conflicto productivo**. **Localizador:** [ISBN-13 9780553525687](https://openlibrary.org/isbn/9780553525687).
+- Kerry Patterson et al. — *Crucial Conversations* (McGraw Hill, 2012). **Uso en esta clase:** mantener el diálogo cuando hay mucho en juego. Lectura selectiva sobre **conflicto productivo**. **Localizador:** [ISBN-13 9781259005213](https://openlibrary.org/isbn/9781259005213).
 
-> **Regla de fuentes para Conflicto productivo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **conflicto productivo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Conflicto productivo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

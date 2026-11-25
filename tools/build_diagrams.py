@@ -30,6 +30,9 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(RAIZ / "tools"))
 import diagramas_clase  # noqa: E402
+import diagramas_parte02  # noqa: E402
+
+DIAGRAMAS = {**diagramas_clase.DIAGRAMAS, **diagramas_parte02.DIAGRAMAS}
 
 INI = "<!-- modelo:inicio -->"
 FIN = "<!-- modelo:fin -->"
@@ -84,8 +87,8 @@ def calcular() -> dict[Path, str]:
         y = (clase / "lesson.yaml").read_text(encoding="utf-8")
         titulo = re.search(r'^title:\s*"?(.*?)"?\s*$', y, re.M).group(1)
         svg = clase / ARCHIVO
-        if numero in diagramas_clase.DIAGRAMAS:
-            escribir[svg] = diagramas_clase.DIAGRAMAS[numero]()
+        if numero in DIAGRAMAS:
+            escribir[svg] = DIAGRAMAS[numero]()
             if f"]({ARCHIVO})" not in texto:
                 raise SystemExit(f"{readme.relative_to(RAIZ)}: el README no enlaza {ARCHIVO}")
             continue

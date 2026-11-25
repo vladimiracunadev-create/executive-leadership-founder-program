@@ -4,43 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **gravitas** de **claridad** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **composure** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **credibilidad** con **adaptabilidad**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre presencia ejecutiva e imagen profesional?
+2. ¿Qué dos desigualdades ordenan la clase?
+3. ¿Qué variables componen el ajuste de contexto?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** En un comité, un gerente conoce el tema pero responde con diez minutos de contexto antes de contestar. El directorio interpreta falta de dominio y pierde confianza pese a que los datos son correctos.
+**Caso:** Un gerente nuevo debe presentar los resultados del año ante un directorio de siete personas, tres de ellas de otro país y una que asiste por videoconferencia. Es su primera presentación al directorio. Sus resultados son mixtos: un buen margen, una caída de ventas. Está nervioso y su jefe le sugiere «proyectar más autoridad».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **preparar tres mensajes y datos clave → regular ritmo, respiración y lenguaje → responder primero a la pregunta central → declarar incertidumbre y compromiso de seguimiento → solicitar feedback sobre impacto real**. Debes utilizar o diseñar cómo obtener **respuestas evasivas, tiempo para llegar al punto, follow-ups cumplidos**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **análisis de contexto** que contenga: (a) las variables del contexto y qué investigarás de cada una; (b) el objetivo de la presentación y las tres ideas que la sostienen; (c) las decisiones de presentación personal y de canal con su función; (d) cómo hablarás de la caída de ventas sin disfrazarla; (e) qué observarás y cómo evitarás interpretar de más la reacción del directorio; (f) un ajuste que preserve tu identidad. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Trabajar presencia no debe imponer un molde cultural o físico único ni penalizar introversión, neurodiversidad, discapacidad, edad, género, origen cultural, rasgos físicos o estilos de comunicación no dominantes. Evalúa claridad, criterio, comportamiento y adaptación; no belleza, precio, conformidad estética ni teatralidad.**
-
-## E. Aplicación contextual — evidencia integrada
-
-Elige **uno** de estos contextos: entrevista, reunión con cliente, comité ejecutivo, directorio, presentación técnica, networking, conferencia o videoconferencia. Entrega una matriz `Context → Evidence → Adjustment → Review` que:
-
-1. distinga imagen profesional, estilo, apariencia, presencia ejecutiva, reputación y competencia;
-2. justifique formalidad, vestuario, cuidado, accesorios y entorno por función y contexto, no por precio o estereotipo;
-3. proponga un ajuste verbal, uno no verbal y uno de videoconferencia o espacio;
-4. declare un riesgo de sesgo, autenticidad o accesibilidad y cómo lo mitiga;
-5. solicite feedback sobre claridad, coherencia y adaptación, nunca sobre atractivo físico.
-
-Este bloque se califica dentro de precisión conceptual, diagnóstico/evidencia y fuentes/comunicación; no añade ponderación ni reemplaza el caso actual.
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: La evidencia sobre el efecto de la apariencia en el trabajo es contextual y no permite recetas; la lectura no verbal es probabilística y depende de la cultura y de la persona; y las guías de formalidad son convenciones locales.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

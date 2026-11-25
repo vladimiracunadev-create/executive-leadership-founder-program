@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **reciprocidad** de **prueba social** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **autoridad** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **escasez** con **coerción**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Cuáles son los seis principios de influencia de Cialdini?
+2. ¿Qué dos preguntas distinguen persuasión, manipulación y coerción?
+3. Da un uso legítimo y un abuso de la escasez.
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un proveedor afirma que una oferta expira 'hoy' aunque sabe que puede extenderla. El comprador siente presión por escasez artificial y no compara alternativas.
+**Caso:** Un gerente de proyectos necesita que otras tres áreas cedan personal durante dos meses para un lanzamiento. No tiene autoridad sobre ellas. Dos jefes se oponen; uno de ellos le debe un favor. La fecha del lanzamiento es real y tiene penalizaciones contractuales. El director general apoya el lanzamiento, pero no ha dicho que obligará a nadie.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir interés legítimo de la audiencia → seleccionar evidencia relevante → hacer visibles costos y alternativas → usar influencia sin ocultar información material → dejar espacio real para disentir o rechazar**. Debes utilizar o diseñar cómo obtener **conversión informada, objeciones resueltas sin ocultarlas, retractaciones posteriores**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de influencia** que contenga: (a) los intereses de cada área y los tuyos, declarados; (b) las palancas y tácticas que usarás y por qué son legítimas; (c) la clasificación de cada conducta con las dos pruebas; (d) lo que no harás; (e) cómo reaccionarías si alguien usa una palanca sobre ti; (f) cuándo y cómo escalarás con transparencia. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **La influencia deja de ser ética cuando usa falsedad, urgencia fabricada, amenaza impropia o vulnerabilidad. El resultado comercial no justifica deteriorar autonomía o confianza.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los principios de Cialdini se han desarrollado a partir de estudios y de observación de prácticas de venta y marketing; su peso relativo varía con la cultura y el contexto.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

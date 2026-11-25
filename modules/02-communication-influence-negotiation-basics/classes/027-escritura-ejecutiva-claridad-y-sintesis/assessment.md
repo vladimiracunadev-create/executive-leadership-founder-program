@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **bottom line** de **pirámide** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **MECE** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **claim** con **appendix**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué dice el principio de la pirámide y por qué beneficia al lector que decide?
+2. ¿Qué tres elementos tiene la introducción?
+3. ¿Qué significa que las ideas de un grupo sean excluyentes y exhaustivas?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un gerente envía seis páginas de antecedentes antes de revelar en el último párrafo que necesita aprobar 80 millones de presupuesto al día siguiente.
+**Caso:** Una gerente debe proponer al comité de inversiones la compra de una máquina que reduce costos pero exige 18 meses de recuperación. Hay tres alternativas: comprar, arrendar o postergar. Sus supuestos de demanda son inciertos. Le piden un memo de dos páginas para la sesión del jueves.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir decisión del lector → escribir conclusión provisional → agrupar razones en 2–4 argumentos → adjuntar evidencia a cada claim → editar redundancia y cerrar con acción**. Debes utilizar o diseñar cómo obtener **tiempo de lectura, preguntas que el memo deja abiertas, claims sin evidencia**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **memo ejecutivo** que contenga: (a) introducción con situación, complicación y pregunta; (b) la recomendación en una frase; (c) tres líneas clave sin solaparse; (d) los datos y supuestos de cada línea, con fuente; (e) los riesgos y lo que cambiaría la recomendación; (f) un anexo con lo que no cabe en las dos páginas. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **La pirámide no debe ocultar incertidumbre ni forzar una conclusión antes de analizar. Es una estructura de comunicación, no una excusa para cherry-picking.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: La pirámide supone un lector que debe decidir y que confía en que el autor ya hizo el análisis.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

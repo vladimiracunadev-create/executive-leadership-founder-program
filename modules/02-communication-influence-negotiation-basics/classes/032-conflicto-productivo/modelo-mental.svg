@@ -1,64 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" width="1040" role="img" aria-labelledby="t-g32 d-g32" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g32">Ficha visual de la clase 032: Conflicto productivo</title>
-<desc id="d-g32">Conceptos: conflicto de tarea; conflicto relacional; disenso; commitment; norma de conflicto. Método: nombrar tema y objetivo común → separar persona de argumento → pedir evidencia y alternativa → usar un decisor o regla de cierre → registrar decisión y desacuerdo residual.</desc>
-<defs><marker id="p-g32" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="560" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#1a7f37"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 032 · Conflicto productivo</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 02 · Autoliderazgo y fundamentos ejecutivos</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#1a7f37"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >conflicto de tarea</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >desacuerdo sobre contenido, prioridades o método</text>
-<circle cx="38" cy="170" r="5" fill="#1a7f37"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >conflicto relacional</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >tensión centrada en identidad, respeto o intención</text>
-<circle cx="38" cy="228" r="5" fill="#1a7f37"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >disenso</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >expresión explícita de una alternativa o objeción</text>
-<circle cx="38" cy="286" r="5" fill="#1a7f37"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >commitment</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >apoyo a la ejecución después de una decisión legítima</text>
-<circle cx="38" cy="344" r="5" fill="#1a7f37"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >norma de conflicto</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >regla compartida sobre cómo se debate y se cierra</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#1a7f37" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#1a7f37"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >nombrar tema y objetivo común</text>
-<circle cx="485" cy="176" r="14" fill="#1a7f37"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >separar persona de argumento</text>
-<circle cx="485" cy="230" r="14" fill="#1a7f37"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >pedir evidencia y alternativa</text>
-<circle cx="485" cy="284" r="14" fill="#1a7f37"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >usar un decisor o regla de cierre</text>
-<circle cx="485" cy="338" r="14" fill="#1a7f37"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >registrar decisión y desacuerdo residual</text>
-<text x="28" y="416" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="428" width="239.9" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="441" r="3.5" fill="#1a7f37"/>
-<text x="52" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ideas alternativas consideradas</text>
-<rect x="277.9" y="428" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="290.9" cy="441" r="3.5" fill="#1a7f37"/>
-<text x="301.9" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decisiones reabiertas</text>
-<rect x="458.8" y="428" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="471.8" cy="441" r="3.5" fill="#1a7f37"/>
-<text x="482.8" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ataques personales</text>
-<rect x="619" y="428" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="632" cy="441" r="3.5" fill="#1a7f37"/>
-<text x="643" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >participación desigual</text>
-<rect x="806.8" y="428" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="819.8" cy="441" r="3.5" fill="#1a7f37"/>
-<text x="830.8" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >tiempo hasta commitment</text>
-<rect x="28" y="474" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="474" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="494" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="512" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No todos los desacuerdos merecen consenso. La organización necesita derechos de decisión claros; debate abierto sin mecanismo de</text>
-<text x="48" y="529.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cierre consume energía y crea ambigüedad.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 600" width="1040" role="img" aria-labelledby="t-032 d-032" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-032">Conflicto de tarea y conflicto de relación</title>
+<desc id="d-032">Cuadrante según haya poco o mucho conflicto de tarea y de relación: el debate sobre la tarea puede ayudar; el conflicto personal tiende a dañar.</desc>
+<defs><marker id="p-032" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="600" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 032 · Discutir la tarea sin atacar a la persona</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Jehn (1995)</text>
+<rect x="130" y="92" width="250" height="170" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="130" y="92" width="250" height="36" rx="12" fill="#1a7f37"/>
+<text x="146" y="116" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Debate productivo</text>
+<text x="146" y="154" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >Se discuten ideas y criterios</text>
+<text x="146" y="171.94" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >sin que se vuelva personal.</text>
+<rect x="392" y="92" width="250" height="170" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<rect x="392" y="92" width="250" height="36" rx="12" fill="#cf222e"/>
+<text x="408" y="116" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Conflicto tóxico</text>
+<text x="408" y="154" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >La discusión sobre la tarea</text>
+<text x="408" y="171.94" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >se mezcla con ataques</text>
+<text x="408" y="189.88" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >personales.</text>
+<rect x="130" y="274" width="250" height="170" rx="12" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<rect x="130" y="274" width="250" height="36" rx="12" fill="#59636e"/>
+<text x="146" y="298" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Falta de contraste</text>
+<text x="146" y="336" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >Nadie discute: pueden pasar</text>
+<text x="146" y="353.94" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >por alto alternativas.</text>
+<rect x="392" y="274" width="250" height="170" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="392" y="274" width="250" height="36" rx="12" fill="#bc4c00"/>
+<text x="408" y="298" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Conflicto personal</text>
+<text x="408" y="336" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >La tensión es entre personas,</text>
+<text x="408" y="353.94" font-size="13" font-weight="400" fill="#1f2328" text-anchor="start" >con poca discusión de fondo.</text>
+<text x="386" y="472" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle" >CONFLICTO DE RELACIÓN:   poco                         mucho</text>
+<text transform="translate(86,268) rotate(-90)" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle">CONFLICTO DE TAREA:   mucho  ←  poco</text>
+<text x="700" y="100" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ MUESTRA LA EVIDENCIA</text>
+<rect x="700" y="116" width="312" height="108" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.6" />
+<rect x="700" y="116" width="6" height="108" rx="3" fill="#1a7f37"/>
+<text x="718" y="138" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Tarea</text>
+<text x="718" y="156" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >En tareas no rutinarias, un nivel</text>
+<text x="718" y="173.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >moderado de conflicto de tarea se</text>
+<text x="718" y="190.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >asoció a mejor decisión.</text>
+<rect x="700" y="238" width="312" height="108" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
+<rect x="700" y="238" width="6" height="108" rx="3" fill="#cf222e"/>
+<text x="718" y="260" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Relación</text>
+<text x="718" y="278" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >El conflicto de relación se asoció a</text>
+<text x="718" y="295.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >menor satisfacción y a menor desempeño</text>
+<text x="718" y="312.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >del grupo.</text>
+<rect x="700" y="360" width="312" height="108" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
+<rect x="700" y="360" width="6" height="108" rx="3" fill="#bc4c00"/>
+<text x="718" y="382" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Condición</text>
+<text x="718" y="400" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Aun el debate de tarea se vuelve dañino</text>
+<text x="718" y="417.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >cuando se contamina de conflicto</text>
+<text x="718" y="434.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >personal.</text>
+<rect x="28" y="482" width="984" height="56" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="504" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Práctica: nombra el asunto («el plazo», «el criterio»), separa a la persona del problema y pregunta por los intereses detrás de cada</text>
+<text x="44" y="521.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >posición.</text>
+<text x="28" y="566" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Jehn estudió equipos de trabajo; el efecto depende del tipo de tarea y del nivel de conflicto. No hay un nivel «óptimo» universal.</text>
 </svg>

@@ -10,217 +10,181 @@
 
 ## 🎯 Propósito
 
-Escuchar activamente significa obtener una representación suficientemente fiel de la perspectiva del otro antes de responder. Incluye preguntas abiertas, paráfrasis, silencios, test de inferencias y resumen. Su objetivo no es estar de acuerdo, sino reducir errores de interpretación y descubrir información que una defensa prematura ocultaría.
+La mayoría de los directivos cree que escucha, y la mayoría hace otra cosa: espera su turno, prepara la respuesta o escucha lo que confirma lo que ya pensaba. Quien lidera depende de información que nadie le ofrece espontáneamente, porque quien la tiene sabe que al jefe no siempre le gusta oírla. Escuchar bien es, antes que una cortesía, una **herramienta para obtener esa información**.
 
-La salida de esta parte es **convertir comunicación, influencia y negociación en sistemas de decisión y relación**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **escucha activa y preguntas de calidad** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase enseña a preguntar para entender y no para confirmar. Su base es la indagación humilde de Edgar Schein y su clasificación de tipos de pregunta, complementada con las observaciones de Stone, Patton y Heen sobre lo que impide escuchar. Al terminar sabrás elegir qué tipo de pregunta hacer, en qué orden y cómo comprobar que entendiste.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `pregunta abierta`, `paráfrasis`, `inferencia`, `silencio`, `humble inquiry` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. suspender consejo inmediato → 2. pedir hechos y perspectiva → 3. parafrasear y comprobar → 4. explorar inferencias y emociones relevantes → 5. resumir acuerdos, desacuerdos y siguiente paso** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** ratio preguntas versus afirmaciones, correcciones de interpretación, información nueva emergida sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** indagación humilde y distinguirla de las otras tres formas de preguntar.
+2. **Reconocer** cuándo una pregunta es en realidad una opinión disfrazada.
+3. **Formular** preguntas abiertas que obtengan hechos, y comprobar tu comprensión resumiendo.
+4. **Detectar** tus propios obstáculos para escuchar: juicio, solución prematura, defensa.
+5. **Conducir** una conversación de diagnóstico de un problema de trabajo sin imponer tu interpretación.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define pregunta abierta y paráfrasis sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con ratio preguntas versus afirmaciones y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda una conversación donde hablaste más de lo que querías; ¿qué te impidió preguntar? |
+| 20–60 min | Los cuatro tipos de pregunta y el diagrama de la clase. |
+| 60–100 min | Ejemplo trabajado: la misma conversación con preguntas dirigidas y con preguntas humildes. |
+| 100–135 min | Caso ejecutivo: una reunión de diagnóstico con un equipo que no habla. |
+| 135–150 min | Límites del enfoque y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **pregunta abierta** | invita explicación sin restringir a sí/no | Distingue un hecho compatible y otro que lo refute. |
-| **paráfrasis** | reexpresión del contenido para comprobar comprensión | Distingue un hecho compatible y otro que lo refute. |
-| **inferencia** | significado añadido por el oyente más allá de lo dicho | Distingue un hecho compatible y otro que lo refute. |
-| **silencio** | espacio que permite elaboración y reduce respuesta automática | Distingue un hecho compatible y otro que lo refute. |
-| **humble inquiry** | preguntar desde curiosidad genuina sin usar la pregunta como afirmación disfrazada | Distingue un hecho compatible y otro que lo refute. |
+| **Indagación humilde** | El arte de hacer salir al otro con preguntas a las que no se conoce la respuesta, desde un interés genuino en la persona (Schein, 2013). | La pregunta no lleva una respuesta ya decidida. |
+| **Indagación diagnóstica** | Dirige la atención del otro hacia sus emociones, motivos o causas. | «¿Por qué crees que ocurrió?» |
+| **Indagación confrontacional** | Introduce una idea del que pregunta, formulada como pregunta. | «¿Has pensado en hacerlo de otra forma?» |
+| **Indagación de proceso** | Pregunta por la conversación misma. | «¿Cómo vamos en esta reunión?» |
+| **Escucha activa** | Atender para comprender, no para responder, y comprobar la comprensión resumiendo con las palabras del otro. | Se puede resumir lo dicho y el otro lo confirma. |
+| **Solución prematura** | Ofrecer respuestas antes de haber entendido el problema. | La conversación se cierra con un consejo no pedido. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 026: 1. suspender consejo inmediato → 2. pedir hechos y perspectiva → 3. parafrasear y comprobar → 4. explorar inferencias y emociones relevantes → 5. resumir acuerdos, desacuerdos y siguiente paso](modelo-mental.svg)
+![Cuatro tipos de pregunta según cuánto controla quien pregunta: humilde, diagnóstica, confrontacional y de proceso, con su pregunta típica, su función y su riesgo.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. suspender consejo inmediato → 2. pedir hechos y perspectiva → 3. parafrasear y comprobar → 4. explorar inferencias y emociones relevantes → 5. resumir acuerdos, desacuerdos y siguiente paso
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Escuchar activamente significa obtener una representación suficientemente fiel de la perspectiva del otro antes de responder. Incluye preguntas abiertas, paráfrasis, silencios, test de inferencias y resumen. Su objetivo no es estar de acuerdo, sino reducir errores de interpretación y descubrir información que una defensa prematura ocultaría.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Escuchar no implica convertir cada conversación en terapia ni renunciar a decidir. En incidentes urgentes puede ser necesario actuar primero; luego se recupera contexto.**
+**Cómo leer el diagrama.** De izquierda a derecha aumenta el control que ejerce quien pregunta. La clase propone empezar por la izquierda, y pasar a un tipo más dirigido solo después de haber escuchado y **avisándolo**: «tengo una idea, ¿quieres oírla?». Una pregunta confrontacional no es mala; es una opinión, y conviene llamarla así.
 
 ## 📖 Desarrollo
 
-### 1. pregunta abierta: mecanismo central
+### 1. Por qué no escuchamos
 
-**pregunta abierta** se entiende aquí como **invita explicación sin restringir a sí/no**. Esta es la pieza causal o estructural desde la que se inicia **escucha activa y preguntas de calidad**: antes de suspender consejo inmediato, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Stone, Patton y Heen observan que en una conversación difícil solemos escuchar con una conversación interna paralela: preparamos la defensa, juzgamos o buscamos al culpable. Esa atención dividida deja de captar lo que el otro dice. A ello se suma la **posición**: quien tiene más poder recibe menos información verdadera porque los demás filtran lo que dicen. Escuchar con poder exige más esfuerzo, no menos.
 
-La lectura rectora de este bloque es Chip Heath & Dan Heath — *Made to Stick*. Su aporte se usa para examinar **diseño de mensajes memorables, concretos y accionables**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **ratio preguntas versus afirmaciones**; regístrala con periodo, unidad, población y baseline.
+### 2. La indagación humilde
 
-Relaciona el mecanismo con **paráfrasis**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Schein la define como una forma de preguntar que nace de la **curiosidad** y de la conciencia de que no sabemos qué pasa en la cabeza del otro. Es *humilde* porque reconoce la dependencia: para actuar bien necesitamos información que solo el otro tiene. La pregunta humilde no contiene la respuesta que se espera. Compare «¿No cree que deberíamos entregar el viernes?» —que sugiere— con «¿Qué necesitaría para entregar el viernes?» —que invita—.
 
-### 2. paráfrasis: frontera conceptual y error de clasificación
+### 3. Los cuatro tipos de pregunta
 
-**Definición operacional:** reexpresión del contenido para comprobar comprensión. Su valor está en distinguirlo de **pregunta abierta** y **inferencia**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Schein distingue cuatro formas de preguntar, según cuánto dirige quien pregunta la atención del otro. La **humilde** abre sin dirigir. La **diagnóstica** orienta hacia las emociones o las causas del otro. La **confrontacional** introduce la idea propia en forma de pregunta. La **de proceso** pregunta por la marcha de la conversación. No son buenas o malas: cada una tiene un momento y un riesgo, y la clase pide ser consciente de cuál se usa.
 
-Contrasta el problema con Robert B. Cialdini — *Influence*, que aporta una mirada sobre **mecanismos de influencia y sus límites éticos**. Formula dos mini-casos: uno que sí satisface la definición de **paráfrasis** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **correcciones de interpretación** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Escuchar es comprobar
 
-Antes de pedir hechos y perspectiva, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La escucha activa incluye un acto verificable: **resumir** con las palabras del otro y preguntar «¿entendí bien?». Resumir tiene dos efectos: el otro se siente oído y el que escucha detecta lo que no entendió. Un buen resumen no repite palabra por palabra ni agrega interpretación: devuelve el contenido y, si es pertinente, la emoción.
 
-### 3. inferencia: operacionalización y medición
+### 5. Preguntas de calidad
 
-**inferencia** significa **significado añadido por el oyente más allá de lo dicho**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Una pregunta de calidad es **abierta** (no se responde con sí o no), **específica** (pide un ejemplo, una secuencia o una cifra) y **sin carga** (no insinúa juicio). Funciona mejor al pedir hechos —«cuéntame la última vez que ocurrió»— que opiniones generales —«¿qué piensas de la comunicación?»—. Evita el «por qué» acusatorio y reemplázalo por «¿qué llevó a…?».
 
-Edgar H. Schein — *Humble Inquiry* orienta este bloque mediante **preguntas que reducen jerarquía defensiva y mejoran información**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **información nueva emergida**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Silencio, ritmo y poder
 
-Al llegar a parafrasear y comprobar, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El silencio tras una pregunta no es un vacío; es el tiempo que la otra persona necesita para pensar y decidir si dice lo que realmente piensa. Un líder que llena el silencio con su propia respuesta enseña que preguntar es una formalidad. Contar hasta cinco antes de hablar de nuevo cambia la calidad de la información que llega.
 
-### 4. silencio: trade-offs y efectos de segundo orden
+### 7. Qué hacer con lo que oyes
 
-**Definición:** espacio que permite elaboración y reduce respuesta automática. Este concepto obliga a abandonar la idea de que **escucha activa y preguntas de calidad** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de explorar inferencias y emociones relevantes, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* aporta una lente sobre **negociación basada en intereses, opciones y criterios objetivos**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **acuerdos confirmados** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **escucha activa y preguntas de calidad**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **silencio** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. humble inquiry: gobernanza, límites e integración
-
-**humble inquiry** se define como **preguntar desde curiosidad genuina sin usar la pregunta como afirmación disfrazada** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Kerry Patterson et al. — *Crucial Conversations* se utiliza para estudiar **perspectiva de Comunicación aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar resumir acuerdos, desacuerdos y siguiente paso, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Escuchar no implica convertir cada conversación en terapia ni renunciar a decidir. En incidentes urgentes puede ser necesario actuar primero; luego se recupera contexto.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **pregunta abierta**, **paráfrasis**, **inferencia**, **silencio** y **humble inquiry** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **escucha activa y preguntas de calidad** no consiste en sumar cinco definiciones. Empieza por **pregunta abierta**, contrasta **paráfrasis** con **inferencia**, incorpora **silencio** como restricción o mecanismo y usa **humble inquiry** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. suspender consejo inmediato → 2. pedir hechos y perspectiva → 3. parafrasear y comprobar → 4. explorar inferencias y emociones relevantes → 5. resumir acuerdos, desacuerdos y siguiente paso**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Escuchar crea una expectativa: que algo ocurrirá con lo dicho. Cierra el circuito: agradece, resume lo que haces y lo que no, y vuelve con una fecha. Si no puedes actuar sobre algo, dilo; el silencio posterior se interpreta como indiferencia y desalienta la próxima respuesta honesta.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Chip Heath & Dan Heath — *Made to Stick* | diseño de mensajes memorables, concretos y accionables | ¿Qué supuesto de **escucha activa y preguntas de calidad** ayuda a desafiar? |
-| Robert B. Cialdini — *Influence* | mecanismos de influencia y sus límites éticos | ¿Qué supuesto de **escucha activa y preguntas de calidad** ayuda a desafiar? |
-| Edgar H. Schein — *Humble Inquiry* | preguntas que reducen jerarquía defensiva y mejoran información | ¿Qué supuesto de **escucha activa y preguntas de calidad** ayuda a desafiar? |
-| Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* | negociación basada en intereses, opciones y criterios objetivos | ¿Qué supuesto de **escucha activa y preguntas de calidad** ayuda a desafiar? |
-| Kerry Patterson et al. — *Crucial Conversations* | perspectiva de Comunicación aplicada al problema de la clase | ¿Qué supuesto de **escucha activa y preguntas de calidad** ayuda a desafiar? |
-
-En **escucha activa y preguntas de calidad**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **pregunta abierta**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Schein (2013) | Indagación humilde y los cuatro tipos de pregunta. | No es una técnica para negociar. | ¿Cuál fue tu última pregunta y de qué tipo era? |
+| Stone, Patton y Heen (1999) | Obstáculos internos para escuchar y la conversación sobre identidad. | No clasifica preguntas. | ¿Qué conversación interna tenías mientras el otro hablaba? |
+| Patterson et al. (2012) | Crear seguridad para que el otro hable. | No profundiza en la pregunta. | ¿Qué hace que alguien no diga lo que piensa ante ti? |
+| Goleman, Boyatzis y McKee (2002) | Empatía como parte del liderazgo. | No da un método de preguntas. | ¿Qué emoción acompañaba lo que dijo? |
+| Fisher, Ury y Patton (1983) | Preguntar por intereses y no por posiciones. | Parte de la negociación. | ¿Qué interés hay detrás de lo que te piden? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una colaboradora dice 'no puedo seguir con este proyecto'. Su jefe responde de inmediato ofreciendo un cambio de plazo; luego descubre que el problema era una conducta reiterada de otro equipo.
+**Situación (hipotética).** Una gerente quiere entender por qué se atrasan las entregas de un equipo de soporte. Compara dos versiones de la misma conversación.
 
-**Paso 1 — suspender consejo inmediato.** La gerencia escribe primero el supuesto asociado a **pregunta abierta** y evita convertirlo en hecho. Luego busca **ratio preguntas versus afirmaciones** para contrastarlo en el caso de **escucha activa y preguntas de calidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Versión | Preguntas | Qué obtiene |
+|---|---|---|
+| **Dirigida** | «¿No cree que el equipo no se organiza bien?» «¿Por qué no usan el sistema nuevo?» | Respuestas defensivas: «sí, estamos mejorando». Ningún hecho nuevo. |
+| **Humilde** | «Cuénteme la última entrega que se atrasó: ¿qué pasó primero?» «¿Qué necesitaría el equipo para llegar a tiempo?» | Descubre que los pedidos llegan incompletos de ventas y que se pierde un día en reclamar los datos. |
 
-**Paso 2 — pedir hechos y perspectiva.** La gerencia escribe primero el supuesto asociado a **paráfrasis** y evita convertirlo en hecho. Luego busca **correcciones de interpretación** para contrastarlo en el caso de **escucha activa y preguntas de calidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**El resumen.** La gerente dice: «Entiendo que el atraso empieza porque los pedidos llegan sin la dirección completa y recuperarla toma un día. ¿Entendí bien?». El líder del equipo corrige: «También hay pedidos que cambian después». La gerente anota ese segundo dato.
 
-**Paso 3 — parafrasear y comprobar.** La gerencia escribe primero el supuesto asociado a **inferencia** y evita convertirlo en hecho. Luego busca **información nueva emergida** para contrastarlo en el caso de **escucha activa y preguntas de calidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — explorar inferencias y emociones relevantes.** La gerencia escribe primero el supuesto asociado a **silencio** y evita convertirlo en hecho. Luego busca **acuerdos confirmados** para contrastarlo en el caso de **escucha activa y preguntas de calidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — resumir acuerdos, desacuerdos y siguiente paso.** La gerencia escribe primero el supuesto asociado a **humble inquiry** y evita convertirlo en hecho. Luego busca **conflictos reabiertos por mala escucha** para contrastarlo en el caso de **escucha activa y preguntas de calidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **escucha activa y preguntas de calidad**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Una pregunta humilde obtuvo un hecho que una dirigida no habría obtenido. (2) El resumen reveló un dato adicional. (3) Hasta aquí la gerente aún no propone solución: el diagnóstico lo sostienen los hechos, no su hipótesis inicial.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **pregunta abierta** | invita explicación sin restringir a sí/no | Cuando ratio preguntas versus afirmaciones es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **paráfrasis** | reexpresión del contenido para comprobar comprensión | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Escuchar frente a dar la razón.** Escuchar no es aceptar. Comprender la posición del otro no implica compartirla ni obliga a actuar sobre ella.
 
-**Frontera de aplicación:** Escuchar no implica convertir cada conversación en terapia ni renunciar a decidir. En incidentes urgentes puede ser necesario actuar primero; luego se recupera contexto.
+**Límites.** Los tipos de pregunta de Schein son una clasificación de trabajo derivada de su experiencia en consultoría, no el resultado de una medición. Preguntar sin interés genuino se percibe y produce el efecto contrario. Y hay situaciones —una emergencia, una decisión que debe tomarse ya— donde conviene dirigir en lugar de indagar.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre escucha activa y preguntas de calidad |
+| Nivel | Cómo escucha |
 |---|---|
-| **Profesional** | usa **escucha activa y preguntas de calidad** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **pregunta abierta** y **paráfrasis** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta ratio preguntas versus afirmaciones con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si escucha activa y preguntas de calidad cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de escucha activa y preguntas de calidad reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **escucha activa y preguntas de calidad** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Pregunta antes de proponer y resume para confirmar que entendió. |
+| **Jefe / Team Lead** | Abre cada conversación con preguntas humildes y cuida que su cargo no corte la información. |
+| **Gerente** | Escucha a clientes, equipos y pares para detectar problemas antes de que escalen. |
+| **CEO / Director** | Crea cauces para oír lo que su posición filtra y cierra el circuito con acciones visibles. |
+| **Founder / Owner** | Escucha a clientes y socios como principal fuente de aprendizaje y contrasta su convicción con los hechos que oye. |
 
 ## 🏢 Caso ejecutivo
 
-Una colaboradora dice 'no puedo seguir con este proyecto'. Su jefe responde de inmediato ofreciendo un cambio de plazo; luego descubre que el problema era una conducta reiterada de otro equipo.
+Una directora asume un área de operaciones donde se atrasan los cierres mensuales. En la primera reunión, el equipo permanece callado; el jefe de contabilidad dice que «todo está bajo control». Los reportes muestran tres cierres tardíos en seis meses. La directora siente la tentación de asignar un plan de mejora de inmediato.
 
-Entrega un **decision brief de escucha activa y preguntas de calidad** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de conversación diagnóstica** que contenga: (a) las cinco primeras preguntas, clasificadas por tipo y con su propósito; (b) cómo crearás seguridad para que el equipo hable; (c) cómo resumirás para comprobar que entiendes; (d) qué hechos buscarás antes de proponer una solución; (e) cómo cerrarás el circuito con el equipo.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **escucha activa y preguntas de calidad** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. suspender consejo inmediato → 2. pedir hechos y perspectiva → 3. parafrasear y comprobar → 4. explorar inferencias y emociones relevantes → 5. resumir acuerdos, desacuerdos y siguiente paso** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta ratio preguntas versus afirmaciones, correcciones de interpretación; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Graba o recuerda una conversación reciente y marca cada pregunta que hiciste: ¿de qué tipo era?
+2. Convierte tres preguntas dirigidas en preguntas humildes.
+3. Practica un resumen de tres frases para una conversación de hoy y pregunta «¿entendí bien?».
+4. Identifica tu obstáculo principal para escuchar: juicio, solución prematura o defensa.
+5. Diseña cómo cerrarás el circuito con alguien que te dio información incómoda.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar pregunta abierta y paráfrasis como sinónimos | Se pierde la distinción entre “invita explicación sin restringir a sí/no” y “reexpresión del contenido para comprobar comprensión” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “resumir acuerdos, desacuerdos y siguiente paso” | Se saltó “suspender consejo inmediato” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. suspender consejo inmediato → 2. pedir hechos y perspectiva → 3. parafrasear y comprobar → 4. explorar inferencias y emociones relevantes → 5. resumir acuerdos, desacuerdos y siguiente paso y marca el primer supuesto no demostrado. |
-| Optimizar solo ratio preguntas versus afirmaciones | La métrica local sustituyó al resultado del sistema | Contrástala con correcciones de interpretación y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre escucha activa y preguntas de calidad | Escuchar no implica convertir cada conversación en terapia ni renunciar a decidir. En incidentes urgentes puede ser necesario actuar primero; luego se recupera contexto. |
-| No fijar revisión | Una decisión sobre escucha activa y preguntas de calidad se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Preguntar con la respuesta decidida | Se busca confirmar la idea | Preguntar algo que de verdad no se sabe. |
+| Llenar el silencio | Incomoda | Contar hasta cinco antes de hablar. |
+| Dar consejo no pedido | Se quiere ayudar rápido | Preguntar si quiere un consejo antes de darlo. |
+| Resumir con interpretación propia | Se mezcla escuchar con juzgar | Usar las palabras del otro. |
+| Un «por qué» acusatorio | Parece una pregunta neutra | Sustituir por «¿qué llevó a…?». |
+| No cerrar el circuito | Se olvida el seguimiento | Agradecer, informar lo que se hace y volver con una fecha. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **pregunta abierta** y **paráfrasis** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **inferencia** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **suspender consejo inmediato → pedir hechos y perspectiva** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **ratio preguntas versus afirmaciones** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **escucha activa y preguntas de calidad**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Escuchar no implica convertir cada conversación en terapia ni renunciar a decidir. En incidentes urgentes puede ser necesario actuar primero; luego se recupera contexto.**?
+1. ¿Cómo define Schein la indagación humilde y por qué se llama «humilde»?
+2. ¿Cuáles son los cuatro tipos de pregunta y en qué se diferencian por el control de quien pregunta?
+3. ¿Por qué una pregunta confrontacional es una opinión disfrazada y cómo se declara?
+4. ¿Qué diferencia hay entre un buen resumen y repetir lo dicho?
+5. ¿Por qué quien tiene más poder recibe menos información verdadera?
+6. Transforma «¿No cree que deberíamos entregar el viernes?» en una pregunta humilde.
+7. ¿Qué debes hacer con la información que te dieron?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El arte de hacer salir al otro con preguntas a las que no se conoce la respuesta; es humilde porque reconoce que necesitamos información que solo el otro tiene.
+2. Humilde, diagnóstica, confrontacional y de proceso; de más abierta a más dirigida por quien pregunta.
+3. Porque introduce la idea propia en forma de pregunta; se declara diciendo «tengo una idea, ¿quieres oírla?».
+4. Un buen resumen devuelve el contenido (y la emoción) con las palabras del otro y comprueba la comprensión; no agrega interpretación.
+5. Porque los demás filtran lo que dicen, y escuchar con poder exige un esfuerzo mayor.
+6. Por ejemplo: «¿Qué necesitaría el equipo para entregar el viernes?».
+7. Agradecer, informar lo que se hará y lo que no, y volver con una fecha.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/026-escucha-activa-y-preguntas-de-calidad/`:
 
-- `operating-improvement-brief.md` con el problema específico de **escucha activa y preguntas de calidad**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **escucha activa y preguntas de calidad** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **pregunta abierta**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una colaboradora dice 'no puedo seguir con este proyecto'. Su jefe responde de inmediato ofreciendo un cambio de plazo; luego descubre que el problema era una conducta reiterada de otro equipo.** y el dato que podría invalidar la recomendación.
+- `operating-improvement-brief.md` (plantilla [Operating Improvement Brief](../../../../templates/operating-improvement-brief.md)) con el plan de conversación diagnóstica del caso;
+- `reading-note.md` con una diferencia entre Schein y Stone, Patton y Heen y su efecto en tu plan;
+- `decision-journal.md` con las preguntas que cambiaste y qué hechos obtuviste.
 
 ## 📗 Fuentes y verificación
 
-- Chip Heath & Dan Heath — *Made to Stick* (Penguin Random House, 2007). **Uso en esta clase:** diseño de mensajes memorables, concretos y accionables. Lectura selectiva sobre **escucha activa y preguntas de calidad**. **Localizador:** [ISBN-13 9781905211562](https://openlibrary.org/isbn/9781905211562).
-- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** mecanismos de influencia y sus límites éticos. Lectura selectiva sobre **escucha activa y preguntas de calidad**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
-- Edgar H. Schein — *Humble Inquiry* (ReadHowYouWant.com, Limited, 2013). **Uso en esta clase:** preguntas que reducen jerarquía defensiva y mejoran información. Lectura selectiva sobre **escucha activa y preguntas de calidad**. **Localizador:** [ISBN-13 9780369308443](https://openlibrary.org/isbn/9780369308443).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **escucha activa y preguntas de calidad**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Kerry Patterson et al. — *Crucial Conversations* (McGraw Hill, 2012). **Uso en esta clase:** perspectiva de Comunicación aplicada al problema de la clase. Lectura selectiva sobre **escucha activa y preguntas de calidad**. **Localizador:** [ISBN-13 9781259005213](https://openlibrary.org/isbn/9781259005213).
-- Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* (Random House Audio, 1999). **Uso en esta clase:** perspectiva de Comunicación aplicada al problema de la clase. Lectura selectiva sobre **escucha activa y preguntas de calidad**. **Localizador:** [ISBN-13 9780553525687](https://openlibrary.org/isbn/9780553525687).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **escucha activa y preguntas de calidad** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **escucha activa y preguntas de calidad**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **escucha activa y preguntas de calidad** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **escucha activa y preguntas de calidad** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **escucha activa y preguntas de calidad** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Edgar H. Schein — *Humble Inquiry* (ReadHowYouWant.com, Limited, 2013). **Uso en esta clase:** indagación humilde y los cuatro tipos de pregunta. Lectura selectiva sobre **escucha activa y preguntas de calidad**. **Localizador:** [ISBN-13 9780369308443](https://openlibrary.org/isbn/9780369308443).
+- Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* (Random House Audio, 1999). **Uso en esta clase:** obstáculos para escuchar y la conversación interna paralela. Lectura selectiva sobre **escucha activa y preguntas de calidad**. **Localizador:** [ISBN-13 9780553525687](https://openlibrary.org/isbn/9780553525687).
+- Kerry Patterson et al. — *Crucial Conversations* (McGraw Hill, 2012). **Uso en esta clase:** crear seguridad para que el otro hable. Lectura selectiva sobre **escucha activa y preguntas de calidad**. **Localizador:** [ISBN-13 9781259005213](https://openlibrary.org/isbn/9781259005213).
+- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** empatía como parte del liderazgo. Lectura selectiva sobre **escucha activa y preguntas de calidad**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
+- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** preguntar por intereses y no por posiciones. Lectura selectiva sobre **escucha activa y preguntas de calidad**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
 
-> **Regla de fuentes para Escucha activa y preguntas de calidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **escucha activa y preguntas de calidad** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Escucha activa y preguntas de calidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos y no describen a ninguna empresa real. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

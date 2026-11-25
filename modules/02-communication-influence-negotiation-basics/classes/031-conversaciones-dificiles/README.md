@@ -10,217 +10,188 @@
 
 ## 🎯 Propósito
 
-Una conversación difícil mezcla tres capas: lo que ocurrió, cómo afecta identidad y emociones, y qué relación queremos preservar o cambiar. Prepararla exige distinguir hechos de intenciones atribuidas, reconocer la propia contribución al problema y definir un objetivo que no sea 'ganar'.
+Una conversación es difícil cuando lo que está en juego es importante, las opiniones difieren y las emociones son intensas. Casi todos hacemos una de dos cosas: evitarla hasta que se vuelve un problema mayor o abordarla con una versión de los hechos que ya incluye un juicio sobre el otro. En ambos casos la conversación empieza mal, porque ocurre **después** de que nos contamos una historia sobre lo sucedido.
 
-La salida de esta parte es **convertir comunicación, influencia y negociación en sistemas de decisión y relación**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **conversaciones difíciles** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa el modelo de «camino a la acción» de Patterson y colegas para ordenar lo que pasa dentro de uno antes de hablar, y la distinción de Stone, Patton y Heen entre las tres conversaciones que contiene toda conversación difícil. Al terminar sabrás separar lo observado de la interpretación, preparar un inicio que no ponga al otro a la defensiva y conducir la conversación hacia un resultado concreto.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `hechos`, `intención atribuida`, `contribución`, `identidad`, `objetivo conversacional` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. preparar hechos y emociones propias → 2. separar intención de impacto → 3. reconocer contribución propia → 4. abrir con una tercera historia neutral → 5. acordar decisión, límite o próximo experimento** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** interrupciones y defensividad, hechos disputados, acuerdos concretos sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** el camino a la acción —ver, contar una historia, sentir, actuar— y ubicar dónde estás en él.
+2. **Separar** hechos observables de la historia que les agregas.
+3. **Identificar** las tres conversaciones presentes: qué ocurrió, los sentimientos y la identidad.
+4. **Abrir** una conversación difícil con hechos, propósito común y curiosidad.
+5. **Cerrarla** con acuerdos concretos, responsables y fecha de seguimiento.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define hechos y intención atribuida sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con interrupciones y defensividad y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué conversación estás evitando hoy y qué historia te cuentas sobre ella? |
+| 20–60 min | El camino a la acción y las tres conversaciones. |
+| 60–105 min | Ejemplo trabajado: de una historia de intención a una conversación de hechos. |
+| 105–140 min | Caso ejecutivo: una conversación con un par que incumple compromisos. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **hechos** | eventos observables que las partes pueden verificar | Distingue un hecho compatible y otro que lo refute. |
-| **intención atribuida** | explicación sobre motivos ajenos que puede ser incorrecta | Distingue un hecho compatible y otro que lo refute. |
-| **contribución** | parte propia del patrón aunque no sea culpa equivalente | Distingue un hecho compatible y otro que lo refute. |
-| **identidad** | historia sobre quién soy que se activa en el conflicto | Distingue un hecho compatible y otro que lo refute. |
-| **objetivo conversacional** | resultado razonable de comprensión, decisión o límite | Distingue un hecho compatible y otro que lo refute. |
+| **Conversación difícil** | Conversación donde hay mucho en juego, opiniones opuestas y emociones fuertes (Patterson et al., 2012). | La persona siente tensión antes de empezarla. |
+| **Camino a la acción** | Secuencia interna: ver y oír, contar una historia, sentir y actuar (Patterson et al., 2012). | Se puede ubicar en qué paso se produjo el problema. |
+| **Hecho** | Lo que se puede observar y registrar sin interpretar: qué se dijo, qué se hizo, cuándo. | Una cámara lo habría captado. |
+| **Historia** | Interpretación que se agrega a los hechos: motivos, intención, carácter. | Contiene un «porque» sobre la persona. |
+| **Las tres conversaciones** | Qué ocurrió, los sentimientos y la identidad (Stone, Patton y Heen, 1999). | Se distingue sobre qué se discute realmente. |
+| **Propósito común** | Meta que ambas partes comparten en la conversación. | El otro entiende que no se lo ataca. |
+| **Conversación de aprendizaje** | Postura de curiosidad: se busca entender cómo vio el otro la situación. | Se preguntan hechos y se escucha. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 031: 1. preparar hechos y emociones propias → 2. separar intención de impacto → 3. reconocer contribución propia → 4. abrir con una tercera historia neutral → 5. acordar decisión, límite o próximo experimento](modelo-mental.svg)
+![El camino a la acción: de lo que se observa a lo que se hace, con cuatro pasos —ver y oír, contar una historia, sentir y actuar— y el retroceso desde la acción hasta los hechos.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. preparar hechos y emociones propias → 2. separar intención de impacto → 3. reconocer contribución propia → 4. abrir con una tercera historia neutral → 5. acordar decisión, límite o próximo experimento
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Una conversación difícil mezcla tres capas: lo que ocurrió, cómo afecta identidad y emociones, y qué relación queremos preservar o cambiar. Prepararla exige distinguir hechos de intenciones atribuidas, reconocer la propia contribución al problema y definir un objetivo que no sea 'ganar'.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No toda conversación debe resolverse informalmente. Si hay violencia, acoso, discriminación, riesgo de seguridad o una obligación legal, se activa el proceso formal correspondiente.**
+**Cómo leer el diagrama.** El problema casi nunca está en lo que se ve y se oye, sino en la historia que se agrega y en la emoción que genera. Cuando una conversación se desvía, se retrocede por el camino: de la acción a la emoción, a la historia y, por último, a los hechos. Se vuelve a empezar desde lo observable.
 
 ## 📖 Desarrollo
 
-### 1. hechos: mecanismo central
+### 1. El camino a la acción
 
-**hechos** se entiende aquí como **eventos observables que las partes pueden verificar**. Esta es la pieza causal o estructural desde la que se inicia **conversaciones difíciles**: antes de preparar hechos y emociones propias, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Patterson y colegas proponen que ante cualquier situación pasamos por cuatro pasos casi instantáneos. **Vemos y oímos** algo; **contamos una historia** que le da sentido; **sentimos** una emoción a partir de esa historia; y **actuamos**, ya sea callando, atacando o conversando. La acción que vemos desde fuera es el último eslabón; los otros ocurren dentro y a gran velocidad.
 
-La lectura rectora de este bloque es Chip Heath & Dan Heath — *Made to Stick*. Su aporte se usa para examinar **diseño de mensajes memorables, concretos y accionables**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **interrupciones y defensividad**; regístrala con periodo, unidad, población y baseline.
+### 2. Hechos e historias
 
-Relaciona el mecanismo con **intención atribuida**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+«Entregó tarde el informe» es un hecho. «Lo hizo para dejarme mal» es una historia: atribuye una intención que no está en el hecho. La historia puede ser cierta, pero es una **hipótesis** y debe tratarse como tal. Si la presentas como un hecho, el otro responderá a la acusación y no al contenido. Una buena preparación consiste en escribir los hechos y, aparte, las historias, y preguntarse qué otras historias son posibles.
 
-### 2. intención atribuida: frontera conceptual y error de clasificación
+### 3. Las tres conversaciones
 
-**Definición operacional:** explicación sobre motivos ajenos que puede ser incorrecta. Su valor está en distinguirlo de **hechos** y **contribución**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Stone, Patton y Heen observan que toda conversación difícil contiene tres: la de **qué ocurrió** (¿quién tiene razón?, ¿quién tuvo la culpa?), la de **los sentimientos** (¿qué siento y qué siente el otro?) y la de **la identidad** (¿qué dice esto de mí?). Solemos concentrarnos en la primera, mientras la tensión la producen las otras dos. Reconocer sobre cuál se está discutiendo cambia la forma de responder.
 
-Contrasta el problema con Robert B. Cialdini — *Influence*, que aporta una mirada sobre **mecanismos de influencia y sus límites éticos**. Formula dos mini-casos: uno que sí satisface la definición de **intención atribuida** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **hechos disputados** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Empezar por lo que ayuda
 
-Antes de separar intención de impacto, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La forma de abrir determina el resto. Tres ideas: **cuida tu propio estado** antes de hablar; **establece un propósito común** («quiero que podamos trabajar bien juntos») para que el otro no sienta un ataque; y **presenta los hechos** con una invitación a conocer su perspectiva («esto es lo que observé; ¿cómo lo ves tú?»). Evita abrir con un juicio, un «siempre» o un «nunca».
 
-### 3. contribución: operacionalización y medición
+### 5. Escuchar la otra historia
 
-**contribución** significa **parte propia del patrón aunque no sea culpa equivalente**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Después de exponer los hechos, la tarea es descubrir la otra historia: qué vio, qué siente y qué necesitaba. Preguntas de la clase 026, resúmenes y reconocimiento de la emoción. Cambiar de la postura «tengo la razón» a la de **aprendizaje** —¿qué no estoy viendo?— suele abrir información que explica el hecho.
 
-Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* orienta este bloque mediante **negociación basada en intereses, opciones y criterios objetivos**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **acuerdos concretos**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Cuando la conversación se desvía
 
-Al llegar a reconocer contribución propia, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Si una conversación se vuelve tensa, se retrocede por el camino. Reconoce la emoción («veo que esto te molesta»), vuelve al propósito común, separa hechos de historias y pregunta. Si la emoción es muy intensa, se acuerda una pausa con fecha para retomar. Insistir en el contenido cuando el otro está desbordado no avanza.
 
-### 4. identidad: trade-offs y efectos de segundo orden
+### 7. Cerrar con acuerdos
 
-**Definición:** historia sobre quién soy que se activa en el conflicto. Este concepto obliga a abandonar la idea de que **conversaciones difíciles** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de abrir con una tercera historia neutral, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Barbara Minto — *The Pyramid Principle* aporta una lente sobre **estructura piramidal para razonamiento y comunicación ejecutiva**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **reincidencia del conflicto** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **conversaciones difíciles**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **identidad** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. objetivo conversacional: gobernanza, límites e integración
-
-**objetivo conversacional** se define como **resultado razonable de comprensión, decisión o límite** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Edgar H. Schein — *Humble Inquiry* se utiliza para estudiar **preguntas que reducen jerarquía defensiva y mejoran información** y contrastar la recomendación final. Al ejecutar acordar decisión, límite o próximo experimento, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No toda conversación debe resolverse informalmente. Si hay violencia, acoso, discriminación, riesgo de seguridad o una obligación legal, se activa el proceso formal correspondiente.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **hechos**, **intención atribuida**, **contribución**, **identidad** y **objetivo conversacional** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **conversaciones difíciles** no consiste en sumar cinco definiciones. Empieza por **hechos**, contrasta **intención atribuida** con **contribución**, incorpora **identidad** como restricción o mecanismo y usa **objetivo conversacional** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. preparar hechos y emociones propias → 2. separar intención de impacto → 3. reconocer contribución propia → 4. abrir con una tercera historia neutral → 5. acordar decisión, límite o próximo experimento**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Una conversación difícil termina bien cuando concluye con acuerdos: **quién hará qué, para cuándo** y **cómo se sabrá** que se cumplió. Anótalo y comparte el registro. Fija una fecha de seguimiento. Una conversación que no termina en un acuerdo, o en la decisión explícita de no tenerlo, se repite.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Chip Heath & Dan Heath — *Made to Stick* | diseño de mensajes memorables, concretos y accionables | ¿Qué supuesto de **conversaciones difíciles** ayuda a desafiar? |
-| Robert B. Cialdini — *Influence* | mecanismos de influencia y sus límites éticos | ¿Qué supuesto de **conversaciones difíciles** ayuda a desafiar? |
-| Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* | negociación basada en intereses, opciones y criterios objetivos | ¿Qué supuesto de **conversaciones difíciles** ayuda a desafiar? |
-| Barbara Minto — *The Pyramid Principle* | estructura piramidal para razonamiento y comunicación ejecutiva | ¿Qué supuesto de **conversaciones difíciles** ayuda a desafiar? |
-| Edgar H. Schein — *Humble Inquiry* | preguntas que reducen jerarquía defensiva y mejoran información | ¿Qué supuesto de **conversaciones difíciles** ayuda a desafiar? |
-
-En **conversaciones difíciles**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **hechos**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Patterson et al. (2012) | El camino a la acción y cómo abrir la conversación. | Sus ejemplos son seleccionados. | ¿En qué paso se produjo tu último malentendido? |
+| Stone, Patton y Heen (1999) | Las tres conversaciones y la postura de aprendizaje. | No da un guion. | ¿Sobre cuál estás discutiendo realmente? |
+| Schein (2013) | Preguntar con curiosidad. | No trata de emociones. | ¿Qué preguntarías sin saber la respuesta? |
+| Edmondson (2018) | Seguridad psicológica para tener estas conversaciones. | No es una técnica personal. | ¿Qué hace que alguien no hable contigo? |
+| Goleman, Boyatzis y McKee (2002) | Regulación emocional del que conduce. | No trata de estructura. | ¿Qué estado llevas a la conversación? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una jefa debe hablar con un colaborador veterano cuyo tono intimida a personas nuevas. Él cree que solo está 'siendo exigente' y tiene alto desempeño técnico.
+**Situación (hipotética).** Una jefa de proyecto, Marta, observa que su par Diego no entregó dos veces seguidas el insumo que ella necesita, y siente enojo.
 
-**Paso 1 — preparar hechos y emociones propias.** La gerencia escribe primero el supuesto asociado a **hechos** y evita convertirlo en hecho. Luego busca **interrupciones y defensividad** para contrastarlo en el caso de **conversaciones difíciles**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Paso | Lo que ocurre en Marta | Lo que haría con el método |
+|---|---|---|
+| **Ver y oír** | Diego entregó el insumo el jueves y el lunes en vez de la fecha acordada. | Escribe: «Acordamos el martes; se entregó el jueves (2 días) y el lunes (6 días).» |
+| **Historia** | «No le importa mi trabajo.» | Escribe otras historias posibles: sobrecarga, cambio de prioridades, falta de información. |
+| **Sentir** | Enojo, desconfianza. | Reconoce la emoción antes de hablar. |
+| **Actuar** | Pensó en escribirle un correo con copia al jefe. | Pide una conversación breve. |
 
-**Paso 2 — separar intención de impacto.** La gerencia escribe primero el supuesto asociado a **intención atribuida** y evita convertirlo en hecho. Luego busca **hechos disputados** para contrastarlo en el caso de **conversaciones difíciles**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**La apertura.** «Diego, quiero que podamos coordinarnos bien; el proyecto depende de eso. Acordamos el martes y recibí el insumo el jueves y el lunes. ¿Cómo lo ves tú?»
 
-**Paso 3 — reconocer contribución propia.** La gerencia escribe primero el supuesto asociado a **contribución** y evita convertirlo en hecho. Luego busca **acuerdos concretos** para contrastarlo en el caso de **conversaciones difíciles**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**La otra historia.** Diego explica que su área cambió de prioridad y no supo cómo avisar. Marta resume: «Entiendo que cambiaron prioridades y no sabías a quién avisar. ¿Entendí bien?».
 
-**Paso 4 — abrir con una tercera historia neutral.** La gerencia escribe primero el supuesto asociado a **identidad** y evita convertirlo en hecho. Luego busca **reincidencia del conflicto** para contrastarlo en el caso de **conversaciones difíciles**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**El acuerdo.** Diego avisará por mensaje apenas sepa que no cumplirá; Marta compartirá su calendario de dependencias. Revisan el viernes.
 
-**Paso 5 — acordar decisión, límite o próximo experimento.** La gerencia escribe primero el supuesto asociado a **objetivo conversacional** y evita convertirlo en hecho. Luego busca **seguimientos cumplidos** para contrastarlo en el caso de **conversaciones difíciles**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **conversaciones difíciles**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Marta cambió una acusación por una pregunta. (2) La historia inicial —«no le importa»— era falsa. (3) El acuerdo es concreto y con fecha.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **hechos** | eventos observables que las partes pueden verificar | Cuando interrupciones y defensividad es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **intención atribuida** | explicación sobre motivos ajenos que puede ser incorrecta | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Conversación difícil frente a confrontación.** No se trata de ganar, sino de resolver. La conversación puede terminar en desacuerdo; lo que no debe quedar es un malentendido.
 
-**Frontera de aplicación:** No toda conversación debe resolverse informalmente. Si hay violencia, acoso, discriminación, riesgo de seguridad o una obligación legal, se activa el proceso formal correspondiente.
+**Límites.** El camino a la acción es un modelo propuesto por los autores y no una descripción medida del funcionamiento mental; sirve para preparar. No todas las conversaciones difíciles se resuelven con diálogo: cuando hay abuso, acoso o riesgo, corresponde aplicar los protocolos institucionales y no una conversación a solas. Y la distinción entre hechos e historias es práctica: a veces es difícil decidir qué es observable.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre conversaciones difíciles |
+| Nivel | Cómo conversa |
 |---|---|
-| **Profesional** | usa **conversaciones difíciles** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **hechos** y **intención atribuida** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta interrupciones y defensividad con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si conversaciones difíciles cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de conversaciones difíciles reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **conversaciones difíciles** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aborda con un par o jefe una diferencia antes de que escale. |
+| **Jefe / Team Lead** | Conversa sobre desempeño y conducta con hechos y acuerdos. |
+| **Gerente** | Conduce conversaciones entre áreas y detecta las que se evitan. |
+| **CEO / Director** | Tiene las conversaciones de alto riesgo con directores, ejecutivos y socios. |
+| **Founder / Owner** | Habla con cofundadores y socios sobre lo que incomoda antes de que dañe el negocio. |
 
 ## 🏢 Caso ejecutivo
 
-Una jefa debe hablar con un colaborador veterano cuyo tono intimida a personas nuevas. Él cree que solo está 'siendo exigente' y tiene alto desempeño técnico.
+Una gerente comercial descubre que su par de operaciones comprometió con un cliente un plazo que su equipo no puede cumplir, sin consultarla. El cliente es importante. Ella siente que fue pasada a llevar, y piensa que lo hizo para quedar bien con la dirección. Tiene una reunión con él mañana.
 
-Entrega un **decision brief de conversaciones difíciles** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de conversación** que contenga: (a) los hechos observables, con fechas; (b) las historias que te cuentas y otras posibles; (c) la emoción que sientes y cómo la regularás; (d) la apertura con propósito común y la invitación a su perspectiva; (e) las preguntas para conocer su historia; (f) los acuerdos que buscarás y el seguimiento.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **conversaciones difíciles** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. preparar hechos y emociones propias → 2. separar intención de impacto → 3. reconocer contribución propia → 4. abrir con una tercera historia neutral → 5. acordar decisión, límite o próximo experimento** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta interrupciones y defensividad, hechos disputados; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe los hechos de una situación que te molesta, como lo captaría una cámara.
+2. Escribe la historia que te cuentas y dos historias alternativas.
+3. Identifica cuál de las tres conversaciones te cuesta más.
+4. Redacta una apertura de tres frases con propósito común y hechos.
+5. Escribe el acuerdo que quisieras al final: quién, qué, cuándo y cómo se sabrá.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar hechos y intención atribuida como sinónimos | Se pierde la distinción entre “eventos observables que las partes pueden verificar” y “explicación sobre motivos ajenos que puede ser incorrecta” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “acordar decisión, límite o próximo experimento” | Se saltó “preparar hechos y emociones propias” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. preparar hechos y emociones propias → 2. separar intención de impacto → 3. reconocer contribución propia → 4. abrir con una tercera historia neutral → 5. acordar decisión, límite o próximo experimento y marca el primer supuesto no demostrado. |
-| Optimizar solo interrupciones y defensividad | La métrica local sustituyó al resultado del sistema | Contrástala con hechos disputados y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre conversaciones difíciles | No toda conversación debe resolverse informalmente. Si hay violencia, acoso, discriminación, riesgo de seguridad o una obligación legal, se activa el proceso formal correspondiente. |
-| No fijar revisión | Una decisión sobre conversaciones difíciles se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Evitar la conversación | Se teme el conflicto | Prepararla y fijar fecha. |
+| Presentar la historia como hecho | Parece obvia | Separar hechos e historias. |
+| Abrir con un juicio | Se quiere expresar el enojo | Abrir con propósito común y hechos. |
+| Hablar con el estado alterado | Se actúa de inmediato | Regular antes o postergar con fecha. |
+| No escuchar | Se llega a convencer | Preguntar y resumir. |
+| Terminar sin acuerdos | Se alivia la tensión | Cerrar con quién, qué, cuándo y seguimiento. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **hechos** y **intención atribuida** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **contribución** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **preparar hechos y emociones propias → separar intención de impacto** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **interrupciones y defensividad** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **conversaciones difíciles**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No toda conversación debe resolverse informalmente. Si hay violencia, acoso, discriminación, riesgo de seguridad o una obligación legal, se activa el proceso formal correspondiente.**?
+1. ¿Cuáles son los cuatro pasos del camino a la acción?
+2. ¿Qué diferencia hay entre un hecho y una historia? Da un ejemplo.
+3. ¿Cuáles son las tres conversaciones que contiene toda conversación difícil?
+4. ¿Qué tres elementos tiene una buena apertura?
+5. ¿Qué haces si la conversación se desvía?
+6. ¿Qué debe contener un acuerdo de cierre?
+7. ¿Cuándo no corresponde una conversación a solas?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Ver y oír, contar una historia, sentir y actuar.
+2. El hecho se puede observar y registrar; la historia es una interpretación de motivos. «Entregó tarde» es un hecho; «lo hizo para dejarme mal» es una historia.
+3. Qué ocurrió, los sentimientos y la identidad.
+4. Cuidar el propio estado, establecer un propósito común y presentar los hechos invitando a conocer la perspectiva del otro.
+5. Retroceder por el camino: reconocer la emoción, volver al propósito común, separar hechos de historias y preguntar; si hace falta, pausar con fecha.
+6. Quién hará qué, para cuándo y cómo se sabrá que se cumplió, con una fecha de seguimiento.
+7. Cuando hay abuso, acoso o riesgo: se aplican los protocolos institucionales.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/031-conversaciones-dificiles/`:
 
-- `leadership-decision-brief.md` con el problema específico de **conversaciones difíciles**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **conversaciones difíciles** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **hechos**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una jefa debe hablar con un colaborador veterano cuyo tono intimida a personas nuevas. Él cree que solo está 'siendo exigente' y tiene alto desempeño técnico.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan de conversación del caso ejecutivo;
+- `reading-note.md` con una diferencia entre Patterson et al. y Stone, Patton y Heen;
+- `decision-journal.md` con la conversación que tuviste, la historia que revisaste y el acuerdo.
 
 ## 📗 Fuentes y verificación
 
-- Chip Heath & Dan Heath — *Made to Stick* (Penguin Random House, 2007). **Uso en esta clase:** diseño de mensajes memorables, concretos y accionables. Lectura selectiva sobre **conversaciones difíciles**. **Localizador:** [ISBN-13 9781905211562](https://openlibrary.org/isbn/9781905211562).
-- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** mecanismos de influencia y sus límites éticos. Lectura selectiva sobre **conversaciones difíciles**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **conversaciones difíciles**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Barbara Minto — *The Pyramid Principle* (Financial Times/ Prentice Hall, 2005). **Uso en esta clase:** estructura piramidal para razonamiento y comunicación ejecutiva. Lectura selectiva sobre **conversaciones difíciles**. **Localizador:** [ISBN-13 9781405822145](https://openlibrary.org/isbn/9781405822145).
-- Edgar H. Schein — *Humble Inquiry* (ReadHowYouWant.com, Limited, 2013). **Uso en esta clase:** preguntas que reducen jerarquía defensiva y mejoran información. Lectura selectiva sobre **conversaciones difíciles**. **Localizador:** [ISBN-13 9780369308443](https://openlibrary.org/isbn/9780369308443).
-- Chris Voss & Tahl Raz — *Never Split the Difference* (Penguin Random House, 2016). **Uso en esta clase:** negociación táctica, escucha, calibración y manejo de información imperfecta. Lectura selectiva sobre **conversaciones difíciles**. **Localizador:** [ISBN-13 9781847941480](https://openlibrary.org/isbn/9781847941480).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **conversaciones difíciles** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **conversaciones difíciles**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **conversaciones difíciles** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **conversaciones difíciles** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **conversaciones difíciles** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Kerry Patterson et al. — *Crucial Conversations* (McGraw Hill, 2012). **Uso en esta clase:** el camino a la acción y cómo abrir la conversación. Lectura selectiva sobre **conversaciones difíciles**. **Localizador:** [ISBN-13 9781259005213](https://openlibrary.org/isbn/9781259005213).
+- Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* (Random House Audio, 1999). **Uso en esta clase:** las tres conversaciones y la postura de aprendizaje. Lectura selectiva sobre **conversaciones difíciles**. **Localizador:** [ISBN-13 9780553525687](https://openlibrary.org/isbn/9780553525687).
+- Edgar H. Schein — *Humble Inquiry* (ReadHowYouWant.com, Limited, 2013). **Uso en esta clase:** preguntar con curiosidad para conocer la otra historia. Lectura selectiva sobre **conversaciones difíciles**. **Localizador:** [ISBN-13 9780369308443](https://openlibrary.org/isbn/9780369308443).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica para tener estas conversaciones. Lectura selectiva sobre **conversaciones difíciles**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
+- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** regulación emocional de quien conduce. Lectura selectiva sobre **conversaciones difíciles**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
 
-> **Regla de fuentes para Conversaciones difíciles:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **conversaciones difíciles** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Conversaciones difíciles:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

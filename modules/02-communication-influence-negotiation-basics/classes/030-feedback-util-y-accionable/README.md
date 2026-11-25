@@ -10,217 +10,183 @@
 
 ## 🎯 Propósito
 
-Feedback accionable describe una conducta o resultado observable, su impacto y la expectativa futura. Evita etiquetas sobre identidad y llega cerca del evento. El buen feedback puede ser positivo o correctivo; en ambos casos busca aumentar información útil para que la persona pueda elegir una conducta diferente.
+Dar feedback parece un gesto obviamente bueno: se le dice a alguien cómo lo está haciendo para que mejore. La investigación muestra algo menos cómodo: **una parte importante de las intervenciones de feedback no mejora el desempeño, y algunas lo empeoran**. Hay formas de dar feedback que ayudan y formas que dañan, y casi nunca coinciden con la intuición de quien lo da.
 
-La salida de esta parte es **convertir comunicación, influencia y negociación en sistemas de decisión y relación**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **feedback útil y accionable** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa la revisión de Kluger y DeNisi, que muestra que depende del **nivel al que se dirige la atención** del receptor, y el trabajo de Stone y Heen sobre por qué recibir feedback es difícil. Al terminar sabrás dar feedback centrado en la tarea y el proceso, evitar el que apunta a la persona y reconocer tus propias reacciones al recibirlo.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `observación`, `impacto`, `feedforward`, `especificidad`, `severidad` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. preparar hechos y propósito → 2. describir conducta concreta → 3. explicar impacto sin leer mente → 4. escuchar contexto y comprobar comprensión → 5. acordar conducta futura y seguimiento** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** tiempo entre evento y feedback, conductas observables acordadas, reincidencia sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** feedback de tarea, de proceso y de yo, y predecir su efecto.
+2. **Formular** un feedback con hecho observable, efecto y una acción posible.
+3. **Reconocer** los tres disparadores que dificultan recibirlo: verdad, relación e identidad.
+4. **Pedir** feedback específico y usarlo sin defenderte.
+5. **Decidir** cuándo el feedback no es la herramienta adecuada.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define observación y impacto sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con tiempo entre evento y feedback y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda un feedback que te ayudó y otro que no; ¿a qué apuntaba cada uno? |
+| 20–60 min | Los niveles de feedback y los disparadores de quien lo recibe. |
+| 60–105 min | Ejemplo trabajado: tres versiones del mismo feedback. |
+| 105–140 min | Caso ejecutivo: feedback a un colaborador con buen desempeño técnico y mala colaboración. |
+| 140–170 min | Límites del enfoque y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **observación** | descripción de conducta o resultado sin atribuir intención | Distingue un hecho compatible y otro que lo refute. |
-| **impacto** | consecuencia concreta sobre trabajo, persona o stakeholder | Distingue un hecho compatible y otro que lo refute. |
-| **feedforward** | orientación sobre conducta futura | Distingue un hecho compatible y otro que lo refute. |
-| **especificidad** | nivel de detalle que permite reconocer y reproducir/corregir | Distingue un hecho compatible y otro que lo refute. |
-| **severidad** | grado de riesgo o daño que determina urgencia y formalidad | Distingue un hecho compatible y otro que lo refute. |
+| **Intervención de feedback** | Información sobre el desempeño de alguien que ofrece otra persona, para cambiar su conducta (Kluger y DeNisi, 1996). | Hay un emisor, un receptor y información sobre un desempeño. |
+| **Nivel de feedback** | Aspecto al que se dirige la atención: la tarea, el proceso o el yo (Kluger y DeNisi, 1996). | Se puede señalar si habla de qué se hizo, cómo o quién es. |
+| **Feedback de tarea** | Información sobre qué se logró o faltó en una tarea concreta. | «El informe omite el costo de mantenimiento.» |
+| **Feedback de yo** | Juicio sobre la persona, ajeno a la tarea. | «Eres desordenado.» |
+| **Disparador de verdad** | Reacción al contenido del feedback: lo siento incorrecto o injusto (Stone y Heen, 2014). | Se discute el dato. |
+| **Disparador de relación** | Reacción a quien da el feedback (Stone y Heen, 2014). | Se discute al emisor. |
+| **Disparador de identidad** | Reacción a lo que el feedback dice de quien lo recibe (Stone y Heen, 2014). | Se vive como amenaza a la propia valía. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 030: 1. preparar hechos y propósito → 2. describir conducta concreta → 3. explicar impacto sin leer mente → 4. escuchar contexto y comprobar comprensión → 5. acordar conducta futura y seguimiento](modelo-mental.svg)
+![A qué nivel apunta el feedback decide si ayuda: tarea, proceso y yo, con su efecto esperado, y los tres disparadores de quien recibe feedback: verdad, relación e identidad.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. preparar hechos y propósito → 2. describir conducta concreta → 3. explicar impacto sin leer mente → 4. escuchar contexto y comprobar comprensión → 5. acordar conducta futura y seguimiento
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Feedback accionable describe una conducta o resultado observable, su impacto y la expectativa futura. Evita etiquetas sobre identidad y llega cerca del evento. El buen feedback puede ser positivo o correctivo; en ambos casos busca aumentar información útil para que la persona pueda elegir una conducta diferente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Feedback informal no reemplaza procesos formales cuando existen riesgos de desempeño, acoso, discriminación o consecuencias laborales. La documentación y asesoría apropiada importan.**
+**Cómo leer el diagrama.** A la izquierda, quien da: cuanto más cerca del yo apunta el feedback, menos tiende a ayudar. A la derecha, quien recibe: tres razones por las que cuesta aceptarlo. Dar bien requiere apuntar a la tarea; recibir bien requiere reconocer qué disparador se activó.
 
 ## 📖 Desarrollo
 
-### 1. observación: mecanismo central
+### 1. Dar feedback no garantiza que ayude
 
-**observación** se entiende aquí como **descripción de conducta o resultado sin atribuir intención**. Esta es la pieza causal o estructural desde la que se inicia **feedback útil y accionable**: antes de preparar hechos y propósito, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Kluger y DeNisi revisaron un gran conjunto de estudios sobre feedback y encontraron que, en promedio, mejora el desempeño, pero con **mucha variación**: en más de un tercio de los casos las intervenciones lo redujeron. La conclusión práctica es que dar feedback no basta; importa cómo, sobre qué y a quién. Quien lo da con la sola intención de ayudar puede estar haciendo daño sin saberlo.
 
-La lectura rectora de este bloque es Chip Heath & Dan Heath — *Made to Stick*. Su aporte se usa para examinar **diseño de mensajes memorables, concretos y accionables**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **tiempo entre evento y feedback**; regístrala con periodo, unidad, población y baseline.
+### 2. El nivel de la atención
 
-Relaciona el mecanismo con **impacto**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Su explicación es que el feedback dirige la atención del receptor a algún nivel. Si lo dirige a los **detalles de la tarea** —qué se hizo, qué faltó—, tiende a mejorar el desempeño. Si lo dirige al **proceso** —cómo se trabajó—, también puede ayudar. Si lo dirige al **yo** —quién es el receptor, cómo queda ante los demás—, la atención se aparta de la tarea y el efecto tiende a ser neutro o negativo. Por eso el elogio o la crítica a la persona suelen servir menos que información sobre la tarea.
 
-### 2. impacto: frontera conceptual y error de clasificación
+### 3. Cómo formular un feedback centrado en la tarea
 
-**Definición operacional:** consecuencia concreta sobre trabajo, persona o stakeholder. Su valor está en distinguirlo de **observación** y **feedforward**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Una estructura simple, que la clase propone como método de trabajo y no como una fórmula de los autores: **hecho observable → efecto → acción posible**. «En el informe del martes faltaba el costo de mantenimiento (hecho). Por eso el comité no pudo comparar las alternativas (efecto). Para el próximo, incluye una fila de mantenimiento por alternativa (acción).» Contiene lo que se observó, por qué importa y qué hacer.
 
-Contrasta el problema con Robert B. Cialdini — *Influence*, que aporta una mirada sobre **mecanismos de influencia y sus límites éticos**. Formula dos mini-casos: uno que sí satisface la definición de **impacto** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **conductas observables acordadas** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Evitar el yo sin dejar de ser honesto
 
-Antes de describir conducta concreta, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Evitar el nivel del yo no significa suavizar. Significa describir la conducta o el producto y no inferir el carácter. «Entregaste tarde tres veces» es un hecho; «eres irresponsable» es una conclusión sobre la persona. Si el patrón preocupa, se dice: «hay un patrón de tres entregas tardías; ¿qué está pasando?».
 
-### 3. feedforward: operacionalización y medición
+### 5. Por qué cuesta recibirlo
 
-**feedforward** significa **orientación sobre conducta futura**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Stone y Heen explican que recibir feedback activa tres tipos de reacción. El de **verdad**: «esto no es cierto ni justo». El de **relación**: «¿quién eres tú para decírmelo?». El de **identidad**: «esto significa que no valgo». Cada uno desvía la atención del contenido hacia otra cosa. Reconocerlos es el primer paso: se puede decir «me estoy defendiendo por la forma en que lo dijo» y separar la forma del contenido.
 
-Kerry Patterson et al. — *Crucial Conversations* orienta este bloque mediante **perspectiva de Comunicación aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **reincidencia**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Pedir feedback
 
-Al llegar a explicar impacto sin leer mente, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Pedir feedback de manera general («¿cómo lo hago?») invita a respuestas vagas. Funciona mejor pedir algo **específico**: «¿qué una cosa cambiarías de mi presentación?». Es más fácil de responder, centra la atención en la tarea y muestra disposición a usarlo. Quien lo recibe agradece, resume lo entendido y decide qué hará, sin obligarse a aceptarlo todo.
 
-### 4. especificidad: trade-offs y efectos de segundo orden
+### 7. Cuándo el feedback no es la herramienta
 
-**Definición:** nivel de detalle que permite reconocer y reproducir/corregir. Este concepto obliga a abandonar la idea de que **feedback útil y accionable** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de escuchar contexto y comprobar comprensión, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Nancy Duarte — *Resonate* aporta una lente sobre **diseño narrativo de presentaciones que movilizan una audiencia**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **feedback bidireccional** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **feedback útil y accionable**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **especificidad** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. severidad: gobernanza, límites e integración
-
-**severidad** se define como **grado de riesgo o daño que determina urgencia y formalidad** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Dale Carnegie — *How to Win Friends and Influence People* se utiliza para estudiar **perspectiva de Comunicación aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar acordar conducta futura y seguimiento, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Feedback informal no reemplaza procesos formales cuando existen riesgos de desempeño, acoso, discriminación o consecuencias laborales. La documentación y asesoría apropiada importan.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **observación**, **impacto**, **feedforward**, **especificidad** y **severidad** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **feedback útil y accionable** no consiste en sumar cinco definiciones. Empieza por **observación**, contrasta **impacto** con **feedforward**, incorpora **especificidad** como restricción o mecanismo y usa **severidad** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. preparar hechos y propósito → 2. describir conducta concreta → 3. explicar impacto sin leer mente → 4. escuchar contexto y comprobar comprensión → 5. acordar conducta futura y seguimiento**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El feedback sirve cuando la persona puede y quiere cambiar y el obstáculo es información. No resuelve problemas de capacidad (necesita formación), de recursos (necesita medios) ni de motivación estructural (necesita un cambio de rol). Insistir con feedback ante lo que no es información produce frustración. Antes de darlo, pregúntate cuál es el obstáculo.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Chip Heath & Dan Heath — *Made to Stick* | diseño de mensajes memorables, concretos y accionables | ¿Qué supuesto de **feedback útil y accionable** ayuda a desafiar? |
-| Robert B. Cialdini — *Influence* | mecanismos de influencia y sus límites éticos | ¿Qué supuesto de **feedback útil y accionable** ayuda a desafiar? |
-| Kerry Patterson et al. — *Crucial Conversations* | perspectiva de Comunicación aplicada al problema de la clase | ¿Qué supuesto de **feedback útil y accionable** ayuda a desafiar? |
-| Nancy Duarte — *Resonate* | diseño narrativo de presentaciones que movilizan una audiencia | ¿Qué supuesto de **feedback útil y accionable** ayuda a desafiar? |
-| Dale Carnegie — *How to Win Friends and Influence People* | perspectiva de Comunicación aplicada al problema de la clase | ¿Qué supuesto de **feedback útil y accionable** ayuda a desafiar? |
-
-En **feedback útil y accionable**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **observación**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Kluger y DeNisi (1996) | Niveles de atención y efecto variable del feedback. | Es una revisión de estudios, con promedios. | ¿A qué nivel apuntó tu último feedback? |
+| Stone y Heen (2014) | Los tres disparadores de quien recibe. | No mide efectos. | ¿Cuál se activa más en ti? |
+| Stone, Patton y Heen (1999) | Cómo conducir la conversación de feedback difícil. | No da una estructura de mensaje. | ¿Cuál es la conversación sobre identidad que evitas? |
+| Edmondson (2018) | Seguridad psicológica para dar y recibir feedback. | No trata de formulación. | ¿Qué cuesta en tu equipo decir una verdad incómoda? |
+| Goleman, Boyatzis y McKee (2002) | El efecto emocional del feedback del líder. | No distingue niveles. | ¿Qué estado transmites al darlo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un gerente dice a una analista: 'te falta actitud ejecutiva'. Ella no sabe qué cambiar. En realidad, en tres comités presentó datos sin recomendación y respondió preguntas defensivamente.
+**Situación (hipotética).** Una gerente quiere dar feedback a un analista cuya presentación al comité fue confusa. Veamos tres versiones.
 
-**Paso 1 — preparar hechos y propósito.** La gerencia escribe primero el supuesto asociado a **observación** y evita convertirlo en hecho. Luego busca **tiempo entre evento y feedback** para contrastarlo en el caso de **feedback útil y accionable**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Versión | Contenido | Nivel | Efecto probable |
+|---|---|---|---|
+| **A** | «Eres muy desordenado al presentar.» | Yo | Activa identidad y defensa; no indica qué cambiar. |
+| **B** | «Estuvo bien, pero podrías mejorar.» | Ninguno claro | No informa; el analista no sabe qué hacer. |
+| **C** | «La lámina 3 tenía seis cifras y el comité preguntó cuál importaba (hecho). Por eso la discusión se fue a un detalle y no a la decisión (efecto). La próxima vez, deja una cifra por lámina y resalta la que sostiene la afirmación (acción).» | Tarea | Información usable; el analista sabe qué cambiar. |
 
-**Paso 2 — describir conducta concreta.** La gerencia escribe primero el supuesto asociado a **impacto** y evita convertirlo en hecho. Luego busca **conductas observables acordadas** para contrastarlo en el caso de **feedback útil y accionable**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cómo se recibe.** El analista siente el disparador de verdad: «las otras láminas estaban bien». La gerente responde: «Sí, la 2 y la 4 funcionaron; me refiero a esta, y a lo que podemos hacer con ella». Reconoce lo correcto y mantiene el foco.
 
-**Paso 3 — explicar impacto sin leer mente.** La gerencia escribe primero el supuesto asociado a **feedforward** y evita convertirlo en hecho. Luego busca **reincidencia** para contrastarlo en el caso de **feedback útil y accionable**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — escuchar contexto y comprobar comprensión.** La gerencia escribe primero el supuesto asociado a **especificidad** y evita convertirlo en hecho. Luego busca **feedback bidireccional** para contrastarlo en el caso de **feedback útil y accionable**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — acordar conducta futura y seguimiento.** La gerencia escribe primero el supuesto asociado a **severidad** y evita convertirlo en hecho. Luego busca **planes de mejora cerrados** para contrastarlo en el caso de **feedback útil y accionable**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **feedback útil y accionable**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La versión C es más específica, no más dura. (2) Separar hecho, efecto y acción evita el juicio sobre la persona. (3) Reconocer lo que funcionó no es adulación: es información.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **observación** | descripción de conducta o resultado sin atribuir intención | Cuando tiempo entre evento y feedback es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **impacto** | consecuencia concreta sobre trabajo, persona o stakeholder | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Feedback frente a coaching.** El feedback informa sobre un desempeño pasado; el coaching ayuda a quien aprende a descubrir qué cambiar. El coaching usa preguntas (clase 026); el feedback usa hechos. Un buen líder alterna.
 
-**Frontera de aplicación:** Feedback informal no reemplaza procesos formales cuando existen riesgos de desempeño, acoso, discriminación o consecuencias laborales. La documentación y asesoría apropiada importan.
+**Límites.** Los resultados de Kluger y DeNisi son promedios de muchos estudios, la mayoría en entornos de laboratorio o de tareas acotadas; su aplicación a una conversación concreta debe hacerse con criterio. La estructura «hecho, efecto, acción» es un método de trabajo de la clase. Y dar feedback sin una relación de confianza previa suele activar el disparador de relación.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre feedback útil y accionable |
+| Nivel | Cómo trabaja el feedback |
 |---|---|
-| **Profesional** | usa **feedback útil y accionable** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **observación** y **impacto** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta tiempo entre evento y feedback con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si feedback útil y accionable cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de feedback útil y accionable reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **feedback útil y accionable** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Pide feedback específico y lo usa. |
+| **Jefe / Team Lead** | Da feedback de tarea con regularidad, cerca del hecho. |
+| **Gerente** | Forma a sus jefes para dar feedback y detecta patrones que no son de información. |
+| **CEO / Director** | Recibe feedback de pares y del directorio, y crea condiciones para que le lleguen verdades incómodas. |
+| **Founder / Owner** | Busca feedback de clientes y socios sin protegerse de lo que escuche. |
 
 ## 🏢 Caso ejecutivo
 
-Un gerente dice a una analista: 'te falta actitud ejecutiva'. Ella no sabe qué cambiar. En realidad, en tres comités presentó datos sin recomendación y respondió preguntas defensivamente.
+Un director de ingeniería tiene un colaborador con resultados técnicos excelentes y una conducta que daña al equipo: interrumpe, descalifica ideas y no comparte información. Dos personas ya pidieron cambiarse de equipo. El colaborador cree que su aporte justifica su estilo.
 
-Entrega un **decision brief de feedback útil y accionable** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de feedback** que contenga: (a) los hechos observables, con fecha y fuente; (b) el feedback formulado como hecho, efecto y acción; (c) cómo anticipar el disparador de identidad y de relación; (d) qué pedirás a cambio: feedback específico sobre tu propia conducta como jefe; (e) cómo medirás el cambio y cuándo volverás a conversar; (f) qué harás si el problema no es de información.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **feedback útil y accionable** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. preparar hechos y propósito → 2. describir conducta concreta → 3. explicar impacto sin leer mente → 4. escuchar contexto y comprobar comprensión → 5. acordar conducta futura y seguimiento** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta tiempo entre evento y feedback, conductas observables acordadas; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Clasifica los últimos tres feedbacks que diste: tarea, proceso o yo.
+2. Reescribe uno que apuntaba al yo con la estructura hecho, efecto y acción.
+3. Identifica cuál de los tres disparadores se activa más en ti al recibir críticas.
+4. Pide a alguien un feedback específico sobre algo concreto y resume lo que entendiste.
+5. Piensa en una situación donde el feedback no es la herramienta y escribe cuál sí lo es.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar observación y impacto como sinónimos | Se pierde la distinción entre “descripción de conducta o resultado sin atribuir intención” y “consecuencia concreta sobre trabajo, persona o stakeholder” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “acordar conducta futura y seguimiento” | Se saltó “preparar hechos y propósito” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. preparar hechos y propósito → 2. describir conducta concreta → 3. explicar impacto sin leer mente → 4. escuchar contexto y comprobar comprensión → 5. acordar conducta futura y seguimiento y marca el primer supuesto no demostrado. |
-| Optimizar solo tiempo entre evento y feedback | La métrica local sustituyó al resultado del sistema | Contrástala con conductas observables acordadas y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre feedback útil y accionable | Feedback informal no reemplaza procesos formales cuando existen riesgos de desempeño, acoso, discriminación o consecuencias laborales. La documentación y asesoría apropiada importan. |
-| No fijar revisión | Una decisión sobre feedback útil y accionable se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Juzgar a la persona | Es lo que se infiere | Describir la conducta o el producto. |
+| Feedback vago | Se evita incomodar | Hecho, efecto y acción concretos. |
+| Esperar mucho para darlo | Se acumulan observaciones | Darlo cerca del hecho. |
+| Defenderse al recibirlo | Se activa un disparador | Agradecer, resumir y decidir después. |
+| Dar feedback a quien necesita otra cosa | No se identifica el obstáculo | Distinguir información, capacidad, medios y motivación. |
+| Elogio genérico | Se quiere animar | Decir qué hizo bien y qué efecto tuvo. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **observación** y **impacto** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **feedforward** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **preparar hechos y propósito → describir conducta concreta** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **tiempo entre evento y feedback** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **feedback útil y accionable**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Feedback informal no reemplaza procesos formales cuando existen riesgos de desempeño, acoso, discriminación o consecuencias laborales. La documentación y asesoría apropiada importan.**?
+1. ¿Qué encontraron Kluger y DeNisi sobre el efecto promedio y la variación del feedback?
+2. ¿Qué tres niveles de atención distinguen y cuál tiende a ser dañino?
+3. Formula un feedback con hecho, efecto y acción sobre un informe sin conclusiones.
+4. ¿Cuáles son los tres disparadores de Stone y Heen?
+5. ¿Qué diferencia hay entre pedir feedback general y específico?
+6. ¿Cuándo el feedback no es la herramienta adecuada?
+7. ¿Qué límite tiene la evidencia de Kluger y DeNisi?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. En promedio mejora el desempeño, pero con mucha variación: en más de un tercio de los casos lo redujo.
+2. Tarea, proceso y yo; el dirigido al yo tiende a ser dañino o inútil.
+3. Por ejemplo: «El informe presenta tres cifras sin concluir (hecho). El comité no supo qué decidir (efecto). Cierra con una recomendación de una frase (acción).»
+4. Verdad, relación e identidad.
+5. El general invita a respuestas vagas; el específico centra la atención en la tarea y es más fácil de responder.
+6. Cuando el obstáculo no es información: falta de capacidad, de medios o un problema estructural.
+7. Son promedios de muchos estudios, con entornos acotados; su aplicación a un caso concreto exige criterio.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/030-feedback-util-y-accionable/`:
 
-- `people-decision-brief.md` con el problema específico de **feedback útil y accionable**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **feedback útil y accionable** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **observación**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un gerente dice a una analista: 'te falta actitud ejecutiva'. Ella no sabe qué cambiar. En realidad, en tres comités presentó datos sin recomendación y respondió preguntas defensivamente.** y el dato que podría invalidar la recomendación.
+- `people-decision-brief.md` (plantilla [People Decision Brief](../../../../templates/people-decision-brief.md)) con el plan de feedback del caso ejecutivo;
+- `reading-note.md` con una tensión entre Kluger y DeNisi y Stone y Heen;
+- `decision-journal.md` con el feedback formulado, la reacción y el seguimiento.
 
 ## 📗 Fuentes y verificación
 
-- Chip Heath & Dan Heath — *Made to Stick* (Penguin Random House, 2007). **Uso en esta clase:** diseño de mensajes memorables, concretos y accionables. Lectura selectiva sobre **feedback útil y accionable**. **Localizador:** [ISBN-13 9781905211562](https://openlibrary.org/isbn/9781905211562).
-- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** mecanismos de influencia y sus límites éticos. Lectura selectiva sobre **feedback útil y accionable**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
-- Kerry Patterson et al. — *Crucial Conversations* (McGraw Hill, 2012). **Uso en esta clase:** perspectiva de Comunicación aplicada al problema de la clase. Lectura selectiva sobre **feedback útil y accionable**. **Localizador:** [ISBN-13 9781259005213](https://openlibrary.org/isbn/9781259005213).
-- Nancy Duarte — *Resonate* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseño narrativo de presentaciones que movilizan una audiencia. Lectura selectiva sobre **feedback útil y accionable**. **Localizador:** [ISBN-13 9781118014875](https://openlibrary.org/isbn/9781118014875).
-- Dale Carnegie — *How to Win Friends and Influence People* (Min zhu yu jian she chu ban she, 2004). **Uso en esta clase:** perspectiva de Comunicación aplicada al problema de la clase. Lectura selectiva sobre **feedback útil y accionable**. **Localizador:** [ISBN-13 9787801121820](https://openlibrary.org/isbn/9787801121820).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **feedback útil y accionable**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **feedback útil y accionable** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **feedback útil y accionable**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **feedback útil y accionable** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **feedback útil y accionable** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **feedback útil y accionable** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Avraham N. Kluger & Angelo DeNisi — *The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory* (Psychological Bulletin, 1996). **Uso en esta clase:** niveles de atención y efecto variable del feedback. Lectura selectiva sobre **feedback útil y accionable**. **Localizador:** [DOI 10.1037/0033-2909.119.2.254](https://doi.org/10.1037/0033-2909.119.2.254).
+- Douglas Stone & Sheila Heen — *Thanks for the Feedback* (Viking, 2014). **Uso en esta clase:** los tres disparadores de quien recibe feedback. Lectura selectiva sobre **feedback útil y accionable**. **Localizador:** [ISBN-13 9780670014668](https://openlibrary.org/isbn/9780670014668).
+- Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* (Random House Audio, 1999). **Uso en esta clase:** conducir la conversación difícil. Lectura selectiva sobre **feedback útil y accionable**. **Localizador:** [ISBN-13 9780553525687](https://openlibrary.org/isbn/9780553525687).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica para dar y recibir feedback. Lectura selectiva sobre **feedback útil y accionable**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
+- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** el efecto emocional del líder al dar feedback. Lectura selectiva sobre **feedback útil y accionable**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
 
-> **Regla de fuentes para Feedback útil y accionable:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **feedback útil y accionable** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Feedback útil y accionable:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -1,65 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 606.12" width="1040" role="img" aria-labelledby="t-g28 d-g28" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g28">Ficha visual de la clase 028: Presentaciones para decisiones</title>
-<desc id="d-g28">Conceptos: decision ask; storyline; slide headline; visual evidence; appendix. Método: definir quién decide y qué necesita decidir → construir storyline de cinco a siete mensajes → usar headlines que expresen conclusiones → mostrar evidencia mínima suficiente → ensayar objeciones y cerrar con ask.</desc>
-<defs><marker id="p-g28" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="606.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#1a7f37"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 028 · Presentaciones para decisiones</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 02 · Autoliderazgo y fundamentos ejecutivos</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#1a7f37"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >decision ask</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >acción concreta solicitada a la audiencia</text>
-<circle cx="38" cy="170" r="5" fill="#1a7f37"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >storyline</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >secuencia lógica que conecta problema con recomendación</text>
-<circle cx="38" cy="228" r="5" fill="#1a7f37"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >slide headline</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >título que expresa el punto, no solo el tema</text>
-<circle cx="38" cy="286" r="5" fill="#1a7f37"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >visual evidence</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >gráfico o tabla elegido para sostener una afirmación</text>
-<circle cx="38" cy="344" r="5" fill="#1a7f37"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >appendix</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >material de respaldo para preguntas sin contaminar la</text>
-<text x="54" y="383.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >narrativa</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#1a7f37" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#1a7f37"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >definir quién decide y qué necesita decidir</text>
-<circle cx="485" cy="176" r="14" fill="#1a7f37"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >construir storyline de cinco a siete mensajes</text>
-<circle cx="485" cy="230" r="14" fill="#1a7f37"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >usar headlines que expresen conclusiones</text>
-<circle cx="485" cy="284" r="14" fill="#1a7f37"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >mostrar evidencia mínima suficiente</text>
-<circle cx="485" cy="338" r="14" fill="#1a7f37"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >ensayar objeciones y cerrar con ask</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="253.7" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#1a7f37"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >tiempo hasta llegar a la decisión</text>
-<rect x="291.7" y="442.12" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="304.7" cy="455.12" r="3.5" fill="#1a7f37"/>
-<text x="315.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >slides por mensaje</text>
-<rect x="451.9" y="442.12" width="239.9" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="464.9" cy="455.12" r="3.5" fill="#1a7f37"/>
-<text x="475.9" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >preguntas resueltas en appendix</text>
-<rect x="701.8" y="442.12" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="714.8" cy="455.12" r="3.5" fill="#1a7f37"/>
-<text x="725.8" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >claridad del ask</text>
-<rect x="28" y="474.12" width="274.4" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="487.12" r="3.5" fill="#1a7f37"/>
-<text x="52" y="491.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decisiones pospuestas por ambigüedad</text>
-<rect x="28" y="520.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="520.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="540.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="558.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No todas las decisiones requieren slides. Un memo puede ser superior cuando se necesita precisión, lectura asincrónica o discusión</text>
-<text x="48" y="575.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >detallada; el medio debe servir al problema.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 600" width="1040" role="img" aria-labelledby="t-028 d-028" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-028">Anatomía de una presentación para decidir</title>
+<desc id="d-028">Una lámina de decisión: el título es la afirmación, la evidencia la respalda, y al pie se pide la decisión.</desc>
+<defs><marker id="p-028" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="600" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 028 · La lámina existe para que alguien decida</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Duarte (2010) · Minto (2005)</text>
+<rect x="28" y="84" width="600" height="400" rx="12" fill="#ffffff" stroke="#59636e" stroke-width="1.6" />
+<text x="52" y="128" font-size="17" font-weight="700" fill="#1f2328" text-anchor="start" >Mantener el proveedor actual cuesta 8 % menos en 3 años</text>
+<line x1="52" y1="142" x2="604" y2="142" stroke="#d0d7de"/>
+<rect x="68" y="304" width="26" height="120" fill="#0969da" fill-opacity="0.8"/>
+<rect x="98" y="274" width="26" height="150" fill="#bc4c00" fill-opacity="0.8"/>
+<rect x="138" y="284" width="26" height="140" fill="#0969da" fill-opacity="0.8"/>
+<rect x="168" y="274" width="26" height="150" fill="#bc4c00" fill-opacity="0.8"/>
+<rect x="208" y="274" width="26" height="150" fill="#0969da" fill-opacity="0.8"/>
+<rect x="238" y="274" width="26" height="150" fill="#bc4c00" fill-opacity="0.8"/>
+<text x="68" y="446" font-size="11" font-weight="400" fill="#59636e" text-anchor="start" >Año 1        Año 2        Año 3</text>
+<text x="298" y="214" font-size="12" font-weight="700" fill="#0969da" text-anchor="start" >Actual</text>
+<text x="298" y="232" font-size="12" font-weight="700" fill="#bc4c00" text-anchor="start" >Alternativa</text>
+<text x="298" y="264" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Las tres cifras que sostienen el título,</text>
+<text x="298" y="281.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >con la fuente y la fecha al pie.</text>
+<rect x="28" y="440" width="600" height="44" rx="0" fill="#1a7f37" fill-opacity="0.14"/>
+<text x="52" y="467" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Decisión pedida: renovar por 36 meses, antes del 30 de marzo.</text>
+<circle cx="656" cy="128" r="13" fill="#1a7f37"/>
+<text x="656" y="133" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="680" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >El título es una afirmación, no un tema: se</text>
+<text x="680" y="141.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >puede aceptar o rebatir.</text>
+<circle cx="656" cy="284" r="13" fill="#1a7f37"/>
+<text x="656" y="289" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="680" y="280" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Una sola idea y la evidencia mínima que la</text>
+<text x="680" y="297.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >sostiene.</text>
+<circle cx="656" cy="462" r="13" fill="#1a7f37"/>
+<text x="656" y="467" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="680" y="458" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Se pide una decisión concreta, con fecha.</text>
+<rect x="648" y="354" width="364" height="112" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="664" y="380" font-size="11" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.2">ANTES DE LA LÁMINA</text>
+<text x="664" y="400" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Cómo es hoy y cómo podría ser: el cambio que se</text>
+<text x="664" y="417.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >propone es el puente entre ambos.</text>
+<text x="28" y="556" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Los datos del ejemplo son ilustrativos. Las alternativas que se descartaron van en un anexo, no en la lámina.</text>
 </svg>

@@ -10,217 +10,184 @@
 
 ## 🎯 Propósito
 
-La persuasión ética cambia creencias o decisiones mediante relevancia, evidencia, reciprocidad y diseño de opciones sin engaño ni coerción. Comprender principios de influencia sirve también para defenderse de ellos. La frontera ética está en la transparencia material, la libertad de elección y la ausencia de explotación de vulnerabilidades.
+Dirigir es lograr que otros hagan cosas, y casi siempre sin poder ordenarlas: pares, otras áreas, clientes, socios y autoridades no responden al organigrama. Por eso influir es parte del trabajo. Y como toda capacidad útil, puede usarse bien o mal: la misma técnica que ayuda a que una propuesta sea escuchada puede usarse para que alguien acepte lo que no le conviene.
 
-La salida de esta parte es **convertir comunicación, influencia y negociación en sistemas de decisión y relación**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **persuasión ética e influencia** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase da dos instrumentos. El primero es un **mapa de las palancas de influencia**, a partir de los seis principios que describe Robert Cialdini y de las tácticas de influencia que ordena Gary Yukl. El segundo es una **frontera ética** con dos pruebas simples para distinguir persuasión, manipulación y coerción. Al terminar sabrás reconocer qué palanca estás usando, cuándo cruza la línea y cómo detectar cuándo la usan contigo.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `reciprocidad`, `prueba social`, `autoridad`, `escasez`, `coerción` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. definir interés legítimo de la audiencia → 2. seleccionar evidencia relevante → 3. hacer visibles costos y alternativas → 4. usar influencia sin ocultar información material → 5. dejar espacio real para disentir o rechazar** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** conversión informada, objeciones resueltas sin ocultarlas, retractaciones posteriores sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Nombrar** los seis principios de influencia de Cialdini y dar un uso legítimo y un abuso de cada uno.
+2. **Aplicar** las dos pruebas —transparencia del interés y libertad de rechazar— para clasificar una conducta.
+3. **Reconocer** las tácticas de influencia hacia pares y superiores y elegir la más adecuada.
+4. **Detectar** cuándo alguien aplica una de estas palancas sobre ti.
+5. **Decidir** cuándo no influir, y qué hacer en lugar de ello.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define reciprocidad y prueba social sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con conversión informada y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda una vez que te convencieron de algo y luego lamentaste haber cedido; ¿qué palanca usaron? |
+| 20–60 min | Las seis palancas y las dos pruebas éticas. |
+| 60–105 min | Ejemplo trabajado: una negociación interna con cuatro conductas posibles. |
+| 105–140 min | Caso ejecutivo: obtener apoyo para una propuesta sin cruzar la línea. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **reciprocidad** | tendencia a corresponder beneficios o concesiones | Distingue un hecho compatible y otro que lo refute. |
-| **prueba social** | uso de conducta de otros como señal de qué es apropiado | Distingue un hecho compatible y otro que lo refute. |
-| **autoridad** | señal de expertise o legitimidad que influye en confianza | Distingue un hecho compatible y otro que lo refute. |
-| **escasez** | mayor valor percibido cuando una opción parece limitada | Distingue un hecho compatible y otro que lo refute. |
-| **coerción** | presión que reduce de manera impropia la libertad real de elección | Distingue un hecho compatible y otro que lo refute. |
+| **Persuasión** | Influencia que expone su propósito y deja decidir (criterio de la clase). | El interés es visible y se puede decir que no. |
+| **Manipulación** | Influencia que oculta su propósito o explota una debilidad (criterio de la clase). | Se esconde el interés o se aprovecha una vulnerabilidad. |
+| **Coerción** | Influencia que condiciona la decisión con una amenaza (criterio de la clase). | Rechazar tiene un costo impuesto por quien influye. |
+| **Reciprocidad** | Tendencia a devolver lo recibido (Cialdini, 2016). | Un favor genera una obligación percibida. |
+| **Coherencia y compromiso** | Tendencia a actuar de acuerdo con compromisos previos (Cialdini, 2016). | Se recuerda lo que la persona dijo antes. |
+| **Prueba social** | Tendencia a seguir lo que hacen otros (Cialdini, 2016). | Se invoca lo que «todos» hacen. |
+| **Autoridad, simpatía y escasez** | Los otros tres principios descritos por Cialdini (2016). | Se apela a la experiencia, a la afinidad o a la rareza. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 033: 1. definir interés legítimo de la audiencia → 2. seleccionar evidencia relevante → 3. hacer visibles costos y alternativas → 4. usar influencia sin ocultar información material → 5. dejar espacio real para disentir o rechazar](modelo-mental.svg)
+![Persuasión, manipulación y coerción: un espectro de influencia con dos pruebas, la transparencia del interés y la libertad de rechazar, y seis palancas de influencia con su uso legítimo y su abuso.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir interés legítimo de la audiencia → 2. seleccionar evidencia relevante → 3. hacer visibles costos y alternativas → 4. usar influencia sin ocultar información material → 5. dejar espacio real para disentir o rechazar
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **La persuasión ética cambia creencias o decisiones mediante relevancia, evidencia, reciprocidad y diseño de opciones sin engaño ni coerción. Comprender principios de influencia sirve también para defenderse de ellos. La frontera ética está en la transparencia material, la libertad de elección y la ausencia de explotación de vulnerabilidades.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La influencia deja de ser ética cuando usa falsedad, urgencia fabricada, amenaza impropia o vulnerabilidad. El resultado comercial no justifica deteriorar autonomía o confianza.**
+**Cómo leer el diagrama.** Arriba, el espectro: de la persuasión a la coerción disminuye la libertad de quien recibe. Debajo, dos preguntas permiten ubicar una conducta. Abajo, las seis palancas: la columna verde de cada una es un uso legítimo; la roja, su abuso. La misma palanca sirve a ambos fines; lo que cambia es la transparencia y la libertad.
 
 ## 📖 Desarrollo
 
-### 1. reciprocidad: mecanismo central
+### 1. Influir es parte del trabajo
 
-**reciprocidad** se entiende aquí como **tendencia a corresponder beneficios o concesiones**. Esta es la pieza causal o estructural desde la que se inicia **persuasión ética e influencia**: antes de definir interés legítimo de la audiencia, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Yukl describe la influencia como el uso del poder para lograr que otros hagan o acepten algo, y señala que en las organizaciones se ejerce hacia abajo, lateralmente y hacia arriba. Quien no tiene autoridad formal sobre la persona debe influir con otras herramientas: razones, relación, coaliciones, reciprocidad. No influir es una decisión, y suele dejar la agenda en manos de quien sí lo hace.
 
-La lectura rectora de este bloque es Chip Heath & Dan Heath — *Made to Stick*. Su aporte se usa para examinar **diseño de mensajes memorables, concretos y accionables**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **conversión informada**; regístrala con periodo, unidad, población y baseline.
+### 2. Los seis principios de Cialdini
 
-Relaciona el mecanismo con **prueba social**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Cialdini describe seis tendencias que orientan cómo las personas deciden, a partir de investigación y de su observación de profesionales de la persuasión. **Reciprocidad:** devolvemos lo recibido. **Coherencia y compromiso:** tendemos a ser consistentes con lo que dijimos o hicimos. **Prueba social:** miramos lo que hacen otros. **Autoridad:** damos peso a quien percibimos experto. **Simpatía:** accedemos más a quien nos agrada. **Escasez:** valoramos lo que parece limitado. Son atajos mentales útiles que pueden ser explotados.
 
-### 2. prueba social: frontera conceptual y error de clasificación
+### 3. Uso legítimo y abuso
 
-**Definición operacional:** uso de conducta de otros como señal de qué es apropiado. Su valor está en distinguirlo de **reciprocidad** y **autoridad**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Cada palanca tiene un uso que ayuda a decidir bien y otro que lo dificulta. **Reciprocidad:** reconocer un favor real frente a crear una deuda para cobrarla. **Coherencia:** recordar un compromiso propio frente a escalar compromisos pequeños hasta atrapar. **Prueba social:** mostrar lo que otros hacen de verdad frente a inventar un consenso. **Autoridad:** citar experiencia relevante frente a usar el cargo para impedir preguntas. **Simpatía:** encontrar afinidades reales frente a halagar para bajar la guardia. **Escasez:** informar un plazo real frente a fabricar urgencia.
 
-Contrasta el problema con Robert B. Cialdini — *Influence*, que aporta una mirada sobre **mecanismos de influencia y sus límites éticos**. Formula dos mini-casos: uno que sí satisface la definición de **prueba social** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **objeciones resueltas sin ocultarlas** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Dos pruebas para la frontera
 
-Antes de seleccionar evidencia relevante, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Cialdini describe los mecanismos; la frontera ética es un criterio de esta clase, y se aplica con dos preguntas. **¿Mi interés es transparente?** Si lo ocultaría o me incomodaría que la otra persona lo supiera, algo falla. **¿Puede la otra persona decir que no sin castigo?** Si no, ya no es persuasión. Una conducta que supera ambas pruebas es persuasión; si falla la primera, manipulación; si falla la segunda, coerción.
 
-### 3. autoridad: operacionalización y medición
+### 5. Las tácticas de influencia en la organización
 
-**autoridad** significa **señal de expertise o legitimidad que influye en confianza**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Yukl ordena tácticas que se usan en el trabajo: persuasión racional (argumentos y evidencia), llamados inspiradores, consulta, intercambio, coaliciones, legitimación (apelar a una norma o a una autoridad) y presión, entre otras. No todas valen para todo: la **persuasión racional** y la **consulta** suelen ser más aceptadas y duraderas que la **presión**, que obtiene obediencia sin compromiso. Elegir la táctica es parte del diseño del mensaje.
 
-Kerry Patterson et al. — *Crucial Conversations* orienta este bloque mediante **perspectiva de Comunicación aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **retractaciones posteriores**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Detectar la influencia sobre ti
 
-Al llegar a hacer visibles costos y alternativas, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cuando sientas urgencia, deuda o la tentación de aceptar para ser coherente, hazte tres preguntas: **¿quién gana con que acepte?**, **¿qué información me falta?** y **¿qué pasaría si espero un día?** Pedir tiempo y consultar a un tercero independiente reduce la fuerza de casi todas las palancas, y es una práctica sensata ante decisiones importantes.
 
-### 4. escasez: trade-offs y efectos de segundo orden
+### 7. Cuando no influir
 
-**Definición:** mayor valor percibido cuando una opción parece limitada. Este concepto obliga a abandonar la idea de que **persuasión ética e influencia** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de usar influencia sin ocultar información material, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Edgar H. Schein — *Humble Inquiry* aporta una lente sobre **preguntas que reducen jerarquía defensiva y mejoran información**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **quejas por presión** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **persuasión ética e influencia**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **escasez** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. coerción: gobernanza, límites e integración
-
-**coerción** se define como **presión que reduce de manera impropia la libertad real de elección** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Chris Voss & Tahl Raz — *Never Split the Difference* se utiliza para estudiar **negociación táctica, escucha, calibración y manejo de información imperfecta** y contrastar la recomendación final. Al ejecutar dejar espacio real para disentir o rechazar, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **La influencia deja de ser ética cuando usa falsedad, urgencia fabricada, amenaza impropia o vulnerabilidad. El resultado comercial no justifica deteriorar autonomía o confianza.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **reciprocidad**, **prueba social**, **autoridad**, **escasez** y **coerción** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **persuasión ética e influencia** no consiste en sumar cinco definiciones. Empieza por **reciprocidad**, contrasta **prueba social** con **autoridad**, incorpora **escasez** como restricción o mecanismo y usa **coerción** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir interés legítimo de la audiencia → 2. seleccionar evidencia relevante → 3. hacer visibles costos y alternativas → 4. usar influencia sin ocultar información material → 5. dejar espacio real para disentir o rechazar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Hay situaciones donde conviene no influir sino informar o escuchar: cuando la decisión es de otro y debe ser libre, cuando existe una asimetría que haría la influencia equivalente a presión, o cuando tu interés está en conflicto con el de la persona. En esos casos se declara el interés y se deja decidir.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Chip Heath & Dan Heath — *Made to Stick* | diseño de mensajes memorables, concretos y accionables | ¿Qué supuesto de **persuasión ética e influencia** ayuda a desafiar? |
-| Robert B. Cialdini — *Influence* | mecanismos de influencia y sus límites éticos | ¿Qué supuesto de **persuasión ética e influencia** ayuda a desafiar? |
-| Kerry Patterson et al. — *Crucial Conversations* | perspectiva de Comunicación aplicada al problema de la clase | ¿Qué supuesto de **persuasión ética e influencia** ayuda a desafiar? |
-| Edgar H. Schein — *Humble Inquiry* | preguntas que reducen jerarquía defensiva y mejoran información | ¿Qué supuesto de **persuasión ética e influencia** ayuda a desafiar? |
-| Chris Voss & Tahl Raz — *Never Split the Difference* | negociación táctica, escucha, calibración y manejo de información imperfecta | ¿Qué supuesto de **persuasión ética e influencia** ayuda a desafiar? |
-
-En **persuasión ética e influencia**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **reciprocidad**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Cialdini (2016) | Seis principios de influencia. | La frontera ética no es su objeto central. | ¿Qué palanca usas y puedes decirlo en voz alta? |
+| Yukl (2010) | Tácticas de influencia en la organización. | No es un tratado de ética. | ¿Qué táctica usarías sin conocer tu poder? |
+| Carnegie (2004) | Interés genuino por el otro como base de la relación. | Es un texto de divulgación, anterior a la investigación citada. | ¿Qué te interesa de esta persona? |
+| Heath y Heath (2007) | Cómo hacer un mensaje comprensible. | No trata de ética. | ¿Tu mensaje se entiende sin presión? |
+| Goleman, Boyatzis y McKee (2002) | Cómo el líder influye por su estado emocional. | No clasifica tácticas. | ¿Qué estado usas para influir? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un proveedor afirma que una oferta expira 'hoy' aunque sabe que puede extenderla. El comprador siente presión por escasez artificial y no compara alternativas.
+**Situación (hipotética).** Una jefa de ventas quiere que el área de operaciones priorice un pedido urgente de un cliente grande. Considera cuatro conductas.
 
-**Paso 1 — definir interés legítimo de la audiencia.** La gerencia escribe primero el supuesto asociado a **reciprocidad** y evita convertirlo en hecho. Luego busca **conversión informada** para contrastarlo en el caso de **persuasión ética e influencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Conducta | Palanca | ¿Interés transparente? | ¿Puede decir no sin castigo? | Clasificación |
+|---|---|---|---|---|
+| «Es un cliente de USD 400.000 anuales y el plazo contractual es el viernes. ¿Qué necesitarías para cumplirlo?» | Escasez real, persuasión racional | Sí | Sí | **Persuasión** |
+| «Te cubrí en la auditoría del mes pasado; ahora me debes esta.» | Reciprocidad convertida en deuda | Parcial | Sí, pero con costo relacional | **Manipulación** si la deuda se fabricó |
+| «Todos los demás jefes ya aceptaron priorizar mi pedido.» (no es cierto) | Prueba social inventada | No | Sí | **Manipulación** |
+| «Si no lo haces, informaré a la gerencia de que tu área bloqueó la venta.» | Amenaza | Sí | No | **Coerción** |
 
-**Paso 2 — seleccionar evidencia relevante.** La gerencia escribe primero el supuesto asociado a **prueba social** y evita convertirlo en hecho. Luego busca **objeciones resueltas sin ocultarlas** para contrastarlo en el caso de **persuasión ética e influencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Reescritura de la conducta 2.** «Quiero pedir tu ayuda: el pedido es urgente y no tengo cómo cumplirlo sin tu área. Entiendo si tienes otra prioridad; ¿qué podemos hacer?» Mantiene la relación y declara el interés.
 
-**Paso 3 — hacer visibles costos y alternativas.** La gerencia escribe primero el supuesto asociado a **autoridad** y evita convertirlo en hecho. Luego busca **retractaciones posteriores** para contrastarlo en el caso de **persuasión ética e influencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — usar influencia sin ocultar información material.** La gerencia escribe primero el supuesto asociado a **escasez** y evita convertirlo en hecho. Luego busca **quejas por presión** para contrastarlo en el caso de **persuasión ética e influencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — dejar espacio real para disentir o rechazar.** La gerencia escribe primero el supuesto asociado a **coerción** y evita convertirlo en hecho. Luego busca **calidad de consentimiento** para contrastarlo en el caso de **persuasión ética e influencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **persuasión ética e influencia**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Una misma palanca puede ser legítima o un abuso. (2) Las dos pruebas permiten clasificar sin discutir la intención. (3) Si la persuasión falla, la salida legítima es escalar con transparencia, no coaccionar.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **reciprocidad** | tendencia a corresponder beneficios o concesiones | Cuando conversión informada es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **prueba social** | uso de conducta de otros como señal de qué es apropiado | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Influir frente a manipular.** Ambos buscan un cambio; la diferencia está en la transparencia y en la libertad. Una conducta puede ser eficaz y éticamente inaceptable.
 
-**Frontera de aplicación:** La influencia deja de ser ética cuando usa falsedad, urgencia fabricada, amenaza impropia o vulnerabilidad. El resultado comercial no justifica deteriorar autonomía o confianza.
+**Límites.** Los principios de Cialdini se han desarrollado a partir de estudios y de observación de prácticas de venta y marketing; su peso relativo varía con la cultura y el contexto. La clasificación en persuasión, manipulación y coerción es un criterio de trabajo de la clase y existen casos intermedios. Y conviene recordar que la relación de poder cambia la lectura: lo que un par ve como invitación, un subordinado puede sentirlo como presión.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre persuasión ética e influencia |
+| Nivel | Cómo influye |
 |---|---|
-| **Profesional** | usa **persuasión ética e influencia** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **reciprocidad** y **prueba social** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta conversión informada con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si persuasión ética e influencia cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de persuasión ética e influencia reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **persuasión ética e influencia** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Usa razones y evidencia para que su propuesta sea escuchada. |
+| **Jefe / Team Lead** | Influye por la consulta y el ejemplo, y cuida que su autoridad no se use para callar. |
+| **Gerente** | Construye coaliciones con otras áreas declarando sus intereses. |
+| **CEO / Director** | Reconoce que su cargo amplifica cualquier palanca y adopta límites explícitos. |
+| **Founder / Owner** | Influye sobre clientes, socios e inversionistas con transparencia: su reputación es su activo. |
 
 ## 🏢 Caso ejecutivo
 
-Un proveedor afirma que una oferta expira 'hoy' aunque sabe que puede extenderla. El comprador siente presión por escasez artificial y no compara alternativas.
+Un gerente de proyectos necesita que otras tres áreas cedan personal durante dos meses para un lanzamiento. No tiene autoridad sobre ellas. Dos jefes se oponen; uno de ellos le debe un favor. La fecha del lanzamiento es real y tiene penalizaciones contractuales. El director general apoya el lanzamiento, pero no ha dicho que obligará a nadie.
 
-Entrega un **decision brief de persuasión ética e influencia** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de influencia** que contenga: (a) los intereses de cada área y los tuyos, declarados; (b) las palancas y tácticas que usarás y por qué son legítimas; (c) la clasificación de cada conducta con las dos pruebas; (d) lo que no harás; (e) cómo reaccionarías si alguien usa una palanca sobre ti; (f) cuándo y cómo escalarás con transparencia.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **persuasión ética e influencia** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir interés legítimo de la audiencia → 2. seleccionar evidencia relevante → 3. hacer visibles costos y alternativas → 4. usar influencia sin ocultar información material → 5. dejar espacio real para disentir o rechazar** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta conversión informada, objeciones resueltas sin ocultarlas; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Identifica la palanca que más usas y escribe un uso legítimo y un abuso posible.
+2. Aplica las dos pruebas a tres conductas de tu semana.
+3. Reescribe una petición manipulativa como una persuasión transparente.
+4. Piensa en la última decisión que tomaste con urgencia: ¿quién fijó el plazo?
+5. Define una regla personal: ante una decisión importante, ¿a quién consultas y cuánto esperas?
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar reciprocidad y prueba social como sinónimos | Se pierde la distinción entre “tendencia a corresponder beneficios o concesiones” y “uso de conducta de otros como señal de qué es apropiado” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “dejar espacio real para disentir o rechazar” | Se saltó “definir interés legítimo de la audiencia” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir interés legítimo de la audiencia → 2. seleccionar evidencia relevante → 3. hacer visibles costos y alternativas → 4. usar influencia sin ocultar información material → 5. dejar espacio real para disentir o rechazar y marca el primer supuesto no demostrado. |
-| Optimizar solo conversión informada | La métrica local sustituyó al resultado del sistema | Contrástala con objeciones resueltas sin ocultarlas y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre persuasión ética e influencia | La influencia deja de ser ética cuando usa falsedad, urgencia fabricada, amenaza impropia o vulnerabilidad. El resultado comercial no justifica deteriorar autonomía o confianza. |
-| No fijar revisión | Una decisión sobre persuasión ética e influencia se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Ocultar el interés | Se teme que el otro rechace | Declararlo y dar razones. |
+| Fabricar urgencia | La presión acelera la respuesta | Informar solo plazos reales. |
+| Usar el cargo para callar | Es eficaz a corto plazo | Responder las preguntas con razones. |
+| Cobrar favores como deudas | Se considera un intercambio | Pedir ayuda declarando que se puede negar. |
+| No influir | Se confunde con manipular | Persuadir con evidencia y consulta. |
+| Ignorar la asimetría de poder | Se supone igualdad | Reconocer que tu cargo cambia la lectura. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **reciprocidad** y **prueba social** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **autoridad** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir interés legítimo de la audiencia → seleccionar evidencia relevante** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **conversión informada** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **persuasión ética e influencia**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **La influencia deja de ser ética cuando usa falsedad, urgencia fabricada, amenaza impropia o vulnerabilidad. El resultado comercial no justifica deteriorar autonomía o confianza.**?
+1. ¿Cuáles son los seis principios de influencia de Cialdini?
+2. ¿Qué dos preguntas distinguen persuasión, manipulación y coerción?
+3. Da un uso legítimo y un abuso de la escasez.
+4. ¿Qué tácticas de Yukl suelen generar compromiso y cuál obediencia sin compromiso?
+5. ¿Qué haces cuando sientes urgencia y deuda ante una decisión importante?
+6. ¿Cuándo conviene no influir?
+7. ¿Qué límite tiene la clasificación en persuasión, manipulación y coerción?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Reciprocidad, coherencia y compromiso, prueba social, autoridad, simpatía y escasez.
+2. ¿Es transparente mi interés? ¿Puede la otra persona decir que no sin castigo?
+3. Legítimo: informar un plazo real. Abuso: fabricar urgencia.
+4. La persuasión racional y la consulta generan compromiso; la presión obtiene obediencia sin compromiso.
+5. Pregunto quién gana, qué información me falta, pido tiempo y consulto a un tercero independiente.
+6. Cuando la decisión es de otro y debe ser libre, cuando hay una asimetría que convertiría la influencia en presión o cuando mi interés está en conflicto con el suyo.
+7. Es un criterio de trabajo de la clase y existen casos intermedios; la relación de poder cambia la lectura.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/033-persuasion-etica-e-influencia/`:
 
-- `risk-governance-brief.md` con el problema específico de **persuasión ética e influencia**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **persuasión ética e influencia** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **reciprocidad**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un proveedor afirma que una oferta expira 'hoy' aunque sabe que puede extenderla. El comprador siente presión por escasez artificial y no compara alternativas.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con el plan de influencia del caso ejecutivo;
+- `reading-note.md` con una tensión entre Cialdini y Yukl;
+- `decision-journal.md` con las conductas clasificadas y las reglas personales que fijaste.
 
 ## 📗 Fuentes y verificación
 
-- Chip Heath & Dan Heath — *Made to Stick* (Penguin Random House, 2007). **Uso en esta clase:** diseño de mensajes memorables, concretos y accionables. Lectura selectiva sobre **persuasión ética e influencia**. **Localizador:** [ISBN-13 9781905211562](https://openlibrary.org/isbn/9781905211562).
-- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** mecanismos de influencia y sus límites éticos. Lectura selectiva sobre **persuasión ética e influencia**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
-- Kerry Patterson et al. — *Crucial Conversations* (McGraw Hill, 2012). **Uso en esta clase:** perspectiva de Comunicación aplicada al problema de la clase. Lectura selectiva sobre **persuasión ética e influencia**. **Localizador:** [ISBN-13 9781259005213](https://openlibrary.org/isbn/9781259005213).
-- Edgar H. Schein — *Humble Inquiry* (ReadHowYouWant.com, Limited, 2013). **Uso en esta clase:** preguntas que reducen jerarquía defensiva y mejoran información. Lectura selectiva sobre **persuasión ética e influencia**. **Localizador:** [ISBN-13 9780369308443](https://openlibrary.org/isbn/9780369308443).
-- Chris Voss & Tahl Raz — *Never Split the Difference* (Penguin Random House, 2016). **Uso en esta clase:** negociación táctica, escucha, calibración y manejo de información imperfecta. Lectura selectiva sobre **persuasión ética e influencia**. **Localizador:** [ISBN-13 9781847941480](https://openlibrary.org/isbn/9781847941480).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **persuasión ética e influencia**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **persuasión ética e influencia** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **persuasión ética e influencia**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **persuasión ética e influencia** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **persuasión ética e influencia** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **persuasión ética e influencia** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** los seis principios de influencia. Lectura selectiva sobre **persuasión ética e influencia**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
+- Gary Yukl — *Leadership in Organizations* (Prentice Hall, 2010). **Uso en esta clase:** tácticas de influencia en la organización. Lectura selectiva sobre **persuasión ética e influencia**. **Localizador:** [ISBN-13 9780132424318](https://openlibrary.org/isbn/9780132424318).
+- Dale Carnegie — *How to Win Friends and Influence People* (Min zhu yu jian she chu ban she, 2004). **Uso en esta clase:** el interés genuino por el otro como base de la relación. Lectura selectiva sobre **persuasión ética e influencia**. **Localizador:** [ISBN-13 9787801121820](https://openlibrary.org/isbn/9787801121820).
+- Chip Heath & Dan Heath — *Made to Stick* (Penguin Random House, 2007). **Uso en esta clase:** hacer un mensaje comprensible sin presión. Lectura selectiva sobre **persuasión ética e influencia**. **Localizador:** [ISBN-13 9781905211562](https://openlibrary.org/isbn/9781905211562).
+- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** el estado emocional como forma de influencia. Lectura selectiva sobre **persuasión ética e influencia**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
 
-> **Regla de fuentes para Persuasión ética e influencia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **persuasión ética e influencia** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Persuasión ética e influencia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -34,7 +34,12 @@
   anterior: muestra los conceptos reales de la clase con su definición, la
   secuencia del método en cuatro diseños distintos, las señales a observar y el
   límite. Se regenera con la clase.
-- **Nueve fuentes verificadas** (DOI e ISBN comprobados) entran al registro.
+- **La parte 02 completa se reescribe a mano** (025–036, con la 034 ya hecha): cada clase
+  con su marco atribuido, ejemplo con datos, claves de respuesta, límites y un
+  diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
+  decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
+  relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **Catorce fuentes verificadas** (DOI e ISBN comprobados) entran al registro.
 - Una clase con `authoring: manual` en su `lesson.yaml` no la regenera
   `deep_curriculum_builder.py`.
 - Nuevos `tools/diagramas_clase.py` y `tools/build_diagrams.py` (con `--check` en

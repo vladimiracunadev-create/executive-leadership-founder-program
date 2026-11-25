@@ -5,31 +5,27 @@ duration_minutes: 150
 level: "Etapa 1 — Profesional → Líder"
 outcome: "convertir comunicación, influencia y negociación en sistemas de decisión y relación"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir gravitas de claridad mediante evidencia observable."
-  - "Aplicar la secuencia: preparar tres mensajes y datos clave → regular ritmo, respiración y lenguaje → responder primero a la pregunta central → declarar incertidumbre y compromiso de seguimiento → solicitar feedback sobre impacto real."
-  - "Interpretar respuestas evasivas, tiempo para llegar al punto, follow-ups cumplidos sin atribuir causalidad automática."
-  - "Resolver el caso de presencia ejecutiva con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-  - "Auditar la adecuación contextual de imagen profesional, conducta no verbal y videoconferencia sin inferir competencia desde la apariencia."
+  - "Distinguir presencia ejecutiva, imagen profesional, estilo, apariencia, reputación y competencia."
+  - "Analizar un contexto con las variables de industria, organización, audiencia, cultura, modalidad y clima."
+  - "Decidir una presentación personal por función y coherencia, no por una receta."
+  - "Preparar el canal de una reunión remota o híbrida con criterios de audio, encuadre, luz y accesibilidad."
+  - "Observar la comunicación no verbal como dato descriptivo y no como diagnóstico."
 deliverable: "risk-governance-brief.md"
 references:
+  - "Yingyi Chang & Jose M. Cortina — *What should I wear to work? An integrative review of the impact of clothing in the workplace*"
+  - "Judith A. Hall, Terrence G. Horgan & Nora A. Murphy — *Nonverbal Communication*"
   - "Amy Cuddy — *Presence*"
-  - "Chip Heath & Dan Heath — *Made to Stick*"
   - "Nancy Duarte — *Resonate*"
-  - "Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations*"
-  - "Barbara Minto — *The Pyramid Principle*"
   - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
-  - "Yingyi Chang & Jose M. Cortina — *What should I wear to work? An integrative review of the impact of clothing in the workplace*. **Uso en esta clase:** distinguir efectos de percepción, variación contextual y sesgos de atribución sin convertir vestuario en competencia. DOI: <https://doi.org/10.1037/apl0001158>."
-  - "Judith A. Hall, Terrence G. Horgan & Nora A. Murphy — *Nonverbal Communication*. **Uso en esta clase:** tratar las señales no verbales como procesos de emisión y percepción cuya interpretación requiere contexto y cautela. DOI: <https://doi.org/10.1146/annurev-psych-010418-103145>."
-  - "Occupational Safety and Health Administration — *Computer Workstations eTool: Monitors*. **Uso en esta clase:** fundamentar distancia, altura, orientación, postura neutral y control de reflejos en videoconferencia. Fuente primaria: <https://www.osha.gov/etools/computer-workstations/components/monitors>."
+  - "Occupational Safety and Health Administration — *Computer Workstations eTool: Monitors*"
 limits:
-  - "Trabajar presencia no debe imponer un molde cultural o físico único ni penalizar introversión, neurodiversidad, discapacidad, edad, género, origen cultural, rasgos físicos o estilos de comunicación no dominantes. Evalúa claridad, criterio, comportamiento y adaptación; no belleza, precio, conformidad estética ni teatralidad."
+  - "La evidencia sobre el efecto de la apariencia en el trabajo es contextual y no permite recetas; la lectura no verbal es probabilística y depende de la cultura y de la persona; y las guías de formalidad son convenciones locales."
 evidence_signals:
-  - "respuestas evasivas"
-  - "tiempo para llegar al punto"
-  - "follow-ups cumplidos"
-  - "feedback de audiencia"
-  - "decisiones entendidas"
+  - "variables del contexto investigadas"
+  - "objetivo de la reunión"
+  - "preparación del canal"
+  - "feedback sobre conducta e impacto"

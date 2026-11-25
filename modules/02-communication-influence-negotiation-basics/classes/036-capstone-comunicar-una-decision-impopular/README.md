@@ -10,217 +10,193 @@
 
 ## 🎯 Propósito
 
-Comunicar una decisión impopular exige explicar contexto, criterio, decisión, impacto y próximos pasos sin esconder el costo humano. La empatía no consiste en prometer que todos estarán de acuerdo; consiste en reconocer consecuencias, permitir preguntas y mantener coherencia entre palabras y acciones.
+Todo directivo termina tomando una decisión que una parte importante de las personas afectadas no quiere: un recorte de presupuesto, un cambio de turnos, el cierre de un proyecto, la salida de alguien. La decisión puede ser correcta y la comunicación puede deshacerla. La investigación sobre justicia organizacional muestra que las personas no evalúan solo **qué** se decidió, sino **cómo** se decidió, **cómo las trataron** y **cómo se les explicó**.
 
-La salida de esta parte es **convertir comunicación, influencia y negociación en sistemas de decisión y relación**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: comunicar una decisión impopular** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Este capstone integra lo trabajado en la parte 02: elegir el canal (clase 025), escuchar (026), estructurar el mensaje (027 y 028), usar una historia con rigor (029), dar feedback (030), conducir la conversación difícil (031), manejar el conflicto (032), influir con ética (033), mapear a los afectados (034) y cuidar tu presencia (035). La base conceptual nueva es el metaanálisis de Colquitt y colegas sobre cuatro dimensiones de la justicia. Al terminar sabrás preparar y ejecutar el anuncio de una decisión impopular con un plan completo y verificable.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `decisión impopular`, `criterio`, `impacto humano`, `Q&A`, `consistencia` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. preparar razones y alternativas consideradas → 2. nombrar decisión temprano → 3. explicar criterio y límites → 4. reconocer impacto sin falsa promesa → 5. abrir preguntas y documentar seguimiento** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** comprensión de la decisión, rumores posteriores, preguntas sin respuesta sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** las cuatro dimensiones de la justicia —distributiva, procedimental, interpersonal e informacional— y qué evalúan las personas en cada una.
+2. **Diseñar** el anuncio de una decisión impopular que cubra las cuatro.
+3. **Secuenciar** la comunicación: a quién primero, por qué canal y con qué mensaje.
+4. **Anticipar** las reacciones y preparar respuestas sin ocultar hechos ni prometer lo que no controlas.
+5. **Evaluar** el resultado con evidencia y corregir lo que falló.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define decisión impopular y criterio sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con comprensión de la decisión y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda una decisión que te perjudicó; ¿qué te molestó más: el resultado, el proceso, el trato o la explicación? |
+| 20–60 min | Las cuatro dimensiones de la justicia y la secuencia del anuncio. |
+| 60–105 min | Ejemplo trabajado: el cierre de un turno de trabajo. |
+| 105–150 min | Caso ejecutivo integrado, usando las herramientas de la parte. |
+| 150–170 min | Límites, rúbrica y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **decisión impopular** | elección legítima que impone costos a parte de los stakeholders | Distingue un hecho compatible y otro que lo refute. |
-| **criterio** | regla usada para comparar alternativas | Distingue un hecho compatible y otro que lo refute. |
-| **impacto humano** | efecto sobre carga, seguridad, rol, identidad o confianza | Distingue un hecho compatible y otro que lo refute. |
-| **Q&A** | espacio de aclaración que no reabre una decisión cerrada salvo nueva evidencia | Distingue un hecho compatible y otro que lo refute. |
-| **consistencia** | coherencia entre mensaje, políticas y acciones posteriores | Distingue un hecho compatible y otro que lo refute. |
+| **Justicia distributiva** | Percepción de justicia del resultado: lo que cada uno recibe o pierde (Colquitt et al., 2001). | «¿Es justo lo que me toca?» |
+| **Justicia procedimental** | Percepción de justicia del proceso por el que se decidió (Colquitt et al., 2001). | «¿Se decidió de manera justa y con voz?» |
+| **Justicia interpersonal** | Percepción del trato recibido: respeto y dignidad (Colquitt et al., 2001). | «¿Me trataron con respeto?» |
+| **Justicia informacional** | Percepción de la calidad de las explicaciones: veracidad, razones y oportunidad (Colquitt et al., 2001). | «¿Me explicaron con claridad y sinceridad?» |
+| **Decisión impopular** | Decisión legítima que perjudica a personas que no la desean. | Genera resistencia aun cuando es necesaria. |
+| **Secuencia del anuncio** | Orden de las audiencias, canales y mensajes. | Los más afectados se enteran primero y por la persona adecuada. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 036: 1. preparar razones y alternativas consideradas → 2. nombrar decisión temprano → 3. explicar criterio y límites → 4. reconocer impacto sin falsa promesa → 5. abrir preguntas y documentar seguimiento](modelo-mental.svg)
+![Cuatro formas de justicia en una decisión impopular: distributiva, procedimental, interpersonal e informacional, con lo que debe contener el anuncio, y la secuencia de cinco pasos.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. preparar razones y alternativas consideradas → 2. nombrar decisión temprano → 3. explicar criterio y límites → 4. reconocer impacto sin falsa promesa → 5. abrir preguntas y documentar seguimiento
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Comunicar una decisión impopular exige explicar contexto, criterio, decisión, impacto y próximos pasos sin esconder el costo humano. La empatía no consiste en prometer que todos estarán de acuerdo; consiste en reconocer consecuencias, permitir preguntas y mantener coherencia entre palabras y acciones.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Transparencia tiene límites legítimos por privacidad, negociación o información sensible. Explica tanto como sea posible sin inventar certeza ni divulgar datos que no corresponde compartir.**
+**Cómo leer el diagrama.** Las cuatro tarjetas son lo que las personas evalúan, aunque no lo digan así. Abajo, la secuencia: los más afectados primero, luego el hecho sin rodeos, el proceso y las razones, lo que viene y lo que se hará por ellos, y un canal para preguntas con fecha de seguimiento. Una buena explicación no compensa un trato irrespetuoso ni un proceso percibido como injusto.
 
 ## 📖 Desarrollo
 
-### 1. decisión impopular: mecanismo central
+### 1. Qué evalúan las personas
 
-**decisión impopular** se entiende aquí como **elección legítima que impone costos a parte de los stakeholders**. Esta es la pieza causal o estructural desde la que se inicia **capstone: comunicar una decisión impopular**: antes de preparar razones y alternativas consideradas, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Colquitt y colegas revisaron 25 años de investigación sobre justicia organizacional y concluyeron que sus dimensiones se distinguen y se asocian a resultados distintos. Quien recibe una decisión adversa se pregunta, a veces sin darse cuenta: ¿es justo el resultado? (distributiva); ¿fue justo el proceso? (procedimental); ¿me trataron con respeto? (interpersonal); ¿me explicaron la verdad con claridad? (informacional). La implicancia práctica es que el líder **controla bastante más que el resultado**: puede cuidar el proceso, el trato y la explicación aun cuando la decisión no cambie.
 
-La lectura rectora de este bloque es Chip Heath & Dan Heath — *Made to Stick*. Su aporte se usa para examinar **diseño de mensajes memorables, concretos y accionables**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **comprensión de la decisión**; regístrala con periodo, unidad, población y baseline.
+### 2. Antes de anunciar: la decisión debe sostenerse
 
-Relaciona el mecanismo con **criterio**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Nada de esto sirve si la decisión es débil. Antes de comunicar, comprueba tres cosas: que **los hechos** que la sostienen sean verificables, que se hayan evaluado **alternativas** y puedas decir cuáles y por qué se descartaron, y que sepas **qué es negociable y qué no**. Una decisión que cambia tras el anuncio por presión, sin hecho nuevo, destruye la credibilidad.
 
-### 2. criterio: frontera conceptual y error de clasificación
+### 3. Justicia distributiva: el resultado, dicho sin rodeos
 
-**Definición operacional:** regla usada para comparar alternativas. Su valor está en distinguirlo de **decisión impopular** y **impacto humano**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Las personas necesitan saber **qué cambia, para quién y en qué medida**. Los eufemismos («reestructuración de capacidades», «optimización de turnos») se interpretan como ocultamiento. Di el hecho con las cifras y los plazos, y lo que se hará para reducir el daño: indemnizaciones, reubicación, plazos de transición. Si no hay compensación posible, no se la sugiere.
 
-Contrasta el problema con Robert B. Cialdini — *Influence*, que aporta una mirada sobre **mecanismos de influencia y sus límites éticos**. Formula dos mini-casos: uno que sí satisface la definición de **criterio** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **rumores posteriores** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Justicia procedimental: cómo se decidió
 
-Antes de nombrar decisión temprano, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Explica el proceso: qué se evaluó, quién participó, qué alternativas se consideraron, qué información se usó. Si hubo oportunidad de que los afectados expresaran su opinión, dilo; si no la hubo, reconócelo y abre un cauce para lo que aún se puede decidir (cómo se implementa, por ejemplo). La percepción de un proceso consistente, sin sesgos y con posibilidad de corrección pesa en la aceptación.
 
-### 3. impacto humano: operacionalización y medición
+### 5. Justicia interpersonal: el trato
 
-**impacto humano** significa **efecto sobre carga, seguridad, rol, identidad o confianza**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El trato se juega en detalles: **quién** da la noticia (alguien con autoridad y cercanía), **dónde** (en privado cuando es personal), **cuándo** (sin esperar a que se filtre) y **cómo** (con respeto, sin condescendencia, sin leer un libreto). Reconoce el impacto en las personas sin dramatizar. Prepara tu estado emocional antes de comunicar: la clase 025 mostró que el tono del líder llega antes que el contenido.
 
-Edgar H. Schein — *Humble Inquiry* orienta este bloque mediante **preguntas que reducen jerarquía defensiva y mejoran información**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **preguntas sin respuesta**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Justicia informacional: la explicación
 
-Al llegar a explicar criterio y límites, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Una explicación es **veraz** (no oculta hechos relevantes), **razonada** (da las razones reales, no las convenientes), **oportuna** (llega antes que el rumor) y **suficiente** (responde lo que la gente necesita saber). Usa la estructura de la clase 025: qué sabemos, qué no sabemos, qué hacemos, cuándo informaremos. Si una parte de las razones es confidencial, dilo y explica por qué, en vez de inventar otras.
 
-### 4. Q&A: trade-offs y efectos de segundo orden
+### 7. La secuencia: a quién, por dónde y cuándo
 
-**Definición:** espacio de aclaración que no reabre una decisión cerrada salvo nueva evidencia. Este concepto obliga a abandonar la idea de que **capstone: comunicar una decisión impopular** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de reconocer impacto sin falsa promesa, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
+El orden importa. En general: primero a los **más afectados**, en conversación directa y antes del anuncio general; luego a quienes deben ejecutar o explicar la decisión (jefaturas) con un mensaje común; después al resto, con el canal que corresponda según la clase 025; y, si procede, a clientes, medios y autoridades. Usa el mapa de interesados de la clase 034 para definir los actores y el nivel de atención. Define quién habla con quién, qué se dice y cómo se registra.
 
-Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* aporta una lente sobre **negociación basada en intereses, opciones y criterios objetivos**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **rotación o compromiso** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
+### 8. Anticipar reacciones y responder
 
-Haz un *pre-mortem* de **capstone: comunicar una decisión impopular**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **Q&A** y otro de una hipótesis del caso que nunca fue validada.
+Prepara las tres reacciones más probables: **negación o ira**, **preguntas de fondo** («¿por qué yo?») y **propuestas de alternativa**. Escucha según la clase 026, resume lo que oyes y distingue lo que puedes cambiar de lo que no. Evita tres tentaciones: prometer lo que no controlas, minimizar el impacto y atribuir la decisión a otro («lo decidió la casa matriz») cuando tú la respaldas.
 
-### 5. consistencia: gobernanza, límites e integración
+### 9. Después del anuncio
 
-**consistencia** se define como **coherencia entre mensaje, políticas y acciones posteriores** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Kerry Patterson et al. — *Crucial Conversations* se utiliza para estudiar **perspectiva de Comunicación aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar abrir preguntas y documentar seguimiento, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Transparencia tiene límites legítimos por privacidad, negociación o información sensible. Explica tanto como sea posible sin inventar certeza ni divulgar datos que no corresponde compartir.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **decisión impopular**, **criterio**, **impacto humano**, **Q&A** y **consistencia** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: comunicar una decisión impopular** no consiste en sumar cinco definiciones. Empieza por **decisión impopular**, contrasta **criterio** con **impacto humano**, incorpora **Q&A** como restricción o mecanismo y usa **consistencia** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. preparar razones y alternativas consideradas → 2. nombrar decisión temprano → 3. explicar criterio y límites → 4. reconocer impacto sin falsa promesa → 5. abrir preguntas y documentar seguimiento**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Una decisión impopular se comunica en el tiempo: comprueba que llegó (clase 025), mantén el canal de preguntas, cumple los compromisos en fecha y revisa con evidencia qué funcionó. Si la información cambia, corrígela con la misma visibilidad. La confianza en lo que sigue depende de cómo se manejó este momento.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Chip Heath & Dan Heath — *Made to Stick* | diseño de mensajes memorables, concretos y accionables | ¿Qué supuesto de **capstone: comunicar una decisión impopular** ayuda a desafiar? |
-| Robert B. Cialdini — *Influence* | mecanismos de influencia y sus límites éticos | ¿Qué supuesto de **capstone: comunicar una decisión impopular** ayuda a desafiar? |
-| Edgar H. Schein — *Humble Inquiry* | preguntas que reducen jerarquía defensiva y mejoran información | ¿Qué supuesto de **capstone: comunicar una decisión impopular** ayuda a desafiar? |
-| Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* | negociación basada en intereses, opciones y criterios objetivos | ¿Qué supuesto de **capstone: comunicar una decisión impopular** ayuda a desafiar? |
-| Kerry Patterson et al. — *Crucial Conversations* | perspectiva de Comunicación aplicada al problema de la clase | ¿Qué supuesto de **capstone: comunicar una decisión impopular** ayuda a desafiar? |
-
-En **capstone: comunicar una decisión impopular**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **decisión impopular**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Colquitt et al. (2001) | Cuatro dimensiones de justicia y sus efectos. | No es una guía de comunicación. | ¿Cuál de las cuatro cuidaste menos en tu último anuncio? |
+| Coombs (2007) | Qué comunicar primero y cómo responder según la responsabilidad atribuida. | Se centra en crisis públicas. | ¿Qué responsabilidad te atribuirán? |
+| Daft y Lengel (1986) | Elegir el canal según la equivocidad. | No trata de justicia. | ¿Tu canal corresponde a la sensibilidad del mensaje? |
+| Stone, Patton y Heen (1999) | Conducir la conversación difícil. | No cubre anuncios masivos. | ¿Qué conversación de identidad está en juego? |
+| Mitchell, Agle y Wood (1997) | A quién atender y con qué prioridad. | No dice qué decir. | ¿Qué actor dependiente podrías olvidar? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** La empresa cancela un beneficio para proteger caja. La medida afecta a todos y dirección teme rechazo; esconder el motivo financiero sería más cómodo, pero dañaría confianza si luego se conoce.
+**Situación (hipotética, con cifras ilustrativas).** Una empresa de logística debe eliminar el turno de noche de un centro de distribución por una caída del 30 % de los pedidos nocturnos. Afecta a 45 personas; 20 podrán reubicarse en otros turnos y 25 no.
 
-**Paso 1 — preparar razones y alternativas consideradas.** La gerencia escribe primero el supuesto asociado a **decisión impopular** y evita convertirlo en hecho. Luego busca **comprensión de la decisión** para contrastarlo en el caso de **capstone: comunicar una decisión impopular**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Dimensión | Qué hace el gerente | Qué evita |
+|---|---|---|
+| **Distributiva** | Dice cuántas personas se ven afectadas, qué ocurre con cada grupo (20 reubicables, 25 con indemnización y apoyo) y desde cuándo. | Eufemismos y cifras vagas. |
+| **Procedimental** | Explica que se evaluaron tres alternativas (reducir turnos, congelar contratación, cerrar el turno), los datos de demanda y por qué las otras no alcanzaban; abre un cauce para decidir cómo reubicar. | Presentar la decisión como inevitable sin mostrar el proceso. |
+| **Interpersonal** | Conversa en privado con cada uno de los 25 afectados antes del anuncio general, con su jefe presente y sin leer un libreto. | Que se enteren por un correo o por el rumor. |
+| **Informacional** | Entrega una hoja con los hechos, los plazos y una persona de contacto con respuesta en 48 horas; dice qué aún no se sabe. | Prometer lo que no está decidido. |
 
-**Paso 2 — nombrar decisión temprano.** La gerencia escribe primero el supuesto asociado a **criterio** y evita convertirlo en hecho. Luego busca **rumores posteriores** para contrastarlo en el caso de **capstone: comunicar una decisión impopular**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**La secuencia.** Día 1, 09:00: conversaciones individuales con los 25. 11:00: reunión con los jefes de turno con un mensaje común. 14:00: comunicación general. Día 3: sesión de preguntas. Semana 2: revisión de compromisos.
 
-**Paso 3 — explicar criterio y límites.** La gerencia escribe primero el supuesto asociado a **impacto humano** y evita convertirlo en hecho. Luego busca **preguntas sin respuesta** para contrastarlo en el caso de **capstone: comunicar una decisión impopular**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — reconocer impacto sin falsa promesa.** La gerencia escribe primero el supuesto asociado a **Q&A** y evita convertirlo en hecho. Luego busca **rotación o compromiso** para contrastarlo en el caso de **capstone: comunicar una decisión impopular**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — abrir preguntas y documentar seguimiento.** La gerencia escribe primero el supuesto asociado a **consistencia** y evita convertirlo en hecho. Luego busca **acciones prometidas cumplidas** para contrastarlo en el caso de **capstone: comunicar una decisión impopular**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: comunicar una decisión impopular**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La decisión no cambia, pero la comunicación cubre las cuatro dimensiones. (2) Los más afectados se enteran primero y de una persona con autoridad. (3) Hay un registro de lo prometido y una fecha de revisión.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **decisión impopular** | elección legítima que impone costos a parte de los stakeholders | Cuando comprensión de la decisión es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **criterio** | regla usada para comparar alternativas | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Comunicar bien frente a decidir bien.** Una comunicación excelente no corrige una decisión errada; y una decisión correcta puede fracasar por una mala comunicación. Esta clase trata la segunda, y supone que la primera se trabajó en la parte 01.
 
-**Frontera de aplicación:** Transparencia tiene límites legítimos por privacidad, negociación o información sensible. Explica tanto como sea posible sin inventar certeza ni divulgar datos que no corresponde compartir.
+**Límites.** El metaanálisis de Colquitt y colegas se basa en estudios de organizaciones, con sus sesgos de muestra y de medición; muestra tendencias, no garantiza la aceptación de una decisión concreta. Las dimensiones se solapan en la práctica. Y la obligación de informar a representantes de trabajadores o a autoridades depende de la jurisdicción y se verifica con asesoría; esta clase no la sustituye.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: comunicar una decisión impopular |
+| Nivel | Cómo comunica una decisión impopular |
 |---|---|
-| **Profesional** | usa **capstone: comunicar una decisión impopular** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **decisión impopular** y **criterio** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta comprensión de la decisión con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: comunicar una decisión impopular cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: comunicar una decisión impopular reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: comunicar una decisión impopular** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Comunica un cambio que afecta a un cliente o a un par con hechos y respeto. |
+| **Jefe / Team Lead** | Anuncia a su equipo una decisión que no comparte del todo, sin desmarcarse de ella. |
+| **Gerente** | Conduce una reorganización o un recorte con las cuatro dimensiones y una secuencia. |
+| **CEO / Director** | Comunica decisiones que afectan a toda la organización y responde por la coherencia ante todas las audiencias. |
+| **Founder / Owner** | Anuncia a su equipo, socios o clientes lo que cuesta, con su patrimonio y su palabra de por medio. |
 
 ## 🏢 Caso ejecutivo
 
-La empresa cancela un beneficio para proteger caja. La medida afecta a todos y dirección teme rechazo; esconder el motivo financiero sería más cómodo, pero dañaría confianza si luego se conoce.
+Una gerente general debe anunciar que la empresa suspende el bono anual de desempeño este año por una caída del margen. El bono representa en promedio el 12 % de la remuneración. Los empleados venían de un año de esfuerzo; el sindicato ya expresó preocupación; la prensa sectorial publicó que la competencia sí lo pagará. La gerente tiene una reunión con directores en cuatro días.
 
-Entrega un **decision brief de capstone: comunicar una decisión impopular** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de comunicación de una decisión impopular** que integre la parte 02 y contenga: (a) la decisión, sus hechos y las alternativas evaluadas; (b) el mapa de interesados con su clasificación (clase 034); (c) cómo cubrirás las cuatro dimensiones de justicia; (d) la secuencia del anuncio con canal, responsable y mensaje (clases 025 y 027); (e) la historia o el ejemplo que usarás y su verificación de representatividad (clase 029); (f) las preguntas difíciles y tus respuestas (clase 031); (g) lo que no prometerás; (h) la evaluación posterior y qué evidencia cambiaría tu plan.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: comunicar una decisión impopular** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. preparar razones y alternativas consideradas → 2. nombrar decisión temprano → 3. explicar criterio y límites → 4. reconocer impacto sin falsa promesa → 5. abrir preguntas y documentar seguimiento** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta comprensión de la decisión, rumores posteriores; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Elige una decisión impopular real o simulada y escribe el hecho en una frase sin eufemismos.
+2. Evalúa, para cada una de las cuatro dimensiones, qué harías y qué evitarías.
+3. Escribe la secuencia con horarios, canales y responsables.
+4. Prepara las tres preguntas más difíciles y la respuesta con la estructura *hecho → límite → compromiso*.
+5. Define cómo comprobarás en una semana si el mensaje llegó y qué corregirás.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar decisión impopular y criterio como sinónimos | Se pierde la distinción entre “elección legítima que impone costos a parte de los stakeholders” y “regla usada para comparar alternativas” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “abrir preguntas y documentar seguimiento” | Se saltó “preparar razones y alternativas consideradas” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. preparar razones y alternativas consideradas → 2. nombrar decisión temprano → 3. explicar criterio y límites → 4. reconocer impacto sin falsa promesa → 5. abrir preguntas y documentar seguimiento y marca el primer supuesto no demostrado. |
-| Optimizar solo comprensión de la decisión | La métrica local sustituyó al resultado del sistema | Contrástala con rumores posteriores y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: comunicar una decisión impopular | Transparencia tiene límites legítimos por privacidad, negociación o información sensible. Explica tanto como sea posible sin inventar certeza ni divulgar datos que no corresponde compartir. |
-| No fijar revisión | Una decisión sobre capstone: comunicar una decisión impopular se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Eufemismos | Se quiere suavizar | Decir el hecho con cifras y plazos. |
+| Que se enteren por rumor | Se posterga | Comunicar rápido y en secuencia. |
+| Anunciar sin proceso explicado | Se supone que es obvio | Mostrar qué se evaluó y por qué. |
+| Delegar la noticia personal | Incomoda darla | Que la dé alguien con autoridad y cercanía. |
+| Prometer lo que no se controla | Se quiere calmar | Prometer solo lo que se puede cumplir. |
+| Culpar a un tercero | Se quiere distanciarse | Asumir y respaldar la decisión. |
+| No hacer seguimiento | Se cree que terminó | Comprobar, cumplir y revisar. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **decisión impopular** y **criterio** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **impacto humano** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **preparar razones y alternativas consideradas → nombrar decisión temprano** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **comprensión de la decisión** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: comunicar una decisión impopular**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Transparencia tiene límites legítimos por privacidad, negociación o información sensible. Explica tanto como sea posible sin inventar certeza ni divulgar datos que no corresponde compartir.**?
+1. ¿Cuáles son las cuatro dimensiones de la justicia organizacional y qué evalúa cada una?
+2. ¿Por qué una buena explicación no compensa un trato irrespetuoso?
+3. ¿A quién se informa primero y por qué?
+4. ¿Qué diferencia hay entre decir el hecho y usar un eufemismo? Da un ejemplo.
+5. ¿Qué tres tentaciones debes evitar al responder a una reacción?
+6. ¿Qué haces si una parte de las razones es confidencial?
+7. ¿Qué comprobarás después del anuncio?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Distributiva (el resultado), procedimental (el proceso), interpersonal (el trato) e informacional (la explicación).
+2. Porque las dimensiones se distinguen y se asocian a resultados distintos: las personas evalúan cada una por separado.
+3. A los más afectados, en conversación directa y antes del anuncio general, para que no se enteren por rumor ni por terceros.
+4. El hecho dice qué cambia, para quién y desde cuándo («se elimina el turno de noche el 1 de abril»); el eufemismo lo vela («optimización de turnos»).
+5. Prometer lo que no controlas, minimizar el impacto y atribuir la decisión a otro.
+6. Decirlo y explicar por qué, en lugar de inventar otras razones.
+7. Que el mensaje llegó, que se cumplen los compromisos en fecha y qué funcionó y qué no.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/036-capstone-comunicar-una-decision-impopular/`:
 
-- `leadership-decision-brief.md` con el problema específico de **capstone: comunicar una decisión impopular**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: comunicar una decisión impopular** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **decisión impopular**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **La empresa cancela un beneficio para proteger caja. La medida afecta a todos y dirección teme rechazo; esconder el motivo financiero sería más cómodo, pero dañaría confianza si luego se conoce.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan de comunicación del caso ejecutivo;
+- `stakeholder-legitimacy-map.md` (plantilla [mapa de interesados y legitimidad](../../../../templates/stakeholder-legitimacy-map.md)) con los actores afectados;
+- `reading-note.md` con una tensión entre Colquitt et al. y otra fuente de la parte;
+- `decision-journal.md` con la secuencia, la evaluación posterior y lo que corregiste.
 
 ## 📗 Fuentes y verificación
 
-- Chip Heath & Dan Heath — *Made to Stick* (Penguin Random House, 2007). **Uso en esta clase:** diseño de mensajes memorables, concretos y accionables. Lectura selectiva sobre **capstone: comunicar una decisión impopular**. **Localizador:** [ISBN-13 9781905211562](https://openlibrary.org/isbn/9781905211562).
-- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** mecanismos de influencia y sus límites éticos. Lectura selectiva sobre **capstone: comunicar una decisión impopular**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
-- Edgar H. Schein — *Humble Inquiry* (ReadHowYouWant.com, Limited, 2013). **Uso en esta clase:** preguntas que reducen jerarquía defensiva y mejoran información. Lectura selectiva sobre **capstone: comunicar una decisión impopular**. **Localizador:** [ISBN-13 9780369308443](https://openlibrary.org/isbn/9780369308443).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **capstone: comunicar una decisión impopular**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Kerry Patterson et al. — *Crucial Conversations* (McGraw Hill, 2012). **Uso en esta clase:** perspectiva de Comunicación aplicada al problema de la clase. Lectura selectiva sobre **capstone: comunicar una decisión impopular**. **Localizador:** [ISBN-13 9781259005213](https://openlibrary.org/isbn/9781259005213).
-- Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* (Random House Audio, 1999). **Uso en esta clase:** perspectiva de Comunicación aplicada al problema de la clase. Lectura selectiva sobre **capstone: comunicar una decisión impopular**. **Localizador:** [ISBN-13 9780553525687](https://openlibrary.org/isbn/9780553525687).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: comunicar una decisión impopular** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: comunicar una decisión impopular**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: comunicar una decisión impopular** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: comunicar una decisión impopular** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: comunicar una decisión impopular** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Jason A. Colquitt, Donald E. Conlon, Michael J. Wesson, Christopher O. L. H. Porter & K. Yee Ng — *Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research* (Journal of Applied Psychology, 2001). **Uso en esta clase:** las cuatro dimensiones de la justicia y su efecto. Lectura selectiva sobre **capstone: comunicar una decisión impopular**. **Localizador:** [DOI 10.1037/0021-9010.86.3.425](https://doi.org/10.1037/0021-9010.86.3.425).
+- W. Timothy Coombs — *Protecting Organization Reputations During a Crisis: The Development and Application of Situational Crisis Communication Theory* (Corporate Reputation Review, 2007). **Uso en esta clase:** qué comunicar primero y cómo responder según la responsabilidad atribuida. Lectura selectiva sobre **capstone: comunicar una decisión impopular**. **Localizador:** [DOI 10.1057/palgrave.crr.1550049](https://doi.org/10.1057/palgrave.crr.1550049).
+- Richard L. Daft & Robert H. Lengel — *Organizational Information Requirements, Media Richness and Structural Design* (Management Science, 1986). **Uso en esta clase:** elegir el canal según la equivocidad del mensaje. Lectura selectiva sobre **capstone: comunicar una decisión impopular**. **Localizador:** [DOI 10.1287/mnsc.32.5.554](https://doi.org/10.1287/mnsc.32.5.554).
+- Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* (Random House Audio, 1999). **Uso en esta clase:** conducir la conversación difícil. Lectura selectiva sobre **capstone: comunicar una decisión impopular**. **Localizador:** [ISBN-13 9780553525687](https://openlibrary.org/isbn/9780553525687).
+- Ronald K. Mitchell, Bradley R. Agle & Donna J. Wood — *Toward a Theory of Stakeholder Identification and Salience: Defining the Principle of Who and What Really Counts* (Academy of Management Review, 1997). **Uso en esta clase:** a quién atender primero. Lectura selectiva sobre **capstone: comunicar una decisión impopular**. **Localizador:** [DOI 10.2307/259247](https://doi.org/10.2307/259247).
 
-> **Regla de fuentes para Capstone: comunicar una decisión impopular:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: comunicar una decisión impopular** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capstone: comunicar una decisión impopular:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, en particular las obligaciones de información a trabajadores o autoridades. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

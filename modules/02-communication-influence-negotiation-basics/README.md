@@ -65,18 +65,18 @@ Las clases **34 a 36** amplían al entorno: interesados y legitimidad, presencia
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 025 | [Comunicación como sistema de liderazgo](classes/025-comunicacion-como-sistema-de-liderazgo/README.md) | mensaje, canal, ruido | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 026 | [Escucha activa y preguntas de calidad](classes/026-escucha-activa-y-preguntas-de-calidad/README.md) | pregunta abierta, paráfrasis, inferencia | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
-| 027 | [Escritura ejecutiva: claridad y síntesis](classes/027-escritura-ejecutiva-claridad-y-sintesis/README.md) | bottom line, pirámide, MECE | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 028 | [Presentaciones para decisiones](classes/028-presentaciones-para-decisiones/README.md) | decision ask, storyline, slide headline | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 029 | [Storytelling empresarial](classes/029-storytelling-empresarial/README.md) | protagonista, conflicto, narrativa | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 030 | [Feedback útil y accionable](classes/030-feedback-util-y-accionable/README.md) | observación, impacto, feedforward | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
-| 031 | [Conversaciones difíciles](classes/031-conversaciones-dificiles/README.md) | hechos, intención atribuida, contribución | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 032 | [Conflicto productivo](classes/032-conflicto-productivo/README.md) | conflicto de tarea, conflicto relacional, disenso | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 033 | [Persuasión ética e influencia](classes/033-persuasion-etica-e-influencia/README.md) | reciprocidad, prueba social, autoridad | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 025 | [Comunicación como sistema de liderazgo](classes/025-comunicacion-como-sistema-de-liderazgo/README.md) | Sistema de comunicación, Incertidumbre, Equivocidad | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 026 | [Escucha activa y preguntas de calidad](classes/026-escucha-activa-y-preguntas-de-calidad/README.md) | Indagación humilde, Indagación diagnóstica, Indagación confrontacional | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
+| 027 | [Escritura ejecutiva: claridad y síntesis](classes/027-escritura-ejecutiva-claridad-y-sintesis/README.md) | Principio de la pirámide, Respuesta primero, Línea clave | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 028 | [Presentaciones para decisiones](classes/028-presentaciones-para-decisiones/README.md) | Presentación para decidir, Título afirmación, Decisión pedida | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 029 | [Storytelling empresarial](classes/029-storytelling-empresarial/README.md) | Idea simple, Idea inesperada, Idea concreta | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 030 | [Feedback útil y accionable](classes/030-feedback-util-y-accionable/README.md) | Intervención de feedback, Nivel de feedback, Feedback de tarea | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
+| 031 | [Conversaciones difíciles](classes/031-conversaciones-dificiles/README.md) | Conversación difícil, Camino a la acción, Hecho | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 032 | [Conflicto productivo](classes/032-conflicto-productivo/README.md) | Conflicto de tarea, Conflicto de relación, Seguridad psicológica | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 033 | [Persuasión ética e influencia](classes/033-persuasion-etica-e-influencia/README.md) | Persuasión, Manipulación, Coerción | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
 | 034 | [Mapa de stakeholders y poder](classes/034-mapa-de-stakeholders-y-poder/README.md) | Interesado (stakeholder), Poder, Legitimidad | [stakeholder-legitimacy-map](../../templates/stakeholder-legitimacy-map.md) | 150 |
-| 035 | [Presencia ejecutiva](classes/035-presencia-ejecutiva/README.md) | gravitas, claridad, composure | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 036 | [Capstone: comunicar una decisión impopular](classes/036-capstone-comunicar-una-decision-impopular/README.md) | decisión impopular, criterio, impacto humano | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 035 | [Presencia ejecutiva](classes/035-presencia-ejecutiva/README.md) | Presencia ejecutiva, Imagen profesional, Apariencia | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 036 | [Capstone: comunicar una decisión impopular](classes/036-capstone-comunicar-una-decision-impopular/README.md) | Justicia distributiva, Justicia procedimental, Justicia interpersonal | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -87,70 +87,86 @@ Las clases **34 a 36** amplían al entorno: interesados y legitimidad, presencia
 
 ## 🔤 Glosario de la parte
 
-60 conceptos definidos en las clases, con la definición operacional que usa cada una.
+76 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **adaptabilidad** | ajuste consciente de estilo al contexto sin perder autenticidad. |
-| **appendix** | detalle que soporta sin bloquear el flujo principal. |
-| **autoridad** | señal de expertise o legitimidad que influye en confianza. |
-| **bottom line** | conclusión o petición presentada antes del detalle. |
-| **cadencia** | ritmo recurrente de comunicación que reduce incertidumbre. |
-| **canal** | medio con distinta riqueza, velocidad y persistencia. |
-| **claim** | afirmación que requiere sustento. |
-| **claridad** | capacidad de expresar prioridades y razonamiento sin ruido. |
-| **closed loop** | cierre donde receptor confirma comprensión y acción. |
-| **coerción** | presión que reduce de manera impropia la libertad real de elección. |
-| **commitment** | apoyo a la ejecución después de una decisión legítima. |
-| **composure** | regulación visible de respuesta emocional. |
-| **conflicto** | tensión entre estado actual, objetivo y restricción. |
-| **conflicto de tarea** | desacuerdo sobre contenido, prioridades o método. |
-| **conflicto relacional** | tensión centrada en identidad, respeto o intención. |
-| **consistencia** | coherencia entre mensaje, políticas y acciones posteriores. |
-| **contribución** | parte propia del patrón aunque no sea culpa equivalente. |
-| **credibilidad** | confianza basada en competencia y consistencia. |
-| **criterio** | regla usada para comparar alternativas. |
-| **decision ask** | acción concreta solicitada a la audiencia. |
-| **decisión impopular** | elección legítima que impone costos a parte de los stakeholders. |
-| **disenso** | expresión explícita de una alternativa o objeción. |
-| **escasez** | mayor valor percibido cuando una opción parece limitada. |
-| **especificidad** | nivel de detalle que permite reconocer y reproducir/corregir. |
-| **feedforward** | orientación sobre conducta futura. |
-| **gravitas** | percepción de juicio y estabilidad bajo presión. |
-| **hechos** | eventos observables que las partes pueden verificar. |
-| **humble inquiry** | preguntar desde curiosidad genuina sin usar la pregunta como afirmación disfrazada. |
-| **identidad** | historia sobre quién soy que se activa en el conflicto. |
-| **impacto** | consecuencia concreta sobre trabajo, persona o stakeholder. |
-| **impacto humano** | efecto sobre carga, seguridad, rol, identidad o confianza. |
-| **inferencia** | significado añadido por el oyente más allá de lo dicho. |
-| **intención atribuida** | explicación sobre motivos ajenos que puede ser incorrecta. |
+| **Agrupación lógica** | Ideas de un mismo tipo, sin solaparse y sin omitir lo importante. |
+| **Apariencia** | Lo perceptible a primera vista, incluida información que la persona no elige ni controla. |
+| **Autoridad, simpatía y escasez** | Los otros tres principios descritos por Cialdini (2016). |
+| **Camino a la acción** | Secuencia interna: ver y oír, contar una historia, sentir y actuar (Patterson et al., 2012). |
+| **Coerción** | Influencia que condiciona la decisión con una amenaza (criterio de la clase). |
+| **Coherencia y compromiso** | Tendencia a actuar de acuerdo con compromisos previos (Cialdini, 2016). |
+| **Competencia** | Capacidad demostrada para realizar una tarea o responder por un resultado. |
+| **Comunicación no verbal** | Postura, gestos, mirada, movimiento y uso del espacio que acompañan el mensaje (Hall, Horgan y Murphy, 2019). |
+| **Conflicto de relación** | Incompatibilidad entre personas, con tensión y fricción afectiva (Jehn, 1995). |
+| **Conflicto de tarea** | Desacuerdo sobre el contenido del trabajo: ideas, criterios, opiniones (Jehn, 1995). |
+| **Contagio emocional del líder** | Efecto del estado de ánimo y la conducta del líder sobre el de su equipo, descrito por Goleman, Boyatzis y McKee (2002). |
+| **Contraste «es / podría ser»** | Distancia entre la situación actual y la deseada que impulsa el cambio (Duarte, 2010). |
+| **Conversación de aprendizaje** | Postura de curiosidad: se busca entender cómo vio el otro la situación. |
+| **Conversación difícil** | Conversación donde hay mucho en juego, opiniones opuestas y emociones fuertes (Patterson et al., 2012). |
+| **Decisión impopular** | Decisión legítima que perjudica a personas que no la desean. |
+| **Decisión pedida** | Lo que se solicita al grupo: aprobar, elegir, financiar o desestimar. |
+| **Disparador de identidad** | Reacción a lo que el feedback dice de quien lo recibe (Stone y Heen, 2014). |
+| **Disparador de relación** | Reacción a quien da el feedback (Stone y Heen, 2014). |
+| **Disparador de verdad** | Reacción al contenido del feedback: lo siento incorrecto o injusto (Stone y Heen, 2014). |
+| **Equivocidad** | Existencia de varias interpretaciones posibles de una misma situación (Daft y Lengel, 1986). |
+| **Escucha activa** | Atender para comprender, no para responder, y comprobar la comprensión resumiendo con las palabras del otro. |
+| **Evidencia mínima** | Los datos estrictamente necesarios para sostener una afirmación. |
+| **Feedback de tarea** | Información sobre qué se logró o faltó en una tarea concreta. |
+| **Feedback de yo** | Juicio sobre la persona, ajeno a la tarea. |
+| **Hecho** | Lo que se puede observar y registrar sin interpretar: qué se dijo, qué se hizo, cuándo. |
+| **Historia** | Relato de personas que actúan ante una dificultad y obtienen un resultado. |
+| **Idea concreta** | Mensaje expresado en detalles perceptibles, no en abstracciones. |
+| **Idea creíble** | Mensaje respaldado por evidencia que la audiencia puede comprobar. |
+| **Idea emocional** | Mensaje que conecta con algo que le importa a la audiencia. |
+| **Idea inesperada** | Mensaje que rompe una expectativa y genera curiosidad. |
+| **Idea simple** | Mensaje reducido a su esencia, que prioriza lo central (Heath y Heath, 2007). |
+| **Imagen profesional** | Presentación visual, conductual y contextual elegida para facilitar un propósito de trabajo. |
+| **Incertidumbre** | Ausencia de información (Daft y Lengel, 1986). |
+| **Indagación confrontacional** | Introduce una idea del que pregunta, formulada como pregunta. |
+| **Indagación de proceso** | Pregunta por la conversación misma. |
+| **Indagación diagnóstica** | Dirige la atención del otro hacia sus emociones, motivos o causas. |
+| **Indagación humilde** | El arte de hacer salir al otro con preguntas a las que no se conoce la respuesta, desde un interés genuino en la persona (Schein, 2013). |
 | **Interesado (stakeholder)** | Según Freeman (1984), cualquier grupo o individuo que puede afectar o ser afectado por el logro de los objetivos de la organización. |
+| **Intervención de feedback** | Información sobre el desempeño de alguien que ofrece otra persona, para cambiar su conducta (Kluger y DeNisi, 1996). |
+| **Interés** | La necesidad o preocupación que explica la posición (Fisher, Ury y Patton, 1983). |
+| **Justicia distributiva** | Percepción de justicia del resultado: lo que cada uno recibe o pierde (Colquitt et al., 2001). |
+| **Justicia informacional** | Percepción de la calidad de las explicaciones: veracidad, razones y oportunidad (Colquitt et al., 2001). |
+| **Justicia interpersonal** | Percepción del trato recibido: respeto y dignidad (Colquitt et al., 2001). |
+| **Justicia procedimental** | Percepción de justicia del proceso por el que se decidió (Colquitt et al., 2001). |
+| **Las tres conversaciones** | Qué ocurrió, los sentimientos y la identidad (Stone, Patton y Heen, 1999). |
 | **Latente, expectante, definitivo** | Según tenga uno, dos o los tres atributos. Cada grupo tiene subtipos con nombre propio. |
 | **Legitimidad** | Percepción generalizada de que las acciones de un actor son deseables o apropiadas dentro de un sistema socialmente construido de normas, valores y creencias. |
-| **MECE** | agrupación razonablemente no solapada y colectivamente suficiente. |
-| **mensaje** | contenido que intenta modificar comprensión o acción. |
-| **narrativa** | secuencia causal que da sentido a hechos dispersos. |
-| **norma de conflicto** | regla compartida sobre cómo se debate y se cierra. |
-| **objetivo conversacional** | resultado razonable de comprensión, decisión o límite. |
-| **observación** | descripción de conducta o resultado sin atribuir intención. |
-| **paráfrasis** | reexpresión del contenido para comprobar comprensión. |
-| **pirámide** | estructura jerárquica de idea principal, argumentos y evidencia. |
+| **Línea clave** | Cada una de las ideas del segundo nivel que sostienen la respuesta. |
+| **Manipulación** | Influencia que oculta su propósito o explota una debilidad (criterio de la clase). |
+| **Mensaje central** | Una frase verificable que sostiene toda la comunicación (criterio de la clase). |
+| **Narrativa de cambio** | Recorrido que contrasta la situación actual con la posible para mover a la acción (Duarte, 2010). |
+| **Nivel de feedback** | Aspecto al que se dirige la atención: la tarea, el proceso o el yo (Kluger y DeNisi, 1996). |
+| **Objeción anticipada** | Reparo previsible de la audiencia, respondido antes de que se formule. |
+| **Persuasión** | Influencia que expone su propósito y deja decidir (criterio de la clase). |
 | **Poder** | Capacidad de un actor de lograr que otro haga algo que de otro modo no haría, mediante recursos coercitivos, utilitarios o normativos. |
-| **pregunta abierta** | invita explicación sin restringir a sí/no. |
+| **Posición** | Lo que una parte exige. |
+| **Presencia ejecutiva** | Capacidad de transmitir claridad, estabilidad y criterio bajo atención (criterio de la clase). |
+| **Presentación para decidir** | Exposición cuyo objetivo es obtener una decisión concreta de un grupo. |
+| **Principio de la pirámide** | Organizar un texto de arriba abajo: la idea principal primero, luego las ideas que la sostienen, luego los datos (Minto, 2005). |
 | **Prominencia (salience)** | Grado en que los directivos dan prioridad a los reclamos de un actor. |
-| **protagonista** | stakeholder cuya situación permite comprender el problema. |
-| **prueba** | datos o evidencia que impiden que la historia sea solo persuasión. |
-| **prueba social** | uso de conducta de otros como señal de qué es apropiado. |
-| **Q&A** | espacio de aclaración que no reabre una decisión cerrada salvo nueva evidencia. |
-| **reciprocidad** | tendencia a corresponder beneficios o concesiones. |
-| **resolución** | acción o decisión que cambia la trayectoria. |
-| **ruido** | interferencia que altera significado o atención. |
-| **severidad** | grado de riesgo o daño que determina urgencia y formalidad. |
-| **silencio** | espacio que permite elaboración y reduce respuesta automática. |
-| **slide headline** | título que expresa el punto, no solo el tema. |
-| **storyline** | secuencia lógica que conecta problema con recomendación. |
+| **Propósito común** | Meta que ambas partes comparten en la conversación. |
+| **Prueba social** | Tendencia a seguir lo que hacen otros (Cialdini, 2016). |
+| **Prueba «¿y entonces?»** | Comprobación hacia arriba: ¿lo que dicen las ideas de abajo permite concluir la de arriba?. |
+| **Reciprocidad** | Tendencia a devolver lo recibido (Cialdini, 2016). |
+| **Reputación** | Juicio acumulado a lo largo del tiempo sobre conducta, decisiones y resultados. |
+| **Respuesta primero** | Presentar la recomendación o conclusión al inicio y no al final. |
+| **Retroalimentación** | Respuesta del receptor que permite comprobar si el mensaje se entendió como se quiso. |
+| **Riqueza del canal** | Capacidad de un medio para transmitir información: retroalimentación inmediata, varias señales, lenguaje natural y foco personal. |
+| **Secuencia del anuncio** | Orden de las audiencias, canales y mensajes. |
+| **Seguridad psicológica** | Creencia compartida de que el equipo es seguro para correr riesgos interpersonales (Edmondson, 2018). |
+| **Separar personas y problema** | Tratar el desacuerdo como un problema compartido, no como una disputa entre personas. |
+| **Sistema de comunicación** | Conjunto de audiencias, mensajes, canales, ritmos y mecanismos de retroalimentación que una organización o un líder diseña (criterio de la clase). |
+| **Situación, complicación y pregunta** | Introducción que recuerda lo que el lector ya sabe, lo que cambió y la pregunta que el texto contesta. |
+| **Solución prematura** | Ofrecer respuestas antes de haber entendido el problema. |
+| **Título afirmación** | Título que enuncia la conclusión de la lámina en forma de oración. |
 | **Urgencia** | Grado en que el reclamo exige atención inmediata: sensibilidad al tiempo y criticidad para el actor. |
-| **visual evidence** | gráfico o tabla elegido para sostener una afirmación. |
 
 ## 📦 Qué queda como evidencia
 

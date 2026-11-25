@@ -10,217 +10,188 @@
 
 ## 🎯 Propósito
 
-Storytelling empresarial organiza hechos alrededor de una tensión y una transformación sin sacrificar precisión. Una narrativa útil explica por qué la situación actual importa, qué cambia si no actuamos y cómo la recomendación crea una trayectoria distinta. No debe convertir anécdotas emotivas en sustituto de datos.
+Las cifras informan; las historias hacen que la información importe y se recuerde. Un líder que quiere explicar por qué se cambia una estrategia, qué le pasó a un cliente o qué se aprendió de un error necesita ambas cosas, y suele tener solo una. La palabra *storytelling* se asocia con adornos, y por eso conviene empezar por lo contrario: en la empresa, una historia es una **forma de transmitir un hecho verificable en un formato que la gente retiene y puede actuar**.
 
-La salida de esta parte es **convertir comunicación, influencia y negociación en sistemas de decisión y relación**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **storytelling empresarial** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase usa dos marcos: los seis rasgos de las ideas que se pegan, de Chip y Dan Heath, y el recorrido de una narrativa de cambio de Nancy Duarte. Al terminar sabrás construir una historia breve con un personaje, una decisión y un resultado real, y comprobar que no sustituya los datos ni los distorsione.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `protagonista`, `conflicto`, `narrativa`, `prueba`, `resolución` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. elegir stakeholder y resultado → 2. describir estado actual con evidencia → 3. hacer visible la tensión y el costo de no actuar → 4. presentar opciones y decisión → 5. cerrar mostrando resultado esperado y cómo se medirá** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** recuerdo del mensaje, claridad del problema, datos integrados en narrativa sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Aplicar** los seis rasgos (simple, inesperada, concreta, creíble, emocional, historia) a un mensaje y detectar cuál falta.
+2. **Construir** una historia breve con personaje, tensión, decisión y resultado.
+3. **Elegir** el caso que ilustra mejor el punto, sin elegir el que más conviene.
+4. **Verificar** que la historia sea cierta y representativa, y declarar lo que no lo es.
+5. **Combinar** historia y datos de modo que cada una refuerce a la otra.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define protagonista y conflicto sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con recuerdo del mensaje y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda una historia que oíste en el trabajo y todavía recuerdas; ¿por qué se quedó? |
+| 20–60 min | Los seis rasgos y la estructura de una historia empresarial. |
+| 60–105 min | Ejemplo trabajado: un informe transformado en mensaje con historia. |
+| 105–140 min | Caso ejecutivo: explicar un cambio de estrategia a los empleados. |
+| 140–170 min | Ética de la historia y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **protagonista** | stakeholder cuya situación permite comprender el problema | Distingue un hecho compatible y otro que lo refute. |
-| **conflicto** | tensión entre estado actual, objetivo y restricción | Distingue un hecho compatible y otro que lo refute. |
-| **narrativa** | secuencia causal que da sentido a hechos dispersos | Distingue un hecho compatible y otro que lo refute. |
-| **prueba** | datos o evidencia que impiden que la historia sea solo persuasión | Distingue un hecho compatible y otro que lo refute. |
-| **resolución** | acción o decisión que cambia la trayectoria | Distingue un hecho compatible y otro que lo refute. |
+| **Idea simple** | Mensaje reducido a su esencia, que prioriza lo central (Heath y Heath, 2007). | Cabe en una frase y deja fuera lo secundario. |
+| **Idea inesperada** | Mensaje que rompe una expectativa y genera curiosidad. | Sorprende a quien conoce el tema. |
+| **Idea concreta** | Mensaje expresado en detalles perceptibles, no en abstracciones. | Se puede imaginar o medir. |
+| **Idea creíble** | Mensaje respaldado por evidencia que la audiencia puede comprobar. | Incluye un detalle verificable. |
+| **Idea emocional** | Mensaje que conecta con algo que le importa a la audiencia. | Responde «¿y a mí qué?». |
+| **Historia** | Relato de personas que actúan ante una dificultad y obtienen un resultado. | Hay personaje, tensión y desenlace. |
+| **Narrativa de cambio** | Recorrido que contrasta la situación actual con la posible para mover a la acción (Duarte, 2010). | La audiencia ve qué se gana al cambiar. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 029: 1. elegir stakeholder y resultado → 2. describir estado actual con evidencia → 3. hacer visible la tensión y el costo de no actuar → 4. presentar opciones y decisión → 5. cerrar mostrando resultado esperado y cómo se medirá](modelo-mental.svg)
+![Seis rasgos de una idea que se entiende, se recuerda y se actúa: simple, inesperada, concreta, creíble, emocional e historia, cada uno con su pregunta de control.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. elegir stakeholder y resultado → 2. describir estado actual con evidencia → 3. hacer visible la tensión y el costo de no actuar → 4. presentar opciones y decisión → 5. cerrar mostrando resultado esperado y cómo se medirá
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Storytelling empresarial organiza hechos alrededor de una tensión y una transformación sin sacrificar precisión. Una narrativa útil explica por qué la situación actual importa, qué cambia si no actuamos y cómo la recomendación crea una trayectoria distinta. No debe convertir anécdotas emotivas en sustituto de datos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una historia convincente puede manipular. Evita seleccionar un caso extremo como representativo, exagerar causalidad o borrar incertidumbre para aumentar impacto emocional.**
+**Cómo leer el diagrama.** Cada tarjeta es un rasgo con su pregunta de control. No es necesario que un mensaje los cumpla todos, pero sí conviene revisar cuáles faltan: un mensaje correcto y olvidable suele carecer de lo inesperado o de lo emocional; uno memorable y dudoso, de lo creíble.
 
 ## 📖 Desarrollo
 
-### 1. protagonista: mecanismo central
+### 1. Por qué una historia
 
-**protagonista** se entiende aquí como **stakeholder cuya situación permite comprender el problema**. Esta es la pieza causal o estructural desde la que se inicia **storytelling empresarial**: antes de elegir stakeholder y resultado, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Heath y Heath parten de un problema: casi todo el que sabe algo lo explica de forma abstracta, y la abstracción es difícil de entender y de recordar. Su propuesta es revisar el mensaje con seis rasgos —simple, inesperado, concreto, creíble, emocional y contado como historia— que, según los autores, comparten las ideas que perduran. No es una fórmula garantizada, pero sí una lista útil para revisar.
 
-La lectura rectora de este bloque es Chip Heath & Dan Heath — *Made to Stick*. Su aporte se usa para examinar **diseño de mensajes memorables, concretos y accionables**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **recuerdo del mensaje**; regístrala con periodo, unidad, población y baseline.
+### 2. Simple e inesperado
 
-Relaciona el mecanismo con **conflicto**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+**Simple** no es simplificar en exceso: es elegir lo esencial. Si todo es importante, nada se recuerda. Pregúntate cuál es la idea que debe sobrevivir si la audiencia olvida todo lo demás. **Inesperado** significa abrir un hueco en lo que la audiencia da por hecho y llenarlo: una cifra que contradice la intuición, una pregunta que obliga a pensar. La sorpresa atrae la atención; la historia la mantiene.
 
-### 2. conflicto: frontera conceptual y error de clasificación
+### 3. Concreto y creíble
 
-**Definición operacional:** tensión entre estado actual, objetivo y restricción. Su valor está en distinguirlo de **protagonista** y **narrativa**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Una promesa abstracta —«ofrecemos calidad»— no se imagina; un detalle —«cada paquete se revisa con tres fotos antes de salir»— sí. Lo **concreto** ayuda a entender y a recordar. Lo **creíble** permite aceptar: un dato que la audiencia puede comprobar, o un caso cercano y específico, pesa más que un adjetivo. En la empresa, la credibilidad también proviene de reconocer los límites de lo que se afirma.
 
-Contrasta el problema con Robert B. Cialdini — *Influence*, que aporta una mirada sobre **mecanismos de influencia y sus límites éticos**. Formula dos mini-casos: uno que sí satisface la definición de **conflicto** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **claridad del problema** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Emocional
 
-Antes de describir estado actual con evidencia, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Las personas actúan cuando algo les importa. Una cifra de pérdida se vuelve actuable cuando se entiende qué significa para alguien: un cliente que esperó tres semanas, un técnico que trabajó de noche. No se trata de manipular la emoción, sino de mostrar la dimensión humana de un hecho verdadero.
 
-### 3. narrativa: operacionalización y medición
+### 5. La historia: personaje, tensión, decisión, resultado
 
-**narrativa** significa **secuencia causal que da sentido a hechos dispersos**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Una historia empresarial breve contiene cuatro elementos: un **personaje** con el que la audiencia puede identificarse, una **tensión** o dificultad, una **decisión** que el personaje toma y un **resultado**, incluida la parte que salió mal. Duarte agrega que la narrativa de cambio alterna entre cómo es la situación y cómo podría ser, y que el desenlace es la invitación a la audiencia a actuar.
 
-Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* orienta este bloque mediante **perspectiva de Comunicación aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **datos integrados en narrativa**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. El límite ético: verdad y representatividad
 
-Al llegar a hacer visible la tensión y el costo de no actuar, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Una historia verdadera puede engañar si es **atípica**: el caso brillante que no representa a la mayoría. Regla de la clase: una historia debe ser **cierta**, **representativa** o declarada como excepción, y complementarse con el dato que muestra qué tan común es. Y no se inventan personajes ni se modifican hechos para mejorar el relato; si se anonimiza, se dice.
 
-### 4. prueba: trade-offs y efectos de segundo orden
+### 7. Historia y datos, juntos
 
-**Definición:** datos o evidencia que impiden que la historia sea solo persuasión. Este concepto obliga a abandonar la idea de que **storytelling empresarial** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de presentar opciones y decisión, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Barbara Minto — *The Pyramid Principle* aporta una lente sobre **estructura piramidal para razonamiento y comunicación ejecutiva**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **acciones posteriores** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **storytelling empresarial**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **prueba** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. resolución: gobernanza, límites e integración
-
-**resolución** se define como **acción o decisión que cambia la trayectoria** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Edgar H. Schein — *Humble Inquiry* se utiliza para estudiar **preguntas que reducen jerarquía defensiva y mejoran información** y contrastar la recomendación final. Al ejecutar cerrar mostrando resultado esperado y cómo se medirá, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Una historia convincente puede manipular. Evita seleccionar un caso extremo como representativo, exagerar causalidad o borrar incertidumbre para aumentar impacto emocional.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **protagonista**, **conflicto**, **narrativa**, **prueba** y **resolución** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **storytelling empresarial** no consiste en sumar cinco definiciones. Empieza por **protagonista**, contrasta **conflicto** con **narrativa**, incorpora **prueba** como restricción o mecanismo y usa **resolución** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. elegir stakeholder y resultado → 2. describir estado actual con evidencia → 3. hacer visible la tensión y el costo de no actuar → 4. presentar opciones y decisión → 5. cerrar mostrando resultado esperado y cómo se medirá**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Los datos responden «¿qué tan frecuente?» y las historias «¿qué significa?». Una presentación que solo tiene datos pierde a la audiencia; una que solo tiene historias pierde a los escépticos. El orden habitual es abrir con la historia que muestra el problema, sostener con el dato que muestra su alcance y cerrar con la decisión.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Chip Heath & Dan Heath — *Made to Stick* | diseño de mensajes memorables, concretos y accionables | ¿Qué supuesto de **storytelling empresarial** ayuda a desafiar? |
-| Robert B. Cialdini — *Influence* | mecanismos de influencia y sus límites éticos | ¿Qué supuesto de **storytelling empresarial** ayuda a desafiar? |
-| Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* | perspectiva de Comunicación aplicada al problema de la clase | ¿Qué supuesto de **storytelling empresarial** ayuda a desafiar? |
-| Barbara Minto — *The Pyramid Principle* | estructura piramidal para razonamiento y comunicación ejecutiva | ¿Qué supuesto de **storytelling empresarial** ayuda a desafiar? |
-| Edgar H. Schein — *Humble Inquiry* | preguntas que reducen jerarquía defensiva y mejoran información | ¿Qué supuesto de **storytelling empresarial** ayuda a desafiar? |
-
-En **storytelling empresarial**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **protagonista**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Heath y Heath (2007) | Los seis rasgos y su revisión. | Sus ejemplos provienen de casos seleccionados. | ¿Qué rasgo le falta a tu mensaje? |
+| Duarte (2010) | La narrativa como contraste entre lo actual y lo posible. | No aporta pruebas empíricas del método. | ¿Qué cambio pide tu historia? |
+| Cialdini (2016) | Cómo la prueba social y la coherencia refuerzan un relato. | No trata de la estructura de una historia. | ¿Qué palanca estás usando? |
+| Stone, Patton y Heen (1999) | Cómo contar lo difícil sin culpar. | No es un método narrativo. | ¿Tu historia atribuye culpa o muestra hechos? |
+| Minto (2005) | Estructura para combinar relato y razones. | No cubre lo emocional. | ¿Dónde está la conclusión? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una startup explica su producto con veinte funcionalidades. Al reformular, cuenta el día de una jefa de operaciones que pierde cuatro horas conciliando sistemas y muestra el costo anual verificable.
+**Situación (hipotética, con cifras ilustrativas).** Un jefe de atención al cliente quiere que la dirección apruebe una segunda línea de soporte. Su informe dice: «El 18 % de los clientes espera más de 24 horas la respuesta; el tiempo medio de primera respuesta es de 19 horas».
 
-**Paso 1 — elegir stakeholder y resultado.** La gerencia escribe primero el supuesto asociado a **protagonista** y evita convertirlo en hecho. Luego busca **recuerdo del mensaje** para contrastarlo en el caso de **storytelling empresarial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Revisión con los seis rasgos.**
 
-**Paso 2 — describir estado actual con evidencia.** La gerencia escribe primero el supuesto asociado a **conflicto** y evita convertirlo en hecho. Luego busca **claridad del problema** para contrastarlo en el caso de **storytelling empresarial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Rasgo | Informe original | Versión mejorada |
+|---|---|---|
+| Simple | Varias cifras | «Uno de cada cinco clientes espera más de un día.» |
+| Inesperado | No hay | «Nuestra promesa pública es responder en cuatro horas.» |
+| Concreto | Porcentajes | Un caso de una clínica cuyo sistema de citas falló un lunes y esperó 31 horas. |
+| Creíble | Sin fuente | Cifra del registro de tickets de los últimos 90 días y el ticket anonimizado. |
+| Emocional | No hay | Qué significó para la clínica: 40 citas reprogramadas a mano. |
+| Historia | No hay | Personaje: la administradora de la clínica; tensión: una caída del sistema; decisión: escribió tres veces; resultado: respondió un técnico al día siguiente. |
 
-**Paso 3 — hacer visible la tensión y el costo de no actuar.** La gerencia escribe primero el supuesto asociado a **narrativa** y evita convertirlo en hecho. Luego busca **datos integrados en narrativa** para contrastarlo en el caso de **storytelling empresarial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Verificación ética.** ¿Es representativo el caso? El jefe agrega: «Es el 18 % más grave, no el promedio; el promedio es de 19 horas». Declara que es excepcional y muestra el dato que lo sitúa.
 
-**Paso 4 — presentar opciones y decisión.** La gerencia escribe primero el supuesto asociado a **prueba** y evita convertirlo en hecho. Luego busca **acciones posteriores** para contrastarlo en el caso de **storytelling empresarial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — cerrar mostrando resultado esperado y cómo se medirá.** La gerencia escribe primero el supuesto asociado a **resolución** y evita convertirlo en hecho. Luego busca **distorsiones detectadas entre historia y evidencia** para contrastarlo en el caso de **storytelling empresarial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **storytelling empresarial**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La misma información, con los seis rasgos, es más comprensible. (2) El caso no sustituye al dato: lo acompaña. (3) Declarar que el caso es el más grave mantiene la credibilidad.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **protagonista** | stakeholder cuya situación permite comprender el problema | Cuando recuerdo del mensaje es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **conflicto** | tensión entre estado actual, objetivo y restricción | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Historia frente a anécdota.** Una anécdota es un caso suelto; una historia empresarial lleva un personaje, una decisión y un resultado, y se elige por lo que muestra del problema, no por lo llamativa.
 
-**Frontera de aplicación:** Una historia convincente puede manipular. Evita seleccionar un caso extremo como representativo, exagerar causalidad o borrar incertidumbre para aumentar impacto emocional.
+**Límites.** Los rasgos de Heath y Heath provienen de un análisis de ideas que perduraron y de ejemplos seleccionados; ayudan a revisar un mensaje, pero no predicen cuál se recordará. La narrativa de Duarte es una propuesta de trabajo. Contar historias con eficacia puede ser una forma de persuasión potente: la frontera con la manipulación se trata en la clase 033.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre storytelling empresarial |
+| Nivel | Cómo usa las historias |
 |---|---|
-| **Profesional** | usa **storytelling empresarial** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **protagonista** y **conflicto** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta recuerdo del mensaje con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si storytelling empresarial cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de storytelling empresarial reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **storytelling empresarial** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Ilustra su propuesta con un caso concreto y verificable. |
+| **Jefe / Team Lead** | Cuenta los éxitos y los errores del equipo para fijar estándares. |
+| **Gerente** | Traduce las cifras de su área en casos de clientes y personas. |
+| **CEO / Director** | Construye la narrativa de la empresa sin contradecir los hechos y cuida que cada historia sea representativa. |
+| **Founder / Owner** | Cuenta su historia a clientes, inversionistas y talentos con datos que la sostengan. |
 
 ## 🏢 Caso ejecutivo
 
-Una startup explica su producto con veinte funcionalidades. Al reformular, cuenta el día de una jefa de operaciones que pierde cuatro horas conciliando sistemas y muestra el costo anual verificable.
+Una empresa de manufactura cambia su estrategia: dejará de fabricar productos de bajo margen y se concentrará en piezas especializadas. Dentro de 18 meses se cerrará una línea con 60 personas. La dirección debe explicarlo a los empleados. Hay rumores, y una parte del personal desconfía de la gerencia por una reestructuración anterior.
 
-Entrega un **decision brief de storytelling empresarial** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega una **narrativa de cambio** que contenga: (a) el mensaje central en una frase; (b) el contraste entre la situación actual y la posible, con datos; (c) una historia breve con personaje, tensión, decisión y resultado, y la verificación de que sea cierta y representativa; (d) lo que no se sabe todavía y cuándo se informará; (e) cómo cuidarás que no se perciba como manipulación.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **storytelling empresarial** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. elegir stakeholder y resultado → 2. describir estado actual con evidencia → 3. hacer visible la tensión y el costo de no actuar → 4. presentar opciones y decisión → 5. cerrar mostrando resultado esperado y cómo se medirá** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta recuerdo del mensaje, claridad del problema; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Toma un mensaje que preparas y evalúa cuál de los seis rasgos le falta.
+2. Redacta una historia de cuatro frases: personaje, tensión, decisión y resultado.
+3. Para esa historia, escribe el dato que muestra qué tan común es y verifica que sea cierta.
+4. Reescribe una cifra de tu informe como un caso concreto.
+5. Escribe una línea que declare qué parte de tu historia es excepcional.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar protagonista y conflicto como sinónimos | Se pierde la distinción entre “stakeholder cuya situación permite comprender el problema” y “tensión entre estado actual, objetivo y restricción” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “cerrar mostrando resultado esperado y cómo se medirá” | Se saltó “elegir stakeholder y resultado” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. elegir stakeholder y resultado → 2. describir estado actual con evidencia → 3. hacer visible la tensión y el costo de no actuar → 4. presentar opciones y decisión → 5. cerrar mostrando resultado esperado y cómo se medirá y marca el primer supuesto no demostrado. |
-| Optimizar solo recuerdo del mensaje | La métrica local sustituyó al resultado del sistema | Contrástala con claridad del problema y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre storytelling empresarial | Una historia convincente puede manipular. Evita seleccionar un caso extremo como representativo, exagerar causalidad o borrar incertidumbre para aumentar impacto emocional. |
-| No fijar revisión | Una decisión sobre storytelling empresarial se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Historia que reemplaza a los datos | Se cree que emociona más | Acompañarla del dato que muestra su alcance. |
+| Caso atípico como regla | Es el más llamativo | Declarar si es excepcional. |
+| Personaje inventado | Se quiere mejorar el relato | Usar casos reales, anonimizados y declarados como tales. |
+| Demasiadas ideas | Todo parece importante | Dejar una idea que sobreviva. |
+| Emoción sin hechos | Se busca conmover | Anclar la emoción en un hecho verificable. |
+| Historia sin decisión | Se cuenta lo que pasó | Mostrar qué decidió el personaje y qué ocurrió. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **protagonista** y **conflicto** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **narrativa** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **elegir stakeholder y resultado → describir estado actual con evidencia** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **recuerdo del mensaje** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **storytelling empresarial**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Una historia convincente puede manipular. Evita seleccionar un caso extremo como representativo, exagerar causalidad o borrar incertidumbre para aumentar impacto emocional.**?
+1. ¿Cuáles son los seis rasgos de Heath y Heath?
+2. ¿Qué diferencia hay entre una idea simple y una simplificada en exceso?
+3. ¿Qué cuatro elementos tiene una historia empresarial?
+4. ¿Cómo se comprueba que una historia no engaña aunque sea verdadera?
+5. ¿Qué papel cumple el contraste «es / podría ser» de Duarte?
+6. ¿En qué orden se combinan historia y datos?
+7. ¿Qué límite tienen los seis rasgos como método?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Simple, inesperada, concreta, creíble, emocional e historia.
+2. La simple prioriza lo esencial; la simplificada en exceso distorsiona o elimina lo necesario.
+3. Personaje, tensión, decisión y resultado.
+4. Verificando que sea cierta y representativa, declarando si es excepcional y mostrando el dato que la sitúa.
+5. Mueve a la acción al mostrar la distancia entre la situación actual y la posible.
+6. Abrir con la historia que muestra el problema, sostener con el dato de su alcance y cerrar con la decisión.
+7. Provienen de ejemplos seleccionados y sirven para revisar, no para garantizar que un mensaje se recuerde.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/029-storytelling-empresarial/`:
 
-- `risk-governance-brief.md` con el problema específico de **storytelling empresarial**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **storytelling empresarial** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **protagonista**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una startup explica su producto con veinte funcionalidades. Al reformular, cuenta el día de una jefa de operaciones que pierde cuatro horas conciliando sistemas y muestra el costo anual verificable.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con la narrativa del caso ejecutivo y su verificación de representatividad;
+- `reading-note.md` con una tensión entre Heath y Heath y Duarte;
+- `decision-journal.md` con la historia elegida, las que descartaste y por qué.
 
 ## 📗 Fuentes y verificación
 
-- Chip Heath & Dan Heath — *Made to Stick* (Penguin Random House, 2007). **Uso en esta clase:** diseño de mensajes memorables, concretos y accionables. Lectura selectiva sobre **storytelling empresarial**. **Localizador:** [ISBN-13 9781905211562](https://openlibrary.org/isbn/9781905211562).
-- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** mecanismos de influencia y sus límites éticos. Lectura selectiva sobre **storytelling empresarial**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
-- Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* (Random House Audio, 1999). **Uso en esta clase:** perspectiva de Comunicación aplicada al problema de la clase. Lectura selectiva sobre **storytelling empresarial**. **Localizador:** [ISBN-13 9780553525687](https://openlibrary.org/isbn/9780553525687).
-- Barbara Minto — *The Pyramid Principle* (Financial Times/ Prentice Hall, 2005). **Uso en esta clase:** estructura piramidal para razonamiento y comunicación ejecutiva. Lectura selectiva sobre **storytelling empresarial**. **Localizador:** [ISBN-13 9781405822145](https://openlibrary.org/isbn/9781405822145).
-- Edgar H. Schein — *Humble Inquiry* (ReadHowYouWant.com, Limited, 2013). **Uso en esta clase:** preguntas que reducen jerarquía defensiva y mejoran información. Lectura selectiva sobre **storytelling empresarial**. **Localizador:** [ISBN-13 9780369308443](https://openlibrary.org/isbn/9780369308443).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **storytelling empresarial**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **storytelling empresarial** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **storytelling empresarial**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **storytelling empresarial** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **storytelling empresarial** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **storytelling empresarial** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Chip Heath & Dan Heath — *Made to Stick* (Penguin Random House, 2007). **Uso en esta clase:** los seis rasgos de las ideas que se entienden y se recuerdan. Lectura selectiva sobre **storytelling empresarial**. **Localizador:** [ISBN-13 9781905211562](https://openlibrary.org/isbn/9781905211562).
+- Nancy Duarte — *Resonate* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** la narrativa como contraste entre lo actual y lo posible. Lectura selectiva sobre **storytelling empresarial**. **Localizador:** [ISBN-13 9781118014875](https://openlibrary.org/isbn/9781118014875).
+- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** prueba social y coherencia como refuerzo de un relato. Lectura selectiva sobre **storytelling empresarial**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
+- Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* (Random House Audio, 1999). **Uso en esta clase:** contar lo difícil sin atribuir culpa. Lectura selectiva sobre **storytelling empresarial**. **Localizador:** [ISBN-13 9780553525687](https://openlibrary.org/isbn/9780553525687).
+- Barbara Minto — *The Pyramid Principle* (Financial Times/ Prentice Hall, 2005). **Uso en esta clase:** estructura para combinar relato y razones. Lectura selectiva sobre **storytelling empresarial**. **Localizador:** [ISBN-13 9781405822145](https://openlibrary.org/isbn/9781405822145).
 
-> **Regla de fuentes para Storytelling empresarial:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **storytelling empresarial** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Storytelling empresarial:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

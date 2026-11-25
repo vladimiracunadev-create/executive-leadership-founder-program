@@ -306,6 +306,9 @@
       "locator": "https://openlibrary.org/isbn/9781119477242",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
+        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
+        "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
@@ -355,17 +358,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/02-communication-influence-negotiation-basics/classes/025-comunicacion-como-sistema-de-liderazgo",
-        "modules/02-communication-influence-negotiation-basics/classes/026-escucha-activa-y-preguntas-de-calidad",
-        "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
-        "modules/02-communication-influence-negotiation-basics/classes/028-presentaciones-para-decisiones",
-        "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial",
-        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
-        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
-        "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
-        "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
-        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
@@ -878,10 +870,10 @@
       "locator": "https://openlibrary.org/isbn/9781405822145",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/02-communication-influence-negotiation-basics/classes/025-comunicacion-como-sistema-de-liderazgo",
         "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
-        "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial",
-        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
-        "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva"
+        "modules/02-communication-influence-negotiation-basics/classes/028-presentaciones-para-decisiones",
+        "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial"
       ],
       "status": "verificada",
       "authority": "Financial Times/ Prentice Hall"
@@ -1283,16 +1275,10 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/02-communication-influence-negotiation-basics/classes/025-comunicacion-como-sistema-de-liderazgo",
-        "modules/02-communication-influence-negotiation-basics/classes/026-escucha-activa-y-preguntas-de-calidad",
         "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
         "modules/02-communication-influence-negotiation-basics/classes/028-presentaciones-para-decisiones",
         "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial",
-        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
-        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
-        "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
-        "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
-        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular"
+        "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia"
       ],
       "status": "verificada",
       "authority": "Penguin Random House"
@@ -1336,10 +1322,6 @@
       "locator": "https://openlibrary.org/isbn/9781847941480",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/02-communication-influence-negotiation-basics/classes/025-comunicacion-como-sistema-de-liderazgo",
-        "modules/02-communication-influence-negotiation-basics/classes/028-presentaciones-para-decisiones",
-        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
-        "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
         "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
         "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
         "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
@@ -1492,9 +1474,7 @@
       "locator": "https://openlibrary.org/isbn/9787801121820",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
-        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
-        "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo"
+        "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia"
       ],
       "status": "verificada",
       "authority": "Min zhu yu jian she chu ban she"
@@ -1565,6 +1545,13 @@
       "locator": "https://openlibrary.org/isbn/9781578514861",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/02-communication-influence-negotiation-basics/classes/025-comunicacion-como-sistema-de-liderazgo",
+        "modules/02-communication-influence-negotiation-basics/classes/026-escucha-activa-y-preguntas-de-calidad",
+        "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
+        "modules/02-communication-influence-negotiation-basics/classes/028-presentaciones-para-decisiones",
+        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
+        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
+        "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
         "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
@@ -2027,8 +2014,9 @@
         "modules/02-communication-influence-negotiation-basics/classes/026-escucha-activa-y-preguntas-de-calidad",
         "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
         "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial",
+        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
+        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
-        "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo"
       ],
@@ -2079,10 +2067,7 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/02-communication-influence-negotiation-basics/classes/026-escucha-activa-y-preguntas-de-calidad",
-        "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial",
-        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
-        "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular"
+        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles"
       ],
       "status": "verificada",
       "authority": "ReadHowYouWant.com, Limited"
@@ -2291,6 +2276,7 @@
         "modules/00-professional-to-leader/classes/005-de-tareas-a-resultados-pensar-en-contribucion",
         "modules/00-professional-to-leader/classes/008-gestion-de-energia-y-sostenibilidad-personal",
         "modules/00-professional-to-leader/classes/011-mapa-de-fortalezas-brechas-y-riesgos-personales",
+        "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
         "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder"
       ],
       "status": "verificada",
@@ -2456,17 +2442,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/02-communication-influence-negotiation-basics/classes/025-comunicacion-como-sistema-de-liderazgo",
-        "modules/02-communication-influence-negotiation-basics/classes/026-escucha-activa-y-preguntas-de-calidad",
-        "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
-        "modules/02-communication-influence-negotiation-basics/classes/028-presentaciones-para-decisiones",
-        "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial",
-        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
-        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
-        "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
-        "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
-        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
@@ -3385,10 +3360,8 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/02-communication-influence-negotiation-basics/classes/026-escucha-activa-y-preguntas-de-calidad",
-        "modules/02-communication-influence-negotiation-basics/classes/028-presentaciones-para-decisiones",
-        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
-        "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular"
+        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
+        "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo"
       ],
       "status": "verificada",
       "authority": "McGraw Hill"
@@ -4077,10 +4050,9 @@
       "locator": "https://openlibrary.org/isbn/9781118014875",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/02-communication-influence-negotiation-basics/classes/025-comunicacion-como-sistema-de-liderazgo",
+        "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
         "modules/02-communication-influence-negotiation-basics/classes/028-presentaciones-para-decisiones",
-        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
-        "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
+        "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial",
         "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva"
       ],
       "status": "verificada",
@@ -4451,17 +4423,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/02-communication-influence-negotiation-basics/classes/025-comunicacion-como-sistema-de-liderazgo",
-        "modules/02-communication-influence-negotiation-basics/classes/026-escucha-activa-y-preguntas-de-calidad",
-        "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
-        "modules/02-communication-influence-negotiation-basics/classes/028-presentaciones-para-decisiones",
-        "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial",
-        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
-        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
-        "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
-        "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
-        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
@@ -5376,16 +5337,9 @@
       "locator": "https://openlibrary.org/isbn/9781624608049",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/02-communication-influence-negotiation-basics/classes/025-comunicacion-como-sistema-de-liderazgo",
-        "modules/02-communication-influence-negotiation-basics/classes/026-escucha-activa-y-preguntas-de-calidad",
-        "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
         "modules/02-communication-influence-negotiation-basics/classes/028-presentaciones-para-decisiones",
         "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial",
-        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
-        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
-        "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
         "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
         "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
         "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
@@ -5522,16 +5476,8 @@
       "locator": "https://openlibrary.org/isbn/9780091493714",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/02-communication-influence-negotiation-basics/classes/025-comunicacion-como-sistema-de-liderazgo",
         "modules/02-communication-influence-negotiation-basics/classes/026-escucha-activa-y-preguntas-de-calidad",
-        "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
-        "modules/02-communication-influence-negotiation-basics/classes/028-presentaciones-para-decisiones",
-        "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial",
-        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
-        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
-        "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
         "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
         "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
@@ -6017,17 +5963,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/02-communication-influence-negotiation-basics/classes/025-comunicacion-como-sistema-de-liderazgo",
-        "modules/02-communication-influence-negotiation-basics/classes/026-escucha-activa-y-preguntas-de-calidad",
-        "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
-        "modules/02-communication-influence-negotiation-basics/classes/028-presentaciones-para-decisiones",
-        "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial",
-        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
-        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
-        "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
-        "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
-        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
@@ -6550,17 +6485,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/02-communication-influence-negotiation-basics/classes/025-comunicacion-como-sistema-de-liderazgo",
-        "modules/02-communication-influence-negotiation-basics/classes/026-escucha-activa-y-preguntas-de-calidad",
-        "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
-        "modules/02-communication-influence-negotiation-basics/classes/028-presentaciones-para-decisiones",
-        "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial",
-        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
-        "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
-        "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
-        "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
-        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/039-empatia-sin-perder-exigencia",
@@ -6830,7 +6754,8 @@
       "locator": "https://doi.org/10.2307/259247",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder"
+        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
+        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular"
       ],
       "status": "verificada"
     },
@@ -6891,6 +6816,7 @@
       "locator": "https://doi.org/10.1057/palgrave.crr.1550049",
       "accessed": "2026-11-25",
       "used_in": [
+        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
         "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo"
@@ -6973,6 +6899,104 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "richard-l-daft-robert-h-lengel-organizational-information-requirements-media-ric",
+      "type": "paper",
+      "authors": [
+        "Daft, Richard L.",
+        "Lengel, Robert H."
+      ],
+      "title": "Organizational Information Requirements, Media Richness and Structural Design",
+      "cited_as": "Richard L. Daft & Robert H. Lengel — Organizational Information Requirements, Media Richness and Structural Design",
+      "authority": "Management Science",
+      "published": "1986",
+      "doi": "10.1287/mnsc.32.5.554",
+      "locator": "https://doi.org/10.1287/mnsc.32.5.554",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/02-communication-influence-negotiation-basics/classes/025-comunicacion-como-sistema-de-liderazgo",
+        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "avraham-n-kluger-angelo-denisi-the-effects-of-feedback-interventions-on-performa",
+      "type": "paper",
+      "authors": [
+        "Kluger, Avraham N.",
+        "DeNisi, Angelo"
+      ],
+      "title": "The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory",
+      "cited_as": "Avraham N. Kluger & Angelo DeNisi — The Effects of Feedback Interventions on Performance: A Historical Review, a Meta-Analysis, and a Preliminary Feedback Intervention Theory",
+      "authority": "Psychological Bulletin",
+      "published": "1996",
+      "doi": "10.1037/0033-2909.119.2.254",
+      "locator": "https://doi.org/10.1037/0033-2909.119.2.254",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "karen-a-jehn-a-multimethod-examination-of-the-benefits-and-detriments-of-intragr",
+      "type": "paper",
+      "authors": [
+        "Jehn, Karen A."
+      ],
+      "title": "A Multimethod Examination of the Benefits and Detriments of Intragroup Conflict",
+      "cited_as": "Karen A. Jehn — A Multimethod Examination of the Benefits and Detriments of Intragroup Conflict",
+      "authority": "Administrative Science Quarterly",
+      "published": "1995",
+      "doi": "10.2307/2393638",
+      "locator": "https://doi.org/10.2307/2393638",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "jason-a-colquitt-donald-e-conlon-michael-j-wesson-christopher-o-l-h-porter-k-yee",
+      "type": "paper",
+      "authors": [
+        "Colquitt, Jason A.",
+        "Conlon, Donald E.",
+        "Wesson, Michael J.",
+        "Porter, Christopher O. L. H.",
+        "Ng, K. Yee"
+      ],
+      "title": "Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research",
+      "cited_as": "Jason A. Colquitt, Donald E. Conlon, Michael J. Wesson, Christopher O. L. H. Porter & K. Yee Ng — Justice at the Millennium: A Meta-Analytic Review of 25 Years of Organizational Justice Research",
+      "authority": "Journal of Applied Psychology",
+      "published": "2001",
+      "doi": "10.1037/0021-9010.86.3.425",
+      "locator": "https://doi.org/10.1037/0021-9010.86.3.425",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "douglas-stone-sheila-heen-thanks-for-the-feedback",
+      "type": "book",
+      "authors": [
+        "Stone, Douglas",
+        "Heen, Sheila"
+      ],
+      "title": "Thanks for the Feedback",
+      "cited_as": "Douglas Stone & Sheila Heen — Thanks for the Feedback",
+      "authority": "Viking",
+      "published": "2014",
+      "isbn13": "9780670014668",
+      "locator": "https://openlibrary.org/isbn/9780670014668",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable"
       ],
       "status": "verificada"
     }

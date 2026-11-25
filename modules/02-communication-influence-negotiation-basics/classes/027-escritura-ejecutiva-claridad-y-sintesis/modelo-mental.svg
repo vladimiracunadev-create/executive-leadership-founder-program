@@ -1,65 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 620.24" width="1040" role="img" aria-labelledby="t-g27 d-g27" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g27">Ficha visual de la clase 027: Escritura ejecutiva: claridad y síntesis</title>
-<desc id="d-g27">Conceptos: bottom line; pirámide; MECE; claim; appendix. Método: definir decisión del lector → escribir conclusión provisional → agrupar razones en 2–4 argumentos → adjuntar evidencia a cada claim → editar redundancia y cerrar con acción.</desc>
-<defs><marker id="p-g27" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="620.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#1a7f37"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 027 · Escritura ejecutiva: claridad y síntesis</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 02 · Autoliderazgo y fundamentos ejecutivos</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#1a7f37"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >bottom line</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conclusión o petición presentada antes del detalle</text>
-<circle cx="38" cy="170" r="5" fill="#1a7f37"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >pirámide</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >estructura jerárquica de idea principal, argumentos y</text>
-<text x="54" y="209.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >evidencia</text>
-<circle cx="38" cy="242.12" r="5" fill="#1a7f37"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >MECE</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >agrupación razonablemente no solapada y colectivamente</text>
-<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >suficiente</text>
-<circle cx="38" cy="314.24" r="5" fill="#1a7f37"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >claim</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >afirmación que requiere sustento</text>
-<circle cx="38" cy="372.24" r="5" fill="#1a7f37"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >appendix</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >detalle que soporta sin bloquear el flujo principal</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir decisión del lector</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >escribir conclusión provisional</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >agrupar razones en 2–4 argumentos</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >adjuntar evidencia a cada claim</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#1a7f37" stroke="#1a7f37" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >editar redundancia y cerrar con acción</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >tiempo de lectura</text>
-<rect x="181.3" y="456.24" width="267.5" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="194.3" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="205.3" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >preguntas que el memo deja abiertas</text>
-<rect x="458.8" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="471.8" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="482.8" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >claims sin evidencia</text>
-<rect x="632.8" y="456.24" width="260.6" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="645.8" cy="469.24" r="3.5" fill="#1a7f37"/>
-<text x="656.8" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >extensión del cuerpo versus anexos</text>
-<rect x="28" y="488.24" width="233" height="26" rx="13" fill="#ffffff" stroke="#1a7f37" stroke-width="1.2" />
-<circle cx="41" cy="501.24" r="3.5" fill="#1a7f37"/>
-<text x="52" y="505.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decisiones tomadas sin reunión</text>
-<rect x="28" y="534.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="534.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="554.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="572.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >La pirámide no debe ocultar incertidumbre ni forzar una conclusión antes de analizar. Es una estructura de comunicación, no una excusa</text>
-<text x="48" y="589.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >para cherry-picking.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 590" width="1040" role="img" aria-labelledby="t-027 d-027" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-027">Pirámide: primero la respuesta, luego las razones, luego los datos</title>
+<desc id="d-027">Estructura descendente de un documento ejecutivo: respuesta arriba, tres líneas clave que la sostienen, datos de apoyo debajo, con una introducción de situación, complicación y pregunta.</desc>
+<defs><marker id="p-027" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="590" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 027 · Escribir para que decidan</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Minto (2005)</text>
+<rect x="240" y="100" width="300" height="84" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="2" />
+<text x="390" y="134" font-size="14" font-weight="800" fill="#cf222e" text-anchor="middle" letter-spacing="1.2">RESPUESTA</text>
+<text x="390" y="154" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="middle" >Lo que quieres que se decida, en una</text>
+<text x="390" y="171.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="middle" >frase</text>
+<rect x="150" y="202" width="480" height="84" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="2" />
+<text x="390" y="236" font-size="14" font-weight="800" fill="#bc4c00" text-anchor="middle" letter-spacing="1.2">LÍNEAS CLAVE</text>
+<text x="390" y="256" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="middle" >Tres razones, agrupadas y ordenadas</text>
+<rect x="50" y="304" width="680" height="84" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="2" />
+<text x="390" y="338" font-size="14" font-weight="800" fill="#0969da" text-anchor="middle" letter-spacing="1.2">DATOS Y SUPUESTOS</text>
+<text x="390" y="358" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="middle" >Hechos, cifras y fuentes que sostienen cada razón</text>
+<path d="M390,186 L390,200" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-027)"/>
+<path d="M390,288 L390,302" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-027)"/>
+<path d="M752,120 V380" stroke="#1a7f37" stroke-width="2" marker-end="url(#p-027)"/>
+<path d="M782,380 V120" stroke="#cf222e" stroke-width="2" marker-end="url(#p-027)"/>
+<text x="804" y="112" font-size="11.5" font-weight="700" fill="#1a7f37" text-anchor="start" >El lector pregunta</text>
+<text x="804" y="130" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿por qué? ¿cómo lo sabes?</text>
+<text x="804" y="148" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >y se baja un nivel</text>
+<text x="804" y="330" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" >El autor comprueba</text>
+<text x="804" y="348" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿y entonces?</text>
+<text x="804" y="366" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >y se sube un nivel</text>
+<rect x="28" y="410" width="480" height="120" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<text x="46" y="434" font-size="11.5" font-weight="700" fill="#8250df" text-anchor="start" letter-spacing="0.8">INTRODUCCIÓN: SITUACIÓN → COMPLICACIÓN → PREGUNTA</text>
+<text x="46" y="454" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Lo que ya se sabe y nadie discute; lo que cambió o se</text>
+<text x="46" y="471.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >complica; la pregunta que la respuesta contesta.</text>
+<rect x="530" y="410" width="482" height="120" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<text x="548" y="434" font-size="11.5" font-weight="700" fill="#0969da" text-anchor="start" letter-spacing="0.8">CADA GRUPO DE IDEAS</text>
+<text x="548" y="454" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Debe ser de un mismo tipo, sin solaparse y sin dejar fuera lo</text>
+<text x="548" y="471.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >importante (excluyentes y exhaustivas).</text>
+<text x="28" y="566" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Orden dentro de un grupo: por tiempo, por estructura o por importancia; elige uno y dilo.</text>
 </svg>

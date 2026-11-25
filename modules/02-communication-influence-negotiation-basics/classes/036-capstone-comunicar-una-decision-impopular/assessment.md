@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **decisión impopular** de **criterio** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **impacto humano** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **Q&A** con **consistencia**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Cuáles son las cuatro dimensiones de la justicia organizacional y qué evalúa cada una?
+2. ¿Por qué una buena explicación no compensa un trato irrespetuoso?
+3. ¿A quién se informa primero y por qué?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** La empresa cancela un beneficio para proteger caja. La medida afecta a todos y dirección teme rechazo; esconder el motivo financiero sería más cómodo, pero dañaría confianza si luego se conoce.
+**Caso:** Una gerente general debe anunciar que la empresa suspende el bono anual de desempeño este año por una caída del margen. El bono representa en promedio el 12 % de la remuneración. Los empleados venían de un año de esfuerzo; el sindicato ya expresó preocupación; la prensa sectorial publicó que la competencia sí lo pagará. La gerente tiene una reunión con directores en cuatro días.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **preparar razones y alternativas consideradas → nombrar decisión temprano → explicar criterio y límites → reconocer impacto sin falsa promesa → abrir preguntas y documentar seguimiento**. Debes utilizar o diseñar cómo obtener **comprensión de la decisión, rumores posteriores, preguntas sin respuesta**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de comunicación de una decisión impopular** que integre la parte 02 y contenga: (a) la decisión, sus hechos y las alternativas evaluadas; (b) el mapa de interesados con su clasificación (clase 034); (c) cómo cubrirás las cuatro dimensiones de justicia; (d) la secuencia del anuncio con canal, responsable y mensaje (clases 025 y 027); (e) la historia o el ejemplo que usarás y su verificación de representatividad (clase 029); (f) las preguntas difíciles y tus respuestas (clase 031); (g) lo que no prometerás; (h) la evaluación posterior y qué evidencia cambiaría tu plan. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Transparencia tiene límites legítimos por privacidad, negociación o información sensible. Explica tanto como sea posible sin inventar certeza ni divulgar datos que no corresponde compartir.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: El metaanálisis de Colquitt y colegas se basa en estudios de organizaciones, con sus sesgos de muestra y de medición; muestra tendencias, no garantiza la aceptación de una decisión concreta.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

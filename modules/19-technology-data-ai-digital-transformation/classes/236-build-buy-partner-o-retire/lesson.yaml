@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — CEO → Transformador digital"
 outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir build de buy mediante evidencia observable."
-  - "Aplicar la secuencia: definir capability y diferenciación → modelar time y TCO → analizar control data y lock-in → evaluar talent e integration → decidir y diseñar exit strategy."
-  - "Interpretar time-to-value, TCO, vendor concentration sin atribuir causalidad automática."
-  - "Resolver el caso de build, buy, partner o retire con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Clasificar una capacidad según su grado de diferenciación estratégica."
+  - "Modelar el tiempo y el costo total de propiedad de cada opción."
+  - "Analizar el control de datos, la dependencia y el costo de salida."
+  - "Evaluar el talento, la integración y la capacidad de absorber el cambio."
+  - "Decidir y documentar la opción con condiciones y plan de salida."
 deliverable: "leadership-decision-brief.md"
 references:
+  - "Oliver E. Williamson — *Transaction-Cost Economics: The Governance of Contractual Relations*"
+  - "Carl Shapiro & Hal R. Varian — *Information Rules*"
+  - "Rebecca M. Henderson & Kim B. Clark — *Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms*"
   - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
   - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
-  - "Foster Provost & Tom Fawcett — *Data Science for Business*"
-  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
-  - "Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*"
-  - "Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd*"
 limits:
-  - "Comprar no transfiere accountability ni elimina integración. Para capabilities centrales, dependencia estratégica de vendor puede ser más costosa que desarrollar."
+  - "Para capacidades centrales, la dependencia estratégica de un proveedor puede costar más que desarrollar."
 evidence_signals:
-  - "time-to-value"
-  - "TCO"
-  - "vendor concentration"
-  - "engineering capacity"
-  - "switching cost"
+  - "capacidad clasificada"
+  - "costo total y tiempo comparados"
+  - "dependencia y costo de salida"
+  - "decisión con plan de salida"

@@ -5,28 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — CEO → Transformador digital"
 outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir task exposure de skill shift mediante evidencia observable."
-  - "Aplicar la secuencia: mapear tareas y exposure → evaluar value y risk por tarea → diseñar target roles y controls → crear reskilling y transition plan → medir productivity quality y workforce outcomes."
-  - "Interpretar task automation, productivity, quality sin atribuir causalidad automática."
-  - "Resolver el caso de cambio laboral provocado por IA con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Mapear las tareas de un área y su exposición a la IA."
+  - "Distinguir exposición, productividad realizable y sustitución."
+  - "Evaluar valor y riesgo por tarea y decidir el tratamiento."
+  - "Diseñar roles objetivo, controles y un plan de reentrenamiento y transición."
+  - "Medir el efecto real y comunicar con honestidad y obligaciones cumplidas."
 deliverable: "risk-governance-brief.md"
 references:
-  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
-  - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
-  - "Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd*"
-  - "Martin Kleppmann — *Designing Data-Intensive Applications*"
-  - "Foster Provost & Tom Fawcett — *Data Science for Business*"
-  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
-  - "NIST — *AI Risk Management Framework*. <https://www.nist.gov/itl/ai-risk-management-framework>."
+  - "David H. Autor, Frank Levy & Richard J. Murnane — *The Skill Content of Recent Technological Change: An Empirical Exploration*"
+  - "David H. Autor — *Why Are There Still So Many Jobs? The History and Future of Workplace Automation*"
+  - "Daron Acemoglu & Pascual Restrepo — *Tasks, Automation, and the Rise in U.S. Wage Inequality*"
+  - "Tyna Eloundou et al. — *GPTs are GPTs: Labor market impact potential of LLMs*"
+  - "Erik Brynjolfsson & Andrew McAfee — *The Second Machine Age*"
 limits:
-  - "Predicciones laborales cambian rápido y dependen del sector. No uses porcentajes globales para decisiones individuales; mide trabajo real y cumple obligaciones laborales."
+  - "Las predicciones laborales cambian con rapidez y dependen del sector; no se usan porcentajes globales para decisiones individuales."
 evidence_signals:
-  - "task automation"
-  - "productivity"
-  - "quality"
-  - "skill coverage"
-  - "redeployment rate"
+  - "tareas y exposición mapeadas"
+  - "productividad realizable distinguida"
+  - "roles y controles diseñados"
+  - "reentrenamiento y transición"

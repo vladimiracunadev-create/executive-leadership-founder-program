@@ -10,217 +10,206 @@
 
 ## 🎯 Propósito
 
-Métricas de entrega tecnológica deben conectar velocidad y estabilidad. DORA popularizó deployment frequency, lead time, change failure rate y recovery; ninguna métrica aislada define productividad y comparaciones entre contextos distintos requieren cautela.
+Un ejecutivo que no viene de tecnología tiene una dificultad real: no sabe si un equipo de software es rápido o lento, estable o frágil, mejora o empeora. Las respuestas que recibe suelen ser de dos tipos igualmente inútiles: «estamos haciendo lo que podemos» o un conjunto de métricas internas (puntos de historia, líneas de código, horas, tickets cerrados) que miden actividad y no resultados, y que además se prestan a manipulación. Existe, sin embargo, un pequeño conjunto de métricas de **entrega** de software, respaldado por investigación, que permite al comité de dirección saber **con qué rapidez y con qué estabilidad** la organización lleva ideas a producción: la frecuencia de despliegue, el tiempo de entrega de cambios, la tasa de fallas en los cambios y el tiempo de restauración del servicio. Son señales del **sistema**, no cuotas de las personas, y bien interpretadas indican dónde está la restricción principal.
 
-La salida de esta parte es **gobernar tecnología, datos e IA como capacidades económicas y organizacionales**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **métricas de entrega tecnológica** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase presenta esas métricas, su lectura y sus límites. Se apoya en la investigación de Forsgren, Humble y Kim (*Accelerate*), que vinculó prácticas de entrega con desempeño organizacional; en el libro de ingeniería de confiabilidad de Beyer y colaboradores sobre objetivos de nivel de servicio y aprendizaje de incidentes; en Skelton y Pais sobre la organización de equipos y el flujo; en Ries sobre aprendizaje validado; y en el análisis de Jensen sobre cómo las metas mal diseñadas inducen conductas de manipulación. Al terminar sabrás definir el flujo de valor de software, instrumentar velocidad y estabilidad, interpretar los resultados por producto y contexto y evitar su mal uso.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `deployment frequency`, `lead time for changes`, `change failure rate`, `time to restore`, `developer experience` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → transformador digital.
-3. **Aplicar** la secuencia **1. definir flujo de valor de software → 2. instrumentar velocidad y estabilidad → 3. segmentar por producto y contexto → 4. identificar constraint → 5. experimentar mejora y medir outcome** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** deployment frequency, lead time, change failure rate sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** el flujo de valor del software desde la idea hasta el cliente.
+2. **Instrumentar** las métricas de velocidad y de estabilidad de la entrega.
+3. **Segmentar** e interpretar las métricas por producto y por contexto.
+4. **Identificar** la restricción principal del flujo y su costo.
+5. **Evitar** el uso de las métricas como cuotas individuales y su manipulación.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define deployment frequency y lead time for changes sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con deployment frequency y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuánto tarda en tu empresa llevar un cambio pequeño desde la aprobación hasta que lo usa un cliente? |
+| 20–60 min | Las cuatro métricas, flujo de valor, restricciones, contexto, confiabilidad y mal uso. |
+| 60–105 min | Ejemplo trabajado: dos equipos, el desglose del tiempo de entrega y el costo de la demora. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **deployment frequency** | frecuencia con que cambios llegan a producción | Distingue un hecho compatible y otro que lo refute. |
-| **lead time for changes** | tiempo desde cambio hasta producción | Distingue un hecho compatible y otro que lo refute. |
-| **change failure rate** | proporción de cambios que causan degradación o incidente | Distingue un hecho compatible y otro que lo refute. |
-| **time to restore** | tiempo para recuperar servicio tras fallo | Distingue un hecho compatible y otro que lo refute. |
-| **developer experience** | condiciones que afectan capacidad de entregar software de forma efectiva | Distingue un hecho compatible y otro que lo refute. |
+| **Frecuencia de despliegue** | Con qué frecuencia se lleva software a producción. | Despliegues por día, semana o mes. |
+| **Tiempo de entrega de cambios** | Tiempo entre que un cambio está listo y funciona en producción. | Días u horas. |
+| **Tasa de fallas en cambios** | Porcentaje de cambios que causan fallas o exigen corrección. | Cambios con incidente. |
+| **Tiempo de restauración** | Tiempo para recuperar el servicio tras una falla. | Horas o minutos. |
+| **Flujo de valor** | Secuencia de pasos desde la idea hasta el cliente. | Tiempos de trabajo y de espera. |
+| **Restricción** | Paso que limita el flujo completo. | Colas y esperas largas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 238: 1. definir flujo de valor de software → 2. instrumentar velocidad y estabilidad → 3. segmentar por producto y contexto → 4. identificar constraint → 5. experimentar mejora y medir outcome](modelo-mental.svg)
+![Métricas de entrega: velocidad (frecuencia de despliegue y tiempo de entrega), estabilidad (tasa de fallas y tiempo de restauración) y cómo leerlas.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir flujo de valor de software → 2. instrumentar velocidad y estabilidad → 3. segmentar por producto y contexto → 4. identificar constraint → 5. experimentar mejora y medir outcome
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Métricas de entrega tecnológica deben conectar velocidad y estabilidad. DORA popularizó deployment frequency, lead time, change failure rate y recovery; ninguna métrica aislada define productividad y comparaciones entre contextos distintos requieren cautela.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No conviertas DORA en cuota individual. Son señales de sistema y deben interpretarse con calidad, seguridad, customer outcomes y contexto.**
+**Cómo leer el diagrama.** Tres columnas. **Velocidad**: frecuencia de despliegue, tiempo desde el cambio hasta producción, por producto y contexto. **Estabilidad**: tasa de fallas en los cambios, tiempo para restaurar el servicio, con calidad y seguridad. **Cómo leerlas**: como señales del sistema y no como cuotas personales, junto con resultados de clientes y de negocio, buscando la restricción principal. La nota advierte que las métricas no deben convertirse en una cuota individual: cuando una medida se vuelve meta, se manipula; el pie, que las comparaciones entre equipos exigen mismos contextos y definiciones.
 
 ## 📖 Desarrollo
 
-### 1. deployment frequency: mecanismo central
+### 1. Qué mide el desempeño de la entrega
 
-**deployment frequency** se entiende aquí como **frecuencia con que cambios llegan a producción**. Esta es la pieza causal o estructural desde la que se inicia **métricas de entrega tecnológica**: antes de definir flujo de valor de software, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Forsgren, Humble y Kim estudiaron durante años a miles de organizaciones y encontraron que la capacidad de entregar software tiene un efecto medible sobre el desempeño de la organización (rentabilidad, participación de mercado, satisfacción). Identificaron cuatro métricas que, juntas, caracterizan el desempeño de la entrega: **frecuencia de despliegue** y **tiempo de entrega de cambios** (velocidad), y **tasa de fallas en los cambios** y **tiempo de restauración del servicio** (estabilidad). Una conclusión importante de su investigación es que **velocidad y estabilidad no son un dilema**: los equipos de mejor desempeño son más rápidos **y** más estables, porque entregan cambios pequeños, frecuentes y automatizados, con mejores pruebas y recuperación. Esto contradice la creencia de que «más rápido significa más riesgoso».
 
-La lectura rectora de este bloque es Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*. Su aporte se usa para examinar **modelo operativo AI-first, escala digital, redes y arquitectura de decisión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **deployment frequency**; regístrala con periodo, unidad, población y baseline.
+### 2. Definir el flujo de valor de software
 
-Relaciona el mecanismo con **lead time for changes**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Antes de medir, se define el **flujo de valor**: desde que una idea se aprueba (o un cambio se solicita) hasta que el cliente la usa. Los pasos típicos: análisis, desarrollo, revisión de código, pruebas, aprobación de salida, despliegue, verificación en producción. Para cada paso se mide el tiempo de **trabajo activo** y el de **espera**. Ries propone un ciclo **construir–medir–aprender** y un énfasis en el aprendizaje validado: la velocidad solo vale si permite aprender más rápido qué valoran los clientes. Casi siempre se descubre que el tiempo de espera domina: el cambio pasa semanas en colas de revisión, de pruebas manuales o de aprobaciones. La métrica de tiempo de entrega no cuenta cuánto trabajan los ingenieros sino cuánto **espera** el valor.
 
-### 2. lead time for changes: frontera conceptual y error de clasificación
+### 3. Instrumentar sin burocracia
 
-**Definición operacional:** tiempo desde cambio hasta producción. Su valor está en distinguirlo de **deployment frequency** y **change failure rate**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Las métricas se **extraen de los sistemas** (repositorios, herramientas de integración y despliegue, registros de incidentes) y no se piden a las personas que las reporten, porque los reportes manuales se distorsionan y cuestan tiempo. Se definen con claridad: qué es un «despliegue», cuándo un cambio «falla» (genera un incidente, requiere reversión o corrección urgente), cuándo comienza y termina el «tiempo de entrega». Se **segmentan** por producto o sistema y por tipo de cambio, porque promediar una aplicación móvil con un sistema bancario central no tiene sentido. Se muestran **tendencias** y distribuciones (no solo promedios): una mediana de 3 días con casos de 40 días indica un problema en las colas largas.
 
-Contrasta el problema con Thomas H. Davenport & Nitin Mittal — *All-In on AI*, que aporta una mirada sobre **casos empresariales, estrategia y organización para inteligencia artificial**. Formula dos mini-casos: uno que sí satisface la definición de **lead time for changes** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **lead time** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Leer las métricas: señales, no veredictos
 
-Antes de instrumentar velocidad y estabilidad, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Las métricas de entrega se interpretan como **señales del sistema**. Un tiempo de entrega largo pregunta: ¿dónde se espera?, ¿hay aprobaciones innecesarias?, ¿las pruebas son manuales?, ¿los cambios son demasiado grandes? Una tasa de fallas alta pregunta: ¿se prueba lo suficiente?, ¿los ambientes de prueba se parecen a producción?, ¿se despliegan cambios muy grandes? Un tiempo de restauración largo pregunta: ¿hay monitoreo?, ¿se puede revertir rápido?, ¿hay claridad de roles en incidentes? Skelton y Pais señalan que la **estructura de los equipos** y la **carga cognitiva** influyen en el flujo: equipos con responsabilidad de extremo a extremo y plataformas internas que reducen fricción tienden a mejorar las métricas. Se compara cada equipo consigo mismo en el tiempo y con su contexto, antes que con otros.
 
-### 3. change failure rate: operacionalización y medición
+### 5. Confiabilidad y aprendizaje de incidentes
 
-**change failure rate** significa **proporción de cambios que causan degradación o incidente**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Beyer y colaboradores, en el libro de ingeniería de confiabilidad de sitios, proponen definir **objetivos de nivel de servicio** (por ejemplo, 99,9 % de disponibilidad) y un **presupuesto de error**: el margen que se puede «gastar» en cambios arriesgados sin incumplir el objetivo. Cuando el presupuesto se agota, se frena la entrega de funcionalidades y se invierte en estabilidad. También enseñan a hacer **revisiones sin culpas** de los incidentes: buscar causas del sistema, no culpables, y convertir lo aprendido en mejoras. Estas prácticas conectan las métricas con **decisiones**: ¿cuánta velocidad podemos permitirnos?, ¿dónde invertir en confiabilidad? La seguridad psicológica (clase 174) es una condición: si los incidentes se castigan, se ocultan.
 
-NIST — *AI Risk Management Framework (AI RMF 1.0)* orienta este bloque mediante **gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **change failure rate**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. El mal uso: cuotas individuales y manipulación
 
-Al llegar a segmentar por producto y contexto, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cuando una métrica se convierte en meta o en una cuota individual, tiende a manipularse. Jensen analizó cómo las metas de presupuesto mal diseñadas llevan a las personas a mentir, manipular o actuar en contra del interés de la empresa. Aplicado a la entrega: si se mide a cada ingeniero por **número de despliegues**, se dividirán cambios sin valor; si se castiga la **tasa de fallas**, se ocultarán fallas o se evitará desplegar; si se exige **reducir el tiempo de restauración** sin cambios de proceso, se reclasificarán incidentes. Por eso las métricas de entrega se usan para **conversar sobre el sistema** y mejorar el flujo, no para evaluar personas ni para comparar equipos de contextos distintos. Se acompañan con indicadores de **calidad, seguridad, resultados de clientes y de negocio**.
 
-### 4. time to restore: trade-offs y efectos de segundo orden
+### 7. Del dato a la decisión
 
-**Definición:** tiempo para recuperar servicio tras fallo. Este concepto obliga a abandonar la idea de que **métricas de entrega tecnológica** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de identificar constraint, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* aporta una lente sobre **transformación digital desde capacidades de liderazgo y capacidades digitales**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **recovery time** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **métricas de entrega tecnológica**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **time to restore** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. developer experience: gobernanza, límites e integración
-
-**developer experience** se define como **condiciones que afectan capacidad de entregar software de forma efectiva** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* se utiliza para estudiar **métricas de entrega, capacidades técnicas y desempeño organizacional** y contrastar la recomendación final. Al ejecutar experimentar mejora y medir outcome, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No conviertas DORA en cuota individual. Son señales de sistema y deben interpretarse con calidad, seguridad, customer outcomes y contexto.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **deployment frequency**, **lead time for changes**, **change failure rate**, **time to restore** y **developer experience** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **métricas de entrega tecnológica** no consiste en sumar cinco definiciones. Empieza por **deployment frequency**, contrasta **lead time for changes** con **change failure rate**, incorpora **time to restore** como restricción o mecanismo y usa **developer experience** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir flujo de valor de software → 2. instrumentar velocidad y estabilidad → 3. segmentar por producto y contexto → 4. identificar constraint → 5. experimentar mejora y medir outcome**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Una vez medida la entrega, el ejecutivo pregunta: ¿cuál es la **restricción principal** del flujo y cuánto cuesta?, ¿qué inversión (automatización de pruebas, plataforma, reorganización, reducción de aprobaciones) la reduce con mejor retorno?, ¿qué efecto tiene en los resultados de negocio (tiempo de lanzamiento, retención, ingresos)? Se calcula el **costo de la demora**: cada día que un cambio espera, el valor que genera se retrasa. Se fijan **metas de mejora por producto** y se revisan trimestralmente, no semanalmente. Y se conecta con la deuda técnica (clase 237) y con la arquitectura: un tiempo de entrega que crece suele ser el síntoma de acoplamiento. Lo importante no es el valor absoluto de las métricas, sino la **dirección** y la **causa**.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* | modelo operativo AI-first, escala digital, redes y arquitectura de decisión | ¿Qué supuesto de **métricas de entrega tecnológica** ayuda a desafiar? |
-| Thomas H. Davenport & Nitin Mittal — *All-In on AI* | casos empresariales, estrategia y organización para inteligencia artificial | ¿Qué supuesto de **métricas de entrega tecnológica** ayuda a desafiar? |
-| NIST — *AI Risk Management Framework (AI RMF 1.0)* | gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida | ¿Qué supuesto de **métricas de entrega tecnológica** ayuda a desafiar? |
-| George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* | transformación digital desde capacidades de liderazgo y capacidades digitales | ¿Qué supuesto de **métricas de entrega tecnológica** ayuda a desafiar? |
-| Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* | métricas de entrega, capacidades técnicas y desempeño organizacional | ¿Qué supuesto de **métricas de entrega tecnológica** ayuda a desafiar? |
-
-En **métricas de entrega tecnológica**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **deployment frequency**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Forsgren, Humble y Kim | Cuatro métricas de entrega y su vínculo con el desempeño. | Estudio de encuestas; hay que adaptarlo. | ¿Qué dicen nuestras métricas de nuestro flujo? |
+| Beyer y otros | Objetivos de nivel de servicio, presupuesto de error y revisiones sin culpas. | Orientado a grandes sistemas. | ¿Cuánta velocidad permite nuestra confiabilidad? |
+| Skelton y Pais | Equipos, carga cognitiva y flujo. | Enfoque organizacional. | ¿Cómo están organizados los equipos para el flujo? |
+| Ries | Ciclo construir–medir–aprender y aprendizaje validado. | Orientado a startups. | ¿Qué aprendemos con cada entrega? |
+| Jensen | Cómo las metas mal diseñadas inducen manipulación. | Contexto presupuestario. | ¿Qué conducta induce esta métrica? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un CTO presiona por más deployments; el equipo divide cambios artificialmente y sube frecuencia 3x mientras incidentes y lead time total empeoran.
+**Situación (hipotética).** Una empresa mide dos equipos de producto.
 
-**Paso 1 — definir flujo de valor de software.** La gerencia escribe primero el supuesto asociado a **deployment frequency** y evita convertirlo en hecho. Luego busca **deployment frequency** para contrastarlo en el caso de **métricas de entrega tecnológica**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Métrica | Equipo A | Equipo B |
+|---|---|---|
+| Frecuencia de despliegue | 12 por mes | 1 por mes |
+| Tiempo de entrega de cambios | 3 días | 30 días |
+| Tasa de fallas en los cambios | 8 % | 20 % |
+| Tiempo de restauración | 2 horas | 18 horas |
 
-**Paso 2 — instrumentar velocidad y estabilidad.** La gerencia escribe primero el supuesto asociado a **lead time for changes** y evita convertirlo en hecho. Luego busca **lead time** para contrastarlo en el caso de **métricas de entrega tecnológica**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costo de las fallas por cada 100 cambios.** Con un costo de interrupción de 4 millones de pesos por hora: Equipo A: 8 fallas × (2 h × 4) = 8 × 8 = 64 millones. Equipo B: 20 fallas × (18 h × 4) = 20 × 72 = 1.440 millones. El equipo B no solo es más lento: cada cien cambios le cuesta 22 veces más en interrupciones (1.440 ÷ 64 = 22,5).
 
-**Paso 3 — segmentar por producto y contexto.** La gerencia escribe primero el supuesto asociado a **change failure rate** y evita convertirlo en hecho. Luego busca **change failure rate** para contrastarlo en el caso de **métricas de entrega tecnológica**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Desglose del tiempo de entrega del equipo B (30 días).**
 
-**Paso 4 — identificar constraint.** La gerencia escribe primero el supuesto asociado a **time to restore** y evita convertirlo en hecho. Luego busca **recovery time** para contrastarlo en el caso de **métricas de entrega tecnológica**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Paso | Días | Tipo |
+|---|---|---|
+| Desarrollo | 2 | Trabajo |
+| Espera de revisión de código | 9 | Espera |
+| Pruebas manuales y espera de ambiente | 10 | Espera y trabajo |
+| Aprobación de salida (comité semanal) | 6 | Espera |
+| Despliegue manual en ventana | 3 | Espera y trabajo |
+| **Total** | **30** | |
 
-**Paso 5 — experimentar mejora y medir outcome.** La gerencia escribe primero el supuesto asociado a **developer experience** y evita convertirlo en hecho. Luego busca **developer satisfaction** para contrastarlo en el caso de **métricas de entrega tecnológica**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+El trabajo activo es una parte pequeña; la **restricción** son las esperas de revisión, de pruebas y de aprobación (25 de 30 días).
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **métricas de entrega tecnológica**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Intervenciones.** (1) Cambios más pequeños y revisión en 24 horas (de 9 a 3 días); (2) pruebas automatizadas que sustituyen parte de las manuales (de 10 a 6 días); (3) aprobación automática para cambios de bajo riesgo con controles (de 6 a 1 día). Nuevo total: 2 + 3 + 6 + 1 + 3 = **15 días**.
+
+**Costo de la demora.** El equipo B entrega 80 cambios con valor al año; cada uno genera en promedio 60 millones de pesos anuales una vez en producción (0,164 millones por día). Adelantar 15 días: 80 × 15 × 0,164 ≈ **197 millones** de valor que antes se perdía por espera. La inversión estimada en automatización y reorganización es de 240 millones; recuperación en unos 14 meses (240 ÷ 197 × 12), sin contar la reducción de fallas.
+
+**Uso inadecuado.** Un jefe propone «subir los despliegues por ingeniero» como meta del bono. En tres meses, el equipo B anuncia 6 despliegues al mes (una mejora de 600 %), pero dividiendo cambios sin valor y sin cambiar el tiempo de entrega; la tasa de fallas sube a 24 %. Se retira la meta personal; las métricas se discuten en la revisión trimestral del flujo.
+
+**Indicadores a 12 meses (hipotéticos).** Equipo B: despliegues de 1 a 6 por mes; tiempo de entrega de 30 a 14 días; fallas de 20 % a 11 %; restauración de 18 a 5 horas. Acompañados de satisfacción de clientes y tiempo de lanzamiento de productos.
+
+**Cuidados.** Los costos y valores son estimaciones; las comparaciones entre equipos requieren contextos similares; las prácticas que afecten a personas (evaluación, incentivos) se revisan con asesoría laboral; las cifras son ilustrativas.
+
+**Qué muestra.** (1) Velocidad y estabilidad se midieron juntas. (2) El desglose reveló la restricción. (3) La métrica mal usada se manipuló y se corrigió.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **deployment frequency** | frecuencia con que cambios llegan a producción | Cuando deployment frequency es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **lead time for changes** | tiempo desde cambio hasta producción | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Métricas de entrega frente a productividad individual.** Miden el sistema de entrega, no el desempeño de personas. Usarlas para evaluar individuos las distorsiona.
 
-**Frontera de aplicación:** No conviertas DORA en cuota individual. Son señales de sistema y deben interpretarse con calidad, seguridad, customer outcomes y contexto.
+**Límites.** No capturan el valor entregado a los clientes, la calidad del producto ni la satisfacción; deben acompañarse de resultados de negocio. Los contextos (tipo de sistema, regulación) cambian lo que es razonable. Las definiciones deben ser consistentes. Los estudios son de encuestas y de ciertos tipos de organizaciones. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre métricas de entrega tecnológica |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **métricas de entrega tecnológica** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **deployment frequency** y **lead time for changes** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta deployment frequency con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si métricas de entrega tecnológica cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de métricas de entrega tecnológica reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **métricas de entrega tecnológica** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entrega cambios pequeños y mantiene la calidad de las pruebas. |
+| **Jefe / Team Lead** | Observa el flujo y elimina esperas de su equipo. |
+| **Gerente** | Mide la entrega por producto y prioriza la restricción. |
+| **CEO / Director** | Usa las métricas para decidir inversiones y evita convertirlas en cuotas. |
+| **Founder / Owner** | Entiende que la velocidad de aprendizaje es una ventaja competitiva. |
 
 ## 🏢 Caso ejecutivo
 
-Un CTO presiona por más deployments; el equipo divide cambios artificialmente y sube frecuencia 3x mientras incidentes y lead time total empeoran.
+Una empresa de comercio electrónico con 600 personas y un área de tecnología de 140 ingenieros en 11 equipos recibe cada trimestre un informe con «puntos de historia entregados», «tickets cerrados» y «horas trabajadas», que muestran cumplimiento de 94 %. Sin embargo, lanzar una promoción toma ocho semanas; en el último trimestre hubo 14 incidentes graves (el principal duró 11 horas y costó 520 millones); hay dos equipos con 2 despliegues al mes y tres con 20; los ingenieros dicen que esperan semanas por revisiones y aprobaciones; el director de tecnología propone medir «despliegues por ingeniero» y vincular un bono; el gerente comercial reclama que «tecnología es lenta»; el CEO quiere saber si debe invertir en una plataforma de automatización de 1.900 millones o en contratar más ingenieros. Los equipos advierten que si se les mide por despliegues, «los inflarán».
 
-Entrega un **decision brief de métricas de entrega tecnológica** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diseño de métricas de entrega** que contenga: (a) el flujo de valor y el desglose de tiempos para dos equipos; (b) la definición operativa de las cuatro métricas y cómo se extraerán; (c) la lectura por producto y contexto y la restricción principal; (d) el cálculo del costo de la demora y de las fallas, y la comparación de las dos inversiones; (e) el rechazo razonado de la propuesta de bono por despliegues y un sistema alternativo de uso de las métricas; (f) las verificaciones laborales y de incentivos pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **métricas de entrega tecnológica** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir flujo de valor de software → 2. instrumentar velocidad y estabilidad → 3. segmentar por producto y contexto → 4. identificar constraint → 5. experimentar mejora y medir outcome** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta deployment frequency, lead time; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Dibuja el flujo de valor de un cambio en tu empresa con tiempos de trabajo y de espera.
+2. Calcula las cuatro métricas de un equipo con datos de tres meses.
+3. Identifica la restricción principal y estima el costo de la demora en pesos.
+4. Redacta tres intervenciones y su efecto esperado en el tiempo de entrega.
+5. Explica por qué una métrica de entrega no debe ser una meta individual y propone una alternativa.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar deployment frequency y lead time for changes como sinónimos | Se pierde la distinción entre “frecuencia con que cambios llegan a producción” y “tiempo desde cambio hasta producción” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “experimentar mejora y medir outcome” | Se saltó “definir flujo de valor de software” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir flujo de valor de software → 2. instrumentar velocidad y estabilidad → 3. segmentar por producto y contexto → 4. identificar constraint → 5. experimentar mejora y medir outcome y marca el primer supuesto no demostrado. |
-| Optimizar solo deployment frequency | La métrica local sustituyó al resultado del sistema | Contrástala con lead time y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre métricas de entrega tecnológica | No conviertas DORA en cuota individual. Son señales de sistema y deben interpretarse con calidad, seguridad, customer outcomes y contexto. |
-| No fijar revisión | Una decisión sobre métricas de entrega tecnológica se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Medir actividad | Es fácil de contar | Medir flujo y resultados. |
+| Usar métricas como cuotas | Se busca control | Señales del sistema y conversación. |
+| Comparar equipos distintos | Se quiere un ranking | Comparar cada equipo consigo mismo y con su contexto. |
+| Promediar todo | Se quiere un número | Segmentar por producto y ver distribuciones. |
+| Ignorar la estabilidad | Se persigue velocidad | Medir fallas y restauración junto con velocidad. |
+| Reportes manuales | No hay instrumentación | Extraer de los sistemas. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **deployment frequency** y **lead time for changes** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **change failure rate** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir flujo de valor de software → instrumentar velocidad y estabilidad** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **deployment frequency** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **métricas de entrega tecnológica**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No conviertas DORA en cuota individual. Son señales de sistema y deben interpretarse con calidad, seguridad, customer outcomes y contexto.**?
+1. ¿Cuáles son las cuatro métricas de entrega y qué miden?
+2. ¿Por qué velocidad y estabilidad no son un dilema?
+3. ¿Cómo se encuentra la restricción de un flujo de entrega?
+4. ¿Por qué se segmentan las métricas?
+5. ¿Qué es un objetivo de nivel de servicio y un presupuesto de error?
+6. ¿Por qué una métrica puede ser manipulada?
+7. ¿Qué decisiones informan estas métricas?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Frecuencia de despliegue y tiempo de entrega (velocidad), tasa de fallas en cambios y tiempo de restauración (estabilidad).
+2. Porque los equipos con mejor desempeño son más rápidos y más estables: entregan cambios pequeños, frecuentes y automatizados, con buenas pruebas y recuperación.
+3. Desglosando el tiempo de entrega por pasos, con trabajo y espera, y buscando el paso con mayor espera.
+4. Porque promediar sistemas muy distintos oculta información y las comparaciones requieren mismos contextos.
+5. Un compromiso de nivel de servicio (por ejemplo, 99,9 %) y el margen de error que se puede gastar; si se agota, se prioriza la estabilidad.
+6. Porque cuando una métrica se vuelve meta o cuota, las personas optimizan la métrica y no el resultado.
+7. Dónde invertir (automatización, plataforma, estructura de equipos), cuánta velocidad se puede permitir y cómo reducir el costo de la demora.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/238-metricas-de-entrega-tecnologica/`:
 
-- `leadership-decision-brief.md` con el problema específico de **métricas de entrega tecnológica**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **métricas de entrega tecnológica** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **deployment frequency**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un CTO presiona por más deployments; el equipo divide cambios artificialmente y sube frecuencia 3x mientras incidentes y lead time total empeoran.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el diseño del caso ejecutivo;
+- `ceo-dashboard.md` (plantilla [CEO dashboard](../../../../templates/ceo-dashboard.md)) con el tablero de métricas de entrega por producto;
+- `decision-journal.md` con el flujo de valor, la restricción, el costo de la demora y la decisión sobre la inversión.
 
 ## 📗 Fuentes y verificación
 
-- Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* (Harvard Business Review Press, 2020). **Uso en esta clase:** modelo operativo AI-first, escala digital, redes y arquitectura de decisión. Lectura selectiva sobre **métricas de entrega tecnológica**. **Localizador:** [ISBN-13 9781633697621](https://openlibrary.org/isbn/9781633697621).
-- Thomas H. Davenport & Nitin Mittal — *All-In on AI* (Harvard Business Review Press, 2022). **Uso en esta clase:** casos empresariales, estrategia y organización para inteligencia artificial. Lectura selectiva sobre **métricas de entrega tecnológica**. **Localizador:** [ISBN-13 9781647824693](https://openlibrary.org/isbn/9781647824693).
-- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
-- George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* (Harvard Business Review Press, 2014). **Uso en esta clase:** transformación digital desde capacidades de liderazgo y capacidades digitales. Lectura selectiva sobre **métricas de entrega tecnológica**. **Localizador:** [ISBN-13 9781625272478](https://openlibrary.org/isbn/9781625272478).
-- Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* (IT Revolution Press, 2018). **Uso en esta clase:** métricas de entrega, capacidades técnicas y desempeño organizacional. Lectura selectiva sobre **métricas de entrega tecnológica**. **Localizador:** [ISBN-13 9781942788379](https://openlibrary.org/isbn/9781942788379).
-- Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics* (Harvard Business School Press, 2007). **Uso en esta clase:** perspectiva de Datos aplicada al problema de la clase. Lectura selectiva sobre **métricas de entrega tecnológica**. **Localizador:** [ISBN-13 9781422103326](https://openlibrary.org/isbn/9781422103326).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **métricas de entrega tecnológica** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **métricas de entrega tecnológica**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **métricas de entrega tecnológica** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **métricas de entrega tecnológica** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **métricas de entrega tecnológica** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* (IT Revolution Press, 2018). **Uso en esta clase:** cuatro métricas de entrega y su vínculo con el desempeño. Lectura selectiva sobre **métricas de entrega tecnológica**. **Localizador:** [ISBN-13 9781942788379](https://openlibrary.org/isbn/9781942788379).
+- Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy — *Site Reliability Engineering* (O'Reilly Media, 2016). **Uso en esta clase:** objetivos de nivel de servicio, presupuesto de error y revisiones sin culpas. Lectura selectiva sobre **métricas de entrega tecnológica**. **Localizador:** [ISBN-13 9781491929124](https://openlibrary.org/isbn/9781491929124).
+- Matthew Skelton & Manuel Pais — *Team Topologies* (IT Revolution Press, 2019). **Uso en esta clase:** equipos, carga cognitiva y flujo. Lectura selectiva sobre **métricas de entrega tecnológica**. **Localizador:** [ISBN-13 9781942788812](https://openlibrary.org/isbn/9781942788812).
+- Eric Ries — *The Lean Startup* (Crown Business, 2011). **Uso en esta clase:** ciclo construir–medir–aprender y aprendizaje validado. Lectura selectiva sobre **métricas de entrega tecnológica**. **Localizador:** [ISBN-13 9780307887894](https://openlibrary.org/isbn/9780307887894).
+- Michael C. Jensen — *Paying People to Lie: the Truth about the Budgeting Process* (European Financial Management, 2003). **Uso en esta clase:** cómo las metas mal diseñadas inducen manipulación. Lectura selectiva sobre **métricas de entrega tecnológica**. **Localizador:** [DOI 10.1111/1468-036x.00226](https://doi.org/10.1111/1468-036x.00226).
 
-> **Regla de fuentes para Métricas de entrega tecnológica:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **métricas de entrega tecnológica** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Métricas de entrega tecnológica:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales sobre evaluación e incentivos. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

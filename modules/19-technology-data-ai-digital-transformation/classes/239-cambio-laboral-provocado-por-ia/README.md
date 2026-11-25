@@ -10,218 +10,210 @@
 
 ## 🎯 Propósito
 
-IA cambia tareas antes que profesiones completas. Liderar transición exige mapear tareas, capacidades que aumentan o disminuyen, redesign de roles, reskilling, controles y participación de trabajadores. El WEF y otros observatorios muestran simultáneamente desplazamiento y creación de trabajo, por lo que la respuesta debe ser dinámica.
+Pocas conversaciones en una empresa son tan cargadas como la que trata del efecto de la inteligencia artificial sobre el trabajo. Los empleados temen perder su empleo; los gerentes quieren aprovechar la tecnología sin generar pánico; los sindicatos piden información; los consultores prometen ahorros de 30 % o 40 %; los titulares de prensa anuncian el fin de ciertas profesiones; y los datos disponibles son estimaciones de **exposición potencial**, no pronósticos de despidos. En ese ruido, los ejecutivos suelen cometer dos errores: **minimizar** el cambio («esto no nos afecta») o **dramatizarlo** («hay que reducir un tercio de la dotación»). Una gestión responsable del cambio laboral por IA parte de un análisis de **tareas**, no de cargos; distingue la **exposición** a la IA de la **sustitución**; evalúa valor y riesgo por tarea; rediseña roles con controles; prepara a las personas con reentrenamiento y plazos; y mide los resultados reales, cumpliendo siempre las obligaciones laborales.
 
-La salida de esta parte es **gobernar tecnología, datos e IA como capacidades económicas y organizacionales**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **cambio laboral provocado por IA** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis de Autor, Levy y Murnane sobre el contenido de habilidades del cambio tecnológico, en la revisión de Autor sobre automatización y empleo, en el modelo de tareas de Acemoglu y Restrepo, en la estimación de exposición de las tareas laborales a los modelos de lenguaje de Eloundou y colaboradores y en el análisis de Brynjolfsson y McAfee sobre la segunda era de las máquinas. Al terminar sabrás mapear tareas y exposición, evaluar valor y riesgo, diseñar roles objetivo, planificar el reentrenamiento y la transición y medir efectos en productividad, calidad y personas.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `task exposure`, `skill shift`, `reskilling`, `work redesign`, `augmentation strategy` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → transformador digital.
-3. **Aplicar** la secuencia **1. mapear tareas y exposure → 2. evaluar value y risk por tarea → 3. diseñar target roles y controls → 4. crear reskilling y transition plan → 5. medir productivity quality y workforce outcomes** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** task automation, productivity, quality sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Mapear** las tareas de un área y su exposición a la IA.
+2. **Distinguir** exposición, productividad realizable y sustitución.
+3. **Evaluar** valor y riesgo por tarea y decidir el tratamiento.
+4. **Diseñar** roles objetivo, controles y un plan de reentrenamiento y transición.
+5. **Medir** el efecto real y comunicar con honestidad y obligaciones cumplidas.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define task exposure y skill shift sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con task automation y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué tareas de tu cargo podría hacer hoy un asistente de IA y cuáles no, y qué te tranquiliza o te preocupa? |
+| 20–60 min | Exposición, tareas, valor y riesgo, roles, reentrenamiento, transición y medición. |
+| 60–105 min | Ejemplo trabajado: un centro de atención de 120 personas, capacidad liberada y plan sin despidos. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **task exposure** | grado en que una tarea puede ser automatizada o aumentada por IA | Distingue un hecho compatible y otro que lo refute. |
-| **skill shift** | cambio en capacidades requeridas por un rol | Distingue un hecho compatible y otro que lo refute. |
-| **reskilling** | aprendizaje para desempeñar tareas o roles nuevos | Distingue un hecho compatible y otro que lo refute. |
-| **work redesign** | recomposición de tareas responsabilidades e interfaces | Distingue un hecho compatible y otro que lo refute. |
-| **augmentation strategy** | uso de IA para elevar desempeño humano en vez de solo sustituir | Distingue un hecho compatible y otro que lo refute. |
+| **Exposición de tareas** | Parte del trabajo que la IA podría asistir o hacer. | Se estima por tarea. |
+| **Productividad realizable** | Mejora efectiva del trabajo tras considerar adopción y calidad. | Menor que la exposición. |
+| **Desplazamiento de tareas** | Tareas que dejan de hacer las personas. | Rutinarias y codificables. |
+| **Creación de tareas** | Nuevas actividades humanas que surgen. | Supervisión, calidad, relación. |
+| **Cambio de habilidades** | Variación de las capacidades demandadas. | Análisis de datos, criterio, uso de herramientas. |
+| **Transición laboral** | Plan para las personas cuyo trabajo cambia. | Reentrenamiento, traslados, plazos. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 239: 1. mapear tareas y exposure → 2. evaluar value y risk por tarea → 3. diseñar target roles y controls → 4. crear reskilling y transition plan → 5. medir productivity quality y workforce outcomes](modelo-mental.svg)
+![Gestionar el cambio laboral por IA: tareas y exposición, valor y riesgo, roles y controles, reentrenar y transitar, medir.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear tareas y exposure → 2. evaluar value y risk por tarea → 3. diseñar target roles y controls → 4. crear reskilling y transition plan → 5. medir productivity quality y workforce outcomes
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **IA cambia tareas antes que profesiones completas. Liderar transición exige mapear tareas, capacidades que aumentan o disminuyen, redesign de roles, reskilling, controles y participación de trabajadores. El WEF y otros observatorios muestran simultáneamente desplazamiento y creación de trabajo, por lo que la respuesta debe ser dinámica.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Predicciones laborales cambian rápido y dependen del sector. No uses porcentajes globales para decisiones individuales; mide trabajo real y cumple obligaciones laborales.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos con retorno. **Tareas y exposición**: qué tareas se ven afectadas. **Valor y riesgo**: qué conviene cambiar y con qué cuidado. **Roles y controles**: cómo queda el trabajo y la supervisión. **Reentrenar y transitar**: capacidades nuevas y plan para las personas. **Medir**: efecto en productividad, calidad y personas. La flecha indica que lo medido ajusta el plan. La nota afirma que las proyecciones laborales cambian con rapidez y dependen del sector, por lo que no se usan porcentajes globales para decisiones individuales; el pie, que los cambios que afectan cargos y funciones se verifican con asesoría y normas vigentes.
 
 ## 📖 Desarrollo
 
-### 1. task exposure: mecanismo central
+### 1. Qué sabemos y qué no sabemos
 
-**task exposure** se entiende aquí como **grado en que una tarea puede ser automatizada o aumentada por IA**. Esta es la pieza causal o estructural desde la que se inicia **cambio laboral provocado por IA**: antes de mapear tareas y exposure, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Autor, Levy y Murnane mostraron que las tecnologías computacionales sustituyen **tareas rutinarias** y complementan las no rutinarias; Autor recordó que, históricamente, la automatización no ha eliminado el trabajo en conjunto, pero sí ha cambiado la composición de las tareas y de las ocupaciones, con costos de ajuste desiguales. Eloundou y colaboradores estimaron la **exposición** de las ocupaciones a los modelos de lenguaje: la proporción de tareas en las que la tecnología podría reducir significativamente el tiempo de ejecución. Su estudio **no predice despidos**; mide un **potencial técnico**, que depende de la adopción, de la calidad, de la regulación, de los costos y de las decisiones de las empresas. Para un ejecutivo, la lección es prudente: las cifras de exposición sirven para **ordenar la conversación**, no para decidir sobre personas concretas ni para fijar metas de reducción.
 
-La lectura rectora de este bloque es Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*. Su aporte se usa para examinar **modelo operativo AI-first, escala digital, redes y arquitectura de decisión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **task automation**; regístrala con periodo, unidad, población y baseline.
+### 2. Descomponer el trabajo en tareas
 
-Relaciona el mecanismo con **skill shift**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se parte de un **inventario de tareas** por rol: qué hace cada persona, cuánto tiempo, con qué reglas y con qué herramientas. Para cada tarea se estima la **exposición** (¿puede un asistente de IA hacer parte significativa?), la **calidad** actual de la tecnología para esa tarea, el **riesgo** de errores y la **sensibilidad** (datos personales, decisiones sobre personas). Brynjolfsson y McAfee observan que las empresas obtienen mayores beneficios cuando **rediseñan procesos y roles** y no solo introducen herramientas. El inventario se construye **con quienes hacen el trabajo**, no solo con consultores: ellos conocen las excepciones, los atajos y el conocimiento tácito que la documentación no recoge, y su participación reduce la resistencia.
 
-### 2. skill shift: frontera conceptual y error de clasificación
+### 3. Exposición, productividad realizable y sustitución
 
-**Definición operacional:** cambio en capacidades requeridas por un rol. Su valor está en distinguirlo de **task exposure** y **reskilling**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Tres conceptos que se confunden. La **exposición** es el porcentaje de tareas o de tiempo en que la tecnología podría ayudar. La **productividad realizable** es la parte de esa exposición que efectivamente se captura tras considerar la adopción por las personas, la calidad de los resultados, la necesidad de revisión y los costos de implementación; suele ser **menor** que la exposición. La **sustitución** es el efecto sobre el empleo, y depende de lo que la empresa **decida hacer con la capacidad liberada**: absorber crecimiento, mejorar la calidad, reducir contratistas, no reemplazar vacantes, redistribuir personas o reducir dotación. Acemoglu y Restrepo enfatizan que el resultado depende del equilibrio entre **desplazamiento** y **creación de nuevas tareas** en que las personas tienen ventaja; las decisiones de diseño de la empresa influyen en ese equilibrio.
 
-Contrasta el problema con Thomas H. Davenport & Nitin Mittal — *All-In on AI*, que aporta una mirada sobre **casos empresariales, estrategia y organización para inteligencia artificial**. Formula dos mini-casos: uno que sí satisface la definición de **skill shift** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **productivity** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Valor y riesgo por tarea
 
-Antes de evaluar value y risk por tarea, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Cada tarea candidata se evalúa en **valor** (tiempo ahorrado, calidad, velocidad, experiencia de cliente) y en **riesgo**: errores con consecuencias para clientes o empleados, sesgos, filtración de datos, dependencia de proveedores, aceptación social, cumplimiento (clase 188). Las tareas de **alto valor y bajo riesgo** son las primeras. Las de **alto riesgo** (decisiones sobre personas, finanzas o salud) exigen supervisión humana efectiva y pruebas; algunas se mantienen en manos de personas. No se usa la capacidad técnica como justificación para eliminar el juicio donde el daño potencial es material. Se registran los **supuestos** (porcentaje de adopción, calidad esperada) y se revisan con datos reales de los pilotos.
 
-### 3. reskilling: operacionalización y medición
+### 5. Diseñar roles objetivo y controles
 
-**reskilling** significa **aprendizaje para desempeñar tareas o roles nuevos**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Los roles cambian: menos tiempo en tareas rutinarias y más en **excepciones**, **casos complejos**, **análisis**, **relación con clientes**, **calidad** y **supervisión de sistemas**. Se diseñan **roles objetivo** con sus capacidades, responsabilidades, indicadores y niveles de decisión, y los **controles** necesarios: revisión humana de salidas críticas, trazabilidad de decisiones asistidas, políticas de uso de datos, protocolos ante errores. Se revisan **incentivos y métricas**: si se mide a las personas por velocidad por tarea, no usarán la IA para trabajos de mayor calidad. Y se define la **gobernanza**: quién aprueba nuevos usos, cómo se reportan problemas y cómo participan los trabajadores y sus representantes cuando corresponde.
 
-Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd* orienta este bloque mediante **perspectiva de Economía digital aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **quality**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Reentrenar y planificar la transición
 
-Al llegar a diseñar target roles y controls, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Un plan de transición responsable incluye: **comunicación temprana y honesta** (qué se sabe, qué no, qué decisiones están tomadas y cuáles no); **participación** de las personas y de sus representantes; **reentrenamiento** con tiempo y recursos (uso de herramientas, criterio, análisis, nuevas funciones), no solo cursos genéricos; **movilidad interna** con criterios transparentes; **ritmo realista** que permita aprender; y, solo cuando sea inevitable y conforme a la ley, **medidas de reducción** con apoyo. La capacidad liberada se usa de forma planificada: absorber crecimiento, mejorar calidad, no reemplazar vacantes por rotación natural. Las obligaciones legales laborales (cambios de funciones, capacitación, información a trabajadores, término de la relación laboral) se verifican con asesoría y en las normas vigentes.
 
-### 4. work redesign: trade-offs y efectos de segundo orden
+### 7. Medir y ajustar
 
-**Definición:** recomposición de tareas responsabilidades e interfaces. Este concepto obliga a abandonar la idea de que **cambio laboral provocado por IA** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de crear reskilling y transition plan, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Martin Kleppmann — *Designing Data-Intensive Applications* aporta una lente sobre **perspectiva de Arquitectura tecnológica aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **skill coverage** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **cambio laboral provocado por IA**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **work redesign** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. augmentation strategy: gobernanza, límites e integración
-
-**augmentation strategy** se define como **uso de IA para elevar desempeño humano en vez de solo sustituir** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Foster Provost & Tom Fawcett — *Data Science for Business* se utiliza para estudiar **perspectiva de Datos aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar medir productivity quality y workforce outcomes, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Predicciones laborales cambian rápido y dependen del sector. No uses porcentajes globales para decisiones individuales; mide trabajo real y cumple obligaciones laborales.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **task exposure**, **skill shift**, **reskilling**, **work redesign** y **augmentation strategy** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **cambio laboral provocado por IA** no consiste en sumar cinco definiciones. Empieza por **task exposure**, contrasta **skill shift** con **reskilling**, incorpora **work redesign** como restricción o mecanismo y usa **augmentation strategy** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear tareas y exposure → 2. evaluar value y risk por tarea → 3. diseñar target roles y controls → 4. crear reskilling y transition plan → 5. medir productivity quality y workforce outcomes**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Se miden efectos en **productividad** (tiempo por caso, volumen atendido), **calidad** (errores, retrabajo, satisfacción de clientes), **personas** (rotación, clima, uso de las herramientas, percepción de equidad, carga de trabajo) y **economía** (costos de herramientas, reentrenamiento y gestión del cambio frente a beneficios realizados). Se comparan con la línea base y con la hipótesis, y se ajusta el plan. Se monitorean también **efectos no previstos**: pérdida de conocimiento tácito, dependencia de la herramienta, desigualdad entre quienes se adaptan más rápido y quienes no, brechas entre generaciones, estrés. Los resultados se comunican con transparencia. La IA es una tecnología en evolución: el plan se revisa cada seis meses con datos reales.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* | modelo operativo AI-first, escala digital, redes y arquitectura de decisión | ¿Qué supuesto de **cambio laboral provocado por IA** ayuda a desafiar? |
-| Thomas H. Davenport & Nitin Mittal — *All-In on AI* | casos empresariales, estrategia y organización para inteligencia artificial | ¿Qué supuesto de **cambio laboral provocado por IA** ayuda a desafiar? |
-| Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd* | perspectiva de Economía digital aplicada al problema de la clase | ¿Qué supuesto de **cambio laboral provocado por IA** ayuda a desafiar? |
-| Martin Kleppmann — *Designing Data-Intensive Applications* | perspectiva de Arquitectura tecnológica aplicada al problema de la clase | ¿Qué supuesto de **cambio laboral provocado por IA** ayuda a desafiar? |
-| Foster Provost & Tom Fawcett — *Data Science for Business* | perspectiva de Datos aplicada al problema de la clase | ¿Qué supuesto de **cambio laboral provocado por IA** ayuda a desafiar? |
-
-En **cambio laboral provocado por IA**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **task exposure**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Autor, Levy y Murnane | Tareas rutinarias y no rutinarias y su relación con la tecnología. | Estudio de una época anterior a la IA actual. | ¿Qué tareas son rutinarias hoy? |
+| Autor (2015) | Complementariedad, empleo y costos de ajuste. | Visión agregada. | ¿Qué tareas complementa la tecnología? |
+| Acemoglu y Restrepo | Desplazamiento y creación de tareas. | Modelo económico. | ¿Qué tareas nuevas crearemos? |
+| Eloundou y otros | Exposición potencial de ocupaciones a modelos de lenguaje. | No es un pronóstico de empleo. | ¿Qué parte de la exposición es realizable? |
+| Brynjolfsson y McAfee | Rediseño organizacional con tecnologías digitales. | Visión general. | ¿Qué proceso rediseñamos? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un área anuncia reducción de 30% por copilots antes de medir qué tareas automatizan. Meses después necesita contratar contractors porque revisión y exceptions aumentaron.
+**Situación (hipotética).** Un centro de atención al cliente tiene 120 agentes. El inventario de tareas, hecho con los agentes y sus supervisores, muestra esta distribución del tiempo y la exposición estimada a un asistente de IA.
 
-**Paso 1 — mapear tareas y exposure.** La gerencia escribe primero el supuesto asociado a **task exposure** y evita convertirlo en hecho. Luego busca **task automation** para contrastarlo en el caso de **cambio laboral provocado por IA**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Tarea | % del tiempo | Exposición (parte automatizable o asistible) | Aporte a la exposición |
+|---|---|---|---|
+| Consultas informativas (saldos, horarios, estado) | 25 % | 70 % | 17,5 % |
+| Resolución de casos con reglas y excepciones | 30 % | 35 % | 10,5 % |
+| Empatía, negociación y escalamiento | 20 % | 10 % | 2,0 % |
+| Registro, notas y tareas administrativas | 25 % | 80 % | 20,0 % |
+| **Total** | **100 %** | | **50,0 %** |
 
-**Paso 2 — evaluar value y risk por tarea.** La gerencia escribe primero el supuesto asociado a **skill shift** y evita convertirlo en hecho. Luego busca **productivity** para contrastarlo en el caso de **cambio laboral provocado por IA**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+La **exposición** promedio es 50 % del tiempo.
 
-**Paso 3 — diseñar target roles y controls.** La gerencia escribe primero el supuesto asociado a **reskilling** y evita convertirlo en hecho. Luego busca **quality** para contrastarlo en el caso de **cambio laboral provocado por IA**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Productividad realizable.** Tras considerar adopción, calidad y revisión, se estima que se captura el 55 % de la exposición: 0,50 × 0,55 = **27,5 %** del tiempo. Capacidad liberada: 0,275 × 120 = **33 personas equivalentes**.
 
-**Paso 4 — crear reskilling y transition plan.** La gerencia escribe primero el supuesto asociado a **work redesign** y evita convertirlo en hecho. Luego busca **skill coverage** para contrastarlo en el caso de **cambio laboral provocado por IA**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Demanda y rotación.** La demanda de atención crece 10 % al año: se necesitan 12 personas equivalentes adicionales. La rotación natural es de 18 % anual: 21,6 personas se van cada año.
 
-**Paso 5 — medir productivity quality y workforce outcomes.** La gerencia escribe primero el supuesto asociado a **augmentation strategy** y evita convertirlo en hecho. Luego busca **redeployment rate** para contrastarlo en el caso de **cambio laboral provocado por IA**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Uso planificado de la capacidad.** 12 personas equivalentes absorben el crecimiento sin contratar; 21 personas equivalentes (≈ 21,6) no se reemplazan al irse por rotación natural. Suma: 33. **No hay despidos.**
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **cambio laboral provocado por IA**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Reentrenamiento y nuevos roles.** 20 personas se reentrenan para roles de calidad, análisis de casos complejos, supervisión de las respuestas de la IA y atención a clientes de alto valor; costo de 3,5 millones por persona: 70 millones. Los agentes participan en el diseño de los flujos y en la definición de criterios de excepción.
+
+**Economía (primer año).**
+
+| Concepto | Millones |
+|---|---|
+| Beneficio: 33 personas equivalentes × 22 millones de costo anual | 726 |
+| Herramientas y licencias | −130 |
+| Reentrenamiento | −70 |
+| Gestión del cambio y comunicación | −40 |
+| **Beneficio neto** | **486** |
+
+**Controles.** Revisión humana de las respuestas en temas financieros o de reclamos; trazabilidad de las respuestas asistidas; prohibición de ingresar datos sensibles en herramientas no aprobadas; canal para reportar errores del asistente; muestreo de calidad semanal.
+
+**Indicadores a 12 meses (hipotéticos).** Productividad realizada: 24 % (frente a 27,5 % estimado; se ajusta); satisfacción del cliente: de 78 a 82 puntos; rotación: baja de 18 % a 14 % (por mejores condiciones de trabajo); clima: sube 6 puntos; el 80 % de los agentes usa el asistente semanalmente; 17 de 20 personas reentrenadas ocupan los nuevos roles.
+
+**Comunicación.** Se informa desde el inicio qué se hará (no se reemplazarán vacantes por rotación natural, no hay plan de despidos asociado a esta iniciativa), qué no se sabe y qué se revisará cada seis meses.
+
+**Cuidados.** Los cambios de funciones, la capacitación y cualquier decisión de reducción de personal se verifican con asesoría laboral y las normas vigentes; los porcentajes de exposición son estimaciones; las cifras son ilustrativas.
+
+**Qué muestra.** (1) Se distinguió exposición de productividad realizable. (2) La capacidad se usó con un plan que protegió el empleo. (3) Se midió el resultado real y se ajustó.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **task exposure** | grado en que una tarea puede ser automatizada o aumentada por IA | Cuando task automation es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **skill shift** | cambio en capacidades requeridas por un rol | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Exposición frente a pronóstico.** Los estudios de exposición miden el potencial técnico; el efecto sobre el empleo depende de decisiones de empresas, de la regulación, de los costos y de la adopción.
 
-**Frontera de aplicación:** Predicciones laborales cambian rápido y dependen del sector. No uses porcentajes globales para decisiones individuales; mide trabajo real y cumple obligaciones laborales.
+**Límites.** Las predicciones laborales cambian con rapidez y dependen del sector; no se usan porcentajes globales para decisiones individuales. Los beneficios dependen de la adopción y la calidad reales. Los efectos sobre personas deben cumplir obligaciones laborales. La tecnología evoluciona y el plan se revisa. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre cambio laboral provocado por IA |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **cambio laboral provocado por IA** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **task exposure** y **skill shift** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta task automation con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si cambio laboral provocado por IA cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de cambio laboral provocado por IA reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **cambio laboral provocado por IA** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aprende a usar las herramientas y aporta su conocimiento del trabajo. |
+| **Jefe / Team Lead** | Rediseña las tareas con su equipo y acompaña la transición. |
+| **Gerente** | Planifica el uso de la capacidad liberada y mide los efectos. |
+| **CEO / Director** | Fija principios, decide el uso de la capacidad y cumple las obligaciones. |
+| **Founder / Owner** | Equilibra productividad, lealtad de las personas y reputación. |
 
 ## 🏢 Caso ejecutivo
 
-Un área anuncia reducción de 30% por copilots antes de medir qué tareas automatizan. Meses después necesita contratar contractors porque revisión y exceptions aumentaron.
+Una aseguradora con 1.900 personas introduce un asistente de IA en su área de siniestros (260 personas, entre liquidadores, analistas y personal administrativo). Un consultor presentó un informe que dice que «el 60 % de las tareas es automatizable» y recomienda reducir 90 posiciones en 12 meses. El piloto muestra una reducción de 30 % en el tiempo de redacción de informes, pero también tres errores graves en la interpretación de coberturas, que un liquidador detectó por casualidad. Hay 45 personas con más de 15 años de antigüedad en roles administrativos; los liquidadores más jóvenes usan la herramienta con entusiasmo, y los mayores desconfían; un sindicato pidió información y el regulador anunció que revisará las decisiones automatizadas en reclamos. La rotación del área es de 12 %; la demanda crece 6 % al año; el director de personas quiere un plan «responsable» y el CEO, «resultados en seis meses».
 
-Entrega un **decision brief de cambio laboral provocado por IA** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de gestión del cambio laboral por IA** que contenga: (a) el inventario de tareas con exposición, calidad y riesgo, y la diferencia entre exposición y productividad realizable; (b) la evaluación de valor y riesgo por tarea y el tratamiento (automatizar, asistir, conservar); (c) los roles objetivo, los controles y la supervisión humana en las decisiones sobre coberturas; (d) el cálculo de la capacidad liberada y su uso con distintas alternativas, y el análisis de la recomendación de 90 reducciones; (e) el plan de reentrenamiento, comunicación y participación; (f) los indicadores, la revisión semestral y las verificaciones laborales, regulatorias y legales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **cambio laboral provocado por IA** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear tareas y exposure → 2. evaluar value y risk por tarea → 3. diseñar target roles y controls → 4. crear reskilling y transition plan → 5. medir productivity quality y workforce outcomes** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta task automation, productivity; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Haz el inventario de tareas de un rol con porcentaje de tiempo y exposición a la IA.
+2. Calcula la exposición y la productividad realizable con un supuesto de captura.
+3. Estima el uso de la capacidad liberada entre crecimiento, rotación y otras opciones.
+4. Diseña un rol objetivo con controles y supervisión humana.
+5. Redacta un mensaje de comunicación a un equipo sobre qué se sabe y qué no.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar task exposure y skill shift como sinónimos | Se pierde la distinción entre “grado en que una tarea puede ser automatizada o aumentada por IA” y “cambio en capacidades requeridas por un rol” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “medir productivity quality y workforce outcomes” | Se saltó “mapear tareas y exposure” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear tareas y exposure → 2. evaluar value y risk por tarea → 3. diseñar target roles y controls → 4. crear reskilling y transition plan → 5. medir productivity quality y workforce outcomes y marca el primer supuesto no demostrado. |
-| Optimizar solo task automation | La métrica local sustituyó al resultado del sistema | Contrástala con productivity y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre cambio laboral provocado por IA | Predicciones laborales cambian rápido y dependen del sector. No uses porcentajes globales para decisiones individuales; mide trabajo real y cumple obligaciones laborales. |
-| No fijar revisión | Una decisión sobre cambio laboral provocado por IA se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Decidir con porcentajes globales | Informes genéricos | Mapear tareas reales con quienes las hacen. |
+| Confundir exposición con sustitución | Se asume que lo posible se hará | Productividad realizable y decisiones sobre la capacidad. |
+| Ignorar el riesgo | Se ve el ahorro | Evaluar valor y riesgo por tarea. |
+| Comunicar tarde o a medias | Temor a la reacción | Comunicación temprana y honesta. |
+| Reentrenar con cursos genéricos | Es lo más fácil | Reentrenamiento para roles concretos. |
+| No medir | Se confía en la estimación | Línea base, indicadores y revisión semestral. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **task exposure** y **skill shift** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **reskilling** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear tareas y exposure → evaluar value y risk por tarea** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **task automation** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **cambio laboral provocado por IA**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Predicciones laborales cambian rápido y dependen del sector. No uses porcentajes globales para decisiones individuales; mide trabajo real y cumple obligaciones laborales.**?
+1. ¿Qué mide la exposición de tareas y qué no mide?
+2. ¿Qué diferencia hay entre exposición, productividad realizable y sustitución?
+3. ¿Cómo se evalúa el valor y el riesgo de una tarea?
+4. ¿Qué incluye el diseño de roles objetivo?
+5. ¿Qué formas hay de usar la capacidad liberada?
+6. ¿Qué incluye una transición responsable?
+7. ¿Qué se mide después del cambio?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Mide la parte de las tareas en que la IA podría reducir significativamente el tiempo; no mide despidos ni predice el efecto sobre el empleo.
+2. La exposición es el potencial técnico; la productividad realizable es lo capturado tras adopción, calidad y costos; la sustitución depende de lo que la empresa decide hacer con la capacidad.
+3. Valor (tiempo, calidad, experiencia) frente a riesgo (errores, sesgo, datos, dependencia, cumplimiento); las tareas de alto valor y bajo riesgo van primero.
+4. Capacidades, responsabilidades, indicadores, niveles de decisión, controles, incentivos y gobernanza.
+5. Absorber crecimiento, mejorar calidad, reducir contratistas, no reemplazar vacantes por rotación, redistribuir personas con reentrenamiento y, solo si es inevitable y conforme a la ley, reducir dotación.
+6. Comunicación temprana y honesta, participación, reentrenamiento, movilidad con criterios transparentes, ritmo realista y verificación laboral.
+7. Productividad, calidad, personas (rotación, clima, uso, equidad) y economía, frente a la línea base y con efectos no previstos.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/239-cambio-laboral-provocado-por-ia/`:
 
-- `risk-governance-brief.md` con el problema específico de **cambio laboral provocado por IA**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **cambio laboral provocado por IA** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **task exposure**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un área anuncia reducción de 30% por copilots antes de medir qué tareas automatizan. Meses después necesita contratar contractors porque revisión y exceptions aumentaron.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el plan del caso ejecutivo;
+- `people-decision-brief.md` (plantilla [People decision brief](../../../../templates/people-decision-brief.md)) con el plan de reentrenamiento y transición;
+- `decision-journal.md` con el inventario de tareas, los supuestos y las verificaciones laborales pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* (Harvard Business Review Press, 2020). **Uso en esta clase:** modelo operativo AI-first, escala digital, redes y arquitectura de decisión. Lectura selectiva sobre **cambio laboral provocado por ia**. **Localizador:** [ISBN-13 9781633697621](https://openlibrary.org/isbn/9781633697621).
-- Thomas H. Davenport & Nitin Mittal — *All-In on AI* (Harvard Business Review Press, 2022). **Uso en esta clase:** casos empresariales, estrategia y organización para inteligencia artificial. Lectura selectiva sobre **cambio laboral provocado por ia**. **Localizador:** [ISBN-13 9781647824693](https://openlibrary.org/isbn/9781647824693).
-- Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd* (Norton & Company, Incorporated, W. W., 2017). **Uso en esta clase:** perspectiva de Economía digital aplicada al problema de la clase. Lectura selectiva sobre **cambio laboral provocado por ia**. **Localizador:** [ISBN-13 9780393254303](https://openlibrary.org/isbn/9780393254303).
-- Martin Kleppmann — *Designing Data-Intensive Applications* (O'Reilly publications, 2017). **Uso en esta clase:** perspectiva de Arquitectura tecnológica aplicada al problema de la clase. Lectura selectiva sobre **cambio laboral provocado por ia**. **Localizador:** [ISBN-13 9789352135240](https://openlibrary.org/isbn/9789352135240).
-- Foster Provost & Tom Fawcett — *Data Science for Business* (SHROFF - O'REILLY, 2013). **Uso en esta clase:** perspectiva de Datos aplicada al problema de la clase. Lectura selectiva sobre **cambio laboral provocado por ia**. **Localizador:** [ISBN-13 9789351102670](https://openlibrary.org/isbn/9789351102670).
-- George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* (Harvard Business Review Press, 2014). **Uso en esta clase:** transformación digital desde capacidades de liderazgo y capacidades digitales. Lectura selectiva sobre **cambio laboral provocado por ia**. **Localizador:** [ISBN-13 9781625272478](https://openlibrary.org/isbn/9781625272478).
-- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobernar, mapear, medir y gestionar el riesgo de sistemas de IA en la decisión de la clase. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **cambio laboral provocado por ia** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **cambio laboral provocado por ia**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **cambio laboral provocado por ia** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **cambio laboral provocado por ia** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **cambio laboral provocado por ia** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- David H. Autor, Frank Levy & Richard J. Murnane — *The Skill Content of Recent Technological Change: An Empirical Exploration* (The Quarterly Journal of Economics, 2003). **Uso en esta clase:** tareas rutinarias y no rutinarias frente a la tecnología. Lectura selectiva sobre **cambio laboral provocado por ia**. **Localizador:** [DOI 10.1162/003355303322552801](https://doi.org/10.1162/003355303322552801).
+- David H. Autor — *Why Are There Still So Many Jobs? The History and Future of Workplace Automation* (Journal of Economic Perspectives, 2015). **Uso en esta clase:** complementariedad, empleo y costos de ajuste. Lectura selectiva sobre **cambio laboral provocado por ia**. **Localizador:** [DOI 10.1257/jep.29.3.3](https://doi.org/10.1257/jep.29.3.3).
+- Daron Acemoglu & Pascual Restrepo — *Tasks, Automation, and the Rise in U.S. Wage Inequality* (Econometrica, 2022). **Uso en esta clase:** desplazamiento y creación de tareas. Lectura selectiva sobre **cambio laboral provocado por ia**. **Localizador:** [DOI 10.3982/ECTA19815](https://doi.org/10.3982/ECTA19815).
+- Tyna Eloundou et al. — *GPTs are GPTs: Labor market impact potential of LLMs* (Science, 2024). **Uso en esta clase:** exposición potencial de ocupaciones a modelos de lenguaje. Lectura selectiva sobre **cambio laboral provocado por ia**. **Localizador:** [DOI 10.1126/science.adj0998](https://doi.org/10.1126/science.adj0998).
+- Erik Brynjolfsson & Andrew McAfee — *The Second Machine Age* (W. W. Norton, 2014). **Uso en esta clase:** rediseño organizacional con tecnologías digitales. Lectura selectiva sobre **cambio laboral provocado por ia**. **Localizador:** [ISBN-13 9780393350647](https://openlibrary.org/isbn/9780393350647).
 
-> **Regla de fuentes para Cambio laboral provocado por IA:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **cambio laboral provocado por IA** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Cambio laboral provocado por IA:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales, de decisiones automatizadas y de protección de datos. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -1,64 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g231 d-g231" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g231">Ficha visual de la clase 231: Economía de cloud y plataformas</title>
-<desc id="d-g231">Conceptos: cloud economics; elasticity; unit cost; FinOps; vendor lock-in. Método: mapear workloads y value drivers → calcular unit cost → identificar waste y commitments → modelar resilience y lock-in → optimizar arquitectura y governance.</desc>
-<defs><marker id="p-g231" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 231 · Economía de cloud y plataformas</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 19 · Alta dirección y gobierno</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#cf222e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >cloud economics</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >relación entre consumo cloud arquitectura y valor</text>
-<circle cx="38" cy="170" r="5" fill="#cf222e"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >elasticity</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad de ajustar recursos con demanda</text>
-<circle cx="38" cy="228" r="5" fill="#cf222e"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >unit cost</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >costo técnico por transacción cliente o workload</text>
-<circle cx="38" cy="286" r="5" fill="#cf222e"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >FinOps</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >disciplina de colaboración para gestionar valor y costo</text>
-<text x="54" y="325.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >cloud</text>
-<circle cx="38" cy="358.12" r="5" fill="#cf222e"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >vendor lock-in</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >costo y dificultad de cambiar proveedor</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >mapear workloads y value drivers</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >calcular unit cost</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >identificar waste y commitments</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >modelar resilience y lock-in</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >optimizar arquitectura y governance</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#cf222e"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cloud cost per transaction</text>
-<rect x="243.4" y="442.12" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="256.4" cy="455.12" r="3.5" fill="#cf222e"/>
-<text x="267.4" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >utilization</text>
-<rect x="355.3" y="442.12" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="368.3" cy="455.12" r="3.5" fill="#cf222e"/>
-<text x="379.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >commitment coverage</text>
-<rect x="522.4" y="442.12" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="535.4" cy="455.12" r="3.5" fill="#cf222e"/>
-<text x="546.4" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >egress spend</text>
-<rect x="641.2" y="442.12" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="654.2" cy="455.12" r="3.5" fill="#cf222e"/>
-<text x="665.2" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >availability</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Optimizar costo no significa migrar todo on-premise ni eliminar managed services. Considera velocidad, talento, riesgo y costo total,</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >no solo factura mensual.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 402.06" width="1040" role="img" aria-labelledby="t-s231 d-s231" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s231">Clase 231 · Tres miradas del costo de la nube</title>
+<desc id="d-s231">Tres miradas del costo de cloud: costo unitario, compromisos y desperdicio, y resiliencia y dependencia del proveedor.</desc>
+<defs><marker id="p-s231" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="402.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 231 · Tres miradas del costo de la nube</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Armbrust et al. (2010) · Storment &amp; Fuller · Williamson</text>
+<rect x="28" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M28.0,136 V108 a12,12 0 0 1 12,-12 H330.6666666666667 a12,12 0 0 1 12,12 V136 Z" fill="#0969da"/>
+<text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Costo unitario</text>
+<circle cx="50.0" cy="154" r="4" fill="#0969da"/>
+<text x="64" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Costo por cliente, transacción o</text>
+<text x="64" y="175.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >producto.</text>
+<circle cx="50.0" cy="198.5" r="4" fill="#0969da"/>
+<text x="64" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Atribuido a quien lo genera.</text>
+<circle cx="50.0" cy="225.75" r="4" fill="#0969da"/>
+<text x="64" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Comparado con el valor que entrega.</text>
+<rect x="362.667" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M362.6666666666667,136 V108 a12,12 0 0 1 12,-12 H665.3333333333334 a12,12 0 0 1 12,12 V136 Z" fill="#bc4c00"/>
+<text x="378.667" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Compromisos y desperdicio</text>
+<circle cx="384.6666666666667" cy="154" r="4" fill="#bc4c00"/>
+<text x="398.667" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Capacidad reservada y recursos</text>
+<text x="398.667" y="175.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ociosos.</text>
+<circle cx="384.6666666666667" cy="198.5" r="4" fill="#bc4c00"/>
+<text x="398.667" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Descuentos por compromiso con riesgo.</text>
+<circle cx="384.6666666666667" cy="225.75" r="4" fill="#bc4c00"/>
+<text x="398.667" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Revisión periódica del uso real.</text>
+<rect x="697.333" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<path d="M697.3333333333334,136 V108 a12,12 0 0 1 12,-12 H1000.0 a12,12 0 0 1 12,12 V136 Z" fill="#1a7f37"/>
+<text x="713.333" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Resiliencia y dependencia</text>
+<circle cx="719.3333333333334" cy="154" r="4" fill="#1a7f37"/>
+<text x="733.333" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Qué ocurre si el proveedor falla.</text>
+<circle cx="719.3333333333334" cy="181.25" r="4" fill="#1a7f37"/>
+<text x="733.333" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Costo de salir y de duplicar.</text>
+<circle cx="719.3333333333334" cy="208.5" r="4" fill="#1a7f37"/>
+<text x="733.333" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Datos portables y plan de salida.</text>
+<rect x="28" y="275" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="297" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Optimizar costo no significa volver a servidores propios ni eliminar servicios gestionados. La decisión considera velocidad, talento,</text>
+<text x="44" y="314.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >riesgo y costo total, no solo la factura mensual.</text>
+<text x="28" y="361.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Los precios y condiciones de los proveedores cambian; se verifican en sus contratos y tarifas vigentes.</text>
 </svg>

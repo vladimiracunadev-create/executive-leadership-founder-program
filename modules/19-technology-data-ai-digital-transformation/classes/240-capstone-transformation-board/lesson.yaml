@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — CEO → Transformador digital"
 outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir transformation portfolio de value case mediante evidencia observable."
-  - "Aplicar la secuencia: definir outcomes y constraints → comparar use cases por value y risk → mapear dependencies y capacity → asignar stage gates y owners → reallocate según adoption y benefits."
-  - "Interpretar benefit realization, adoption, portfolio spend sin atribuir causalidad automática."
-  - "Resolver el caso de capstone: transformation board con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Definir los resultados de negocio y las restricciones de la transformación."
+  - "Comparar iniciativas por valor, riesgo y viabilidad dentro de un portafolio."
+  - "Mapear dependencias y capacidad para secuenciar las iniciativas."
+  - "Asignar capital y capacidad con puertas de decisión y dueños."
+  - "Diseñar el tablero de medición y diferenciar el espacio de pruebas del escalamiento."
 deliverable: "board-or-executive-memo.md"
 references:
+  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
   - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
   - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
+  - "NIST — *AI Risk Management Framework (AI RMF 1.0)*"
   - "Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*"
-  - "Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics*"
-  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
-  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
 limits:
-  - "Gobernanza central puede frenar experimentación. Diferencia sandbox de bajo riesgo de escalamiento enterprise y aplica controles proporcionales."
+  - "Una gobernanza central puede frenar la experimentación; se separa el sandbox de bajo riesgo del escalamiento con controles proporcionales."
 evidence_signals:
-  - "benefit realization"
-  - "adoption"
-  - "portfolio spend"
-  - "stage-gate pass"
-  - "dependency risk"
+  - "resultados y restricciones definidos"
+  - "iniciativas comparadas"
+  - "dependencias y capacidad mapeadas"
+  - "puertas y medición establecidas"

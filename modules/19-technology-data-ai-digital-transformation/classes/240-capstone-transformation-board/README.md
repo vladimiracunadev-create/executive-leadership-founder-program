@@ -10,217 +10,215 @@
 
 ## 🎯 Propósito
 
-El transformation board prioriza una cartera digital e IA por estrategia, value, risk, dependencies y capacity, y exige evidencia de adopción y beneficios. El capstone separa demos de capacidades operables y decide qué escalar, pausar o retirar.
+Esta clase integra la parte 19. Las clases anteriores trataron la tecnología como capacidad (229), la estrategia digital (230), la economía de la nube (231), los datos como activo (232), el portafolio de IA (233), el rediseño del trabajo (234), la ciberseguridad vista desde el directorio (235), la decisión entre construir, comprar, aliarse o retirar (236), la arquitectura y la deuda técnica (237), las métricas de entrega (238) y el cambio laboral por IA (239). En una empresa real, estas decisiones no llegan separadas: una iniciativa de IA necesita datos, que dependen de un sistema con deuda técnica, que se ejecuta con un equipo que también es necesario para el autoservicio de clientes, y todo ello debe financiarse con el mismo presupuesto y gobernarse con los mismos riesgos. El **tablero de transformación** (*transformation board*) es la instancia en que la dirección decide, con una sola mirada, qué se hace, en qué orden, con qué dueños, con qué capital y capacidad, con qué controles y con qué evidencia de que funciona.
 
-La salida de esta parte es **gobernar tecnología, datos e IA como capacidades económicas y organizacionales**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: transformation board** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+El trabajo del capstone es un **paquete de decisión del tablero**: resultados y restricciones, comparación de iniciativas por valor y riesgo, dependencias y capacidad, puertas de decisión con dueños y un tablero de medición. Se apoya en Westerman y colaboradores sobre cómo lideran las empresas su transformación digital, en Iansiti y Lakhani sobre negocios con datos y algoritmos, en Davenport y Mittal sobre IA a escala, en el marco de gestión de riesgos de IA del NIST y en Forsgren y colaboradores sobre medición de la entrega. Al terminar tendrás un documento que podrías presentar a un comité de dirección y a un directorio.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `transformation portfolio`, `value case`, `dependency map`, `stage gate`, `benefit owner` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → transformador digital.
-3. **Aplicar** la secuencia **1. definir outcomes y constraints → 2. comparar use cases por value y risk → 3. mapear dependencies y capacity → 4. asignar stage gates y owners → 5. reallocate según adoption y benefits** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** benefit realization, adoption, portfolio spend sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** los resultados de negocio y las restricciones de la transformación.
+2. **Comparar** iniciativas por valor, riesgo y viabilidad dentro de un portafolio.
+3. **Mapear** dependencias y capacidad para secuenciar las iniciativas.
+4. **Asignar** capital y capacidad con puertas de decisión y dueños.
+5. **Diseñar** el tablero de medición y diferenciar el espacio de pruebas del escalamiento.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define transformation portfolio y value case sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con benefit realization y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué iniciativa de tecnología de tu empresa depende de otra que aún no está lista y quién lo ve? |
+| 20–60 min | Resultados y restricciones, portafolio, dependencias, capacidad, gobierno y medición. |
+| 60–105 min | Ejemplo trabajado: ocho iniciativas, 60 personas de capacidad y 9.000 millones de presupuesto. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **transformation portfolio** | cartera de apuestas tecnológicas ligadas a outcomes | Distingue un hecho compatible y otro que lo refute. |
-| **value case** | argumento cuantificado o verificable de beneficio | Distingue un hecho compatible y otro que lo refute. |
-| **dependency map** | relaciones entre data platforms teams y vendors | Distingue un hecho compatible y otro que lo refute. |
-| **stage gate** | punto de decisión basado en evidencia | Distingue un hecho compatible y otro que lo refute. |
-| **benefit owner** | ejecutivo accountable por realizar valor después de entrega | Distingue un hecho compatible y otro que lo refute. |
+| **Tablero de transformación** | Instancia de dirección que prioriza y gobierna las iniciativas de transformación. | Decisiones, dueños, puertas, medición. |
+| **Portafolio de iniciativas** | Conjunto de proyectos con distinto riesgo y horizonte. | Valor, riesgo, capital y capacidad. |
+| **Dependencia** | Relación por la que una iniciativa necesita el resultado de otra. | Secuencia y prerrequisitos. |
+| **Capacidad de entrega** | Personas y tiempo disponibles para ejecutar. | Ingenieros, analistas, usuarios clave. |
+| **Espacio de pruebas (*sandbox*)** | Entorno de bajo riesgo para experimentar con controles ligeros. | Límite de datos y de impacto. |
+| **Puerta de decisión (*stage gate*)** | Punto en que se libera capital según resultados. | Criterio de continuar, ajustar o detener. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 240: 1. definir outcomes y constraints → 2. comparar use cases por value y risk → 3. mapear dependencies y capacity → 4. asignar stage gates y owners → 5. reallocate según adoption y benefits](modelo-mental.svg)
+![Un tablero de transformación que decide: resultados y restricciones, comparar casos, dependencias y capacidad, puertas y dueños, medición.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir outcomes y constraints → 2. comparar use cases por value y risk → 3. mapear dependencies y capacity → 4. asignar stage gates y owners → 5. reallocate según adoption y benefits
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El transformation board prioriza una cartera digital e IA por estrategia, value, risk, dependencies y capacity, y exige evidencia de adopción y beneficios. El capstone separa demos de capacidades operables y decide qué escalar, pausar o retirar.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Gobernanza central puede frenar experimentación. Diferencia sandbox de bajo riesgo de escalamiento enterprise y aplica controles proporcionales.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos con retorno. **Resultados y restricciones**: qué se logra y qué no se puede violar. **Comparar casos**: valor, riesgo y viabilidad. **Dependencias y capacidad**: qué depende de qué y quién puede hacerlo. **Puertas y dueños**: liberar capital por hitos. **Medición**: valor logrado frente a lo prometido. La flecha indica que la medición reordena el portafolio. La nota afirma que una gobernanza central puede frenar la experimentación y que se separa el espacio de pruebas de bajo riesgo del escalamiento, con controles proporcionales; el pie, que la regulación de datos, IA y ciberseguridad se verifica en fuentes oficiales.
 
 ## 📖 Desarrollo
 
-### 1. transformation portfolio: mecanismo central
+### 1. Resultados y restricciones antes de las iniciativas
 
-**transformation portfolio** se entiende aquí como **cartera de apuestas tecnológicas ligadas a outcomes**. Esta es la pieza causal o estructural desde la que se inicia **capstone: transformation board**: antes de definir outcomes y constraints, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Westerman y colaboradores mostraron que lo que distingue a las empresas que logran una transformación digital es la combinación de **visión de negocio** y **capacidad de gestión del cambio**: saben qué resultado buscan y gobiernan la ejecución. Por eso el tablero comienza por los **resultados de negocio** de los próximos 24 meses (crecimiento, margen, retención, tiempo de lanzamiento, riesgo) y por las **restricciones duras**: presupuesto, capacidad de entrega, apetito de riesgo cibernético y de IA, obligaciones legales, capacidad de absorber cambio de las personas. Estas restricciones se prueban en el escenario adverso (como en la clase 228): si el EBITDA cae 20 %, ¿se mantiene el compromiso? Sin resultados ni restricciones, las iniciativas compiten por entusiasmo.
 
-La lectura rectora de este bloque es Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*. Su aporte se usa para examinar **modelo operativo AI-first, escala digital, redes y arquitectura de decisión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **benefit realization**; regístrala con periodo, unidad, población y baseline.
+### 2. Comparar iniciativas con un formato común
 
-Relaciona el mecanismo con **value case**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Cada iniciativa se presenta con un **formato uniforme**: resultado de negocio, línea base y meta, valor realizable (en caja, no en horas, clase 233), capital y costo de operación, capacidad requerida (personas, perfiles), riesgos (de ejecución, de seguridad, de datos, de IA y de personas), dependencias, dueño de negocio, hitos y criterios de éxito y de parada. Se ordenan por **valor esperado por peso invertido** y **por unidad de capacidad escasa** (ingeniería, datos), porque la restricción relevante suele ser el **talento**, no el dinero. Se aplican los criterios de las clases anteriores: capacidad de negocio (229), economía unitaria (230 y 231), calidad de datos (232), viabilidad y riesgo de IA (233), efecto en el trabajo (234 y 239), seguridad (235), opción construir o comprar (236) y deuda técnica (237).
 
-### 2. value case: frontera conceptual y error de clasificación
+### 3. Dependencias y secuencia
 
-**Definición operacional:** argumento cuantificado o verificable de beneficio. Su valor está en distinguirlo de **transformation portfolio** y **dependency map**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Las iniciativas de transformación se **habilitan unas a otras**. Un producto de datos de cliente único (clase 232) es prerrequisito de la personalización, del autoservicio y de los modelos de IA; un sistema con deuda técnica elevada limita cualquier cambio; la ciberseguridad condiciona la nube y la IA. El tablero construye un **mapa de dependencias** y define una **secuencia**: primero los habilitadores, luego las iniciativas que dependen de ellos. Se identifican las **rutas críticas** y se evita el error clásico de lanzar proyectos paralelos que dependen de un mismo equipo o dato que aún no existe. Iansiti y Lakhani muestran que las empresas que operan con datos y algoritmos construyen **plataformas comunes** que luego muchas aplicaciones reutilizan; esa lógica de plataforma se aplica a la planificación.
 
-Contrasta el problema con Thomas H. Davenport & Nitin Mittal — *All-In on AI*, que aporta una mirada sobre **casos empresariales, estrategia y organización para inteligencia artificial**. Formula dos mini-casos: uno que sí satisface la definición de **value case** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **adoption** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Capacidad: el cuello de botella real
 
-Antes de comparar use cases por value y risk, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La mayoría de los portafolios de transformación fracasa por **sobrecarga**: más proyectos que personas. El tablero calcula la **capacidad disponible** (ingenieros, analistas de datos, líderes de negocio, usuarios clave) y la compara con la **demanda** de las iniciativas, por perfil y por período. Se considera una **reserva** para operación y mantenimiento (clase 237), para incidentes y para licencias, vacaciones y rotación. Cuando la demanda supera la capacidad, se **secuencia** (se desplazan iniciativas), se **amplía** (contratar, aliarse, comprar, clase 236) o se **prioriza** (se renuncia a algunas). Forsgren y colaboradores muestran que los equipos con **cambios pequeños, frecuentes y automatizados** tienen mejor desempeño; el tablero protege esa capacidad en lugar de cargar a los equipos con trabajo en paralelo.
 
-### 3. dependency map: operacionalización y medición
+### 5. Gobernar con proporcionalidad: sandbox y escala
 
-**dependency map** significa **relaciones entre data platforms teams y vendors**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Una gobernanza central rígida puede frenar la experimentación, y una laxa produce riesgos. El tablero aplica una **gobernanza proporcional**: un **espacio de pruebas** donde los equipos pueden experimentar con IA y datos con reglas ligeras (datos no sensibles, impacto limitado, aprobación simple, un presupuesto acotado) y **controles reforzados** para escalar a producción empresarial (revisión de seguridad, privacidad, sesgo, trazabilidad, supervisión humana, cumplimiento). El marco de gestión de riesgos de IA del NIST propone mapear el contexto, medir y gestionar riesgos de forma proporcional al impacto; esa proporcionalidad determina qué casos pueden moverse rápido y cuáles requieren más evidencia. Se evitan los extremos: prohibir todo o aprobar todo.
 
-Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* orienta este bloque mediante **métricas de entrega, capacidades técnicas y desempeño organizacional**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **portfolio spend**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Puertas de decisión, dueños y financiamiento por etapas
 
-Al llegar a mapear dependencies y capacity, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cada iniciativa tiene un **dueño de negocio** (que responde por el resultado) y un **líder de entrega**. El capital se libera por **etapas**: se compromete lo necesario para la primera fase y se condiciona el resto a resultados y a la situación financiera (clase 228). Las **puertas de decisión** tienen criterios explícitos: adopción mínima, calidad de datos, reducción de costo, ausencia de incidentes graves, cumplimiento. Cuando una iniciativa no pasa la puerta, se **ajusta** o se **detiene** y su capacidad se reasigna: la tasa de reasignación es una señal de salud del portafolio. Se registra lo que **no** se hará y por qué. Y se define qué ocurre con los sistemas antiguos: cada iniciativa que reemplaza algo incluye el **retiro** (clase 236).
 
-### 4. stage gate: trade-offs y efectos de segundo orden
+### 7. Medir: el tablero de la transformación
 
-**Definición:** punto de decisión basado en evidencia. Este concepto obliga a abandonar la idea de que **capstone: transformation board** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de asignar stage gates y owners, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics* aporta una lente sobre **perspectiva de Datos aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **stage-gate pass** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capstone: transformation board**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **stage gate** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. benefit owner: gobernanza, límites e integración
-
-**benefit owner** se define como **ejecutivo accountable por realizar valor después de entrega** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-NIST — *Cybersecurity Framework (CSF) 2.0* se utiliza para estudiar **gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad** y contrastar la recomendación final. Al ejecutar reallocate según adoption y benefits, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Gobernanza central puede frenar experimentación. Diferencia sandbox de bajo riesgo de escalamiento enterprise y aplica controles proporcionales.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **transformation portfolio**, **value case**, **dependency map**, **stage gate** y **benefit owner** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: transformation board** no consiste en sumar cinco definiciones. Empieza por **transformation portfolio**, contrasta **value case** con **dependency map**, incorpora **stage gate** como restricción o mecanismo y usa **benefit owner** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir outcomes y constraints → 2. comparar use cases por value y risk → 3. mapear dependencies y capacity → 4. asignar stage gates y owners → 5. reallocate según adoption y benefits**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El tablero de medición incluye: **resultados de negocio** (ingresos, margen, retención, tiempo de lanzamiento), **valor realizado frente a prometido** por iniciativa, **avance** (hitos y gasto), **capacidad** (utilización, cuellos de botella), **salud técnica** y de entrega (clase 238), **calidad de datos** (clase 232), **riesgo** (ciberseguridad, IA, cumplimiento, personas), **adopción** y **clima** (clase 239). Se revisa **mensualmente** por el comité y **trimestralmente** por el directorio. Se hace una **revisión posterior** a los 12 y 24 meses (clase 228). El tablero decide, no solo informa: cada reunión termina con decisiones sobre qué continuar, ajustar, detener o acelerar, y con acciones que tienen dueño y fecha.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* | modelo operativo AI-first, escala digital, redes y arquitectura de decisión | ¿Qué supuesto de **capstone: transformation board** ayuda a desafiar? |
-| Thomas H. Davenport & Nitin Mittal — *All-In on AI* | casos empresariales, estrategia y organización para inteligencia artificial | ¿Qué supuesto de **capstone: transformation board** ayuda a desafiar? |
-| Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* | métricas de entrega, capacidades técnicas y desempeño organizacional | ¿Qué supuesto de **capstone: transformation board** ayuda a desafiar? |
-| Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics* | perspectiva de Datos aplicada al problema de la clase | ¿Qué supuesto de **capstone: transformation board** ayuda a desafiar? |
-| NIST — *Cybersecurity Framework (CSF) 2.0* | gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad | ¿Qué supuesto de **capstone: transformation board** ayuda a desafiar? |
-
-En **capstone: transformation board**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **transformation portfolio**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Westerman, Bonnet y McAfee | Visión de negocio y gestión del cambio en la transformación digital. | Marco descriptivo. | ¿Qué resultado y qué capacidad de gestión tenemos? |
+| Iansiti y Lakhani | Plataformas comunes y operación basada en datos. | Casos muy digitales. | ¿Qué habilitadores reutilizan las iniciativas? |
+| Davenport y Mittal | IA a escala y salida del purgatorio de pilotos. | Empresas grandes. | ¿Cómo pasamos de piloto a producción? |
+| NIST AI RMF | Gestión de riesgos de IA proporcional al contexto. | Voluntario y genérico. | ¿Qué casos van al sandbox y cuáles a control reforzado? |
+| Forsgren y otros | Métricas de entrega y prácticas que mejoran el flujo. | Estudio de encuestas. | ¿Protegemos la capacidad de entrega? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Hay 32 iniciativas de IA, migración cloud y data platform compitiendo por el mismo equipo de seguridad. Todas están top priority y ninguna tiene kill criteria.
+**Situación (hipotética).** El tablero de transformación de una empresa de distribución dispone de 9.000 millones de pesos y de 60 personas equivalentes de capacidad de entrega, de las cuales reserva 6 (10 %) para un espacio de pruebas. Debe decidir sobre ocho iniciativas, con su valor presente neto esperado (VAN).
 
-**Paso 1 — definir outcomes y constraints.** La gerencia escribe primero el supuesto asociado a **transformation portfolio** y evita convertirlo en hecho. Luego busca **benefit realization** para contrastarlo en el caso de **capstone: transformation board**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Iniciativas.**
 
-**Paso 2 — comparar use cases por value y risk.** La gerencia escribe primero el supuesto asociado a **value case** y evita convertirlo en hecho. Luego busca **adoption** para contrastarlo en el caso de **capstone: transformation board**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| # | Iniciativa | Capital | VAN esperado | Personas | VAN por capital | VAN por persona | Dependencia |
+|---|---|---|---|---|---|---|---|
+| T1 | Integración y reglas de reposición | 1.500 | 2.200 | 12 | 1,47 | 183 | — |
+| T2 | Gestión de costos de nube | 300 | 600 | 3 | 2,00 | 200 | — |
+| T3 | Producto de datos «cliente único» | 450 | 700 | 8 | 1,56 | 88 | — |
+| T4 | Autoservicio digital de pedidos | 2.800 | 3.100 | 18 | 1,11 | 172 | T3 |
+| T5 | Asistente de IA en atención | 700 | 150 | 6 | 0,21 | 25 | T3 |
+| T6 | Antifraude con IA | 1.200 | 600 | 9 | 0,50 | 67 | T3 |
+| T7 | Remediación del sistema central | 1.800 | 2.900 | 14 | 1,61 | 207 | — |
+| T8 | Ciberseguridad (respaldos, accesos, proveedores) | 300 | 700 | 5 | 2,33 | 140 | — |
+| | **Total** | **9.050** | | **75** | | | |
 
-**Paso 3 — mapear dependencies y capacity.** La gerencia escribe primero el supuesto asociado a **dependency map** y evita convertirlo en hecho. Luego busca **portfolio spend** para contrastarlo en el caso de **capstone: transformation board**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+La suma de capital (9.050) y de personas (75) supera lo disponible (9.000 y 54 personas para iniciativas estructuradas).
 
-**Paso 4 — asignar stage gates y owners.** La gerencia escribe primero el supuesto asociado a **stage gate** y evita convertirlo en hecho. Luego busca **stage-gate pass** para contrastarlo en el caso de **capstone: transformation board**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Selección.** (1) **T8** es una restricción dura (ciberseguridad: 300; 5 personas). (2) Se ordena el resto por VAN por capital: T2 (2,00), T7 (1,61), T3 (1,56), T1 (1,47), T4 (1,11). T6 (0,50) y T5 (0,21) quedan fuera de la estructura, pero pasan a explorarse en el **espacio de pruebas** con presupuesto y personas limitados. (3) T3 se prioriza también por ser **habilitador** de T4, T5 y T6.
 
-**Paso 5 — reallocate según adoption y benefits.** La gerencia escribe primero el supuesto asociado a **benefit owner** y evita convertirlo en hecho. Luego busca **dependency risk** para contrastarlo en el caso de **capstone: transformation board**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Capital de las iniciativas seleccionadas.** T8 300 + T2 300 + T3 450 + T7 1.800 + T1 1.500 + T4 2.800 = **7.150**; VAN esperado: 700 + 600 + 700 + 2.900 + 2.200 + 3.100 = **10.200** (1,43 por peso).
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: transformation board**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Secuencia y capacidad.**
+
+| Ola | Iniciativas | Personas | Capital |
+|---|---|---|---|
+| Ola 1 (meses 0 a 9) | T8 (5), T2 (3), T3 (8), T7 fase 1 (14), T1 (12) | 42 | 300 + 300 + 450 + 900 + 1.500 = 3.450 |
+| Espacio de pruebas | Pilotos de T5 y T6 | 6 | 600 |
+| Ola 2 (desde el mes 9, condicionada) | T4 (18), T7 fase 2 (14 se mantiene) | 42 − 15 (terminan T1 y T2) + 18 = 45 | 900 + 2.800 = 3.700 |
+
+Demanda máxima: ola 1, 42 + 6 = 48; ola 2, 45 + 6 = 51; ambas dentro de las 60 personas (con reserva de 9 para operación e incidentes). Capital comprometido: 3.450 + 600 + 3.700 = 7.750; reserva de 1.250 millones.
+
+**Puertas.** T4 se libera en el mes 9 si: T3 está en producción con duplicados bajo 1,5 %, el EBITDA del primer semestre es al menos 95 % del presupuesto, y no hay incidentes de seguridad graves abiertos. T7 fase 2 se libera si el esfuerzo perdido por deuda baja de 35 % a menos de 28 %. Los pilotos del espacio de pruebas pasan a escala solo con evaluación de impacto (privacidad, sesgo, supervisión humana, clase 188).
+
+**Gobernanza proporcional.** T5 (asistente de atención) es de bajo impacto: puede operar en el sandbox con datos no sensibles; T6 (antifraude) es de alto impacto sobre clientes: exige supervisión humana, pruebas de sesgo y trazabilidad antes de escalar.
+
+**Tablero y metas a 12 meses (hipotéticas).** Tasa de cumplimiento de pedidos de 91 % a 95 %; costo unitario de nube bajo 115 pesos por usuario; duplicados de clientes de 8 % a 1,2 %; tiempo de cambio del sistema central de 38 a 15 días; autenticación multifactor al 100 %; adopción digital de pedidos de 25 %; VAN realizado frente a esperado al menos del 70 %.
+
+**Decisión del tablero.** Aprobar las seis iniciativas con las olas y las puertas descritas; el espacio de pruebas con 600 millones y 6 personas; no financiar T5 y T6 a escala ahora; revisar mensualmente y reasignar capacidad si una iniciativa no pasa su puerta.
+
+**Cuidados.** Las estimaciones de valor y de capacidad son hipótesis; los contratos, la protección de datos, las decisiones automatizadas y las condiciones laborales se verifican en la normativa vigente y con asesoría; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La capacidad, no solo el dinero, fue la restricción. (2) Las dependencias definieron la secuencia. (3) El sandbox y las puertas permitieron experimentar sin comprometer el escalamiento.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **transformation portfolio** | cartera de apuestas tecnológicas ligadas a outcomes | Cuando benefit realization es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **value case** | argumento cuantificado o verificable de beneficio | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Tablero de transformación frente a oficina de proyectos.** La oficina de proyectos controla plazos y gasto; el tablero decide qué iniciativas se hacen, en qué orden y con qué evidencia continúan.
 
-**Frontera de aplicación:** Gobernanza central puede frenar experimentación. Diferencia sandbox de bajo riesgo de escalamiento enterprise y aplica controles proporcionales.
+**Límites.** Una gobernanza central puede frenar la experimentación; se separa el sandbox de bajo riesgo del escalamiento con controles proporcionales. Las estimaciones de valor y de capacidad son inciertas. Las dependencias cambian. Las cifras del ejemplo son ilustrativas y no corresponden a ninguna empresa real.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: transformation board |
+| Nivel | Cómo participa en la transformación |
 |---|---|
-| **Profesional** | usa **capstone: transformation board** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **transformation portfolio** y **value case** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta benefit realization con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: transformation board cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: transformation board reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: transformation board** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Ejecuta con calidad y aporta aprendizajes. |
+| **Jefe / Team Lead** | Protege la capacidad de su equipo y reporta dependencias. |
+| **Gerente** | Es dueño de una iniciativa con resultado medido. |
+| **CEO / Director** | Preside el tablero, decide prioridades y exige evidencia. |
+| **Founder / Owner** | Equilibra la ambición de transformar con la capacidad real y el riesgo. |
 
 ## 🏢 Caso ejecutivo
 
-Hay 32 iniciativas de IA, migración cloud y data platform compitiendo por el mismo equipo de seguridad. Todas están top priority y ninguna tiene kill criteria.
+Un grupo de servicios de salud con 5.200 personas, ventas de 300.000 millones de pesos y un presupuesto de transformación de 14.000 millones tiene 17 iniciativas en marcha o propuestas: historia clínica electrónica unificada (4.500), plataforma de agendamiento y telemedicina (2.600), datos de pacientes («paciente único», 900), asistente de IA para documentación clínica (1.100), predicción de inasistencias (500), automatización de facturación (1.400), migración a la nube (2.800), ciberseguridad (1.200), remediación de un sistema de laboratorio (1.600), un portal para aseguradoras (900), y otras siete menores. La capacidad total de tecnología es de 140 personas, con una demanda estimada de 230. Hay dependencias cruzadas: casi todo requiere el «paciente único». Un incidente reciente de ciberseguridad costó 640 millones; el regulador pidió información sobre uso de IA en documentación clínica; los clínicos temen que la IA aumente su carga administrativa; el directorio exige «un solo plan» y el CEO quiere «avanzar con todo». Los equipos están agotados y la rotación de ingenieros es de 22 %.
 
-Entrega un **decision brief de capstone: transformation board** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **paquete de decisión del tablero de transformación** que contenga: (a) los resultados de negocio a 24 meses y las restricciones duras; (b) la comparación de las 17 iniciativas por valor, riesgo, capital y capacidad, con las que se detienen o posponen; (c) el mapa de dependencias y la secuencia por olas con la capacidad por perfil; (d) la gobernanza proporcional, el espacio de pruebas y las puertas con criterios y dueños; (e) el tablero de medición con indicadores de negocio, entrega, datos, riesgo y personas; (f) los efectos sobre el trabajo clínico y administrativo, los controles de IA y las verificaciones legales, regulatorias y laborales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: transformation board** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir outcomes y constraints → 2. comparar use cases por value y risk → 3. mapear dependencies y capacity → 4. asignar stage gates y owners → 5. reallocate según adoption y benefits** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta benefit realization, adoption; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Lista diez iniciativas de tecnología de una empresa con capital, personas y valor, y calcula VAN por capital y por persona.
+2. Dibuja el mapa de dependencias y marca la ruta crítica.
+3. Arma un plan por olas que respete la capacidad por perfil y una reserva para operación.
+4. Diseña dos puertas de decisión con criterios medibles y un dueño.
+5. Define los diez indicadores del tablero y las decisiones que cada uno informa.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar transformation portfolio y value case como sinónimos | Se pierde la distinción entre “cartera de apuestas tecnológicas ligadas a outcomes” y “argumento cuantificado o verificable de beneficio” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “reallocate según adoption y benefits” | Se saltó “definir outcomes y constraints” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir outcomes y constraints → 2. comparar use cases por value y risk → 3. mapear dependencies y capacity → 4. asignar stage gates y owners → 5. reallocate según adoption y benefits y marca el primer supuesto no demostrado. |
-| Optimizar solo benefit realization | La métrica local sustituyó al resultado del sistema | Contrástala con adoption y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: transformation board | Gobernanza central puede frenar experimentación. Diferencia sandbox de bajo riesgo de escalamiento enterprise y aplica controles proporcionales. |
-| No fijar revisión | Una decisión sobre capstone: transformation board se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Portafolio por entusiasmo | No hay criterios comunes | Formato uniforme y valor esperado. |
+| Ignorar la capacidad | Se mira el dinero | Capacidad por perfil, con reserva. |
+| Proyectos paralelos con dependencias | No se mapean | Secuencia por habilitadores. |
+| Gobernanza rígida o laxa | Se busca un único modelo | Gobernanza proporcional: sandbox y escalamiento. |
+| Capital liberado de una vez | Se quiere avanzar | Etapas y puertas. |
+| Medir avance y no valor | Es lo fácil | Valor realizado frente a prometido. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **transformation portfolio** y **value case** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **dependency map** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir outcomes y constraints → comparar use cases por value y risk** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **benefit realization** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: transformation board**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Gobernanza central puede frenar experimentación. Diferencia sandbox de bajo riesgo de escalamiento enterprise y aplica controles proporcionales.**?
+1. ¿Por qué se parte de resultados y restricciones?
+2. ¿Por qué se ordena también por capacidad y no solo por capital?
+3. ¿Cómo influyen las dependencias en la secuencia?
+4. ¿Qué es la gobernanza proporcional y cómo se aplica?
+5. ¿Qué es una puerta de decisión y quién la gobierna?
+6. ¿Qué incluye el tablero de medición?
+7. ¿Qué límites tiene un tablero centralizado?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Porque sin resultados ni restricciones las iniciativas compiten por entusiasmo y no se puede priorizar ni probar la viabilidad.
+2. Porque la restricción escasa suele ser el talento de ingeniería y datos, no el dinero.
+3. Los habilitadores van primero; las iniciativas que dependen de ellos se secuencian después y se evitan proyectos paralelos sobre un mismo prerrequisito.
+4. Controles proporcionales al impacto: sandbox ligero para experimentar con bajo riesgo y controles reforzados para escalar a producción.
+5. Un punto en que se libera capital según criterios medibles; lo gobierna el tablero con un dueño de negocio por iniciativa.
+6. Resultados de negocio, valor realizado frente a prometido, avance, capacidad, salud técnica y de entrega, calidad de datos, riesgo, adopción y clima.
+7. Puede frenar la experimentación; se mitiga separando el sandbox del escalamiento y aplicando controles proporcionales.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/240-capstone-transformation-board/`:
 
-- `board-or-executive-memo.md` con el problema específico de **capstone: transformation board**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: transformation board** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **transformation portfolio**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Hay 32 iniciativas de IA, migración cloud y data platform compitiendo por el mismo equipo de seguridad. Todas están top priority y ninguna tiene kill criteria.** y el dato que podría invalidar la recomendación.
+- `board-or-executive-memo.md` (plantilla [Board or executive memo](../../../../templates/board-or-executive-memo.md)) con el paquete de decisión del caso ejecutivo;
+- `ceo-dashboard.md` (plantilla [CEO dashboard](../../../../templates/ceo-dashboard.md)) con el tablero de medición de la transformación;
+- `strategy-memo.md` (plantilla [Strategy memo](../../../../templates/strategy-memo.md)) con la secuencia por olas y las dependencias;
+- `decision-journal.md` con las puertas, el espacio de pruebas y las verificaciones legales y laborales pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* (Harvard Business Review Press, 2020). **Uso en esta clase:** modelo operativo AI-first, escala digital, redes y arquitectura de decisión. Lectura selectiva sobre **capstone: transformation board**. **Localizador:** [ISBN-13 9781633697621](https://openlibrary.org/isbn/9781633697621).
-- Thomas H. Davenport & Nitin Mittal — *All-In on AI* (Harvard Business Review Press, 2022). **Uso en esta clase:** casos empresariales, estrategia y organización para inteligencia artificial. Lectura selectiva sobre **capstone: transformation board**. **Localizador:** [ISBN-13 9781647824693](https://openlibrary.org/isbn/9781647824693).
-- Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* (IT Revolution Press, 2018). **Uso en esta clase:** métricas de entrega, capacidades técnicas y desempeño organizacional. Lectura selectiva sobre **capstone: transformation board**. **Localizador:** [ISBN-13 9781942788379](https://openlibrary.org/isbn/9781942788379).
-- Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics* (Harvard Business School Press, 2007). **Uso en esta clase:** perspectiva de Datos aplicada al problema de la clase. Lectura selectiva sobre **capstone: transformation board**. **Localizador:** [ISBN-13 9781422103326](https://openlibrary.org/isbn/9781422103326).
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* (Harvard Business Review Press, 2014). **Uso en esta clase:** transformación digital desde capacidades de liderazgo y capacidades digitales. Lectura selectiva sobre **capstone: transformation board**. **Localizador:** [ISBN-13 9781625272478](https://openlibrary.org/isbn/9781625272478).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: transformation board** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: transformation board**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: transformation board** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: transformation board** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: transformation board** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* (Harvard Business Review Press, 2014). **Uso en esta clase:** visión de negocio y gestión del cambio en la transformación digital. Lectura selectiva sobre **capstone: transformation board**. **Localizador:** [ISBN-13 9781625272478](https://openlibrary.org/isbn/9781625272478).
+- Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* (Harvard Business Review Press, 2020). **Uso en esta clase:** plataformas comunes y operación basada en datos. Lectura selectiva sobre **capstone: transformation board**. **Localizador:** [ISBN-13 9781633697621](https://openlibrary.org/isbn/9781633697621).
+- Thomas H. Davenport & Nitin Mittal — *All-In on AI* (Harvard Business Review Press, 2022). **Uso en esta clase:** IA a escala y salida del purgatorio de pilotos. Lectura selectiva sobre **capstone: transformation board**. **Localizador:** [ISBN-13 9781647824693](https://openlibrary.org/isbn/9781647824693).
+- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gestión de riesgos de IA proporcional al contexto. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
+- Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* (IT Revolution Press, 2018). **Uso en esta clase:** métricas de entrega y prácticas que mejoran el flujo. Lectura selectiva sobre **capstone: transformation board**. **Localizador:** [ISBN-13 9781942788379](https://openlibrary.org/isbn/9781942788379).
 
-> **Regla de fuentes para Capstone: transformation board:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: transformation board** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para el Capstone del transformation board:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de protección de datos, de IA, de ciberseguridad y laborales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

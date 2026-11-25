@@ -10,217 +10,213 @@
 
 ## 🎯 Propósito
 
-Automatizar cambia trabajo, roles y controles; el mayor valor suele venir de rediseñar workflow, no de sustituir cada tarea 1:1. Task decomposition, exception handling y human judgment ayudan a decidir qué automatizar, augmentar o mantener humano.
+Cuando una empresa quiere «automatizar», suele partir de las tareas más visibles: llenar formularios, copiar datos entre sistemas, preparar informes. Se instala una herramienta, se elimina un paso y se celebra el ahorro. Meses después, los resultados son modestos: la tarea automatizada era una pequeña parte del trabajo, las excepciones siguen consumiendo el tiempo de personas calificadas, nadie rediseñó el proceso de punta a punta, los roles no cambiaron y los empleados dudan si la tecnología es una ayuda o una amenaza. **Automatizar tareas no es rediseñar el trabajo**. El valor aparece cuando se descompone el flujo completo en tareas, se decide qué conviene automatizar, qué conviene aumentar con apoyo tecnológico y qué debe seguir en manos del criterio humano, y se rediseñan roles, controles y capacitación en consecuencia.
 
-La salida de esta parte es **gobernar tecnología, datos e IA como capacidades económicas y organizacionales**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **automatización y rediseño de trabajo** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis económico del trabajo de Autor, Levy y Murnane sobre el contenido de habilidades de los cambios tecnológicos, en la revisión de Autor sobre por qué siguen existiendo tantos empleos pese a la automatización, en el modelo de tareas y automatización de Acemoglu y Restrepo, en Brynjolfsson y McAfee sobre la segunda era de las máquinas y en Agrawal, Gans y Goldfarb sobre la predicción y el juicio. Al terminar sabrás mapear un flujo de punta a punta, clasificar tareas, diseñar el flujo objetivo con excepciones y controles, rediseñar roles y planificar la transición de las personas.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `task decomposition`, `augmentation`, `straight-through processing`, `exception handling`, `job redesign` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → transformador digital.
-3. **Aplicar** la secuencia **1. mapear workflow end-to-end → 2. clasificar tareas por repetición judgment y risk → 3. diseñar target workflow y exceptions → 4. redefinir roles y controles → 5. pilotear y medir productivity y quality** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** touch time, automation rate, exception rate sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Descomponer** un flujo de trabajo en tareas con tiempo, frecuencia y riesgo.
+2. **Clasificar** tareas por repetición, juicio y riesgo, y decidir automatizar o aumentar.
+3. **Diseñar** el flujo objetivo con excepciones, controles y respaldo.
+4. **Rediseñar** roles, capacidades y carga de trabajo.
+5. **Planificar** la transición de las personas respetando las obligaciones laborales.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define task decomposition y augmentation sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con touch time y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué tarea automatizó tu empresa que no cambió el tiempo total del proceso y por qué? |
+| 20–60 min | Tareas y habilidades, clasificación, flujo objetivo, excepciones, roles y transición. |
+| 60–105 min | Ejemplo trabajado: tramitación de reclamos con 60 % de procesamiento directo. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **task decomposition** | descomposición del trabajo en actividades con distinto potencial de automatización | Distingue un hecho compatible y otro que lo refute. |
-| **augmentation** | uso de tecnología para aumentar capacidad humana | Distingue un hecho compatible y otro que lo refute. |
-| **straight-through processing** | flujo automatizado sin intervención manual | Distingue un hecho compatible y otro que lo refute. |
-| **exception handling** | proceso para casos fuera de reglas | Distingue un hecho compatible y otro que lo refute. |
-| **job redesign** | reconfiguración de responsabilidades después de automatización | Distingue un hecho compatible y otro que lo refute. |
+| **Descomposición en tareas** | División de un trabajo en actividades concretas. | Lista con tiempos, frecuencias y reglas. |
+| **Automatización** | Ejecución de una tarea por una máquina sin intervención humana. | Procesamiento directo (*straight-through*). |
+| **Aumento (*augmentation*)** | Apoyo tecnológico al juicio y trabajo de una persona. | La persona decide con mejor información. |
+| **Tarea rutinaria** | Tarea que sigue reglas explícitas. | Se puede programar. |
+| **Procesamiento directo (STP)** | Porcentaje de casos que pasan sin intervención humana. | Indicador de automatización real. |
+| **Excepción** | Caso que no cumple las reglas y requiere juicio. | Se deriva a una persona. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 234: 1. mapear workflow end-to-end → 2. clasificar tareas por repetición judgment y risk → 3. diseñar target workflow y exceptions → 4. redefinir roles y controles → 5. pilotear y medir productivity y quality](modelo-mental.svg)
+![Qué tareas se automatizan y cuáles se aumentan: rutinaria de bajo riesgo, rutinaria de alto riesgo, con juicio y con relación humana.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear workflow end-to-end → 2. clasificar tareas por repetición judgment y risk → 3. diseñar target workflow y exceptions → 4. redefinir roles y controles → 5. pilotear y medir productivity y quality
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Automatizar cambia trabajo, roles y controles; el mayor valor suele venir de rediseñar workflow, no de sustituir cada tarea 1:1. Task decomposition, exception handling y human judgment ayudan a decidir qué automatizar, augmentar o mantener humano.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Automatización de alto riesgo necesita controles y fallback. No uses capacidad técnica como justificación para eliminar juicio humano donde daño potencial es material.**
+**Cómo leer el diagrama.** Una tabla de cuatro tipos de tarea. **Rutinaria y de bajo riesgo**: repetitiva con reglas claras; se automatiza con muestreo y registro. **Rutinaria y de alto riesgo**: reglas claras con daño posible; se automatiza con respaldo, revisión y plan alterno. **Con juicio**: contexto y excepciones; se aumenta al profesional y decide la persona. **Con relación humana**: confianza y negociación; se apoya y no se reemplaza, midiendo calidad y satisfacción. La nota explica que se rediseña el trabajo de punta a punta y no solo las tareas sueltas; el pie, que los cambios en roles tienen condiciones laborales que se verifican con asesoría.
 
 ## 📖 Desarrollo
 
-### 1. task decomposition: mecanismo central
+### 1. Trabajo como conjunto de tareas
 
-**task decomposition** se entiende aquí como **descomposición del trabajo en actividades con distinto potencial de automatización**. Esta es la pieza causal o estructural desde la que se inicia **automatización y rediseño de trabajo**: antes de mapear workflow end-to-end, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Autor, Levy y Murnane propusieron analizar el trabajo no como «ocupaciones» sino como conjuntos de **tareas**, y distinguieron las **rutinarias** (que siguen reglas explícitas y pueden programarse) de las **no rutinarias** (que exigen resolución de problemas, creatividad, interacción compleja). La tecnología computacional sustituye con más facilidad las tareas rutinarias y complementa las no rutinarias. Autor revisó la historia de la automatización y concluyó que la tecnología **sustituye** tareas pero **complementa** otras, aumenta la productividad y, en muchos casos, crea nueva demanda de trabajo; pero también advirtió que los efectos son desiguales y que el ajuste puede ser lento y doloroso para ciertas personas. Para el ejecutivo, la lección es práctica: el efecto de una tecnología se entiende **por tarea**, no por empleo o por departamento.
 
-La lectura rectora de este bloque es Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*. Su aporte se usa para examinar **modelo operativo AI-first, escala digital, redes y arquitectura de decisión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **touch time**; regístrala con periodo, unidad, población y baseline.
+### 2. Mapear el flujo de punta a punta
 
-Relaciona el mecanismo con **augmentation**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El primer paso es dibujar el **flujo completo**: desde el disparador (una solicitud, un reclamo, un pedido) hasta el resultado para el cliente. Para cada **tarea** se registra: quién la hace, cuánto tarda (trabajo y espera), con qué frecuencia, qué información usa, qué reglas sigue, qué excepciones tiene, qué errores comete y qué riesgo implica un error. Se descubre que el flujo real difiere del documentado: pasos informales, correos, planillas paralelas. Brynjolfsson y McAfee observan que las nuevas tecnologías generan valor cuando se **reorganiza el trabajo** y no solo se reemplazan tareas individuales; un mapa de punta a punta evita automatizar pasos que podrían eliminarse.
 
-### 2. augmentation: frontera conceptual y error de clasificación
+### 3. Clasificar las tareas: repetición, juicio y riesgo
 
-**Definición operacional:** uso de tecnología para aumentar capacidad humana. Su valor está en distinguirlo de **task decomposition** y **straight-through processing**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Cada tarea se clasifica en tres dimensiones. **Repetición y regularidad**: ¿sigue reglas claras?, ¿ocurre con alto volumen?, ¿los datos son estructurados? **Juicio y contexto**: ¿requiere interpretar situaciones nuevas, equilibrar valores o negociar? **Riesgo del error**: ¿qué daño produce un error (dinero, seguridad, derechos de una persona, reputación)? Con ellas se decide el tratamiento: **automatizar** las rutinarias de bajo riesgo; **automatizar con controles y respaldo** las rutinarias de alto riesgo; **aumentar** las que exigen juicio (la persona decide con mejores herramientas); y **conservar y fortalecer** las que dependen de la relación humana. Agrawal, Gans y Goldfarb explican que la IA abarata la predicción, pero el **juicio** (decidir qué hacer con la predicción) sigue siendo humano mientras no se pueda codificar; por eso muchas decisiones se **aumentan** más que se automatizan.
 
-Contrasta el problema con Thomas H. Davenport & Nitin Mittal — *All-In on AI*, que aporta una mirada sobre **casos empresariales, estrategia y organización para inteligencia artificial**. Formula dos mini-casos: uno que sí satisface la definición de **augmentation** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **automation rate** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Diseñar el flujo objetivo: excepciones y controles
 
-Antes de clasificar tareas por repetición judgment y risk, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El flujo objetivo define: qué casos pasan por **procesamiento directo** (cumplen reglas y umbrales), qué casos se derivan a **revisión humana** (excepciones, montos o riesgos altos, baja confianza), cómo se **muestrean** los casos automatizados para detectar errores, qué **registros** quedan, cómo se **corrigen** los errores y cómo se comunica al cliente. En tareas de **alto riesgo**, se mantiene un **respaldo** manual (si el sistema falla, el proceso continúa) y la capacidad de **revertir** decisiones. No se usa la capacidad técnica como justificación para eliminar el juicio humano donde el daño potencial es material (clase 188). Un indicador esencial es el **porcentaje de procesamiento directo** y la **tasa de error** de los casos automáticos.
 
-### 3. straight-through processing: operacionalización y medición
+### 5. Rediseñar roles y capacidades
 
-**straight-through processing** significa **flujo automatizado sin intervención manual**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Cuando parte de las tareas se automatiza, el **trabajo restante** cambia: más excepciones y casos complejos, más análisis de calidad, más relación con clientes, más supervisión de sistemas. Acemoglu y Restrepo muestran que el efecto de la automatización sobre el trabajo depende de un equilibrio entre **desplazamiento** de tareas y creación de **nuevas tareas** en las que las personas tienen ventaja comparativa; la empresa influye en ese equilibrio con sus decisiones de diseño. Se rediseñan los **roles** (qué hace ahora cada cargo), las **capacidades requeridas** (análisis, comunicación, uso de herramientas), los **perfiles de selección**, los **incentivos** y las **métricas** (ya no tiempo por tarea sino calidad y resolución de casos). La capacitación se planifica antes del cambio.
 
-Martin Kleppmann — *Designing Data-Intensive Applications* orienta este bloque mediante **perspectiva de Arquitectura tecnológica aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **exception rate**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Planificar la transición de las personas
 
-Al llegar a diseñar target workflow y exceptions, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El rediseño genera **capacidad liberada**. Hay varias formas de usarla: **absorber crecimiento** sin contratar, **reducir contratistas**, **no reemplazar vacantes** por rotación natural, **redistribuir** a otras funciones (con **reentrenamiento**) y, solo en último término y conforme a la ley, **reducir dotación**. Una transición responsable incluye: comunicación **temprana y honesta** (qué cambia y qué no), **participación** de quienes hacen el trabajo en el rediseño, **reentrenamiento** con tiempo y apoyo, **criterios transparentes** para los nuevos roles, **plazos realistas** y **medidas de apoyo**. Se verifican con asesoría laboral las condiciones legales de cambios de funciones, traslados, capacitación y término de la relación laboral.
 
-### 4. exception handling: trade-offs y efectos de segundo orden
+### 7. Medir: productividad, calidad y personas
 
-**Definición:** proceso para casos fuera de reglas. Este concepto obliga a abandonar la idea de que **automatización y rediseño de trabajo** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de redefinir roles y controles, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-NIST — *Cybersecurity Framework (CSF) 2.0* aporta una lente sobre **gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **quality** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **automatización y rediseño de trabajo**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **exception handling** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. job redesign: gobernanza, límites e integración
-
-**job redesign** se define como **reconfiguración de responsabilidades después de automatización** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* se utiliza para estudiar **transformación digital desde capacidades de liderazgo y capacidades digitales** y contrastar la recomendación final. Al ejecutar pilotear y medir productivity y quality, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Automatización de alto riesgo necesita controles y fallback. No uses capacidad técnica como justificación para eliminar juicio humano donde daño potencial es material.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **task decomposition**, **augmentation**, **straight-through processing**, **exception handling** y **job redesign** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **automatización y rediseño de trabajo** no consiste en sumar cinco definiciones. Empieza por **task decomposition**, contrasta **augmentation** con **straight-through processing**, incorpora **exception handling** como restricción o mecanismo y usa **job redesign** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear workflow end-to-end → 2. clasificar tareas por repetición judgment y risk → 3. diseñar target workflow y exceptions → 4. redefinir roles y controles → 5. pilotear y medir productivity y quality**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Se mide el **efecto real**: tiempo de ciclo, costo por caso, porcentaje de procesamiento directo, tasa de error, satisfacción del cliente, carga de trabajo y **clima y rotación** de las personas. Se evalúa también el **costo oculto**: tiempo de revisión de los casos automáticos, mantenimiento de las reglas, gestión de excepciones, capacitación. Y se comparan los resultados con la línea base y con la hipótesis: ¿se cumplió el ahorro?, ¿mejoró la calidad?, ¿cómo vive el equipo el cambio? Los indicadores de personas son tan importantes como los de eficiencia: un ahorro que se paga con fuga de talento clave es un mal negocio. Los aprendizajes se incorporan al siguiente rediseño.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* | modelo operativo AI-first, escala digital, redes y arquitectura de decisión | ¿Qué supuesto de **automatización y rediseño de trabajo** ayuda a desafiar? |
-| Thomas H. Davenport & Nitin Mittal — *All-In on AI* | casos empresariales, estrategia y organización para inteligencia artificial | ¿Qué supuesto de **automatización y rediseño de trabajo** ayuda a desafiar? |
-| Martin Kleppmann — *Designing Data-Intensive Applications* | perspectiva de Arquitectura tecnológica aplicada al problema de la clase | ¿Qué supuesto de **automatización y rediseño de trabajo** ayuda a desafiar? |
-| NIST — *Cybersecurity Framework (CSF) 2.0* | gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad | ¿Qué supuesto de **automatización y rediseño de trabajo** ayuda a desafiar? |
-| George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* | transformación digital desde capacidades de liderazgo y capacidades digitales | ¿Qué supuesto de **automatización y rediseño de trabajo** ayuda a desafiar? |
-
-En **automatización y rediseño de trabajo**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **task decomposition**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Autor, Levy y Murnane | Análisis del trabajo por tareas rutinarias y no rutinarias. | Estudio de décadas pasadas. | ¿Qué tareas son rutinarias aquí? |
+| Autor (2015) | Sustitución y complemento de la automatización; empleos y ajuste. | Visión agregada. | ¿Qué tareas complementa la tecnología? |
+| Acemoglu y Restrepo | Desplazamiento y creación de tareas en la automatización. | Modelo económico. | ¿Qué nuevas tareas creamos? |
+| Brynjolfsson y McAfee | Rediseño organizacional junto con las máquinas. | Visión general. | ¿Qué parte del flujo reorganizamos? |
+| Agrawal, Gans y Goldfarb | Predicción barata y juicio humano como complemento. | Marco conceptual. | ¿Qué decisión sigue siendo humana? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un equipo automatiza clasificación de facturas, pero cada excepción vuelve por correo a tres personas y genera más retrabajo que antes.
+**Situación (hipotética).** Una aseguradora tramita 100.000 reclamos al año. El flujo actual toma 100 minutos de trabajo humano por reclamo: ingreso de datos, validación de cobertura, cálculo, revisión y comunicación.
 
-**Paso 1 — mapear workflow end-to-end.** La gerencia escribe primero el supuesto asociado a **task decomposition** y evita convertirlo en hecho. Luego busca **touch time** para contrastarlo en el caso de **automatización y rediseño de trabajo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Hoy.** 100.000 × 100 minutos = 10.000.000 minutos = 166.667 horas; con 1.800 horas por persona: **92,6 personas equivalentes**.
 
-**Paso 2 — clasificar tareas por repetición judgment y risk.** La gerencia escribe primero el supuesto asociado a **augmentation** y evita convertirlo en hecho. Luego busca **automation rate** para contrastarlo en el caso de **automatización y rediseño de trabajo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Clasificación de tareas (resumen).**
 
-**Paso 3 — diseñar target workflow y exceptions.** La gerencia escribe primero el supuesto asociado a **straight-through processing** y evita convertirlo en hecho. Luego busca **exception rate** para contrastarlo en el caso de **automatización y rediseño de trabajo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Tarea | Minutos | Clasificación | Tratamiento |
+|---|---|---|---|
+| Ingreso de datos | 15 | Rutinaria, bajo riesgo | Automatizar |
+| Validación de cobertura | 20 | Rutinaria, riesgo medio | Automatizar con reglas y excepciones |
+| Cálculo de indemnización | 25 | Rutinaria, alto riesgo (dinero) | Automatizar con límites y muestreo |
+| Revisión y decisión | 30 | Con juicio | Aumentar |
+| Comunicación al cliente | 10 | Con relación humana | Apoyar con borradores |
 
-**Paso 4 — redefinir roles y controles.** La gerencia escribe primero el supuesto asociado a **exception handling** y evita convertirlo en hecho. Luego busca **quality** para contrastarlo en el caso de **automatización y rediseño de trabajo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Flujo objetivo.** El 60 % de los reclamos (simples y de monto bajo) pasa por procesamiento directo con una revisión final de 8 minutos; el 40 % son excepciones o montos altos, con 85 minutos de trabajo asistido (en lugar de 100).
 
-**Paso 5 — pilotear y medir productivity y quality.** La gerencia escribe primero el supuesto asociado a **job redesign** y evita convertirlo en hecho. Luego busca **capacity released** para contrastarlo en el caso de **automatización y rediseño de trabajo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- Tiempo promedio: 0,6 × 8 + 0,4 × 85 = 4,8 + 34,0 = **38,8 minutos** (reducción de 61,2 %).
+- Horas liberadas: (100 − 38,8) × 100.000 ÷ 60 = 102.000 horas (56,7 personas equivalentes).
+- Valor «de papel» a 35.000 pesos la hora: 3.570 millones al año.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **automatización y rediseño de trabajo**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**De horas a caja (plan de capacidad).** Con un crecimiento de volumen de 10 % anual, el trabajo del año siguiente sería 110.000 × 38,8 ÷ 60 = 71.133 horas (39,5 personas): la capacidad liberada absorbe el crecimiento sin contratar. Plan a 24 meses: 35 personas se reducen por rotación natural (14 % anual) y no renovación de contratistas, no mediante despidos; 22 personas se reentrenan para roles de calidad, análisis de fraude y atención de casos complejos.
+
+- Ahorro realizable al régimen: 35 × 1.800 horas × 35.000 = 2.205 millones al año.
+
+**Costos y controles.**
+
+| Concepto | Millones al año |
+|---|---|
+| Errores en decisiones automáticas (60.000 reclamos × 0,5 % × 120.000 pesos) | 36 |
+| Revisión por muestreo (5 % de 60.000 = 3.000 casos × 20 minutos × 35.000 pesos la hora) | 35 |
+| Operación y mantenimiento de la solución | 300 |
+| **Total** | **371** |
+
+**Resultado neto.** 2.205 − 371 = **1.834 millones al año** al régimen. La inversión inicial de 1.900 millones (solución, integración, cambio y reentrenamiento de 22 personas a 4,5 millones: 99) se recupera en aproximadamente 1.900 ÷ 1.834 ≈ 1,04 años desde el régimen; con una transición de 24 meses y un 50 % del ahorro en el primer año, el plazo total es cercano a 2 años.
+
+**Salvaguardas.** Umbrales de monto y de riesgo para derivar a revisión humana; respaldo manual; registro de cada decisión; reclamación del cliente; evaluación de sesgo; monitoreo de errores por tipo de reclamo; pruebas antes del despliegue.
+
+**Indicadores.** Procesamiento directo (meta 60 %); error en automáticos (meta menor de 0,5 %); tiempo de ciclo; satisfacción; carga de trabajo por persona; rotación y clima.
+
+**Cuidados.** Los cambios de funciones, la capacitación y cualquier reducción de personal se verifican con asesoría laboral y las normas vigentes; las decisiones automatizadas sobre derechos de clientes se revisan con asesoría legal; las cifras son ilustrativas.
+
+**Qué muestra.** (1) El flujo se rediseñó de punta a punta. (2) Las horas se convirtieron en capacidad y caja con un plan para las personas. (3) El riesgo se controló con excepciones y muestreo.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **task decomposition** | descomposición del trabajo en actividades con distinto potencial de automatización | Cuando touch time es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **augmentation** | uso de tecnología para aumentar capacidad humana | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Automatizar frente a aumentar.** Automatizar reemplaza la ejecución de una tarea; aumentar mejora la capacidad de la persona que la hace. Con frecuencia, aumentar produce más valor donde el juicio es esencial.
 
-**Frontera de aplicación:** Automatización de alto riesgo necesita controles y fallback. No uses capacidad técnica como justificación para eliminar juicio humano donde daño potencial es material.
+**Límites.** Las predicciones laborales cambian rápido y dependen del sector. Los porcentajes de procesamiento directo se logran con el tiempo y con datos de calidad. La automatización de alto riesgo necesita controles y respaldo; la capacidad técnica no justifica eliminar el juicio humano donde el daño potencial es material. Las obligaciones laborales y las normas sobre decisiones automatizadas se verifican en la fuente. Las cifras son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre automatización y rediseño de trabajo |
+| Nivel | Cómo participa en el rediseño |
 |---|---|
-| **Profesional** | usa **automatización y rediseño de trabajo** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **task decomposition** y **augmentation** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta touch time con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si automatización y rediseño de trabajo cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de automatización y rediseño de trabajo reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **automatización y rediseño de trabajo** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Documenta cómo hace el trabajo y propone mejoras. |
+| **Jefe / Team Lead** | Participa en el diseño del flujo y acompaña a su equipo. |
+| **Gerente** | Es dueño del flujo de punta a punta y de sus resultados. |
+| **CEO / Director** | Decide el equilibrio entre eficiencia y personas, y exige controles. |
+| **Founder / Owner** | Equilibra productividad, calidad y la confianza de su equipo. |
 
 ## 🏢 Caso ejecutivo
 
-Un equipo automatiza clasificación de facturas, pero cada excepción vuelve por correo a tres personas y genera más retrabajo que antes.
+Un banco con 3.200 empleados tiene un área de operaciones de 410 personas que procesa 2,4 millones de solicitudes al año (cuentas, créditos de consumo, cambios de datos, reclamos). El tiempo medio por solicitud es de 28 minutos; el 34 % tiene errores que obligan a reprocesar; la rotación del área es de 26 % anual; los clientes esperan 6 días en promedio. La alta dirección contrata a un proveedor para automatizar «lo más posible» en seis meses, con la meta de reducir 120 posiciones. En el piloto, el sistema automatizó la validación de documentos, pero cometió errores en el 3 % de los créditos con ingresos informales y no explicaba sus decisiones; los supervisores dicen que ya no entienden el proceso; 40 empleados con más de diez años temen perder su empleo; un sindicato pidió información; y el regulador consultó cómo se tratan las decisiones automatizadas sobre créditos.
 
-Entrega un **decision brief de automatización y rediseño de trabajo** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **rediseño del trabajo** que contenga: (a) el mapa de punta a punta con tareas, tiempos, errores y riesgos; (b) la clasificación de tareas y el tratamiento (automatizar, aumentar, conservar); (c) el flujo objetivo con excepciones, controles, respaldo y revisión humana de los créditos; (d) el rediseño de roles, capacidades y carga de trabajo; (e) el plan de transición de las personas con reentrenamiento y comunicación; (f) los indicadores, el cálculo de valor y las verificaciones laborales, regulatorias y legales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **automatización y rediseño de trabajo** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear workflow end-to-end → 2. clasificar tareas por repetición judgment y risk → 3. diseñar target workflow y exceptions → 4. redefinir roles y controles → 5. pilotear y medir productivity y quality** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta touch time, automation rate; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Descompón un proceso de tu área en diez tareas con tiempo, frecuencia y riesgo.
+2. Clasifica cada tarea como automatizar, automatizar con controles, aumentar o conservar.
+3. Calcula el tiempo promedio por caso con un porcentaje de procesamiento directo y excepciones.
+4. Diseña los controles de una tarea automatizada de alto riesgo: umbrales, muestreo y respaldo.
+5. Redacta un plan de transición con comunicación, reentrenamiento y plazos.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar task decomposition y augmentation como sinónimos | Se pierde la distinción entre “descomposición del trabajo en actividades con distinto potencial de automatización” y “uso de tecnología para aumentar capacidad humana” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “pilotear y medir productivity y quality” | Se saltó “mapear workflow end-to-end” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear workflow end-to-end → 2. clasificar tareas por repetición judgment y risk → 3. diseñar target workflow y exceptions → 4. redefinir roles y controles → 5. pilotear y medir productivity y quality y marca el primer supuesto no demostrado. |
-| Optimizar solo touch time | La métrica local sustituyó al resultado del sistema | Contrástala con automation rate y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre automatización y rediseño de trabajo | Automatización de alto riesgo necesita controles y fallback. No uses capacidad técnica como justificación para eliminar juicio humano donde daño potencial es material. |
-| No fijar revisión | Una decisión sobre automatización y rediseño de trabajo se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Automatizar tareas sueltas | Se mira lo visible | Rediseñar el flujo de punta a punta. |
+| Ignorar las excepciones | Se piensa en el caso típico | Diseñar derivación y revisión humana. |
+| Eliminar el juicio en alto riesgo | La técnica lo permite | Respaldo, supervisión y reclamación. |
+| Medir solo eficiencia | Es lo más fácil | Calidad, satisfacción y personas. |
+| Comunicar tarde | Se teme la reacción | Comunicación temprana y participación. |
+| Ahorro prometido sin plan | Se cuenta el ahorro de horas | Plan de capacidad y de caja. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **task decomposition** y **augmentation** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **straight-through processing** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear workflow end-to-end → clasificar tareas por repetición judgment y risk** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **touch time** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **automatización y rediseño de trabajo**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Automatización de alto riesgo necesita controles y fallback. No uses capacidad técnica como justificación para eliminar juicio humano donde daño potencial es material.**?
+1. ¿Por qué analizar el trabajo por tareas?
+2. ¿Cómo se clasifica una tarea y qué tratamiento corresponde?
+3. ¿Qué incluye el flujo objetivo de un proceso automatizado?
+4. ¿Qué diferencia hay entre automatizar y aumentar?
+5. ¿Cómo se rediseñan los roles tras la automatización?
+6. ¿Qué elementos tiene una transición responsable?
+7. ¿Qué se mide para evaluar el resultado?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Porque la tecnología sustituye algunas tareas y complementa otras; el efecto se entiende por tarea y no por empleo.
+2. Por repetición, juicio y riesgo; se automatiza lo rutinario de bajo riesgo, con controles lo de alto riesgo, se aumenta lo que requiere juicio y se conserva lo relacional.
+3. Casos de procesamiento directo, excepciones a revisión humana, muestreo, registros, corrección de errores, respaldo y comunicación al cliente.
+4. Automatizar reemplaza la ejecución; aumentar mejora la capacidad de la persona que decide o actúa.
+5. Definiendo el trabajo restante (excepciones, calidad, relación con clientes), las capacidades, la selección, los incentivos y las métricas.
+6. Comunicación temprana, participación, reentrenamiento, criterios transparentes, plazos realistas, apoyo y verificación laboral.
+7. Tiempo de ciclo, costo por caso, procesamiento directo, error, satisfacción, carga, clima y rotación, y costos ocultos.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/234-automatizacion-y-rediseno-de-trabajo/`:
 
-- `operating-improvement-brief.md` con el problema específico de **automatización y rediseño de trabajo**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **automatización y rediseño de trabajo** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **task decomposition**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un equipo automatiza clasificación de facturas, pero cada excepción vuelve por correo a tres personas y genera más retrabajo que antes.** y el dato que podría invalidar la recomendación.
+- `operating-improvement-brief.md` (plantilla [Operating improvement brief](../../../../templates/operating-improvement-brief.md)) con el rediseño del caso ejecutivo;
+- `process-map.md` (plantilla [Process map](../../../../templates/process-map.md)) con el flujo actual y el objetivo;
+- `decision-journal.md` con la clasificación de tareas, el plan de transición y las verificaciones pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* (Harvard Business Review Press, 2020). **Uso en esta clase:** modelo operativo AI-first, escala digital, redes y arquitectura de decisión. Lectura selectiva sobre **automatización y rediseño de trabajo**. **Localizador:** [ISBN-13 9781633697621](https://openlibrary.org/isbn/9781633697621).
-- Thomas H. Davenport & Nitin Mittal — *All-In on AI* (Harvard Business Review Press, 2022). **Uso en esta clase:** casos empresariales, estrategia y organización para inteligencia artificial. Lectura selectiva sobre **automatización y rediseño de trabajo**. **Localizador:** [ISBN-13 9781647824693](https://openlibrary.org/isbn/9781647824693).
-- Martin Kleppmann — *Designing Data-Intensive Applications* (O'Reilly publications, 2017). **Uso en esta clase:** perspectiva de Arquitectura tecnológica aplicada al problema de la clase. Lectura selectiva sobre **automatización y rediseño de trabajo**. **Localizador:** [ISBN-13 9789352135240](https://openlibrary.org/isbn/9789352135240).
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* (Harvard Business Review Press, 2014). **Uso en esta clase:** transformación digital desde capacidades de liderazgo y capacidades digitales. Lectura selectiva sobre **automatización y rediseño de trabajo**. **Localizador:** [ISBN-13 9781625272478](https://openlibrary.org/isbn/9781625272478).
-- Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd* (Norton & Company, Incorporated, W. W., 2017). **Uso en esta clase:** perspectiva de Economía digital aplicada al problema de la clase. Lectura selectiva sobre **automatización y rediseño de trabajo**. **Localizador:** [ISBN-13 9780393254303](https://openlibrary.org/isbn/9780393254303).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **automatización y rediseño de trabajo** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **automatización y rediseño de trabajo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **automatización y rediseño de trabajo** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **automatización y rediseño de trabajo** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **automatización y rediseño de trabajo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- David H. Autor, Frank Levy & Richard J. Murnane — *The Skill Content of Recent Technological Change: An Empirical Exploration* (The Quarterly Journal of Economics, 2003). **Uso en esta clase:** análisis del trabajo por tareas rutinarias y no rutinarias. Lectura selectiva sobre **automatización y rediseño de trabajo**. **Localizador:** [DOI 10.1162/003355303322552801](https://doi.org/10.1162/003355303322552801).
+- David H. Autor — *Why Are There Still So Many Jobs? The History and Future of Workplace Automation* (Journal of Economic Perspectives, 2015). **Uso en esta clase:** sustitución y complemento de la automatización. Lectura selectiva sobre **automatización y rediseño de trabajo**. **Localizador:** [DOI 10.1257/jep.29.3.3](https://doi.org/10.1257/jep.29.3.3).
+- Daron Acemoglu & Pascual Restrepo — *Tasks, Automation, and the Rise in U.S. Wage Inequality* (Econometrica, 2022). **Uso en esta clase:** desplazamiento y creación de tareas por la automatización. Lectura selectiva sobre **automatización y rediseño de trabajo**. **Localizador:** [DOI 10.3982/ECTA19815](https://doi.org/10.3982/ECTA19815).
+- Erik Brynjolfsson & Andrew McAfee — *The Second Machine Age* (W. W. Norton, 2014). **Uso en esta clase:** rediseño organizacional junto con las máquinas. Lectura selectiva sobre **automatización y rediseño de trabajo**. **Localizador:** [ISBN-13 9780393350647](https://openlibrary.org/isbn/9780393350647).
+- Ajay Agrawal, Joshua Gans & Avi Goldfarb — *Prediction Machines* (Harvard Business Review Press, 2018). **Uso en esta clase:** predicción barata y juicio humano como complemento. Lectura selectiva sobre **automatización y rediseño de trabajo**. **Localizador:** [ISBN-13 9781633695672](https://openlibrary.org/isbn/9781633695672).
 
-> **Regla de fuentes para Automatización y rediseño de trabajo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **automatización y rediseño de trabajo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Automatización y rediseño de trabajo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales y las de decisiones automatizadas y de protección de datos. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -10,217 +10,195 @@
 
 ## 🎯 Propósito
 
-Tratar datos como activo operativo requiere calidad, ownership, arquitectura, semántica, acceso y lineage. Su valor aparece cuando reducen incertidumbre o habilitan decisiones y productos; acumular datos sin propósito aumenta costo, privacidad y superficie de ataque.
+«Los datos son el nuevo petróleo» es una frase que se repite en los directorios y que casi nunca se traduce en decisiones. En la práctica, los datos de muchas empresas son más parecidos a un depósito de residuos que a un activo: hay tres versiones del cliente, cada área calcula las ventas de otra manera, nadie sabe quién es dueño de qué tabla, los analistas pasan días buscando datos antes de poder analizarlos, y los proyectos de inteligencia artificial se detienen porque «los datos no están listos». Tratar los datos como **activo operativo** significa darles lo que se da a cualquier otro activo de la empresa: dueño, calidad definida, costo, uso y retorno. Un dato sin dueño es una responsabilidad sin responsable; un dato sin consumidores es un costo sin beneficio.
 
-La salida de esta parte es **gobernar tecnología, datos e IA como capacidades económicas y organizacionales**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **datos como activo operativo** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el tratado de Kleppmann sobre sistemas intensivos en datos, en el enfoque de malla de datos de Dehghani (los datos como producto con dominios y dueños), en el análisis de Provost y Fawcett sobre ciencia de datos para negocios, en el estudio de Davenport y Harris sobre competir con análisis y en la taxonomía de problemas de privacidad de Solove. Al terminar sabrás identificar las decisiones y productos que dependen de datos, definir dominios y dueños, establecer calidad y contratos de datos, habilitar el acceso con gobierno y medir el valor del uso.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `data product`, `data quality`, `data owner`, `lineage`, `single source of truth` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → transformador digital.
-3. **Aplicar** la secuencia **1. identificar decisiones y productos de datos → 2. definir dominios y owners → 3. establecer calidad y contracts → 4. habilitar acceso con governance → 5. medir uso incidents y value** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** data quality SLA, time-to-data, duplicate definitions sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** un producto de datos de un simple conjunto de datos.
+2. **Identificar** las decisiones y procesos que dependen de datos críticos.
+3. **Definir** dominios, dueños, calidad y contratos de datos.
+4. **Habilitar** el acceso con gobierno, privacidad y trazabilidad.
+5. **Medir** el uso y el valor de los productos de datos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define data product y data quality sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con data quality SLA y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuántas versiones de «cliente activo» circulan en tu empresa y quién decide cuál vale? |
+| 20–60 min | Decisiones, dominios, calidad, contratos, acceso, privacidad y valor. |
+| 60–105 min | Ejemplo trabajado: el producto de datos «cliente único» y su retorno. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **data product** | conjunto gestionado de datos con usuarios owner SLA y propósito | Distingue un hecho compatible y otro que lo refute. |
-| **data quality** | grado de exactitud completitud oportunidad y consistencia | Distingue un hecho compatible y otro que lo refute. |
-| **data owner** | rol accountable por definición y uso de un dominio | Distingue un hecho compatible y otro que lo refute. |
-| **lineage** | trazabilidad desde origen a transformación y consumo | Distingue un hecho compatible y otro que lo refute. |
-| **single source of truth** | fuente autorizada para una definición específica | Distingue un hecho compatible y otro que lo refute. |
+| **Activo de datos** | Dato con dueño, calidad definida y uso que genera valor. | Se gestiona como los demás activos. |
+| **Producto de datos** | Conjunto de datos tratado como producto: con dueño, usuarios y garantías. | Documentado, confiable y accesible. |
+| **Dominio** | Área del negocio responsable de ciertos datos. | Clientes, productos, finanzas. |
+| **Calidad de datos** | Grado en que los datos sirven al uso previsto. | Exactitud, completitud, oportunidad. |
+| **Contrato de datos** | Acuerdo entre productor y consumidores sobre formato, significado y plazos. | Esquema, definiciones, niveles de servicio. |
+| **Linaje** | Trazabilidad del origen y las transformaciones de un dato. | Se sabe de dónde viene y quién lo usa. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 232: 1. identificar decisiones y productos de datos → 2. definir dominios y owners → 3. establecer calidad y contracts → 4. habilitar acceso con governance → 5. medir uso incidents y value](modelo-mental.svg)
+![Del dato al producto de datos con dueño: decisiones y productos, dominios y dueños, calidad y contratos, acceso con gobierno, valor medido.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. identificar decisiones y productos de datos → 2. definir dominios y owners → 3. establecer calidad y contracts → 4. habilitar acceso con governance → 5. medir uso incidents y value
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Tratar datos como activo operativo requiere calidad, ownership, arquitectura, semántica, acceso y lineage. Su valor aparece cuando reducen incertidumbre o habilitan decisiones y productos; acumular datos sin propósito aumenta costo, privacidad y superficie de ataque.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una única fuente física no siempre es necesaria; lo crítico es semántica y governance. Evita centralización total si destruye velocidad sin mejorar consistencia.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos con retorno. **Decisiones y productos**: qué decisiones mejoran con datos. **Dominios y dueños**: quién responde por cada conjunto de datos. **Calidad y contratos**: definiciones y acuerdos de servicio. **Acceso con gobierno**: permisos, privacidad y trazabilidad. **Valor medido**: uso real y efecto en resultados. La flecha indica que el uso ajusta los productos de datos. La nota afirma que una única fuente física no siempre es necesaria y que lo crítico es el significado compartido y el gobierno; el pie, que los datos personales tienen reglas legales que se verifican en la fuente oficial.
 
 ## 📖 Desarrollo
 
-### 1. data product: mecanismo central
+### 1. Datos para decisiones, no datos por acumular
 
-**data product** se entiende aquí como **conjunto gestionado de datos con usuarios owner SLA y propósito**. Esta es la pieza causal o estructural desde la que se inicia **datos como activo operativo**: antes de identificar decisiones y productos de datos, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Davenport y Harris estudiaron empresas que compiten con **análisis** y encontraron que las que lo logran comparten un rasgo: tienen un **objetivo de negocio claro** para sus datos (decisiones de precios, de crédito, de inventario, de retención) y la capacidad organizacional para convertir el análisis en acción. Provost y Fawcett agregan que el valor de los datos depende de **qué decisión mejoran** y de si la empresa puede actuar sobre la recomendación. Por eso el primer paso no es construir una plataforma ni limpiar todo, sino listar las **decisiones y productos críticos** que dependen de datos, y a partir de ellos, los **datos que importan**. Esto evita un proyecto interminable de «ordenar los datos» sin consumidores.
 
-La lectura rectora de este bloque es Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*. Su aporte se usa para examinar **modelo operativo AI-first, escala digital, redes y arquitectura de decisión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **data quality SLA**; regístrala con periodo, unidad, población y baseline.
+### 2. Datos como producto: dominios y dueños
 
-Relaciona el mecanismo con **data quality**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Dehghani propone, en su enfoque de **malla de datos**, tratar los datos como **producto** con tres rasgos: **propiedad por dominio** (el área que genera y conoce los datos es responsable de ponerlos a disposición con calidad), **dueño de producto** (alguien responde por usuarios, calidad y evolución) y **servicio autónomo** (los consumidores pueden descubrir, entender y usar los datos sin pasar por un cuello de botella central). El contraste es la práctica en que un equipo central de datos recibe pedidos de todas las áreas y se convierte en el cuello de botella. No se trata de descentralizar el gobierno, sino de **distribuir la responsabilidad** con estándares comunes (definiciones, seguridad, catálogos). La propiedad por dominio es más viable cuando hay **plataforma común** que reduce el costo de producir datos de buena calidad.
 
-### 2. data quality: frontera conceptual y error de clasificación
+### 3. Calidad y significado compartido
 
-**Definición operacional:** grado de exactitud completitud oportunidad y consistencia. Su valor está en distinguirlo de **data product** y **data owner**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La calidad de los datos se evalúa según su uso: **exactitud** (¿refleja la realidad?), **completitud** (¿faltan registros o campos?), **consistencia** (¿coinciden entre sistemas?), **oportunidad** (¿llegan a tiempo?), **unicidad** (¿hay duplicados?) y **validez** (¿cumplen el formato y las reglas?). Kleppmann subraya que, en sistemas con muchos componentes, la **consistencia** y la **evolución** de los datos son problemas de diseño: los esquemas cambian, los sistemas fallan y los datos se copian. Lo crítico para el negocio es el **significado compartido**: ¿qué es un «cliente activo»?, ¿qué es una «venta»?, ¿cuándo se cuenta un pedido? Cuando cada área define lo suyo, las reuniones se convierten en discusiones de definición. No siempre se necesita una única fuente física; se necesita una **semántica común** y un gobierno claro.
 
-Contrasta el problema con Thomas H. Davenport & Nitin Mittal — *All-In on AI*, que aporta una mirada sobre **casos empresariales, estrategia y organización para inteligencia artificial**. Formula dos mini-casos: uno que sí satisface la definición de **data quality** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **time-to-data** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Contratos de datos y niveles de servicio
 
-Antes de definir dominios y owners, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un **contrato de datos** es un acuerdo explícito entre quien produce un conjunto de datos y quienes lo consumen: **esquema** (campos y tipos), **definiciones** (significado de cada campo), **calidad esperada** (porcentaje de completitud, tasa de errores), **frescura** (cada cuánto se actualiza), **disponibilidad**, **cambios** (cómo se avisan y cuándo) y **responsable**. Esto evita que un cambio en un sistema de origen rompa informes y modelos sin aviso. Se implementa con **pruebas automáticas**, **alertas** y **catálogos** que documentan los datos. Un producto de datos sin contrato es una promesa verbal; con contrato, es una obligación medible.
 
-### 3. data owner: operacionalización y medición
+### 5. Acceso, privacidad y gobierno
 
-**data owner** significa **rol accountable por definición y uso de un dominio**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un buen acceso a datos equilibra **uso** y **protección**. Se define quién puede ver qué (por rol y por necesidad), qué datos son **personales o sensibles** y requieren controles adicionales (clase 186), cómo se registran los **accesos** y los **usos**, y cómo se asegura el **linaje** para saber de dónde viene un dato y quién lo usa. Solove muestra que los daños de privacidad no se limitan a la filtración: incluyen usos inesperados, agregaciones que revelan más de lo consentido y decisiones automatizadas inapropiadas; por eso el gobierno de datos incluye **evaluaciones de impacto** para nuevos usos. Un acceso demasiado restrictivo lleva a los equipos a crear copias paralelas y sombras; uno demasiado laxo crea riesgos. Las obligaciones de protección de datos personales se verifican en la normativa vigente y con asesoría.
 
-Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd* orienta este bloque mediante **perspectiva de Economía digital aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **duplicate definitions**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Calidad de datos y economía
 
-Al llegar a establecer calidad y contracts, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La mala calidad tiene costos medibles: entregas fallidas por direcciones erróneas, campañas duplicadas, decisiones basadas en informes inconsistentes, horas de analistas dedicadas a limpiar, sanciones por errores en datos regulatorios, modelos que fallan. Estimar estos costos permite **justificar la inversión** en calidad y priorizar los datos críticos. Se evita la perfección: la calidad requerida depende de la decisión; un dato para una decisión estratégica puede tolerar menos precisión que un dato para una facturación. El criterio es **suficiente para el uso**, medido y mejorado. Y se mide el **costo de la plataforma de datos** frente a su uso: datos que nadie consulta son una carga.
 
-### 4. lineage: trade-offs y efectos de segundo orden
+### 7. Medir el valor y evitar los errores típicos
 
-**Definición:** trazabilidad desde origen a transformación y consumo. Este concepto obliga a abandonar la idea de que **datos como activo operativo** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de habilitar acceso con governance, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics* aporta una lente sobre **perspectiva de Datos aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **data incidents** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **datos como activo operativo**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **lineage** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. single source of truth: gobernanza, límites e integración
-
-**single source of truth** se define como **fuente autorizada para una definición específica** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-NIST — *Cybersecurity Framework (CSF) 2.0* se utiliza para estudiar **gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad** y contrastar la recomendación final. Al ejecutar medir uso incidents y value, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Una única fuente física no siempre es necesaria; lo crítico es semántica y governance. Evita centralización total si destruye velocidad sin mejorar consistencia.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **data product**, **data quality**, **data owner**, **lineage** y **single source of truth** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **datos como activo operativo** no consiste en sumar cinco definiciones. Empieza por **data product**, contrasta **data quality** con **data owner**, incorpora **lineage** como restricción o mecanismo y usa **single source of truth** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. identificar decisiones y productos de datos → 2. definir dominios y owners → 3. establecer calidad y contracts → 4. habilitar acceso con governance → 5. medir uso incidents y value**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Algunos indicadores: **porcentaje de datos críticos con dueño y contrato**, **calidad medida** (puntaje por conjunto), **tiempo para encontrar y acceder** a un dato, **número de consumidores activos** de cada producto, **decisiones o procesos que cambiaron** gracias a los datos, y **costo de la mala calidad evitado**. Errores frecuentes: **centralizar todo** y crear un cuello de botella; **descentralizar sin estándares**, con definiciones contradictorias; **construir plataformas sin casos de uso**; **dejar la calidad para después**; **ignorar la privacidad**; y **no retirar** datos y reportes que ya nadie usa. El éxito se ve en que las decisiones se toman más rápido y con más confianza, no en el tamaño del almacén de datos.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* | modelo operativo AI-first, escala digital, redes y arquitectura de decisión | ¿Qué supuesto de **datos como activo operativo** ayuda a desafiar? |
-| Thomas H. Davenport & Nitin Mittal — *All-In on AI* | casos empresariales, estrategia y organización para inteligencia artificial | ¿Qué supuesto de **datos como activo operativo** ayuda a desafiar? |
-| Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd* | perspectiva de Economía digital aplicada al problema de la clase | ¿Qué supuesto de **datos como activo operativo** ayuda a desafiar? |
-| Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics* | perspectiva de Datos aplicada al problema de la clase | ¿Qué supuesto de **datos como activo operativo** ayuda a desafiar? |
-| NIST — *Cybersecurity Framework (CSF) 2.0* | gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad | ¿Qué supuesto de **datos como activo operativo** ayuda a desafiar? |
-
-En **datos como activo operativo**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **data product**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Davenport y Harris | Competir con análisis: objetivo de negocio y capacidad organizacional. | Casos de empresas muy analíticas. | ¿Qué decisión mejora este dato? |
+| Provost y Fawcett | Pensamiento de datos para decisiones de negocio. | Enfoque técnico-ejecutivo. | ¿Podemos actuar sobre la recomendación? |
+| Kleppmann | Consistencia, evolución y diseño de sistemas de datos. | Técnico; hay que traducirlo. | ¿Qué pasa cuando cambia el esquema? |
+| Dehghani | Datos como producto, dominios y dueños. | Exige madurez de plataforma. | ¿Quién es el dueño de este dato? |
+| Solove | Problemas de privacidad: más allá de la filtración. | No da obligaciones legales. | ¿Qué daño podría causar este uso? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Ventas y finanzas reportan ARR distinto porque cada una define renovación y FX de forma diferente. Ambos dashboards son técnicamente correctos según su lógica.
+**Situación (hipotética).** Una empresa de comercio con 400.000 clientes en cuatro sistemas, 150.000 pedidos al año y 25 analistas diagnostica sus datos críticos: de 12 conjuntos de datos críticos, solo 5 tienen dueño (41,7 %); el tiempo promedio para encontrar y acceder a un dato es de 6 días; los registros de clientes duplicados llegan al 8 %.
 
-**Paso 1 — identificar decisiones y productos de datos.** La gerencia escribe primero el supuesto asociado a **data product** y evita convertirlo en hecho. Luego busca **data quality SLA** para contrastarlo en el caso de **datos como activo operativo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costo de la mala calidad (anual).**
 
-**Paso 2 — definir dominios y owners.** La gerencia escribe primero el supuesto asociado a **data quality** y evita convertirlo en hecho. Luego busca **time-to-data** para contrastarlo en el caso de **datos como activo operativo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Concepto | Cálculo | Millones |
+|---|---|---|
+| Campañas enviadas a clientes duplicados | 400.000 × 8 % = 32.000 duplicados × 600 pesos × 6 campañas | 115,2 |
+| Entregas fallidas por datos erróneos | 150.000 pedidos × 0,6 % = 900 × 18.000 pesos | 16,2 |
+| Tiempo de analistas perdido en buscar y limpiar | 250 solicitudes × 5 días × 8 horas × 30 % productivas × 18.000 pesos la hora | 54,0 |
+| **Total** | | **185,4** |
 
-**Paso 3 — establecer calidad y contracts.** La gerencia escribe primero el supuesto asociado a **data owner** y evita convertirlo en hecho. Luego busca **duplicate definitions** para contrastarlo en el caso de **datos como activo operativo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Producto de datos «cliente único».** Dueño: gerente de clientes (dominio comercial). Contrato: un registro por cliente, definición única de «cliente activo» (compra en los últimos 12 meses), actualización diaria, duplicados bajo 1 %, disponibilidad de 99,5 %, cambios avisados con 30 días. Costo: 280 millones de desarrollo (una vez) y 60 millones al año de operación.
 
-**Paso 4 — habilitar acceso con governance.** La gerencia escribe primero el supuesto asociado a **lineage** y evita convertirlo en hecho. Luego busca **data incidents** para contrastarlo en el caso de **datos como activo operativo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Efecto esperado.** Duplicados de 8 % a 1 %: ahorro de campañas = 115,2 × (7 ÷ 8) = 100,8 millones; entregas fallidas: reducción de 70 %: 11,3 millones; tiempo de analistas: 5 días a 1 día (reducción de 80 %): 43,2 millones. Total: 100,8 + 11,3 + 43,2 = **155,3 millones al año**. Beneficio neto: 155,3 − 60 = 95,3 millones al año.
 
-**Paso 5 — medir uso incidents y value.** La gerencia escribe primero el supuesto asociado a **single source of truth** y evita convertirlo en hecho. Luego busca **decision adoption** para contrastarlo en el caso de **datos como activo operativo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Retorno.** 280 ÷ 95,3 ≈ 2,9 años. El caso mejora si el dato único habilita mejores decisiones comerciales (por ejemplo, un aumento de 1 % de ventas recurrentes sobre 60.000 millones y margen de 25 %: 150 millones), que no se incluyó en el cálculo conservador.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **datos como activo operativo**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Gobierno.** Catálogo de datos con dueños; cuatro dominios con estándares comunes; datos personales con acceso por rol y registro de uso; evaluación de impacto para nuevos usos (por ejemplo, modelos de crédito); métricas mensuales.
+
+**Indicadores a 12 meses (hipotéticos).** Conjuntos críticos con dueño y contrato: de 5 a 12 de 12; tiempo para acceder a un dato: de 6 a 1,5 días; duplicados: 1,2 %; consumidores activos del producto: 38 (análisis, marketing, operaciones, finanzas).
+
+**Cuidados.** Los costos de mala calidad son estimaciones; el tratamiento de datos personales, el consentimiento y los usos permitidos se verifican en la normativa vigente y con asesoría; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La calidad se tradujo a pesos. (2) El producto de datos tuvo dueño, contrato y consumidores. (3) El retorno se calculó con supuestos conservadores.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **data product** | conjunto gestionado de datos con usuarios owner SLA y propósito | Cuando data quality SLA es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **data quality** | grado de exactitud completitud oportunidad y consistencia | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Datos como producto frente a plataforma de datos.** La plataforma es infraestructura común; el producto es el conjunto de datos con dueño y garantías que se construye sobre ella. Una plataforma sin productos no genera valor.
 
-**Frontera de aplicación:** Una única fuente física no siempre es necesaria; lo crítico es semántica y governance. Evita centralización total si destruye velocidad sin mejorar consistencia.
+**Límites.** Una única fuente física no siempre es necesaria; centralizar todo puede reducir la velocidad sin mejorar la consistencia. La calidad perfecta no existe ni es necesaria. Los costos de la mala calidad son aproximados. Las reglas de privacidad varían por jurisdicción. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre datos como activo operativo |
+| Nivel | Cómo trata los datos |
 |---|---|
-| **Profesional** | usa **datos como activo operativo** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **data product** y **data quality** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta data quality SLA con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si datos como activo operativo cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de datos como activo operativo reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **datos como activo operativo** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Registra datos con exactitud y respeta las definiciones. |
+| **Jefe / Team Lead** | Reporta errores de datos y los corrige en la fuente. |
+| **Gerente** | Es dueño de los datos de su dominio y responde por su calidad. |
+| **CEO / Director** | Exige definiciones únicas y decide qué datos son críticos. |
+| **Founder / Owner** | Trata los datos como parte del patrimonio de la empresa y de la confianza de los clientes. |
 
 ## 🏢 Caso ejecutivo
 
-Ventas y finanzas reportan ARR distinto porque cada una define renovación y FX de forma diferente. Ambos dashboards son técnicamente correctos según su lógica.
+Una empresa de retail con 3.800 personas y 6 millones de clientes en seis sistemas (tiendas, comercio electrónico, programa de lealtad, call center, créditos y marketing) tiene tres definiciones de «cliente activo» (compró en 3, 6 o 12 meses), de modo que sus informes dan 1,8, 2,6 y 3,4 millones de clientes activos. Las ventas por cliente varían 40 % según el informe. El 14 % de los registros está duplicado; un proyecto de personalización con IA fracasó porque los modelos usaban datos inconsistentes; un analista cuenta que dedica el 60 % de su tiempo a limpiar datos. El área de tecnología propone «un lago de datos centralizado» de 4.800 millones; el área comercial quiere sus propios datos «porque no confía en tecnología»; el regulador pidió información sobre el tratamiento de datos de menores. El CEO pregunta cuántos clientes activos tiene y no recibe una respuesta única.
 
-Entrega un **decision brief de datos como activo operativo** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de datos como activo operativo** que contenga: (a) las decisiones y productos que dependen de datos y los datos críticos; (b) los dominios, dueños y el producto de datos «cliente único» con su contrato; (c) las definiciones únicas y la calidad medida con metas; (d) el modelo de acceso, privacidad y linaje con atención a los datos de menores; (e) el cálculo del costo de la mala calidad y del retorno; (f) el gobierno, los indicadores y las verificaciones legales y regulatorias pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **datos como activo operativo** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. identificar decisiones y productos de datos → 2. definir dominios y owners → 3. establecer calidad y contracts → 4. habilitar acceso con governance → 5. medir uso incidents y value** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta data quality SLA, time-to-data; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Lista cinco decisiones de tu área y los datos de los que dependen.
+2. Asigna dominio y dueño a cinco conjuntos de datos y detecta los que no tienen.
+3. Redacta el contrato de datos de un producto en una página con esquema, definiciones, calidad y frescura.
+4. Estima el costo anual de la mala calidad de un conjunto de datos.
+5. Define cinco indicadores de valor y de uso para un producto de datos.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar data product y data quality como sinónimos | Se pierde la distinción entre “conjunto gestionado de datos con usuarios owner SLA y propósito” y “grado de exactitud completitud oportunidad y consistencia” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “medir uso incidents y value” | Se saltó “identificar decisiones y productos de datos” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. identificar decisiones y productos de datos → 2. definir dominios y owners → 3. establecer calidad y contracts → 4. habilitar acceso con governance → 5. medir uso incidents y value y marca el primer supuesto no demostrado. |
-| Optimizar solo data quality SLA | La métrica local sustituyó al resultado del sistema | Contrástala con time-to-data y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre datos como activo operativo | Una única fuente física no siempre es necesaria; lo crítico es semántica y governance. Evita centralización total si destruye velocidad sin mejorar consistencia. |
-| No fijar revisión | Una decisión sobre datos como activo operativo se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Construir plataformas sin casos de uso | Se piensa «primero la infraestructura» | Partir de decisiones y productos. |
+| Cuello de botella central | Todo pasa por un equipo | Dominios con dueños y estándares comunes. |
+| Definiciones contradictorias | Cada área define lo suyo | Semántica común y gobierno. |
+| Calidad al final | Se deja para después | Calidad y contratos desde el diseño. |
+| Ignorar la privacidad | Se ve como un freno | Gobierno de acceso y evaluaciones de impacto. |
+| No medir el valor | Falta de indicadores | Uso, calidad y efecto en decisiones. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **data product** y **data quality** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **data owner** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **identificar decisiones y productos de datos → definir dominios y owners** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **data quality SLA** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **datos como activo operativo**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Una única fuente física no siempre es necesaria; lo crítico es semántica y governance. Evita centralización total si destruye velocidad sin mejorar consistencia.**?
+1. ¿Qué diferencia hay entre un conjunto de datos y un producto de datos?
+2. ¿Por qué se parte de las decisiones y no de la plataforma?
+3. ¿Qué dimensiones tiene la calidad de datos?
+4. ¿Qué incluye un contrato de datos?
+5. ¿Cómo se equilibran acceso y protección?
+6. ¿Cómo se estima el costo de la mala calidad?
+7. ¿Por qué no siempre hace falta una única fuente física?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El producto tiene dueño, usuarios, calidad definida y garantías; un conjunto de datos solo almacena registros.
+2. Porque el valor de los datos depende de la decisión que mejoran y de que se pueda actuar sobre ella.
+3. Exactitud, completitud, consistencia, oportunidad, unicidad y validez.
+4. Esquema, definiciones, calidad esperada, frescura, disponibilidad, avisos de cambios y responsable.
+5. Con acceso por rol y necesidad, registro de usos, linaje y evaluaciones de impacto, evitando tanto restricciones que generan copias paralelas como accesos laxos.
+6. Sumando costos de entregas fallidas, campañas duplicadas, tiempo de analistas, decisiones erróneas y sanciones, con supuestos explícitos.
+7. Porque lo crítico es el significado compartido y el gobierno; centralizar todo puede restar velocidad sin mejorar la consistencia.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/232-datos-como-activo-operativo/`:
 
-- `leadership-decision-brief.md` con el problema específico de **datos como activo operativo**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **datos como activo operativo** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **data product**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Ventas y finanzas reportan ARR distinto porque cada una define renovación y FX de forma diferente. Ambos dashboards son técnicamente correctos según su lógica.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan del caso ejecutivo;
+- `ceo-dashboard.md` (plantilla [CEO dashboard](../../../../templates/ceo-dashboard.md)) con los indicadores de calidad y uso de los datos;
+- `decision-journal.md` con los dueños, los contratos, el costo de la mala calidad y las verificaciones pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* (Harvard Business Review Press, 2020). **Uso en esta clase:** modelo operativo AI-first, escala digital, redes y arquitectura de decisión. Lectura selectiva sobre **datos como activo operativo**. **Localizador:** [ISBN-13 9781633697621](https://openlibrary.org/isbn/9781633697621).
-- Thomas H. Davenport & Nitin Mittal — *All-In on AI* (Harvard Business Review Press, 2022). **Uso en esta clase:** casos empresariales, estrategia y organización para inteligencia artificial. Lectura selectiva sobre **datos como activo operativo**. **Localizador:** [ISBN-13 9781647824693](https://openlibrary.org/isbn/9781647824693).
-- Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd* (Norton & Company, Incorporated, W. W., 2017). **Uso en esta clase:** perspectiva de Economía digital aplicada al problema de la clase. Lectura selectiva sobre **datos como activo operativo**. **Localizador:** [ISBN-13 9780393254303](https://openlibrary.org/isbn/9780393254303).
-- Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics* (Harvard Business School Press, 2007). **Uso en esta clase:** perspectiva de Datos aplicada al problema de la clase. Lectura selectiva sobre **datos como activo operativo**. **Localizador:** [ISBN-13 9781422103326](https://openlibrary.org/isbn/9781422103326).
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* (Harvard Business Review Press, 2014). **Uso en esta clase:** transformación digital desde capacidades de liderazgo y capacidades digitales. Lectura selectiva sobre **datos como activo operativo**. **Localizador:** [ISBN-13 9781625272478](https://openlibrary.org/isbn/9781625272478).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **datos como activo operativo** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **datos como activo operativo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **datos como activo operativo** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **datos como activo operativo** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **datos como activo operativo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics* (Harvard Business School Press, 2007). **Uso en esta clase:** competir con análisis: objetivo de negocio y capacidad organizacional. Lectura selectiva sobre **datos como activo operativo**. **Localizador:** [ISBN-13 9781422103326](https://openlibrary.org/isbn/9781422103326).
+- Foster Provost & Tom Fawcett — *Data Science for Business* (SHROFF - O'REILLY, 2013). **Uso en esta clase:** pensamiento de datos para decisiones de negocio. Lectura selectiva sobre **datos como activo operativo**. **Localizador:** [ISBN-13 9789351102670](https://openlibrary.org/isbn/9789351102670).
+- Martin Kleppmann — *Designing Data-Intensive Applications* (O'Reilly publications, 2017). **Uso en esta clase:** consistencia, evolución y diseño de sistemas de datos. Lectura selectiva sobre **datos como activo operativo**. **Localizador:** [ISBN-13 9789352135240](https://openlibrary.org/isbn/9789352135240).
+- Zhamak Dehghani — *Data Mesh* (O'Reilly Media, 2022). **Uso en esta clase:** datos como producto, dominios y dueños. Lectura selectiva sobre **datos como activo operativo**. **Localizador:** [ISBN-13 9781492092391](https://openlibrary.org/isbn/9781492092391).
+- Daniel J. Solove — *Understanding Privacy* (Harvard University Press, 2008). **Uso en esta clase:** problemas de privacidad más allá de la filtración. Lectura selectiva sobre **datos como activo operativo**. **Localizador:** [ISBN-13 9780674035072](https://openlibrary.org/isbn/9780674035072).
 
-> **Regla de fuentes para Datos como activo operativo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **datos como activo operativo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Datos como activo operativo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de protección de datos personales y de datos de menores. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

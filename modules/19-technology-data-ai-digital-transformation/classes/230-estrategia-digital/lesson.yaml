@@ -5,28 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — CEO → Transformador digital"
 outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir digital strategy de digitization mediante evidencia observable."
-  - "Aplicar la secuencia: partir de estrategia y customer journey → identificar economics cambiables por digital → elegir capabilities diferenciadoras → definir build buy o partner → secuenciar transformation y metrics."
-  - "Interpretar digital revenue, self-service adoption, cost-to-serve sin atribuir causalidad automática."
-  - "Resolver el caso de estrategia digital con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir digitalización y estrategia digital."
+  - "Identificar qué economías del negocio puede cambiar la tecnología."
+  - "Elegir capacidades digitales diferenciadoras y renunciar a otras."
+  - "Rediseñar procesos y decisiones antes o junto con la tecnología."
+  - "Definir el modelo operativo, las inversiones y las métricas."
 deliverable: "strategy-memo.md"
 references:
-  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
-  - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
-  - "Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*"
-  - "Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics*"
-  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
   - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
-  - "NIST — *AI Risk Management Framework*. <https://www.nist.gov/itl/ai-risk-management-framework>."
+  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
+  - "Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd*"
+  - "Carl Shapiro & Hal R. Varian — *Information Rules*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
 limits:
-  - "Digitalizar un mal proceso puede automatizar desperdicio. Rediseña proceso y decisión antes o junto con tecnología."
+  - "La tecnología cambia rápido y los supuestos de adopción son inciertos."
 evidence_signals:
-  - "digital revenue"
-  - "self-service adoption"
-  - "cost-to-serve"
-  - "cycle time"
-  - "data reuse"
+  - "estrategia digital distinguida de digitalizar"
+  - "economías del negocio identificadas"
+  - "capacidades diferenciadoras elegidas"
+  - "proceso rediseñado antes de la tecnología"

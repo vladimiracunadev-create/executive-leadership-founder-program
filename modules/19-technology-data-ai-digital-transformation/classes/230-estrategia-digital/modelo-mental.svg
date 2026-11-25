@@ -1,86 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g230 d-g230" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g230">Ficha visual de la clase 230: Estrategia digital</title>
-<desc id="d-g230">Conceptos: digital strategy; digitization; digitalization; digital transformation; digital business model. Método: partir de estrategia y customer journey → identificar economics cambiables por digital → elegir capabilities diferenciadoras → definir build buy o partner → secuenciar transformation y metrics.</desc>
-<defs><marker id="p-g230" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 230 · Estrategia digital</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 19 · Alta dirección y gobierno</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#cf222e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >digital strategy</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto de choices sobre cómo tecnología y datos crean</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ventaja y valor</text>
-<circle cx="38" cy="184.12" r="5" fill="#cf222e"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >digitization</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >convertir información analógica a digital</text>
-<circle cx="38" cy="242.12" r="5" fill="#cf222e"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >digitalization</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >usar tecnología para mejorar procesos existentes</text>
-<circle cx="38" cy="300.12" r="5" fill="#cf222e"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >digital transformation</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >cambio sistémico de modelo y capabilities habilitado</text>
-<text x="54" y="339.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >por digital</text>
-<circle cx="38" cy="372.24" r="5" fill="#cf222e"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >digital business model</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >modelo donde software y datos son parte central de</text>
-<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >creación y captura de valor</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#cf222e"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >partir de</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >estrategia y</text>
-<text x="504" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >customer journey</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#cf222e"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >identificar</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >economics</text>
-<text x="692" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >cambiables por</text>
-<text x="692" y="172.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >digital</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#cf222e"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >elegir</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >capabilities</text>
-<text x="880" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >diferenciadoras</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#cf222e"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir build buy</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >o partner</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#cf222e"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >secuenciar</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >transformation y</text>
-<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >metrics</text>
-<path d="M638,139 L656,139" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g230)"/>
-<path d="M826,139 L844,139" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g230)"/>
-<path d="M929,176 L929,222" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g230)"/>
-<path d="M844,259 L826,259" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g230)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#cf222e" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g230)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="470.36" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="41" cy="483.36" r="3.5" fill="#cf222e"/>
-<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >digital revenue</text>
-<rect x="167.5" y="470.36" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="180.5" cy="483.36" r="3.5" fill="#cf222e"/>
-<text x="191.5" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >self-service adoption</text>
-<rect x="348.4" y="470.36" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="361.4" cy="483.36" r="3.5" fill="#cf222e"/>
-<text x="372.4" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cost-to-serve</text>
-<rect x="474.1" y="470.36" width="95" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="487.1" cy="483.36" r="3.5" fill="#cf222e"/>
-<text x="498.1" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cycle time</text>
-<rect x="579.1" y="470.36" width="95" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="592.1" cy="483.36" r="3.5" fill="#cf222e"/>
-<text x="603.1" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >data reuse</text>
-<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Digitalizar un mal proceso puede automatizar desperdicio. Rediseña proceso y decisión antes o junto con tecnología.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 461.86" width="1040" role="img" aria-labelledby="t-s230 d-s230" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s230">Clase 230 · Digitalizar o tener una estrategia digital</title>
+<desc id="d-s230">Diferencias entre digitalizar un proceso y definir una estrategia digital: pregunta, alcance y resultado esperado.</desc>
+<defs><marker id="p-s230" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="461.86" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 230 · Digitalizar o tener una estrategia digital</text>
+<text x="1012" y="43" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="end" >Westerman et al. · Iansiti &amp; Lakhani · Shapiro &amp; Varian</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Aspecto</text>
+<text x="252.757" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Digitalizar</text>
+<text x="611.784" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Estrategia digital</text>
+<rect x="28" y="136" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Pregunta</text>
+<text x="252.757" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Cómo hago este proceso en un sistema?</text>
+<text x="611.784" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Cómo cambia la economía y la propuesta de valor?</text>
+<rect x="28" y="172.56" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Alcance</text>
+<text x="252.757" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Un proceso o una función.</text>
+<text x="611.784" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Clientes, modelo de negocio y operación.</text>
+<rect x="28" y="209.12" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="229.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Resultado</text>
+<text x="252.757" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Menos papel y menos errores.</text>
+<text x="611.784" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Costos, ingresos o ventajas distintas.</text>
+<rect x="28" y="245.68" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="265.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Riesgo</text>
+<text x="252.757" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Automatizar desperdicio.</text>
+<text x="611.784" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Competir con reglas que otros dominan.</text>
+<rect x="28" y="282.24" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="302.24" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Responsable</text>
+<text x="252.757" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Tecnología o el área usuaria.</text>
+<text x="611.784" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >El comité de dirección.</text>
+<rect x="28" y="334.8" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="356.8" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >La estrategia digital parte de la estrategia de la empresa y del recorrido del cliente, y elige dónde la tecnología cambia la economía.</text>
+<text x="44" y="374.05" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Digitalizar un mal proceso solo automatiza el desperdicio.</text>
+<text x="28" y="421.3" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Rediseñar el proceso y la decisión va antes o junto con la tecnología.</text>
 </svg>

@@ -333,18 +333,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
-        "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
-        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
-        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo",
-        "modules/19-technology-data-ai-digital-transformation/classes/233-portafolio-de-ia-y-casos-de-negocio",
-        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo",
-        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio",
-        "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire",
-        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos",
-        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
-        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia",
-        "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board",
         "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
         "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
         "modules/20-founder-venture-creation/classes/243-customer-discovery",
@@ -412,12 +400,7 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
-        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo",
-        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo",
-        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio",
-        "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire",
-        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos",
-        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia"
+        "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital"
       ],
       "status": "verificada",
       "authority": "Norton & Company, Incorporated, W. W."
@@ -828,7 +811,8 @@
         "modules/17-boards-corporate-governance/classes/211-board-pack-y-calidad-de-informacion",
         "modules/17-boards-corporate-governance/classes/214-evaluacion-del-ceo-y-sucesion",
         "modules/17-boards-corporate-governance/classes/215-efectividad-del-directorio",
-        "modules/17-boards-corporate-governance/classes/216-capstone-board-meeting"
+        "modules/17-boards-corporate-governance/classes/216-capstone-board-meeting",
+        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio"
       ],
       "status": "verificada",
       "authority": "Oxford University Press"
@@ -913,7 +897,8 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/17-boards-corporate-governance/classes/208-comites-de-auditoria-riesgo-y-compensacion",
-        "modules/17-boards-corporate-governance/classes/213-supervision-de-riesgo-y-controles"
+        "modules/17-boards-corporate-governance/classes/213-supervision-de-riesgo-y-controles",
+        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio"
       ],
       "status": "verificada"
     },
@@ -1799,6 +1784,7 @@
         "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
         "modules/12-product-innovation/classes/154-metricas-de-producto",
         "modules/12-product-innovation/classes/155-product-market-fit",
+        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
         "modules/20-founder-venture-creation/classes/243-customer-discovery",
         "modules/20-founder-venture-creation/classes/246-modelo-de-negocio",
         "modules/20-founder-venture-creation/classes/248-mvp-y-concierge-tests",
@@ -1826,11 +1812,8 @@
       "locator": "https://openlibrary.org/isbn/9789351102670",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
-        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
-        "modules/19-technology-data-ai-digital-transformation/classes/233-portafolio-de-ia-y-casos-de-negocio",
-        "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire",
-        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia"
+        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo",
+        "modules/19-technology-data-ai-digital-transformation/classes/233-portafolio-de-ia-y-casos-de-negocio"
       ],
       "status": "verificada",
       "authority": "SHROFF - O'REILLY"
@@ -1995,15 +1978,6 @@
       "used_in": [
         "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
         "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
-        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
-        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo",
-        "modules/19-technology-data-ai-digital-transformation/classes/233-portafolio-de-ia-y-casos-de-negocio",
-        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo",
-        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio",
-        "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire",
-        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos",
-        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
-        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia",
         "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board"
       ],
       "status": "verificada",
@@ -2047,18 +2021,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
-        "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
-        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
-        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo",
-        "modules/19-technology-data-ai-digital-transformation/classes/233-portafolio-de-ia-y-casos-de-negocio",
-        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo",
-        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio",
-        "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire",
-        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos",
-        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
-        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia",
-        "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board",
         "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
         "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
         "modules/20-founder-venture-creation/classes/243-customer-discovery",
@@ -2826,15 +2788,8 @@
       "used_in": [
         "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
         "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
-        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
-        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo",
         "modules/19-technology-data-ai-digital-transformation/classes/233-portafolio-de-ia-y-casos-de-negocio",
-        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo",
-        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio",
         "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire",
-        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos",
-        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
-        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia",
         "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board"
       ],
       "status": "verificada",
@@ -2894,11 +2849,8 @@
       "locator": "https://openlibrary.org/isbn/9789352135240",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
-        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
-        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo",
-        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos",
-        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia"
+        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo",
+        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos"
       ],
       "status": "verificada",
       "authority": "O'Reilly publications"
@@ -3271,13 +3223,8 @@
       "used_in": [
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
-        "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
-        "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
-        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
         "modules/19-technology-data-ai-digital-transformation/classes/233-portafolio-de-ia-y-casos-de-negocio",
-        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio",
-        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
-        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia"
+        "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board"
       ],
       "status": "verificada"
     },
@@ -3297,12 +3244,7 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/17-boards-corporate-governance/classes/213-supervision-de-riesgo-y-controles",
-        "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
-        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo",
-        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo",
-        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio",
-        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos",
-        "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board"
+        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio"
       ],
       "status": "verificada"
     },
@@ -3416,9 +3358,6 @@
         "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
         "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio",
         "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
-        "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
-        "modules/19-technology-data-ai-digital-transformation/classes/233-portafolio-de-ia-y-casos-de-negocio",
-        "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire",
         "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
         "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board"
       ],
@@ -3655,18 +3594,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
-        "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
-        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
-        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo",
-        "modules/19-technology-data-ai-digital-transformation/classes/233-portafolio-de-ia-y-casos-de-negocio",
-        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo",
-        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio",
-        "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire",
-        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos",
-        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
-        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia",
-        "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board",
         "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
         "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
         "modules/20-founder-venture-creation/classes/243-customer-discovery",
@@ -4117,7 +4044,8 @@
       "locator": "https://openlibrary.org/isbn/9780525561965",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad"
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
+        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio"
       ],
       "status": "verificada",
       "authority": "Penguin Press"
@@ -4210,7 +4138,8 @@
         "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia",
         "modules/13-strategy-competition/classes/168-capstone-strategy-memo",
         "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
-        "modules/17-boards-corporate-governance/classes/212-supervision-de-estrategia"
+        "modules/17-boards-corporate-governance/classes/212-supervision-de-estrategia",
+        "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital"
       ],
       "status": "verificada",
       "authority": "Profile Books"
@@ -4513,7 +4442,8 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
-        "modules/17-boards-corporate-governance/classes/213-supervision-de-riesgo-y-controles"
+        "modules/17-boards-corporate-governance/classes/213-supervision-de-riesgo-y-controles",
+        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio"
       ],
       "status": "verificada",
       "authority": "John Wiley & Sons, Incorporated"
@@ -4903,18 +4833,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
-        "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
-        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
-        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo",
-        "modules/19-technology-data-ai-digital-transformation/classes/233-portafolio-de-ia-y-casos-de-negocio",
-        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo",
-        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio",
-        "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire",
-        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos",
-        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
-        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia",
-        "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board",
         "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
         "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
         "modules/20-founder-venture-creation/classes/243-customer-discovery",
@@ -5004,11 +4922,7 @@
       "locator": "https://openlibrary.org/isbn/9781422103326",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
-        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo",
-        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio",
-        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
-        "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board"
+        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo"
       ],
       "status": "verificada",
       "authority": "Harvard Business School Press"
@@ -5027,17 +4941,8 @@
       "locator": "https://openlibrary.org/isbn/9781647824693",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
-        "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
-        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
-        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo",
         "modules/19-technology-data-ai-digital-transformation/classes/233-portafolio-de-ia-y-casos-de-negocio",
-        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo",
-        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio",
         "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire",
-        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos",
-        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
-        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia",
         "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board"
       ],
       "status": "verificada",
@@ -5224,18 +5129,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
-        "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
-        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
-        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo",
-        "modules/19-technology-data-ai-digital-transformation/classes/233-portafolio-de-ia-y-casos-de-negocio",
-        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo",
-        "modules/19-technology-data-ai-digital-transformation/classes/235-ciberseguridad-desde-el-directorio",
-        "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire",
-        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos",
-        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica",
-        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia",
-        "modules/19-technology-data-ai-digital-transformation/classes/240-capstone-transformation-board",
         "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
         "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
         "modules/20-founder-venture-creation/classes/243-customer-discovery",
@@ -5435,7 +5328,9 @@
       "used_in": [
         "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
         "modules/07-operations-process-quality/classes/094-continuidad-operacional",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
+        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
+        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica"
       ],
       "status": "verificada"
     },
@@ -6476,7 +6371,9 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar"
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
+        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
+        "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire"
       ],
       "status": "verificada"
     },
@@ -6596,7 +6493,8 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
-        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion"
+        "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
+        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica"
       ],
       "status": "verificada"
     },
@@ -6839,7 +6737,10 @@
       "locator": "https://doi.org/10.2307/2393549",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/12-product-innovation/classes/156-capstone-comite-de-producto"
+        "modules/12-product-innovation/classes/156-capstone-comite-de-producto",
+        "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
+        "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire",
+        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos"
       ],
       "status": "verificada"
     },
@@ -7051,7 +6952,9 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/14-organization-design-culture-change/classes/170-estructuras-funcionales-divisionales-y-matriciales",
-        "modules/14-organization-design-culture-change/classes/180-capstone-rediseno-organizacional"
+        "modules/14-organization-design-culture-change/classes/180-capstone-rediseno-organizacional",
+        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos",
+        "modules/19-technology-data-ai-digital-transformation/classes/238-metricas-de-entrega-tecnologica"
       ],
       "status": "verificada"
     },
@@ -7222,7 +7125,8 @@
       "locator": "https://openlibrary.org/isbn/9780674035072",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos"
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
+        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo"
       ],
       "status": "verificada"
     },
@@ -7822,6 +7726,243 @@
       "used_in": [
         "modules/18-corporate-finance-capital-ma/classes/225-m-a-logica-estrategica",
         "modules/18-corporate-finance-capital-ma/classes/227-integracion-post-adquisicion"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "david-h-autor-frank-levy-richard-j-murnane-the-skill-content-of-recent-technolog",
+      "type": "paper",
+      "authors": [
+        "Autor, David H.",
+        "Levy, Frank",
+        "Murnane, Richard J."
+      ],
+      "title": "The Skill Content of Recent Technological Change: An Empirical Exploration",
+      "cited_as": "David H. Autor, Frank Levy & Richard J. Murnane — The Skill Content of Recent Technological Change: An Empirical Exploration",
+      "authority": "The Quarterly Journal of Economics",
+      "published": "2003",
+      "doi": "10.1162/003355303322552801",
+      "locator": "https://doi.org/10.1162/003355303322552801",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo",
+        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "david-h-autor-why-are-there-still-so-many-jobs-the-history-and-future-of-workpla",
+      "type": "paper",
+      "authors": [
+        "Autor, David H."
+      ],
+      "title": "Why Are There Still So Many Jobs? The History and Future of Workplace Automation",
+      "cited_as": "David H. Autor — Why Are There Still So Many Jobs? The History and Future of Workplace Automation",
+      "authority": "Journal of Economic Perspectives",
+      "published": "2015",
+      "doi": "10.1257/jep.29.3.3",
+      "locator": "https://doi.org/10.1257/jep.29.3.3",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo",
+        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "tyna-eloundou-et-al-gpts-are-gpts-labor-market-impact-potential-of-llms",
+      "type": "paper",
+      "authors": [
+        "Eloundou, Tyna",
+        "Manning, Sam",
+        "Mishkin, Pamela",
+        "Rock, Daniel"
+      ],
+      "title": "GPTs are GPTs: Labor market impact potential of LLMs",
+      "cited_as": "Tyna Eloundou et al. — GPTs are GPTs: Labor market impact potential of LLMs",
+      "authority": "Science",
+      "published": "2024",
+      "doi": "10.1126/science.adj0998",
+      "locator": "https://doi.org/10.1126/science.adj0998",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "daron-acemoglu-pascual-restrepo-tasks-automation-and-the-rise-in-u-s-wage-inequa",
+      "type": "paper",
+      "authors": [
+        "Acemoglu, Daron",
+        "Restrepo, Pascual"
+      ],
+      "title": "Tasks, Automation, and the Rise in U.S. Wage Inequality",
+      "cited_as": "Daron Acemoglu & Pascual Restrepo — Tasks, Automation, and the Rise in U.S. Wage Inequality",
+      "authority": "Econometrica",
+      "published": "2022",
+      "doi": "10.3982/ECTA19815",
+      "locator": "https://doi.org/10.3982/ECTA19815",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo",
+        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "ward-cunningham-the-wycash-portfolio-management-system",
+      "type": "paper",
+      "authors": [
+        "Cunningham, Ward"
+      ],
+      "title": "The WyCash portfolio management system",
+      "cited_as": "Ward Cunningham — The WyCash portfolio management system",
+      "authority": "OOPSLA '92 Addendum",
+      "published": "1992",
+      "doi": "10.1145/157709.157715",
+      "locator": "https://doi.org/10.1145/157709.157715",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/19-technology-data-ai-digital-transformation/classes/229-tecnologia-como-capacidad-empresarial",
+        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "d-l-parnas-on-the-criteria-to-be-used-in-decomposing-systems-into-modules",
+      "type": "paper",
+      "authors": [
+        "Parnas, D. L."
+      ],
+      "title": "On the criteria to be used in decomposing systems into modules",
+      "cited_as": "D. L. Parnas — On the criteria to be used in decomposing systems into modules",
+      "authority": "Communications of the ACM",
+      "published": "1972",
+      "doi": "10.1145/361598.361623",
+      "locator": "https://doi.org/10.1145/361598.361623",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/19-technology-data-ai-digital-transformation/classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "michael-armbrust-et-al-a-view-of-cloud-computing",
+      "type": "paper",
+      "authors": [
+        "Armbrust, Michael",
+        "Fox, Armando",
+        "Griffith, Rean"
+      ],
+      "title": "A view of cloud computing",
+      "cited_as": "Michael Armbrust et al. — A view of cloud computing",
+      "authority": "Communications of the ACM",
+      "published": "2010",
+      "doi": "10.1145/1721654.1721672",
+      "locator": "https://doi.org/10.1145/1721654.1721672",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "ajay-agrawal-joshua-gans-avi-goldfarb-prediction-machines",
+      "type": "book",
+      "authors": [
+        "Agrawal, Ajay",
+        "Gans, Joshua",
+        "Goldfarb, Avi"
+      ],
+      "title": "Prediction Machines",
+      "cited_as": "Ajay Agrawal, Joshua Gans & Avi Goldfarb — Prediction Machines",
+      "authority": "Harvard Business Review Press",
+      "published": "2018",
+      "isbn13": "9781633695672",
+      "locator": "https://openlibrary.org/isbn/9781633695672",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/19-technology-data-ai-digital-transformation/classes/233-portafolio-de-ia-y-casos-de-negocio",
+        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "erik-brynjolfsson-andrew-mcafee-the-second-machine-age",
+      "type": "book",
+      "authors": [
+        "Brynjolfsson, Erik",
+        "McAfee, Andrew"
+      ],
+      "title": "The Second Machine Age",
+      "cited_as": "Erik Brynjolfsson & Andrew McAfee — The Second Machine Age",
+      "authority": "W. W. Norton",
+      "published": "2014",
+      "isbn13": "9780393350647",
+      "locator": "https://openlibrary.org/isbn/9780393350647",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/19-technology-data-ai-digital-transformation/classes/234-automatizacion-y-rediseno-de-trabajo",
+        "modules/19-technology-data-ai-digital-transformation/classes/239-cambio-laboral-provocado-por-ia"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "zhamak-dehghani-data-mesh",
+      "type": "book",
+      "authors": [
+        "Dehghani, Zhamak"
+      ],
+      "title": "Data Mesh",
+      "cited_as": "Zhamak Dehghani — Data Mesh",
+      "authority": "O'Reilly Media",
+      "published": "2022",
+      "isbn13": "9781492092391",
+      "locator": "https://openlibrary.org/isbn/9781492092391",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/19-technology-data-ai-digital-transformation/classes/232-datos-como-activo-operativo"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "j-r-storment-mike-fuller-cloud-finops",
+      "type": "book",
+      "authors": [
+        "Storment, J. R.",
+        "Fuller, Mike"
+      ],
+      "title": "Cloud FinOps",
+      "cited_as": "J. R. Storment & Mike Fuller — Cloud FinOps",
+      "authority": "O'Reilly Media",
+      "published": "2020",
+      "isbn13": "9781492054627",
+      "locator": "https://openlibrary.org/isbn/9781492054627",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "carl-shapiro-hal-r-varian-information-rules",
+      "type": "book",
+      "authors": [
+        "Shapiro, Carl",
+        "Varian, Hal R."
+      ],
+      "title": "Information Rules",
+      "cited_as": "Carl Shapiro & Hal R. Varian — Information Rules",
+      "authority": "Harvard Business School Press",
+      "published": "1998",
+      "isbn13": "9780875848631",
+      "locator": "https://openlibrary.org/isbn/9780875848631",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
+        "modules/19-technology-data-ai-digital-transformation/classes/231-economia-de-cloud-y-plataformas",
+        "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire"
       ],
       "status": "verificada"
     }

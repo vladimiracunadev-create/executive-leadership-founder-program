@@ -5,28 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — CEO → Transformador digital"
 outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir AI use case de AI portfolio mediante evidencia observable."
-  - "Aplicar la secuencia: inventariar workflows y pain → estimar value y baseline → evaluar data y technical feasibility → evaluar impact y risk → pilotear con economics y guardrails antes de escalar."
-  - "Interpretar time saved, quality-error rate, cost per task sin atribuir causalidad automática."
-  - "Resolver el caso de portafolio de IA y casos de negocio con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir un caso de uso de IA de un portafolio de casos."
+  - "Inventariar flujos de trabajo y dolores que podrían beneficiarse de IA."
+  - "Estimar valor realizable frente a una línea base, distinguiendo ahorro de caja."
+  - "Evaluar viabilidad de datos y técnica, y el riesgo de cada caso."
+  - "Priorizar y pilotear con criterios de éxito, escalamiento y parada."
 deliverable: "strategy-memo.md"
 references:
-  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
+  - "Ajay Agrawal, Joshua Gans & Avi Goldfarb — *Prediction Machines*"
   - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
-  - "Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*"
+  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
   - "Foster Provost & Tom Fawcett — *Data Science for Business*"
   - "NIST — *AI Risk Management Framework (AI RMF 1.0)*"
-  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
-  - "NIST — *AI Risk Management Framework*. <https://www.nist.gov/itl/ai-risk-management-framework>."
 limits:
-  - "Horas ahorradas no equivalen a cash o value si no cambia capacidad o output. Define cómo el tiempo liberado se convierte en outcome empresarial."
+  - "Las probabilidades de éxito son juicios."
 evidence_signals:
-  - "time saved"
-  - "quality-error rate"
-  - "cost per task"
-  - "human override"
-  - "adoption"
+  - "flujos y dolores inventariados"
+  - "valor realizable frente a línea base"
+  - "viabilidad y riesgo evaluados"
+  - "pilotos con criterios de éxito y parada"

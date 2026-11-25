@@ -5,28 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — CEO → Transformador digital"
 outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir cyber oversight de threat scenario mediante evidencia observable."
-  - "Aplicar la secuencia: definir top cyber scenarios → mapear crown jewels → revisar controles y residual risk → ejercitar crisis y recovery → aprobar inversiones y track KRIs."
-  - "Interpretar recovery test, critical control coverage, MTTD-MTTR sin atribuir causalidad automática."
-  - "Resolver el caso de ciberseguridad desde el directorio con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Definir pocos escenarios cibernéticos con impacto de negocio."
+  - "Identificar los activos críticos («joyas de la corona») y su protección."
+  - "Revisar controles y riesgo residual con evidencia independiente."
+  - "Ejercitar la respuesta y la recuperación con la participación del directorio."
+  - "Aprobar inversiones y excepciones con criterios y registro."
 deliverable: "risk-governance-brief.md"
 references:
-  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
-  - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
-  - "Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics*"
-  - "NIST — *AI Risk Management Framework (AI RMF 1.0)*"
-  - "Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd*"
-  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
-  - "NIST — *Cybersecurity Framework 2.0*. <https://www.nist.gov/cyberframework>."
+  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
+  - "Ross Anderson — *Security Engineering*"
+  - "Richard A. Clarke & Robert K. Knake — *The Fifth Domain*"
+  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
+  - "Bob Tricker — *Corporate Governance*"
 limits:
-  - "El board no debe pedir cero riesgo ni evaluar herramientas individuales. Debe asegurar governance, capacidad de respuesta y exposición consistente con apetito."
+  - "El directorio no debe pedir cero riesgo ni evaluar herramientas individuales: debe asegurar gobierno, capacidad de respuesta y exposición coherente con el apetito."
 evidence_signals:
-  - "recovery test"
-  - "critical control coverage"
-  - "MTTD-MTTR"
-  - "scenario loss"
-  - "third-party concentration"
+  - "escenarios cibernéticos con impacto"
+  - "activos críticos identificados"
+  - "evidencia independiente de controles"
+  - "ejercicio y recuperación probados"

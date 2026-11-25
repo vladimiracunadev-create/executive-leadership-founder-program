@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — CEO → Transformador digital"
 outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir architecture de technical debt mediante evidencia observable."
-  - "Aplicar la secuencia: traducir estrategia a quality attributes → mapear bottlenecks y dependencies → cuantificar debt impact → priorizar remediation por value y risk → crear guardrails y evolución incremental."
-  - "Interpretar change failure rate, lead time, incident rate sin atribuir causalidad automática."
-  - "Resolver el caso de arquitectura y deuda técnica para ejecutivos con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Traducir la estrategia a atributos de calidad que la arquitectura debe sostener."
+  - "Identificar cuellos de botella y dependencias entre sistemas y equipos."
+  - "Cuantificar el efecto de la deuda técnica en tiempo, riesgo y costo."
+  - "Priorizar la remediación según valor y horizonte de vida del sistema."
+  - "Decidir cuándo conviene no pagar la deuda y administrar el riesgo."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
-  - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
-  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
-  - "Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd*"
+  - "D. L. Parnas — *On the criteria to be used in decomposing systems into modules*"
+  - "Ward Cunningham — *The WyCash portfolio management system*"
+  - "Rebecca M. Henderson & Kim B. Clark — *Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms*"
   - "Martin Kleppmann — *Designing Data-Intensive Applications*"
-  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
+  - "Matthew Skelton & Manuel Pais — *Team Topologies*"
 limits:
-  - "No toda deuda debe pagarse. Si un sistema está cerca de retiro o el costo de cambio supera beneficio, gestionar el riesgo puede ser mejor que reescribir."
+  - "No toda deuda debe pagarse."
 evidence_signals:
-  - "change failure rate"
-  - "lead time"
-  - "incident rate"
-  - "maintenance share"
-  - "dependency count"
+  - "atributos de calidad de la estrategia"
+  - "dependencias y cuellos de botella"
+  - "deuda cuantificada"
+  - "remediación según horizonte"

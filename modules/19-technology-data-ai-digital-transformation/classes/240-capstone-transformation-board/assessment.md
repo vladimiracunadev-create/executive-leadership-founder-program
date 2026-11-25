@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **transformation portfolio** de **value case** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **dependency map** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **stage gate** con **benefit owner**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Por qué se parte de resultados y restricciones?
+2. ¿Por qué se ordena también por capacidad y no solo por capital?
+3. ¿Cómo influyen las dependencias en la secuencia?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Hay 32 iniciativas de IA, migración cloud y data platform compitiendo por el mismo equipo de seguridad. Todas están top priority y ninguna tiene kill criteria.
+**Caso:** Un grupo de servicios de salud con 5.200 personas, ventas de 300.000 millones de pesos y un presupuesto de transformación de 14.000 millones tiene 17 iniciativas en marcha o propuestas: historia clínica electrónica unificada (4.500), plataforma de agendamiento y telemedicina (2.600), datos de pacientes («paciente único», 900), asistente de IA para documentación clínica (1.100), predicción de inasistencias (500), automatización de facturación (1.400), migración a la nube (2.800), ciberseguridad (1.200), remediación de un sistema de laboratorio (1.600), un portal para aseguradoras (900), y otras siete menores. La capacidad total de tecnología es de 140 personas, con una demanda estimada de 230. Hay dependencias cruzadas: casi todo requiere el «paciente único». Un incidente reciente de ciberseguridad costó 640 millones; el regulador pidió información sobre uso de IA en documentación clínica; los clínicos temen que la IA aumente su carga administrativa; el directorio exige «un solo plan» y el CEO quiere «avanzar con todo». Los equipos están agotados y la rotación de ingenieros es de 22 %.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir outcomes y constraints → comparar use cases por value y risk → mapear dependencies y capacity → asignar stage gates y owners → reallocate según adoption y benefits**. Debes utilizar o diseñar cómo obtener **benefit realization, adoption, portfolio spend**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **paquete de decisión del tablero de transformación** que contenga: (a) los resultados de negocio a 24 meses y las restricciones duras; (b) la comparación de las 17 iniciativas por valor, riesgo, capital y capacidad, con las que se detienen o posponen; (c) el mapa de dependencias y la secuencia por olas con la capacidad por perfil; (d) la gobernanza proporcional, el espacio de pruebas y las puertas con criterios y dueños; (e) el tablero de medición con indicadores de negocio, entrega, datos, riesgo y personas; (f) los efectos sobre el trabajo clínico y administrativo, los controles de IA y las verificaciones legales, regulatorias y laborales pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Gobernanza central puede frenar experimentación. Diferencia sandbox de bajo riesgo de escalamiento enterprise y aplica controles proporcionales.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Una gobernanza central puede frenar la experimentación; se separa el sandbox de bajo riesgo del escalamiento con controles proporcionales.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

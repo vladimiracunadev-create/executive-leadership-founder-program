@@ -10,217 +10,206 @@
 
 ## 🎯 Propósito
 
-Un portafolio de IA debe priorizar problemas donde automatización o predicción mejoran economics y donde datos, workflow y riesgo permiten implementación. Empezar por qué podemos hacer con LLM produce demos sin adopción; el business case debe incluir calidad, humanos, integración y costo recurrente.
+Las empresas llegan a la inteligencia artificial por dos caminos, y ninguno es bueno si se recorre sin método. El primero es la **moda**: se compran licencias, se abren pilotos en todas las áreas, se anuncian «iniciativas de IA», y un año después nadie puede decir qué resultado de negocio produjeron. El segundo es el **miedo**: se prohíbe todo hasta que haya un marco perfecto, mientras los empleados usan herramientas por su cuenta y los competidores avanzan. Entre ambos hay un camino sensato: tratar la IA como un **portafolio de casos de negocio**, cada uno con un problema concreto, una línea base, un valor medible, una evaluación de viabilidad (datos, técnica, riesgo), un piloto con criterio de éxito y una decisión posterior de escalar, ajustar o detener.
 
-La salida de esta parte es **gobernar tecnología, datos e IA como capacidades económicas y organizacionales**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **portafolio de IA y casos de negocio** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis de Agrawal, Gans y Goldfarb, que describen la IA como una **reducción del costo de la predicción** y sus consecuencias económicas; en Davenport y Mittal sobre cómo las empresas se comprometen con IA a escala; en Iansiti y Lakhani sobre negocios organizados alrededor de datos y algoritmos; en Provost y Fawcett sobre pensamiento de datos; y en el marco de gestión de riesgos de IA del NIST. Al terminar sabrás inventariar flujos de trabajo y dolores, estimar valor frente a una línea base, evaluar viabilidad y riesgo, priorizar con un portafolio y pilotear con criterios de éxito y de parada.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `AI use case`, `AI portfolio`, `automation rate`, `human-in-the-loop`, `AI unit economics` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → transformador digital.
-3. **Aplicar** la secuencia **1. inventariar workflows y pain → 2. estimar value y baseline → 3. evaluar data y technical feasibility → 4. evaluar impact y risk → 5. pilotear con economics y guardrails antes de escalar** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** time saved, quality-error rate, cost per task sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** un caso de uso de IA de un portafolio de casos.
+2. **Inventariar** flujos de trabajo y dolores que podrían beneficiarse de IA.
+3. **Estimar** valor realizable frente a una línea base, distinguiendo ahorro de caja.
+4. **Evaluar** viabilidad de datos y técnica, y el riesgo de cada caso.
+5. **Priorizar** y pilotear con criterios de éxito, escalamiento y parada.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define AI use case y AI portfolio sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con time saved y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué piloto de IA de tu empresa terminó sin que nadie supiera si funcionó? |
+| 20–60 min | Economía de la predicción, inventario, valor, viabilidad, riesgo, portafolio y piloto. |
+| 60–105 min | Ejemplo trabajado: seis casos con valor realizable, probabilidad y presupuesto. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **AI use case** | aplicación específica de IA dentro de un workflow | Distingue un hecho compatible y otro que lo refute. |
-| **AI portfolio** | conjunto priorizado de casos por value feasibility y risk | Distingue un hecho compatible y otro que lo refute. |
-| **automation rate** | proporción de trabajo realizado sin intervención humana | Distingue un hecho compatible y otro que lo refute. |
-| **human-in-the-loop** | diseño donde una persona revisa o decide en puntos definidos | Distingue un hecho compatible y otro que lo refute. |
-| **AI unit economics** | costo total por tarea o outcome automatizado | Distingue un hecho compatible y otro que lo refute. |
+| **Caso de uso de IA** | Aplicación concreta de IA a un problema de negocio. | Problema, usuario, dato y resultado. |
+| **Portafolio de IA** | Conjunto priorizado de casos con distinto riesgo y horizonte. | Presupuesto, etapas y revisión. |
+| **Línea base** | Medida del desempeño actual antes de la IA. | Costo, tiempo, error, ingresos. |
+| **Valor realizable** | Parte del valor estimado que se traduce en caja o resultado. | Menos que el ahorro bruto de horas. |
+| **Viabilidad** | Posibilidad práctica de lograr el caso con datos, técnica y organización. | Datos disponibles, equipo, integración. |
+| **Criterio de parada** | Condición que obliga a detener o cambiar un piloto. | Métrica y fecha. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 233: 1. inventariar workflows y pain → 2. estimar value y baseline → 3. evaluar data y technical feasibility → 4. evaluar impact y risk → 5. pilotear con economics y guardrails antes de escalar](modelo-mental.svg)
+![Priorizar casos de IA por valor y viabilidad: preparar y esperar, prioridad con piloto medido, mejora rápida si es barata y descartar.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. inventariar workflows y pain → 2. estimar value y baseline → 3. evaluar data y technical feasibility → 4. evaluar impact y risk → 5. pilotear con economics y guardrails antes de escalar
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un portafolio de IA debe priorizar problemas donde automatización o predicción mejoran economics y donde datos, workflow y riesgo permiten implementación. Empezar por qué podemos hacer con LLM produce demos sin adopción; el business case debe incluir calidad, humanos, integración y costo recurrente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Horas ahorradas no equivalen a cash o value si no cambia capacidad o output. Define cómo el tiempo liberado se convierte en outcome empresarial.**
+**Cómo leer el diagrama.** Un cuadrante con la viabilidad en el eje horizontal (poco viable o muy viable) y el valor en el vertical (poco o mucho). **Mucho valor y muy viable**: prioridad, con piloto medido, línea base y criterio de éxito. **Mucho valor pero poco viable**: preparar y esperar, mejorando datos y capacidades antes de apostar. **Poco valor pero viable**: mejora rápida solo si es barata. **Poco valor y poco viable**: descartar. La nota recuerda que horas ahorradas no son caja ni valor si no cambia la capacidad o el producto; el pie, que el riesgo y la sensibilidad de los datos modifican la viabilidad.
 
 ## 📖 Desarrollo
 
-### 1. AI use case: mecanismo central
+### 1. Qué hace económicamente la IA
 
-**AI use case** se entiende aquí como **aplicación específica de IA dentro de un workflow**. Esta es la pieza causal o estructural desde la que se inicia **portafolio de IA y casos de negocio**: antes de inventariar workflows y pain, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Agrawal, Gans y Goldfarb proponen una lectura económica clara: la inteligencia artificial moderna es, en esencia, una **tecnología de predicción** (completar información que falta a partir de la que se tiene), y su efecto principal es **abaratar la predicción**. Cuando algo se abarata, se usa más y se vuelven más valiosos sus complementos: los **datos**, el **juicio** humano para decidir qué hacer con la predicción y la **acción** (procesos que actúan). Esto orienta la búsqueda de casos: donde hay decisiones basadas en predicciones (demanda, fraude, riesgo, mantenimiento, cancelación de clientes, clasificación de documentos) y donde el costo o la lentitud de esas predicciones limita el negocio. Davenport y Mittal añaden que las empresas con resultados llevan sus proyectos de IA a producción con **objetivos de negocio**, no solo experimentos.
 
-La lectura rectora de este bloque es Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*. Su aporte se usa para examinar **modelo operativo AI-first, escala digital, redes y arquitectura de decisión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **time saved**; regístrala con periodo, unidad, población y baseline.
+### 2. Inventariar flujos de trabajo y dolores
 
-Relaciona el mecanismo con **AI portfolio**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se parte de los **flujos de trabajo** y de sus **dolores**, no de la tecnología: ¿dónde se pierde tiempo, dinero o clientes?, ¿qué decisiones se toman con información incompleta?, ¿qué tareas repetitivas consumen horas de personas calificadas?, ¿qué errores son frecuentes y costosos? Se lista el inventario con área, dueño, volumen, costo actual y qué haría una predicción o un asistente. Se incluyen tanto los usos **internos** (productividad, finanzas, personas) como los **orientados al cliente** (recomendaciones, atención, precios, riesgo). Y se registra el uso **espontáneo** de herramientas de IA por los empleados (clase 188), que revela dolores reales y riesgos.
 
-### 2. AI portfolio: frontera conceptual y error de clasificación
+### 3. Estimar el valor: línea base y valor realizable
 
-**Definición operacional:** conjunto priorizado de casos por value feasibility y risk. Su valor está en distinguirlo de **AI use case** y **automation rate**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Cada caso necesita una **línea base** (cómo se hace hoy y con qué resultado) y una **hipótesis de mejora** (qué cambiaría y cuánto). El error más frecuente es confundir **ahorro de horas** con **ahorro de caja**. Si un asistente ahorra 12.000 horas al año a 40.000 pesos la hora, el ahorro «de papel» es de 480 millones; pero solo se vuelve caja si se **reduce gasto** (no reemplazar vacantes, reducir contratistas) o se **usa la capacidad liberada** para generar más ingresos o atender más sin contratar. Se calcula un **valor realizable**, con la **tasa de conversión** de horas a caja y los **costos** (licencias, integración, datos, gobierno, cambio de procesos, mantenimiento). Si no se define cómo el tiempo liberado se convierte en un resultado empresarial, el valor es ficticio.
 
-Contrasta el problema con Thomas H. Davenport & Nitin Mittal — *All-In on AI*, que aporta una mirada sobre **casos empresariales, estrategia y organización para inteligencia artificial**. Formula dos mini-casos: uno que sí satisface la definición de **AI portfolio** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **quality-error rate** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Evaluar viabilidad: datos, técnica y organización
 
-Antes de estimar value y baseline, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La viabilidad tiene tres frentes. **Datos** (clase 232): ¿existen en cantidad y calidad suficientes?, ¿son accesibles y se pueden usar legal y éticamente? **Técnica**: ¿la tarea es adecuada para la tecnología disponible?, ¿qué nivel de precisión se necesita y se puede lograr?, ¿cómo se integra con los sistemas? **Organización**: ¿hay un dueño de negocio y usuarios dispuestos?, ¿los procesos permiten usar la predicción?, ¿hay talento para construir, operar y mantener? Provost y Fawcett subrayan que la calidad de una solución de datos depende de definir bien el problema y la métrica de éxito; un modelo con alta precisión en una métrica irrelevante no sirve. Se prefieren casos donde la **mejora marginal** ya tiene valor y donde el error es tolerable o controlable.
 
-### 3. automation rate: operacionalización y medición
+### 5. Evaluar riesgo e impacto
 
-**automation rate** significa **proporción de trabajo realizado sin intervención humana**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El marco de gestión de riesgos de IA del NIST invita a mapear el **contexto**, medir los riesgos y gestionarlos. Para cada caso se evalúan: **impacto sobre personas** (decisiones sobre crédito, empleo, salud o precios), **sensibilidad de los datos** (personales, confidenciales), **riesgo de errores** (alucinaciones, sesgo, fallas de seguridad), **dependencia de proveedores**, **cumplimiento** (clase 188) y **reputación**. Los casos de alto impacto exigen supervisión humana efectiva, pruebas de sesgo y trazabilidad; los de bajo impacto, reglas básicas de uso. El riesgo no necesariamente descarta un caso, pero determina el **gobierno** y el **costo** necesarios, y se incorpora al cálculo.
 
-Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* orienta este bloque mediante **métricas de entrega, capacidades técnicas y desempeño organizacional**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **cost per task**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Armar el portafolio
 
-Al llegar a evaluar data y technical feasibility, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Un portafolio equilibra: **casos de productividad interna** (rápidos, de bajo riesgo), **casos que cambian procesos centrales** (mayor valor, más complejos), **casos de producto o cliente** (estratégicos, con mayor riesgo) y **apuestas exploratorias** (opciones). Se ordenan por **valor esperado** (probabilidad de éxito × valor realizable − costo) y por **retorno por peso invertido**, con límites de capacidad (equipo de datos, integración, cambio organizacional). Se incluye **presupuesto limitado para exploración**, con puertas de decisión (clase 228). Se evita el exceso de pilotos simultáneos: la capacidad de absorción de la organización es el cuello de botella. Y se decide qué **no** se hará, y por qué.
 
-### 4. human-in-the-loop: trade-offs y efectos de segundo orden
+### 7. Pilotear, escalar o detener
 
-**Definición:** diseño donde una persona revisa o decide en puntos definidos. Este concepto obliga a abandonar la idea de que **portafolio de IA y casos de negocio** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de evaluar impact y risk, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Foster Provost & Tom Fawcett — *Data Science for Business* aporta una lente sobre **perspectiva de Datos aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **human override** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **portafolio de IA y casos de negocio**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **human-in-the-loop** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. AI unit economics: gobernanza, límites e integración
-
-**AI unit economics** se define como **costo total por tarea o outcome automatizado** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-NIST — *AI Risk Management Framework (AI RMF 1.0)* se utiliza para estudiar **gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida** y contrastar la recomendación final. Al ejecutar pilotear con economics y guardrails antes de escalar, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Horas ahorradas no equivalen a cash o value si no cambia capacidad o output. Define cómo el tiempo liberado se convierte en outcome empresarial.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **AI use case**, **AI portfolio**, **automation rate**, **human-in-the-loop** y **AI unit economics** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **portafolio de IA y casos de negocio** no consiste en sumar cinco definiciones. Empieza por **AI use case**, contrasta **AI portfolio** con **automation rate**, incorpora **human-in-the-loop** como restricción o mecanismo y usa **AI unit economics** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. inventariar workflows y pain → 2. estimar value y baseline → 3. evaluar data y technical feasibility → 4. evaluar impact y risk → 5. pilotear con economics y guardrails antes de escalar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un piloto bien diseñado tiene: **hipótesis** (qué creemos que ocurrirá), **línea base**, **grupo de comparación** cuando sea posible, **métricas** de resultado (no solo de uso), **duración**, **criterios de éxito** y **criterios de parada**, y un **plan de escalamiento** condicionado (qué cambia en procesos, personas, tecnología y control). Davenport y Mittal observan que muchas empresas quedan atrapadas en el «purgatorio de pilotos» porque no definen cómo pasar a producción. Se decide con evidencia: **escalar** (resultados sobre el umbral), **ajustar** (resultados parciales con causas claras) o **detener** (no hay valor o el riesgo es inaceptable). Se documenta el aprendizaje y se compara el resultado real con el estimado para calibrar futuras estimaciones.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* | modelo operativo AI-first, escala digital, redes y arquitectura de decisión | ¿Qué supuesto de **portafolio de IA y casos de negocio** ayuda a desafiar? |
-| Thomas H. Davenport & Nitin Mittal — *All-In on AI* | casos empresariales, estrategia y organización para inteligencia artificial | ¿Qué supuesto de **portafolio de IA y casos de negocio** ayuda a desafiar? |
-| Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* | métricas de entrega, capacidades técnicas y desempeño organizacional | ¿Qué supuesto de **portafolio de IA y casos de negocio** ayuda a desafiar? |
-| Foster Provost & Tom Fawcett — *Data Science for Business* | perspectiva de Datos aplicada al problema de la clase | ¿Qué supuesto de **portafolio de IA y casos de negocio** ayuda a desafiar? |
-| NIST — *AI Risk Management Framework (AI RMF 1.0)* | gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida | ¿Qué supuesto de **portafolio de IA y casos de negocio** ayuda a desafiar? |
-
-En **portafolio de IA y casos de negocio**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **AI use case**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Agrawal, Gans y Goldfarb | La IA como reducción del costo de la predicción y sus complementos. | Marco conceptual. | ¿Qué predicción abarata y qué decisión mejora? |
+| Davenport y Mittal | Compromiso de las empresas con IA a escala y salida del purgatorio de pilotos. | Casos de empresas grandes. | ¿Cómo pasamos a producción? |
+| Iansiti y Lakhani | Modelos de negocio basados en datos y algoritmos. | Enfocado en empresas muy digitales. | ¿Qué parte de nuestro negocio se vuelve un problema de datos? |
+| Provost y Fawcett | Definición de problemas y métricas de éxito. | Técnico-ejecutivo. | ¿La métrica del modelo refleja el negocio? |
+| NIST AI RMF | Mapear, medir y gestionar riesgos de IA. | Voluntario y genérico. | ¿Qué riesgo cambia el gobierno de este caso? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa lanza 25 copilots. Seis meses después solo dos tienen más de 40% adopción; no existe baseline de productividad ni costo por consulta.
+**Situación (hipotética).** Una empresa tiene un presupuesto anual de IA de 400 millones de pesos y seis casos candidatos. Todas las cifras son anuales y de valor **realizable** (caja o ingresos efectivos), no ahorro de papel.
 
-**Paso 1 — inventariar workflows y pain.** La gerencia escribe primero el supuesto asociado a **AI use case** y evita convertirlo en hecho. Luego busca **time saved** para contrastarlo en el caso de **portafolio de IA y casos de negocio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Ejemplo de la conversión de horas.** Un asistente para atención al cliente ahorra 12.000 horas al año a 40.000 pesos: 480 millones «de papel». La conversión a caja es de 35 % (se evita contratar por rotación natural y se atiende un crecimiento sin nuevas incorporaciones): valor realizable = 0,35 × 480 = **168 millones**.
 
-**Paso 2 — estimar value y baseline.** La gerencia escribe primero el supuesto asociado a **AI portfolio** y evita convertirlo en hecho. Luego busca **quality-error rate** para contrastarlo en el caso de **portafolio de IA y casos de negocio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Casos (millones de pesos).**
 
-**Paso 3 — evaluar data y technical feasibility.** La gerencia escribe primero el supuesto asociado a **automation rate** y evita convertirlo en hecho. Luego busca **cost per task** para contrastarlo en el caso de **portafolio de IA y casos de negocio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| # | Caso | Valor realizable | Costo anual | Probabilidad de éxito | Valor esperado (p × valor − costo) | Valor esperado por peso invertido |
+|---|---|---|---|---|---|---|
+| 1 | Asistente de atención al cliente | 168 | 110 | 80 % | 0,8 × 168 − 110 = 24,4 | 0,22 |
+| 2 | Pronóstico de demanda | 310 | 120 | 60 % | 0,6 × 310 − 120 = 66,0 | 0,55 |
+| 3 | Detección de fraude en pagos | 420 | 150 | 70 % | 0,7 × 420 − 150 = 144,0 | 0,96 |
+| 4 | Contenido de marketing | 90 | 60 | 90 % | 0,9 × 90 − 60 = 21,0 | 0,35 |
+| 5 | Conciliación automática | 135 | 55 | 85 % | 0,85 × 135 − 55 = 59,75 | 1,09 |
+| 6 | Asistente de contratos | 80 | 95 | 60 % | 0,6 × 80 − 95 = −47,0 | −0,49 |
 
-**Paso 4 — evaluar impact y risk.** La gerencia escribe primero el supuesto asociado a **human-in-the-loop** y evita convertirlo en hecho. Luego busca **human override** para contrastarlo en el caso de **portafolio de IA y casos de negocio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Selección con un presupuesto de 400 millones.** Por valor esperado por peso: caso 5 (55), caso 3 (150), caso 2 (120) y caso 4 (60): total 385 millones; quedan 15. Se **descartan** el caso 6 (valor esperado negativo) y se **posterga** el 1 (retorno bajo; se puede reconsiderar si cambia la conversión a caja).
 
-**Paso 5 — pilotear con economics y guardrails antes de escalar.** La gerencia escribe primero el supuesto asociado a **AI unit economics** y evita convertirlo en hecho. Luego busca **adoption** para contrastarlo en el caso de **portafolio de IA y casos de negocio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Valor esperado del portafolio.** 59,75 + 144,0 + 66,0 + 21,0 = **290,75 millones**; sobre un costo de 385: 0,76 por peso.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **portafolio de IA y casos de negocio**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Riesgo y gobierno.**
+
+| Caso | Impacto | Gobierno |
+|---|---|---|
+| 3 Fraude | Alto: afecta a clientes que podrían ver rechazadas operaciones | Supervisión humana, pruebas de sesgo, reclamación, bitácora (clase 188) |
+| 2 Pronóstico | Medio: decisiones de compra | Monitoreo de precisión y de deriva |
+| 5 Conciliación | Bajo: procesos internos con revisión por muestra | Reglas básicas y registro |
+| 4 Marketing | Bajo a medio: contenido a clientes | Revisión humana, política de marca y datos permitidos |
+
+**Piloto del caso 3 (ejemplo).** Línea base: pérdidas por fraude de 1.200 millones al año con 35 % de detección. Hipótesis: el modelo detecta 35 % adicional con 1 % de falsos positivos. Criterio de éxito: ahorro de al menos 300 millones anualizados con menos de 2 % de operaciones legítimas rechazadas; criterio de parada: falsos positivos sobre 3 % o reclamos sobre un umbral. Duración: cuatro meses con un grupo de control. Plan de escalamiento: integración con el sistema de pagos y capacitación del equipo de revisión.
+
+**Hitos del portafolio.** A los seis meses se compara el valor real con el estimado; si un caso rinde menos de 50 % de lo esperado, se detiene y se reasigna su presupuesto.
+
+**Cuidados.** Las probabilidades y los valores son estimaciones; el uso de datos personales y las decisiones automatizadas se verifican con la normativa vigente y con asesoría; las cifras son ilustrativas.
+
+**Qué muestra.** (1) El valor se midió como caja y no como horas. (2) El portafolio se priorizó por valor esperado. (3) El riesgo definió el gobierno y hubo criterio de parada.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **AI use case** | aplicación específica de IA dentro de un workflow | Cuando time saved es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **AI portfolio** | conjunto priorizado de casos por value feasibility y risk | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Portafolio frente a caso aislado.** Un caso se juzga por sí solo; el portafolio equilibra riesgo, horizonte y capacidad, y asigna recursos limitados.
 
-**Frontera de aplicación:** Horas ahorradas no equivalen a cash o value si no cambia capacidad o output. Define cómo el tiempo liberado se convierte en outcome empresarial.
+**Límites.** Las probabilidades de éxito son juicios. Las tasas de conversión de horas a caja dependen de decisiones organizacionales. Los resultados de pilotos pueden no replicarse a escala. El estado de la tecnología cambia con rapidez. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre portafolio de IA y casos de negocio |
+| Nivel | Cómo participa en el portafolio |
 |---|---|
-| **Profesional** | usa **portafolio de IA y casos de negocio** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **AI use case** y **AI portfolio** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta time saved con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si portafolio de IA y casos de negocio cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de portafolio de IA y casos de negocio reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **portafolio de IA y casos de negocio** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Identifica tareas que consumen horas y propone casos. |
+| **Jefe / Team Lead** | Mide la línea base de su proceso y evalúa pilotos. |
+| **Gerente** | Es dueño de un caso con valor medido. |
+| **CEO / Director** | Asigna el presupuesto del portafolio y exige criterios de parada. |
+| **Founder / Owner** | Equilibra el costo de esperar con el de apostar mal. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa lanza 25 copilots. Seis meses después solo dos tienen más de 40% adopción; no existe baseline de productividad ni costo por consulta.
+Un banco regional con 2.900 empleados y un presupuesto de innovación de 1.200 millones de pesos recibe 23 propuestas de IA: asistente de atención en sucursales, análisis de riesgo de crédito, detección de fraude, redacción de contratos, clasificación de reclamos, predicción de fuga de clientes, generación de código para tecnología, resumen de reuniones, y otras. Hay tres pilotos en curso sin métricas; un área compró 400 licencias de un asistente general que se usa poco; un proveedor ofrece «IA lista para usar» con un contrato de tres años por 600 millones. El directorio pregunta cuánto valor se ha capturado y no hay línea base. Un director propone «prohibir mientras tanto»; el CEO, «hacer pilotos en todas las áreas». Los datos de clientes están en sistemas dispersos y de calidad desigual.
 
-Entrega un **decision brief de portafolio de IA y casos de negocio** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **portafolio de IA** que contenga: (a) el inventario y la clasificación de los casos con dueño, línea base y dato requerido; (b) la estimación de valor realizable con conversión a caja y costos; (c) la evaluación de viabilidad y riesgo por caso; (d) la priorización con presupuesto, valor esperado y capacidad; (e) el diseño de pilotos con métricas, criterios de éxito y de parada, y el plan de escalamiento; (f) el gobierno proporcional al riesgo y las verificaciones legales y contractuales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **portafolio de IA y casos de negocio** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. inventariar workflows y pain → 2. estimar value y baseline → 3. evaluar data y technical feasibility → 4. evaluar impact y risk → 5. pilotear con economics y guardrails antes de escalar** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta time saved, quality-error rate; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Inventaría diez flujos de trabajo de tu área y marca los dolores con costo estimado.
+2. Para un caso, calcula el ahorro de horas, la conversión a caja y el valor realizable.
+3. Evalúa la viabilidad de tres casos en datos, técnica y organización.
+4. Calcula el valor esperado de cuatro casos y ordénalos por retorno por peso invertido.
+5. Diseña un piloto con hipótesis, línea base, éxito, parada y escalamiento.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar AI use case y AI portfolio como sinónimos | Se pierde la distinción entre “aplicación específica de IA dentro de un workflow” y “conjunto priorizado de casos por value feasibility y risk” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “pilotear con economics y guardrails antes de escalar” | Se saltó “inventariar workflows y pain” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. inventariar workflows y pain → 2. estimar value y baseline → 3. evaluar data y technical feasibility → 4. evaluar impact y risk → 5. pilotear con economics y guardrails antes de escalar y marca el primer supuesto no demostrado. |
-| Optimizar solo time saved | La métrica local sustituyó al resultado del sistema | Contrástala con quality-error rate y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre portafolio de IA y casos de negocio | Horas ahorradas no equivalen a cash o value si no cambia capacidad o output. Define cómo el tiempo liberado se convierte en outcome empresarial. |
-| No fijar revisión | Una decisión sobre portafolio de IA y casos de negocio se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Medir horas ahorradas | Es la métrica más fácil | Definir cómo se convierten en caja o resultado. |
+| Pilotos sin línea base | Se parte de la tecnología | Medir antes y comparar. |
+| Purgatorio de pilotos | No hay plan de producción | Criterios de escalamiento desde el diseño. |
+| Ignorar el riesgo | Se ve como freno | Gobierno proporcional al impacto. |
+| Demasiados casos a la vez | Entusiasmo | Capacidad limitada y portafolio priorizado. |
+| Comprar paquetes cerrados | Presión comercial | Evaluar valor, datos y dependencia. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **AI use case** y **AI portfolio** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **automation rate** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **inventariar workflows y pain → estimar value y baseline** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **time saved** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **portafolio de IA y casos de negocio**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Horas ahorradas no equivalen a cash o value si no cambia capacidad o output. Define cómo el tiempo liberado se convierte en outcome empresarial.**?
+1. ¿Qué hace económicamente la IA según Agrawal, Gans y Goldfarb?
+2. ¿Por qué se parte de flujos de trabajo y no de tecnologías?
+3. ¿Por qué las horas ahorradas no son valor por sí solas?
+4. ¿Qué tres frentes tiene la viabilidad?
+5. ¿Cómo se priorizan los casos de un portafolio?
+6. ¿Qué incluye el diseño de un piloto?
+7. ¿Qué se decide al terminar un piloto?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Abarata la predicción y aumenta el valor de sus complementos: datos, juicio y acción.
+2. Porque el valor surge de resolver dolores concretos; la tecnología es un medio.
+3. Porque solo se vuelven caja o resultado si se reduce gasto o se usa la capacidad liberada para generar más valor.
+4. Datos, técnica y organización.
+5. Por valor esperado y retorno por peso invertido, con límites de capacidad, equilibrio de riesgos y presupuesto de exploración.
+6. Hipótesis, línea base, grupo de comparación, métricas de resultado, duración, criterios de éxito y de parada, y plan de escalamiento.
+7. Escalar, ajustar o detener, documentando el aprendizaje y calibrando futuras estimaciones.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/233-portafolio-de-ia-y-casos-de-negocio/`:
 
-- `strategy-memo.md` con el problema específico de **portafolio de IA y casos de negocio**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **portafolio de IA y casos de negocio** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **AI use case**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa lanza 25 copilots. Seis meses después solo dos tienen más de 40% adopción; no existe baseline de productividad ni costo por consulta.** y el dato que podría invalidar la recomendación.
+- `strategy-memo.md` (plantilla [Strategy memo](../../../../templates/strategy-memo.md)) con el portafolio del caso ejecutivo;
+- `ai-business-case.md` (plantilla [AI business case](../../../../templates/ai-business-case.md)) con el caso de negocio de un caso priorizado;
+- `decision-journal.md` con las estimaciones, los criterios de éxito y de parada y las verificaciones pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* (Harvard Business Review Press, 2020). **Uso en esta clase:** modelo operativo AI-first, escala digital, redes y arquitectura de decisión. Lectura selectiva sobre **portafolio de ia y casos de negocio**. **Localizador:** [ISBN-13 9781633697621](https://openlibrary.org/isbn/9781633697621).
-- Thomas H. Davenport & Nitin Mittal — *All-In on AI* (Harvard Business Review Press, 2022). **Uso en esta clase:** casos empresariales, estrategia y organización para inteligencia artificial. Lectura selectiva sobre **portafolio de ia y casos de negocio**. **Localizador:** [ISBN-13 9781647824693](https://openlibrary.org/isbn/9781647824693).
-- Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* (IT Revolution Press, 2018). **Uso en esta clase:** métricas de entrega, capacidades técnicas y desempeño organizacional. Lectura selectiva sobre **portafolio de ia y casos de negocio**. **Localizador:** [ISBN-13 9781942788379](https://openlibrary.org/isbn/9781942788379).
-- Foster Provost & Tom Fawcett — *Data Science for Business* (SHROFF - O'REILLY, 2013). **Uso en esta clase:** perspectiva de Datos aplicada al problema de la clase. Lectura selectiva sobre **portafolio de ia y casos de negocio**. **Localizador:** [ISBN-13 9789351102670](https://openlibrary.org/isbn/9789351102670).
-- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobernar, mapear, medir y gestionar el riesgo de sistemas de IA en la decisión de la clase. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
-- George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* (Harvard Business Review Press, 2014). **Uso en esta clase:** transformación digital desde capacidades de liderazgo y capacidades digitales. Lectura selectiva sobre **portafolio de ia y casos de negocio**. **Localizador:** [ISBN-13 9781625272478](https://openlibrary.org/isbn/9781625272478).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **portafolio de ia y casos de negocio** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **portafolio de ia y casos de negocio**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **portafolio de ia y casos de negocio** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **portafolio de ia y casos de negocio** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **portafolio de ia y casos de negocio** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Ajay Agrawal, Joshua Gans & Avi Goldfarb — *Prediction Machines* (Harvard Business Review Press, 2018). **Uso en esta clase:** la IA como reducción del costo de la predicción. Lectura selectiva sobre **portafolio de ia y casos de negocio**. **Localizador:** [ISBN-13 9781633695672](https://openlibrary.org/isbn/9781633695672).
+- Thomas H. Davenport & Nitin Mittal — *All-In on AI* (Harvard Business Review Press, 2022). **Uso en esta clase:** compromiso con la IA a escala y salida del purgatorio de pilotos. Lectura selectiva sobre **portafolio de ia y casos de negocio**. **Localizador:** [ISBN-13 9781647824693](https://openlibrary.org/isbn/9781647824693).
+- Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* (Harvard Business Review Press, 2020). **Uso en esta clase:** modelos de negocio basados en datos y algoritmos. Lectura selectiva sobre **portafolio de ia y casos de negocio**. **Localizador:** [ISBN-13 9781633697621](https://openlibrary.org/isbn/9781633697621).
+- Foster Provost & Tom Fawcett — *Data Science for Business* (SHROFF - O'REILLY, 2013). **Uso en esta clase:** definición de problemas y métricas de éxito. Lectura selectiva sobre **portafolio de ia y casos de negocio**. **Localizador:** [ISBN-13 9789351102670](https://openlibrary.org/isbn/9789351102670).
+- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** mapear, medir y gestionar riesgos de IA. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
 
-> **Regla de fuentes para Portafolio de IA y casos de negocio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **portafolio de IA y casos de negocio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Portafolio de IA y casos de negocio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de protección de datos, de decisiones automatizadas y los contratos con proveedores. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

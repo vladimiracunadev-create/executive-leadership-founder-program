@@ -1,84 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g234 d-g234" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g234">Ficha visual de la clase 234: Automatización y rediseño de trabajo</title>
-<desc id="d-g234">Conceptos: task decomposition; augmentation; straight-through processing; exception handling; job redesign. Método: mapear workflow end-to-end → clasificar tareas por repetición judgment y risk → diseñar target workflow y exceptions → redefinir roles y controles → pilotear y medir productivity y quality.</desc>
-<defs><marker id="p-g234" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 234 · Automatización y rediseño de trabajo</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 19 · Alta dirección y gobierno</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#cf222e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >task decomposition</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >descomposición del trabajo en actividades con distinto</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >potencial de automatización</text>
-<circle cx="38" cy="184.12" r="5" fill="#cf222e"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >augmentation</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >uso de tecnología para aumentar capacidad humana</text>
-<circle cx="38" cy="242.12" r="5" fill="#cf222e"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >straight-through processing</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >flujo automatizado sin intervención manual</text>
-<circle cx="38" cy="300.12" r="5" fill="#cf222e"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >exception handling</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >proceso para casos fuera de reglas</text>
-<circle cx="38" cy="358.12" r="5" fill="#cf222e"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >job redesign</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >reconfiguración de responsabilidades después de</text>
-<text x="54" y="397.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >automatización</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#cf222e"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >mapear workflow</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >end-to-end</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#cf222e"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >clasificar tareas</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >por repetición</text>
-<text x="692" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >judgment y risk</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#cf222e"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >diseñar target</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >workflow y</text>
-<text x="880" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >exceptions</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#cf222e"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >redefinir roles y</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >controles</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#cf222e"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >pilotear y medir</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >productivity y</text>
-<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >quality</text>
-<path d="M638,139 L656,139" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g234)"/>
-<path d="M826,139 L844,139" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g234)"/>
-<path d="M929,176 L929,222" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g234)"/>
-<path d="M844,259 L826,259" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g234)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#cf222e" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g234)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="95" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >touch time</text>
-<rect x="133" y="456.24" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="146" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="157" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >automation rate</text>
-<rect x="272.5" y="456.24" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="285.5" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="296.5" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >exception rate</text>
-<rect x="405.1" y="456.24" width="74.3" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="418.1" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="429.1" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >quality</text>
-<rect x="489.4" y="456.24" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="502.4" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="513.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >capacity released</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Automatización de alto riesgo necesita controles y fallback. No uses capacidad técnica como justificación para eliminar juicio humano</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >donde daño potencial es material.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 425.3" width="1040" role="img" aria-labelledby="t-s234 d-s234" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s234">Clase 234 · Qué tareas se automatizan y cuáles se aumentan</title>
+<desc id="d-s234">Clasificación de tareas por repetición, juicio y riesgo, y el tratamiento sugerido: automatizar, aumentar o reservar al juicio humano.</desc>
+<defs><marker id="p-s234" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="425.3" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 234 · Qué tareas se automatizan y cuáles se aumentan</text>
+<text x="1012" y="43" font-size="10" font-weight="400" fill="#59636e" text-anchor="end" >Autor et al. (2003) · Autor (2015) · Acemoglu &amp; Restrepo</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Tipo de tarea</text>
+<text x="253.398" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Rasgo</text>
+<text x="526.072" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Tratamiento</text>
+<text x="763.181" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Control</text>
+<rect x="28" y="136" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Rutinaria y de bajo riesgo</text>
+<text x="253.398" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Repetitiva con reglas claras.</text>
+<text x="526.072" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Automatizar.</text>
+<text x="763.181" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Muestreo y registro.</text>
+<rect x="28" y="172.56" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Rutinaria y de alto riesgo</text>
+<text x="253.398" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Reglas claras, daño posible.</text>
+<text x="526.072" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Automatizar con respaldo.</text>
+<text x="763.181" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Revisión y plan alterno.</text>
+<rect x="28" y="209.12" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="229.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Con juicio</text>
+<text x="253.398" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Contexto y excepciones.</text>
+<text x="526.072" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Aumentar al profesional.</text>
+<text x="763.181" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Decide la persona.</text>
+<rect x="28" y="245.68" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="265.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Con relación humana</text>
+<text x="253.398" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Confianza y negociación.</text>
+<text x="526.072" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Apoyar y no reemplazar.</text>
+<text x="763.181" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Calidad y satisfacción.</text>
+<rect x="28" y="298.24" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="320.24" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Se rediseña el trabajo de punta a punta y no solo las tareas sueltas. La automatización de alto riesgo necesita controles y respaldo;</text>
+<text x="44" y="337.49" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >la capacidad técnica no justifica eliminar el juicio humano donde el daño es material.</text>
+<text x="28" y="384.74" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Los cambios en roles y funciones tienen condiciones laborales que se verifican con asesoría.</text>
 </svg>

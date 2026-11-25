@@ -10,217 +10,206 @@
 
 ## 🎯 Propósito
 
-Arquitectura y deuda técnica importan al ejecutivo cuando afectan velocidad, disponibilidad, costo, seguridad o capacidad de cambiar. La deuda es un trade-off deliberado o acumulado, no código feo; debe gestionarse como riesgo y capital maintenance.
+Cada cierto tiempo, el área de tecnología pide dinero para «pagar deuda técnica» o «rediseñar la arquitectura», y el comité de dirección no sabe qué responder. La petición suena razonable, el lenguaje es técnico y el riesgo de negarla parece alto; pero tampoco hay forma de comparar esa petición con otras inversiones. Si el ejecutivo aprueba por confianza, financia proyectos largos sin resultados visibles; si rechaza por escepticismo, deja que los sistemas se degraden hasta que un incidente grave lo obligue a invertir en la peor situación. La arquitectura y la deuda técnica son, en realidad, asuntos de negocio: determinan **qué tan rápido puede cambiar la empresa, qué tan seguras y confiables son sus operaciones y cuánto cuesta cada cambio**. Y pueden traducirse a un lenguaje que el comité entienda: tiempo, riesgo y dinero.
 
-La salida de esta parte es **gobernar tecnología, datos e IA como capacidades económicas y organizacionales**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **arquitectura y deuda técnica para ejecutivos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase ofrece ese lenguaje. Se apoya en la propuesta de Parnas sobre cómo dividir los sistemas en módulos para que los cambios sean contenibles, en la metáfora de la deuda técnica de Cunningham, en Henderson y Clark sobre arquitectura e innovación, en la visión de Kleppmann sobre sistemas fiables, escalables y mantenibles, y en Skelton y Pais sobre la relación entre la estructura de los equipos y la de los sistemas. Al terminar sabrás traducir la estrategia a atributos de calidad, identificar cuellos de botella y dependencias, cuantificar el efecto de la deuda, priorizar la remediación según valor y decidir cuándo no pagar la deuda.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `architecture`, `technical debt`, `coupling`, `legacy`, `architectural runway` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → transformador digital.
-3. **Aplicar** la secuencia **1. traducir estrategia a quality attributes → 2. mapear bottlenecks y dependencies → 3. cuantificar debt impact → 4. priorizar remediation por value y risk → 5. crear guardrails y evolución incremental** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** change failure rate, lead time, incident rate sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Traducir** la estrategia a atributos de calidad que la arquitectura debe sostener.
+2. **Identificar** cuellos de botella y dependencias entre sistemas y equipos.
+3. **Cuantificar** el efecto de la deuda técnica en tiempo, riesgo y costo.
+4. **Priorizar** la remediación según valor y horizonte de vida del sistema.
+5. **Decidir** cuándo conviene no pagar la deuda y administrar el riesgo.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define architecture y technical debt sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con change failure rate y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuánto tarda en tu empresa un cambio «simple» en el sistema principal y por qué? |
+| 20–60 min | Atributos de calidad, módulos, deuda, medición, priorización y retiro. |
+| 60–105 min | Ejemplo trabajado: remediar, estabilizar o retirar un sistema según su horizonte. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **architecture** | estructura de componentes interfaces y decisiones que condicionan sistemas | Distingue un hecho compatible y otro que lo refute. |
-| **technical debt** | costo futuro creado al elegir soluciones que aumentan fricción o riesgo | Distingue un hecho compatible y otro que lo refute. |
-| **coupling** | grado de dependencia entre componentes | Distingue un hecho compatible y otro que lo refute. |
-| **legacy** | tecnología que sigue soportando valor pero impone restricciones | Distingue un hecho compatible y otro que lo refute. |
-| **architectural runway** | capacidad técnica preparada para próximas necesidades | Distingue un hecho compatible y otro que lo refute. |
+| **Arquitectura** | Estructura de componentes de un sistema y sus relaciones. | Qué se conecta con qué y cómo. |
+| **Atributo de calidad** | Propiedad que el sistema debe tener: velocidad, seguridad, escala, costo. | Se traduce de la estrategia. |
+| **Modularidad** | División en partes con límites claros. | Un cambio afecta pocos componentes. |
+| **Deuda técnica** | Costo futuro de decisiones de diseño que aceleraron el corto plazo. | Cambios lentos y riesgosos. |
+| **Acoplamiento** | Grado de dependencia entre componentes o equipos. | Un cambio obliga a coordinar con muchos. |
+| **Costo de cambio** | Tiempo y esfuerzo de modificar el sistema. | Medido en días por cambio. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 237: 1. traducir estrategia a quality attributes → 2. mapear bottlenecks y dependencies → 3. cuantificar debt impact → 4. priorizar remediation por value y risk → 5. crear guardrails y evolución incremental](modelo-mental.svg)
+![De los atributos de calidad a la deuda técnica: atributos de calidad, dependencias y cuellos de botella, impacto de la deuda y remediación por valor.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. traducir estrategia a quality attributes → 2. mapear bottlenecks y dependencies → 3. cuantificar debt impact → 4. priorizar remediation por value y risk → 5. crear guardrails y evolución incremental
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Arquitectura y deuda técnica importan al ejecutivo cuando afectan velocidad, disponibilidad, costo, seguridad o capacidad de cambiar. La deuda es un trade-off deliberado o acumulado, no código feo; debe gestionarse como riesgo y capital maintenance.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No toda deuda debe pagarse. Si un sistema está cerca de retiro o el costo de cambio supera beneficio, gestionar el riesgo puede ser mejor que reescribir.**
+**Cómo leer el diagrama.** Una escalera de cuatro niveles. **Atributos de calidad**: velocidad, seguridad, escala y costo que importan al negocio. **Dependencias y cuellos de botella**: dónde se acoplan los sistemas y los equipos. **Impacto de la deuda**: cuánto cuesta en tiempo, riesgo y dinero. **Remediación por valor**: pagar la que más frena y aceptar el resto. La nota advierte que no toda deuda debe pagarse: si un sistema está por retirarse o el costo de cambiar supera el beneficio, administrar el riesgo puede ser mejor que reescribir; el pie, que la deuda técnica se mide por su efecto en el negocio, no por la opinión sobre el código.
 
 ## 📖 Desarrollo
 
-### 1. architecture: mecanismo central
+### 1. La arquitectura y la estrategia
 
-**architecture** se entiende aquí como **estructura de componentes interfaces y decisiones que condicionan sistemas**. Esta es la pieza causal o estructural desde la que se inicia **arquitectura y deuda técnica para ejecutivos**: antes de traducir estrategia a quality attributes, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La arquitectura de un sistema no es un dibujo: es el conjunto de decisiones que determina qué cambios son fáciles y cuáles difíciles. Si la estrategia exige lanzar ofertas en días, la arquitectura debe permitirlo; si exige operar con alta disponibilidad o proteger datos sensibles, debe diseñarse para eso. El ejecutivo traduce la estrategia a **atributos de calidad** medibles: **velocidad de cambio** (cuánto tarda llevar una idea a producción), **confiabilidad** (disponibilidad, tiempo de recuperación), **seguridad**, **escalabilidad** (capacidad de crecer sin rediseñar), **costo de operación** y **capacidad de integración**. Kleppmann describe que los sistemas de datos deben ser **fiables, escalables y mantenibles**, y que las decisiones de diseño tienen consecuencias a largo plazo en la facilidad de evolución. Henderson y Clark muestran que cambiar la **arquitectura** (cómo se conectan los componentes) es mucho más difícil que mejorar los componentes, y que las organizaciones tienden a reproducir sus estructuras previas.
 
-La lectura rectora de este bloque es Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*. Su aporte se usa para examinar **modelo operativo AI-first, escala digital, redes y arquitectura de decisión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **change failure rate**; regístrala con periodo, unidad, población y baseline.
+### 2. Modularidad: contener el cambio
 
-Relaciona el mecanismo con **technical debt**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Parnas propuso en 1972 un criterio que sigue vigente: dividir un sistema en **módulos** según las decisiones de diseño que probablemente cambien, de modo que cada módulo **oculte** una decisión y los cambios queden contenidos. Un sistema modular permite que un equipo cambie una parte sin afectar a las demás; uno **acoplado** obliga a coordinar y probar todo cada vez que se modifica algo. Para el ejecutivo, la pregunta es sencilla: **¿cuántas personas y equipos hay que coordinar para hacer un cambio típico?** Si la respuesta es «muchos», hay acoplamiento, y cada nueva funcionalidad cuesta más y tarda más que la anterior. Skelton y Pais agregan que la estructura de equipos y la de sistemas se influyen mutuamente: equipos con responsabilidades claras sobre componentes con límites claros reducen la coordinación.
 
-### 2. technical debt: frontera conceptual y error de clasificación
+### 3. Deuda técnica: qué es y qué no es
 
-**Definición operacional:** costo futuro creado al elegir soluciones que aumentan fricción o riesgo. Su valor está en distinguirlo de **architecture** y **coupling**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Cunningham propuso la metáfora de la **deuda técnica**: lanzar con un diseño imperfecto es como pedir un préstamo, útil para ganar velocidad, a condición de **pagar** luego con refactorización; si no se paga, los **intereses** se acumulan como lentitud y riesgo en cada cambio. No toda imperfección es deuda: puede ser una **decisión consciente** (lanzar un prototipo para aprender) o un **error** de ingeniería. La deuda aparece también por **cambios de contexto** (un diseño razonable que dejó de serlo cuando el negocio creció), por **falta de mantenimiento** (versiones obsoletas, dependencias sin actualizar) y por **conocimiento perdido** (nadie entiende el sistema). El comité debe distinguir **deuda deliberada y gestionada** (con plan) de **deuda inadvertida** (que se descubre al fallar).
 
-Contrasta el problema con Thomas H. Davenport & Nitin Mittal — *All-In on AI*, que aporta una mirada sobre **casos empresariales, estrategia y organización para inteligencia artificial**. Formula dos mini-casos: uno que sí satisface la definición de **technical debt** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **lead time** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Cuantificar el impacto
 
-Antes de mapear bottlenecks y dependencies, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La deuda técnica se vuelve un tema del comité cuando se **cuantifica** en lenguaje de negocio. Tres dimensiones. **Tiempo**: porcentaje del esfuerzo del equipo que se va en **retrabajo, corrección de errores y coordinación** en vez de nuevas funcionalidades; tiempo medio de cambio (de la idea a producción) y su tendencia. **Riesgo**: número y costo de incidentes, tiempo de recuperación, exposición de seguridad por componentes obsoletos, dependencia de personas clave. **Costo**: gasto en mantener frente al gasto en mejorar, licencias de sistemas antiguos, costo de oportunidad de proyectos que no se pueden hacer. Con estos datos, el directorio puede comparar la **remediación** con otras inversiones. Las estimaciones son aproximadas; el objetivo es llevar la conversación de la opinión a los números.
 
-### 3. coupling: operacionalización y medición
+### 5. Priorizar la remediación por valor
 
-**coupling** significa **grado de dependencia entre componentes**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+No se paga toda la deuda. Se **prioriza** la que más frena a las capacidades críticas (clase 229): la que ocurre en los sistemas que cambian con frecuencia (donde el interés se paga más veces), la que causa los incidentes más costosos y la que bloquea iniciativas estratégicas. Se considera el **horizonte de vida** del sistema: remediar un sistema que se va a retirar en dos años rara vez conviene; para uno que durará ocho años, casi siempre. También se evalúan **alternativas de menor costo**: estabilización parcial, aislamiento de componentes críticos, reglas de prevención de nueva deuda (estándares, revisiones, pruebas automatizadas) y envolver el sistema antiguo con interfaces para reemplazarlo de a poco. Un criterio práctico: invertir donde el **ahorro anual** en tiempo, incidentes y riesgo, durante el horizonte de vida, supera con holgura el costo de la remediación.
 
-NIST — *Cybersecurity Framework (CSF) 2.0* orienta este bloque mediante **gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **incident rate**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Reescribir, remediar, aislar o retirar
 
-Al llegar a cuantificar debt impact, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Ante un sistema problemático hay cuatro caminos. **Remediar** (mejorar el diseño existente por partes, con pruebas): útil si el sistema es central y el diseño es recuperable. **Reescribir** (reemplazar por un sistema nuevo): arriesgado y lento; solo se justifica si la arquitectura impide los atributos de calidad requeridos. **Aislar o estrangular** (rodear el sistema antiguo con interfaces y reemplazarlo gradualmente): reduce el riesgo del «gran cambio». **Retirar** (dejar de usarlo): cuando ya no aporta valor (clase 236). Las reescrituras completas tienen un historial de sobrecostos y atrasos; se prefieren cambios **incrementales** con valor temprano. Y se acepta que, en algunos casos, **administrar el riesgo** (monitoreo, respaldos, conocimiento documentado) es mejor que cambiar.
 
-### 4. legacy: trade-offs y efectos de segundo orden
+### 7. Gobierno: prevenir nueva deuda
 
-**Definición:** tecnología que sigue soportando valor pero impone restricciones. Este concepto obliga a abandonar la idea de que **arquitectura y deuda técnica para ejecutivos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de priorizar remediation por value y risk, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd* aporta una lente sobre **perspectiva de Economía digital aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **maintenance share** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **arquitectura y deuda técnica para ejecutivos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **legacy** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. architectural runway: gobernanza, límites e integración
-
-**architectural runway** se define como **capacidad técnica preparada para próximas necesidades** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Martin Kleppmann — *Designing Data-Intensive Applications* se utiliza para estudiar **perspectiva de Arquitectura tecnológica aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar crear guardrails y evolución incremental, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No toda deuda debe pagarse. Si un sistema está cerca de retiro o el costo de cambio supera beneficio, gestionar el riesgo puede ser mejor que reescribir.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **architecture**, **technical debt**, **coupling**, **legacy** y **architectural runway** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **arquitectura y deuda técnica para ejecutivos** no consiste en sumar cinco definiciones. Empieza por **architecture**, contrasta **technical debt** con **coupling**, incorpora **legacy** como restricción o mecanismo y usa **architectural runway** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. traducir estrategia a quality attributes → 2. mapear bottlenecks y dependencies → 3. cuantificar debt impact → 4. priorizar remediation por value y risk → 5. crear guardrails y evolución incremental**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Pagar la deuda sin cambiar las causas produce deuda nueva. Se establecen **mecanismos de prevención**: estándares de diseño y de calidad, revisiones, pruebas automatizadas, un **presupuesto de capacidad** (por ejemplo, 15 a 20 % del esfuerzo de los equipos a mejoras estructurales), **métricas** de salud técnica (tiempo de cambio, incidentes, cobertura de pruebas, versiones obsoletas) en el tablero de dirección, y **decisiones conscientes** de endeudamiento (registrar cuándo se toma un atajo, con fecha de pago). El **incentivo** importa: si los equipos solo se miden por entregar funcionalidades, acumularán deuda. El comité pregunta por la salud técnica con la misma regularidad con que pregunta por las ventas.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* | modelo operativo AI-first, escala digital, redes y arquitectura de decisión | ¿Qué supuesto de **arquitectura y deuda técnica para ejecutivos** ayuda a desafiar? |
-| Thomas H. Davenport & Nitin Mittal — *All-In on AI* | casos empresariales, estrategia y organización para inteligencia artificial | ¿Qué supuesto de **arquitectura y deuda técnica para ejecutivos** ayuda a desafiar? |
-| NIST — *Cybersecurity Framework (CSF) 2.0* | gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad | ¿Qué supuesto de **arquitectura y deuda técnica para ejecutivos** ayuda a desafiar? |
-| Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd* | perspectiva de Economía digital aplicada al problema de la clase | ¿Qué supuesto de **arquitectura y deuda técnica para ejecutivos** ayuda a desafiar? |
-| Martin Kleppmann — *Designing Data-Intensive Applications* | perspectiva de Arquitectura tecnológica aplicada al problema de la clase | ¿Qué supuesto de **arquitectura y deuda técnica para ejecutivos** ayuda a desafiar? |
-
-En **arquitectura y deuda técnica para ejecutivos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **architecture**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Parnas | Dividir en módulos según las decisiones que cambiarán. | Texto de 1972; hay que adaptarlo a sistemas actuales. | ¿Cuántos equipos coordinamos por cambio? |
+| Cunningham | Deuda técnica como préstamo con intereses. | Metáfora; hay que medirla. | ¿Qué atajo tomamos y cuándo lo pagamos? |
+| Henderson y Clark | Arquitectura frente a componentes en la innovación. | No es específico de software. | ¿Qué conexión frena el cambio? |
+| Kleppmann | Fiabilidad, escalabilidad y mantenibilidad de sistemas de datos. | Técnico; requiere traducción. | ¿Qué tan fácil es evolucionar este sistema? |
+| Skelton y Pais | Estructura de equipos y de sistemas se influyen. | Enfoque de organización de tecnología. | ¿Hay equipos con límites claros? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Cada feature en billing requiere coordinación de cinco equipos y ventana nocturna. Negocio piensa que es lentitud de ingeniería; arquitectura monolítica crea el cuello.
+**Situación (hipotética).** El sistema principal de una empresa es mantenido por 40 ingenieros con un costo de 48 millones de pesos por persona al año (1.920 millones). Un diagnóstico muestra que el **35 %** del esfuerzo se va en retrabajo y coordinación causados por deuda técnica, y que el sistema sufre **8 incidentes** al año con un costo medio de 60 millones cada uno.
 
-**Paso 1 — traducir estrategia a quality attributes.** La gerencia escribe primero el supuesto asociado a **architecture** y evita convertirlo en hecho. Luego busca **change failure rate** para contrastarlo en el caso de **arquitectura y deuda técnica para ejecutivos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Impacto anual de la deuda.**
 
-**Paso 2 — mapear bottlenecks y dependencies.** La gerencia escribe primero el supuesto asociado a **technical debt** y evita convertirlo en hecho. Luego busca **lead time** para contrastarlo en el caso de **arquitectura y deuda técnica para ejecutivos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Concepto | Cálculo | Millones |
+|---|---|---|
+| Esfuerzo perdido | 35 % × 1.920 | 672 |
+| Incidentes | 8 × 60 | 480 |
+| **Total** | | **1.152** |
 
-**Paso 3 — cuantificar debt impact.** La gerencia escribe primero el supuesto asociado a **coupling** y evita convertirlo en hecho. Luego busca **incident rate** para contrastarlo en el caso de **arquitectura y deuda técnica para ejecutivos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Tres alternativas.**
 
-**Paso 4 — priorizar remediation por value y risk.** La gerencia escribe primero el supuesto asociado a **legacy** y evita convertirlo en hecho. Luego busca **maintenance share** para contrastarlo en el caso de **arquitectura y deuda técnica para ejecutivos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+- **Remediar** (1.800 millones): reduce el esfuerzo perdido de 35 % a 15 % (ahorro de 0,20 × 1.920 = 384) y los incidentes de 8 a 3 (ahorro de 5 × 60 = 300): beneficio de **684 millones al año**, con la mitad en el primer año (342) por la curva de implantación.
+- **Estabilizar** (250 millones): monitoreo, pruebas y aislamiento de los módulos más frágiles; reduce los incidentes a la mitad (ahorro de 240 al año).
+- **Retirar y reemplazar** por un producto estándar (clase 236): no se evalúa aquí.
 
-**Paso 5 — crear guardrails y evolución incremental.** La gerencia escribe primero el supuesto asociado a **architectural runway** y evita convertirlo en hecho. Luego busca **dependency count** para contrastarlo en el caso de **arquitectura y deuda técnica para ejecutivos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado neto según el horizonte de vida del sistema.**
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **arquitectura y deuda técnica para ejecutivos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+| Años de vida restante | Remediar: beneficio acumulado − 1.800 | Estabilizar: 240 × años − 250 |
+|---|---|---|
+| 2 | 342 + 684 − 1.800 = **−774** | 480 − 250 = **+230** |
+| 3 | 342 + 684 + 684 − 1.800 = **−90** | 720 − 250 = **+470** |
+| 4 | 2.394 − 1.800 = **+594** | 960 − 250 = **+710** |
+| 5 | 3.078 − 1.800 = **+1.278** | 1.200 − 250 = **+950** |
+| 8 | 5.130 − 1.800 = **+3.330** | 1.920 − 250 = **+1.670** |
+
+**Lectura.** Si el sistema se va a retirar en dos o tres años, remediar pierde dinero; estabilizar es mejor. Con cuatro años de vida, la estabilización todavía supera a la remediación (710 frente a 594); a partir de unos 4,3 años, remediar es mejor; con ocho años, la diferencia es de 1.660 millones a favor de remediar. La decisión depende del **horizonte**, que es una decisión estratégica del comité.
+
+**Decisión.** La empresa decide mantener el sistema al menos ocho años (es central para la operación) y **remediar por etapas**: primera etapa de 700 millones sobre los módulos que concentran el 70 % de los incidentes y de los cambios; las etapas posteriores se liberan si en seis meses el esfuerzo perdido baja de 35 % a menos de 28 % y los incidentes a menos de 6. Se establece un **presupuesto de capacidad** de 15 % del esfuerzo para evitar nueva deuda y una **métrica** mensual de tiempo de cambio.
+
+**Indicadores.** Tiempo medio de cambio (de 38 a 15 días); incidentes al año (de 8 a 3); porcentaje de esfuerzo en retrabajo (de 35 % a 15 %); versiones obsoletas críticas (de 41 a 0); equipos necesarios para un cambio típico (de 5 a 2).
+
+**Cuidados.** Las estimaciones de esfuerzo perdido y de incidentes son aproximadas; las decisiones sobre proveedores y sistemas se verifican con los contratos y la seguridad vigente; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La deuda se tradujo a pesos. (2) El horizonte de vida cambió la mejor alternativa. (3) Se liberó el capital por etapas con criterios de salida.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **architecture** | estructura de componentes interfaces y decisiones que condicionan sistemas | Cuando change failure rate es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **technical debt** | costo futuro creado al elegir soluciones que aumentan fricción o riesgo | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Arquitectura frente a deuda técnica.** La arquitectura define la estructura y las posibilidades; la deuda técnica es el costo acumulado de desviaciones del diseño o de atajos. Una buena arquitectura reduce la deuda futura, pero no la elimina.
 
-**Frontera de aplicación:** No toda deuda debe pagarse. Si un sistema está cerca de retiro o el costo de cambio supera beneficio, gestionar el riesgo puede ser mejor que reescribir.
+**Límites.** No toda deuda debe pagarse. Medir el esfuerzo perdido y los incidentes tiene incertidumbre. Las reescrituras completas son riesgosas. Los beneficios de la remediación no siempre se materializan como se estiman. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre arquitectura y deuda técnica para ejecutivos |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **arquitectura y deuda técnica para ejecutivos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **architecture** y **technical debt** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta change failure rate con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si arquitectura y deuda técnica para ejecutivos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de arquitectura y deuda técnica para ejecutivos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **arquitectura y deuda técnica para ejecutivos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Registra los atajos que toma y propone mejoras. |
+| **Jefe / Team Lead** | Reserva capacidad para reducir deuda y mide la salud técnica. |
+| **Gerente** | Traduce la deuda a efecto de negocio y la prioriza. |
+| **CEO / Director** | Decide horizonte de vida, financia por etapas y exige métricas. |
+| **Founder / Owner** | Equilibra velocidad hoy con capacidad de cambiar mañana. |
 
 ## 🏢 Caso ejecutivo
 
-Cada feature en billing requiere coordinación de cinco equipos y ventana nocturna. Negocio piensa que es lentitud de ingeniería; arquitectura monolítica crea el cuello.
+Una empresa de servicios financieros con 1.700 personas y un núcleo de sistemas de 18 años tiene 90 ingenieros en tecnología (costo de 4.300 millones al año). Hechos: un cambio simple en tarifas toma 11 semanas y requiere coordinar a seis equipos; hubo 17 incidentes en el año (costo medio de 45 millones y uno de 400 millones con sanción del regulador); el 52 % del tiempo de los equipos se va en retrabajo, pruebas manuales y coordinación; hay 63 componentes con versiones sin soporte, algunos con vulnerabilidades conocidas; dos ingenieros con 20 años de antigüedad son los únicos que conocen módulos críticos; el costo de los sistemas antiguos es de 3.100 millones al año en licencias. El área de tecnología propone una reescritura completa de 14.000 millones en cuatro años; el área de negocio quiere congelar el sistema y construir encima; el director de riesgos advierte la exposición; el regulador pide un plan.
 
-Entrega un **decision brief de arquitectura y deuda técnica para ejecutivos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de arquitectura y deuda técnica** que contenga: (a) los atributos de calidad que exige la estrategia y el estado actual; (b) el mapa de dependencias y cuellos de botella con el costo de cambio; (c) la cuantificación de la deuda en tiempo, riesgo y costo; (d) la comparación de remediar, estabilizar, aislar, reescribir y retirar según el horizonte de vida; (e) la priorización, el financiamiento por etapas con criterios de liberación y la prevención de nueva deuda; (f) las métricas de salud técnica y las verificaciones regulatorias, de seguridad y contractuales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **arquitectura y deuda técnica para ejecutivos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. traducir estrategia a quality attributes → 2. mapear bottlenecks y dependencies → 3. cuantificar debt impact → 4. priorizar remediation por value y risk → 5. crear guardrails y evolución incremental** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta change failure rate, lead time; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Traduce la estrategia de tu empresa a cinco atributos de calidad medibles.
+2. Cuenta cuántos equipos se coordinan en un cambio típico de un sistema principal.
+3. Estima el porcentaje de esfuerzo perdido y el costo de los incidentes de un sistema.
+4. Compara remediar y estabilizar un sistema con tres horizontes de vida.
+5. Define cinco métricas de salud técnica para el tablero de dirección.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar architecture y technical debt como sinónimos | Se pierde la distinción entre “estructura de componentes interfaces y decisiones que condicionan sistemas” y “costo futuro creado al elegir soluciones que aumentan fricción o riesgo” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “crear guardrails y evolución incremental” | Se saltó “traducir estrategia a quality attributes” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. traducir estrategia a quality attributes → 2. mapear bottlenecks y dependencies → 3. cuantificar debt impact → 4. priorizar remediation por value y risk → 5. crear guardrails y evolución incremental y marca el primer supuesto no demostrado. |
-| Optimizar solo change failure rate | La métrica local sustituyó al resultado del sistema | Contrástala con lead time y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre arquitectura y deuda técnica para ejecutivos | No toda deuda debe pagarse. Si un sistema está cerca de retiro o el costo de cambio supera beneficio, gestionar el riesgo puede ser mejor que reescribir. |
-| No fijar revisión | Una decisión sobre arquitectura y deuda técnica para ejecutivos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Aprobar por confianza | No hay lenguaje común | Cuantificar tiempo, riesgo y costo. |
+| Rechazar por escepticismo | Se ve como gasto técnico | Evaluar el interés que se paga cada año. |
+| Reescribir todo | Atractivo de empezar de cero | Cambios incrementales con valor temprano. |
+| Pagar deuda de un sistema que se retira | No se define el horizonte | Decidir el horizonte antes. |
+| No prevenir nueva deuda | Incentivos solo de entrega | Presupuesto de capacidad y estándares. |
+| Depender de pocas personas | Conocimiento no documentado | Documentar y distribuir el conocimiento. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **architecture** y **technical debt** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **coupling** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **traducir estrategia a quality attributes → mapear bottlenecks y dependencies** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **change failure rate** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **arquitectura y deuda técnica para ejecutivos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No toda deuda debe pagarse. Si un sistema está cerca de retiro o el costo de cambio supera beneficio, gestionar el riesgo puede ser mejor que reescribir.**?
+1. ¿Qué es un atributo de calidad y cómo se relaciona con la estrategia?
+2. ¿Qué propone Parnas sobre la modularidad?
+3. ¿Qué es la deuda técnica y qué tipos hay?
+4. ¿Cómo se cuantifica su impacto?
+5. ¿Por qué el horizonte de vida cambia la decisión?
+6. ¿Qué caminos hay ante un sistema problemático?
+7. ¿Cómo se previene la deuda nueva?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Una propiedad medible que el sistema debe tener (velocidad de cambio, confiabilidad, seguridad, escala, costo); se deriva de lo que la estrategia exige.
+2. Dividir el sistema en módulos según las decisiones que probablemente cambien, de modo que cada módulo oculte una decisión y los cambios queden contenidos.
+3. El costo futuro de decisiones que aceleraron el corto plazo; puede ser deliberada y gestionada o inadvertida, por contexto cambiado, falta de mantenimiento o conocimiento perdido.
+4. En tiempo (esfuerzo perdido y tiempo de cambio), riesgo (incidentes y exposición) y costo (mantener frente a mejorar).
+5. Porque los beneficios de la remediación se acumulan con los años; si el sistema se retira pronto, no se recupera la inversión.
+6. Remediar, reescribir, aislar o estrangular, retirar o administrar el riesgo.
+7. Con estándares, revisiones, pruebas automatizadas, presupuesto de capacidad, métricas de salud técnica e incentivos que no premien solo la entrega.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/237-arquitectura-y-deuda-tecnica-para-ejecutivos/`:
 
-- `leadership-decision-brief.md` con el problema específico de **arquitectura y deuda técnica para ejecutivos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **arquitectura y deuda técnica para ejecutivos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **architecture**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Cada feature en billing requiere coordinación de cinco equipos y ventana nocturna. Negocio piensa que es lentitud de ingeniería; arquitectura monolítica crea el cuello.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan del caso ejecutivo;
+- `risk-register.md` (plantilla [Risk register](../../../../templates/risk-register.md)) con los riesgos técnicos y su tratamiento;
+- `decision-journal.md` con las estimaciones de deuda, el horizonte de vida y los criterios de liberación por etapas.
 
 ## 📗 Fuentes y verificación
 
-- Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* (Harvard Business Review Press, 2020). **Uso en esta clase:** modelo operativo AI-first, escala digital, redes y arquitectura de decisión. Lectura selectiva sobre **arquitectura y deuda técnica para ejecutivos**. **Localizador:** [ISBN-13 9781633697621](https://openlibrary.org/isbn/9781633697621).
-- Thomas H. Davenport & Nitin Mittal — *All-In on AI* (Harvard Business Review Press, 2022). **Uso en esta clase:** casos empresariales, estrategia y organización para inteligencia artificial. Lectura selectiva sobre **arquitectura y deuda técnica para ejecutivos**. **Localizador:** [ISBN-13 9781647824693](https://openlibrary.org/isbn/9781647824693).
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd* (Norton & Company, Incorporated, W. W., 2017). **Uso en esta clase:** perspectiva de Economía digital aplicada al problema de la clase. Lectura selectiva sobre **arquitectura y deuda técnica para ejecutivos**. **Localizador:** [ISBN-13 9780393254303](https://openlibrary.org/isbn/9780393254303).
-- Martin Kleppmann — *Designing Data-Intensive Applications* (O'Reilly publications, 2017). **Uso en esta clase:** perspectiva de Arquitectura tecnológica aplicada al problema de la clase. Lectura selectiva sobre **arquitectura y deuda técnica para ejecutivos**. **Localizador:** [ISBN-13 9789352135240](https://openlibrary.org/isbn/9789352135240).
-- George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* (Harvard Business Review Press, 2014). **Uso en esta clase:** transformación digital desde capacidades de liderazgo y capacidades digitales. Lectura selectiva sobre **arquitectura y deuda técnica para ejecutivos**. **Localizador:** [ISBN-13 9781625272478](https://openlibrary.org/isbn/9781625272478).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **arquitectura y deuda técnica para ejecutivos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **arquitectura y deuda técnica para ejecutivos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **arquitectura y deuda técnica para ejecutivos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **arquitectura y deuda técnica para ejecutivos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **arquitectura y deuda técnica para ejecutivos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- D. L. Parnas — *On the criteria to be used in decomposing systems into modules* (Communications of the ACM, 1972). **Uso en esta clase:** modularidad según las decisiones que probablemente cambien. Lectura selectiva sobre **arquitectura y deuda técnica para ejecutivos**. **Localizador:** [DOI 10.1145/361598.361623](https://doi.org/10.1145/361598.361623).
+- Ward Cunningham — *The WyCash portfolio management system* (OOPSLA '92 Addendum, 1992). **Uso en esta clase:** deuda técnica como préstamo con intereses. Lectura selectiva sobre **arquitectura y deuda técnica para ejecutivos**. **Localizador:** [DOI 10.1145/157709.157715](https://doi.org/10.1145/157709.157715).
+- Rebecca M. Henderson & Kim B. Clark — *Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms* (Administrative Science Quarterly, 1990). **Uso en esta clase:** arquitectura frente a componentes en la innovación. Lectura selectiva sobre **arquitectura y deuda técnica para ejecutivos**. **Localizador:** [DOI 10.2307/2393549](https://doi.org/10.2307/2393549).
+- Martin Kleppmann — *Designing Data-Intensive Applications* (O'Reilly publications, 2017). **Uso en esta clase:** fiabilidad, escalabilidad y mantenibilidad de sistemas de datos. Lectura selectiva sobre **arquitectura y deuda técnica para ejecutivos**. **Localizador:** [ISBN-13 9789352135240](https://openlibrary.org/isbn/9789352135240).
+- Matthew Skelton & Manuel Pais — *Team Topologies* (IT Revolution Press, 2019). **Uso en esta clase:** relación entre la estructura de equipos y la de sistemas. Lectura selectiva sobre **arquitectura y deuda técnica para ejecutivos**. **Localizador:** [ISBN-13 9781942788812](https://openlibrary.org/isbn/9781942788812).
 
-> **Regla de fuentes para Arquitectura y deuda técnica para ejecutivos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **arquitectura y deuda técnica para ejecutivos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Arquitectura y deuda técnica para ejecutivos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las exigencias regulatorias sobre sistemas críticos y seguridad. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

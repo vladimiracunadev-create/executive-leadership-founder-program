@@ -66,18 +66,18 @@ Las clases **237 a 240** cubren la gestión: deuda técnica, métricas de entreg
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 229 | [Tecnología como capacidad empresarial](classes/229-tecnologia-como-capacidad-empresarial/README.md) | business capability, technology asset, technical dependency | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
-| 230 | [Estrategia digital](classes/230-estrategia-digital/README.md) | digital strategy, digitization, digitalization | [strategy-memo](../../templates/strategy-memo.md) | 150 |
-| 231 | [Economía de cloud y plataformas](classes/231-economia-de-cloud-y-plataformas/README.md) | cloud economics, elasticity, unit cost | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 232 | [Datos como activo operativo](classes/232-datos-como-activo-operativo/README.md) | data product, data quality, data owner | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 233 | [Portafolio de IA y casos de negocio](classes/233-portafolio-de-ia-y-casos-de-negocio/README.md) | AI use case, AI portfolio, automation rate | [strategy-memo](../../templates/strategy-memo.md) | 150 |
-| 234 | [Automatización y rediseño de trabajo](classes/234-automatizacion-y-rediseno-de-trabajo/README.md) | task decomposition, augmentation, straight-through processing | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
-| 235 | [Ciberseguridad desde el directorio](classes/235-ciberseguridad-desde-el-directorio/README.md) | cyber oversight, threat scenario, crown jewel | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 236 | [Build, buy, partner o retire](classes/236-build-buy-partner-o-retire/README.md) | build, buy, partner | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 237 | [Arquitectura y deuda técnica para ejecutivos](classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos/README.md) | architecture, technical debt, coupling | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 238 | [Métricas de entrega tecnológica](classes/238-metricas-de-entrega-tecnologica/README.md) | deployment frequency, lead time for changes, change failure rate | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 239 | [Cambio laboral provocado por IA](classes/239-cambio-laboral-provocado-por-ia/README.md) | task exposure, skill shift, reskilling | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 240 | [Capstone: transformation board](classes/240-capstone-transformation-board/README.md) | transformation portfolio, value case, dependency map | [board-or-executive-memo](../../templates/board-or-executive-memo.md) | 150 |
+| 229 | [Tecnología como capacidad empresarial](classes/229-tecnologia-como-capacidad-empresarial/README.md) | Capacidad de negocio, Activo tecnológico, Habilitador | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
+| 230 | [Estrategia digital](classes/230-estrategia-digital/README.md) | Digitalización, Estrategia digital, Recorrido del cliente | [strategy-memo](../../templates/strategy-memo.md) | 150 |
+| 231 | [Economía de cloud y plataformas](classes/231-economia-de-cloud-y-plataformas/README.md) | Elasticidad, Costo unitario, FinOps | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 232 | [Datos como activo operativo](classes/232-datos-como-activo-operativo/README.md) | Activo de datos, Producto de datos, Dominio | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 233 | [Portafolio de IA y casos de negocio](classes/233-portafolio-de-ia-y-casos-de-negocio/README.md) | Caso de uso de IA, Portafolio de IA, Línea base | [strategy-memo](../../templates/strategy-memo.md) | 150 |
+| 234 | [Automatización y rediseño de trabajo](classes/234-automatizacion-y-rediseno-de-trabajo/README.md) | Descomposición en tareas, Automatización, Aumento (*augmentation*) | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
+| 235 | [Ciberseguridad desde el directorio](classes/235-ciberseguridad-desde-el-directorio/README.md) | Escenario cibernético, Activos críticos (*crown jewels*), Riesgo residual | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 236 | [Build, buy, partner o retire](classes/236-build-buy-partner-o-retire/README.md) | Construir (*build*), Comprar (*buy*), Asociarse (*partner*) | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 237 | [Arquitectura y deuda técnica para ejecutivos](classes/237-arquitectura-y-deuda-tecnica-para-ejecutivos/README.md) | Arquitectura, Atributo de calidad, Modularidad | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 238 | [Métricas de entrega tecnológica](classes/238-metricas-de-entrega-tecnologica/README.md) | Frecuencia de despliegue, Tiempo de entrega de cambios, Tasa de fallas en cambios | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 239 | [Cambio laboral provocado por IA](classes/239-cambio-laboral-provocado-por-ia/README.md) | Exposición de tareas, Productividad realizable, Desplazamiento de tareas | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 240 | [Capstone: transformation board](classes/240-capstone-transformation-board/README.md) | Tablero de transformación, Portafolio de iniciativas, Dependencia | [board-or-executive-memo](../../templates/board-or-executive-memo.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -88,70 +88,80 @@ Las clases **237 a 240** cubren la gestión: deuda técnica, métricas de entreg
 
 ## 🔤 Glosario de la parte
 
-60 conceptos definidos en las clases, con la definición operacional que usa cada una.
+70 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **AI portfolio** | conjunto priorizado de casos por value feasibility y risk. |
-| **AI unit economics** | costo total por tarea o outcome automatizado. |
-| **AI use case** | aplicación específica de IA dentro de un workflow. |
-| **architectural runway** | capacidad técnica preparada para próximas necesidades. |
-| **architecture** | estructura de componentes interfaces y decisiones que condicionan sistemas. |
-| **augmentation** | uso de tecnología para aumentar capacidad humana. |
-| **augmentation strategy** | uso de IA para elevar desempeño humano en vez de solo sustituir. |
-| **automation rate** | proporción de trabajo realizado sin intervención humana. |
-| **benefit owner** | ejecutivo accountable por realizar valor después de entrega. |
-| **build** | desarrollar capacidad internamente. |
-| **business capability** | habilidad organizacional necesaria para lograr un outcome. |
-| **buy** | adquirir producto o servicio de mercado. |
-| **change failure rate** | proporción de cambios que causan degradación o incidente. |
-| **cloud economics** | relación entre consumo cloud arquitectura y valor. |
-| **coupling** | grado de dependencia entre componentes. |
-| **crown jewel** | activo o proceso cuya pérdida es material. |
-| **cyber oversight** | supervisión del board sobre riesgo y resiliencia digital. |
-| **cyber resilience** | capacidad de mantener o recuperar funciones frente a ataque. |
-| **data owner** | rol accountable por definición y uso de un dominio. |
-| **data product** | conjunto gestionado de datos con usuarios owner SLA y propósito. |
-| **data quality** | grado de exactitud completitud oportunidad y consistencia. |
-| **dependency map** | relaciones entre data platforms teams y vendors. |
-| **deployment frequency** | frecuencia con que cambios llegan a producción. |
-| **developer experience** | condiciones que afectan capacidad de entregar software de forma efectiva. |
-| **digital business model** | modelo donde software y datos son parte central de creación y captura de valor. |
-| **digital strategy** | conjunto de choices sobre cómo tecnología y datos crean ventaja y valor. |
-| **digital transformation** | cambio sistémico de modelo y capabilities habilitado por digital. |
-| **digitalization** | usar tecnología para mejorar procesos existentes. |
-| **digitization** | convertir información analógica a digital. |
-| **elasticity** | capacidad de ajustar recursos con demanda. |
-| **exception handling** | proceso para casos fuera de reglas. |
-| **FinOps** | disciplina de colaboración para gestionar valor y costo cloud. |
-| **human-in-the-loop** | diseño donde una persona revisa o decide en puntos definidos. |
-| **job redesign** | reconfiguración de responsabilidades después de automatización. |
-| **lead time for changes** | tiempo desde cambio hasta producción. |
-| **legacy** | tecnología que sigue soportando valor pero impone restricciones. |
-| **lineage** | trazabilidad desde origen a transformación y consumo. |
-| **partner** | compartir capacidad o riesgo con tercero. |
-| **platform** | conjunto reutilizable de servicios que acelera múltiples productos. |
-| **reskilling** | aprendizaje para desempeñar tareas o roles nuevos. |
-| **retire** | eliminar sistema o capability que ya no crea valor. |
-| **single source of truth** | fuente autorizada para una definición específica. |
-| **skill shift** | cambio en capacidades requeridas por un rol. |
-| **stage gate** | punto de decisión basado en evidencia. |
-| **straight-through processing** | flujo automatizado sin intervención manual. |
-| **tabletop exercise** | simulación de respuesta para probar decisiones y dependencias. |
-| **task decomposition** | descomposición del trabajo en actividades con distinto potencial de automatización. |
-| **task exposure** | grado en que una tarea puede ser automatizada o aumentada por IA. |
-| **TCO** | costo total de propiedad durante ciclo de vida. |
-| **technical debt** | costo futuro creado al elegir soluciones que aumentan fricción o riesgo. |
-| **technical dependency** | relación donde una capacidad depende de tecnología específica. |
-| **technology asset** | sistema o plataforma que habilita capacidades. |
-| **technology portfolio** | cartera de sistemas e inversiones gestionada por valor y riesgo. |
-| **threat scenario** | secuencia plausible de amenaza explotación e impacto. |
-| **time to restore** | tiempo para recuperar servicio tras fallo. |
-| **transformation portfolio** | cartera de apuestas tecnológicas ligadas a outcomes. |
-| **unit cost** | costo técnico por transacción cliente o workload. |
-| **value case** | argumento cuantificado o verificable de beneficio. |
-| **vendor lock-in** | costo y dificultad de cambiar proveedor. |
-| **work redesign** | recomposición de tareas responsabilidades e interfaces. |
+| **Acoplamiento** | Grado de dependencia entre componentes o equipos. |
+| **Activo de datos** | Dato con dueño, calidad definida y uso que genera valor. |
+| **Activo tecnológico** | Sistema, plataforma o dato que habilita una capacidad. |
+| **Activos críticos (*crown jewels*)** | Sistemas, datos y procesos sin los que el negocio no opera o sufre daño grave. |
+| **Arquitectura** | Estructura de componentes de un sistema y sus relaciones. |
+| **Aseguramiento independiente** | Verificación de los controles por terceros ajenos a su operación. |
+| **Asociarse (*partner*)** | Obtener la capacidad con un socio sin comprarla ni construirla. |
+| **Atributo de calidad** | Propiedad que el sistema debe tener: velocidad, seguridad, escala, costo. |
+| **Aumento (*augmentation*)** | Apoyo tecnológico al juicio y trabajo de una persona. |
+| **Automatización** | Ejecución de una tarea por una máquina sin intervención humana. |
+| **Calidad de datos** | Grado en que los datos sirven al uso previsto. |
+| **Cambio de habilidades** | Variación de las capacidades demandadas. |
+| **Capacidad de entrega** | Personas y tiempo disponibles para ejecutar. |
+| **Capacidad de negocio** | Lo que la empresa sabe hacer de forma repetible para generar valor. |
+| **Caso de uso de IA** | Aplicación concreta de IA a un problema de negocio. |
+| **Comprar (*buy*)** | Adquirir una solución de un proveedor. |
+| **Compromiso de capacidad** | Contrato por uso mínimo a cambio de descuento. |
+| **Construir (*build*)** | Desarrollar la capacidad con recursos propios. |
+| **Contrato de datos** | Acuerdo entre productor y consumidores sobre formato, significado y plazos. |
+| **Costo de cambio** | Tiempo y esfuerzo de modificar el sistema. |
+| **Costo de cambio (*switching cost*)** | Costo del usuario por pasar a otro proveedor. |
+| **Costo de salida** | Costo de cambiar a otra opción. |
+| **Costo de servir** | Costo de atender a un cliente o transacción. |
+| **Costo total de propiedad (TCO)** | Costo de adquirir, operar y mantener a lo largo de la vida útil. |
+| **Costo unitario** | Costo de la nube por unidad de negocio. |
+| **Creación de tareas** | Nuevas actividades humanas que surgen. |
+| **Criterio de parada** | Condición que obliga a detener o cambiar un piloto. |
+| **Cuello de botella** | Punto que limita el flujo de valor. |
+| **Dependencia** | Relación por la que una iniciativa necesita el resultado de otra. |
+| **Dependencia (*lock-in*)** | Costo y dificultad de cambiar de proveedor. |
+| **Descomposición en tareas** | División de un trabajo en actividades concretas. |
+| **Desperdicio** | Recursos pagados y no usados o sobredimensionados. |
+| **Desplazamiento de tareas** | Tareas que dejan de hacer las personas. |
+| **Deuda técnica** | Costo futuro de atajos o diseños que se acumulan. |
+| **Digitalización** | Traspaso de procesos existentes a soporte digital. |
+| **Dominio** | Área del negocio responsable de ciertos datos. |
+| **Efecto de red** | Valor que crece con el número de usuarios. |
+| **Ejercicio de mesa** | Simulación de una crisis con decisores. |
+| **Elasticidad** | Capacidad de aumentar o disminuir recursos con la demanda. |
+| **Escenario cibernético** | Historia de ataque con causa, evento y consecuencia de negocio. |
+| **Espacio de pruebas (*sandbox*)** | Entorno de bajo riesgo para experimentar con controles ligeros. |
+| **Estrategia digital** | Decisiones sobre cómo la tecnología cambia el modelo de negocio y la ventaja. |
+| **Excepción** | Caso que no cumple las reglas y requiere juicio. |
+| **Exposición de tareas** | Parte del trabajo que la IA podría asistir o hacer. |
+| **FinOps** | Práctica de gestión financiera de la nube entre finanzas, tecnología y negocio. |
+| **Flujo de valor** | Secuencia de actividades que entrega valor al cliente. |
+| **Frecuencia de despliegue** | Con qué frecuencia se lleva software a producción. |
+| **Habilitador** | Tecnología, proceso o talento que hace posible la capacidad. |
+| **Linaje** | Trazabilidad del origen y las transformaciones de un dato. |
+| **Línea base** | Medida del desempeño actual antes de la IA. |
+| **Modularidad** | División en partes con límites claros. |
+| **Portafolio de IA** | Conjunto priorizado de casos con distinto riesgo y horizonte. |
+| **Portafolio de iniciativas** | Conjunto de proyectos con distinto riesgo y horizonte. |
+| **Procesamiento directo (STP)** | Porcentaje de casos que pasan sin intervención humana. |
+| **Productividad realizable** | Mejora efectiva del trabajo tras considerar adopción y calidad. |
+| **Producto de datos** | Conjunto de datos tratado como producto: con dueño, usuarios y garantías. |
+| **Puerta de decisión (*stage gate*)** | Punto en que se libera capital según resultados. |
+| **Recorrido del cliente** | Secuencia de interacciones del cliente con la empresa. |
+| **Restricción** | Paso que limita el flujo completo. |
+| **Retirar (*retire*)** | Dejar de ofrecer o usar la capacidad. |
+| **Riesgo residual** | Riesgo que queda tras los controles. |
+| **Tablero de transformación** | Instancia de dirección que prioriza y gobierna las iniciativas de transformación. |
+| **Tarea rutinaria** | Tarea que sigue reglas explícitas. |
+| **Tasa de fallas en cambios** | Porcentaje de cambios que causan fallas o exigen corrección. |
+| **Tiempo de entrega de cambios** | Tiempo entre que un cambio está listo y funciona en producción. |
+| **Tiempo de recuperación** | Tiempo real para volver a operar. |
+| **Tiempo de restauración** | Tiempo para recuperar el servicio tras una falla. |
+| **Transición laboral** | Plan para las personas cuyo trabajo cambia. |
+| **Valor realizable** | Parte del valor estimado que se traduce en caja o resultado. |
+| **Viabilidad** | Posibilidad práctica de lograr el caso con datos, técnica y organización. |
 
 ## 📦 Qué queda como evidencia
 

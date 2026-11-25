@@ -10,217 +10,192 @@
 
 ## 🎯 Propósito
 
-Cloud y plataformas cambian estructura de costos, elasticidad y velocidad, pero no garantizan ahorro. FinOps y unit economics ayudan a conectar consumo técnico con valor; egress, commitments, managed services y architecture pueden crear costos y lock-in materiales.
+La nube prometió convertir los costos fijos de tecnología (servidores comprados, centros de datos) en costos variables que se pagan por uso. Para muchas empresas, esa promesa se cumplió en velocidad y flexibilidad, pero también produjo una sorpresa: una factura mensual que crece sin que nadie la entienda. Los equipos de producto crean recursos sin apagarlos, los entornos de prueba funcionan los fines de semana, los compromisos de capacidad se contratan sin saber la demanda, y el comité de dirección recibe un reporte con un número grande y una pregunta incómoda: ¿estamos gastando bien? La **economía de la nube** consiste en responder con precisión: cuánto cuesta cada cliente, transacción o producto; cuánto desperdicio hay; qué compromisos conviene tomar; qué riesgo de dependencia se asume; y cuándo el beneficio (velocidad, escala, resiliencia) justifica el costo.
 
-La salida de esta parte es **gobernar tecnología, datos e IA como capacidades económicas y organizacionales**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **economía de cloud y plataformas** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el estudio clásico de Armbrust y colaboradores sobre la computación en la nube, en la práctica de gestión financiera de la nube (FinOps) descrita por Storment y Fuller, en la economía de los costos de transacción de Williamson para analizar la dependencia de proveedores, en Shapiro y Varian sobre costos de cambio y en el libro de ingeniería de confiabilidad de Beyer y colaboradores. Al terminar sabrás calcular costos unitarios, identificar desperdicio, decidir compromisos, evaluar resiliencia y dependencia y optimizar sin sacrificar velocidad ni seguridad.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `cloud economics`, `elasticity`, `unit cost`, `FinOps`, `vendor lock-in` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → transformador digital.
-3. **Aplicar** la secuencia **1. mapear workloads y value drivers → 2. calcular unit cost → 3. identificar waste y commitments → 4. modelar resilience y lock-in → 5. optimizar arquitectura y governance** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** cloud cost per transaction, utilization, commitment coverage sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Calcular** el costo unitario de la nube por cliente, transacción o producto.
+2. **Identificar** desperdicio y oportunidades de compromiso de capacidad.
+3. **Evaluar** el riesgo de dependencia y el costo de salida de un proveedor.
+4. **Modelar** resiliencia y su costo frente al riesgo de interrupción.
+5. **Decidir** una optimización considerando velocidad, talento y riesgo, no solo la factura.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define cloud economics y elasticity sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con cloud cost per transaction y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuánto cuesta en la nube atender a un cliente de tu empresa y quién lo sabe? |
+| 20–60 min | Modelo de costos, costo unitario, desperdicio, compromisos, dependencia y resiliencia. |
+| 60–105 min | Ejemplo trabajado: costo unitario, ahorros y decisión sobre múltiples nubes. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **cloud economics** | relación entre consumo cloud arquitectura y valor | Distingue un hecho compatible y otro que lo refute. |
-| **elasticity** | capacidad de ajustar recursos con demanda | Distingue un hecho compatible y otro que lo refute. |
-| **unit cost** | costo técnico por transacción cliente o workload | Distingue un hecho compatible y otro que lo refute. |
-| **FinOps** | disciplina de colaboración para gestionar valor y costo cloud | Distingue un hecho compatible y otro que lo refute. |
-| **vendor lock-in** | costo y dificultad de cambiar proveedor | Distingue un hecho compatible y otro que lo refute. |
+| **Elasticidad** | Capacidad de aumentar o disminuir recursos con la demanda. | Pago por uso. |
+| **Costo unitario** | Costo de la nube por unidad de negocio. | Por usuario activo, transacción o pedido. |
+| **FinOps** | Práctica de gestión financiera de la nube entre finanzas, tecnología y negocio. | Etiquetas, presupuestos, revisiones. |
+| **Compromiso de capacidad** | Contrato por uso mínimo a cambio de descuento. | Reservas, planes de ahorro. |
+| **Desperdicio** | Recursos pagados y no usados o sobredimensionados. | Servidores ociosos, almacenamiento olvidado. |
+| **Dependencia (*lock-in*)** | Costo y dificultad de cambiar de proveedor. | Servicios propietarios, datos atrapados. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 231: 1. mapear workloads y value drivers → 2. calcular unit cost → 3. identificar waste y commitments → 4. modelar resilience y lock-in → 5. optimizar arquitectura y governance](modelo-mental.svg)
+![Tres miradas del costo de la nube: costo unitario, compromisos y desperdicio, y resiliencia y dependencia.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear workloads y value drivers → 2. calcular unit cost → 3. identificar waste y commitments → 4. modelar resilience y lock-in → 5. optimizar arquitectura y governance
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Cloud y plataformas cambian estructura de costos, elasticidad y velocidad, pero no garantizan ahorro. FinOps y unit economics ayudan a conectar consumo técnico con valor; egress, commitments, managed services y architecture pueden crear costos y lock-in materiales.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Optimizar costo no significa migrar todo on-premise ni eliminar managed services. Considera velocidad, talento, riesgo y costo total, no solo factura mensual.**
+**Cómo leer el diagrama.** Tres columnas. **Costo unitario**: costo por cliente, transacción o producto, atribuido a quien lo genera y comparado con el valor que entrega. **Compromisos y desperdicio**: capacidad reservada y recursos ociosos, descuentos por compromiso con riesgo y revisión periódica del uso real. **Resiliencia y dependencia**: qué ocurre si el proveedor falla, el costo de salir y de duplicar, y datos portables con plan de salida. La nota afirma que optimizar costo no significa volver a servidores propios ni eliminar servicios gestionados; el pie, que los precios y condiciones cambian y se verifican en contratos y tarifas vigentes.
 
 ## 📖 Desarrollo
 
-### 1. cloud economics: mecanismo central
+### 1. Qué cambió con la nube y qué no
 
-**cloud economics** se entiende aquí como **relación entre consumo cloud arquitectura y valor**. Esta es la pieza causal o estructural desde la que se inicia **economía de cloud y plataformas**: antes de mapear workloads y value drivers, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Armbrust y colaboradores describieron la computación en la nube como la ilusión de **recursos infinitos disponibles bajo demanda**, la eliminación del compromiso inicial de capital y el **pago por uso** a corto plazo. Identificaron además los incentivos económicos: la **elasticidad** permite ajustar la capacidad a una demanda variable, evitando el sobredimensionamiento que se hacía con servidores propios, y la **transferencia de riesgo** de subutilización al proveedor. Pero también señalaron obstáculos: dependencia del proveedor, confidencialidad, cuellos de botella de transferencia de datos, e impredecibilidad del desempeño. La conclusión para el ejecutivo es que la nube **cambia la estructura de costos y de riesgos**, no los elimina: el costo se vuelve variable y, por tanto, gestionable, pero solo si alguien lo gestiona.
 
-La lectura rectora de este bloque es Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*. Su aporte se usa para examinar **modelo operativo AI-first, escala digital, redes y arquitectura de decisión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **cloud cost per transaction**; regístrala con periodo, unidad, población y baseline.
+### 2. Costo unitario: lo que importa es por unidad de negocio
 
-Relaciona el mecanismo con **elasticity**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Una factura total de 180 millones al mes no dice nada si no se sabe cuánto se vende o cuántos clientes se atienden. La práctica de **FinOps**, descrita por Storment y Fuller, propone que finanzas, tecnología y negocio trabajen juntos con datos compartidos: **etiquetar** recursos por producto, equipo y entorno; **atribuir** costos a quien los genera; y calcular **costos unitarios** (por usuario activo, por transacción, por pedido, por cliente). El costo unitario permite comparar productos, ver economías de escala (¿baja a medida que crece la demanda?) y detectar degradaciones (¿sube sin que cambie el negocio?). También permite fijar **precios y márgenes** informados: un producto cuyo costo en la nube por cliente supera lo que el cliente paga destruye valor aunque «crezca».
 
-### 2. elasticity: frontera conceptual y error de clasificación
+### 3. Desperdicio: la fuente de ahorro más rápida
 
-**Definición operacional:** capacidad de ajustar recursos con demanda. Su valor está en distinguirlo de **cloud economics** y **unit cost**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La mayor parte de los ahorros iniciales proviene de eliminar **desperdicio**: instancias sobredimensionadas (más grandes de lo necesario), recursos ociosos (servidores que nadie usa, volúmenes de almacenamiento sin dueño), entornos de desarrollo y prueba que funcionan las 24 horas, datos que se conservan sin necesidad, servicios con redundancia innecesaria y transferencias de datos mal diseñadas. Se detecta con **informes de uso** y con la costumbre de revisar periódicamente. Se evita la tentación de recortar sin criterio: apagar un recurso que alguien usa causa un incidente. El método es **visibilidad primero** (etiquetas y dueños), luego **acción** acordada con los equipos, y **automatización** (apagado programado, políticas de tamaño).
 
-Contrasta el problema con Thomas H. Davenport & Nitin Mittal — *All-In on AI*, que aporta una mirada sobre **casos empresariales, estrategia y organización para inteligencia artificial**. Formula dos mini-casos: uno que sí satisface la definición de **elasticity** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **utilization** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Compromisos de capacidad: ahorrar con riesgo
 
-Antes de calcular unit cost, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Los proveedores ofrecen **descuentos por compromiso**: si el cliente se compromete a usar cierta capacidad durante uno o tres años, paga menos que la tarifa por demanda. Es un buen negocio para la **demanda base estable**, pero un riesgo para la variable: si la demanda cae o la arquitectura cambia, se paga por capacidad no usada. La regla práctica es **comprometer una fracción de la base mínima que se prevé estable** (por ejemplo, 60 a 70 %), dejar el resto bajo demanda y **revisar** regularmente. Se evalúa el efecto en distintos escenarios: ¿cuánto se ahorra si la demanda es la prevista?, ¿cuánto se pierde si cae 30 % o 50 %? Los términos y descuentos cambian y se verifican en los contratos.
 
-### 3. unit cost: operacionalización y medición
+### 5. Dependencia: el costo de salir
 
-**unit cost** significa **costo técnico por transacción cliente o workload**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Williamson explica que cuando una parte realiza inversiones específicas en una relación (integraciones, personal capacitado, datos migrados), queda **expuesta** a decisiones de la otra (clase 185). Shapiro y Varian añaden que los **costos de cambio** son una fuente de poder en los mercados de tecnología. En la nube, la dependencia se concentra en los servicios **propietarios** (bases de datos, funciones, herramientas de análisis) y en los **datos** (el costo de extraerlos y transferirlos). Se estima el **costo de salida**: personas, rediseño, migración de datos, riesgo y tiempo de operación en paralelo. Se compara con el costo anual y con el **riesgo** que se mitiga: ¿una dependencia con un proveedor grande con buena trayectoria es peor que construir la propia infraestructura?, ¿qué pasa si cambian precios o condiciones?
 
-George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* orienta este bloque mediante **transformación digital desde capacidades de liderazgo y capacidades digitales**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **commitment coverage**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Resiliencia: cuánto cuesta y qué evita
 
-Al llegar a identificar waste y commitments, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La disponibilidad tiene un costo creciente: operar en varias zonas de un mismo proveedor, en varias regiones o en varios proveedores aumenta la resiliencia y el costo (duplicación de infraestructura, complejidad, mayor necesidad de talento). Beyer y colaboradores, en el libro de ingeniería de confiabilidad de sitios, subrayan que la confiabilidad se diseña con **objetivos de nivel de servicio** y presupuestos de error: no se busca el 100 %, sino el nivel que justifica el negocio. La decisión se toma comparando el **costo de la redundancia** con el **costo esperado de interrupción** (probabilidad × impacto), considerando los tiempos de recuperación (clase 191). Una estrategia de múltiples nubes puede ser justificada por regulación o riesgo de concentración; con frecuencia, un diseño de buena resiliencia dentro de un proveedor, con datos portables y pruebas de recuperación, ofrece mejor relación costo-beneficio.
 
-### 4. FinOps: trade-offs y efectos de segundo orden
+### 7. Optimizar sin destruir valor
 
-**Definición:** disciplina de colaboración para gestionar valor y costo cloud. Este concepto obliga a abandonar la idea de que **economía de cloud y plataformas** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de modelar resilience y lock-in, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Martin Kleppmann — *Designing Data-Intensive Applications* aporta una lente sobre **perspectiva de Arquitectura tecnológica aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **egress spend** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **economía de cloud y plataformas**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **FinOps** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. vendor lock-in: gobernanza, límites e integración
-
-**vendor lock-in** se define como **costo y dificultad de cambiar proveedor** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Foster Provost & Tom Fawcett — *Data Science for Business* se utiliza para estudiar **perspectiva de Datos aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar optimizar arquitectura y governance, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Optimizar costo no significa migrar todo on-premise ni eliminar managed services. Considera velocidad, talento, riesgo y costo total, no solo factura mensual.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **cloud economics**, **elasticity**, **unit cost**, **FinOps** y **vendor lock-in** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **economía de cloud y plataformas** no consiste en sumar cinco definiciones. Empieza por **cloud economics**, contrasta **elasticity** con **unit cost**, incorpora **FinOps** como restricción o mecanismo y usa **vendor lock-in** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear workloads y value drivers → 2. calcular unit cost → 3. identificar waste y commitments → 4. modelar resilience y lock-in → 5. optimizar arquitectura y governance**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Optimizar costos no es volver a servidores propios ni evitar los servicios gestionados. Estos últimos pueden ser más caros por unidad, pero reducen el costo de **talento y de operación** y aceleran la entrega. La decisión considera **velocidad** (tiempo de llegada al mercado), **talento** (qué equipo se necesita para operar), **riesgo** (seguridad, cumplimiento, dependencia) y **costo total**, no solo la factura. Se evita la «optimización» que ahorra 10 % de la factura y retrasa un producto tres meses. Se establecen **objetivos** (por ejemplo, costo unitario decreciente), **responsables por producto** y **revisiones mensuales** con negocio, finanzas y tecnología. Y se incorpora **seguridad** y **cumplimiento** desde el diseño, porque el costo de un incidente supera ampliamente el de la optimización.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* | modelo operativo AI-first, escala digital, redes y arquitectura de decisión | ¿Qué supuesto de **economía de cloud y plataformas** ayuda a desafiar? |
-| Thomas H. Davenport & Nitin Mittal — *All-In on AI* | casos empresariales, estrategia y organización para inteligencia artificial | ¿Qué supuesto de **economía de cloud y plataformas** ayuda a desafiar? |
-| George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* | transformación digital desde capacidades de liderazgo y capacidades digitales | ¿Qué supuesto de **economía de cloud y plataformas** ayuda a desafiar? |
-| Martin Kleppmann — *Designing Data-Intensive Applications* | perspectiva de Arquitectura tecnológica aplicada al problema de la clase | ¿Qué supuesto de **economía de cloud y plataformas** ayuda a desafiar? |
-| Foster Provost & Tom Fawcett — *Data Science for Business* | perspectiva de Datos aplicada al problema de la clase | ¿Qué supuesto de **economía de cloud y plataformas** ayuda a desafiar? |
-
-En **economía de cloud y plataformas**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **cloud economics**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Armbrust y otros | Economía y obstáculos de la computación en la nube. | Texto de 2010; los servicios cambiaron. | ¿Qué riesgo transferimos y cuál conservamos? |
+| Storment y Fuller | Gestión financiera de la nube con etiquetas, costos unitarios y colaboración. | Prácticas generales. | ¿Quién responde por el costo de cada producto? |
+| Williamson | Dependencia por inversiones específicas. | Teoría general. | ¿Cuánto cuesta salir? |
+| Shapiro y Varian | Costos de cambio en mercados de tecnología. | Foco en información. | ¿Qué nos ata a este proveedor? |
+| Beyer y otros | Objetivos de nivel de servicio y confiabilidad. | Orientado a ingeniería. | ¿Qué disponibilidad necesita el negocio? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una SaaS crece revenue 30% pero cloud spend 70%. Nadie conoce costo por tenant y equipos sobredimensionan instancias para evitar incidentes.
+**Situación (hipotética).** Una empresa de comercio electrónico tiene una factura de nube de 180 millones de pesos al mes (2.160 millones al año), con 1,2 millones de usuarios activos mensuales y 40 millones de transacciones al mes.
 
-**Paso 1 — mapear workloads y value drivers.** La gerencia escribe primero el supuesto asociado a **cloud economics** y evita convertirlo en hecho. Luego busca **cloud cost per transaction** para contrastarlo en el caso de **economía de cloud y plataformas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costos unitarios.** 180 millones ÷ 1,2 millones = **150 pesos por usuario activo**; 180 millones ÷ 40 millones = **4,5 pesos por transacción**.
 
-**Paso 2 — calcular unit cost.** La gerencia escribe primero el supuesto asociado a **elasticity** y evita convertirlo en hecho. Luego busca **utilization** para contrastarlo en el caso de **economía de cloud y plataformas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Desperdicio detectado.** El análisis de uso muestra que el 22 % del gasto corresponde a recursos ociosos o sobredimensionados: 0,22 × 180 = 39,6 millones al mes. Se estima que se puede eliminar el 60 %: 23,8 millones al mes (285 millones al año).
 
-**Paso 3 — identificar waste y commitments.** La gerencia escribe primero el supuesto asociado a **unit cost** y evita convertirlo en hecho. Luego busca **commitment coverage** para contrastarlo en el caso de **economía de cloud y plataformas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Compromisos de capacidad.** El gasto base estable es de 120 millones al mes (el resto, 60, es variable). Se compromete el 70 % de la base: 84 millones de capacidad a un descuento de 28 %. Costo con compromiso: 84 × 0,72 = 60,5 millones. Ahorro: 84 − 60,5 = 23,5 millones al mes (282 millones al año).
 
-**Paso 4 — modelar resilience y lock-in.** La gerencia escribe primero el supuesto asociado a **FinOps** y evita convertirlo en hecho. Luego busca **egress spend** para contrastarlo en el caso de **economía de cloud y plataformas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Riesgo del compromiso.** Si la demanda base cae 30 % (de 120 a 84), la capacidad comprometida se usa por completo y el ahorro se mantiene. Si cae 50 % (a 60), la empresa paga 60,5 millones por una capacidad de la que solo usa 60 millones de equivalente: el costo es casi igual al de pagar por demanda (60), es decir, el ahorro desaparece, pero la pérdida es pequeña. Por eso se compromete el 70 % de la base y no más; con el 100 % de la base (120 millones comprometidos, 86,4 de costo), una caída de 50 % costaría 86,4 − 60 = 26,4 millones al mes sobre lo que se habría pagado por demanda.
 
-**Paso 5 — optimizar arquitectura y governance.** La gerencia escribe primero el supuesto asociado a **vendor lock-in** y evita convertirlo en hecho. Luego busca **availability** para contrastarlo en el caso de **economía de cloud y plataformas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Ahorro total anual esperado.** 285 + 282 = **567 millones** (26,2 % de 2.160). El gasto mensual baja de 180 a 132,7 millones (180 − 23,8 − 23,5) y el costo unitario, de 150 a unos 111 pesos por usuario (132,7 ÷ 1,2).
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **economía de cloud y plataformas**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Decisión sobre múltiples nubes.** La empresa evalúa duplicar la plataforma en otro proveedor para evitar dependencia. Costo de salida actual estimado: 900 millones (migración, rediseño y operación en paralelo). Sobrecosto anual de una arquitectura de múltiples nubes: 15 % de 2.160 = 324 millones, más talento adicional. Riesgo evitado: probabilidad de una interrupción prolongada del proveedor de 5 % al año con un impacto de 1.500 millones: pérdida esperada de 75 millones. Los 324 millones de sobrecosto superan en 4,3 veces la pérdida esperada (324 ÷ 75); **no se justifica**.
+
+**Alternativa elegida.** Resiliencia dentro del proveedor (varias zonas), pruebas de recuperación trimestrales, datos en formatos abiertos con exportaciones programadas, contenedores en los servicios críticos y un plan de salida documentado. Costo único: 120 millones; reduce el costo de salida de 900 a 500 millones.
+
+**Gobierno.** Etiquetado obligatorio; presupuestos por producto; revisión mensual con finanzas; objetivo de costo unitario bajo 115 pesos por usuario en 12 meses; ninguna medida que aumente el tiempo de lanzamiento de un producto en más de dos semanas sin aprobación de negocio.
+
+**Cuidados.** Los descuentos, compromisos y condiciones dependen del contrato con el proveedor y cambian con el tiempo; la seguridad y el cumplimiento se verifican con los responsables y la normativa vigente; las cifras son ilustrativas.
+
+**Qué muestra.** (1) El costo unitario dio sentido a la factura. (2) El desperdicio y los compromisos generaron ahorro con riesgo acotado. (3) La decisión sobre dependencia comparó costo y riesgo esperado.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **cloud economics** | relación entre consumo cloud arquitectura y valor | Cuando cloud cost per transaction es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **elasticity** | capacidad de ajustar recursos con demanda | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Nube frente a infraestructura propia.** Una infraestructura propia puede ser más barata a gran escala con demanda estable y talento especializado; la nube ofrece velocidad y elasticidad. La decisión depende de la carga, el talento y el riesgo.
 
-**Frontera de aplicación:** Optimizar costo no significa migrar todo on-premise ni eliminar managed services. Considera velocidad, talento, riesgo y costo total, no solo factura mensual.
+**Límites.** Los precios y descuentos cambian; las proyecciones de demanda son inciertas. La estimación de desperdicio capturable es aproximada. Los costos de salida son estimaciones. La resiliencia total no existe: se busca el nivel que el negocio justifica. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre economía de cloud y plataformas |
+| Nivel | Cómo participa en la economía de la nube |
 |---|---|
-| **Profesional** | usa **economía de cloud y plataformas** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **cloud economics** y **elasticity** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta cloud cost per transaction con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si economía de cloud y plataformas cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de economía de cloud y plataformas reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **economía de cloud y plataformas** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Etiqueta y apaga lo que no usa. |
+| **Jefe / Team Lead** | Conoce el costo de los recursos de su equipo. |
+| **Gerente** | Es dueño del costo unitario de su producto. |
+| **CEO / Director** | Fija objetivos de costo unitario y de resiliencia coherentes con el negocio. |
+| **Founder / Owner** | Equilibra velocidad, costo y dependencia con los recursos disponibles. |
 
 ## 🏢 Caso ejecutivo
 
-Una SaaS crece revenue 30% pero cloud spend 70%. Nadie conoce costo por tenant y equipos sobredimensionan instancias para evitar incidentes.
+Una empresa de salud digital con 1.100 personas y 2,4 millones de pacientes registrados tiene una factura de nube de 310 millones de pesos al mes, que ha crecido 65 % en un año mientras los ingresos crecieron 22 %. Hechos: no hay etiquetado, de modo que nadie sabe qué producto genera cada gasto; un análisis preliminar sugiere que el 30 % corresponde a entornos de prueba y datos duplicados; hay un compromiso de capacidad de 3 años por 4.200 millones firmado hace un año, de los cuales se usa el 58 %; tres servicios críticos usan bases de datos propietarias del proveedor; el contrato de migración a otro proveedor fue cotizado en 2.800 millones; el regulador exige conservar datos clínicos por un plazo y que se mantengan en cierta jurisdicción; hubo una interrupción de 5 horas el año pasado que costó 380 millones; y el área de tecnología propone «volver a un centro de datos propio» para ahorrar. El director financiero pide un plan de reducción de 25 %.
 
-Entrega un **decision brief de economía de cloud y plataformas** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de economía de la nube** que contenga: (a) los costos unitarios por producto y paciente, con el plan de etiquetado; (b) el desperdicio estimado y el plan de captura con riesgos; (c) la evaluación del compromiso existente y de nuevos compromisos con escenarios; (d) el análisis de dependencia, costo de salida y alternativas (múltiples nubes, portabilidad, retorno a infraestructura propia); (e) la resiliencia con objetivos de nivel de servicio y costo frente al riesgo; (f) las verificaciones contractuales, regulatorias y de seguridad pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **economía de cloud y plataformas** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear workloads y value drivers → 2. calcular unit cost → 3. identificar waste y commitments → 4. modelar resilience y lock-in → 5. optimizar arquitectura y governance** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta cloud cost per transaction, utilization; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula el costo unitario de tu producto o área por usuario y por transacción.
+2. Estima el desperdicio de un entorno de prueba y su ahorro con apagado programado.
+3. Evalúa un compromiso de capacidad en tres escenarios de demanda.
+4. Estima el costo de salida de un proveedor y compáralo con el costo anual.
+5. Compara el costo de una redundancia con la pérdida esperada de una interrupción.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar cloud economics y elasticity como sinónimos | Se pierde la distinción entre “relación entre consumo cloud arquitectura y valor” y “capacidad de ajustar recursos con demanda” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “optimizar arquitectura y governance” | Se saltó “mapear workloads y value drivers” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear workloads y value drivers → 2. calcular unit cost → 3. identificar waste y commitments → 4. modelar resilience y lock-in → 5. optimizar arquitectura y governance y marca el primer supuesto no demostrado. |
-| Optimizar solo cloud cost per transaction | La métrica local sustituyó al resultado del sistema | Contrástala con utilization y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre economía de cloud y plataformas | Optimizar costo no significa migrar todo on-premise ni eliminar managed services. Considera velocidad, talento, riesgo y costo total, no solo factura mensual. |
-| No fijar revisión | Una decisión sobre economía de cloud y plataformas se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Mirar solo la factura total | No hay datos por unidad | Etiquetas y costos unitarios. |
+| Recortar sin dueño | Se busca ahorro rápido | Visibilidad, dueños y automatización. |
+| Comprometer demasiado | Descuento tentador | Comprometer una fracción de la base estable. |
+| Duplicar todo por miedo a la dependencia | No se calcula el riesgo | Comparar costo y pérdida esperada. |
+| Volver a lo propio sin analizar | Idea de «ahorro» | Costo total con talento, velocidad y riesgo. |
+| No incluir seguridad | Se ve como costo | Diseño seguro y cumplimiento desde el inicio. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **cloud economics** y **elasticity** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **unit cost** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear workloads y value drivers → calcular unit cost** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **cloud cost per transaction** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **economía de cloud y plataformas**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Optimizar costo no significa migrar todo on-premise ni eliminar managed services. Considera velocidad, talento, riesgo y costo total, no solo factura mensual.**?
+1. ¿Qué cambia la nube en la estructura de costos y riesgos?
+2. ¿Qué es un costo unitario y para qué sirve?
+3. ¿Dónde suele estar el desperdicio?
+4. ¿Cuándo conviene un compromiso de capacidad y qué riesgo tiene?
+5. ¿Qué es el costo de salida?
+6. ¿Cómo se decide la inversión en resiliencia?
+7. ¿Por qué optimizar la factura no es optimizar el negocio?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Convierte costos fijos en variables, da elasticidad y transfiere riesgos de capacidad, pero introduce dependencia y exige gestionar el costo.
+2. El costo de la nube por usuario, transacción o producto; sirve para comparar, ver economías de escala y fijar márgenes.
+3. En instancias sobredimensionadas, recursos ociosos, entornos de prueba que funcionan sin parar, datos duplicados y almacenamiento sin dueño.
+4. Para la demanda base estable, comprometiendo una fracción; el riesgo es pagar capacidad no usada si la demanda cae.
+5. El costo de cambiar de proveedor: migración, rediseño, personas, datos y operación en paralelo.
+6. Comparando el costo de la redundancia con el costo esperado de interrupción (probabilidad por impacto) y los objetivos de nivel de servicio.
+7. Porque puede ahorrar una parte de la factura y aumentar el costo de talento, riesgo o tiempo de lanzamiento.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/231-economia-de-cloud-y-plataformas/`:
 
-- `risk-governance-brief.md` con el problema específico de **economía de cloud y plataformas**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **economía de cloud y plataformas** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **cloud economics**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una SaaS crece revenue 30% pero cloud spend 70%. Nadie conoce costo por tenant y equipos sobredimensionan instancias para evitar incidentes.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el memo del caso ejecutivo;
+- `cash-runway.md` (plantilla [Cash runway](../../../../templates/cash-runway.md)) con la proyección de costos de nube y ahorros;
+- `decision-journal.md` con los costos unitarios, los compromisos y el análisis de dependencia.
 
 ## 📗 Fuentes y verificación
 
-- Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* (Harvard Business Review Press, 2020). **Uso en esta clase:** modelo operativo AI-first, escala digital, redes y arquitectura de decisión. Lectura selectiva sobre **economía de cloud y plataformas**. **Localizador:** [ISBN-13 9781633697621](https://openlibrary.org/isbn/9781633697621).
-- Thomas H. Davenport & Nitin Mittal — *All-In on AI* (Harvard Business Review Press, 2022). **Uso en esta clase:** casos empresariales, estrategia y organización para inteligencia artificial. Lectura selectiva sobre **economía de cloud y plataformas**. **Localizador:** [ISBN-13 9781647824693](https://openlibrary.org/isbn/9781647824693).
-- George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* (Harvard Business Review Press, 2014). **Uso en esta clase:** transformación digital desde capacidades de liderazgo y capacidades digitales. Lectura selectiva sobre **economía de cloud y plataformas**. **Localizador:** [ISBN-13 9781625272478](https://openlibrary.org/isbn/9781625272478).
-- Martin Kleppmann — *Designing Data-Intensive Applications* (O'Reilly publications, 2017). **Uso en esta clase:** perspectiva de Arquitectura tecnológica aplicada al problema de la clase. Lectura selectiva sobre **economía de cloud y plataformas**. **Localizador:** [ISBN-13 9789352135240](https://openlibrary.org/isbn/9789352135240).
-- Foster Provost & Tom Fawcett — *Data Science for Business* (SHROFF - O'REILLY, 2013). **Uso en esta clase:** perspectiva de Datos aplicada al problema de la clase. Lectura selectiva sobre **economía de cloud y plataformas**. **Localizador:** [ISBN-13 9789351102670](https://openlibrary.org/isbn/9789351102670).
-- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobernar, mapear, medir y gestionar el riesgo de sistemas de IA en la decisión de la clase. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **economía de cloud y plataformas** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **economía de cloud y plataformas**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **economía de cloud y plataformas** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **economía de cloud y plataformas** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **economía de cloud y plataformas** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Michael Armbrust et al. — *A view of cloud computing* (Communications of the ACM, 2010). **Uso en esta clase:** economía y obstáculos de la computación en la nube. Lectura selectiva sobre **economía de cloud y plataformas**. **Localizador:** [DOI 10.1145/1721654.1721672](https://doi.org/10.1145/1721654.1721672).
+- J. R. Storment & Mike Fuller — *Cloud FinOps* (O'Reilly Media, 2020). **Uso en esta clase:** gestión financiera de la nube con etiquetas y costos unitarios. Lectura selectiva sobre **economía de cloud y plataformas**. **Localizador:** [ISBN-13 9781492054627](https://openlibrary.org/isbn/9781492054627).
+- Oliver E. Williamson — *Transaction-Cost Economics: The Governance of Contractual Relations* (The Journal of Law and Economics, 1979). **Uso en esta clase:** dependencia por inversiones específicas. Lectura selectiva sobre **economía de cloud y plataformas**. **Localizador:** [DOI 10.1086/466942](https://doi.org/10.1086/466942).
+- Carl Shapiro & Hal R. Varian — *Information Rules* (Harvard Business School Press, 1998). **Uso en esta clase:** costos de cambio en mercados de tecnología. Lectura selectiva sobre **economía de cloud y plataformas**. **Localizador:** [ISBN-13 9780875848631](https://openlibrary.org/isbn/9780875848631).
+- Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy — *Site Reliability Engineering* (O'Reilly Media, 2016). **Uso en esta clase:** objetivos de nivel de servicio y confiabilidad. Lectura selectiva sobre **economía de cloud y plataformas**. **Localizador:** [ISBN-13 9781491929124](https://openlibrary.org/isbn/9781491929124).
 
-> **Regla de fuentes para Economía de cloud y plataformas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **economía de cloud y plataformas** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Economía de cloud y plataformas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los contratos con proveedores, las tarifas y las normas de datos y de ciberseguridad. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -10,218 +10,208 @@
 
 ## 🎯 Propósito
 
-El directorio debe supervisar ciberseguridad como riesgo empresarial: escenarios, activos críticos, tolerancia, inversión, respuesta y recuperación. Métricas técnicas solo son útiles si conectan con impacto y readiness para eventos plausibles.
+Cuando un directorio se pregunta si la empresa está «segura» en términos cibernéticos, suele recibir una de dos respuestas igual de inútiles: un conjunto de siglas y estadísticas técnicas que no puede interpretar, o una frase tranquilizadora («tenemos las mejores herramientas»). Ninguna le permite ejercer su responsabilidad: entender qué puede pasar, cuánto puede costar, cuánto riesgo se acepta, si la empresa puede responder y si la inversión es proporcionada. La ciberseguridad vista desde el directorio no es una disciplina técnica sino una **conversación de gobierno** sobre escenarios, activos críticos, controles, capacidad de respuesta y decisiones de inversión. Y no existe el «riesgo cero»: el objetivo es una exposición **coherente con el apetito** y una **capacidad de respuesta** probada.
 
-La salida de esta parte es **gobernar tecnología, datos e IA como capacidades económicas y organizacionales**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **ciberseguridad desde el directorio** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase complementa el gobierno de ciberseguridad ejecutivo (clase 187) y la supervisión de riesgos y controles (clase 213) con la mirada específica del directorio. Se apoya en el marco de ciberseguridad del NIST 2.0, en la visión de Anderson sobre la ingeniería de seguridad, en el análisis estratégico de Clarke y Knake sobre resiliencia, en el marco COSO de gestión de riesgos y en las responsabilidades del directorio descritas por Tricker. Al terminar sabrás definir escenarios principales, identificar los activos críticos, revisar controles y riesgo residual con evidencia independiente, ejercitar la respuesta y decidir inversiones con criterios.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `cyber oversight`, `threat scenario`, `crown jewel`, `cyber resilience`, `tabletop exercise` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → transformador digital.
-3. **Aplicar** la secuencia **1. definir top cyber scenarios → 2. mapear crown jewels → 3. revisar controles y residual risk → 4. ejercitar crisis y recovery → 5. aprobar inversiones y track KRIs** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** recovery test, critical control coverage, MTTD-MTTR sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** pocos escenarios cibernéticos con impacto de negocio.
+2. **Identificar** los activos críticos («joyas de la corona») y su protección.
+3. **Revisar** controles y riesgo residual con evidencia independiente.
+4. **Ejercitar** la respuesta y la recuperación con la participación del directorio.
+5. **Aprobar** inversiones y excepciones con criterios y registro.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define cyber oversight y threat scenario sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con recovery test y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué le preguntarías hoy a tu responsable de seguridad para saber si la empresa podría operar tras un ciberataque grave? |
+| 20–60 min | Rol del directorio, escenarios, activos críticos, controles, ejercicios, inversión y reporte. |
+| 60–105 min | Ejemplo trabajado: cuatro escenarios, un menú de inversión de 300 millones y un ejercicio de recuperación. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **cyber oversight** | supervisión del board sobre riesgo y resiliencia digital | Distingue un hecho compatible y otro que lo refute. |
-| **threat scenario** | secuencia plausible de amenaza explotación e impacto | Distingue un hecho compatible y otro que lo refute. |
-| **crown jewel** | activo o proceso cuya pérdida es material | Distingue un hecho compatible y otro que lo refute. |
-| **cyber resilience** | capacidad de mantener o recuperar funciones frente a ataque | Distingue un hecho compatible y otro que lo refute. |
-| **tabletop exercise** | simulación de respuesta para probar decisiones y dependencias | Distingue un hecho compatible y otro que lo refute. |
+| **Escenario cibernético** | Historia de ataque con causa, evento y consecuencia de negocio. | «Ransomware detiene la planta cinco días». |
+| **Activos críticos (*crown jewels*)** | Sistemas, datos y procesos sin los que el negocio no opera o sufre daño grave. | Su caída o fuga es material. |
+| **Riesgo residual** | Riesgo que queda tras los controles. | Se compara con el apetito. |
+| **Aseguramiento independiente** | Verificación de los controles por terceros ajenos a su operación. | Pruebas de intrusión, auditoría. |
+| **Ejercicio de mesa** | Simulación de una crisis con decisores. | La dirección y el directorio toman decisiones. |
+| **Tiempo de recuperación** | Tiempo real para volver a operar. | Se prueba, no se supone. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 235: 1. definir top cyber scenarios → 2. mapear crown jewels → 3. revisar controles y residual risk → 4. ejercitar crisis y recovery → 5. aprobar inversiones y track KRIs](modelo-mental.svg)
+![Lo que el directorio supervisa en ciberseguridad: escenarios y activos críticos, controles y riesgo residual, respuesta y recuperación.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir top cyber scenarios → 2. mapear crown jewels → 3. revisar controles y residual risk → 4. ejercitar crisis y recovery → 5. aprobar inversiones y track KRIs
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El directorio debe supervisar ciberseguridad como riesgo empresarial: escenarios, activos críticos, tolerancia, inversión, respuesta y recuperación. Métricas técnicas solo son útiles si conectan con impacto y readiness para eventos plausibles.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El board no debe pedir cero riesgo ni evaluar herramientas individuales. Debe asegurar governance, capacidad de respuesta y exposición consistente con apetito.**
+**Cómo leer el diagrama.** Tres columnas. **Escenarios y activos críticos**: pocos escenarios con impacto de negocio, los activos que no pueden fallar y un apetito alineado con la exposición. **Controles y riesgo residual**: controles clave con pruebas independientes, brechas con dueño y plazo, y exposición de proveedores críticos. **Respuesta y recuperación**: plan ensayado con la dirección, tiempos reales de recuperación y decisiones previas sobre comunicación. La nota afirma que el directorio no pide riesgo cero ni evalúa herramientas una por una: asegura gobierno, capacidad de respuesta y una exposición coherente con el apetito; el pie, que las obligaciones de reporte de incidentes se verifican en la fuente oficial.
 
 ## 📖 Desarrollo
 
-### 1. cyber oversight: mecanismo central
+### 1. Qué le corresponde al directorio
 
-**cyber oversight** se entiende aquí como **supervisión del board sobre riesgo y resiliencia digital**. Esta es la pieza causal o estructural desde la que se inicia **ciberseguridad desde el directorio**: antes de definir top cyber scenarios, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+El marco de ciberseguridad del NIST, en su versión 2.0, incorpora una función de **gobierno** que incluye el contexto organizacional, la estrategia de gestión de riesgos, los roles y responsabilidades, las políticas y la **supervisión**. En ese esquema, el directorio no gestiona la seguridad ni selecciona herramientas: **supervisa que exista un sistema de gestión** adecuado, **aprueba el apetito** de riesgo cibernético, **revisa los riesgos principales**, **exige información independiente** y **decide inversiones y excepciones** de alto impacto. Tricker recuerda que el gobierno corporativo incluye el deber de supervisar los riesgos materiales; el ciberriesgo lo es en casi todas las empresas. El estándar es una supervisión razonable, con evidencia de que el directorio preguntó, recibió información y exigió acciones, no la garantía de que no habrá incidentes.
 
-La lectura rectora de este bloque es Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*. Su aporte se usa para examinar **modelo operativo AI-first, escala digital, redes y arquitectura de decisión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **recovery test**; regístrala con periodo, unidad, población y baseline.
+### 2. Escenarios: lo que puede pasar y cuánto cuesta
 
-Relaciona el mecanismo con **threat scenario**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Una conversación útil parte de **pocos escenarios** (cuatro a seis), cada uno con causa, evento, consecuencia de negocio, probabilidad e impacto estimados con rango, como en la gestión de riesgos (clase 181): un **ransomware** que paraliza sistemas de producción, una **filtración de datos** de clientes, el **compromiso de un proveedor** crítico, el **fraude por suplantación** o el **sabotaje interno**. Para cada uno se estima el impacto en ingresos, costos de respuesta, sanciones, pérdida de clientes y reputación, y el **tiempo** que la empresa podría estar sin operar. Anderson recuerda que muchas fallas de seguridad son de **diseño e incentivos**, no solo técnicas, por lo que los escenarios incluyen también errores de procesos y de personas. Estos escenarios son la base para decidir qué proteger, cuánto invertir y qué preparar.
 
-### 2. threat scenario: frontera conceptual y error de clasificación
+### 3. Activos críticos: qué no puede fallar
 
-**Definición operacional:** secuencia plausible de amenaza explotación e impacto. Su valor está en distinguirlo de **cyber oversight** y **crown jewel**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+No todo merece la misma protección. Se identifican las **«joyas de la corona»**: los datos, sistemas y procesos cuya pérdida, alteración o indisponibilidad causaría el mayor daño (por ejemplo, el sistema de despacho, la base de clientes, la propiedad intelectual, los sistemas de pago, la información de una fusión). Para cada uno se pregunta: ¿dónde está?, ¿quién tiene acceso?, ¿cómo se protege?, ¿cuánto tiempo se puede estar sin él?, ¿tiene respaldo probado?, ¿depende de un proveedor? El inventario de activos críticos permite que el directorio pregunte por su **cobertura de protección** en lugar de por la totalidad de los controles. Clarke y Knake enfatizan que, ante adversarios capaces, la estrategia debe incluir **resiliencia**: asumir que algo fallará y poder continuar o recuperarse.
 
-Contrasta el problema con Thomas H. Davenport & Nitin Mittal — *All-In on AI*, que aporta una mirada sobre **casos empresariales, estrategia y organización para inteligencia artificial**. Formula dos mini-casos: uno que sí satisface la definición de **threat scenario** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **critical control coverage** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Controles, riesgo residual y evidencia independiente
 
-Antes de mapear crown jewels, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Para los escenarios y activos críticos, el directorio pregunta por los **controles clave** (autenticación fuerte, respaldos aislados y probados, segmentación, parches de vulnerabilidades críticas, protección de correo y equipos, gestión de accesos privilegiados, monitoreo) y por el **riesgo residual** que queda. La gerencia informa sobre sus propios controles; por eso se exige **evidencia independiente**: pruebas de intrusión, auditorías, evaluaciones de madurez contra el marco NIST, ejercicios de «equipo rojo» y revisiones de terceros (clase 213). El directorio no evalúa la herramienta A frente a la B; evalúa si el conjunto de controles reduce el riesgo a un nivel coherente con el apetito y si las **brechas** críticas tienen dueño, plazo y seguimiento. Se pregunta también por los **proveedores críticos**: qué acceso tienen, qué evidencia de seguridad entregan y qué plan existe si fallan.
 
-### 3. crown jewel: operacionalización y medición
+### 5. Ejercitar: la respuesta se prueba
 
-**crown jewel** significa **activo o proceso cuya pérdida es material**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un plan de respuesta que no se ha ensayado es una hipótesis. El directorio y la dirección participan al menos una vez al año en un **ejercicio de mesa**: se presenta un escenario realista (por ejemplo, ransomware un viernes) y los decisores deben resolver: ¿quién declara el incidente?, ¿se apagan sistemas?, ¿se informa a clientes y autoridades y cuándo?, ¿se paga o no?, ¿cómo se opera en modo manual?, ¿quién habla públicamente? (clases 187 y 190). Además, se hacen **pruebas técnicas** de recuperación (restaurar un sistema crítico desde los respaldos y medir el tiempo). Se registran los aprendizajes y se corrigen las brechas. Las obligaciones de reporte de incidentes a autoridades y afectados tienen plazos y contenidos legales que se verifican con asesoría y en la fuente oficial.
 
-Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics* orienta este bloque mediante **perspectiva de Datos aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **MTTD-MTTR**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Decidir la inversión con criterios
 
-Al llegar a revisar controles y residual risk, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Las solicitudes de presupuesto de ciberseguridad suelen crecer con el miedo. El directorio pide un **menú de inversión** con, para cada propuesta: el escenario o riesgo que reduce, la **reducción estimada** de exposición (probabilidad e impacto), el **costo** (inversión y operación), el **plazo** y los **efectos secundarios** (fricción para los usuarios, dependencias). Se ordena por **reducción por peso invertido**, se priorizan los **controles básicos** de alto efecto y se verifica la **capacidad de ejecución** de la organización. Se registra lo que **no** se financia y quién acepta el riesgo remanente (clase 192). Las estimaciones son inciertas; por eso se complementan con juicio y con los efectos de cola (el peor caso razonable) en relación con el EBITDA y el patrimonio.
 
-### 4. cyber resilience: trade-offs y efectos de segundo orden
+### 7. Reportar al directorio con información que sirva
 
-**Definición:** capacidad de mantener o recuperar funciones frente a ataque. Este concepto obliga a abandonar la idea de que **ciberseguridad desde el directorio** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de ejercitar crisis y recovery, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-NIST — *AI Risk Management Framework (AI RMF 1.0)* aporta una lente sobre **gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **scenario loss** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **ciberseguridad desde el directorio**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **cyber resilience** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. tabletop exercise: gobernanza, límites e integración
-
-**tabletop exercise** se define como **simulación de respuesta para probar decisiones y dependencias** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd* se utiliza para estudiar **perspectiva de Economía digital aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar aprobar inversiones y track kris, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **El board no debe pedir cero riesgo ni evaluar herramientas individuales. Debe asegurar governance, capacidad de respuesta y exposición consistente con apetito.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **cyber oversight**, **threat scenario**, **crown jewel**, **cyber resilience** y **tabletop exercise** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **ciberseguridad desde el directorio** no consiste en sumar cinco definiciones. Empieza por **cyber oversight**, contrasta **threat scenario** con **crown jewel**, incorpora **cyber resilience** como restricción o mecanismo y usa **tabletop exercise** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir top cyber scenarios → 2. mapear crown jewels → 3. revisar controles y residual risk → 4. ejercitar crisis y recovery → 5. aprobar inversiones y track KRIs**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un buen informe de ciberriesgo es **breve** y estructurado: escenarios principales con su exposición residual y tendencia; estado de los activos críticos; resultados de pruebas independientes; brechas críticas con plazo; incidentes y casi-incidentes relevantes y lecciones; indicadores clave (cobertura de autenticación fuerte, tiempo de corrección de vulnerabilidades críticas, resultados de pruebas de respaldo, proveedores críticos evaluados); decisiones y excepciones requeridas; y obligaciones legales o regulatorias pendientes. El responsable de seguridad tiene **acceso directo** al comité (sin filtro de la gerencia) al menos una vez al año. El directorio responde con preguntas y registra sus decisiones. Los indicadores se miden por **reducción de riesgo**, no por actividad (número de alertas, de bloqueos).
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* | modelo operativo AI-first, escala digital, redes y arquitectura de decisión | ¿Qué supuesto de **ciberseguridad desde el directorio** ayuda a desafiar? |
-| Thomas H. Davenport & Nitin Mittal — *All-In on AI* | casos empresariales, estrategia y organización para inteligencia artificial | ¿Qué supuesto de **ciberseguridad desde el directorio** ayuda a desafiar? |
-| Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics* | perspectiva de Datos aplicada al problema de la clase | ¿Qué supuesto de **ciberseguridad desde el directorio** ayuda a desafiar? |
-| NIST — *AI Risk Management Framework (AI RMF 1.0)* | gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida | ¿Qué supuesto de **ciberseguridad desde el directorio** ayuda a desafiar? |
-| Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd* | perspectiva de Economía digital aplicada al problema de la clase | ¿Qué supuesto de **ciberseguridad desde el directorio** ayuda a desafiar? |
-
-En **ciberseguridad desde el directorio**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **cyber oversight**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| NIST CSF 2.0 | Función de gobierno y resultados de ciberseguridad. | Marco voluntario y genérico. | ¿Qué función está débil? |
+| Anderson | Seguridad como ingeniería, incentivos y amenazas internas. | Técnico; requiere traducción. | ¿Qué incentivo debilita este control? |
+| Clarke y Knake | Resiliencia y estrategia de defensa. | Enfoque de seguridad nacional. | ¿Podemos operar bajo ataque? |
+| COSO ERM | Riesgo cibernético dentro del sistema de gestión de riesgos. | No específico de seguridad. | ¿Cómo se integra con el mapa de riesgos? |
+| Tricker | Deberes del directorio frente a los riesgos materiales. | No es técnico. | ¿Qué evidencia de supervisión tenemos? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Board recibe 2 millones de ataques bloqueados. Nadie sabe si la empresa podría facturar si identidad y ERP quedan fuera 48 horas.
+**Situación (hipotética).** Una empresa con ventas de 90.000 millones de pesos y EBITDA de 12.000 millones evalúa su exposición cibernética con cuatro escenarios.
 
-**Paso 1 — definir top cyber scenarios.** La gerencia escribe primero el supuesto asociado a **cyber oversight** y evita convertirlo en hecho. Luego busca **recovery test** para contrastarlo en el caso de **ciberseguridad desde el directorio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Escenarios y pérdida esperada anual (millones).**
 
-**Paso 2 — mapear crown jewels.** La gerencia escribe primero el supuesto asociado a **threat scenario** y evita convertirlo en hecho. Luego busca **critical control coverage** para contrastarlo en el caso de **ciberseguridad desde el directorio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Escenario | Probabilidad anual | Impacto | Pérdida esperada |
+|---|---|---|---|
+| Ransomware en sistemas de producción | 8 % | 1.400 | 112 |
+| Filtración de datos de clientes | 6 % | 900 | 54 |
+| Compromiso de un proveedor crítico | 10 % | 500 | 50 |
+| Fraude por suplantación (correo y pagos) | 12 % | 250 | 30 |
+| **Total** | | | **246** |
 
-**Paso 3 — revisar controles y residual risk.** La gerencia escribe primero el supuesto asociado a **crown jewel** y evita convertirlo en hecho. Luego busca **MTTD-MTTR** para contrastarlo en el caso de **ciberseguridad desde el directorio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Peor caso razonable.** El ransomware: 1.400 millones, es decir, 11,7 % del EBITDA (1.400 ÷ 12.000).
 
-**Paso 4 — ejercitar crisis y recovery.** La gerencia escribe primero el supuesto asociado a **cyber resilience** y evita convertirlo en hecho. Luego busca **scenario loss** para contrastarlo en el caso de **ciberseguridad desde el directorio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Activos críticos.** Sistema de producción y despacho; base de clientes; sistema de pagos; correo corporativo. Hallazgos de la revisión: autenticación multifactor en 62 % de los accesos críticos; tiempo medio de corrección de vulnerabilidades críticas de 38 días; respaldos conectados a la red principal, probados una sola vez.
 
-**Paso 5 — aprobar inversiones y track KRIs.** La gerencia escribe primero el supuesto asociado a **tabletop exercise** y evita convertirlo en hecho. Luego busca **third-party concentration** para contrastarlo en el caso de **ciberseguridad desde el directorio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Prueba de recuperación.** Se restaura el sistema de despacho desde respaldos: 31 horas, frente a un objetivo de 12.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **ciberseguridad desde el directorio**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Menú de inversión (presupuesto de 300 millones).**
+
+| Propuesta | Costo | Reducción de pérdida esperada | Reducción por peso |
+|---|---|---|---|
+| Respaldos inmutables y pruebas de restauración | 90 | 56 (reduce a la mitad el impacto del ransomware: 0,5 × 112) | 0,62 |
+| Autenticación multifactor y gestión de accesos privilegiados | 150 | 67 (ransomware de 8 % a 4,5 %: 0,035 × 1.400 = 49; filtración de 6 % a 4 %: 0,02 × 900 = 18) | 0,45 |
+| Programa de evaluación de proveedores críticos | 60 | 20 (de 10 % a 6 %: 0,04 × 500) | 0,33 |
+| Detección y respuesta en equipos | 200 | 30 | 0,15 |
+| Capacitación y simulacros de suplantación | 40 | 6 | 0,15 |
+
+**Selección.** Por reducción por peso invertido: respaldos (90), autenticación (150) y proveedores (60) suman 300 millones. Reducción estimada: 56 + 67 + 20 = 143 millones de pérdida esperada (58 % de 246), con un solapamiento que hace la cifra algo optimista. Pérdida esperada residual: 246 − 143 = **103 millones**.
+
+**Decisión del directorio.** Aprobar los 300 millones; **no financiar** la detección en equipos (200) este año, con una medida interina (servicio gestionado básico de 40 millones) y revisión en seis meses; aceptar formalmente el riesgo residual de 103 millones; exigir una prueba de recuperación en 90 días con meta de 12 horas.
+
+**Indicadores a seis meses (hipotéticos).** Autenticación multifactor en accesos críticos: de 62 % a 100 %; corrección de vulnerabilidades críticas: de 38 a 14 días; prueba de restauración: 11 horas; proveedores críticos evaluados: 12 de 12. Un ejercicio de mesa con el directorio permitió decidir en 3 horas la comunicación a clientes, que antes demoraba un día.
+
+**Cuidados.** Las probabilidades y los impactos son estimaciones; las obligaciones de reporte de incidentes, de protección de datos y de ciberseguridad se verifican en la normativa vigente y con asesoría; las cifras son ilustrativas.
+
+**Qué muestra.** (1) Los escenarios se tradujeron a pesos. (2) La inversión se ordenó por reducción por peso y se registró lo no financiado. (3) La prueba de recuperación dio evidencia, no suposiciones.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **cyber oversight** | supervisión del board sobre riesgo y resiliencia digital | Cuando recovery test es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **threat scenario** | secuencia plausible de amenaza explotación e impacto | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Directorio frente a gerencia en ciberseguridad.** La gerencia gestiona la seguridad; el directorio supervisa que el sistema de gestión exista, funcione y sea proporcional al riesgo.
 
-**Frontera de aplicación:** El board no debe pedir cero riesgo ni evaluar herramientas individuales. Debe asegurar governance, capacidad de respuesta y exposición consistente con apetito.
+**Límites.** El directorio no debe pedir cero riesgo ni evaluar herramientas individuales: debe asegurar gobierno, capacidad de respuesta y exposición coherente con el apetito. Las probabilidades de ataque son inciertas y cambian. Las reducciones de pérdida se solapan. Los reguladores pueden exigir más. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre ciberseguridad desde el directorio |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **ciberseguridad desde el directorio** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **cyber oversight** y **threat scenario** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta recovery test con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si ciberseguridad desde el directorio cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de ciberseguridad desde el directorio reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **ciberseguridad desde el directorio** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Cumple los hábitos de seguridad y reporta lo sospechoso. |
+| **Jefe / Team Lead** | Controla accesos y simulacros de su equipo. |
+| **Gerente** | Es dueño de los procesos críticos y de sus brechas. |
+| **CEO / Director** | Participa en ejercicios, aprueba apetito e inversión y exige evidencia independiente. |
+| **Founder / Owner** | Entiende que un ataque grave puede poner en riesgo la continuidad de la empresa. |
 
 ## 🏢 Caso ejecutivo
 
-Board recibe 2 millones de ataques bloqueados. Nadie sabe si la empresa podría facturar si identidad y ERP quedan fuera 48 horas.
+Una cadena de clínicas con 2.700 personas, ingresos de 160.000 millones de pesos y EBITDA de 17.000 millones sufrió, hace un año, un ransomware que detuvo los sistemas clínicos de tres centros durante 31 horas, con costos directos de 640 millones y una investigación del regulador. El informe de ciberseguridad que recibe el directorio es una presentación de 60 láminas con 45 indicadores técnicos; el responsable de seguridad depende del director de tecnología y nunca ha hablado con el directorio; la última prueba independiente es de hace tres años; el 40 % de los accesos administrativos no usa autenticación fuerte; dos proveedores críticos (historia clínica electrónica y facturación) no han sido evaluados; los respaldos se probaron una vez. La gerencia solicita 1.800 millones para «blindar» la empresa con herramientas de última generación. Un director pide «cero riesgo»; otro, «reducir el presupuesto, que ya es alto».
 
-Entrega un **decision brief de ciberseguridad desde el directorio** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **paquete de supervisión cibernética del directorio** que contenga: (a) los cuatro a seis escenarios con probabilidad, impacto y pérdida esperada, y el peor caso en relación con el EBITDA; (b) los activos críticos y su cobertura de protección; (c) la evidencia independiente exigida y el análisis de riesgo residual; (d) el diseño del ejercicio de mesa y de la prueba de recuperación; (e) el menú de inversión ordenado por reducción por peso, con lo que se financia y lo que no; (f) el formato del informe al directorio, los indicadores y las verificaciones legales y regulatorias pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **ciberseguridad desde el directorio** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir top cyber scenarios → 2. mapear crown jewels → 3. revisar controles y residual risk → 4. ejercitar crisis y recovery → 5. aprobar inversiones y track KRIs** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta recovery test, critical control coverage; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Redacta cuatro escenarios cibernéticos de tu empresa con probabilidad e impacto en pesos.
+2. Lista tus cinco activos críticos y para cada uno el tiempo máximo tolerable de interrupción.
+3. Diseña un ejercicio de mesa de una hora con tres decisiones que debería tomar el directorio.
+4. Ordena un menú de inversión por reducción de pérdida esperada por peso invertido.
+5. Define seis indicadores de reducción de riesgo para un informe de una página.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar cyber oversight y threat scenario como sinónimos | Se pierde la distinción entre “supervisión del board sobre riesgo y resiliencia digital” y “secuencia plausible de amenaza explotación e impacto” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “aprobar inversiones y track KRIs” | Se saltó “definir top cyber scenarios” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir top cyber scenarios → 2. mapear crown jewels → 3. revisar controles y residual risk → 4. ejercitar crisis y recovery → 5. aprobar inversiones y track KRIs y marca el primer supuesto no demostrado. |
-| Optimizar solo recovery test | La métrica local sustituyó al resultado del sistema | Contrástala con critical control coverage y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre ciberseguridad desde el directorio | El board no debe pedir cero riesgo ni evaluar herramientas individuales. Debe asegurar governance, capacidad de respuesta y exposición consistente con apetito. |
-| No fijar revisión | Una decisión sobre ciberseguridad desde el directorio se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Pedir riesgo cero | Miedo a la responsabilidad | Apetito y exposición coherentes. |
+| Revisar herramientas | Es lo visible | Revisar escenarios, activos y controles clave. |
+| Informes técnicos extensos | Se mide actividad | Informe breve con exposición y decisiones. |
+| No ensayar | Se confía en el plan escrito | Ejercicios de mesa y pruebas de recuperación. |
+| Solo evidencia de la gerencia | Falta de segunda mirada | Pruebas independientes y acceso directo al comité. |
+| Invertir por miedo | Presión | Menú con reducción por peso y registro de lo no financiado. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **cyber oversight** y **threat scenario** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **crown jewel** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir top cyber scenarios → mapear crown jewels** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **recovery test** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **ciberseguridad desde el directorio**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **El board no debe pedir cero riesgo ni evaluar herramientas individuales. Debe asegurar governance, capacidad de respuesta y exposición consistente con apetito.**?
+1. ¿Qué le corresponde al directorio en ciberseguridad?
+2. ¿Qué es un escenario cibernético y qué incluye?
+3. ¿Qué son los activos críticos y por qué se identifican?
+4. ¿Qué tipo de evidencia debe exigir el directorio sobre los controles?
+5. ¿Para qué sirve un ejercicio de mesa?
+6. ¿Cómo se decide una inversión en ciberseguridad?
+7. ¿Qué debe incluir el informe al directorio?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Supervisar que exista y funcione el sistema de gestión, aprobar el apetito, revisar riesgos principales, exigir información independiente y decidir inversiones y excepciones de alto impacto.
+2. Una historia de ataque con causa, evento y consecuencia de negocio, con probabilidad e impacto estimados.
+3. Los sistemas, datos y procesos cuya pérdida causaría el mayor daño; permiten enfocar la protección y las preguntas.
+4. Pruebas de intrusión, auditorías, evaluaciones de madurez, ejercicios de equipo rojo y revisiones de terceros.
+5. Para que los decisores practiquen las decisiones de una crisis y se detecten brechas del plan antes de un incidente real.
+6. Con un menú ordenado por reducción de exposición por peso invertido, priorizando controles básicos y registrando lo no financiado y el riesgo aceptado.
+7. Escenarios y exposición residual, activos críticos, resultados de pruebas, brechas con plazo, incidentes, indicadores de reducción de riesgo y decisiones requeridas.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/235-ciberseguridad-desde-el-directorio/`:
 
-- `risk-governance-brief.md` con el problema específico de **ciberseguridad desde el directorio**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **ciberseguridad desde el directorio** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **cyber oversight**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Board recibe 2 millones de ataques bloqueados. Nadie sabe si la empresa podría facturar si identidad y ERP quedan fuera 48 horas.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk Governance Brief](../../../../templates/risk-governance-brief.md)) con el paquete del caso ejecutivo;
+- `board-or-executive-memo.md` (plantilla [Board or executive memo](../../../../templates/board-or-executive-memo.md)) con el informe de ciberriesgo al directorio;
+- `decision-journal.md` con los escenarios, el menú de inversión y las verificaciones legales pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* (Harvard Business Review Press, 2020). **Uso en esta clase:** modelo operativo AI-first, escala digital, redes y arquitectura de decisión. Lectura selectiva sobre **ciberseguridad desde el directorio**. **Localizador:** [ISBN-13 9781633697621](https://openlibrary.org/isbn/9781633697621).
-- Thomas H. Davenport & Nitin Mittal — *All-In on AI* (Harvard Business Review Press, 2022). **Uso en esta clase:** casos empresariales, estrategia y organización para inteligencia artificial. Lectura selectiva sobre **ciberseguridad desde el directorio**. **Localizador:** [ISBN-13 9781647824693](https://openlibrary.org/isbn/9781647824693).
-- Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics* (Harvard Business School Press, 2007). **Uso en esta clase:** perspectiva de Datos aplicada al problema de la clase. Lectura selectiva sobre **ciberseguridad desde el directorio**. **Localizador:** [ISBN-13 9781422103326](https://openlibrary.org/isbn/9781422103326).
-- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobierno y gestión de riesgos de IA confiable a lo largo del ciclo de vida. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
-- Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd* (Norton & Company, Incorporated, W. W., 2017). **Uso en esta clase:** perspectiva de Economía digital aplicada al problema de la clase. Lectura selectiva sobre **ciberseguridad desde el directorio**. **Localizador:** [ISBN-13 9780393254303](https://openlibrary.org/isbn/9780393254303).
-- George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* (Harvard Business Review Press, 2014). **Uso en esta clase:** transformación digital desde capacidades de liderazgo y capacidades digitales. Lectura selectiva sobre **ciberseguridad desde el directorio**. **Localizador:** [ISBN-13 9781625272478](https://openlibrary.org/isbn/9781625272478).
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** funciones de gobierno, identificación, protección, detección, respuesta y recuperación como marco de la decisión. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **ciberseguridad desde el directorio** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **ciberseguridad desde el directorio**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **ciberseguridad desde el directorio** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **ciberseguridad desde el directorio** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **ciberseguridad desde el directorio** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** función de gobierno y resultados de ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
+- Ross Anderson — *Security Engineering* (John Wiley & Sons, Incorporated, 2001). **Uso en esta clase:** seguridad como ingeniería, incentivos y amenazas internas. Lectura selectiva sobre **ciberseguridad desde el directorio**. **Localizador:** [ISBN-13 9781119642831](https://openlibrary.org/isbn/9781119642831).
+- Richard A. Clarke & Robert K. Knake — *The Fifth Domain* (Penguin Press, 2019). **Uso en esta clase:** resiliencia y estrategia de defensa. Lectura selectiva sobre **ciberseguridad desde el directorio**. **Localizador:** [ISBN-13 9780525561965](https://openlibrary.org/isbn/9780525561965).
+- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** riesgo cibernético dentro del sistema de gestión de riesgos. **Fuente primaria:** <https://www.coso.org/>.
+- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** deberes del directorio frente a los riesgos materiales. Lectura selectiva sobre **ciberseguridad desde el directorio**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
 
-> **Regla de fuentes para Ciberseguridad desde el directorio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **ciberseguridad desde el directorio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Ciberseguridad desde el directorio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, en particular las obligaciones de ciberseguridad y los plazos de notificación de incidentes. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

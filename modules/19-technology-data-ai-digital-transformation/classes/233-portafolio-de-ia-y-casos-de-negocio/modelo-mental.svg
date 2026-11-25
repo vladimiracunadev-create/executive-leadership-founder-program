@@ -1,72 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g233 d-g233" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g233">Ficha visual de la clase 233: Portafolio de IA y casos de negocio</title>
-<desc id="d-g233">Conceptos: AI use case; AI portfolio; automation rate; human-in-the-loop; AI unit economics. Método: inventariar workflows y pain → estimar value y baseline → evaluar data y technical feasibility → evaluar impact y risk → pilotear con economics y guardrails antes de escalar.</desc>
-<defs><marker id="p-g233" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 233 · Portafolio de IA y casos de negocio</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 19 · Alta dirección y gobierno</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#cf222e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >AI use case</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >aplicación específica de IA dentro de un workflow</text>
-<circle cx="38" cy="170" r="5" fill="#cf222e"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >AI portfolio</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto priorizado de casos por value feasibility y</text>
-<text x="54" y="209.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >risk</text>
-<circle cx="38" cy="242.12" r="5" fill="#cf222e"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >automation rate</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >proporción de trabajo realizado sin intervención humana</text>
-<circle cx="38" cy="300.12" r="5" fill="#cf222e"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >human-in-the-loop</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >diseño donde una persona revisa o decide en puntos</text>
-<text x="54" y="339.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >definidos</text>
-<circle cx="38" cy="372.24" r="5" fill="#cf222e"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >AI unit economics</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >costo total por tarea o outcome automatizado</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<rect x="470" y="336" width="6" height="52" rx="3" fill="#cf222e"/>
-<text x="486" y="356" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >1</text>
-<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >inventariar workflows y pain</text>
-<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<rect x="532" y="278" width="6" height="52" rx="3" fill="#cf222e"/>
-<text x="548" y="298" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >2</text>
-<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >estimar value y baseline</text>
-<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<rect x="594" y="220" width="6" height="52" rx="3" fill="#cf222e"/>
-<text x="610" y="240" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >3</text>
-<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >evaluar data y technical</text>
-<text x="628" y="257.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >feasibility</text>
-<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<rect x="656" y="162" width="6" height="52" rx="3" fill="#cf222e"/>
-<text x="672" y="182" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >4</text>
-<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >evaluar impact y risk</text>
-<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<rect x="718" y="104" width="6" height="52" rx="3" fill="#cf222e"/>
-<text x="734" y="124" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >5</text>
-<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >pilotear con economics y guardrails</text>
-<text x="752" y="141.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >antes de escalar</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="95" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >time saved</text>
-<rect x="133" y="456.24" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="146" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="157" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >quality-error rate</text>
-<rect x="293.2" y="456.24" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="306.2" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="317.2" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cost per task</text>
-<rect x="418.9" y="456.24" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="431.9" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="442.9" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >human override</text>
-<rect x="551.5" y="456.24" width="81.2" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="564.5" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="575.5" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >adoption</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Horas ahorradas no equivalen a cash o value si no cambia capacidad o output. Define cómo el tiempo liberado se convierte en outcome</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >empresarial.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 456.06" width="1040" role="img" aria-labelledby="t-s233 d-s233" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s233">Clase 233 · Priorizar casos de IA por valor y viabilidad</title>
+<desc id="d-s233">Cuadrante de valor de negocio y viabilidad (datos, técnica y riesgo) para ordenar el portafolio de casos de IA.</desc>
+<defs><marker id="p-s233" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="456.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 233 · Priorizar casos de IA por valor y viabilidad</text>
+<text x="1012" y="43" font-size="10.5" font-weight="400" fill="#59636e" text-anchor="end" >Agrawal et al. (2018) · Davenport &amp; Mittal · NIST AI RMF</text>
+<text x="362.5" y="100" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle" >Poco viable</text>
+<text x="799.5" y="100" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle" >Muy viable</text>
+<text transform="translate(120,160.25) rotate(-90)" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle">Mucho valor</text>
+<text transform="translate(120,268.75) rotate(-90)" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle">Poco valor</text>
+<rect x="150" y="112" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="150.0" y="112.0" width="425.0" height="34" rx="12" fill="#bc4c00"/>
+<text x="166" y="135" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Preparar y esperar</text>
+<text x="166" y="170" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Mucho valor pero poco viable: mejorar datos y</text>
+<text x="166" y="187.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >capacidades antes de apostar.</text>
+<rect x="587" y="112" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="587.0" y="112.0" width="425.0" height="34" rx="12" fill="#1a7f37"/>
+<text x="603" y="135" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Prioridad: piloto con medición</text>
+<text x="603" y="170" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Mucho valor y viable: probar con línea base y criterio</text>
+<text x="603" y="187.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >de éxito.</text>
+<rect x="150" y="220.5" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<rect x="150.0" y="220.5" width="425.0" height="34" rx="12" fill="#59636e"/>
+<text x="166" y="243.5" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Descartar</text>
+<text x="166" y="278.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Poco valor y poco viable.</text>
+<rect x="587" y="220.5" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="587.0" y="220.5" width="425.0" height="34" rx="12" fill="#0969da"/>
+<text x="603" y="243.5" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Mejora rápida si es barata</text>
+<text x="603" y="278.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Poco valor pero viable: solo si el costo es mínimo.</text>
+<rect x="28" y="329" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="351" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Horas ahorradas no son caja ni valor si no cambia la capacidad o el producto. Se define de antemano cómo el tiempo liberado se</text>
+<text x="44" y="368.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >convierte en un resultado empresarial.</text>
+<text x="28" y="415.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >El riesgo y la sensibilidad de los datos modifican la viabilidad; se evalúan antes del piloto.</text>
 </svg>

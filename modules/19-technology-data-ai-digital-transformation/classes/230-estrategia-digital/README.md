@@ -10,218 +10,195 @@
 
 ## 🎯 Propósito
 
-Estrategia digital no es digitalizar procesos existentes por defecto; decide cómo tecnología y datos cambian propuesta de valor, canales, economics, operating model y ventaja. Debe integrarse a estrategia empresarial, no vivir como roadmap de CIO aislado.
+«Necesitamos una estrategia digital» es una frase que suele significar tres cosas distintas: una aplicación móvil, un sitio web más moderno o un programa para reemplazar papeles por pantallas. Todas son formas de **digitalizar**, es decir, de pasar procesos existentes a un soporte tecnológico. Una **estrategia digital** es otra cosa: es una decisión sobre cómo la tecnología cambia la **economía** del negocio, la **propuesta de valor** para el cliente y las **fuentes de ventaja** frente a competidores que tienen las mismas herramientas. La diferencia se nota en las preguntas: digitalizar pregunta «¿cómo hago este proceso en un sistema?»; la estrategia digital pregunta «¿qué parte de nuestra economía puede cambiar con tecnología y cuál será la ventaja de hacerlo bien?».
 
-La salida de esta parte es **gobernar tecnología, datos e IA como capacidades económicas y organizacionales**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **estrategia digital** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el estudio de Westerman, Bonnet y McAfee sobre cómo lideran las empresas su transformación digital, en el análisis de Iansiti y Lakhani sobre negocios organizados alrededor de datos y algoritmos, en las ideas de McAfee y Brynjolfsson sobre plataformas y multitudes, en la economía de la información y de las redes de Shapiro y Varian y en la definición de estrategia de Rumelt. Al terminar sabrás partir de la estrategia y del recorrido del cliente, identificar las economías que la tecnología puede cambiar, elegir capacidades diferenciadoras, definir el modelo operativo y las inversiones y sostener la medición.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `digital strategy`, `digitization`, `digitalization`, `digital transformation`, `digital business model` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → transformador digital.
-3. **Aplicar** la secuencia **1. partir de estrategia y customer journey → 2. identificar economics cambiables por digital → 3. elegir capabilities diferenciadoras → 4. definir build buy o partner → 5. secuenciar transformation y metrics** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** digital revenue, self-service adoption, cost-to-serve sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** digitalización y estrategia digital.
+2. **Identificar** qué economías del negocio puede cambiar la tecnología.
+3. **Elegir** capacidades digitales diferenciadoras y renunciar a otras.
+4. **Rediseñar** procesos y decisiones antes o junto con la tecnología.
+5. **Definir** el modelo operativo, las inversiones y las métricas.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define digital strategy y digitization sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con digital revenue y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué iniciativa «digital» de tu empresa cambió realmente la economía del negocio y cuál solo cambió el soporte? |
+| 20–60 min | Estrategia, recorrido del cliente, economías, capacidades, proceso, modelo operativo y métricas. |
+| 60–105 min | Ejemplo trabajado: canal de pedidos digital para clientes empresariales. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **digital strategy** | conjunto de choices sobre cómo tecnología y datos crean ventaja y valor | Distingue un hecho compatible y otro que lo refute. |
-| **digitization** | convertir información analógica a digital | Distingue un hecho compatible y otro que lo refute. |
-| **digitalization** | usar tecnología para mejorar procesos existentes | Distingue un hecho compatible y otro que lo refute. |
-| **digital transformation** | cambio sistémico de modelo y capabilities habilitado por digital | Distingue un hecho compatible y otro que lo refute. |
-| **digital business model** | modelo donde software y datos son parte central de creación y captura de valor | Distingue un hecho compatible y otro que lo refute. |
+| **Digitalización** | Traspaso de procesos existentes a soporte digital. | Menos papel y mayor registro. |
+| **Estrategia digital** | Decisiones sobre cómo la tecnología cambia el modelo de negocio y la ventaja. | Cambia costos, ingresos o propuesta. |
+| **Recorrido del cliente** | Secuencia de interacciones del cliente con la empresa. | Pasos, emociones y fricciones. |
+| **Costo de servir** | Costo de atender a un cliente o transacción. | Costo por pedido, por cliente. |
+| **Efecto de red** | Valor que crece con el número de usuarios. | Plataformas y mercados. |
+| **Costo de cambio (*switching cost*)** | Costo del usuario por pasar a otro proveedor. | Datos y hábitos retenidos. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 230: 1. partir de estrategia y customer journey → 2. identificar economics cambiables por digital → 3. elegir capabilities diferenciadoras → 4. definir build buy o partner → 5. secuenciar transformation y metrics](modelo-mental.svg)
+![Digitalizar frente a tener una estrategia digital: pregunta, alcance, resultado, riesgo y responsable.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. partir de estrategia y customer journey → 2. identificar economics cambiables por digital → 3. elegir capabilities diferenciadoras → 4. definir build buy o partner → 5. secuenciar transformation y metrics
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Estrategia digital no es digitalizar procesos existentes por defecto; decide cómo tecnología y datos cambian propuesta de valor, canales, economics, operating model y ventaja. Debe integrarse a estrategia empresarial, no vivir como roadmap de CIO aislado.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Digitalizar un mal proceso puede automatizar desperdicio. Rediseña proceso y decisión antes o junto con tecnología.**
+**Cómo leer el diagrama.** Una tabla de cinco filas que compara digitalizar con una estrategia digital. En la **pregunta**, digitalizar pregunta cómo hacer un proceso en un sistema; la estrategia pregunta cómo cambia la economía y la propuesta de valor. En el **alcance**, uno es un proceso o una función; la otra, clientes, modelo de negocio y operación. En el **resultado**, menos papel y menos errores frente a costos, ingresos o ventajas distintas. En el **riesgo**, automatizar desperdicio frente a competir con reglas que otros dominan. En el **responsable**, tecnología o el área usuaria frente al comité de dirección. La nota explica que la estrategia digital parte de la estrategia de la empresa y del recorrido del cliente.
 
 ## 📖 Desarrollo
 
-### 1. digital strategy: mecanismo central
+### 1. Digitalizar no es una estrategia
 
-**digital strategy** se entiende aquí como **conjunto de choices sobre cómo tecnología y datos crean ventaja y valor**. Esta es la pieza causal o estructural desde la que se inicia **estrategia digital**: antes de partir de estrategia y customer journey, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Westerman y colaboradores encontraron que las empresas con mejor desempeño digital no eran las que más gastaban en tecnología, sino las que combinaban **intensidad digital** (qué tanto cambian la experiencia del cliente, los procesos y los modelos de negocio) con **intensidad de gestión de la transformación** (visión, gobierno, compromiso, cultura). Muchas organizaciones tienen mucha tecnología y poca estrategia: aplicaciones que nadie usa, procesos digitales que replican los antiguos, datos que no se explotan. Digitalizar un proceso es una mejora de eficiencia que **puede ser valiosa**, pero que **no cambia la posición competitiva** si los competidores hacen lo mismo. La estrategia pregunta dónde la tecnología permite hacer algo que antes no era posible o rentable.
 
-La lectura rectora de este bloque es Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*. Su aporte se usa para examinar **modelo operativo AI-first, escala digital, redes y arquitectura de decisión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **digital revenue**; regístrala con periodo, unidad, población y baseline.
+### 2. Partir de la estrategia y del cliente
 
-Relaciona el mecanismo con **digitization**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Rumelt define la estrategia como un diagnóstico, una política guía y acciones coherentes (clase 212); la estrategia digital debe encajar en ella, no sustituirla. El punto de partida es doble: **¿cuál es el desafío crítico del negocio?** y **¿cómo vive el cliente su relación con nosotros?** Se mapea el **recorrido del cliente** (búsqueda, compra, uso, servicio, renovación), se identifican **fricciones** (esperas, errores, llamadas repetidas, trámites) y **momentos de verdad** (donde se gana o se pierde la relación), y se cuantifica su efecto en ingresos, retención y costos. Muchos proyectos digitales fracasan porque resuelven un problema que el cliente no tiene, o que tienen en un paso menos importante del recorrido.
 
-### 2. digitization: frontera conceptual y error de clasificación
+### 3. Qué economías puede cambiar la tecnología
 
-**Definición operacional:** convertir información analógica a digital. Su valor está en distinguirlo de **digital strategy** y **digitalization**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La tecnología cambia sobre todo cuatro economías. El **costo de servir**: una transacción digital de autoservicio cuesta mucho menos que una atendida por una persona. El **alcance y la velocidad**: llegar a más clientes y lanzar productos en semanas. La **información**: datos que permiten personalizar, fijar precios, prever demanda o evaluar riesgo. Y la **estructura de mercado**: plataformas que conectan a dos lados, con **efectos de red** y **costos de cambio**. Shapiro y Varian explican cómo, en la economía de la información, los costos fijos altos y marginales bajos, los efectos de red y los costos de cambio producen dinámicas de **ganador se lleva casi todo**, y cómo los datos y los hábitos del cliente se vuelven barreras. La estrategia digital identifica cuál de estas economías es relevante para el negocio.
 
-Contrasta el problema con Thomas H. Davenport & Nitin Mittal — *All-In on AI*, que aporta una mirada sobre **casos empresariales, estrategia y organización para inteligencia artificial**. Formula dos mini-casos: uno que sí satisface la definición de **digitization** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **self-service adoption** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Elegir capacidades diferenciadoras
 
-Antes de identificar economics cambiables por digital, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+No todo se puede ni conviene hacer. La estrategia digital **elige** las pocas capacidades en que la empresa quiere ser mejor que los demás (por ejemplo, la experiencia de compra, el uso de datos de clientes, la logística, el riesgo) y **acepta ser estándar** en las demás, comprándolas (clase 236). Iansiti y Lakhani muestran que la ventaja digital proviene de combinar **datos**, **algoritmos** y **un modelo de operación** que escala con bajo costo marginal; las empresas que no lo tienen pueden competir por otros caminos (cercanía, especialización), pero necesitan una decisión explícita. Se renuncia con claridad: lo que no se prioriza no se financia.
 
-### 3. digitalization: operacionalización y medición
+### 5. Rediseñar el proceso y la decisión
 
-**digitalization** significa **usar tecnología para mejorar procesos existentes**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Digitalizar un proceso ineficiente es automatizar el desperdicio. McAfee y Brynjolfsson sostienen que las empresas obtienen valor de las nuevas tecnologías cuando **rediseñan procesos, organización y decisiones**, no solo cuando las instalan. Antes de construir, se pregunta: ¿este paso es necesario?, ¿esta aprobación agrega valor?, ¿quién decide y con qué información?, ¿qué excepciones se pueden eliminar? Un proceso rediseñado, aunque siga siendo manual, ya produce ahorros; luego la tecnología los multiplica. En la práctica, conviene hacer la **simplificación primero** o **junto con** la tecnología, no después.
 
-Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* orienta este bloque mediante **métricas de entrega, capacidades técnicas y desempeño organizacional**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **cost-to-serve**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Modelo operativo, inversiones y gobierno
 
-Al llegar a elegir capabilities diferenciadoras, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La estrategia se traduce en un **modelo operativo**: qué equipos construyen y operan los productos digitales (equipos de producto con tecnología y negocio juntos), qué plataformas comunes existen (datos, identidad, pagos), qué decisiones se toman en cada nivel y cómo se financia (por producto o capacidad, no por proyecto). Westerman y colaboradores destacan el papel del **gobierno**: un comité de dirección que define prioridades, arbitra conflictos y evalúa resultados, y un responsable (ejecutivo) con autoridad para coordinar. Se fija un **portafolio de iniciativas** con distintos niveles de riesgo: mejoras de eficiencia, nuevas capacidades y apuestas, con etapas y puertas de decisión (clase 228).
 
-### 4. digital transformation: trade-offs y efectos de segundo orden
+### 7. Medir y ajustar
 
-**Definición:** cambio sistémico de modelo y capabilities habilitado por digital. Este concepto obliga a abandonar la idea de que **estrategia digital** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de definir build buy o partner, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics* aporta una lente sobre **perspectiva de Datos aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **cycle time** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **estrategia digital**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **digital transformation** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. digital business model: gobernanza, límites e integración
-
-**digital business model** se define como **modelo donde software y datos son parte central de creación y captura de valor** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-NIST — *Cybersecurity Framework (CSF) 2.0* se utiliza para estudiar **gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad** y contrastar la recomendación final. Al ejecutar secuenciar transformation y metrics, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Digitalizar un mal proceso puede automatizar desperdicio. Rediseña proceso y decisión antes o junto con tecnología.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **digital strategy**, **digitization**, **digitalization**, **digital transformation** y **digital business model** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **estrategia digital** no consiste en sumar cinco definiciones. Empieza por **digital strategy**, contrasta **digitization** con **digitalization**, incorpora **digital transformation** como restricción o mecanismo y usa **digital business model** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. partir de estrategia y customer journey → 2. identificar economics cambiables por digital → 3. elegir capabilities diferenciadoras → 4. definir build buy o partner → 5. secuenciar transformation y metrics**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La estrategia digital se evalúa con **indicadores de negocio**: costo de servir por canal, tasa de adopción digital, retención, ingresos por cliente, tiempo de lanzamiento de productos, satisfacción y resultados financieros. Se contrastan con la **línea base** y con las metas que justificaron la inversión. Se revisan los **supuestos** (¿los clientes adoptan?, ¿el costo de servir bajó?, ¿los competidores reaccionaron?). Y se aprende: lo que funcionó se escala, lo que no se corrige o se detiene. Una estrategia digital no es un plan de tres años cerrado, sino una **hipótesis** sobre cómo la tecnología cambiará la economía, que se prueba y se ajusta.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* | modelo operativo AI-first, escala digital, redes y arquitectura de decisión | ¿Qué supuesto de **estrategia digital** ayuda a desafiar? |
-| Thomas H. Davenport & Nitin Mittal — *All-In on AI* | casos empresariales, estrategia y organización para inteligencia artificial | ¿Qué supuesto de **estrategia digital** ayuda a desafiar? |
-| Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* | métricas de entrega, capacidades técnicas y desempeño organizacional | ¿Qué supuesto de **estrategia digital** ayuda a desafiar? |
-| Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics* | perspectiva de Datos aplicada al problema de la clase | ¿Qué supuesto de **estrategia digital** ayuda a desafiar? |
-| NIST — *Cybersecurity Framework (CSF) 2.0* | gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad | ¿Qué supuesto de **estrategia digital** ayuda a desafiar? |
-
-En **estrategia digital**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **digital strategy**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Westerman, Bonnet y McAfee | Intensidad digital e intensidad de gestión de la transformación. | Marco descriptivo. | ¿Qué falta: tecnología o liderazgo? |
+| Iansiti y Lakhani | Negocios con datos, algoritmos y bajo costo marginal. | Casos de empresas muy digitales. | ¿Nuestro modelo escala con bajo costo marginal? |
+| McAfee y Brynjolfsson | Rediseño de procesos junto con máquinas, plataformas y multitudes. | No da pasos específicos. | ¿Qué proceso se rediseña? |
+| Shapiro y Varian | Efectos de red, costos de cambio y economía de la información. | Foco en mercados de información. | ¿Qué barrera construye la tecnología? |
+| Rumelt | Estrategia como diagnóstico, política guía y acciones coherentes. | No habla de tecnología. | ¿Cuál es el desafío crítico? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un banco llama estrategia digital a trasladar formularios PDF a web. Los mismos pasos, aprobaciones y tiempos permanecen; clientes siguen esperando cinco días.
+**Situación (hipotética).** Una empresa de distribución recibe 150.000 pedidos al año de clientes empresariales, atendidos por vendedores y asistentes a un costo de servir de 38.000 pesos por pedido. Un canal digital de autoservicio costaría 9.000 pesos por pedido atendido. Inversión: 2.800 millones de pesos; operación anual: 400 millones.
 
-**Paso 1 — partir de estrategia y customer journey.** La gerencia escribe primero el supuesto asociado a **digital strategy** y evita convertirlo en hecho. Luego busca **digital revenue** para contrastarlo en el caso de **estrategia digital**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Ahorro por adopción.**
 
-**Paso 2 — identificar economics cambiables por digital.** La gerencia escribe primero el supuesto asociado a **digitization** y evita convertirlo en hecho. Luego busca **self-service adoption** para contrastarlo en el caso de **estrategia digital**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Adopción | Pedidos digitales | Ahorro bruto (29.000 por pedido) | Ahorro neto (− 400) | Plazo de recuperación |
+|---|---|---|---|---|
+| 25 % | 37.500 | 1.087,5 millones | 687,5 millones | 2.800 ÷ 687,5 ≈ 4,1 años |
+| 40 % | 60.000 | 1.740 millones | 1.340 millones | 2.800 ÷ 1.340 ≈ 2,1 años |
 
-**Paso 3 — elegir capabilities diferenciadoras.** La gerencia escribe primero el supuesto asociado a **digitalization** y evita convertirlo en hecho. Luego busca **cost-to-serve** para contrastarlo en el caso de **estrategia digital**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+La decisión depende de la **adopción**, un supuesto de comportamiento del cliente, no de tecnología.
 
-**Paso 4 — definir build buy o partner.** La gerencia escribe primero el supuesto asociado a **digital transformation** y evita convertirlo en hecho. Luego busca **cycle time** para contrastarlo en el caso de **estrategia digital**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Preguntas de estrategia.** (1) ¿Por qué adoptarían los clientes? El recorrido muestra que el 55 % de los pedidos se repiten cada semana y que los clientes esperan una confirmación de stock inmediata. (2) ¿Qué ventaja da? Costo de cambio: historial, listas de compra y facturación integrada. (3) ¿Qué se renuncia? Atención personalizada para los pedidos pequeños; los vendedores se concentran en cuentas grandes.
 
-**Paso 5 — secuenciar transformation y metrics.** La gerencia escribe primero el supuesto asociado a **digital business model** y evita convertirlo en hecho. Luego busca **data reuse** para contrastarlo en el caso de **estrategia digital**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Rediseño del proceso antes de la tecnología.** El proceso actual exige tres aprobaciones internas por pedido, de las cuales dos casi nunca cambian la decisión. Se eliminan: el costo de servir del canal tradicional baja de 38.000 a 31.000 pesos. En el escenario de 40 % de adopción, los 90.000 pedidos restantes ahorran 90.000 × 7.000 = 630 millones al año, **sin inversión**.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **estrategia digital**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Resultado combinado (40 % de adopción).** Ahorro neto del canal digital: 1.340 millones; ahorro por rediseño: 630. Total anual: 1.970 millones. La inversión de 2.800 se recupera en 2.800 ÷ 1.970 ≈ 1,4 años. Si la adopción es de 25 %, los restantes 112.500 pedidos ahorran 112.500 × 7.000 = 787,5; total: 687,5 + 787,5 = 1.475 millones; recuperación en 1,9 años. El **rediseño** protege el resultado ante una adopción menor.
+
+**Indicadores.** Adopción digital por segmento; costo de servir por canal; retención de clientes; tiempo de confirmación; satisfacción; ventas por vendedor en cuentas grandes. Metas a 12 meses: 30 % de adopción, costo de servir de 31.000 en el canal tradicional y retención de 95 %.
+
+**Puerta de decisión.** Si a los seis meses la adopción es menor al 15 %, se detiene la segunda fase de inversión y se rediseña la oferta.
+
+**Cuidados.** La adopción, los costos y los efectos en vendedores son hipótesis; los cambios que afectan funciones o comisiones del personal se verifican con asesoría laboral; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La estrategia partió de la economía del negocio y del cliente. (2) El rediseño del proceso produjo ahorro sin tecnología. (3) La adopción fue el supuesto crítico y tiene una puerta de decisión.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **digital strategy** | conjunto de choices sobre cómo tecnología y datos crean ventaja y valor | Cuando digital revenue es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **digitization** | convertir información analógica a digital | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Estrategia digital frente a transformación digital.** La estrategia define adónde y por qué; la transformación es el proceso de cambio organizacional para lograrlo (clase 178).
 
-**Frontera de aplicación:** Digitalizar un mal proceso puede automatizar desperdicio. Rediseña proceso y decisión antes o junto con tecnología.
+**Límites.** La tecnología cambia rápido y los supuestos de adopción son inciertos. Los efectos de red y los costos de cambio no se dan en todos los negocios. Digitalizar un mal proceso automatiza el desperdicio; rediseñar proceso y decisión es parte de la estrategia. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre estrategia digital |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **estrategia digital** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **digital strategy** y **digitization** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta digital revenue con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si estrategia digital cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de estrategia digital reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **estrategia digital** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Señala fricciones del recorrido del cliente y del proceso. |
+| **Jefe / Team Lead** | Rediseña pasos innecesarios de su proceso. |
+| **Gerente** | Es dueño de un recorrido o producto digital con métricas. |
+| **CEO / Director** | Fija la estrategia digital, elige capacidades y exige resultados. |
+| **Founder / Owner** | Decide si cambiar el modelo de negocio o defender el actual. |
 
 ## 🏢 Caso ejecutivo
 
-Un banco llama estrategia digital a trasladar formularios PDF a web. Los mismos pasos, aprobaciones y tiempos permanecen; clientes siguen esperando cinco días.
+Una cadena de ferreterías con 85 tiendas y ventas de 200.000 millones de pesos quiere «ser digital». El área de tecnología propone una aplicación de compra y retiro (2.900 millones), un programa de lealtad con datos (1.800 millones) y un portal para contratistas (2.400 millones). Hechos: el 22 % de las ventas proviene de contratistas profesionales que compran por teléfono y planilla; el 70 % de los clientes consulta stock por teléfono; la competencia lanzó una aplicación con compra y retiro en una hora; el costo de atender una venta telefónica es de 4.800 pesos y una digital, de 900; hay 38.000 llamadas diarias para consultar stock; las tiendas tienen inventario con 14 % de diferencias con el sistema; los vendedores ganan comisiones por venta atendida. El directorio pregunta cuál iniciativa va primero.
 
-Entrega un **decision brief de estrategia digital** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de estrategia digital** que contenga: (a) el desafío crítico, el recorrido del cliente y las fricciones; (b) las economías que la tecnología puede cambiar, con números; (c) las capacidades diferenciadoras y las que se compran, con lo que se renuncia; (d) el rediseño de procesos y decisiones previo o simultáneo; (e) el modelo operativo, el portafolio con puertas de decisión y las métricas; (f) los riesgos, los supuestos críticos y las verificaciones laborales y de datos pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **estrategia digital** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. partir de estrategia y customer journey → 2. identificar economics cambiables por digital → 3. elegir capabilities diferenciadoras → 4. definir build buy o partner → 5. secuenciar transformation y metrics** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta digital revenue, self-service adoption; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Describe el recorrido de un cliente en cinco pasos y marca dos fricciones con su costo.
+2. Calcula el costo de servir de dos canales y el ahorro por transacción.
+3. Identifica una capacidad que quieres diferenciar y tres que comprarías.
+4. Rediseña un proceso eliminando dos pasos antes de digitalizarlo.
+5. Define cuatro indicadores de éxito con línea base, meta y puerta de decisión.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar digital strategy y digitization como sinónimos | Se pierde la distinción entre “conjunto de choices sobre cómo tecnología y datos crean ventaja y valor” y “convertir información analógica a digital” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “secuenciar transformation y metrics” | Se saltó “partir de estrategia y customer journey” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. partir de estrategia y customer journey → 2. identificar economics cambiables por digital → 3. elegir capabilities diferenciadoras → 4. definir build buy o partner → 5. secuenciar transformation y metrics y marca el primer supuesto no demostrado. |
-| Optimizar solo digital revenue | La métrica local sustituyó al resultado del sistema | Contrástala con self-service adoption y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre estrategia digital | Digitalizar un mal proceso puede automatizar desperdicio. Rediseña proceso y decisión antes o junto con tecnología. |
-| No fijar revisión | Una decisión sobre estrategia digital se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Digitalizar el proceso actual | Es lo más rápido | Rediseñar antes o junto con la tecnología. |
+| Partir de la herramienta | Moda o oferta de proveedores | Partir de estrategia y recorrido del cliente. |
+| Querer todo | No se elige | Elegir pocas capacidades diferenciadoras. |
+| Suponer adopción | Optimismo | Probar con pilotos y puertas de decisión. |
+| Estrategia solo de tecnología | Se delega | Comité de dirección y dueños de negocio. |
+| No medir el costo de servir | Se desconoce el dato | Línea base por canal. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **digital strategy** y **digitization** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **digitalization** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **partir de estrategia y customer journey → identificar economics cambiables por digital** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **digital revenue** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **estrategia digital**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Digitalizar un mal proceso puede automatizar desperdicio. Rediseña proceso y decisión antes o junto con tecnología.**?
+1. ¿Qué diferencia hay entre digitalizar y tener una estrategia digital?
+2. ¿Qué economías puede cambiar la tecnología?
+3. ¿Por qué se parte del recorrido del cliente?
+4. ¿Qué significa elegir capacidades diferenciadoras?
+5. ¿Por qué rediseñar el proceso antes o junto con la tecnología?
+6. ¿Qué incluye el modelo operativo digital?
+7. ¿Qué supuesto suele ser crítico en un canal digital?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Digitalizar traspasa procesos existentes a un soporte tecnológico; la estrategia digital decide cómo la tecnología cambia la economía, la propuesta y la ventaja.
+2. El costo de servir, el alcance y la velocidad, la información y la estructura del mercado, incluidos efectos de red y costos de cambio.
+3. Para resolver problemas reales del cliente y localizar las fricciones y momentos de verdad con efecto económico.
+4. Elegir las pocas capacidades en que se quiere ser mejor y aceptar ser estándar, comprándolas, en las demás.
+5. Porque digitalizar un proceso ineficiente automatiza el desperdicio; la simplificación ya produce ahorros.
+6. Equipos de producto, plataformas comunes, decisiones por nivel, financiamiento por capacidad y gobierno de dirección.
+7. La adopción por parte de los clientes, que es un supuesto de comportamiento.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/230-estrategia-digital/`:
 
-- `strategy-memo.md` con el problema específico de **estrategia digital**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **estrategia digital** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **digital strategy**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un banco llama estrategia digital a trasladar formularios PDF a web. Los mismos pasos, aprobaciones y tiempos permanecen; clientes siguen esperando cinco días.** y el dato que podría invalidar la recomendación.
+- `strategy-memo.md` (plantilla [Strategy memo](../../../../templates/strategy-memo.md)) con el memo del caso ejecutivo;
+- `process-map.md` (plantilla [Process map](../../../../templates/process-map.md)) con el recorrido del cliente y el proceso rediseñado;
+- `decision-journal.md` con las economías, los supuestos críticos y las puertas de decisión.
 
 ## 📗 Fuentes y verificación
 
-- Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* (Harvard Business Review Press, 2020). **Uso en esta clase:** modelo operativo AI-first, escala digital, redes y arquitectura de decisión. Lectura selectiva sobre **estrategia digital**. **Localizador:** [ISBN-13 9781633697621](https://openlibrary.org/isbn/9781633697621).
-- Thomas H. Davenport & Nitin Mittal — *All-In on AI* (Harvard Business Review Press, 2022). **Uso en esta clase:** casos empresariales, estrategia y organización para inteligencia artificial. Lectura selectiva sobre **estrategia digital**. **Localizador:** [ISBN-13 9781647824693](https://openlibrary.org/isbn/9781647824693).
-- Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* (IT Revolution Press, 2018). **Uso en esta clase:** métricas de entrega, capacidades técnicas y desempeño organizacional. Lectura selectiva sobre **estrategia digital**. **Localizador:** [ISBN-13 9781942788379](https://openlibrary.org/isbn/9781942788379).
-- Thomas H. Davenport & Jeanne G. Harris — *Competing on Analytics* (Harvard Business School Press, 2007). **Uso en esta clase:** perspectiva de Datos aplicada al problema de la clase. Lectura selectiva sobre **estrategia digital**. **Localizador:** [ISBN-13 9781422103326](https://openlibrary.org/isbn/9781422103326).
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* (Harvard Business Review Press, 2014). **Uso en esta clase:** transformación digital desde capacidades de liderazgo y capacidades digitales. Lectura selectiva sobre **estrategia digital**. **Localizador:** [ISBN-13 9781625272478](https://openlibrary.org/isbn/9781625272478).
-- NIST — *AI Risk Management Framework (AI RMF 1.0)*. **Uso en esta clase:** gobernar, mapear, medir y gestionar el riesgo de sistemas de IA en la decisión de la clase. **Fuente primaria:** <https://www.nist.gov/itl/ai-risk-management-framework>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **estrategia digital** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **estrategia digital**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **estrategia digital** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **estrategia digital** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **estrategia digital** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* (Harvard Business Review Press, 2014). **Uso en esta clase:** intensidad digital e intensidad de gestión de la transformación. Lectura selectiva sobre **estrategia digital**. **Localizador:** [ISBN-13 9781625272478](https://openlibrary.org/isbn/9781625272478).
+- Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* (Harvard Business Review Press, 2020). **Uso en esta clase:** negocios con datos, algoritmos y bajo costo marginal. Lectura selectiva sobre **estrategia digital**. **Localizador:** [ISBN-13 9781633697621](https://openlibrary.org/isbn/9781633697621).
+- Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd* (Norton & Company, Incorporated, W. W., 2017). **Uso en esta clase:** rediseño de procesos con máquinas, plataformas y multitudes. Lectura selectiva sobre **estrategia digital**. **Localizador:** [ISBN-13 9780393254303](https://openlibrary.org/isbn/9780393254303).
+- Carl Shapiro & Hal R. Varian — *Information Rules* (Harvard Business School Press, 1998). **Uso en esta clase:** efectos de red, costos de cambio y economía de la información. Lectura selectiva sobre **estrategia digital**. **Localizador:** [ISBN-13 9780875848631](https://openlibrary.org/isbn/9780875848631).
+- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** estrategia como diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **estrategia digital**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
 
-> **Regla de fuentes para Estrategia digital:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **estrategia digital** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Estrategia digital:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de datos personales, de comercio electrónico y laborales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

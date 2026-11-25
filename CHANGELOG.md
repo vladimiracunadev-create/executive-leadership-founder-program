@@ -39,6 +39,13 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 19 completa** (229–240): tecnología como capacidad de negocio (Iansiti y Lakhani, Westerman y otros),
+  estrategia digital (Shapiro y Varian), economía de la nube (Armbrust y otros, FinOps), datos como activo
+  operativo (Kleppmann, Dehghani), portafolio de IA (Agrawal, Gans y Goldfarb, NIST), automatización y rediseño
+  del trabajo (Autor, Acemoglu y Restrepo), ciberseguridad desde el directorio, build, buy, partner o retire
+  (Williamson), arquitectura y deuda técnica (Parnas, Cunningham), métricas de entrega (Forsgren y otros), cambio
+  laboral por IA (Eloundou y otros) y capstone del tablero de transformación; cada clase con fuentes verificadas,
+  cifras recalculadas y un diagrama a medida.
 - **La parte 18 completa** (217–228): estructura de capital y capacidad de deuda (Brealey, Myers y Allen,
   Myers, Graham y Harvey), costo de capital (Fama y French), deuda frente a equity (Myers y Majluf, Jensen y
   Meckling), valoración por flujos y por múltiplos (Koller, Damodaran, Penman), captación de capital, cap table y

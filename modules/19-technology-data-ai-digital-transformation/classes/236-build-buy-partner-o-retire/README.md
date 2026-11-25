@@ -10,217 +10,201 @@
 
 ## 🎯 Propósito
 
-Build, buy, partner o retire son opciones de sourcing que deben compararse por diferenciación, time-to-value, TCO, control, talent, integration y exit. Construir porque somos tecnológicos y comprar porque es más rápido son sesgos, no estrategias.
+Cada capacidad tecnológica de una empresa se obtiene de cuatro maneras: la **construye** (con su propio equipo), la **compra** (software o servicio de un proveedor), se **asocia** (con un socio que aporta tecnología, datos o canal a cambio de ingresos compartidos) o la **retira** (deja de ofrecerla o de usarla). La decisión parece técnica y, por eso, suele delegarse; sin embargo es una de las más estratégicas: determina qué sabe hacer la empresa por sí misma, de qué proveedores depende, cuánto controla sus datos y qué ventaja puede construir. Construir lo que no diferencia es malgastar talento escaso; comprar lo que diferencia es entregar el corazón de la estrategia; asociarse sin cuidado es ceder la relación con el cliente; mantener lo que ya no aporta es pagar por una capacidad que no se usa.
 
-La salida de esta parte es **gobernar tecnología, datos e IA como capacidades económicas y organizacionales**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **build, buy, partner o retire** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase ofrece un método: definir la capacidad y su grado de diferenciación, modelar tiempo y costo total, analizar control de datos y dependencia, evaluar talento e integración, y decidir con una regla y una salida. Se apoya en la economía de los costos de transacción de Williamson, en el análisis de costos de cambio de Shapiro y Varian, en la innovación arquitectónica de Henderson y Clark, en Iansiti y Lakhani sobre empresas basadas en datos y algoritmos y en Davenport y Mittal sobre la adopción de IA. Al terminar sabrás comparar las cuatro opciones con números y con criterios no financieros, y registrar la decisión con sus condiciones.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `build`, `buy`, `partner`, `retire`, `TCO` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de ceo → transformador digital.
-3. **Aplicar** la secuencia **1. definir capability y diferenciación → 2. modelar time y TCO → 3. analizar control data y lock-in → 4. evaluar talent e integration → 5. decidir y diseñar exit strategy** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** time-to-value, TCO, vendor concentration sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Clasificar** una capacidad según su grado de diferenciación estratégica.
+2. **Modelar** el tiempo y el costo total de propiedad de cada opción.
+3. **Analizar** el control de datos, la dependencia y el costo de salida.
+4. **Evaluar** el talento, la integración y la capacidad de absorber el cambio.
+5. **Decidir** y documentar la opción con condiciones y plan de salida.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define build y buy sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con time-to-value y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué sistema de tu empresa se compró «porque construirlo era caro» y qué costó después cambiarlo? |
+| 20–60 min | Diferenciación, costo total, tiempo, datos, dependencia, talento y retiro. |
+| 60–105 min | Ejemplo trabajado: construir, comprar o asociarse para una plataforma de experiencia de cliente. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **build** | desarrollar capacidad internamente | Distingue un hecho compatible y otro que lo refute. |
-| **buy** | adquirir producto o servicio de mercado | Distingue un hecho compatible y otro que lo refute. |
-| **partner** | compartir capacidad o riesgo con tercero | Distingue un hecho compatible y otro que lo refute. |
-| **retire** | eliminar sistema o capability que ya no crea valor | Distingue un hecho compatible y otro que lo refute. |
-| **TCO** | costo total de propiedad durante ciclo de vida | Distingue un hecho compatible y otro que lo refute. |
+| **Construir (*build*)** | Desarrollar la capacidad con recursos propios. | Equipo, código y propiedad propios. |
+| **Comprar (*buy*)** | Adquirir una solución de un proveedor. | Licencias o suscripción. |
+| **Asociarse (*partner*)** | Obtener la capacidad con un socio sin comprarla ni construirla. | Alianza, ingresos compartidos. |
+| **Retirar (*retire*)** | Dejar de ofrecer o usar la capacidad. | Cierre con migración. |
+| **Costo total de propiedad (TCO)** | Costo de adquirir, operar y mantener a lo largo de la vida útil. | Suma por varios años. |
+| **Costo de salida** | Costo de cambiar a otra opción. | Migración, datos, rediseño. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 236: 1. definir capability y diferenciación → 2. modelar time y TCO → 3. analizar control data y lock-in → 4. evaluar talent e integration → 5. decidir y diseñar exit strategy](modelo-mental.svg)
+![Construir, comprar, aliarse o retirar: cuándo conviene cada camino y su riesgo principal.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir capability y diferenciación → 2. modelar time y TCO → 3. analizar control data y lock-in → 4. evaluar talent e integration → 5. decidir y diseñar exit strategy
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Build, buy, partner o retire son opciones de sourcing que deben compararse por diferenciación, time-to-value, TCO, control, talent, integration y exit. Construir porque somos tecnológicos y comprar porque es más rápido son sesgos, no estrategias.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Comprar no transfiere accountability ni elimina integración. Para capabilities centrales, dependencia estratégica de vendor puede ser más costosa que desarrollar.**
+**Cómo leer el diagrama.** Una tabla de cuatro caminos. **Construir**: conviene cuando la capacidad diferencia y exige control de datos y ritmo; su riesgo es el costo, el tiempo y el mantenimiento propios. **Comprar**: conviene cuando es estándar y hay buenos proveedores; su riesgo es la dependencia, la integración y el costo de salida. **Aliarse**: conviene cuando se necesita acceso o velocidad sin propiedad; su riesgo es el control limitado y los objetivos distintos. **Retirar**: conviene cuando ya no aporta valor o su costo supera el beneficio; su riesgo es migrar usuarios y datos sin romper procesos. La nota afirma que comprar no transfiere la responsabilidad ni elimina la integración.
 
 ## 📖 Desarrollo
 
-### 1. build: mecanismo central
+### 1. Primero, ¿qué tan diferenciadora es la capacidad?
 
-**build** se entiende aquí como **desarrollar capacidad internamente**. Esta es la pieza causal o estructural desde la que se inicia **build, buy, partner o retire**: antes de definir capability y diferenciación, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La pregunta inicial no es técnica sino estratégica: ¿esta capacidad **diferencia** a la empresa frente a sus competidores, o es una **commodity** necesaria pero estándar? Iansiti y Lakhani muestran que, en empresas organizadas alrededor de datos y algoritmos, las capacidades que acumulan datos propios y aprenden de ellos son fuente de ventaja; esas no se entregan sin cuidado a terceros. En cambio, la contabilidad, la nómina o el correo son estándar y se compran. Se clasifican las capacidades en: **centrales** (diferencian), **de apoyo** (necesarias, con proveedores buenos) y **commodities**. La regla de partida: construir las centrales cuando haya talento y tiempo, comprar o aliarse en el resto y retirar lo que dejó de aportar. Henderson y Clark advierten que lo que parece un «componente» puede cambiar la arquitectura del negocio: delegar un componente central transfiere también el conocimiento acumulado.
 
-La lectura rectora de este bloque es Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*. Su aporte se usa para examinar **modelo operativo AI-first, escala digital, redes y arquitectura de decisión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **time-to-value**; regístrala con periodo, unidad, población y baseline.
+### 2. Tiempo y costo total de propiedad
 
-Relaciona el mecanismo con **buy**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se modelan **tres horizontes de costo**: **inversión inicial** (desarrollo o licencia y puesta en marcha), **operación** (infraestructura, soporte, equipo, licencias recurrentes con sus alzas) y **cambio** (mejoras, actualizaciones, migración futura). El **costo total de propiedad** (TCO) a cinco años permite comparar. A él se agrega el **tiempo**: construir suele tardar más que comprar o asociarse, y cada mes de retraso tiene un costo (ingresos o ahorros que no se obtienen). Un error común es comparar el costo de **licencia** de la opción comprada con el **desarrollo** de la construida, olvidando la integración, la operación, el cambio y el costo de oportunidad del talento. Otro es subestimar el costo de construir: los proyectos de software suelen exceder sus plazos y presupuestos.
 
-### 2. buy: frontera conceptual y error de clasificación
+### 3. Datos, control y dependencia
 
-**Definición operacional:** adquirir producto o servicio de mercado. Su valor está en distinguirlo de **build** y **partner**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Williamson explica que las **inversiones específicas** (personalizaciones, integraciones, personal capacitado, datos migrados) generan dependencia y exponen a la parte que invierte a decisiones del proveedor (clase 185). Shapiro y Varian muestran que los **costos de cambio** son una fuente de poder en los mercados de tecnología: quien controla los datos, los formatos y los hábitos del usuario retiene al cliente. Se analizan: ¿quién es dueño de los datos y puede extraerlos en un formato usable?, ¿qué ocurre con el servicio si el proveedor sube precios, cambia condiciones, es adquirido o quiebra?, ¿qué parte de la funcionalidad es propietaria? Se estima el **costo de salida** y su probabilidad de materializarse, y se incorpora al comparativo. Las **cláusulas** de portabilidad, depósito de código (*escrow*) y asistencia de transición reducen el riesgo.
 
-Contrasta el problema con Thomas H. Davenport & Nitin Mittal — *All-In on AI*, que aporta una mirada sobre **casos empresariales, estrategia y organización para inteligencia artificial**. Formula dos mini-casos: uno que sí satisface la definición de **buy** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **TCO** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Talento, integración y absorción del cambio
 
-Antes de modelar time y tco, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Construir exige talento escaso (ingenieros, datos, producto, operación) y la capacidad de **sostenerlo**: el equipo que construye hoy debe mantener mañana. Comprar exige **integración** (con sistemas, datos y procesos), **gestión del proveedor** (contratos, niveles de servicio, relación) y **gestión del cambio** (adopción por los usuarios). Asociarse exige **gobierno de la alianza** (objetivos, reparto de valor, datos, salida). En todos los casos, la organización tiene una **capacidad limitada** de absorber cambios (clase 176): una cartera con demasiadas iniciativas simultáneas falla. Davenport y Mittal observan que las empresas que adoptan IA a escala combinan **construcción** de capacidades centrales y **compra** de componentes; lo hacen con un modelo operativo claro y con dueños de negocio, no solo de tecnología.
 
-### 3. partner: operacionalización y medición
+### 5. Asociarse: velocidad con control limitado
 
-**partner** significa **compartir capacidad o riesgo con tercero**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Una alianza puede dar acceso a tecnología, datos, clientes o canales con rapidez y bajo capital, a cambio de **ingresos compartidos**, **dependencia** y **control limitado**. El riesgo es que el socio capte la relación con el cliente, se convierta en competidor o cambie de prioridades. Se define: **qué aporta cada parte**, **cómo se reparte el valor** (porcentaje, límites), **quién es dueño de los datos y de la relación con el cliente**, **exclusividad**, **duración**, **condiciones de salida** y **gobierno**. Se aplican las mismas pruebas de TCO, de dependencia y de salida. Una alianza que se siente barata en el primer año puede resultar cara cuando el negocio crece y el reparto de ingresos se mantiene.
 
-Foster Provost & Tom Fawcett — *Data Science for Business* orienta este bloque mediante **perspectiva de Datos aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **vendor concentration**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Retirar: la decisión que se evita
 
-Al llegar a analizar control data y lock-in, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Las empresas acumulan sistemas, productos y servicios que ya no aportan valor pero consumen recursos: licencias, infraestructura, equipo de soporte, riesgo de seguridad, complejidad. **Retirar** es una decisión explícita con su análisis: ¿cuántos usuarios y qué ingresos dependen?, ¿qué cuesta mantenerlo?, ¿qué riesgo tiene?, ¿qué alternativa tienen los usuarios?, ¿cuánto cuesta migrarlos y qué obligaciones legales o contractuales hay (conservación de datos, compromisos con clientes)? La resistencia suele ser emocional y organizacional («por si acaso»). Un plan de retiro tiene **fecha**, **responsable**, **comunicación**, **migración de usuarios y datos**, **conservación de lo exigido legalmente** y **apagado verificado**. Retirar libera capacidad para invertir en lo que importa.
 
-### 4. retire: trade-offs y efectos de segundo orden
+### 7. Decidir y dejar una salida
 
-**Definición:** eliminar sistema o capability que ya no crea valor. Este concepto obliga a abandonar la idea de que **build, buy, partner o retire** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de evaluar talent e integration, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* aporta una lente sobre **transformación digital desde capacidades de liderazgo y capacidades digitales**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **engineering capacity** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **build, buy, partner o retire**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **retire** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. TCO: gobernanza, límites e integración
-
-**TCO** se define como **costo total de propiedad durante ciclo de vida** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* se utiliza para estudiar **métricas de entrega, capacidades técnicas y desempeño organizacional** y contrastar la recomendación final. Al ejecutar decidir y diseñar exit strategy, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Comprar no transfiere accountability ni elimina integración. Para capabilities centrales, dependencia estratégica de vendor puede ser más costosa que desarrollar.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **build**, **buy**, **partner**, **retire** y **TCO** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **build, buy, partner o retire** no consiste en sumar cinco definiciones. Empieza por **build**, contrasta **buy** con **partner**, incorpora **retire** como restricción o mecanismo y usa **TCO** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir capability y diferenciación → 2. modelar time y TCO → 3. analizar control data y lock-in → 4. evaluar talent e integration → 5. decidir y diseñar exit strategy**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La decisión se documenta con: **la capacidad y su clasificación**, **las opciones comparadas** (TCO, tiempo, control, dependencia, talento, riesgo), **la opción elegida y su razón**, **las condiciones** (por ejemplo, cláusulas de portabilidad, hitos, presupuesto máximo) y **el plan de salida o de reversión** (qué haríamos si falla). Se fijan **criterios de revisión** (en 12 a 24 meses): si el precio sube más de cierto porcentaje, si el proveedor incumple, si la capacidad pasa a ser central. Y se asigna un **dueño de negocio** de la capacidad y un **responsable de la relación** con el proveedor o socio. Comprar no transfiere la responsabilidad ante clientes, reguladores o el directorio: sigue siendo de la empresa.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* | modelo operativo AI-first, escala digital, redes y arquitectura de decisión | ¿Qué supuesto de **build, buy, partner o retire** ayuda a desafiar? |
-| Thomas H. Davenport & Nitin Mittal — *All-In on AI* | casos empresariales, estrategia y organización para inteligencia artificial | ¿Qué supuesto de **build, buy, partner o retire** ayuda a desafiar? |
-| Foster Provost & Tom Fawcett — *Data Science for Business* | perspectiva de Datos aplicada al problema de la clase | ¿Qué supuesto de **build, buy, partner o retire** ayuda a desafiar? |
-| George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* | transformación digital desde capacidades de liderazgo y capacidades digitales | ¿Qué supuesto de **build, buy, partner o retire** ayuda a desafiar? |
-| Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* | métricas de entrega, capacidades técnicas y desempeño organizacional | ¿Qué supuesto de **build, buy, partner o retire** ayuda a desafiar? |
-
-En **build, buy, partner o retire**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **build**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Williamson | Inversiones específicas, dependencia y diseño de acuerdos. | Teoría general. | ¿Qué inversiones específicas tendremos que hacer? |
+| Shapiro y Varian | Costos de cambio y control de datos en tecnología. | Foco en mercados de información. | ¿Qué nos impide cambiar de proveedor? |
+| Henderson y Clark | Componentes y arquitectura: qué conocimiento se delega. | No es específico de software. | ¿Qué conocimiento perdemos al comprar? |
+| Iansiti y Lakhani | Capacidades de datos y algoritmos como fuente de ventaja. | Casos muy digitales. | ¿Esta capacidad acumula datos propios? |
+| Davenport y Mittal | Combinar construir y comprar en IA a escala. | Casos de empresas grandes. | ¿Cuál es nuestro modelo operativo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** La empresa construye CRM propio durante tres años para un proceso estándar. Mantenerlo consume 18% de ingeniería y retrasa producto diferenciador.
+**Situación (hipotética).** Una empresa de retail con ventas de 150.000 millones de pesos evalúa una plataforma de experiencia de cliente (recomendaciones, promociones personalizadas, seguimiento). Cada mes que la capacidad esté operando aporta unos 90 millones de margen adicional (estimación del área comercial).
 
-**Paso 1 — definir capability y diferenciación.** La gerencia escribe primero el supuesto asociado a **build** y evita convertirlo en hecho. Luego busca **time-to-value** para contrastarlo en el caso de **build, buy, partner o retire**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Tres opciones a cinco años.**
 
-**Paso 2 — modelar time y TCO.** La gerencia escribe primero el supuesto asociado a **buy** y evita convertirlo en hecho. Luego busca **TCO** para contrastarlo en el caso de **build, buy, partner o retire**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Concepto | Construir | Comprar (suscripción) | Asociarse (ingresos compartidos) |
+|---|---|---|---|
+| Inversión inicial | 3.200 | 600 (integración) | 0 |
+| Operación anual | 450 (equipo de 8 personas y nube) | 520, con alza de 7 % anual | 6 % de 12.000 de ventas atribuibles = 720, con crecimiento de 8 % anual |
+| **Costo total a 5 años** | 3.200 + 5 × 450 = **5.450** | 600 + 520 × 5,7507 = **3.590** | 720 × 5,8666 = **4.224** |
+| Tiempo hasta operar | 14 meses | 5 meses | 3 meses |
 
-**Paso 3 — analizar control data y lock-in.** La gerencia escribe primero el supuesto asociado a **partner** y evita convertirlo en hecho. Luego busca **vendor concentration** para contrastarlo en el caso de **build, buy, partner o retire**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+(Los factores 5,7507 y 5,8666 son las sumas de las series crecientes a 7 % y 8 % durante 5 años.)
 
-**Paso 4 — evaluar talent e integration.** La gerencia escribe primero el supuesto asociado a **retire** y evita convertirlo en hecho. Luego busca **engineering capacity** para contrastarlo en el caso de **build, buy, partner o retire**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Valor del tiempo.** Cada mes de operación vale 90 millones. Frente a construir (14 meses), comprar llega 9 meses antes: 810 millones; asociarse, 11 meses antes: 990 millones.
 
-**Paso 5 — decidir y diseñar exit strategy.** La gerencia escribe primero el supuesto asociado a **TCO** y evita convertirlo en hecho. Luego busca **switching cost** para contrastarlo en el caso de **build, buy, partner o retire**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costo ajustado por tiempo.** Construir: 5.450. Comprar: 3.590 − 810 = 2.780. Asociarse: 4.224 − 990 = 3.234.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **build, buy, partner o retire**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Riesgo de dependencia.** Comprar: probabilidad de 25 % de tener que cambiar de proveedor con un costo de salida de 1.500 millones: costo esperado de 375. Asociarse: 15 % de probabilidad con un costo de 800: 120 (más pérdida de control de la relación con el cliente, no cuantificada). Costos ajustados por riesgo: comprar 2.780 + 375 = **3.155**; asociarse 3.234 + 120 = **3.354**; construir 5.450.
+
+**Valor de diferenciación.** El equipo comercial sostiene que construir permitiría funciones propias que elevan la retención y aportarían 250 millones al año de margen extra desde el mes 14 (46 meses hasta el mes 60, es decir, 3,83 años): 958 millones. Costo ajustado de construir: 5.450 − 958 = 4.492. Sigue siendo 1.337 millones más que comprar (4.492 − 3.155).
+
+**Decisión.** **Comprar** la plataforma base, con tres condiciones: derecho a exportar datos en formato abierto, cláusula de transición y tope de aumento anual de 7 %; **construir** solo la capa de modelos de recomendación propios sobre los datos de la empresa (inversión de 600 millones), que es donde se acumula la diferenciación; y no asociarse en este caso por la cesión de la relación con el cliente.
+
+**Retirar.** El mismo análisis señala que la plataforma de campañas antigua (costo operativo de 180 millones al año, 4 % de los clientes activos) debe retirarse: migración de usuarios y datos 90 millones; ahorro neto de 90 millones el primer año y 180 después; recuperación en 6 meses.
+
+**Revisión.** A los 18 meses se revisa: aumento de precios, desempeño del proveedor, calidad de los datos portados, si la capa propia es realmente diferenciadora.
+
+**Cuidados.** Los contratos, licencias, propiedad intelectual y tratamiento de datos se revisan con asesoría legal; las estimaciones de tiempo, costo y valor son hipótesis; las cifras son ilustrativas.
+
+**Qué muestra.** (1) El TCO se ajustó por tiempo y riesgo. (2) La diferenciación se valoró y no cambió la decisión de la base. (3) Se decidió construir lo que acumula ventaja, comprar lo estándar y retirar lo obsoleto.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **build** | desarrollar capacidad internamente | Cuando time-to-value es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **buy** | adquirir producto o servicio de mercado | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Comprar frente a asociarse.** Comprar da propiedad de la licencia y control sobre su uso; asociarse da acceso con reparto de ingresos y menos control. En ambos casos la responsabilidad ante clientes y reguladores sigue siendo de la empresa.
 
-**Frontera de aplicación:** Comprar no transfiere accountability ni elimina integración. Para capabilities centrales, dependencia estratégica de vendor puede ser más costosa que desarrollar.
+**Límites.** Para capacidades centrales, la dependencia estratégica de un proveedor puede costar más que desarrollar. Las estimaciones de desarrollo son inciertas y suelen subestimarse. Las condiciones de proveedores y mercados cambian. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre build, buy, partner o retire |
+| Nivel | Cómo participa en la decisión |
 |---|---|
-| **Profesional** | usa **build, buy, partner o retire** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **build** y **buy** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta time-to-value con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si build, buy, partner o retire cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de build, buy, partner o retire reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **build, buy, partner o retire** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta requisitos y evalúa alternativas con criterios. |
+| **Jefe / Team Lead** | Prueba soluciones y reporta fricciones de integración. |
+| **Gerente** | Es dueño de la capacidad y responde por el resultado. |
+| **CEO / Director** | Clasifica capacidades, decide la opción y exige plan de salida. |
+| **Founder / Owner** | Decide qué debe seguir siendo propio y qué puede depender de terceros. |
 
 ## 🏢 Caso ejecutivo
 
-La empresa construye CRM propio durante tres años para un proceso estándar. Mantenerlo consume 18% de ingeniería y retrasa producto diferenciador.
+Una empresa de logística con 2.300 personas y ventas de 130.000 millones de pesos opera un sistema de gestión de transporte desarrollado hace doce años por un equipo interno de 14 personas (costo de 1.100 millones al año) que ya no puede evolucionar al ritmo del negocio: lanzar una nueva funcionalidad tarda ocho meses. Un proveedor ofrece una plataforma estándar (suscripción de 780 millones al año con aumentos de 9 %, e integración de 1.400 millones), pero no cubre algunas funciones propias de optimización de rutas que dan ventaja a la empresa. Otra empresa propone una alianza: usaría la plataforma de la empresa para sus clientes pequeños a cambio de 8 % de los ingresos de ese segmento (estimados en 9.000 millones al año), con exclusividad de cinco años. El equipo interno teme perder su empleo; el área comercial quiere velocidad; el director de tecnología prefiere «mantener lo propio»; el directorio pide una recomendación. Además existen tres sistemas pequeños que consumen 350 millones al año y que casi no se usan.
 
-Entrega un **decision brief de build, buy, partner o retire** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de decisión de capacidades** que contenga: (a) la clasificación de las capacidades del caso como centrales, de apoyo o commodities; (b) el TCO a cinco años, el valor del tiempo y el costo de dependencia de cada opción; (c) el análisis de control de datos, costo de salida y cláusulas de protección; (d) la evaluación de talento, integración y capacidad de cambio, incluida la situación del equipo interno; (e) la decisión recomendada para cada capacidad, incluido el retiro de los tres sistemas; (f) las condiciones, los criterios de revisión y las verificaciones contractuales y laborales pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **build, buy, partner o retire** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir capability y diferenciación → 2. modelar time y TCO → 3. analizar control data y lock-in → 4. evaluar talent e integration → 5. decidir y diseñar exit strategy** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta time-to-value, TCO; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Clasifica diez capacidades tecnológicas de tu empresa como centrales, de apoyo o commodities.
+2. Calcula el TCO a cinco años de dos opciones, incluyendo operación y alzas.
+3. Estima el valor de llegar tres meses antes y ajusta el costo.
+4. Estima el costo de salida de una opción comprada y su probabilidad.
+5. Redacta un plan de retiro para un sistema con fecha, responsable y migración.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar build y buy como sinónimos | Se pierde la distinción entre “desarrollar capacidad internamente” y “adquirir producto o servicio de mercado” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “decidir y diseñar exit strategy” | Se saltó “definir capability y diferenciación” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir capability y diferenciación → 2. modelar time y TCO → 3. analizar control data y lock-in → 4. evaluar talent e integration → 5. decidir y diseñar exit strategy y marca el primer supuesto no demostrado. |
-| Optimizar solo time-to-value | La métrica local sustituyó al resultado del sistema | Contrástala con TCO y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre build, buy, partner o retire | Comprar no transfiere accountability ni elimina integración. Para capabilities centrales, dependencia estratégica de vendor puede ser más costosa que desarrollar. |
-| No fijar revisión | Una decisión sobre build, buy, partner o retire se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Construir lo que no diferencia | Orgullo técnico | Clasificar la capacidad y comprar lo estándar. |
+| Comprar lo que diferencia | Presión de tiempo | Construir la capa que acumula ventaja. |
+| Comparar solo licencias | Se omiten costos | TCO con integración, operación y cambio. |
+| Ignorar el costo de salida | Se piensa en el corto plazo | Cláusulas de portabilidad y estimación del costo. |
+| No retirar | «Por si acaso» | Plan de retiro con fecha y responsable. |
+| Creer que comprar transfiere la responsabilidad | Falta de claridad | Responsabilidad ante clientes y reguladores sigue siendo propia. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **build** y **buy** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **partner** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir capability y diferenciación → modelar time y TCO** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **time-to-value** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **build, buy, partner o retire**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Comprar no transfiere accountability ni elimina integración. Para capabilities centrales, dependencia estratégica de vendor puede ser más costosa que desarrollar.**?
+1. ¿Cómo se clasifica una capacidad para decidir construir o comprar?
+2. ¿Qué incluye el costo total de propiedad?
+3. ¿Por qué importa el tiempo hasta operar?
+4. ¿Qué es el costo de salida y cómo se reduce?
+5. ¿Cuándo conviene asociarse y cuál es su riesgo?
+6. ¿Por qué cuesta retirar un sistema y cómo se hace bien?
+7. ¿Qué se documenta en la decisión?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Según si diferencia a la empresa (central), es necesaria con buenos proveedores (apoyo) o es estándar (commodity).
+2. Inversión inicial, operación con sus alzas y costos de cambio, a varios años, más integración y talento.
+3. Porque cada mes de retraso tiene un costo en ingresos o ahorros no obtenidos y puede cambiar la decisión.
+4. El costo de cambiar de opción: migración, datos, rediseño; se reduce con portabilidad, depósito de código y asistencia de transición.
+5. Cuando se necesita acceso o velocidad sin propiedad; el riesgo es el control limitado, la dependencia y los objetivos distintos.
+6. Por razones emocionales y organizacionales; se hace con fecha, responsable, migración, comunicación y conservación de lo exigido legalmente.
+7. La clasificación, las opciones comparadas, la elección y su razón, las condiciones, el plan de salida y los criterios de revisión.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/236-build-buy-partner-o-retire/`:
 
-- `leadership-decision-brief.md` con el problema específico de **build, buy, partner o retire**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **build, buy, partner o retire** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **build**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **La empresa construye CRM propio durante tres años para un proceso estándar. Mantenerlo consume 18% de ingeniería y retrasa producto diferenciador.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el memo del caso ejecutivo;
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el comparativo de TCO, tiempo y dependencia;
+- `decision-journal.md` con las condiciones, el plan de salida y las verificaciones pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* (Harvard Business Review Press, 2020). **Uso en esta clase:** modelo operativo AI-first, escala digital, redes y arquitectura de decisión. Lectura selectiva sobre **build, buy, partner o retire**. **Localizador:** [ISBN-13 9781633697621](https://openlibrary.org/isbn/9781633697621).
-- Thomas H. Davenport & Nitin Mittal — *All-In on AI* (Harvard Business Review Press, 2022). **Uso en esta clase:** casos empresariales, estrategia y organización para inteligencia artificial. Lectura selectiva sobre **build, buy, partner o retire**. **Localizador:** [ISBN-13 9781647824693](https://openlibrary.org/isbn/9781647824693).
-- Foster Provost & Tom Fawcett — *Data Science for Business* (SHROFF - O'REILLY, 2013). **Uso en esta clase:** perspectiva de Datos aplicada al problema de la clase. Lectura selectiva sobre **build, buy, partner o retire**. **Localizador:** [ISBN-13 9789351102670](https://openlibrary.org/isbn/9789351102670).
-- George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital* (Harvard Business Review Press, 2014). **Uso en esta clase:** transformación digital desde capacidades de liderazgo y capacidades digitales. Lectura selectiva sobre **build, buy, partner o retire**. **Localizador:** [ISBN-13 9781625272478](https://openlibrary.org/isbn/9781625272478).
-- Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* (IT Revolution Press, 2018). **Uso en esta clase:** métricas de entrega, capacidades técnicas y desempeño organizacional. Lectura selectiva sobre **build, buy, partner o retire**. **Localizador:** [ISBN-13 9781942788379](https://openlibrary.org/isbn/9781942788379).
-- Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd* (Norton & Company, Incorporated, W. W., 2017). **Uso en esta clase:** perspectiva de Economía digital aplicada al problema de la clase. Lectura selectiva sobre **build, buy, partner o retire**. **Localizador:** [ISBN-13 9780393254303](https://openlibrary.org/isbn/9780393254303).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **build, buy, partner o retire** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **build, buy, partner o retire**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **build, buy, partner o retire** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **build, buy, partner o retire** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **build, buy, partner o retire** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Oliver E. Williamson — *Transaction-Cost Economics: The Governance of Contractual Relations* (The Journal of Law and Economics, 1979). **Uso en esta clase:** inversiones específicas, dependencia y diseño de acuerdos. Lectura selectiva sobre **build, buy, partner o retire**. **Localizador:** [DOI 10.1086/466942](https://doi.org/10.1086/466942).
+- Carl Shapiro & Hal R. Varian — *Information Rules* (Harvard Business School Press, 1998). **Uso en esta clase:** costos de cambio y control de datos en tecnología. Lectura selectiva sobre **build, buy, partner o retire**. **Localizador:** [ISBN-13 9780875848631](https://openlibrary.org/isbn/9780875848631).
+- Rebecca M. Henderson & Kim B. Clark — *Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms* (Administrative Science Quarterly, 1990). **Uso en esta clase:** componentes, arquitectura y conocimiento que se delega. Lectura selectiva sobre **build, buy, partner o retire**. **Localizador:** [DOI 10.2307/2393549](https://doi.org/10.2307/2393549).
+- Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI* (Harvard Business Review Press, 2020). **Uso en esta clase:** capacidades de datos y algoritmos como fuente de ventaja. Lectura selectiva sobre **build, buy, partner o retire**. **Localizador:** [ISBN-13 9781633697621](https://openlibrary.org/isbn/9781633697621).
+- Thomas H. Davenport & Nitin Mittal — *All-In on AI* (Harvard Business Review Press, 2022). **Uso en esta clase:** combinar construir y comprar en IA a escala. Lectura selectiva sobre **build, buy, partner o retire**. **Localizador:** [ISBN-13 9781647824693](https://openlibrary.org/isbn/9781647824693).
 
-> **Regla de fuentes para Build, buy, partner o retire:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **build, buy, partner o retire** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Build, buy, partner o retire:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los contratos, la propiedad intelectual, el tratamiento de datos y las condiciones laborales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -5,28 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — CEO → Transformador digital"
 outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir cloud economics de elasticity mediante evidencia observable."
-  - "Aplicar la secuencia: mapear workloads y value drivers → calcular unit cost → identificar waste y commitments → modelar resilience y lock-in → optimizar arquitectura y governance."
-  - "Interpretar cloud cost per transaction, utilization, commitment coverage sin atribuir causalidad automática."
-  - "Resolver el caso de economía de cloud y plataformas con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Calcular el costo unitario de la nube por cliente, transacción o producto."
+  - "Identificar desperdicio y oportunidades de compromiso de capacidad."
+  - "Evaluar el riesgo de dependencia y el costo de salida de un proveedor."
+  - "Modelar resiliencia y su costo frente al riesgo de interrupción."
+  - "Decidir una optimización considerando velocidad, talento y riesgo, no solo la factura."
 deliverable: "risk-governance-brief.md"
 references:
-  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
-  - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
-  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
-  - "Martin Kleppmann — *Designing Data-Intensive Applications*"
-  - "Foster Provost & Tom Fawcett — *Data Science for Business*"
-  - "NIST — *AI Risk Management Framework (AI RMF 1.0)*"
-  - "NIST — *AI Risk Management Framework*. <https://www.nist.gov/itl/ai-risk-management-framework>."
+  - "Michael Armbrust et al. — *A view of cloud computing*"
+  - "J. R. Storment & Mike Fuller — *Cloud FinOps*"
+  - "Oliver E. Williamson — *Transaction-Cost Economics: The Governance of Contractual Relations*"
+  - "Carl Shapiro & Hal R. Varian — *Information Rules*"
+  - "Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy — *Site Reliability Engineering*"
 limits:
-  - "Optimizar costo no significa migrar todo on-premise ni eliminar managed services. Considera velocidad, talento, riesgo y costo total, no solo factura mensual."
+  - "Los precios y descuentos cambian; las proyecciones de demanda son inciertas."
 evidence_signals:
-  - "cloud cost per transaction"
-  - "utilization"
-  - "commitment coverage"
-  - "egress spend"
-  - "availability"
+  - "costo unitario calculado"
+  - "desperdicio y compromisos evaluados"
+  - "dependencia y costo de salida"
+  - "resiliencia frente a costo"

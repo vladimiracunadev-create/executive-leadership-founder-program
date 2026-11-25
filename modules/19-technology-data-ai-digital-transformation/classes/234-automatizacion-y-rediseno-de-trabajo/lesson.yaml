@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — CEO → Transformador digital"
 outcome: "gobernar tecnología, datos e IA como capacidades económicas y organizacionales"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir task decomposition de augmentation mediante evidencia observable."
-  - "Aplicar la secuencia: mapear workflow end-to-end → clasificar tareas por repetición judgment y risk → diseñar target workflow y exceptions → redefinir roles y controles → pilotear y medir productivity y quality."
-  - "Interpretar touch time, automation rate, exception rate sin atribuir causalidad automática."
-  - "Resolver el caso de automatización y rediseño de trabajo con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Descomponer un flujo de trabajo en tareas con tiempo, frecuencia y riesgo."
+  - "Clasificar tareas por repetición, juicio y riesgo, y decidir automatizar o aumentar."
+  - "Diseñar el flujo objetivo con excepciones, controles y respaldo."
+  - "Rediseñar roles, capacidades y carga de trabajo."
+  - "Planificar la transición de las personas respetando las obligaciones laborales."
 deliverable: "operating-improvement-brief.md"
 references:
-  - "Marco Iansiti & Karim R. Lakhani — *Competing in the Age of AI*"
-  - "Thomas H. Davenport & Nitin Mittal — *All-In on AI*"
-  - "Martin Kleppmann — *Designing Data-Intensive Applications*"
-  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
-  - "George Westerman, Didier Bonnet & Andrew McAfee — *Leading Digital*"
-  - "Andrew McAfee & Erik Brynjolfsson — *Machine, Platform, Crowd*"
+  - "David H. Autor, Frank Levy & Richard J. Murnane — *The Skill Content of Recent Technological Change: An Empirical Exploration*"
+  - "David H. Autor — *Why Are There Still So Many Jobs? The History and Future of Workplace Automation*"
+  - "Daron Acemoglu & Pascual Restrepo — *Tasks, Automation, and the Rise in U.S. Wage Inequality*"
+  - "Erik Brynjolfsson & Andrew McAfee — *The Second Machine Age*"
+  - "Ajay Agrawal, Joshua Gans & Avi Goldfarb — *Prediction Machines*"
 limits:
-  - "Automatización de alto riesgo necesita controles y fallback. No uses capacidad técnica como justificación para eliminar juicio humano donde daño potencial es material."
+  - "Las predicciones laborales cambian rápido y dependen del sector."
 evidence_signals:
-  - "touch time"
-  - "automation rate"
-  - "exception rate"
-  - "quality"
-  - "capacity released"
+  - "flujo descompuesto en tareas"
+  - "tareas clasificadas por juicio y riesgo"
+  - "excepciones y controles diseñados"
+  - "transición de las personas planificada"

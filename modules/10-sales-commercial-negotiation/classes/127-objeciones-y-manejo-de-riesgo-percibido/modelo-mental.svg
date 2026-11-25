@@ -1,65 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g127 d-g127" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g127">Ficha visual de la clase 127: Objeciones y manejo de riesgo percibido</title>
-<desc id="d-g127">Conceptos: objection; concern; reframe; proof; stall. Método: escuchar sin defender → clarificar categoría y severidad → confirmar que es la objeción real → responder con evidencia o alternativa → pedir siguiente paso verificable.</desc>
-<defs><marker id="p-g127" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 127 · Objeciones y manejo de riesgo percibido</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 10 · Gestión de negocio</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#8250df"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >objection</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >razón expresada para no avanzar o cambiar condiciones</text>
-<circle cx="38" cy="170" r="5" fill="#8250df"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >concern</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >riesgo o incertidumbre que aún no es rechazo</text>
-<circle cx="38" cy="228" r="5" fill="#8250df"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >reframe</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >nueva forma de interpretar el problema sin negar la</text>
-<text x="54" y="267.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >preocupación</text>
-<circle cx="38" cy="300.12" r="5" fill="#8250df"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >proof</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >evidencia que reduce una incertidumbre específica</text>
-<circle cx="38" cy="358.12" r="5" fill="#8250df"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >stall</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >postergación que puede ocultar falta de prioridad o</text>
-<text x="54" y="397.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >autoridad</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#8250df" stroke="#8250df" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >escuchar sin defender</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#8250df" stroke="#8250df" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >clarificar categoría y severidad</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#8250df" stroke="#8250df" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >confirmar que es la objeción real</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#8250df" stroke="#8250df" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >responder con evidencia o alternativa</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#8250df" stroke="#8250df" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >pedir siguiente paso verificable</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#8250df"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >objection resolution</text>
-<rect x="202" y="456.24" width="67.4" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="215" cy="469.24" r="3.5" fill="#8250df"/>
-<text x="226" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >stalls</text>
-<rect x="279.4" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="292.4" cy="469.24" r="3.5" fill="#8250df"/>
-<text x="303.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >next-step conversion</text>
-<rect x="453.4" y="456.24" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="466.4" cy="469.24" r="3.5" fill="#8250df"/>
-<text x="477.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >discount requested</text>
-<rect x="613.6" y="456.24" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="626.6" cy="469.24" r="3.5" fill="#8250df"/>
-<text x="637.6" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >loss reason</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No toda objeción debe superarse. Si el producto no cumple un requisito crítico o el cliente no tiene fit, retirarse protege margen,</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >confianza y éxito futuro.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 498.56" width="1040" role="img" aria-labelledby="t-s127 d-s127" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s127">Clase 127 · Manejar una objeción como riesgo percibido</title>
+<desc id="d-s127">Cinco pasos para responder a una objeción: escuchar, aclarar, reconocer, responder con evidencia y confirmar.</desc>
+<defs><marker id="p-s127" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="498.56" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 127 · Manejar una objeción como riesgo percibido</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Cialdini · Kahneman &amp; Tversky (1979) · Voss &amp; Raz</text>
+<rect x="28" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<circle cx="52.0" cy="122.0" r="13" fill="#0969da"/>
+<text x="52" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Escuchar</text>
+<text x="44" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Dejar que el comprador</text>
+<text x="44" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >termine, sin anticipar.</text>
+<path d="M260.5,152.875 L276.5,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s127)"/>
+<rect x="279.5" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<circle cx="303.5" cy="122.0" r="13" fill="#1a7f37"/>
+<text x="303.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Aclarar</text>
+<text x="295.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Preguntar qué hay detrás:</text>
+<text x="295.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >¿qué riesgo percibe?</text>
+<path d="M512,152.875 L528,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s127)"/>
+<rect x="531" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<circle cx="555.0" cy="122.0" r="13" fill="#8250df"/>
+<text x="555" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Reconocer</text>
+<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Validar la preocupación sin</text>
+<text x="547" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >darle la razón por reflejo.</text>
+<path d="M763.5,152.875 L779.5,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s127)"/>
+<rect x="782.5" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<circle cx="806.5" cy="122.0" r="13" fill="#bc4c00"/>
+<text x="806.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Responder con</text>
+<text x="826.5" y="138.63" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >evidencia</text>
+<text x="798.5" y="159.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Datos, referencias, pruebas</text>
+<text x="798.5" y="176.51" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >o condiciones que reduzcan</text>
+<text x="798.5" y="193.76" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >el riesgo.</text>
+<path d="M897.25,211.75 V223.75 H142.75 V241.75" stroke="#59636e" stroke-width="2" fill="none" marker-end="url(#p-s127)"/>
+<rect x="28" y="243.75" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<circle cx="52.0" cy="269.75" r="13" fill="#cf222e"/>
+<text x="52" y="274.75" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="72" y="267.75" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Confirmar</text>
+<text x="44" y="299.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Preguntar si queda resuelto</text>
+<text x="44" y="317" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >y qué falta.</text>
+<rect x="28" y="371.5" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="393.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Una objeción rara vez es un rechazo: suele ser un riesgo percibido (de pérdida, de costo, de cambio). Las personas pesan las pérdidas</text>
+<text x="44" y="410.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >más que las ganancias equivalentes, por lo que reducir el riesgo pesa más que sumar beneficios.</text>
+<text x="28" y="458" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Si la objeción es verdadera (el producto no sirve para ese caso), la respuesta correcta es reconocerlo; insistir daña la confianza.</text>
 </svg>

@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "construir ingresos mediante un proceso comercial medible y negociación disciplinada"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir sales process de stage mediante evidencia observable."
-  - "Aplicar la secuencia: definir ICP y proceso comprador → crear etapas con exit criteria → instrumentar conversiones y aging → revisar pérdidas por etapa → mejorar cuello antes de aumentar volumen."
-  - "Interpretar stage conversion, win rate, sales cycle sin atribuir causalidad automática."
-  - "Resolver el caso de ventas como sistema, no como improvisación con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Describir el sistema comercial como una secuencia de etapas con criterios."
+  - "Definir roles y responsabilidades a lo largo del proceso."
+  - "Medir conversiones, tiempos y valor por etapa."
+  - "Identificar el cuello de botella del sistema (clase 089)."
+  - "Decidir dónde invertir para aumentar ventas con el menor costo."
 deliverable: "commercial-decision-brief.md"
 references:
-  - "Neil Rackham — *SPIN Selling*"
-  - "Matthew Dixon & Brent Adamson — *The Challenger Sale*"
-  - "Roger Fisher, William Ury & Bruce Patton — *Getting to Yes*"
-  - "Neil Rackham — *Major Account Sales Strategy*"
   - "Aaron Ross & Marylou Tyler — *Predictable Revenue*"
-  - "Robert B. Cialdini — *Influence*"
+  - "Mark Roberge — *The Sales Acceleration Formula*"
+  - "Neil Rackham — *Major Account Sales Strategy*"
+  - "Matthew Dixon & Brent Adamson — *The Challenger Sale*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
 limits:
-  - "No todo buyer sigue la misma secuencia. El sistema debe reflejar señales de compra y permitir iteración, no obligar al cliente a comportarse como el CRM."
+  - "Las tasas de conversión con pocas oportunidades son inestables y se interpretan con cautela."
 evidence_signals:
-  - "stage conversion"
-  - "win rate"
-  - "sales cycle"
-  - "pipeline velocity"
-  - "stage aging"
+  - "etapas con criterios por evidencia"
+  - "roles y traspasos definidos"
+  - "conversión y tiempo por etapa"
+  - "cuello de botella comercial localizado"

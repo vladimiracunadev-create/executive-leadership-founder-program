@@ -10,225 +10,196 @@
 
 ## 🎯 Propósito
 
-Pricing define cómo se captura valor y debe diferenciar precio, descuento, paquete y concesión. Conceder precio sin recibir algo a cambio enseña al mercado a negociar. El diseño puede basarse en costo, competencia o valor, pero la decisión debe cubrir economía y posicionamiento.
+El precio es la palanca de utilidad más poderosa y la más mal manejada. Un uno por ciento de mejora en el precio efectivo suele aumentar la utilidad más que un uno por ciento de reducción de costos o de aumento de volumen, y sin embargo muchas empresas fijan precios agregando un margen al costo, copiando a la competencia o cediendo ante la primera presión de un cliente. Las concesiones, por su parte, se regalan: se dan descuentos sin contrapartida, que luego se convierten en el nuevo punto de partida. Gestionar precio y concesiones es una disciplina conjunta de valor, estructura de oferta, psicología de la decisión y control comercial.
 
-La salida de esta parte es **construir ingresos mediante un proceso comercial medible y negociación disciplinada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **pricing y concesiones** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis de estrategias de precio de Nagle, Hogan y Zale, en los hallazgos de Ariely, Loewenstein y Prelec sobre el anclaje en la valoración, en la contabilidad mental de Thaler y en los principios de concesión de Malhotra y Bazerman. Al terminar sabrás fijar precio con base en el valor, estructurar ofertas por niveles, anclar con ética, diseñar una política de descuentos con controles y negociar concesiones con contrapartidas.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `list price`, `value-based pricing`, `discount`, `concession`, `price waterfall` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir segmento y valor → 2. calcular floor económico → 3. establecer arquitectura y paquetes → 4. crear reglas de descuento y give-get → 5. medir realized price y pocket margin** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** average selling price, discount rate, pocket margin sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Fijar** precios con base en el valor para el cliente y los costos y la competencia.
+2. **Estructurar** la oferta en niveles y paquetes con lógica.
+3. **Anclar** y presentar precios de forma honesta y efectiva.
+4. **Diseñar** una política de descuentos con límites y aprobaciones.
+5. **Negociar** concesiones con contrapartidas y registrarlas.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define list price y value-based pricing sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con average selling price y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: revisa los últimos diez descuentos que diste y qué obtuviste a cambio de cada uno. |
+| 20–60 min | Valor, estructura de oferta, anclaje, descuentos y concesiones. |
+| 60–105 min | Ejemplo trabajado: política de precios y descuentos de una empresa de software. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **list price** | precio de referencia antes de descuentos | Distingue un hecho compatible y otro que lo refute. |
-| **value-based pricing** | precio anclado al valor económico percibido y alternativas | Distingue un hecho compatible y otro que lo refute. |
-| **discount** | factor que reduce precio nominal | Distingue un hecho compatible y otro que lo refute. |
-| **concession** | condición cedida en negociación que debería intercambiarse | Distingue un hecho compatible y otro que lo refute. |
-| **price waterfall** | secuencia desde precio lista hasta precio/net revenue real | Distingue un hecho compatible y otro que lo refute. |
+| **Precio basado en valor** | Precio fijado según el valor que el cliente obtiene respecto de su mejor alternativa. | Se justifica con beneficios, no con costos. |
+| **Precio por niveles (good-better-best)** | Oferta en varios paquetes con distintas prestaciones y precios. | El cliente elige según su necesidad. |
+| **Ancla** | Referencia inicial que influye en la valoración posterior. | El primer precio mencionado. |
+| **Piso de precio** | Precio por debajo del cual no se vende sin aprobación. | Se basa en el margen de contribución. |
+| **Concesión** | Cesión de algo (precio, plazo, servicio) en una negociación. | Debe tener contrapartida. |
+| **Fuga de precio (price leakage)** | Diferencia entre el precio de lista y el realmente cobrado. | Descuentos y condiciones sin control. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 129: 1. definir segmento y valor → 2. calcular floor económico → 3. establecer arquitectura y paquetes → 4. crear reglas de descuento y give-get → 5. medir realized price y pocket margin](modelo-mental.svg)
+![Cuadrante de valor para el cliente y costo para el vendedor para decidir qué concesiones ofrecer: conceder a cambio de algo, solo con contrapartida, suaviza y no cierra, no conceder.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir segmento y valor → 2. calcular floor económico → 3. establecer arquitectura y paquetes → 4. crear reglas de descuento y give-get → 5. medir realized price y pocket margin
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Pricing define cómo se captura valor y debe diferenciar precio, descuento, paquete y concesión. Conceder precio sin recibir algo a cambio enseña al mercado a negociar. El diseño puede basarse en costo, competencia o valor, pero la decisión debe cubrir economía y posicionamiento.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Precio basado en valor requiere evidencia y ética; no significa cobrar arbitrariamente el máximo. Considera competencia, relación, acceso y reglas de mercado.**
+**Cómo leer el diagrama.** Dos ejes: cuánto **vale** la concesión para el cliente y cuánto **cuesta** al vendedor. Lo que **vale mucho al cliente y cuesta poco** es la mejor moneda de intercambio: se concede a cambio de algo. Lo que vale mucho y cuesta mucho se concede solo con una contrapartida equivalente. Lo que vale poco y cuesta poco suaviza pero no cierra. Lo que cuesta mucho y vale poco no se concede. La nota recuerda que las concesiones se condicionan y se registran, y que los descuentos incondicionales se vuelven la nueva referencia.
 
 ## 📖 Desarrollo
 
-### 1. list price: mecanismo central
+### 1. Precio y utilidad
 
-**list price** se entiende aquí como **precio de referencia antes de descuentos**. Esta es la pieza causal o estructural desde la que se inicia **pricing y concesiones**: antes de definir segmento y valor, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Nagle, Hogan y Zale muestran que el precio es la palanca con mayor efecto en la utilidad: con márgenes habituales, una mejora de uno por ciento en el precio efectivo, sin perder volumen, aumenta la utilidad operacional mucho más que mejoras equivalentes en volumen o costo. Pero también advierten que la sensibilidad al precio varía: no todos los clientes valoran lo mismo ni todos los productos son comparables. Por eso la estrategia de precio parte de **entender el valor** que cada segmento recibe (clase 125), no de un cálculo de costo más margen. El costo fija un piso; el valor, el techo; la competencia y la estrategia determinan dónde ubicarse.
 
-La lectura rectora de este bloque es Neil Rackham — *SPIN Selling*. Su aporte se usa para examinar **venta consultiva basada en preguntas de situación, problema, implicación y necesidad**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **average selling price**; regístrala con periodo, unidad, población y baseline.
+### 2. Tres anclas: costo, competencia y valor
 
-Relaciona el mecanismo con **value-based pricing**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Los enfoques habituales son tres. El **basado en costo** (costo más margen) es simple pero ignora lo que el cliente valora y deja dinero en la mesa o pierde ventas. El **basado en competencia** posiciona respecto de rivales; sirve como referencia, pero copiar precios importa los errores de otros. El **basado en valor** fija el precio según el beneficio diferencial para el cliente; exige conocerlo y comunicarlo. En la práctica se combinan: el costo (variable, clase 113) como piso, el valor como techo y la competencia como referencia de posición.
 
-### 2. value-based pricing: frontera conceptual y error de clasificación
+### 3. Estructura de oferta
 
-**Definición operacional:** precio anclado al valor económico percibido y alternativas. Su valor está en distinguirlo de **list price** y **discount**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La forma de presentar la oferta influye en la decisión. Una **estructura por niveles** (por ejemplo, básico, estándar y premium) ayuda al cliente a elegir según su necesidad, y permite **capturar valor** de quienes valoran más. Los **paquetes** agrupan prestaciones que se valoran en conjunto. Los **componentes opcionales** permiten ajustar el precio sin destruir el valor de la oferta principal. La lógica de niveles se basa en diferencias de valor reales, no en recortes artificiales. Se cuida la **comparabilidad**: si un competidor presenta un precio por usuario y otro por volumen, se ayuda al cliente a comparar con una base común.
 
-Contrasta el problema con Matthew Dixon & Brent Adamson — *The Challenger Sale*, que aporta una mirada sobre **venta compleja, insight comercial, enseñanza y control constructivo del proceso**. Formula dos mini-casos: uno que sí satisface la definición de **value-based pricing** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **discount rate** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Anclaje, referencia y contabilidad mental
 
-Antes de calcular floor económico, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Ariely, Loewenstein y Prelec mostraron que las valoraciones de las personas son sensibles a **anclas arbitrarias** —números que no tienen relación con el valor del producto— y que, una vez establecidas, las preferencias posteriores son coherentes con ellas. Thaler describió la **contabilidad mental**: las personas clasifican el dinero en cuentas mentales (gasto operativo, inversión, regalo) y valoran distinto el mismo monto según la cuenta. Implicaciones éticas y prácticas: presentar **primero** el precio completo del paquete o de la opción mayor, **comparar** con el costo del problema, **expresar** en la unidad que usa el comprador (mensual, por usuario) y **evitar** engaños (anclas falsas, precios «tachados» ficticios, que pueden infringir normas de publicidad).
 
-### 3. discount: operacionalización y medición
+### 5. Política de descuentos
 
-**discount** significa **factor que reduce precio nominal**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Una política clara incluye: **motivos válidos** (volumen, plazo, referencias, cliente estratégico, entrada a un segmento), **límites por rol** (el ejecutivo puede hasta X %, el gerente hasta Y %, el comité sobre Y %), **contrapartidas exigidas** (compromiso de volumen, pago anticipado, caso público, plazo más largo), **piso de precio** (nunca bajo el margen de contribución, salvo excepciones aprobadas), **vigencia** y **registro**. El objetivo es reducir la **fuga de precio** y evitar que los descuentos dependan de la habilidad del cliente para presionar. Se miden el descuento promedio, su dispersión por vendedor y cliente, y su relación con el cierre.
 
-Chris Voss & Tahl Raz — *Never Split the Difference* orienta este bloque mediante **negociación táctica, escucha, calibración y manejo de información imperfecta**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **pocket margin**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Concesiones con contrapartida
 
-Al llegar a establecer arquitectura y paquetes, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Malhotra y Bazerman recomiendan **no conceder sin recibir**: cada cesión se condiciona («si ampliamos el plazo de pago, necesitamos un compromiso por tres años»). Se concede en **pasos decrecientes** (la primera mayor, las siguientes menores) para señalar que se acerca el límite; se **nombra** el valor de cada concesión («esto vale USD 12.000 para nosotros»); y se **registra** lo concedido para no repetir. Se evalúan según el cuadrante de valor y costo: se prefieren las concesiones que **cuestan poco y valen mucho** (extender una garantía de calidad que rara vez se activa, un soporte prioritario, un caso público) antes que bajar el precio.
 
-### 4. concession: trade-offs y efectos de segundo orden
+### 7. Precio, relación y límites
 
-**Definición:** condición cedida en negociación que debería intercambiarse. Este concepto obliga a abandonar la idea de que **pricing y concesiones** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de crear reglas de descuento y give-get, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Neil Rackham — *Major Account Sales Strategy* aporta una lente sobre **perspectiva de Ventas aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **win rate by price** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **pricing y concesiones**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **concession** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. price waterfall: gobernanza, límites e integración
-
-**price waterfall** se define como **secuencia desde precio lista hasta precio/net revenue real** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Aaron Ross & Marylou Tyler — *Predictable Revenue* se utiliza para estudiar **perspectiva de Ventas aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar medir realized price y pocket margin, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Precio basado en valor requiere evidencia y ética; no significa cobrar arbitrariamente el máximo. Considera competencia, relación, acceso y reglas de mercado.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **list price**, **value-based pricing**, **discount**, **concession** y **price waterfall** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **pricing y concesiones** no consiste en sumar cinco definiciones. Empieza por **list price**, contrasta **value-based pricing** con **discount**, incorpora **concession** como restricción o mecanismo y usa **price waterfall** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir segmento y valor → 2. calcular floor económico → 3. establecer arquitectura y paquetes → 4. crear reglas de descuento y give-get → 5. medir realized price y pocket margin**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Precio, valor y concesión
-
-Pricing no comienza en costo + margen. Nagle propone pensar en valor económico y segmentación; el costo actúa como restricción, no como único ancla. Calcula el impacto de descuento: con margen bruto de 40 %, un descuento de 10 % puede exigir un aumento de volumen mucho mayor que 10 % para conservar beneficio bruto.
-
-Toda concesión debe intercambiarse por algo: plazo, volumen, compromiso, referencia, pago anticipado o reducción de alcance. Registra *give/get* para evitar que negociar se convierta en regalar margen.
+El precio comunica **posicionamiento** y **respeto por el valor propio**. Los descuentos frecuentes pueden enseñar a los clientes a esperar rebajas; los aumentos mal comunicados dañan la relación. Para **aumentar precios**: se explica el valor, se avisa con anticipación, se segmenta (a quienes obtienen más valor), se ofrecen opciones y se protege a clientes estratégicos con criterio. Hay **límites legales**: normas de libre competencia (acuerdos de precios entre competidores, prácticas predatorias o discriminatorias), de protección al consumidor (publicidad engañosa, cláusulas abusivas), y regulaciones sectoriales. Las políticas de precio se revisan con asesoría legal.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Neil Rackham — *SPIN Selling* | venta consultiva basada en preguntas de situación, problema, implicación y necesidad | ¿Qué supuesto de **pricing y concesiones** ayuda a desafiar? |
-| Matthew Dixon & Brent Adamson — *The Challenger Sale* | venta compleja, insight comercial, enseñanza y control constructivo del proceso | ¿Qué supuesto de **pricing y concesiones** ayuda a desafiar? |
-| Chris Voss & Tahl Raz — *Never Split the Difference* | negociación táctica, escucha, calibración y manejo de información imperfecta | ¿Qué supuesto de **pricing y concesiones** ayuda a desafiar? |
-| Neil Rackham — *Major Account Sales Strategy* | perspectiva de Ventas aplicada al problema de la clase | ¿Qué supuesto de **pricing y concesiones** ayuda a desafiar? |
-| Aaron Ross & Marylou Tyler — *Predictable Revenue* | perspectiva de Ventas aplicada al problema de la clase | ¿Qué supuesto de **pricing y concesiones** ayuda a desafiar? |
-
-En **pricing y concesiones**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **list price**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Nagle, Hogan y Zale | Estrategia y tácticas de precio basadas en valor. | Requiere datos sobre el cliente. | ¿Cuánto valor recibe cada segmento? |
+| Ariely, Loewenstein y Prelec (2003) | Anclaje y coherencia arbitraria de preferencias. | Estudios experimentales. | ¿Qué ancla recibe tu cliente primero? |
+| Thaler (1985) | Contabilidad mental en las decisiones del consumidor. | Marco descriptivo. | ¿En qué cuenta mental cae tu precio? |
+| Malhotra y Bazerman | Concesiones y negociación. | No trata de política de precios. | ¿Qué recibes por cada cesión? |
+| Voss y Raz | Preguntas calibradas ante presiones de precio. | Contexto de negociación. | ¿Cómo respondes a «dame un mejor precio»? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un SaaS lista a 100, pero descuentos, meses gratis y soporte especial reducen ingreso efectivo a 68. El dashboard solo muestra descuento nominal de 15%.
+**Situación (hipotética).** Una empresa de software de gestión de proyectos para constructoras vende licencias por usuario. Precio de lista: USD 40 por usuario al mes; costo variable por usuario (soporte, infraestructura): USD 9; margen de contribución: USD 31 (77,5 %). El descuento promedio otorgado es de 22 %, con una dispersión alta: del 0 % al 45 %.
 
-**Paso 1 — definir segmento y valor.** La gerencia escribe primero el supuesto asociado a **list price** y evita convertirlo en hecho. Luego busca **average selling price** para contrastarlo en el caso de **pricing y concesiones**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Análisis de fuga de precio.** En 120 negocios del último año: 38 con descuento mayor a 30 %; de ellos, 25 no tienen contrapartida registrada; el cierre no se relaciona con el descuento (clientes con 5 % y con 35 % cierran a tasas similares), lo que sugiere que los descuentos grandes se concedieron sin necesidad.
 
-**Paso 2 — calcular floor económico.** La gerencia escribe primero el supuesto asociado a **value-based pricing** y evita convertirlo en hecho. Luego busca **discount rate** para contrastarlo en el caso de **pricing y concesiones**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Nueva estructura.**
 
-**Paso 3 — establecer arquitectura y paquetes.** La gerencia escribe primero el supuesto asociado a **discount** y evita convertirlo en hecho. Luego busca **pocket margin** para contrastarlo en el caso de **pricing y concesiones**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Nivel | Precio por usuario/mes | Qué incluye |
+|---|---|---|
+| Esencial | 28 | Gestión de proyectos y tableros |
+| Profesional | 40 | Esencial + presupuestos y control de costos + integraciones |
+| Empresa | 58 | Profesional + permisos avanzados, auditoría, SLA de soporte |
 
-**Paso 4 — crear reglas de descuento y give-get.** La gerencia escribe primero el supuesto asociado a **concession** y evita convertirlo en hecho. Luego busca **win rate by price** para contrastarlo en el caso de **pricing y concesiones**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Política de descuentos.**
 
-**Paso 5 — medir realized price y pocket margin.** La gerencia escribe primero el supuesto asociado a **price waterfall** y evita convertirlo en hecho. Luego busca **price realization** para contrastarlo en el caso de **pricing y concesiones**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Descuento | Quién aprueba | Contrapartida mínima |
+|---|---|---|
+| Hasta 10 % | Ejecutivo de cuentas | Compromiso anual |
+| 10 %–20 % | Gerente comercial | Compromiso de 2 años, pago anual anticipado, o caso de éxito |
+| Más de 20 % | Comité (gerente comercial y financiero) | Volumen sobre 300 usuarios y contrato de 3 años |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **pricing y concesiones**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Concesiones alternativas** (cuestan poco, valen mucho): capacitación inicial gratuita para 20 personas (costo USD 1.800); soporte prioritario durante seis meses (costo USD 1.200); extensión de piloto a 90 días.
+
+**Estimación del efecto.** Si el descuento promedio baja de 22 % a 14 % con el mismo volumen de ventas de 100.000 usuarios-mes, el ingreso por usuario sube de 31,2 a 34,4 (+10,3 %), que equivale a un aumento de unos USD 3,2 por usuario al mes y, sobre 100.000 usuarios-mes, unos USD 320.000 en un año de ingresos adicionales con el mismo costo variable. Se vigila la tasa de cierre durante 6 meses para confirmar que no cae.
+
+**Qué muestra.** (1) La fuga de precio era grande y evitable. (2) Las contrapartidas y los niveles de aprobación ordenaron las concesiones. (3) Se ofrecieron concesiones de bajo costo y alto valor.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **list price** | precio de referencia antes de descuentos | Cuando average selling price es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **value-based pricing** | precio anclado al valor económico percibido y alternativas | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Precio frente a valor percibido.** El precio es lo que se cobra; el valor percibido es lo que el cliente cree que obtiene. Subir el precio sin elevar el valor percibido reduce ventas; elevar el valor percibido (casos, pruebas, servicio) permite precios mayores.
 
-**Frontera de aplicación:** Precio basado en valor requiere evidencia y ética; no significa cobrar arbitrariamente el máximo. Considera competencia, relación, acceso y reglas de mercado.
+**Límites.** Estimar la disposición a pagar es difícil y los experimentos de precio pueden afectar a clientes y reputación. Los hallazgos de anclaje provienen de experimentos y su magnitud varía; el uso engañoso de anclas es contrario a la ética y a la ley. En precios dinámicos o personalizados con datos de consumidores hay cuestiones de transparencia y no discriminación. Las políticas de precio y las condiciones comerciales tienen implicancias de competencia y consumo que se verifican en la normativa vigente.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre pricing y concesiones |
+| Nivel | Cómo gestiona precio y concesiones |
 |---|---|
-| **Profesional** | usa **pricing y concesiones** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **list price** y **value-based pricing** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta average selling price con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si pricing y concesiones cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de pricing y concesiones reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **pricing y concesiones** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Defiende el valor y pide contrapartida a cada concesión. |
+| **Jefe / Team Lead** | Revisa descuentos y entrena a su equipo en negociar concesiones. |
+| **Gerente** | Define la estructura de oferta, el piso y la política de descuentos. |
+| **CEO / Director** | Usa el precio como palanca estratégica y protege el posicionamiento. |
+| **Founder / Owner** | Cobra por valor desde el inicio y evita competir por precio. |
 
 ## 🏢 Caso ejecutivo
 
-Un SaaS lista a 100, pero descuentos, meses gratis y soporte especial reducen ingreso efectivo a 68. El dashboard solo muestra descuento nominal de 15%.
+Una empresa de servicios de ciberseguridad con ventas de USD 25 millones ofrece paquetes de monitoreo y respuesta a incidentes por contratos anuales. Los precios se fijan por horas más 30 %. Los ejecutivos otorgan descuentos «para cerrar» sin registro; el margen de contribución promedio cayó de 48 % a 39 % en dos años mientras el volumen creció 15 %. Un competidor ofrece un servicio similar a un precio 20 % menor. Un cliente grande, que representa el 7 % de los ingresos, exige un 25 % de descuento por renovar tres años, y amenaza con licitar. El gerente general quiere «igualar al competidor»; el director financiero, aumentar los precios 8 % en general; el comercial, mantener los descuentos para no perder negocios.
 
-Entrega un **decision brief de pricing y concesiones** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega una **estrategia de precio y concesiones** que contenga: (a) el análisis de fuga de precio y de margen por cliente; (b) la propuesta de estructura de oferta por niveles con base en valor; (c) la política de descuentos con límites, aprobaciones y contrapartidas; (d) el plan para el cliente que pide 25 %: BATNA, concesiones alternativas y paquete; (e) la estrategia de aumento de precios y comunicación; (f) los riesgos legales de competencia y consumo que se verificarán.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **pricing y concesiones** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir segmento y valor → 2. calcular floor económico → 3. establecer arquitectura y paquetes → 4. crear reglas de descuento y give-get → 5. medir realized price y pocket margin** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta average selling price, discount rate; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula el descuento promedio y su dispersión en tus últimos 20 negocios.
+2. Diseña una estructura de tres niveles con diferencias de valor reales.
+3. Escribe una política de descuentos con límites y contrapartidas.
+4. Lista cinco concesiones de bajo costo y alto valor para tus clientes.
+5. Diseña la respuesta a «necesito un mejor precio» con una contrapartida.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar list price y value-based pricing como sinónimos | Se pierde la distinción entre “precio de referencia antes de descuentos” y “precio anclado al valor económico percibido y alternativas” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “medir realized price y pocket margin” | Se saltó “definir segmento y valor” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir segmento y valor → 2. calcular floor económico → 3. establecer arquitectura y paquetes → 4. crear reglas de descuento y give-get → 5. medir realized price y pocket margin y marca el primer supuesto no demostrado. |
-| Optimizar solo average selling price | La métrica local sustituyó al resultado del sistema | Contrástala con discount rate y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre pricing y concesiones | Precio basado en valor requiere evidencia y ética; no significa cobrar arbitrariamente el máximo. Considera competencia, relación, acceso y reglas de mercado. |
-| No fijar revisión | Una decisión sobre pricing y concesiones se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Costo más margen | Es lo simple | Partir del valor y usar el costo como piso. |
+| Descuentos sin contrapartida | Se quiere cerrar rápido | Condicionar cada concesión. |
+| Dispersión sin control | Cada ejecutivo decide | Límites por rol y aprobaciones. |
+| Un solo precio para todos | Se simplifica | Niveles que capturen valor. |
+| Anclas falsas | Se busca persuadir | Presentar referencias reales. |
+| Aumentos sin explicar | Se teme la reacción | Explicar el valor y avisar con tiempo. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **list price** y **value-based pricing** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **discount** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir segmento y valor → calcular floor económico** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **average selling price** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **pricing y concesiones**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Precio basado en valor requiere evidencia y ética; no significa cobrar arbitrariamente el máximo. Considera competencia, relación, acceso y reglas de mercado.**?
+1. ¿Por qué el precio es la palanca de mayor efecto en la utilidad?
+2. ¿Qué papel tienen costo, valor y competencia en el precio?
+3. ¿Qué es la fuga de precio y cómo se reduce?
+4. ¿Qué es un ancla y cómo se usa con ética?
+5. ¿Qué debe incluir una política de descuentos?
+6. ¿Qué concesiones conviene ofrecer primero?
+7. ¿Qué límites legales rodean al precio?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Porque, con márgenes habituales, una mejora del precio efectivo sin perder volumen aumenta la utilidad más que una mejora equivalente en volumen o costo.
+2. El costo fija el piso, el valor el techo y la competencia sirve de referencia para ubicarse.
+3. La diferencia entre el precio de lista y el realmente cobrado; se reduce con política, límites, aprobaciones y contrapartidas.
+4. Una referencia inicial que influye en las valoraciones posteriores; se usa con referencias reales y comparaciones verdaderas, sin engaños.
+5. Motivos válidos, límites por rol, contrapartidas, piso de precio, vigencia y registro.
+6. Las que cuestan poco al vendedor y valen mucho al cliente.
+7. Normas de libre competencia, de publicidad y consumo y regulaciones sectoriales.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/129-pricing-y-concesiones/`:
 
-- `commercial-decision-brief.md` con el problema específico de **pricing y concesiones**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **pricing y concesiones** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **list price**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un SaaS lista a 100, pero descuentos, meses gratis y soporte especial reducen ingreso efectivo a 68. El dashboard solo muestra descuento nominal de 15%.** y el dato que podría invalidar la recomendación.
+- `commercial-decision-brief.md` (plantilla [Commercial decision brief](../../../../templates/commercial-decision-brief.md)) con la estrategia del caso ejecutivo;
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el efecto de la política de descuentos en margen;
+- `decision-journal.md` con los límites, las contrapartidas y el seguimiento del cierre.
 
 ## 📗 Fuentes y verificación
 
-- Neil Rackham — *SPIN Selling* (Highbridge Audio, 1998). **Uso en esta clase:** venta consultiva basada en preguntas de situación, problema, implicación y necesidad. Lectura selectiva sobre **pricing y concesiones**. **Localizador:** [ISBN-13 9781565112605](https://openlibrary.org/isbn/9781565112605).
-- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** venta compleja, insight comercial, enseñanza y control constructivo del proceso. Lectura selectiva sobre **pricing y concesiones**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
-- Chris Voss & Tahl Raz — *Never Split the Difference* (Penguin Random House, 2016). **Uso en esta clase:** negociación táctica, escucha, calibración y manejo de información imperfecta. Lectura selectiva sobre **pricing y concesiones**. **Localizador:** [ISBN-13 9781847941480](https://openlibrary.org/isbn/9781847941480).
-- Neil Rackham — *Major Account Sales Strategy* (McGraw-Hill, 1989). **Uso en esta clase:** perspectiva de Ventas aplicada al problema de la clase. Lectura selectiva sobre **pricing y concesiones**. **Localizador:** [ISBN-13 9780070511149](https://openlibrary.org/isbn/9780070511149).
-- Aaron Ross & Marylou Tyler — *Predictable Revenue* (Pebblestorm, 2020). **Uso en esta clase:** perspectiva de Ventas aplicada al problema de la clase. Lectura selectiva sobre **pricing y concesiones**. **Localizador:** [ISBN-13 9780984380244](https://openlibrary.org/isbn/9780984380244).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **pricing y concesiones**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **pricing y concesiones** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **pricing y concesiones**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **pricing y concesiones** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **pricing y concesiones** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **pricing y concesiones** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing* (Taylor & Francis Group, 1987). **Uso en esta clase:** estrategia y tácticas de precio basadas en valor. Lectura selectiva sobre **pricing y concesiones**. **Localizador:** [ISBN-13 9781315266220](https://openlibrary.org/isbn/9781315266220).
+- Dan Ariely, George Loewenstein & Drazen Prelec — *Coherent Arbitrariness: Stable Demand Curves Without Stable Preferences* (The Quarterly Journal of Economics, 2003). **Uso en esta clase:** anclaje y coherencia arbitraria de preferencias. Lectura selectiva sobre **pricing y concesiones**. **Localizador:** [DOI 10.1162/00335530360535153](https://doi.org/10.1162/00335530360535153).
+- Richard Thaler — *Mental Accounting and Consumer Choice* (Marketing Science, 1985). **Uso en esta clase:** contabilidad mental en las decisiones del consumidor. Lectura selectiva sobre **pricing y concesiones**. **Localizador:** [DOI 10.1287/mksc.4.3.199](https://doi.org/10.1287/mksc.4.3.199).
+- Deepak Malhotra & Max H. Bazerman — *Negotiation Genius* (Tantor Media, 2007). **Uso en esta clase:** concesiones y negociación. Lectura selectiva sobre **pricing y concesiones**. **Localizador:** [ISBN-13 9781400135400](https://openlibrary.org/isbn/9781400135400).
+- Chris Voss & Tahl Raz — *Never Split the Difference* (Penguin Random House, 2016). **Uso en esta clase:** preguntas calibradas ante presiones de precio. Lectura selectiva sobre **pricing y concesiones**. **Localizador:** [ISBN-13 9781847941480](https://openlibrary.org/isbn/9781847941480).
 
-> **Regla de fuentes para Pricing y concesiones:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **pricing y concesiones** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Pricing y concesiones:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de libre competencia, publicidad y protección del consumidor. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

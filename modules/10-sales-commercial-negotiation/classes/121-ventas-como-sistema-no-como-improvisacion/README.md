@@ -10,217 +10,191 @@
 
 ## 🎯 Propósito
 
-Ventas como sistema convierte prospección, discovery, propuesta, negociación, cierre y expansión en etapas observables. El objetivo no es forzar un funnel lineal para toda venta, sino generar evidencia de avance y aprender dónde se pierden oportunidades. Actividad sin criterios de etapa produce forecasts ficticios.
+Muchas empresas dependen de uno o dos vendedores extraordinarios: cuando se van, las ventas caen; cuando se contrata a otros, los resultados varían sin explicación; cuando el dueño deja de vender, la empresa se estanca. La razón es que la venta se vive como un talento y no como un **sistema**: una secuencia de etapas con criterios de entrada y salida, roles definidos, datos de conversión y mejora continua. Un sistema comercial no elimina el talento: lo amplifica y permite que personas promedio logren resultados predecibles.
 
-La salida de esta parte es **construir ingresos mediante un proceso comercial medible y negociación disciplinada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **ventas como sistema, no como improvisación** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el enfoque de ventas basado en procesos de Ross y Tyler, en la gestión comercial orientada a datos de Roberge y en la visión de Rackham sobre cómo se compra y se vende en cuentas grandes. Al terminar sabrás describir el sistema comercial de una empresa, definir etapas basadas en evidencia, medir la conversión entre ellas, distinguir los roles del equipo y localizar el cuello de botella que limita las ventas.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `sales process`, `stage`, `exit criteria`, `conversion rate`, `velocity` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir ICP y proceso comprador → 2. crear etapas con exit criteria → 3. instrumentar conversiones y aging → 4. revisar pérdidas por etapa → 5. mejorar cuello antes de aumentar volumen** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** stage conversion, win rate, sales cycle sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** el sistema comercial como una secuencia de etapas con criterios.
+2. **Definir** roles y responsabilidades a lo largo del proceso.
+3. **Medir** conversiones, tiempos y valor por etapa.
+4. **Identificar** el cuello de botella del sistema (clase 089).
+5. **Decidir** dónde invertir para aumentar ventas con el menor costo.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define sales process y stage sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con stage conversion y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: reconstruye, de la última venta que cerraste, cada paso y cuánto tardó. |
+| 20–60 min | Etapas, roles, métricas y cuello de botella. |
+| 60–105 min | Ejemplo trabajado: diagnóstico del embudo de una empresa B2B. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **sales process** | secuencia definida de decisiones y evidencias desde oportunidad hasta cliente | Distingue un hecho compatible y otro que lo refute. |
-| **stage** | estado de una oportunidad basado en evidencia, no optimismo | Distingue un hecho compatible y otro que lo refute. |
-| **exit criteria** | evidencia mínima para avanzar de etapa | Distingue un hecho compatible y otro que lo refute. |
-| **conversion rate** | proporción de oportunidades que pasan entre etapas | Distingue un hecho compatible y otro que lo refute. |
-| **velocity** | ritmo con que el pipeline se convierte en revenue | Distingue un hecho compatible y otro que lo refute. |
+| **Sistema comercial** | Conjunto de etapas, roles, herramientas y métricas que convierte mercado en clientes. | Resultados explicables y repetibles. |
+| **Embudo (funnel)** | Secuencia de etapas por las que avanza una oportunidad. | Se mide la proporción que pasa de una a otra. |
+| **Etapa basada en evidencia** | Etapa que se avanza por un hecho verificable del comprador. | «El comprador agendó una reunión con finanzas». |
+| **Tasa de conversión** | Proporción de oportunidades que pasa de una etapa a la siguiente. | Se calcula por período y segmento. |
+| **Ciclo de venta** | Tiempo desde la primera conversación hasta el cierre. | Varía según complejidad. |
+| **Cuello de botella comercial** | Etapa o recurso que limita el resultado total. | Se acumulan oportunidades antes de ella. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 121: 1. definir ICP y proceso comprador → 2. crear etapas con exit criteria → 3. instrumentar conversiones y aging → 4. revisar pérdidas por etapa → 5. mejorar cuello antes de aumentar volumen](modelo-mental.svg)
+![Sistema comercial en cinco etapas: segmentar, generar oportunidades, diagnosticar, proponer y negociar, y cerrar y expandir, con retorno de lo aprendido.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir ICP y proceso comprador → 2. crear etapas con exit criteria → 3. instrumentar conversiones y aging → 4. revisar pérdidas por etapa → 5. mejorar cuello antes de aumentar volumen
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Ventas como sistema convierte prospección, discovery, propuesta, negociación, cierre y expansión en etapas observables. El objetivo no es forzar un funnel lineal para toda venta, sino generar evidencia de avance y aprender dónde se pierden oportunidades. Actividad sin criterios de etapa produce forecasts ficticios.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo buyer sigue la misma secuencia. El sistema debe reflejar señales de compra y permitir iteración, no obligar al cliente a comportarse como el CRM.**
+**Cómo leer el diagrama.** Cinco etapas encadenadas. **Segmentar** define a quién se vende; **generar oportunidades** consigue conversaciones con compradores que encajan; **diagnosticar** entiende el problema y su costo; **proponer y negociar** pone valor, precio y condiciones; **cerrar y expandir** convierte y hace crecer la cuenta. La flecha de retorno indica lo esencial de un sistema: lo aprendido en cada etapa corrige las anteriores (por ejemplo, un cliente perdido por precio cambia la segmentación).
 
 ## 📖 Desarrollo
 
-### 1. sales process: mecanismo central
+### 1. De talento a sistema
 
-**sales process** se entiende aquí como **secuencia definida de decisiones y evidencias desde oportunidad hasta cliente**. Esta es la pieza causal o estructural desde la que se inicia **ventas como sistema, no como improvisación**: antes de definir icp y proceso comprador, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Una venta individual puede parecer una conversación afortunada, pero cuando se observan cientos se ven **regularidades**: tipos de cliente que compran más, preguntas que abren conversaciones, momentos en que se pierden oportunidades. Un sistema comercial captura esas regularidades. Ross y Tyler, a partir de su experiencia en ventas de tecnología, proponen **especializar roles** —quien genera oportunidades no es quien cierra— y estructurar el proceso de modo que cada rol se concentre en una tarea medible. Roberge, desde su experiencia en una empresa de software, insiste en **medir**, **entrenar** y **contratar** con datos, tratando la gestión comercial como una disciplina de ingeniería de procesos.
 
-La lectura rectora de este bloque es Neil Rackham — *SPIN Selling*. Su aporte se usa para examinar **venta consultiva basada en preguntas de situación, problema, implicación y necesidad**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **stage conversion**; regístrala con periodo, unidad, población y baseline.
+### 2. Etapas y criterios
 
-Relaciona el mecanismo con **stage**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se define una secuencia de etapas, cada una con **criterio de entrada** (qué debe ocurrir para estar en ella), **actividad esperada** y **criterio de salida** (qué hecho del comprador permite avanzar). Un buen criterio es observable y proviene del comprador: «aceptó una reunión con quien decide», «compartió sus datos para dimensionar la propuesta», «nombró una fecha de decisión». Un mal criterio depende de la impresión del vendedor: «hay buena relación», «está interesado». Las etapas basadas en evidencia reducen el optimismo y mejoran el pronóstico (clase 126).
 
-### 2. stage: frontera conceptual y error de clasificación
+### 3. Roles y especialización
 
-**Definición operacional:** estado de una oportunidad basado en evidencia, no optimismo. Su valor está en distinguirlo de **sales process** y **exit criteria**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Los roles típicos son: **desarrollo de oportunidades** (genera y califica primeras conversaciones), **ejecutivo de cuentas** (diagnostica, propone y cierra), **preventa o ingeniería de soluciones** (aporta la parte técnica), **éxito del cliente o gestión de cuentas** (garantiza uso y renovación) y **operaciones comerciales** (datos, herramientas, procesos). No todas las empresas necesitan todos los roles; en una empresa pequeña, una persona puede asumir varios, pero conviene separar las **funciones** aunque no las personas. La especialización mejora la pericia y la medición, pero introduce traspasos: se cuidan con criterios claros y buena información (clase 086).
 
-Contrasta el problema con Matthew Dixon & Brent Adamson — *The Challenger Sale*, que aporta una mirada sobre **venta compleja, insight comercial, enseñanza y control constructivo del proceso**. Formula dos mini-casos: uno que sí satisface la definición de **stage** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **win rate** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Métricas del sistema
 
-Antes de crear etapas con exit criteria, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Las métricas esenciales: **volumen** de oportunidades por etapa; **tasa de conversión** entre etapas; **tiempo** en cada etapa y **ciclo total**; **valor medio** de los negocios; **tasa de cierre**; **costo de adquisición** (clase 117); y **productividad por vendedor** (ingresos o cierres por persona y por período). Se miran **por segmento y por canal**, porque los promedios esconden las diferencias. Una conversión baja entre dos etapas indica dónde está el problema: si pocas oportunidades pasan de diagnóstico a propuesta, quizá se califica mal o no se construye el valor; si pocas pasan de propuesta a cierre, puede ser precio, competencia o falta de patrocinador.
 
-### 3. exit criteria: operacionalización y medición
+### 5. El cuello de botella comercial
 
-**exit criteria** significa **evidencia mínima para avanzar de etapa**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Como en cualquier proceso (clase 089), el resultado lo limita una etapa. A veces es la **generación de oportunidades** (no hay suficientes conversaciones); otras, la **calificación** (muchas conversaciones que no compran); a veces el **cierre** (propuestas que no avanzan) o la **capacidad del equipo** (vendedores saturados). Se identifica con los datos de conversión y de acumulación. Invertir en más marketing cuando el problema es la conversión del diagnóstico a la propuesta no aumenta ventas; contratar más vendedores cuando faltan oportunidades produce vendedores ociosos.
 
-Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* orienta este bloque mediante **negociación basada en intereses, opciones y criterios objetivos**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **sales cycle**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Contexto: ventas simples y complejas
 
-Al llegar a instrumentar conversiones y aging, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El sistema debe adaptarse al tipo de venta. En **ventas transaccionales** (ciclo corto, un decisor, valor bajo), el proceso se estandariza y automatiza. En **ventas complejas** (ciclo largo, varios decisores, valor alto, cambios en el comprador), Rackham describe que la estrategia por cuenta importa más: mapear roles del comprador, entender su proceso de decisión, adaptar la propuesta y planificar relaciones. En ambos, la lógica es la misma: etapas basadas en evidencia, medición y aprendizaje, pero el grado de personalización difiere.
 
-### 4. conversion rate: trade-offs y efectos de segundo orden
+### 7. Mejora continua y límites del sistema
 
-**Definición:** proporción de oportunidades que pasan entre etapas. Este concepto obliga a abandonar la idea de que **ventas como sistema, no como improvisación** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de revisar pérdidas por etapa, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Neil Rackham — *Major Account Sales Strategy* aporta una lente sobre **perspectiva de Ventas aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **pipeline velocity** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **ventas como sistema, no como improvisación**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **conversion rate** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. velocity: gobernanza, límites e integración
-
-**velocity** se define como **ritmo con que el pipeline se convierte en revenue** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Aaron Ross & Marylou Tyler — *Predictable Revenue* se utiliza para estudiar **perspectiva de Ventas aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar mejorar cuello antes de aumentar volumen, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No todo buyer sigue la misma secuencia. El sistema debe reflejar señales de compra y permitir iteración, no obligar al cliente a comportarse como el CRM.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **sales process**, **stage**, **exit criteria**, **conversion rate** y **velocity** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **ventas como sistema, no como improvisación** no consiste en sumar cinco definiciones. Empieza por **sales process**, contrasta **stage** con **exit criteria**, incorpora **conversion rate** como restricción o mecanismo y usa **velocity** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir ICP y proceso comprador → 2. crear etapas con exit criteria → 3. instrumentar conversiones y aging → 4. revisar pérdidas por etapa → 5. mejorar cuello antes de aumentar volumen**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un sistema comercial se revisa cada semana (pipeline), cada mes (conversiones, ciclos) y cada trimestre (segmentos, mensajes, canales, roles). Se hacen **revisiones de negocios perdidos y ganados** con preguntas al comprador. Se evita el exceso de formalización que asfixia la capacidad de adaptación: el sistema es una guía que se ajusta con los datos, no un guion rígido. Y se cuida la ética comercial: las métricas no deben empujar a prácticas engañosas, que dañan la reputación y generan reclamos (clase 100: el efecto de convertir medidas en metas).
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Neil Rackham — *SPIN Selling* | venta consultiva basada en preguntas de situación, problema, implicación y necesidad | ¿Qué supuesto de **ventas como sistema, no como improvisación** ayuda a desafiar? |
-| Matthew Dixon & Brent Adamson — *The Challenger Sale* | venta compleja, insight comercial, enseñanza y control constructivo del proceso | ¿Qué supuesto de **ventas como sistema, no como improvisación** ayuda a desafiar? |
-| Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* | negociación basada en intereses, opciones y criterios objetivos | ¿Qué supuesto de **ventas como sistema, no como improvisación** ayuda a desafiar? |
-| Neil Rackham — *Major Account Sales Strategy* | perspectiva de Ventas aplicada al problema de la clase | ¿Qué supuesto de **ventas como sistema, no como improvisación** ayuda a desafiar? |
-| Aaron Ross & Marylou Tyler — *Predictable Revenue* | perspectiva de Ventas aplicada al problema de la clase | ¿Qué supuesto de **ventas como sistema, no como improvisación** ayuda a desafiar? |
-
-En **ventas como sistema, no como improvisación**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **sales process**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Ross y Tyler (*Predictable Revenue*) | Especialización de roles y proceso de generación de oportunidades. | Basado en ventas de tecnología B2B. | ¿Qué rol hace cada paso en tu equipo? |
+| Roberge | Gestión comercial con datos, contratación y entrenamiento. | Experiencia de una empresa de software. | ¿Qué métrica explica tus resultados? |
+| Rackham (*Major Account Sales Strategy*) | Estrategia por cuenta en ventas complejas. | Enfoque de ventas grandes. | ¿Quién decide, influye y bloquea? |
+| Dixon y Adamson | Qué conductas distinguen a los mejores vendedores en ventas complejas. | Estudio de un conjunto de empresas. | ¿Tu equipo enseña al comprador algo nuevo? |
+| Goldratt y Cox | Restricción del sistema. | No es de ventas. | ¿Dónde se acumulan las oportunidades? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa tiene seis etapas definidas por acciones del vendedor: 'contactado, demo enviada, propuesta enviada'. Deals permanecen meses sin evidencia de decisión del comprador.
+**Situación (hipotética).** Una empresa de software de gestión para clínicas tiene un equipo comercial de seis personas y un objetivo anual de 60 nuevos clientes. Cierra 38. El director comercial piensa contratar a dos vendedores más.
 
-**Paso 1 — definir ICP y proceso comprador.** La gerencia escribe primero el supuesto asociado a **sales process** y evita convertirlo en hecho. Luego busca **stage conversion** para contrastarlo en el caso de **ventas como sistema, no como improvisación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos del último año (embudo).**
 
-**Paso 2 — crear etapas con exit criteria.** La gerencia escribe primero el supuesto asociado a **stage** y evita convertirlo en hecho. Luego busca **win rate** para contrastarlo en el caso de **ventas como sistema, no como improvisación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Etapa | Oportunidades | Conversión a la siguiente | Tiempo medio |
+|---|---|---|---|
+| Primera reunión calificada | 400 | 40 % | 12 días |
+| Diagnóstico completado | 160 | 55 % | 20 días |
+| Propuesta enviada | 88 | 43 % | 28 días |
+| Cierre ganado | 38 | — | — |
 
-**Paso 3 — instrumentar conversiones y aging.** La gerencia escribe primero el supuesto asociado a **exit criteria** y evita convertirlo en hecho. Luego busca **sales cycle** para contrastarlo en el caso de **ventas como sistema, no como improvisación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** De 400 reuniones salen 38 clientes (9,5 %). Para llegar a 60 con las mismas tasas se necesitarían unas 630 reuniones calificadas (+58 %). Las conversiones de las dos primeras etapas son razonables; la de propuesta a cierre (43 %) es la más baja y la etapa tiene un ciclo largo de 28 días. Cada vendedor gestiona en promedio 35 oportunidades abiertas.
 
-**Paso 4 — revisar pérdidas por etapa.** La gerencia escribe primero el supuesto asociado a **conversion rate** y evita convertirlo en hecho. Luego busca **pipeline velocity** para contrastarlo en el caso de **ventas como sistema, no como improvisación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Hipótesis.** El cuello de botella está en la **conversión de propuesta** (falta de patrocinador, de caso de negocio, de plan de cierre) y en la **capacidad** (35 oportunidades por persona). Contratar vendedores ayudaría a la capacidad, pero no a la calidad de las propuestas.
 
-**Paso 5 — mejorar cuello antes de aumentar volumen.** La gerencia escribe primero el supuesto asociado a **velocity** y evita convertirlo en hecho. Luego busca **stage aging** para contrastarlo en el caso de **ventas como sistema, no como improvisación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Revisión de negocios perdidos.** De 50 propuestas perdidas, 21 señalan «no era prioridad», 14 «precio» y 9 «competencia»; en 31 de 50, el comprador no tenía un patrocinador de nivel directivo identificado.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **ventas como sistema, no como improvisación**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Acciones.** (a) Exigir como criterio para enviar una propuesta que exista un patrocinador y una fecha de decisión; (b) incorporar un caso de negocio con números del cliente (clase 125); (c) limitar a 25 oportunidades por vendedor y priorizar; (d) medir el efecto en tres meses; (e) contratar solo si, tras mejorar la conversión, la capacidad sigue siendo la restricción.
+
+**Qué muestra.** (1) El embudo localizó el problema lejos de donde se creía. (2) La revisión de negocios perdidos aportó la causa. (3) Las acciones tenían criterios y medición.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **sales process** | secuencia definida de decisiones y evidencias desde oportunidad hasta cliente | Cuando stage conversion es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **stage** | estado de una oportunidad basado en evidencia, no optimismo | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Sistema comercial frente a cultura comercial.** El sistema define el proceso; la cultura define cómo se vive: un sistema que castiga las malas noticias genera pipeline maquillado. Se necesitan ambos.
 
-**Frontera de aplicación:** No todo buyer sigue la misma secuencia. El sistema debe reflejar señales de compra y permitir iteración, no obligar al cliente a comportarse como el CRM.
+**Límites.** Las tasas de conversión con pocas oportunidades son inestables y se interpretan con cautela. Los sistemas de etapas pueden volverse rígidos en ventas con mucha complejidad. Los libros citados describen experiencias de empresas y sectores concretos y no prueban que sus recetas sirvan en cualquier contexto. Las prácticas comerciales (contacto con clientes, datos personales, publicidad, contratos) tienen normativa propia que debe consultarse en cada mercado.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre ventas como sistema, no como improvisación |
+| Nivel | Cómo participa en el sistema comercial |
 |---|---|
-| **Profesional** | usa **ventas como sistema, no como improvisación** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **sales process** y **stage** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta stage conversion con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si ventas como sistema, no como improvisación cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de ventas como sistema, no como improvisación reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **ventas como sistema, no como improvisación** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Registra con exactitud y sigue los criterios de etapa. |
+| **Jefe / Team Lead** | Revisa el pipeline de su equipo y entrena según los datos. |
+| **Gerente** | Diseña etapas, roles y métricas y localiza el cuello de botella. |
+| **CEO / Director** | Decide dónde invertir según el sistema y protege la ética comercial. |
+| **Founder / Owner** | Documenta cómo vende para dejar de ser el único que sabe hacerlo. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa tiene seis etapas definidas por acciones del vendedor: 'contactado, demo enviada, propuesta enviada'. Deals permanecen meses sin evidencia de decisión del comprador.
+Una empresa de servicios de ingeniería para minería, con 220 empleados, vende proyectos de USD 300.000 a 2 millones con ciclos de 8 a 14 meses. El 70 % de los ingresos viene de dos socios que venden por relaciones personales; los ejecutivos contratados en los últimos tres años cerraron poco. Hay un CRM con 140 oportunidades «activas», de las cuales 60 no tienen actividad en seis meses. El pronóstico trimestral falló por más de 40 % en los dos últimos años. El directorio pide un sistema que no dependa de los socios.
 
-Entrega un **decision brief de ventas como sistema, no como improvisación** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diseño del sistema comercial** que contenga: (a) las etapas con criterios de entrada y salida basados en evidencia; (b) los roles y los traspasos; (c) las métricas y el diagnóstico del cuello de botella con los datos que pedirías; (d) la depuración del pipeline actual; (e) la forma de transferir el conocimiento de los socios; (f) las verificaciones éticas y legales de las prácticas comerciales, y un plan de implantación en 90 días.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **ventas como sistema, no como improvisación** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir ICP y proceso comprador → 2. crear etapas con exit criteria → 3. instrumentar conversiones y aging → 4. revisar pérdidas por etapa → 5. mejorar cuello antes de aumentar volumen** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta stage conversion, win rate; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Dibuja las etapas del proceso comercial de tu empresa con criterios de entrada y salida.
+2. Calcula la conversión entre etapas con los datos de los últimos seis meses.
+3. Identifica la etapa con mayor acumulación de oportunidades.
+4. Revisa diez negocios perdidos y clasifica los motivos.
+5. Define tres métricas semanales de seguimiento y sus responsables.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar sales process y stage como sinónimos | Se pierde la distinción entre “secuencia definida de decisiones y evidencias desde oportunidad hasta cliente” y “estado de una oportunidad basado en evidencia, no optimismo” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “mejorar cuello antes de aumentar volumen” | Se saltó “definir ICP y proceso comprador” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir ICP y proceso comprador → 2. crear etapas con exit criteria → 3. instrumentar conversiones y aging → 4. revisar pérdidas por etapa → 5. mejorar cuello antes de aumentar volumen y marca el primer supuesto no demostrado. |
-| Optimizar solo stage conversion | La métrica local sustituyó al resultado del sistema | Contrástala con win rate y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre ventas como sistema, no como improvisación | No todo buyer sigue la misma secuencia. El sistema debe reflejar señales de compra y permitir iteración, no obligar al cliente a comportarse como el CRM. |
-| No fijar revisión | Una decisión sobre ventas como sistema, no como improvisación se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Depender de uno o dos vendedores estrella | La venta se vive como talento | Documentar y sistematizar. |
+| Etapas por impresión del vendedor | Es más fácil registrar | Criterios basados en hechos del comprador. |
+| Mirar solo el cierre | Es lo que se premia | Medir todo el embudo. |
+| Contratar más vendedores como primera respuesta | Parece lo directo | Localizar el cuello de botella. |
+| Pipeline lleno de oportunidades muertas | No se depura | Revisión semanal y reglas de antigüedad. |
+| Métricas que premian conductas engañosas | Se convierten en metas | Contrapesos y revisión de calidad. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **sales process** y **stage** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **exit criteria** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir ICP y proceso comprador → crear etapas con exit criteria** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **stage conversion** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **ventas como sistema, no como improvisación**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No todo buyer sigue la misma secuencia. El sistema debe reflejar señales de compra y permitir iteración, no obligar al cliente a comportarse como el CRM.**?
+1. ¿Qué diferencia hay entre una venta como talento y como sistema?
+2. ¿Qué criterio hace buena a una etapa?
+3. ¿Qué roles típicos tiene un equipo comercial?
+4. ¿Qué métricas esenciales mide el sistema?
+5. ¿Cómo se identifica el cuello de botella comercial?
+6. ¿Cómo cambia el sistema entre ventas simples y complejas?
+7. ¿Qué límite tienen las tasas de conversión?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Como talento depende de personas excepcionales; como sistema tiene etapas, roles y datos que permiten resultados repetibles.
+2. Que su avance dependa de un hecho observable del comprador, no de la impresión del vendedor.
+3. Desarrollo de oportunidades, ejecutivo de cuentas, preventa, éxito o gestión de cuentas y operaciones comerciales.
+4. Volumen y conversión por etapa, tiempos y ciclo total, valor medio, tasa de cierre, costo de adquisición y productividad.
+5. Con las conversiones y la acumulación de oportunidades por etapa, y con la capacidad del equipo.
+6. En ventas simples se estandariza y automatiza; en las complejas pesa más la estrategia por cuenta y el mapa de decisores.
+7. Con pocas oportunidades son inestables y se interpretan con rangos y cautela.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/121-ventas-como-sistema-no-como-improvisacion/`:
 
-- `commercial-decision-brief.md` con el problema específico de **ventas como sistema, no como improvisación**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **ventas como sistema, no como improvisación** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **sales process**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa tiene seis etapas definidas por acciones del vendedor: 'contactado, demo enviada, propuesta enviada'. Deals permanecen meses sin evidencia de decisión del comprador.** y el dato que podría invalidar la recomendación.
+- `commercial-decision-brief.md` (plantilla [Commercial decision brief](../../../../templates/commercial-decision-brief.md)) con el diseño del caso ejecutivo;
+- `sales-pipeline.md` (plantilla [Sales pipeline](../../../../templates/sales-pipeline.md)) con etapas, criterios y métricas;
+- `decision-journal.md` con el diagnóstico del cuello de botella y las acciones.
 
 ## 📗 Fuentes y verificación
 
-- Neil Rackham — *SPIN Selling* (Highbridge Audio, 1998). **Uso en esta clase:** venta consultiva basada en preguntas de situación, problema, implicación y necesidad. Lectura selectiva sobre **ventas como sistema, no como improvisación**. **Localizador:** [ISBN-13 9781565112605](https://openlibrary.org/isbn/9781565112605).
-- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** venta compleja, insight comercial, enseñanza y control constructivo del proceso. Lectura selectiva sobre **ventas como sistema, no como improvisación**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **ventas como sistema, no como improvisación**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Neil Rackham — *Major Account Sales Strategy* (McGraw-Hill, 1989). **Uso en esta clase:** perspectiva de Ventas aplicada al problema de la clase. Lectura selectiva sobre **ventas como sistema, no como improvisación**. **Localizador:** [ISBN-13 9780070511149](https://openlibrary.org/isbn/9780070511149).
-- Aaron Ross & Marylou Tyler — *Predictable Revenue* (Pebblestorm, 2020). **Uso en esta clase:** perspectiva de Ventas aplicada al problema de la clase. Lectura selectiva sobre **ventas como sistema, no como improvisación**. **Localizador:** [ISBN-13 9780984380244](https://openlibrary.org/isbn/9780984380244).
-- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** mecanismos de influencia y sus límites éticos. Lectura selectiva sobre **ventas como sistema, no como improvisación**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **ventas como sistema, no como improvisación** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **ventas como sistema, no como improvisación**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **ventas como sistema, no como improvisación** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **ventas como sistema, no como improvisación** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **ventas como sistema, no como improvisación** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Aaron Ross & Marylou Tyler — *Predictable Revenue* (Pebblestorm, 2020). **Uso en esta clase:** especialización de roles y proceso de generación de oportunidades. Lectura selectiva sobre **ventas como sistema, no como improvisación**. **Localizador:** [ISBN-13 9780984380244](https://openlibrary.org/isbn/9780984380244).
+- Mark Roberge — *The Sales Acceleration Formula* (2015). **Uso en esta clase:** gestión comercial con datos, contratación y entrenamiento. Lectura selectiva sobre **ventas como sistema, no como improvisación**. **Localizador:** [ISBN-13 9781119047070](https://openlibrary.org/isbn/9781119047070).
+- Neil Rackham — *Major Account Sales Strategy* (McGraw-Hill, 1989). **Uso en esta clase:** estrategia por cuenta en ventas complejas. Lectura selectiva sobre **ventas como sistema, no como improvisación**. **Localizador:** [ISBN-13 9780070511149](https://openlibrary.org/isbn/9780070511149).
+- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** conductas que distinguen a los mejores vendedores. Lectura selectiva sobre **ventas como sistema, no como improvisación**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
+- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** restricción del sistema. Lectura selectiva sobre **ventas como sistema, no como improvisación**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
 
-> **Regla de fuentes para Ventas como sistema, no como improvisación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **ventas como sistema, no como improvisación** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Ventas como sistema, no como improvisación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de publicidad, contacto con clientes y datos personales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

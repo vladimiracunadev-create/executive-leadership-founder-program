@@ -182,7 +182,6 @@
         "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
         "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
         "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
-        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
         "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion"
       ],
       "status": "verificada"
@@ -276,6 +275,7 @@
       "locator": "https://openlibrary.org/isbn/9781118968062",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
         "modules/12-product-innovation/classes/147-customer-discovery",
         "modules/12-product-innovation/classes/150-mvp-prueba-de-hipotesis",
         "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
@@ -367,18 +367,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
-        "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
-        "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
-        "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
-        "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
-        "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
-        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
-        "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses",
-        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
-        "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos",
-        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
-        "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise",
         "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
@@ -1227,13 +1215,10 @@
       "locator": "https://openlibrary.org/isbn/9781847941480",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
         "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
-        "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
-        "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
         "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
-        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
-        "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise"
+        "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses",
+        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones"
       ],
       "status": "verificada",
       "authority": "Penguin Random House"
@@ -1271,6 +1256,8 @@
       "locator": "https://openlibrary.org/isbn/9780062435613",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
+        "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
         "modules/12-product-innovation/classes/145-producto-versus-proyecto",
         "modules/12-product-innovation/classes/146-problema-usuario-y-outcome",
         "modules/12-product-innovation/classes/147-customer-discovery",
@@ -1666,10 +1653,9 @@
       "locator": "https://openlibrary.org/isbn/9781400135400",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
-        "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
         "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses",
-        "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos"
+        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
+        "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise"
       ],
       "status": "verificada"
     },
@@ -1989,7 +1975,8 @@
         "modules/07-operations-process-quality/classes/088-capacidad-y-demanda",
         "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones",
         "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion",
-        "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo"
+        "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
+        "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion"
       ],
       "status": "verificada",
       "authority": "HighBridge Audio"
@@ -2185,6 +2172,8 @@
       "locator": "https://openlibrary.org/isbn/9780887307171",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
+        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
         "modules/11-marketing-customers-growth/classes/136-posicionamiento",
@@ -2263,18 +2252,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
-        "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
-        "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
-        "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
-        "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
-        "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
-        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
-        "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses",
-        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
-        "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos",
-        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
-        "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise",
         "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
@@ -3211,11 +3188,12 @@
       "locator": "https://openlibrary.org/isbn/9781119047070",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
         "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
-        "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
-        "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses",
+        "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
+        "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
         "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos",
-        "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise"
+        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion"
       ],
       "status": "verificada"
     },
@@ -3318,9 +3296,6 @@
         "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
         "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
         "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
-        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
-        "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses",
-        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
         "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos",
         "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
         "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise"
@@ -3745,10 +3720,12 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
-        "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
-        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
-        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
-        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion"
+        "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
+        "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
+        "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
+        "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
+        "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos",
+        "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise"
       ],
       "status": "verificada"
     },
@@ -3765,18 +3742,8 @@
       "locator": "https://openlibrary.org/isbn/9781565112605",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
-        "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
-        "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
         "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
-        "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
-        "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
-        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
-        "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses",
-        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
-        "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos",
-        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
-        "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise"
+        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido"
       ],
       "status": "verificada",
       "authority": "Highbridge Audio"
@@ -4057,18 +4024,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
-        "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
-        "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
-        "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
-        "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
-        "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
-        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
-        "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses",
-        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
-        "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos",
-        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
-        "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise",
         "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
@@ -4675,6 +4630,7 @@
         "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
         "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
         "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
+        "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
         "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
         "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
         "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
@@ -4778,7 +4734,8 @@
         "modules/01-critical-thinking-and-decisions/classes/015-pensamiento-sistemico-para-lideres",
         "modules/01-critical-thinking-and-decisions/classes/018-trade-offs-y-costo-de-oportunidad",
         "modules/01-critical-thinking-and-decisions/classes/021-escenarios-y-decisiones-reversibles",
-        "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje"
+        "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
+        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido"
       ],
       "status": "verificada",
       "authority": "Penguin Books"
@@ -4871,11 +4828,11 @@
         "modules/02-communication-influence-negotiation-basics/classes/028-presentaciones-para-decisiones",
         "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial",
         "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
         "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
-        "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
+        "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
+        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
         "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses",
-        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion"
+        "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos"
       ],
       "status": "verificada",
       "authority": "HarperCollins Publishers and Blackstone Audio"
@@ -4996,17 +4953,8 @@
       "used_in": [
         "modules/02-communication-influence-negotiation-basics/classes/026-escucha-activa-y-preguntas-de-calidad",
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
-        "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
-        "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
-        "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
-        "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
-        "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
-        "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
-        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
         "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses",
-        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
         "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos",
-        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
         "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise"
       ],
       "status": "verificada",
@@ -5457,18 +5405,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
-        "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
-        "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
-        "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
-        "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
-        "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
-        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
-        "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses",
-        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
-        "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos",
-        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
-        "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise",
         "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
@@ -5723,10 +5659,8 @@
       "locator": "https://openlibrary.org/isbn/9781315266220",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
-        "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
-        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
-        "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos",
+        "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
+        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
         "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise"
       ],
       "status": "verificada",
@@ -5895,18 +5829,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
-        "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
-        "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
-        "modules/10-sales-commercial-negotiation/classes/124-discovery-y-diagnostico",
-        "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
-        "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
-        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido",
-        "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses",
-        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones",
-        "modules/10-sales-commercial-negotiation/classes/130-cierre-y-proximos-pasos",
-        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion",
-        "modules/10-sales-commercial-negotiation/classes/132-capstone-negociacion-enterprise",
         "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
@@ -6953,7 +6875,8 @@
         "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
         "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
         "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
-        "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast"
+        "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
+        "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial"
       ],
       "status": "verificada"
     },
@@ -7385,7 +7308,8 @@
       "locator": "https://doi.org/10.1509/jmkr.41.1.7.25084",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback"
+        "modules/09-managerial-finance-accounting/classes/117-unit-economics-cac-ltv-churn-y-payback",
+        "modules/10-sales-commercial-negotiation/classes/131-account-management-expansion-y-retencion"
       ],
       "status": "verificada"
     },
@@ -7406,6 +7330,82 @@
       "used_in": [
         "modules/09-managerial-finance-accounting/classes/113-margen-bruto-operacional-y-contribucion",
         "modules/09-managerial-finance-accounting/classes/116-costos-fijos-variables-y-break-even"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "daniel-kahneman-amos-tversky-prospect-theory-an-analysis-of-decision-under-risk",
+      "type": "paper",
+      "authors": [
+        "Kahneman, Daniel",
+        "Tversky, Amos"
+      ],
+      "title": "Prospect Theory: An Analysis of Decision under Risk",
+      "cited_as": "Daniel Kahneman & Amos Tversky — Prospect Theory: An Analysis of Decision under Risk",
+      "authority": "Econometrica",
+      "published": "1979",
+      "doi": "10.2307/1914185",
+      "locator": "https://doi.org/10.2307/1914185",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/10-sales-commercial-negotiation/classes/127-objeciones-y-manejo-de-riesgo-percibido"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "adam-d-galinsky-thomas-mussweiler-first-offers-as-anchors-the-role-of-perspectiv",
+      "type": "paper",
+      "authors": [
+        "Galinsky, Adam D.",
+        "Mussweiler, Thomas"
+      ],
+      "title": "First offers as anchors: The role of perspective-taking and negotiator focus",
+      "cited_as": "Adam D. Galinsky & Thomas Mussweiler — First offers as anchors: The role of perspective-taking and negotiator focus",
+      "authority": "Journal of Personality and Social Psychology",
+      "published": "2001",
+      "doi": "10.1037/0022-3514.81.4.657",
+      "locator": "https://doi.org/10.1037/0022-3514.81.4.657",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/10-sales-commercial-negotiation/classes/128-negociacion-basada-en-intereses"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "richard-thaler-mental-accounting-and-consumer-choice",
+      "type": "paper",
+      "authors": [
+        "Thaler, Richard"
+      ],
+      "title": "Mental Accounting and Consumer Choice",
+      "cited_as": "Richard Thaler — Mental Accounting and Consumer Choice",
+      "authority": "Marketing Science",
+      "published": "1985",
+      "doi": "10.1287/mksc.4.3.199",
+      "locator": "https://doi.org/10.1287/mksc.4.3.199",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "dan-ariely-george-loewenstein-drazen-prelec-coherent-arbitrariness-stable-demand",
+      "type": "paper",
+      "authors": [
+        "Ariely, Dan",
+        "Loewenstein, George",
+        "Prelec, Drazen"
+      ],
+      "title": "Coherent Arbitrariness: Stable Demand Curves Without Stable Preferences",
+      "cited_as": "Dan Ariely, George Loewenstein & Drazen Prelec — Coherent Arbitrariness: Stable Demand Curves Without Stable Preferences",
+      "authority": "The Quarterly Journal of Economics",
+      "published": "2003",
+      "doi": "10.1162/00335530360535153",
+      "locator": "https://doi.org/10.1162/00335530360535153",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/10-sales-commercial-negotiation/classes/129-pricing-y-concesiones"
       ],
       "status": "verificada"
     }

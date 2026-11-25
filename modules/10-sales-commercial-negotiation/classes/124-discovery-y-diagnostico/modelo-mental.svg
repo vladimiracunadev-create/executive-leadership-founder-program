@@ -1,64 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" width="1040" role="img" aria-labelledby="t-g124 d-g124" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g124">Ficha visual de la clase 124: Discovery y diagnóstico</title>
-<desc id="d-g124">Conceptos: situation; problem; implication; need-payoff; decision process. Método: preparar hipótesis sin asumir → preguntar situación mínima necesaria → profundizar problema e impacto → cuantificar costo de inacción → mapear decisión y acordar siguiente paso.</desc>
-<defs><marker id="p-g124" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="560" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 124 · Discovery y diagnóstico</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 10 · Gestión de negocio</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#8250df"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >situation</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >hechos relevantes del contexto actual</text>
-<circle cx="38" cy="170" r="5" fill="#8250df"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >problem</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >fricción o brecha reconocida por el comprador</text>
-<circle cx="38" cy="228" r="5" fill="#8250df"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >implication</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >consecuencia económica u operativa del problema</text>
-<circle cx="38" cy="286" r="5" fill="#8250df"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >need-payoff</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >valor que tendría resolverlo</text>
-<circle cx="38" cy="344" r="5" fill="#8250df"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >decision process</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >personas, criterios y pasos mediante los que se compra</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#8250df" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#8250df"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >preparar hipótesis sin asumir</text>
-<circle cx="485" cy="176" r="14" fill="#8250df"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >preguntar situación mínima necesaria</text>
-<circle cx="485" cy="230" r="14" fill="#8250df"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >profundizar problema e impacto</text>
-<circle cx="485" cy="284" r="14" fill="#8250df"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >cuantificar costo de inacción</text>
-<circle cx="485" cy="338" r="14" fill="#8250df"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >mapear decisión y acordar siguiente paso</text>
-<text x="28" y="416" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="428" width="191.6" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="41" cy="441" r="3.5" fill="#8250df"/>
-<text x="52" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >discovery-to-opportunity</text>
-<rect x="229.6" y="428" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="242.6" cy="441" r="3.5" fill="#8250df"/>
-<text x="253.6" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >problem quantified</text>
-<rect x="389.8" y="428" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="402.8" cy="441" r="3.5" fill="#8250df"/>
-<text x="413.8" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >stakeholders mapped</text>
-<rect x="556.9" y="428" width="164" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="569.9" cy="441" r="3.5" fill="#8250df"/>
-<text x="580.9" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >next-step commitment</text>
-<rect x="730.9" y="428" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="743.9" cy="441" r="3.5" fill="#8250df"/>
-<text x="754.9" y="445.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >loss reason</text>
-<rect x="28" y="474" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="474" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="494" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="512" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Discovery no debe convertirse en interrogatorio manipulativo ni en terapia gratuita interminable. Entrega valor y respeta cuando no</text>
-<text x="48" y="529.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >existe fit o urgencia suficiente.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 522.06" width="1040" role="img" aria-labelledby="t-s124 d-s124" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s124">Clase 124 · Preguntas de diagnóstico que construyen necesidad</title>
+<desc id="d-s124">Cuatro tipos de pregunta del modelo SPIN en orden: situación, problema, implicación y necesidad de solución.</desc>
+<defs><marker id="p-s124" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="522.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 124 · Preguntas de diagnóstico que construyen necesidad</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Rackham (1988) · Dixon &amp; Adamson (2011)</text>
+<rect x="130" y="96" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="130" y="96" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<circle cx="162" cy="127.625" r="15" fill="#1a7f37"/>
+<text x="162" y="132.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="190" y="120" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Necesidad de solución</text>
+<text x="190" y="138" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >El cliente describe el valor de resolverlo. La solución surge de él.</text>
+<rect x="96" y="169.25" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="96" y="169.25" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<circle cx="128" cy="200.875" r="15" fill="#bc4c00"/>
+<text x="128" y="205.875" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="156" y="193.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Implicación</text>
+<text x="156" y="211.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Efectos del problema en costos, plazos, riesgos y personas. Es lo que le da tamaño.</text>
+<rect x="62" y="242.5" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="62" y="242.5" width="6" height="63.25" rx="3" fill="#0969da"/>
+<circle cx="94" cy="274.125" r="15" fill="#0969da"/>
+<text x="94" y="279.125" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="122" y="266.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Problema</text>
+<text x="122" y="284.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Dificultades o insatisfacciones que el cliente reconoce.</text>
+<rect x="28" y="315.75" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<rect x="28" y="315.75" width="6" height="63.25" rx="3" fill="#59636e"/>
+<circle cx="60" cy="347.375" r="15" fill="#59636e"/>
+<text x="60" y="352.375" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="88" y="339.75" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Situación</text>
+<text x="88" y="357.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Hechos del contexto. Pocas y preparadas: no hacer que el cliente enseñe lo que ya podría saberse.</text>
+<rect x="28" y="395" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="417" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >La evidencia de Rackham indica que, en ventas grandes, las preguntas de implicación y de necesidad de solución se asocian más con el</text>
+<text x="44" y="434.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >éxito que las de situación; el vendedor que habla de productos antes de acordar el problema pierde terreno.</text>
+<text x="28" y="481.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >La investigación original se centró en ventas complejas; en ventas simples y de bajo valor, un diagnóstico largo puede ser excesivo.</text>
 </svg>

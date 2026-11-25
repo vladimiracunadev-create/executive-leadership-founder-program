@@ -1,72 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g125 d-g125" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g125">Ficha visual de la clase 125: Propuesta de valor y business case</title>
-<desc id="d-g125">Conceptos: value proposition; business case; ROI; proof; cost of inaction. Método: recuperar problema cuantificado → traducir capacidades a outcomes → estimar beneficio y costo con supuestos → añadir prueba relevante → comparar contra no hacer y alternativas.</desc>
-<defs><marker id="p-g125" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 125 · Propuesta de valor y business case</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 10 · Gestión de negocio</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#8250df"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >value proposition</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >razón específica por la que un segmento obtendría valor</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >superior</text>
-<circle cx="38" cy="184.12" r="5" fill="#8250df"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >business case</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >justificación económica y de riesgo para actuar</text>
-<circle cx="38" cy="242.12" r="5" fill="#8250df"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >ROI</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >retorno estimado de la inversión</text>
-<circle cx="38" cy="300.12" r="5" fill="#8250df"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >proof</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >evidencia que reduce incertidumbre sobre capacidad de</text>
-<text x="54" y="339.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >entregar</text>
-<circle cx="38" cy="372.24" r="5" fill="#8250df"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >cost of inaction</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >costo de mantener el estado actual</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<rect x="470" y="336" width="6" height="52" rx="3" fill="#8250df"/>
-<text x="486" y="356" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >1</text>
-<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >recuperar problema cuantificado</text>
-<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<rect x="532" y="278" width="6" height="52" rx="3" fill="#8250df"/>
-<text x="548" y="298" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >2</text>
-<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >traducir capacidades a outcomes</text>
-<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<rect x="594" y="220" width="6" height="52" rx="3" fill="#8250df"/>
-<text x="610" y="240" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >3</text>
-<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >estimar beneficio y costo con</text>
-<text x="628" y="257.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >supuestos</text>
-<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<rect x="656" y="162" width="6" height="52" rx="3" fill="#8250df"/>
-<text x="672" y="182" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >4</text>
-<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >añadir prueba relevante</text>
-<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<rect x="718" y="104" width="6" height="52" rx="3" fill="#8250df"/>
-<text x="734" y="124" font-size="13" font-weight="800" fill="#8250df" text-anchor="start" >5</text>
-<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >comparar contra no hacer y</text>
-<text x="752" y="141.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >alternativas</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#8250df"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >business cases accepted</text>
-<rect x="222.7" y="456.24" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="235.7" cy="469.24" r="3.5" fill="#8250df"/>
-<text x="246.7" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ROI assumptions</text>
-<rect x="362.2" y="456.24" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="375.2" cy="469.24" r="3.5" fill="#8250df"/>
-<text x="386.2" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >proposal-to-close</text>
-<rect x="515.5" y="456.24" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="528.5" cy="469.24" r="3.5" fill="#8250df"/>
-<text x="539.5" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >discount rate</text>
-<rect x="641.2" y="456.24" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="654.2" cy="469.24" r="3.5" fill="#8250df"/>
-<text x="665.2" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >time to decision</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un business case no debe inventar ahorros ni atribuir todo el beneficio al proveedor. Usa rangos acordados con el comprador y deja</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >visibles supuestos.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 494.98" width="1040" role="img" aria-labelledby="t-s125 d-s125" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s125">Clase 125 · Las partes de un business case que un comprador puede defender</title>
+<desc id="d-s125">Componentes del caso de negocio de una propuesta, la pregunta que responde cada uno y la evidencia necesaria.</desc>
+<defs><marker id="p-s125" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="494.98" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 125 · Las partes de un business case que un comprador puede defender</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Nagle, Hogan &amp; Zale · Rackham · Brealey, Myers &amp; Allen</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Componente</text>
+<text x="308.364" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Pregunta que responde</text>
+<text x="666.182" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Evidencia</text>
+<rect x="28" y="136" width="984" height="53.12" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Costo del problema actual</text>
+<text x="308.364" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Cuánto cuesta no cambiar?</text>
+<text x="666.182" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Datos del cliente: tiempo, errores, ventas</text>
+<text x="666.182" y="172.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >perdidas.</text>
+<rect x="28" y="189.12" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="209.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Beneficio esperado</text>
+<text x="308.364" y="209.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Qué mejora y cuándo?</text>
+<text x="666.182" y="209.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Casos comparables, piloto o supuestos declarados.</text>
+<rect x="28" y="225.68" width="984" height="53.12" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="245.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Inversión total</text>
+<text x="308.364" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Cuánto cuesta realmente?</text>
+<text x="666.182" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Precio, implantación, cambio interno y</text>
+<text x="666.182" y="262.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >mantenimiento.</text>
+<rect x="28" y="278.8" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="298.8" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Riesgos y supuestos</text>
+<text x="308.364" y="298.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Qué podría no cumplirse?</text>
+<text x="666.182" y="298.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Lista con probabilidades y mitigaciones.</text>
+<rect x="28" y="315.36" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="335.36" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Retorno y plazo</text>
+<text x="308.364" y="335.36" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿Cuándo se recupera y cuánto rinde?</text>
+<text x="666.182" y="335.36" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Cálculo con rangos y sensibilidad.</text>
+<rect x="28" y="367.92" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="389.92" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El comprador debe poder llevar el caso a su comité sin el vendedor. Por eso se construye con sus números y se escribe en su lenguaje</text>
+<text x="44" y="407.17" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >financiero.</text>
+<text x="28" y="454.42" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Un caso con beneficios exagerados destruye credibilidad; es preferible un rango prudente y verificable.</text>
 </svg>

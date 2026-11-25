@@ -10,217 +10,198 @@
 
 ## 🎯 Propósito
 
-Account management protege valor después de la venta y busca expansión cuando el cliente logra outcomes. Retención, adopción, relación ejecutiva y riesgo deben preceder al upsell. Una cuenta grande no es sana si depende de un único champion o de descuentos crecientes.
+La venta que importa no es la primera sino la que ocurre cuando el cliente renueva, amplía y recomienda. Un cliente que se va después de un año destruye el costo de adquirirlo; uno que crece lo amortiza varias veces. Sin embargo, muchas empresas dedican a la gestión de cuentas la mitad de la atención que a la captación: el equipo de ventas «entrega» al cliente y desaparece, el de soporte atiende solicitudes, y nadie gestiona la relación completa. Gestionar cuentas es asegurar que el cliente obtenga el valor prometido, que la relación tenga varios puntos de contacto y que haya un plan para crecer con él.
 
-La salida de esta parte es **construir ingresos mediante un proceso comercial medible y negociación disciplinada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **account management, expansión y retención** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis de Dixon y Adamson sobre cómo compran y se relacionan los clientes, en las prácticas de Ross y Tyler sobre procesos y roles, en la visión de Moore sobre el ciclo de adopción y expansión y en la economía unitaria de la clase 117. Al terminar sabrás estructurar un plan de cuenta, medir la salud de un cliente, identificar señales de riesgo y de expansión, conducir revisiones de valor y diseñar un modelo de retención y crecimiento.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `adoption`, `renewal`, `expansion`, `champion`, `account plan` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir outcomes post-venta → 2. medir adopción y valor → 3. mapear stakeholders y riesgos → 4. hacer executive reviews → 5. expandir desde problemas nuevos y éxito demostrado** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** NRR, renewal rate, adoption sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Diseñar** un plan de cuenta con objetivos, relaciones y acciones.
+2. **Medir** la salud de un cliente con indicadores de uso, valor y relación.
+3. **Detectar** señales tempranas de riesgo y de expansión.
+4. **Conducir** revisiones de valor con el cliente.
+5. **Estructurar** el modelo de gestión de cuentas y su relación con ventas y soporte.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define adoption y renewal sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con NRR y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué clientes tuyos se fueron en el último año y qué señales se vieron meses antes? |
+| 20–60 min | Plan de cuenta, salud, revisiones, expansión y retención. |
+| 60–105 min | Ejemplo trabajado: plan de una cuenta estratégica con riesgo de no renovación. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **adoption** | uso efectivo de capacidades que habilitan valor | Distingue un hecho compatible y otro que lo refute. |
-| **renewal** | decisión de continuar la relación | Distingue un hecho compatible y otro que lo refute. |
-| **expansion** | crecimiento de revenue dentro de cliente existente | Distingue un hecho compatible y otro que lo refute. |
-| **champion** | persona interna que promueve activamente la solución | Distingue un hecho compatible y otro que lo refute. |
-| **account plan** | mapa de objetivos, stakeholders, riesgos y oportunidades | Distingue un hecho compatible y otro que lo refute. |
+| **Gestión de cuentas** | Gestión continua de la relación con un cliente para lograr valor, renovación y crecimiento. | Hay dueño, plan y reuniones de valor. |
+| **Salud de la cuenta** | Evaluación de la probabilidad de que el cliente renueve y crezca. | Combina uso, resultados, relación y riesgo. |
+| **Retención** | Proporción de clientes o de ingresos que se mantiene en un período. | Por cohorte y por segmento. |
+| **Retención neta de ingresos** | Ingresos de un grupo de clientes hoy respecto de hace un año, incluidos aumentos y bajas. | Mayor a 100 % indica expansión neta. |
+| **Expansión** | Venta adicional a un cliente actual. | Nuevos usuarios, áreas o productos. |
+| **Revisión de valor** | Reunión periódica para revisar resultados logrados y próximos objetivos. | Basada en métricas acordadas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 131: 1. definir outcomes post-venta → 2. medir adopción y valor → 3. mapear stakeholders y riesgos → 4. hacer executive reviews → 5. expandir desde problemas nuevos y éxito demostrado](modelo-mental.svg)
+![Tres tareas de la gestión de cuentas: retener, expandir y proteger, con objetivo, señales y riesgos.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir outcomes post-venta → 2. medir adopción y valor → 3. mapear stakeholders y riesgos → 4. hacer executive reviews → 5. expandir desde problemas nuevos y éxito demostrado
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Account management protege valor después de la venta y busca expansión cuando el cliente logra outcomes. Retención, adopción, relación ejecutiva y riesgo deben preceder al upsell. Una cuenta grande no es sana si depende de un único champion o de descuentos crecientes.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Expansion sin valor realizado puede parecer venta oportunista y aumentar churn. También controla concentración: crecer demasiado en una cuenta puede elevar riesgo de cartera.**
+**Cómo leer el diagrama.** Tres columnas. **Retener** asegura que el cliente perciba resultados (señales: uso, satisfacción, soporte; riesgo: sorpresa en la renovación). **Expandir** busca nuevos usos o áreas con valor demostrado (señales: nuevos patrocinadores o problemas; riesgo: vender más a quien aún no recibió valor). **Proteger** cuida la relación con varios decisores y vigila cambios de personas, presupuesto y competencia (riesgo: depender de un solo contacto). Las tres se hacen a la vez.
 
 ## 📖 Desarrollo
 
-### 1. adoption: mecanismo central
+### 1. Por qué importa
 
-**adoption** se entiende aquí como **uso efectivo de capacidades que habilitan valor**. Esta es la pieza causal o estructural desde la que se inicia **account management, expansión y retención**: antes de definir outcomes post-venta, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Los clientes actuales son la fuente más barata de ingresos: ya conocen la empresa, ya tienen un problema que ella resuelve y ya confían. Retener cuesta menos que adquirir, y la expansión suele tener menor costo de venta (clase 117). Una mejora pequeña en retención tiene un efecto compuesto sobre el valor del cliente. Pero la retención no se logra por voluntarismo: depende del **valor que el cliente reciba** y de que **lo perciba**. Muchos clientes se van no porque el producto fracase, sino porque nadie les mostró lo que logró o porque cambió su patrocinador.
 
-La lectura rectora de este bloque es Neil Rackham — *SPIN Selling*. Su aporte se usa para examinar **venta consultiva basada en preguntas de situación, problema, implicación y necesidad**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **NRR**; regístrala con periodo, unidad, población y baseline.
+### 2. Plan de cuenta
 
-Relaciona el mecanismo con **renewal**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Para cuentas relevantes se escribe un **plan de cuenta**: perfil y estrategia del cliente, **objetivos del cliente** y cómo se mide el éxito, **mapa de relaciones** (patrocinador, usuarios, decisor económico, influyentes, riesgos), **valor entregado** hasta hoy, **riesgos** y **oportunidades de expansión**, y **acciones** con responsable y fecha. Rackham y Dixon y Adamson destacan que las mejores relaciones involucran **múltiples contactos** y que un patrocinador puede irse. Se revisa trimestralmente y se comparte con soporte, producto y dirección cuando corresponde.
 
-### 2. renewal: frontera conceptual y error de clasificación
+### 3. Salud de la cuenta
 
-**Definición operacional:** decisión de continuar la relación. Su valor está en distinguirlo de **adoption** y **expansion**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Un indicador de salud combina señales: **uso** (profundidad y frecuencia, usuarios activos frente a contratados), **resultados** (el cliente alcanza los objetivos acordados), **relación** (reuniones, patrocinador activo, acceso a decisores), **soporte** (incidentes, escalamientos), **comercial** (pagos puntuales, disputas) y **riesgos externos** (cambio de dirección, recortes, fusión, competidor). Se resume en una escala simple (verde, ámbar, rojo) con criterios documentados. Debe **validarse con datos**: ¿las cuentas que fueron rojas efectivamente tuvieron mayor baja? (clase 101). Un indicador no validado es una opinión.
 
-Contrasta el problema con Matthew Dixon & Brent Adamson — *The Challenger Sale*, que aporta una mirada sobre **venta compleja, insight comercial, enseñanza y control constructivo del proceso**. Formula dos mini-casos: uno que sí satisface la definición de **renewal** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **renewal rate** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Revisiones de valor
 
-Antes de medir adopción y valor, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Una **revisión de valor** (QBR o similar) es una conversación periódica con el patrocinador y otros interesados para revisar **qué se logró** (con métricas del business case, clase 125), **qué falta**, **qué cambió en el contexto del cliente**, **qué podría hacerse a continuación** y **qué necesitamos el uno del otro**. No es un informe de actividades ni una presentación de ventas. Se prepara con datos de uso y resultados; se anticipan las preguntas difíciles; se registran acuerdos. Es también la ocasión de detectar riesgos antes de que aparezcan y de plantear expansión con base en resultados.
 
-### 3. expansion: operacionalización y medición
+### 5. Expansión con valor
 
-**expansion** significa **crecimiento de revenue dentro de cliente existente**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La expansión surge de **valor demostrado** y de **nuevos problemas** del cliente: otra área con una necesidad similar, más usuarios, un producto complementario, un cambio de plan. Moore describe cómo, tras establecerse en un segmento, la expansión por adyacencia aprovecha referencias y confianza. Se evita **vender más a quien no obtiene valor**: genera descontento y facilita la baja. Se identifican **disparadores** (nuevas sedes, nuevos directivos, nuevas regulaciones) y se involucra a nuevos patrocinadores. Un modelo de precios que acompañe el uso (por usuario, por volumen) facilita que la expansión sea natural.
 
-Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* orienta este bloque mediante **negociación basada en intereses, opciones y criterios objetivos**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **adoption**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Señales de riesgo y plan de rescate
 
-Al llegar a mapear stakeholders y riesgos, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Señales frecuentes: **caída del uso**, **cambio o salida del patrocinador**, **retrasos en pagos**, **aumento de reclamos**, **reuniones que se cancelan**, **consultas sobre cómo exportar datos**, **mención de competidores**, **recortes de presupuesto**, **fusiones**. Ante un riesgo se activa un **plan de rescate**: diagnóstico con el cliente (¿qué cambió?), involucrar a un directivo propio, **reforzar** el valor (capacitación, nuevas funciones, resultados visibles), ajustar condiciones si corresponde y reconocer errores. Si el cliente decide irse, se hace una **salida profesional**: entender las razones, facilitar la transición y dejar la puerta abierta.
 
-### 4. champion: trade-offs y efectos de segundo orden
+### 7. Modelo organizacional
 
-**Definición:** persona interna que promueve activamente la solución. Este concepto obliga a abandonar la idea de que **account management, expansión y retención** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de hacer executive reviews, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Neil Rackham — *Major Account Sales Strategy* aporta una lente sobre **perspectiva de Ventas aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **stakeholder coverage** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **account management, expansión y retención**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **champion** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. account plan: gobernanza, límites e integración
-
-**account plan** se define como **mapa de objetivos, stakeholders, riesgos y oportunidades** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Aaron Ross & Marylou Tyler — *Predictable Revenue* se utiliza para estudiar **perspectiva de Ventas aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar expandir desde problemas nuevos y éxito demostrado, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Expansion sin valor realizado puede parecer venta oportunista y aumentar churn. También controla concentración: crecer demasiado en una cuenta puede elevar riesgo de cartera.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **adoption**, **renewal**, **expansion**, **champion** y **account plan** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **account management, expansión y retención** no consiste en sumar cinco definiciones. Empieza por **adoption**, contrasta **renewal** con **expansion**, incorpora **champion** como restricción o mecanismo y usa **account plan** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir outcomes post-venta → 2. medir adopción y valor → 3. mapear stakeholders y riesgos → 4. hacer executive reviews → 5. expandir desde problemas nuevos y éxito demostrado**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Los roles se definen según la complejidad: **ejecutivo de cuentas** (relación y comercial), **éxito del cliente** (adopción y resultados), **soporte** (incidentes), **producto** (insumos del cliente) y **operaciones comerciales** (datos y procesos). Se acuerdan **metas coherentes**: si ventas solo se premia por nuevas ventas, no cuidará la relación; si éxito del cliente solo mide satisfacción, no verá oportunidades. Se usan métricas de **retención neta de ingresos**, **expansión**, **salud de cuentas**, **tiempo hasta primer valor** y **satisfacción**. Roberge y Ross y Tyler destacan la importancia de roles y datos claros.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Neil Rackham — *SPIN Selling* | venta consultiva basada en preguntas de situación, problema, implicación y necesidad | ¿Qué supuesto de **account management, expansión y retención** ayuda a desafiar? |
-| Matthew Dixon & Brent Adamson — *The Challenger Sale* | venta compleja, insight comercial, enseñanza y control constructivo del proceso | ¿Qué supuesto de **account management, expansión y retención** ayuda a desafiar? |
-| Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* | negociación basada en intereses, opciones y criterios objetivos | ¿Qué supuesto de **account management, expansión y retención** ayuda a desafiar? |
-| Neil Rackham — *Major Account Sales Strategy* | perspectiva de Ventas aplicada al problema de la clase | ¿Qué supuesto de **account management, expansión y retención** ayuda a desafiar? |
-| Aaron Ross & Marylou Tyler — *Predictable Revenue* | perspectiva de Ventas aplicada al problema de la clase | ¿Qué supuesto de **account management, expansión y retención** ayuda a desafiar? |
-
-En **account management, expansión y retención**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **adoption**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Dixon y Adamson | Cómo se compra y se enseña en relaciones complejas. | Estudio centrado en ventas. | ¿Quién enseña algo nuevo al cliente cada trimestre? |
+| Ross y Tyler | Roles y procesos para sostener ingresos predecibles. | Orientado a la captación. | ¿Quién es dueño de la renovación? |
+| Moore | Expansión por adyacencia desde un segmento. | Contexto de tecnología. | ¿Qué cuenta puede ser referencia? |
+| Roberge | Métricas y gestión de equipos comerciales. | Experiencia de una empresa de software. | ¿Qué métrica de salud valida tus alertas? |
+| Gupta, Lehmann y Stuart (2004) | Valor de los clientes como activos. | Modelos con supuestos. | ¿Cuánto vale retener a este cliente? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un cliente representa 18% del ARR y renueva en cuatro meses. El único champion cambia de empresa y nadie del proveedor conoce al CFO ni a operaciones.
+**Situación (hipotética).** Una empresa de software de facturación y cobranza tiene una cuenta estratégica, una cadena de retail con 400 usuarios, que representa USD 560.000 al año (6 % de sus ingresos). Faltan cinco meses para la renovación.
 
-**Paso 1 — definir outcomes post-venta.** La gerencia escribe primero el supuesto asociado a **adoption** y evita convertirlo en hecho. Luego busca **NRR** para contrastarlo en el caso de **account management, expansión y retención**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Salud de la cuenta.**
 
-**Paso 2 — medir adopción y valor.** La gerencia escribe primero el supuesto asociado a **renewal** y evita convertirlo en hecho. Luego busca **renewal rate** para contrastarlo en el caso de **account management, expansión y retención**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Dimensión | Dato | Estado |
+|---|---|---|
+| Uso | 61 % de usuarios activos (hace un año, 83 %) | Rojo |
+| Resultados | Redujeron los días de cobro de 58 a 49; la meta era 40 | Ámbar |
+| Relación | Patrocinador (gerente de finanzas) se fue hace dos meses; sin contacto con el nuevo | Rojo |
+| Soporte | 14 incidentes críticos en el trimestre; promedio de resolución de 3 días | Ámbar |
+| Comercial | Pagos al día | Verde |
+| Entorno | Nuevo director financiero; recortes del 10 % en gastos de tecnología | Rojo |
 
-**Paso 3 — mapear stakeholders y riesgos.** La gerencia escribe primero el supuesto asociado a **expansion** y evita convertirlo en hecho. Luego busca **adoption** para contrastarlo en el caso de **account management, expansión y retención**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diagnóstico.** La cuenta está en riesgo alto. La razón inmediata es el cambio de patrocinador y de director financiero; la causa de fondo es que la adopción cayó y nadie del cliente defiende los resultados.
 
-**Paso 4 — hacer executive reviews.** La gerencia escribe primero el supuesto asociado a **champion** y evita convertirlo en hecho. Luego busca **stakeholder coverage** para contrastarlo en el caso de **account management, expansión y retención**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Plan de rescate (cinco meses).**
 
-**Paso 5 — expandir desde problemas nuevos y éxito demostrado.** La gerencia escribe primero el supuesto asociado a **account plan** y evita convertirlo en hecho. Luego busca **expansion pipeline** para contrastarlo en el caso de **account management, expansión y retención**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+1. **Semana 1–2**: gerente general del vendedor y el director de cuentas piden reunión con el nuevo director financiero; preparan un resumen de resultados (reducir 9 días el cobro libera unos USD 2,1 millones de capital de trabajo si el cliente vende a crédito unos USD 85 millones al año).
+2. **Mes 1**: diagnóstico de uso con los usuarios; identificar causas del 22 % de caída (rotación de personal y falta de capacitación).
+3. **Mes 1–2**: capacitación para 150 usuarios y simplificación de dos procesos; resolver los incidentes recurrentes con un plan de producto.
+4. **Mes 2–3**: nuevos patrocinadores: el gerente de crédito y el de tesorería; revisión de valor con metas hasta 42 días de cobro.
+5. **Mes 3–4**: propuesta de renovación con opciones: plan actual con compromiso de adopción, o un plan reducido de 320 usuarios con menor precio y cláusulas de crecimiento.
+6. **Mes 5**: renovación.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **account management, expansión y retención**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Resultado esperado.** Con el valor en capital de trabajo (USD 2,1 millones, que al 9 % de costo de financiamiento son unos USD 190.000 al año) frente al costo de USD 560.000, el caso es defendible para el nuevo director, pero requiere traducirlo a sus prioridades de reducción de gastos: el plan reducido ofrece un ahorro y mantiene el valor central.
+
+**Qué muestra.** (1) La salud combinó varias señales. (2) El plan fue anterior a la fecha de renovación. (3) Se buscó un nuevo patrocinador y se tradujo el valor a la prioridad del nuevo decisor.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **adoption** | uso efectivo de capacidades que habilitan valor | Cuando NRR es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **renewal** | decisión de continuar la relación | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Gestión de cuentas frente a soporte.** Soporte resuelve problemas cuando surgen; gestión de cuentas es proactiva: busca resultados y relación. Ambos se coordinan.
 
-**Frontera de aplicación:** Expansion sin valor realizado puede parecer venta oportunista y aumentar churn. También controla concentración: crecer demasiado en una cuenta puede elevar riesgo de cartera.
+**Límites.** Los indicadores de salud son hipótesis que se deben validar. Con pocas cuentas grandes, la variabilidad es alta y el análisis estadístico limitado. La retención depende también de factores fuera de control (fusiones, cierre del cliente, cambios de estrategia). Los intentos de «retener a toda costa» con descuentos reducen margen y enseñan al cliente a amenazar con irse. Las prácticas de renovación automática, aumentos de precio y uso de datos del cliente tienen normas contractuales y de consumo que se verifican con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre account management, expansión y retención |
+| Nivel | Cómo participa en la gestión de cuentas |
 |---|---|
-| **Profesional** | usa **account management, expansión y retención** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **adoption** y **renewal** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta NRR con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si account management, expansión y retención cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de account management, expansión y retención reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **account management, expansión y retención** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Cumple lo prometido y registra señales de la relación. |
+| **Jefe / Team Lead** | Revisa la salud de las cuentas de su equipo y el plan de cada una. |
+| **Gerente** | Define el modelo, las métricas y los roles de gestión de cuentas. |
+| **CEO / Director** | Dedica tiempo a cuentas estratégicas y cuida la reputación con clientes clave. |
+| **Founder / Owner** | Conoce personalmente a sus primeros clientes y aprende de ellos. |
 
 ## 🏢 Caso ejecutivo
 
-Un cliente representa 18% del ARR y renueva en cuatro meses. El único champion cambia de empresa y nadie del proveedor conoce al CFO ni a operaciones.
+Una empresa de software de recursos humanos tiene 600 clientes y una retención de ingresos neta de 96 %. Su equipo comercial recibe comisiones solo por nuevas ventas; el equipo de soporte atiende tickets sin dueño de relación; no hay revisiones de valor. En el último año se perdieron 11 cuentas grandes, tres de ellas con aviso de menos de 30 días. Un análisis posterior muestra que ocho tenían caída de uso de más del 25 % seis meses antes y que en seis habían cambiado de gerente de personas. Las cuentas que tuvieron revisiones de valor con dos o más contactos renovaron al 94 %, frente a 78 % de las demás. La dirección discute contratar 10 gestores de cuentas.
 
-Entrega un **decision brief de account management, expansión y retención** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diseño de gestión de cuentas** que contenga: (a) la segmentación de cuentas y el nivel de atención; (b) el plan de cuenta tipo y las revisiones de valor; (c) el indicador de salud, su validación con datos y las alertas; (d) el protocolo de riesgo y de rescate; (e) los roles, las metas coherentes y el análisis de costo-beneficio de los 10 gestores; (f) las condiciones contractuales y de datos que se verificarán con asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **account management, expansión y retención** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir outcomes post-venta → 2. medir adopción y valor → 3. mapear stakeholders y riesgos → 4. hacer executive reviews → 5. expandir desde problemas nuevos y éxito demostrado** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta NRR, renewal rate; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Elige una cuenta importante y escribe su plan: objetivos, relaciones, riesgos y acciones.
+2. Define cinco señales de salud y valida una con datos de tus clientes.
+3. Prepara la agenda de una revisión de valor con tres métricas.
+4. Escribe el protocolo de acción ante una caída de uso del 25 %.
+5. Calcula cuánto vale mejorar en dos puntos la retención de ingresos.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar adoption y renewal como sinónimos | Se pierde la distinción entre “uso efectivo de capacidades que habilitan valor” y “decisión de continuar la relación” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “expandir desde problemas nuevos y éxito demostrado” | Se saltó “definir outcomes post-venta” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir outcomes post-venta → 2. medir adopción y valor → 3. mapear stakeholders y riesgos → 4. hacer executive reviews → 5. expandir desde problemas nuevos y éxito demostrado y marca el primer supuesto no demostrado. |
-| Optimizar solo NRR | La métrica local sustituyó al resultado del sistema | Contrástala con renewal rate y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre account management, expansión y retención | Expansion sin valor realizado puede parecer venta oportunista y aumentar churn. También controla concentración: crecer demasiado en una cuenta puede elevar riesgo de cartera. |
-| No fijar revisión | Una decisión sobre account management, expansión y retención se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Entregar y desaparecer | La venta se considera terminada | Dueño de la cuenta y plan. |
+| Depender de un solo contacto | Es más cómodo | Varios contactos y niveles. |
+| Indicador de salud sin validar | Se crea por intuición | Contrastar con bajas reales. |
+| Expandir a quien no recibe valor | Se prioriza la venta | Primero resultados, luego expansión. |
+| Retener con descuentos | Se teme perder | Reforzar valor y condiciones. |
+| Metas desalineadas | Cada área tiene la suya | Metas compartidas de retención y expansión. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **adoption** y **renewal** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **expansion** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir outcomes post-venta → medir adopción y valor** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **NRR** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **account management, expansión y retención**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Expansion sin valor realizado puede parecer venta oportunista y aumentar churn. También controla concentración: crecer demasiado en una cuenta puede elevar riesgo de cartera.**?
+1. ¿Qué incluye un plan de cuenta?
+2. ¿Qué señales componen la salud de una cuenta?
+3. ¿Qué es una revisión de valor y qué la distingue de un informe?
+4. ¿Cuándo es sano expandir una cuenta?
+5. ¿Qué señales anticipan un riesgo de baja?
+6. ¿Qué mide la retención neta de ingresos?
+7. ¿Qué límite tienen los indicadores de salud?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Objetivos del cliente y de éxito, mapa de relaciones, valor entregado, riesgos, oportunidades y acciones con responsable y fecha.
+2. Uso, resultados, relación, soporte, aspectos comerciales y riesgos externos.
+3. Una reunión periódica para revisar resultados logrados, lo que falta, cambios de contexto y próximos pasos con métricas acordadas; no es informe de actividades ni presentación de ventas.
+4. Cuando el cliente ya obtiene valor demostrado y aparecen nuevos problemas, áreas o disparadores.
+5. Caída de uso, salida del patrocinador, retrasos de pago, reclamos, reuniones canceladas, consultas sobre exportar datos, mención de competidores o recortes.
+6. Los ingresos actuales de un grupo de clientes respecto de hace un año, incluidos aumentos y bajas; sobre 100 % indica expansión neta.
+7. Son hipótesis que deben validarse con bajas reales, y con pocas cuentas la variabilidad limita el análisis.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/131-account-management-expansion-y-retencion/`:
 
-- `commercial-decision-brief.md` con el problema específico de **account management, expansión y retención**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **account management, expansión y retención** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **adoption**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un cliente representa 18% del ARR y renueva en cuatro meses. El único champion cambia de empresa y nadie del proveedor conoce al CFO ni a operaciones.** y el dato que podría invalidar la recomendación.
+- `commercial-decision-brief.md` (plantilla [Commercial decision brief](../../../../templates/commercial-decision-brief.md)) con el diseño del caso ejecutivo;
+- `kpi-tree.md` (plantilla [KPI tree](../../../../templates/kpi-tree.md)) con el indicador de salud y las métricas de retención;
+- `decision-journal.md` con los planes de cuenta, las alertas y el análisis de costo-beneficio.
 
 ## 📗 Fuentes y verificación
 
-- Neil Rackham — *SPIN Selling* (Highbridge Audio, 1998). **Uso en esta clase:** venta consultiva basada en preguntas de situación, problema, implicación y necesidad. Lectura selectiva sobre **account management, expansión y retención**. **Localizador:** [ISBN-13 9781565112605](https://openlibrary.org/isbn/9781565112605).
-- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** venta compleja, insight comercial, enseñanza y control constructivo del proceso. Lectura selectiva sobre **account management, expansión y retención**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **account management, expansión y retención**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Neil Rackham — *Major Account Sales Strategy* (McGraw-Hill, 1989). **Uso en esta clase:** perspectiva de Ventas aplicada al problema de la clase. Lectura selectiva sobre **account management, expansión y retención**. **Localizador:** [ISBN-13 9780070511149](https://openlibrary.org/isbn/9780070511149).
-- Aaron Ross & Marylou Tyler — *Predictable Revenue* (Pebblestorm, 2020). **Uso en esta clase:** perspectiva de Ventas aplicada al problema de la clase. Lectura selectiva sobre **account management, expansión y retención**. **Localizador:** [ISBN-13 9780984380244](https://openlibrary.org/isbn/9780984380244).
-- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** mecanismos de influencia y sus límites éticos. Lectura selectiva sobre **account management, expansión y retención**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **account management, expansión y retención** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **account management, expansión y retención**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **account management, expansión y retención** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **account management, expansión y retención** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **account management, expansión y retención** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** cómo se compra y se enseña en relaciones complejas. Lectura selectiva sobre **account management, expansión y retención**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
+- Aaron Ross & Marylou Tyler — *Predictable Revenue* (Pebblestorm, 2020). **Uso en esta clase:** roles y procesos para sostener ingresos predecibles. Lectura selectiva sobre **account management, expansión y retención**. **Localizador:** [ISBN-13 9780984380244](https://openlibrary.org/isbn/9780984380244).
+- Geoffrey A. Moore — *Crossing the Chasm* (HarperBusiness, 1995). **Uso en esta clase:** expansión por adyacencia desde un segmento. Lectura selectiva sobre **account management, expansión y retención**. **Localizador:** [ISBN-13 9780887307171](https://openlibrary.org/isbn/9780887307171).
+- Mark Roberge — *The Sales Acceleration Formula* (2015). **Uso en esta clase:** métricas y gestión de equipos comerciales. Lectura selectiva sobre **account management, expansión y retención**. **Localizador:** [ISBN-13 9781119047070](https://openlibrary.org/isbn/9781119047070).
+- Sunil Gupta, Donald R. Lehmann & Jennifer Ames Stuart — *Valuing Customers* (Journal of Marketing Research, 2004). **Uso en esta clase:** valor de los clientes como activos. Lectura selectiva sobre **account management, expansión y retención**. **Localizador:** [DOI 10.1509/jmkr.41.1.7.25084](https://doi.org/10.1509/jmkr.41.1.7.25084).
 
-> **Regla de fuentes para Account management, expansión y retención:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **account management, expansión y retención** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Account management, expansión y retención:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de renovación contractual, precios y protección de datos. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

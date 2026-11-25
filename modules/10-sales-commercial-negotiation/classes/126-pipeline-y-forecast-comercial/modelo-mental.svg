@@ -1,81 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g126 d-g126" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g126">Ficha visual de la clase 126: Pipeline y forecast comercial</title>
-<desc id="d-g126">Conceptos: pipeline; coverage; forecast; commit; slippage. Método: limpiar stages por exit criteria → segmentar commit/best case/pipeline → usar historia y deal evidence → revisar aging y slippage → actualizar forecast sin proteger ego.</desc>
-<defs><marker id="p-g126" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 126 · Pipeline y forecast comercial</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 10 · Gestión de negocio</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#8250df"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >pipeline</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto de oportunidades abiertas y su estado</text>
-<circle cx="38" cy="170" r="5" fill="#8250df"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >coverage</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ratio entre pipeline relevante y target</text>
-<circle cx="38" cy="228" r="5" fill="#8250df"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >forecast</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >estimación temporal de cierres y revenue</text>
-<circle cx="38" cy="286" r="5" fill="#8250df"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >commit</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >deals con alta evidencia de cierre en periodo según</text>
-<text x="54" y="325.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >regla interna</text>
-<circle cx="38" cy="358.12" r="5" fill="#8250df"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >slippage</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >oportunidad cuya close date se desplaza repetidamente</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#8250df"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >limpiar stages por</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >exit criteria</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#8250df"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >segmentar</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >commit/best</text>
-<text x="692" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >case/pipeline</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#8250df"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >usar historia y</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >deal evidence</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#8250df"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >revisar aging y</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >slippage</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#8250df"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >actualizar</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >forecast sin</text>
-<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >proteger ego</text>
-<path d="M638,139 L656,139" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g126)"/>
-<path d="M826,139 L844,139" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g126)"/>
-<path d="M929,176 L929,222" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g126)"/>
-<path d="M844,259 L826,259" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g126)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#8250df" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g126)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >forecast accuracy</text>
-<rect x="181.3" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="194.3" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="205.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >pipeline coverage</text>
-<rect x="334.6" y="442.12" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="347.6" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="358.6" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >stage aging</text>
-<rect x="446.5" y="442.12" width="81.2" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="459.5" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="470.5" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >slippage</text>
-<rect x="537.7" y="442.12" width="81.2" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="550.7" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="561.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >win rate</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Coverage no es universal: varía por win rate, ciclo y mix. No copies un ratio de otra empresa sin backtest de tu propio funnel.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 456.81" width="1040" role="img" aria-labelledby="t-s126 d-s126" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s126">Clase 126 · Un pipeline confiable frente a uno que solo parece grande</title>
+<desc id="d-s126">Rasgos de un pipeline que sirve para pronosticar y rasgos de uno que engaña.</desc>
+<defs><marker id="p-s126" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="456.81" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 126 · Un pipeline confiable frente a uno que solo parece grande</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Roberge · Ross &amp; Tyler · Kahneman et al.</text>
+<text x="28" y="90" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">PIPELINE CONFIABLE</text>
+<rect x="28" y="104" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.7" />
+<rect x="28.0" y="104" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<text x="46" y="126" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Etapas por evidencia del comprador</text>
+<text x="46" y="144" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Se avanza cuando el comprador hace algo verificable.</text>
+<rect x="28" y="177.25" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.7" />
+<rect x="28.0" y="177.25" width="6" height="63.25" rx="3" fill="#0969da"/>
+<text x="46" y="199.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Conversión medida</text>
+<text x="46" y="217.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Cada etapa tiene una tasa histórica y un tiempo típico.</text>
+<rect x="28" y="250.5" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#8250df" stroke-width="1.7" />
+<rect x="28.0" y="250.5" width="6" height="63.25" rx="3" fill="#8250df"/>
+<text x="46" y="272.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Cobertura y antigüedad</text>
+<text x="46" y="290.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Se vigilan oportunidades estancadas.</text>
+<text x="532" y="90" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">PIPELINE ENGAÑOSO</text>
+<rect x="532" y="104" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.7" />
+<rect x="532.0" y="104" width="6" height="63.25" rx="3" fill="#cf222e"/>
+<text x="550" y="126" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Etapas por impresión del vendedor</text>
+<text x="550" y="144" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >El avance depende del optimismo.</text>
+<rect x="532" y="177.25" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.7" />
+<rect x="532.0" y="177.25" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<text x="550" y="199.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Oportunidades fantasma</text>
+<text x="550" y="217.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Cuentas sin contacto que nadie cierra.</text>
+<rect x="532" y="250.5" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.7" />
+<rect x="532.0" y="250.5" width="6" height="63.25" rx="3" fill="#59636e"/>
+<text x="550" y="272.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Un solo número</text>
+<text x="550" y="290.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Pronóstico puntual sin rango ni escenarios.</text>
+<rect x="28" y="329.75" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="351.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El pronóstico mejora cuando se combina el dato (conversión histórica por etapa) con el juicio revisado de varias personas, y se informa</text>
+<text x="44" y="369" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >como rango.</text>
+<text x="28" y="416.25" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Con pocas oportunidades por período, las tasas de conversión son inestables: se usa el rango, no el promedio.</text>
 </svg>

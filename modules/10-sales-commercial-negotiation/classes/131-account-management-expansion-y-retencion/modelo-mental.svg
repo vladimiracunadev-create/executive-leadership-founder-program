@@ -1,64 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g131 d-g131" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g131">Ficha visual de la clase 131: Account management, expansión y retención</title>
-<desc id="d-g131">Conceptos: adoption; renewal; expansion; champion; account plan. Método: definir outcomes post-venta → medir adopción y valor → mapear stakeholders y riesgos → hacer executive reviews → expandir desde problemas nuevos y éxito demostrado.</desc>
-<defs><marker id="p-g131" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 131 · Account management, expansión y retención</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 10 · Gestión de negocio</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#8250df"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >adoption</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >uso efectivo de capacidades que habilitan valor</text>
-<circle cx="38" cy="170" r="5" fill="#8250df"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >renewal</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >decisión de continuar la relación</text>
-<circle cx="38" cy="228" r="5" fill="#8250df"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >expansion</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >crecimiento de revenue dentro de cliente existente</text>
-<circle cx="38" cy="286" r="5" fill="#8250df"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >champion</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >persona interna que promueve activamente la solución</text>
-<circle cx="38" cy="344" r="5" fill="#8250df"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >account plan</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >mapa de objetivos, stakeholders, riesgos y</text>
-<text x="54" y="383.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >oportunidades</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#8250df" stroke="#8250df" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir outcomes post-venta</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#8250df" stroke="#8250df" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >medir adopción y valor</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#8250df" stroke="#8250df" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >mapear stakeholders y riesgos</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#8250df" stroke="#8250df" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >hacer executive reviews</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#8250df" stroke="#8250df" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >expandir desde problemas nuevos y éxito demostrado</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="46.7" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >NRR</text>
-<rect x="84.7" y="442.12" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="97.7" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="108.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >renewal rate</text>
-<rect x="203.5" y="442.12" width="81.2" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="216.5" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="227.5" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >adoption</text>
-<rect x="294.7" y="442.12" width="164" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="307.7" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="318.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >stakeholder coverage</text>
-<rect x="468.7" y="442.12" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="481.7" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="492.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >expansion pipeline</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Expansion sin valor realizado puede parecer venta oportunista y aumentar churn. También controla concentración: crecer demasiado en</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >una cuenta puede elevar riesgo de cartera.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 436.56" width="1040" role="img" aria-labelledby="t-s131 d-s131" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s131">Clase 131 · Tres tareas de la gestión de cuentas</title>
+<desc id="d-s131">Retener, expandir y proteger una cuenta: objetivo, señales y riesgos.</desc>
+<defs><marker id="p-s131" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="436.56" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 131 · Tres tareas de la gestión de cuentas</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Dixon &amp; Adamson · Ross &amp; Tyler · Moore</text>
+<rect x="28" y="96" width="314.667" height="197.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M28.0,136 V108 a12,12 0 0 1 12,-12 H330.6666666666667 a12,12 0 0 1 12,12 V136 Z" fill="#0969da"/>
+<text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Retener</text>
+<circle cx="50.0" cy="154" r="4" fill="#0969da"/>
+<text x="64" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Resultado percibido por el cliente.</text>
+<circle cx="50.0" cy="181.25" r="4" fill="#0969da"/>
+<text x="64" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Señales: uso, satisfacción, soporte.</text>
+<circle cx="50.0" cy="208.5" r="4" fill="#0969da"/>
+<text x="64" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Riesgo: sorpresa en la renovación.</text>
+<rect x="362.667" y="96" width="314.667" height="197.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<path d="M362.6666666666667,136 V108 a12,12 0 0 1 12,-12 H665.3333333333334 a12,12 0 0 1 12,12 V136 Z" fill="#1a7f37"/>
+<text x="378.667" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Expandir</text>
+<circle cx="384.6666666666667" cy="154" r="4" fill="#1a7f37"/>
+<text x="398.667" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Nuevos usos, áreas o productos con</text>
+<text x="398.667" y="175.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >valor demostrado.</text>
+<circle cx="384.6666666666667" cy="198.5" r="4" fill="#1a7f37"/>
+<text x="398.667" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Señales: nuevos patrocinadores,</text>
+<text x="398.667" y="219.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >nuevos problemas.</text>
+<circle cx="384.6666666666667" cy="243.0" r="4" fill="#1a7f37"/>
+<text x="398.667" y="247" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Riesgo: vender más a quien aún no</text>
+<text x="398.667" y="264.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >recibió valor.</text>
+<rect x="697.333" y="96" width="314.667" height="197.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M697.3333333333334,136 V108 a12,12 0 0 1 12,-12 H1000.0 a12,12 0 0 1 12,12 V136 Z" fill="#bc4c00"/>
+<text x="713.333" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Proteger</text>
+<circle cx="719.3333333333334" cy="154" r="4" fill="#bc4c00"/>
+<text x="733.333" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Relaciones con varios decisores.</text>
+<circle cx="719.3333333333334" cy="181.25" r="4" fill="#bc4c00"/>
+<text x="733.333" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Señales: cambios de personas, de</text>
+<text x="733.333" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >presupuesto, de competencia.</text>
+<circle cx="719.3333333333334" cy="225.75" r="4" fill="#bc4c00"/>
+<text x="733.333" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Riesgo: depender de un solo contacto.</text>
+<rect x="28" y="309.5" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="331.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Una cuenta sana se gestiona con un plan, reuniones de valor con el cliente y métricas de uso y de resultados. Retener cuesta menos que</text>
+<text x="44" y="348.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >adquirir, pero se debe ganar cada renovación.</text>
+<text x="28" y="396" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Las prácticas de renovación automática, aumentos de precio y uso de datos del cliente tienen reglas contractuales y de protección al consumidor.</text>
 </svg>

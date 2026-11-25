@@ -1,84 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 616.48" width="1040" role="img" aria-labelledby="t-g122 d-g122" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g122">Ficha visual de la clase 122: ICP y segmentación comercial</title>
-<desc id="d-g122">Conceptos: ICP; segment; fit; disqualifier; TAM/SAM/SOM. Método: analizar clientes ganados y perdidos → identificar atributos de éxito → definir ICP y disqualifiers → priorizar segmentos por valor y acceso → probar messaging y win rate.</desc>
-<defs><marker id="p-g122" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="616.48" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 122 · ICP y segmentación comercial</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 10 · Gestión de negocio</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#8250df"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >ICP</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >perfil de cliente con alto ajuste esperado entre</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >problema, producto y economía</text>
-<circle cx="38" cy="184.12" r="5" fill="#8250df"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >segment</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grupo de clientes con necesidades o comportamiento</text>
-<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >comparables</text>
-<circle cx="38" cy="256.24" r="5" fill="#8250df"/>
-<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >fit</text>
-<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grado de compatibilidad entre necesidad, solución y</text>
-<text x="54" y="295.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >restricciones</text>
-<circle cx="38" cy="328.36" r="5" fill="#8250df"/>
-<text x="54" y="333.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >disqualifier</text>
-<text x="54" y="351.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >condición que justifica no perseguir una oportunidad</text>
-<circle cx="38" cy="386.36" r="5" fill="#8250df"/>
-<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >TAM/SAM/SOM</text>
-<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capas de tamaño de mercado con distinto alcance y</text>
-<text x="54" y="425.92" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >accesibilidad</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#8250df"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >analizar clientes</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >ganados y perdidos</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#8250df"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >identificar</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >atributos de éxito</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#8250df"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir ICP y</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >disqualifiers</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#8250df"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >priorizar</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >segmentos por</text>
-<text x="880" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >valor y acceso</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#8250df"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >probar messaging y</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >win rate</text>
-<path d="M638,139 L656,139" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g122)"/>
-<path d="M826,139 L844,139" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g122)"/>
-<path d="M929,176 L929,222" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g122)"/>
-<path d="M844,259 L826,259" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g122)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#8250df" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g122)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="472.48" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="484.48" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="41" cy="497.48" r="3.5" fill="#8250df"/>
-<text x="52" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >win rate by segment</text>
-<rect x="195.1" y="484.48" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="208.1" cy="497.48" r="3.5" fill="#8250df"/>
-<text x="219.1" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >CAC by segment</text>
-<rect x="327.7" y="484.48" width="164" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="340.7" cy="497.48" r="3.5" fill="#8250df"/>
-<text x="351.7" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >retention by segment</text>
-<rect x="501.7" y="484.48" width="88.1" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="514.7" cy="497.48" r="3.5" fill="#8250df"/>
-<text x="525.7" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >deal size</text>
-<rect x="599.8" y="484.48" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="612.8" cy="497.48" r="3.5" fill="#8250df"/>
-<text x="623.8" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >sales cycle</text>
-<rect x="28" y="530.48" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="530.48" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="550.48" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="568.48" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un ICP demasiado estrecho puede ocultar mercados emergentes. Reserva experimentos fuera del core y actualiza con datos, sin diluir el</text>
-<text x="48" y="585.73" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >foco principal.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 456.06" width="1040" role="img" aria-labelledby="t-s122 d-s122" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s122">Clase 122 · Elegir a quién vender: ajuste y valor del cliente</title>
+<desc id="d-s122">Cuadrante de ajuste con la propuesta y valor potencial del cliente para ordenar segmentos y definir el perfil de cliente ideal.</desc>
+<defs><marker id="p-s122" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="456.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 122 · Elegir a quién vender: ajuste y valor del cliente</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Moore (2014) · Roberge · Dixon &amp; Adamson</text>
+<text x="362.5" y="100" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle" >Poco ajuste</text>
+<text x="799.5" y="100" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle" >Mucho ajuste</text>
+<text transform="translate(120,160.25) rotate(-90)" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle">Alto valor potencial</text>
+<text transform="translate(120,268.75) rotate(-90)" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="middle">Poco valor potencial</text>
+<rect x="150" y="112" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="150.0" y="112.0" width="425.0" height="34" rx="12" fill="#bc4c00"/>
+<text x="166" y="135" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Explorar con cuidado</text>
+<text x="166" y="170" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Alto valor pero poco ajuste: probar con pocos casos</text>
+<text x="166" y="187.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >antes de comprometer recursos.</text>
+<rect x="587" y="112" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="587.0" y="112.0" width="425.0" height="34" rx="12" fill="#1a7f37"/>
+<text x="603" y="135" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Perfil de cliente ideal</text>
+<text x="603" y="170" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Alto valor y mucho ajuste: el foco del equipo comercial.</text>
+<rect x="150" y="220.5" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<rect x="150.0" y="220.5" width="425.0" height="34" rx="12" fill="#59636e"/>
+<text x="166" y="243.5" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >No perseguir</text>
+<text x="166" y="278.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Poco valor y poco ajuste: consume tiempo y no retiene.</text>
+<rect x="587" y="220.5" width="425" height="96.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="587.0" y="220.5" width="425.0" height="34" rx="12" fill="#0969da"/>
+<text x="603" y="243.5" font-size="14" font-weight="700" fill="#ffffff" text-anchor="start" >Atender con bajo costo</text>
+<text x="603" y="278.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Mucho ajuste y poco valor: canales de bajo contacto o</text>
+<text x="603" y="295.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >autoservicio.</text>
+<rect x="28" y="329" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="351" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Un perfil de cliente ideal se describe con rasgos observables (sector, tamaño, problema, proceso de compra) y se valida con los</text>
+<text x="44" y="368.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >clientes que más valor obtienen y más duran.</text>
+<text x="28" y="415.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Se revisa con datos de retención y rentabilidad: el mejor cliente de hoy puede no ser el de mañana.</text>
 </svg>

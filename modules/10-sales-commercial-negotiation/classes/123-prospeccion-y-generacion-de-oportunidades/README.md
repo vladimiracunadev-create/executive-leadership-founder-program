@@ -10,217 +10,186 @@
 
 ## 🎯 Propósito
 
-Prospección genera conversaciones relevantes, no volumen de mensajes. Un sistema combina cuentas objetivo, trigger events, hipótesis de problema, canales y cadencia. La personalización debe basarse en evidencia útil, no en datos triviales usados para simular cercanía.
+Sin oportunidades no hay ventas, pero tampoco sirve cualquier oportunidad. La prospección fracasa de dos maneras opuestas: el equipo no contacta a nadie nuevo porque «no hay tiempo» y depende de lo que llegue solo, o contacta a miles con mensajes genéricos, quema la lista, irrita a posibles clientes y llena el pipeline de conversaciones que no llevan a nada. Generar oportunidades es una actividad disciplinada: elegir a quién contactar, con qué mensaje, por qué canal, con qué frecuencia y cómo medir el resultado, en el marco de la ley y del respeto al interlocutor.
 
-La salida de esta parte es **construir ingresos mediante un proceso comercial medible y negociación disciplinada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **prospección y generación de oportunidades** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en las prácticas de especialización de oportunidades de Ross y Tyler, en la gestión por datos de Roberge y en los principios de influencia de Cialdini, aplicados con ética. Al terminar sabrás diseñar un plan de generación de oportunidades con múltiples fuentes, escribir mensajes que ofrecen valor, calificar oportunidades con criterios, medir el costo por oportunidad y reconocer los límites legales y éticos de la prospección.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `prospecting`, `trigger event`, `account research`, `cadence`, `positive reply` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. seleccionar cuentas por ICP → 2. buscar trigger y problema plausible → 3. redactar mensaje de relevancia → 4. usar cadencia limitada y respetuosa → 5. medir reply, meeting y opportunity rate** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** reply rate, meeting rate, opportunity rate sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Diseñar** un plan de prospección con fuentes saliente, entrante y por recomendación.
+2. **Escribir** mensajes breves, relevantes y verificables.
+3. **Calificar** oportunidades con criterios explícitos.
+4. **Medir** el costo y la conversión por canal.
+5. **Respetar** los límites éticos y legales del contacto comercial.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define prospecting y trigger event sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con reply rate y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda el último mensaje comercial que respondiste y qué lo hizo distinto. |
+| 20–60 min | Fuentes, mensajes, calificación y métricas. |
+| 60–105 min | Ejemplo trabajado: comparar tres canales de una empresa de servicios. |
+| 105–150 min | Caso ejecutivo y práctica de mensajes. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **prospecting** | identificación y contacto proactivo con potenciales compradores | Distingue un hecho compatible y otro que lo refute. |
-| **trigger event** | cambio que aumenta probabilidad o urgencia de necesidad | Distingue un hecho compatible y otro que lo refute. |
-| **account research** | investigación mínima para formular relevancia | Distingue un hecho compatible y otro que lo refute. |
-| **cadence** | secuencia de contactos multicanal | Distingue un hecho compatible y otro que lo refute. |
-| **positive reply** | respuesta que abre una conversación comercial real | Distingue un hecho compatible y otro que lo refute. |
+| **Prospección** | Búsqueda activa de posibles clientes que encajan con el ICP. | Lista de cuentas y contactos elegidos. |
+| **Oportunidad calificada** | Conversación con alguien que tiene un problema, interés y capacidad de decidir o influir. | Cumple criterios acordados. |
+| **Canal saliente (outbound)** | Contacto iniciado por el equipo comercial. | Correos, llamadas, mensajes, eventos. |
+| **Canal entrante (inbound)** | Contacto iniciado por el comprador tras interactuar con contenido o marca. | Formularios, búsquedas, recomendaciones. |
+| **Costo por oportunidad calificada** | Gasto del canal dividido por oportunidades calificadas. | Permite comparar canales. |
+| **Consentimiento y legitimidad** | Base legal y ética para contactar a una persona. | Se verifica antes de contactar. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 123: 1. seleccionar cuentas por ICP → 2. buscar trigger y problema plausible → 3. redactar mensaje de relevancia → 4. usar cadencia limitada y respetuosa → 5. medir reply, meeting y opportunity rate](modelo-mental.svg)
+![Tres fuentes de oportunidades: saliente, entrante y por recomendaciones y alianzas, con su funcionamiento, ventaja y riesgo.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. seleccionar cuentas por ICP → 2. buscar trigger y problema plausible → 3. redactar mensaje de relevancia → 4. usar cadencia limitada y respetuosa → 5. medir reply, meeting y opportunity rate
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Prospección genera conversaciones relevantes, no volumen de mensajes. Un sistema combina cuentas objetivo, trigger events, hipótesis de problema, canales y cadencia. La personalización debe basarse en evidencia útil, no en datos triviales usados para simular cercanía.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La prospección debe respetar privacidad, consentimiento y normas anti-spam aplicables. Más datos disponibles no significan permiso para usarlos de cualquier manera.**
+**Cómo leer el diagrama.** Tres columnas, tres formas de generar conversaciones. En el canal **saliente**, el equipo elige a quién contactar y controla el ritmo, con el riesgo de mensajes genéricos que desgastan la marca. En el **entrante**, el comprador llega por sí mismo, con interés declarado, y el riesgo es el volumen sin calificar y la dependencia de un solo canal. En las **recomendaciones y alianzas**, un tercero presenta, con alta confianza y mejor cierre, pero crece lento. Ninguna es suficiente sola.
 
 ## 📖 Desarrollo
 
-### 1. prospecting: mecanismo central
+### 1. Especializar la generación de oportunidades
 
-**prospecting** se entiende aquí como **identificación y contacto proactivo con potenciales compradores**. Esta es la pieza causal o estructural desde la que se inicia **prospección y generación de oportunidades**: antes de seleccionar cuentas por icp, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Ross y Tyler argumentan que generar oportunidades y cerrar son tareas distintas que se benefician de especialización: quien hace contactos nuevos se concentra en la calidad de las primeras conversaciones y en la calificación; quien cierra se concentra en el diagnóstico y la negociación. En su marco, describen tres tipos de iniciativas: **semillas** (clientes actuales y referidos, de alta probabilidad), **redes** (marketing y contenidos que atraen interesados) y **lanzas** (prospección dirigida a cuentas grandes elegidas). La combinación depende del ciclo de venta, del tamaño de las cuentas y del presupuesto.
 
-La lectura rectora de este bloque es Neil Rackham — *SPIN Selling*. Su aporte se usa para examinar **venta consultiva basada en preguntas de situación, problema, implicación y necesidad**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **reply rate**; regístrala con periodo, unidad, población y baseline.
+### 2. Elegir cuentas y contactos
 
-Relaciona el mecanismo con **trigger event**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La prospección comienza con una **lista de cuentas** que cumplen el ICP (clase 122), priorizadas por **disparadores** (nuevos directivos, expansión, regulaciones, publicaciones) y por **valor potencial**. Dentro de cada cuenta, se identifican los **roles** relevantes: quien tiene el problema, quien puede decidir, quien influye. Un contacto con el cargo correcto en la empresa correcta, en el momento correcto, responde a una tasa mucho mayor que un envío masivo. La calidad de los datos (correos válidos, cargos actuales) es parte de la disciplina: datos desactualizados desperdician tiempo y dañan la reputación del remitente.
 
-### 2. trigger event: frontera conceptual y error de clasificación
+### 3. Mensajes que ofrecen valor
 
-**Definición operacional:** cambio que aumenta probabilidad o urgencia de necesidad. Su valor está en distinguirlo de **prospecting** y **account research**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Un buen mensaje de primer contacto es **corto**, **específico** y **centrado en el destinatario**: muestra que se conoce su contexto (un dato real y verificable), plantea una **hipótesis de problema** relevante, ofrece **valor** (un dato, un caso, una idea) y propone un **próximo paso pequeño** (una conversación de quince minutos). Se evita el lenguaje genérico («líder en soluciones innovadoras»), los datos falsos de personalización y la manipulación. Cialdini describe principios de influencia (reciprocidad, prueba social, autoridad, escasez, afinidad, compromiso); se usan con honestidad: una prueba social real, no inventada; una escasez verdadera, no fabricada.
 
-Contrasta el problema con Matthew Dixon & Brent Adamson — *The Challenger Sale*, que aporta una mirada sobre **venta compleja, insight comercial, enseñanza y control constructivo del proceso**. Formula dos mini-casos: uno que sí satisface la definición de **trigger event** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **meeting rate** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Secuencias y seguimiento
 
-Antes de buscar trigger y problema plausible, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Rara vez la primera respuesta es inmediata. Una **secuencia** de contactos espaciados (por ejemplo, 5 a 8 puntos de contacto en 3 semanas, en varios medios) aumenta la probabilidad de conversación, siempre que cada contacto aporte algo nuevo y respete las señales del destinatario (si pide que no lo contacten, se detiene y se registra). Se prueban variantes de mensajes con una muestra y se mide la **tasa de respuesta** y la **tasa de reuniones**. El seguimiento insistente y repetitivo se convierte en acoso y afecta la reputación del remitente y de la empresa.
 
-### 3. account research: operacionalización y medición
+### 5. Calificar
 
-**account research** significa **investigación mínima para formular relevancia**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+No toda conversación es una oportunidad. Se define un conjunto de **criterios de calificación**, por ejemplo: **problema** reconocido, **impacto** estimable, **patrocinador** identificado, **presupuesto o capacidad** de inversión y **horizonte** de decisión. Marcos conocidos (como BANT u otros) son listas orientativas; lo importante es que sean **observables** y acordados entre quienes generan y quienes cierran. Una calificación demasiado estricta descarta oportunidades que podrían crecer; demasiado laxa llena el pipeline de conversaciones que consumen tiempo de cierre. Se revisa con datos: ¿qué rasgos tenían las oportunidades que sí cerraron?
 
-Deepak Malhotra & Max H. Bazerman — *Negotiation Genius* orienta este bloque mediante **perspectiva de Negociación aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **opportunity rate**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Canal entrante y recomendaciones
 
-Al llegar a redactar mensaje de relevancia, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El canal **entrante** depende de contenido útil, presencia en los lugares donde el comprador busca, formularios sencillos y respuesta rápida. Se mide **por fuente** la cantidad, la calidad y la conversión. Las **recomendaciones** nacen de clientes satisfechos y de relaciones con terceros (consultores, socios, comunidades): se piden de forma natural en el momento de valor, se facilita la presentación y se agradece. Roberge destaca que medir el origen de cada oportunidad permite invertir donde el costo por oportunidad calificada y la conversión sean mejores, en lugar de repartir por intuición.
 
-### 4. cadence: trade-offs y efectos de segundo orden
+### 7. Ética y límites legales
 
-**Definición:** secuencia de contactos multicanal. Este concepto obliga a abandonar la idea de que **prospección y generación de oportunidades** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de usar cadencia limitada y respetuosa, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Aaron Ross & Marylou Tyler — *Predictable Revenue* aporta una lente sobre **perspectiva de Ventas aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **unsubscribe/spam** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **prospección y generación de oportunidades**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **cadence** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. positive reply: gobernanza, límites e integración
-
-**positive reply** se define como **respuesta que abre una conversación comercial real** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Robert B. Cialdini — *Influence* se utiliza para estudiar **mecanismos de influencia y sus límites éticos** y contrastar la recomendación final. Al ejecutar medir reply, meeting y opportunity rate, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **La prospección debe respetar privacidad, consentimiento y normas anti-spam aplicables. Más datos disponibles no significan permiso para usarlos de cualquier manera.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **prospecting**, **trigger event**, **account research**, **cadence** y **positive reply** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **prospección y generación de oportunidades** no consiste en sumar cinco definiciones. Empieza por **prospecting**, contrasta **trigger event** con **account research**, incorpora **cadence** como restricción o mecanismo y usa **positive reply** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. seleccionar cuentas por ICP → 2. buscar trigger y problema plausible → 3. redactar mensaje de relevancia → 4. usar cadencia limitada y respetuosa → 5. medir reply, meeting y opportunity rate**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La prospección toca datos personales y comunicaciones comerciales, con normas que varían por país: bases legales para tratar datos y contactar, **derecho a oponerse** y a no ser contactado, reglas para correos y llamadas comerciales, publicidad no engañosa y consentimiento. Además de lo legal, hay una dimensión de respeto: no usar información privada, no engañar sobre quién es uno ni para qué contacta, no presionar. Una reputación comercial dañada tarda años en recuperarse. Antes de lanzar campañas, se verifican las reglas aplicables con asesoría legal.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Neil Rackham — *SPIN Selling* | venta consultiva basada en preguntas de situación, problema, implicación y necesidad | ¿Qué supuesto de **prospección y generación de oportunidades** ayuda a desafiar? |
-| Matthew Dixon & Brent Adamson — *The Challenger Sale* | venta compleja, insight comercial, enseñanza y control constructivo del proceso | ¿Qué supuesto de **prospección y generación de oportunidades** ayuda a desafiar? |
-| Deepak Malhotra & Max H. Bazerman — *Negotiation Genius* | perspectiva de Negociación aplicada al problema de la clase | ¿Qué supuesto de **prospección y generación de oportunidades** ayuda a desafiar? |
-| Aaron Ross & Marylou Tyler — *Predictable Revenue* | perspectiva de Ventas aplicada al problema de la clase | ¿Qué supuesto de **prospección y generación de oportunidades** ayuda a desafiar? |
-| Robert B. Cialdini — *Influence* | mecanismos de influencia y sus límites éticos | ¿Qué supuesto de **prospección y generación de oportunidades** ayuda a desafiar? |
-
-En **prospección y generación de oportunidades**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **prospecting**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Ross y Tyler | Roles especializados y tipos de iniciativa (semillas, redes, lanzas). | Contexto de ventas B2B de tecnología. | ¿Qué mezcla de fuentes necesita tu mercado? |
+| Roberge | Medir por canal y fuente y optimizar con datos. | Experiencia de una empresa de software. | ¿Cuál es tu costo por oportunidad calificada? |
+| Cialdini | Principios de influencia y su uso ético. | No es un manual de prospección. | ¿Tu prueba social es real y verificable? |
+| Rackham | Calificar según el problema y el proceso de compra. | Ventas complejas. | ¿Quién decide en esta cuenta? |
+| Dixon y Adamson | Aportar una idea nueva al comprador. | Estudio de ventas complejas. | ¿Qué aprendería el cliente de ti? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un SDR envía 5.000 correos genéricos y celebra 2% de apertura. Solo cuatro reuniones ocurren y ninguna cumple ICP.
+**Situación (hipotética).** Una consultora de seguridad de la información para empresas de 100 a 1.000 empleados invirtió USD 60.000 en el último semestre en tres canales de generación de oportunidades.
 
-**Paso 1 — seleccionar cuentas por ICP.** La gerencia escribe primero el supuesto asociado a **prospecting** y evita convertirlo en hecho. Luego busca **reply rate** para contrastarlo en el caso de **prospección y generación de oportunidades**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Canal | Inversión | Contactos / visitas | Reuniones calificadas | Clientes ganados | Costo por reunión calificada | Costo por cliente |
+|---|---|---|---|---|---|---|
+| Saliente (dos desarrolladores de oportunidades) | 28.000 | 2.400 cuentas contactadas | 48 | 6 | 583 | 4.667 |
+| Entrante (contenido y seminarios) | 22.000 | 9.000 visitas; 260 formularios | 36 | 5 | 611 | 4.400 |
+| Recomendaciones y alianzas | 10.000 (comisiones y eventos) | 22 presentaciones | 15 | 5 | 667 | 2.000 |
 
-**Paso 2 — buscar trigger y problema plausible.** La gerencia escribe primero el supuesto asociado a **trigger event** y evita convertirlo en hecho. Luego busca **meeting rate** para contrastarlo en el caso de **prospección y generación de oportunidades**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** El costo por reunión calificada es similar entre canales; el **costo por cliente** es menos de la mitad en recomendaciones, porque convierte mejor (33 % de las reuniones frente a 12 %–14 %). El saliente genera más volumen y controla el ritmo; el entrante depende de pocos contenidos que concentran las consultas.
 
-**Paso 3 — redactar mensaje de relevancia.** La gerencia escribe primero el supuesto asociado a **account research** y evita convertirlo en hecho. Luego busca **opportunity rate** para contrastarlo en el caso de **prospección y generación de oportunidades**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Calidad de mensajes.** Se prueban dos variantes de primer correo con 300 cuentas cada una: la A (genérica, con descripción de servicios) obtuvo 1,3 % de respuestas y 0,3 % de reuniones; la B (referencia a una norma que afecta al sector, un dato propio y una pregunta concreta) obtuvo 6,2 % de respuestas y 1,7 % de reuniones.
 
-**Paso 4 — usar cadencia limitada y respetuosa.** La gerencia escribe primero el supuesto asociado a **cadence** y evita convertirlo en hecho. Luego busca **unsubscribe/spam** para contrastarlo en el caso de **prospección y generación de oportunidades**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisiones.** (a) Ampliar el programa de recomendaciones (hasta 12 alianzas), con acuerdos claros y sin presión; (b) mantener el saliente con la variante B y listas más cortas con disparadores; (c) invertir en tres contenidos que respondan a las preguntas más frecuentes; (d) revisar los criterios de calificación junto con ejecutivos de cuentas; (e) verificar con asesoría legal las bases para contactar y el manejo de bajas.
 
-**Paso 5 — medir reply, meeting y opportunity rate.** La gerencia escribe primero el supuesto asociado a **positive reply** y evita convertirlo en hecho. Luego busca **sourcing cost** para contrastarlo en el caso de **prospección y generación de oportunidades**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **prospección y generación de oportunidades**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El costo por cliente cambió la lectura del costo por reunión. (2) La personalización real mejoró la respuesta. (3) La decisión combinó canales y consideró el marco legal.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **prospecting** | identificación y contacto proactivo con potenciales compradores | Cuando reply rate es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **trigger event** | cambio que aumenta probabilidad o urgencia de necesidad | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Prospección frente a marketing.** El marketing busca atraer a muchos con mensajes de marca y contenido; la prospección busca conversar con cuentas concretas. Funcionan mejor coordinados (clase 133 en adelante).
 
-**Frontera de aplicación:** La prospección debe respetar privacidad, consentimiento y normas anti-spam aplicables. Más datos disponibles no significan permiso para usarlos de cualquier manera.
+**Límites.** Las tasas de respuesta dependen del sector, del momento y de la calidad de la lista, y las pruebas con muestras pequeñas son poco concluyentes. El canal saliente puede desgastar mercados pequeños. Atribuir una venta a un solo canal es discutible, porque el comprador interactúa con varios. Los principios de influencia pueden usarse de forma manipuladora; aquí se plantean con honestidad. Las normas de comunicaciones comerciales y de datos deben verificarse en cada jurisdicción.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre prospección y generación de oportunidades |
+| Nivel | Cómo participa en la generación de oportunidades |
 |---|---|
-| **Profesional** | usa **prospección y generación de oportunidades** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **prospecting** y **trigger event** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta reply rate con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si prospección y generación de oportunidades cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de prospección y generación de oportunidades reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **prospección y generación de oportunidades** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Contacta con respeto, calidad de datos y mensajes verificables. |
+| **Jefe / Team Lead** | Entrena en mensajes, revisa las secuencias y la calificación. |
+| **Gerente** | Diseña la mezcla de canales y mide costo y conversión. |
+| **CEO / Director** | Protege la reputación de la empresa frente a prácticas agresivas. |
+| **Founder / Owner** | Empieza con conversaciones directas con su ICP antes de escalar canales. |
 
 ## 🏢 Caso ejecutivo
 
-Un SDR envía 5.000 correos genéricos y celebra 2% de apertura. Solo cuatro reuniones ocurren y ninguna cumple ICP.
+Una empresa de software de gestión para constructoras tiene un equipo de cuatro desarrolladores de oportunidades que envían 600 correos semanales con una plantilla única. La respuesta es de 0,8 %. Hace un mes, un cliente grande se quejó de recibir tres correos diferentes en una semana y la empresa fue reportada como spam en un proveedor de correo. El gerente comercial exige más volumen para llegar a la meta de reuniones; el gerente de marketing propone reforzar el contenido; el de producto, pedir referencias a clientes actuales. El asesor legal advierte que no está claro de dónde provienen algunas de las listas compradas.
 
-Entrega un **decision brief de prospección y generación de oportunidades** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de generación de oportunidades** que contenga: (a) la lista de cuentas por ICP y disparadores; (b) la mezcla de canales con costos esperados y métricas; (c) dos variantes de mensaje y el diseño de la prueba; (d) criterios de calificación acordados con ejecutivos de cuentas; (e) las medidas para reparar la reputación del dominio y los límites de frecuencia; (f) la revisión legal de las bases de datos y del tratamiento de bajas.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **prospección y generación de oportunidades** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. seleccionar cuentas por ICP → 2. buscar trigger y problema plausible → 3. redactar mensaje de relevancia → 4. usar cadencia limitada y respetuosa → 5. medir reply, meeting y opportunity rate** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta reply rate, meeting rate; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Arma una lista de 30 cuentas del ICP con un disparador observable para cada una.
+2. Redacta un primer mensaje de menos de 90 palabras con una hipótesis y un próximo paso.
+3. Define cinco criterios de calificación observables.
+4. Calcula el costo por oportunidad calificada y por cliente de dos canales.
+5. Escribe tus reglas de frecuencia y de manejo de solicitudes de no contacto.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar prospecting y trigger event como sinónimos | Se pierde la distinción entre “identificación y contacto proactivo con potenciales compradores” y “cambio que aumenta probabilidad o urgencia de necesidad” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “medir reply, meeting y opportunity rate” | Se saltó “seleccionar cuentas por ICP” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. seleccionar cuentas por ICP → 2. buscar trigger y problema plausible → 3. redactar mensaje de relevancia → 4. usar cadencia limitada y respetuosa → 5. medir reply, meeting y opportunity rate y marca el primer supuesto no demostrado. |
-| Optimizar solo reply rate | La métrica local sustituyó al resultado del sistema | Contrástala con meeting rate y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre prospección y generación de oportunidades | La prospección debe respetar privacidad, consentimiento y normas anti-spam aplicables. Más datos disponibles no significan permiso para usarlos de cualquier manera. |
-| No fijar revisión | Una decisión sobre prospección y generación de oportunidades se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Volumen sin relevancia | Se mide por actividad | Listas cortas con disparadores. |
+| Mensajes genéricos | Es más rápido | Personalización real y valor. |
+| Medir solo reuniones | Es lo visible | Medir costo por cliente. |
+| Una sola fuente | Es la que funciona hoy | Diversificar canales. |
+| Calificación vaga | Se evitan discusiones | Criterios observables y acordados. |
+| Ignorar el marco legal | Se piensa en resultados | Verificar bases y bajas antes de lanzar. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **prospecting** y **trigger event** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **account research** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **seleccionar cuentas por ICP → buscar trigger y problema plausible** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **reply rate** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **prospección y generación de oportunidades**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **La prospección debe respetar privacidad, consentimiento y normas anti-spam aplicables. Más datos disponibles no significan permiso para usarlos de cualquier manera.**?
+1. ¿Qué son semillas, redes y lanzas?
+2. ¿Qué caracteriza a un buen mensaje de primer contacto?
+3. ¿Por qué se calcula el costo por cliente además del costo por reunión?
+4. ¿Qué criterios sirven para calificar una oportunidad?
+5. ¿Qué riesgos tiene el canal saliente y cuáles el entrante?
+6. ¿Cómo se usan los principios de influencia con ética?
+7. ¿Qué dimensiones legales deben verificarse?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Tres tipos de iniciativa: semillas (clientes y referidos), redes (marketing y contenido) y lanzas (prospección dirigida a cuentas grandes).
+2. Es corto, específico, centrado en el destinatario, con una hipótesis de problema, algo de valor y un próximo paso pequeño.
+3. Porque canales con costo similar por reunión pueden tener conversiones muy distintas a cliente.
+4. Problema reconocido, impacto estimable, patrocinador, capacidad de inversión y horizonte de decisión, observables y acordados.
+5. El saliente puede desgastar la marca con mensajes genéricos; el entrante puede dar volumen sin calificar y depender de un canal.
+6. Con pruebas reales y verificables, sin inventar escasez ni presión, y respetando las señales del destinatario.
+7. Bases legales para tratar datos y contactar, derecho a no ser contactado, reglas para correos y llamadas comerciales y publicidad no engañosa.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/123-prospeccion-y-generacion-de-oportunidades/`:
 
-- `leadership-decision-brief.md` con el problema específico de **prospección y generación de oportunidades**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **prospección y generación de oportunidades** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **prospecting**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un SDR envía 5.000 correos genéricos y celebra 2% de apertura. Solo cuatro reuniones ocurren y ninguna cumple ICP.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan del caso ejecutivo;
+- `sales-pipeline.md` (plantilla [Sales pipeline](../../../../templates/sales-pipeline.md)) con las fuentes, los criterios de calificación y las métricas;
+- `decision-journal.md` con las pruebas de mensajes, las decisiones de canal y la revisión legal.
 
 ## 📗 Fuentes y verificación
 
-- Neil Rackham — *SPIN Selling* (Highbridge Audio, 1998). **Uso en esta clase:** venta consultiva basada en preguntas de situación, problema, implicación y necesidad. Lectura selectiva sobre **prospección y generación de oportunidades**. **Localizador:** [ISBN-13 9781565112605](https://openlibrary.org/isbn/9781565112605).
-- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** venta compleja, insight comercial, enseñanza y control constructivo del proceso. Lectura selectiva sobre **prospección y generación de oportunidades**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
-- Deepak Malhotra & Max H. Bazerman — *Negotiation Genius* (Tantor Media, 2007). **Uso en esta clase:** perspectiva de Negociación aplicada al problema de la clase. Lectura selectiva sobre **prospección y generación de oportunidades**. **Localizador:** [ISBN-13 9781400135400](https://openlibrary.org/isbn/9781400135400).
-- Aaron Ross & Marylou Tyler — *Predictable Revenue* (Pebblestorm, 2020). **Uso en esta clase:** perspectiva de Ventas aplicada al problema de la clase. Lectura selectiva sobre **prospección y generación de oportunidades**. **Localizador:** [ISBN-13 9780984380244](https://openlibrary.org/isbn/9780984380244).
-- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** mecanismos de influencia y sus límites éticos. Lectura selectiva sobre **prospección y generación de oportunidades**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **prospección y generación de oportunidades**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **prospección y generación de oportunidades** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **prospección y generación de oportunidades**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **prospección y generación de oportunidades** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **prospección y generación de oportunidades** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **prospección y generación de oportunidades** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Aaron Ross & Marylou Tyler — *Predictable Revenue* (Pebblestorm, 2020). **Uso en esta clase:** roles especializados y tipos de iniciativa de prospección. Lectura selectiva sobre **prospección y generación de oportunidades**. **Localizador:** [ISBN-13 9780984380244](https://openlibrary.org/isbn/9780984380244).
+- Mark Roberge — *The Sales Acceleration Formula* (2015). **Uso en esta clase:** medir por canal y optimizar con datos. Lectura selectiva sobre **prospección y generación de oportunidades**. **Localizador:** [ISBN-13 9781119047070](https://openlibrary.org/isbn/9781119047070).
+- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** principios de influencia y su uso ético. Lectura selectiva sobre **prospección y generación de oportunidades**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
+- Neil Rackham — *Major Account Sales Strategy* (McGraw-Hill, 1989). **Uso en esta clase:** calificar según el problema y el proceso de compra. Lectura selectiva sobre **prospección y generación de oportunidades**. **Localizador:** [ISBN-13 9780070511149](https://openlibrary.org/isbn/9780070511149).
+- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** aportar una idea nueva al comprador. Lectura selectiva sobre **prospección y generación de oportunidades**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
 
-> **Regla de fuentes para Prospección y generación de oportunidades:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **prospección y generación de oportunidades** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Prospección y generación de oportunidades:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de comunicaciones comerciales y de protección de datos personales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

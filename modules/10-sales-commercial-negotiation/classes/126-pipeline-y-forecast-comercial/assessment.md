@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **pipeline** de **coverage** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **forecast** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **commit** con **slippage**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué hace confiable a un pipeline?
+2. ¿Qué es la cobertura y qué ocurre si es alta con baja conversión?
+3. ¿Qué métodos de pronóstico se combinan?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un equipo muestra pipeline 5x cuota, pero 45% está estancado más de 90 días y las close dates se mueven cada fin de mes.
+**Caso:** Una empresa de software para el sector financiero ha fallado en su pronóstico trimestral en 35 % o más durante los últimos cinco trimestres. El vicepresidente comercial presenta cada trimestre un único número optimista; en el CRM, el 28 % de las oportunidades abiertas tiene fecha de cierre vencida, y los vendedores actualizan la información justo antes de la reunión de pronóstico. Dos negocios de USD 1,5 millones cada uno representan el 45 % del pronóstico del trimestre, y en ambos el comprador no ha agendado una reunión con el decisor económico. El directorio exige previsibilidad; el director financiero planifica la contratación según el pronóstico.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **limpiar stages por exit criteria → segmentar commit/best case/pipeline → usar historia y deal evidence → revisar aging y slippage → actualizar forecast sin proteger ego**. Debes utilizar o diseñar cómo obtener **forecast accuracy, pipeline coverage, stage aging**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **diseño de pipeline y pronóstico** que contenga: (a) los criterios de etapa por evidencia y las reglas de higiene del CRM; (b) el cálculo de conversiones y tiempos con los datos que necesitarías; (c) el pronóstico en rango con tres métodos y escenarios; (d) el tratamiento de los dos negocios concentrados; (e) la estructura de la revisión semanal y de la revisión de cabezas frías; (f) cómo se informará la precisión del pronóstico y qué decisiones de contratación y caja dependerán del rango. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Coverage no es universal: varía por win rate, ciclo y mix. No copies un ratio de otra empresa sin backtest de tu propio funnel.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las tasas de conversión son inestables con pocas oportunidades.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

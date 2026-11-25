@@ -10,217 +10,192 @@
 
 ## 🎯 Propósito
 
-La negociación basada en intereses separa posiciones de necesidades subyacentes y prepara BATNA, objetivos, criterios objetivos y zona posible de acuerdo. El poder no está solo en persuadir: una BATNA fuerte cambia capacidad de decir no. Crear valor y reclamar valor son tareas distintas.
+Negociar no es regatear. Cuando dos partes discuten un precio, una fecha o una cláusula, cada una defiende una **posición**, y el resultado depende de quién cede más; el acuerdo, si llega, suele ser mediocre y deja resentimiento. La negociación basada en intereses cambia la pregunta: en lugar de «¿cuánto cedo?», se pregunta «¿qué necesita cada parte de verdad y cómo se puede lograr que ambas queden mejor que sin acuerdo?». No es ingenuidad ni blandura: exige preparación, información, disciplina y, a veces, firmeza. Con ella, muchas negociaciones que parecían de suma cero revelan valor que se puede crear antes de repartirlo.
 
-La salida de esta parte es **construir ingresos mediante un proceso comercial medible y negociación disciplinada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **negociación basada en intereses** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el método de Fisher, Ury y Patton (*Getting to Yes*), en el análisis de Malhotra y Bazerman sobre la preparación y las decisiones en la negociación, en la escucha táctica de Voss y Raz y en la investigación de Galinsky y Mussweiler sobre el efecto de las primeras ofertas. Al terminar sabrás preparar una negociación (intereses, alternativas, rangos), explorar intereses del otro, generar opciones, usar criterios objetivos y decidir cuándo abandonar.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `position`, `interest`, `BATNA`, `reservation value`, `ZOPA` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. definir intereses propios y ajenos → 2. fortalecer BATNA → 3. establecer reservation y target → 4. crear opciones intercambiando diferencias → 5. usar criterios y cerrar términos completos** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** concessions, value captured, BATNA quality sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** posiciones de intereses y explorarlos.
+2. **Determinar** la mejor alternativa a un acuerdo negociado (BATNA) y el punto de reserva.
+3. **Generar** opciones que creen valor para ambas partes.
+4. **Usar** criterios objetivos y el efecto de anclaje con ética.
+5. **Decidir** cuándo cerrar, ajustar o retirarse.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define position y interest sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con concessions y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda una negociación en que cediste algo que no valoraba mucho y cuya contrapartida habría sido muy importante para ti. |
+| 20–60 min | Preparación, intereses, opciones, anclaje y criterios. |
+| 60–105 min | Ejemplo trabajado: negociación de un contrato anual de servicios. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **position** | demanda explícita que una parte presenta | Distingue un hecho compatible y otro que lo refute. |
-| **interest** | necesidad, restricción o preocupación detrás de una posición | Distingue un hecho compatible y otro que lo refute. |
-| **BATNA** | mejor alternativa disponible si no hay acuerdo | Distingue un hecho compatible y otro que lo refute. |
-| **reservation value** | límite a partir del cual es preferible la BATNA | Distingue un hecho compatible y otro que lo refute. |
-| **ZOPA** | zona donde los límites de ambas partes permiten acuerdo | Distingue un hecho compatible y otro que lo refute. |
+| **Posición** | Lo que una parte dice que quiere. | Un precio, una fecha, una cláusula. |
+| **Interés** | La necesidad, preocupación o prioridad que motiva una posición. | Se descubre preguntando por qué. |
+| **BATNA** | Mejor alternativa a un acuerdo negociado. | Qué haría la parte si no hubiera acuerdo. |
+| **Punto de reserva** | Peor resultado que una parte aceptaría antes de retirarse. | Se deriva de la BATNA. |
+| **ZOPA** | Zona de posible acuerdo entre los puntos de reserva. | Existe si los rangos se superponen. |
+| **Criterio objetivo** | Estándar independiente de la voluntad de las partes. | Precio de mercado, normas, precedentes. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 128: 1. definir intereses propios y ajenos → 2. fortalecer BATNA → 3. establecer reservation y target → 4. crear opciones intercambiando diferencias → 5. usar criterios y cerrar términos completos](modelo-mental.svg)
+![Posiciones, lo que se dice, frente a intereses, lo que se necesita, con la forma de moverse de uno a otro.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir intereses propios y ajenos → 2. fortalecer BATNA → 3. establecer reservation y target → 4. crear opciones intercambiando diferencias → 5. usar criterios y cerrar términos completos
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **La negociación basada en intereses separa posiciones de necesidades subyacentes y prepara BATNA, objetivos, criterios objetivos y zona posible de acuerdo. El poder no está solo en persuadir: una BATNA fuerte cambia capacidad de decir no. Crear valor y reclamar valor son tareas distintas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Cooperación no elimina tácticas duras ni asimetrías. Protege tu BATNA, verifica autoridad y documenta términos; buena relación no sustituye preparación.**
+**Cómo leer el diagrama.** Dos paneles. A la izquierda, las **posiciones**: lo que cada parte dice que quiere, que se defienden y que suelen leerse como reparto fijo (lo que gana uno lo pierde el otro). A la derecha, los **intereses**: lo que de verdad se necesita, que se pueden explorar con preguntas y combinar porque las partes valoran cosas distintas. La nota recoge el método de Fisher y Ury: separar a las personas del problema, atender a intereses, generar opciones y usar criterios objetivos, con una BATNA clara.
 
 ## 📖 Desarrollo
 
-### 1. position: mecanismo central
+### 1. Posiciones e intereses
 
-**position** se entiende aquí como **demanda explícita que una parte presenta**. Esta es la pieza causal o estructural desde la que se inicia **negociación basada en intereses**: antes de definir intereses propios y ajenos, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Fisher, Ury y Patton ilustran con un ejemplo clásico: dos personas discuten por una naranja; ambas la quieren; la dividen por la mitad; una usa la cáscara para un pastel y la otra el jugo para beber. La posición (la naranja) ocultaba intereses compatibles. En negocios, un cliente que exige un descuento de 15 % puede necesitar un precio que cabe en su presupuesto, una forma de justificar la compra ante su comité, previsibilidad de costos o una señal de que el proveedor valora la relación. Cada interés abre soluciones distintas: pagos escalonados, contratos plurianuales, servicios adicionales, referencia pública.
 
-La lectura rectora de este bloque es Neil Rackham — *SPIN Selling*. Su aporte se usa para examinar **venta consultiva basada en preguntas de situación, problema, implicación y necesidad**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **concessions**; regístrala con periodo, unidad, población y baseline.
+### 2. Preparación
 
-Relaciona el mecanismo con **interest**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Malhotra y Bazerman enfatizan que gran parte del resultado se decide **antes** de sentarse: conocer los propios **intereses y prioridades** (qué importa más y menos), la **BATNA** (si el cliente no compra, ¿qué alternativa tengo? ¿cuánto vale?), el **punto de reserva**, los **intereses probables del otro** y su BATNA, la **zona de posible acuerdo**, y **opciones** para crear valor. Una BATNA fuerte da poder y serenidad; una débil se mejora antes de negociar (por ejemplo, desarrollando otras oportunidades). Un error común es confundir la **meta** con la reserva: se acepta un resultado peor que la meta pero mejor que la BATNA.
 
-### 2. interest: frontera conceptual y error de clasificación
+### 3. Explorar intereses
 
-**Definición operacional:** necesidad, restricción o preocupación detrás de una posición. Su valor está en distinguirlo de **position** y **BATNA**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Se exploran con preguntas abiertas y escucha: «¿Qué es lo más importante para ustedes en este acuerdo?», «¿Qué los preocuparía si firmáramos con estas condiciones?», «¿Qué ocurre si no llegamos a un acuerdo?». Voss y Raz proponen **preguntas calibradas** («¿cómo podemos hacer que esto funcione para ambos?») que invitan al otro a resolver el problema, y **etiquetas** que reconocen emociones («parece que el plazo es muy importante para ustedes»). Se comparte información de forma selectiva y recíproca: dar un interés a cambio de recibir otro suele abrir intercambios; revelar el punto de reserva, no.
 
-Contrasta el problema con Matthew Dixon & Brent Adamson — *The Challenger Sale*, que aporta una mirada sobre **venta compleja, insight comercial, enseñanza y control constructivo del proceso**. Formula dos mini-casos: uno que sí satisface la definición de **interest** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **value captured** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Crear valor antes de repartirlo
 
-Antes de fortalecer batna, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Las partes valoran de forma diferente distintos aspectos (precio, plazo, volumen, servicio, riesgo, relación, flexibilidad). Esas **diferencias** permiten intercambios en que cada una cede lo que le cuesta poco y obtiene lo que le importa mucho: el comprador necesita pagar a 90 días y no le importa el plazo de entrega; el vendedor necesita caja pronto pero tiene capacidad para entregar con holgura. **Paquetes** de varias condiciones a la vez (en lugar de negociar una a una) facilitan estos intercambios. Antes de repartir lo que hay, se busca ampliar la torta, siempre con atención a que la creación de valor no sea una excusa para no defender el propio interés.
 
-### 3. BATNA: operacionalización y medición
+### 5. Anclaje y primeras ofertas
 
-**BATNA** significa **mejor alternativa disponible si no hay acuerdo**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Galinsky y Mussweiler mostraron que las **primeras ofertas** actúan como anclas: influyen en el resultado final, y quien las hace con información sólida suele obtener mejores resultados; pero quienes se enfocan en la BATNA y los intereses del otro resisten mejor los efectos de un ancla ajena. Reglas prácticas: **preparar** el rango antes; **abrir** con una oferta ambiciosa pero defendible con criterios (no insultante); **contrarrestar** un ancla ajena con la BATNA, con criterios y con una contraoferta fundada, sin discutir sobre el número. Un ancla sin fundamento erosiona la credibilidad.
 
-Robert B. Cialdini — *Influence* orienta este bloque mediante **mecanismos de influencia y sus límites éticos**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **BATNA quality**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Criterios objetivos y relación
 
-Al llegar a establecer reservation y target, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Para evitar disputas de voluntades, se buscan **criterios independientes**: precios de mercado, comparables, costos, normas del sector, precedentes, opiniones de expertos. «No es mi voluntad contra la tuya: veamos qué dicen las referencias». Fisher y Ury también recomiendan **separar a las personas del problema**: ser blando con las personas y duro con el problema; reconocer emociones, evitar atribuir mala intención, mantener la relación. En negociaciones repetidas, la reputación es un activo: un acuerdo ganado con engaño o presión puede costar futuras oportunidades.
 
-### 4. reservation value: trade-offs y efectos de segundo orden
+### 7. Cerrar o retirarse
 
-**Definición:** límite a partir del cual es preferible la BATNA. Este concepto obliga a abandonar la idea de que **negociación basada en intereses** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de crear opciones intercambiando diferencias, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* aporta una lente sobre **negociación basada en intereses, opciones y criterios objetivos**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **issues traded** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **negociación basada en intereses**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **reservation value** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. ZOPA: gobernanza, límites e integración
-
-**ZOPA** se define como **zona donde los límites de ambas partes permiten acuerdo** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Deepak Malhotra & Max H. Bazerman — *Negotiation Genius* se utiliza para estudiar **perspectiva de Negociación aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar usar criterios y cerrar términos completos, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Cooperación no elimina tácticas duras ni asimetrías. Protege tu BATNA, verifica autoridad y documenta términos; buena relación no sustituye preparación.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **position**, **interest**, **BATNA**, **reservation value** y **ZOPA** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **negociación basada en intereses** no consiste en sumar cinco definiciones. Empieza por **position**, contrasta **interest** con **BATNA**, incorpora **reservation value** como restricción o mecanismo y usa **ZOPA** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir intereses propios y ajenos → 2. fortalecer BATNA → 3. establecer reservation y target → 4. crear opciones intercambiando diferencias → 5. usar criterios y cerrar términos completos**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Se cierra cuando el acuerdo es **mejor que la BATNA**, respeta los intereses esenciales y es **implementable** (claro, con responsables y plazos). Se verifica que lo acordado sea **entendido igual** por ambos y se documenta. Si no hay ZOPA o el precio de acordar es peor que la alternativa, **retirarse** es una decisión racional; hacerlo con respeto deja la puerta abierta. Se evitan las trampas: **escalada del compromiso** (seguir porque ya se invirtió tiempo), **maldición del ganador** (ganar demasiado fácil indica que se pudo pedir más), **presión del tiempo** impuesta por el otro como táctica. Los contratos resultantes se revisan con asesoría legal.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Neil Rackham — *SPIN Selling* | venta consultiva basada en preguntas de situación, problema, implicación y necesidad | ¿Qué supuesto de **negociación basada en intereses** ayuda a desafiar? |
-| Matthew Dixon & Brent Adamson — *The Challenger Sale* | venta compleja, insight comercial, enseñanza y control constructivo del proceso | ¿Qué supuesto de **negociación basada en intereses** ayuda a desafiar? |
-| Robert B. Cialdini — *Influence* | mecanismos de influencia y sus límites éticos | ¿Qué supuesto de **negociación basada en intereses** ayuda a desafiar? |
-| Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* | negociación basada en intereses, opciones y criterios objetivos | ¿Qué supuesto de **negociación basada en intereses** ayuda a desafiar? |
-| Deepak Malhotra & Max H. Bazerman — *Negotiation Genius* | perspectiva de Negociación aplicada al problema de la clase | ¿Qué supuesto de **negociación basada en intereses** ayuda a desafiar? |
-
-En **negociación basada en intereses**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **position**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Fisher, Ury y Patton | Intereses, opciones, criterios objetivos y BATNA. | Menos ayuda ante contrapartes de mala fe o con poder abrumador. | ¿Cuál es tu BATNA y la de ellos? |
+| Malhotra y Bazerman | Preparación y errores de decisión en negociación. | Exige trabajo previo. | ¿Qué sesgo puede afectarte? |
+| Voss y Raz | Escucha táctica y preguntas calibradas. | Origen en contextos de alta tensión. | ¿Qué emoción hay detrás de la posición? |
+| Galinsky y Mussweiler (2001) | Efecto de las primeras ofertas y cómo mitigarlo. | Estudios con situaciones experimentales. | ¿Quién hace la primera oferta y con qué base? |
+| Cialdini | Influencia y reciprocidad. | No es un método de negociación. | ¿Qué concesión puede obtener reciprocidad? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un cliente exige 20% de descuento. El proveedor descubre que valora más la fecha de inicio y el plazo de pago que el precio nominal, abriendo intercambios sin regalar margen.
+**Situación (hipotética).** Una empresa de limpieza industrial renueva su contrato anual con una cadena de clínicas. El contrato vigente es de USD 480.000 al año. El comprador pide una rebaja de 12 % (USD 422.400). Los costos del vendedor: USD 396.000; su margen es de 17,5 %.
 
-**Paso 1 — definir intereses propios y ajenos.** La gerencia escribe primero el supuesto asociado a **position** y evita convertirlo en hecho. Luego busca **concessions** para contrastarlo en el caso de **negociación basada en intereses**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Preparación del vendedor.**
 
-**Paso 2 — fortalecer BATNA.** La gerencia escribe primero el supuesto asociado a **interest** y evita convertirlo en hecho. Luego busca **value captured** para contrastarlo en el caso de **negociación basada en intereses**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Elemento | Análisis |
+|---|---|
+| Intereses del vendedor | Mantener el cliente (representa 8 % de sus ingresos), margen sobre 12 %, previsibilidad de caja, referencia pública. |
+| BATNA del vendedor | Reemplazar parte del volumen con dos clientes en conversación; probable menor ingreso durante seis meses. |
+| Punto de reserva | USD 440.000 al año (margen de 10 %). |
+| Intereses probables del comprador | Reducir costos, simplificar la gestión, evitar fallas en las clínicas, demostrar ahorro a su gerencia. |
+| BATNA del comprador | Licitar con otros dos proveedores; costo de cambiar: seis semanas y riesgo de transición. |
 
-**Paso 3 — establecer reservation y target.** La gerencia escribe primero el supuesto asociado a **BATNA** y evita convertirlo en hecho. Luego busca **BATNA quality** para contrastarlo en el caso de **negociación basada en intereses**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Conversación.** El vendedor pregunta qué hay detrás de la rebaja: la gerencia exige reducir los gastos de servicios en 10 %, el contrato se paga mensual a 60 días y la clínica más grande sufrió un incidente por un retraso en limpieza de quirófanos.
 
-**Paso 4 — crear opciones intercambiando diferencias.** La gerencia escribe primero el supuesto asociado a **reservation value** y evita convertirlo en hecho. Luego busca **issues traded** para contrastarlo en el caso de **negociación basada en intereses**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Opciones creadas.** (a) Contrato de tres años con precio base de USD 456.000 (-5 %) y reajuste atado a un índice; (b) pago a 30 días en lugar de 60, que cuesta al vendedor unos USD 3.000 de financiamiento al año (8 %); (c) reducción de frecuencia en áreas administrativas (ahorro de USD 22.000) con refuerzo en áreas críticas (costo USD 10.000); (d) un acuerdo de nivel de servicio con auditorías conjuntas y un indicador de cumplimiento para áreas críticas; (e) autorización para citar al cliente como referencia.
 
-**Paso 5 — usar criterios y cerrar términos completos.** La gerencia escribe primero el supuesto asociado a **ZOPA** y evita convertirlo en hecho. Luego busca **post-deal implementation** para contrastarlo en el caso de **negociación basada en intereses**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Paquete acordado.** Tres años; USD 450.000 anuales (reducción de 6,25 %); pago a 30 días; frecuencia ajustada; SLA con indicadores; referencia pública. El comprador logra un ahorro de USD 30.000 y mejor control de calidad; el vendedor asegura tres años, mantiene un margen cercano a 14 % (con la frecuencia ajustada su costo baja a unos USD 384.000) y gana una referencia valiosa.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **negociación basada en intereses**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Criterios objetivos.** Un benchmark de costos por metro cuadrado de limpieza hospitalaria validó el nuevo precio.
+
+**Qué muestra.** (1) La posición del 12 % escondía un objetivo de ahorro global. (2) Las diferencias de prioridades permitieron un paquete. (3) La BATNA y el criterio objetivo protegieron el precio.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **position** | demanda explícita que una parte presenta | Cuando concessions es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **interest** | necesidad, restricción o preocupación detrás de una posición | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Negociación por intereses frente a negociación distributiva.** La distributiva reparte un valor fijo y los intereses ayudan menos; la integrativa busca crear valor. La mayoría de las negociaciones tiene elementos de ambas: se crea valor y luego se reparte.
 
-**Frontera de aplicación:** Cooperación no elimina tácticas duras ni asimetrías. Protege tu BATNA, verifica autoridad y documenta términos; buena relación no sustituye preparación.
+**Límites.** El método supone contrapartes con voluntad mínima de colaborar; frente a tácticas coercitivas o de mala fe, se necesitan otras defensas (BATNA, terceros, retirada). Las diferencias culturales afectan el estilo, la franqueza y la importancia de la relación. La evidencia de Galinsky y Mussweiler proviene de experimentos y puede variar en contextos reales. Los acuerdos finales son contratos con efectos legales, tributarios y de competencia que se revisan con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre negociación basada en intereses |
+| Nivel | Cómo negocia por intereses |
 |---|---|
-| **Profesional** | usa **negociación basada en intereses** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **position** y **interest** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta concessions con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si negociación basada en intereses cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de negociación basada en intereses reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **negociación basada en intereses** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Se prepara, pregunta y registra los intereses del otro. |
+| **Jefe / Team Lead** | Negocia con colegas y proveedores creando valor. |
+| **Gerente** | Define la BATNA y los límites de su equipo y negocia paquetes. |
+| **CEO / Director** | Negocia acuerdos clave y protege la reputación de la empresa. |
+| **Founder / Owner** | Mejora su BATNA antes de negociar y no cede por urgencia de caja. |
 
 ## 🏢 Caso ejecutivo
 
-Un cliente exige 20% de descuento. El proveedor descubre que valora más la fecha de inicio y el plazo de pago que el precio nominal, abriendo intercambios sin regalar margen.
+Una empresa de energía solar para industrias negocia un contrato de 12 años con una planta de procesamiento de alimentos: instalación de paneles con financiamiento propio y venta de energía a un precio por kilovatio hora. El comprador exige un precio 18 % inferior al de la oferta, plazo de salida sin costo a los tres años y que el vendedor asuma el riesgo de variación de la tarifa de red. El vendedor tiene capacidad de financiamiento limitada, otro proyecto grande en conversación con probabilidad de 40 %, y un competidor que acaba de ganar un contrato similar. El comprador, por su parte, enfrenta alzas de tarifa y una meta de sostenibilidad ante sus clientes internacionales.
 
-Entrega un **decision brief de negociación basada en intereses** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de negociación** que contenga: (a) los intereses y prioridades de ambas partes; (b) la BATNA y el punto de reserva de cada una, con la ZOPA estimada; (c) las opciones para crear valor y los paquetes que propondrías; (d) la estrategia de primera oferta y de respuesta a anclas; (e) los criterios objetivos que usarías; (f) las condiciones para retirarte y las verificaciones legales, regulatorias y tributarias necesarias.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **negociación basada en intereses** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir intereses propios y ajenos → 2. fortalecer BATNA → 3. establecer reservation y target → 4. crear opciones intercambiando diferencias → 5. usar criterios y cerrar términos completos** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta concessions, value captured; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Lista las posiciones y los intereses probables de la contraparte en una negociación actual.
+2. Define tu BATNA, tu punto de reserva y tu meta, y estima los de la otra parte.
+3. Diseña tres paquetes de condiciones que creen valor.
+4. Prepara una primera oferta con criterios que la respalden.
+5. Define las condiciones en que te retirarías.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar position y interest como sinónimos | Se pierde la distinción entre “demanda explícita que una parte presenta” y “necesidad, restricción o preocupación detrás de una posición” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “usar criterios y cerrar términos completos” | Se saltó “definir intereses propios y ajenos” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir intereses propios y ajenos → 2. fortalecer BATNA → 3. establecer reservation y target → 4. crear opciones intercambiando diferencias → 5. usar criterios y cerrar términos completos y marca el primer supuesto no demostrado. |
-| Optimizar solo concessions | La métrica local sustituyó al resultado del sistema | Contrástala con value captured y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre negociación basada en intereses | Cooperación no elimina tácticas duras ni asimetrías. Protege tu BATNA, verifica autoridad y documenta términos; buena relación no sustituye preparación. |
-| No fijar revisión | Una decisión sobre negociación basada en intereses se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Negociar posiciones | Es lo que se dice | Preguntar por intereses. |
+| No tener BATNA | No se prepara | Definir y mejorar la alternativa antes. |
+| Ceder primero | Se evita el conflicto | Intercambiar concesiones. |
+| Aceptar anclas sin respuesta | Se discute el número | Responder con criterios y alternativa. |
+| Revelar el punto de reserva | Se busca confianza | Compartir intereses, no reservas. |
+| Cerrar por presión de tiempo | Se teme perder | Verificar contra la BATNA. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **position** y **interest** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **BATNA** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir intereses propios y ajenos → fortalecer BATNA** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **concessions** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **negociación basada en intereses**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Cooperación no elimina tácticas duras ni asimetrías. Protege tu BATNA, verifica autoridad y documenta términos; buena relación no sustituye preparación.**?
+1. ¿Qué diferencia hay entre posición e interés?
+2. ¿Qué es la BATNA y qué papel cumple?
+3. ¿Qué es la ZOPA?
+4. ¿Cómo se crea valor en una negociación?
+5. ¿Qué efecto tienen las primeras ofertas y cómo se mitigan?
+6. ¿Para qué sirven los criterios objetivos?
+7. ¿Cuándo corresponde retirarse?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La posición es lo que se dice que se quiere; el interés es la necesidad o preocupación detrás.
+2. La mejor alternativa a un acuerdo negociado; define el punto de reserva y da poder y serenidad.
+3. La zona de posible acuerdo entre los puntos de reserva de las partes; existe si los rangos se superponen.
+4. Aprovechando diferencias de prioridad y valoración con intercambios y paquetes de condiciones.
+5. Actúan como anclas que influyen en el resultado; se mitigan preparando el rango, enfocándose en la BATNA y respondiendo con criterios y una contraoferta fundada.
+6. Para evitar choques de voluntades usando estándares independientes como precios de mercado, comparables y normas.
+7. Cuando el acuerdo posible es peor que la BATNA o no existe ZOPA.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/128-negociacion-basada-en-intereses/`:
 
-- `commercial-decision-brief.md` con el problema específico de **negociación basada en intereses**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **negociación basada en intereses** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **position**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un cliente exige 20% de descuento. El proveedor descubre que valora más la fecha de inicio y el plazo de pago que el precio nominal, abriendo intercambios sin regalar margen.** y el dato que podría invalidar la recomendación.
+- `commercial-decision-brief.md` (plantilla [Commercial decision brief](../../../../templates/commercial-decision-brief.md)) con el plan de negociación del caso ejecutivo;
+- `contract-type-selection-checklist.md` (plantilla [Contract type selection checklist](../../../../templates/contract-type-selection-checklist.md)) con las condiciones y el tipo de contrato propuesto;
+- `decision-journal.md` con la BATNA, los rangos y los criterios.
 
 ## 📗 Fuentes y verificación
 
-- Neil Rackham — *SPIN Selling* (Highbridge Audio, 1998). **Uso en esta clase:** venta consultiva basada en preguntas de situación, problema, implicación y necesidad. Lectura selectiva sobre **negociación basada en intereses**. **Localizador:** [ISBN-13 9781565112605](https://openlibrary.org/isbn/9781565112605).
-- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** venta compleja, insight comercial, enseñanza y control constructivo del proceso. Lectura selectiva sobre **negociación basada en intereses**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
-- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** mecanismos de influencia y sus límites éticos. Lectura selectiva sobre **negociación basada en intereses**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Deepak Malhotra & Max H. Bazerman — *Negotiation Genius* (Tantor Media, 2007). **Uso en esta clase:** perspectiva de Negociación aplicada al problema de la clase. Lectura selectiva sobre **negociación basada en intereses**. **Localizador:** [ISBN-13 9781400135400](https://openlibrary.org/isbn/9781400135400).
-- Mark Roberge — *The Sales Acceleration Formula* (2015). **Uso en esta clase:** perspectiva de Ventas aplicada al problema de la clase. Lectura selectiva sobre **negociación basada en intereses**. **Localizador:** [ISBN-13 9781119047070](https://openlibrary.org/isbn/9781119047070).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **negociación basada en intereses** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **negociación basada en intereses**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **negociación basada en intereses** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **negociación basada en intereses** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **negociación basada en intereses** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** intereses, opciones, criterios objetivos y BATNA. Lectura selectiva sobre **negociación basada en intereses**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
+- Deepak Malhotra & Max H. Bazerman — *Negotiation Genius* (Tantor Media, 2007). **Uso en esta clase:** preparación y errores de decisión en negociación. Lectura selectiva sobre **negociación basada en intereses**. **Localizador:** [ISBN-13 9781400135400](https://openlibrary.org/isbn/9781400135400).
+- Chris Voss & Tahl Raz — *Never Split the Difference* (Penguin Random House, 2016). **Uso en esta clase:** escucha táctica y preguntas calibradas. Lectura selectiva sobre **negociación basada en intereses**. **Localizador:** [ISBN-13 9781847941480](https://openlibrary.org/isbn/9781847941480).
+- Adam D. Galinsky & Thomas Mussweiler — *First offers as anchors: The role of perspective-taking and negotiator focus* (Journal of Personality and Social Psychology, 2001). **Uso en esta clase:** efecto de las primeras ofertas como anclas. Lectura selectiva sobre **negociación basada en intereses**. **Localizador:** [DOI 10.1037/0022-3514.81.4.657](https://doi.org/10.1037/0022-3514.81.4.657).
+- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** influencia y reciprocidad. Lectura selectiva sobre **negociación basada en intereses**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
 
-> **Regla de fuentes para Negociación basada en intereses:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **negociación basada en intereses** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Negociación basada en intereses:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas regulatorias, tributarias y de competencia aplicables a los acuerdos. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

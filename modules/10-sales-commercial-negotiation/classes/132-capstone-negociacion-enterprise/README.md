@@ -10,217 +10,196 @@
 
 ## 🎯 Propósito
 
-La negociación enterprise integra discovery, value case, multi-stakeholder, pricing, BATNA, términos y governance. El capstone exige preparar una negociación completa y decidir qué no conceder, qué intercambiar y cuándo retirarse.
+Una venta enterprise reúne todos los desafíos comerciales a la vez: un comité de compra con intereses distintos, un ciclo largo, un valor alto, un proceso formal de seguridad, legal y compras, competidores que presentan alternativas y un acuerdo que atará a ambas partes por años. Ganar al usuario no basta si finanzas, seguridad o legal bloquean; ganar el precio no sirve si el contrato impone riesgos que la empresa no puede asumir. La negociación enterprise exige ordenar las herramientas de la parte en una secuencia coherente: elegir a quién vender, entender al comité, construir un caso que el comprador pueda defender, negociar con intereses y alternativas, resolver riesgos y cerrar con un plan mutuo.
 
-La salida de esta parte es **construir ingresos mediante un proceso comercial medible y negociación disciplinada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: negociación enterprise** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Este capstone integra la parte 10 y se apoya en Rackham, Dixon y Adamson, Fisher, Ury y Patton, Malhotra y Bazerman, Nagle, Hogan y Zale, Voss y Raz y Roberge. Al terminar sabrás conducir una negociación enterprise de punta a punta: diagnosticar la cuenta, planificar la estrategia, presentar el caso, manejar objeciones y concesiones, gestionar el contrato y asegurar la puesta en marcha.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `negotiation plan`, `economic buyer`, `give-get`, `redline`, `walk-away` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. mapear intereses y autoridad → 2. cuantificar business case → 3. definir BATNA, target y redlines → 4. ordenar paquetes y give-gets → 5. negociar, documentar y validar implementación** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** discount, contract term, payment terms sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Mapear** el comité de compra, sus intereses y su proceso de decisión.
+2. **Construir** un plan de cuenta con propuesta de valor, business case y estrategia de negociación.
+3. **Negociar** precio, alcance y condiciones con BATNA, concesiones y paquetes.
+4. **Gestionar** objeciones y riesgos de seguridad, legales y de compras.
+5. **Cerrar** con un plan mutuo y preparar la puesta en marcha.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define negotiation plan y economic buyer sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con discount y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ordena las diez primeras preguntas que harías antes de enviar un precio a una cuenta enterprise. |
+| 20–60 min | Secuencia, comité, estrategia de negociación y gestión de riesgos. |
+| 60–105 min | Ejemplo trabajado: negociación de un contrato de USD 2,4 millones. |
+| 105–150 min | Caso ejecutivo integrado. |
+| 150–175 min | Rúbrica, límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **negotiation plan** | documento con intereses, BATNA, targets, issues y estrategia | Distingue un hecho compatible y otro que lo refute. |
-| **economic buyer** | rol con autoridad económica final según contexto | Distingue un hecho compatible y otro que lo refute. |
-| **give-get** | concesión condicionada a recibir valor equivalente o estratégico | Distingue un hecho compatible y otro que lo refute. |
-| **redline** | condición contractual o económica que no se acepta | Distingue un hecho compatible y otro que lo refute. |
-| **walk-away** | decisión de usar BATNA cuando el acuerdo cae bajo límite | Distingue un hecho compatible y otro que lo refute. |
+| **Comité de compra** | Conjunto de personas que influyen o deciden una compra grande. | Cada una con interés y poder distintos. |
+| **Plan de cuenta enterprise** | Estrategia por cuenta: valor, relaciones, riesgos, competidores y acciones. | Se actualiza cada semana. |
+| **Paquete de negociación** | Conjunto de condiciones acordadas a la vez. | Permite intercambios entre intereses. |
+| **BATNA y punto de reserva** | Alternativa y límite de cada parte. | Se definen antes de negociar. |
+| **Matriz de riesgos del acuerdo** | Lista de riesgos con dueño, mitigación y condiciones. | Alimenta el contrato. |
+| **Plan de cierre mutuo** | Pasos de ambas partes hasta la firma con fechas y evidencias. | Se revisa semanalmente. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 132: 1. mapear intereses y autoridad → 2. cuantificar business case → 3. definir BATNA, target y redlines → 4. ordenar paquetes y give-gets → 5. negociar, documentar y validar implementación](modelo-mental.svg)
+![Negociación enterprise en cinco pasos: mapear al comité, construir el caso, negociar, gestionar riesgo y contrato, y cerrar y activar, con retorno al plan de cuenta.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear intereses y autoridad → 2. cuantificar business case → 3. definir BATNA, target y redlines → 4. ordenar paquetes y give-gets → 5. negociar, documentar y validar implementación
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **La negociación enterprise integra discovery, value case, multi-stakeholder, pricing, BATNA, términos y governance. El capstone exige preparar una negociación completa y decidir qué no conceder, qué intercambiar y cuándo retirarse.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Ganar una negociación que crea un contrato inviable destruye valor. Comercial, finanzas, legal y delivery deben compartir límites antes de la mesa.**
+**Cómo leer el diagrama.** Cinco pasos que remiten a las clases de la parte. **Mapear al comité** (122, 124) define quién decide, influye, bloquea y paga. **Construir el caso** (125) pone números del cliente. **Negociar** (128, 129) maneja intereses, alternativas, concesiones y precio. **Gestionar riesgo y contrato** (127) resuelve objeciones, seguridad y aspectos legales. **Cerrar y activar** (130, 131) acuerda el plan de cierre y arranca con valor temprano. La flecha de retorno indica que lo negociado alimenta el plan de la cuenta.
 
 ## 📖 Desarrollo
 
-### 1. negotiation plan: mecanismo central
+### 1. Mapear el comité y el proceso
 
-**negotiation plan** se entiende aquí como **documento con intereses, BATNA, targets, issues y estrategia**. Esta es la pieza causal o estructural desde la que se inicia **capstone: negociación enterprise**: antes de mapear intereses y autoridad, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+El primer trabajo es entender **quién decide qué** (clase 124). Se identifican: **patrocinador** (quien tiene el problema y el presupuesto), **decisor económico**, **usuarios**, **influyentes técnicos**, **seguridad**, **legal**, **compras**, **finanzas** y posibles **bloqueadores**, con sus preocupaciones y su relación con el vendedor. También el **proceso**: pasos, tiempos, documentos, calendario de comités. Rackham insiste en entender las dinámicas del comprador en cuentas grandes: la estrategia depende de a quién se debe convencer, de qué y en qué orden. Un mapa de poder y de interés evita invertir esfuerzo solo en los contactos más cómodos.
 
-La lectura rectora de este bloque es Neil Rackham — *SPIN Selling*. Su aporte se usa para examinar **venta consultiva basada en preguntas de situación, problema, implicación y necesidad**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **discount**; regístrala con periodo, unidad, población y baseline.
+### 2. Construir y validar el caso con el comprador
 
-Relaciona el mecanismo con **economic buyer**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Con el diagnóstico (124), se elabora la propuesta de valor y el business case con los números del cliente (125): costo del problema, beneficio en rangos, inversión total, riesgos, alternativas y retorno. Se **valida con el patrocinador** antes de presentarlo al comité y se adapta a cada rol: versión ejecutiva para finanzas, requisitos técnicos para TI, controles para seguridad, cláusulas para legal, condiciones para compras. Dixon y Adamson destacan la importancia de enseñar al comprador algo nuevo y de adaptar el mensaje a cada interlocutor; en comités, el mensaje debe ser coherente entre roles.
 
-### 2. economic buyer: frontera conceptual y error de clasificación
+### 3. Preparar la negociación
 
-**Definición operacional:** rol con autoridad económica final según contexto. Su valor está en distinguirlo de **negotiation plan** y **give-get**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Antes de negociar con compras o con el decisor, se prepara (clase 128): **intereses** de ambos, **BATNA** y **punto de reserva**, **zona de posible acuerdo**, **paquetes** de condiciones, **concesiones** valoradas por costo para el vendedor y valor para el comprador (clase 129), **piso de precio** y **criterios objetivos**. Se definen **roles** del equipo (quién lidera, quién escucha, quién aprueba concesiones), **autoridad** para decidir en la mesa y **qué se negocia primero** (a menudo, el alcance y el valor antes que el precio). Se planifica la **primera oferta** y la respuesta a anclas del comprador.
 
-Contrasta el problema con Matthew Dixon & Brent Adamson — *The Challenger Sale*, que aporta una mirada sobre **venta compleja, insight comercial, enseñanza y control constructivo del proceso**. Formula dos mini-casos: uno que sí satisface la definición de **economic buyer** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **contract term** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Negociar con paquetes, concesiones y criterios
 
-Antes de cuantificar business case, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+En la mesa se aplican las herramientas: **explorar intereses** con preguntas calibradas y etiquetas (Voss y Raz), **crear valor** con paquetes (por ejemplo, plazo de contrato más largo por precio unitario menor y pago anticipado por una cláusula de ajuste), **conceder con contrapartida**, **referirse a criterios objetivos** y **cuidar la relación**. Malhotra y Bazerman advierten sobre la **escalada**, la **maldición del ganador** y las **trampas de la urgencia**; la disciplina de la BATNA protege de ellas. Si el comprador presiona con un descuento inmediato, se responde reformulando intereses y alternativas, no cediendo.
 
-### 3. give-get: operacionalización y medición
+### 5. Riesgos de seguridad, legales y de compras
 
-**give-get** significa **concesión condicionada a recibir valor equivalente o estratégico**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+En el cierre enterprise, los temas más difíciles suelen ser **no comerciales**: seguridad de la información (cuestionarios, certificaciones, pruebas), **cláusulas** de responsabilidad, indemnización, propiedad de datos, niveles de servicio y penalidades, terminación y salida, protección de datos personales, subcontratistas y ubicación de datos. Se elabora una **matriz de riesgos** con dueño y mitigación, se adelantan los documentos y se negocian los puntos con abogados de ambas partes. Las **concesiones legales** (por ejemplo, limitar la responsabilidad) se evalúan por su efecto económico. Todo esto se revisa con asesoría legal y de seguridad de la empresa; esta clase no sustituye ese juicio.
 
-Chris Voss & Tahl Raz — *Never Split the Difference* orienta este bloque mediante **negociación táctica, escucha, calibración y manejo de información imperfecta**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **payment terms**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Cerrar y activar
 
-Al llegar a definir batna, target y redlines, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Se acuerda el **plan de cierre mutuo** (clase 130), con fechas y evidencias, y se pide la decisión con respeto. Antes de la firma se acuerdan también los **objetivos de éxito** del cliente, el **plan de implantación**, los **responsables** y el **valor temprano** (clase 131). El traspaso a implantación incluye todo lo aprendido: problema, intereses, riesgos, compromisos del contrato. Se documentan las promesas hechas en la venta: lo que se prometió se cumple. Un cierre que obliga al cliente a firmar algo que no entiende produce disputas más adelante.
 
-### 4. redline: trade-offs y efectos de segundo orden
+### 7. Aprender y mantener la relación
 
-**Definición:** condición contractual o económica que no se acepta. Este concepto obliga a abandonar la idea de que **capstone: negociación enterprise** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de ordenar paquetes y give-gets, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Mark Roberge — *The Sales Acceleration Formula* aporta una lente sobre **perspectiva de Ventas aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **risk clauses** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capstone: negociación enterprise**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **redline** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. walk-away: gobernanza, límites e integración
-
-**walk-away** se define como **decisión de usar BATNA cuando el acuerdo cae bajo límite** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing* se utiliza para estudiar **arquitectura de precios basada en valor, segmentación y respuesta competitiva** y contrastar la recomendación final. Al ejecutar negociar, documentar y validar implementación, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Ganar una negociación que crea un contrato inviable destruye valor. Comercial, finanzas, legal y delivery deben compartir límites antes de la mesa.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **negotiation plan**, **economic buyer**, **give-get**, **redline** y **walk-away** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: negociación enterprise** no consiste en sumar cinco definiciones. Empieza por **negotiation plan**, contrasta **economic buyer** con **give-get**, incorpora **redline** como restricción o mecanismo y usa **walk-away** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear intereses y autoridad → 2. cuantificar business case → 3. definir BATNA, target y redlines → 4. ordenar paquetes y give-gets → 5. negociar, documentar y validar implementación**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Tras el cierre, haya sido ganado o perdido, se hace una **revisión**: ¿qué hipótesis se confirmaron?, ¿qué sorprendió?, ¿qué concesiones valieron la pena?, ¿qué haríamos distinto?, ¿qué dijo el comprador sobre nuestra propuesta y sobre el competidor? Los negocios perdidos, con preguntas al comprador, enseñan más que los ganados. Los resultados alimentan el ICP (122), el pipeline (126), la política de precios (129) y el modelo de cuentas (131). La relación con un cliente enterprise comienza con la firma, no termina: se planifican revisiones de valor y el camino de expansión.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Neil Rackham — *SPIN Selling* | venta consultiva basada en preguntas de situación, problema, implicación y necesidad | ¿Qué supuesto de **capstone: negociación enterprise** ayuda a desafiar? |
-| Matthew Dixon & Brent Adamson — *The Challenger Sale* | venta compleja, insight comercial, enseñanza y control constructivo del proceso | ¿Qué supuesto de **capstone: negociación enterprise** ayuda a desafiar? |
-| Chris Voss & Tahl Raz — *Never Split the Difference* | negociación táctica, escucha, calibración y manejo de información imperfecta | ¿Qué supuesto de **capstone: negociación enterprise** ayuda a desafiar? |
-| Mark Roberge — *The Sales Acceleration Formula* | perspectiva de Ventas aplicada al problema de la clase | ¿Qué supuesto de **capstone: negociación enterprise** ayuda a desafiar? |
-| Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing* | arquitectura de precios basada en valor, segmentación y respuesta competitiva | ¿Qué supuesto de **capstone: negociación enterprise** ayuda a desafiar? |
-
-En **capstone: negociación enterprise**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **negotiation plan**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Rackham | Estrategia por cuenta y roles del comprador. | Enfoque de ventas grandes. | ¿Quién bloquea y por qué? |
+| Dixon y Adamson | Enseñar, adaptar y tomar el control del proceso. | Estudio en un conjunto de empresas. | ¿Qué enseñas a cada rol? |
+| Fisher, Ury y Patton | Intereses, opciones, criterios y BATNA. | Menos ayuda frente a mala fe. | ¿Cuál es tu alternativa? |
+| Malhotra y Bazerman | Preparación y trampas de la negociación. | Requiere disciplina. | ¿Qué trampa te acecha? |
+| Nagle, Hogan y Zale | Precio por valor y política de descuentos. | Necesita datos del cliente. | ¿Cuánto vale esto para ellos? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Negocias un contrato de 1,8 millones con una empresa que pide 18% de descuento, responsabilidad ilimitada, pago a 120 días y go-live en ocho semanas.
+**Situación (hipotética).** Una empresa de plataformas de análisis de datos negocia con un banco regional un contrato de tres años por USD 2,4 millones (USD 800.000 anuales). El banco tiene un comité de compra formado por: la directora de riesgo (patrocinadora), el gerente de TI (técnico), la jefa de seguridad (bloqueo potencial), compras (precio), legal y el gerente financiero (decisor económico). Un competidor global ofrece un precio 15 % menor.
 
-**Paso 1 — mapear intereses y autoridad.** La gerencia escribe primero el supuesto asociado a **negotiation plan** y evita convertirlo en hecho. Luego busca **discount** para contrastarlo en el caso de **capstone: negociación enterprise**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Mapa y plan.**
 
-**Paso 2 — cuantificar business case.** La gerencia escribe primero el supuesto asociado a **economic buyer** y evita convertirlo en hecho. Luego busca **contract term** para contrastarlo en el caso de **capstone: negociación enterprise**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Rol | Interés | Riesgo para la venta | Acción |
+|---|---|---|---|
+| Directora de riesgo | Reducir pérdidas por fraude; presentar resultados al directorio | Cambio de prioridades | Business case con sus datos; resultados a 6 meses |
+| Gerente de TI | No integrar con riesgo operativo | Complejidad de integración | Prueba técnica con datos reales |
+| Seguridad | Control de datos del banco | Rechazo por ubicación de datos | Opción de despliegue en la nube del banco; certificaciones |
+| Compras | Comparar precios, plazo de pago | Exige descuento | Paquete: plazo y volumen |
+| Legal | Limitar responsabilidad | Cláusulas de indemnización | Reunión de abogados temprana |
+| Gerente financiero | Retorno y presupuesto | Competidor más barato | Caso con VPN y riesgos |
 
-**Paso 3 — definir BATNA, target y redlines.** La gerencia escribe primero el supuesto asociado a **give-get** y evita convertirlo en hecho. Luego busca **payment terms** para contrastarlo en el caso de **capstone: negociación enterprise**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Business case.** Pérdidas actuales por fraude: USD 6 millones al año; reducción esperada de 8 % a 14 % (USD 480.000 a 840.000); ahorro de horas analistas USD 150.000; costo total del primer año: USD 1,1 millones (licencia, integración, cambio); años siguientes: USD 0,85 millones. El retorno es positivo desde el segundo año solo en el caso favorable (beneficio de unos USD 990.000 frente a un costo recurrente de USD 850.000); en el caso conservador el beneficio (USD 630.000) no cubre el costo recurrente, por lo que el piloto con criterios de éxito antes del despliegue completo es parte del acuerdo.
 
-**Paso 4 — ordenar paquetes y give-gets.** La gerencia escribe primero el supuesto asociado a **redline** y evita convertirlo en hecho. Luego busca **risk clauses** para contrastarlo en el caso de **capstone: negociación enterprise**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Preparación de negociación.** BATNA del vendedor: otros dos bancos en etapa temprana (probabilidad 30 %); punto de reserva: USD 2,1 millones en tres años, con margen del 38 %. BATNA del banco: contratar al competidor (15 % menos) con integración más costosa estimada en USD 300.000. Intereses del banco: precio, flexibilidad de salida, control de datos, responsabilidad por incidentes.
 
-**Paso 5 — negociar, documentar y validar implementación.** La gerencia escribe primero el supuesto asociado a **walk-away** y evita convertirlo en hecho. Luego busca **implementation commitments** para contrastarlo en el caso de **capstone: negociación enterprise**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Paquete acordado.** Tres años con precio de USD 2,3 millones (−4 %), con pagos anuales anticipados; cláusula de salida al mes 18 con penalidad decreciente; despliegue en la nube del banco con certificaciones; responsabilidad limitada a 2 veces las tarifas anuales con excepciones para incumplimientos de confidencialidad; SLA de disponibilidad 99,5 %; piloto de 90 días con criterios de éxito (reducción de falsos positivos) antes del despliegue completo; autorización de referencia pública tras el piloto.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: negociación enterprise**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Plan de cierre y activación.** Cierre a 38 días con pasos y evidencias; kickoff en 7 días tras la firma; resultados esperados a 90 y 180 días; revisión de valor trimestral.
+
+**Resultado.** El banco acepta; el precio se reduce 4 % en lugar de 15 %; el vendedor mantiene margen cercano a 40 %. Los dos puntos legales críticos se resolvieron en una reunión de abogados al día 12.
+
+**Qué muestra.** (1) El mapa de comité guió el plan. (2) El paquete creó valor para ambos y protegió el precio. (3) Los riesgos legales y de seguridad se trataron temprano.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **negotiation plan** | documento con intereses, BATNA, targets, issues y estrategia | Cuando discount es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **economic buyer** | rol con autoridad económica final según contexto | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Negociación enterprise frente a venta transaccional.** La enterprise exige más preparación, múltiples decisores y una relación de largo plazo; la transaccional se centra en volumen y eficiencia. Aplicar el estilo equivocado destruye valor.
 
-**Frontera de aplicación:** Ganar una negociación que crea un contrato inviable destruye valor. Comercial, finanzas, legal y delivery deben compartir límites antes de la mesa.
+**Límites.** Los comités y procesos varían entre organizaciones, y a veces están sujetos a reglas formales (licitaciones públicas, bancos regulados). Las estimaciones de valor y de riesgo tienen incertidumbre. El comportamiento de las contrapartes no es previsible. Las cifras del ejemplo son ilustrativas. Los contratos de esta magnitud involucran riesgos legales, regulatorios, tributarios y de datos que requieren asesoría especializada y normativa vigente.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: negociación enterprise |
+| Nivel | Cómo participa en una negociación enterprise |
 |---|---|
-| **Profesional** | usa **capstone: negociación enterprise** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **negotiation plan** y **economic buyer** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta discount con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: negociación enterprise cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: negociación enterprise reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: negociación enterprise** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta datos, pruebas técnicas y seguimiento de compromisos. |
+| **Jefe / Team Lead** | Coordina al equipo de cuenta y mantiene el plan. |
+| **Gerente** | Lidera la estrategia, las concesiones y la relación con el comité. |
+| **CEO / Director** | Se involucra con el nivel ejecutivo del cliente y respalda condiciones críticas. |
+| **Founder / Owner** | Sostiene la visión y el valor y evita aceptar contratos que ponen en riesgo a la empresa. |
 
 ## 🏢 Caso ejecutivo
 
-Negocias un contrato de 1,8 millones con una empresa que pide 18% de descuento, responsabilidad ilimitada, pago a 120 días y go-live en ocho semanas.
+Una empresa de tecnología para logística, con 300 empleados, negocia el contrato más grande de su historia: USD 9 millones en cinco años con una cadena de supermercados con 400 locales. El comité incluye al gerente de operaciones (patrocinador), el gerente de TI, el director financiero (decisor económico), el jefe de compras y el abogado general. El comprador exige: 20 % de descuento sobre la oferta, una garantía de resultados (reducción de 12 % del costo logístico) con multas por incumplimiento, responsabilidad ilimitada por interrupciones del servicio, derechos de auditoría y exclusividad de la solución en su sector durante tres años. El vendedor tiene capacidad para un solo proyecto de esta escala a la vez; su caja soportaría seis meses de retraso en pagos; un competidor global está en la lista corta. El gerente general quiere ganar a toda costa por el efecto de referencia.
 
-Entrega un **decision brief de capstone: negociación enterprise** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de negociación enterprise** que contenga: (a) el mapa del comité con intereses, poder y riesgos; (b) el business case con rangos y las alternativas del comprador; (c) la BATNA, el punto de reserva y los paquetes de negociación, con concesiones valoradas por costo y valor; (d) la respuesta a cada exigencia (descuento, garantía, responsabilidad, exclusividad), con intercambios y límites; (e) la matriz de riesgos del acuerdo y los puntos a derivar a asesoría legal; (f) el plan de cierre mutuo, la puesta en marcha y los criterios para retirarse.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: negociación enterprise** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear intereses y autoridad → 2. cuantificar business case → 3. definir BATNA, target y redlines → 4. ordenar paquetes y give-gets → 5. negociar, documentar y validar implementación** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta discount, contract term; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Mapea el comité de una cuenta real con intereses, poder y estrategia.
+2. Define tu BATNA, tu punto de reserva y tres paquetes de condiciones.
+3. Clasifica diez posibles concesiones por valor para el cliente y costo para ti.
+4. Construye una matriz de cinco riesgos del acuerdo con dueño y mitigación.
+5. Redacta el plan de cierre mutuo con fechas y evidencias.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar negotiation plan y economic buyer como sinónimos | Se pierde la distinción entre “documento con intereses, BATNA, targets, issues y estrategia” y “rol con autoridad económica final según contexto” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “negociar, documentar y validar implementación” | Se saltó “mapear intereses y autoridad” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear intereses y autoridad → 2. cuantificar business case → 3. definir BATNA, target y redlines → 4. ordenar paquetes y give-gets → 5. negociar, documentar y validar implementación y marca el primer supuesto no demostrado. |
-| Optimizar solo discount | La métrica local sustituyó al resultado del sistema | Contrástala con contract term y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: negociación enterprise | Ganar una negociación que crea un contrato inviable destruye valor. Comercial, finanzas, legal y delivery deben compartir límites antes de la mesa. |
-| No fijar revisión | Una decisión sobre capstone: negociación enterprise se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Vender solo al usuario | Es quien más cerca está | Mapear y convencer a todo el comité. |
+| Negociar solo precio | Es lo visible | Negociar paquetes con valor y riesgo. |
+| Dejar legal y seguridad para el final | Se subestiman | Adelantarlos y tratarlos como riesgos. |
+| Conceder sin contrapartida | Se teme perder | Condicionar y registrar. |
+| Ganar a toda costa | Presión por la referencia | Respetar el punto de reserva. |
+| No traspasar a la implantación | Se piensa que terminó | Plan de activación y valor temprano. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **negotiation plan** y **economic buyer** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **give-get** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear intereses y autoridad → cuantificar business case** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **discount** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: negociación enterprise**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Ganar una negociación que crea un contrato inviable destruye valor. Comercial, finanzas, legal y delivery deben compartir límites antes de la mesa.**?
+1. ¿Qué roles componen un comité de compra enterprise?
+2. ¿Qué se prepara antes de negociar?
+3. ¿Cómo se crea valor en un paquete de negociación?
+4. ¿Por qué se tratan temprano los temas de seguridad y legales?
+5. ¿Qué incluye una matriz de riesgos del acuerdo?
+6. ¿Qué debe acordarse antes de la firma para la puesta en marcha?
+7. ¿Qué límites tiene este enfoque?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Patrocinador, decisor económico, usuarios, influyentes técnicos, seguridad, legal, compras, finanzas y posibles bloqueadores.
+2. Intereses de ambos, BATNA y punto de reserva, zona de acuerdo, paquetes, concesiones valoradas, piso de precio y criterios objetivos.
+3. Aprovechando diferencias de prioridad con intercambios entre precio, plazo, volumen, servicio y riesgo.
+4. Porque suelen ser los puntos que bloquean el cierre y requieren tiempo y varias partes.
+5. Riesgos con dueño, mitigación y condiciones que se reflejan en el contrato.
+6. Objetivos de éxito, plan de implantación, responsables, valor temprano, comunicación y gobernanza.
+7. Los comités y procesos varían, a veces hay reglas formales, las estimaciones son inciertas y los contratos requieren asesoría especializada.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/132-capstone-negociacion-enterprise/`:
 
-- `commercial-decision-brief.md` con el problema específico de **capstone: negociación enterprise**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: negociación enterprise** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **negotiation plan**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Negocias un contrato de 1,8 millones con una empresa que pide 18% de descuento, responsabilidad ilimitada, pago a 120 días y go-live en ocho semanas.** y el dato que podría invalidar la recomendación.
+- `commercial-decision-brief.md` (plantilla [Commercial decision brief](../../../../templates/commercial-decision-brief.md)) con el plan de negociación del caso ejecutivo;
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con la matriz de riesgos del acuerdo;
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el business case y el efecto de las concesiones en el margen;
+- `decision-journal.md` con la BATNA, los paquetes, las concesiones y el plan de cierre.
 
 ## 📗 Fuentes y verificación
 
-- Neil Rackham — *SPIN Selling* (Highbridge Audio, 1998). **Uso en esta clase:** venta consultiva basada en preguntas de situación, problema, implicación y necesidad. Lectura selectiva sobre **capstone: negociación enterprise**. **Localizador:** [ISBN-13 9781565112605](https://openlibrary.org/isbn/9781565112605).
-- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** venta compleja, insight comercial, enseñanza y control constructivo del proceso. Lectura selectiva sobre **capstone: negociación enterprise**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
-- Chris Voss & Tahl Raz — *Never Split the Difference* (Penguin Random House, 2016). **Uso en esta clase:** negociación táctica, escucha, calibración y manejo de información imperfecta. Lectura selectiva sobre **capstone: negociación enterprise**. **Localizador:** [ISBN-13 9781847941480](https://openlibrary.org/isbn/9781847941480).
-- Mark Roberge — *The Sales Acceleration Formula* (2015). **Uso en esta clase:** perspectiva de Ventas aplicada al problema de la clase. Lectura selectiva sobre **capstone: negociación enterprise**. **Localizador:** [ISBN-13 9781119047070](https://openlibrary.org/isbn/9781119047070).
-- Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing* (Taylor & Francis Group, 1987). **Uso en esta clase:** arquitectura de precios basada en valor, segmentación y respuesta competitiva. Lectura selectiva sobre **capstone: negociación enterprise**. **Localizador:** [ISBN-13 9781315266220](https://openlibrary.org/isbn/9781315266220).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **capstone: negociación enterprise**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: negociación enterprise** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: negociación enterprise**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: negociación enterprise** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: negociación enterprise** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: negociación enterprise** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Neil Rackham — *Major Account Sales Strategy* (McGraw-Hill, 1989). **Uso en esta clase:** estrategia por cuenta y roles del comprador. Lectura selectiva sobre **capstone: negociación enterprise**. **Localizador:** [ISBN-13 9780070511149](https://openlibrary.org/isbn/9780070511149).
+- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** enseñar, adaptar y tomar el control del proceso. Lectura selectiva sobre **capstone: negociación enterprise**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
+- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** intereses, opciones, criterios y BATNA. Lectura selectiva sobre **capstone: negociación enterprise**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
+- Deepak Malhotra & Max H. Bazerman — *Negotiation Genius* (Tantor Media, 2007). **Uso en esta clase:** preparación y trampas de la negociación. Lectura selectiva sobre **capstone: negociación enterprise**. **Localizador:** [ISBN-13 9781400135400](https://openlibrary.org/isbn/9781400135400).
+- Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing* (Taylor & Francis Group, 1987). **Uso en esta clase:** precio por valor y política de descuentos. Lectura selectiva sobre **capstone: negociación enterprise**. **Localizador:** [ISBN-13 9781315266220](https://openlibrary.org/isbn/9781315266220).
 
-> **Regla de fuentes para Capstone: negociación enterprise:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: negociación enterprise** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capstone: negociación enterprise:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las cláusulas contractuales, la regulación sectorial y la protección de datos aplicables. Los ejemplos y casos son hipotéticos y no describen a ninguna empresa real. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **position** de **interest** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **BATNA** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **reservation value** con **ZOPA**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre posición e interés?
+2. ¿Qué es la BATNA y qué papel cumple?
+3. ¿Qué es la ZOPA?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un cliente exige 20% de descuento. El proveedor descubre que valora más la fecha de inicio y el plazo de pago que el precio nominal, abriendo intercambios sin regalar margen.
+**Caso:** Una empresa de energía solar para industrias negocia un contrato de 12 años con una planta de procesamiento de alimentos: instalación de paneles con financiamiento propio y venta de energía a un precio por kilovatio hora. El comprador exige un precio 18 % inferior al de la oferta, plazo de salida sin costo a los tres años y que el vendedor asuma el riesgo de variación de la tarifa de red. El vendedor tiene capacidad de financiamiento limitada, otro proyecto grande en conversación con probabilidad de 40 %, y un competidor que acaba de ganar un contrato similar. El comprador, por su parte, enfrenta alzas de tarifa y una meta de sostenibilidad ante sus clientes internacionales.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir intereses propios y ajenos → fortalecer BATNA → establecer reservation y target → crear opciones intercambiando diferencias → usar criterios y cerrar términos completos**. Debes utilizar o diseñar cómo obtener **concessions, value captured, BATNA quality**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de negociación** que contenga: (a) los intereses y prioridades de ambas partes; (b) la BATNA y el punto de reserva de cada una, con la ZOPA estimada; (c) las opciones para crear valor y los paquetes que propondrías; (d) la estrategia de primera oferta y de respuesta a anclas; (e) los criterios objetivos que usarías; (f) las condiciones para retirarte y las verificaciones legales, regulatorias y tributarias necesarias. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Cooperación no elimina tácticas duras ni asimetrías. Protege tu BATNA, verifica autoridad y documenta términos; buena relación no sustituye preparación.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: El método supone contrapartes con voluntad mínima de colaborar; frente a tácticas coercitivas o de mala fe, se necesitan otras defensas (BATNA, terceros, retirada).
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

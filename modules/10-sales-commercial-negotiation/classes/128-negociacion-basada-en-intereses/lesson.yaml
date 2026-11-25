@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 3 — Manager → Gerente"
 outcome: "construir ingresos mediante un proceso comercial medible y negociación disciplinada"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir position de interest mediante evidencia observable."
-  - "Aplicar la secuencia: definir intereses propios y ajenos → fortalecer BATNA → establecer reservation y target → crear opciones intercambiando diferencias → usar criterios y cerrar términos completos."
-  - "Interpretar concessions, value captured, BATNA quality sin atribuir causalidad automática."
-  - "Resolver el caso de negociación basada en intereses con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir posiciones de intereses y explorarlos."
+  - "Determinar la mejor alternativa a un acuerdo negociado (BATNA) y el punto de reserva."
+  - "Generar opciones que creen valor para ambas partes."
+  - "Usar criterios objetivos y el efecto de anclaje con ética."
+  - "Decidir cuándo cerrar, ajustar o retirarse."
 deliverable: "commercial-decision-brief.md"
 references:
-  - "Neil Rackham — *SPIN Selling*"
-  - "Matthew Dixon & Brent Adamson — *The Challenger Sale*"
-  - "Robert B. Cialdini — *Influence*"
   - "Roger Fisher, William Ury & Bruce Patton — *Getting to Yes*"
   - "Deepak Malhotra & Max H. Bazerman — *Negotiation Genius*"
-  - "Mark Roberge — *The Sales Acceleration Formula*"
+  - "Chris Voss & Tahl Raz — *Never Split the Difference*"
+  - "Adam D. Galinsky & Thomas Mussweiler — *First offers as anchors: The role of perspective-taking and negotiator focus*"
+  - "Robert B. Cialdini — *Influence*"
 limits:
-  - "Cooperación no elimina tácticas duras ni asimetrías. Protege tu BATNA, verifica autoridad y documenta términos; buena relación no sustituye preparación."
+  - "El método supone contrapartes con voluntad mínima de colaborar; frente a tácticas coercitivas o de mala fe, se necesitan otras defensas (BATNA, terceros, retirada)."
 evidence_signals:
-  - "concessions"
-  - "value captured"
-  - "BATNA quality"
-  - "issues traded"
-  - "post-deal implementation"
+  - "intereses de ambas partes explorados"
+  - "BATNA y punto de reserva definidos"
+  - "paquete que crea valor"
+  - "criterio objetivo y condición de retiro"

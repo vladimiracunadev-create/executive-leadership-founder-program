@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **ICP** de **segment** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **fit** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **disqualifier** con **TAM/SAM/SOM**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué es un ICP y de dónde se obtiene?
+2. ¿Qué es un segmento inicial y por qué conviene?
+3. ¿Qué características debe tener una segmentación útil?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una consultora persigue cualquier empresa con presupuesto TI. Sus mejores clientes comparten sistemas legados críticos, equipos internos pequeños y urgencia regulatoria, pero el CRM no captura esos atributos.
+**Caso:** Una empresa de seguridad informática para pymes tiene 900 clientes en 14 sectores y vende a empresas de 10 a 5.000 empleados. Cada vendedor aplica un guion distinto, el equipo ofrece descuentos para competir y el soporte está saturado con peticiones a medida. Un análisis muestra que el 18 % de los clientes genera el 62 % del margen, que los clientes de menos de 30 empleados se dan de baja al doble de la tasa promedio y que los de empresas de logística de 100 a 500 empleados, con una regulación reciente, tienen la mejor retención. La dirección comercial quiere «mantener todo el mercado»; la gerencia de producto, concentrarse en logística.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **analizar clientes ganados y perdidos → identificar atributos de éxito → definir ICP y disqualifiers → priorizar segmentos por valor y acceso → probar messaging y win rate**. Debes utilizar o diseñar cómo obtener **win rate by segment, CAC by segment, retention by segment**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega una **definición de ICP y segmentación** que contenga: (a) el análisis de clientes por retención, margen y ciclo con la hipótesis de ICP; (b) los segmentos evaluados con criterios y puntajes; (c) las personas de comprador, disparadores y descalificadores; (d) el segmento inicial y los de expansión, con la forma de atender a los demás; (e) cambios en mensajes, canales, precios y metas; (f) cómo se revisará con datos y qué verificaciones de datos personales y publicidad se harán. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Un ICP demasiado estrecho puede ocultar mercados emergentes. Reserva experimentos fuera del core y actualiza con datos, sin diluir el foco principal.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los datos de clientes actuales reflejan quién compró, no quién habría comprado con otra oferta.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

@@ -1,80 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g130 d-g130" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g130">Ficha visual de la clase 130: Cierre y próximos pasos</title>
-<desc id="d-g130">Conceptos: commitment; mutual action plan; procurement; close criteria; next step. Método: confirmar problema y valor → mapear pasos restantes → crear mutual action plan → resolver términos y aprobaciones → registrar cierre solo con evidencia definida.</desc>
-<defs><marker id="p-g130" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#8250df"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 130 · Cierre y próximos pasos</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 10 · Gestión de negocio</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#8250df"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >commitment</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >compromiso observable de la parte compradora</text>
-<circle cx="38" cy="170" r="5" fill="#8250df"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >mutual action plan</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >plan compartido de pasos, owners y fechas hacia</text>
-<text x="54" y="209.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >decisión</text>
-<circle cx="38" cy="242.12" r="5" fill="#8250df"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >procurement</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >proceso formal de compra</text>
-<circle cx="38" cy="300.12" r="5" fill="#8250df"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >close criteria</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >evidencia requerida para considerar ganado</text>
-<circle cx="38" cy="358.12" r="5" fill="#8250df"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >next step</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >acción calendarizada con dueño</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#8250df"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >confirmar problema</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >y valor</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#8250df"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >mapear pasos</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >restantes</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#8250df"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >crear mutual</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >action plan</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#8250df"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >resolver términos</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >y aprobaciones</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#8250df" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#8250df"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >registrar cierre</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >solo con evidencia</text>
-<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definida</text>
-<path d="M638,139 L656,139" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g130)"/>
-<path d="M826,139 L844,139" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g130)"/>
-<path d="M929,176 L929,222" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g130)"/>
-<path d="M844,259 L826,259" stroke="#8250df" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g130)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#8250df" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g130)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >verbal-to-contract</text>
-<rect x="188.2" y="442.12" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="201.2" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="212.2" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >contract cycle</text>
-<rect x="320.8" y="442.12" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="333.8" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="344.8" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >close date slippage</text>
-<rect x="487.9" y="442.12" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="500.9" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="511.9" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >next-step gaps</text>
-<rect x="620.5" y="442.12" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#8250df" stroke-width="1.2" />
-<circle cx="633.5" cy="455.12" r="3.5" fill="#8250df"/>
-<text x="644.5" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >won-to-live time</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No uses urgencia artificial o patrones de cierre manipulativos. Un cierre de mala calidad aumenta cancelación, disputa y churn.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 461.86" width="1040" role="img" aria-labelledby="t-s130 d-s130" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s130">Clase 130 · Un plan de cierre mutuo con fechas y evidencias</title>
+<desc id="d-s130">Pasos de un plan de cierre acordado con el comprador: qué, quién, cuándo y qué evidencia confirma que ocurrió.</desc>
+<defs><marker id="p-s130" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="461.86" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 130 · Un plan de cierre mutuo con fechas y evidencias</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Dixon &amp; Adamson (2011) · Rackham · Fisher, Ury &amp; Patton</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Paso</text>
+<text x="358.353" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Responsable</text>
+<text x="589.882" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Fecha</text>
+<text x="734.588" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Evidencia</text>
+<rect x="28" y="136" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Validación técnica con el equipo usuario</text>
+<text x="358.353" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Cliente y preventa</text>
+<text x="589.882" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Día 5</text>
+<text x="734.588" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Informe firmado.</text>
+<rect x="28" y="172.56" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Revisión de seguridad y cumplimiento</text>
+<text x="358.353" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Cliente (TI)</text>
+<text x="589.882" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Día 12</text>
+<text x="734.588" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Cuestionario cerrado.</text>
+<rect x="28" y="209.12" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="229.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Revisión legal del contrato</text>
+<text x="358.353" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Ambos abogados</text>
+<text x="589.882" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Día 20</text>
+<text x="734.588" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Versión sin cambios abiertos.</text>
+<rect x="28" y="245.68" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="265.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Aprobación del comité de compra</text>
+<text x="358.353" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Patrocinador</text>
+<text x="589.882" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Día 25</text>
+<text x="734.588" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Acta o correo de aprobación.</text>
+<rect x="28" y="282.24" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="302.24" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Firma y orden de compra</text>
+<text x="358.353" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Cliente y vendedor</text>
+<text x="589.882" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Día 30</text>
+<text x="734.588" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Documento firmado.</text>
+<rect x="28" y="334.8" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="356.8" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El cierre es la suma de próximos pasos acordados; si el comprador no se compromete a fechas ni a evidencias, la oportunidad</text>
+<text x="44" y="374.05" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >probablemente no está en la etapa que se cree.</text>
+<text x="28" y="421.3" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Las fechas se acuerdan con quien tiene autoridad real; un plan sin patrocinador no avanza.</text>
 </svg>

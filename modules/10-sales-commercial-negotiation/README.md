@@ -65,18 +65,18 @@ Las clases **131 y 132** cubren la relación posterior y cierran con el capstone
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 121 | [Ventas como sistema, no como improvisación](classes/121-ventas-como-sistema-no-como-improvisacion/README.md) | sales process, stage, exit criteria | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
-| 122 | [ICP y segmentación comercial](classes/122-icp-y-segmentacion-comercial/README.md) | ICP, segment, fit | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 123 | [Prospección y generación de oportunidades](classes/123-prospeccion-y-generacion-de-oportunidades/README.md) | prospecting, trigger event, account research | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 124 | [Discovery y diagnóstico](classes/124-discovery-y-diagnostico/README.md) | situation, problem, implication | [product-evidence-brief](../../templates/product-evidence-brief.md) | 150 |
-| 125 | [Propuesta de valor y business case](classes/125-propuesta-de-valor-y-business-case/README.md) | value proposition, business case, ROI | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 126 | [Pipeline y forecast comercial](classes/126-pipeline-y-forecast-comercial/README.md) | pipeline, coverage, forecast | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
-| 127 | [Objeciones y manejo de riesgo percibido](classes/127-objeciones-y-manejo-de-riesgo-percibido/README.md) | objection, concern, reframe | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 128 | [Negociación basada en intereses](classes/128-negociacion-basada-en-intereses/README.md) | position, interest, BATNA | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
-| 129 | [Pricing y concesiones](classes/129-pricing-y-concesiones/README.md) | list price, value-based pricing, discount | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
-| 130 | [Cierre y próximos pasos](classes/130-cierre-y-proximos-pasos/README.md) | commitment, mutual action plan, procurement | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 131 | [Account management, expansión y retención](classes/131-account-management-expansion-y-retencion/README.md) | adoption, renewal, expansion | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
-| 132 | [Capstone: negociación enterprise](classes/132-capstone-negociacion-enterprise/README.md) | negotiation plan, economic buyer, give-get | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 121 | [Ventas como sistema, no como improvisación](classes/121-ventas-como-sistema-no-como-improvisacion/README.md) | Sistema comercial, Embudo (funnel), Etapa basada en evidencia | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 122 | [ICP y segmentación comercial](classes/122-icp-y-segmentacion-comercial/README.md) | ICP (perfil de cliente ideal), Segmentación, Persona de comprador | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 123 | [Prospección y generación de oportunidades](classes/123-prospeccion-y-generacion-de-oportunidades/README.md) | Prospección, Oportunidad calificada, Canal saliente (outbound) | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 124 | [Discovery y diagnóstico](classes/124-discovery-y-diagnostico/README.md) | Discovery (diagnóstico), Pregunta de situación, Pregunta de problema | [product-evidence-brief](../../templates/product-evidence-brief.md) | 150 |
+| 125 | [Propuesta de valor y business case](classes/125-propuesta-de-valor-y-business-case/README.md) | Propuesta de valor, Valor económico para el cliente (EVC), Business case | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 126 | [Pipeline y forecast comercial](classes/126-pipeline-y-forecast-comercial/README.md) | Pipeline, Forecast comercial, Tasa de conversión histórica | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 127 | [Objeciones y manejo de riesgo percibido](classes/127-objeciones-y-manejo-de-riesgo-percibido/README.md) | Objeción, Riesgo percibido, Aversión a la pérdida | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 128 | [Negociación basada en intereses](classes/128-negociacion-basada-en-intereses/README.md) | Posición, Interés, BATNA | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 129 | [Pricing y concesiones](classes/129-pricing-y-concesiones/README.md) | Precio basado en valor, Precio por niveles (good-better-best), Ancla | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 130 | [Cierre y próximos pasos](classes/130-cierre-y-proximos-pasos/README.md) | Plan de cierre mutuo, Compromiso verificable, Señal de cortesía | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 131 | [Account management, expansión y retención](classes/131-account-management-expansion-y-retencion/README.md) | Gestión de cuentas, Salud de la cuenta, Retención | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 132 | [Capstone: negociación enterprise](classes/132-capstone-negociacion-enterprise/README.md) | Comité de compra, Plan de cuenta enterprise, Paquete de negociación | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -87,69 +87,81 @@ Las clases **131 y 132** cubren la relación posterior y cierran con el capstone
 
 ## 🔤 Glosario de la parte
 
-59 conceptos definidos en las clases, con la definición operacional que usa cada una.
+71 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **account plan** | mapa de objetivos, stakeholders, riesgos y oportunidades. |
-| **account research** | investigación mínima para formular relevancia. |
-| **adoption** | uso efectivo de capacidades que habilitan valor. |
-| **BATNA** | mejor alternativa disponible si no hay acuerdo. |
-| **business case** | justificación económica y de riesgo para actuar. |
-| **cadence** | secuencia de contactos multicanal. |
-| **champion** | persona interna que promueve activamente la solución. |
-| **close criteria** | evidencia requerida para considerar ganado. |
-| **commit** | deals con alta evidencia de cierre en periodo según regla interna. |
-| **commitment** | compromiso observable de la parte compradora. |
-| **concern** | riesgo o incertidumbre que aún no es rechazo. |
-| **concession** | condición cedida en negociación que debería intercambiarse. |
-| **conversion rate** | proporción de oportunidades que pasan entre etapas. |
-| **cost of inaction** | costo de mantener el estado actual. |
-| **coverage** | ratio entre pipeline relevante y target. |
-| **decision process** | personas, criterios y pasos mediante los que se compra. |
-| **discount** | factor que reduce precio nominal. |
-| **disqualifier** | condición que justifica no perseguir una oportunidad. |
-| **economic buyer** | rol con autoridad económica final según contexto. |
-| **exit criteria** | evidencia mínima para avanzar de etapa. |
-| **expansion** | crecimiento de revenue dentro de cliente existente. |
-| **fit** | grado de compatibilidad entre necesidad, solución y restricciones. |
-| **forecast** | estimación temporal de cierres y revenue. |
-| **give-get** | concesión condicionada a recibir valor equivalente o estratégico. |
-| **ICP** | perfil de cliente con alto ajuste esperado entre problema, producto y economía. |
-| **implication** | consecuencia económica u operativa del problema. |
-| **interest** | necesidad, restricción o preocupación detrás de una posición. |
-| **list price** | precio de referencia antes de descuentos. |
-| **mutual action plan** | plan compartido de pasos, owners y fechas hacia decisión. |
-| **need-payoff** | valor que tendría resolverlo. |
-| **negotiation plan** | documento con intereses, BATNA, targets, issues y estrategia. |
-| **next step** | acción calendarizada con dueño. |
-| **objection** | razón expresada para no avanzar o cambiar condiciones. |
-| **pipeline** | conjunto de oportunidades abiertas y su estado. |
-| **position** | demanda explícita que una parte presenta. |
-| **positive reply** | respuesta que abre una conversación comercial real. |
-| **price waterfall** | secuencia desde precio lista hasta precio/net revenue real. |
-| **problem** | fricción o brecha reconocida por el comprador. |
-| **procurement** | proceso formal de compra. |
-| **proof** | evidencia que reduce incertidumbre sobre capacidad de entregar. |
-| **prospecting** | identificación y contacto proactivo con potenciales compradores. |
-| **redline** | condición contractual o económica que no se acepta. |
-| **reframe** | nueva forma de interpretar el problema sin negar la preocupación. |
-| **renewal** | decisión de continuar la relación. |
-| **reservation value** | límite a partir del cual es preferible la BATNA. |
-| **ROI** | retorno estimado de la inversión. |
-| **sales process** | secuencia definida de decisiones y evidencias desde oportunidad hasta cliente. |
-| **segment** | grupo de clientes con necesidades o comportamiento comparables. |
-| **situation** | hechos relevantes del contexto actual. |
-| **slippage** | oportunidad cuya close date se desplaza repetidamente. |
-| **stage** | estado de una oportunidad basado en evidencia, no optimismo. |
-| **stall** | postergación que puede ocultar falta de prioridad o autoridad. |
-| **TAM/SAM/SOM** | capas de tamaño de mercado con distinto alcance y accesibilidad. |
-| **trigger event** | cambio que aumenta probabilidad o urgencia de necesidad. |
-| **value proposition** | razón específica por la que un segmento obtendría valor superior. |
-| **value-based pricing** | precio anclado al valor económico percibido y alternativas. |
-| **velocity** | ritmo con que el pipeline se convierte en revenue. |
-| **walk-away** | decisión de usar BATNA cuando el acuerdo cae bajo límite. |
-| **ZOPA** | zona donde los límites de ambas partes permiten acuerdo. |
+| **Ajuste producto–mercado** | Medida en que el producto resuelve un problema valioso de un segmento. |
+| **Alternativa del cliente** | Lo que haría si no compra: nada, hacerlo internamente o contratar a otro. |
+| **Ancla** | Referencia inicial que influye en la valoración posterior. |
+| **Aversión a la pérdida** | Tendencia a sentir más las pérdidas que las ganancias equivalentes. |
+| **BATNA** | Mejor alternativa a un acuerdo negociado. |
+| **BATNA y punto de reserva** | Alternativa y límite de cada parte. |
+| **Business case** | Análisis de costos, beneficios, riesgos y retorno de una decisión. |
+| **Canal entrante (inbound)** | Contacto iniciado por el comprador tras interactuar con contenido o marca. |
+| **Canal saliente (outbound)** | Contacto iniciado por el equipo comercial. |
+| **Ciclo de venta** | Tiempo desde la primera conversación hasta el cierre. |
+| **Cobertura** | Relación entre el valor del pipeline y la meta. |
+| **Comité de compra** | Conjunto de personas que influyen o deciden una compra grande. |
+| **Compromiso verificable** | Acción que el comprador acepta realizar y que se puede comprobar. |
+| **Concesión** | Cesión de algo (precio, plazo, servicio) en una negociación. |
+| **Consentimiento y legitimidad** | Base legal y ética para contactar a una persona. |
+| **Cortina de humo** | Objeción declarada que oculta otra razón. |
+| **Costo por oportunidad calificada** | Gasto del canal dividido por oportunidades calificadas. |
+| **Costo total de propiedad** | Todos los costos de adoptar y mantener la solución. |
+| **Criterio objetivo** | Estándar independiente de la voluntad de las partes. |
+| **Cuello de botella comercial** | Etapa o recurso que limita el resultado total. |
+| **Diferenciación** | Atributos que el cliente valora y que otros no ofrecen. |
+| **Discovery (diagnóstico)** | Fase en que se entiende el contexto, el problema y su efecto antes de proponer. |
+| **Embudo (funnel)** | Secuencia de etapas por las que avanza una oportunidad. |
+| **Etapa basada en evidencia** | Etapa que se avanza por un hecho verificable del comprador. |
+| **Expansión** | Venta adicional a un cliente actual. |
+| **Forecast comercial** | Estimación de ventas cerradas en un período. |
+| **Fuga de precio (price leakage)** | Diferencia entre el precio de lista y el realmente cobrado. |
+| **Gestión de cuentas** | Gestión continua de la relación con un cliente para lograr valor, renovación y crecimiento. |
+| **ICP (perfil de cliente ideal)** | Descripción de los clientes para los que la propuesta es más valiosa y rentable. |
+| **Interés** | La necesidad, preocupación o prioridad que motiva una posición. |
+| **Matriz de riesgos del acuerdo** | Lista de riesgos con dueño, mitigación y condiciones. |
+| **Objeción** | Expresión del comprador de duda, resistencia o condición. |
+| **Oportunidad calificada** | Conversación con alguien que tiene un problema, interés y capacidad de decidir o influir. |
+| **Oportunidad estancada** | Oportunidad sin avance verificable en un tiempo mayor al típico. |
+| **Paquete de negociación** | Conjunto de condiciones acordadas a la vez. |
+| **Patrocinador (champion)** | Persona del comprador que impulsa internamente la decisión. |
+| **Persona de comprador** | Descripción de quienes intervienen en la compra: decisor, usuario, influyente. |
+| **Pipeline** | Conjunto de oportunidades abiertas por etapa, con su valor. |
+| **Piso de precio** | Precio por debajo del cual no se vende sin aprobación. |
+| **Plan de cierre mutuo** | Documento compartido con los pasos que ambas partes harán hasta la firma. |
+| **Plan de cuenta enterprise** | Estrategia por cuenta: valor, relaciones, riesgos, competidores y acciones. |
+| **Posición** | Lo que una parte dice que quiere. |
+| **Precio basado en valor** | Precio fijado según el valor que el cliente obtiene respecto de su mejor alternativa. |
+| **Precio por niveles (good-better-best)** | Oferta en varios paquetes con distintas prestaciones y precios. |
+| **Pregunta de implicación** | Explora las consecuencias del problema. |
+| **Pregunta de necesidad de solución** | El comprador expresa el valor de resolverlo. |
+| **Pregunta de problema** | Explora dificultades o insatisfacciones. |
+| **Pregunta de situación** | Recoge hechos del contexto. |
+| **Proceso de compras** | Pasos formales de aprobación del comprador. |
+| **Pronóstico ponderado** | Suma del valor de cada oportunidad por su probabilidad. |
+| **Propuesta de valor** | Declaración de qué problema resuelve, para quién, con qué resultado y por qué es mejor que las alternativas. |
+| **Prospección** | Búsqueda activa de posibles clientes que encajan con el ICP. |
+| **Prueba social** | Referencia a decisiones de pares como evidencia. |
+| **Puesta en marcha** | Inicio de la implantación tras la firma. |
+| **Punto de reserva** | Peor resultado que una parte aceptaría antes de retirarse. |
+| **Reducción de riesgo** | Garantías, pruebas, fases o referencias que bajan la exposición del comprador. |
+| **Resumen de comprensión** | Síntesis de lo entendido para validar con el comprador. |
+| **Retención** | Proporción de clientes o de ingresos que se mantiene en un período. |
+| **Retención neta de ingresos** | Ingresos de un grupo de clientes hoy respecto de hace un año, incluidos aumentos y bajas. |
+| **Revisión de valor** | Reunión periódica para revisar resultados logrados y próximos objetivos. |
+| **Riesgo percibido** | Probabilidad e impacto que el comprador atribuye a una decisión equivocada. |
+| **Salud de la cuenta** | Evaluación de la probabilidad de que el cliente renueve y crezca. |
+| **Segmentación** | División del mercado en grupos con necesidades o comportamientos similares. |
+| **Segmento inicial (beachhead)** | Nicho donde se concentra el esfuerzo antes de ampliar. |
+| **Señal de cortesía** | Respuesta amable que no implica avance. |
+| **Sistema comercial** | Conjunto de etapas, roles, herramientas y métricas que convierte mercado en clientes. |
+| **Tasa de conversión** | Proporción de oportunidades que pasa de una etapa a la siguiente. |
+| **Tasa de conversión histórica** | Proporción de oportunidades que avanza o cierra desde cada etapa. |
+| **Trabajo a realizar (job)** | Progreso que el cliente quiere lograr al contratar. |
+| **Valor económico para el cliente (EVC)** | Valor de la mejor alternativa del cliente más el valor adicional que aporta el producto. |
+| **ZOPA** | Zona de posible acuerdo entre los puntos de reserva. |
 
 ## 📦 Qué queda como evidencia
 

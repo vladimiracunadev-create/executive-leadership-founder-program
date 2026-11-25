@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **prospecting** de **trigger event** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **account research** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **cadence** con **positive reply**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué son semillas, redes y lanzas?
+2. ¿Qué caracteriza a un buen mensaje de primer contacto?
+3. ¿Por qué se calcula el costo por cliente además del costo por reunión?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un SDR envía 5.000 correos genéricos y celebra 2% de apertura. Solo cuatro reuniones ocurren y ninguna cumple ICP.
+**Caso:** Una empresa de software de gestión para constructoras tiene un equipo de cuatro desarrolladores de oportunidades que envían 600 correos semanales con una plantilla única. La respuesta es de 0,8 %. Hace un mes, un cliente grande se quejó de recibir tres correos diferentes en una semana y la empresa fue reportada como spam en un proveedor de correo. El gerente comercial exige más volumen para llegar a la meta de reuniones; el gerente de marketing propone reforzar el contenido; el de producto, pedir referencias a clientes actuales. El asesor legal advierte que no está claro de dónde provienen algunas de las listas compradas.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **seleccionar cuentas por ICP → buscar trigger y problema plausible → redactar mensaje de relevancia → usar cadencia limitada y respetuosa → medir reply, meeting y opportunity rate**. Debes utilizar o diseñar cómo obtener **reply rate, meeting rate, opportunity rate**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de generación de oportunidades** que contenga: (a) la lista de cuentas por ICP y disparadores; (b) la mezcla de canales con costos esperados y métricas; (c) dos variantes de mensaje y el diseño de la prueba; (d) criterios de calificación acordados con ejecutivos de cuentas; (e) las medidas para reparar la reputación del dominio y los límites de frecuencia; (f) la revisión legal de las bases de datos y del tratamiento de bajas. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **La prospección debe respetar privacidad, consentimiento y normas anti-spam aplicables. Más datos disponibles no significan permiso para usarlos de cualquier manera.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las tasas de respuesta dependen del sector, del momento y de la calidad de la lista, y las pruebas con muestras pequeñas son poco concluyentes.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

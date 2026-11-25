@@ -10,217 +10,194 @@
 
 ## 🎯 Propósito
 
-Cerrar significa convertir intención en compromiso verificable: términos acordados, proceso contractual, responsables y siguiente acción. Presionar por un 'sí' sin resolver procurement, legal o implementación crea falsos cierres. En ventas complejas, close plan compartido es más útil que técnicas de presión.
+El «cierre» suele imaginarse como un momento dramático en que el vendedor consigue la firma con una frase hábil. En ventas complejas ocurre lo contrario: cuando se llega a la reunión final, la decisión casi siempre ya se tomó, o no se va a tomar. El cierre es la **consecuencia de un proceso** en que, paso a paso, comprador y vendedor acordaron qué debía ocurrir para llegar a la firma y lo fueron cumpliendo. Lo que se gestiona, entonces, no es una técnica de cierre sino un **plan de próximos pasos mutuos**: acciones con responsable y fecha que dependen de ambos y que dejan evidencia.
 
-La salida de esta parte es **construir ingresos mediante un proceso comercial medible y negociación disciplinada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **cierre y próximos pasos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el enfoque de Rackham sobre el avance del comprador y los compromisos que lo demuestran, en la propuesta de Dixon y Adamson de tomar el control de la conversación con respeto, en los principios de compromiso y coherencia de Cialdini y en el método de intereses de Fisher y Ury. Al terminar sabrás construir un plan de cierre mutuo, distinguir compromisos reales de cortesías, manejar la última etapa de revisión legal y de compras, y transitar del cierre a la puesta en marcha.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `commitment`, `mutual action plan`, `procurement`, `close criteria`, `next step` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. confirmar problema y valor → 2. mapear pasos restantes → 3. crear mutual action plan → 4. resolver términos y aprobaciones → 5. registrar cierre solo con evidencia definida** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** verbal-to-contract, contract cycle, close date slippage sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Construir** un plan de cierre mutuo con pasos, responsables, fechas y evidencias.
+2. **Distinguir** compromisos reales de señales de cortesía.
+3. **Gestionar** las revisiones técnica, legal, de seguridad y de compras.
+4. **Pedir** la decisión de forma directa y respetuosa.
+5. **Preparar** la transición del cierre a la puesta en marcha.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define commitment y mutual action plan sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con verbal-to-contract y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda una venta que «se enfrió» al final y qué paso del comprador faltó. |
+| 20–60 min | Plan de cierre mutuo, compromisos, revisiones y decisión. |
+| 60–105 min | Ejemplo trabajado: plan de cierre de 30 días para una venta enterprise. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **commitment** | compromiso observable de la parte compradora | Distingue un hecho compatible y otro que lo refute. |
-| **mutual action plan** | plan compartido de pasos, owners y fechas hacia decisión | Distingue un hecho compatible y otro que lo refute. |
-| **procurement** | proceso formal de compra | Distingue un hecho compatible y otro que lo refute. |
-| **close criteria** | evidencia requerida para considerar ganado | Distingue un hecho compatible y otro que lo refute. |
-| **next step** | acción calendarizada con dueño | Distingue un hecho compatible y otro que lo refute. |
+| **Plan de cierre mutuo** | Documento compartido con los pasos que ambas partes harán hasta la firma. | Tiene responsables, fechas y evidencias. |
+| **Compromiso verificable** | Acción que el comprador acepta realizar y que se puede comprobar. | «Agendó la reunión con finanzas para el día 12». |
+| **Señal de cortesía** | Respuesta amable que no implica avance. | «Me parece interesante, lo revisamos». |
+| **Patrocinador (champion)** | Persona del comprador que impulsa internamente la decisión. | Defiende el caso sin el vendedor. |
+| **Proceso de compras** | Pasos formales de aprobación del comprador. | Seguridad, legal, compras, finanzas. |
+| **Puesta en marcha** | Inicio de la implantación tras la firma. | Responsables, plan y valor temprano. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 130: 1. confirmar problema y valor → 2. mapear pasos restantes → 3. crear mutual action plan → 4. resolver términos y aprobaciones → 5. registrar cierre solo con evidencia definida](modelo-mental.svg)
+![Plan de cierre mutuo con cinco pasos: validación técnica, revisión de seguridad, revisión legal, aprobación del comité y firma, con responsable, fecha y evidencia.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. confirmar problema y valor → 2. mapear pasos restantes → 3. crear mutual action plan → 4. resolver términos y aprobaciones → 5. registrar cierre solo con evidencia definida
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Cerrar significa convertir intención en compromiso verificable: términos acordados, proceso contractual, responsables y siguiente acción. Presionar por un 'sí' sin resolver procurement, legal o implementación crea falsos cierres. En ventas complejas, close plan compartido es más útil que técnicas de presión.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No uses urgencia artificial o patrones de cierre manipulativos. Un cierre de mala calidad aumenta cancelación, disputa y churn.**
+**Cómo leer el diagrama.** Una tabla de cinco pasos con el **responsable**, la **fecha** y la **evidencia** que confirma que ocurrió. Es el esqueleto de un plan de cierre mutuo: el comprador y el vendedor lo construyen juntos y lo revisan cada semana. Si el comprador no se compromete a fechas ni a evidencias, la oportunidad probablemente no está en la etapa que se cree. La nota recuerda que las fechas se acuerdan con quien tiene autoridad real.
 
 ## 📖 Desarrollo
 
-### 1. commitment: mecanismo central
+### 1. El cierre como resultado de un proceso
 
-**commitment** se entiende aquí como **compromiso observable de la parte compradora**. Esta es la pieza causal o estructural desde la que se inicia **cierre y próximos pasos**: antes de confirmar problema y valor, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Rackham observó que, en ventas grandes, las técnicas de cierre tradicionales (la presión, la urgencia artificial, el «si firma hoy…») tenían poco efecto o resultaban contraproducentes: el comprador toma la decisión por su análisis de valor y riesgo, no por habilidad del vendedor. Lo que sí predecía el éxito eran los **avances**: compromisos concretos del comprador que muestran que la oportunidad progresa (aceptar una reunión con el decisor, dar acceso a datos, presentar al equipo técnico). Por eso, en lugar de «cerrar», se gestiona la secuencia de avances.
 
-La lectura rectora de este bloque es Neil Rackham — *SPIN Selling*. Su aporte se usa para examinar **venta consultiva basada en preguntas de situación, problema, implicación y necesidad**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **verbal-to-contract**; regístrala con periodo, unidad, población y baseline.
+### 2. El plan de cierre mutuo
 
-Relaciona el mecanismo con **mutual action plan**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El plan de cierre mutuo (*mutual close plan*) es un documento sencillo y compartido: la lista de pasos que llevan a la firma, **quién** hace cada uno, **cuándo** y **qué evidencia** lo confirma. Incluye los pasos del comprador (validación técnica, seguridad, legal, compras, aprobación, firma) y los del vendedor (propuesta final, referencias, borrador de contrato, plan de implantación). Se construye **hacia atrás** desde la fecha en que el comprador necesita tener la solución en marcha: «si necesitan operar en marzo, ¿qué debe ocurrir y cuándo?». Se revisa cada semana y se actualiza con realismo.
 
-### 2. mutual action plan: frontera conceptual y error de clasificación
+### 3. Compromisos reales y cortesías
 
-**Definición operacional:** plan compartido de pasos, owners y fechas hacia decisión. Su valor está en distinguirlo de **commitment** y **procurement**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+No toda respuesta amable es un avance. Dixon y Adamson destacan que los vendedores más eficaces **piden compromisos** y distinguen entre ellos. **Compromisos reales**: el comprador gasta algo (tiempo, acceso, reputación, información) o hace algo que depende de él. **Cortesías**: «lo vemos», «te escribo la próxima semana», «suena bien». Una pregunta útil: «¿Qué tendría que ocurrir para que esto avance, y quién lo hace?». Si el comprador evita fechas o personas, hay un riesgo. El vendedor puede, con respeto, preguntar si todavía tiene sentido continuar.
 
-Contrasta el problema con Matthew Dixon & Brent Adamson — *The Challenger Sale*, que aporta una mirada sobre **venta compleja, insight comercial, enseñanza y control constructivo del proceso**. Formula dos mini-casos: uno que sí satisface la definición de **mutual action plan** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **contract cycle** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Gestionar a quienes pueden bloquear
 
-Antes de mapear pasos restantes, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+En el proceso final intervienen áreas con poder de bloqueo: **seguridad de la información**, **legal**, **compras**, **finanzas**, **TI**. Se identifican al inicio, se **adelantan** los documentos que suelen pedirse (cuestionarios, certificaciones, políticas, contratos modelo, referencias) y se pide al patrocinador que explique **cómo es el proceso real**: quién aprueba, cuántas etapas, cuánto tarda, qué ha frenado casos anteriores. Cuando surgen problemas (cláusulas, requisitos de seguridad), se tratan como **riesgos con dueño y plazo**, no como sorpresas de último minuto. Los contratos y requisitos legales se revisan con asesoría especializada.
 
-### 3. procurement: operacionalización y medición
+### 5. Pedir la decisión
 
-**procurement** significa **proceso formal de compra**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Llegado el momento, se pide la decisión de forma **directa y respetuosa**: «Con lo que hemos visto, ¿qué falta para que podamos avanzar con la firma?», o «Nuestro plan indica la firma el día 30; ¿sigue siendo viable?». Cialdini explica el efecto de la **coherencia**: las personas tienden a actuar de acuerdo con compromisos previos, especialmente los explícitos y voluntarios; el plan mutuo se apoya en eso. La presión artificial (descuentos que vencen «hoy», escasez inventada) puede lograr una firma y deteriorar la relación; si hay una fecha límite real (fin de un período, disponibilidad de capacidad), se explica con honestidad.
 
-Deepak Malhotra & Max H. Bazerman — *Negotiation Genius* orienta este bloque mediante **perspectiva de Negociación aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **close date slippage**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Cuando no avanza
 
-Al llegar a crear mutual action plan, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Si los pasos se retrasan, se **revisa**: ¿cambió la prioridad?, ¿cambió el patrocinador?, ¿apareció un bloqueador?, ¿se subestimó el proceso? Se conversa con el patrocinador con franqueza: «el plan se retrasó dos semanas; ¿qué está pasando y qué necesitas de nosotros?». Se evalúan alternativas: reducir el alcance, dividir en fases, ofrecer un piloto. Si después de varios intentos no hay compromisos, se cambia la etapa del pipeline o se cierra la oportunidad (clase 126). Cerrar con honestidad una oportunidad que no avanza libera tiempo y mejora el pronóstico.
 
-### 4. close criteria: trade-offs y efectos de segundo orden
+### 7. Del cierre a la puesta en marcha
 
-**Definición:** evidencia requerida para considerar ganado. Este concepto obliga a abandonar la idea de que **cierre y próximos pasos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de resolver términos y aprobaciones, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Mark Roberge — *The Sales Acceleration Formula* aporta una lente sobre **perspectiva de Ventas aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **next-step gaps** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **cierre y próximos pasos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **close criteria** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. next step: gobernanza, límites e integración
-
-**next step** se define como **acción calendarizada con dueño** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing* se utiliza para estudiar **arquitectura de precios basada en valor, segmentación y respuesta competitiva** y contrastar la recomendación final. Al ejecutar registrar cierre solo con evidencia definida, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No uses urgencia artificial o patrones de cierre manipulativos. Un cierre de mala calidad aumenta cancelación, disputa y churn.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **commitment**, **mutual action plan**, **procurement**, **close criteria** y **next step** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **cierre y próximos pasos** no consiste en sumar cinco definiciones. Empieza por **commitment**, contrasta **mutual action plan** con **procurement**, incorpora **close criteria** como restricción o mecanismo y usa **next step** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. confirmar problema y valor → 2. mapear pasos restantes → 3. crear mutual action plan → 4. resolver términos y aprobaciones → 5. registrar cierre solo con evidencia definida**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La firma es el inicio de otra etapa que determina si el cliente obtiene valor, renueva y recomienda. Antes de la firma se acuerdan: **objetivos de éxito** del cliente (con las métricas del business case), **responsables** de ambos lados, **plan de implantación** con hitos, **valor temprano** (un primer resultado en 30 a 60 días), **canales de comunicación** y **gobernanza** (reuniones de seguimiento). Se hace un **traspaso** claro del equipo de ventas al de implantación o éxito del cliente, con todo lo aprendido en el diagnóstico (clase 131). Las promesas hechas en la venta se documentan y se cumplen.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Neil Rackham — *SPIN Selling* | venta consultiva basada en preguntas de situación, problema, implicación y necesidad | ¿Qué supuesto de **cierre y próximos pasos** ayuda a desafiar? |
-| Matthew Dixon & Brent Adamson — *The Challenger Sale* | venta compleja, insight comercial, enseñanza y control constructivo del proceso | ¿Qué supuesto de **cierre y próximos pasos** ayuda a desafiar? |
-| Deepak Malhotra & Max H. Bazerman — *Negotiation Genius* | perspectiva de Negociación aplicada al problema de la clase | ¿Qué supuesto de **cierre y próximos pasos** ayuda a desafiar? |
-| Mark Roberge — *The Sales Acceleration Formula* | perspectiva de Ventas aplicada al problema de la clase | ¿Qué supuesto de **cierre y próximos pasos** ayuda a desafiar? |
-| Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing* | arquitectura de precios basada en valor, segmentación y respuesta competitiva | ¿Qué supuesto de **cierre y próximos pasos** ayuda a desafiar? |
-
-En **cierre y próximos pasos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **commitment**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Rackham | Avances y compromisos como predictores del éxito. | Enfoque de ventas grandes. | ¿Qué compromiso real ofreció el comprador? |
+| Dixon y Adamson | Tomar el control con respeto y pedir compromisos. | Estudio en un conjunto de empresas. | ¿Qué paso concreto pides? |
+| Cialdini | Compromiso y coherencia. | Puede usarse para manipular. | ¿El compromiso es voluntario y verificable? |
+| Fisher, Ury y Patton | Intereses y opciones para cerrar acuerdos. | Marco general de negociación. | ¿Qué interés queda por resolver? |
+| Roberge | Seguimiento del avance con datos. | Experiencia de una empresa. | ¿Qué dice el historial de oportunidades similares? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** El vendedor marca deal como 'commit' porque el sponsor dijo que quiere avanzar. Legal, seguridad y procurement aún no revisan y el presupuesto vence en 30 días.
+**Situación (hipotética).** Una empresa de plataformas de datos vende una solución de USD 420.000 al año a una aseguradora. La fecha límite de la aseguradora para tener la plataforma operativa es el 1 de marzo. Se está a 45 días de esa fecha; el proceso de compras habitual demora entre 30 y 40 días.
 
-**Paso 1 — confirmar problema y valor.** La gerencia escribe primero el supuesto asociado a **commitment** y evita convertirlo en hecho. Luego busca **verbal-to-contract** para contrastarlo en el caso de **cierre y próximos pasos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Plan de cierre construido hacia atrás.**
 
-**Paso 2 — mapear pasos restantes.** La gerencia escribe primero el supuesto asociado a **mutual action plan** y evita convertirlo en hecho. Luego busca **contract cycle** para contrastarlo en el caso de **cierre y próximos pasos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Paso | Responsable | Fecha | Evidencia |
+|---|---|---|---|
+| Prueba técnica con datos del cliente | Cliente (TI) y preventa | Día 5 | Informe firmado por TI |
+| Reunión con el decisor económico | Patrocinador | Día 7 | Acta o correo del decisor |
+| Cuestionario de seguridad completo | Vendedor | Día 8 (envío), día 15 (revisión) | Aprobación de seguridad |
+| Contrato: primera revisión legal | Abogados de ambos | Día 10–20 | Versión sin cambios abiertos |
+| Aprobación de compras y presupuesto | Gerente de compras | Día 25 | Orden de compra o aprobación |
+| Firma | Representantes legales | Día 30 | Contrato firmado |
+| Inicio de implantación | Ambos | Día 31 | Kickoff realizado |
 
-**Paso 3 — crear mutual action plan.** La gerencia escribe primero el supuesto asociado a **procurement** y evita convertirlo en hecho. Luego busca **close date slippage** para contrastarlo en el caso de **cierre y próximos pasos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Riesgos detectados con el patrocinador.** (1) Seguridad suele pedir pruebas de penetración no incluidas; se pide el requisito hoy. (2) Legal exige una cláusula de responsabilidad que el vendedor no acepta en su forma habitual; se agenda una reunión de abogados esta semana. (3) El decisor económico viaja la semana 2; se agenda con anticipación.
 
-**Paso 4 — resolver términos y aprobaciones.** La gerencia escribe primero el supuesto asociado a **close criteria** y evita convertirlo en hecho. Luego busca **next-step gaps** para contrastarlo en el caso de **cierre y próximos pasos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Seguimiento.** Reunión semanal de 20 minutos con el patrocinador para actualizar. En la semana 2 se descubre que seguridad necesita un informe de una auditoría externa; el vendedor lo gestiona en cinco días y el plan se ajusta un día.
 
-**Paso 5 — registrar cierre solo con evidencia definida.** La gerencia escribe primero el supuesto asociado a **next step** y evita convertirlo en hecho. Luego busca **won-to-live time** para contrastarlo en el caso de **cierre y próximos pasos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Pedido de decisión.** En el día 24, el vendedor pregunta al patrocinador: «Con todos los pasos cumplidos, ¿qué podría impedir la aprobación el día 25?» El patrocinador menciona que compras exige un tercer proveedor comparable; se envía información para completar la comparación.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **cierre y próximos pasos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Resultado.** Firma el día 33; implantación comienza el día 34. Un plan de 90 días con un primer resultado verificable a los 45 días se acuerda desde el inicio.
+
+**Qué muestra.** (1) El plan se construyó hacia atrás desde la fecha del comprador. (2) Los riesgos se trataron antes de que bloquearan. (3) El traspaso a la implantación estaba acordado.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **commitment** | compromiso observable de la parte compradora | Cuando verbal-to-contract es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **mutual action plan** | plan compartido de pasos, owners y fechas hacia decisión | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Cierre mutuo frente a cierre por presión.** El cierre mutuo se apoya en acuerdos verificables y confianza; el cierre por presión busca la firma con urgencia artificial. El primero produce clientes que renuevan; el segundo, reclamos y cancelaciones.
 
-**Frontera de aplicación:** No uses urgencia artificial o patrones de cierre manipulativos. Un cierre de mala calidad aumenta cancelación, disputa y churn.
+**Límites.** Un plan de cierre mutuo exige que el comprador acepte colaborar; con compradores que se niegan, la oportunidad probablemente es débil. Los procesos de compra regulados (licitaciones públicas, por ejemplo) tienen reglas que no admiten este enfoque. Las fechas de aprobación dependen de factores externos al vendedor. La evidencia sobre la eficacia de las técnicas de cierre proviene de investigaciones y casos específicos. Y todo contrato, garantía y cláusula debe revisarse con asesoría legal y respetar la normativa de contratación aplicable.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre cierre y próximos pasos |
+| Nivel | Cómo participa en el cierre |
 |---|---|
-| **Profesional** | usa **cierre y próximos pasos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **commitment** y **mutual action plan** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta verbal-to-contract con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si cierre y próximos pasos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de cierre y próximos pasos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **cierre y próximos pasos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Registra compromisos reales y mantiene al día el plan. |
+| **Jefe / Team Lead** | Revisa los planes de cierre y ayuda a destrabar bloqueos. |
+| **Gerente** | Exige planes por evidencia y acompaña en negocios clave. |
+| **CEO / Director** | Apoya cuando el cliente necesita un contacto al más alto nivel. |
+| **Founder / Owner** | Cumple lo prometido para que las primeras ventas se conviertan en referencias. |
 
 ## 🏢 Caso ejecutivo
 
-El vendedor marca deal como 'commit' porque el sponsor dijo que quiere avanzar. Legal, seguridad y procurement aún no revisan y el presupuesto vence en 30 días.
+Una empresa de software para gestión hospitalaria tiene una oportunidad de USD 1,1 millones con una red de clínicas. El patrocinador, el director médico, está entusiasmado; ha dicho «estamos casi listos» durante dos meses. El plan de implantación debe comenzar en cuatro meses por una nueva norma que exige ciertos registros. El comprador no ha presentado al vendedor al gerente general ni a compras; seguridad no ha recibido el cuestionario; no hay fecha de decisión; un competidor ofrece una solución más barata con menor funcionalidad. El gerente comercial de la empresa quiere ofrecer un descuento de 20 % si firman este mes.
 
-Entrega un **decision brief de cierre y próximos pasos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de cierre** que contenga: (a) el plan de cierre mutuo construido hacia atrás desde la fecha de la norma; (b) la identificación de compromisos reales y cortesías en lo ocurrido; (c) el mapa de bloqueadores y los documentos que adelantarás; (d) cómo conducirás la conversación con el patrocinador y cómo pedirás la decisión; (e) la evaluación del descuento y alternativas (fases, piloto); (f) el plan de transición a la implantación y las verificaciones legales, de datos de salud y de normativa aplicable.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **cierre y próximos pasos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. confirmar problema y valor → 2. mapear pasos restantes → 3. crear mutual action plan → 4. resolver términos y aprobaciones → 5. registrar cierre solo con evidencia definida** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta verbal-to-contract, contract cycle; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Construye un plan de cierre mutuo hacia atrás para una oportunidad real.
+2. Clasifica las últimas cinco respuestas de un comprador en compromisos reales o cortesías.
+3. Lista los documentos que adelantarías a seguridad, legal y compras.
+4. Redacta cómo pedirías la decisión de forma directa y respetuosa.
+5. Define el primer resultado de valor de los primeros 45 días tras la firma.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar commitment y mutual action plan como sinónimos | Se pierde la distinción entre “compromiso observable de la parte compradora” y “plan compartido de pasos, owners y fechas hacia decisión” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “registrar cierre solo con evidencia definida” | Se saltó “confirmar problema y valor” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. confirmar problema y valor → 2. mapear pasos restantes → 3. crear mutual action plan → 4. resolver términos y aprobaciones → 5. registrar cierre solo con evidencia definida y marca el primer supuesto no demostrado. |
-| Optimizar solo verbal-to-contract | La métrica local sustituyó al resultado del sistema | Contrástala con contract cycle y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre cierre y próximos pasos | No uses urgencia artificial o patrones de cierre manipulativos. Un cierre de mala calidad aumenta cancelación, disputa y churn. |
-| No fijar revisión | Una decisión sobre cierre y próximos pasos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Confiar en cortesías | Se interpreta el entusiasmo como compromiso | Pedir acciones con fecha y responsable. |
+| Descubrir bloqueadores al final | No se mapean | Identificarlos y adelantarse. |
+| Presión artificial | Se quiere cerrar rápido | Plan mutuo y fechas reales. |
+| Plan sin evidencias | Se registra intención | Evidencia por paso. |
+| No preparar la transición | Se piensa que la venta terminó | Acordar objetivos y plan de implantación. |
+| Mantener oportunidades que no avanzan | Optimismo | Revisar y cerrar con honestidad. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **commitment** y **mutual action plan** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **procurement** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **confirmar problema y valor → mapear pasos restantes** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **verbal-to-contract** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **cierre y próximos pasos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No uses urgencia artificial o patrones de cierre manipulativos. Un cierre de mala calidad aumenta cancelación, disputa y churn.**?
+1. ¿Qué es un plan de cierre mutuo y cómo se construye?
+2. ¿Qué diferencia hay entre un compromiso real y una cortesía?
+3. ¿Qué papel cumple el patrocinador?
+4. ¿Cómo se gestionan seguridad, legal y compras?
+5. ¿Cómo se pide la decisión?
+6. ¿Qué se hace si el plan se retrasa?
+7. ¿Qué se acuerda antes de la firma para la puesta en marcha?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Un documento compartido con pasos, responsables, fechas y evidencias hasta la firma; se construye hacia atrás desde la fecha en que el comprador necesita la solución.
+2. El compromiso real implica que el comprador gasta tiempo, acceso o reputación o hace algo verificable; la cortesía es una respuesta amable sin avance.
+3. Impulsa internamente la decisión y explica el proceso real del comprador.
+4. Identificándolos al inicio, adelantando documentos y tratando los problemas como riesgos con dueño y plazo.
+5. De forma directa y respetuosa, preguntando qué falta o si el plan sigue siendo viable, sin presión artificial.
+6. Se revisa la causa con el patrocinador, se evalúan alternativas como fases o piloto y, si no hay compromisos, se cambia de etapa o se cierra la oportunidad.
+7. Objetivos de éxito, responsables, plan de implantación con hitos, valor temprano, comunicación y gobernanza, y el traspaso de lo aprendido.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/130-cierre-y-proximos-pasos/`:
 
-- `leadership-decision-brief.md` con el problema específico de **cierre y próximos pasos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **cierre y próximos pasos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **commitment**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **El vendedor marca deal como 'commit' porque el sponsor dijo que quiere avanzar. Legal, seguridad y procurement aún no revisan y el presupuesto vence en 30 días.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan de cierre del caso ejecutivo;
+- `sales-pipeline.md` (plantilla [Sales pipeline](../../../../templates/sales-pipeline.md)) con el estado de la oportunidad y los compromisos;
+- `decision-journal.md` con los bloqueadores, los riesgos y el traspaso a la implantación.
 
 ## 📗 Fuentes y verificación
 
-- Neil Rackham — *SPIN Selling* (Highbridge Audio, 1998). **Uso en esta clase:** venta consultiva basada en preguntas de situación, problema, implicación y necesidad. Lectura selectiva sobre **cierre y próximos pasos**. **Localizador:** [ISBN-13 9781565112605](https://openlibrary.org/isbn/9781565112605).
-- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** venta compleja, insight comercial, enseñanza y control constructivo del proceso. Lectura selectiva sobre **cierre y próximos pasos**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
-- Deepak Malhotra & Max H. Bazerman — *Negotiation Genius* (Tantor Media, 2007). **Uso en esta clase:** perspectiva de Negociación aplicada al problema de la clase. Lectura selectiva sobre **cierre y próximos pasos**. **Localizador:** [ISBN-13 9781400135400](https://openlibrary.org/isbn/9781400135400).
-- Mark Roberge — *The Sales Acceleration Formula* (2015). **Uso en esta clase:** perspectiva de Ventas aplicada al problema de la clase. Lectura selectiva sobre **cierre y próximos pasos**. **Localizador:** [ISBN-13 9781119047070](https://openlibrary.org/isbn/9781119047070).
-- Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing* (Taylor & Francis Group, 1987). **Uso en esta clase:** arquitectura de precios basada en valor, segmentación y respuesta competitiva. Lectura selectiva sobre **cierre y próximos pasos**. **Localizador:** [ISBN-13 9781315266220](https://openlibrary.org/isbn/9781315266220).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **cierre y próximos pasos**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **cierre y próximos pasos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **cierre y próximos pasos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **cierre y próximos pasos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **cierre y próximos pasos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **cierre y próximos pasos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Neil Rackham — *Major Account Sales Strategy* (McGraw-Hill, 1989). **Uso en esta clase:** avances y compromisos como predictores del éxito. Lectura selectiva sobre **cierre y próximos pasos**. **Localizador:** [ISBN-13 9780070511149](https://openlibrary.org/isbn/9780070511149).
+- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** tomar el control con respeto y pedir compromisos. Lectura selectiva sobre **cierre y próximos pasos**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
+- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** compromiso y coherencia. Lectura selectiva sobre **cierre y próximos pasos**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
+- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** intereses y opciones para cerrar acuerdos. Lectura selectiva sobre **cierre y próximos pasos**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
+- Mark Roberge — *The Sales Acceleration Formula* (2015). **Uso en esta clase:** seguimiento del avance con datos. Lectura selectiva sobre **cierre y próximos pasos**. **Localizador:** [ISBN-13 9781119047070](https://openlibrary.org/isbn/9781119047070).
 
-> **Regla de fuentes para Cierre y próximos pasos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **cierre y próximos pasos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Cierre y próximos pasos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las de contratación, protección de datos de salud y regulación sectorial. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

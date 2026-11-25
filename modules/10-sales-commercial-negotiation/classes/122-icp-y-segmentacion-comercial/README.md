@@ -10,217 +10,189 @@
 
 ## 🎯 Propósito
 
-ICP y segmentación comercial concentran esfuerzo donde el problema, capacidad de pago, urgencia y fit permiten una venta rentable. Un ICP no es una persona ficticia: describe organizaciones o clientes con características observables que correlacionan con valor y éxito.
+«Nuestro cliente es cualquier empresa que necesite…» es la frase que más cuesta cara a un equipo comercial. Vender a todos significa mensajes genéricos, ciclos largos, descuentos para competir con especialistas, clientes que no obtienen valor y se van. Elegir a quién se vende es la decisión comercial más importante y la que más se posterga porque implica renunciar a oportunidades. El **perfil de cliente ideal (ICP)** describe, con rasgos observables, a las empresas o personas para las que la propuesta funciona mejor y que más valor dejan al negocio.
 
-La salida de esta parte es **construir ingresos mediante un proceso comercial medible y negociación disciplinada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **iCP y segmentación comercial** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la noción de segmento inicial de Moore en *Crossing the Chasm*, en la gestión por datos de Roberge, en el análisis de Dixon y Adamson sobre cómo los clientes compran y en la visión de rentabilidad por cliente de la clase 113. Al terminar sabrás construir un ICP con datos, segmentar el mercado en grupos accionables, distinguir ICP de cualquier cliente que paga y revisar el perfil con la evidencia de retención y rentabilidad.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `ICP`, `segment`, `fit`, `disqualifier`, `TAM/SAM/SOM` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de manager → gerente.
-3. **Aplicar** la secuencia **1. analizar clientes ganados y perdidos → 2. identificar atributos de éxito → 3. definir ICP y disqualifiers → 4. priorizar segmentos por valor y acceso → 5. probar messaging y win rate** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** win rate by segment, CAC by segment, retention by segment sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** un ICP con rasgos observables y justificarlo con datos.
+2. **Segmentar** el mercado con criterios útiles para decidir.
+3. **Evaluar** segmentos por ajuste, valor, accesibilidad y competencia.
+4. **Elegir** un segmento inicial y planificar la expansión.
+5. **Revisar** el ICP con datos de retención, margen y satisfacción.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define ICP y segment sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con win rate by segment y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: lista tus cinco mejores clientes y tus cinco peores; ¿qué rasgos los distinguen? |
+| 20–60 min | ICP, segmentación, selección y revisión. |
+| 60–105 min | Ejemplo trabajado: construir el ICP de una empresa de software con datos de clientes. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **ICP** | perfil de cliente con alto ajuste esperado entre problema, producto y economía | Distingue un hecho compatible y otro que lo refute. |
-| **segment** | grupo de clientes con necesidades o comportamiento comparables | Distingue un hecho compatible y otro que lo refute. |
-| **fit** | grado de compatibilidad entre necesidad, solución y restricciones | Distingue un hecho compatible y otro que lo refute. |
-| **disqualifier** | condición que justifica no perseguir una oportunidad | Distingue un hecho compatible y otro que lo refute. |
-| **TAM/SAM/SOM** | capas de tamaño de mercado con distinto alcance y accesibilidad | Distingue un hecho compatible y otro que lo refute. |
+| **ICP (perfil de cliente ideal)** | Descripción de los clientes para los que la propuesta es más valiosa y rentable. | Rasgos verificables: sector, tamaño, problema, contexto. |
+| **Segmentación** | División del mercado en grupos con necesidades o comportamientos similares. | Cada grupo se atiende de forma distinta. |
+| **Persona de comprador** | Descripción de quienes intervienen en la compra: decisor, usuario, influyente. | Roles y motivaciones. |
+| **Segmento inicial (beachhead)** | Nicho donde se concentra el esfuerzo antes de ampliar. | Se domina antes de expandir. |
+| **Trabajo a realizar (job)** | Progreso que el cliente quiere lograr al contratar. | Explica por qué compra. |
+| **Ajuste producto–mercado** | Medida en que el producto resuelve un problema valioso de un segmento. | Retención alta y recomendación. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 122: 1. analizar clientes ganados y perdidos → 2. identificar atributos de éxito → 3. definir ICP y disqualifiers → 4. priorizar segmentos por valor y acceso → 5. probar messaging y win rate](modelo-mental.svg)
+![Cuadrante de ajuste con la propuesta y valor potencial del cliente: explorar con cuidado, perfil ideal, no perseguir y atender con bajo costo.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. analizar clientes ganados y perdidos → 2. identificar atributos de éxito → 3. definir ICP y disqualifiers → 4. priorizar segmentos por valor y acceso → 5. probar messaging y win rate
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **ICP y segmentación comercial concentran esfuerzo donde el problema, capacidad de pago, urgencia y fit permiten una venta rentable. Un ICP no es una persona ficticia: describe organizaciones o clientes con características observables que correlacionan con valor y éxito.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un ICP demasiado estrecho puede ocultar mercados emergentes. Reserva experimentos fuera del core y actualiza con datos, sin diluir el foco principal.**
+**Cómo leer el diagrama.** Un cuadrante con dos preguntas: ¿la propuesta se ajusta al problema del cliente? y ¿cuánto valor puede dejar? El **perfil ideal** combina ambos y es donde se concentra el equipo. Las cuentas de **mucho valor pero poco ajuste** se exploran con cuidado, con pocos casos. Las de **mucho ajuste y poco valor** se atienden con canales de bajo contacto. Las de **poco ajuste y poco valor** no se persiguen. La clave: el ICP no es el cliente que acepta pagar sino el que obtiene valor y lo deja.
 
 ## 📖 Desarrollo
 
-### 1. ICP: mecanismo central
+### 1. Por qué elegir
 
-**ICP** se entiende aquí como **perfil de cliente con alto ajuste esperado entre problema, producto y economía**. Esta es la pieza causal o estructural desde la que se inicia **iCP y segmentación comercial**: antes de analizar clientes ganados y perdidos, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Moore plantea que, para pasar de los primeros adoptantes al mercado amplio, una empresa debe concentrarse en un **segmento inicial** donde pueda ser la opción dominante, con una propuesta completa para ese grupo, y desde allí expandirse a segmentos adyacentes. Atender a todos tiene costos: mensajes diluidos, soporte que cubre demasiadas necesidades, desarrollo de producto sin foco y competencia contra especialistas. Concentrarse implica decir que no a ciertos clientes que pagarían; es una decisión estratégica y exige respaldo directivo.
 
-La lectura rectora de este bloque es Neil Rackham — *SPIN Selling*. Su aporte se usa para examinar **venta consultiva basada en preguntas de situación, problema, implicación y necesidad**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **win rate by segment**; regístrala con periodo, unidad, población y baseline.
+### 2. Construir el ICP con datos
 
-Relaciona el mecanismo con **segment**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El punto de partida son los **clientes actuales**, particularmente los que **más valor reciben y más valor dejan**: alta retención, buen margen, expansión, recomendación. Se analizan sus rasgos: **sector**, **tamaño** (empleados, ingresos), **contexto** (etapa, regulación, tecnología), **problema que resuelven**, **proceso de compra** (quién decide, cuánto tarda) y **disparadores** (el evento que los lleva a buscar una solución). Se contrasta con los clientes que **churnean o son poco rentables** para ver qué los distingue. El ICP resultante son hipótesis a probar con prospectos nuevos, no verdades.
 
-### 2. segment: frontera conceptual y error de clasificación
+### 3. Segmentación útil
 
-**Definición operacional:** grupo de clientes con necesidades o comportamiento comparables. Su valor está en distinguirlo de **ICP** y **fit**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Se segmenta para **decidir diferente**: mensaje, canal, oferta, precio, proceso de ventas. Criterios típicos: **firmográficos** (sector, tamaño, geografía), **comportamentales** (uso, frecuencia, canal de compra), **de necesidades** (problema, trabajo a realizar) y **de valor** (potencial, rentabilidad). Una segmentación sirve si los grupos son **identificables**, **accesibles**, **suficientemente grandes** y **responden distinto**. Christensen y otros proponen mirar el «trabajo» que el cliente contrata: dos clientes de perfil distinto pueden contratar el producto para el mismo trabajo, y dos de perfil similar, para trabajos distintos.
 
-Contrasta el problema con Matthew Dixon & Brent Adamson — *The Challenger Sale*, que aporta una mirada sobre **venta compleja, insight comercial, enseñanza y control constructivo del proceso**. Formula dos mini-casos: uno que sí satisface la definición de **segment** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **CAC by segment** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Evaluar y elegir segmentos
 
-Antes de identificar atributos de éxito, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Para cada segmento se estiman: **tamaño y crecimiento**, **intensidad del problema**, **ajuste con la propuesta**, **disposición y capacidad de pago**, **accesibilidad** (canales, costo de llegar), **competencia**, **ciclo de venta** y **potencial de expansión**. Se puntúan con criterios acordados antes (clase 105) y se elige un segmento inicial o un número pequeño. El objetivo no es el mayor mercado posible, sino el segmento donde la empresa puede **ganar y retener** con costos razonables. Una elección sana deja registrado qué segmentos se descartan, por qué y cuándo se revisarán.
 
-### 3. fit: operacionalización y medición
+### 5. Personas de comprador y comité
 
-**fit** significa **grado de compatibilidad entre necesidad, solución y restricciones**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+En ventas B2B, quien usa el producto no siempre decide ni paga. Se identifican **roles**: **usuario**, **patrocinador** (quien tiene el problema y presupuesto), **decisor económico**, **influyentes técnicos** y **bloqueadores** potenciales (seguridad, legal, compras). Rackham enfatiza entender el proceso de compra de cada cuenta. Para el ICP se describe el **perfil del comité típico** y sus preocupaciones, de modo que mensajes y materiales respondan a cada rol. Un ICP sin personas de comprador es incompleto: define dónde está el cliente, pero no quién decide.
 
-Chris Voss & Tahl Raz — *Never Split the Difference* orienta este bloque mediante **negociación táctica, escucha, calibración y manejo de información imperfecta**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **retention by segment**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Disparadores y señales
 
-Al llegar a definir icp y disqualifiers, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Los clientes compran cuando ocurre algo: una nueva regulación, un cambio de dirección, un crecimiento que rompe sus procesos, un incidente, una fusión. Identificar **disparadores** permite priorizar cuentas con mayor probabilidad de compra y adaptar el momento del contacto. También hay señales **negativas** (descalificadores): cuentas sin presupuesto, sin dueño del problema, con restricciones que impiden implantar, con un proceso de compra incompatible con el ciclo de venta. Un ICP con criterios de **calificación** y de **descalificación** ahorra tiempo al equipo.
 
-### 4. disqualifier: trade-offs y efectos de segundo orden
+### 7. Revisar y ajustar
 
-**Definición:** condición que justifica no perseguir una oportunidad. Este concepto obliga a abandonar la idea de que **iCP y segmentación comercial** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de priorizar segmentos por valor y acceso, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Mark Roberge — *The Sales Acceleration Formula* aporta una lente sobre **perspectiva de Ventas aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **deal size** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **iCP y segmentación comercial**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **disqualifier** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. TAM/SAM/SOM: gobernanza, límites e integración
-
-**TAM/SAM/SOM** se define como **capas de tamaño de mercado con distinto alcance y accesibilidad** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing* se utiliza para estudiar **arquitectura de precios basada en valor, segmentación y respuesta competitiva** y contrastar la recomendación final. Al ejecutar probar messaging y win rate, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un ICP demasiado estrecho puede ocultar mercados emergentes. Reserva experimentos fuera del core y actualiza con datos, sin diluir el foco principal.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **ICP**, **segment**, **fit**, **disqualifier** y **TAM/SAM/SOM** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **iCP y segmentación comercial** no consiste en sumar cinco definiciones. Empieza por **ICP**, contrasta **segment** con **fit**, incorpora **disqualifier** como restricción o mecanismo y usa **TAM/SAM/SOM** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. analizar clientes ganados y perdidos → 2. identificar atributos de éxito → 3. definir ICP y disqualifiers → 4. priorizar segmentos por valor y acceso → 5. probar messaging y win rate**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El ICP se revisa al menos cada trimestre con datos: **conversión** por segmento, **ciclo**, **valor medio**, **retención**, **margen** y **satisfacción**. Si un segmento convierte bien pero se va rápido, el ICP está mal definido. Si un segmento inesperado muestra excelentes resultados, se prueba expandir. Se evita **sobreajustar** a pocos clientes y se **mantiene la ética comercial**: no vender a quien no se puede servir bien. Un ICP vivo se refleja en materiales, scripts, criterios de calificación y metas del equipo.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Neil Rackham — *SPIN Selling* | venta consultiva basada en preguntas de situación, problema, implicación y necesidad | ¿Qué supuesto de **iCP y segmentación comercial** ayuda a desafiar? |
-| Matthew Dixon & Brent Adamson — *The Challenger Sale* | venta compleja, insight comercial, enseñanza y control constructivo del proceso | ¿Qué supuesto de **iCP y segmentación comercial** ayuda a desafiar? |
-| Chris Voss & Tahl Raz — *Never Split the Difference* | negociación táctica, escucha, calibración y manejo de información imperfecta | ¿Qué supuesto de **iCP y segmentación comercial** ayuda a desafiar? |
-| Mark Roberge — *The Sales Acceleration Formula* | perspectiva de Ventas aplicada al problema de la clase | ¿Qué supuesto de **iCP y segmentación comercial** ayuda a desafiar? |
-| Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing* | arquitectura de precios basada en valor, segmentación y respuesta competitiva | ¿Qué supuesto de **iCP y segmentación comercial** ayuda a desafiar? |
-
-En **iCP y segmentación comercial**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **ICP**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Moore (*Crossing the Chasm*) | Segmento inicial y expansión por adyacencia. | Describe el mercado tecnológico de su época. | ¿Dónde puedes ser la opción dominante? |
+| Roberge | Datos para definir y ajustar el perfil. | Experiencia de una empresa de software. | ¿Qué rasgos explican retención y conversión? |
+| Dixon y Adamson | Cómo compran los clientes y quién influye. | Estudio de ventas complejas. | ¿Quién forma el comité de compra? |
+| Rackham | Roles del comprador y análisis de cuentas. | Enfoque de ventas grandes. | ¿Qué rol falta en tu relación? |
+| Christensen et al. (*Competing Against Luck*) | El trabajo que el cliente contrata. | Marco conceptual. | ¿Para qué trabajo te contratan? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una consultora persigue cualquier empresa con presupuesto TI. Sus mejores clientes comparten sistemas legados críticos, equipos internos pequeños y urgencia regulatoria, pero el CRM no captura esos atributos.
+**Situación (hipotética).** Una empresa de software de gestión de turnos y asistencia para equipos operativos tiene 240 clientes. Analiza retención y rentabilidad a 24 meses por sector y tamaño.
 
-**Paso 1 — analizar clientes ganados y perdidos.** La gerencia escribe primero el supuesto asociado a **ICP** y evita convertirlo en hecho. Luego busca **win rate by segment** para contrastarlo en el caso de **iCP y segmentación comercial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Segmento | Clientes | Retención a 24 meses | Margen de contribución | Ciclo de venta | Observaciones |
+|---|---|---|---|---|---|
+| Clínicas y centros de salud (50–300 empleados) | 70 | 91 % | 68 % | 45 días | Piden integración con nómina; recomiendan. |
+| Retail con turnos (100–1.000) | 60 | 78 % | 55 % | 70 días | Mucha personalización. |
+| Manufactura (200–2.000) | 40 | 64 % | 42 % | 120 días | Proyectos largos; soporte caro. |
+| Empresas pequeñas (menos de 50) | 70 | 55 % | 35 % | 10 días | Abandonan rápido; sensibles a precio. |
 
-**Paso 2 — identificar atributos de éxito.** La gerencia escribe primero el supuesto asociado a **segment** y evita convertirlo en hecho. Luego busca **CAC by segment** para contrastarlo en el caso de **iCP y segmentación comercial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** Clínicas y centros de salud mediana: mejor retención, margen y ciclo; es el candidato a ICP. Las pequeñas empresas convierten rápido y se van pronto: se atienden con un canal de autoservicio. Manufactura exige mucho y deja poco: no perseguir salvo casos con alto valor.
 
-**Paso 3 — definir ICP y disqualifiers.** La gerencia escribe primero el supuesto asociado a **fit** y evita convertirlo en hecho. Luego busca **retention by segment** para contrastarlo en el caso de **iCP y segmentación comercial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**ICP resultante.** Clínicas, centros de salud y servicios de atención de 50 a 300 empleados, con turnos rotativos, que usan planilla para asignar turnos, con un jefe de operaciones o de personas como patrocinador, y un disparador de crecimiento (nueva sede) o de una fiscalización laboral. Personas de comprador: jefe de turnos (usuario), gerente de personas (patrocinador), gerente administrativo (decisor económico), TI (integración).
 
-**Paso 4 — priorizar segmentos por valor y acceso.** La gerencia escribe primero el supuesto asociado a **disqualifier** y evita convertirlo en hecho. Luego busca **deal size** para contrastarlo en el caso de **iCP y segmentación comercial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Descalificadores.** Sin presupuesto; sistemas de nómina sin integración posible; ciclo de decisión mayor a seis meses.
 
-**Paso 5 — probar messaging y win rate.** La gerencia escribe primero el supuesto asociado a **TAM/SAM/SOM** y evita convertirlo en hecho. Luego busca **sales cycle** para contrastarlo en el caso de **iCP y segmentación comercial**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisiones.** Concentrar el 70 % del esfuerzo en el ICP; crear materiales y casos específicos de salud; un canal de autoservicio para empresas pequeñas; dejar manufactura y retail como segundo foco; revisar en dos trimestres con datos de conversión y retención.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **iCP y segmentación comercial**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El ICP surgió de datos de retención y margen, no de intuición. (2) Se distinguió entre quién paga y quién deja valor. (3) Se tomaron decisiones de foco y de canal.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **ICP** | perfil de cliente con alto ajuste esperado entre problema, producto y economía | Cuando win rate by segment es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **segment** | grupo de clientes con necesidades o comportamiento comparables | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**ICP frente a mercado total.** El mercado total mide cuántos podrían comprar; el ICP, cuántos deberían ser el foco. Un mercado grande con un ICP débil produce crecimiento caro.
 
-**Frontera de aplicación:** Un ICP demasiado estrecho puede ocultar mercados emergentes. Reserva experimentos fuera del core y actualiza con datos, sin diluir el foco principal.
+**Límites.** Los datos de clientes actuales reflejan quién compró, no quién habría comprado con otra oferta. Muestras pequeñas dan perfiles inestables. Los segmentos cambian con el mercado. Los libros citados describen contextos de tecnología y ventas B2B; su aplicación a otros rubros exige adaptación. La segmentación basada en rasgos personales o decisiones que afecten a consumidores debe respetar las normas de protección de datos y de no discriminación aplicables.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre iCP y segmentación comercial |
+| Nivel | Cómo trabaja el ICP |
 |---|---|
-| **Profesional** | usa **iCP y segmentación comercial** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **ICP** y **segment** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta win rate by segment con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si iCP y segmentación comercial cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de iCP y segmentación comercial reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **iCP y segmentación comercial** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Califica con los criterios del ICP y aporta lo que ve en terreno. |
+| **Jefe / Team Lead** | Revisa que su equipo dedique tiempo a cuentas del perfil. |
+| **Gerente** | Define el ICP con datos, lo revisa y lo traduce en mensajes y metas. |
+| **CEO / Director** | Respalda el foco y decide qué segmentos no se atienden. |
+| **Founder / Owner** | Evita vender a cualquiera y concentra su energía donde gana. |
 
 ## 🏢 Caso ejecutivo
 
-Una consultora persigue cualquier empresa con presupuesto TI. Sus mejores clientes comparten sistemas legados críticos, equipos internos pequeños y urgencia regulatoria, pero el CRM no captura esos atributos.
+Una empresa de seguridad informática para pymes tiene 900 clientes en 14 sectores y vende a empresas de 10 a 5.000 empleados. Cada vendedor aplica un guion distinto, el equipo ofrece descuentos para competir y el soporte está saturado con peticiones a medida. Un análisis muestra que el 18 % de los clientes genera el 62 % del margen, que los clientes de menos de 30 empleados se dan de baja al doble de la tasa promedio y que los de empresas de logística de 100 a 500 empleados, con una regulación reciente, tienen la mejor retención. La dirección comercial quiere «mantener todo el mercado»; la gerencia de producto, concentrarse en logística.
 
-Entrega un **decision brief de iCP y segmentación comercial** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega una **definición de ICP y segmentación** que contenga: (a) el análisis de clientes por retención, margen y ciclo con la hipótesis de ICP; (b) los segmentos evaluados con criterios y puntajes; (c) las personas de comprador, disparadores y descalificadores; (d) el segmento inicial y los de expansión, con la forma de atender a los demás; (e) cambios en mensajes, canales, precios y metas; (f) cómo se revisará con datos y qué verificaciones de datos personales y publicidad se harán.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **iCP y segmentación comercial** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. analizar clientes ganados y perdidos → 2. identificar atributos de éxito → 3. definir ICP y disqualifiers → 4. priorizar segmentos por valor y acceso → 5. probar messaging y win rate** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta win rate by segment, CAC by segment; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Analiza tus diez mejores y peores clientes y lista los rasgos que los distinguen.
+2. Redacta un ICP en una página con calificadores y descalificadores.
+3. Puntúa tres segmentos con cinco criterios.
+4. Describe tres roles del comité de compra y sus preocupaciones.
+5. Define tres métricas para revisar el ICP cada trimestre.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar ICP y segment como sinónimos | Se pierde la distinción entre “perfil de cliente con alto ajuste esperado entre problema, producto y economía” y “grupo de clientes con necesidades o comportamiento comparables” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “probar messaging y win rate” | Se saltó “analizar clientes ganados y perdidos” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. analizar clientes ganados y perdidos → 2. identificar atributos de éxito → 3. definir ICP y disqualifiers → 4. priorizar segmentos por valor y acceso → 5. probar messaging y win rate y marca el primer supuesto no demostrado. |
-| Optimizar solo win rate by segment | La métrica local sustituyó al resultado del sistema | Contrástala con CAC by segment y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre iCP y segmentación comercial | Un ICP demasiado estrecho puede ocultar mercados emergentes. Reserva experimentos fuera del core y actualiza con datos, sin diluir el foco principal. |
-| No fijar revisión | Una decisión sobre iCP y segmentación comercial se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Vender a todos | Se teme perder oportunidades | Elegir un segmento inicial. |
+| ICP por intuición | Se describe al cliente deseado | Partir de datos de retención y margen. |
+| Confundir el que paga con el que obtiene valor | Se mira la venta | Medir retención y rentabilidad. |
+| Un solo rol del comprador | Se habla con quien atiende | Mapear el comité. |
+| No definir descalificadores | Se acepta toda oportunidad | Criterios de descalificación. |
+| ICP que nunca se revisa | Se considera definitivo | Revisión trimestral con datos. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **ICP** y **segment** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **fit** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **analizar clientes ganados y perdidos → identificar atributos de éxito** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **win rate by segment** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **iCP y segmentación comercial**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un ICP demasiado estrecho puede ocultar mercados emergentes. Reserva experimentos fuera del core y actualiza con datos, sin diluir el foco principal.**?
+1. ¿Qué es un ICP y de dónde se obtiene?
+2. ¿Qué es un segmento inicial y por qué conviene?
+3. ¿Qué características debe tener una segmentación útil?
+4. ¿Qué criterios se usan para evaluar segmentos?
+5. ¿Qué papel cumplen los disparadores y los descalificadores?
+6. ¿Qué es el trabajo a realizar de un cliente?
+7. ¿Qué límite tienen los datos de clientes actuales?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La descripción de los clientes para los que la propuesta es más valiosa y rentable; se obtiene de los clientes que más valor reciben y dejan, contrastados con los que se van.
+2. Un nicho donde se concentra el esfuerzo para dominarlo antes de ampliar; evita la dilución y permite ser la opción dominante.
+3. Que los grupos sean identificables, accesibles, suficientemente grandes y respondan de forma distinta.
+4. Tamaño y crecimiento, intensidad del problema, ajuste, capacidad de pago, accesibilidad, competencia, ciclo y potencial de expansión.
+5. Los disparadores priorizan cuentas con mayor probabilidad de compra; los descalificadores ahorran tiempo en cuentas sin presupuesto o sin posibilidad de implantación.
+6. El progreso que quiere lograr al contratar el producto; explica por qué compra.
+7. Reflejan quién compró, no quién habría comprado con otra oferta, y las muestras pequeñas dan perfiles inestables.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/122-icp-y-segmentacion-comercial/`:
 
-- `risk-governance-brief.md` con el problema específico de **iCP y segmentación comercial**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **iCP y segmentación comercial** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **ICP**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una consultora persigue cualquier empresa con presupuesto TI. Sus mejores clientes comparten sistemas legados críticos, equipos internos pequeños y urgencia regulatoria, pero el CRM no captura esos atributos.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con los riesgos de foco y de dependencia de segmentos del caso ejecutivo;
+- `commercial-decision-brief.md` (plantilla [Commercial decision brief](../../../../templates/commercial-decision-brief.md)) con el ICP, la segmentación y las decisiones de foco;
+- `decision-journal.md` con los datos usados y la revisión trimestral.
 
 ## 📗 Fuentes y verificación
 
-- Neil Rackham — *SPIN Selling* (Highbridge Audio, 1998). **Uso en esta clase:** venta consultiva basada en preguntas de situación, problema, implicación y necesidad. Lectura selectiva sobre **icp y segmentación comercial**. **Localizador:** [ISBN-13 9781565112605](https://openlibrary.org/isbn/9781565112605).
-- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** venta compleja, insight comercial, enseñanza y control constructivo del proceso. Lectura selectiva sobre **icp y segmentación comercial**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
-- Chris Voss & Tahl Raz — *Never Split the Difference* (Penguin Random House, 2016). **Uso en esta clase:** negociación táctica, escucha, calibración y manejo de información imperfecta. Lectura selectiva sobre **icp y segmentación comercial**. **Localizador:** [ISBN-13 9781847941480](https://openlibrary.org/isbn/9781847941480).
-- Mark Roberge — *The Sales Acceleration Formula* (2015). **Uso en esta clase:** perspectiva de Ventas aplicada al problema de la clase. Lectura selectiva sobre **icp y segmentación comercial**. **Localizador:** [ISBN-13 9781119047070](https://openlibrary.org/isbn/9781119047070).
-- Thomas T. Nagle, John E. Hogan & Joseph Zale — *The Strategy and Tactics of Pricing* (Taylor & Francis Group, 1987). **Uso en esta clase:** arquitectura de precios basada en valor, segmentación y respuesta competitiva. Lectura selectiva sobre **icp y segmentación comercial**. **Localizador:** [ISBN-13 9781315266220](https://openlibrary.org/isbn/9781315266220).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **icp y segmentación comercial**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **icp y segmentación comercial** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **icp y segmentación comercial**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **icp y segmentación comercial** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **icp y segmentación comercial** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **icp y segmentación comercial** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Geoffrey A. Moore — *Crossing the Chasm* (HarperBusiness, 1995). **Uso en esta clase:** segmento inicial y expansión por adyacencia. Lectura selectiva sobre **icp y segmentación comercial**. **Localizador:** [ISBN-13 9780887307171](https://openlibrary.org/isbn/9780887307171).
+- Mark Roberge — *The Sales Acceleration Formula* (2015). **Uso en esta clase:** datos para definir y ajustar el perfil de cliente. Lectura selectiva sobre **icp y segmentación comercial**. **Localizador:** [ISBN-13 9781119047070](https://openlibrary.org/isbn/9781119047070).
+- Matthew Dixon & Brent Adamson — *The Challenger Sale* (Portfolio/Penguin, 2011). **Uso en esta clase:** cómo compran los clientes y quién influye. Lectura selectiva sobre **icp y segmentación comercial**. **Localizador:** [ISBN-13 9781591844358](https://openlibrary.org/isbn/9781591844358).
+- Neil Rackham — *Major Account Sales Strategy* (McGraw-Hill, 1989). **Uso en esta clase:** roles del comprador y análisis de cuentas. Lectura selectiva sobre **icp y segmentación comercial**. **Localizador:** [ISBN-13 9780070511149](https://openlibrary.org/isbn/9780070511149).
+- Clayton M. Christensen et al. — *Competing Against Luck* (HarperBusiness, 2016). **Uso en esta clase:** el trabajo que el cliente contrata. Lectura selectiva sobre **icp y segmentación comercial**. **Localizador:** [ISBN-13 9780062435613](https://openlibrary.org/isbn/9780062435613).
 
-> **Regla de fuentes para ICP y segmentación comercial:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **iCP y segmentación comercial** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para ICP y segmentación comercial:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de protección de datos y no discriminación. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

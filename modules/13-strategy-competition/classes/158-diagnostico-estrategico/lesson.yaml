@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 4 — Gerente → Director"
 outcome: "formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir symptom de root cause mediante evidencia observable."
-  - "Aplicar la secuencia: definir gap respecto a objetivo → descomponer hipótesis causales → triangular datos internos y externos → priorizar mecanismo material y controlable → redactar diagnóstico que explique y delimite."
-  - "Interpretar market share trend, unit economics, customer switching sin atribuir causalidad automática."
-  - "Resolver el caso de diagnóstico estratégico con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Formular las preguntas del diagnóstico: entorno, industria, capacidades y resultados."
+  - "Reunir evidencia con fuentes y distinguir hechos de interpretaciones."
+  - "Identificar las causas de fondo de un desempeño."
+  - "Condensar el diagnóstico en un desafío crítico con sus supuestos."
+  - "Evitar los errores típicos: inventario, anclaje y atribución a la suerte."
 deliverable: "strategy-memo.md"
 references:
-  - "Michael E. Porter — *Competitive Strategy*"
-  - "Michael E. Porter — *Competitive Advantage*"
-  - "W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy*"
   - "Richard Rumelt — *Good Strategy/Bad Strategy*"
-  - "Hamilton Helmer — *7 Powers*"
+  - "Michael E. Porter — *Competitive Strategy*"
+  - "A.G. Lafley & Roger L. Martin — *Playing to Win*"
   - "Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy*"
+  - "Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise*"
 limits:
-  - "Un diagnóstico siempre simplifica. Evita tratarlo como verdad definitiva; registra explicaciones alternativas y qué señal obligaría a revisarlo."
+  - "Los datos disponibles son imperfectos y las explicaciones de resultados pasados no garantizan el futuro."
 evidence_signals:
-  - "market share trend"
-  - "unit economics"
-  - "customer switching"
-  - "capability gap"
-  - "constraint utilization"
+  - "hechos con fuente separados de interpretaciones"
+  - "resultados descompuestos en causas"
+  - "hipótesis rivales contrastadas"
+  - "desafío crítico con supuestos"

@@ -1,65 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g167 d-g167" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g167">Ficha visual de la clase 167: Ejecución y adaptación de estrategia</title>
-<desc id="d-g167">Conceptos: strategic initiative; leading indicator; lagging indicator; strategy review; resource reallocation. Método: traducir choices a capacidades e iniciativas → asignar owners y recursos → definir leading y lagging indicators → revisar hipótesis en cadencia → reallocate o pivotar según evidencia.</desc>
-<defs><marker id="p-g167" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 167 · Ejecución y adaptación de estrategia</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 13 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >strategic initiative</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >intervención temporal que construye una capacidad o</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >posición</text>
-<circle cx="38" cy="184.12" r="5" fill="#bc4c00"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >leading indicator</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >señal temprana del mecanismo estratégico</text>
-<circle cx="38" cy="242.12" r="5" fill="#bc4c00"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >lagging indicator</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >resultado que confirma desempeño después</text>
-<circle cx="38" cy="300.12" r="5" fill="#bc4c00"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >strategy review</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >foro para evaluar hipótesis y no solo status</text>
-<circle cx="38" cy="358.12" r="5" fill="#bc4c00"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >resource reallocation</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >movimiento deliberado de capital y talento hacia</text>
-<text x="54" y="397.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >prioridades</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >traducir choices a capacidades e iniciativas</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >asignar owners y recursos</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir leading y lagging indicators</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >revisar hipótesis en cadencia</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >reallocate o pivotar según evidencia</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >resource alignment</text>
-<rect x="188.2" y="456.24" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="201.2" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="212.2" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >initiative outcome</text>
-<rect x="348.4" y="456.24" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="361.4" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="372.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >leading indicator movement</text>
-<rect x="563.8" y="456.24" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="576.8" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="587.8" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >assumption status</text>
-<rect x="717.1" y="456.24" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="730.1" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="741.1" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >kill-continue decisions</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Una cadencia de estrategia puede degenerar en PMO. Protege tiempo para hipótesis, trade-offs y reasignación, y evita exigir métricas</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >prematuras a apuestas exploratorias.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 522.56" width="1040" role="img" aria-labelledby="t-s167 d-s167" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s167">Clase 167 · De la estrategia a la ejecución con señales de ajuste</title>
+<desc id="d-s167">Cinco pasos para ejecutar y adaptar una estrategia: elegir, traducir en prioridades, ejecutar, leer señales y ajustar.</desc>
+<defs><marker id="p-s167" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="522.56" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 167 · De la estrategia a la ejecución con señales de ajuste</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Kaplan &amp; Norton · Rumelt · Eisenhardt (1989)</text>
+<rect x="28" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<circle cx="52.0" cy="122.0" r="13" fill="#0969da"/>
+<text x="52" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Elegir</text>
+<text x="44" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Diagnóstico, política y</text>
+<text x="44" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >apuestas explícitas.</text>
+<path d="M260.5,152.875 L276.5,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s167)"/>
+<rect x="279.5" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<circle cx="303.5" cy="122.0" r="13" fill="#1a7f37"/>
+<text x="303.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Traducir</text>
+<text x="295.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Prioridades, recursos y</text>
+<text x="295.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >responsables claros.</text>
+<path d="M512,152.875 L528,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s167)"/>
+<rect x="531" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<circle cx="555.0" cy="122.0" r="13" fill="#bc4c00"/>
+<text x="555" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Ejecutar</text>
+<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Ritmo de gestión con</text>
+<text x="547" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >decisiones y seguimiento.</text>
+<path d="M763.5,152.875 L779.5,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s167)"/>
+<rect x="782.5" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<circle cx="806.5" cy="122.0" r="13" fill="#8250df"/>
+<text x="806.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Leer señales</text>
+<text x="798.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Indicadores de entorno y de</text>
+<text x="798.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >resultados que ponen a</text>
+<text x="798.5" y="186.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >prueba los supuestos.</text>
+<path d="M897.25,211.75 V223.75 H142.75 V241.75" stroke="#59636e" stroke-width="2" fill="none" marker-end="url(#p-s167)"/>
+<rect x="28" y="243.75" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<circle cx="52.0" cy="269.75" r="13" fill="#cf222e"/>
+<text x="52" y="274.75" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="72" y="267.75" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Ajustar</text>
+<text x="44" y="299.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Cambiar, reforzar o detener</text>
+<text x="44" y="317" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >con criterios previos.</text>
+<path d="M142.75,359.5 V379.5 H142.75 V213.75" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="7 6" marker-end="url(#p-s167)"/>
+<text x="142.75" y="373.5" font-size="11.5" font-weight="600" fill="#59636e" text-anchor="middle" >la estrategia se revisa con lo que se aprende</text>
+<rect x="28" y="395.5" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="417.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >La mayoría de las estrategias fracasan en la ejecución o por no adaptarse cuando los supuestos cambian. Se necesitan señales definidas</text>
+<text x="44" y="434.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >de antemano para saber cuándo ajustar.</text>
+<text x="28" y="482" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Cambiar la estrategia con cada noticia destruye la coherencia; no cambiarla ante evidencia contraria destruye valor.</text>
 </svg>

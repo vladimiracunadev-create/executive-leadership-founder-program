@@ -10,217 +10,193 @@
 
 ## 🎯 Propósito
 
-Crecer puede significar profundizar mercado, entrar en nuevos segmentos o geografías, ampliar producto, integrar cadena o adquirir. Cada opción cambia riesgo, capital, capacidades y tiempo. La matriz de Ansoff es un inicio, no una recomendación automática.
+Crecer es el objetivo declarado de casi toda empresa y el origen de buena parte de sus errores más caros. Se abren sucursales sin entender por qué funcionan las existentes, se adquieren empresas por su tamaño y no por su encaje, se lanzan productos para clientes que no los pidieron, se entra a otros países con las mismas recetas. El crecimiento no es bueno en sí mismo: solo vale si **crea valor**, es decir, si el retorno de lo invertido supera el costo del capital (clase 118) y si no destruye la coherencia ni la capacidad que sostienen el negocio. Elegir **por dónde crecer** exige comparar alternativas con evidencia, considerar el riesgo creciente al alejarse de lo que se conoce y avanzar por etapas.
 
-La salida de esta parte es **formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **opciones de crecimiento** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en las elecciones de Lafley y Martin sobre dónde jugar y cómo ganar, en el análisis de McGrath sobre portafolios de ventajas transitorias, en la innovación en valor de Kim y Mauborgne y en la evaluación de inversiones de Brealey, Myers y Allen. Al terminar sabrás clasificar las rutas de crecimiento según producto y mercado, evaluar el riesgo y el retorno esperado de cada una, decidir entre crecer orgánicamente, adquirir o aliarse y planificar el crecimiento por etapas con criterios de detención.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `market penetration`, `market development`, `product development`, `diversification`, `adjacency` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. definir objetivo de crecimiento → 2. mapear opciones y sinergias → 3. estimar TAM economics y capacidades → 4. comparar riesgo y reversibilidad → 5. secuenciar prueba antes de escalar** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** incremental revenue, payback, cross-sell sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Clasificar** las rutas de crecimiento por producto y mercado.
+2. **Evaluar** el valor esperado y el riesgo de cada ruta.
+3. **Decidir** entre crecer orgánicamente, adquirir o aliarse.
+4. **Diseñar** el crecimiento por etapas con hitos y criterios de detención.
+5. **Reconocer** los errores típicos de crecimiento que destruyen valor.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define market penetration y market development sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con incremental revenue y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuál de tus últimas iniciativas de crecimiento creó valor y cuál no, y qué las distinguió? |
+| 20–60 min | Rutas, riesgo, valor esperado, adquirir frente a construir y etapas. |
+| 60–105 min | Ejemplo trabajado: comparar cuatro rutas de crecimiento de una panadería regional. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **market penetration** | crecer con oferta actual en mercado actual | Distingue un hecho compatible y otro que lo refute. |
-| **market development** | llevar oferta actual a nuevos mercados | Distingue un hecho compatible y otro que lo refute. |
-| **product development** | nuevas ofertas para clientes existentes | Distingue un hecho compatible y otro que lo refute. |
-| **diversification** | nuevo producto y nuevo mercado simultáneamente | Distingue un hecho compatible y otro que lo refute. |
-| **adjacency** | movimiento cercano que reutiliza capacidades o clientes | Distingue un hecho compatible y otro que lo refute. |
+| **Penetración** | Vender más del producto actual al mercado actual. | Más participación y frecuencia. |
+| **Nuevos mercados** | Llevar el producto actual a clientes, segmentos o geografías nuevas. | Mismo producto, otro cliente. |
+| **Nuevos productos** | Ofrecer productos nuevos a clientes actuales. | Mismo cliente, otra oferta. |
+| **Diversificación** | Producto nuevo en mercado nuevo. | Mayor distancia y riesgo. |
+| **Crecimiento rentable** | Crecimiento cuyo retorno supera el costo del capital. | ROIC sobre costo de capital. |
+| **Opción real** | Derecho a invertir más si el aprendizaje es favorable. | Inversión por etapas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 165: 1. definir objetivo de crecimiento → 2. mapear opciones y sinergias → 3. estimar TAM economics y capacidades → 4. comparar riesgo y reversibilidad → 5. secuenciar prueba antes de escalar](modelo-mental.svg)
+![Cuatro rutas de crecimiento según producto y mercado: penetración, nuevos mercados, nuevos productos y diversificación, con el riesgo creciente de cada una.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir objetivo de crecimiento → 2. mapear opciones y sinergias → 3. estimar TAM economics y capacidades → 4. comparar riesgo y reversibilidad → 5. secuenciar prueba antes de escalar
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Crecer puede significar profundizar mercado, entrar en nuevos segmentos o geografías, ampliar producto, integrar cadena o adquirir. Cada opción cambia riesgo, capital, capacidades y tiempo. La matriz de Ansoff es un inicio, no una recomendación automática.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Crecimiento no equivale a creación de valor. Una expansión que destruye margen, foco o retorno sobre capital puede hacer la empresa mayor y peor.**
+**Cómo leer el diagrama.** Una matriz con producto (existente o nuevo) y mercado (existente o nuevo). **Penetración** (producto y mercado actuales) tiene el menor riesgo y un techo de crecimiento. **Nuevos mercados** (producto actual en mercado nuevo) y **nuevos productos** (producto nuevo al mercado actual) tienen riesgo medio y se apoyan en lo conocido. **Diversificación** (producto y mercado nuevos) tiene el mayor riesgo y el mayor aprendizaje. La nota recuerda que el riesgo crece cuando la empresa se aleja de lo que conoce y que se expande por etapas con hitos y criterios de detención.
 
 ## 📖 Desarrollo
 
-### 1. market penetration: mecanismo central
+### 1. Por dónde crecer: producto y mercado
 
-**market penetration** se entiende aquí como **crecer con oferta actual en mercado actual**. Esta es la pieza causal o estructural desde la que se inicia **opciones de crecimiento**: antes de definir objetivo de crecimiento, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La clasificación más usada ordena las rutas según se conserve o cambie el **producto** y el **mercado**. **Penetración**: más ventas de lo mismo a los mismos clientes (mayor frecuencia, más participación, precios). **Nuevos mercados**: lo mismo a otros clientes (segmentos, canales, regiones, países). **Nuevos productos**: otros productos a los mismos clientes. **Diversificación**: otros productos a otros clientes. La regla práctica: cuanto más se aleja la empresa de **lo que conoce** (clientes, tecnología, capacidades, canales), mayor el riesgo. Lafley y Martin enfatizan que el crecimiento debe responder a **dónde jugar** y **cómo ganar** elegidos, y no a la oportunidad del momento.
 
-La lectura rectora de este bloque es Michael E. Porter — *Competitive Strategy*. Su aporte se usa para examinar **trade-offs, posicionamiento, fit y ventaja competitiva**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **incremental revenue**; regístrala con periodo, unidad, población y baseline.
+### 2. Crecer donde se tiene ventaja
 
-Relaciona el mecanismo con **market development**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El crecimiento más seguro suele ser el que **aprovecha ventajas existentes**: capacidades, marca, relaciones, datos, escala. Se evalúa para cada ruta: ¿qué ventaja se transfiere?, ¿qué capacidades nuevas se necesitan?, ¿qué ventaja tienen los competidores del nuevo terreno? Un error clásico es **extrapolar el éxito** a un terreno donde la ventaja no existe (un excelente operador de supermercados que abre restaurantes sin capacidades de restauración). McGrath recomienda ver el crecimiento como el **lanzamiento de nuevas ventajas** dentro de un portafolio, con una disciplina de inversión por etapas y un abandono ordenado de las que no funcionan.
 
-### 2. market development: frontera conceptual y error de clasificación
+### 3. Valor esperado y riesgo
 
-**Definición operacional:** llevar oferta actual a nuevos mercados. Su valor está en distinguirlo de **market penetration** y **product development**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Cada ruta se evalúa con **valor esperado** y **riesgo**: inversión requerida, beneficios si resulta, **probabilidad de éxito** (con la visión desde afuera: ¿cómo les fue a iniciativas similares?) y tiempo. El valor esperado simple es probabilidad de éxito × beneficio − inversión; con descuento (clase 118) para flujos futuros. Brealey, Myers y Allen subrayan que la clave es **comparar con el costo del capital ajustado por riesgo**: una ruta de alto riesgo exige un retorno mayor. Las estimaciones de crecimiento son optimistas por lo general; se contrastan con casos comparables y se prueban con escenarios (clase 164).
 
-Contrasta el problema con Michael E. Porter — *Competitive Advantage*, que aporta una mirada sobre **cadena de valor, actividades y fuentes de ventaja de costo o diferenciación**. Formula dos mini-casos: uno que sí satisface la definición de **market development** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **payback** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Crear, comprar o aliarse
 
-Antes de mapear opciones y sinergias, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Una vez elegida la ruta, se decide **cómo** crecer. **Orgánico**: se construye con recursos propios; más control y aprendizaje, más lento. **Adquisición**: se compra una empresa; rapidez y acceso a capacidades, con riesgos de sobreprecio, integración cultural y pérdida de talento; muchas adquisiciones destruyen valor para el comprador, de modo que se exige una tesis clara de **por qué la empresa vale más en nuestras manos** que en las suyas. **Alianza o licencia**: se comparte riesgo y se accede a capacidades; flexibilidad, con dependencia (clase 166). La decisión depende de la urgencia, de las capacidades, del precio y del riesgo.
 
-### 3. product development: operacionalización y medición
+### 4b. Adquisiciones: disciplina de valoración
 
-**product development** significa **nuevas ofertas para clientes existentes**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Una adquisición se evalúa con la valoración de la clase 119 (flujos descontados y múltiplos), las **sinergias** esperadas (de costo, de ingreso) con su probabilidad y plazo, los **costos de integración** y los **riesgos** (clientes, talento, cultura, regulación). Un principio: **no pagar por las sinergias** que el vendedor no puede capturar sin la compradora. Se define quién integra y cómo antes de firmar, y se establecen **criterios de salida**. Las adquisiciones tienen requisitos legales (competencia, financieros, laborales) que se verifican con asesoría.
 
-Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy* orienta este bloque mediante **perspectiva de Estrategia aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **cross-sell**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 5. Crecer por etapas: opciones
 
-Al llegar a estimar tam economics y capacidades, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cuando la incertidumbre es alta, conviene **invertir por etapas**: un primer paso pequeño para aprender, con un hito que decide si continuar. Es una **opción**: se paga una prima (el costo de la etapa inicial) por el derecho a invertir más si el aprendizaje es favorable. Evita comprometer todo el capital sin evidencia. El costo de ir por etapas es la **velocidad** (los rivales pueden adelantarse) y la posible pérdida de economías de escala; se compensa con criterios claros de avance y recursos disponibles para acelerar cuando las señales sean positivas. Se definen también **criterios de detención** antes de comenzar (clase 083).
 
-### 4. diversification: trade-offs y efectos de segundo orden
+### 6. Capacidad de la organización para crecer
 
-**Definición:** nuevo producto y nuevo mercado simultáneamente. Este concepto obliga a abandonar la idea de que **opciones de crecimiento** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de comparar riesgo y reversibilidad, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
+El crecimiento exige capacidades de **gestión**: tomar decisiones más rápido, mantener la cultura, contratar y formar, estandarizar procesos (clase 087), controlar la calidad (clase 091), financiar el capital de trabajo (clase 114) y sostener la **coherencia** (clase 162). Muchas empresas crecen más rápido de lo que su organización puede absorber y pierden calidad, margen o talento. Se evalúa la **capacidad de crecer sin romperse**: ¿qué proceso se rompería primero?, ¿qué personas son cuello de botella?, ¿qué ocurriría con el flujo de caja? Un crecimiento sostenible es el que la organización y la caja pueden financiar.
 
-W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* aporta una lente sobre **perspectiva de Estrategia aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **new-market retention** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
+### 7. Errores que destruyen valor
 
-Haz un *pre-mortem* de **opciones de crecimiento**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **diversification** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. adjacency: gobernanza, límites e integración
-
-**adjacency** se define como **movimiento cercano que reutiliza capacidades o clientes** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-A.G. Lafley & Roger L. Martin — *Playing to Win* se utiliza para estudiar **elecciones integradas de dónde jugar y cómo ganar** y contrastar la recomendación final. Al ejecutar secuenciar prueba antes de escalar, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Crecimiento no equivale a creación de valor. Una expansión que destruye margen, foco o retorno sobre capital puede hacer la empresa mayor y peor.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **market penetration**, **market development**, **product development**, **diversification** y **adjacency** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **opciones de crecimiento** no consiste en sumar cinco definiciones. Empieza por **market penetration**, contrasta **market development** con **product development**, incorpora **diversification** como restricción o mecanismo y usa **adjacency** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir objetivo de crecimiento → 2. mapear opciones y sinergias → 3. estimar TAM economics y capacidades → 4. comparar riesgo y reversibilidad → 5. secuenciar prueba antes de escalar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Los más frecuentes: **crecer por tamaño** (más ingresos sin retorno), **diversificación sin ventaja**, **entrar a mercados atractivos sin capacidades**, **sobreestimar sinergias**, **adquirir por prestigio o por miedo**, **expandir sin probar un modelo repetible**, **ignorar el costo del capital** y **subestimar la integración**. Rumelt advierte contra la **dispersión** de recursos: demasiados frentes con pocos recursos cada uno. Una disciplina útil: antes de aprobar una ruta, exigir la tesis: «ganaremos aquí porque …» y los supuestos críticos con su prueba.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Porter — *Competitive Strategy* | trade-offs, posicionamiento, fit y ventaja competitiva | ¿Qué supuesto de **opciones de crecimiento** ayuda a desafiar? |
-| Michael E. Porter — *Competitive Advantage* | cadena de valor, actividades y fuentes de ventaja de costo o diferenciación | ¿Qué supuesto de **opciones de crecimiento** ayuda a desafiar? |
-| Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **opciones de crecimiento** ayuda a desafiar? |
-| W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **opciones de crecimiento** ayuda a desafiar? |
-| A.G. Lafley & Roger L. Martin — *Playing to Win* | elecciones integradas de dónde jugar y cómo ganar | ¿Qué supuesto de **opciones de crecimiento** ayuda a desafiar? |
-
-En **opciones de crecimiento**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **market penetration**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Lafley y Martin | Dónde jugar y cómo ganar como base de las decisiones de crecimiento. | Marco general. | ¿En qué ventaja se apoya la ruta? |
+| McGrath | Portafolio de ventajas transitorias y disciplina de lanzar y abandonar. | Poca guía cuantitativa. | ¿Qué abandonarás si no funciona? |
+| Kim y Mauborgne | Crecer creando espacios nuevos con innovación en valor. | Casos seleccionados. | ¿Qué valor nuevo ofreces? |
+| Brealey, Myers y Allen | Valor esperado, costo de capital y opciones reales. | Teoría con supuestos. | ¿Supera el retorno el costo del capital con riesgo? |
+| Rumelt | Concentración de recursos y rechazo a la dispersión. | Sin método cuantitativo. | ¿Dónde concentras? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa B2B saturó su mercado local y considera Brasil, una nueva línea fintech y una adquisición. Cada opción se presenta con el mismo crecimiento esperado, sin ajustar riesgo ni capacidades.
+**Situación (hipotética).** Una panadería-pastelería regional con 14 locales (ventas USD 18 millones, margen operacional 8 %) evalúa cuatro rutas de crecimiento con capital disponible de USD 5 millones.
 
-**Paso 1 — definir objetivo de crecimiento.** La gerencia escribe primero el supuesto asociado a **market penetration** y evita convertirlo en hecho. Luego busca **incremental revenue** para contrastarlo en el caso de **opciones de crecimiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Ruta | Descripción | Inversión (USD M) | Prob. de éxito | Valor si resulta (USD M, valor presente) | Valor esperado (USD M) |
+|---|---|---|---|---|---|
+| Penetración | Ampliar horarios y productos de media tarde en locales actuales | 0,4 | 70 % | 1,5 | 0,7 × 1,5 − 0,4 = **0,65** |
+| Nuevos mercados | Abrir 5 locales en una ciudad vecina | 1,2 | 50 % | 3,5 | 0,5 × 3,5 − 1,2 = **0,55** |
+| Nuevos productos | Línea de comidas preparadas para oficinas | 1,0 | 45 % | 3,0 | 0,45 × 3,0 − 1,0 = **0,35** |
+| Diversificación | Cadena de cafeterías de especialidad con otra marca | 2,5 | 20 % | 9,0 | 0,2 × 9,0 − 2,5 = **−0,70** |
 
-**Paso 2 — mapear opciones y sinergias.** La gerencia escribe primero el supuesto asociado a **market development** y evita convertirlo en hecho. Luego busca **payback** para contrastarlo en el caso de **opciones de crecimiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** La penetración tiene el mejor valor esperado y el menor riesgo, pero un techo de crecimiento; nuevos mercados es atractivo si el modelo de local es repetible; nuevos productos depende de capacidades de logística; diversificación tiene valor esperado negativo con la información actual, aunque su beneficio máximo es alto.
 
-**Paso 3 — estimar TAM economics y capacidades.** La gerencia escribe primero el supuesto asociado a **product development** y evita convertirlo en hecho. Luego busca **cross-sell** para contrastarlo en el caso de **opciones de crecimiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Crecer por etapas (diversificación).** Etapa 1: prueba de 2 cafeterías piloto por USD 0,3 millones; si el desempeño cumple los criterios (ventas por local ≥ USD 450.000 anuales, margen de local ≥ 12 %, probabilidad de éxito sube a 50 %), invertir USD 2,2 millones más, con éxito del 50 % de escalar con valor de USD 9,0 millones. Valor esperado de la ruta por etapas: −0,3 + 0,4 × (0,5 × 9,0 − 2,2) = −0,3 + 0,4 × 2,3 = **0,62** millones, frente a −0,70 de comprometer todo desde el inicio. La opción de esperar cambia el signo.
 
-**Paso 4 — comparar riesgo y reversibilidad.** La gerencia escribe primero el supuesto asociado a **diversification** y evita convertirlo en hecho. Luego busca **new-market retention** para contrastarlo en el caso de **opciones de crecimiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Capacidad de crecer.** La panadería tiene un solo centro de producción al 82 % de su capacidad; abrir 5 locales exige ampliarlo (USD 0,8 millones) y un jefe de operaciones adicional; el capital de trabajo (USD 0,3 millones) se recupera al cierre. Incorporar la ampliación reduce el valor esperado de «nuevos mercados» de 0,55 a −0,25 millones (0,5 × 3,5 − 1,2 − 0,8).
 
-**Paso 5 — secuenciar prueba antes de escalar.** La gerencia escribe primero el supuesto asociado a **adjacency** y evita convertirlo en hecho. Luego busca **capability reuse** para contrastarlo en el caso de **opciones de crecimiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisión.** (1) Ejecutar la penetración ahora; (2) un piloto de nuevos mercados en una sola ciudad con un local más; (3) probar las comidas preparadas con un grupo de 40 oficinas; (4) mantener la diversificación como opción por etapas condicionada a la caja generada. No se adquieren empresas en esta fase. Se revisan los resultados a los seis meses con criterios previos.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **opciones de crecimiento**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El riesgo aumentó al alejarse de lo conocido. (2) La inversión por etapas cambió el valor esperado. (3) Se consideró la capacidad de la organización para absorber el crecimiento.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **market penetration** | crecer con oferta actual en mercado actual | Cuando incremental revenue es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **market development** | llevar oferta actual a nuevos mercados | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Crecimiento frente a creación de valor.** Crecer en ingresos no es crear valor: lo segundo exige retorno sobre capital por encima del costo de capital, que es el criterio decisivo.
 
-**Frontera de aplicación:** Crecimiento no equivale a creación de valor. Una expansión que destruye margen, foco o retorno sobre capital puede hacer la empresa mayor y peor.
+**Límites.** Las probabilidades y los valores del ejemplo son juicios, no datos; la visión desde afuera ayuda pero no elimina el error. Las clasificaciones de rutas no recogen la complejidad de iniciativas mixtas. Las opciones reales tienen costos de velocidad y de coordinación. Las adquisiciones, alianzas y expansiones internacionales tienen implicancias de competencia, laborales, tributarias y regulatorias que se verifican con asesoría y con las normas vigentes.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre opciones de crecimiento |
+| Nivel | Cómo participa en las decisiones de crecimiento |
 |---|---|
-| **Profesional** | usa **opciones de crecimiento** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **market penetration** y **market development** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta incremental revenue con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si opciones de crecimiento cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de opciones de crecimiento reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **opciones de crecimiento** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta información sobre clientes y operaciones que afecta a la tesis. |
+| **Jefe / Team Lead** | Prueba pilotos con criterios y reporta con honestidad. |
+| **Gerente** | Evalúa rutas con valor esperado y capacidad de absorber el crecimiento. |
+| **CEO / Director** | Decide dónde crecer, cómo y cuándo detener. |
+| **Founder / Owner** | Crece donde tiene ventaja y evita diversificarse por entusiasmo. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa B2B saturó su mercado local y considera Brasil, una nueva línea fintech y una adquisición. Cada opción se presenta con el mismo crecimiento esperado, sin ajustar riesgo ni capacidades.
+Una empresa de software de gestión para clínicas tiene 1.600 clientes y USD 40 millones de ingresos anuales, con crecimiento de 8 % y buena rentabilidad. El directorio considera cinco rutas: (1) vender módulos adicionales (pagos, historia clínica avanzada) a clientes actuales; (2) entrar a hospitales públicos (ciclos largos, licitaciones); (3) expandirse a México y Colombia con el producto actual; (4) adquirir una empresa de telemedicina (USD 22 millones, 70 empleados, pérdidas de USD 3 millones anuales); (5) lanzar una aplicación de salud para pacientes. La empresa tiene USD 15 millones de caja, un equipo comercial de 35 personas, una organización de soporte al límite y un fuerte conocimiento del sector clínico privado. Las ventas de módulos a clientes actuales tuvieron una tasa de adopción de 22 % en un piloto.
 
-Entrega un **decision brief de opciones de crecimiento** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de rutas de crecimiento** que contenga: (a) la clasificación de las cinco rutas y las ventajas que cada una aprovecha; (b) el valor esperado y el riesgo de cada una con supuestos y fuentes; (c) la decisión de crecer orgánicamente, adquirir o aliarse para las rutas elegidas; (d) la evaluación de la adquisición, con sinergias, integración y riesgos; (e) el plan por etapas con hitos y criterios de detención, y la capacidad de la organización para absorber el crecimiento; (f) las verificaciones regulatorias, de competencia, de datos de salud y de licitaciones públicas que se harán con las normas vigentes y asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **opciones de crecimiento** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir objetivo de crecimiento → 2. mapear opciones y sinergias → 3. estimar TAM economics y capacidades → 4. comparar riesgo y reversibilidad → 5. secuenciar prueba antes de escalar** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta incremental revenue, payback; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Clasifica tus tres últimas iniciativas de crecimiento en las cuatro rutas y evalúa su resultado.
+2. Estima el valor esperado de dos rutas con probabilidad de éxito basada en casos comparables.
+3. Diseña un plan por etapas para la ruta de mayor riesgo con hitos y criterios de detención.
+4. Identifica qué proceso de tu organización se rompería primero si crecieras el doble.
+5. Redacta la tesis «ganaremos aquí porque…» de una ruta y los supuestos críticos.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar market penetration y market development como sinónimos | Se pierde la distinción entre “crecer con oferta actual en mercado actual” y “llevar oferta actual a nuevos mercados” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “secuenciar prueba antes de escalar” | Se saltó “definir objetivo de crecimiento” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir objetivo de crecimiento → 2. mapear opciones y sinergias → 3. estimar TAM economics y capacidades → 4. comparar riesgo y reversibilidad → 5. secuenciar prueba antes de escalar y marca el primer supuesto no demostrado. |
-| Optimizar solo incremental revenue | La métrica local sustituyó al resultado del sistema | Contrástala con payback y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre opciones de crecimiento | Crecimiento no equivale a creación de valor. Una expansión que destruye margen, foco o retorno sobre capital puede hacer la empresa mayor y peor. |
-| No fijar revisión | Una decisión sobre opciones de crecimiento se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Crecer por tamaño | Se mide ingreso | Exigir retorno sobre el costo de capital. |
+| Diversificar sin ventaja | Se extrapola el éxito | Evaluar qué ventaja se transfiere. |
+| Sobreestimar sinergias | Se busca justificar la compra | Probabilidad y plazo realistas; no pagar por ellas. |
+| Comprometer todo de una vez | Se teme llegar tarde | Invertir por etapas con hitos. |
+| Ignorar la capacidad de la organización | Se mira el mercado | Medir qué se rompe al crecer. |
+| Dispersar recursos | Muchas oportunidades | Concentrar y priorizar. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **market penetration** y **market development** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **product development** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir objetivo de crecimiento → mapear opciones y sinergias** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **incremental revenue** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **opciones de crecimiento**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Crecimiento no equivale a creación de valor. Una expansión que destruye margen, foco o retorno sobre capital puede hacer la empresa mayor y peor.**?
+1. ¿Cuáles son las cuatro rutas de crecimiento y cuál tiene más riesgo?
+2. ¿Por qué se prefiere crecer donde hay ventaja?
+3. ¿Cómo se calcula el valor esperado de una ruta?
+4. ¿Cuándo conviene adquirir, construir o aliarse?
+5. ¿Qué significa pagar por las sinergias?
+6. ¿Por qué invertir por etapas cambia el valor esperado?
+7. ¿Qué errores destruyen valor al crecer?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Penetración, nuevos mercados, nuevos productos y diversificación; la diversificación tiene el mayor riesgo.
+2. Porque aprovecha capacidades, relaciones o datos existentes y reduce el riesgo de entrar a un terreno donde no se tiene ventaja.
+3. Probabilidad de éxito por el beneficio si resulta menos la inversión, idealmente con descuento y con probabilidades contrastadas con casos comparables.
+4. Se construye cuando hay tiempo y control; se adquiere cuando la rapidez o la capacidad lo justifican y hay una tesis de valor; se opta por aliarse cuando se busca compartir riesgo con flexibilidad.
+5. Pagar al vendedor valor que solo la compradora puede crear; se evita pagando por lo que el vendedor ya hace y no por sinergias futuras.
+6. Porque limita la pérdida si el aprendizaje es desfavorable y conserva la opción de invertir más si es favorable.
+7. Crecer por tamaño, diversificar sin ventaja, sobreestimar sinergias, no probar un modelo repetible, ignorar el costo del capital y subestimar la integración.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/165-opciones-de-crecimiento/`:
 
-- `strategy-memo.md` con el problema específico de **opciones de crecimiento**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **opciones de crecimiento** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **market penetration**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa B2B saturó su mercado local y considera Brasil, una nueva línea fintech y una adquisición. Cada opción se presenta con el mismo crecimiento esperado, sin ajustar riesgo ni capacidades.** y el dato que podría invalidar la recomendación.
+- `strategy-memo.md` (plantilla [Strategy memo](../../../../templates/strategy-memo.md)) con el análisis de rutas del caso ejecutivo;
+- `capital-allocation.md` (plantilla [Capital allocation](../../../../templates/capital-allocation.md)) con el valor esperado, las etapas y la asignación de caja;
+- `decision-journal.md` con las tesis, los supuestos críticos y los criterios de detención.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Porter — *Competitive Strategy* (Free Press, 1980). **Uso en esta clase:** trade-offs, posicionamiento, fit y ventaja competitiva. Lectura selectiva sobre **opciones de crecimiento**. **Localizador:** [ISBN-13 9780684841489](https://openlibrary.org/isbn/9780684841489).
-- Michael E. Porter — *Competitive Advantage* (Free Press, 1985). **Uso en esta clase:** cadena de valor, actividades y fuentes de ventaja de costo o diferenciación. Lectura selectiva sobre **opciones de crecimiento**. **Localizador:** [ISBN-13 9780029250907](https://openlibrary.org/isbn/9780029250907).
-- Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy* (Norton & Company, Incorporated, W. W., 2008). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **opciones de crecimiento**. **Localizador:** [ISBN-13 9780393069952](https://openlibrary.org/isbn/9780393069952).
-- W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* (Coach Series, 2006). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **opciones de crecimiento**. **Localizador:** [ISBN-13 9781596590687](https://openlibrary.org/isbn/9781596590687).
-- A.G. Lafley & Roger L. Martin — *Playing to Win* (Harvard Business Review Press, 2013). **Uso en esta clase:** elecciones integradas de dónde jugar y cómo ganar. Lectura selectiva sobre **opciones de crecimiento**. **Localizador:** [ISBN-13 9781422187395](https://openlibrary.org/isbn/9781422187395).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **opciones de crecimiento**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **opciones de crecimiento** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **opciones de crecimiento**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **opciones de crecimiento** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **opciones de crecimiento** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **opciones de crecimiento** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- A.G. Lafley & Roger L. Martin — *Playing to Win* (Harvard Business Review Press, 2013). **Uso en esta clase:** dónde jugar y cómo ganar como base del crecimiento. Lectura selectiva sobre **opciones de crecimiento**. **Localizador:** [ISBN-13 9781422187395](https://openlibrary.org/isbn/9781422187395).
+- Rita Gunther McGrath — *The End of Competitive Advantage* (Harvard Business Review Press, 2013). **Uso en esta clase:** portafolio de ventajas transitorias y disciplina de abandono. Lectura selectiva sobre **opciones de crecimiento**. **Localizador:** [ISBN-13 9781422172810](https://openlibrary.org/isbn/9781422172810).
+- W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* (Coach Series, 2006). **Uso en esta clase:** crecer creando espacios nuevos con innovación en valor. Lectura selectiva sobre **opciones de crecimiento**. **Localizador:** [ISBN-13 9781596590687](https://openlibrary.org/isbn/9781596590687).
+- Richard Brealey, Stewart Myers & Franklin Allen — *Principles of Corporate Finance* (McGraw-Hill International Book Co, 1984). **Uso en esta clase:** valor esperado, costo de capital y opciones reales. Lectura selectiva sobre **opciones de crecimiento**. **Localizador:** [ISBN-13 9780070662025](https://openlibrary.org/isbn/9780070662025).
+- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** concentración de recursos y rechazo a la dispersión. Lectura selectiva sobre **opciones de crecimiento**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
 
-> **Regla de fuentes para Opciones de crecimiento:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **opciones de crecimiento** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Opciones de crecimiento:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las de competencia, adquisiciones, datos de salud y licitaciones públicas. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

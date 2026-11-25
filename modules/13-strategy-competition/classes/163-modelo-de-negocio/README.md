@@ -10,227 +10,197 @@
 
 ## 🎯 Propósito
 
-El modelo de negocio describe cómo una organización crea, entrega y captura valor. Canvas y otras representaciones ayudan a ver interdependencias entre cliente, propuesta, canales, actividades, recursos, socios, ingresos y costos; el análisis ejecutivo debe añadir economics y evidencia, no llenar casillas.
+Dos empresas pueden vender el mismo producto y ser negocios completamente distintos: una cobra por unidad y la otra por suscripción; una produce y la otra usa la capacidad de terceros; una vende a consumidores y la otra a empresas que luego lo ofrecen a sus clientes. La estrategia decide **dónde competir y cómo ganar**; el **modelo de negocio** describe **cómo la empresa crea, entrega y captura valor**: a quién sirve, qué ofrece, cómo llega, qué actividades y recursos necesita, cuánto cobra y cuánto cuesta. Muchas innovaciones exitosas no son nuevos productos sino nuevos modelos de negocio, y muchas empresas fracasan con buenos productos porque su modelo no cierra.
 
-La salida de esta parte es **formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **modelo de negocio** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el lienzo de modelo de negocio de Osterwalder y Pigneur, en la propuesta de innovación en valor de Kim y Mauborgne, en la visión de Teece sobre la relación entre modelo de negocio, capacidades dinámicas y captura de valor y en las ideas de economía unitaria vistas en la clase 117. Al terminar sabrás describir un modelo de negocio con sus nueve bloques, evaluar su coherencia y su economía, comparar alternativas, innovar en un bloque y detectar cuándo un modelo se agota.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `value proposition`, `revenue model`, `cost structure`, `key activity`, `business model coherence` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. definir segmento y problema → 2. articular propuesta y canal → 3. modelar recursos actividades y partners → 4. construir revenue y cost logic → 5. testear coherencia y economics** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** revenue per segment, gross margin, CAC-LTV sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
-7. **Priorizar** incertidumbre, identificar la hipótesis destructiva y definir la evidencia que habilita una inversión mayor.
+1. **Describir** un modelo de negocio con los nueve bloques y sus relaciones.
+2. **Distinguir** crear, entregar y capturar valor.
+3. **Evaluar** la coherencia y la economía unitaria de un modelo.
+4. **Comparar** alternativas de modelo con sus riesgos.
+5. **Detectar** señales de agotamiento y opciones de innovación.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define value proposition y revenue model sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con revenue per segment y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: describe en nueve cajas cómo gana dinero tu empresa y marca dónde hay más incertidumbre. |
+| 20–60 min | Nueve bloques, crear–entregar–capturar, economía y alternativas. |
+| 60–105 min | Ejemplo trabajado: comparar dos modelos para una aplicación de bienestar. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **value proposition** | razón concreta por la que un segmento elige una oferta | Distingue un hecho compatible y otro que lo refute. |
-| **revenue model** | mecanismo por el que la organización captura ingresos | Distingue un hecho compatible y otro que lo refute. |
-| **cost structure** | patrón de costos necesario para entregar la propuesta | Distingue un hecho compatible y otro que lo refute. |
-| **key activity** | actividad crítica que habilita el valor | Distingue un hecho compatible y otro que lo refute. |
-| **business model coherence** | compatibilidad económica y operativa entre componentes | Distingue un hecho compatible y otro que lo refute. |
+| **Modelo de negocio** | Lógica con que una organización crea, entrega y captura valor. | Responde a quién, qué, cómo y cuánto. |
+| **Propuesta de valor** | Conjunto de productos y servicios que resuelven el problema de un segmento. | Se define por el trabajo del cliente. |
+| **Fuente de ingresos** | Forma en que se cobra: venta, suscripción, comisión, licencia, publicidad. | Se vincula a lo que el cliente valora. |
+| **Estructura de costos** | Costos de operar el modelo. | Fijos y variables. |
+| **Innovación en valor** | Salto de valor para el comprador con costos bajos mediante eliminar, reducir, elevar y crear. | Nuevo espacio de mercado. |
+| **Captura de valor** | Capacidad de retener una parte del valor creado. | Depende de la posición y de barreras. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 163: 1. definir segmento y problema → 2. articular propuesta y canal → 3. modelar recursos actividades y partners → 4. construir revenue y cost logic → 5. testear coherencia y economics](modelo-mental.svg)
+![Tres funciones de un modelo de negocio: crear valor, entregar valor y capturar valor, con los bloques de cada una.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir segmento y problema → 2. articular propuesta y canal → 3. modelar recursos actividades y partners → 4. construir revenue y cost logic → 5. testear coherencia y economics
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El modelo de negocio describe cómo una organización crea, entrega y captura valor. Canvas y otras representaciones ayudan a ver interdependencias entre cliente, propuesta, canales, actividades, recursos, socios, ingresos y costos; el análisis ejecutivo debe añadir economics y evidencia, no llenar casillas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un Canvas es una fotografía. No reemplaza estados financieros, procesos, regulación ni estrategia competitiva; úsalo como mapa para formular y probar hipótesis.**
+**Cómo leer el diagrama.** Tres columnas. **Crear valor**: los segmentos de clientes y su trabajo a realizar, la propuesta de valor y la relación con el cliente. **Entregar valor**: los canales, las actividades y recursos clave y los socios clave. **Capturar valor**: las fuentes de ingresos y la fijación de precios, la estructura de costos y la economía unitaria y la caja. La nota recuerda que un modelo de negocio es una hipótesis que se prueba con clientes, con datos de economía unitaria y con la reacción de la competencia, y que cambiar un bloque afecta a los demás.
 
 ## 📖 Desarrollo
 
-### 1. value proposition: mecanismo central
+### 1. Qué es un modelo de negocio
 
-**value proposition** se entiende aquí como **razón concreta por la que un segmento elige una oferta**. Esta es la pieza causal o estructural desde la que se inicia **modelo de negocio**: antes de definir segmento y problema, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Osterwalder y Pigneur definen un modelo de negocio como la descripción de **cómo una organización crea, entrega y captura valor**. Su lienzo lo organiza en **nueve bloques**: **segmentos de clientes**, **propuesta de valor**, **canales**, **relaciones con clientes**, **fuentes de ingresos**, **recursos clave**, **actividades clave**, **socios clave** y **estructura de costos**. Es una herramienta de **conversación**: pone en una página lo que de otro modo se discute en abstracto y permite ver qué bloques se relacionan, qué supuestos hay detrás y dónde está el riesgo. No reemplaza el plan financiero ni la estrategia, pero los vuelve discutibles.
 
-La lectura rectora de este bloque es Michael E. Porter — *Competitive Strategy*. Su aporte se usa para examinar **trade-offs, posicionamiento, fit y ventaja competitiva**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **revenue per segment**; regístrala con periodo, unidad, población y baseline.
+### 2. Crear, entregar y capturar
 
-Relaciona el mecanismo con **revenue model**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Teece, al analizar las capacidades dinámicas y la captura del valor de la innovación, sostiene que el modelo de negocio es el **mecanismo** por el cual la empresa convierte la tecnología o la idea en valor económico, y que un buen producto no garantiza captura de valor: se necesitan mecanismos para que el valor creado no se vaya a clientes, competidores o complementadores. Por eso conviene analizar **tres funciones**. **Crear valor**: ¿para quién y qué problema? **Entregar**: ¿con qué actividades, recursos, socios y canales llega al cliente? **Capturar**: ¿cuánto cobra, a quién, cómo y a qué costo, y qué impide que otro capture ese valor? Los fracasos suelen ocurrir en la captura: se crea valor (hay usuarios) pero no se logra cobrar o se cobra menos de lo que cuesta.
 
-### 2. revenue model: frontera conceptual y error de clasificación
+### 3. Las fuentes de ingresos y el precio
 
-**Definición operacional:** mecanismo por el que la organización captura ingresos. Su valor está en distinguirlo de **value proposition** y **cost structure**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Hay muchas formas de cobrar: **venta de activos** (producto), **cuota por uso**, **suscripción**, **alquiler**, **licencias**, **comisiones** de intermediación, **publicidad** y **modelos mixtos** (freemium). Cada una alinea de forma distinta los incentivos de empresa y cliente: una suscripción incentiva retención y uso; una comisión, el volumen de transacciones; la publicidad, la atención. El precio (clase 129) debe reflejar el valor, y la **economía unitaria** (clase 117) mostrar si el modelo sostiene el crecimiento: CAC, margen, retención y payback. Un modelo que solo funciona con subsidios permanentes es un experimento financiado por capital, no un negocio.
 
-Contrasta el problema con Michael E. Porter — *Competitive Advantage*, que aporta una mirada sobre **cadena de valor, actividades y fuentes de ventaja de costo o diferenciación**. Formula dos mini-casos: uno que sí satisface la definición de **revenue model** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **gross margin** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Actividades, recursos y socios
 
-Antes de articular propuesta y canal, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La entrega exige **actividades clave** (producir, desarrollar plataforma, resolver problemas, gestionar red), **recursos clave** (físicos, intelectuales, humanos, financieros) y **socios clave** (proveedores, aliados, plataformas, reguladores). Se define qué se hace dentro y qué se obtiene fuera (clase 093). Un modelo liviano en activos (usa capacidad de terceros) escala con menos capital pero tiene menos control y depende de socios; uno pesado (activos propios) tiene más control, más costos fijos y más riesgo (clase 116). La elección depende de la estrategia, del mercado y de la capacidad financiera.
 
-### 3. cost structure: operacionalización y medición
+### 5. Innovación en valor y en modelo
 
-**cost structure** significa **patrón de costos necesario para entregar la propuesta**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Kim y Mauborgne llaman **innovación en valor** a ofrecer un salto de valor al comprador con costos más bajos, **eliminando** factores que la industria da por sentados, **reduciendo** otros, **elevando** algunos y **creando** otros nuevos. Muchas innovaciones de modelo son recombinaciones: cambiar quién paga (publicidad frente a usuario), cuándo se paga (suscripción frente a compra), qué se vende (resultado frente a producto), quién entrega (plataforma frente a empresa propia) o cómo se escala (franquicia, licencia). Para evaluar una innovación se pregunta: ¿qué supuestos cambia?, ¿qué capacidades exige?, ¿qué bloque del modelo actual se rompe?, ¿cómo reaccionarán los rivales y los clientes?
 
-Hamilton Helmer — *7 Powers* orienta este bloque mediante **perspectiva de Estrategia aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **CAC-LTV**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Evaluar un modelo
 
-Al llegar a modelar recursos actividades y partners, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Se evalúa con cinco criterios. **Deseabilidad**: ¿hay clientes que lo quieran y paguen? **Viabilidad operativa**: ¿se puede entregar con las capacidades y los socios disponibles? **Viabilidad económica**: ¿los ingresos superan los costos con una economía unitaria sana? **Defensabilidad**: ¿qué impide que otros copien y capturen el valor (clase 161)? **Adaptabilidad**: ¿puede evolucionar si cambian los clientes, la tecnología o la regulación? Se prueban las hipótesis críticas con experimentos (clases 150 y 153) antes de invertir a escala. La **coherencia** entre bloques importa tanto como cada uno: un canal caro con un cliente de bajo valor no cierra.
 
-### 4. key activity: trade-offs y efectos de segundo orden
+### 7. Cuando el modelo se agota
 
-**Definición:** actividad crítica que habilita el valor. Este concepto obliga a abandonar la idea de que **modelo de negocio** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de construir revenue y cost logic, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-David J. Teece — *Dynamic Capabilities and Strategic Management* aporta una lente sobre **perspectiva de Estrategia aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **channel contribution** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **modelo de negocio**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **key activity** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. business model coherence: gobernanza, límites e integración
-
-**business model coherence** se define como **compatibilidad económica y operativa entre componentes** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* se utiliza para estudiar **perspectiva de Estrategia aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar testear coherencia y economics, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un Canvas es una fotografía. No reemplaza estados financieros, procesos, regulación ni estrategia competitiva; úsalo como mapa para formular y probar hipótesis.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **value proposition**, **revenue model**, **cost structure**, **key activity** y **business model coherence** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **modelo de negocio** no consiste en sumar cinco definiciones. Empieza por **value proposition**, contrasta **revenue model** con **cost structure**, incorpora **key activity** como restricción o mecanismo y usa **business model coherence** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir segmento y problema → 2. articular propuesta y canal → 3. modelar recursos actividades y partners → 4. construir revenue y cost logic → 5. testear coherencia y economics**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Interrogación ejecutiva del modelo
-
-El Canvas y los mapas existentes se conservan como representación del sistema; el director no vuelve a rellenarlos. Sobre el artefacto debe identificar el bloque con menor evidencia y mayor impacto, la hipótesis que si es falsa destruye otros bloques o la economía, la validación que debe ocurrir primero por dependencia/downside/valor de información y el umbral observable que habilita la siguiente inversión.
-
-Registra `hipótesis / evidencia actual / confianza / consecuencia si falla / prueba / owner / umbral / revisión`. La coherencia aparente entre bloques no compensa una hipótesis crítica sin validar.
+Un modelo envejece cuando cambian los **clientes** (nuevas necesidades), la **tecnología** (reduce costos o permite alternativas), la **competencia** (nuevos entrantes con otro modelo) o la **regulación**. Señales: **márgenes que caen** sin razón operativa, **crecimiento que exige más gasto de adquisición**, **retención en descenso**, **clientes que migran a modelos alternativos**. McGrath recomienda gestionar un **portafolio de modelos y ventajas** y reconfigurar a tiempo. El cambio de modelo suele ser difícil por inercia, incentivos e identidad; se hace con pruebas en pequeño, cuidando a los clientes actuales y respetando contratos y regulaciones.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Porter — *Competitive Strategy* | trade-offs, posicionamiento, fit y ventaja competitiva | ¿Qué supuesto de **modelo de negocio** ayuda a desafiar? |
-| Michael E. Porter — *Competitive Advantage* | cadena de valor, actividades y fuentes de ventaja de costo o diferenciación | ¿Qué supuesto de **modelo de negocio** ayuda a desafiar? |
-| Hamilton Helmer — *7 Powers* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **modelo de negocio** ayuda a desafiar? |
-| David J. Teece — *Dynamic Capabilities and Strategic Management* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **modelo de negocio** ayuda a desafiar? |
-| W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **modelo de negocio** ayuda a desafiar? |
-
-En **modelo de negocio**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **value proposition**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Osterwalder y Pigneur | Lienzo de nueve bloques para describir y discutir modelos. | Es una herramienta descriptiva; no prueba el modelo. | ¿Qué bloque tiene más supuestos sin probar? |
+| Kim y Mauborgne | Innovación en valor: eliminar, reducir, elevar y crear. | Casos seleccionados. | ¿Qué factor eliminarías? |
+| Teece | Modelo de negocio, captura de valor y capacidades dinámicas. | Marco conceptual. | ¿Qué te permite capturar el valor que creas? |
+| Helmer | Poderes que sostienen la captura de valor. | Se centra en la ventaja duradera. | ¿Qué poder protege tu modelo? |
+| Christensen (*Innovator's Dilemma*) | Modelos disruptivos desde segmentos desatendidos. | Teoría con excepciones. | ¿Qué modelo podría desplazarte? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una plataforma ofrece precio único a pymes y enterprise. Enterprise exige integraciones, seguridad y soporte 24/7; los ingresos crecen, pero el cost-to-serve vuelve negativo ese segmento.
+**Situación (hipotética).** Una empresa desarrolla una aplicación de bienestar mental con programas de ejercicios guiados. Tiene dos modelos candidatos.
 
-**Paso 1 — definir segmento y problema.** La gerencia escribe primero el supuesto asociado a **value proposition** y evita convertirlo en hecho. Luego busca **revenue per segment** para contrastarlo en el caso de **modelo de negocio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Modelo A: suscripción individual (B2C).** Segmento: personas que buscan bienestar. Canales: tiendas de aplicaciones y publicidad. Ingresos: USD 9 por mes. CAC: USD 38. Retención mensual: 91 % (baja mensual 9 %). Margen de contribución: 85 % (USD 7,65 mensuales).
 
-**Paso 2 — articular propuesta y canal.** La gerencia escribe primero el supuesto asociado a **revenue model** y evita convertirlo en hecho. Luego busca **gross margin** para contrastarlo en el caso de **modelo de negocio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Modelo B: contrato con empresas (B2B2C).** Segmento: empresas con 500 a 5.000 empleados que ofrecen bienestar como beneficio. Canales: venta directa y corredores de beneficios. Ingresos: USD 2,2 por empleado elegible al mes, con 15 % de uso. Ciclo de venta: 4 meses. CAC por contrato: USD 18.000. Un contrato típico: 1.500 empleados → USD 3.300 mensuales (USD 39.600 al año); retención de contratos: 88 % anual; margen de contribución: 70 %.
 
-**Paso 3 — modelar recursos actividades y partners.** La gerencia escribe primero el supuesto asociado a **cost structure** y evita convertirlo en hecho. Luego busca **CAC-LTV** para contrastarlo en el caso de **modelo de negocio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Economía unitaria.**
 
-**Paso 4 — construir revenue y cost logic.** La gerencia escribe primero el supuesto asociado a **key activity** y evita convertirlo en hecho. Luego busca **channel contribution** para contrastarlo en el caso de **modelo de negocio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Indicador | Modelo A (por usuario) | Modelo B (por contrato) |
+|---|---|---|
+| Duración esperada | 1 / 0,09 = 11,1 meses | 1 / 0,12 = 8,3 años |
+| Margen mensual o anual | USD 7,65 al mes | USD 27.720 al año |
+| Valor del cliente (sin descuento) | 7,65 × 11,1 ≈ USD 85 | 27.720 × 8,3 ≈ USD 230.000 |
+| CAC | USD 38 | USD 18.000 |
+| LTV/CAC | 2,2 | 12,8 |
+| Payback | 5 meses | 7,8 meses |
 
-**Paso 5 — testear coherencia y economics.** La gerencia escribe primero el supuesto asociado a **business model coherence** y evita convertirlo en hecho. Luego busca **cost-to-serve** para contrastarlo en el caso de **modelo de negocio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** B2C tiene un LTV/CAC modesto de 2,2 con retención baja y mucha dependencia de las tiendas de aplicaciones y de la publicidad; B2B2C tiene una razón alta, retención mayor y ventas largas; el riesgo está en la concentración (pocos contratos grandes) y en la tasa de uso (si el 15 % no se sostiene, el cliente no renueva).
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **modelo de negocio**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Evaluación por criterios.** Deseabilidad: la B2C tiene alta demanda pero baja disposición a pagar sostenida; en B2B, las empresas piden evidencia de uso y resultados. Viabilidad operativa: B2B exige capacidad de implantación y soporte. Viabilidad económica: B2B más sólida. Defensabilidad: contratos plurianuales e integraciones (costos de cambio). Adaptabilidad: un modelo híbrido (usuarios individuales a través de empresas) combina ambos.
+
+**Decisión.** Priorizar el modelo B2B2C con tres pilotos pagados y metas de uso (≥ 25 % de los empleados activos a 3 meses); mantener B2C como canal de entrada de bajo costo y fuente de datos de uso. Antes de escalar, probar los supuestos de uso y la capacidad de venta; revisar a los 6 meses.
+
+**Aspectos legales.** Los datos de bienestar mental son datos sensibles: se verifica con asesoría el tratamiento, el consentimiento y la separación entre lo que ve el empleador y lo que no.
+
+**Qué muestra.** (1) El mismo producto da dos negocios distintos. (2) La economía unitaria mostró la diferencia. (3) La decisión se acompañó de pruebas y de cuidados regulatorios.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **value proposition** | razón concreta por la que un segmento elige una oferta | Cuando revenue per segment es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **revenue model** | mecanismo por el que la organización captura ingresos | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Modelo de negocio frente a estrategia.** La estrategia elige dónde competir y cómo ganar; el modelo describe cómo funciona la maquinaria de crear, entregar y capturar valor para ejecutarla. Una buena estrategia con un modelo que no cierra fracasa; un buen modelo sin estrategia no sostiene la posición.
 
-**Frontera de aplicación:** Un Canvas es una fotografía. No reemplaza estados financieros, procesos, regulación ni estrategia competitiva; úsalo como mapa para formular y probar hipótesis.
+**Límites.** El lienzo simplifica y puede dar falsa seguridad si se llenan los bloques con suposiciones no probadas. Los modelos cambian con el tiempo y entre segmentos. Las comparaciones de economía unitaria son sensibles a los supuestos de retención y de CAC. La innovación de modelo enfrenta restricciones regulatorias (datos, consumo, laboral, financiero) que se verifican en su fuente vigente y con asesoría. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre modelo de negocio |
+| Nivel | Cómo participa en el modelo de negocio |
 |---|---|
-| **Profesional** | usa **modelo de negocio** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **value proposition** y **revenue model** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta revenue per segment con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si modelo de negocio cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de modelo de negocio reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **modelo de negocio** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende cómo su trabajo afecta a ingresos y costos del modelo. |
+| **Jefe / Team Lead** | Conecta su área con los bloques de actividades, recursos y canales. |
+| **Gerente** | Evalúa la economía y propone ajustes de bloques. |
+| **CEO / Director** | Decide el modelo y cuándo reconfigurarlo. |
+| **Founder / Owner** | Prueba cada bloque con clientes antes de comprometer capital. |
 
 ## 🏢 Caso ejecutivo
 
-Una plataforma ofrece precio único a pymes y enterprise. Enterprise exige integraciones, seguridad y soporte 24/7; los ingresos crecen, pero el cost-to-serve vuelve negativo ese segmento.
+Una cadena de gimnasios de bajo costo con 90 sedes (USD 20 de cuota mensual, 320.000 socios) tiene una baja anual de 55 % y gasta el 32 % de sus ingresos en adquirir socios; sus márgenes dependen de que muchos socios paguen y no asistan. Un nuevo competidor ofrece entrenamiento personalizado en grupos pequeños con una app y cobra USD 55; las empresas contratan convenios para sus empleados; una aplicación de entrenamiento en casa gana usuarios. El directorio considera cuatro caminos: (1) bajar a USD 15 la cuota, (2) agregar clases premium, (3) vender convenios corporativos con descuentos por volumen, (4) crear un modelo digital en casa con suscripción y venta de equipos.
 
-Entrega un **decision brief de modelo de negocio** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de modelo de negocio** que contenga: (a) el lienzo del modelo actual con sus supuestos; (b) la economía unitaria (CAC, retención, margen, LTV) y su relación con la baja; (c) la evaluación de los cuatro caminos con los cinco criterios; (d) una propuesta de modelo con las hipótesis críticas y cómo se probarán; (e) las señales de agotamiento del modelo actual; (f) las verificaciones de contratos con empresas, de datos de salud y de condiciones de cancelación en las normas de consumo vigentes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **modelo de negocio** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir segmento y problema → 2. articular propuesta y canal → 3. modelar recursos actividades y partners → 4. construir revenue y cost logic → 5. testear coherencia y economics** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta revenue per segment, gross margin; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
-7. Ordena bloques por incertidumbre e impacto, identifica la hipótesis destructiva y fija el umbral para invertir más.
+1. Dibuja el lienzo de tu modelo de negocio con nueve bloques y marca los supuestos sin probar.
+2. Calcula la economía unitaria de tu modelo y la de una alternativa.
+3. Evalúa una alternativa con los cinco criterios.
+4. Aplica las cuatro acciones (eliminar, reducir, elevar, crear) a tu propuesta.
+5. Define tres señales que indicarían que tu modelo se agota.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar value proposition y revenue model como sinónimos | Se pierde la distinción entre “razón concreta por la que un segmento elige una oferta” y “mecanismo por el que la organización captura ingresos” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “testear coherencia y economics” | Se saltó “definir segmento y problema” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir segmento y problema → 2. articular propuesta y canal → 3. modelar recursos actividades y partners → 4. construir revenue y cost logic → 5. testear coherencia y economics y marca el primer supuesto no demostrado. |
-| Optimizar solo revenue per segment | La métrica local sustituyó al resultado del sistema | Contrástala con gross margin y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre modelo de negocio | Un Canvas es una fotografía. No reemplaza estados financieros, procesos, regulación ni estrategia competitiva; úsalo como mapa para formular y probar hipótesis. |
-| No fijar revisión | Una decisión sobre modelo de negocio se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Confundir producto con modelo | Se piensa en la oferta | Describir cómo se crea, entrega y captura valor. |
+| Crear valor sin capturarlo | Se mide uso | Economía unitaria y fuentes de ingresos. |
+| Lienzo con supuestos sin probar | Se llena en sala | Experimentos con clientes. |
+| Ignorar la coherencia entre bloques | Se optimiza cada uno | Revisar relaciones entre bloques. |
+| Modelo que depende de subsidios | Capital abundante | Verificar economía sin estímulos. |
+| No ver señales de agotamiento | Inercia | Seguir indicadores de margen, retención y adquisición. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **value proposition** y **revenue model** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **cost structure** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir segmento y problema → articular propuesta y canal** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **revenue per segment** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **modelo de negocio**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un Canvas es una fotografía. No reemplaza estados financieros, procesos, regulación ni estrategia competitiva; úsalo como mapa para formular y probar hipótesis.**?
+1. ¿Qué es un modelo de negocio?
+2. ¿Cuáles son los nueve bloques del lienzo?
+3. ¿Qué diferencia hay entre crear, entregar y capturar valor?
+4. ¿Cómo influye la fuente de ingresos en los incentivos?
+5. ¿Qué es la innovación en valor?
+6. ¿Qué cinco criterios evalúan un modelo?
+7. ¿Qué señales muestran que un modelo se agota?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La lógica con que una organización crea, entrega y captura valor.
+2. Segmentos de clientes, propuesta de valor, canales, relaciones con clientes, fuentes de ingresos, recursos clave, actividades clave, socios clave y estructura de costos.
+3. Crear es resolver un problema de un segmento; entregar es llevarlo al cliente con actividades, recursos y socios; capturar es retener una parte del valor creado mediante ingresos, costos y barreras.
+4. Cada forma de cobrar alinea incentivos distintos: la suscripción incentiva retención; la comisión, volumen; la publicidad, atención.
+5. Ofrecer un salto de valor al comprador con costos bajos, eliminando, reduciendo, elevando y creando factores.
+6. Deseabilidad, viabilidad operativa, viabilidad económica, defensabilidad y adaptabilidad.
+7. Márgenes que caen, adquisición más cara para crecer, retención en descenso y clientes que migran a modelos alternativos.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/163-modelo-de-negocio/`:
 
-- `strategy-memo.md` con el problema específico de **modelo de negocio**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **modelo de negocio** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **value proposition**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una plataforma ofrece precio único a pymes y enterprise. Enterprise exige integraciones, seguridad y soporte 24/7; los ingresos crecen, pero el cost-to-serve vuelve negativo ese segmento.** y el dato que podría invalidar la recomendación.
+- `strategy-memo.md` (plantilla [Strategy memo](../../../../templates/strategy-memo.md)) con el análisis del caso ejecutivo;
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con la economía unitaria por modelo;
+- `decision-journal.md` con las hipótesis críticas, los experimentos y las señales.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Porter — *Competitive Strategy* (Free Press, 1980). **Uso en esta clase:** trade-offs, posicionamiento, fit y ventaja competitiva. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9780684841489](https://openlibrary.org/isbn/9780684841489).
-- Michael E. Porter — *Competitive Advantage* (Free Press, 1985). **Uso en esta clase:** cadena de valor, actividades y fuentes de ventaja de costo o diferenciación. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9780029250907](https://openlibrary.org/isbn/9780029250907).
-- Hamilton Helmer — *7 Powers* (Deep Strategy, 2016). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9780998116303](https://openlibrary.org/isbn/9780998116303).
-- David J. Teece — *Dynamic Capabilities and Strategic Management* (Strategic Management Journal, 1997). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [DOI 10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z](https://doi.org/10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z).
-- W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* (Coach Series, 2006). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9781596590687](https://openlibrary.org/isbn/9781596590687).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **modelo de negocio** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **modelo de negocio**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **modelo de negocio** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **modelo de negocio** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **modelo de negocio** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Alexander Osterwalder & Yves Pigneur — *Business Model Generation* (Wiley , 2010). **Uso en esta clase:** lienzo de nueve bloques para describir y discutir modelos. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9780470876411](https://openlibrary.org/isbn/9780470876411).
+- W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* (Coach Series, 2006). **Uso en esta clase:** innovación en valor: eliminar, reducir, elevar y crear. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9781596590687](https://openlibrary.org/isbn/9781596590687).
+- David J. Teece — *Dynamic Capabilities and Strategic Management* (Strategic Management Journal, 1997). **Uso en esta clase:** modelo de negocio, captura de valor y capacidades dinámicas. **Localizador:** [DOI 10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z](https://doi.org/10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z).
+- Hamilton Helmer — *7 Powers* (Deep Strategy, 2016). **Uso en esta clase:** poderes que sostienen la captura de valor. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9780998116303](https://openlibrary.org/isbn/9780998116303).
+- Clayton M. Christensen — *The Innovator's Dilemma* (Harvard Business School Press, 1997). **Uso en esta clase:** modelos disruptivos desde segmentos desatendidos. Lectura selectiva sobre **modelo de negocio**. **Localizador:** [ISBN-13 9780875845852](https://openlibrary.org/isbn/9780875845852).
 
-> **Regla de fuentes para Modelo de negocio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **modelo de negocio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Modelo de negocio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las de protección de datos sensibles, consumo y contratos con empresas. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

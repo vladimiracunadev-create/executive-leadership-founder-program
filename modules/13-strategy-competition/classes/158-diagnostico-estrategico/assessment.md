@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **symptom** de **root cause** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **strategic issue** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **constraint** con **hypothesis tree**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre un diagnóstico y un inventario?
+2. ¿Qué cuatro preguntas ordena el diagnóstico?
+3. ¿Cómo se distinguen hechos de interpretaciones?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Ventas caen 18% y la respuesta inmediata es invertir más en marketing. El diagnóstico revela que el segmento rentable cambió requisitos de integración y la empresa tarda nueve meses en implementarlos.
+**Caso:** Una aseguradora de salud con 600.000 afiliados ha perdido 9 % de sus afiliados en dos años y su siniestralidad subió de 78 % a 86 %. La dirección ha lanzado un plan de «transformación digital» y subió las primas 7 % cada año. Los datos: las salidas se concentran en afiliados de 25 a 39 años (que se van a planes más baratos con menos cobertura), mientras que los de más de 60 años aumentan su participación; las clínicas de la red concentran 45 % del gasto en tres prestadores; los reclamos por demoras en reembolsos suben; la autoridad de salud ha limitado el reajuste de primas para adultos mayores; un competidor ofrece planes con red cerrada de menor costo. Cada gerente atribuye el problema a una causa distinta: precios, tecnología, red, regulación o servicio.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir gap respecto a objetivo → descomponer hipótesis causales → triangular datos internos y externos → priorizar mecanismo material y controlable → redactar diagnóstico que explique y delimite**. Debes utilizar o diseñar cómo obtener **market share trend, unit economics, customer switching**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **diagnóstico estratégico** que contenga: (a) las preguntas sobre entorno, industria, capacidades y resultados con la evidencia y su fuente; (b) la descomposición de los resultados en volumen, precio, mezcla y costos; (c) tres hipótesis rivales y cómo se contrastarían; (d) el desafío crítico en una o dos frases y los supuestos que lo sostienen; (e) las señales que lo revisarían; (f) las verificaciones regulatorias del sector salud y de protección de datos que se harán en las normas vigentes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Un diagnóstico siempre simplifica. Evita tratarlo como verdad definitiva; registra explicaciones alternativas y qué señal obligaría a revisarlo.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los datos disponibles son imperfectos y las explicaciones de resultados pasados no garantizan el futuro.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

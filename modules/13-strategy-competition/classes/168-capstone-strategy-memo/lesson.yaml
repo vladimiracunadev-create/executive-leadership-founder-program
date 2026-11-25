@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 4 — Gerente → Director"
 outcome: "formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir strategy memo de strategic thesis mediante evidencia observable."
-  - "Aplicar la secuencia: redactar diagnóstico basado en evidencia → proponer choices y no-opciones → explicar mecanismo de ventaja → asignar recursos y acciones → definir riesgos signposts y revisión."
-  - "Interpretar choice specificity, resource concentration, economic logic sin atribuir causalidad automática."
-  - "Resolver el caso de capstone: strategy memo con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Estructurar un memo de estrategia con decisión, diagnóstico, política, acciones y renuncias."
+  - "Sustentar cada afirmación con evidencia y distinguir hechos de supuestos."
+  - "Evaluar alternativas con escenarios y valor esperado."
+  - "Definir supuestos críticos, señales, umbrales y criterios de detención."
+  - "Someter el memo a una revisión crítica y mejorarlo."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Michael E. Porter — *Competitive Strategy*"
-  - "Michael E. Porter — *Competitive Advantage*"
-  - "W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy*"
   - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+  - "A.G. Lafley & Roger L. Martin — *Playing to Win*"
+  - "Michael E. Porter — *Competitive Strategy*"
   - "Hamilton Helmer — *7 Powers*"
-  - "Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy*"
+  - "Peter Schwartz — *The Art of the Long View*"
 limits:
-  - "Un memo convincente puede ocultar datos débiles. Evalúa explícitamente calidad de evidencia y escenarios adversos; la claridad narrativa no sustituye incertidumbre real."
+  - "El memo es tan bueno como su diagnóstico y sus datos."
 evidence_signals:
-  - "choice specificity"
-  - "resource concentration"
-  - "economic logic"
-  - "assumption coverage"
-  - "review cadence"
+  - "decisión solicitada al inicio"
+  - "alternativas probadas en escenarios"
+  - "renuncias y supuestos explícitos"
+  - "revisión crítica con premortem"

@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 4 — Gerente → Director"
 outcome: "formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir rivalry de buyer power mediante evidencia observable."
-  - "Aplicar la secuencia: definir límites de industria y segmento → analizar cada fuerza con evidencia → identificar pools de beneficio → cambiar lente hacia sustitutos y complementos → traducir estructura a elección estratégica."
-  - "Interpretar industry margins, concentration, switching cost sin atribuir causalidad automática."
-  - "Resolver el caso de industria y fuerzas competitivas con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Analizar las cinco fuerzas de una industria con datos."
+  - "Explicar por qué la rentabilidad depende de la estructura y no solo de la gestión."
+  - "Anticipar las respuestas de competidores con razonamiento de juegos."
+  - "Identificar jugadas que mejoran la posición o cambian la estructura."
+  - "Reconocer los límites del marco en industrias dinámicas y de plataformas."
 deliverable: "strategy-memo.md"
 references:
   - "Michael E. Porter — *Competitive Strategy*"
-  - "Michael E. Porter — *Competitive Advantage*"
-  - "A.G. Lafley & Roger L. Martin — *Playing to Win*"
+  - "Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy*"
   - "Rita Gunther McGrath — *The End of Competitive Advantage*"
-  - "David J. Teece — *Dynamic Capabilities and Strategic Management*"
-  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+  - "Hamilton Helmer — *7 Powers*"
+  - "W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy*"
 limits:
-  - "Las fronteras de industria cambian y las fuerzas no predicen movimientos específicos. Complementa con ecosistemas, tecnología, regulación y capacidades internas."
+  - "El análisis es estático y depende de definir bien la industria."
 evidence_signals:
-  - "industry margins"
-  - "concentration"
-  - "switching cost"
-  - "entry rate"
-  - "substitution rate"
+  - "cinco fuerzas con evidencia"
+  - "respuesta de rivales anticipada"
+  - "jugadas que cambian la estructura"
+  - "límites de libre competencia verificados"

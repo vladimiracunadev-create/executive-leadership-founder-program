@@ -66,18 +66,18 @@ Las clases **166 a 168** ejecutan y cierran: alianzas, adaptación y el capstone
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 157 | [Qué es y qué no es estrategia](classes/157-que-es-y-que-no-es-estrategia/README.md) | strategy, goal, diagnosis | [strategy-memo](../../templates/strategy-memo.md) | 150 |
-| 158 | [Diagnóstico estratégico](classes/158-diagnostico-estrategico/README.md) | symptom, root cause, strategic issue | [strategy-memo](../../templates/strategy-memo.md) | 150 |
-| 159 | [Industria y fuerzas competitivas](classes/159-industria-y-fuerzas-competitivas/README.md) | rivalry, buyer power, supplier power | [strategy-memo](../../templates/strategy-memo.md) | 150 |
-| 160 | [Capacidades y recursos](classes/160-capacidades-y-recursos/README.md) | resource, capability, VRIO | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
-| 161 | [Ventaja competitiva](classes/161-ventaja-competitiva/README.md) | competitive advantage, willingness to pay, relative cost | [strategy-memo](../../templates/strategy-memo.md) | 150 |
-| 162 | [Trade-offs y coherencia](classes/162-trade-offs-y-coherencia/README.md) | trade-off, fit, activity system | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 163 | [Modelo de negocio](classes/163-modelo-de-negocio/README.md) | value proposition, revenue model, cost structure | [strategy-memo](../../templates/strategy-memo.md) | 150 |
-| 164 | [Escenarios estratégicos](classes/164-escenarios-estrategicos/README.md) | scenario, critical uncertainty, signpost | [strategy-memo](../../templates/strategy-memo.md) | 150 |
-| 165 | [Opciones de crecimiento](classes/165-opciones-de-crecimiento/README.md) | market penetration, market development, product development | [strategy-memo](../../templates/strategy-memo.md) | 150 |
-| 166 | [Partnerships, ecosistemas y plataformas](classes/166-partnerships-ecosistemas-y-plataformas/README.md) | ecosystem, platform, complementor | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 167 | [Ejecución y adaptación de estrategia](classes/167-ejecucion-y-adaptacion-de-estrategia/README.md) | strategic initiative, leading indicator, lagging indicator | [strategy-memo](../../templates/strategy-memo.md) | 150 |
-| 168 | [Capstone: strategy memo](classes/168-capstone-strategy-memo/README.md) | strategy memo, strategic thesis, assumption | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 157 | [Qué es y qué no es estrategia](classes/157-que-es-y-que-no-es-estrategia/README.md) | Estrategia, Desafío crítico, Política guía | [strategy-memo](../../templates/strategy-memo.md) | 150 |
+| 158 | [Diagnóstico estratégico](classes/158-diagnostico-estrategico/README.md) | Diagnóstico estratégico, Desafío crítico, Hecho | [strategy-memo](../../templates/strategy-memo.md) | 150 |
+| 159 | [Industria y fuerzas competitivas](classes/159-industria-y-fuerzas-competitivas/README.md) | Estructura de la industria, Barrera de entrada, Costo de cambio | [strategy-memo](../../templates/strategy-memo.md) | 150 |
+| 160 | [Capacidades y recursos](classes/160-capacidades-y-recursos/README.md) | Recurso, Capacidad, Ventaja sostenida | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
+| 161 | [Ventaja competitiva](classes/161-ventaja-competitiva/README.md) | Ventaja competitiva, Liderazgo en costos, Diferenciación | [strategy-memo](../../templates/strategy-memo.md) | 150 |
+| 162 | [Trade-offs y coherencia](classes/162-trade-offs-y-coherencia/README.md) | Trade-off, Encaje (fit), Atrapado en el medio | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 163 | [Modelo de negocio](classes/163-modelo-de-negocio/README.md) | Modelo de negocio, Propuesta de valor, Fuente de ingresos | [strategy-memo](../../templates/strategy-memo.md) | 150 |
+| 164 | [Escenarios estratégicos](classes/164-escenarios-estrategicos/README.md) | Escenario, Pregunta focal, Fuerza motriz | [strategy-memo](../../templates/strategy-memo.md) | 150 |
+| 165 | [Opciones de crecimiento](classes/165-opciones-de-crecimiento/README.md) | Penetración, Nuevos mercados, Nuevos productos | [strategy-memo](../../templates/strategy-memo.md) | 150 |
+| 166 | [Partnerships, ecosistemas y plataformas](classes/166-partnerships-ecosistemas-y-plataformas/README.md) | Alianza, Plataforma, Efecto de red | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 167 | [Ejecución y adaptación de estrategia](classes/167-ejecucion-y-adaptacion-de-estrategia/README.md) | Brecha de ejecución, Supuesto crítico, Señal temprana | [strategy-memo](../../templates/strategy-memo.md) | 150 |
+| 168 | [Capstone: strategy memo](classes/168-capstone-strategy-memo/README.md) | Memo de estrategia, Decisión solicitada, Alternativa cero | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -88,70 +88,80 @@ Las clases **166 a 168** ejecutan y cierran: alianzas, adaptación y el capstone
 
 ## 🔤 Glosario de la parte
 
-60 conceptos definidos en las clases, con la definición operacional que usa cada una.
+70 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **activity system** | mapa de actividades que materializan una posición. |
-| **adjacency** | movimiento cercano que reutiliza capacidades o clientes. |
-| **assumption** | condición incierta que debe cumplirse. |
-| **business model coherence** | compatibilidad económica y operativa entre componentes. |
-| **buyer power** | capacidad de clientes para capturar valor. |
-| **capability** | habilidad organizacional repetible para realizar una actividad. |
-| **capability gap** | distancia entre capacidad requerida y actual. |
-| **coherent actions** | acciones coordinadas que materializan la política. |
-| **competitive advantage** | fuente defendible de desempeño superior frente a alternativas. |
-| **complementor** | actor cuya oferta aumenta valor de otra. |
-| **constraint** | limitación que reduce opciones viables. |
-| **cost structure** | patrón de costos necesario para entregar la propuesta. |
-| **critical uncertainty** | variable material cuya evolución es impredecible. |
-| **dependency risk** | exposición creada al depender de un tercero crítico. |
-| **diagnosis** | explicación simplificada de qué desafío importa realmente. |
-| **diversification** | nuevo producto y nuevo mercado simultáneamente. |
-| **dynamic capability** | habilidad para detectar aprovechar y reconfigurar frente al cambio. |
-| **ecosystem** | conjunto de actores interdependientes que crean una propuesta conjunta. |
-| **entry barrier** | condición que dificulta entrada sostenible de nuevos competidores. |
-| **fit** | grado en que actividades se refuerzan como sistema. |
-| **goal** | resultado deseado que no especifica cómo ganar. |
-| **governance rules** | reglas de acceso calidad datos y monetización. |
-| **guiding policy** | enfoque elegido para enfrentar el diagnóstico. |
-| **hypothesis tree** | descomposición de explicaciones mutuamente distinguibles. |
-| **key activity** | actividad crítica que habilita el valor. |
-| **lagging indicator** | resultado que confirma desempeño después. |
-| **leading indicator** | señal temprana del mecanismo estratégico. |
-| **market development** | llevar oferta actual a nuevos mercados. |
-| **market penetration** | crecer con oferta actual en mercado actual. |
-| **moat** | mecanismo que dificulta replicar o erosionar la ventaja. |
-| **option** | capacidad preservada para actuar cuando haya más información. |
-| **platform** | modelo que facilita interacciones entre grupos y puede generar efectos de red. |
-| **product development** | nuevas ofertas para clientes existentes. |
-| **relative cost** | posición de costo respecto a competidores. |
-| **resource** | activo tangible o intangible disponible para la firma. |
-| **resource commitment** | capital talento y capacidad dedicados a una choice. |
-| **resource reallocation** | movimiento deliberado de capital y talento hacia prioridades. |
-| **revenue model** | mecanismo por el que la organización captura ingresos. |
-| **rivalry** | intensidad con que competidores erosionan precio o elevan costo. |
-| **robust move** | acción valiosa bajo varios escenarios. |
-| **root cause** | mecanismo subyacente que explica una parte material del resultado. |
-| **scenario** | futuro plausible y coherente construido alrededor de incertidumbres. |
-| **signpost** | señal observable que indica qué escenario gana probabilidad. |
-| **straddling** | intento de ocupar posiciones incompatibles simultáneamente. |
-| **strategic consistency** | coherencia entre propuesta operaciones y recursos. |
-| **strategic control** | señal y foro que permiten adaptar sin perder dirección. |
-| **strategic initiative** | intervención temporal que construye una capacidad o posición. |
-| **strategic issue** | desafío que puede alterar valor o ventaja de forma material. |
-| **strategic thesis** | argumento causal de por qué una elección puede ganar. |
-| **strategy** | conjunto coherente de elecciones para superar un desafío y crear valor diferencial. |
-| **strategy memo** | documento ejecutivo que articula problema choice y razonamiento. |
-| **strategy review** | foro para evaluar hipótesis y no solo status. |
-| **substitute** | solución distinta que satisface necesidad comparable. |
-| **supplier power** | capacidad de proveedores para elevar precio o restringir condiciones. |
-| **switching cost** | costo económico operativo o psicológico de cambiar. |
-| **symptom** | manifestación observable de un problema. |
-| **trade-off** | elección donde perseguir una opción limita otra. |
-| **value proposition** | razón concreta por la que un segmento elige una oferta. |
-| **VRIO** | prueba de valor rareza imitabilidad y organización. |
-| **willingness to pay** | valor máximo que un cliente atribuye a la oferta. |
+| **Acciones coherentes** | Decisiones coordinadas que se refuerzan entre sí. |
+| **Adaptación coherente** | Cambios que mantienen la lógica de la estrategia. |
+| **Alianza** | Acuerdo entre organizaciones para combinar capacidades. |
+| **Alternativa cero** | No hacer nada o continuar como hasta ahora. |
+| **Ambigüedad causal** | Dificultad para entender qué produce el resultado. |
+| **Ancla** | Idea previa que sesga la lectura de los datos. |
+| **Apuesta robusta** | Decisión que funciona razonablemente en varios escenarios. |
+| **Atrapado en el medio** | Intentar varias estrategias incompatibles sin lograr ventaja en ninguna. |
+| **Barrera de entrada** | Obstáculo que dificulta a nuevos competidores ingresar. |
+| **Brecha de ejecución** | Diferencia entre lo que se decidió y lo que la organización hace. |
+| **Capacidad** | Habilidad de la organización para combinar y desplegar recursos para lograr un fin. |
+| **Capacidad dinámica** | Capacidad de detectar cambios, aprovechar oportunidades y reconfigurar recursos. |
+| **Captura de valor** | Capacidad de retener una parte del valor creado. |
+| **Causa de fondo** | Factor que explica los síntomas visibles. |
+| **Coherencia** | Consistencia entre diagnóstico, política y acciones. |
+| **Compromiso creíble** | Acción que hace creíble una amenaza o promesa. |
+| **Concentración de recursos** | Dirigir esfuerzos a pocos frentes. |
+| **Costo de cambio** | Costo que enfrenta un cliente al cambiar de proveedor. |
+| **Costo de oportunidad** | Valor de lo que se renuncia. |
+| **Crecimiento rentable** | Crecimiento cuyo retorno supera el costo del capital. |
+| **Decisión solicitada** | Lo que se pide aprobar al comité o directorio. |
+| **Desafío crítico** | Obstáculo principal cuya superación destraba el avance. |
+| **Diagnóstico estratégico** | Análisis que identifica la naturaleza del desafío que enfrenta una organización. |
+| **Diferenciación** | Valor único que el cliente paga más por tener. |
+| **Dilema del prisionero** | Situación en que cada parte, actuando por su interés, produce un resultado peor para ambas. |
+| **Diversificación** | Producto nuevo en mercado nuevo. |
+| **Ecosistema** | Conjunto de actores que se complementan para entregar una propuesta de valor. |
+| **Efecto de red** | El valor para un participante aumenta con el número de otros participantes. |
+| **Elecciones en cascada** | Aspiración, dónde jugar, cómo ganar, capacidades y sistemas de gestión. |
+| **Elemento predeterminado** | Fuerza cuyo efecto es casi seguro. |
+| **Encaje (fit)** | Grado en que las actividades se refuerzan entre sí. |
+| **Enfoque** | Servir a un segmento mejor que los generalistas. |
+| **Escenario** | Relato coherente de un futuro plausible, no una predicción. |
+| **Estrategia** | Conjunto coherente de diagnóstico, política guía y acciones para superar un desafío crítico. |
+| **Estructura de costos** | Costos de operar el modelo. |
+| **Estructura de la industria** | Características que determinan la rentabilidad promedio de sus participantes. |
+| **Fuente de ingresos** | Forma en que se cobra: venta, suscripción, comisión, licencia, publicidad. |
+| **Fuerza motriz** | Factor que influye en el futuro (tecnología, regulación, demografía, economía). |
+| **Gobernanza** | Reglas sobre quién participa, cómo y con qué reparto. |
+| **Hecho** | Dato verificable. |
+| **Incertidumbre crítica** | Factor de alto impacto y baja previsibilidad. |
+| **Innovación en valor** | Salto de valor para el comprador con costos bajos mediante eliminar, reducir, elevar y crear. |
+| **Interpretación** | Explicación de los hechos. |
+| **Liderazgo en costos** | Costo unitario menor que el de los competidores. |
+| **Mala estrategia** | Plan que evita el problema y lo reemplaza por aspiraciones, metas o jerga. |
+| **Mapa de estrategia** | Diagrama de causas y efectos entre los objetivos de la estrategia. |
+| **Memo de estrategia** | Documento breve que argumenta una decisión estratégica. |
+| **Mercado de dos lados** | Plataforma con dos grupos que se necesitan mutuamente. |
+| **Modelo de negocio** | Lógica con que una organización crea, entrega y captura valor. |
+| **Nuevos mercados** | Llevar el producto actual a clientes, segmentos o geografías nuevas. |
+| **Nuevos productos** | Ofrecer productos nuevos a clientes actuales. |
+| **Opción real** | Derecho a invertir más si el aprendizaje es favorable. |
+| **Penetración** | Vender más del producto actual al mercado actual. |
+| **Plataforma** | Negocio que facilita interacciones entre grupos de participantes. |
+| **Poder (Helmer)** | Condición que permite un beneficio duradero y una barrera que impide a los rivales arbitrarlo. |
+| **Política guía** | Enfoque general para enfrentar el desafío. |
+| **Pregunta focal** | Decisión o asunto que el ejercicio ayuda a iluminar. |
+| **Propuesta de valor** | Conjunto de productos y servicios que resuelven el problema de un segmento. |
+| **Recurso** | Activo que la empresa controla: físico, financiero, humano, organizacional. |
+| **Renuncia explícita** | Lo que la estrategia decide no hacer. |
+| **Revisión crítica** | Contraste del memo por personas que no lo escribieron. |
+| **Revisión estratégica** | Reunión periódica para contrastar la estrategia con la evidencia. |
+| **Rigidez central** | Capacidad que, al consolidarse, frena el cambio. |
+| **Señal temprana** | Indicador que anticipa si un supuesto se cumple. |
+| **Supuesto crítico** | Creencia cuya falsedad invalidaría la estrategia. |
+| **Sustituto** | Producto de otra categoría que cumple la misma función. |
+| **Trade-off** | Elección en que obtener más de una cosa implica obtener menos de otra. |
+| **Ventaja competitiva** | Capacidad de lograr rentabilidad superior de forma persistente frente a los rivales. |
+| **Ventaja sostenida** | Ventaja que los rivales no pueden replicar en el corto plazo. |
+| **Ventaja transitoria** | Ventaja de duración limitada que se renueva. |
 
 ## 📦 Qué queda como evidencia
 

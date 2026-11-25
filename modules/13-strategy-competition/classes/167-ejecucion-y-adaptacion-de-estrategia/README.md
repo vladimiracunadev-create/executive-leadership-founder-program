@@ -10,217 +10,190 @@
 
 ## 🎯 Propósito
 
-La ejecución estratégica convierte elecciones en asignación de recursos, prioridades, métricas, cadencias y aprendizaje. Una estrategia puede fallar por mala hipótesis o mala ejecución; distinguir ambas exige observar indicadores adelantados y revisar supuestos, no solo perseguir targets.
+Una estrategia que no se ejecuta es un documento; una que se ejecuta sin mirar lo que ocurre es una apuesta ciega. La mayoría de las estrategias fracasa por dos razones simétricas: la **brecha de ejecución** (se decidió algo que la organización no traduce en prioridades, recursos y rutinas) y la **rigidez** (se siguió un plan cuando los supuestos ya habían dejado de ser ciertos). Ejecutar bien una estrategia supone un **sistema** que conecte lo elegido con lo que cada área hace, mida si funciona y permita ajustar con rapidez cuando la evidencia lo exige, sin cambiar de rumbo con cada noticia.
 
-La salida de esta parte es **formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **ejecución y adaptación de estrategia** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el mapa de estrategia y el cuadro de mando de Kaplan y Norton, en la insistencia de Rumelt en que la estrategia debe concentrar y coordinar acciones, en el trabajo de Eisenhardt sobre decisiones rápidas con información abundante en entornos veloces y en los sistemas de gestión de Lafley y Martin. Al terminar sabrás traducir una estrategia en prioridades y resultados, diseñar el ritmo de revisión, definir señales que prueben los supuestos, decidir cuándo ajustar o perseverar y comunicar los cambios sin erosionar la confianza.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `strategic initiative`, `leading indicator`, `lagging indicator`, `strategy review`, `resource reallocation` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. traducir choices a capacidades e iniciativas → 2. asignar owners y recursos → 3. definir leading y lagging indicators → 4. revisar hipótesis en cadencia → 5. reallocate o pivotar según evidencia** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** resource alignment, initiative outcome, leading indicator movement sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Traducir** una estrategia en prioridades, resultados y responsables.
+2. **Identificar** los supuestos críticos y las señales que los ponen a prueba.
+3. **Diseñar** el ritmo de revisión estratégica y el sistema de medición.
+4. **Decidir** cuándo ajustar, perseverar o detener con criterios previos.
+5. **Comunicar** la adaptación manteniendo coherencia y confianza.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define strategic initiative y leading indicator sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con resource alignment y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: toma la estrategia de tu empresa y pregunta a tres personas de distintas áreas cuál es y qué hacen distinto por ella. |
+| 20–60 min | Traducción, supuestos y señales, ritmo, ajuste y comunicación. |
+| 60–105 min | Ejemplo trabajado: estrategia digital de un banco regional con supuestos y umbrales. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **strategic initiative** | intervención temporal que construye una capacidad o posición | Distingue un hecho compatible y otro que lo refute. |
-| **leading indicator** | señal temprana del mecanismo estratégico | Distingue un hecho compatible y otro que lo refute. |
-| **lagging indicator** | resultado que confirma desempeño después | Distingue un hecho compatible y otro que lo refute. |
-| **strategy review** | foro para evaluar hipótesis y no solo status | Distingue un hecho compatible y otro que lo refute. |
-| **resource reallocation** | movimiento deliberado de capital y talento hacia prioridades | Distingue un hecho compatible y otro que lo refute. |
+| **Brecha de ejecución** | Diferencia entre lo que se decidió y lo que la organización hace. | Las prioridades diarias no reflejan la estrategia. |
+| **Supuesto crítico** | Creencia cuya falsedad invalidaría la estrategia. | Se puede enunciar y verificar. |
+| **Señal temprana** | Indicador que anticipa si un supuesto se cumple. | Tiene umbral y responsable. |
+| **Mapa de estrategia** | Diagrama de causas y efectos entre los objetivos de la estrategia. | Conecta aprendizaje, procesos, clientes y finanzas. |
+| **Revisión estratégica** | Reunión periódica para contrastar la estrategia con la evidencia. | Decide ajustar, perseverar o detener. |
+| **Adaptación coherente** | Cambios que mantienen la lógica de la estrategia. | Se explican por evidencia, no por estado de ánimo. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 167: 1. traducir choices a capacidades e iniciativas → 2. asignar owners y recursos → 3. definir leading y lagging indicators → 4. revisar hipótesis en cadencia → 5. reallocate o pivotar según evidencia](modelo-mental.svg)
+![Cinco pasos para ejecutar y adaptar una estrategia: elegir, traducir, ejecutar, leer señales y ajustar, con retorno de lo aprendido a la estrategia.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. traducir choices a capacidades e iniciativas → 2. asignar owners y recursos → 3. definir leading y lagging indicators → 4. revisar hipótesis en cadencia → 5. reallocate o pivotar según evidencia
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **La ejecución estratégica convierte elecciones en asignación de recursos, prioridades, métricas, cadencias y aprendizaje. Una estrategia puede fallar por mala hipótesis o mala ejecución; distinguir ambas exige observar indicadores adelantados y revisar supuestos, no solo perseguir targets.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una cadencia de estrategia puede degenerar en PMO. Protege tiempo para hipótesis, trade-offs y reasignación, y evita exigir métricas prematuras a apuestas exploratorias.**
+**Cómo leer el diagrama.** Cinco pasos con retorno. **Elegir**: diagnóstico, política y apuestas explícitas. **Traducir**: prioridades, recursos y responsables claros. **Ejecutar**: ritmo de gestión con decisiones y seguimiento. **Leer señales**: indicadores del entorno y de resultados que ponen a prueba los supuestos. **Ajustar**: cambiar, reforzar o detener con criterios previos. La estrategia se revisa con lo que se aprende. La nota recuerda que cambiar la estrategia con cada noticia destruye la coherencia y que no cambiarla ante evidencia contraria destruye valor.
 
 ## 📖 Desarrollo
 
-### 1. strategic initiative: mecanismo central
+### 1. La brecha de ejecución
 
-**strategic initiative** se entiende aquí como **intervención temporal que construye una capacidad o posición**. Esta es la pieza causal o estructural desde la que se inicia **ejecución y adaptación de estrategia**: antes de traducir choices a capacidades e iniciativas, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Muchas organizaciones tienen una estrategia que la mayoría de sus miembros no puede explicar ni vincular con su trabajo. Kaplan y Norton sostienen que el problema no es la falta de ideas sino la falta de **traducción**: sin un lenguaje compartido para describir la estrategia y sin medidas conectadas, cada área optimiza lo suyo. Su propuesta es **hacer explícita la estrategia** mediante un **mapa de estrategia** que conecte objetivos de aprendizaje, procesos, clientes y finanzas, y un **cuadro de mando** con indicadores, metas e iniciativas (clase 102). El primer test de ejecución es simple: ¿puede cada área explicar cómo contribuye a la estrategia y qué dejaría de hacer por ella?
 
-La lectura rectora de este bloque es Michael E. Porter — *Competitive Strategy*. Su aporte se usa para examinar **trade-offs, posicionamiento, fit y ventaja competitiva**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **resource alignment**; regístrala con periodo, unidad, población y baseline.
+### 2. Traducir en prioridades y recursos
 
-Relaciona el mecanismo con **leading indicator**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La traducción responde cuatro preguntas. **¿Qué resultados?** (pocos objetivos con medidas, clases 097 a 099). **¿Qué iniciativas?** (las pocas acciones que mueven esos resultados y su costo). **¿Quién responde?** (un dueño por objetivo con autoridad). **¿Con qué recursos?** (capital, personas y tiempo de dirección, clase 106). Rumelt insiste en la **concentración**: pocas prioridades con recursos suficientes; una lista de veinte iniciativas con recursos escasos garantiza que ninguna se complete. La traducción incluye lo que se **deja de hacer**: sin liberar capacidad no hay lugar para lo nuevo.
 
-### 2. leading indicator: frontera conceptual y error de clasificación
+### 3. Supuestos críticos y señales
 
-**Definición operacional:** señal temprana del mecanismo estratégico. Su valor está en distinguirlo de **strategic initiative** y **lagging indicator**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Toda estrategia descansa en **supuestos**: sobre clientes, competidores, tecnología, costos, regulación. Se listan los **críticos** (los que, si fallan, invalidan la estrategia) y para cada uno se define: un **indicador**, un **umbral**, un **responsable de seguirlo** y una **decisión asociada**. Ejemplo: «Supuesto: los clientes pasarán a canales digitales a ritmo de 4 puntos porcentuales al año. Indicador: porcentaje de transacciones digitales. Umbral: menos de 2 puntos al año por dos semestres. Decisión: revisar el plan de inversión en canales». Se definen **antes** de ejecutar, para evitar la tentación de reinterpretar la realidad a favor del plan.
 
-Contrasta el problema con Michael E. Porter — *Competitive Advantage*, que aporta una mirada sobre **cadena de valor, actividades y fuentes de ventaja de costo o diferenciación**. Formula dos mini-casos: uno que sí satisface la definición de **leading indicator** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **initiative outcome** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. El ritmo de revisión
 
-Antes de asignar owners y recursos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El sistema de revisión combina niveles (clase 103): **seguimiento operativo** (semanal y mensual) de las iniciativas y resultados; **revisión de gestión** (mensual o trimestral) de la ejecución, los riesgos y los recursos; y **revisión estratégica** (trimestral o semestral, más una anual) de los supuestos críticos, el entorno y las decisiones de ajustar, perseverar o detener. La revisión estratégica no es una repetición de la operativa: se discute **qué cambió afuera**, **qué aprendimos**, **si los supuestos se sostienen** y **qué decisiones tomar**. Lafley y Martin incluyen entre las cinco elecciones los **sistemas de gestión**: sin ellos, la estrategia se diluye en la rutina.
 
-### 3. lagging indicator: operacionalización y medición
+### 5. Decidir con rapidez y con información
 
-**lagging indicator** significa **resultado que confirma desempeño después**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Eisenhardt estudió empresas en entornos de cambio rápido y encontró que los equipos que decidían bien y rápido **construían varias alternativas a la vez**, **usaban información en tiempo real** (indicadores actuales, no solo informes históricos), **recurrían a consejeros experimentados** y **resolvían conflictos con ayuda de reglas y de la jerarquía** sin postergarlos. No es improvisar: es tener un proceso para decidir rápido con evidencia. Para la adaptación, esto sugiere preparar **alternativas** y **planes de contingencia** (qué haríamos si la señal X cruza el umbral) y contar con **datos cercanos al presente**. Sin ello, las revisiones se vuelven tardías.
 
-Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* orienta este bloque mediante **traducción de estrategia a objetivos, indicadores y relaciones causales**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **leading indicator movement**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Ajustar, perseverar o detener
 
-Al llegar a definir leading y lagging indicators, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cuando una señal cruza el umbral, se decide entre **perseverar** (el supuesto sigue en pie o la evidencia es insuficiente), **ajustar** (cambiar tácticas manteniendo la política: precios, canal, ritmo, recursos) o **cambiar la política** (el diagnóstico ya no es válido), y **detener** una iniciativa (clase 083). Los criterios se definen antes: umbrales, plazos y magnitudes. Se evitan los extremos: **cambiar de estrategia ante cada dato** (volatilidad que destruye la coherencia, la confianza y la ejecución) y **perseverar sin evidencia** por orgullo o costo hundido. Una regla útil: distinguir **ruido** (variación esperable, clase 091) de **señal** (cambio persistente o de gran magnitud).
 
-### 4. strategy review: trade-offs y efectos de segundo orden
+### 7. Comunicar y sostener
 
-**Definición:** foro para evaluar hipótesis y no solo status. Este concepto obliga a abandonar la idea de que **ejecución y adaptación de estrategia** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de revisar hipótesis en cadencia, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-A.G. Lafley & Roger L. Martin — *Playing to Win* aporta una lente sobre **elecciones integradas de dónde jugar y cómo ganar**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **assumption status** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **ejecución y adaptación de estrategia**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **strategy review** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. resource reallocation: gobernanza, límites e integración
-
-**resource reallocation** se define como **movimiento deliberado de capital y talento hacia prioridades** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Rita Gunther McGrath — *The End of Competitive Advantage* se utiliza para estudiar **perspectiva de Estrategia aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar reallocate o pivotar según evidencia, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Una cadencia de estrategia puede degenerar en PMO. Protege tiempo para hipótesis, trade-offs y reasignación, y evita exigir métricas prematuras a apuestas exploratorias.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **strategic initiative**, **leading indicator**, **lagging indicator**, **strategy review** y **resource reallocation** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **ejecución y adaptación de estrategia** no consiste en sumar cinco definiciones. Empieza por **strategic initiative**, contrasta **leading indicator** con **lagging indicator**, incorpora **strategy review** como restricción o mecanismo y usa **resource reallocation** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. traducir choices a capacidades e iniciativas → 2. asignar owners y recursos → 3. definir leading y lagging indicators → 4. revisar hipótesis en cadencia → 5. reallocate o pivotar según evidencia**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La adaptación se comunica con **claridad y razones**: qué señal se observó, qué decisión se tomó, qué se mantiene y qué cambia, y qué se espera. Si no se explica, las personas interpretan los cambios como improvisación. Se mantienen **constantes** el propósito y la política guía y se ajustan las tácticas. Se **reconoce el aprendizaje** (también el de supuestos que fallaron) y se evita culpar. Los líderes dan el ejemplo: respetan las prioridades acordadas, no sobrecargan con nuevas iniciativas y toman decisiones difíciles a tiempo. Los cambios que afecten a personas, contratos o clientes deben cumplir normas laborales y comerciales vigentes.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Porter — *Competitive Strategy* | trade-offs, posicionamiento, fit y ventaja competitiva | ¿Qué supuesto de **ejecución y adaptación de estrategia** ayuda a desafiar? |
-| Michael E. Porter — *Competitive Advantage* | cadena de valor, actividades y fuentes de ventaja de costo o diferenciación | ¿Qué supuesto de **ejecución y adaptación de estrategia** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* | traducción de estrategia a objetivos, indicadores y relaciones causales | ¿Qué supuesto de **ejecución y adaptación de estrategia** ayuda a desafiar? |
-| A.G. Lafley & Roger L. Martin — *Playing to Win* | elecciones integradas de dónde jugar y cómo ganar | ¿Qué supuesto de **ejecución y adaptación de estrategia** ayuda a desafiar? |
-| Rita Gunther McGrath — *The End of Competitive Advantage* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **ejecución y adaptación de estrategia** ayuda a desafiar? |
-
-En **ejecución y adaptación de estrategia**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **strategic initiative**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Kaplan y Norton (*Balanced Scorecard*) | Cuadro de mando para traducir la estrategia en medidas. | Aplicable con estrategia explícita. | ¿Cada objetivo tiene indicador y dueño? |
+| Rumelt | Coherencia y concentración de acciones. | Poco método de seguimiento. | ¿Qué iniciativas dejaste de hacer? |
+| Eisenhardt (1989) | Decidir con rapidez usando alternativas múltiples e información actual. | Estudio de empresas de entornos veloces. | ¿Qué alternativas preparas? |
+| Lafley y Martin | Sistemas de gestión como parte de la estrategia. | Visión de grandes empresas. | ¿Tus sistemas respaldan tus elecciones? |
+| McGrath | Reconfigurar ventajas ante cambios. | Menos detalle sobre medición. | ¿Qué señal te haría reconfigurar? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** El comité mensual revisa 42 proyectos con semáforos, todos verdes. Sin embargo, ninguno muestra si la nueva estrategia de segmento está aumentando retención o margen.
+**Situación (hipotética).** Un banco regional (USD 4.000 millones en activos, 180 sucursales) adoptó una estrategia: **competir en banca de personas y pequeñas empresas con una oferta digital simple y servicio humano en puntos clave**, cerrando sucursales de bajo tráfico y reasignando personal a asesoría.
 
-**Paso 1 — traducir choices a capacidades e iniciativas.** La gerencia escribe primero el supuesto asociado a **strategic initiative** y evita convertirlo en hecho. Luego busca **resource alignment** para contrastarlo en el caso de **ejecución y adaptación de estrategia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Supuestos críticos con señales y decisiones.**
 
-**Paso 2 — asignar owners y recursos.** La gerencia escribe primero el supuesto asociado a **leading indicator** y evita convertirlo en hecho. Luego busca **initiative outcome** para contrastarlo en el caso de **ejecución y adaptación de estrategia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Supuesto | Indicador | Umbral | Decisión si se cruza |
+|---|---|---|---|
+| Los clientes adoptarán canales digitales a un ritmo de 5 puntos al año | % de transacciones digitales | Menos de 3 puntos al año durante 2 semestres | Revisar ritmo de cierres y el plan de educación al cliente |
+| El cierre de 40 sucursales no elevará la fuga de clientes más de 2 puntos | Fuga neta de clientes en zonas cerradas | Más de 4 puntos sobre la base | Pausar nuevos cierres; reforzar atención |
+| Los asesores reasignados aumentarán las ventas de productos en 15 % | Ventas por asesor | Menos de 5 % en 2 trimestres | Revisar capacitación e incentivos |
+| El costo de adquirir un cliente digital será menor a USD 45 | CAC digital | Más de USD 70 | Cambiar mezcla de canales |
+| La regulación permitirá la apertura de cuentas 100 % digitales | Normas publicadas | Restricciones adicionales | Ajustar el modelo de verificación |
 
-**Paso 3 — definir leading y lagging indicators.** La gerencia escribe primero el supuesto asociado a **lagging indicator** y evita convertirlo en hecho. Luego busca **leading indicator movement** para contrastarlo en el caso de **ejecución y adaptación de estrategia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Año 1: lo que mostraron las señales.** Transacciones digitales: +3,4 puntos (bajo el supuesto pero sobre el umbral); fuga en zonas cerradas: +3,1 puntos (entre el supuesto y el umbral); ventas por asesor: +11 %; CAC digital: USD 58; regulación: sin cambios. Lectura: los supuestos se cumplen parcialmente; ninguna señal cruzó el umbral; se **perseveró con ajustes**: más educación al cliente en zonas cerradas y una oferta de servicio móvil en dos localidades.
 
-**Paso 4 — revisar hipótesis en cadencia.** La gerencia escribe primero el supuesto asociado a **strategy review** y evita convertirlo en hecho. Luego busca **assumption status** para contrastarlo en el caso de **ejecución y adaptación de estrategia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Año 2: una señal cruza el umbral.** El CAC digital llega a USD 78 por aumento del costo de publicidad. Decisión: **ajustar la táctica**, no la estrategia: reasignar presupuesto a recomendaciones y a alianzas con comercios, reducir la publicidad en medios con mayor costo, y probar el canal de sucursales como punto de captación asistida. Se comunica al directorio y a los equipos con datos y plan; la política guía se mantiene.
 
-**Paso 5 — reallocate o pivotar según evidencia.** La gerencia escribe primero el supuesto asociado a **resource reallocation** y evita convertirlo en hecho. Luego busca **kill-continue decisions** para contrastarlo en el caso de **ejecución y adaptación de estrategia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Revisión estratégica semestral.** Agenda de 3 horas: (1) qué cambió afuera (competidores digitales, tasas, regulación), (2) estado de supuestos, (3) resultados e iniciativas, (4) decisiones de ajuste, (5) lecciones. Registro de decisiones con razones.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **ejecución y adaptación de estrategia**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Los supuestos tenían indicador, umbral y decisión previa. (2) Se distinguió ajustar tácticas de cambiar la política. (3) El ritmo de revisión permitió reaccionar sin improvisar.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **strategic initiative** | intervención temporal que construye una capacidad o posición | Cuando resource alignment es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **leading indicator** | señal temprana del mecanismo estratégico | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Ejecución frente a planificación.** La planificación define qué hacer; la ejecución lo convierte en rutinas y resultados; la adaptación lo corrige con evidencia. Un buen sistema integra los tres.
 
-**Frontera de aplicación:** Una cadencia de estrategia puede degenerar en PMO. Protege tiempo para hipótesis, trade-offs y reasignación, y evita exigir métricas prematuras a apuestas exploratorias.
+**Límites.** Los umbrales son juicios y pueden ser demasiado sensibles o insensibles. Los indicadores pueden no capturar lo importante o ser manipulados. Hay cambios que ocurren más rápido que los ciclos de revisión. La adaptación excesiva produce fatiga en la organización. Los procesos de cierre de sucursales y de reasignación de personal tienen requisitos laborales, regulatorios y de comunicación que se verifican con las normas vigentes y asesoría. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre ejecución y adaptación de estrategia |
+| Nivel | Cómo participa en la ejecución y adaptación |
 |---|---|
-| **Profesional** | usa **ejecución y adaptación de estrategia** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **strategic initiative** y **leading indicator** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta resource alignment con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si ejecución y adaptación de estrategia cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de ejecución y adaptación de estrategia reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **ejecución y adaptación de estrategia** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende cómo su trabajo contribuye y señala lo que observa en terreno. |
+| **Jefe / Team Lead** | Traduce las prioridades en resultados de su equipo y reporta señales. |
+| **Gerente** | Gestiona iniciativas, supuestos e indicadores de su área. |
+| **CEO / Director** | Conduce la revisión estratégica y decide ajustar o perseverar. |
+| **Founder / Owner** | Mantiene el rumbo, pero cambia de táctica cuando la evidencia lo pide. |
 
 ## 🏢 Caso ejecutivo
 
-El comité mensual revisa 42 proyectos con semáforos, todos verdes. Sin embargo, ninguno muestra si la nueva estrategia de segmento está aumentando retención o margen.
+Una cadena de tiendas de electrodomésticos (140 locales) definió hace 18 meses una estrategia: **pasar de vender cajas a vender soluciones para el hogar con servicio de instalación y garantía extendida**, concentrando la inversión en 60 locales «de servicio» y reduciendo los demás. Las ventas de servicios crecen 22 %, pero el volumen de productos cae 9 %; los locales de servicio tienen una rotación de personal de 41 %; los técnicos de instalación son insuficientes (tiempo de espera de 11 días); los competidores en línea bajaron precios 12 %; la dirección recibe indicadores trimestrales y los gerentes atribuyen los problemas a «el mercado». El presidente debate cambiar de rumbo o perseverar; un director quiere retomar la estrategia de precios.
 
-Entrega un **decision brief de ejecución y adaptación de estrategia** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **sistema de ejecución y adaptación** que contenga: (a) la traducción de la estrategia en pocos resultados, iniciativas y dueños; (b) cinco supuestos críticos con indicador, umbral y decisión asociada; (c) el ritmo de revisión y los datos de ciclo corto que se necesitan; (d) la lectura de la situación actual con las señales disponibles y la recomendación de perseverar, ajustar o cambiar la política, con argumentos; (e) el plan de comunicación a equipos, clientes y directorio; (f) las verificaciones laborales, de garantías y de consumo que se harán con las normas vigentes y asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **ejecución y adaptación de estrategia** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. traducir choices a capacidades e iniciativas → 2. asignar owners y recursos → 3. definir leading y lagging indicators → 4. revisar hipótesis en cadencia → 5. reallocate o pivotar según evidencia** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta resource alignment, initiative outcome; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Pregunta a tres personas de áreas distintas cuál es la estrategia y qué hacen por ella; anota las diferencias.
+2. Lista tus cinco supuestos críticos con indicador, umbral y decisión.
+3. Diseña la agenda de una revisión estratégica de tres horas.
+4. Clasifica un cambio reciente de tu empresa como ruido, ajuste táctico o cambio de política.
+5. Redacta un mensaje de comunicación de un ajuste con razón, qué cambia y qué se mantiene.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar strategic initiative y leading indicator como sinónimos | Se pierde la distinción entre “intervención temporal que construye una capacidad o posición” y “señal temprana del mecanismo estratégico” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “reallocate o pivotar según evidencia” | Se saltó “traducir choices a capacidades e iniciativas” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. traducir choices a capacidades e iniciativas → 2. asignar owners y recursos → 3. definir leading y lagging indicators → 4. revisar hipótesis en cadencia → 5. reallocate o pivotar según evidencia y marca el primer supuesto no demostrado. |
-| Optimizar solo resource alignment | La métrica local sustituyó al resultado del sistema | Contrástala con initiative outcome y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre ejecución y adaptación de estrategia | Una cadencia de estrategia puede degenerar en PMO. Protege tiempo para hipótesis, trade-offs y reasignación, y evita exigir métricas prematuras a apuestas exploratorias. |
-| No fijar revisión | Una decisión sobre ejecución y adaptación de estrategia se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Estrategia que nadie traduce | Se comunica una vez | Mapa, indicadores, dueños y recursos. |
+| Supuestos implícitos | No se explicitan | Listar y asignar indicadores y umbrales. |
+| Umbrales después de ver los datos | Se interpreta a conveniencia | Definirlos antes. |
+| Cambiar con cada noticia | Se reacciona al ruido | Distinguir señal de ruido. |
+| Perseverar por orgullo | Se defiende lo decidido | Criterios previos y evidencia. |
+| Comunicar sin razones | Se evita el conflicto | Explicar qué cambia, qué se mantiene y por qué. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **strategic initiative** y **leading indicator** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **lagging indicator** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **traducir choices a capacidades e iniciativas → asignar owners y recursos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **resource alignment** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **ejecución y adaptación de estrategia**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Una cadencia de estrategia puede degenerar en PMO. Protege tiempo para hipótesis, trade-offs y reasignación, y evita exigir métricas prematuras a apuestas exploratorias.**?
+1. ¿Qué es la brecha de ejecución?
+2. ¿Qué es un supuesto crítico y qué lo acompaña?
+3. ¿Qué diferencia hay entre revisión operativa y estratégica?
+4. ¿Qué encontró Eisenhardt sobre las decisiones rápidas efectivas?
+5. ¿Cuándo se ajusta, se persevera o se cambia la política?
+6. ¿Por qué se definen los umbrales antes?
+7. ¿Cómo se comunica una adaptación?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La diferencia entre lo que se decidió como estrategia y lo que la organización realmente hace.
+2. Una creencia cuya falsedad invalidaría la estrategia; se acompaña de indicador, umbral, responsable y decisión asociada.
+3. La operativa sigue iniciativas y resultados; la estratégica contrasta los supuestos y el entorno con la evidencia y decide ajustar, perseverar o detener.
+4. Que los equipos que decidían bien y rápido consideraban varias alternativas a la vez, usaban información actual y consejeros experimentados y resolvían conflictos con ayuda de reglas.
+5. Se persevera si el supuesto sigue en pie o falta evidencia; se ajustan las tácticas si hay desviaciones; se cambia la política si el diagnóstico ya no es válido.
+6. Para evitar reinterpretar la realidad a favor del plan una vez vistos los datos.
+7. Con claridad y razones: qué señal se observó, qué se decidió, qué se mantiene, qué cambia y qué se espera.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/167-ejecucion-y-adaptacion-de-estrategia/`:
 
-- `strategy-memo.md` con el problema específico de **ejecución y adaptación de estrategia**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **ejecución y adaptación de estrategia** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **strategic initiative**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **El comité mensual revisa 42 proyectos con semáforos, todos verdes. Sin embargo, ninguno muestra si la nueva estrategia de segmento está aumentando retención o margen.** y el dato que podría invalidar la recomendación.
+- `strategy-memo.md` (plantilla [Strategy memo](../../../../templates/strategy-memo.md)) con el sistema de ejecución y adaptación del caso ejecutivo;
+- `ceo-dashboard.md` (plantilla [CEO dashboard](../../../../templates/ceo-dashboard.md)) con los indicadores, umbrales y responsables;
+- `decision-journal.md` con la lectura de señales y las decisiones de ajuste.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Porter — *Competitive Strategy* (Free Press, 1980). **Uso en esta clase:** trade-offs, posicionamiento, fit y ventaja competitiva. Lectura selectiva sobre **ejecución y adaptación de estrategia**. **Localizador:** [ISBN-13 9780684841489](https://openlibrary.org/isbn/9780684841489).
-- Michael E. Porter — *Competitive Advantage* (Free Press, 1985). **Uso en esta clase:** cadena de valor, actividades y fuentes de ventaja de costo o diferenciación. Lectura selectiva sobre **ejecución y adaptación de estrategia**. **Localizador:** [ISBN-13 9780029250907](https://openlibrary.org/isbn/9780029250907).
-- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** traducción de estrategia a objetivos, indicadores y relaciones causales. Lectura selectiva sobre **ejecución y adaptación de estrategia**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
-- A.G. Lafley & Roger L. Martin — *Playing to Win* (Harvard Business Review Press, 2013). **Uso en esta clase:** elecciones integradas de dónde jugar y cómo ganar. Lectura selectiva sobre **ejecución y adaptación de estrategia**. **Localizador:** [ISBN-13 9781422187395](https://openlibrary.org/isbn/9781422187395).
-- Rita Gunther McGrath — *The End of Competitive Advantage* (Harvard Business Review Press, 2013). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **ejecución y adaptación de estrategia**. **Localizador:** [ISBN-13 9781422172810](https://openlibrary.org/isbn/9781422172810).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **ejecución y adaptación de estrategia**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **ejecución y adaptación de estrategia** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **ejecución y adaptación de estrategia**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **ejecución y adaptación de estrategia** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **ejecución y adaptación de estrategia** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **ejecución y adaptación de estrategia** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** cuadro de mando para traducir la estrategia en medidas. Lectura selectiva sobre **ejecución y adaptación de estrategia**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
+- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** coherencia y concentración de acciones. Lectura selectiva sobre **ejecución y adaptación de estrategia**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
+- Kathleen M. Eisenhardt — *Making Fast Strategic Decisions in High-Velocity Environments* (Academy of Management Journal, 1989). **Uso en esta clase:** decidir con rapidez usando alternativas múltiples e información actual. Lectura selectiva sobre **ejecución y adaptación de estrategia**. **Localizador:** [DOI 10.2307/256434](https://doi.org/10.2307/256434).
+- A.G. Lafley & Roger L. Martin — *Playing to Win* (Harvard Business Review Press, 2013). **Uso en esta clase:** sistemas de gestión como parte de la estrategia. Lectura selectiva sobre **ejecución y adaptación de estrategia**. **Localizador:** [ISBN-13 9781422187395](https://openlibrary.org/isbn/9781422187395).
+- Rita Gunther McGrath — *The End of Competitive Advantage* (Harvard Business Review Press, 2013). **Uso en esta clase:** reconfigurar ventajas ante cambios. Lectura selectiva sobre **ejecución y adaptación de estrategia**. **Localizador:** [ISBN-13 9781422172810](https://openlibrary.org/isbn/9781422172810).
 
-> **Regla de fuentes para Ejecución y adaptación de estrategia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **ejecución y adaptación de estrategia** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Ejecución y adaptación de estrategia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales, de consumo y regulatorias aplicables al sector. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

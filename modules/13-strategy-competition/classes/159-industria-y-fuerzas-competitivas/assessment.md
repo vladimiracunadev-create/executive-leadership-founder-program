@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **rivalry** de **buyer power** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **supplier power** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **substitute** con **entry barrier**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Por qué la rentabilidad depende de la estructura de la industria?
+2. ¿Cuáles son las cinco fuerzas y cuándo se intensifica cada una?
+3. ¿Qué es un dilema del prisionero y cómo aparece en los precios?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una empresa SaaS cree que su principal amenaza son tres competidores directos. Clientes enterprise empiezan a reemplazar la categoría con capacidades incluidas en suites cloud existentes.
+**Caso:** Una empresa de aplicaciones de reparto de comida en una ciudad grande tiene tres competidores locales y uno internacional. Los restaurantes (proveedores del servicio) pagan comisiones de 25 % y se quejan; los repartidores, que son independientes, han organizado paros y exigen tarifas mayores; los clientes cambian de aplicación según los cupones y el 70 % tiene instaladas dos o más; los restaurantes grandes han lanzado sus propias aplicaciones para recuperar el cliente directo. La regulación local discute una ley que limita las comisiones y regula la relación con los repartidores. La empresa pierde USD 0,8 por pedido y su directorio debate entre «subir comisiones», «reducir cupones» o «lanzar suscripción».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir límites de industria y segmento → analizar cada fuerza con evidencia → identificar pools de beneficio → cambiar lente hacia sustitutos y complementos → traducir estructura a elección estratégica**. Debes utilizar o diseñar cómo obtener **industry margins, concentration, switching cost**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **análisis de industria y plan de jugadas** que contenga: (a) las cinco fuerzas con evidencia y el análisis de la rentabilidad estructural; (b) un juego simplificado de precios o de cupones con los incentivos de cada actor y su equilibrio; (c) tres o cuatro jugadas para mejorar la posición o cambiar la estructura; (d) el análisis de la posible regulación y de los complementadores; (e) las señales de seguimiento; (f) los límites legales de libre competencia y laborales que se verificarán con las normas vigentes y asesoría. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Las fronteras de industria cambian y las fuerzas no predicen movimientos específicos. Complementa con ecosistemas, tecnología, regulación y capacidades internas.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: El análisis es estático y depende de definir bien la industria.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

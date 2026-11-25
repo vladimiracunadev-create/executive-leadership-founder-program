@@ -10,238 +10,197 @@
 
 ## 🎯 Propósito
 
-Partnerships, plataformas y ecosistemas permiten crear valor más allá de los límites de una empresa, pero introducen dependencia, gobernanza y distribución de valor. La pregunta estratégica es qué controlar, qué estandarizar y dónde conviene compartir capacidades.
+Ninguna empresa lo hace todo sola, y cada vez menos lo intentan. Las alianzas, los ecosistemas y las plataformas han cambiado la forma de competir: el valor ya no se crea solo dentro de una cadena lineal de proveedor, fabricante y distribuidor, sino en **redes de actores que se complementan**, y algunas empresas ganan no por lo que producen sino por lo que **permiten que otros hagan** conectándolos. Esto abre oportunidades (alcance, velocidad, capacidades que no se tienen) y riesgos (dependencia, pérdida de control, conflictos sobre el reparto del valor, regulación). Decidir **con quién, cómo y bajo qué reglas** colaborar es hoy una decisión estratégica de primer orden.
 
-La salida de esta parte es **formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **partnerships, ecosistemas y plataformas** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis de plataformas de Parker, Van Alstyne y Choudary, en la teoría económica de mercados de dos lados de Rochet y Tirole, en el marco de ecosistemas de Jacobides, Cennamo y Gawer y en la visión de dependencias de la clase 093. Al terminar sabrás distinguir alianzas lineales de plataformas y ecosistemas, entender los efectos de red y el problema del arranque, diseñar una estructura de precios y de reglas, evaluar la gobernanza y decidir cuándo conviene ser plataforma, participar en una o aliarse de forma lineal.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `ecosystem`, `platform`, `complementor`, `governance rules`, `dependency risk` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. mapear actores y flujo de valor → 2. identificar complementos y cuellos → 3. definir incentivos y reglas → 4. modelar economics y dependencia → 5. negociar métricas datos y salida** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** partner-sourced revenue, dependency concentration, take rate sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
-7. **Comparar** build, buy y partner evaluando aporte, dependencia, poder, alineación, exclusividad, riesgo, gobierno y salida.
+1. **Distinguir** alianza lineal, plataforma y ecosistema.
+2. **Explicar** los efectos de red y el problema del arranque.
+3. **Diseñar** una estructura de precios que equilibre los lados de una plataforma.
+4. **Evaluar** la gobernanza: reglas, acceso, calidad y reparto del valor.
+5. **Decidir** si conviene ser plataforma, participar o aliarse de forma lineal.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define ecosystem y platform sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con partner-sourced revenue y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿de qué plataformas o socios depende tu empresa y qué ocurriría si cambiaran sus reglas? |
+| 20–60 min | Alianzas, plataformas, efectos de red, precios y gobernanza. |
+| 60–105 min | Ejemplo trabajado: arranque de un mercado de servicios técnicos para hogares. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **ecosystem** | conjunto de actores interdependientes que crean una propuesta conjunta | Distingue un hecho compatible y otro que lo refute. |
-| **platform** | modelo que facilita interacciones entre grupos y puede generar efectos de red | Distingue un hecho compatible y otro que lo refute. |
-| **complementor** | actor cuya oferta aumenta valor de otra | Distingue un hecho compatible y otro que lo refute. |
-| **governance rules** | reglas de acceso calidad datos y monetización | Distingue un hecho compatible y otro que lo refute. |
-| **dependency risk** | exposición creada al depender de un tercero crítico | Distingue un hecho compatible y otro que lo refute. |
+| **Alianza** | Acuerdo entre organizaciones para combinar capacidades. | Dos o pocas partes con un contrato. |
+| **Plataforma** | Negocio que facilita interacciones entre grupos de participantes. | Productores y consumidores conectados. |
+| **Efecto de red** | El valor para un participante aumenta con el número de otros participantes. | Cada nuevo usuario beneficia a los demás. |
+| **Mercado de dos lados** | Plataforma con dos grupos que se necesitan mutuamente. | Compradores y vendedores. |
+| **Ecosistema** | Conjunto de actores que se complementan para entregar una propuesta de valor. | Complementadores y dependencias mutuas. |
+| **Gobernanza** | Reglas sobre quién participa, cómo y con qué reparto. | Acceso, calidad, precios. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 166: 1. mapear actores y flujo de valor → 2. identificar complementos y cuellos → 3. definir incentivos y reglas → 4. modelar economics y dependencia → 5. negociar métricas datos y salida](modelo-mental.svg)
+![Alianza lineal frente a plataforma o ecosistema: pocas partes y valor por contrato, frente a muchos participantes y valor por efectos de red, con el riesgo de cada una.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear actores y flujo de valor → 2. identificar complementos y cuellos → 3. definir incentivos y reglas → 4. modelar economics y dependencia → 5. negociar métricas datos y salida
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Partnerships, plataformas y ecosistemas permiten crear valor más allá de los límites de una empresa, pero introducen dependencia, gobernanza y distribución de valor. La pregunta estratégica es qué controlar, qué estandarizar y dónde conviene compartir capacidades.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No toda relación con proveedores es ecosistema y no todo efecto de red genera ventaja. Valida si la interdependencia realmente aumenta valor y si el poder está equilibrado.**
+**Cómo leer el diagrama.** Dos paneles. La **alianza lineal** combina capacidades de pocas partes, el valor se reparte por contrato y su riesgo es la dependencia y el conflicto por el reparto. La **plataforma o ecosistema** coordina a muchos participantes que se atraen entre sí; el valor crece con los efectos de red y su riesgo es el arranque difícil, la dependencia de participantes y la regulación. La nota recuerda que el desafío central de una plataforma es el arranque y la gobernanza de las reglas, y que no toda empresa debería ser plataforma.
 
 ## 📖 Desarrollo
 
-### 1. ecosystem: mecanismo central
+### 1. Alianzas lineales y plataformas
 
-**ecosystem** se entiende aquí como **conjunto de actores interdependientes que crean una propuesta conjunta**. Esta es la pieza causal o estructural desde la que se inicia **partnerships, ecosistemas y plataformas**: antes de mapear actores y flujo de valor, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+En una **cadena de valor lineal**, la empresa compra insumos, los transforma y vende el resultado; el valor se crea dentro de la empresa y se transfiere a lo largo de la cadena. Las **alianzas lineales** (licencias, joint ventures, acuerdos de distribución, desarrollo conjunto) combinan capacidades complementarias de pocas partes y se rigen por contratos. Una **plataforma**, en cambio, crea valor **facilitando intercambios** entre grupos: conecta a quienes ofrecen con quienes demandan y establece reglas. Parker, Van Alstyne y Choudary sostienen que la lógica de plataforma desplaza el foco de **controlar recursos** a **orquestar recursos**, y de **optimizar procesos internos** a **crear un ecosistema** que genere valor para todos.
 
-La lectura rectora de este bloque es Michael E. Porter — *Competitive Strategy*. Su aporte se usa para examinar **trade-offs, posicionamiento, fit y ventaja competitiva**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **partner-sourced revenue**; regístrala con periodo, unidad, población y baseline.
+### 2. Efectos de red y masa crítica
 
-Relaciona el mecanismo con **platform**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El **efecto de red directo** ocurre cuando el valor para un usuario aumenta con el número de usuarios del mismo tipo (un servicio de mensajería); el **indirecto** (entre lados), cuando más participantes de un lado atraen a más del otro (más conductores atraen a más pasajeros). Los efectos pueden ser **positivos** o **negativos** (la congestión, el spam). Las plataformas deben alcanzar una **masa crítica** a partir de la cual el crecimiento se sostiene. Antes de eso enfrentan el **problema del arranque** (huevo y gallina): sin vendedores no hay compradores y viceversa. Estrategias: **empezar en un nicho geográfico o temático**, **subsidiar un lado**, **aportar contenido o servicio propio al inicio**, **crear valor para un usuario solo** (la herramienta que sirve aunque no haya red).
 
-### 2. platform: frontera conceptual y error de clasificación
+### 3. Mercados de dos lados y estructura de precios
 
-**Definición operacional:** modelo que facilita interacciones entre grupos y puede generar efectos de red. Su valor está en distinguirlo de **ecosystem** y **complementor**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Rochet y Tirole analizan que, en mercados de dos lados, lo que importa no es solo el **nivel total** del precio sino cómo se **reparte** entre los lados: a menudo conviene **subsidiar** o dar gratis a un lado (el más sensible o el que atrae al otro) y cobrar al otro. Los precios reflejan quién valora más la participación del otro lado y el costo de servir a cada uno. Una consecuencia: una plataforma puede perder dinero en un lado y ganar en el otro, y los precios por lado no deben juzgarse como si el lado subsidiado fuera un negocio independiente. La estructura de precios es una decisión estratégica que afecta el crecimiento, la competencia y la regulación.
 
-Contrasta el problema con Michael E. Porter — *Competitive Advantage*, que aporta una mirada sobre **cadena de valor, actividades y fuentes de ventaja de costo o diferenciación**. Formula dos mini-casos: uno que sí satisface la definición de **platform** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **dependency concentration** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Ecosistemas y complementadores
 
-Antes de identificar complementos y cuellos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Jacobides, Cennamo y Gawer definen un **ecosistema** como un conjunto de actores con distintos grados de **complementariedad no genérica** (cada uno aporta algo específico al valor del conjunto) que **se coordinan sin una jerarquía formal**. Un ecosistema se estudia desde su **propuesta de valor conjunta**, sus **actores**, las **dependencias** entre ellos (¿quién depende de quién?), los **cuellos de botella** (componentes escasos que concentran poder) y la **gobernanza**. En un ecosistema, la competencia ocurre entre ecosistemas y entre actores dentro de uno; la ventaja depende de **controlar los cuellos de botella** y de **atraer complementadores** sin ceder demasiado valor.
 
-### 3. complementor: operacionalización y medición
+### 5. Gobernanza: reglas, acceso y reparto
 
-**complementor** significa **actor cuya oferta aumenta valor de otra**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Las reglas determinan la calidad y la sostenibilidad: **quién puede participar** (acceso abierto o curado), **qué estándares de calidad** se exigen, **cómo se resuelven disputas**, **qué datos se comparten y quién es dueño de ellos**, **cuánto se cobra** y **cómo se reparte el valor**. Una plataforma muy abierta atrae volumen pero puede deteriorar calidad y confianza; una cerrada, lo contrario. Las **comisiones** altas empujan a los participantes a salir de la plataforma o a intercambios «por fuera» (desintermediación). Cambios unilaterales de reglas dañan la confianza de los participantes y generan riesgo de **dependencia**: quien construyó su negocio sobre una plataforma queda expuesto (clase 139 y 093).
 
-David J. Teece — *Dynamic Capabilities and Strategic Management* orienta este bloque mediante **perspectiva de Estrategia aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **take rate**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Participar en la plataforma de otro
 
-Al llegar a definir incentivos y reglas, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Muchas empresas serán **participantes** de plataformas ajenas (marketplaces, sistemas operativos, redes sociales, pagos). Ventajas: **alcance** y **herramientas** sin construirlas. Riesgos: dependencia de reglas, comisiones y algoritmos; **pérdida de la relación y los datos** del cliente; **competencia con la propia plataforma**; riesgo de **desintermediación**. Estrategias: **diversificar** plataformas, **construir canal propio** para clientes recurrentes (clase 139), **diferenciarse** para no ser intercambiable, **negociar** cláusulas, **monitorear** la dependencia y tener un plan de contingencia. La decisión se evalúa con los criterios de dependencia de proveedores (clase 093).
 
-### 4. governance rules: trade-offs y efectos de segundo orden
+### 7. Cuándo ser plataforma (y cuándo no)
 
-**Definición:** reglas de acceso calidad datos y monetización. Este concepto obliga a abandonar la idea de que **partnerships, ecosistemas y plataformas** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de modelar economics y dependencia, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Richard Rumelt — *Good Strategy/Bad Strategy* aporta una lente sobre **diagnóstico, política guía y acciones coherentes**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **ecosystem adoption** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **partnerships, ecosistemas y plataformas**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **governance rules** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. dependency risk: gobernanza, límites e integración
-
-**dependency risk** se define como **exposición creada al depender de un tercero crítico** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Hamilton Helmer — *7 Powers* se utiliza para estudiar **perspectiva de Estrategia aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar negociar métricas datos y salida, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No toda relación con proveedores es ecosistema y no todo efecto de red genera ventaja. Valida si la interdependencia realmente aumenta valor y si el poder está equilibrado.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **ecosystem**, **platform**, **complementor**, **governance rules** y **dependency risk** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **partnerships, ecosistemas y plataformas** no consiste en sumar cinco definiciones. Empieza por **ecosystem**, contrasta **platform** con **complementor**, incorpora **governance rules** como restricción o mecanismo y usa **dependency risk** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear actores y flujo de valor → 2. identificar complementos y cuellos → 3. definir incentivos y reglas → 4. modelar economics y dependencia → 5. negociar métricas datos y salida**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Build, buy o partner como decisión de dependencia
-
-Compara **build**, **buy** y **partner** con el mismo horizonte, demanda y costo de capital.
-
-| Dimensión | Pregunta de control |
-|---|---|
-| **Aporte** | ¿Qué capacidad, acceso, velocidad o economics aporta cada parte y cómo se mide? |
-| **Dependencia** | ¿Qué operación, dato, cliente o ingreso queda concentrado en el socio? |
-| **Poder negociador** | ¿Quién cambia precio, acceso o reglas con menor costo de salida? |
-| **Alineación** | ¿Los incentivos siguen compatibles si volumen, margen o estrategia cambian? |
-| **Exclusividad** | ¿Qué opciones futuras se cierran, por cuánto tiempo y alcance? |
-| **Riesgo** | ¿Qué falla técnica, comercial, regulatoria o reputacional se comparte o transfiere? |
-| **Gobierno** | ¿Quién decide, qué datos y SLA rigen y cómo se resuelve conflicto? |
-| **Salida** | ¿Qué portabilidad, transición, propiedad de datos y continuidad existen? |
-
-La recomendación termina con owner, capital y capacidad comprometidos, límites, trigger de renegociación y plan de salida probado.
+Conviene considerar una plataforma cuando: hay **dos o más grupos** que se benefician de interactuar; existen **costos de búsqueda o de transacción** que la plataforma reduce; los **efectos de red** son reales y no se agotan rápido; se puede resolver el arranque; hay **capacidad de gobernanza**; y el entorno regulatorio lo permite. No conviene cuando el valor no depende de la interacción entre participantes, cuando la competencia ya concentró la masa crítica o cuando la empresa carece de la capacidad de operar la red. Muchas «plataformas» son un producto con una comunidad sin efectos de red reales. Las plataformas están sujetas a regulación creciente (competencia, datos, laboral, consumo) que se verifica en su fuente vigente y con asesoría.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Porter — *Competitive Strategy* | trade-offs, posicionamiento, fit y ventaja competitiva | ¿Qué supuesto de **partnerships, ecosistemas y plataformas** ayuda a desafiar? |
-| Michael E. Porter — *Competitive Advantage* | cadena de valor, actividades y fuentes de ventaja de costo o diferenciación | ¿Qué supuesto de **partnerships, ecosistemas y plataformas** ayuda a desafiar? |
-| David J. Teece — *Dynamic Capabilities and Strategic Management* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **partnerships, ecosistemas y plataformas** ayuda a desafiar? |
-| Richard Rumelt — *Good Strategy/Bad Strategy* | diagnóstico, política guía y acciones coherentes | ¿Qué supuesto de **partnerships, ecosistemas y plataformas** ayuda a desafiar? |
-| Hamilton Helmer — *7 Powers* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **partnerships, ecosistemas y plataformas** ayuda a desafiar? |
-
-En **partnerships, ecosistemas y plataformas**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **ecosystem**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Parker, Van Alstyne y Choudary | Lógica de plataformas: efectos de red, arranque, gobernanza y estrategia. | Visión de plataformas exitosas. | ¿Tu negocio tiene efectos de red reales? |
+| Rochet y Tirole (2003) | Economía de mercados de dos lados y estructura de precios. | Modelo teórico. | ¿Qué lado subsidias y por qué? |
+| Jacobides, Cennamo y Gawer (2018) | Concepto de ecosistema, complementariedades y cuellos de botella. | Marco conceptual. | ¿Qué cuello de botella controlas? |
+| Porter | Poder de proveedores y compradores en la cadena. | Visión lineal. | ¿Dependes de un actor poderoso? |
+| McGrath | Ventajas transitorias en ecosistemas cambiantes. | Poco detalle operativo. | ¿Cuánto durará tu posición en el ecosistema? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una fintech crece sobre la API de un único banco. El socio cambia pricing y rate limits; la unidad económica se deteriora 30% y no existe plan de portabilidad.
+**Situación (hipotética).** Un emprendimiento quiere crear un mercado digital de servicios técnicos para hogares (electricistas, gasfíteres) en una ciudad de 1,8 millones de habitantes. Debe resolver el arranque y definir su economía.
 
-**Paso 1 — mapear actores y flujo de valor.** La gerencia escribe primero el supuesto asociado a **ecosystem** y evita convertirlo en hecho. Luego busca **partner-sourced revenue** para contrastarlo en el caso de **partnerships, ecosistemas y plataformas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Estructura de dos lados.** Lado A: técnicos (oferta); lado B: hogares (demanda). Efecto indirecto: más técnicos reducen el tiempo de espera; más hogares aseguran trabajo a los técnicos.
 
-**Paso 2 — identificar complementos y cuellos.** La gerencia escribe primero el supuesto asociado a **platform** y evita convertirlo en hecho. Luego busca **dependency concentration** para contrastarlo en el caso de **partnerships, ecosistemas y plataformas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Estrategia de arranque.** Se decide comenzar en una comuna con 60.000 hogares, con **200 técnicos** seleccionados y verificados (se les garantiza un mínimo de trabajos en los dos primeros meses y comisión reducida), y una oferta a los hogares de **primer servicio con 25 % de descuento**. Se mide la «liquidez» (porcentaje de solicitudes atendidas en menos de 24 horas).
 
-**Paso 3 — definir incentivos y reglas.** La gerencia escribe primero el supuesto asociado a **complementor** y evita convertirlo en hecho. Luego busca **take rate** para contrastarlo en el caso de **partnerships, ecosistemas y plataformas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Economía unitaria.** Ticket promedio USD 80; comisión de 12 % → USD 9,6 por trabajo; costo de pagos y soporte USD 2,2; contribución USD 7,4. Costos fijos mensuales: USD 100.000 (equipo, tecnología, marketing). Punto de equilibrio: 100.000 / 7,4 = 13.514 trabajos al mes. Con 200 técnicos haciendo 30 trabajos mensuales = 6.000 trabajos: no alcanza. Se necesitaría llegar a 450 técnicos con 30 trabajos o ampliar a otra comuna.
 
-**Paso 4 — modelar economics y dependencia.** La gerencia escribe primero el supuesto asociado a **governance rules** y evita convertirlo en hecho. Luego busca **ecosystem adoption** para contrastarlo en el caso de **partnerships, ecosistemas y plataformas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos del primer trimestre.**
 
-**Paso 5 — negociar métricas datos y salida.** La gerencia escribe primero el supuesto asociado a **dependency risk** y evita convertirlo en hecho. Luego busca **switching cost** para contrastarlo en el caso de **partnerships, ecosistemas y plataformas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Indicador | Mes 1 | Mes 2 | Mes 3 |
+|---|---|---|---|
+| Técnicos activos | 200 | 230 | 260 |
+| Solicitudes de hogares | 1.800 | 3.400 | 5.200 |
+| Atendidas en menos de 24 horas | 52 % | 68 % | 79 % |
+| Trabajos completados | 1.200 | 2.600 | 4.300 |
+| Repetición de hogares (segundo servicio en 60 días) | — | 14 % | 24 % |
+| Intermediación evitada («por fuera») estimada | — | 11 % | 17 % |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **partnerships, ecosistemas y plataformas**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Lectura.** El efecto de red indirecto funciona (más técnicos → más liquidez → más repetición), pero hay **desintermediación**: 17 % de los trabajos se estaría acordando por fuera. Respuestas: **valor que la plataforma agrega** (garantía, pago protegido, seguro por daños, financiamiento), comisiones decrecientes con el volumen de cada técnico y reglas claras (la plataforma no es un directorio de contactos). El punto de equilibrio se alcanzaría con unos 14.000 trabajos al mes; se proyecta en 9 meses.
+
+**Gobernanza.** Verificación de técnicos, calificaciones, resolución de disputas, política de cancelación y de precios mínimos y máximos orientativos. Se revisa con asesoría la condición laboral de los técnicos (independientes) y las normas de plataformas, consumo, datos y competencia en su fuente vigente.
+
+**Decisión.** Mantener el foco en la comuna hasta alcanzar 85 % de atención en 24 horas y 30 % de repetición antes de expandirse; subsidiar a hogares solo en el primer servicio; construir herramientas para técnicos (agenda, cobros, repuestos) que aumenten el valor de estar en la plataforma.
+
+**Qué muestra.** (1) El arranque en un nicho y con un lado subsidiado construyó liquidez. (2) La economía unitaria mostró la escala necesaria. (3) La gobernanza abordó la desintermediación y los riesgos regulatorios.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **ecosystem** | conjunto de actores interdependientes que crean una propuesta conjunta | Cuando partner-sourced revenue es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **platform** | modelo que facilita interacciones entre grupos y puede generar efectos de red | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Plataforma frente a producto con comunidad.** Una plataforma requiere efectos de red reales, no solo una comunidad de usuarios; muchos negocios con foros o redes de usuarios no los tienen.
 
-**Frontera de aplicación:** No toda relación con proveedores es ecosistema y no todo efecto de red genera ventaja. Valida si la interdependencia realmente aumenta valor y si el poder está equilibrado.
+**Límites.** Las plataformas tienden a concentrar poder (el ganador se lleva casi todo en algunos mercados), pero hay mercados donde coexisten varias. Los resultados de arranque son inciertos y costosos. El análisis de ecosistemas es conceptual y difícil de aplicar con precisión. Las plataformas enfrentan regulación creciente sobre competencia, datos, relaciones laborales y protección de consumidores, y esta cambia por país; debe verificarse en su fuente vigente y con asesoría. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre partnerships, ecosistemas y plataformas |
+| Nivel | Cómo participa en alianzas y plataformas |
 |---|---|
-| **Profesional** | usa **partnerships, ecosistemas y plataformas** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **ecosystem** y **platform** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta partner-sourced revenue con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si partnerships, ecosistemas y plataformas cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de partnerships, ecosistemas y plataformas reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **partnerships, ecosistemas y plataformas** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Gestiona la relación diaria con socios y cuida la calidad. |
+| **Jefe / Team Lead** | Monitorea el desempeño y las dependencias de su socio o canal. |
+| **Gerente** | Negocia acuerdos y define condiciones de participación o de gobernanza. |
+| **CEO / Director** | Decide si ser plataforma, participar o aliarse, y limita dependencias. |
+| **Founder / Owner** | Resuelve el arranque en un nicho y cuida la confianza de ambos lados. |
 
 ## 🏢 Caso ejecutivo
 
-Una fintech crece sobre la API de un único banco. El socio cambia pricing y rate limits; la unidad económica se deteriora 30% y no existe plan de portabilidad.
+Una empresa de software para gestión de talleres mecánicos (6.000 clientes en un país) considera lanzar un mercado de repuestos y servicios que conecte talleres con proveedores de repuestos y con conductores. Los talleres piden mejores precios y entrega rápida; los proveedores, acceso a más clientes sin descuentos; los conductores, transparencia y confianza. Un gran fabricante de repuestos ofrece una alianza exclusiva con descuentos para los talleres de la empresa; una plataforma global de comercio ya vende repuestos con envíos; un banco quiere financiar compras de talleres. La empresa teme que, al intermediar, pierda a los proveedores que hoy le pagan licencias, y que los talleres se vayan si cobra comisión; la regulación del país está discutiendo normas sobre plataformas y sobre libre competencia en repuestos.
 
-Entrega un **decision brief de partnerships, ecosistemas y plataformas** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de alianza, ecosistema y plataforma** que contenga: (a) el mapa de actores, dependencias y cuellos de botella; (b) la evaluación de los efectos de red y de la posibilidad de arranque; (c) la estructura de precios por lado y el análisis de desintermediación; (d) la comparación entre alianza exclusiva con el fabricante, plataforma propia y participación en la plataforma global, con riesgos de dependencia; (e) las reglas de gobernanza y el plan por etapas con hitos; (f) las verificaciones de competencia, plataformas, datos y consumo que se harán con las normas vigentes y asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **partnerships, ecosistemas y plataformas** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear actores y flujo de valor → 2. identificar complementos y cuellos → 3. definir incentivos y reglas → 4. modelar economics y dependencia → 5. negociar métricas datos y salida** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta partner-sourced revenue, dependency concentration; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
-7. Compara build, buy y partner en las ocho dimensiones de la ficha ejecutiva.
+1. Dibuja el ecosistema de tu empresa con actores, dependencias y cuellos de botella.
+2. Evalúa si tu negocio tiene efectos de red directos o indirectos reales.
+3. Define una estrategia de arranque para un mercado de dos lados con un lado subsidiado.
+4. Evalúa tu dependencia de una plataforma o socio y un plan de contingencia.
+5. Redacta tres reglas de gobernanza que protejan la calidad y la confianza.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar ecosystem y platform como sinónimos | Se pierde la distinción entre “conjunto de actores interdependientes que crean una propuesta conjunta” y “modelo que facilita interacciones entre grupos y puede generar efectos de red” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “negociar métricas datos y salida” | Se saltó “mapear actores y flujo de valor” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear actores y flujo de valor → 2. identificar complementos y cuellos → 3. definir incentivos y reglas → 4. modelar economics y dependencia → 5. negociar métricas datos y salida y marca el primer supuesto no demostrado. |
-| Optimizar solo partner-sourced revenue | La métrica local sustituyó al resultado del sistema | Contrástala con dependency concentration y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre partnerships, ecosistemas y plataformas | No toda relación con proveedores es ecosistema y no todo efecto de red genera ventaja. Valida si la interdependencia realmente aumenta valor y si el poder está equilibrado. |
-| No fijar revisión | Una decisión sobre partnerships, ecosistemas y plataformas se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Llamar plataforma a un producto con comunidad | Es la moda | Verificar efectos de red reales. |
+| Ignorar el arranque | Se piensa en la escala | Nicho, subsidio y liquidez. |
+| Cobrar igual a ambos lados | Se copia el modelo lineal | Estructura de precios por lado. |
+| No prever la desintermediación | Se confía en la lealtad | Agregar valor y reglas. |
+| Depender de una sola plataforma | Es el canal que funciona | Diversificar y canal propio. |
+| Cambiar reglas sin diálogo | Se prioriza el corto plazo | Gobernanza previsible y transparente. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **ecosystem** y **platform** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **complementor** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear actores y flujo de valor → identificar complementos y cuellos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **partner-sourced revenue** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **partnerships, ecosistemas y plataformas**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No toda relación con proveedores es ecosistema y no todo efecto de red genera ventaja. Valida si la interdependencia realmente aumenta valor y si el poder está equilibrado.**?
+1. ¿Qué diferencia hay entre una alianza lineal y una plataforma?
+2. ¿Qué es un efecto de red indirecto?
+3. ¿Qué es el problema del arranque y cómo se enfrenta?
+4. ¿Por qué se subsidia un lado de una plataforma?
+5. ¿Qué es un cuello de botella en un ecosistema?
+6. ¿Qué riesgos tiene participar en la plataforma de otro?
+7. ¿Cuándo no conviene ser plataforma?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La alianza lineal combina capacidades de pocas partes por contrato; la plataforma crea valor facilitando interacciones entre grupos con efectos de red.
+2. Cuando más participantes de un lado aumentan el valor para los del otro lado.
+3. Sin vendedores no hay compradores y viceversa; se enfrenta empezando en un nicho, subsidiando un lado, aportando oferta propia o creando valor para un usuario solo.
+4. Porque el lado subsidiado atrae al otro y la plataforma gana en conjunto; lo que importa es el reparto de precios entre los lados.
+5. Un componente escaso del ecosistema que concentra poder para quien lo controla.
+6. Dependencia de reglas, comisiones y algoritmos, pérdida de relación y datos del cliente, competencia de la propia plataforma y desintermediación.
+7. Cuando el valor no depende de la interacción entre participantes, ya hay masa crítica concentrada en otro o falta capacidad de gobernanza.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/166-partnerships-ecosistemas-y-plataformas/`:
 
-- `leadership-decision-brief.md` con el problema específico de **partnerships, ecosistemas y plataformas**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **partnerships, ecosistemas y plataformas** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **ecosystem**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una fintech crece sobre la API de un único banco. El socio cambia pricing y rate limits; la unidad económica se deteriora 30% y no existe plan de portabilidad.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el análisis del caso ejecutivo;
+- `strategy-memo.md` (plantilla [Strategy memo](../../../../templates/strategy-memo.md)) con la estructura de precios, la gobernanza y el plan por etapas;
+- `decision-journal.md` con las dependencias, los riesgos y las verificaciones normativas.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Porter — *Competitive Strategy* (Free Press, 1980). **Uso en esta clase:** trade-offs, posicionamiento, fit y ventaja competitiva. Lectura selectiva sobre **partnerships, ecosistemas y plataformas**. **Localizador:** [ISBN-13 9780684841489](https://openlibrary.org/isbn/9780684841489).
-- Michael E. Porter — *Competitive Advantage* (Free Press, 1985). **Uso en esta clase:** cadena de valor, actividades y fuentes de ventaja de costo o diferenciación. Lectura selectiva sobre **partnerships, ecosistemas y plataformas**. **Localizador:** [ISBN-13 9780029250907](https://openlibrary.org/isbn/9780029250907).
-- David J. Teece — *Dynamic Capabilities and Strategic Management* (Strategic Management Journal, 1997). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **partnerships, ecosistemas y plataformas**. **Localizador:** [DOI 10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z](https://doi.org/10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **partnerships, ecosistemas y plataformas**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- Hamilton Helmer — *7 Powers* (Deep Strategy, 2016). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **partnerships, ecosistemas y plataformas**. **Localizador:** [ISBN-13 9780998116303](https://openlibrary.org/isbn/9780998116303).
-- A.G. Lafley & Roger L. Martin — *Playing to Win* (Harvard Business Review Press, 2013). **Uso en esta clase:** elecciones integradas de dónde jugar y cómo ganar. Lectura selectiva sobre **partnerships, ecosistemas y plataformas**. **Localizador:** [ISBN-13 9781422187395](https://openlibrary.org/isbn/9781422187395).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **partnerships, ecosistemas y plataformas** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **partnerships, ecosistemas y plataformas**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **partnerships, ecosistemas y plataformas** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **partnerships, ecosistemas y plataformas** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **partnerships, ecosistemas y plataformas** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Geoffrey G. Parker, Marshall W. Van Alstyne & Sangeet Paul Choudary — *Platform Revolution* (W. W. Norton, 2016). **Uso en esta clase:** lógica de plataformas: efectos de red, arranque y gobernanza. Lectura selectiva sobre **partnerships, ecosistemas y plataformas**. **Localizador:** [ISBN-13 9780393249125](https://openlibrary.org/isbn/9780393249125).
+- Jean-Charles Rochet & Jean Tirole — *Platform Competition in Two-Sided Markets* (Journal of the European Economic Association, 2003). **Uso en esta clase:** economía de mercados de dos lados y estructura de precios. Lectura selectiva sobre **partnerships, ecosistemas y plataformas**. **Localizador:** [DOI 10.1162/154247603322493212](https://doi.org/10.1162/154247603322493212).
+- Michael G. Jacobides, Carmelo Cennamo & Annabelle Gawer — *Towards a theory of ecosystems* (Strategic Management Journal, 2018). **Uso en esta clase:** ecosistemas, complementariedades y cuellos de botella. Lectura selectiva sobre **partnerships, ecosistemas y plataformas**. **Localizador:** [DOI 10.1002/smj.2904](https://doi.org/10.1002/smj.2904).
+- Michael E. Porter — *Competitive Strategy* (Free Press, 1980). **Uso en esta clase:** poder de proveedores y compradores en la cadena. Lectura selectiva sobre **partnerships, ecosistemas y plataformas**. **Localizador:** [ISBN-13 9780684841489](https://openlibrary.org/isbn/9780684841489).
+- Rita Gunther McGrath — *The End of Competitive Advantage* (Harvard Business Review Press, 2013). **Uso en esta clase:** ventajas transitorias en ecosistemas cambiantes. Lectura selectiva sobre **partnerships, ecosistemas y plataformas**. **Localizador:** [ISBN-13 9781422172810](https://openlibrary.org/isbn/9781422172810).
 
-> **Regla de fuentes para Partnerships, ecosistemas y plataformas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **partnerships, ecosistemas y plataformas** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Partnerships, ecosistemas y plataformas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de plataformas, competencia, datos, laborales y de consumo. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

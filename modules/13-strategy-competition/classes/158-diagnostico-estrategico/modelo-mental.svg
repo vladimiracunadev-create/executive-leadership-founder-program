@@ -1,87 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g158 d-g158" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g158">Ficha visual de la clase 158: Diagnóstico estratégico</title>
-<desc id="d-g158">Conceptos: symptom; root cause; strategic issue; constraint; hypothesis tree. Método: definir gap respecto a objetivo → descomponer hipótesis causales → triangular datos internos y externos → priorizar mecanismo material y controlable → redactar diagnóstico que explique y delimite.</desc>
-<defs><marker id="p-g158" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 158 · Diagnóstico estratégico</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 13 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >symptom</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >manifestación observable de un problema</text>
-<circle cx="38" cy="170" r="5" fill="#bc4c00"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >root cause</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >mecanismo subyacente que explica una parte material del</text>
-<text x="54" y="209.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >resultado</text>
-<circle cx="38" cy="242.12" r="5" fill="#bc4c00"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >strategic issue</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >desafío que puede alterar valor o ventaja de forma</text>
-<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >material</text>
-<circle cx="38" cy="314.24" r="5" fill="#bc4c00"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >constraint</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >limitación que reduce opciones viables</text>
-<circle cx="38" cy="372.24" r="5" fill="#bc4c00"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >hypothesis tree</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >descomposición de explicaciones mutuamente</text>
-<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >distinguibles</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#bc4c00"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir gap</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >respecto a</text>
-<text x="504" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >objetivo</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#bc4c00"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >descomponer</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >hipótesis causales</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#bc4c00"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >triangular datos</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >internos y</text>
-<text x="880" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >externos</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#bc4c00"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >priorizar</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >mecanismo material</text>
-<text x="880" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >y controlable</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#bc4c00"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >redactar</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >diagnóstico que</text>
-<text x="692" y="276.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >explique y</text>
-<text x="692" y="292.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >delimite</text>
-<path d="M638,139 L656,139" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g158)"/>
-<path d="M826,139 L844,139" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g158)"/>
-<path d="M929,176 L929,222" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g158)"/>
-<path d="M844,259 L826,259" stroke="#bc4c00" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g158)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#bc4c00" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g158)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="470.36" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >market share trend</text>
-<rect x="188.2" y="470.36" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="201.2" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="212.2" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >unit economics</text>
-<rect x="320.8" y="470.36" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="333.8" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="344.8" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >customer switching</text>
-<rect x="481" y="470.36" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="494" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="505" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >capability gap</text>
-<rect x="613.6" y="470.36" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="626.6" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="637.6" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >constraint utilization</text>
-<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un diagnóstico siempre simplifica. Evita tratarlo como verdad definitiva; registra explicaciones alternativas y qué señal obligaría a</text>
-<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >revisarlo.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 474.98" width="1040" role="img" aria-labelledby="t-s158 d-s158" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s158">Clase 158 · Cuatro preguntas del diagnóstico estratégico</title>
+<desc id="d-s158">Preguntas del diagnóstico, el dato que las responde y el error típico.</desc>
+<defs><marker id="p-s158" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="474.98" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 158 · Cuatro preguntas del diagnóstico estratégico</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Porter · Rumelt · Lafley &amp; Martin</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Pregunta</text>
+<text x="358.353" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Qué dato la responde</text>
+<text x="705.647" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Error típico</text>
+<rect x="28" y="136" width="984" height="53.12" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >¿Qué cambió en el entorno?</text>
+<text x="358.353" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Tendencias de clientes, tecnología, regulación y</text>
+<text x="358.353" y="172.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >competencia.</text>
+<text x="705.647" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Mirar solo el pasado propio.</text>
+<rect x="28" y="189.12" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="209.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >¿Cómo gana dinero la industria?</text>
+<text x="358.353" y="209.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Márgenes por actor, fuerzas competitivas.</text>
+<text x="705.647" y="209.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Confundir tamaño con rentabilidad.</text>
+<rect x="28" y="225.68" width="984" height="53.12" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="245.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >¿Qué hacemos mejor y por qué?</text>
+<text x="358.353" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Resultados por cliente, producto y proceso.</text>
+<text x="705.647" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Atribuir al azar o a la suerte lo que es</text>
+<text x="705.647" y="262.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >capacidad.</text>
+<rect x="28" y="278.8" width="984" height="53.12" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="298.8" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >¿Cuál es el desafío crítico?</text>
+<text x="358.353" y="298.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >El obstáculo que, si se supera, destraba lo</text>
+<text x="358.353" y="315.36" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >demás.</text>
+<text x="705.647" y="298.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Listar diez problemas sin jerarquía.</text>
+<rect x="28" y="347.92" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="369.92" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Un buen diagnóstico simplifica: reduce la complejidad a un desafío sobre el cual se puede actuar. Un diagnóstico que lista todo no guía</text>
+<text x="44" y="387.17" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >ninguna decisión.</text>
+<text x="28" y="434.42" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Los datos de industria y de clientes se contrastan con fuentes propias; los informes de terceros tienen sus propios sesgos.</text>
 </svg>

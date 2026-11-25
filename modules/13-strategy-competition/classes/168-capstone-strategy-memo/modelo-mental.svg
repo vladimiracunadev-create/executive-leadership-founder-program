@@ -1,65 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g168 d-g168" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g168">Ficha visual de la clase 168: Capstone: strategy memo</title>
-<desc id="d-g168">Conceptos: strategy memo; strategic thesis; assumption; resource commitment; strategic control. Método: redactar diagnóstico basado en evidencia → proponer choices y no-opciones → explicar mecanismo de ventaja → asignar recursos y acciones → definir riesgos signposts y revisión.</desc>
-<defs><marker id="p-g168" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 168 · Capstone: strategy memo</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 13 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >strategy memo</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >documento ejecutivo que articula problema choice y</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >razonamiento</text>
-<circle cx="38" cy="184.12" r="5" fill="#bc4c00"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >strategic thesis</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >argumento causal de por qué una elección puede ganar</text>
-<circle cx="38" cy="242.12" r="5" fill="#bc4c00"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >assumption</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >condición incierta que debe cumplirse</text>
-<circle cx="38" cy="300.12" r="5" fill="#bc4c00"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >resource commitment</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capital talento y capacidad dedicados a una choice</text>
-<circle cx="38" cy="358.12" r="5" fill="#bc4c00"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >strategic control</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >señal y foro que permiten adaptar sin perder dirección</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#bc4c00" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#bc4c00"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >redactar diagnóstico basado en evidencia</text>
-<circle cx="485" cy="176" r="14" fill="#bc4c00"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >proponer choices y no-opciones</text>
-<circle cx="485" cy="230" r="14" fill="#bc4c00"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >explicar mecanismo de ventaja</text>
-<circle cx="485" cy="284" r="14" fill="#bc4c00"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >asignar recursos y acciones</text>
-<circle cx="485" cy="338" r="14" fill="#bc4c00"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >definir riesgos signposts y revisión</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >choice specificity</text>
-<rect x="188.2" y="442.12" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="201.2" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="212.2" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >resource concentration</text>
-<rect x="376" y="442.12" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="389" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="400" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >economic logic</text>
-<rect x="508.6" y="442.12" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="521.6" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="532.6" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >assumption coverage</text>
-<rect x="675.7" y="442.12" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="688.7" cy="455.12" r="3.5" fill="#bc4c00"/>
-<text x="699.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >review cadence</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un memo convincente puede ocultar datos débiles. Evalúa explícitamente calidad de evidencia y escenarios adversos; la claridad</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >narrativa no sustituye incertidumbre real.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 419.31" width="1040" role="img" aria-labelledby="t-s168 d-s168" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s168">Clase 168 · Un memo de estrategia: diagnosticar, elegir y ejecutar</title>
+<desc id="d-s168">Tres bloques del memo de estrategia: diagnóstico, elección y ejecución, con las clases de la parte asociadas.</desc>
+<defs><marker id="p-s168" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="419.31" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 168 · Un memo de estrategia: diagnosticar, elegir y ejecutar</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Integración de la parte 13</text>
+<rect x="28" y="96" width="314.667" height="180.25" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M28.0,136 V108 a12,12 0 0 1 12,-12 H330.6666666666667 a12,12 0 0 1 12,12 V136 Z" fill="#0969da"/>
+<text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Diagnosticar</text>
+<circle cx="50.0" cy="154" r="4" fill="#0969da"/>
+<text x="64" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Qué es y qué no es estrategia (157).</text>
+<circle cx="50.0" cy="181.25" r="4" fill="#0969da"/>
+<text x="64" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Diagnóstico, industria y capacidades</text>
+<text x="64" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >(158–160).</text>
+<circle cx="50.0" cy="225.75" r="4" fill="#0969da"/>
+<text x="64" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Escenarios (164).</text>
+<rect x="362.667" y="96" width="314.667" height="180.25" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M362.6666666666667,136 V108 a12,12 0 0 1 12,-12 H665.3333333333334 a12,12 0 0 1 12,12 V136 Z" fill="#bc4c00"/>
+<text x="378.667" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Elegir</text>
+<circle cx="384.6666666666667" cy="154" r="4" fill="#bc4c00"/>
+<text x="398.667" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Ventaja competitiva y trade-offs</text>
+<text x="398.667" y="175.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >(161–162).</text>
+<circle cx="384.6666666666667" cy="198.5" r="4" fill="#bc4c00"/>
+<text x="398.667" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Modelo de negocio (163).</text>
+<circle cx="384.6666666666667" cy="225.75" r="4" fill="#bc4c00"/>
+<text x="398.667" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Opciones de crecimiento y alianzas</text>
+<text x="398.667" y="247" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >(165–166).</text>
+<rect x="697.333" y="96" width="314.667" height="180.25" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<path d="M697.3333333333334,136 V108 a12,12 0 0 1 12,-12 H1000.0 a12,12 0 0 1 12,12 V136 Z" fill="#1a7f37"/>
+<text x="713.333" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Ejecutar</text>
+<circle cx="719.3333333333334" cy="154" r="4" fill="#1a7f37"/>
+<text x="733.333" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Prioridades y recursos (105–106).</text>
+<circle cx="719.3333333333334" cy="181.25" r="4" fill="#1a7f37"/>
+<text x="733.333" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Señales y criterios de ajuste (167).</text>
+<circle cx="719.3333333333334" cy="208.5" r="4" fill="#1a7f37"/>
+<text x="733.333" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Gobierno y revisión periódica.</text>
+<rect x="28" y="292.25" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="314.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El memo de estrategia es una pieza breve que nombra el desafío, elige y renuncia, y define cómo se sabrá si funciona. No es una</text>
+<text x="44" y="331.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >descripción de la empresa.</text>
+<text x="28" y="378.75" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Las cifras y los casos del capstone son ilustrativos; una decisión real exige datos propios y asesoría especializada.</text>
 </svg>

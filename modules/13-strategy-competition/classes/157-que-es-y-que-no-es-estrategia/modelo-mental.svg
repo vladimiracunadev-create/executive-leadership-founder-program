@@ -1,70 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g157 d-g157" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g157">Ficha visual de la clase 157: Qué es y qué no es estrategia</title>
-<desc id="d-g157">Conceptos: strategy; goal; diagnosis; guiding policy; coherent actions. Método: definir desafío y evidencia → formular diagnóstico causal → generar políticas alternativas → hacer trade-offs explícitos → alinear acciones y métricas.</desc>
-<defs><marker id="p-g157" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 157 · Qué es y qué no es estrategia</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 13 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >strategy</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto coherente de elecciones para superar un</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >desafío y crear valor diferencial</text>
-<circle cx="38" cy="184.12" r="5" fill="#bc4c00"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >goal</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >resultado deseado que no especifica cómo ganar</text>
-<circle cx="38" cy="242.12" r="5" fill="#bc4c00"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >diagnosis</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >explicación simplificada de qué desafío importa</text>
-<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >realmente</text>
-<circle cx="38" cy="314.24" r="5" fill="#bc4c00"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >guiding policy</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >enfoque elegido para enfrentar el diagnóstico</text>
-<circle cx="38" cy="372.24" r="5" fill="#bc4c00"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >coherent actions</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >acciones coordinadas que materializan la política</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<rect x="470" y="336" width="6" height="52" rx="3" fill="#bc4c00"/>
-<text x="486" y="356" font-size="13" font-weight="800" fill="#bc4c00" text-anchor="start" >1</text>
-<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >definir desafío y evidencia</text>
-<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<rect x="532" y="278" width="6" height="52" rx="3" fill="#bc4c00"/>
-<text x="548" y="298" font-size="13" font-weight="800" fill="#bc4c00" text-anchor="start" >2</text>
-<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >formular diagnóstico causal</text>
-<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<rect x="594" y="220" width="6" height="52" rx="3" fill="#bc4c00"/>
-<text x="610" y="240" font-size="13" font-weight="800" fill="#bc4c00" text-anchor="start" >3</text>
-<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >generar políticas alternativas</text>
-<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<rect x="656" y="162" width="6" height="52" rx="3" fill="#bc4c00"/>
-<text x="672" y="182" font-size="13" font-weight="800" fill="#bc4c00" text-anchor="start" >4</text>
-<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >hacer trade-offs explícitos</text>
-<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#bc4c00" stroke-width="1.6" />
-<rect x="718" y="104" width="6" height="52" rx="3" fill="#bc4c00"/>
-<text x="734" y="124" font-size="13" font-weight="800" fill="#bc4c00" text-anchor="start" >5</text>
-<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >alinear acciones y métricas</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="191.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >strategic choice clarity</text>
-<rect x="229.6" y="456.24" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="242.6" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="253.6" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >resource concentration</text>
-<rect x="417.4" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="430.4" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="441.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >initiative coherence</text>
-<rect x="591.4" y="456.24" width="164" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="604.4" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="615.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >advantage indicators</text>
-<rect x="765.4" y="456.24" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="778.4" cy="469.24" r="3.5" fill="#bc4c00"/>
-<text x="789.4" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >assumption validity</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Una estrategia muy cerrada puede volverse frágil ante cambios. Las elecciones deben ser claras pero acompañadas de supuestos, señales</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >de revisión y opciones contingentes.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 374.81" width="1040" role="img" aria-labelledby="t-s157 d-s157" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s157">Clase 157 · El núcleo de una estrategia: diagnóstico, política y acciones</title>
+<desc id="d-s157">Cuatro pasos del núcleo de una buena estrategia: desafío crítico, política guía, acciones coherentes y evidencia que la contrasta.</desc>
+<defs><marker id="p-s157" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="374.81" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 157 · El núcleo de una estrategia: diagnóstico, política y acciones</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Rumelt (2011) · Porter · Lafley &amp; Martin (2013)</text>
+<rect x="28" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<circle cx="52.0" cy="122.0" r="13" fill="#cf222e"/>
+<text x="52" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Desafío crítico</text>
+<text x="44" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >El obstáculo que más pesa,</text>
+<text x="44" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >con diagnóstico de por qué.</text>
+<path d="M260.5,152.875 L276.5,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s157)"/>
+<rect x="279.5" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<circle cx="303.5" cy="122.0" r="13" fill="#0969da"/>
+<text x="303.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Política guía</text>
+<text x="295.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >El enfoque para superarlo;</text>
+<text x="295.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >dice qué se hará y qué no.</text>
+<path d="M512,152.875 L528,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s157)"/>
+<rect x="531" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<circle cx="555.0" cy="122.0" r="13" fill="#1a7f37"/>
+<text x="555" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Acciones coherentes</text>
+<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Decisiones que se refuerzan</text>
+<text x="547" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >entre sí y siguen la</text>
+<text x="547" y="186.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >política.</text>
+<path d="M763.5,152.875 L779.5,152.875" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s157)"/>
+<rect x="782.5" y="96" width="229.5" height="113.75" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<circle cx="806.5" cy="122.0" r="13" fill="#8250df"/>
+<text x="806.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Evidencia</text>
+<text x="798.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Señales que muestran si el</text>
+<text x="798.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >diagnóstico y la política</text>
+<text x="798.5" y="186.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >funcionan.</text>
+<path d="M897.25,211.75 V231.75 H142.75 V213.75" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="7 6" marker-end="url(#p-s157)"/>
+<text x="520" y="225.75" font-size="11.5" font-weight="600" fill="#59636e" text-anchor="middle" >si la evidencia contradice, se revisa el diagnóstico</text>
+<rect x="28" y="247.75" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="269.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Una meta, una lista de deseos o un eslogan no son estrategia. Una estrategia sin un diagnóstico del problema y sin elecciones es una</text>
+<text x="44" y="287" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >aspiración.</text>
+<text x="28" y="334.25" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >El esquema es un marco de análisis; las estrategias reales se corrigen con la información que llega.</text>
 </svg>

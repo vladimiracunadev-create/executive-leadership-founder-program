@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **strategic initiative** de **leading indicator** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **lagging indicator** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **strategy review** con **resource reallocation**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué es la brecha de ejecución?
+2. ¿Qué es un supuesto crítico y qué lo acompaña?
+3. ¿Qué diferencia hay entre revisión operativa y estratégica?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** El comité mensual revisa 42 proyectos con semáforos, todos verdes. Sin embargo, ninguno muestra si la nueva estrategia de segmento está aumentando retención o margen.
+**Caso:** Una cadena de tiendas de electrodomésticos (140 locales) definió hace 18 meses una estrategia: **pasar de vender cajas a vender soluciones para el hogar con servicio de instalación y garantía extendida**, concentrando la inversión en 60 locales «de servicio» y reduciendo los demás. Las ventas de servicios crecen 22 %, pero el volumen de productos cae 9 %; los locales de servicio tienen una rotación de personal de 41 %; los técnicos de instalación son insuficientes (tiempo de espera de 11 días); los competidores en línea bajaron precios 12 %; la dirección recibe indicadores trimestrales y los gerentes atribuyen los problemas a «el mercado». El presidente debate cambiar de rumbo o perseverar; un director quiere retomar la estrategia de precios.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **traducir choices a capacidades e iniciativas → asignar owners y recursos → definir leading y lagging indicators → revisar hipótesis en cadencia → reallocate o pivotar según evidencia**. Debes utilizar o diseñar cómo obtener **resource alignment, initiative outcome, leading indicator movement**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **sistema de ejecución y adaptación** que contenga: (a) la traducción de la estrategia en pocos resultados, iniciativas y dueños; (b) cinco supuestos críticos con indicador, umbral y decisión asociada; (c) el ritmo de revisión y los datos de ciclo corto que se necesitan; (d) la lectura de la situación actual con las señales disponibles y la recomendación de perseverar, ajustar o cambiar la política, con argumentos; (e) el plan de comunicación a equipos, clientes y directorio; (f) las verificaciones laborales, de garantías y de consumo que se harán con las normas vigentes y asesoría. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Una cadencia de estrategia puede degenerar en PMO. Protege tiempo para hipótesis, trade-offs y reasignación, y evita exigir métricas prematuras a apuestas exploratorias.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los umbrales son juicios y pueden ser demasiado sensibles o insensibles.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

@@ -10,217 +10,201 @@
 
 ## 🎯 Propósito
 
-Ventaja competitiva es la capacidad de crear y capturar valor de forma superior y defendible, no simplemente ser bueno. Puede provenir de costo, diferenciación, efectos de red, switching costs, escala, datos, marca, regulación o combinaciones; debe observarse en economics y comportamiento.
+Una empresa tiene **ventaja competitiva** cuando logra de forma sostenida una rentabilidad superior a la de sus competidores. El resto son matices: ser grande, ser conocido, crecer rápido o tener buenos productos no es lo mismo. Hay ventaja cuando algo permite **cobrar más, gastar menos o ambas cosas** frente a los rivales, y cuando ese algo no se puede copiar fácilmente. La pregunta estratégica central es de dónde proviene esa ventaja, por qué durará y qué haría falta para erosionarla. Sin respuestas concretas, una empresa depende de la suerte y de la inercia.
 
-La salida de esta parte es **formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **ventaja competitiva** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la tipología de ventajas de Porter (costo, diferenciación y enfoque), en la propuesta de Helmer de siete fuentes de poder que sostienen la ventaja y un beneficio medible, en la tesis de McGrath sobre ventajas transitorias y en las condiciones de recursos de Barney. Al terminar sabrás identificar el tipo de ventaja de una empresa, distinguirla de la mera eficiencia, analizar si cumple las dos condiciones de poder (beneficio y barrera), evaluar su duración y planificar su renovación.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `competitive advantage`, `willingness to pay`, `relative cost`, `switching cost`, `moat` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. definir valor creado para segmento → 2. medir precio y costo relativos → 3. identificar mecanismo de defensa → 4. testear imitabilidad y sustitución → 5. invertir en reforzar o abandonar ventaja** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** price premium, relative gross margin, retention sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Definir** la ventaja competitiva en términos de rentabilidad persistente y sus orígenes.
+2. **Distinguir** liderazgo en costos, diferenciación y enfoque.
+3. **Aplicar** las siete fuentes de poder para evaluar la sostenibilidad.
+4. **Medir** si la ventaja es real con datos de costo, precio y margen.
+5. **Planificar** la renovación de ventajas que se erosionan.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define competitive advantage y willingness to pay sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con price premium y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué hace que un cliente te elija a ti en lugar de a un rival, y qué impediría a un rival ofrecer lo mismo? |
+| 20–60 min | Tipos de ventaja, siete poderes, medición y renovación. |
+| 60–105 min | Ejemplo trabajado: escala en una empresa de pagos y análisis de las siete fuentes de poder. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **competitive advantage** | fuente defendible de desempeño superior frente a alternativas | Distingue un hecho compatible y otro que lo refute. |
-| **willingness to pay** | valor máximo que un cliente atribuye a la oferta | Distingue un hecho compatible y otro que lo refute. |
-| **relative cost** | posición de costo respecto a competidores | Distingue un hecho compatible y otro que lo refute. |
-| **switching cost** | costo económico operativo o psicológico de cambiar | Distingue un hecho compatible y otro que lo refute. |
-| **moat** | mecanismo que dificulta replicar o erosionar la ventaja | Distingue un hecho compatible y otro que lo refute. |
+| **Ventaja competitiva** | Capacidad de lograr rentabilidad superior de forma persistente frente a los rivales. | Margen o retorno mayor y sostenido. |
+| **Liderazgo en costos** | Costo unitario menor que el de los competidores. | Precio igual con más margen o precio menor con igual margen. |
+| **Diferenciación** | Valor único que el cliente paga más por tener. | Prima de precio o mayor preferencia. |
+| **Enfoque** | Servir a un segmento mejor que los generalistas. | Costo o diferenciación dentro de un nicho. |
+| **Poder (Helmer)** | Condición que permite un beneficio duradero y una barrera que impide a los rivales arbitrarlo. | Beneficio más barrera. |
+| **Ventaja transitoria** | Ventaja de duración limitada que se renueva. | Se lanza, explota y reconfigura. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 161: 1. definir valor creado para segmento → 2. medir precio y costo relativos → 3. identificar mecanismo de defensa → 4. testear imitabilidad y sustitución → 5. invertir en reforzar o abandonar ventaja](modelo-mental.svg)
+![Tres caminos hacia la ventaja competitiva: liderazgo en costos, diferenciación y enfoque, con su funcionamiento y su exigencia.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir valor creado para segmento → 2. medir precio y costo relativos → 3. identificar mecanismo de defensa → 4. testear imitabilidad y sustitución → 5. invertir en reforzar o abandonar ventaja
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Ventaja competitiva es la capacidad de crear y capturar valor de forma superior y defendible, no simplemente ser bueno. Puede provenir de costo, diferenciación, efectos de red, switching costs, escala, datos, marca, regulación o combinaciones; debe observarse en economics y comportamiento.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un moat no es eterno y puede encerrar a la empresa en un modelo que pierde relevancia. Distingue defensa de capacidad para adaptarse.**
+**Cómo leer el diagrama.** Tres columnas. El **liderazgo en costos** logra un costo unitario menor por escala, eficiencia y procesos; exige disciplina y es vulnerable a quien copie. La **diferenciación** crea un valor único por el cual el cliente paga más (marca, producto, servicio); exige conocer qué valora el cliente. El **enfoque** sirve a un segmento mejor que los generalistas; arriesga si el nicho se agota. La nota recoge que Helmer exige una fuente de poder y un beneficio demostrable, y que McGrath advierte que las ventajas duran menos.
 
 ## 📖 Desarrollo
 
-### 1. competitive advantage: mecanismo central
+### 1. Qué es y qué no es ventaja
 
-**competitive advantage** se entiende aquí como **fuente defendible de desempeño superior frente a alternativas**. Esta es la pieza causal o estructural desde la que se inicia **ventaja competitiva**: antes de definir valor creado para segmento, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Una ventaja competitiva se mide en **resultados**: un retorno sobre el capital o un margen superior al de los rivales de forma persistente. No son ventajas por sí mismas: el **tamaño**, la **tecnología** (se compra), el **crecimiento** (se puede comprar con descuentos), la **eficiencia operativa** (se imita) o la **calidad** (si todos la tienen). Porter distingue la **eficiencia operativa** (hacer lo mismo mejor) de la **posición estratégica** (hacer cosas distintas o las mismas de distinta manera): la primera es necesaria y se difunde; la segunda, al exigir elecciones, es más difícil de copiar. La ventaja se origina en **cómo la empresa crea valor para el cliente a un costo menor** que el valor que crea.
 
-La lectura rectora de este bloque es Michael E. Porter — *Competitive Strategy*. Su aporte se usa para examinar **trade-offs, posicionamiento, fit y ventaja competitiva**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **price premium**; regístrala con periodo, unidad, población y baseline.
+### 2. Los caminos clásicos
 
-Relaciona el mecanismo con **willingness to pay**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Porter identifica tres **estrategias genéricas**. **Liderazgo en costos**: lograr el costo más bajo de la industria mediante escala, curva de experiencia, control de costos, diseño para producir y acceso preferente a insumos; permite ganar con precios similares a los de los rivales o competir con precios menores. **Diferenciación**: ofrecer algo único que el cliente valora (diseño, marca, servicio, tecnología) y por lo que paga una prima mayor que el costo de crearlo. **Enfoque**: aplicar cualquiera de las dos a un segmento específico. Las empresas que intentan ser todo a la vez se arriesgan a quedar «atrapadas en el medio» (clase 162).
 
-### 2. willingness to pay: frontera conceptual y error de clasificación
+### 3. Las siete fuentes de poder
 
-**Definición operacional:** valor máximo que un cliente atribuye a la oferta. Su valor está en distinguirlo de **competitive advantage** y **relative cost**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Helmer sostiene que una ventaja duradera requiere un **poder**, definido por dos condiciones: un **beneficio** (mayor margen o menor costo que un rival) y una **barrera** (impide que los rivales arbitren esa diferencia). Identifica siete: **economías de escala** (el costo unitario cae con el volumen y el rival más pequeño no puede igualarlo); **efectos de red** (el producto vale más a cada usuario cuantos más haya); **contra-posicionamiento** (un modelo nuevo que el líder no puede copiar sin dañar su negocio actual); **costos de cambio** (el cliente pierde al migrar); **marca** (percepción que permite cobrar más o vender más); **recurso exclusivo** (acceso preferente a un activo valioso) y **poder de proceso** (procesos internos difíciles de replicar que dan mejor costo o calidad). Cada uno puede evaluarse con datos y apunta a distintas acciones de defensa.
 
-Contrasta el problema con Michael E. Porter — *Competitive Advantage*, que aporta una mirada sobre **cadena de valor, actividades y fuentes de ventaja de costo o diferenciación**. Formula dos mini-casos: uno que sí satisface la definición de **willingness to pay** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **relative gross margin** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Medir si la ventaja es real
 
-Antes de medir precio y costo relativos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Se contrasta con evidencia: **margen** y **retorno sobre el capital** frente a rivales de forma persistente; **costo unitario** por unidad y por componente; **prima de precio** que los clientes pagan por la diferencia; **retención** y **cuota** de los clientes ganados; **elasticidad** al precio. Se pregunta: si un rival igualara el precio, ¿qué clientes se quedarían y por qué?; si un rival copiara un atributo, ¿cuánto tiempo y dinero necesitaría? Un indicio de falta de ventaja: **la empresa necesita competir en precio** para mantener cuota. McGrath sugiere mirar también la **trayectoria**: si la ventaja se ha estado erosionando.
 
-### 3. relative cost: operacionalización y medición
+### 5. Ventajas transitorias
 
-**relative cost** significa **posición de costo respecto a competidores**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+McGrath sostiene que, en muchos sectores, las ventajas duran cada vez menos porque la tecnología, la regulación, los clientes y los competidores cambian con rapidez. Propone gestionar un **portafolio de ventajas transitorias** en un ciclo: **lanzar** una nueva ventaja (explorar oportunidades), **expandir** (aprovechar y escalar), **explotar** (obtener el máximo), **reconfigurar** (renovar recursos y modelo antes de que se agote) y **abandonar** con disciplina las que ya no rinden. La cuestión pasa de «¿cómo defiendo mi ventaja?» a «¿cómo renuevo mis ventajas antes de que las erosionen otros?». Esto exige capacidades dinámicas (clase 160).
 
-Richard Rumelt — *Good Strategy/Bad Strategy* orienta este bloque mediante **diagnóstico, política guía y acciones coherentes**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **retention**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Construir y proteger
 
-Al llegar a identificar mecanismo de defensa, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Construir una ventaja es una decisión de **inversión y de elección**: elegir en qué se quiere ser el mejor y renunciar a lo demás (clase 162); invertir en el **recurso o proceso** que sostendrá el poder (capacidad, datos, relaciones, escala); y **proteger** con barreras (contratos, patentes cuando corresponde, integración, costos de cambio, marca). También supone **moverse antes** que los rivales cuando el entorno cambia. Se evita defender ventajas que ya no importan al cliente y se vigilan los **competidores emergentes** que atacan por segmentos desatendidos (Christensen, clase 156).
 
-### 4. switching cost: trade-offs y efectos de segundo orden
+### 7. Ventaja y ética
 
-**Definición:** costo económico operativo o psicológico de cambiar. Este concepto obliga a abandonar la idea de que **ventaja competitiva** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de testear imitabilidad y sustitución, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Rita Gunther McGrath — *The End of Competitive Advantage* aporta una lente sobre **perspectiva de Estrategia aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **share of wallet** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **ventaja competitiva**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **switching cost** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. moat: gobernanza, límites e integración
-
-**moat** se define como **mecanismo que dificulta replicar o erosionar la ventaja** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-David J. Teece — *Dynamic Capabilities and Strategic Management* se utiliza para estudiar **perspectiva de Estrategia aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar invertir en reforzar o abandonar ventaja, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un moat no es eterno y puede encerrar a la empresa en un modelo que pierde relevancia. Distingue defensa de capacidad para adaptarse.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **competitive advantage**, **willingness to pay**, **relative cost**, **switching cost** y **moat** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **ventaja competitiva** no consiste en sumar cinco definiciones. Empieza por **competitive advantage**, contrasta **willingness to pay** con **relative cost**, incorpora **switching cost** como restricción o mecanismo y usa **moat** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir valor creado para segmento → 2. medir precio y costo relativos → 3. identificar mecanismo de defensa → 4. testear imitabilidad y sustitución → 5. invertir en reforzar o abandonar ventaja**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Una ventaja legítima proviene de **crear más valor** para clientes, empleados y sociedad a un menor costo relativo. Existen «ventajas» basadas en prácticas cuestionables: **colusión** o acuerdos de precios, abuso de poder de mercado, explotación de proveedores o de trabajadores, información privilegiada, incumplimientos de normas ambientales o laborales. Además de ser dañinas, pueden ser **ilegales** y producir sanciones y daño a la reputación. Las decisiones que afecten competencia, exclusividades, integración o prácticas con proveedores y clientes se revisan con asesoría legal y con las normas de libre competencia vigentes.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Porter — *Competitive Strategy* | trade-offs, posicionamiento, fit y ventaja competitiva | ¿Qué supuesto de **ventaja competitiva** ayuda a desafiar? |
-| Michael E. Porter — *Competitive Advantage* | cadena de valor, actividades y fuentes de ventaja de costo o diferenciación | ¿Qué supuesto de **ventaja competitiva** ayuda a desafiar? |
-| Richard Rumelt — *Good Strategy/Bad Strategy* | diagnóstico, política guía y acciones coherentes | ¿Qué supuesto de **ventaja competitiva** ayuda a desafiar? |
-| Rita Gunther McGrath — *The End of Competitive Advantage* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **ventaja competitiva** ayuda a desafiar? |
-| David J. Teece — *Dynamic Capabilities and Strategic Management* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **ventaja competitiva** ayuda a desafiar? |
-
-En **ventaja competitiva**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **competitive advantage**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Porter (*Competitive Advantage*) | Estrategias genéricas, cadena de valor y fuentes de ventaja. | Visión de industria más estable. | ¿Compites por costo, por diferenciación o por enfoque? |
+| Helmer | Siete poderes con las condiciones de beneficio y barrera. | Marco útil pero con casos seleccionados. | ¿Qué poder tienes y qué beneficio produce? |
+| McGrath | Ventajas transitorias y portafolio. | Menos detalle sobre cómo construir cada una. | ¿Cuándo renovarás tu ventaja? |
+| Barney | Condiciones de recursos para sostener la ventaja. | Concepto algo circular. | ¿Tu recurso es raro y difícil de imitar? |
+| Kim y Mauborgne | Crear espacios donde la competencia no es relevante. | Evidencia de casos. | ¿Qué factor eliminarías o crearías? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una firma presume tecnología patentada, pero clientes compran por servicio local y contratos de largo plazo. La patente vence en dos años y no explica márgenes superiores.
+**Situación (hipotética).** Una empresa de procesamiento de pagos con comercios (A) compite con otra (B) en un país. Costos fijos anuales: A USD 6 millones; B USD 6 millones (plataforma, cumplimiento, soporte). Costo variable por transacción: USD 0,12 (comisiones de redes y procesamiento) para ambas.
 
-**Paso 1 — definir valor creado para segmento.** La gerencia escribe primero el supuesto asociado a **competitive advantage** y evita convertirlo en hecho. Luego busca **price premium** para contrastarlo en el caso de **ventaja competitiva**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Economías de escala.**
 
-**Paso 2 — medir precio y costo relativos.** La gerencia escribe primero el supuesto asociado a **willingness to pay** y evita convertirlo en hecho. Luego busca **relative gross margin** para contrastarlo en el caso de **ventaja competitiva**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Empresa | Transacciones al año | Costo fijo por transacción | Costo total por transacción |
+|---|---|---|---|
+| A | 60 millones | 0,10 | 0,22 |
+| B | 20 millones | 0,30 | 0,42 |
 
-**Paso 3 — identificar mecanismo de defensa.** La gerencia escribe primero el supuesto asociado a **relative cost** y evita convertirlo en hecho. Luego busca **retention** para contrastarlo en el caso de **ventaja competitiva**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** A tiene un costo unitario de USD 0,22 frente a 0,42 de B: casi la mitad. Si ambas cobran USD 0,45 por transacción, el margen por transacción de A es 0,23 y el de B 0,03; si A baja el precio a 0,35, mantiene 0,13 de margen y B pierde 0,07 por operación. La **escala** es el poder: beneficio (menor costo unitario) y **barrera** (B no puede igualar sin volumen, y para obtener volumen necesita precio bajo que no puede sostener).
 
-**Paso 4 — testear imitabilidad y sustitución.** La gerencia escribe primero el supuesto asociado a **switching cost** y evita convertirlo en hecho. Luego busca **share of wallet** para contrastarlo en el caso de **ventaja competitiva**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Evaluación de las siete fuentes de poder.**
 
-**Paso 5 — invertir en reforzar o abandonar ventaja.** La gerencia escribe primero el supuesto asociado a **moat** y evita convertirlo en hecho. Luego busca **time-to-copy** para contrastarlo en el caso de **ventaja competitiva**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Poder | Evidencia | Fuerza |
+|---|---|---|
+| Economías de escala | Costo unitario de 0,22 frente a 0,42 | Alta |
+| Efectos de red | Débiles: el comercio y el cliente no se benefician de más comercios | Baja |
+| Contra-posicionamiento | Un nuevo entrante con pagos instantáneos sin comisión desafía el modelo | Amenaza |
+| Costos de cambio | Integración con el sistema de caja del comercio y conciliación; cambio demora 6 semanas | Media |
+| Marca | Reconocida en grandes comercios; poco peso en pequeños | Media |
+| Recurso exclusivo | Licencia regulatoria que otros pueden obtener en 12 meses | Baja |
+| Poder de proceso | Detección de fraude con 8 años de datos propios: reduce el fraude 18 % | Media |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **ventaja competitiva**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Riesgo principal.** La amenaza de **pagos instantáneos** promovidos por el sistema financiero: si se masifican, la escala de A pierde valor porque el costo de las redes tradicionales deja de ser relevante. McGrath diría que la ventaja de escala es transitoria si cambia la tecnología de pagos.
+
+**Plan.** (1) **Explotar** la escala mientras dure: precios que defiendan cuota; (2) **construir** costos de cambio con servicios adicionales (conciliación, financiamiento a comercios); (3) **lanzar** una oferta de pagos instantáneos antes de que otros erosionen; (4) mejorar el **poder de proceso** (fraude) como segundo pilar; (5) vigilar señales: porcentaje de transacciones instantáneas, precio de rivales, tasa de cambio de comercios.
+
+**Aspectos legales.** Las decisiones de precios por debajo de costo para sacar a un rival pueden ser **prácticas predatorias** según las normas de libre competencia: se verifica con asesoría que la política de precios respete la normativa vigente.
+
+**Qué muestra.** (1) La escala se midió con datos de costo. (2) El análisis de siete poderes reveló dependencia de un solo poder. (3) El plan renovó y diversificó las fuentes de ventaja.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **competitive advantage** | fuente defendible de desempeño superior frente a alternativas | Cuando price premium es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **willingness to pay** | valor máximo que un cliente atribuye a la oferta | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Ventaja frente a posición.** La posición es dónde está la empresa en el mercado; la ventaja es la razón sostenible de por qué rinde más. Se puede tener buena cuota sin ventaja si se compró con precio.
 
-**Frontera de aplicación:** Un moat no es eterno y puede encerrar a la empresa en un modelo que pierde relevancia. Distingue defensa de capacidad para adaptarse.
+**Límites.** Las siete fuentes de poder de Helmer son una clasificación útil pero basada en casos seleccionados; algunos casos caben en varias categorías. Las ventajas son más difíciles de medir en servicios y en empresas diversificadas. Las estimaciones de costos por escala dependen de cómo se asignen costos fijos. La competencia puede erosionar una ventaja con innovaciones imprevisibles. Y toda conducta que busque excluir competidores se somete a las normas de libre competencia. El ejemplo es ilustrativo.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre ventaja competitiva |
+| Nivel | Cómo participa en la ventaja competitiva |
 |---|---|
-| **Profesional** | usa **ventaja competitiva** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **competitive advantage** y **willingness to pay** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta price premium con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si ventaja competitiva cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de ventaja competitiva reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **ventaja competitiva** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Mejora lo que el cliente más valora y reduce el desperdicio. |
+| **Jefe / Team Lead** | Protege las capacidades y procesos que sostienen la ventaja. |
+| **Gerente** | Mide costo, precio y margen frente a rivales y propone mejoras. |
+| **CEO / Director** | Decide qué ventaja construir, cuál renovar y cuál abandonar. |
+| **Founder / Owner** | Busca una ventaja que otros no puedan copiar con dinero. |
 
 ## 🏢 Caso ejecutivo
 
-Una firma presume tecnología patentada, pero clientes compran por servicio local y contratos de largo plazo. La patente vence en dos años y no explica márgenes superiores.
+Una cadena de farmacias regional con 120 locales, líder histórico en su zona, ve caer su margen operacional de 6,5 % a 4,1 % en tres años. Una cadena nacional entró con 35 locales y precios 9 % menores en medicamentos de venta libre; un portal de comparación de precios permite a los clientes ver ofertas en tiempo real; un laboratorio vende directamente a los consumidores algunos productos; la regulación limita los márgenes de medicamentos con receta. La cadena regional tiene fuerte presencia, relaciones con médicos y programas de fidelidad, un servicio de atención farmacéutica bien valorado y un sistema logístico regional eficiente. El directorio debate entre «igualar precios», «reforzar el servicio» o «integrarse con una clínica».
 
-Entrega un **decision brief de ventaja competitiva** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de ventaja competitiva** que contenga: (a) la evidencia de si hoy hay ventaja (márgenes, costos, retención, prima de precio); (b) la evaluación de las siete fuentes de poder y de los caminos genéricos; (c) la duración probable de cada ventaja y las amenazas; (d) las opciones (igualar precios, reforzar servicio, integrarse) con sus efectos esperados y riesgos; (e) un plan de construcción y renovación con señales; (f) los límites regulatorios (medicamentos, precios, publicidad, libre competencia) que se verificarán con las normas vigentes y asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **ventaja competitiva** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir valor creado para segmento → 2. medir precio y costo relativos → 3. identificar mecanismo de defensa → 4. testear imitabilidad y sustitución → 5. invertir en reforzar o abandonar ventaja** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta price premium, relative gross margin; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe en una frase la ventaja de tu organización y qué evidencia la respalda.
+2. Evalúa las siete fuentes de poder con un dato por cada una.
+3. Calcula tu costo unitario y compáralo con el de un rival estimado.
+4. Estima cuánto tardaría un rival en igualar tu ventaja principal.
+5. Define dos señales que indicarían que tu ventaja se está erosionando.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar competitive advantage y willingness to pay como sinónimos | Se pierde la distinción entre “fuente defendible de desempeño superior frente a alternativas” y “valor máximo que un cliente atribuye a la oferta” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “invertir en reforzar o abandonar ventaja” | Se saltó “definir valor creado para segmento” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir valor creado para segmento → 2. medir precio y costo relativos → 3. identificar mecanismo de defensa → 4. testear imitabilidad y sustitución → 5. invertir en reforzar o abandonar ventaja y marca el primer supuesto no demostrado. |
-| Optimizar solo price premium | La métrica local sustituyó al resultado del sistema | Contrástala con relative gross margin y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre ventaja competitiva | Un moat no es eterno y puede encerrar a la empresa en un modelo que pierde relevancia. Distingue defensa de capacidad para adaptarse. |
-| No fijar revisión | Una decisión sobre ventaja competitiva se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Confundir tamaño con ventaja | Se mira la cuota | Medir margen y retorno persistentes. |
+| Eficiencia como estrategia | Es medible | Buscar posición distinta además de eficiencia. |
+| Sin barrera | Se cree que el beneficio basta | Preguntar por qué los rivales no lo copian. |
+| Defender lo que ya no importa | Inercia | Revisar con el cliente qué valora. |
+| Un solo poder | Comodidad | Diversificar y renovar. |
+| Prácticas dudosas de competencia | Presión por ganar | Respetar las normas y asesorarse. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **competitive advantage** y **willingness to pay** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **relative cost** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir valor creado para segmento → medir precio y costo relativos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **price premium** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **ventaja competitiva**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un moat no es eterno y puede encerrar a la empresa en un modelo que pierde relevancia. Distingue defensa de capacidad para adaptarse.**?
+1. ¿Cómo se define y se mide la ventaja competitiva?
+2. ¿Qué tres estrategias genéricas identifica Porter?
+3. ¿Qué dos condiciones cumple un poder según Helmer?
+4. ¿Cuáles son las siete fuentes de poder?
+5. ¿Por qué las ventajas son hoy más transitorias según McGrath?
+6. ¿Qué indicios muestran falta de ventaja?
+7. ¿Qué límites legales rodean a las estrategias de precios?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Rentabilidad superior y persistente frente a rivales; se mide con margen, retorno, costo unitario, prima de precio y retención.
+2. Liderazgo en costos, diferenciación y enfoque.
+3. Un beneficio (mayor margen o menor costo) y una barrera que impide a los rivales arbitrar esa diferencia.
+4. Economías de escala, efectos de red, contra-posicionamiento, costos de cambio, marca, recurso exclusivo y poder de proceso.
+5. Porque la tecnología, la regulación, los clientes y los competidores cambian rápido, por lo que conviene gestionar un portafolio de ventajas que se renuevan.
+6. Competir principalmente en precio para mantener cuota, erosión del margen y baja prima frente a rivales.
+7. Normas de libre competencia (precios predatorios, acuerdos entre competidores, abuso de posición) y de consumo.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/161-ventaja-competitiva/`:
 
-- `strategy-memo.md` con el problema específico de **ventaja competitiva**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **ventaja competitiva** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **competitive advantage**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una firma presume tecnología patentada, pero clientes compran por servicio local y contratos de largo plazo. La patente vence en dos años y no explica márgenes superiores.** y el dato que podría invalidar la recomendación.
+- `strategy-memo.md` (plantilla [Strategy memo](../../../../templates/strategy-memo.md)) con el análisis y el plan del caso ejecutivo;
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con la comparación de costos y márgenes;
+- `decision-journal.md` con las fuentes de poder, las señales y las verificaciones legales.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Porter — *Competitive Strategy* (Free Press, 1980). **Uso en esta clase:** trade-offs, posicionamiento, fit y ventaja competitiva. **Localizador:** [ISBN-13 9780684841489](https://openlibrary.org/isbn/9780684841489).
-- Michael E. Porter — *Competitive Advantage* (Free Press, 1985). **Uso en esta clase:** cadena de valor, actividades y fuentes de ventaja de costo o diferenciación. Lectura selectiva sobre **ventaja competitiva**. **Localizador:** [ISBN-13 9780029250907](https://openlibrary.org/isbn/9780029250907).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **ventaja competitiva**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- Rita Gunther McGrath — *The End of Competitive Advantage* (Harvard Business Review Press, 2013). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **ventaja competitiva**. **Localizador:** [ISBN-13 9781422172810](https://openlibrary.org/isbn/9781422172810).
-- David J. Teece — *Dynamic Capabilities and Strategic Management* (Strategic Management Journal, 1997). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **ventaja competitiva**. **Localizador:** [DOI 10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z](https://doi.org/10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z).
-- W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* (Coach Series, 2006). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **ventaja competitiva**. **Localizador:** [ISBN-13 9781596590687](https://openlibrary.org/isbn/9781596590687).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **ventaja competitiva** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **ventaja competitiva**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **ventaja competitiva** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **ventaja competitiva** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **ventaja competitiva** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Michael E. Porter — *Competitive Advantage* (Free Press, 1985). **Uso en esta clase:** estrategias genéricas, cadena de valor y fuentes de ventaja. Lectura selectiva sobre **ventaja competitiva**. **Localizador:** [ISBN-13 9780029250907](https://openlibrary.org/isbn/9780029250907).
+- Hamilton Helmer — *7 Powers* (Deep Strategy, 2016). **Uso en esta clase:** siete poderes con beneficio y barrera. Lectura selectiva sobre **ventaja competitiva**. **Localizador:** [ISBN-13 9780998116303](https://openlibrary.org/isbn/9780998116303).
+- Rita Gunther McGrath — *The End of Competitive Advantage* (Harvard Business Review Press, 2013). **Uso en esta clase:** ventajas transitorias y portafolio. Lectura selectiva sobre **ventaja competitiva**. **Localizador:** [ISBN-13 9781422172810](https://openlibrary.org/isbn/9781422172810).
+- Jay Barney — *Firm Resources and Sustained Competitive Advantage* (Journal of Management, 1991). **Uso en esta clase:** condiciones de recursos para sostener la ventaja. Lectura selectiva sobre **ventaja competitiva**. **Localizador:** [DOI 10.1177/014920639101700108](https://doi.org/10.1177/014920639101700108).
+- W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* (Coach Series, 2006). **Uso en esta clase:** crear espacios donde la competencia no es relevante. Lectura selectiva sobre **ventaja competitiva**. **Localizador:** [ISBN-13 9781596590687](https://openlibrary.org/isbn/9781596590687).
 
-> **Regla de fuentes para Ventaja competitiva:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **ventaja competitiva** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Ventaja competitiva:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de libre competencia, de medicamentos y de publicidad. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

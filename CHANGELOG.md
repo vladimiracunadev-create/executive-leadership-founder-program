@@ -39,6 +39,12 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 13 completa** (157–168): qué es y qué no es estrategia (Rumelt, Lafley y Martin), diagnóstico,
+  fuerzas competitivas (Porter) y teoría de juegos (Dixit y Nalebuff), recursos y capacidades (Wernerfelt,
+  Barney, Teece), ventaja competitiva (Helmer, McGrath), trade-offs y coherencia, modelo de negocio, escenarios
+  (Schwartz), opciones de crecimiento, plataformas y ecosistemas (Parker y otros, Rochet y Tirole, Jacobides y
+  otros), ejecución y adaptación y capstone de memo de estrategia; cada clase con fuentes verificadas, cifras
+  recalculadas y un diagrama a medida.
 - **La parte 12 completa** (145–156): producto frente a proyecto (Perri, Cagan), problema y resultado (Torres),
   descubrimiento de clientes (Fitzpatrick, Blank), trabajos a realizar (Christensen), prototipos, producto mínimo
   viable (Ries), roadmap por resultados, costo del retraso (Reinertsen), experimentos (Kohavi, Tang y Xu),

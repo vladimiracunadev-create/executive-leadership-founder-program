@@ -10,217 +10,190 @@
 
 ## 🎯 Propósito
 
-Los trade-offs protegen una posición al obligar a elegir qué no hacer. El fit estratégico aparece cuando actividades se refuerzan mutuamente, haciendo más difícil copiar una sola pieza. Decir sí a todos los segmentos, canales y features suele destruir coherencia y economía.
+La parte más difícil de una estrategia no es descubrir qué hacer, sino decidir **qué no hacer**. Cada empresa enfrenta tentaciones permanentes: atender a otro segmento, agregar una línea de producto, aceptar el pedido especial de un cliente grande, imitar la última función del competidor. Cada «sí» parece razonable en lo individual, y la suma de ellos produce una organización que intenta ser todo para todos, con procesos que se estorban, mensajes confusos y costos crecientes. Una estrategia coherente acepta **trade-offs** —elecciones en que ganar en una dimensión implica ceder en otra— y organiza sus actividades de modo que se **refuercen entre sí**.
 
-La salida de esta parte es **formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **trade-offs y coherencia** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la idea de Porter de que la estrategia consiste en elegir un conjunto de actividades distinto y coherente, en el énfasis de Rumelt en las acciones coordinadas y la concentración de recursos y en las elecciones integradas de Lafley y Martin. Al terminar sabrás identificar los trade-offs de una estrategia, evaluar la coherencia entre actividades, detectar el «atrapado en el medio», decidir qué abandonar y comunicar renuncias con claridad.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `trade-off`, `fit`, `activity system`, `straddling`, `strategic consistency` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. declarar posición deseada → 2. listar actividades necesarias → 3. identificar incompatibilidades → 4. mapear refuerzos y dependencias → 5. eliminar iniciativas que erosionan fit** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** exception count, segment profitability, operational complexity sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Explicar** qué es un trade-off y por qué es la base de una estrategia.
+2. **Mapear** las actividades de una empresa y su refuerzo mutuo (encaje).
+3. **Detectar** señales de estar atrapado en el medio.
+4. **Decidir** qué abandonar, con criterio y con costos de transición.
+5. **Comunicar** las renuncias a clientes, equipos e inversionistas.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define trade-off y fit sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con exception count y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: escribe cinco cosas que tu empresa decidió no hacer y por qué; si no encuentras ninguna, anótalo. |
+| 20–60 min | Trade-offs, encaje de actividades, atrapado en el medio y renuncias. |
+| 60–105 min | Ejemplo trabajado: una cadena de restaurantes que intenta ser rápida, gourmet y económica. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **trade-off** | elección donde perseguir una opción limita otra | Distingue un hecho compatible y otro que lo refute. |
-| **fit** | grado en que actividades se refuerzan como sistema | Distingue un hecho compatible y otro que lo refute. |
-| **activity system** | mapa de actividades que materializan una posición | Distingue un hecho compatible y otro que lo refute. |
-| **straddling** | intento de ocupar posiciones incompatibles simultáneamente | Distingue un hecho compatible y otro que lo refute. |
-| **strategic consistency** | coherencia entre propuesta operaciones y recursos | Distingue un hecho compatible y otro que lo refute. |
+| **Trade-off** | Elección en que obtener más de una cosa implica obtener menos de otra. | No se puede lograr ambas a la vez. |
+| **Encaje (fit)** | Grado en que las actividades se refuerzan entre sí. | Cada decisión hace más valiosa a otra. |
+| **Atrapado en el medio** | Intentar varias estrategias incompatibles sin lograr ventaja en ninguna. | Mensaje confuso, costos altos. |
+| **Concentración de recursos** | Dirigir esfuerzos a pocos frentes. | Pocas prioridades con recursos suficientes. |
+| **Costo de oportunidad** | Valor de lo que se renuncia. | Lo que se deja de ganar por elegir. |
+| **Coherencia** | Consistencia entre diagnóstico, política y acciones. | No hay decisiones que se contradicen. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 162: 1. declarar posición deseada → 2. listar actividades necesarias → 3. identificar incompatibilidades → 4. mapear refuerzos y dependencias → 5. eliminar iniciativas que erosionan fit](modelo-mental.svg)
+![Estrategia coherente frente a atrapado en el medio: elige y renuncia, actividades que se refuerzan y difícil de copiar, frente a quiere todo, actividades que se estorban y fácil de superar.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. declarar posición deseada → 2. listar actividades necesarias → 3. identificar incompatibilidades → 4. mapear refuerzos y dependencias → 5. eliminar iniciativas que erosionan fit
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Los trade-offs protegen una posición al obligar a elegir qué no hacer. El fit estratégico aparece cuando actividades se refuerzan mutuamente, haciendo más difícil copiar una sola pieza. Decir sí a todos los segmentos, canales y features suele destruir coherencia y economía.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Trade-offs excesivos pueden impedir experimentación o atender cambios del mercado. La coherencia debe revisarse cuando la hipótesis estratégica cambia, no protegerse por identidad.**
+**Cómo leer el diagrama.** Dos paneles. La **estrategia coherente** elige y renuncia, tiene actividades que se refuerzan entre sí y es difícil de copiar porque copiar una pieza no da el efecto del conjunto. La estrategia **atrapada en el medio** quiere todo (costo bajo, diferenciación y todos los segmentos), tiene actividades que se estorban y es fácil de superar por un especialista en cada dimensión. La nota recuerda que, si no hay nada a lo que se renuncie, probablemente no hay estrategia, y que la coherencia no es rigidez: se revisa si cambia el diagnóstico.
 
 ## 📖 Desarrollo
 
-### 1. trade-off: mecanismo central
+### 1. Por qué existen los trade-offs
 
-**trade-off** se entiende aquí como **elección donde perseguir una opción limita otra**. Esta es la pieza causal o estructural desde la que se inicia **trade-offs y coherencia**: antes de declarar posición deseada, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Porter sostiene que los trade-offs surgen por tres razones. **Imagen o reputación**: una empresa conocida por bajo costo difícilmente puede ser vista como exclusiva, y viceversa. **Actividades**: diferentes posicionamientos exigen configuraciones distintas de actividades, equipos, procesos y sistemas que no se pueden combinar sin perder eficiencia. **Límites de coordinación**: los directivos solo pueden gestionar con claridad un conjunto acotado de prioridades; intentar muchas diluye el foco. Los trade-offs son la razón por la que una posición es sostenible: si el rival pudiera ofrecer lo mismo sin renunciar a nada, copiaría.
 
-La lectura rectora de este bloque es Michael E. Porter — *Competitive Strategy*. Su aporte se usa para examinar **trade-offs, posicionamiento, fit y ventaja competitiva**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **exception count**; regístrala con periodo, unidad, población y baseline.
+### 2. Encaje: cuando las actividades se refuerzan
 
-Relaciona el mecanismo con **fit**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Una estrategia no es una actividad sino un **sistema de actividades**. Porter distingue tres niveles de encaje: **consistencia simple** (cada actividad es coherente con la posición elegida), **refuerzo** (las actividades se potencian: el servicio de entrega rápida refuerza la compra de productos de alto valor) y **optimización conjunta** (la coordinación entre actividades produce eficiencias que ninguna logra por sí sola). El encaje explica por qué copiar una sola pieza no da ventaja: el rival que imita una actividad sin el sistema solo importa costos. Una prueba: si se saca una actividad, ¿las demás pierden valor?
 
-### 2. fit: frontera conceptual y error de clasificación
+### 3. Estar atrapado en el medio
 
-**Definición operacional:** grado en que actividades se refuerzan como sistema. Su valor está en distinguirlo de **trade-off** y **activity system**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Una empresa queda «atrapada en el medio» cuando intenta posiciones incompatibles: bajo costo **y** alta diferenciación, atender segmentos con necesidades opuestas, ofrecer servicio personalizado con procesos estandarizados. Síntomas: **mensaje difuso** (los clientes no saben para qué es mejor la empresa), **márgenes** inferiores a los de especialistas de cada lado, **conflictos internos** sobre prioridades, **procesos con excepciones** para cada cliente y **crecimiento en ingresos con rentabilidad decreciente**. Es frecuente tras años de agregar productos y segmentos «porque había oportunidad». La salida es elegir una posición y reorganizar las actividades en torno a ella.
 
-Contrasta el problema con Michael E. Porter — *Competitive Advantage*, que aporta una mirada sobre **cadena de valor, actividades y fuentes de ventaja de costo o diferenciación**. Formula dos mini-casos: uno que sí satisface la definición de **fit** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **segment profitability** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Concentrar y renunciar
 
-Antes de listar actividades necesarias, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Rumelt destaca que una buena estrategia **concentra recursos** en pocos frentes donde se puede lograr ventaja; la dispersión es la forma más común de desperdiciarlos. Renunciar implica costos visibles (ingresos que se pierden, personas afectadas, clientes que se molestan) y beneficios invisibles (foco, simplicidad, calidad). Se decide con criterios: **contribución al desafío estratégico**, **margen y retorno**, **encaje con las capacidades**, **efecto en la coherencia** y **costos de salida**. Se evalúan alternativas al abandono (vender, licenciar, tercerizar, reducir). Lafley y Martin recomiendan explicitar para cada elección **lo que no se hará**.
 
-### 3. activity system: operacionalización y medición
+### 5. El costo de las excepciones
 
-**activity system** significa **mapa de actividades que materializan una posición**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un cliente grande pide una versión especial, una unidad comercial negocia condiciones propias, un directivo quiere una línea nueva. Cada excepción tiene **costo directo** (desarrollo, soporte, inventario) y **costo de complejidad** (procesos más complicados, errores, decisiones más lentas, pérdida de economías de escala). Se evalúa con una **regla de excepciones**: se acepta si el margen incremental cubre el costo de complejidad total, si el patrón se repetirá en otros clientes (es decir, si puede ser parte del producto) y si no contradice la política guía. Muchas organizaciones descubren, al medirlo, que el 20 % de las excepciones consume la mayor parte de la capacidad y el margen que traen no compensa.
 
-A.G. Lafley & Roger L. Martin — *Playing to Win* orienta este bloque mediante **elecciones integradas de dónde jugar y cómo ganar**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **operational complexity**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Coherencia a lo largo de la organización
 
-Al llegar a identificar incompatibilidades, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La coherencia se verifica en los **sistemas de gestión**: **qué se mide** (indicadores y metas, clases 097 a 100), **qué se premia** (incentivos), **cómo se asignan recursos** (clase 106), **qué se prioriza** (clase 105), **cómo se contrata y se capacita**, **qué se comunica** y **cómo se decide** ante dilemas. Si la estrategia dice «calidad» pero se premia el volumen, la organización actúa según el incentivo. Lafley y Martin incluyen los sistemas de gestión como una de las cinco elecciones precisamente para que la estrategia se sostenga en las decisiones cotidianas, y no solo en un documento.
 
-### 4. straddling: trade-offs y efectos de segundo orden
+### 7. Comunicar las renuncias
 
-**Definición:** intento de ocupar posiciones incompatibles simultáneamente. Este concepto obliga a abandonar la idea de que **trade-offs y coherencia** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de mapear refuerzos y dependencias, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy* aporta una lente sobre **perspectiva de Estrategia aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **resource fragmentation** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **trade-offs y coherencia**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **straddling** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. strategic consistency: gobernanza, límites e integración
-
-**strategic consistency** se define como **coherencia entre propuesta operaciones y recursos** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* se utiliza para estudiar **traducción de estrategia a objetivos, indicadores y relaciones causales** y contrastar la recomendación final. Al ejecutar eliminar iniciativas que erosionan fit, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Trade-offs excesivos pueden impedir experimentación o atender cambios del mercado. La coherencia debe revisarse cuando la hipótesis estratégica cambia, no protegerse por identidad.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **trade-off**, **fit**, **activity system**, **straddling** y **strategic consistency** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **trade-offs y coherencia** no consiste en sumar cinco definiciones. Empieza por **trade-off**, contrasta **fit** con **activity system**, incorpora **straddling** como restricción o mecanismo y usa **strategic consistency** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. declarar posición deseada → 2. listar actividades necesarias → 3. identificar incompatibilidades → 4. mapear refuerzos y dependencias → 5. eliminar iniciativas que erosionan fit**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Renunciar sin explicar genera desconfianza. Se comunica: **qué se elige y por qué** (diagnóstico), **qué se deja** y **qué ocurrirá con quienes se ven afectados** (clientes, empleados, socios), **cuándo** y **cómo se hará la transición**. Se acompaña de **apoyo** (alternativas para clientes, reubicación o capacitación para personas) y de **respeto**: la decisión no invalida el trabajo pasado. Las decisiones que afectan a personas (cierres de áreas, cambios de funciones) tienen condiciones laborales y legales que se verifican con asesoría y con las normas vigentes antes de anunciarlas.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Porter — *Competitive Strategy* | trade-offs, posicionamiento, fit y ventaja competitiva | ¿Qué supuesto de **trade-offs y coherencia** ayuda a desafiar? |
-| Michael E. Porter — *Competitive Advantage* | cadena de valor, actividades y fuentes de ventaja de costo o diferenciación | ¿Qué supuesto de **trade-offs y coherencia** ayuda a desafiar? |
-| A.G. Lafley & Roger L. Martin — *Playing to Win* | elecciones integradas de dónde jugar y cómo ganar | ¿Qué supuesto de **trade-offs y coherencia** ayuda a desafiar? |
-| Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **trade-offs y coherencia** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* | traducción de estrategia a objetivos, indicadores y relaciones causales | ¿Qué supuesto de **trade-offs y coherencia** ayuda a desafiar? |
-
-En **trade-offs y coherencia**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **trade-off**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Porter (*Competitive Advantage*) | Trade-offs, encaje y sistema de actividades. | Descripción general; poco sobre cómo transicionar. | ¿Qué actividades se refuerzan entre sí? |
+| Rumelt | Concentración de recursos y acciones coherentes. | No entrega método de decisión de abandono. | ¿Dónde concentras? |
+| Lafley y Martin | Elecciones integradas y sistemas de gestión. | Visión de grandes empresas. | ¿Tus sistemas de gestión sostienen las elecciones? |
+| Kim y Mauborgne | Eliminar y reducir factores como parte de crear valor. | Casos seleccionados. | ¿Qué factor eliminas? |
+| Helmer | Contra-posicionamiento como poder. | Se centra en poderes duraderos. | ¿Qué puede hacer tu rival sin dañar su negocio? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una aerolínea low-cost añade lounge, equipaje flexible y conexiones complejas para atraer viajeros premium. Ingresos suben, pero turnaround y costos destruyen la lógica del modelo.
+**Situación (hipotética).** Una cadena de 30 restaurantes de comida casual promete simultáneamente tres cosas: servicio rápido (menos de 10 minutos), carta amplia de 85 platos con opciones «gourmet» y precios bajos. Sus ventas por local crecieron 2 % mientras el margen operativo cayó de 9 % a 4 %.
 
-**Paso 1 — declarar posición deseada.** La gerencia escribe primero el supuesto asociado a **trade-off** y evita convertirlo en hecho. Luego busca **exception count** para contrastarlo en el caso de **trade-offs y coherencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Mapa de actividades y contradicciones.**
 
-**Paso 2 — listar actividades necesarias.** La gerencia escribe primero el supuesto asociado a **fit** y evita convertirlo en hecho. Luego busca **segment profitability** para contrastarlo en el caso de **trade-offs y coherencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Promesa | Actividades que exige | Conflicto |
+|---|---|---|
+| Rapidez | Menú corto, preparación estandarizada, cocinas simples | Choca con 85 platos y técnicas gourmet |
+| Gourmet | Ingredientes frescos, cocineros calificados, platos elaborados | Choca con precios bajos y rapidez |
+| Precio bajo | Compra masiva, desperdicio mínimo, menú acotado | Choca con una carta amplia y de ingredientes diversos |
 
-**Paso 3 — identificar incompatibilidades.** La gerencia escribe primero el supuesto asociado a **activity system** y evita convertirlo en hecho. Luego busca **operational complexity** para contrastarlo en el caso de **trade-offs y coherencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Datos de complejidad.** El 70 % de las ventas está en 18 platos; los otros 67 aportan 30 % de las ventas con 45 % del desperdicio y de las compras especiales; el tiempo medio de espera es de 17 minutos en horas pico; la rotación de cocineros es de 62 %; los clientes en encuestas no saben si el lugar «es rápido, barato o especial» (49 % no puede describir su propuesta).
 
-**Paso 4 — mapear refuerzos y dependencias.** La gerencia escribe primero el supuesto asociado a **straddling** y evita convertirlo en hecho. Luego busca **resource fragmentation** para contrastarlo en el caso de **trade-offs y coherencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisión de coherencia.** Elegir una posición: **comida casual rápida de buena calidad a precio accesible**, renunciando a la carta amplia y al segmento gourmet. Acciones: (1) reducir la carta a 24 platos; (2) rediseñar cocinas con flujo estándar y equipo común; (3) acuerdos de compra con 12 proveedores para ingredientes frescos; (4) capacitación centrada en velocidad y consistencia; (5) incentivos del personal por tiempos y satisfacción; (6) retirar la promoción de «chef invitado» y la carta de vinos; (7) comunicación sencilla: «buena comida, lista en 8 minutos».
 
-**Paso 5 — eliminar iniciativas que erosionan fit.** La gerencia escribe primero el supuesto asociado a **strategic consistency** y evita convertirlo en hecho. Luego busca **position clarity** para contrastarlo en el caso de **trade-offs y coherencia**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Costos y beneficios de renunciar.** Se pierde parte de las ventas de los 61 platos eliminados (se estima que 40 % de esos clientes se cambia a platos que se mantienen): pérdida neta de ventas de 18 % de ese 30 % (≈ 5,4 % de las ventas), pero se reduce el desperdicio en 40 %, el tiempo de espera a 9 minutos y el costo de compras en 7 %. El efecto neto estimado en el margen: de 4 % a 8,5 % en 18 meses, con riesgo de rechazo de una parte de clientes fieles de platos especiales.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **trade-offs y coherencia**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Comunicación.** A los clientes: aviso con anticipación, platos favoritos conservados y una carta estacional. A los cocineros: reconversión de roles, capacitación y garantía de que no habrá despidos por el cambio durante la transición (una decisión de la dirección verificada con asesoría laboral). A los proveedores: plan de compras por volumen.
+
+**Qué muestra.** (1) Los trade-offs entre rapidez, gourmet y precio eran reales. (2) La complejidad se midió con datos. (3) Se eligió, se renunció y se comunicó.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **trade-off** | elección donde perseguir una opción limita otra | Cuando exception count es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **fit** | grado en que actividades se refuerzan como sistema | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Coherencia frente a rigidez.** Una estrategia coherente no impide adaptarse: lo que se revisa es el diagnóstico y, si cambia, se rediseña el conjunto; lo que no se hace es sumar piezas incoherentes por oportunismo.
 
-**Frontera de aplicación:** Trade-offs excesivos pueden impedir experimentación o atender cambios del mercado. La coherencia debe revisarse cuando la hipótesis estratégica cambia, no protegerse por identidad.
+**Límites.** A veces existen innovaciones que reducen un trade-off (tecnología que permite personalizar con bajo costo) y la frontera entre posiciones se mueve. Los efectos de renunciar son inciertos y los estimados pueden fallar. Una empresa con una cartera diversificada puede tener estrategias distintas en unidades distintas, siempre que estén separadas y bien dirigidas. Las decisiones de cierre o reducción afectan a personas y contratos y exigen cumplimiento laboral y comercial. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre trade-offs y coherencia |
+| Nivel | Cómo trabaja los trade-offs y la coherencia |
 |---|---|
-| **Profesional** | usa **trade-offs y coherencia** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **trade-off** y **fit** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta exception count con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si trade-offs y coherencia cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de trade-offs y coherencia reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **trade-offs y coherencia** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende qué se prioriza y qué no, y decide en consecuencia. |
+| **Jefe / Team Lead** | Alinea las prioridades y los procesos del equipo con la política. |
+| **Gerente** | Detecta excepciones costosas y propone qué abandonar. |
+| **CEO / Director** | Elige, renuncia y mantiene la coherencia de los sistemas de gestión. |
+| **Founder / Owner** | Resiste la tentación de aceptar cualquier cliente o idea. |
 
 ## 🏢 Caso ejecutivo
 
-Una aerolínea low-cost añade lounge, equipaje flexible y conexiones complejas para atraer viajeros premium. Ingresos suben, pero turnaround y costos destruyen la lógica del modelo.
+Una empresa de software de gestión para pymes tiene 4.500 clientes, 7 productos, 3 modelos de precios y soporte personalizado a cualquier cliente. Crece 14 % anual pero su margen operacional cayó de 18 % a 9 %. Los desarrolladores dedican 40 % de su tiempo a «personalizaciones» para clientes grandes; 28 % de los tickets de soporte proviene de 6 % de los clientes; los productos tienen bases de código distintas; los planes de precios se superponen. Los clientes grandes quieren más funciones a medida; los pequeños, simplicidad y precio; una cadena internacional ofrece una adquisición parcial. El gerente comercial quiere seguir aceptando pedidos a medida «porque pagan bien»; el de producto, simplificar a un solo producto y dos planes.
 
-Entrega un **decision brief de trade-offs y coherencia** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de trade-offs y coherencia** que contenga: (a) el mapa de posiciones posibles y sus actividades; (b) la evidencia de complejidad y de atrapado en el medio; (c) la posición elegida y lo que se renuncia, con los costos de transición y los efectos estimados; (d) la regla de excepciones; (e) los cambios en medición, incentivos y asignación de recursos para sostener la coherencia; (f) la comunicación a clientes, equipos y socios y las verificaciones contractuales y laborales que se harán con asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **trade-offs y coherencia** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. declarar posición deseada → 2. listar actividades necesarias → 3. identificar incompatibilidades → 4. mapear refuerzos y dependencias → 5. eliminar iniciativas que erosionan fit** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta exception count, segment profitability; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Lista tres trade-offs reales de tu estrategia y la actividad que hace posible cada lado.
+2. Dibuja el mapa de actividades de tu empresa y marca cuáles se refuerzan y cuáles se estorban.
+3. Calcula el costo de complejidad de tus tres excepciones más frecuentes.
+4. Escribe una regla de excepciones para tu equipo.
+5. Redacta cómo comunicarías la renuncia a un producto o segmento.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar trade-off y fit como sinónimos | Se pierde la distinción entre “elección donde perseguir una opción limita otra” y “grado en que actividades se refuerzan como sistema” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “eliminar iniciativas que erosionan fit” | Se saltó “declarar posición deseada” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. declarar posición deseada → 2. listar actividades necesarias → 3. identificar incompatibilidades → 4. mapear refuerzos y dependencias → 5. eliminar iniciativas que erosionan fit y marca el primer supuesto no demostrado. |
-| Optimizar solo exception count | La métrica local sustituyó al resultado del sistema | Contrástala con segment profitability y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre trade-offs y coherencia | Trade-offs excesivos pueden impedir experimentación o atender cambios del mercado. La coherencia debe revisarse cuando la hipótesis estratégica cambia, no protegerse por identidad. |
-| No fijar revisión | Una decisión sobre trade-offs y coherencia se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Querer todo | Se teme perder oportunidades | Elegir y renunciar. |
+| Excepciones sin costo | No se miden | Calcular complejidad total. |
+| Estrategia sin sistemas | Se piensa en el documento | Alinear medición, incentivos y recursos. |
+| Renunciar sin comunicar | Se evita el conflicto | Explicar razones y transición. |
+| Copiar una pieza del rival | Parece fácil | Entender el sistema completo. |
+| Coherencia como rigidez | Se confunde con inmovilidad | Revisar el diagnóstico cuando cambia. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **trade-off** y **fit** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **activity system** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **declarar posición deseada → listar actividades necesarias** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **exception count** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **trade-offs y coherencia**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Trade-offs excesivos pueden impedir experimentación o atender cambios del mercado. La coherencia debe revisarse cuando la hipótesis estratégica cambia, no protegerse por identidad.**?
+1. ¿Qué es un trade-off y por qué da sostenibilidad a la estrategia?
+2. ¿Qué es el encaje entre actividades?
+3. ¿Qué síntomas tiene una empresa atrapada en el medio?
+4. ¿Cómo se decide qué abandonar?
+5. ¿Qué costos tienen las excepciones?
+6. ¿Dónde se verifica la coherencia en la organización?
+7. ¿Cómo se comunican las renuncias?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Una elección en que ganar en una dimensión implica ceder en otra; si el rival pudiera tener ambas, copiaría, por lo que los trade-offs hacen sostenible la posición.
+2. El grado en que las actividades se refuerzan entre sí, de modo que copiar una sola no da el efecto del sistema.
+3. Mensaje difuso, márgenes inferiores a los de especialistas, conflictos de prioridades, procesos con excepciones y crecimiento con rentabilidad decreciente.
+4. Con criterios: contribución al desafío, margen y retorno, encaje con capacidades, efecto en la coherencia y costos de salida, evaluando alternativas al abandono.
+5. Directo (desarrollo, soporte) y de complejidad (procesos más complicados, errores, decisiones lentas, pérdida de escala).
+6. En lo que se mide, se premia, se asigna, se prioriza, se contrata y se comunica.
+7. Explicando qué se elige y por qué, qué se deja, qué ocurrirá con los afectados, cuándo y cómo, con apoyo y respeto, y verificando condiciones legales.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/162-trade-offs-y-coherencia/`:
 
-- `risk-governance-brief.md` con el problema específico de **trade-offs y coherencia**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **trade-offs y coherencia** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **trade-off**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una aerolínea low-cost añade lounge, equipaje flexible y conexiones complejas para atraer viajeros premium. Ingresos suben, pero turnaround y costos destruyen la lógica del modelo.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con los riesgos de las renuncias del caso ejecutivo;
+- `strategy-memo.md` (plantilla [Strategy memo](../../../../templates/strategy-memo.md)) con la posición elegida y lo que se renuncia;
+- `decision-journal.md` con la regla de excepciones y la comunicación.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Porter — *Competitive Strategy* (Free Press, 1980). **Uso en esta clase:** trade-offs, posicionamiento, fit y ventaja competitiva. Lectura selectiva sobre **trade-offs y coherencia**. **Localizador:** [ISBN-13 9780684841489](https://openlibrary.org/isbn/9780684841489).
-- Michael E. Porter — *Competitive Advantage* (Free Press, 1985). **Uso en esta clase:** cadena de valor, actividades y fuentes de ventaja de costo o diferenciación. Lectura selectiva sobre **trade-offs y coherencia**. **Localizador:** [ISBN-13 9780029250907](https://openlibrary.org/isbn/9780029250907).
-- A.G. Lafley & Roger L. Martin — *Playing to Win* (Harvard Business Review Press, 2013). **Uso en esta clase:** elecciones integradas de dónde jugar y cómo ganar. Lectura selectiva sobre **trade-offs y coherencia**. **Localizador:** [ISBN-13 9781422187395](https://openlibrary.org/isbn/9781422187395).
-- Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy* (Norton & Company, Incorporated, W. W., 2008). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **trade-offs y coherencia**. **Localizador:** [ISBN-13 9780393069952](https://openlibrary.org/isbn/9780393069952).
-- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** traducción de estrategia a objetivos, indicadores y relaciones causales. Lectura selectiva sobre **trade-offs y coherencia**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **trade-offs y coherencia**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **trade-offs y coherencia** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **trade-offs y coherencia**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **trade-offs y coherencia** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **trade-offs y coherencia** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **trade-offs y coherencia** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Michael E. Porter — *Competitive Advantage* (Free Press, 1985). **Uso en esta clase:** trade-offs, encaje y sistema de actividades. Lectura selectiva sobre **trade-offs y coherencia**. **Localizador:** [ISBN-13 9780029250907](https://openlibrary.org/isbn/9780029250907).
+- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** concentración de recursos y acciones coherentes. Lectura selectiva sobre **trade-offs y coherencia**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
+- A.G. Lafley & Roger L. Martin — *Playing to Win* (Harvard Business Review Press, 2013). **Uso en esta clase:** elecciones integradas y sistemas de gestión. Lectura selectiva sobre **trade-offs y coherencia**. **Localizador:** [ISBN-13 9781422187395](https://openlibrary.org/isbn/9781422187395).
+- W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* (Coach Series, 2006). **Uso en esta clase:** eliminar y reducir factores como parte de crear valor. Lectura selectiva sobre **trade-offs y coherencia**. **Localizador:** [ISBN-13 9781596590687](https://openlibrary.org/isbn/9781596590687).
+- Hamilton Helmer — *7 Powers* (Deep Strategy, 2016). **Uso en esta clase:** contra-posicionamiento como poder. Lectura selectiva sobre **trade-offs y coherencia**. **Localizador:** [ISBN-13 9780998116303](https://openlibrary.org/isbn/9780998116303).
 
-> **Regla de fuentes para Trade-offs y coherencia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **trade-offs y coherencia** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Trade-offs y coherencia:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales y contractuales de cierres y reducciones. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

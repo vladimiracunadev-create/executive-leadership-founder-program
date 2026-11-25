@@ -1,66 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g159 d-g159" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g159">Ficha visual de la clase 159: Industria y fuerzas competitivas</title>
-<desc id="d-g159">Conceptos: rivalry; buyer power; supplier power; substitute; entry barrier. Método: definir límites de industria y segmento → analizar cada fuerza con evidencia → identificar pools de beneficio → cambiar lente hacia sustitutos y complementos → traducir estructura a elección estratégica.</desc>
-<defs><marker id="p-g159" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#bc4c00"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 159 · Industria y fuerzas competitivas</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 13 · Dirección, estrategia y organización</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#bc4c00"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >rivalry</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >intensidad con que competidores erosionan precio o</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >elevan costo</text>
-<circle cx="38" cy="184.12" r="5" fill="#bc4c00"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >buyer power</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad de clientes para capturar valor</text>
-<circle cx="38" cy="242.12" r="5" fill="#bc4c00"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >supplier power</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad de proveedores para elevar precio o</text>
-<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >restringir condiciones</text>
-<circle cx="38" cy="314.24" r="5" fill="#bc4c00"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >substitute</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >solución distinta que satisface necesidad comparable</text>
-<circle cx="38" cy="372.24" r="5" fill="#bc4c00"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >entry barrier</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >condición que dificulta entrada sostenible de nuevos</text>
-<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >competidores</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir límites de industria y segmento</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >analizar cada fuerza con evidencia</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >identificar pools de beneficio</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >cambiar lente hacia sustitutos y complementos</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#bc4c00" stroke="#bc4c00" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >traducir estructura a elección estratégica</text>
-<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="470.36" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="41" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >industry margins</text>
-<rect x="174.4" y="470.36" width="115.7" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="187.4" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="198.4" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >concentration</text>
-<rect x="300.1" y="470.36" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="313.1" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="324.1" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >switching cost</text>
-<rect x="432.7" y="470.36" width="95" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="445.7" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="456.7" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >entry rate</text>
-<rect x="537.7" y="470.36" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2" />
-<circle cx="550.7" cy="483.36" r="3.5" fill="#bc4c00"/>
-<text x="561.7" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >substitution rate</text>
-<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Las fronteras de industria cambian y las fuerzas no predicen movimientos específicos. Complementa con ecosistemas, tecnología,</text>
-<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >regulación y capacidades internas.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 511.54" width="1040" role="img" aria-labelledby="t-s159 d-s159" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s159">Clase 159 · Cinco fuerzas que determinan la rentabilidad de una industria</title>
+<desc id="d-s159">Las cinco fuerzas competitivas, qué las intensifica y cómo afectan la rentabilidad.</desc>
+<defs><marker id="p-s159" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="511.54" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 159 · Cinco fuerzas que determinan la rentabilidad de una industria</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Porter (1980) · Dixit &amp; Nalebuff</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Fuerza</text>
+<text x="300.471" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Se intensifica cuando…</text>
+<text x="734.588" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Efecto en la rentabilidad</text>
+<rect x="28" y="136" width="984" height="53.12" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Rivalidad entre competidores</text>
+<text x="300.471" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Muchos rivales parecidos, crecimiento lento, costos fijos</text>
+<text x="300.471" y="172.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >altos.</text>
+<text x="734.588" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Presión de precios.</text>
+<rect x="28" y="189.12" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="209.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Entrada de nuevos competidores</text>
+<text x="300.471" y="209.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Barreras bajas, capital accesible, canales abiertos.</text>
+<text x="734.588" y="209.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Margen acotado.</text>
+<rect x="28" y="225.68" width="984" height="53.12" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="245.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Sustitutos</text>
+<text x="300.471" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Alternativas de otra categoría con buena relación</text>
+<text x="300.471" y="262.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >valor–precio.</text>
+<text x="734.588" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Techo de precios.</text>
+<rect x="28" y="278.8" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="298.8" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Poder de los compradores</text>
+<text x="300.471" y="298.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Pocos clientes grandes, bajo costo de cambio.</text>
+<text x="734.588" y="298.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Descuentos y exigencias.</text>
+<rect x="28" y="315.36" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="335.36" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Poder de los proveedores</text>
+<text x="300.471" y="335.36" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Pocos proveedores, insumos críticos, costo de cambio alto.</text>
+<text x="734.588" y="335.36" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Costos más altos.</text>
+<rect x="28" y="367.92" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="389.92" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Las fuerzas explican por qué algunas industrias son más rentables que otras y dónde puede una empresa posicionarse o cambiar la</text>
+<text x="44" y="407.17" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >estructura.</text>
+<text x="28" y="454.42" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >El análisis es estático y toma la industria como dada; en industrias de plataformas o de cambio rápido se complementa con el análisis de</text>
+<text x="28" y="470.98" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >ecosistemas.</text>
 </svg>

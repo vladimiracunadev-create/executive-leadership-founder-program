@@ -10,225 +10,199 @@
 
 ## 🎯 Propósito
 
-El análisis de industria estudia cómo estructura, poder y sustitución condicionan rentabilidad. Las cinco fuerzas de Porter no puntúan atractividad en abstracto: ayudan a entender mecanismos de valor, poder de negociación, barreras y respuesta competitiva para decidir posición.
+¿Por qué algunas industrias son rentables para casi todos los que participan, y otras destruyen valor aunque sus empresas trabajen bien? La respuesta no está solo en la calidad de la gestión sino en la **estructura de la industria**: cuántos competidores hay y qué tan parecidos son, qué tan fácil es entrar, qué alternativas tiene el cliente, cuánto poder de negociación tienen compradores y proveedores. Porter organizó estas fuerzas en un marco que sigue siendo el punto de partida del análisis competitivo. Entenderlo permite decidir **dónde competir** y **cómo posicionarse** o, mejor aún, cómo **cambiar la estructura** a favor propio.
 
-La salida de esta parte es **formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **industria y fuerzas competitivas** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el análisis de Porter de la estructura de las industrias y la competencia, en la teoría de juegos aplicada a la estrategia de Dixit y Nalebuff, que ayuda a anticipar las respuestas de los rivales, y en la observación de McGrath de que las industrias se reconfiguran más rápido que antes. Al terminar sabrás analizar las cinco fuerzas con evidencia, evaluar la rentabilidad estructural de una industria, anticipar movimientos de competidores, reconocer los límites del marco y diseñar jugadas que mejoren la posición.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `rivalry`, `buyer power`, `supplier power`, `substitute`, `entry barrier` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. definir límites de industria y segmento → 2. analizar cada fuerza con evidencia → 3. identificar pools de beneficio → 4. cambiar lente hacia sustitutos y complementos → 5. traducir estructura a elección estratégica** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** industry margins, concentration, switching cost sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Analizar** las cinco fuerzas de una industria con datos.
+2. **Explicar** por qué la rentabilidad depende de la estructura y no solo de la gestión.
+3. **Anticipar** las respuestas de competidores con razonamiento de juegos.
+4. **Identificar** jugadas que mejoran la posición o cambian la estructura.
+5. **Reconocer** los límites del marco en industrias dinámicas y de plataformas.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define rivalry y buyer power sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con industry margins y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué fuerza limita más el margen de tu industria y por qué? |
+| 20–60 min | Cinco fuerzas, evidencia, juegos y jugadas. |
+| 60–105 min | Ejemplo trabajado: industria de distribución de materiales de construcción y guerra de precios. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **rivalry** | intensidad con que competidores erosionan precio o elevan costo | Distingue un hecho compatible y otro que lo refute. |
-| **buyer power** | capacidad de clientes para capturar valor | Distingue un hecho compatible y otro que lo refute. |
-| **supplier power** | capacidad de proveedores para elevar precio o restringir condiciones | Distingue un hecho compatible y otro que lo refute. |
-| **substitute** | solución distinta que satisface necesidad comparable | Distingue un hecho compatible y otro que lo refute. |
-| **entry barrier** | condición que dificulta entrada sostenible de nuevos competidores | Distingue un hecho compatible y otro que lo refute. |
+| **Estructura de la industria** | Características que determinan la rentabilidad promedio de sus participantes. | Concentración, barreras, poder de negociación. |
+| **Barrera de entrada** | Obstáculo que dificulta a nuevos competidores ingresar. | Escala, marca, acceso a canales, regulación. |
+| **Costo de cambio** | Costo que enfrenta un cliente al cambiar de proveedor. | Datos, integración, aprendizaje. |
+| **Sustituto** | Producto de otra categoría que cumple la misma función. | Alternativa distinta al competidor directo. |
+| **Dilema del prisionero** | Situación en que cada parte, actuando por su interés, produce un resultado peor para ambas. | Guerras de precios. |
+| **Compromiso creíble** | Acción que hace creíble una amenaza o promesa. | Costo irrecuperable, contrato. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 159: 1. definir límites de industria y segmento → 2. analizar cada fuerza con evidencia → 3. identificar pools de beneficio → 4. cambiar lente hacia sustitutos y complementos → 5. traducir estructura a elección estratégica](modelo-mental.svg)
+![Cinco fuerzas competitivas: rivalidad, entrada, sustitutos, poder de compradores y de proveedores, con cuándo se intensifican y su efecto en la rentabilidad.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir límites de industria y segmento → 2. analizar cada fuerza con evidencia → 3. identificar pools de beneficio → 4. cambiar lente hacia sustitutos y complementos → 5. traducir estructura a elección estratégica
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El análisis de industria estudia cómo estructura, poder y sustitución condicionan rentabilidad. Las cinco fuerzas de Porter no puntúan atractividad en abstracto: ayudan a entender mecanismos de valor, poder de negociación, barreras y respuesta competitiva para decidir posición.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Las fronteras de industria cambian y las fuerzas no predicen movimientos específicos. Complementa con ecosistemas, tecnología, regulación y capacidades internas.**
+**Cómo leer el diagrama.** Una tabla con las cinco fuerzas: **rivalidad** entre competidores, **entrada** de nuevos, **sustitutos**, **poder de los compradores** y **poder de los proveedores**. Para cada una se indica cuándo se intensifica y qué efecto tiene en la rentabilidad. La nota recuerda que el análisis explica por qué algunas industrias son más rentables y dónde puede una empresa posicionarse o cambiar la estructura, y que es estático: en industrias de plataformas o de cambio rápido se complementa con otros análisis.
 
 ## 📖 Desarrollo
 
-### 1. rivalry: mecanismo central
+### 1. Estructura y rentabilidad
 
-**rivalry** se entiende aquí como **intensidad con que competidores erosionan precio o elevan costo**. Esta es la pieza causal o estructural desde la que se inicia **industria y fuerzas competitivas**: antes de definir límites de industria y segmento, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Porter parte de una observación empírica: la rentabilidad promedio varía mucho entre industrias de forma persistente, y esa diferencia no se explica por la calidad de la gestión sino por la **estructura**. Una industria con muchos rivales parecidos, bajas barreras de entrada, sustitutos cercanos y clientes y proveedores poderosos tiende a ofrecer márgenes bajos a casi todos; una con pocos competidores diferenciados, barreras altas y compradores dispersos, márgenes altos. La estructura determina **cuánto valor se reparte** y cómo; la estrategia, a su vez, busca una posición favorable dentro de ella o modificarla.
 
-La lectura rectora de este bloque es Michael E. Porter — *Competitive Strategy*. Su aporte se usa para examinar **trade-offs, posicionamiento, fit y ventaja competitiva**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **industry margins**; regístrala con periodo, unidad, población y baseline.
+### 2. Rivalidad entre competidores
 
-Relaciona el mecanismo con **buyer power**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La rivalidad es más intensa cuando hay **muchos competidores de tamaño similar**, **crecimiento lento** (la expansión de uno es a costa de otro), **costos fijos altos** (presión para llenar capacidad), **productos poco diferenciados** o con **bajos costos de cambio** y **barreras de salida altas**. Se manifiesta en **guerras de precios**, publicidad agresiva y rápida imitación. Es el factor más visible y, con frecuencia, el menos determinante de largo plazo: la rivalidad se modera si hay diferenciación y un reparto estable del mercado.
 
-### 2. buyer power: frontera conceptual y error de clasificación
+### 3. Entrada y sustitutos
 
-**Definición operacional:** capacidad de clientes para capturar valor. Su valor está en distinguirlo de **rivalry** y **supplier power**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La **amenaza de entrada** depende de las barreras: **economías de escala**, **diferenciación** y lealtad de marca, **requisitos de capital**, **costos de cambio de los clientes**, **acceso a canales de distribución**, **ventajas de costo independientes de la escala** (tecnología propietaria, acceso a insumos), **política gubernamental** y la expectativa de represalia. La **amenaza de sustitutos** es la presión de productos de otras categorías que cumplen la misma función (el video por internet frente al cine, el transporte por aplicación frente al taxi); se evalúa por la **relación valor–precio** relativa y por los **costos de cambio**. Los sustitutos fijan un techo a los precios.
 
-Contrasta el problema con Michael E. Porter — *Competitive Advantage*, que aporta una mirada sobre **cadena de valor, actividades y fuentes de ventaja de costo o diferenciación**. Formula dos mini-casos: uno que sí satisface la definición de **buyer power** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **concentration** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Poder de compradores y de proveedores
 
-Antes de analizar cada fuerza con evidencia, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Los **compradores** tienen más poder cuando son **pocos y compran en grandes volúmenes**, cuando el producto es **estándar**, cuando los **costos de cambio son bajos**, cuando pueden **integrarse hacia atrás** o cuando están bien informados. Presionan por precios más bajos y mejores condiciones. Los **proveedores** tienen más poder cuando hay **pocos**, ofrecen **insumos críticos** o diferenciados, los costos de cambio son altos o amenazan con **integrarse hacia adelante**. Capturan valor vía mayores precios. Se analiza **cada grupo** de compradores y de proveedores por separado: no todos tienen el mismo poder.
 
-### 3. supplier power: operacionalización y medición
+### 5. Teoría de juegos: anticipar respuestas
 
-**supplier power** significa **capacidad de proveedores para elevar precio o restringir condiciones**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Dixit y Nalebuff muestran cómo pensar estratégicamente: tus resultados dependen de lo que hagan los demás, que también razonan sobre ti. En un **dilema del prisionero** de precios, cada empresa gana más si baja precios mientras el rival mantiene los suyos, pero si ambas bajan, ambas ganan menos que si hubieran mantenido. Las salidas incluyen **repetición** (la perspectiva de futuras interacciones sostiene la cooperación tácita), **compromisos creíbles**, **diferenciación** (para salir del juego de precios) y **señales** (anunciar políticas de igualación de precios). Un principio útil: ponerse en el lugar del otro y anticipar su respuesta antes de actuar.
 
-A.G. Lafley & Roger L. Martin — *Playing to Win* orienta este bloque mediante **elecciones integradas de dónde jugar y cómo ganar**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **switching cost**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Jugadas que mejoran la posición
 
-Al llegar a identificar pools de beneficio, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Con el diagnóstico de las fuerzas se identifican **jugadas**: **posicionarse** donde las fuerzas son más débiles (segmentos con compradores menos poderosos); **construir defensas** (marca, costos de cambio, relaciones, escala); **cambiar el equilibrio** (integración, estandarización, alianzas con proveedores o clientes); **expandir la industria** (nuevos usos, nuevos clientes) en lugar de disputar la porción existente; y **evitar guerras destructivas** con señales de disciplina y diferenciación. Se piensa en el **efecto de segunda ronda**: cómo reaccionan los otros actores y cómo se reconfigura el equilibrio.
 
-### 4. substitute: trade-offs y efectos de segundo orden
+### 7. Límites y complementos
 
-**Definición:** solución distinta que satisface necesidad comparable. Este concepto obliga a abandonar la idea de que **industria y fuerzas competitivas** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de cambiar lente hacia sustitutos y complementos, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Rita Gunther McGrath — *The End of Competitive Advantage* aporta una lente sobre **perspectiva de Estrategia aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **entry rate** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **industria y fuerzas competitivas**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **substitute** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. entry barrier: gobernanza, límites e integración
-
-**entry barrier** se define como **condición que dificulta entrada sostenible de nuevos competidores** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-David J. Teece — *Dynamic Capabilities and Strategic Management* se utiliza para estudiar **perspectiva de Estrategia aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar traducir estructura a elección estratégica, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Las fronteras de industria cambian y las fuerzas no predicen movimientos específicos. Complementa con ecosistemas, tecnología, regulación y capacidades internas.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **rivalry**, **buyer power**, **supplier power**, **substitute** y **entry barrier** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **industria y fuerzas competitivas** no consiste en sumar cinco definiciones. Empieza por **rivalry**, contrasta **buyer power** con **supplier power**, incorpora **substitute** como restricción o mecanismo y usa **entry barrier** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir límites de industria y segmento → 2. analizar cada fuerza con evidencia → 3. identificar pools de beneficio → 4. cambiar lente hacia sustitutos y complementos → 5. traducir estructura a elección estratégica**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Cinco fuerzas como estructura de rentabilidad
-
-El marco de Porter analiza rivalidad, amenaza de entrantes, sustitutos, poder de compradores y poder de proveedores. No es una checklist de “alto/medio/bajo”: cada fuerza debe conectarse con un mecanismo que presione precios, costos o inversión requerida.
-
-Distingue **industria** de competidores individuales. Una empresa puede ejecutar bien dentro de una estructura poco atractiva; estrategia exige decidir cómo posicionarse frente a esas fuerzas o cambiar la estructura mediante actividades, contratos, switching costs u otros mecanismos legítimos.
+El marco es **estático** y de **industria definida**; en industrias de plataformas (clase 166), de límites difusos o con innovaciones rápidas, las fuerzas cambian y los límites entre industrias se desdibujan. McGrath sostiene que la ventaja se ha vuelto **transitoria** y que conviene gestionar **portafolios de ventajas** que se renuevan. Además, el análisis no incluye de forma explícita a los **complementadores** (empresas cuyos productos aumentan el valor del tuyo), ni **el papel del gobierno**, que a menudo es decisivo. Se utiliza como punto de partida de un análisis que se complementa con datos y con otras lentes.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Porter — *Competitive Strategy* | trade-offs, posicionamiento, fit y ventaja competitiva | ¿Qué supuesto de **industria y fuerzas competitivas** ayuda a desafiar? |
-| Michael E. Porter — *Competitive Advantage* | cadena de valor, actividades y fuentes de ventaja de costo o diferenciación | ¿Qué supuesto de **industria y fuerzas competitivas** ayuda a desafiar? |
-| A.G. Lafley & Roger L. Martin — *Playing to Win* | elecciones integradas de dónde jugar y cómo ganar | ¿Qué supuesto de **industria y fuerzas competitivas** ayuda a desafiar? |
-| Rita Gunther McGrath — *The End of Competitive Advantage* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **industria y fuerzas competitivas** ayuda a desafiar? |
-| David J. Teece — *Dynamic Capabilities and Strategic Management* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **industria y fuerzas competitivas** ayuda a desafiar? |
-
-En **industria y fuerzas competitivas**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **rivalry**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Porter (*Competitive Strategy*) | Cinco fuerzas y estructura de la industria. | Marco estático; industrias bien delimitadas. | ¿Qué fuerza limita más tu margen? |
+| Dixit y Nalebuff | Teoría de juegos: respuestas, compromisos y credibilidad. | Supone actores racionales con información. | ¿Qué hará el rival ante tu jugada? |
+| McGrath | Ventajas transitorias e industrias que se reconfiguran. | Menos detalle sobre análisis estructural. | ¿Cuánto durará tu posición? |
+| Helmer | Fuentes de poder que sostienen la ventaja. | Se centra en la ventaja propia. | ¿Qué poder te protege de la rivalidad? |
+| Kim y Mauborgne | Cambiar la estructura creando espacios nuevos. | Casos seleccionados. | ¿Qué factor de competencia puedes eliminar? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa SaaS cree que su principal amenaza son tres competidores directos. Clientes enterprise empiezan a reemplazar la categoría con capacidades incluidas en suites cloud existentes.
+**Situación (hipotética).** Una empresa distribuidora de materiales de construcción en una región (ventas USD 120 millones, margen operacional 3,5 %) evalúa su industria.
 
-**Paso 1 — definir límites de industria y segmento.** La gerencia escribe primero el supuesto asociado a **rivalry** y evita convertirlo en hecho. Luego busca **industry margins** para contrastarlo en el caso de **industria y fuerzas competitivas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Análisis de las cinco fuerzas con evidencia.**
 
-**Paso 2 — analizar cada fuerza con evidencia.** La gerencia escribe primero el supuesto asociado a **buyer power** y evita convertirlo en hecho. Luego busca **concentration** para contrastarlo en el caso de **industria y fuerzas competitivas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Fuerza | Evidencia | Intensidad |
+|---|---|---|
+| Rivalidad | 11 distribuidores en la región; los cuatro mayores suman 48 %; productos estándar; precios publicados | Alta |
+| Entrada | Bajas barreras de capital para bodegas pequeñas; un fabricante vende en línea directo a constructoras | Media a alta |
+| Sustitutos | Prefabricados y soluciones modulares sustituyen parte de los insumos | Media |
+| Compradores | Cinco constructoras compran el 38 % del volumen y comparan cotizaciones cada semana | Alta |
+| Proveedores | Dos fabricantes de cemento y acero controlan 70 % de la oferta y fijan listas de precios | Alta |
 
-**Paso 3 — identificar pools de beneficio.** La gerencia escribe primero el supuesto asociado a **supplier power** y evita convertirlo en hecho. Luego busca **switching cost** para contrastarlo en el caso de **industria y fuerzas competitivas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Conclusión estructural.** La industria tiene una rentabilidad estructural baja: el margen está presionado desde ambos lados (compradores y proveedores poderosos) y la rivalidad es alta.
 
-**Paso 4 — cambiar lente hacia sustitutos y complementos.** La gerencia escribe primero el supuesto asociado a **substitute** y evita convertirlo en hecho. Luego busca **entry rate** para contrastarlo en el caso de **industria y fuerzas competitivas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Un dilema de precios.** La empresa y su rival principal (R) pueden mantener precios o bajarlos 5 %. Resultados anuales de margen operativo en USD millones:
 
-**Paso 5 — traducir estructura a elección estratégica.** La gerencia escribe primero el supuesto asociado a **entry barrier** y evita convertirlo en hecho. Luego busca **substitution rate** para contrastarlo en el caso de **industria y fuerzas competitivas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| | R mantiene | R baja |
+|---|---|---|
+| **Empresa mantiene** | 4,2 / 4,0 | 1,0 / 5,0 |
+| **Empresa baja** | 5,0 / 1,0 | 2,0 / 2,0 |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **industria y fuerzas competitivas**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+Bajar es la mejor respuesta de cada uno frente a lo que haga el otro (5,0 > 4,2 si el rival mantiene; 2,0 > 1,0 si baja); el equilibrio es que ambos bajen y ganen 2,0 cada uno, en lugar de 4,2 y 4,0. La salida no pasa por rogar disciplina, sino por **cambiar el juego**.
+
+**Jugadas posibles.** (1) **Diferenciar**: servicio de entrega en obra con ventanas horarias y despacho programado, que las constructoras valoran más que el precio de lista; (2) **costos de cambio**: plataforma de pedidos y facturación integrada con los sistemas de las constructoras; (3) **proveedores**: marca propia para productos de menor complejidad (cerámicas, pinturas) con fabricantes alternativos; (4) **segmentos**: servir a contratistas pequeños y a la construcción de viviendas (menos poder de compra) con un modelo de bajo contacto; (5) **señales**: no iniciar bajadas de precio y anunciar igualación en productos estándar.
+
+**Estimación.** Si los servicios de entrega y la plataforma elevan 1,2 puntos el margen en el 40 % de las ventas, el margen operacional sube de 3,5 % a unos 4,0 % (más 0,5 puntos totales), sin iniciar guerras de precio. Se vigila la reacción de R y de las constructoras.
+
+**Qué muestra.** (1) La estructura explicaba un margen bajo más que la gestión. (2) El juego de precios mostró por qué «bajar» era inestable. (3) Las jugadas cambiaron el equilibrio en lugar de pelear precio.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **rivalry** | intensidad con que competidores erosionan precio o elevan costo | Cuando industry margins es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **buyer power** | capacidad de clientes para capturar valor | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Fuerzas competitivas frente a ventaja competitiva.** Las fuerzas describen la atractividad de la industria; la ventaja (clase 161) describe la posición de la empresa en ella. Una buena posición en una mala industria rinde menos que una posición promedio en una industria atractiva.
 
-**Frontera de aplicación:** Las fronteras de industria cambian y las fuerzas no predicen movimientos específicos. Complementa con ecosistemas, tecnología, regulación y capacidades internas.
+**Límites.** El análisis es estático y depende de definir bien la industria. En plataformas y ecosistemas, los límites cambian y aparecen complementadores. La teoría de juegos asume actores racionales con información; en la realidad hay errores, emociones y asimetrías. Los acuerdos o señales entre competidores sobre precios pueden violar las normas de **libre competencia**: la disciplina de precios no puede coordinarse con rivales y debe revisarse con asesoría legal. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre industria y fuerzas competitivas |
+| Nivel | Cómo trabaja la industria y la competencia |
 |---|---|
-| **Profesional** | usa **industria y fuerzas competitivas** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **rivalry** y **buyer power** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta industry margins con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si industria y fuerzas competitivas cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de industria y fuerzas competitivas reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **industria y fuerzas competitivas** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Observa clientes, proveedores y rivales y registra cambios. |
+| **Jefe / Team Lead** | Aporta datos sobre precios, costos y movimientos competitivos. |
+| **Gerente** | Analiza las fuerzas y propone jugadas de posicionamiento. |
+| **CEO / Director** | Decide en qué industrias y posiciones competir y evita guerras destructivas. |
+| **Founder / Owner** | Elige un nicho donde las fuerzas lo favorezcan. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa SaaS cree que su principal amenaza son tres competidores directos. Clientes enterprise empiezan a reemplazar la categoría con capacidades incluidas en suites cloud existentes.
+Una empresa de aplicaciones de reparto de comida en una ciudad grande tiene tres competidores locales y uno internacional. Los restaurantes (proveedores del servicio) pagan comisiones de 25 % y se quejan; los repartidores, que son independientes, han organizado paros y exigen tarifas mayores; los clientes cambian de aplicación según los cupones y el 70 % tiene instaladas dos o más; los restaurantes grandes han lanzado sus propias aplicaciones para recuperar el cliente directo. La regulación local discute una ley que limita las comisiones y regula la relación con los repartidores. La empresa pierde USD 0,8 por pedido y su directorio debate entre «subir comisiones», «reducir cupones» o «lanzar suscripción».
 
-Entrega un **decision brief de industria y fuerzas competitivas** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de industria y plan de jugadas** que contenga: (a) las cinco fuerzas con evidencia y el análisis de la rentabilidad estructural; (b) un juego simplificado de precios o de cupones con los incentivos de cada actor y su equilibrio; (c) tres o cuatro jugadas para mejorar la posición o cambiar la estructura; (d) el análisis de la posible regulación y de los complementadores; (e) las señales de seguimiento; (f) los límites legales de libre competencia y laborales que se verificarán con las normas vigentes y asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **industria y fuerzas competitivas** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir límites de industria y segmento → 2. analizar cada fuerza con evidencia → 3. identificar pools de beneficio → 4. cambiar lente hacia sustitutos y complementos → 5. traducir estructura a elección estratégica** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta industry margins, concentration; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Evalúa las cinco fuerzas de tu industria con un dato por fuerza.
+2. Construye un juego 2×2 con tus decisiones y las de tu principal rival, y encuentra su equilibrio.
+3. Propón tres jugadas que reduzcan la presión de la fuerza más intensa.
+4. Identifica un complementador clave en tu industria.
+5. Define qué señales indicarían que la estructura de tu industria está cambiando.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar rivalry y buyer power como sinónimos | Se pierde la distinción entre “intensidad con que competidores erosionan precio o elevan costo” y “capacidad de clientes para capturar valor” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “traducir estructura a elección estratégica” | Se saltó “definir límites de industria y segmento” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir límites de industria y segmento → 2. analizar cada fuerza con evidencia → 3. identificar pools de beneficio → 4. cambiar lente hacia sustitutos y complementos → 5. traducir estructura a elección estratégica y marca el primer supuesto no demostrado. |
-| Optimizar solo industry margins | La métrica local sustituyó al resultado del sistema | Contrástala con concentration y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre industria y fuerzas competitivas | Las fronteras de industria cambian y las fuerzas no predicen movimientos específicos. Complementa con ecosistemas, tecnología, regulación y capacidades internas. |
-| No fijar revisión | Una decisión sobre industria y fuerzas competitivas se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Definir mal la industria | Se usa la categoría de siempre | Definir por el problema y los sustitutos. |
+| Mirar solo rivales directos | Son los más visibles | Evaluar las cinco fuerzas. |
+| Guerra de precios | Se reacciona al rival | Diferenciar y cambiar el juego. |
+| Ignorar respuestas del otro | Se piensa solo en la propia jugada | Razonamiento de juegos. |
+| Coordinar precios con competidores | Se busca disciplina | Respetar la libre competencia. |
+| Análisis estático | El marco lo es | Revisar con señales y complementar. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **rivalry** y **buyer power** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **supplier power** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir límites de industria y segmento → analizar cada fuerza con evidencia** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **industry margins** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **industria y fuerzas competitivas**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Las fronteras de industria cambian y las fuerzas no predicen movimientos específicos. Complementa con ecosistemas, tecnología, regulación y capacidades internas.**?
+1. ¿Por qué la rentabilidad depende de la estructura de la industria?
+2. ¿Cuáles son las cinco fuerzas y cuándo se intensifica cada una?
+3. ¿Qué es un dilema del prisionero y cómo aparece en los precios?
+4. ¿Qué salidas existen frente a las guerras de precios?
+5. ¿Qué es un compromiso creíble?
+6. ¿Qué tipos de jugadas mejoran la posición?
+7. ¿Qué límites tiene el análisis de cinco fuerzas?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Porque las diferencias persistentes de rentabilidad entre industrias se explican por la estructura (rivalidad, entrada, sustitutos, poder de compradores y proveedores) más que por la calidad de la gestión.
+2. Rivalidad, entrada, sustitutos, poder de compradores y poder de proveedores; cada una se intensifica con las condiciones descritas (muchos rivales, barreras bajas, sustitutos cercanos, pocos compradores o proveedores grandes).
+3. Una situación en que cada parte, actuando por su interés, produce un resultado peor para ambas; en precios, ambas bajan y ganan menos que si mantenían.
+4. Repetición, compromisos creíbles, diferenciación y señales, sin coordinar precios de forma ilegal.
+5. Una acción que hace creíble una amenaza o promesa, como un costo irrecuperable o un contrato.
+6. Posicionarse donde las fuerzas son débiles, construir defensas, cambiar el equilibrio, expandir la industria y evitar guerras destructivas.
+7. Es estático, depende de definir bien la industria, no recoge bien plataformas y complementadores, y la teoría de juegos supone actores racionales.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/159-industria-y-fuerzas-competitivas/`:
 
-- `strategy-memo.md` con el problema específico de **industria y fuerzas competitivas**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **industria y fuerzas competitivas** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **rivalry**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa SaaS cree que su principal amenaza son tres competidores directos. Clientes enterprise empiezan a reemplazar la categoría con capacidades incluidas en suites cloud existentes.** y el dato que podría invalidar la recomendación.
+- `strategy-memo.md` (plantilla [Strategy memo](../../../../templates/strategy-memo.md)) con el análisis y las jugadas del caso ejecutivo;
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con los límites de libre competencia y regulatorios;
+- `decision-journal.md` con el juego analizado, las jugadas y las señales.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Porter — *Competitive Strategy* (Free Press, 1980). **Uso en esta clase:** trade-offs, posicionamiento, fit y ventaja competitiva. Lectura selectiva sobre **industria y fuerzas competitivas**. **Localizador:** [ISBN-13 9780684841489](https://openlibrary.org/isbn/9780684841489).
-- Michael E. Porter — *Competitive Advantage* (Free Press, 1985). **Uso en esta clase:** cadena de valor, actividades y fuentes de ventaja de costo o diferenciación. Lectura selectiva sobre **industria y fuerzas competitivas**. **Localizador:** [ISBN-13 9780029250907](https://openlibrary.org/isbn/9780029250907).
-- A.G. Lafley & Roger L. Martin — *Playing to Win* (Harvard Business Review Press, 2013). **Uso en esta clase:** elecciones integradas de dónde jugar y cómo ganar. Lectura selectiva sobre **industria y fuerzas competitivas**. **Localizador:** [ISBN-13 9781422187395](https://openlibrary.org/isbn/9781422187395).
-- Rita Gunther McGrath — *The End of Competitive Advantage* (Harvard Business Review Press, 2013). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **industria y fuerzas competitivas**. **Localizador:** [ISBN-13 9781422172810](https://openlibrary.org/isbn/9781422172810).
-- David J. Teece — *Dynamic Capabilities and Strategic Management* (Strategic Management Journal, 1997). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **industria y fuerzas competitivas**. **Localizador:** [DOI 10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z](https://doi.org/10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **industria y fuerzas competitivas**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **industria y fuerzas competitivas** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **industria y fuerzas competitivas**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **industria y fuerzas competitivas** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **industria y fuerzas competitivas** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **industria y fuerzas competitivas** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Michael E. Porter — *Competitive Strategy* (Free Press, 1980). **Uso en esta clase:** cinco fuerzas y estructura de la industria. Lectura selectiva sobre **industria y fuerzas competitivas**. **Localizador:** [ISBN-13 9780684841489](https://openlibrary.org/isbn/9780684841489).
+- Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy* (Norton & Company, Incorporated, W. W., 2008). **Uso en esta clase:** teoría de juegos: respuestas, compromisos y credibilidad. Lectura selectiva sobre **industria y fuerzas competitivas**. **Localizador:** [ISBN-13 9780393069952](https://openlibrary.org/isbn/9780393069952).
+- Rita Gunther McGrath — *The End of Competitive Advantage* (Harvard Business Review Press, 2013). **Uso en esta clase:** ventajas transitorias e industrias que se reconfiguran. Lectura selectiva sobre **industria y fuerzas competitivas**. **Localizador:** [ISBN-13 9781422172810](https://openlibrary.org/isbn/9781422172810).
+- Hamilton Helmer — *7 Powers* (Deep Strategy, 2016). **Uso en esta clase:** fuentes de poder que sostienen la ventaja. Lectura selectiva sobre **industria y fuerzas competitivas**. **Localizador:** [ISBN-13 9780998116303](https://openlibrary.org/isbn/9780998116303).
+- W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* (Coach Series, 2006). **Uso en esta clase:** cambiar la estructura creando espacios nuevos. Lectura selectiva sobre **industria y fuerzas competitivas**. **Localizador:** [ISBN-13 9781596590687](https://openlibrary.org/isbn/9781596590687).
 
-> **Regla de fuentes para Industria y fuerzas competitivas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **industria y fuerzas competitivas** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Industria y fuerzas competitivas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de libre competencia, laborales y de plataformas. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

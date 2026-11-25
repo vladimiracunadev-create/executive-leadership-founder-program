@@ -5,30 +5,26 @@ duration_minutes: 150
 level: "Etapa 4 — Gerente → Director"
 outcome: "formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir ecosystem de platform mediante evidencia observable."
-  - "Aplicar la secuencia: mapear actores y flujo de valor → identificar complementos y cuellos → definir incentivos y reglas → modelar economics y dependencia → negociar métricas datos y salida."
-  - "Interpretar partner-sourced revenue, dependency concentration, take rate sin atribuir causalidad automática."
-  - "Resolver el caso de partnerships, ecosistemas y plataformas con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-  - "Comparar build, buy y partner evaluando aporte, dependencia, poder, alineación, exclusividad, riesgo, gobierno y salida."
+  - "Distinguir alianza lineal, plataforma y ecosistema."
+  - "Explicar los efectos de red y el problema del arranque."
+  - "Diseñar una estructura de precios que equilibre los lados de una plataforma."
+  - "Evaluar la gobernanza: reglas, acceso, calidad y reparto del valor."
+  - "Decidir si conviene ser plataforma, participar o aliarse de forma lineal."
 deliverable: "leadership-decision-brief.md"
 references:
+  - "Geoffrey G. Parker, Marshall W. Van Alstyne & Sangeet Paul Choudary — *Platform Revolution*"
+  - "Jean-Charles Rochet & Jean Tirole — *Platform Competition in Two-Sided Markets*"
+  - "Michael G. Jacobides, Carmelo Cennamo & Annabelle Gawer — *Towards a theory of ecosystems*"
   - "Michael E. Porter — *Competitive Strategy*"
-  - "Michael E. Porter — *Competitive Advantage*"
-  - "David J. Teece — *Dynamic Capabilities and Strategic Management*"
-  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
-  - "Hamilton Helmer — *7 Powers*"
-  - "A.G. Lafley & Roger L. Martin — *Playing to Win*"
+  - "Rita Gunther McGrath — *The End of Competitive Advantage*"
 limits:
-  - "No toda relación con proveedores es ecosistema y no todo efecto de red genera ventaja. Valida si la interdependencia realmente aumenta valor y si el poder está equilibrado."
+  - "Las plataformas tienden a concentrar poder (el ganador se lleva casi todo en algunos mercados), pero hay mercados donde coexisten varias."
 evidence_signals:
-  - "partner-sourced revenue"
-  - "dependency concentration"
-  - "take rate"
-  - "ecosystem adoption"
-  - "switching cost"
-  - "bargaining asymmetry"
-  - "exit readiness"
+  - "efectos de red verificados"
+  - "estrategia de arranque en un nicho"
+  - "precios por lado y desintermediación"
+  - "gobernanza y dependencia evaluadas"

@@ -90,12 +90,11 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
-        "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
+        "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
         "modules/13-strategy-competition/classes/162-trade-offs-y-coherencia",
-        "modules/13-strategy-competition/classes/164-escenarios-estrategicos",
         "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
-        "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas",
-        "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia"
+        "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia",
+        "modules/13-strategy-competition/classes/168-capstone-strategy-memo"
       ],
       "status": "verificada",
       "authority": "Harvard Business Review Press"
@@ -216,6 +215,7 @@
       "locator": "https://openlibrary.org/isbn/9780470876411",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/13-strategy-competition/classes/163-modelo-de-negocio",
         "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
         "modules/20-founder-venture-creation/classes/242-encontrar-problemas-valiosos",
         "modules/20-founder-venture-creation/classes/243-customer-discovery",
@@ -335,18 +335,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
-        "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
-        "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
-        "modules/13-strategy-competition/classes/160-capacidades-y-recursos",
-        "modules/13-strategy-competition/classes/161-ventaja-competitiva",
-        "modules/13-strategy-competition/classes/162-trade-offs-y-coherencia",
-        "modules/13-strategy-competition/classes/163-modelo-de-negocio",
-        "modules/13-strategy-competition/classes/164-escenarios-estrategicos",
-        "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
-        "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas",
-        "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia",
-        "modules/13-strategy-competition/classes/168-capstone-strategy-memo",
         "modules/14-organization-design-culture-change/classes/169-la-organizacion-como-diseno",
         "modules/14-organization-design-culture-change/classes/170-estructuras-funcionales-divisionales-y-matriciales",
         "modules/14-organization-design-culture-change/classes/171-spans-layers-y-managerial-load",
@@ -688,10 +676,8 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
-        "modules/13-strategy-competition/classes/160-capacidades-y-recursos",
-        "modules/13-strategy-competition/classes/162-trade-offs-y-coherencia",
-        "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
-        "modules/13-strategy-competition/classes/168-capstone-strategy-memo"
+        "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
+        "modules/13-strategy-competition/classes/164-escenarios-estrategicos"
       ],
       "status": "verificada",
       "authority": "Norton & Company, Incorporated, W. W."
@@ -1216,7 +1202,8 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/12-product-innovation/classes/148-jobs-to-be-done",
-        "modules/12-product-innovation/classes/156-capstone-comite-de-producto"
+        "modules/12-product-innovation/classes/156-capstone-comite-de-producto",
+        "modules/13-strategy-competition/classes/163-modelo-de-negocio"
       ],
       "status": "verificada",
       "authority": "Harvard Business School Press"
@@ -1528,10 +1515,8 @@
       "locator": "https://doi.org/10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
-        "modules/13-strategy-competition/classes/161-ventaja-competitiva",
-        "modules/13-strategy-competition/classes/163-modelo-de-negocio",
-        "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas"
+        "modules/13-strategy-competition/classes/160-capacidades-y-recursos",
+        "modules/13-strategy-competition/classes/163-modelo-de-negocio"
       ],
       "status": "verificada"
     },
@@ -2169,18 +2154,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
-        "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
-        "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
-        "modules/13-strategy-competition/classes/160-capacidades-y-recursos",
-        "modules/13-strategy-competition/classes/161-ventaja-competitiva",
-        "modules/13-strategy-competition/classes/162-trade-offs-y-coherencia",
-        "modules/13-strategy-competition/classes/163-modelo-de-negocio",
-        "modules/13-strategy-competition/classes/164-escenarios-estrategicos",
-        "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
-        "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas",
-        "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia",
-        "modules/13-strategy-competition/classes/168-capstone-strategy-memo",
         "modules/14-organization-design-culture-change/classes/169-la-organizacion-como-diseno",
         "modules/14-organization-design-culture-change/classes/170-estructuras-funcionales-divisionales-y-matriciales",
         "modules/14-organization-design-culture-change/classes/171-spans-layers-y-managerial-load",
@@ -2342,10 +2315,12 @@
       "locator": "https://openlibrary.org/isbn/9780998116303",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
+        "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
+        "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
         "modules/13-strategy-competition/classes/160-capacidades-y-recursos",
+        "modules/13-strategy-competition/classes/161-ventaja-competitiva",
+        "modules/13-strategy-competition/classes/162-trade-offs-y-coherencia",
         "modules/13-strategy-competition/classes/163-modelo-de-negocio",
-        "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas",
         "modules/13-strategy-competition/classes/168-capstone-strategy-memo"
       ],
       "status": "verificada",
@@ -3422,18 +3397,8 @@
       "locator": "https://openlibrary.org/isbn/9780029250907",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
-        "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
-        "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
-        "modules/13-strategy-competition/classes/160-capacidades-y-recursos",
         "modules/13-strategy-competition/classes/161-ventaja-competitiva",
-        "modules/13-strategy-competition/classes/162-trade-offs-y-coherencia",
-        "modules/13-strategy-competition/classes/163-modelo-de-negocio",
-        "modules/13-strategy-competition/classes/164-escenarios-estrategicos",
-        "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
-        "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas",
-        "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia",
-        "modules/13-strategy-competition/classes/168-capstone-strategy-memo"
+        "modules/13-strategy-competition/classes/162-trade-offs-y-coherencia"
       ],
       "status": "verificada",
       "authority": "Free Press"
@@ -3456,14 +3421,7 @@
         "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
         "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
         "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
-        "modules/13-strategy-competition/classes/160-capacidades-y-recursos",
-        "modules/13-strategy-competition/classes/161-ventaja-competitiva",
-        "modules/13-strategy-competition/classes/162-trade-offs-y-coherencia",
-        "modules/13-strategy-competition/classes/163-modelo-de-negocio",
-        "modules/13-strategy-competition/classes/164-escenarios-estrategicos",
-        "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
         "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas",
-        "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia",
         "modules/13-strategy-competition/classes/168-capstone-strategy-memo"
       ],
       "status": "verificada",
@@ -3920,18 +3878,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
-        "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
-        "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
-        "modules/13-strategy-competition/classes/160-capacidades-y-recursos",
-        "modules/13-strategy-competition/classes/161-ventaja-competitiva",
-        "modules/13-strategy-competition/classes/162-trade-offs-y-coherencia",
-        "modules/13-strategy-competition/classes/163-modelo-de-negocio",
-        "modules/13-strategy-competition/classes/164-escenarios-estrategicos",
-        "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
-        "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas",
-        "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia",
-        "modules/13-strategy-competition/classes/168-capstone-strategy-memo",
         "modules/14-organization-design-culture-change/classes/169-la-organizacion-como-diseno",
         "modules/14-organization-design-culture-change/classes/170-estructuras-funcionales-divisionales-y-matriciales",
         "modules/14-organization-design-culture-change/classes/171-spans-layers-y-managerial-load",
@@ -4501,6 +4447,7 @@
         "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
         "modules/10-sales-commercial-negotiation/classes/125-propuesta-de-valor-y-business-case",
         "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
+        "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
         "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
         "modules/18-corporate-finance-capital-ma/classes/218-costo-de-capital",
         "modules/18-corporate-finance-capital-ma/classes/219-deuda-versus-equity",
@@ -4567,14 +4514,9 @@
         "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
         "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
         "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
-        "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
-        "modules/13-strategy-competition/classes/160-capacidades-y-recursos",
-        "modules/13-strategy-competition/classes/161-ventaja-competitiva",
         "modules/13-strategy-competition/classes/162-trade-offs-y-coherencia",
-        "modules/13-strategy-competition/classes/163-modelo-de-negocio",
         "modules/13-strategy-competition/classes/164-escenarios-estrategicos",
         "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
-        "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas",
         "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia",
         "modules/13-strategy-competition/classes/168-capstone-strategy-memo",
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
@@ -4625,8 +4567,11 @@
       "used_in": [
         "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
         "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
+        "modules/13-strategy-competition/classes/160-capacidades-y-recursos",
         "modules/13-strategy-competition/classes/161-ventaja-competitiva",
         "modules/13-strategy-competition/classes/164-escenarios-estrategicos",
+        "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
+        "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas",
         "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia"
       ],
       "status": "verificada",
@@ -4795,10 +4740,6 @@
         "modules/08-management-systems-kpis-okrs/classes/100-kpi-y-metricas-operativas",
         "modules/08-management-systems-kpis-okrs/classes/102-balanced-scorecard-y-tableros",
         "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial",
-        "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
-        "modules/13-strategy-competition/classes/160-capacidades-y-recursos",
-        "modules/13-strategy-competition/classes/162-trade-offs-y-coherencia",
-        "modules/13-strategy-competition/classes/164-escenarios-estrategicos",
         "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia"
       ],
       "status": "verificada"
@@ -5279,18 +5220,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
-        "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
-        "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
-        "modules/13-strategy-competition/classes/160-capacidades-y-recursos",
-        "modules/13-strategy-competition/classes/161-ventaja-competitiva",
-        "modules/13-strategy-competition/classes/162-trade-offs-y-coherencia",
-        "modules/13-strategy-competition/classes/163-modelo-de-negocio",
-        "modules/13-strategy-competition/classes/164-escenarios-estrategicos",
-        "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
-        "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas",
-        "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia",
-        "modules/13-strategy-competition/classes/168-capstone-strategy-memo",
         "modules/14-organization-design-culture-change/classes/169-la-organizacion-como-diseno",
         "modules/14-organization-design-culture-change/classes/170-estructuras-funcionales-divisionales-y-matriciales",
         "modules/14-organization-design-culture-change/classes/171-spans-layers-y-managerial-load",
@@ -5602,11 +5531,11 @@
         "modules/11-marketing-customers-growth/classes/133-mercado-categoria-y-demanda",
         "modules/11-marketing-customers-growth/classes/136-posicionamiento",
         "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
-        "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
+        "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
         "modules/13-strategy-competition/classes/161-ventaja-competitiva",
+        "modules/13-strategy-competition/classes/162-trade-offs-y-coherencia",
         "modules/13-strategy-competition/classes/163-modelo-de-negocio",
-        "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
-        "modules/13-strategy-competition/classes/168-capstone-strategy-memo"
+        "modules/13-strategy-competition/classes/165-opciones-de-crecimiento"
       ],
       "status": "verificada",
       "authority": "Coach Series"
@@ -5677,18 +5606,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/13-strategy-competition/classes/157-que-es-y-que-no-es-estrategia",
-        "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
-        "modules/13-strategy-competition/classes/159-industria-y-fuerzas-competitivas",
-        "modules/13-strategy-competition/classes/160-capacidades-y-recursos",
-        "modules/13-strategy-competition/classes/161-ventaja-competitiva",
-        "modules/13-strategy-competition/classes/162-trade-offs-y-coherencia",
-        "modules/13-strategy-competition/classes/163-modelo-de-negocio",
-        "modules/13-strategy-competition/classes/164-escenarios-estrategicos",
-        "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
-        "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas",
-        "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia",
-        "modules/13-strategy-competition/classes/168-capstone-strategy-memo",
         "modules/14-organization-design-culture-change/classes/169-la-organizacion-como-diseno",
         "modules/14-organization-design-culture-change/classes/170-estructuras-funcionales-divisionales-y-matriciales",
         "modules/14-organization-design-culture-change/classes/171-spans-layers-y-managerial-load",
@@ -6703,7 +6620,9 @@
         "modules/09-managerial-finance-accounting/classes/115-presupuesto-y-forecast",
         "modules/10-sales-commercial-negotiation/classes/126-pipeline-y-forecast-comercial",
         "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
-        "modules/12-product-innovation/classes/153-experimentos-y-evidencia"
+        "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
+        "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
+        "modules/13-strategy-competition/classes/164-escenarios-estrategicos"
       ],
       "status": "verificada"
     },
@@ -7078,7 +6997,8 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
-        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos"
+        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
+        "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia"
       ],
       "status": "verificada"
     },
@@ -7357,6 +7277,121 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/12-product-innovation/classes/156-capstone-comite-de-producto"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "jay-barney-firm-resources-and-sustained-competitive-advantage",
+      "type": "paper",
+      "authors": [
+        "Barney, Jay"
+      ],
+      "title": "Firm Resources and Sustained Competitive Advantage",
+      "cited_as": "Jay Barney — Firm Resources and Sustained Competitive Advantage",
+      "authority": "Journal of Management",
+      "published": "1991",
+      "doi": "10.1177/014920639101700108",
+      "locator": "https://doi.org/10.1177/014920639101700108",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/13-strategy-competition/classes/160-capacidades-y-recursos",
+        "modules/13-strategy-competition/classes/161-ventaja-competitiva"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "birger-wernerfelt-a-resource-based-view-of-the-firm",
+      "type": "paper",
+      "authors": [
+        "Wernerfelt, Birger"
+      ],
+      "title": "A resource-based view of the firm",
+      "cited_as": "Birger Wernerfelt — A resource-based view of the firm",
+      "authority": "Strategic Management Journal",
+      "published": "1984",
+      "doi": "10.1002/smj.4250050207",
+      "locator": "https://doi.org/10.1002/smj.4250050207",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/13-strategy-competition/classes/160-capacidades-y-recursos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "jean-charles-rochet-jean-tirole-platform-competition-in-two-sided-markets",
+      "type": "paper",
+      "authors": [
+        "Rochet, Jean-Charles",
+        "Tirole, Jean"
+      ],
+      "title": "Platform Competition in Two-Sided Markets",
+      "cited_as": "Jean-Charles Rochet & Jean Tirole — Platform Competition in Two-Sided Markets",
+      "authority": "Journal of the European Economic Association",
+      "published": "2003",
+      "doi": "10.1162/154247603322493212",
+      "locator": "https://doi.org/10.1162/154247603322493212",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "michael-g-jacobides-carmelo-cennamo-annabelle-gawer-towards-a-theory-of-ecosyste",
+      "type": "paper",
+      "authors": [
+        "Jacobides, Michael G.",
+        "Cennamo, Carmelo",
+        "Gawer, Annabelle"
+      ],
+      "title": "Towards a theory of ecosystems",
+      "cited_as": "Michael G. Jacobides, Carmelo Cennamo & Annabelle Gawer — Towards a theory of ecosystems",
+      "authority": "Strategic Management Journal",
+      "published": "2018",
+      "doi": "10.1002/smj.2904",
+      "locator": "https://doi.org/10.1002/smj.2904",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "geoffrey-g-parker-marshall-w-van-alstyne-sangeet-paul-choudary-platform-revoluti",
+      "type": "book",
+      "authors": [
+        "Parker, Geoffrey G.",
+        "Van Alstyne, Marshall W.",
+        "Choudary, Sangeet Paul"
+      ],
+      "title": "Platform Revolution",
+      "cited_as": "Geoffrey G. Parker, Marshall W. Van Alstyne & Sangeet Paul Choudary — Platform Revolution",
+      "authority": "W. W. Norton",
+      "published": "2016",
+      "isbn13": "9780393249125",
+      "locator": "https://openlibrary.org/isbn/9780393249125",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/13-strategy-competition/classes/166-partnerships-ecosistemas-y-plataformas"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "peter-schwartz-the-art-of-the-long-view",
+      "type": "book",
+      "authors": [
+        "Schwartz, Peter"
+      ],
+      "title": "The Art of the Long View",
+      "cited_as": "Peter Schwartz — The Art of the Long View",
+      "authority": "Doubleday/Currency",
+      "published": "1991",
+      "isbn13": "9780385267311",
+      "locator": "https://openlibrary.org/isbn/9780385267311",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/13-strategy-competition/classes/164-escenarios-estrategicos",
+        "modules/13-strategy-competition/classes/168-capstone-strategy-memo"
       ],
       "status": "verificada"
     }

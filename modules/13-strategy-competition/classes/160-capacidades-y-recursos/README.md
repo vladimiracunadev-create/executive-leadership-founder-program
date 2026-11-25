@@ -10,225 +10,191 @@
 
 ## 🎯 Propósito
 
-Recursos son activos que una organización posee o controla; capacidades son patrones repetibles para combinar recursos y lograr resultados. La ventaja no proviene de inventariar fortalezas, sino de identificar cuáles son valiosas, escasas, difíciles de imitar y organizadas para capturar valor.
+Dos empresas de la misma industria, con acceso a los mismos mercados y tecnologías, obtienen resultados persistentemente distintos. ¿Por qué? Una respuesta es que **tienen recursos y capacidades diferentes**: activos, conocimientos, relaciones y formas de trabajar que no se pueden comprar de un día para otro ni copiar fácilmente. La mirada «basada en recursos» desplaza el análisis estratégico desde afuera (la industria) hacia adentro (la empresa): si la ventaja de una empresa proviene de algo que otros no pueden replicar, la estrategia consiste en identificar, proteger y desplegar esos recursos y capacidades, y desarrollar los que faltan.
 
-La salida de esta parte es **formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capacidades y recursos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el modelo de Wernerfelt (el que pone a los recursos en el centro de la estrategia), en las condiciones de Barney para que un recurso sostenga una ventaja, en la teoría de capacidades dinámicas de Teece y en la visión de ventajas transitorias de McGrath. Al terminar sabrás distinguir recursos de capacidades, evaluar si un recurso puede sostener ventaja, identificar capacidades críticas y brechas, reconocer el riesgo de rigideces centrales y planificar cómo desarrollar o adquirir lo que falta.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `resource`, `capability`, `VRIO`, `dynamic capability`, `capability gap` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. mapear actividades críticas → 2. inventariar recursos y capacidades → 3. aplicar VRIO con evidencia → 4. identificar gaps frente a estrategia → 5. decidir build buy partner o exit** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** capability maturity, time-to-replicate, talent concentration sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** recursos tangibles e intangibles de capacidades organizacionales.
+2. **Evaluar** un recurso con las condiciones de valor, rareza, imitabilidad y sustitución.
+3. **Identificar** las capacidades críticas y las brechas respecto de la estrategia.
+4. **Explicar** las capacidades dinámicas y su papel en entornos cambiantes.
+5. **Decidir** si construir, comprar o aliarse para cubrir una brecha.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define resource y capability sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con capability maturity y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué hace tu empresa mejor que sus rivales y qué le impediría a otro copiarlo en dos años? |
+| 20–60 min | Recursos, capacidades, condiciones de ventaja y capacidades dinámicas. |
+| 60–105 min | Ejemplo trabajado: evaluar los recursos de una empresa de logística. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **resource** | activo tangible o intangible disponible para la firma | Distingue un hecho compatible y otro que lo refute. |
-| **capability** | habilidad organizacional repetible para realizar una actividad | Distingue un hecho compatible y otro que lo refute. |
-| **VRIO** | prueba de valor rareza imitabilidad y organización | Distingue un hecho compatible y otro que lo refute. |
-| **dynamic capability** | habilidad para detectar aprovechar y reconfigurar frente al cambio | Distingue un hecho compatible y otro que lo refute. |
-| **capability gap** | distancia entre capacidad requerida y actual | Distingue un hecho compatible y otro que lo refute. |
+| **Recurso** | Activo que la empresa controla: físico, financiero, humano, organizacional. | Se puede listar. |
+| **Capacidad** | Habilidad de la organización para combinar y desplegar recursos para lograr un fin. | Se ve en lo que hace bien repetidamente. |
+| **Ventaja sostenida** | Ventaja que los rivales no pueden replicar en el corto plazo. | Persiste en el tiempo. |
+| **Ambigüedad causal** | Dificultad para entender qué produce el resultado. | Dificulta la imitación. |
+| **Capacidad dinámica** | Capacidad de detectar cambios, aprovechar oportunidades y reconfigurar recursos. | Renueva la ventaja. |
+| **Rigidez central** | Capacidad que, al consolidarse, frena el cambio. | El éxito pasado bloquea lo nuevo. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 160: 1. mapear actividades críticas → 2. inventariar recursos y capacidades → 3. aplicar VRIO con evidencia → 4. identificar gaps frente a estrategia → 5. decidir build buy partner o exit](modelo-mental.svg)
+![Cuatro condiciones para que un recurso sostenga ventaja: valioso, raro, difícil de imitar y sin sustitutos.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear actividades críticas → 2. inventariar recursos y capacidades → 3. aplicar VRIO con evidencia → 4. identificar gaps frente a estrategia → 5. decidir build buy partner o exit
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Recursos son activos que una organización posee o controla; capacidades son patrones repetibles para combinar recursos y lograr resultados. La ventaja no proviene de inventariar fortalezas, sino de identificar cuáles son valiosas, escasas, difíciles de imitar y organizadas para capturar valor.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **VRIO puede ser estático. Una capacidad valiosa hoy puede commoditizarse; analiza velocidad de erosión y capacidad dinámica además de rareza actual.**
+**Cómo leer el diagrama.** Una escalera de cuatro condiciones. Un recurso es **valioso** si permite aprovechar oportunidades o neutralizar amenazas; **raro** si pocos competidores lo tienen; **difícil de imitar** por historia, complejidad o ambigüedad causal; y **sin sustitutos** si no hay otro recurso que logre el mismo efecto. A medida que se cumplen más condiciones, la ventaja es más sostenible. La nota recuerda que un recurso valioso pero común da paridad, no ventaja, y que las capacidades dinámicas importan cuando el entorno cambia.
 
 ## 📖 Desarrollo
 
-### 1. resource: mecanismo central
+### 1. De afuera hacia adentro
 
-**resource** se entiende aquí como **activo tangible o intangible disponible para la firma**. Esta es la pieza causal o estructural desde la que se inicia **capacidades y recursos**: antes de mapear actividades críticas, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Wernerfelt propuso mirar a la empresa como un **conjunto de recursos** y no solo como un conjunto de productos: lo que una empresa hace bien se explica por lo que controla (marcas, tecnología, personal calificado, contratos, conocimiento, relaciones), y esos recursos condicionan los mercados que le conviene atender. Esta mirada complementa el análisis de industria (clase 159): la industria dice dónde es atractivo competir; los recursos, **dónde se puede ganar**. Una estrategia sólida combina ambas: un mercado atractivo y recursos adecuados para competir en él.
 
-La lectura rectora de este bloque es Michael E. Porter — *Competitive Strategy*. Su aporte se usa para examinar **trade-offs, posicionamiento, fit y ventaja competitiva**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **capability maturity**; regístrala con periodo, unidad, población y baseline.
+### 2. Recursos y capacidades
 
-Relaciona el mecanismo con **capability**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Los **recursos** son los insumos: **físicos** (plantas, equipos, ubicaciones), **financieros** (caja, acceso a capital), **humanos** (conocimiento, experiencia, liderazgo), **organizacionales** (sistemas, cultura, procesos, reputación) y **tecnológicos** (patentes, datos, software). Las **capacidades** son la habilidad de combinarlos para producir un resultado de forma repetida: desarrollar productos, entregar a tiempo, vender soluciones complejas, adaptarse. Los recursos por sí solos rara vez son suficientes; la ventaja suele residir en **cómo** se combinan. Dos empresas con la misma tecnología y equipos obtienen resultados distintos por sus rutinas, conocimiento y coordinación.
 
-### 2. capability: frontera conceptual y error de clasificación
+### 3. Cuándo un recurso sostiene una ventaja
 
-**Definición operacional:** habilidad organizacional repetible para realizar una actividad. Su valor está en distinguirlo de **resource** y **VRIO**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Barney propone cuatro condiciones para que un recurso sea fuente de ventaja competitiva sostenida: debe ser **valioso** (permite aprovechar oportunidades o neutralizar amenazas), **raro** (pocos competidores lo tienen), **difícil de imitar** y **sin sustitutos equivalentes**. La imitación es difícil por tres razones: **condiciones históricas únicas** (un recurso que depende de la trayectoria de la empresa), **ambigüedad causal** (ni los propios ni los rivales saben exactamente qué lo produce) y **complejidad social** (relaciones, cultura, reputación que no se compran). Un recurso que cumple solo la primera condición da **paridad**, no ventaja.
 
-Contrasta el problema con Michael E. Porter — *Competitive Advantage*, que aporta una mirada sobre **cadena de valor, actividades y fuentes de ventaja de costo o diferenciación**. Formula dos mini-casos: uno que sí satisface la definición de **capability** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **time-to-replicate** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Evaluar y mapear
 
-Antes de inventariar recursos y capacidades, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Para evaluar se listan los recursos y capacidades relevantes y se aplican las cuatro condiciones con evidencia: ¿**qué valor** crean (qué se pierde sin ellos)?, ¿**quién más** los tiene?, ¿**cuánto costaría y tardaría** replicarlos?, ¿**qué alternativas** logran el mismo efecto? Se clasifican como **desventaja** (los rivales los tienen y nosotros no), **paridad** (necesarios, pero comunes), **ventaja temporal** (valiosos y raros, pero imitables) y **ventaja sostenida**. El resultado es un mapa que indica dónde invertir para protegerlos, dónde bastan niveles de paridad y qué brechas cerrar. Se contrasta con la estrategia: ¿las capacidades que necesitamos coinciden con las que tenemos?
 
-### 3. VRIO: operacionalización y medición
+### 5. Capacidades dinámicas
 
-**VRIO** significa **prueba de valor rareza imitabilidad y organización**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Teece sostiene que, en entornos que cambian con rapidez, las capacidades «ordinarias» (hacer bien lo que se hace) no bastan: la ventaja sostenida exige **capacidades dinámicas**, la habilidad de **detectar** oportunidades y amenazas (*sensing*), **aprovecharlas** movilizando recursos y tomando decisiones de inversión (*seizing*) y **transformar** la organización y reconfigurar sus activos (*transforming*). Estas capacidades residen en procesos de la empresa y en el liderazgo: escaneo del entorno, toma de decisiones, gestión de portafolio, alineación de la organización. Explican por qué algunas empresas se reinventan y otras, con buenos recursos, quedan atrapadas en su éxito pasado.
 
-Hamilton Helmer — *7 Powers* orienta este bloque mediante **perspectiva de Estrategia aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **talent concentration**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Rigideces y ventajas transitorias
 
-Al llegar a aplicar vrio con evidencia, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Las capacidades que hicieron exitosa a una empresa pueden convertirse en **rigideces centrales**: rutinas, relaciones y valores que dificultan cambiar. McGrath argumenta que las ventajas son cada vez más **transitorias** y que la gestión debe cambiar el foco de «proteger una ventaja» a **gestionar un portafolio de ventajas** que se lanzan, se explotan, se reconfiguran y se abandonan. Preguntas para detectar rigideces: ¿qué cosas hacemos igual que hace diez años sin preguntarnos por qué?, ¿qué recursos nos ligan a un modelo que se agota?, ¿qué nuevas capacidades necesitaríamos si cambiara la industria?
 
-### 4. dynamic capability: trade-offs y efectos de segundo orden
+### 7. Cerrar brechas: construir, comprar o aliarse
 
-**Definición:** habilidad para detectar aprovechar y reconfigurar frente al cambio. Este concepto obliga a abandonar la idea de que **capacidades y recursos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de identificar gaps frente a estrategia, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy* aporta una lente sobre **perspectiva de Estrategia aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **process performance** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capacidades y recursos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **dynamic capability** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. capability gap: gobernanza, límites e integración
-
-**capability gap** se define como **distancia entre capacidad requerida y actual** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* se utiliza para estudiar **traducción de estrategia a objetivos, indicadores y relaciones causales** y contrastar la recomendación final. Al ejecutar decidir build buy partner o exit, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **VRIO puede ser estático. Una capacidad valiosa hoy puede commoditizarse; analiza velocidad de erosión y capacidad dinámica además de rareza actual.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **resource**, **capability**, **VRIO**, **dynamic capability** y **capability gap** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capacidades y recursos** no consiste en sumar cinco definiciones. Empieza por **resource**, contrasta **capability** con **VRIO**, incorpora **dynamic capability** como restricción o mecanismo y usa **capability gap** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear actividades críticas → 2. inventariar recursos y capacidades → 3. aplicar VRIO con evidencia → 4. identificar gaps frente a estrategia → 5. decidir build buy partner o exit**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### VRIO y capacidad real
-
-Un recurso/capacidad produce ventaja sostenible solo si es valioso, relativamente raro, difícil de imitar/sustituir y la organización está preparada para capturar valor. “Tenemos buenos ingenieros” no es análisis VRIO: debes explicar qué sistema de contratación, aprendizaje, arquitectura, datos o relaciones produce una capacidad repetible.
-
-La O de organización evita romantizar recursos: una patente sin go-to-market o datos sin derechos/procesos no capturan valor.
+Si la estrategia exige capacidades que faltan, se decide cómo obtenerlas: **construir** (desarrollo interno: más control, más tiempo, aprendizaje); **comprar** (adquirir una empresa o talento: rapidez, riesgo de integración y de pérdida de lo adquirido); **aliarse** (acuerdos, joint ventures, licencias: flexibilidad, dependencia). La elección depende de **qué tan crítica** es la capacidad, **cuánto tiempo** hay, **qué tan transferible** es y del **costo y riesgo**. Se evalúan también los riesgos de integración cultural y de dependencia de terceros (clase 093). Las adquisiciones y alianzas tienen implicancias legales y de competencia que requieren asesoría.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Porter — *Competitive Strategy* | trade-offs, posicionamiento, fit y ventaja competitiva | ¿Qué supuesto de **capacidades y recursos** ayuda a desafiar? |
-| Michael E. Porter — *Competitive Advantage* | cadena de valor, actividades y fuentes de ventaja de costo o diferenciación | ¿Qué supuesto de **capacidades y recursos** ayuda a desafiar? |
-| Hamilton Helmer — *7 Powers* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **capacidades y recursos** ayuda a desafiar? |
-| Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **capacidades y recursos** ayuda a desafiar? |
-| Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* | traducción de estrategia a objetivos, indicadores y relaciones causales | ¿Qué supuesto de **capacidades y recursos** ayuda a desafiar? |
-
-En **capacidades y recursos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **resource**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Wernerfelt (1984) | Mirada de la empresa como conjunto de recursos. | Marco conceptual; poco operativo. | ¿Qué recursos controlas que otros no? |
+| Barney (1991) | Condiciones para la ventaja sostenida. | Difícil de medir; algo circular. | ¿Cuántas condiciones cumple tu recurso? |
+| Teece | Capacidades dinámicas: detectar, aprovechar y transformar. | Concepto amplio; difícil de observar. | ¿Quién en tu empresa detecta y reconfigura? |
+| McGrath | Ventajas transitorias y gestión de portafolio de ventajas. | Menos énfasis en recursos específicos. | ¿Cuánto dura tu ventaja principal? |
+| Helmer | Fuentes de poder que sostienen una ventaja. | Se centra en poderes ya identificables. | ¿Cuál de las siete fuentes tienes? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa afirma que su gente es ventaja competitiva. Competidores contratan perfiles similares; la diferencia real es un sistema de datos y aprendizaje de clientes acumulado por diez años.
+**Situación (hipotética).** Una empresa de logística de última milla en una región (ventas USD 90 millones, margen operacional 5 %) quiere decidir en qué invertir. Hace un inventario de recursos y capacidades.
 
-**Paso 1 — mapear actividades críticas.** La gerencia escribe primero el supuesto asociado a **resource** y evita convertirlo en hecho. Luego busca **capability maturity** para contrastarlo en el caso de **capacidades y recursos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Recurso o capacidad | Valioso | Raro | Difícil de imitar | Sin sustituto | Clasificación |
+|---|---|---|---|---|---|
+| Flota de 600 vehículos | Sí | No (rivales tienen o subcontratan) | No | No | Paridad |
+| Base de datos de rutas y tiempos de 8 años en 40 ciudades intermedias | Sí (reduce 11 % el tiempo de ruta) | Sí | Parcialmente (los datos se acumulan con el tiempo) | Parcial | Ventaja temporal a sostenida |
+| Red de 120 puntos de entrega con comercios locales en ciudades pequeñas | Sí | Sí | Sí (relaciones con comercios, contratos, historia) | No | Ventaja sostenida |
+| Capacidad de planificación de rutas con IA | Sí | Parcial | Parcial (hay proveedores de software) | No | Paridad creciente |
+| Cultura de cumplimiento de plazos (97 % a tiempo) | Sí | Sí | Sí (hábito organizacional y ambigüedad causal) | No | Ventaja sostenida |
+| Marca | Parcial | No | No | No | Desventaja frente a líderes nacionales |
 
-**Paso 2 — inventariar recursos y capacidades.** La gerencia escribe primero el supuesto asociado a **capability** y evita convertirlo en hecho. Luego busca **time-to-replicate** para contrastarlo en el caso de **capacidades y recursos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** Las ventajas sostenidas son la red de puntos locales y la cultura de cumplimiento; la base de datos de rutas es valiosa y tarda en copiarse, pero el software de planificación está disponible en el mercado. La marca es una desventaja en grandes ciudades.
 
-**Paso 3 — aplicar VRIO con evidencia.** La gerencia escribe primero el supuesto asociado a **VRIO** y evita convertirlo en hecho. Luego busca **talent concentration** para contrastarlo en el caso de **capacidades y recursos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Capacidades dinámicas.** La empresa detecta tarde los cambios (se enteró de la entrada de un competidor de plataforma cuando ya perdía clientes); no tiene un proceso de portafolio de apuestas; sus decisiones de inversión demoran 6 meses. Se identifica una brecha de *sensing* y de *seizing*.
 
-**Paso 4 — identificar gaps frente a estrategia.** La gerencia escribe primero el supuesto asociado a **dynamic capability** y evita convertirlo en hecho. Luego busca **process performance** para contrastarlo en el caso de **capacidades y recursos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Estrategia coherente.** Competir en **ciudades intermedias y pequeñas** (donde la red local y los datos pesan) y con **comercios y empresas regionales**; usar paridad en tecnología (comprar software), invertir en proteger y ampliar la red local, y en una unidad de inteligencia de mercado con revisión trimestral. No competir por marca en grandes ciudades.
 
-**Paso 5 — decidir build buy partner o exit.** La gerencia escribe primero el supuesto asociado a **capability gap** y evita convertirlo en hecho. Luego busca **strategic dependency** para contrastarlo en el caso de **capacidades y recursos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Brechas y decisión.** Falta de talento en ciencia de datos: se evalúa **construir** (formar 4 analistas, 12 meses), **comprar** (adquirir una consultora de 20 personas, USD 3 millones y riesgo de integración) o **aliarse** (acuerdo con una universidad y un proveedor tecnológico). Se elige construir un núcleo pequeño y aliarse con un proveedor para lo estándar, con revisión a los 12 meses.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capacidades y recursos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El inventario distinguió paridad de ventaja. (2) Las capacidades dinámicas explicaron una vulnerabilidad. (3) La estrategia se alineó con los recursos y la brecha se cubrió con una decisión explícita.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **resource** | activo tangible o intangible disponible para la firma | Cuando capability maturity es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **capability** | habilidad organizacional repetible para realizar una actividad | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Recursos frente a posicionamiento.** La visión basada en recursos pregunta qué puede hacer la empresa que otros no; la de posicionamiento, dónde conviene competir. Se necesitan ambas: un recurso valioso aplicado en un mercado poco atractivo rinde menos.
 
-**Frontera de aplicación:** VRIO puede ser estático. Una capacidad valiosa hoy puede commoditizarse; analiza velocidad de erosión y capacidad dinámica además de rareza actual.
+**Límites.** La teoría de recursos es, en parte, circular («la ventaja es lo que da ventaja») y difícil de contrastar. Los recursos intangibles son difíciles de medir. Las capacidades dinámicas son un concepto amplio. La imitación es lenta pero posible, y las ventajas se erosionan. Los análisis internos pueden estar sesgados por autopercepción. Las adquisiciones, alianzas y uso de datos tienen implicancias legales (competencia, datos, laborales) que se verifican con asesoría. El ejemplo es ilustrativo.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capacidades y recursos |
+| Nivel | Cómo participa en capacidades y recursos |
 |---|---|
-| **Profesional** | usa **capacidades y recursos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **resource** y **capability** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta capability maturity con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capacidades y recursos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capacidades y recursos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capacidades y recursos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Desarrolla y comparte conocimiento que hace valiosa a la organización. |
+| **Jefe / Team Lead** | Protege y mejora las capacidades de su equipo. |
+| **Gerente** | Mapea recursos y brechas y propone cómo cubrirlas. |
+| **CEO / Director** | Decide qué capacidades construir, comprar o abandonar. |
+| **Founder / Owner** | Cuida el conocimiento que lo diferencia y evita depender de un solo recurso. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa afirma que su gente es ventaja competitiva. Competidores contratan perfiles similares; la diferencia real es un sistema de datos y aprendizaje de clientes acumulado por diez años.
+Una editorial de libros de texto escolares, líder durante 30 años en su país, ve caer sus ventas 7 % anual por la digitalización, el uso de materiales gratuitos y los cambios de política de compras públicas. Sus recursos: un catálogo de 3.200 títulos con derechos de autor, una fuerza de ventas de 180 personas con relaciones con 5.000 colegios, un equipo editorial de alta calidad, una imprenta propia con baja utilización y una marca respetada. Sus capacidades: producción editorial, ventas a colegios, gestión de derechos. Le faltan capacidades de desarrollo de software educativo, análisis de datos de aprendizaje y distribución digital. Un competidor tecnológico ofrece plataformas de contenidos adaptativos; los directores de colegio piden integración con sus sistemas. Hay tres opciones: adquirir una empresa de tecnología educativa (USD 25 millones), construir un área digital interna, o aliarse con una plataforma.
 
-Entrega un **decision brief de capacidades y recursos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de recursos y capacidades** que contenga: (a) el inventario con evaluación de valor, rareza, imitabilidad y sustitución; (b) la clasificación en desventaja, paridad y ventaja y las rigideces centrales; (c) las capacidades dinámicas actuales y las brechas; (d) la evaluación de construir, comprar o aliarse con criterios; (e) la estrategia coherente y los riesgos; (f) las verificaciones de derechos de autor, competencia y datos de estudiantes que se harán con las normas vigentes y asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capacidades y recursos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear actividades críticas → 2. inventariar recursos y capacidades → 3. aplicar VRIO con evidencia → 4. identificar gaps frente a estrategia → 5. decidir build buy partner o exit** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta capability maturity, time-to-replicate; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Lista diez recursos y capacidades de tu organización y evalúalos con las cuatro condiciones.
+2. Clasifícalos en desventaja, paridad, ventaja temporal y ventaja sostenida.
+3. Identifica una rigidez central que podría frenarte.
+4. Describe cómo detectas, aprovechas y transformas ante un cambio del entorno.
+5. Para una brecha, compara construir, comprar y aliarse con tres criterios.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar resource y capability como sinónimos | Se pierde la distinción entre “activo tangible o intangible disponible para la firma” y “habilidad organizacional repetible para realizar una actividad” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “decidir build buy partner o exit” | Se saltó “mapear actividades críticas” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear actividades críticas → 2. inventariar recursos y capacidades → 3. aplicar VRIO con evidencia → 4. identificar gaps frente a estrategia → 5. decidir build buy partner o exit y marca el primer supuesto no demostrado. |
-| Optimizar solo capability maturity | La métrica local sustituyó al resultado del sistema | Contrástala con time-to-replicate y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capacidades y recursos | VRIO puede ser estático. Una capacidad valiosa hoy puede commoditizarse; analiza velocidad de erosión y capacidad dinámica además de rareza actual. |
-| No fijar revisión | Una decisión sobre capacidades y recursos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Confundir recurso valioso con ventaja | Se cree que valor basta | Evaluar rareza e imitabilidad. |
+| Listar sin evaluar | Se hace inventario | Aplicar las cuatro condiciones con evidencia. |
+| Idealizar lo propio | Sesgo de autopercepción | Comparar con rivales y datos. |
+| Proteger una ventaja que se agota | Inercia | Portafolio de ventajas y reconfiguración. |
+| Comprar capacidades sin integrarlas | Se busca rapidez | Plan de integración y riesgos. |
+| No alinear con la estrategia | Se mira lo interno aislado | Contrastar con el desafío y la política. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **resource** y **capability** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **VRIO** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear actividades críticas → inventariar recursos y capacidades** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **capability maturity** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capacidades y recursos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **VRIO puede ser estático. Una capacidad valiosa hoy puede commoditizarse; analiza velocidad de erosión y capacidad dinámica además de rareza actual.**?
+1. ¿Qué diferencia hay entre recursos y capacidades?
+2. ¿Cuáles son las cuatro condiciones de Barney?
+3. ¿Por qué un recurso valioso y común no da ventaja?
+4. ¿Qué son las capacidades dinámicas?
+5. ¿Qué es una rigidez central?
+6. ¿Qué criterios orientan construir, comprar o aliarse?
+7. ¿Qué límites tiene la teoría de recursos?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Los recursos son los activos que se controlan; las capacidades, la habilidad de combinarlos y desplegarlos para lograr un fin de forma repetida.
+2. Valioso, raro, difícil de imitar y sin sustitutos equivalentes.
+3. Porque los rivales también lo tienen: da paridad, no ventaja.
+4. La habilidad de detectar oportunidades y amenazas, aprovecharlas movilizando recursos y transformar la organización y reconfigurar activos.
+5. Una capacidad o rutina que, por haber sido exitosa, dificulta el cambio.
+6. Qué tan crítica es la capacidad, el tiempo disponible, su transferibilidad, el costo y el riesgo de integración o de dependencia.
+7. Es en parte circular, difícil de medir y contrastar, y los análisis internos pueden estar sesgados; las ventajas se erosionan.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/160-capacidades-y-recursos/`:
 
-- `operating-improvement-brief.md` con el problema específico de **capacidades y recursos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capacidades y recursos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **resource**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa afirma que su gente es ventaja competitiva. Competidores contratan perfiles similares; la diferencia real es un sistema de datos y aprendizaje de clientes acumulado por diez años.** y el dato que podría invalidar la recomendación.
+- `operating-improvement-brief.md` (plantilla [Operating Improvement Brief](../../../../templates/operating-improvement-brief.md)) con el análisis de capacidades y brechas del caso ejecutivo;
+- `strategy-memo.md` (plantilla [Strategy memo](../../../../templates/strategy-memo.md)) con la estrategia coherente con los recursos;
+- `decision-journal.md` con la evaluación de construir, comprar o aliarse.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Porter — *Competitive Strategy* (Free Press, 1980). **Uso en esta clase:** trade-offs, posicionamiento, fit y ventaja competitiva. Lectura selectiva sobre **capacidades y recursos**. **Localizador:** [ISBN-13 9780684841489](https://openlibrary.org/isbn/9780684841489).
-- Michael E. Porter — *Competitive Advantage* (Free Press, 1985). **Uso en esta clase:** cadena de valor, actividades y fuentes de ventaja de costo o diferenciación. Lectura selectiva sobre **capacidades y recursos**. **Localizador:** [ISBN-13 9780029250907](https://openlibrary.org/isbn/9780029250907).
-- Hamilton Helmer — *7 Powers* (Deep Strategy, 2016). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **capacidades y recursos**. **Localizador:** [ISBN-13 9780998116303](https://openlibrary.org/isbn/9780998116303).
-- Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy* (Norton & Company, Incorporated, W. W., 2008). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **capacidades y recursos**. **Localizador:** [ISBN-13 9780393069952](https://openlibrary.org/isbn/9780393069952).
-- Robert S. Kaplan & David P. Norton — *The Balanced Scorecard* (Harvard Business School Press, 1996). **Uso en esta clase:** traducción de estrategia a objetivos, indicadores y relaciones causales. Lectura selectiva sobre **capacidades y recursos**. **Localizador:** [ISBN-13 9780875846514](https://openlibrary.org/isbn/9780875846514).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **capacidades y recursos**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capacidades y recursos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capacidades y recursos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capacidades y recursos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capacidades y recursos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capacidades y recursos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Birger Wernerfelt — *A resource-based view of the firm* (Strategic Management Journal, 1984). **Uso en esta clase:** mirada de la empresa como conjunto de recursos. Lectura selectiva sobre **capacidades y recursos**. **Localizador:** [DOI 10.1002/smj.4250050207](https://doi.org/10.1002/smj.4250050207).
+- Jay Barney — *Firm Resources and Sustained Competitive Advantage* (Journal of Management, 1991). **Uso en esta clase:** condiciones para la ventaja sostenida. Lectura selectiva sobre **capacidades y recursos**. **Localizador:** [DOI 10.1177/014920639101700108](https://doi.org/10.1177/014920639101700108).
+- David J. Teece — *Dynamic Capabilities and Strategic Management* (Strategic Management Journal, 1997). **Uso en esta clase:** capacidades dinámicas: detectar, aprovechar y transformar. Lectura selectiva sobre **capacidades y recursos**. **Localizador:** [DOI 10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z](https://doi.org/10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z).
+- Rita Gunther McGrath — *The End of Competitive Advantage* (Harvard Business Review Press, 2013). **Uso en esta clase:** ventajas transitorias y portafolio de ventajas. Lectura selectiva sobre **capacidades y recursos**. **Localizador:** [ISBN-13 9781422172810](https://openlibrary.org/isbn/9781422172810).
+- Hamilton Helmer — *7 Powers* (Deep Strategy, 2016). **Uso en esta clase:** fuentes de poder que sostienen una ventaja. Lectura selectiva sobre **capacidades y recursos**. **Localizador:** [ISBN-13 9780998116303](https://openlibrary.org/isbn/9780998116303).
 
-> **Regla de fuentes para Capacidades y recursos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capacidades y recursos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capacidades y recursos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las de derechos de autor, competencia y datos de estudiantes. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

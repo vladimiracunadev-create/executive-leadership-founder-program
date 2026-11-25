@@ -10,217 +10,198 @@
 
 ## 🎯 Propósito
 
-Un strategy memo obliga a sintetizar diagnóstico, elecciones, lógica económica, capacidades, riesgos y acciones coherentes en un documento que pueda ser cuestionado. El capstone evalúa coherencia y evidencia, no cantidad de marcos aplicados.
+Escribir un memo de estrategia es el ejercicio que obliga a decidir. Un documento de treinta diapositivas puede ocultar la falta de elección; una página en que hay que nombrar el desafío, la política, lo que se renuncia y cómo se sabrá si funciona, no. El **memo de estrategia** no describe la empresa ni resume el mercado: argumenta una **decisión** ante quien debe tomarla, con evidencia, alternativas, riesgos y criterios de revisión. Escribirlo bien exige aplicar todo lo visto en la parte: diagnóstico, estructura de la industria, capacidades, ventaja, trade-offs, modelo de negocio, escenarios, crecimiento, alianzas y ejecución.
 
-La salida de esta parte es **formular y ejecutar elecciones coherentes sobre dónde jugar y cómo ganar**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: strategy memo** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Este capstone integra la parte 13 y se apoya en Rumelt, Lafley y Martin, Porter, Helmer, McGrath y Schwartz. Al terminar sabrás redactar un memo de estrategia de dos a cuatro páginas que contenga un diagnóstico con evidencia, una política guía con acciones coherentes y renuncias explícitas, el análisis de alternativas y escenarios, la economía de la apuesta, los supuestos críticos con señales y un plan de decisión por etapas.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `strategy memo`, `strategic thesis`, `assumption`, `resource commitment`, `strategic control` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. redactar diagnóstico basado en evidencia → 2. proponer choices y no-opciones → 3. explicar mecanismo de ventaja → 4. asignar recursos y acciones → 5. definir riesgos signposts y revisión** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** choice specificity, resource concentration, economic logic sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Estructurar** un memo de estrategia con decisión, diagnóstico, política, acciones y renuncias.
+2. **Sustentar** cada afirmación con evidencia y distinguir hechos de supuestos.
+3. **Evaluar** alternativas con escenarios y valor esperado.
+4. **Definir** supuestos críticos, señales, umbrales y criterios de detención.
+5. **Someter** el memo a una revisión crítica y mejorarlo.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define strategy memo y strategic thesis sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con choice specificity y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: resume tu estrategia en una página sin usar las palabras «liderazgo», «excelencia» ni «sinergias». |
+| 20–60 min | Estructura del memo, evidencia, alternativas y plan. |
+| 60–105 min | Ejemplo trabajado: un memo de estrategia para una empresa de envases. |
+| 105–150 min | Caso ejecutivo integrado. |
+| 150–175 min | Rúbrica, límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **strategy memo** | documento ejecutivo que articula problema choice y razonamiento | Distingue un hecho compatible y otro que lo refute. |
-| **strategic thesis** | argumento causal de por qué una elección puede ganar | Distingue un hecho compatible y otro que lo refute. |
-| **assumption** | condición incierta que debe cumplirse | Distingue un hecho compatible y otro que lo refute. |
-| **resource commitment** | capital talento y capacidad dedicados a una choice | Distingue un hecho compatible y otro que lo refute. |
-| **strategic control** | señal y foro que permiten adaptar sin perder dirección | Distingue un hecho compatible y otro que lo refute. |
+| **Memo de estrategia** | Documento breve que argumenta una decisión estratégica. | Pide algo concreto. |
+| **Decisión solicitada** | Lo que se pide aprobar al comité o directorio. | Está al inicio. |
+| **Alternativa cero** | No hacer nada o continuar como hasta ahora. | Punto de comparación. |
+| **Renuncia explícita** | Lo que la estrategia decide no hacer. | Afecta a áreas o clientes. |
+| **Supuesto crítico** | Creencia que, si es falsa, invalida el memo. | Tiene señal y umbral. |
+| **Revisión crítica** | Contraste del memo por personas que no lo escribieron. | Preguntas incómodas, premortem. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 168: 1. redactar diagnóstico basado en evidencia → 2. proponer choices y no-opciones → 3. explicar mecanismo de ventaja → 4. asignar recursos y acciones → 5. definir riesgos signposts y revisión](modelo-mental.svg)
+![Tres bloques del memo de estrategia: diagnosticar, elegir y ejecutar, con las clases de la parte asociadas a cada uno.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. redactar diagnóstico basado en evidencia → 2. proponer choices y no-opciones → 3. explicar mecanismo de ventaja → 4. asignar recursos y acciones → 5. definir riesgos signposts y revisión
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un strategy memo obliga a sintetizar diagnóstico, elecciones, lógica económica, capacidades, riesgos y acciones coherentes en un documento que pueda ser cuestionado. El capstone evalúa coherencia y evidencia, no cantidad de marcos aplicados.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un memo convincente puede ocultar datos débiles. Evalúa explícitamente calidad de evidencia y escenarios adversos; la claridad narrativa no sustituye incertidumbre real.**
+**Cómo leer el diagrama.** Tres columnas. **Diagnosticar** reúne qué es y qué no es estrategia (157), el diagnóstico, la industria y las capacidades (158–160) y los escenarios (164). **Elegir** reúne la ventaja competitiva y los trade-offs (161–162), el modelo de negocio (163) y las opciones de crecimiento y alianzas (165–166). **Ejecutar** reúne las prioridades y los recursos (105–106), las señales y criterios de ajuste (167) y el gobierno con revisión periódica. La nota recuerda que el memo nombra el desafío, elige y renuncia, y define cómo se sabrá si funciona; no describe la empresa.
 
 ## 📖 Desarrollo
 
-### 1. strategy memo: mecanismo central
+### 1. La estructura que obliga a decidir
 
-**strategy memo** se entiende aquí como **documento ejecutivo que articula problema choice y razonamiento**. Esta es la pieza causal o estructural desde la que se inicia **capstone: strategy memo**: antes de redactar diagnóstico basado en evidencia, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un memo de estrategia de dos a cuatro páginas sigue un orden que protege al lector. **(1) Decisión solicitada** y recomendación en dos líneas. **(2) Diagnóstico**: el desafío crítico y la evidencia que lo sostiene. **(3) Política guía** y acciones coherentes, con **lo que se renuncia**. **(4) Alternativas** consideradas, incluida la alternativa cero, y por qué se descartaron. **(5) Economía**: inversión, retorno, caja, sensibilidad. **(6) Riesgos y supuestos críticos** con señales y umbrales. **(7) Plan por etapas** con hitos, dueños y criterios de detención. **(8) Anexos** con la evidencia. Rumelt insiste en la brevedad y en el diagnóstico como núcleo: si no se puede explicar el desafío en pocas frases, no se entiende.
 
-La lectura rectora de este bloque es Michael E. Porter — *Competitive Strategy*. Su aporte se usa para examinar **trade-offs, posicionamiento, fit y ventaja competitiva**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **choice specificity**; regístrala con periodo, unidad, población y baseline.
+### 2. Diagnóstico con evidencia
 
-Relaciona el mecanismo con **strategic thesis**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El diagnóstico (clase 158) se escribe con **hechos con fuente**, **descomposiciones** de resultados, **comparaciones** con rivales y **hipótesis rivales** contrastadas. Se incluye el análisis de **industria** (clase 159) y de **capacidades** (clase 160) que sostiene el desafío. Cada afirmación importante lleva su evidencia o se declara como supuesto. Una buena práctica es un cuadro de «qué sabemos / qué suponemos / qué no sabemos». Se evita la lista de factores sin jerarquía; el lector debe poder repetir el desafío al terminar la página.
 
-### 2. strategic thesis: frontera conceptual y error de clasificación
+### 3. Política, acciones y renuncias
 
-**Definición operacional:** argumento causal de por qué una elección puede ganar. Su valor está en distinguirlo de **strategy memo** y **assumption**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La **política guía** es el enfoque elegido, y las **acciones** deben seguirla y reforzarse entre sí (clase 162). Las **renuncias** se escriben con nombre: productos, segmentos, canales, países, proyectos o capacidades que no se harán, con su costo estimado y la forma de gestionarlas. Lafley y Martin proponen verificar que las cinco elecciones (aspiración, dónde jugar, cómo ganar, capacidades y sistemas de gestión) sean consistentes. El memo explicita la **ventaja** que se busca (clase 161), por qué los rivales no podrán copiarla fácilmente y cuánto durará (McGrath), y cómo encaja el **modelo de negocio** (clase 163).
 
-Contrasta el problema con Michael E. Porter — *Competitive Advantage*, que aporta una mirada sobre **cadena de valor, actividades y fuentes de ventaja de costo o diferenciación**. Formula dos mini-casos: uno que sí satisface la definición de **strategic thesis** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **resource concentration** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Alternativas y escenarios
 
-Antes de proponer choices y no-opciones, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un memo honesto presenta **al menos tres alternativas**, incluida la alternativa cero, con su economía y riesgos. Se prueban en **escenarios** (clase 164): una tabla que muestra el resultado de cada alternativa en cada escenario y las razones para elegir la **más robusta** o la que mantiene **opciones** valiosas. Se exponen los **resultados en rangos**, no en un número. Se anticipa la **reacción de competidores y otros actores** (Dixit y Nalebuff, clase 159). Y se cuantifica el **costo de oportunidad**: lo que se deja de hacer al elegir (clase 152).
 
-### 3. assumption: operacionalización y medición
+### 5. Economía de la apuesta
 
-**assumption** significa **condición incierta que debe cumplirse**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Se presenta la **inversión por etapas**, los **flujos** esperados con supuestos, el **retorno** frente al costo de capital (clase 118), la **caja** requerida y la **sensibilidad** a los supuestos clave (clases 116 y 119). Se incluye la **visión desde afuera**: cómo les fue a iniciativas similares. Se muestran los **hitos de decisión** que liberan cada tramo. Los valores se presentan con humildad: cifras de proyección son estimaciones. Un error frecuente es presentar solo el escenario favorable; otro, esconder los costos de implantación y de cambio organizacional.
 
-W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* orienta este bloque mediante **perspectiva de Estrategia aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **economic logic**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Supuestos, señales y gobierno
 
-Al llegar a explicar mecanismo de ventaja, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Se listan los **cinco supuestos críticos** con **indicador, umbral y decisión** asociada (clase 167), y se asigna un **responsable** de seguimiento. Se define el **ritmo de revisión** (trimestral y anual), los **criterios de detención** y los **dueños**. Se indica cómo se vinculará con el **presupuesto**, los **objetivos** y el **sistema de medición** (clases 098 a 107). Se identifican los **riesgos regulatorios, legales y de personas** y quién los gestiona. El memo termina con la **decisión pedida** y su fecha.
 
-### 4. resource commitment: trade-offs y efectos de segundo orden
+### 7. Revisión crítica y mejora
 
-**Definición:** capital talento y capacidad dedicados a una choice. Este concepto obliga a abandonar la idea de que **capstone: strategy memo** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de asignar recursos y acciones, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Richard Rumelt — *Good Strategy/Bad Strategy* aporta una lente sobre **diagnóstico, política guía y acciones coherentes**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **assumption coverage** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capstone: strategy memo**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **resource commitment** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. strategic control: gobernanza, límites e integración
-
-**strategic control** se define como **señal y foro que permiten adaptar sin perder dirección** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Hamilton Helmer — *7 Powers* se utiliza para estudiar **perspectiva de Estrategia aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar definir riesgos signposts y revisión, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un memo convincente puede ocultar datos débiles. Evalúa explícitamente calidad de evidencia y escenarios adversos; la claridad narrativa no sustituye incertidumbre real.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **strategy memo**, **strategic thesis**, **assumption**, **resource commitment** y **strategic control** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: strategy memo** no consiste en sumar cinco definiciones. Empieza por **strategy memo**, contrasta **strategic thesis** con **assumption**, incorpora **resource commitment** como restricción o mecanismo y usa **strategic control** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. redactar diagnóstico basado en evidencia → 2. proponer choices y no-opciones → 3. explicar mecanismo de ventaja → 4. asignar recursos y acciones → 5. definir riesgos signposts y revisión**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Antes de presentarlo, el memo se somete a una **revisión crítica** por personas que no lo escribieron: ¿se entiende el desafío?, ¿la política es una elección real?, ¿qué renuncias faltan?, ¿qué evidencia contradice?, ¿qué alternativa no se consideró? Se aplica un **premortem** («imaginemos que fracasó: ¿por qué?») y un **abogado del diablo**. Se pide a un lector externo que lo resuma en tres frases; si no coincide con la intención, se reescribe. Kahneman, Sibony y Sunstein sugieren recoger juicios independientes antes de discutir para reducir la influencia del que habla primero.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Michael E. Porter — *Competitive Strategy* | trade-offs, posicionamiento, fit y ventaja competitiva | ¿Qué supuesto de **capstone: strategy memo** ayuda a desafiar? |
-| Michael E. Porter — *Competitive Advantage* | cadena de valor, actividades y fuentes de ventaja de costo o diferenciación | ¿Qué supuesto de **capstone: strategy memo** ayuda a desafiar? |
-| W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **capstone: strategy memo** ayuda a desafiar? |
-| Richard Rumelt — *Good Strategy/Bad Strategy* | diagnóstico, política guía y acciones coherentes | ¿Qué supuesto de **capstone: strategy memo** ayuda a desafiar? |
-| Hamilton Helmer — *7 Powers* | perspectiva de Estrategia aplicada al problema de la clase | ¿Qué supuesto de **capstone: strategy memo** ayuda a desafiar? |
-
-En **capstone: strategy memo**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **strategy memo**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Rumelt | Diagnóstico, política y acciones coherentes; brevedad. | Es cualitativo. | ¿Cuál es el desafío en una frase? |
+| Lafley y Martin | Cinco elecciones integradas y sistemas de gestión. | Visión de grandes empresas. | ¿Tus elecciones son consistentes? |
+| Porter | Estructura de la industria y ventaja. | Marco estático. | ¿Qué fuerzas determinan tu margen? |
+| Helmer | Fuentes de poder y su durabilidad. | Se centra en ventajas duraderas. | ¿Qué poder protege tu apuesta? |
+| Schwartz | Escenarios para probar la estrategia. | No da una decisión por sí solo. | ¿Qué decisión es robusta? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** El directorio debe decidir entre defender el negocio core, entrar a una adyacencia de alto crecimiento o adquirir un competidor. Hay capital para una opción principal y una pequeña opción secundaria.
+**Situación (hipotética).** Una empresa fabricante de envases plásticos para alimentos (ventas USD 85 millones, margen operacional 6,5 % tras caer de 11 %) prepara un memo para su directorio (continuación del diagnóstico de la clase 158).
 
-**Paso 1 — redactar diagnóstico basado en evidencia.** La gerencia escribe primero el supuesto asociado a **strategy memo** y evita convertirlo en hecho. Luego busca **choice specificity** para contrastarlo en el caso de **capstone: strategy memo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**1. Decisión solicitada.** «Aprobar un plan de tres años para concentrar la empresa en envases especiales con servicio técnico, reducir la dependencia del cliente más grande del 28 % al 18 % de las ventas y limitar los envases estándar a la capacidad que protege el margen, con una inversión escalonada de hasta USD 12 millones.»
 
-**Paso 2 — proponer choices y no-opciones.** La gerencia escribe primero el supuesto asociado a **strategic thesis** y evita convertirlo en hecho. Luego busca **resource concentration** para contrastarlo en el caso de **capstone: strategy memo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**2. Diagnóstico (resumen).** El margen cayó 4,5 puntos: mezcla (−2,1), precio (−1,4), materias primas (−1,3), costos (−0,8), gastos (+0,9), volumen (+0,2). El cliente mayor se integra hacia atrás (línea propia para 30 % de su demanda en dos años). El segmento de envases especiales (margen 24 %) bajó del 22 % al 15 % de las ventas; los competidores asiáticos no ofrecen servicio técnico. **Desafío**: depender de un cliente que se integra y haber descuidado el segmento donde se tiene ventaja.
 
-**Paso 3 — explicar mecanismo de ventaja.** La gerencia escribe primero el supuesto asociado a **assumption** y evita convertirlo en hecho. Luego busca **economic logic** para contrastarlo en el caso de **capstone: strategy memo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**3. Política y renuncias.** Política: «ganar en envases especiales con diseño, servicio técnico y entrega rápida para alimentos de valor agregado; defender el volumen estándar solo donde cubre costos». Acciones: (a) crear un equipo técnico de 12 personas y un laboratorio de aplicaciones; (b) línea flexible de producción para lotes pequeños (USD 5 millones); (c) contratos de 3 años con 25 clientes medianos; (d) reconvertir 30 % de la capacidad estándar. **Renuncias**: competir en precio en envases estándar de alto volumen; ampliar capacidad para el cliente mayor; entrar a mercados de exportación en estos tres años.
 
-**Paso 4 — asignar recursos y acciones.** La gerencia escribe primero el supuesto asociado a **resource commitment** y evita convertirlo en hecho. Luego busca **assumption coverage** para contrastarlo en el caso de **capstone: strategy memo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**4. Alternativas y escenarios.** Alternativa A: reducir costos y mantener el modelo (alternativa cero mejorada). B: el plan propuesto. C: integrarse verticalmente al reciclaje de plásticos. Escenarios: (1) cliente mayor integra rápido y regulación pro-reciclaje, (2) cliente mayor integra y regulación laxa, (3) cliente mayor se mantiene y regulación pro-reciclaje, (4) mantiene y regulación laxa.
 
-**Paso 5 — definir riesgos signposts y revisión.** La gerencia escribe primero el supuesto asociado a **strategic control** y evita convertirlo en hecho. Luego busca **review cadence** para contrastarlo en el caso de **capstone: strategy memo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Alternativa | E1 | E2 | E3 | E4 | Promedio |
+|---|---|---|---|---|---|
+| A. Recorte de costos | −12 | −10 | −2 | 0 | −6,0 |
+| B. Plan propuesto | 9 | 8 | 14 | 12 | 10,8 |
+| C. Integración al reciclaje | 6 | −4 | 10 | −2 | 2,5 |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: strategy memo**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+(Valores acumulados a 5 años, USD millones, ilustrativos.) B es la más robusta; C depende de la regulación.
+
+**5. Economía.** Inversión por etapas: etapa 1 (USD 3 millones: equipo técnico y laboratorio), etapa 2 (USD 5 millones: línea flexible), etapa 3 (USD 4 millones: expansión). Retorno esperado de B: VPN de USD 21 millones al 10 % con un rango de 8 a 30 millones; sensibilidad: con un 20 % menos de crecimiento del segmento especial, el VPN baja a 9 millones; con la pérdida adelantada del cliente mayor, el plan sigue siendo positivo.
+
+**6. Supuestos y señales.** (1) El segmento especial crece 12 % al año (umbral: menos de 7 % por dos semestres). (2) El margen de especiales se mantiene sobre 22 % (umbral: bajo 19 %). (3) La integración del cliente mayor no supera el 30 % (umbral: sobre 40 %). (4) El equipo técnico se contrata en 9 meses (umbral: menos de 8 personas al mes 12). (5) La regulación de plásticos no prohíbe usos de esos envases (señal: proyecto de ley).
+
+**7. Plan y criterios.** Hitos: mes 12 (10 clientes con contrato y margen sobre 22 %) libera etapa 2; mes 24 (20 clientes, margen sobre 23 %, segmento especial 25 % de ventas) libera etapa 3. Detención: si en el mes 12 hay menos de 6 clientes o el margen está bajo 19 %, se revisa el plan. Dueño: el director general; revisión trimestral con el directorio.
+
+**8. Revisión crítica.** Un director del directorio hace de abogado del diablo: «¿qué pasa si el cliente mayor compra a un competidor asiático y vuelve a presionar precios?»; se responde con un plan de contingencia (reducción de capacidad estándar con un programa de salida). El premortem revela dos riesgos: no conseguir ingenieros de aplicaciones y retrasos de la línea flexible; se anticipan mitigaciones. Los cierres de línea, los cambios de personal y los contratos con clientes se revisan con asesoría laboral y legal y con las normas ambientales vigentes.
+
+**Qué muestra.** (1) El memo cabe en pocas páginas y pide una decisión. (2) Las alternativas se probaron en escenarios. (3) Las renuncias, los supuestos y los hitos estaban explícitos.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **strategy memo** | documento ejecutivo que articula problema choice y razonamiento | Cuando choice specificity es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **strategic thesis** | argumento causal de por qué una elección puede ganar | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Memo frente a presentación.** La presentación acompaña una conversación; el memo obliga a escribir argumentos completos y permite leer con calma. En decisiones importantes, se lee primero el memo y luego se discute.
 
-**Frontera de aplicación:** Un memo convincente puede ocultar datos débiles. Evalúa explícitamente calidad de evidencia y escenarios adversos; la claridad narrativa no sustituye incertidumbre real.
+**Límites.** El memo es tan bueno como su diagnóstico y sus datos. Las cifras del ejemplo son ilustrativas y los valores de escenarios son estimaciones. Un memo bien escrito no elimina la incertidumbre ni garantiza la decisión correcta. Las decisiones con efectos sobre personas, medioambiente, competencia o contratos exigen asesoría y las normas vigentes. Y un memo requiere un proceso de decisión que lo use: sin un comité que decida con criterios, es solo un documento.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: strategy memo |
+| Nivel | Cómo participa en el memo de estrategia |
 |---|---|
-| **Profesional** | usa **capstone: strategy memo** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **strategy memo** y **strategic thesis** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta choice specificity con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: strategy memo cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: strategy memo reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: strategy memo** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta datos precisos y señala los supuestos débiles. |
+| **Jefe / Team Lead** | Prepara el análisis de su área con evidencia. |
+| **Gerente** | Redacta propuestas con diagnóstico, alternativas y plan. |
+| **CEO / Director** | Presenta, defiende y decide con criterios y revisión. |
+| **Founder / Owner** | Escribe la decisión para forzar claridad antes de comprometer su capital. |
 
 ## 🏢 Caso ejecutivo
 
-El directorio debe decidir entre defender el negocio core, entrar a una adyacencia de alto crecimiento o adquirir un competidor. Hay capital para una opción principal y una pequeña opción secundaria.
+Una empresa de educación en línea para adultos, con 400 empleados y ventas de USD 60 millones, enfrenta una caída del 12 % en matrículas nuevas, un aumento de 40 % en el costo de adquirir estudiantes, una alta deserción (46 % en los primeros tres meses) y la entrada de universidades tradicionales con programas en línea y de plataformas globales de cursos a bajo precio. Sus fortalezas: programas con alta empleabilidad (71 % de egresados consigue empleo en 6 meses), una red de 200 empresas que contratan egresados y una plataforma propia que registra datos de aprendizaje. Tiene USD 18 millones de caja, deuda baja y un directorio dividido: unos quieren comprar una plataforma de cursos cortos (USD 30 millones), otros ampliar a América Latina, otros enfocarse en programas corporativos de formación por encargo, y otros reducir costos y mantener el modelo. Hay regulación de educación superior y de acreditación que condiciona algunas opciones.
 
-Entrega un **decision brief de capstone: strategy memo** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de estrategia** de tres a cuatro páginas con: (a) la decisión solicitada; (b) el diagnóstico con evidencia, el desafío crítico y la industria; (c) la política guía, las acciones coherentes y las renuncias; (d) al menos tres alternativas, incluida la cero, probadas en dos incertidumbres críticas y con valor esperado y robustez; (e) la economía por etapas con sensibilidad y supuestos críticos con señales y umbrales; (f) el plan de decisión con hitos, dueños y criterios de detención, el premortem y las verificaciones regulatorias, de acreditación, laborales y contractuales que se harán con las normas vigentes y asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: strategy memo** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. redactar diagnóstico basado en evidencia → 2. proponer choices y no-opciones → 3. explicar mecanismo de ventaja → 4. asignar recursos y acciones → 5. definir riesgos signposts y revisión** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta choice specificity, resource concentration; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Redacta la decisión solicitada de un memo de tu empresa en dos líneas.
+2. Escribe el diagnóstico en un párrafo con tres datos con fuente y un desafío crítico.
+3. Lista cinco renuncias concretas de tu estrategia con su costo.
+4. Construye una tabla de tres alternativas por tres escenarios.
+5. Redacta cinco supuestos críticos con indicador, umbral y decisión.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar strategy memo y strategic thesis como sinónimos | Se pierde la distinción entre “documento ejecutivo que articula problema choice y razonamiento” y “argumento causal de por qué una elección puede ganar” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “definir riesgos signposts y revisión” | Se saltó “redactar diagnóstico basado en evidencia” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. redactar diagnóstico basado en evidencia → 2. proponer choices y no-opciones → 3. explicar mecanismo de ventaja → 4. asignar recursos y acciones → 5. definir riesgos signposts y revisión y marca el primer supuesto no demostrado. |
-| Optimizar solo choice specificity | La métrica local sustituyó al resultado del sistema | Contrástala con resource concentration y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: strategy memo | Un memo convincente puede ocultar datos débiles. Evalúa explícitamente calidad de evidencia y escenarios adversos; la claridad narrativa no sustituye incertidumbre real. |
-| No fijar revisión | Una decisión sobre capstone: strategy memo se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Memo descriptivo | Se explica la empresa | Pedir una decisión concreta. |
+| Sin alternativa cero | Se presenta solo la preferida | Incluir no hacer nada y otras opciones. |
+| Un solo escenario | Se busca simplicidad | Probar la decisión en varios. |
+| Renuncias vagas | Se evita el conflicto | Nombrarlas con costos. |
+| Supuestos sin señales | Se confía en el plan | Indicadores, umbrales y decisiones. |
+| Sin revisión crítica | Se defiende lo escrito | Premortem y lectura externa. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **strategy memo** y **strategic thesis** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **assumption** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **redactar diagnóstico basado en evidencia → proponer choices y no-opciones** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **choice specificity** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: strategy memo**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un memo convincente puede ocultar datos débiles. Evalúa explícitamente calidad de evidencia y escenarios adversos; la claridad narrativa no sustituye incertidumbre real.**?
+1. ¿Qué estructura tiene un memo de estrategia?
+2. ¿Por qué se incluye la alternativa cero?
+3. ¿Qué debe contener el diagnóstico?
+4. ¿Cómo se prueban las alternativas con escenarios?
+5. ¿Qué son las renuncias explícitas y por qué se escriben?
+6. ¿Qué se define para cada supuesto crítico?
+7. ¿Qué límites tiene un memo?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Decisión solicitada, diagnóstico y desafío, política guía con acciones y renuncias, alternativas, economía, riesgos y supuestos con señales, plan por etapas y anexos.
+2. Porque es el punto de comparación: toda estrategia debe superar a no hacer nada o a continuar como hasta ahora.
+3. Hechos con fuente, descomposiciones, comparaciones con rivales, hipótesis rivales contrastadas y un desafío crítico jerarquizado.
+4. Con una tabla del resultado de cada alternativa en cada escenario, buscando robustez, arrepentimiento mínimo y opciones, y presentando rangos.
+5. Son lo que la estrategia decide no hacer; se escriben con costo para que la elección sea real y se pueda gestionar su efecto.
+6. Un indicador, un umbral, un responsable de seguimiento y la decisión que se tomará si se cruza.
+7. Depende de la calidad del diagnóstico y los datos, no elimina la incertidumbre y requiere un proceso de decisión que lo use.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/168-capstone-strategy-memo/`:
 
-- `leadership-decision-brief.md` con el problema específico de **capstone: strategy memo**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: strategy memo** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **strategy memo**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **El directorio debe decidir entre defender el negocio core, entrar a una adyacencia de alto crecimiento o adquirir un competidor. Hay capital para una opción principal y una pequeña opción secundaria.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con la síntesis de una página para el directorio;
+- `strategy-memo.md` (plantilla [Strategy memo](../../../../templates/strategy-memo.md)) con el memo de estrategia del caso ejecutivo;
+- `decision-journal.md` con la revisión crítica, el premortem y los criterios de detención.
 
 ## 📗 Fuentes y verificación
 
-- Michael E. Porter — *Competitive Strategy* (Free Press, 1980). **Uso en esta clase:** trade-offs, posicionamiento, fit y ventaja competitiva. Lectura selectiva sobre **capstone: strategy memo**. **Localizador:** [ISBN-13 9780684841489](https://openlibrary.org/isbn/9780684841489).
-- Michael E. Porter — *Competitive Advantage* (Free Press, 1985). **Uso en esta clase:** cadena de valor, actividades y fuentes de ventaja de costo o diferenciación. Lectura selectiva sobre **capstone: strategy memo**. **Localizador:** [ISBN-13 9780029250907](https://openlibrary.org/isbn/9780029250907).
-- W. Chan Kim & Renée Mauborgne — *Blue Ocean Strategy* (Coach Series, 2006). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **capstone: strategy memo**. **Localizador:** [ISBN-13 9781596590687](https://openlibrary.org/isbn/9781596590687).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **capstone: strategy memo**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- Hamilton Helmer — *7 Powers* (Deep Strategy, 2016). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **capstone: strategy memo**. **Localizador:** [ISBN-13 9780998116303](https://openlibrary.org/isbn/9780998116303).
-- Avinash K. Dixit & Barry J. Nalebuff — *The Art of Strategy* (Norton & Company, Incorporated, W. W., 2008). **Uso en esta clase:** perspectiva de Estrategia aplicada al problema de la clase. Lectura selectiva sobre **capstone: strategy memo**. **Localizador:** [ISBN-13 9780393069952](https://openlibrary.org/isbn/9780393069952).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: strategy memo** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: strategy memo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: strategy memo** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: strategy memo** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: strategy memo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política y acciones coherentes. Lectura selectiva sobre **capstone: strategy memo**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
+- A.G. Lafley & Roger L. Martin — *Playing to Win* (Harvard Business Review Press, 2013). **Uso en esta clase:** cinco elecciones integradas y sistemas de gestión. Lectura selectiva sobre **capstone: strategy memo**. **Localizador:** [ISBN-13 9781422187395](https://openlibrary.org/isbn/9781422187395).
+- Michael E. Porter — *Competitive Strategy* (Free Press, 1980). **Uso en esta clase:** estructura de la industria y ventaja. Lectura selectiva sobre **capstone: strategy memo**. **Localizador:** [ISBN-13 9780684841489](https://openlibrary.org/isbn/9780684841489).
+- Hamilton Helmer — *7 Powers* (Deep Strategy, 2016). **Uso en esta clase:** fuentes de poder y su durabilidad. Lectura selectiva sobre **capstone: strategy memo**. **Localizador:** [ISBN-13 9780998116303](https://openlibrary.org/isbn/9780998116303).
+- Peter Schwartz — *The Art of the Long View* (Doubleday/Currency, 1991). **Uso en esta clase:** escenarios para probar la estrategia. Lectura selectiva sobre **capstone: strategy memo**. **Localizador:** [ISBN-13 9780385267311](https://openlibrary.org/isbn/9780385267311).
 
-> **Regla de fuentes para Capstone: strategy memo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: strategy memo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capstone: strategy memo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas de educación superior, acreditación, laborales y contractuales. Los ejemplos y casos son hipotéticos y no describen a ninguna empresa real. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

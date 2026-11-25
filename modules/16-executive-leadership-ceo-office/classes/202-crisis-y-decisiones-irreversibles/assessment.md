@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **irreversible decision** de **pre-mortem** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **red team** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **staged commitment** con **stop rule**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Cuándo funciona bien la intuición experta según Klein?
+2. ¿Qué es el colapso del sentido y cómo ayuda un CEO a restablecerlo?
+3. ¿Qué preguntas se hacen antes de una decisión irreversible?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** El CEO debe decidir adquirir una empresa por 40% de la capitalización propia en 72 horas. El sponsor también dirige due diligence y ha prometido públicamente transformación.
+**Caso:** Una empresa de manufactura con 2.600 personas recibe un martes la noticia de que un lote de producto podría tener un defecto de seguridad. Hay 38.000 unidades vendidas en las últimas seis semanas; un retiro total costaría unos 2.900 millones de pesos más el daño reputacional; esperar a confirmar con pruebas externas llevará 10 días; un abogado sugiere «no decir nada hasta tener certeza». El director de calidad está seguro en un 60 % de que el defecto existe; el director comercial teme perder a tres cadenas de distribución; el CEO está presionado por el directorio, por un periodista que ya llamó y por los empleados de la planta. En la sala, nadie discrepa del plan de «esperar». Además, un sistema de IA de calidad predice «bajo riesgo» con base en datos de procesos anteriores, y se propone usarlo como argumento.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **clasificar reversibilidad → buscar downside y alternativas → activar challenge independiente → fraccionar compromiso si es posible → definir stop rule y decision log**. Debes utilizar o diseñar cómo obtener **downside exposure, option value, red-team findings**. Compara los cuatro escenarios con protección, riesgo y condición de cambio; fija qué evidencia y fecha reabren la decisión. Registra qué interés cedió y por qué, y define supervisión humana y responsable ante el afectado cuando un sistema de IA participa en la decisión. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **protocolo de decisión irreversible** que contenga: (a) la clasificación de las decisiones por reversibilidad y daño potencial, y las restricciones duras (seguridad de las personas y obligaciones legales); (b) el peor caso razonable, las alternativas (incluido un retiro parcial o escalonado) y el pre-mortem; (c) el desafío independiente y quién lo lidera; (d) el fraccionamiento del compromiso y las reglas de parada; (e) el registro de la decisión y el papel de la IA; (f) las verificaciones legales, regulatorias y de comunicación con asesoría. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **En una crisis real no siempre hay tiempo para análisis completo. El objetivo es adaptar rigor a irreversibilidad y daño potencial, no exigir un proceso idéntico para todo.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: En una crisis real no siempre hay tiempo para un análisis completo; el objetivo es adaptar el rigor a la irreversibilidad y al daño, no exigir un proceso idéntico para todo.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

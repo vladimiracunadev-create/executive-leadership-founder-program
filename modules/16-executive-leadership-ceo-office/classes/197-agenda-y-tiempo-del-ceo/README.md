@@ -10,217 +10,209 @@
 
 ## 🎯 Propósito
 
-El tiempo del CEO revela su estrategia real. Gestionar agenda implica reservar atención para decisiones de alto apalancamiento, talento, clientes, capital y aprendizaje, evitando que urgencias y reuniones de status absorban el recurso más escaso de la empresa.
+La agenda de un CEO es su estrategia hecha visible. Si la empresa necesita reorientar su oferta, pero el calendario del CEO está lleno de reuniones de estado, aprobaciones y visitas protocolares, la estrategia real de la empresa es la que muestra el calendario. Casi ningún CEO distribuye su tiempo con intención: las demandas llegan, se acomodan y la semana se llena. Al cabo de un año, quien dirige la empresa no es el CEO, sino quien más insiste en tener una reunión con él. Y como el tiempo del CEO es el recurso más costoso y menos reemplazable de la organización, su mala distribución es una pérdida estratégica.
 
-La salida de esta parte es **pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **agenda y tiempo del CEO** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la propuesta de Drucker de registrar y administrar el propio tiempo, en el concepto de apalancamiento gerencial de Grove, en el análisis de Newport sobre el trabajo profundo, en los estudios de Mankins y Garton sobre el uso del tiempo directivo y en el esencialismo de McKeown. Al terminar sabrás auditar un calendario con datos, definir categorías de alto apalancamiento, eliminar o delegar actividades sin valor, proteger bloques para pensar y para las partes interesadas clave, y revisar la agenda de forma periódica sin volverla rígida.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `CEO agenda`, `high-leverage activity`, `calendar audit`, `attention residue`, `operating rhythm` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. auditar calendario y decisiones → 2. definir categorías de alto apalancamiento → 3. eliminar o delegar status → 4. bloquear pensamiento y stakeholders → 5. revisar mensualmente agenda versus estrategia** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** time by priority, decision backlog, meeting decision ratio sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Auditar** el uso del tiempo con datos de calendario y de decisiones.
+2. **Definir** categorías de alto apalancamiento acordes con las prioridades de la empresa.
+3. **Eliminar o delegar** reuniones y decisiones que no requieren al CEO.
+4. **Diseñar** bloques estructurales de pensamiento, de personas y de partes interesadas.
+5. **Revisar** la agenda con indicadores y conservar margen para lo imprevisto.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define CEO agenda y high-leverage activity sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con time by priority y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿cuánto de tu última semana respondió a tus prioridades y cuánto a las demandas de otros? |
+| 20–60 min | Auditoría, apalancamiento, eliminación, bloques, margen y revisión. |
+| 60–105 min | Ejemplo trabajado: auditoría y rediseño de la semana de un CEO. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **CEO agenda** | distribución deliberada de tiempo y atención ejecutiva | Distingue un hecho compatible y otro que lo refute. |
-| **high-leverage activity** | actividad cuyo efecto multiplica resultados de otros | Distingue un hecho compatible y otro que lo refute. |
-| **calendar audit** | análisis de cómo tiempo real se compara con prioridades | Distingue un hecho compatible y otro que lo refute. |
-| **attention residue** | costo cognitivo de cambiar continuamente de contexto | Distingue un hecho compatible y otro que lo refute. |
-| **operating rhythm** | cadencia que agrupa decisiones y revisiones recurrentes | Distingue un hecho compatible y otro que lo refute. |
+| **Agenda del CEO** | Distribución deliberada de tiempo y atención según las prioridades de la empresa. | El calendario refleja la estrategia. |
+| **Actividad de alto apalancamiento** | Actividad cuyo efecto se multiplica en la organización. | Una hora mueve a muchas personas o decisiones. |
+| **Auditoría de tiempo** | Registro y clasificación de cómo se usó el tiempo. | Datos de varias semanas, no memoria. |
+| **Trabajo profundo** | Trabajo de concentración sin interrupciones. | Bloques protegidos sin correo ni reuniones. |
+| **Margen** | Tiempo no comprometido para lo imprevisto. | Permite reordenar sin romper todo. |
+| **Cartera de decisiones pendientes** | Decisiones esperando al CEO. | Se mide en cantidad y espera. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 197: 1. auditar calendario y decisiones → 2. definir categorías de alto apalancamiento → 3. eliminar o delegar status → 4. bloquear pensamiento y stakeholders → 5. revisar mensualmente agenda versus estrategia](modelo-mental.svg)
+![La agenda del CEO: proteger, delegar o eliminar, y dejar margen.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. auditar calendario y decisiones → 2. definir categorías de alto apalancamiento → 3. eliminar o delegar status → 4. bloquear pensamiento y stakeholders → 5. revisar mensualmente agenda versus estrategia
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El tiempo del CEO revela su estrategia real. Gestionar agenda implica reservar atención para decisiones de alto apalancamiento, talento, clientes, capital y aprendizaje, evitando que urgencias y reuniones de status absorban el recurso más escaso de la empresa.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una agenda rígida falla en crisis y transiciones. Protege bloques estructurales, pero conserva capacidad de reordenar atención cuando cambia el riesgo o la oportunidad.**
+**Cómo leer el diagrama.** Tres columnas. **Proteger**: bloques para pensar y decidir, tiempo con clientes, equipo y directorio, y revisión mensual de la agenda. **Delegar o eliminar**: reuniones de estado y de informe, decisiones que otro puede tomar y aprobaciones sin valor agregado. **Dejar margen**: capacidad para crisis y oportunidades, espacio para reordenar prioridades y atención a señales débiles. La nota afirma que el recurso más escaso del CEO es la atención y que, si la agenda no coincide con las prioridades, la agenda decide por el CEO; el pie, que una agenda rígida falla en una crisis.
 
 ## 📖 Desarrollo
 
-### 1. CEO agenda: mecanismo central
+### 1. Primero, saber dónde se va el tiempo
 
-**CEO agenda** se entiende aquí como **distribución deliberada de tiempo y atención ejecutiva**. Esta es la pieza causal o estructural desde la que se inicia **agenda y tiempo del CEO**: antes de auditar calendario y decisiones, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Drucker sostiene que los ejecutivos efectivos no empiezan con sus tareas sino con su **tiempo**: lo **registran**, lo **administran** y lo **consolidan** en bloques utilizables. La razón es que la memoria subestima las interrupciones y sobreestima el trabajo importante. Una auditoría de tres a cuatro semanas, con el calendario y un registro simple de decisiones, suele revelar sorpresas: reuniones que se repiten sin propósito, reportes que nadie usa, atención a temas de bajo impacto y casi nada de tiempo en lo que el CEO dice que importa. Mankins y Garton muestran, en estudios con directivos, que una parte considerable del tiempo de las organizaciones se pierde en reuniones y procesos que no agregan valor, lo que sugiere un margen de mejora importante.
 
-La lectura rectora de este bloque es Ben Horowitz — *The Hard Thing About Hard Things*. Su aporte se usa para examinar **decisiones difíciles de CEO, organización, personas y ejecución bajo presión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **time by priority**; regístrala con periodo, unidad, población y baseline.
+### 2. Qué es alto apalancamiento
 
-Relaciona el mecanismo con **high-leverage activity**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Grove definió el **apalancamiento gerencial**: el resultado de un gerente es el de su organización y el de las organizaciones que influye. Una actividad es de alto apalancamiento si **multiplica** el desempeño de otros: una decisión que desbloquea a cien personas, una conversación que cambia la estrategia de una unidad, una contratación clave, un cliente decisivo. Es de bajo apalancamiento si solo afecta al CEO o si otra persona podría hacerla. Para un CEO, las categorías típicas de alto apalancamiento son: **estrategia y asignación de capital** (clase 198), **talento y equipo** (clases 195 y 201), **cliente y mercado**, **cultura y comunicación** (clase 200), **directorio e inversionistas** y **riesgos críticos** (clase 202). Se definen según las prioridades del año, no por tradición.
 
-### 2. high-leverage activity: frontera conceptual y error de clasificación
+### 3. Eliminar, delegar, automatizar
 
-**Definición operacional:** actividad cuyo efecto multiplica resultados de otros. Su valor está en distinguirlo de **CEO agenda** y **calendar audit**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+McKeown propone el **esencialismo**: hacer menos pero mejor, eligiendo con intención y diciendo no a lo que no contribuye de forma significativa. Un proceso práctico para la agenda: para cada actividad recurrente, preguntarse si se puede **eliminar** (no aporta), **delegar** (otro puede hacerla con la misma calidad o mejor), **automatizar** (un tablero reemplaza un informe), **acortar** (la reunión de 60 minutos puede ser de 25) o **mantener** (solo el CEO puede aportar). Las reuniones de estado se reemplazan por tableros leídos previamente; las aprobaciones, por límites de autoridad (clase 196); los eventos protocolares, por una selección con criterio. Cada «no» debe acompañarse de una alternativa para quien lo recibe.
 
-Contrasta el problema con Matt Mochary — *The Great CEO Within*, que aporta una mirada sobre **sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo**. Formula dos mini-casos: uno que sí satisface la definición de **high-leverage activity** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **decision backlog** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Proteger el pensamiento
 
-Antes de definir categorías de alto apalancamiento, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Newport describe el **trabajo profundo** como actividades que exigen concentración sin distracción y que crean valor difícil de replicar. Para un CEO, incluye pensar en la estrategia, preparar una decisión irreversible, escribir una comunicación importante o revisar el plan de talento. Requiere **bloques protegidos** (por ejemplo, dos mañanas por semana de tres horas), sin dispositivos ni interrupciones, y un ayudante o jefe de gabinete que defienda el calendario. Un error común es reservar tiempo «cuando haya espacio»: nunca lo hay. Se agenda primero lo importante y se organiza el resto alrededor, y se acompaña con rituales de **cierre y arranque** de la semana.
 
-### 3. calendar audit: operacionalización y medición
+### 5. Tiempo con personas y partes interesadas
 
-**calendar audit** significa **análisis de cómo tiempo real se compara con prioridades**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La agenda también protege el tiempo con quienes más influyen en el futuro: el **equipo directivo** (uno a uno periódicos y sesiones colectivas), los **líderes de segunda línea** y talento clave, los **clientes** (visitas y llamadas sin intermediarios), el **directorio** y los **inversionistas** y las **autoridades** cuando corresponda. Grove subraya que las reuniones son «el medio de trabajo» del gerente: conviene diseñarlas bien (propósito, participantes, preparación, decisión). Un equilibrio útil es dividir el tiempo en: **mirar hacia dentro** (equipo, ejecución), **mirar hacia fuera** (clientes, mercado, socios) y **mirar hacia adelante** (estrategia, riesgos). Una agenda que solo mira hacia dentro y hacia hoy produce una empresa ciega.
 
-Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* orienta este bloque mediante **impacto emocional del liderazgo y estilos de conducción**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **meeting decision ratio**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Margen: la agenda no puede ser rígida
 
-Al llegar a eliminar o delegar status, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Una agenda sin margen se rompe con la primera crisis y hace que el CEO pase a modo reactivo. Se reserva un **margen estructural** (por ejemplo, 10 % del tiempo sin compromiso) y reglas para **reordenar**: ¿qué sale si surge una crisis?, ¿quién decide? El margen permite además **atender señales débiles**: caminar por la operación, conversar con clientes y escuchar a quienes no están en el comité. Una crisis o una oportunidad cambian las prioridades; la agenda debe poder cambiar con ellas sin culpa. Lo que no se negocia es la **intención**: saber qué se está sacrificando cuando se reordena.
 
-### 4. attention residue: trade-offs y efectos de segundo orden
+### 7. Medir y revisar
 
-**Definición:** costo cognitivo de cambiar continuamente de contexto. Este concepto obliga a abandonar la idea de que **agenda y tiempo del CEO** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de bloquear pensamiento y stakeholders, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Peter F. Drucker — *The Effective Executive* aporta una lente sobre **efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **deep-work blocks** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **agenda y tiempo del CEO**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **attention residue** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. operating rhythm: gobernanza, límites e integración
-
-**operating rhythm** se define como **cadencia que agrupa decisiones y revisiones recurrentes** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael D. Watkins — *The First 90 Days* se utiliza para estudiar **perspectiva de Transiciones aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar revisar mensualmente agenda versus estrategia, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Una agenda rígida falla en crisis y transiciones. Protege bloques estructurales, pero conserva capacidad de reordenar atención cuando cambia el riesgo o la oportunidad.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **CEO agenda**, **high-leverage activity**, **calendar audit**, **attention residue** y **operating rhythm** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **agenda y tiempo del CEO** no consiste en sumar cinco definiciones. Empieza por **CEO agenda**, contrasta **high-leverage activity** con **calendar audit**, incorpora **attention residue** como restricción o mecanismo y usa **operating rhythm** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. auditar calendario y decisiones → 2. definir categorías de alto apalancamiento → 3. eliminar o delegar status → 4. bloquear pensamiento y stakeholders → 5. revisar mensualmente agenda versus estrategia**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Se revisa la agenda **cada mes** con indicadores: **tiempo por prioridad** (porcentaje de horas en cada categoría frente a la meta), **razón de reuniones con decisión** (qué proporción de reuniones termina con una decisión), **cartera de decisiones pendientes** (cantidad y espera), **horas de trabajo profundo** protegidas, **tiempo con clientes** y **tiempo con el equipo**. Cada trimestre se contrasta la agenda con las prioridades: si cambió la estrategia, debe cambiar la agenda. También se evalúa el **costo**: si un CEO cuesta, por ejemplo, 600.000 pesos por hora entre compensación y apoyo, cada reunión de una hora con ocho personas senior tiene un costo que se compara con su valor. Esta cuenta no sustituye el criterio, pero humaniza el costo.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **agenda y tiempo del CEO** ayuda a desafiar? |
-| Matt Mochary — *The Great CEO Within* | sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo | ¿Qué supuesto de **agenda y tiempo del CEO** ayuda a desafiar? |
-| Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* | impacto emocional del liderazgo y estilos de conducción | ¿Qué supuesto de **agenda y tiempo del CEO** ayuda a desafiar? |
-| Peter F. Drucker — *The Effective Executive* | efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo | ¿Qué supuesto de **agenda y tiempo del CEO** ayuda a desafiar? |
-| Michael D. Watkins — *The First 90 Days* | perspectiva de Transiciones aplicada al problema de la clase | ¿Qué supuesto de **agenda y tiempo del CEO** ayuda a desafiar? |
-
-En **agenda y tiempo del CEO**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **CEO agenda**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Drucker | Registrar, administrar y consolidar el propio tiempo. | Orientado al ejecutivo individual. | ¿Qué muestra mi registro real? |
+| Grove | Apalancamiento gerencial y reuniones como medio de trabajo. | Contexto de manufactura de tecnología. | ¿Qué actividad multiplica a otros? |
+| Newport | Trabajo profundo y bloques protegidos. | Evidencia mayormente anecdótica. | ¿Cuándo pienso sin interrupciones? |
+| Mankins y Garton | Uso del tiempo directivo y productividad organizacional. | Estudios agregados. | ¿Qué reuniones sobran? |
+| McKeown | Hacer menos pero mejor; decir no con intención. | Enfoque personal. | ¿Qué dejaría de hacer? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** El CEO declara que innovación es prioridad, pero 78% de su calendario son reuniones internas de status y solo habla con clientes una vez por trimestre.
+**Situación (hipotética).** Un CEO de una empresa de 1.100 personas audita cuatro semanas de calendario y decisiones. Trabaja 55 horas por semana. Los promedios semanales son estos.
 
-**Paso 1 — auditar calendario y decisiones.** La gerencia escribe primero el supuesto asociado a **CEO agenda** y evita convertirlo en hecho. Luego busca **time by priority** para contrastarlo en el caso de **agenda y tiempo del CEO**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Categoría | Horas antes | % del total |
+|---|---|---|
+| Reuniones de estado e informes | 14 | 25,5 % |
+| Escalamientos operativos | 9 | 16,4 % |
+| Personas y equipo | 7 | 12,7 % |
+| Clientes y mercado | 5 | 9,1 % |
+| Directorio, inversionistas y externos | 6 | 10,9 % |
+| Estrategia y pensamiento | 3 | 5,5 % |
+| Traslados, administración y otros | 11 | 20,0 % |
+| **Total** | **55** | **100 %** |
 
-**Paso 2 — definir categorías de alto apalancamiento.** La gerencia escribe primero el supuesto asociado a **high-leverage activity** y evita convertirlo en hecho. Luego busca **decision backlog** para contrastarlo en el caso de **agenda y tiempo del CEO**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Apalancamiento.** Las categorías de alto apalancamiento definidas según las prioridades del año son personas y equipo, clientes y mercado, directorio e inversionistas y estrategia: 7 + 5 + 6 + 3 = 21 horas, el 38,2 % del tiempo (21 ÷ 55). La meta del año es llegar al 60 %.
 
-**Paso 3 — eliminar o delegar status.** La gerencia escribe primero el supuesto asociado a **calendar audit** y evita convertirlo en hecho. Luego busca **meeting decision ratio** para contrastarlo en el caso de **agenda y tiempo del CEO**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Otros indicadores.** Reuniones que terminan con una decisión: 22 %. Decisiones pendientes en la cartera del CEO: 23, con una espera promedio de 12 días. Trabajo profundo protegido: 2 horas por semana.
 
-**Paso 4 — bloquear pensamiento y stakeholders.** La gerencia escribe primero el supuesto asociado a **attention residue** y evita convertirlo en hecho. Luego busca **deep-work blocks** para contrastarlo en el caso de **agenda y tiempo del CEO**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Rediseño.**
 
-**Paso 5 — revisar mensualmente agenda versus estrategia.** La gerencia escribe primero el supuesto asociado a **operating rhythm** y evita convertirlo en hecho. Luego busca **stakeholder coverage** para contrastarlo en el caso de **agenda y tiempo del CEO**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Acción | Efecto |
+|---|---|
+| Sustituir reuniones de estado por un tablero leído antes y mantener solo una revisión de 45 minutos | −10 horas (de 14 a 4) |
+| Delegar escalamientos operativos con límites (clase 196) y un jefe de gabinete como filtro | −4 horas (de 9 a 5) |
+| Reducir traslados y administración (viajes con propósito, ayudante) | −3 horas (de 11 a 8) |
+| **Horas liberadas** | **17** |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **agenda y tiempo del CEO**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Reinversión de las 17 horas.** Estrategia y pensamiento: de 3 a 8 (+5); personas y equipo: de 7 a 10 (+3); clientes y mercado: de 5 a 9 (+4); directorio e inversionistas: de 6 a 7 (+1); margen no comprometido: 0 a 4 (+4). Suma: 5 + 3 + 4 + 1 + 4 = 17.
+
+**Resultado esperado.** Alto apalancamiento: 8 + 10 + 9 + 7 = 34 horas, el 61,8 % (34 ÷ 55). Trabajo profundo: dos bloques de tres horas por semana, 6 horas dentro de las 8 de estrategia. Reuniones con decisión: meta de 55 %. Cartera pendiente: meta de 6 decisiones con una espera de 4 días.
+
+**Costo del tiempo liberado.** Si el costo por hora del CEO es 600.000 pesos, 17 horas por semana en 44 semanas son 748 horas, es decir, 748 × 600.000 = 448,8 millones de pesos anuales de tiempo que pasa de actividades de bajo apalancamiento a otras de alto apalancamiento.
+
+**Margen y reglas.** Si ocurre una crisis, se activa el margen de 4 horas y se suspenden primero las actividades de menor apalancamiento; el jefe de gabinete reordena y avisa. Cada mes se revisa la agenda contra las metas.
+
+**Cuidados.** Las condiciones de contratación y de compensación de los apoyos adicionales se verifican con asesoría y el directorio; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La auditoría reemplazó la percepción por datos. (2) Las horas liberadas se reasignaron con intención. (3) Se mantuvo margen para lo imprevisto.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **CEO agenda** | distribución deliberada de tiempo y atención ejecutiva | Cuando time by priority es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **high-leverage activity** | actividad cuyo efecto multiplica resultados de otros | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Agenda frente a productividad personal.** La agenda del CEO no es un sistema de eficiencia individual: es un instrumento de gobierno de la atención que afecta a toda la organización.
 
-**Frontera de aplicación:** Una agenda rígida falla en crisis y transiciones. Protege bloques estructurales, pero conserva capacidad de reordenar atención cuando cambia el riesgo o la oportunidad.
+**Límites.** Una agenda rígida falla en crisis y en transiciones; se protegen los bloques estructurales, pero se conserva capacidad de reordenar. Los datos de calendario no capturan conversaciones informales. Los indicadores de apalancamiento son juicios. Las cifras del ejemplo son ilustrativas; el costo por hora es una convención para dimensionar, no una valoración de las personas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre agenda y tiempo del CEO |
+| Nivel | Cómo cuida su agenda |
 |---|---|
-| **Profesional** | usa **agenda y tiempo del CEO** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **CEO agenda** y **high-leverage activity** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta time by priority con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si agenda y tiempo del CEO cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de agenda y tiempo del CEO reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **agenda y tiempo del CEO** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Protege bloques de concentración para su trabajo. |
+| **Jefe / Team Lead** | Equilibra operación, personas y mejora. |
+| **Gerente** | Define sus categorías de apalancamiento y delega lo demás. |
+| **CEO / Director** | Hace que la agenda coincida con la estrategia y revisa su uso cada mes. |
+| **Founder / Owner** | Aprende a retirarse de lo operativo para dedicar su atención a la visión. |
 
 ## 🏢 Caso ejecutivo
 
-El CEO declara que innovación es prioridad, pero 78% de su calendario son reuniones internas de status y solo habla con clientes una vez por trimestre.
+La CEO de una empresa de servicios con 2.500 personas trabaja 60 horas semanales. Su calendario muestra: 22 reuniones por semana; 11 de ellas son informes de estado; asiste a 6 eventos externos al mes por compromiso; aprueba personalmente todos los viajes y contrataciones sobre cierto nivel; no tiene bloques de pensamiento; su equipo de dirección dice que «hay que pedir hora con tres semanas de anticipación». La estrategia del año priorizaba entrar en un nuevo segmento, rediseñar la organización comercial y reforzar el equipo de tecnología, pero en el trimestre dedicó 4 % de su tiempo a esos tres temas. Una crisis con un cliente grande le ocupó 20 horas en dos semanas. El directorio le pregunta por qué los avances son lentos; ella responde que «no tiene tiempo». Su jefe de gabinete propone «bloquear las mañanas» para pensar.
 
-Entrega un **decision brief de agenda y tiempo del CEO** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **rediseño de la agenda** que contenga: (a) la auditoría con categorías, horas y porcentajes; (b) las categorías de alto apalancamiento según las prioridades del año; (c) el plan de eliminación, delegación y automatización con efecto en horas; (d) los bloques estructurales de pensamiento, equipo, clientes y directorio, y el margen; (e) los indicadores mensuales y las reglas de reordenamiento ante una crisis; (f) el rol del jefe de gabinete y los límites de autoridad asociados.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **agenda y tiempo del CEO** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. auditar calendario y decisiones → 2. definir categorías de alto apalancamiento → 3. eliminar o delegar status → 4. bloquear pensamiento y stakeholders → 5. revisar mensualmente agenda versus estrategia** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta time by priority, decision backlog; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Registra tu calendario de cuatro semanas y clasifica las horas en seis categorías.
+2. Define tus categorías de alto apalancamiento y calcula qué porcentaje de tu tiempo ocupan.
+3. Elige cinco reuniones recurrentes y decide para cada una: eliminar, delegar, automatizar, acortar o mantener.
+4. Diseña una semana ideal con bloques protegidos y margen.
+5. Establece tres indicadores mensuales para revisar tu agenda.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar CEO agenda y high-leverage activity como sinónimos | Se pierde la distinción entre “distribución deliberada de tiempo y atención ejecutiva” y “actividad cuyo efecto multiplica resultados de otros” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar mensualmente agenda versus estrategia” | Se saltó “auditar calendario y decisiones” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. auditar calendario y decisiones → 2. definir categorías de alto apalancamiento → 3. eliminar o delegar status → 4. bloquear pensamiento y stakeholders → 5. revisar mensualmente agenda versus estrategia y marca el primer supuesto no demostrado. |
-| Optimizar solo time by priority | La métrica local sustituyó al resultado del sistema | Contrástala con decision backlog y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre agenda y tiempo del CEO | Una agenda rígida falla en crisis y transiciones. Protege bloques estructurales, pero conserva capacidad de reordenar atención cuando cambia el riesgo o la oportunidad. |
-| No fijar revisión | Una decisión sobre agenda y tiempo del CEO se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Confiar en la memoria | Se subestiman las interrupciones | Auditar con datos de varias semanas. |
+| Reservar tiempo «cuando haya espacio» | Lo urgente gana | Agendar primero lo importante. |
+| Agenda llena de estado | Es cómodo y da sensación de control | Tablero previo y reuniones de decisión. |
+| Agenda rígida | Se teme perder el control | Margen y reglas de reordenamiento. |
+| No decir no | Se teme parecer inaccesible | Alternativas y criterios de selección. |
+| Medir horas sin propósito | Se obsesiona con la eficiencia | Relacionar agenda y prioridades. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **CEO agenda** y **high-leverage activity** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **calendar audit** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **auditar calendario y decisiones → definir categorías de alto apalancamiento** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **time by priority** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **agenda y tiempo del CEO**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Una agenda rígida falla en crisis y transiciones. Protege bloques estructurales, pero conserva capacidad de reordenar atención cuando cambia el riesgo o la oportunidad.**?
+1. ¿Por qué comenzar por una auditoría del tiempo?
+2. ¿Qué es una actividad de alto apalancamiento según Grove?
+3. ¿Qué opciones hay frente a una actividad recurrente?
+4. ¿Qué es el trabajo profundo y cómo se protege?
+5. ¿Para qué sirve el margen en la agenda?
+6. ¿Qué indicadores se revisan mensualmente?
+7. ¿Qué límites tiene la gestión de la agenda?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Porque la memoria subestima las interrupciones y sobreestima el trabajo importante; los datos revelan el uso real.
+2. Una actividad que multiplica el desempeño de otros o de la organización.
+3. Eliminar, delegar, automatizar, acortar o mantener.
+4. Trabajo de concentración sin distracciones; con bloques agendados primero, sin dispositivos y con apoyo de un jefe de gabinete.
+5. Para absorber crisis y oportunidades y reordenar prioridades sin romper la agenda.
+6. Tiempo por prioridad, reuniones con decisión, cartera de decisiones pendientes, horas de trabajo profundo y tiempo con clientes y equipo.
+7. Una agenda rígida falla en crisis; los datos de calendario no capturan lo informal; los indicadores son juicios.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/197-agenda-y-tiempo-del-ceo/`:
 
-- `board-or-executive-memo.md` con el problema específico de **agenda y tiempo del CEO**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **agenda y tiempo del CEO** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **CEO agenda**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **El CEO declara que innovación es prioridad, pero 78% de su calendario son reuniones internas de status y solo habla con clientes una vez por trimestre.** y el dato que podría invalidar la recomendación.
+- `board-or-executive-memo.md` (plantilla [Board or executive memo](../../../../templates/board-or-executive-memo.md)) con el rediseño de la agenda del caso ejecutivo;
+- `ceo-dashboard.md` (plantilla [CEO dashboard](../../../../templates/ceo-dashboard.md)) con los indicadores mensuales de uso del tiempo;
+- `decision-journal.md` con la auditoría, las decisiones de eliminación y delegación y las revisiones.
 
 ## 📗 Fuentes y verificación
 
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **agenda y tiempo del ceo**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Matt Mochary — *The Great CEO Within* (Mochary Films, 2019). **Uso en esta clase:** sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo. Lectura selectiva sobre **agenda y tiempo del ceo**. **Localizador:** [ISBN-13 9780578599281](https://openlibrary.org/isbn/9780578599281).
-- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** impacto emocional del liderazgo y estilos de conducción. Lectura selectiva sobre **agenda y tiempo del ceo**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
-- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **agenda y tiempo del ceo**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** perspectiva de Transiciones aplicada al problema de la clase. Lectura selectiva sobre **agenda y tiempo del ceo**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
-- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva sobre **agenda y tiempo del ceo**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **agenda y tiempo del ceo** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **agenda y tiempo del ceo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **agenda y tiempo del ceo** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **agenda y tiempo del ceo** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **agenda y tiempo del ceo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** registrar, administrar y consolidar el propio tiempo. Lectura selectiva sobre **agenda y tiempo del ceo**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
+- Andrew S. Grove — *High Output Management* (Random House, 1983). **Uso en esta clase:** apalancamiento gerencial y reuniones como medio de trabajo. Lectura selectiva sobre **agenda y tiempo del ceo**. **Localizador:** [ISBN-13 9780394532349](https://openlibrary.org/isbn/9780394532349).
+- Cal Newport — *Deep Work* (Grand Central Publishing, 2016). **Uso en esta clase:** trabajo profundo y bloques protegidos. Lectura selectiva sobre **agenda y tiempo del ceo**. **Localizador:** [ISBN-13 9781455586691](https://openlibrary.org/isbn/9781455586691).
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** uso del tiempo directivo y productividad organizacional. Lectura selectiva sobre **agenda y tiempo del ceo**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
+- Greg McKeown — *Essentialism* (Virgin Books, 2014). **Uso en esta clase:** hacer menos pero mejor con intención. Lectura selectiva sobre **agenda y tiempo del ceo**. **Localizador:** [ISBN-13 9780753555163](https://openlibrary.org/isbn/9780753555163).
+- Matt Mochary — *The Great CEO Within* (Mochary Films, 2019). **Uso en esta clase:** prácticas de coaching a CEO sobre el uso del tiempo y las conversaciones. Lectura selectiva sobre **agenda y tiempo del ceo**. **Localizador:** [ISBN-13 9780578599281](https://openlibrary.org/isbn/9780578599281).
 
-> **Regla de fuentes para Agenda y tiempo del CEO:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **agenda y tiempo del CEO** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Agenda y tiempo del CEO:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las condiciones de contratación de apoyos y de gobierno corporativo. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

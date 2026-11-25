@@ -5,33 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir irreversible decision de pre-mortem mediante evidencia observable."
-  - "Aplicar la secuencia: clasificar reversibilidad → buscar downside y alternativas → activar challenge independiente → fraccionar compromiso si es posible → definir stop rule y decision log."
-  - "Interpretar downside exposure, option value, red-team findings sin atribuir causalidad automática."
-  - "Resolver el caso de crisis y decisiones irreversibles con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-  - "Comparar mantener, reasignar, apartar y separar a una persona clave con criterio de reversibilidad y evidencia que reabra la decisión."
-  - "Decidir entre intereses comerciales, legales, laborales, éticos y reputacionales y asignar responsabilidad humana cuando interviene IA."
+  - "Clasificar una decisión según su reversibilidad y su daño potencial."
+  - "Buscar el peor caso razonable y alternativas antes de comprometerte."
+  - "Organizar un desafío independiente y evitar el pensamiento de grupo."
+  - "Fraccionar el compromiso y definir reglas de parada y de reapertura."
+  - "Decidir sobre una persona clave y con intervención de IA asignando responsabilidad humana."
 deliverable: "leadership-decision-brief.md"
 references:
+  - "Gary Klein — *Sources of Power*"
+  - "Karl E. Weick — *The Collapse of Sensemaking in Organizations: The Mann Gulch Disaster*"
   - "Ben Horowitz — *The Hard Thing About Hard Things*"
-  - "Matt Mochary — *The Great CEO Within*"
-  - "Peter F. Drucker — *The Effective Executive*"
-  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
-  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
-  - "Larry Bossidy & Ram Charan — *Execution*"
+  - "Nassim Nicholas Taleb — *Antifragile*"
+  - "Annie Duke — *How to Decide*"
 limits:
-  - "En una crisis real no siempre hay tiempo para análisis completo. El objetivo es adaptar rigor a irreversibilidad y daño potencial, no exigir un proceso idéntico para todo."
+  - "En una crisis real no siempre hay tiempo para un análisis completo; el objetivo es adaptar el rigor a la irreversibilidad y al daño, no exigir un proceso idéntico para todo."
 evidence_signals:
-  - "downside exposure"
-  - "option value"
-  - "red-team findings"
-  - "stage-gate success"
-  - "decision reversal cost"
-  - "reversibility of each option"
-  - "reopening trigger"
-  - "interest-conflict record"
-  - "AI-supervision accountability"
+  - "decisión clasificada por reversibilidad"
+  - "peor caso y alternativas"
+  - "desafío independiente organizado"
+  - "regla de parada y registro"

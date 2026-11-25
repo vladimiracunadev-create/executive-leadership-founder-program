@@ -1,84 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g198 d-g198" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g198">Ficha visual de la clase 198: Asignación de capital y talento</title>
-<desc id="d-g198">Conceptos: capital allocation; talent allocation; sunk cost; hurdle rate; strategic capacity. Método: inventariar usos de capital y talento → estimar retorno riesgo y strategic fit → comparar contra hurdle y alternativas → reallocate desde bajo valor → revisar outcomes y kill decisions.</desc>
-<defs><marker id="p-g198" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 198 · Asignación de capital y talento</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 16 · Alta dirección y gobierno</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#cf222e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >capital allocation</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >distribución de recursos financieros entre usos</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >alternativos</text>
-<circle cx="38" cy="184.12" r="5" fill="#cf222e"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >talent allocation</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >asignación de personas escasas a prioridades</text>
-<circle cx="38" cy="242.12" r="5" fill="#cf222e"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >sunk cost</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >costo pasado irrecuperable que no debería determinar</text>
-<text x="54" y="281.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >decisión futura</text>
-<circle cx="38" cy="314.24" r="5" fill="#cf222e"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >hurdle rate</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >retorno mínimo requerido para una inversión</text>
-<circle cx="38" cy="372.24" r="5" fill="#cf222e"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >strategic capacity</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >capacidad reservada para prioridades y opciones futuras</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#cf222e"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >inventariar usos</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >de capital y</text>
-<text x="504" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >talento</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#cf222e"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >estimar retorno</text>
-<text x="692" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >riesgo y strategic</text>
-<text x="692" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >fit</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#cf222e"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >comparar contra</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >hurdle y</text>
-<text x="880" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >alternativas</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#cf222e"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >reallocate desde</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >bajo valor</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#cf222e"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >revisar outcomes y</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >kill decisions</text>
-<path d="M638,139 L656,139" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g198)"/>
-<path d="M826,139 L844,139" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g198)"/>
-<path d="M929,176 L929,222" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g198)"/>
-<path d="M844,259 L826,259" stroke="#cf222e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g198)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#cf222e" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g198)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="53.6" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ROIC</text>
-<rect x="91.6" y="456.24" width="191.6" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="104.6" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="115.6" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >talent on top priorities</text>
-<rect x="293.2" y="456.24" width="198.5" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="306.2" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="317.2" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >capital reallocation rate</text>
-<rect x="501.7" y="456.24" width="74.3" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="514.7" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="525.7" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >payback</text>
-<rect x="586" y="456.24" width="184.7" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="599" cy="469.24" r="3.5" fill="#cf222e"/>
-<text x="610" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >portfolio concentration</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No reduzcas allocation a NPV cuando existen opciones estratégicas, capabilities o impactos difíciles de monetizar. Haz explícitas esas</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >consideraciones en vez de ocultarlas en el cálculo.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 461.86" width="1040" role="img" aria-labelledby="t-s198 d-s198" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s198">Clase 198 · Asignar capital y talento con el mismo rigor</title>
+<desc id="d-s198">Cinco preguntas que se aplican por igual al capital y al talento: inventario, retorno, umbral, reasignación y revisión.</desc>
+<defs><marker id="p-s198" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="461.86" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 198 · Asignar capital y talento con el mismo rigor</text>
+<text x="1012" y="43" font-size="10" font-weight="400" fill="#59636e" text-anchor="end" >Bower (1970) · Thorndike · Koller et al. · Mankins &amp; Garton</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Pregunta</text>
+<text x="247.887" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Capital</text>
+<text x="635.944" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Talento</text>
+<rect x="28" y="136" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Inventario</text>
+<text x="247.887" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿En qué se usa hoy cada peso?</text>
+<text x="635.944" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >¿En qué trabaja hoy cada persona clave?</text>
+<rect x="28" y="172.56" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Retorno</text>
+<text x="247.887" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Retorno ajustado por riesgo y ajuste estratégico.</text>
+<text x="635.944" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Efecto de la persona en las prioridades.</text>
+<rect x="28" y="209.12" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="229.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Umbral</text>
+<text x="247.887" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Tasa mínima de retorno y alternativas.</text>
+<text x="635.944" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Estándar mínimo para ocupar un rol crítico.</text>
+<rect x="28" y="245.68" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="265.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Reasignación</text>
+<text x="247.887" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Retirar de lo de bajo valor y reinvertir.</text>
+<text x="635.944" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Mover talento hacia las prioridades.</text>
+<rect x="28" y="282.24" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="302.24" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Revisión</text>
+<text x="247.887" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Resultado real frente a lo prometido.</text>
+<text x="635.944" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Desempeño y aprendizaje de los traslados.</text>
+<rect x="28" y="334.8" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="356.8" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El capital se asigna con cálculos y el talento con costumbre. Tratar a ambos con el mismo rigor suele mover más valor que optimizar un</text>
+<text x="44" y="374.05" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >modelo.</text>
+<text x="28" y="421.3" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Las opciones estratégicas y las capacidades no siempre caben en una fórmula; se hacen explícitas en lugar de esconderlas en el cálculo.</text>
 </svg>

@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir executive team de functional advocacy mediante evidencia observable."
-  - "Aplicar la secuencia: definir mandato colectivo → seleccionar complementariedad y roles → crear normas de conflicto y decisión → diseñar cadencia enterprise → medir comportamiento y resultados colectivos."
-  - "Interpretar enterprise decisions reopened, cross-functional commitments, team trust sin atribuir causalidad automática."
-  - "Resolver el caso de construir el executive team con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Definir el mandato colectivo y qué asuntos son del equipo y cuáles de cada función."
+  - "Componer el equipo con complementariedad de capacidades y claridad de roles."
+  - "Establecer normas de conflicto, de decisión y de compromiso."
+  - "Diseñar una cadencia de reuniones y de trabajo de empresa."
+  - "Medir el funcionamiento del equipo con conductas y resultados."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Ben Horowitz — *The Hard Thing About Hard Things*"
-  - "Matt Mochary — *The Great CEO Within*"
-  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
-  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
-  - "Peter F. Drucker — *The Effective Executive*"
-  - "Larry Bossidy & Ram Charan — *Execution*"
+  - "Patrick Lencioni — *The Five Dysfunctions of a Team*"
+  - "Ruth Wageman et al. — *Senior Leadership Teams*"
+  - "J. Richard Hackman — *Leading Teams*"
+  - "Jon R. Katzenbach & Douglas K. Smith — *The Wisdom of Teams*"
+  - "Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams*"
 limits:
-  - "No todas las decisiones deben ser colectivas. Un equipo ejecutivo efectivo reserva trabajo conjunto para asuntos enterprise y mantiene accountability funcional clara."
+  - "No todas las decisiones deben ser colectivas: un equipo efectivo reserva el trabajo conjunto para asuntos de empresa y mantiene la responsabilidad funcional clara."
 evidence_signals:
-  - "enterprise decisions reopened"
-  - "cross-functional commitments"
-  - "team trust"
-  - "meeting decision ratio"
-  - "succession coverage"
+  - "mandato colectivo escrito"
+  - "normas de decisión y conflicto"
+  - "cadencia del equipo diseñada"
+  - "conductas del equipo medidas"

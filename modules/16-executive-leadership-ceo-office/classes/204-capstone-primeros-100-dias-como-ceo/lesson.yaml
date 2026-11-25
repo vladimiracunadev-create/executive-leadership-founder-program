@@ -5,31 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir transition mandate de learning plan mediante evidencia observable."
-  - "Aplicar la secuencia: clarificar mandato y situación → diseñar learning agenda 30 días → evaluar equipo y riesgos → definir 3 a 5 prioridades y early wins → establecer operating cadence y revisión 100 días."
-  - "Interpretar learning coverage, critical-risk closure, team decisions sin atribuir causalidad automática."
-  - "Resolver el caso de capstone: primeros 100 días como CEO con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-  - "Interrogar conjuntamente mercado, cliente, modelo de negocio, economía, alianzas y proyección para decidir capital, owner y revisión."
+  - "Clarificar el mandato, las expectativas y las restricciones con el directorio."
+  - "Diseñar una agenda de aprendizaje de 30 días y medir su cobertura."
+  - "Evaluar al equipo y los riesgos críticos y decidir qué se cierra primero."
+  - "Definir tres a cinco prioridades con victorias tempranas y capital, dueños y revisión."
+  - "Establecer una cadencia operativa, una comunicación y un plan de ajuste."
 deliverable: "integrated-executive-decision-brief.md"
 references:
-  - "Ben Horowitz — *The Hard Thing About Hard Things*"
-  - "Matt Mochary — *The Great CEO Within*"
   - "Michael D. Watkins — *The First 90 Days*"
-  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
-  - "Larry Bossidy & Ram Charan — *Execution*"
-  - "Peter F. Drucker — *The Effective Executive*"
+  - "John J. Gabarro — *The Dynamics of Taking Charge*"
+  - "Ram Charan — *What the CEO Wants You to Know*"
+  - "Elena L. Botelho, Kim R. Powell & Tahl Raz — *The CEO Next Door*"
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
 limits:
-  - "Los 100 días son una convención, no una frontera mágica. En crisis se decide antes; en negocios complejos algunas conclusiones requieren más tiempo. El plan debe seguir evidencia."
+  - "Los 100 días son una convención; el plan debe seguir a la evidencia."
 evidence_signals:
-  - "learning coverage"
-  - "critical-risk closure"
-  - "team decisions"
-  - "stakeholder trust"
-  - "priority progress"
-  - "customer-evidence maturity"
-  - "scenario sensitivity"
-  - "capital at risk"
+  - "mandato y cobertura de aprendizaje"
+  - "riesgos críticos cerrados o mitigados"
+  - "prioridades con impacto calculado"
+  - "cadencia y comunicación definidas"

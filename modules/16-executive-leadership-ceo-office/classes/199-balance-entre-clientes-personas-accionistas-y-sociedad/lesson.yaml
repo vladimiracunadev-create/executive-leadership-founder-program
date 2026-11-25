@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir stakeholder de shareholder return mediante evidencia observable."
-  - "Aplicar la secuencia: mapear stakeholders materiales → identificar obligaciones y externalidades → cuantificar trade-offs cuando sea posible → definir principios y límites → decidir y explicar horizonte y compensaciones."
-  - "Interpretar customer trust, employee retention, ROIC sin atribuir causalidad automática."
-  - "Resolver el caso de balance entre clientes, personas, accionistas y sociedad con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Mapear las partes interesadas materiales de una decisión."
+  - "Distinguir obligaciones legales, compromisos y preferencias."
+  - "Cuantificar trade-offs entre partes cuando sea posible y señalar lo que no se puede cuantificar."
+  - "Definir principios, límites y reglas de decisión explícitas."
+  - "Comunicar la decisión con sus costos y rendir cuentas."
 deliverable: "commercial-decision-brief.md"
 references:
-  - "Ben Horowitz — *The Hard Thing About Hard Things*"
-  - "Matt Mochary — *The Great CEO Within*"
-  - "Peter F. Drucker — *The Effective Executive*"
-  - "Michael D. Watkins — *The First 90 Days*"
-  - "Ram Charan — *What the CEO Wants You to Know*"
-  - "Larry Bossidy & Ram Charan — *Execution*"
+  - "R. Edward Freeman — *Strategic Management: A Stakeholder Approach*"
+  - "Michael C. Jensen — *Value Maximization, Stakeholder Theory, and the Corporate Objective Function*"
+  - "Michael E. Porter & Mark R. Kramer — *Creating Shared Value*"
+  - "Paul Polman & Andrew Winston — *Net Positive*"
+  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
 limits:
-  - "La retórica stakeholder puede justificar decisiones sin accountability. Mantén objetivos, responsables y economics claros; no uses balance para evitar elegir."
+  - "La retórica de las partes interesadas puede encubrir la falta de rendición de cuentas; se mantienen objetivos, responsables y cifras claros."
 evidence_signals:
-  - "customer trust"
-  - "employee retention"
-  - "ROIC"
-  - "regulatory incidents"
-  - "reputation indicators"
+  - "partes materiales mapeadas"
+  - "obligaciones separadas de preferencias"
+  - "trade-offs cuantificados y nombrados"
+  - "principios y rendición de cuentas"

@@ -10,254 +10,202 @@
 
 ## 🎯 Propósito
 
-En crisis y decisiones irreversibles, el CEO debe elevar calidad de información sin paralizarse. Pre-mortems, red teams, staged commitments y criterios de stop reducen riesgo; cuando una decisión no es reversible, aumenta la necesidad de alternativas y challenge independiente.
+Las decisiones más difíciles de un CEO tienen dos rasgos a la vez: son **irreversibles** (despedir a un ejecutivo clave, cerrar una planta, adquirir una empresa, comunicar una cifra) y se toman **bajo presión** (poco tiempo, información incompleta, emociones intensas, presión de directorio, prensa o clientes). Esa combinación lleva a dos errores opuestos: decidir demasiado rápido porque «hay que hacer algo», o paralizarse por no equivocarse. Las organizaciones que lo hacen mejor no deciden con más genio, sino con **un procedimiento que adapta el rigor a la irreversibilidad y al daño potencial**: clasifican, buscan el peor caso, convocan a quien desafía, comprometen por etapas cuando pueden y fijan de antemano qué evidencia reabriría la decisión.
 
-La salida de esta parte es **pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **crisis y decisiones irreversibles** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el estudio de Klein sobre cómo decide la experiencia bajo presión, en el análisis de Weick del desastre de Mann Gulch sobre el colapso del sentido, en la mirada práctica de Horowitz sobre las decisiones del CEO en tiempos de guerra, en el pensamiento de Taleb sobre las pérdidas extremas y las opciones, y en la guía de Duke para decidir con incertidumbre. Al terminar sabrás clasificar una decisión por su reversibilidad, buscar el peor caso y las alternativas, organizar un desafío independiente, fraccionar el compromiso y registrar una regla de parada, incluidas las decisiones sobre una persona clave y aquellas en las que interviene la IA.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `irreversible decision`, `pre-mortem`, `red team`, `staged commitment`, `stop rule` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. clasificar reversibilidad → 2. buscar downside y alternativas → 3. activar challenge independiente → 4. fraccionar compromiso si es posible → 5. definir stop rule y decision log** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** downside exposure, option value, red-team findings sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
-7. **Comparar** mantener, reasignar, apartar y separar a una persona clave con criterio de reversibilidad y evidencia que reabra la decisión.
-8. **Decidir** entre intereses comerciales, legales, laborales, éticos y reputacionales y asignar responsabilidad humana cuando interviene IA.
+1. **Clasificar** una decisión según su reversibilidad y su daño potencial.
+2. **Buscar** el peor caso razonable y alternativas antes de comprometerte.
+3. **Organizar** un desafío independiente y evitar el pensamiento de grupo.
+4. **Fraccionar** el compromiso y definir reglas de parada y de reapertura.
+5. **Decidir** sobre una persona clave y con intervención de IA asignando responsabilidad humana.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define irreversible decision y pre-mortem sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con downside exposure y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué decisión irreversible tomó tu empresa con prisa y qué habrías pedido antes de decidir? |
+| 20–60 min | Experiencia bajo presión, sentido, clasificación, desafío, fraccionamiento y registro. |
+| 60–105 min | Ejemplo trabajado: qué hacer con un ejecutivo clave ante una denuncia creíble. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **irreversible decision** | elección cuyo costo de deshacer es alto o imposible | Distingue un hecho compatible y otro que lo refute. |
-| **pre-mortem** | ejercicio que imagina fracaso futuro para revelar riesgos | Distingue un hecho compatible y otro que lo refute. |
-| **red team** | grupo que desafía supuestos y plan | Distingue un hecho compatible y otro que lo refute. |
-| **staged commitment** | desembolso o compromiso por etapas ligado a evidencia | Distingue un hecho compatible y otro que lo refute. |
-| **stop rule** | condición predefinida para detener o reevaluar | Distingue un hecho compatible y otro que lo refute. |
+| **Decisión irreversible** | Decisión difícil o imposible de deshacer a costo razonable. | Despidos, cierres, adquisiciones, comunicaciones públicas. |
+| **Reconocimiento de patrones** | Uso de la experiencia para ver una situación como familiar y actuar. | Decisiones rápidas de expertos. |
+| **Colapso del sentido** | Pérdida de la capacidad de interpretar una situación durante una crisis. | Las personas dejan de seguir roles y reglas. |
+| **Desafío independiente** | Revisión por alguien sin interés en el resultado, cuyo rol es buscar fallas. | Equipo rojo, «abogado del diablo» formal. |
+| **Regla de parada** | Condición pactada de antemano que obliga a detenerse o revisar. | Umbrales de evidencia o de daño. |
+| **Registro de decisión** | Documento con contexto, supuestos, alternativas y razones. | Permite aprender y rendir cuentas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 202: 1. clasificar reversibilidad → 2. buscar downside y alternativas → 3. activar challenge independiente → 4. fraccionar compromiso si es posible → 5. definir stop rule y decision log](modelo-mental.svg)
+![Decidir lo irreversible bajo presión: clasificar, peor caso y alternativas, desafío independiente, fraccionar, regla de parada y registro.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. clasificar reversibilidad → 2. buscar downside y alternativas → 3. activar challenge independiente → 4. fraccionar compromiso si es posible → 5. definir stop rule y decision log
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **En crisis y decisiones irreversibles, el CEO debe elevar calidad de información sin paralizarse. Pre-mortems, red teams, staged commitments y criterios de stop reducen riesgo; cuando una decisión no es reversible, aumenta la necesidad de alternativas y challenge independiente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **En una crisis real no siempre hay tiempo para análisis completo. El objetivo es adaptar rigor a irreversibilidad y daño potencial, no exigir un proceso idéntico para todo.**
+**Cómo leer el diagrama.** Una cadena de cinco pasos con retorno. **Clasificar**: ¿se puede revertir y a qué costo? **Peor caso y alternativas**: qué se pierde y qué otras opciones hay. **Desafío independiente**: alguien ajeno busca lo que no se ve. **Fraccionar**: comprometer por etapas si se puede. **Regla de parada y registro**: qué evidencia reabre la decisión. La flecha indica que la evidencia nueva reabre la decisión. La nota explica que el rigor se adapta a la irreversibilidad y al daño potencial; el pie, que una decisión irreversible sin registro de supuestos no se puede aprender ni defender.
 
 ## 📖 Desarrollo
 
-### 1. irreversible decision: mecanismo central
+### 1. Qué hace la experiencia bajo presión
 
-**irreversible decision** se entiende aquí como **elección cuyo costo de deshacer es alto o imposible**. Esta es la pieza causal o estructural desde la que se inicia **crisis y decisiones irreversibles**: antes de clasificar reversibilidad, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Klein estudió a bomberos, militares y enfermeras que deciden en segundos y encontró que no comparan opciones sistemáticamente: **reconocen** la situación como parecida a otra que conocen, **simulan mentalmente** la acción y, si anticipan un problema, la ajustan. Este reconocimiento de patrones funciona muy bien cuando la persona tiene **experiencia relevante** y el entorno ofrece **retroalimentación**; falla cuando la situación es nueva, el entorno engañoso o la experiencia irrelevante. Para el CEO, esto implica: confiar en la intuición de expertos genuinos en situaciones que conocen, pero **desconfiar de la propia** en terrenos nuevos, y buscar a quienes tienen la experiencia relevante. Klein también propone el **pre-mortem**: imaginar que la decisión fracasó y explicar por qué, para detectar riesgos antes de comprometerse.
 
-La lectura rectora de este bloque es Ben Horowitz — *The Hard Thing About Hard Things*. Su aporte se usa para examinar **decisiones difíciles de CEO, organización, personas y ejecución bajo presión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **downside exposure**; regístrala con periodo, unidad, población y baseline.
+### 2. Cuando el sentido se rompe
 
-Relaciona el mecanismo con **pre-mortem**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Weick analizó el desastre de Mann Gulch, donde trece bomberos murieron en un incendio forestal, y describió un **colapso del sentido**: cuando el incendio cambió de forma inesperada, las personas dejaron de entender qué ocurría, los roles dejaron de funcionar y algunos actuaron de manera que no se adaptaba a la situación (por ejemplo, seguir cargando sus herramientas pesadas mientras huían). Su lección para las organizaciones es que, en una crisis, el primer problema no es decidir, sino **entender** lo que ocurre: construir un relato provisional compartido, verificarlo con datos y corregirlo. Un CEO en crisis ayuda a restablecer el sentido: define qué se sabe y qué no, asigna roles, comunica con frecuencia y acepta revisar la interpretación.
 
-### 2. pre-mortem: frontera conceptual y error de clasificación
+### 3. Clasificar por reversibilidad
 
-**Definición operacional:** ejercicio que imagina fracaso futuro para revelar riesgos. Su valor está en distinguirlo de **irreversible decision** y **red team**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La pregunta clave antes de decidir es: **si me equivoco, ¿puedo deshacerlo y a qué costo?** Las decisiones reversibles se toman con información razonable y se corrigen. Las irreversibles exigen más rigor, tiempo y desafío. Se consideran: **costo de revertir** (dinero, relaciones, reputación), **plazo** (¿se puede esperar sin daño grave?), **daño potencial** en el peor caso y **opciones intermedias** (¿hay un paso reversible que reduzca la urgencia?). Duke recuerda que la calidad de una decisión no se mide solo por su resultado: se evalúa por el proceso, los datos y las probabilidades, y se registra para aprender. Y Taleb advierte de ser especialmente cuidadosos con decisiones que exponen a **pérdidas extremas** que no se podrían soportar, porque ninguna probabilidad pequeña compensa un daño que destruye a la empresa.
 
-Contrasta el problema con Matt Mochary — *The Great CEO Within*, que aporta una mirada sobre **sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo**. Formula dos mini-casos: uno que sí satisface la definición de **pre-mortem** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **option value** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Peor caso, alternativas y pre-mortem
 
-Antes de buscar downside y alternativas, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Antes de comprometer, se responden tres preguntas: ¿cuál es el **peor caso razonable** y podemos soportarlo?, ¿qué **alternativas** hay, incluidas no hacer nada, esperar o hacer una versión más pequeña?, y ¿qué pasaría si la decisión **falla** (pre-mortem)? Se suele descubrir que la urgencia es menor de lo percibido, que hay un paso reversible que da tiempo (por ejemplo, **suspender** antes de **despedir**) o que el peor caso es inaceptable. Se identifican además las **opciones** que se pierden y las que se ganan con cada camino, y los **disparadores** que cambiarían la elección. Horowitz señala que en tiempos de guerra el CEO debe decidir sin certezas, pero debe hacerlo con claridad sobre lo que no sabe.
 
-### 3. red team: operacionalización y medición
+### 5. Desafío independiente y pensamiento de grupo
 
-**red team** significa **grupo que desafía supuestos y plan**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Las decisiones importantes bajo presión están expuestas al **pensamiento de grupo**: el grupo busca consenso rápido, se silencian las dudas y se refuerza la postura de quien lidera. Se contrarresta con **desafío independiente**: designar a una persona o equipo (con distancia del resultado) que busque los fallos, pedir opiniones por escrito antes de la discusión, invitar a quienes disienten, consultar a expertos externos y escuchar en último lugar al líder. El desafío no es un trámite: tiene **acceso a los datos**, **tiempo** y **autoridad** para detener o pedir más análisis. Su resultado se registra, incluyendo los hallazgos que no se aceptaron y por qué. Edmondson (clase 174) recuerda que sin seguridad psicológica el desafío no ocurre.
 
-Peter F. Drucker — *The Effective Executive* orienta este bloque mediante **efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **red-team findings**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Fraccionar y fijar reglas de parada
 
-Al llegar a activar challenge independiente, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cuando es posible, se **fracciona** el compromiso: probar en pequeña escala, pagar por etapas, firmar una opción antes del contrato, suspender antes de separar, anunciar internamente antes de hacerlo público. Cada etapa tiene criterios de **continuar, ajustar o detener**. Se escribe una **regla de parada**: qué evidencia haría que cambiemos de rumbo y quién tiene la autoridad. Esto protege del sesgo de continuar por costos hundidos y de la rigidez posterior. Taleb argumenta que conviene preferir estructuras con **opciones** (poder detenerse o aprovechar sin costo alto) frente a las que obligan a apostar todo de una vez.
 
-### 4. staged commitment: trade-offs y efectos de segundo orden
+### 7. Decidir sobre una persona clave
 
-**Definición:** desembolso o compromiso por etapas ligado a evidencia. Este concepto obliga a abandonar la idea de que **crisis y decisiones irreversibles** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de fraccionar compromiso si es posible, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
+Entre las decisiones más delicadas están las que afectan a una persona clave de la que se tiene una denuncia o un desempeño problemático. Las opciones suelen ser: **mantener**, **reasignar**, **apartar temporalmente** (con investigación) o **separar**. Se comparan con criterio de **reversibilidad** (apartar temporalmente es reversible; separar, no), **obligaciones** (la empresa debe investigar denuncias creíbles y proteger a las personas afectadas, conforme a normas laborales y de seguridad que se verifican con asesoría), **evidencia** (qué se sabe y qué no) y **riesgos** comerciales, legales, laborales, éticos y reputacionales. Se define de antemano qué evidencia reabriría la decisión. Y se cuida el **proceso**: imparcialidad, confidencialidad, derecho a ser oído y registro.
 
-Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* aporta una lente sobre **perspectiva de Sucesión aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **stage-gate success** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
+### 8. Cuando interviene la IA
 
-Haz un *pre-mortem* de **crisis y decisiones irreversibles**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **staged commitment** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. stop rule: gobernanza, límites e integración
-
-**stop rule** se define como **condición predefinida para detener o reevaluar** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* se utiliza para estudiar **impacto emocional del liderazgo y estilos de conducción** y contrastar la recomendación final. Al ejecutar definir stop rule y decision log, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **En una crisis real no siempre hay tiempo para análisis completo. El objetivo es adaptar rigor a irreversibilidad y daño potencial, no exigir un proceso idéntico para todo.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **irreversible decision**, **pre-mortem**, **red team**, **staged commitment** y **stop rule** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **crisis y decisiones irreversibles** no consiste en sumar cinco definiciones. Empieza por **irreversible decision**, contrasta **pre-mortem** con **red team**, incorpora **staged commitment** como restricción o mecanismo y usa **stop rule** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. clasificar reversibilidad → 2. buscar downside y alternativas → 3. activar challenge independiente → 4. fraccionar compromiso si es posible → 5. definir stop rule y decision log**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Decisiones difíciles de revertir con información que aún no existe
-
-Mantener, apartar temporalmente o reemplazar a una persona clave tiene costos asimétricos: apartar a alguien sin pruebas es difícil de deshacer; mantenerlo con un riesgo real también. Antes de decidir, compara **escenarios alternativos** con la misma ficha:
-
-| Escenario | Qué protege | Qué arriesga | Condición que lo cambia |
-|---|---|---|---|
-| **Mantener con salvaguardas** | Continuidad y presunción de inocencia. | Que el riesgo exista y no se haya contenido. | Evidencia de acceso o decisión comprometidos. |
-| **Reasignar temporalmente** | Información sensible durante la revisión. | Señal de culpa percibida; pérdida de liderazgo. | Resultado de la investigación independiente. |
-| **Apartar** | Independencia máxima de la revisión. | Daño reputacional y de continuidad si resulta infundado. | Hallazgos que confirmen conflicto o incumplimiento. |
-| **Separar definitivamente** | Integridad institucional. | Decisión irreversible sin base suficiente. | Hechos probados y debido proceso. |
-
-Elige el menor paso que contenga el riesgo y preserve la opción de moverte en ambos sentidos cuando lleguen datos. Fija **qué evidencia** y **qué fecha** reabren la decisión.
-
-### Decidir entre intereses que chocan: comercial, legal, laboral, ético y reputacional
-
-En una crisis, los intereses legítimos rara vez coinciden. Lo comercial prefiere continuidad, lo legal prefiere cautela en lo que se dice, lo laboral exige trato justo, lo ético exige verdad y lo reputacional exige rapidez. El error es **resolver el conflicto eliminando una de las voces**.
-
-| Interés | Pregunta que plantea | Riesgo si manda solo |
-|---|---|---|
-| **Comercial** | ¿Qué protege ingresos y contratos? | Minimizar el daño a clientes. |
-| **Legal** | ¿Qué obligación nos vincula y qué puede usarse en contra? | Silencio que parece ocultamiento. |
-| **Laboral** | ¿Qué debemos a las personas? | Medidas que luego se leen como represalia. |
-| **Ético** | ¿Qué es correcto aunque sea costoso? | Decidir sin medir consecuencias legales. |
-| **Reputacional** | ¿Cómo lo leerán los grupos de interés? | Declarar antes de saber. |
-
-**Regla de decisión:** exige a cada voz una **recomendación con su sustento y su costo**; el decisor elige, y registra **qué interés cedió y por qué**. Una decisión defendible puede equivocarse; una no explicada no puede defenderse.
-
-**IA y liderazgo humano:** cuando un sistema de IA propone, clasifica o ejecuta, la responsabilidad **no se delega**. Define quién supervisa, qué decisiones nunca se automatizan, cómo se detecta un error y quién responde ante el afectado. *Caso: un agente de IA comete un error que afecta a clientes.* Pasos: detener o limitar el agente, preservar registros, identificar a los afectados, informar con hechos y con el límite de lo que se conoce, corregir y revisar la supervisión. Decir «fue el sistema» no es una respuesta; el cargo responde.
-
-**Simulación de directorio:** presenta tres decisiones defendibles (A, B, C) ante un directorio; el estudiante elige, expone **sustento y consecuencias esperadas**, y responde a una objeción que contradiga su preferencia. Se evalúa con la rúbrica de decisiones bajo presión del documento `docs/REPUTATION_AND_CRISIS_LEADERSHIP.md`.
+Si un sistema de IA recomienda, prioriza o redacta parte de la decisión, **la responsabilidad sigue siendo humana**: un dueño con nombre decide, conoce los límites del sistema, verifica sus resultados y puede explicar por qué aceptó o rechazó la recomendación. No se delega en la IA una decisión irreversible sobre personas sin supervisión humana efectiva (clase 188). Se registra qué recomendó el sistema, con qué datos y qué decidió la persona. La IA puede ayudar a buscar escenarios o a detectar patrones; no sustituye el criterio ni la rendición de cuentas.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **crisis y decisiones irreversibles** ayuda a desafiar? |
-| Matt Mochary — *The Great CEO Within* | sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo | ¿Qué supuesto de **crisis y decisiones irreversibles** ayuda a desafiar? |
-| Peter F. Drucker — *The Effective Executive* | efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo | ¿Qué supuesto de **crisis y decisiones irreversibles** ayuda a desafiar? |
-| Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* | perspectiva de Sucesión aplicada al problema de la clase | ¿Qué supuesto de **crisis y decisiones irreversibles** ayuda a desafiar? |
-| Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* | impacto emocional del liderazgo y estilos de conducción | ¿Qué supuesto de **crisis y decisiones irreversibles** ayuda a desafiar? |
-
-En **crisis y decisiones irreversibles**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **irreversible decision**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Klein | Cómo decide la experiencia y el pre-mortem. | Funciona en dominios con experiencia relevante. | ¿Tenemos experiencia relevante aquí? |
+| Weick (Mann Gulch) | Colapso del sentido y papel de roles y reglas. | Un caso de desastre específico. | ¿Entendemos lo que está ocurriendo? |
+| Horowitz | Decisiones del CEO en tiempos difíciles. | Experiencia personal de un fundador. | ¿Qué sabemos y qué no? |
+| Taleb | Pérdidas extremas y opciones. | Concepto general. | ¿Podemos sobrevivir al peor caso? |
+| Duke | Decidir con incertidumbre y separar decisión de resultado. | No fija procedimientos para crisis. | ¿Qué probabilidad le asignamos? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** El CEO debe decidir adquirir una empresa por 40% de la capitalización propia en 72 horas. El sponsor también dirige due diligence y ha prometido públicamente transformación.
+**Situación (hipotética).** Una empresa recibe una denuncia creíble contra un director comercial por conductas que podrían violar la política interna y normas laborales. Su cartera es de 9.800 millones de pesos de ventas con un margen de 20 %: 1.960 millones. La empresa estima en 25 % la probabilidad de que los hechos sean ciertos.
 
-**Paso 1 — clasificar reversibilidad.** La gerencia escribe primero el supuesto asociado a **irreversible decision** y evita convertirlo en hecho. Luego busca **downside exposure** para contrastarlo en el caso de **crisis y decisiones irreversibles**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Restricción dura.** La empresa tiene la **obligación de investigar** una denuncia creíble y de proteger a las personas afectadas, conforme a la normativa vigente que se verifica con asesoría. Por tanto, **mantener sin investigar no es una opción admisible**, aunque tenga un costo esperado bajo.
 
-**Paso 2 — buscar downside y alternativas.** La gerencia escribe primero el supuesto asociado a **pre-mortem** y evita convertirlo en hecho. Luego busca **option value** para contrastarlo en el caso de **crisis y decisiones irreversibles**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Comparación de opciones (en millones de pesos).**
 
-**Paso 3 — activar challenge independiente.** La gerencia escribe primero el supuesto asociado a **red team** y evita convertirlo en hecho. Luego busca **red-team findings** para contrastarlo en el caso de **crisis y decisiones irreversibles**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Opción | Costo si los hechos son ciertos (25 %) | Costo si no lo son (75 %) | Costo esperado | Peor caso |
+|---|---|---|---|---|
+| 1. Mantener sin investigar | 600 (legal y reputación) + 300 (agravante por inacción) = 900 | 0 | 0,25 × 900 = 225 | 900 |
+| 2. Apartar 30 días e investigar | 123 + 294 + 200 = 617 | 123 + 20 = 143 | 0,25 × 617 + 0,75 × 143 = 261,5 | 617 |
+| 3. Separar de inmediato | 294 + 200 = 494 | 294 + 300 (reclamo por separación injustificada) = 594 | 0,25 × 494 + 0,75 × 594 = 569 | 594 |
 
-**Paso 4 — fraccionar compromiso si es posible.** La gerencia escribe primero el supuesto asociado a **staged commitment** y evita convertirlo en hecho. Luego busca **stage-gate success** para contrastarlo en el caso de **crisis y decisiones irreversibles**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Notas de cálculo.** Apartar 30 días: disrupción de 5 % del margen de la cartera (98) más 25 de la investigación = 123. Si se prueba, se separa y se pierde el 15 % del margen por fuga de clientes (294) con un costo legal y reputacional menor por haber actuado a tiempo (200). Si no se prueba, se reintegra y se invierten 20 en reparación. Separar de inmediato: fuga de 294 con certeza; si resultara que no eran ciertos, el costo de un reclamo se estima en 300.
 
-**Paso 5 — definir stop rule y decision log.** La gerencia escribe primero el supuesto asociado a **stop rule** y evita convertirlo en hecho. Luego busca **decision reversal cost** para contrastarlo en el caso de **crisis y decisiones irreversibles**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** La opción 1 tiene el menor costo esperado, pero no es admisible. Entre las opciones 2 y 3, la **opción 2 cuesta menos de la mitad** en términos esperados (261,5 frente a 569), es **reversible** y mantiene la posibilidad de separar si la investigación lo respalda. Su peor caso (617) es comparable al de la opción 3 (594), con una probabilidad menor de ocurrir.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **crisis y decisiones irreversibles**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Pre-mortem.** Se imagina que la decisión fracasó: ¿por qué? Respuestas: la investigación fue percibida como parcial; se filtró la información; los clientes de la cartera se fueron antes de aclarar los hechos; la persona afectada sufrió represalias. Medidas: investigación a cargo de un tercero independiente, confidencialidad reforzada, plan de continuidad de la cartera con un responsable interino y comunicación a los clientes, y protección de la denunciante.
+
+**Desafío independiente.** Un miembro del directorio y la asesoría legal revisan el procedimiento antes de aplicarlo; se pide por escrito la opinión del gerente de personas y de la gerente legal antes de que hable el CEO.
+
+**Regla de parada y registro.** Si a los 30 días la investigación no ha reunido evidencia suficiente, se prorroga una sola vez por 15 días con la aprobación del directorio; si los hechos se confirman, se aplica el procedimiento disciplinario conforme a la normativa; si no, se reintegra con plan de reparación. Se registra el análisis con fecha, supuestos y razones.
+
+**Uso de IA.** Un sistema de análisis de comunicaciones sugirió «alto riesgo» sobre varios correos; la gerente de personas decide no usarlo como prueba y pide que un investigador humano revise los documentos originales, con registro de la recomendación y de la decisión.
+
+**Cuidados.** Las probabilidades y costos son estimaciones; el procedimiento disciplinario, los plazos y los derechos de las partes se verifican con asesoría laboral y las normas vigentes; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La restricción dura excluyó una opción barata. (2) La reversibilidad favoreció suspender antes de separar. (3) El registro y la regla de parada permiten rendir cuentas.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **irreversible decision** | elección cuyo costo de deshacer es alto o imposible | Cuando downside exposure es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **pre-mortem** | ejercicio que imagina fracaso futuro para revelar riesgos | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Decisión irreversible frente a pre-mortem.** El pre-mortem es una técnica para encontrar riesgos antes de comprometerse; la irreversibilidad es una propiedad de la decisión que determina cuánto rigor se necesita. Se usan juntas.
 
-**Frontera de aplicación:** En una crisis real no siempre hay tiempo para análisis completo. El objetivo es adaptar rigor a irreversibilidad y daño potencial, no exigir un proceso idéntico para todo.
+**Límites.** En una crisis real no siempre hay tiempo para un análisis completo; el objetivo es adaptar el rigor a la irreversibilidad y al daño, no exigir un proceso idéntico para todo. La intuición experta es valiosa solo en dominios con experiencia relevante. Los costos y probabilidades del ejemplo son estimaciones. Las obligaciones laborales y de protección se verifican con asesoría y fuentes oficiales.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre crisis y decisiones irreversibles |
+| Nivel | Cómo participa |
 |---|---|
-| **Profesional** | usa **crisis y decisiones irreversibles** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **irreversible decision** y **pre-mortem** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta downside exposure con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si crisis y decisiones irreversibles cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de crisis y decisiones irreversibles reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **crisis y decisiones irreversibles** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Señala riesgos y supuestos antes de una decisión grave. |
+| **Jefe / Team Lead** | Evita decidir por pánico y escala a tiempo. |
+| **Gerente** | Prepara alternativas y el peor caso para el comité. |
+| **CEO / Director** | Decide con procedimiento, pide desafío y firma con registro. |
+| **Founder / Owner** | Acepta frenar decisiones propias cuando el desafío muestra riesgos. |
 
 ## 🏢 Caso ejecutivo
 
-El CEO debe decidir adquirir una empresa por 40% de la capitalización propia en 72 horas. El sponsor también dirige due diligence y ha prometido públicamente transformación.
+Una empresa de manufactura con 2.600 personas recibe un martes la noticia de que un lote de producto podría tener un defecto de seguridad. Hay 38.000 unidades vendidas en las últimas seis semanas; un retiro total costaría unos 2.900 millones de pesos más el daño reputacional; esperar a confirmar con pruebas externas llevará 10 días; un abogado sugiere «no decir nada hasta tener certeza». El director de calidad está seguro en un 60 % de que el defecto existe; el director comercial teme perder a tres cadenas de distribución; el CEO está presionado por el directorio, por un periodista que ya llamó y por los empleados de la planta. En la sala, nadie discrepa del plan de «esperar». Además, un sistema de IA de calidad predice «bajo riesgo» con base en datos de procesos anteriores, y se propone usarlo como argumento.
 
-Entrega un **decision brief de crisis y decisiones irreversibles** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **protocolo de decisión irreversible** que contenga: (a) la clasificación de las decisiones por reversibilidad y daño potencial, y las restricciones duras (seguridad de las personas y obligaciones legales); (b) el peor caso razonable, las alternativas (incluido un retiro parcial o escalonado) y el pre-mortem; (c) el desafío independiente y quién lo lidera; (d) el fraccionamiento del compromiso y las reglas de parada; (e) el registro de la decisión y el papel de la IA; (f) las verificaciones legales, regulatorias y de comunicación con asesoría.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **crisis y decisiones irreversibles** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. clasificar reversibilidad → 2. buscar downside y alternativas → 3. activar challenge independiente → 4. fraccionar compromiso si es posible → 5. definir stop rule y decision log** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta downside exposure, option value; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
-7. Completa la tabla de escenarios para una crisis de persona clave y elige el menor paso que contenga el riesgo.
-8. Presenta tres decisiones defendibles ante un directorio simulado, elige una y responde a la objeción más fuerte.
+1. Clasifica diez decisiones recientes de tu empresa por reversibilidad y daño potencial.
+2. Haz un pre-mortem de una decisión pendiente y lista cinco causas de fracaso.
+3. Diseña un desafío independiente para una decisión: quién, con qué datos y con qué autoridad.
+4. Fracciona una decisión irreversible en tres etapas con criterios de continuar o detener.
+5. Escribe el registro de una decisión con contexto, supuestos, alternativas, razones y disparador de revisión.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar irreversible decision y pre-mortem como sinónimos | Se pierde la distinción entre “elección cuyo costo de deshacer es alto o imposible” y “ejercicio que imagina fracaso futuro para revelar riesgos” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “definir stop rule y decision log” | Se saltó “clasificar reversibilidad” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. clasificar reversibilidad → 2. buscar downside y alternativas → 3. activar challenge independiente → 4. fraccionar compromiso si es posible → 5. definir stop rule y decision log y marca el primer supuesto no demostrado. |
-| Optimizar solo downside exposure | La métrica local sustituyó al resultado del sistema | Contrástala con option value y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre crisis y decisiones irreversibles | En una crisis real no siempre hay tiempo para análisis completo. El objetivo es adaptar rigor a irreversibilidad y daño potencial, no exigir un proceso idéntico para todo. |
-| No fijar revisión | Una decisión sobre crisis y decisiones irreversibles se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Decidir por la urgencia percibida | Presión emocional | Clasificar la reversibilidad y buscar un paso reversible. |
+| Pensamiento de grupo | Se evita el conflicto | Desafío independiente y opiniones por escrito. |
+| Confiar en la intuición en terrenos nuevos | Sobreconfianza | Buscar expertos y evidencia relevante. |
+| No fijar regla de parada | Se teme revisar | Disparadores y autoridad definidos de antemano. |
+| Delegar en la IA lo irreversible | Se busca objetividad | Dueño humano, supervisión y registro. |
+| No registrar la decisión | Urgencia | Documento breve con supuestos y razones. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **irreversible decision** y **pre-mortem** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **red team** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **clasificar reversibilidad → buscar downside y alternativas** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **downside exposure** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **crisis y decisiones irreversibles**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **En una crisis real no siempre hay tiempo para análisis completo. El objetivo es adaptar rigor a irreversibilidad y daño potencial, no exigir un proceso idéntico para todo.**?
+1. ¿Cuándo funciona bien la intuición experta según Klein?
+2. ¿Qué es el colapso del sentido y cómo ayuda un CEO a restablecerlo?
+3. ¿Qué preguntas se hacen antes de una decisión irreversible?
+4. ¿Qué es un pre-mortem?
+5. ¿Para qué sirve el desafío independiente?
+6. ¿Cómo se fracciona un compromiso y qué es una regla de parada?
+7. ¿Quién es responsable cuando la IA interviene en la decisión?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Cuando la persona tiene experiencia relevante y el entorno ofrece retroalimentación; falla en situaciones nuevas o engañosas.
+2. La pérdida de la capacidad de interpretar la situación; el CEO ayuda definiendo lo que se sabe y no se sabe, asignando roles, comunicando y aceptando revisar la interpretación.
+3. Si se puede revertir y a qué costo, cuál es el peor caso razonable, qué alternativas hay y qué pasaría si falla.
+4. Imaginar que la decisión fracasó y explicar por qué para detectar riesgos antes de comprometerse.
+5. Para buscar fallas con distancia del resultado, evitar el pensamiento de grupo y pedir más análisis cuando corresponde.
+6. Probando en pequeña escala, pagando por etapas o suspendiendo antes de separar; la regla de parada es la evidencia pactada que obliga a revisar.
+7. Un dueño humano con nombre, que verifica el sistema, decide y registra la recomendación y sus razones.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/202-crisis-y-decisiones-irreversibles/`:
 
-- `leadership-decision-brief.md` con el problema específico de **crisis y decisiones irreversibles**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **crisis y decisiones irreversibles** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **irreversible decision**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **El CEO debe decidir adquirir una empresa por 40% de la capitalización propia en 72 horas. El sponsor también dirige due diligence y ha prometido públicamente transformación.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el protocolo del caso ejecutivo;
+- `crisis-committee-charter.md` (plantilla [Acta de constitución del comité de crisis](../../../../templates/crisis-committee-charter.md)) con el desafío independiente y las reglas de decisión;
+- `decision-journal.md` con el registro de la decisión, el pre-mortem y las reglas de parada.
 
 ## 📗 Fuentes y verificación
 
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **crisis y decisiones irreversibles**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Matt Mochary — *The Great CEO Within* (Mochary Films, 2019). **Uso en esta clase:** sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo. Lectura selectiva sobre **crisis y decisiones irreversibles**. **Localizador:** [ISBN-13 9780578599281](https://openlibrary.org/isbn/9780578599281).
-- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **crisis y decisiones irreversibles**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* (Jossey-Bass, 2000). **Uso en esta clase:** perspectiva de Sucesión aplicada al problema de la clase. Lectura selectiva sobre **crisis y decisiones irreversibles**. **Localizador:** [ISBN-13 9780787951726](https://openlibrary.org/isbn/9780787951726).
-- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** impacto emocional del liderazgo y estilos de conducción. Lectura selectiva sobre **crisis y decisiones irreversibles**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
-- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva sobre **crisis y decisiones irreversibles**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **crisis y decisiones irreversibles** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **crisis y decisiones irreversibles**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **crisis y decisiones irreversibles** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **crisis y decisiones irreversibles** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **crisis y decisiones irreversibles** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Gary Klein — *Sources of Power* (The MIT Press, 1999). **Uso en esta clase:** cómo decide la experiencia bajo presión y el pre-mortem. Lectura selectiva sobre **crisis y decisiones irreversibles**. **Localizador:** [ISBN-13 9780262611466](https://openlibrary.org/isbn/9780262611466).
+- Karl E. Weick — *The Collapse of Sensemaking in Organizations: The Mann Gulch Disaster* (Administrative Science Quarterly, 1993). **Uso en esta clase:** colapso del sentido en una crisis. Lectura selectiva sobre **crisis y decisiones irreversibles**. **Localizador:** [DOI 10.2307/2393339](https://doi.org/10.2307/2393339).
+- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones del CEO en tiempos difíciles. Lectura selectiva sobre **crisis y decisiones irreversibles**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
+- Nassim Nicholas Taleb — *Antifragile* (Random House, 2012). **Uso en esta clase:** pérdidas extremas y opciones. Lectura selectiva sobre **crisis y decisiones irreversibles**. **Localizador:** [ISBN-13 9780679645276](https://openlibrary.org/isbn/9780679645276).
+- Annie Duke — *How to Decide* (Portfolio, 2020). **Uso en esta clase:** decisión y resultado bajo incertidumbre. Lectura selectiva sobre **crisis y decisiones irreversibles**. **Localizador:** [ISBN-13 9780593418482](https://openlibrary.org/isbn/9780593418482).
 
-> **Regla de fuentes para Crisis y decisiones irreversibles:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **crisis y decisiones irreversibles** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Crisis y decisiones irreversibles:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales, de seguridad de productos y de comunicación. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

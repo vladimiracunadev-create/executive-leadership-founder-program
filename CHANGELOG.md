@@ -39,6 +39,13 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 16 completa** (193–204, con la 200 ya hecha a mano): transición de gerente a ejecutivo (Gabarro,
+  Watkins, Hambrick y Mason), pensar a nivel empresa (Rumelt, Goldratt, Koller), construir el equipo ejecutivo
+  (Lencioni, Wageman y otros, Hackman), arquitectura de decisiones (Mankins y Garton, Kahneman y otros),
+  agenda del CEO (Drucker, Grove, Newport), asignación de capital y talento (Bower, Thorndike), balance entre
+  partes interesadas (Freeman, Jensen, Porter y Kramer), leadership pipeline (Charan, Drotter y Noel), crisis y
+  decisiones irreversibles (Klein, Weick), sucesión del CEO y capstone de los primeros 100 días; cada clase con
+  fuentes verificadas, cifras recalculadas y un diagrama a medida.
 - **La parte 15 completa** (181–192): gestión integrada de riesgos (COSO, ISO 31000, Kaplan y Garrick), apetito y
   límites, controles internos y segregación de funciones, alfabetización legal del gerente, contratos, privacidad y
   gobierno de datos (Solove), gobierno de ciberseguridad (NIST CSF 2.0), gobierno responsable de IA (NIST AI RMF,

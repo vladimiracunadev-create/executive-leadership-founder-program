@@ -10,217 +10,195 @@
 
 ## 🎯 Propósito
 
-La transición de gerente a ejecutivo exige cambiar de optimización local a responsabilidad por el sistema completo. El nuevo ejecutivo debe abandonar parte de su identidad funcional, construir una agenda de aprendizaje, mapear stakeholders y redefinir qué decisiones solo él puede tomar.
+La promoción de gerente a ejecutivo es la más engañosa de la carrera. El gerente fue ascendido por resolver bien problemas de su función, y llega al comité de dirección con la tentación de seguir haciéndolo: revisar el detalle, defender los recursos de su área, ganar discusiones técnicas. Pero el trabajo cambió. Ya no se le pide que su función rinda, sino que la empresa rinda; ya no decide dentro de prioridades dadas, sino que las fija con otros; ya no gana por saber hacer, sino por elegir bien, habilitar a otros y sostener acuerdos entre pares que no le reportan. Quien no hace ese cambio de trabajo suele fracasar en los primeros dieciocho meses, y no por falta de capacidad sino por usar las mismas armas en otro terreno.
 
-La salida de esta parte es **pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **transición de gerente a ejecutivo** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el estudio de Gabarro sobre cómo los ejecutivos toman el mando, en el enfoque de Watkins sobre transiciones, en la teoría de los escalones superiores de Hambrick y Mason sobre cómo la experiencia y los valores de los altos directivos moldean sus decisiones, en la visión de Charan sobre lo que el CEO espera de quienes están bajo él y en la crudeza práctica de Horowitz. Al terminar sabrás diagnosticar un mandato, construir una agenda de aprendizaje, mapear relaciones, distinguir las decisiones de la empresa de las de la función y secuenciar tus primeras victorias.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `enterprise perspective`, `transition`, `stakeholder map`, `learning agenda`, `early win` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. diagnosticar mandato y contexto → 2. construir learning agenda → 3. mapear stakeholders y equipo → 4. distinguir decisiones enterprise → 5. secuenciar early wins y cambios estructurales** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** cross-functional outcomes, stakeholder trust, decision scope sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Diagnosticar** el mandato, la situación y las expectativas del nuevo rol.
+2. **Construir** una agenda de aprendizaje con preguntas, personas y datos.
+3. **Mapear** a las partes interesadas y a los pares con los que se decide.
+4. **Distinguir** las decisiones de la empresa de las de la función y reasignar tu tiempo.
+5. **Secuenciar** victorias tempranas y cambios estructurales sin dañar la confianza.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define enterprise perspective y transition sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con cross-functional outcomes y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué hábito de tu rol anterior usas hoy que ya no corresponde al nivel? |
+| 20–60 min | Mandato, aprendizaje, relaciones, decisiones, tiempo y victorias. |
+| 60–105 min | Ejemplo trabajado: reasignación del tiempo de una nueva directora comercial. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **enterprise perspective** | lente que prioriza resultado total sobre función propia | Distingue un hecho compatible y otro que lo refute. |
-| **transition** | periodo en que expectativas relaciones y capacidades cambian | Distingue un hecho compatible y otro que lo refute. |
-| **stakeholder map** | mapa de actores cuyo apoyo o información es crítico | Distingue un hecho compatible y otro que lo refute. |
-| **learning agenda** | preguntas prioritarias que guían diagnóstico inicial | Distingue un hecho compatible y otro que lo refute. |
-| **early win** | resultado temprano que crea credibilidad sin hipotecar estrategia | Distingue un hecho compatible y otro que lo refute. |
+| **Perspectiva de empresa** | Mirada que subordina la función a los objetivos del conjunto. | Se renuncia a algo local para ganar globalmente. |
+| **Mandato** | Lo que se espera que el nuevo ejecutivo logre y bajo qué condiciones. | Está claro para el jefe, el directorio y el propio ejecutivo. |
+| **Agenda de aprendizaje** | Plan para entender rápido la situación, las personas y los números. | Preguntas, entrevistas y datos con fechas. |
+| **Decisión de empresa** | Decisión cuyo efecto cruza varias funciones o afecta la estrategia. | Requiere pares y renunciar a metas locales. |
+| **Victoria temprana** | Resultado visible y creíble en los primeros meses. | Genera confianza sin comprometer el futuro. |
+| **Confianza en la transición** | Credibilidad que se construye con conducta y coherencia. | Los pares comparten información y cumplen compromisos. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 193: 1. diagnosticar mandato y contexto → 2. construir learning agenda → 3. mapear stakeholders y equipo → 4. distinguir decisiones enterprise → 5. secuenciar early wins y cambios estructurales](modelo-mental.svg)
+![De gerente a ejecutivo: cinco dimensiones que cambian, alcance, decisiones, fuente de valor, relaciones y tiempo.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. diagnosticar mandato y contexto → 2. construir learning agenda → 3. mapear stakeholders y equipo → 4. distinguir decisiones enterprise → 5. secuenciar early wins y cambios estructurales
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **La transición de gerente a ejecutivo exige cambiar de optimización local a responsabilidad por el sistema completo. El nuevo ejecutivo debe abandonar parte de su identidad funcional, construir una agenda de aprendizaje, mapear stakeholders y redefinir qué decisiones solo él puede tomar.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Abandonar experiencia funcional por completo también es un error. El ejecutivo conserva criterio técnico, pero lo usa para hacer mejores preguntas y diseñar accountability, no para apropiarse del trabajo.**
+**Cómo leer el diagrama.** Una tabla de cinco dimensiones con dos columnas. En **alcance**, el gerente optimiza su función y el ejecutivo responde por la empresa. En **decisiones**, el gerente elige dentro de límites dados y el ejecutivo decide entre trade-offs entre funciones. En **fuente de valor**, el gerente hace y supervisa con pericia y el ejecutivo elige, habilita y sostiene a otros. En **relaciones**, pasa de su equipo y sus clientes internos a pares, directorio, clientes y otras partes. En **tiempo**, pasa de la operación del período a las capacidades y el rumbo de varios años. La nota subraya que el cambio es de criterio, no de cargo.
 
 ## 📖 Desarrollo
 
-### 1. enterprise perspective: mecanismo central
+### 1. El mandato: qué se espera de ti
 
-**enterprise perspective** se entiende aquí como **lente que prioriza resultado total sobre función propia**. Esta es la pieza causal o estructural desde la que se inicia **transición de gerente a ejecutivo**: antes de diagnosticar mandato y contexto, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Antes de actuar, se aclara el mandato. Watkins propone diagnosticar el tipo de situación: **empezar desde cero**, **dar vuelta** a un negocio en problemas, **acelerar el crecimiento**, **realinear** una unidad que perdió rumbo o **sostener el éxito**. Cada una exige un ritmo, un tipo de cambio y un uso distinto del capital político. Se conversa con quien te nombró para saber: qué resultados espera y en qué plazos, qué restricciones existen (presupuesto, personas, compromisos con el directorio), qué se considera éxito y qué es innegociable. Una expectativa no dicha es un mandato oculto; se explicita por escrito y se contrasta con el directorio y con tus pares.
 
-La lectura rectora de este bloque es Ben Horowitz — *The Hard Thing About Hard Things*. Su aporte se usa para examinar **decisiones difíciles de CEO, organización, personas y ejecución bajo presión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **cross-functional outcomes**; regístrala con periodo, unidad, población y baseline.
+### 2. Aprender rápido: la agenda de aprendizaje
 
-Relaciona el mecanismo con **transition**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Gabarro estudió cómo los ejecutivos toman el mando de una unidad y encontró un patrón de etapas: **tomar posición** (entender el mandato y fijar los primeros pasos), **inmersión** (aprender en profundidad la organización y sus problemas), **reorganización** (introducir los cambios mayores), **consolidación** (asentar y corregir) y **refinamiento** (ajustes finos). Los plazos varían con el contexto, pero la secuencia sugiere que aprender precede a reorganizar, y que los cambios mayores hechos sin aprendizaje suficiente tienden a corregirse después. Una **agenda de aprendizaje** lista las preguntas que se quieren responder (¿dónde gana dinero la empresa y dónde lo pierde?, ¿qué esperan los clientes que no reciben?, ¿qué decisiones se toman lento?), las personas con las que se conversará, los datos que se revisarán y las fechas.
 
-### 2. transition: frontera conceptual y error de clasificación
+### 3. Tu experiencia es un sesgo
 
-**Definición operacional:** periodo en que expectativas relaciones y capacidades cambian. Su valor está en distinguirlo de **enterprise perspective** y **stakeholder map**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Hambrick y Mason propusieron que las organizaciones reflejan a sus altos directivos: sus **experiencias**, **valores** y **formación** filtran qué información atienden, cómo la interpretan y qué opciones consideran. Un ejecutivo con trayectoria financiera tenderá a ver los problemas como de costo; uno de ventas, como de clientes; uno de operaciones, como de eficiencia. Conocerlo es una ventaja: se compensa con **equipos diversos**, con preguntas deliberadas fuera de la especialidad y con **datos** que desafíen la intuición. En la transición, esto significa dejar de usar la propia función como lente única y pedir a los pares que desafíen tus supuestos.
 
-Contrasta el problema con Matt Mochary — *The Great CEO Within*, que aporta una mirada sobre **sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo**. Formula dos mini-casos: uno que sí satisface la definición de **transition** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **stakeholder trust** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Mapear relaciones: ya no mandas sobre todos
 
-Antes de construir learning agenda, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+En el nivel ejecutivo, buena parte del trabajo se hace **sin autoridad directa**: con pares del comité, con el directorio, con clientes clave, con reguladores. Charan insiste en que quienes llegan a la dirección deben entender cómo gana dinero la empresa y qué necesita el CEO de ellos: visión de conjunto, ejecución confiable y ausencia de sorpresas. Se construye un **mapa de partes interesadas**: quién influye en tu éxito, qué necesita, qué espera de ti, qué sabe de ti y cuál es la calidad de la relación. Se planifica una conversación inicial con cada una, centrada en escuchar y en comprender sus prioridades, y se acuerda cómo se tomarán las decisiones compartidas.
 
-### 3. stakeholder map: operacionalización y medición
+### 5. Decisiones de empresa y decisiones de función
 
-**stakeholder map** significa **mapa de actores cuyo apoyo o información es crítico**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+No toda decisión es de empresa. Una **decisión de empresa** cruza funciones, afecta la estrategia o el capital, o compromete la reputación; requiere pares, información compartida y disposición a ceder algo local. Una **decisión de función** puede y debe tomarla el dueño funcional, sin escalarla. El error típico del recién llegado es doble: **seguir decidiendo lo funcional** (por costumbre o desconfianza) y **no participar a fondo en lo de empresa** (por falta de perspectiva o por defender a su área). Se hace un inventario de las decisiones de un mes y se clasifican; la meta es delegar las funcionales con límites claros y dedicar el tiempo liberado a las de empresa.
 
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* orienta este bloque mediante **responsabilidad gerencial, propósito, organización y resultados**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **decision scope**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Victorias tempranas y cambios estructurales
 
-Al llegar a mapear stakeholders y equipo, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Las victorias tempranas generan credibilidad y energía; deben ser **visibles**, **creíbles** y **útiles** para la empresa, no un gesto. Se eligen con el mandato en mente: en un giro, estabilizar caja; en crecimiento, desbloquear un cuello de botella comercial. Los **cambios estructurales** (organización, sistemas, incentivos) requieren más aprendizaje y más apoyo; se secuencian después, cuando hay confianza y datos. Horowitz distingue entre tiempos de paz y de guerra: en la paz se puede delegar y construir; en la guerra se decide con rapidez y se exige disciplina. Identificar en cuál se está evita aplicar el estilo equivocado.
 
-### 4. learning agenda: trade-offs y efectos de segundo orden
+### 7. Hábitos y trampas del nuevo ejecutivo
 
-**Definición:** preguntas prioritarias que guían diagnóstico inicial. Este concepto obliga a abandonar la idea de que **transición de gerente a ejecutivo** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de distinguir decisiones enterprise, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Ram Charan — *What the CEO Wants You to Know* aporta una lente sobre **perspectiva de Visión empresarial aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **time allocation** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **transición de gerente a ejecutivo**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **learning agenda** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. early win: gobernanza, límites e integración
-
-**early win** se define como **resultado temprano que crea credibilidad sin hipotecar estrategia** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Richard Rumelt — *Good Strategy/Bad Strategy* se utiliza para estudiar **diagnóstico, política guía y acciones coherentes** y contrastar la recomendación final. Al ejecutar secuenciar early wins y cambios estructurales, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Abandonar experiencia funcional por completo también es un error. El ejecutivo conserva criterio técnico, pero lo usa para hacer mejores preguntas y diseñar accountability, no para apropiarse del trabajo.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **enterprise perspective**, **transition**, **stakeholder map**, **learning agenda** y **early win** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **transición de gerente a ejecutivo** no consiste en sumar cinco definiciones. Empieza por **enterprise perspective**, contrasta **transition** con **stakeholder map**, incorpora **learning agenda** como restricción o mecanismo y usa **early win** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. diagnosticar mandato y contexto → 2. construir learning agenda → 3. mapear stakeholders y equipo → 4. distinguir decisiones enterprise → 5. secuenciar early wins y cambios estructurales**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Algunas trampas frecuentes: **seguir siendo el mejor técnico** del equipo y quitar autonomía; **evitar el conflicto con pares** para ser aceptado; **prometer demasiado** para probarse; **aislarse** con el equipo propio; **no pedir ayuda** por temor a parecer débil; **cambiar demasiado rápido** sin entender el contexto; o, al contrario, **esperar demasiado** y perder la ventana de legitimidad. Los hábitos que ayudan son: **conversaciones periódicas** con tu jefe sobre expectativas, un **círculo de consejeros** externo al comité, **registro de decisiones** y de aprendizajes, y **revisión mensual** de cómo usas tu tiempo.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **transición de gerente a ejecutivo** ayuda a desafiar? |
-| Matt Mochary — *The Great CEO Within* | sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo | ¿Qué supuesto de **transición de gerente a ejecutivo** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **transición de gerente a ejecutivo** ayuda a desafiar? |
-| Ram Charan — *What the CEO Wants You to Know* | perspectiva de Visión empresarial aplicada al problema de la clase | ¿Qué supuesto de **transición de gerente a ejecutivo** ayuda a desafiar? |
-| Richard Rumelt — *Good Strategy/Bad Strategy* | diagnóstico, política guía y acciones coherentes | ¿Qué supuesto de **transición de gerente a ejecutivo** ayuda a desafiar? |
-
-En **transición de gerente a ejecutivo**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **enterprise perspective**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Gabarro | Etapas de la toma de mando y su relación con el aprendizaje. | Estudio de casos de su época. | ¿En qué etapa estoy? |
+| Watkins | Diagnóstico del tipo de situación y plan de transición. | Marco general; hay que adaptarlo. | ¿Qué tipo de situación enfrento? |
+| Hambrick y Mason | La experiencia y los valores del directivo moldean las decisiones. | Es una teoría; la relación no es mecánica. | ¿Qué sesgo trae mi trayectoria? |
+| Charan | Lo que el CEO espera de los ejecutivos: visión de negocio y ejecución. | Mirada de práctica. | ¿Entiendo cómo gana dinero la empresa? |
+| Horowitz | Decisiones en tiempos de paz y de guerra. | Experiencia de un fundador en tecnología. | ¿En qué tiempo estamos? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una CTO promovida a COO sigue revisando arquitectura diariamente mientras operaciones, soporte y finanzas esperan decisiones de capacidad y prioridades enterprise.
+**Situación (hipotética).** Una gerente de ventas regionales es nombrada directora comercial de una empresa de 1.400 personas, con asiento en el comité de dirección. Su semana tiene 50 horas. En su primer mes registra: 35 horas en su función (revisión de oportunidades, reuniones de equipo y aprobaciones) y 15 horas en temas de la empresa.
 
-**Paso 1 — diagnosticar mandato y contexto.** La gerencia escribe primero el supuesto asociado a **enterprise perspective** y evita convertirlo en hecho. Luego busca **cross-functional outcomes** para contrastarlo en el caso de **transición de gerente a ejecutivo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Inventario de decisiones del mes.** Registra 60 decisiones. Las clasifica así.
 
-**Paso 2 — construir learning agenda.** La gerencia escribe primero el supuesto asociado a **transition** y evita convertirlo en hecho. Luego busca **stakeholder trust** para contrastarlo en el caso de **transición de gerente a ejecutivo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Tipo | Cantidad | Tiempo medio | Horas al mes |
+|---|---|---|---|
+| De empresa (cruzan funciones, capital o estrategia) | 18 | 3,0 h | 54 |
+| Funcionales delegables | 24 | 1,5 h | 36 |
+| Mixtas (requieren coordinación) | 18 | 2,0 h | 36 |
+| **Total** | 60 | | **126** |
 
-**Paso 3 — mapear stakeholders y equipo.** La gerencia escribe primero el supuesto asociado a **stakeholder map** y evita convertirlo en hecho. Luego busca **decision scope** para contrastarlo en el caso de **transición de gerente a ejecutivo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Redistribución propuesta.** Delega las 24 funcionales a sus gerentes regionales con límites claros: ahorra 36 horas al mes. Reduce las reuniones de estado de 40 a 22 horas mensuales (reducción de 18 horas). Total liberado: 36 + 18 = 54 horas al mes, que reinvierte en las 18 decisiones de empresa. Con 54 horas liberadas, las horas dedicadas a la empresa pasan, en el cálculo mensual, de 15 × 4 = 60 a 60 + 54 = 114. Es decir, casi se duplican (114 ÷ 60 = 1,9).
 
-**Paso 4 — distinguir decisiones enterprise.** La gerencia escribe primero el supuesto asociado a **learning agenda** y evita convertirlo en hecho. Luego busca **time allocation** para contrastarlo en el caso de **transición de gerente a ejecutivo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Agenda de aprendizaje de 30 días.** Entrevistas con 12 personas (5 pares del comité, 3 clientes clave, 2 líderes de operaciones, 1 miembro del directorio, 1 analista de finanzas); revisión de márgenes por cliente; análisis de las 10 mayores oportunidades perdidas del año; y una pregunta guía: ¿dónde pierde dinero la empresa por la forma en que vende?
 
-**Paso 5 — secuenciar early wins y cambios estructurales.** La gerencia escribe primero el supuesto asociado a **early win** y evita convertirlo en hecho. Luego busca **early-win quality** para contrastarlo en el caso de **transición de gerente a ejecutivo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Hallazgos hipotéticos.** El 31 % de los descuentos se aprueba fuera de la política; operaciones acepta pedidos que no puede cumplir en plazo; finanzas y ventas usan definiciones distintas de «venta».
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **transición de gerente a ejecutivo**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Victoria temprana.** Con finanzas y operaciones, acordar en 45 días una única definición de venta y un umbral de aprobación de descuentos con alerta automática; medir el porcentaje de descuentos fuera de política.
+
+**Decisión estructural pospuesta.** El rediseño de la fuerza de ventas se pospone a la etapa de reorganización, tras tres meses de datos y consulta con los pares.
+
+**Cuidados.** Los cambios que afectan a personas o cargos se consultan con la gerencia de personas y asesoría; los acuerdos con clientes se revisan con legal. Las cifras son ilustrativas.
+
+**Qué muestra.** (1) La reasignación del tiempo se calculó con datos. (2) El aprendizaje precedió a los cambios mayores. (3) La victoria temprana se hizo con los pares.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **enterprise perspective** | lente que prioriza resultado total sobre función propia | Cuando cross-functional outcomes es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **transition** | periodo en que expectativas relaciones y capacidades cambian | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Transición frente a ascenso.** El ascenso es un hecho de la organización; la transición es un proceso del individuo que cambia su manera de trabajar. Se puede estar ascendido y no haber hecho la transición.
 
-**Frontera de aplicación:** Abandonar experiencia funcional por completo también es un error. El ejecutivo conserva criterio técnico, pero lo usa para hacer mejores preguntas y diseñar accountability, no para apropiarse del trabajo.
+**Límites.** Los modelos de etapas son descriptivos y no predicen plazos. Los casos de Gabarro y Watkins provienen de contextos específicos. La teoría de los escalones superiores se apoya en correlaciones. Abandonar la experiencia funcional por completo también es un error: se conserva el criterio para hacer mejores preguntas y diseñar la rendición de cuentas. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre transición de gerente a ejecutivo |
+| Nivel | Cómo vive la transición |
 |---|---|
-| **Profesional** | usa **transición de gerente a ejecutivo** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **enterprise perspective** y **transition** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta cross-functional outcomes con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si transición de gerente a ejecutivo cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de transición de gerente a ejecutivo reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **transición de gerente a ejecutivo** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Trabaja con su pericia y su propio resultado. |
+| **Jefe / Team Lead** | Aprende a lograr resultados con otros. |
+| **Gerente** | Optimiza su función con límites dados. |
+| **CEO / Director** | Pasa a decidir sobre la empresa, con pares y con el directorio. |
+| **Founder / Owner** | Aprende a soltar la operación y a institucionalizar decisiones. |
 
 ## 🏢 Caso ejecutivo
 
-Una CTO promovida a COO sigue revisando arquitectura diariamente mientras operaciones, soporte y finanzas esperan decisiones de capacidad y prioridades enterprise.
+Un director de operaciones de una empresa de manufactura con 2.200 personas es nombrado director general de una de sus tres divisiones, con asiento en el comité de dirección y 500 millones de pesos de presupuesto de inversión. Venía de dirigir con éxito dos plantas con un estilo muy involucrado: aprueba cada compra sobre un millón y visita la planta cada día. En su primer trimestre: sus jefes de planta se quejan de falta de autonomía; los pares de comercial y de finanzas dicen que «no llega a las reuniones del comité preparado»; la rotación de ingenieros subió de 9 % a 14 %; y la división perdió un cliente importante por una entrega tardía en un pedido que él mismo había priorizado. El gerente general le pide resultados rápidos; el directorio le pregunta por su plan a 100 días. Él piensa que lo mejor es «hacer lo que me trajo hasta aquí, con más intensidad».
 
-Entrega un **decision brief de transición de gerente a ejecutivo** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de transición** que contenga: (a) el diagnóstico del mandato y el tipo de situación; (b) la agenda de aprendizaje de 30 días con preguntas, personas y datos; (c) el mapa de partes interesadas y las conversaciones iniciales; (d) el inventario y la clasificación de decisiones, con la delegación y la reasignación del tiempo; (e) las victorias tempranas y los cambios estructurales, con su secuencia; (f) los hábitos de revisión y los límites del plan.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **transición de gerente a ejecutivo** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. diagnosticar mandato y contexto → 2. construir learning agenda → 3. mapear stakeholders y equipo → 4. distinguir decisiones enterprise → 5. secuenciar early wins y cambios estructurales** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta cross-functional outcomes, stakeholder trust; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe en una página tu mandato, qué esperan de ti y qué es innegociable.
+2. Registra tus decisiones de un mes y clasifícalas en de empresa, funcionales y mixtas.
+3. Diseña una agenda de aprendizaje de 30 días con diez preguntas y diez personas.
+4. Mapea a cinco partes interesadas con su prioridad, su expectativa y la calidad de la relación.
+5. Elige una victoria temprana y explica por qué es visible, creíble y útil.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar enterprise perspective y transition como sinónimos | Se pierde la distinción entre “lente que prioriza resultado total sobre función propia” y “periodo en que expectativas relaciones y capacidades cambian” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “secuenciar early wins y cambios estructurales” | Se saltó “diagnosticar mandato y contexto” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. diagnosticar mandato y contexto → 2. construir learning agenda → 3. mapear stakeholders y equipo → 4. distinguir decisiones enterprise → 5. secuenciar early wins y cambios estructurales y marca el primer supuesto no demostrado. |
-| Optimizar solo cross-functional outcomes | La métrica local sustituyó al resultado del sistema | Contrástala con stakeholder trust y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre transición de gerente a ejecutivo | Abandonar experiencia funcional por completo también es un error. El ejecutivo conserva criterio técnico, pero lo usa para hacer mejores preguntas y diseñar accountability, no para apropiarse del trabajo. |
-| No fijar revisión | Una decisión sobre transición de gerente a ejecutivo se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Seguir haciendo el trabajo anterior | Es lo que se sabe | Delegar con límites y liberar tiempo. |
+| Defender solo a la función | Presión del equipo propio | Decidir con perspectiva de empresa. |
+| Cambiar antes de aprender | Se quiere mostrar impacto | Agenda de aprendizaje y secuencia. |
+| Asumir el mandato sin explicitar | Se evita una conversación incómoda | Escribirlo y contrastarlo. |
+| Aislarse | Se confía solo en el equipo propio | Mapa de partes interesadas y conversaciones. |
+| Prometer demasiado | Búsqueda de reconocimiento | Compromisos realistas con fechas. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **enterprise perspective** y **transition** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **stakeholder map** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **diagnosticar mandato y contexto → construir learning agenda** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **cross-functional outcomes** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **transición de gerente a ejecutivo**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Abandonar experiencia funcional por completo también es un error. El ejecutivo conserva criterio técnico, pero lo usa para hacer mejores preguntas y diseñar accountability, no para apropiarse del trabajo.**?
+1. ¿Qué cambia en el trabajo al pasar de gerente a ejecutivo?
+2. ¿Qué tipos de situación distingue Watkins?
+3. ¿Qué patrón de etapas describe Gabarro?
+4. ¿Qué proponen Hambrick y Mason sobre las decisiones de los altos directivos?
+5. ¿Cómo se distingue una decisión de empresa de una funcional?
+6. ¿Qué es una victoria temprana útil?
+7. ¿Qué límites tiene la transición y sus modelos?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El alcance (de la función a la empresa), las decisiones (trade-offs entre funciones), la fuente de valor (elegir y habilitar), las relaciones (pares y directorio) y el horizonte de tiempo.
+2. Empezar desde cero, dar vuelta, acelerar el crecimiento, realinear y sostener el éxito.
+3. Tomar posición, inmersión, reorganización, consolidación y refinamiento.
+4. Que la experiencia, los valores y la formación de los directivos filtran lo que atienden, interpretan y deciden.
+5. La de empresa cruza funciones o compromete estrategia o capital y requiere pares; la funcional la toma el dueño dentro de límites.
+6. Visible, creíble y útil para el negocio, lograda con apoyo de los pares y sin comprometer el futuro.
+7. Los modelos son descriptivos, provienen de contextos específicos y no predicen plazos; abandonar por completo la experiencia funcional también es un error.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/193-transicion-de-gerente-a-ejecutivo/`:
 
-- `leadership-decision-brief.md` con el problema específico de **transición de gerente a ejecutivo**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **transición de gerente a ejecutivo** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **enterprise perspective**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una CTO promovida a COO sigue revisando arquitectura diariamente mientras operaciones, soporte y finanzas esperan decisiones de capacidad y prioridades enterprise.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan de transición del caso ejecutivo;
+- `stakeholder-legitimacy-map.md` (plantilla [Stakeholder legitimacy map](../../../../templates/stakeholder-legitimacy-map.md)) con el mapa de partes interesadas;
+- `decision-journal.md` con el inventario de decisiones, la agenda de aprendizaje y las revisiones mensuales.
 
 ## 📗 Fuentes y verificación
 
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **transición de gerente a ejecutivo**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Matt Mochary — *The Great CEO Within* (Mochary Films, 2019). **Uso en esta clase:** sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo. Lectura selectiva sobre **transición de gerente a ejecutivo**. **Localizador:** [ISBN-13 9780578599281](https://openlibrary.org/isbn/9780578599281).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **transición de gerente a ejecutivo**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Ram Charan — *What the CEO Wants You to Know* (Crown, 2001). **Uso en esta clase:** perspectiva de Visión empresarial aplicada al problema de la clase. Lectura selectiva sobre **transición de gerente a ejecutivo**. **Localizador:** [ISBN-13 9780609504239](https://openlibrary.org/isbn/9780609504239).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **transición de gerente a ejecutivo**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva sobre **transición de gerente a ejecutivo**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **transición de gerente a ejecutivo** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **transición de gerente a ejecutivo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **transición de gerente a ejecutivo** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **transición de gerente a ejecutivo** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **transición de gerente a ejecutivo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- John J. Gabarro — *The Dynamics of Taking Charge* (Harvard Business School Press, 1987). **Uso en esta clase:** etapas de la toma de mando y su relación con el aprendizaje. Lectura selectiva sobre **transición de gerente a ejecutivo**. **Localizador:** [ISBN-13 9780875841373](https://openlibrary.org/isbn/9780875841373).
+- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** diagnóstico del tipo de situación y plan de transición. Lectura selectiva sobre **transición de gerente a ejecutivo**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
+- Donald C. Hambrick & Phyllis A. Mason — *Upper Echelons: The Organization as a Reflection of Its Top Managers* (Academy of Management Review, 1984). **Uso en esta clase:** experiencia y valores de los altos directivos como filtro de decisión. Lectura selectiva sobre **transición de gerente a ejecutivo**. **Localizador:** [DOI 10.2307/258434](https://doi.org/10.2307/258434).
+- Ram Charan — *What the CEO Wants You to Know* (Crown, 2001). **Uso en esta clase:** lo que el CEO espera de los ejecutivos. Lectura selectiva sobre **transición de gerente a ejecutivo**. **Localizador:** [ISBN-13 9780609504239](https://openlibrary.org/isbn/9780609504239).
+- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones en tiempos de paz y de guerra. Lectura selectiva sobre **transición de gerente a ejecutivo**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
 
-> **Regla de fuentes para Transición de gerente a ejecutivo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **transición de gerente a ejecutivo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Transición de gerente a ejecutivo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las condiciones laborales de los cambios que afecten a personas. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

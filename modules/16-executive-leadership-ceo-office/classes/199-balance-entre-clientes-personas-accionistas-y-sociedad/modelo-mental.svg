@@ -1,66 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g199 d-g199" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g199">Ficha visual de la clase 199: Balance entre clientes, personas, accionistas y sociedad</title>
-<desc id="d-g199">Conceptos: stakeholder; shareholder return; externality; license to operate; long-term value. Método: mapear stakeholders materiales → identificar obligaciones y externalidades → cuantificar trade-offs cuando sea posible → definir principios y límites → decidir y explicar horizonte y compensaciones.</desc>
-<defs><marker id="p-g199" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 199 · Balance entre clientes, personas, accionistas y sociedad</text>
-<text x="1012" y="43" font-size="10" font-weight="400" fill="#59636e" text-anchor="end" >Parte 16 · Alta direcc…</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#cf222e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >stakeholder</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >parte afectada o capaz de afectar la organización</text>
-<circle cx="38" cy="170" r="5" fill="#cf222e"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >shareholder return</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >valor económico entregado a propietarios</text>
-<circle cx="38" cy="228" r="5" fill="#cf222e"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >externality</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >costo o beneficio impuesto a terceros no reflejado</text>
-<text x="54" y="267.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >completamente en precio</text>
-<circle cx="38" cy="300.12" r="5" fill="#cf222e"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >license to operate</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >aceptación social regulatoria y reputacional para</text>
-<text x="54" y="339.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >operar</text>
-<circle cx="38" cy="372.24" r="5" fill="#cf222e"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >long-term value</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >valor creado considerando efectos y riesgos más allá</text>
-<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >del trimestre</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >mapear stakeholders materiales</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >identificar obligaciones y externalidades</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >cuantificar trade-offs cuando sea posible</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir principios y límites</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#cf222e" stroke="#cf222e" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >decidir y explicar horizonte y compensaciones</text>
-<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="470.36" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="41" cy="483.36" r="3.5" fill="#cf222e"/>
-<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >customer trust</text>
-<rect x="160.6" y="470.36" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="173.6" cy="483.36" r="3.5" fill="#cf222e"/>
-<text x="184.6" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >employee retention</text>
-<rect x="320.8" y="470.36" width="53.6" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="333.8" cy="483.36" r="3.5" fill="#cf222e"/>
-<text x="344.8" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ROIC</text>
-<rect x="384.4" y="470.36" width="164" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="397.4" cy="483.36" r="3.5" fill="#cf222e"/>
-<text x="408.4" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >regulatory incidents</text>
-<rect x="558.4" y="470.36" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="571.4" cy="483.36" r="3.5" fill="#cf222e"/>
-<text x="582.4" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >reputation indicators</text>
-<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >La retórica stakeholder puede justificar decisiones sin accountability. Mantén objetivos, responsables y economics claros; no uses</text>
-<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >balance para evitar elegir.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 474.98" width="1040" role="img" aria-labelledby="t-s199 d-s199" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s199">Clase 199 · Cuatro partes que la empresa debe equilibrar</title>
+<desc id="d-s199">Clientes, personas, accionistas y sociedad: qué necesita cada parte, qué aporta a la empresa y una señal de alerta.</desc>
+<defs><marker id="p-s199" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="474.98" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 199 · Cuatro partes que la empresa debe equilibrar</text>
+<text x="1012" y="43" font-size="10" font-weight="400" fill="#59636e" text-anchor="end" >Freeman · Jensen (2002) · Porter &amp; Kramer · Polman &amp; Winston</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Parte</text>
+<text x="210.56" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Qué necesita</text>
+<text x="472.96" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Qué aporta</text>
+<text x="735.36" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Señal de alerta</text>
+<rect x="28" y="136" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Clientes</text>
+<text x="210.56" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Valor, confianza y trato justo.</text>
+<text x="472.96" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Ingresos y recomendación.</text>
+<text x="735.36" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Reclamos y bajas crecientes.</text>
+<rect x="28" y="172.56" width="984" height="53.12" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Personas</text>
+<text x="210.56" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Trabajo con sentido, seguridad y</text>
+<text x="210.56" y="209.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >desarrollo.</text>
+<text x="472.96" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Capacidad y compromiso.</text>
+<text x="735.36" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Rotación de talento clave.</text>
+<rect x="28" y="225.68" width="984" height="53.12" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="245.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Accionistas</text>
+<text x="210.56" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Retorno ajustado por riesgo y</text>
+<text x="210.56" y="262.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >claridad.</text>
+<text x="472.96" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Capital y paciencia.</text>
+<text x="735.36" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Costo de capital que sube.</text>
+<rect x="28" y="278.8" width="984" height="53.12" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="298.8" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Sociedad</text>
+<text x="210.56" y="298.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Impacto acotado y cumplimiento.</text>
+<text x="472.96" y="298.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Licencia para operar.</text>
+<text x="735.36" y="298.8" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Conflictos con comunidades o</text>
+<text x="735.36" y="315.36" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >autoridades.</text>
+<rect x="28" y="347.92" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="369.92" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Equilibrar no es evitar elegir: se explicitan objetivos, responsables y costos, y se decide con un criterio de largo plazo que todas</text>
+<text x="44" y="387.17" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >las partes puedan entender.</text>
+<text x="28" y="434.42" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >La retórica de las partes interesadas sin rendición de cuentas no es un balance; las obligaciones legales no se negocian.</text>
 </svg>

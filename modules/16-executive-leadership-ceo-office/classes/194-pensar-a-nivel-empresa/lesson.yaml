@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir enterprise value de portfolio view mediante evidencia observable."
-  - "Aplicar la secuencia: mapear value drivers → identificar restricciones del sistema → comparar impactos interfuncionales → modelar corto y largo plazo → decidir y comunicar trade-off."
-  - "Interpretar enterprise cash, ROIC, customer value sin atribuir causalidad automática."
-  - "Resolver el caso de pensar a nivel empresa con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Mapear los motores de valor de la empresa: caja, retorno sobre el capital y ventaja."
+  - "Identificar la restricción que limita el desempeño del sistema completo."
+  - "Comparar el impacto de una decisión sobre varias funciones con números."
+  - "Equilibrar resultados de corto plazo y capacidades de largo plazo."
+  - "Comunicar el trade-off elegido, incluyendo lo que se sacrifica."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Ben Horowitz — *The Hard Thing About Hard Things*"
-  - "Matt Mochary — *The Great CEO Within*"
-  - "Michael D. Watkins — *The First 90 Days*"
-  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
-  - "Larry Bossidy & Ram Charan — *Execution*"
-  - "Peter F. Drucker — *The Effective Executive*"
+  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "Robert S. Kaplan & David P. Norton — *Strategy Maps*"
+  - "Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies*"
+  - "Donella H. Meadows — *Thinking in Systems*"
 limits:
-  - "La perspectiva enterprise no justifica ignorar accountability local. Las funciones necesitan métricas propias, pero su optimización queda subordinada a objetivos y límites del sistema."
+  - "La perspectiva de empresa no justifica ignorar la rendición de cuentas local: las funciones necesitan métricas propias, subordinadas a los objetivos del sistema."
 evidence_signals:
-  - "enterprise cash"
-  - "ROIC"
-  - "customer value"
-  - "talent capacity"
-  - "risk-adjusted return"
+  - "motores de valor mapeados"
+  - "restricción del sistema identificada"
+  - "impactos entre funciones comparados"
+  - "trade-off comunicado con su costo"

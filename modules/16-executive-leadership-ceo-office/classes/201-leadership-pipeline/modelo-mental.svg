@@ -1,73 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 616.48" width="1040" role="img" aria-labelledby="t-g201 d-g201" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g201">Ficha visual de la clase 201: Leadership pipeline</title>
-<desc id="d-g201">Conceptos: leadership passage; readiness; succession bench; critical role; development assignment. Método: mapear niveles y critical roles → definir work y values por passage → calibrar potencial y readiness → crear assignments y coaching → revisar bench y sucesión periódicamente.</desc>
-<defs><marker id="p-g201" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="616.48" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#cf222e"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 201 · Leadership pipeline</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 16 · Alta dirección y gobierno</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#cf222e"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >leadership passage</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >transición a un nivel con nuevas responsabilidades y</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >valores</text>
-<circle cx="38" cy="184.12" r="5" fill="#cf222e"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >readiness</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grado de preparación para ejecutar trabajo del</text>
-<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >siguiente nivel</text>
-<circle cx="38" cy="256.24" r="5" fill="#cf222e"/>
-<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >succession bench</text>
-<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >conjunto de candidatos internos con potencial y</text>
-<text x="54" y="295.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >preparación</text>
-<circle cx="38" cy="328.36" r="5" fill="#cf222e"/>
-<text x="54" y="333.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >critical role</text>
-<text x="54" y="351.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >posición cuya vacancia crea riesgo material</text>
-<circle cx="38" cy="386.36" r="5" fill="#cf222e"/>
-<text x="54" y="391.36" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >development assignment</text>
-<text x="54" y="409.36" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >experiencia diseñada para cerrar una brecha de</text>
-<text x="54" y="425.92" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >liderazgo</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="336" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<rect x="470" y="336" width="6" height="52" rx="3" fill="#cf222e"/>
-<text x="486" y="356" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >1</text>
-<text x="504" y="356" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >mapear niveles y critical roles</text>
-<rect x="532" y="278" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<rect x="532" y="278" width="6" height="52" rx="3" fill="#cf222e"/>
-<text x="548" y="298" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >2</text>
-<text x="566" y="298" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >definir work y values por passage</text>
-<rect x="594" y="220" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<rect x="594" y="220" width="6" height="52" rx="3" fill="#cf222e"/>
-<text x="610" y="240" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >3</text>
-<text x="628" y="240" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >calibrar potencial y readiness</text>
-<rect x="656" y="162" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<rect x="656" y="162" width="6" height="52" rx="3" fill="#cf222e"/>
-<text x="672" y="182" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >4</text>
-<text x="690" y="182" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >crear assignments y coaching</text>
-<rect x="718" y="104" width="294" height="52" rx="9" fill="#ffffff" stroke="#cf222e" stroke-width="1.6" />
-<rect x="718" y="104" width="6" height="52" rx="3" fill="#cf222e"/>
-<text x="734" y="124" font-size="13" font-weight="800" fill="#cf222e" text-anchor="start" >5</text>
-<text x="752" y="124" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >revisar bench y sucesión</text>
-<text x="752" y="141.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >periódicamente</text>
-<text x="28" y="472.48" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="484.48" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="41" cy="497.48" r="3.5" fill="#cf222e"/>
-<text x="52" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >critical-role coverage</text>
-<rect x="215.8" y="484.48" width="164" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="228.8" cy="497.48" r="3.5" fill="#cf222e"/>
-<text x="239.8" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >ready-now successors</text>
-<rect x="389.8" y="484.48" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="402.8" cy="497.48" r="3.5" fill="#cf222e"/>
-<text x="413.8" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >time-to-fill</text>
-<rect x="508.6" y="484.48" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="521.6" cy="497.48" r="3.5" fill="#cf222e"/>
-<text x="532.6" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >promotion success</text>
-<rect x="661.9" y="484.48" width="164" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2" />
-<circle cx="674.9" cy="497.48" r="3.5" fill="#cf222e"/>
-<text x="685.9" y="501.98" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >development progress</text>
-<rect x="28" y="530.48" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="530.48" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="550.48" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="568.48" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Pipeline no debe convertirse en jerarquía rígida ni sesgar contra carreras expertas. Diseña rutas IC y management con valor comparable</text>
-<text x="48" y="585.73" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cuando el trabajo lo permita.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 595.31" width="1040" role="img" aria-labelledby="t-s201 d-s201" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s201">Clase 201 · Los pasajes del liderazgo, de uno mismo a la empresa</title>
+<desc id="d-s201">Cinco pasajes de liderazgo: gestionar a otros, gestionar gerentes, gestionar una función, gestionar un negocio y gestionar la empresa.</desc>
+<defs><marker id="p-s201" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="595.31" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 201 · Los pasajes del liderazgo, de uno mismo a la empresa</text>
+<text x="1012" y="43" font-size="10" font-weight="400" fill="#59636e" text-anchor="end" >Charan, Drotter &amp; Noel · Gabarro · Botelho…</text>
+<rect x="164" y="96" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<rect x="164" y="96" width="6" height="63.25" rx="3" fill="#8250df"/>
+<circle cx="196" cy="127.625" r="15" fill="#8250df"/>
+<text x="196" y="132.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="224" y="120" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Gestionar la empresa</text>
+<text x="224" y="138" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Asigna capital, talento y atención entre negocios.</text>
+<rect x="130" y="169.25" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="130" y="169.25" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<circle cx="162" cy="200.875" r="15" fill="#bc4c00"/>
+<text x="162" y="205.875" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="190" y="193.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Gestionar un negocio</text>
+<text x="190" y="211.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Responde por resultados y por el equilibrio entre funciones.</text>
+<rect x="96" y="242.5" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="96" y="242.5" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<circle cx="128" cy="274.125" r="15" fill="#1a7f37"/>
+<text x="128" y="279.125" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="156" y="266.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Gestionar una función</text>
+<text x="156" y="284.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Integra la especialidad con la estrategia.</text>
+<rect x="62" y="315.75" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="62" y="315.75" width="6" height="63.25" rx="3" fill="#0969da"/>
+<circle cx="94" cy="347.375" r="15" fill="#0969da"/>
+<text x="94" y="352.375" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="122" y="339.75" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Gestionar gerentes</text>
+<text x="122" y="357.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Selecciona, evalúa y desarrolla a líderes.</text>
+<rect x="28" y="389" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<rect x="28" y="389.0" width="6" height="63.25" rx="3" fill="#59636e"/>
+<circle cx="60" cy="420.625" r="15" fill="#59636e"/>
+<text x="60" y="425.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="88" y="413" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Gestionar a otros</text>
+<text x="88" y="431" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Pasa de hacer el trabajo a lograrlo con personas.</text>
+<rect x="28" y="468.25" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="490.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Cada pasaje exige cambiar de trabajo, de uso del tiempo y de valores, no solo de título. Promover sin ese cambio produce líderes que</text>
+<text x="44" y="507.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >hacen el trabajo del nivel anterior.</text>
+<text x="28" y="554.75" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >El pipeline no debe volverse una jerarquía rígida: las carreras de especialistas con valor comparable también cuentan.</text>
 </svg>

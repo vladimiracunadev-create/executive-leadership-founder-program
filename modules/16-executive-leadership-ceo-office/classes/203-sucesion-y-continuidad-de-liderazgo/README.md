@@ -10,217 +10,198 @@
 
 ## 🎯 Propósito
 
-La sucesión del CEO y liderazgo crítico es un proceso continuo de continuidad, no un evento cuando alguien renuncia. El directorio y CEO deben definir perfiles futuros, construir candidatos, planes de emergencia y transición, separando sucesión de favoritismo.
+La decisión más importante de un directorio es quién dirige la empresa, y es una de las que peor se prepara. Muchas veces se activa tarde: el CEO anuncia su retiro con pocos meses de anticipación, o sufre un accidente o una enfermedad, o el directorio decide cambiarlo por desempeño, y recién entonces se pregunta quiénes podrían reemplazarlo, qué necesita la empresa en los próximos años y qué hacer mientras tanto. Sin preparación, se elige por urgencia, por simpatía o por temor al cambio, o se contrata a un externo brillante cuya cultura no calza. La sucesión es una de las mayores fuentes de riesgo de continuidad, y también una de las grandes oportunidades de renovación.
 
-La salida de esta parte es **pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **sucesión y continuidad de liderazgo** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el enfoque de Charan sobre el papel del directorio en las decisiones de sucesión, en el estudio de Botelho y colaboradores sobre conductas de CEO exitosos, en el modelo de pasajes de liderazgo de Charan, Drotter y Noel, en la visión de Collins sobre el liderazgo de las empresas que sostienen resultados y en el gobierno corporativo de Tricker. Al terminar sabrás distinguir sucesión planificada de sucesión de emergencia, definir el perfil según la estrategia futura, evaluar candidatos internos y externos con criterios explícitos, preparar un plan de emergencia, ensayar la transición y cuidar la confidencialidad sin anunciar un heredero ni congelar la estrategia.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `CEO succession`, `emergency succession`, `successor profile`, `internal candidate`, `transition plan` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. definir escenarios de sucesión → 2. construir profile por estrategia futura → 3. evaluar candidatos internos o externos → 4. crear emergency plan y desarrollo → 5. ensayar transición y comunicaciones** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** ready-now candidates, critical-role coverage, emergency plan readiness sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** escenarios de sucesión: planificada, de emergencia y por desempeño.
+2. **Construir** el perfil del próximo CEO a partir de la estrategia futura.
+3. **Evaluar** candidatos internos y externos con criterios, pesos y evidencia.
+4. **Preparar** un plan de emergencia y ensayar la transición.
+5. **Gestionar** la confidencialidad, la comunicación y el desarrollo de candidatos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define CEO succession y emergency succession sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con ready-now candidates y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: si el CEO de tu empresa no pudiera trabajar mañana, ¿quién decide qué en las primeras 48 horas? |
+| 20–60 min | Escenarios, perfil, evaluación, emergencia, transición y confidencialidad. |
+| 60–105 min | Ejemplo trabajado: evaluación de cuatro candidatos y prueba de sensibilidad. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **CEO succession** | proceso para asegurar continuidad del máximo liderazgo | Distingue un hecho compatible y otro que lo refute. |
-| **emergency succession** | plan para reemplazo inmediato no planificado | Distingue un hecho compatible y otro que lo refute. |
-| **successor profile** | criterios de capacidades y contexto requeridos | Distingue un hecho compatible y otro que lo refute. |
-| **internal candidate** | persona desarrollada dentro de la organización | Distingue un hecho compatible y otro que lo refute. |
-| **transition plan** | secuencia para transferir relaciones información y autoridad | Distingue un hecho compatible y otro que lo refute. |
+| **Sucesión planificada** | Relevo organizado del CEO con tiempo y proceso. | Directorio, perfil, evaluación y transición. |
+| **Sucesión de emergencia** | Plan para cubrir la salida repentina del CEO. | Define quién asume, con qué poderes y por cuánto tiempo. |
+| **Perfil del sucesor** | Conjunto de capacidades que la empresa necesitará. | Se deriva de la estrategia futura. |
+| **Candidato listo ahora** | Persona que podría asumir de inmediato con alta probabilidad de éxito. | Hay evidencia de desempeño y de conductas. |
+| **CEO interino** | Persona que dirige de forma transitoria mientras se decide el relevo. | Tiene mandato y plazo claros. |
+| **Transición** | Período de traspaso de la información, relaciones y decisiones. | Con plan y reglas de coordinación. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 203: 1. definir escenarios de sucesión → 2. construir profile por estrategia futura → 3. evaluar candidatos internos o externos → 4. crear emergency plan y desarrollo → 5. ensayar transición y comunicaciones](modelo-mental.svg)
+![Sucesión: emergencia, planificada y desarrollo continuo, cada una con sus decisiones.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir escenarios de sucesión → 2. construir profile por estrategia futura → 3. evaluar candidatos internos o externos → 4. crear emergency plan y desarrollo → 5. ensayar transición y comunicaciones
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **La sucesión del CEO y liderazgo crítico es un proceso continuo de continuidad, no un evento cuando alguien renuncia. El directorio y CEO deben definir perfiles futuros, construir candidatos, planes de emergencia y transición, separando sucesión de favoritismo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un plan de sucesión no debe anunciar un heredero prematuramente ni congelar estrategia. Mantén opciones, criterios y desarrollo, con confidencialidad proporcional.**
+**Cómo leer el diagrama.** Tres columnas. **Emergencia**: quién asume si el CEO falta de repente, poderes, firmas y comunicaciones definidos, actualización cada seis meses. **Planificada**: perfil según la estrategia futura, candidatos internos y externos evaluados, proceso del directorio con plazos. **Desarrollo continuo**: asignaciones que preparan a candidatos, cobertura de cargos críticos y revisión anual del banco de talento. La nota afirma que la sucesión no es un nombre en un sobre sino un sistema que mantiene opciones, criterios y desarrollo; el pie, que la confidencialidad se gradúa.
 
 ## 📖 Desarrollo
 
-### 1. CEO succession: mecanismo central
+### 1. El directorio es el dueño
 
-**CEO succession** se entiende aquí como **proceso para asegurar continuidad del máximo liderazgo**. Esta es la pieza causal o estructural desde la que se inicia **sucesión y continuidad de liderazgo**: antes de definir escenarios de sucesión, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Charan sostiene que la sucesión del CEO es una responsabilidad **del directorio**, no del CEO en funciones, y que debe tratarse como un proceso continuo y no como un evento. El directorio necesita **tiempo**, **información** y **conocimiento directo** de los candidatos, incluso fuera de las presentaciones formales. Tricker recuerda que el gobierno corporativo asigna al directorio funciones de nombramiento, evaluación y relevo de la alta dirección. Un directorio que solo ve a los candidatos en presentaciones de 30 minutos decide con poca información. Se agenda **al menos una revisión anual** del plan de sucesión, con acceso a candidatos internos mediante asignaciones, visitas y conversaciones, y con la posibilidad de evaluar alternativas externas.
 
-La lectura rectora de este bloque es Ben Horowitz — *The Hard Thing About Hard Things*. Su aporte se usa para examinar **decisiones difíciles de CEO, organización, personas y ejecución bajo presión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **ready-now candidates**; regístrala con periodo, unidad, población y baseline.
+### 2. Tres escenarios
 
-Relaciona el mecanismo con **emergency succession**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se distinguen: la **sucesión planificada** (el CEO se retira o rota en un plazo conocido, 18 a 36 meses), la **sucesión de emergencia** (salida repentina por salud, accidente, renuncia súbita o conflicto) y la **sucesión por desempeño** (el directorio decide un cambio porque los resultados o la conducta no son aceptables). Cada una requiere un diseño distinto: la planificada permite un proceso completo; la de emergencia exige un plan **preparado**, de ejecución inmediata; la de desempeño requiere un proceso delicado, con asesoría legal y con cuidado de la confidencialidad y del impacto en el mercado y en el equipo. Lo habitual es no tener ninguno de los tres preparado.
 
-### 2. emergency succession: frontera conceptual y error de clasificación
+### 3. El perfil sale de la estrategia
 
-**Definición operacional:** plan para reemplazo inmediato no planificado. Su valor está en distinguirlo de **CEO succession** y **successor profile**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Antes de mirar candidatos se pregunta: ¿qué necesitará esta empresa en los próximos cinco a diez años? Si la estrategia exige una transformación, se buscarán capacidades de cambio; si exige consolidar y mejorar la eficiencia, serán otras; si exige abrir mercados, otras. Botelho y colaboradores reportan que las conductas asociadas con el éxito de los CEO no siempre coinciden con las características que se suelen buscar por tradición o intuición (por ejemplo, carisma o una trayectoria prestigiosa); sugieren evaluar **conductas observables** como la capacidad de decidir con rapidez, de adaptarse y de cumplir de manera confiable. Collins, por su parte, describe líderes de empresas con resultados sostenidos como personas que combinan ambición por la organización con humildad personal, un rasgo que no se aprecia fácilmente en entrevistas. El perfil se escribe con criterios, pesos y evidencias esperadas.
 
-Contrasta el problema con Matt Mochary — *The Great CEO Within*, que aporta una mirada sobre **sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo**. Formula dos mini-casos: uno que sí satisface la definición de **emergency succession** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **critical-role coverage** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Evaluar candidatos con rigor
 
-Antes de construir profile por estrategia futura, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El proceso de evaluación contempla: **criterios** del perfil con pesos acordados antes de ver a los candidatos; **evidencia** (resultados, conductas observadas, referencias estructuradas, asignaciones de prueba, evaluaciones externas); **comparación** entre candidatos internos y externos con los mismos criterios; **revisión de sesgos** (preferencia por semejantes, por el último que se vio, por la narrativa más fluida); y **opiniones independientes** de los directores antes de discutir. Los candidatos internos aportan conocimiento de la cultura y continuidad; los externos aportan perspectiva fresca y capacidades nuevas, con mayor incertidumbre de ajuste. No hay una regla universal: depende del perfil y del estado de la empresa. Se evita decidir por «es el que más se parece a nuestro CEO».
 
-### 3. successor profile: operacionalización y medición
+### 5. El plan de emergencia
 
-**successor profile** significa **criterios de capacidades y contexto requeridos**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un **plan de emergencia** responde, por escrito y con fechas de actualización: ¿quién asume de forma interina y con qué **poderes** (firmas, autorizaciones bancarias, representación legal)?, ¿quién lo apoya?, ¿cómo se **comunica** a empleados, clientes, inversionistas, autoridades y medios?, ¿qué decisiones se aplazan?, ¿cuál es el **plazo** del interinato y cómo se inicia el proceso formal? También considera la **cobertura de otros cargos críticos** (clase 201). El plan se **ensaya** con un ejercicio de mesa y se revisa cada seis meses; los poderes y las firmas se verifican con asesoría legal y conforme a los estatutos y a la ley aplicables.
 
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* orienta este bloque mediante **responsabilidad gerencial, propósito, organización y resultados**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **emergency plan readiness**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Desarrollo continuo de candidatos
 
-Al llegar a evaluar candidatos internos o externos, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La mejor forma de reducir el riesgo de sucesión es **desarrollar a varios candidatos** con asignaciones que amplíen su alcance: responsabilidad por resultados de un negocio, relación con el directorio, liderazgo de un cambio, experiencia en otra función o geografía. Se acompañan con retroalimentación honesta y se evalúa su desempeño en esas asignaciones. Se evita crear un **heredero designado** demasiado pronto: los demás candidatos se desmotivan, el elegido puede acomodarse, y la estrategia se congela por la sombra del relevo. Se mantienen **opciones abiertas**, se comunica con transparencia el proceso de desarrollo a las personas involucradas y se acepta que algunos candidatos se vayan.
 
-### 4. internal candidate: trade-offs y efectos de segundo orden
+### 7. Transición, comunicación y confidencialidad
 
-**Definición:** persona desarrollada dentro de la organización. Este concepto obliga a abandonar la idea de que **sucesión y continuidad de liderazgo** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de crear emergency plan y desarrollo, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Ram Charan — *What the CEO Wants You to Know* aporta una lente sobre **perspectiva de Visión empresarial aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **candidate development** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **sucesión y continuidad de liderazgo**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **internal candidate** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. transition plan: gobernanza, límites e integración
-
-**transition plan** se define como **secuencia para transferir relaciones información y autoridad** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Richard Rumelt — *Good Strategy/Bad Strategy* se utiliza para estudiar **diagnóstico, política guía y acciones coherentes** y contrastar la recomendación final. Al ejecutar ensayar transición y comunicaciones, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un plan de sucesión no debe anunciar un heredero prematuramente ni congelar estrategia. Mantén opciones, criterios y desarrollo, con confidencialidad proporcional.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **CEO succession**, **emergency succession**, **successor profile**, **internal candidate** y **transition plan** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **sucesión y continuidad de liderazgo** no consiste en sumar cinco definiciones. Empieza por **CEO succession**, contrasta **emergency succession** con **successor profile**, incorpora **internal candidate** como restricción o mecanismo y usa **transition plan** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir escenarios de sucesión → 2. construir profile por estrategia futura → 3. evaluar candidatos internos o externos → 4. crear emergency plan y desarrollo → 5. ensayar transición y comunicaciones**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Una buena transición incluye: **traspaso** de información y relaciones clave, **coordinación** entre el CEO saliente y el entrante (con reglas claras sobre quién decide qué durante el período), **comunicación** coherente a empleados, clientes, inversionistas y autoridades, y un **plan para los primeros 100 días** del nuevo CEO (clase 204). El CEO saliente puede quedar como asesor o directivo, con límites para no debilitar al nuevo. La **confidencialidad** se gradúa: el directorio conoce todo; los candidatos, lo que corresponde a su situación; la organización, lo necesario para cumplir sus funciones; en empresas abiertas a bolsa, los deberes de información al mercado se verifican con asesoría y la normativa vigente. Se cuidan los **efectos** en el equipo: la salida de candidatos no elegidos requiere acompañamiento.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **sucesión y continuidad de liderazgo** ayuda a desafiar? |
-| Matt Mochary — *The Great CEO Within* | sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo | ¿Qué supuesto de **sucesión y continuidad de liderazgo** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **sucesión y continuidad de liderazgo** ayuda a desafiar? |
-| Ram Charan — *What the CEO Wants You to Know* | perspectiva de Visión empresarial aplicada al problema de la clase | ¿Qué supuesto de **sucesión y continuidad de liderazgo** ayuda a desafiar? |
-| Richard Rumelt — *Good Strategy/Bad Strategy* | diagnóstico, política guía y acciones coherentes | ¿Qué supuesto de **sucesión y continuidad de liderazgo** ayuda a desafiar? |
-
-En **sucesión y continuidad de liderazgo**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **CEO succession**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Charan (*Boards That Deliver*) | Sucesión como responsabilidad del directorio y proceso continuo. | No fija criterios específicos de cada empresa. | ¿Qué sabe el directorio de los candidatos? |
+| Botelho y otros | Conductas observables de CEO exitosos y mitos del perfil. | Datos de una consultora. | ¿Evaluamos conductas o estereotipos? |
+| Charan, Drotter y Noel | Pasajes y preparación para niveles superiores. | Modelo general. | ¿Quién está listo para el pasaje a CEO? |
+| Collins | Liderazgo con ambición por la organización y humildad. | Críticas por selección de casos. | ¿Cómo evidenciamos humildad y ambición? |
+| Tricker | Funciones del directorio en nombramientos y relevo. | No es específico de sucesión. | ¿Qué dicen los estatutos y la política del directorio? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** El fundador CEO es hospitalizado y nadie tiene firma bancaria, relaciones con inversionistas ni autoridad clara para compromisos comerciales de alto valor.
+**Situación (hipotética).** El directorio de una empresa de 3.200 personas prepara el relevo del CEO, que se retirará en 18 meses. Hay cuatro candidatos: A (directora financiera), B (director de operaciones), C (jefe de la mayor división) y D (candidato externo). Los criterios y pesos acordados antes de ver a los candidatos son: ajuste con la estrategia futura (25 %), historial de ejecución (20 %), liderazgo de líderes (15 %), credibilidad con el directorio y partes interesadas (15 %), adaptabilidad y continuidad cultural (15 %) y preparación (tiempo hasta lograr impacto) (10 %). Se puntúa de 1 a 5 con evidencia por escrito.
 
-**Paso 1 — definir escenarios de sucesión.** La gerencia escribe primero el supuesto asociado a **CEO succession** y evita convertirlo en hecho. Luego busca **ready-now candidates** para contrastarlo en el caso de **sucesión y continuidad de liderazgo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Puntuaciones y totales.**
 
-**Paso 2 — construir profile por estrategia futura.** La gerencia escribe primero el supuesto asociado a **emergency succession** y evita convertirlo en hecho. Luego busca **critical-role coverage** para contrastarlo en el caso de **sucesión y continuidad de liderazgo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Criterio (peso) | A | B | C | D |
+|---|---|---|---|---|
+| Ajuste con la estrategia (25 %) | 3 | 4 | 5 | 4 |
+| Ejecución (20 %) | 5 | 4 | 3 | 3 |
+| Liderazgo de líderes (15 %) | 3 | 4 | 3 | 4 |
+| Credibilidad (15 %) | 4 | 3 | 3 | 3 |
+| Adaptabilidad y cultura (15 %) | 4 | 4 | 3 | 3 |
+| Preparación (10 %) | 5 | 4 | 2 | 2 |
+| **Total ponderado** | **3,90** | **3,85** | **3,40** | **3,30** |
 
-**Paso 3 — evaluar candidatos internos o externos.** La gerencia escribe primero el supuesto asociado a **successor profile** y evita convertirlo en hecho. Luego busca **emergency plan readiness** para contrastarlo en el caso de **sucesión y continuidad de liderazgo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+(Cálculo de A: 0,25×3 + 0,20×5 + 0,15×3 + 0,15×4 + 0,15×4 + 0,10×5 = 0,75 + 1,00 + 0,45 + 0,60 + 0,60 + 0,50 = 3,90. Cálculo de B: 1,00 + 0,80 + 0,60 + 0,45 + 0,60 + 0,40 = 3,85.)
 
-**Paso 4 — crear emergency plan y desarrollo.** La gerencia escribe primero el supuesto asociado a **internal candidate** y evita convertirlo en hecho. Luego busca **candidate development** para contrastarlo en el caso de **sucesión y continuidad de liderazgo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Prueba de sensibilidad.** Si el directorio sube el peso del ajuste con la estrategia a 30 % y baja el de ejecución a 15 %: A = 0,90 + 0,75 + 0,45 + 0,60 + 0,60 + 0,50 = 3,80; B = 1,20 + 0,60 + 0,60 + 0,45 + 0,60 + 0,40 = 3,85. El orden entre A y B **se invierte**: la diferencia (0,05) es menor que el error de la evaluación.
 
-**Paso 5 — ensayar transición y comunicaciones.** La gerencia escribe primero el supuesto asociado a **transition plan** y evita convertirlo en hecho. Luego busca **transition risk** para contrastarlo en el caso de **sucesión y continuidad de liderazgo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** El puntaje no decide: ordena y revela que A y B están empatados. El directorio decide profundizar con más evidencia: una asignación de 12 meses con responsabilidades ampliadas para ambos, un caso estratégico presentado al directorio y referencias estructuradas con clientes y pares. Para C se identifican brechas de preparación (2) y se diseña un plan de desarrollo; D se mantiene como referencia externa.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **sucesión y continuidad de liderazgo**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Plan de emergencia.** Si el CEO falta de repente, asume como interino el director de operaciones (B) por un máximo de 6 meses; el presidente del directorio asume la relación con inversionistas y autoridades; los poderes y firmas están registrados y verificados con asesoría legal; el comunicado a empleados y clientes está redactado y se envía en 24 horas; el proceso formal de sucesión se activa en 30 días. Se ensaya en un ejercicio de mesa de dos horas y se actualiza cada seis meses.
+
+**Cobertura.** De 40 cargos críticos, 17 (42,5 %) tienen al menos un sucesor listo ahora; la meta a 24 meses es 70 %. Si C se retira por no ser elegido, el plan de retención se evalúa con criterios y no como privilegio opaco.
+
+**Cuidados.** La comunicación a candidatos no elegidos y los acuerdos de salida o retención se verifican con asesoría laboral; los deberes de información al mercado y los poderes de representación se consultan en la normativa y los estatutos vigentes; las cifras son ilustrativas.
+
+**Qué muestra.** (1) Los criterios se fijaron antes de ver a los candidatos. (2) La sensibilidad mostró que el orden no era robusto. (3) El plan de emergencia no depende del proceso planificado.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **CEO succession** | proceso para asegurar continuidad del máximo liderazgo | Cuando ready-now candidates es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **emergency succession** | plan para reemplazo inmediato no planificado | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Sucesión frente a pipeline.** El pipeline desarrolla líderes en todos los niveles; la sucesión del CEO es una decisión del directorio sobre un cargo único. Se retroalimentan, pero no son lo mismo.
 
-**Frontera de aplicación:** Un plan de sucesión no debe anunciar un heredero prematuramente ni congelar estrategia. Mantén opciones, criterios y desarrollo, con confidencialidad proporcional.
+**Límites.** Un plan de sucesión no debe anunciar un heredero de forma prematura ni congelar la estrategia. Las evaluaciones por puntajes dan una apariencia de precisión mayor que la real. Los estudios sobre CEO provienen de muestras y consultoras específicas. Las normas societarias, de información al mercado y laborales varían y se verifican con asesoría. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre sucesión y continuidad de liderazgo |
+| Nivel | Cómo participa en la sucesión |
 |---|---|
-| **Profesional** | usa **sucesión y continuidad de liderazgo** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **CEO succession** y **emergency succession** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta ready-now candidates con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si sucesión y continuidad de liderazgo cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de sucesión y continuidad de liderazgo reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **sucesión y continuidad de liderazgo** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Documenta su conocimiento para que su trabajo no dependa de él. |
+| **Jefe / Team Lead** | Prepara a un reemplazo para su cargo. |
+| **Gerente** | Mantiene sucesores y participa en las revisiones de talento. |
+| **CEO / Director** | Prepara su propio relevo con el directorio y facilita la transición. |
+| **Founder / Owner** | Decide cómo separar la propiedad de la gestión y cuándo soltar el mando. |
 
 ## 🏢 Caso ejecutivo
 
-El fundador CEO es hospitalizado y nadie tiene firma bancaria, relaciones con inversionistas ni autoridad clara para compromisos comerciales de alto valor.
+Una empresa de energía con 2.100 personas, controlada por una familia y con un directorio de siete miembros, tiene a su CEO fundador de 67 años en funciones desde hace 22 años. Nunca se habló de sucesión; el directorio sabe poco de los ejecutivos, pues el CEO les presenta pocos. Hay tres candidatos internos: la directora de operaciones (44 años), con excelente ejecución pero poca experiencia con el directorio; el director comercial (51), carismático y apoyado por la familia; y la gerente general de una filial (39), con un cambio exitoso y sin relación con la matriz. Un headhunter propone dos externos. El CEO dice que «el sucesor es el director comercial» y lo ha estado presentando así a clientes. Hace un mes sufrió un accidente doméstico y estuvo siete días ausente; durante ese lapso, los bancos pidieron firmas que nadie podía dar y una negociación importante se detuvo. La familia está dividida entre profesionalizar o mantener el control.
 
-Entrega un **decision brief de sucesión y continuidad de liderazgo** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de sucesión y continuidad** que contenga: (a) los tres escenarios y el plan de emergencia con poderes, firmas y comunicación; (b) el perfil del próximo CEO derivado de la estrategia a diez años; (c) el proceso de evaluación con criterios, pesos, evidencias, control de sesgos y sensibilidad; (d) el desarrollo de candidatos internos y el uso de candidatos externos; (e) el tratamiento de la situación del director comercial y del CEO fundador, la transición y la confidencialidad; (f) los roles del directorio y de la familia, y las verificaciones legales y societarias.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **sucesión y continuidad de liderazgo** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir escenarios de sucesión → 2. construir profile por estrategia futura → 3. evaluar candidatos internos o externos → 4. crear emergency plan y desarrollo → 5. ensayar transición y comunicaciones** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta ready-now candidates, critical-role coverage; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Redacta un plan de emergencia de una página para el cargo de CEO de tu empresa.
+2. Escribe el perfil del próximo CEO a partir de la estrategia a cinco años, con criterios y pesos.
+3. Evalúa a tres candidatos hipotéticos con una matriz y haz una prueba de sensibilidad.
+4. Diseña dos asignaciones de desarrollo para un candidato interno.
+5. Redacta el comunicado a empleados y clientes de una salida repentina del CEO.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar CEO succession y emergency succession como sinónimos | Se pierde la distinción entre “proceso para asegurar continuidad del máximo liderazgo” y “plan para reemplazo inmediato no planificado” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “ensayar transición y comunicaciones” | Se saltó “definir escenarios de sucesión” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir escenarios de sucesión → 2. construir profile por estrategia futura → 3. evaluar candidatos internos o externos → 4. crear emergency plan y desarrollo → 5. ensayar transición y comunicaciones y marca el primer supuesto no demostrado. |
-| Optimizar solo ready-now candidates | La métrica local sustituyó al resultado del sistema | Contrástala con critical-role coverage y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre sucesión y continuidad de liderazgo | Un plan de sucesión no debe anunciar un heredero prematuramente ni congelar estrategia. Mantén opciones, criterios y desarrollo, con confidencialidad proporcional. |
-| No fijar revisión | Una decisión sobre sucesión y continuidad de liderazgo se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Sucesión como evento | Se pospone hasta que es urgente | Proceso continuo y revisión anual. |
+| Heredero designado temprano | Se busca certeza | Mantener opciones y desarrollo de varios. |
+| Perfil por tradición | Se busca parecido con el actual | Derivarlo de la estrategia futura. |
+| Evaluar por simpatía | Falta evidencia | Criterios, pesos y evidencias antes de ver candidatos. |
+| Sin plan de emergencia | Se piensa que no ocurrirá | Plan escrito, ensayado y actualizado. |
+| Confidencialidad total o nula | No se gradúa | Definir quién sabe qué y por qué. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **CEO succession** y **emergency succession** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **successor profile** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir escenarios de sucesión → construir profile por estrategia futura** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **ready-now candidates** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **sucesión y continuidad de liderazgo**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un plan de sucesión no debe anunciar un heredero prematuramente ni congelar estrategia. Mantén opciones, criterios y desarrollo, con confidencialidad proporcional.**?
+1. ¿Quién es el dueño de la sucesión del CEO y por qué?
+2. ¿Qué tres escenarios de sucesión se distinguen?
+3. ¿De dónde sale el perfil del próximo CEO?
+4. ¿Qué elementos tiene una evaluación rigurosa de candidatos?
+5. ¿Qué debe contener un plan de emergencia?
+6. ¿Por qué no conviene designar un heredero demasiado pronto?
+7. ¿Qué límites tienen las evaluaciones con puntajes?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El directorio, porque tiene la función de nombrar, evaluar y relevar a la alta dirección y debe tratarla como un proceso continuo.
+2. Planificada, de emergencia y por desempeño.
+3. De la estrategia futura de la empresa y de las capacidades que necesitará.
+4. Criterios y pesos previos, evidencia, comparación con los mismos criterios, control de sesgos y opiniones independientes.
+5. Quién asume y con qué poderes, firmas y representación, comunicación, decisiones aplazadas, plazo del interinato y cómo se activa el proceso formal, con ensayos y actualización.
+6. Desmotiva a otros candidatos, puede acomodar al elegido y congela la estrategia; se pierden opciones.
+7. Dan una apariencia de precisión mayor que la real y el orden puede cambiar con pequeñas variaciones de peso.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/203-sucesion-y-continuidad-de-liderazgo/`:
 
-- `people-decision-brief.md` con el problema específico de **sucesión y continuidad de liderazgo**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **sucesión y continuidad de liderazgo** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **CEO succession**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **El fundador CEO es hospitalizado y nadie tiene firma bancaria, relaciones con inversionistas ni autoridad clara para compromisos comerciales de alto valor.** y el dato que podría invalidar la recomendación.
+- `people-decision-brief.md` (plantilla [People decision brief](../../../../templates/people-decision-brief.md)) con el plan del caso ejecutivo;
+- `board-or-executive-memo.md` (plantilla [Board or executive memo](../../../../templates/board-or-executive-memo.md)) con el informe al directorio sobre el perfil, la evaluación y el plan de emergencia;
+- `decision-journal.md` con los criterios, las evidencias, la sensibilidad y las verificaciones pendientes.
 
 ## 📗 Fuentes y verificación
 
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **sucesión y continuidad de liderazgo**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Matt Mochary — *The Great CEO Within* (Mochary Films, 2019). **Uso en esta clase:** sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo. Lectura selectiva sobre **sucesión y continuidad de liderazgo**. **Localizador:** [ISBN-13 9780578599281](https://openlibrary.org/isbn/9780578599281).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **sucesión y continuidad de liderazgo**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Ram Charan — *What the CEO Wants You to Know* (Crown, 2001). **Uso en esta clase:** perspectiva de Visión empresarial aplicada al problema de la clase. Lectura selectiva sobre **sucesión y continuidad de liderazgo**. **Localizador:** [ISBN-13 9780609504239](https://openlibrary.org/isbn/9780609504239).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **sucesión y continuidad de liderazgo**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva sobre **sucesión y continuidad de liderazgo**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **sucesión y continuidad de liderazgo** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **sucesión y continuidad de liderazgo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **sucesión y continuidad de liderazgo** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **sucesión y continuidad de liderazgo** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **sucesión y continuidad de liderazgo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Ram Charan — *Boards That Deliver* (John Wiley & Sons, Incorporated, 2007). **Uso en esta clase:** sucesión como responsabilidad del directorio y proceso continuo. Lectura selectiva sobre **sucesión y continuidad de liderazgo**. **Localizador:** [ISBN-13 9781118046616](https://openlibrary.org/isbn/9781118046616).
+- Elena L. Botelho, Kim R. Powell & Tahl Raz — *The CEO Next Door* (Currency, 2018). **Uso en esta clase:** conductas observables de los CEO exitosos y mitos del perfil. Lectura selectiva sobre **sucesión y continuidad de liderazgo**. **Localizador:** [ISBN-13 9781101906491](https://openlibrary.org/isbn/9781101906491).
+- Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* (Jossey-Bass, 2000). **Uso en esta clase:** pasajes y preparación para niveles superiores. Lectura selectiva sobre **sucesión y continuidad de liderazgo**. **Localizador:** [ISBN-13 9780787951726](https://openlibrary.org/isbn/9780787951726).
+- Jim Collins — *Good to Great* (HarperBusiness, 2001). **Uso en esta clase:** liderazgo con ambición por la organización y humildad. Lectura selectiva sobre **sucesión y continuidad de liderazgo**. **Localizador:** [ISBN-13 9780066620992](https://openlibrary.org/isbn/9780066620992).
+- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** funciones del directorio en nombramientos y relevo. Lectura selectiva sobre **sucesión y continuidad de liderazgo**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
 
-> **Regla de fuentes para Sucesión y continuidad de liderazgo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **sucesión y continuidad de liderazgo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Sucesión y continuidad de liderazgo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los estatutos, los deberes de información al mercado, los poderes de representación y las normas laborales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

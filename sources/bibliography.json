@@ -333,17 +333,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
-        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
-        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
-        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
-        "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
-        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
-        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
-        "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
-        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
-        "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo",
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
         "modules/17-boards-corporate-governance/classes/206-que-hace-un-directorio",
         "modules/17-boards-corporate-governance/classes/207-rol-del-presidente-y-del-ceo",
@@ -494,7 +483,8 @@
         "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
         "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
         "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion",
-        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial"
+        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial",
+        "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo"
       ],
       "status": "verificada",
       "authority": "Random House"
@@ -536,7 +526,9 @@
         "modules/01-critical-thinking-and-decisions/classes/017-probabilidad-incertidumbre-y-riesgo",
         "modules/01-critical-thinking-and-decisions/classes/019-analisis-de-causa-raiz",
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
-        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre"
+        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
+        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
+        "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles"
       ],
       "status": "verificada",
       "authority": "Portfolio"
@@ -692,15 +684,7 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
-        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
-        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
-        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
-        "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
-        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
-        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
-        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
         "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo",
         "modules/18-corporate-finance-capital-ma/classes/217-estructura-de-capital",
         "modules/18-corporate-finance-capital-ma/classes/220-valoracion-por-flujos",
@@ -865,6 +849,7 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
+        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
         "modules/17-boards-corporate-governance/classes/206-que-hace-un-directorio",
         "modules/17-boards-corporate-governance/classes/207-rol-del-presidente-y-del-ceo",
@@ -986,6 +971,7 @@
         "modules/00-professional-to-leader/classes/007-sistema-personal-de-ejecucion",
         "modules/00-professional-to-leader/classes/009-aprendizaje-deliberado-y-actualizacion-continua",
         "modules/00-professional-to-leader/classes/011-mapa-de-fortalezas-brechas-y-riesgos-personales",
+        "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
         "modules/23-independence-capstone/classes/278-inventario-de-capacidades-monetizables",
         "modules/23-independence-capstone/classes/280-productized-services",
         "modules/23-independence-capstone/classes/282-saas-y-modelos-recurrentes",
@@ -1318,11 +1304,7 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/047-recuperacion-limites-y-sostenibilidad",
         "modules/04-team-leadership/classes/057-motivacion-y-reconocimiento",
-        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
-        "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
-        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo",
-        "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
-        "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo"
+        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo"
       ],
       "status": "verificada",
       "authority": "Harvard Business School Press"
@@ -1716,7 +1698,8 @@
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
         "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
-        "modules/14-organization-design-culture-change/classes/176-diagnostico-de-cambio"
+        "modules/14-organization-design-culture-change/classes/176-diagnostico-de-cambio",
+        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa"
       ],
       "status": "verificada",
       "authority": "Earthscan"
@@ -1832,7 +1815,8 @@
         "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones",
         "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion",
         "modules/09-managerial-finance-accounting/classes/114-capital-de-trabajo",
-        "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion"
+        "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
+        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa"
       ],
       "status": "verificada",
       "authority": "HighBridge Audio"
@@ -1960,7 +1944,8 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/038-autorregulacion-y-respuesta-bajo-presion",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/044-liderar-en-incertidumbre",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
+        "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles"
       ],
       "status": "verificada",
       "authority": "The MIT Press"
@@ -2103,17 +2088,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
-        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
-        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
-        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
-        "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
-        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
-        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
-        "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
-        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
-        "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo",
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
         "modules/17-boards-corporate-governance/classes/206-que-hace-un-directorio",
         "modules/17-boards-corporate-governance/classes/207-rol-del-presidente-y-del-ceo",
@@ -2220,6 +2194,7 @@
         "modules/00-professional-to-leader/classes/008-gestion-de-energia-y-sostenibilidad-personal",
         "modules/00-professional-to-leader/classes/010-marca-profesional-basada-en-evidencia",
         "modules/00-professional-to-leader/classes/012-capstone-tu-sistema-operativo-de-liderazgo",
+        "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
         "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
         "modules/23-independence-capstone/classes/281-producto-digital-y-propiedad-intelectual",
         "modules/23-independence-capstone/classes/283-portafolio-de-ingresos-y-concentracion-de-riesgo",
@@ -2469,7 +2444,8 @@
         "modules/04-team-leadership/classes/053-delegacion-por-resultados",
         "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
         "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional",
-        "modules/14-organization-design-culture-change/classes/171-spans-layers-y-managerial-load"
+        "modules/14-organization-design-culture-change/classes/171-spans-layers-y-managerial-load",
+        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team"
       ],
       "status": "verificada",
       "authority": "Harvard Business School Press"
@@ -2754,7 +2730,8 @@
         "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
         "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional",
         "modules/14-organization-design-culture-change/classes/175-incentivos-y-comportamientos",
-        "modules/14-organization-design-culture-change/classes/179-reorganizaciones-y-riesgos-humanos"
+        "modules/14-organization-design-culture-change/classes/179-reorganizaciones-y-riesgos-humanos",
+        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team"
       ],
       "status": "verificada",
       "authority": "McGraw-Hill"
@@ -2873,18 +2850,7 @@
         "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
         "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
         "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion",
-        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial",
-        "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
-        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
-        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
-        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
-        "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
-        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
-        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
-        "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
-        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
-        "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo"
+        "modules/08-management-systems-kpis-okrs/classes/108-capstone-operating-review-gerencial"
       ],
       "status": "verificada"
     },
@@ -3036,17 +3002,7 @@
       "locator": "https://openlibrary.org/isbn/9780578599281",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
-        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
-        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
-        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
-        "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
-        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
-        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
-        "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
-        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
-        "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo"
+        "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo"
       ],
       "status": "verificada",
       "authority": "Mochary Films"
@@ -3099,7 +3055,8 @@
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/045-valores-y-dilemas-eticos",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar"
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
+        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas"
       ],
       "status": "verificada",
       "authority": "John Wiley & Sons Inc"
@@ -3192,7 +3149,11 @@
         "modules/14-organization-design-culture-change/classes/171-spans-layers-y-managerial-load",
         "modules/14-organization-design-culture-change/classes/172-operating-model",
         "modules/14-organization-design-culture-change/classes/173-raci-rapid-y-derechos-de-decision",
-        "modules/14-organization-design-culture-change/classes/180-capstone-rediseno-organizacional"
+        "modules/14-organization-design-culture-change/classes/180-capstone-rediseno-organizacional",
+        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
+        "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
+        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
+        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline"
       ],
       "status": "verificada",
       "authority": "Harvard Business Review Press"
@@ -3217,10 +3178,7 @@
         "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
         "modules/05-talent-people-management/classes/065-onboarding-y-primeros-90-dias",
         "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
-        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
-        "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
-        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
+        "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
         "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo",
         "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
         "modules/23-independence-capstone/classes/280-productized-services",
@@ -3287,6 +3245,7 @@
       "locator": "https://doi.org/10.1007/978-94-024-1144-7_16",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
         "modules/17-boards-corporate-governance/classes/206-que-hace-un-directorio",
         "modules/17-boards-corporate-governance/classes/209-deberes-conflictos-e-independencia-fundamentos",
         "modules/17-boards-corporate-governance/classes/211-board-pack-y-calidad-de-informacion",
@@ -3446,6 +3405,7 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
+        "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
         "modules/23-independence-capstone/classes/277-independencia-definicion-economica-y-profesional",
         "modules/23-independence-capstone/classes/279-consultoria-y-servicios-profesionales",
         "modules/23-independence-capstone/classes/282-saas-y-modelos-recurrentes",
@@ -3604,6 +3564,7 @@
       "locator": "https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html",
       "accessed": "",
       "used_in": [
+        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
         "modules/17-boards-corporate-governance/classes/206-que-hace-un-directorio",
         "modules/17-boards-corporate-governance/classes/207-rol-del-presidente-y-del-ceo",
@@ -3702,7 +3663,8 @@
         "modules/04-team-leadership/classes/049-que-hace-a-un-equipo-real",
         "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
         "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
-        "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional"
+        "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional",
+        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team"
       ],
       "status": "verificada",
       "authority": "Pfeiffer"
@@ -3721,6 +3683,7 @@
       "locator": "https://openlibrary.org/isbn/9781647821302",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
         "modules/17-boards-corporate-governance/classes/207-rol-del-presidente-y-del-ceo",
         "modules/17-boards-corporate-governance/classes/210-informacion-y-transparencia",
         "modules/17-boards-corporate-governance/classes/212-supervision-de-estrategia",
@@ -3769,17 +3732,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
-        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
-        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
-        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
-        "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
-        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
-        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
-        "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
-        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
-        "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo",
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
         "modules/17-boards-corporate-governance/classes/206-que-hace-un-directorio",
         "modules/17-boards-corporate-governance/classes/207-rol-del-presidente-y-del-ceo",
@@ -3895,10 +3847,6 @@
         "modules/00-professional-to-leader/classes/012-capstone-tu-sistema-operativo-de-liderazgo",
         "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
         "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
-        "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
-        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
-        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
-        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
         "modules/17-boards-corporate-governance/classes/208-comites-de-auditoria-riesgo-y-compensacion",
         "modules/17-boards-corporate-governance/classes/211-board-pack-y-calidad-de-informacion",
@@ -3960,13 +3908,7 @@
         "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
         "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
         "modules/14-organization-design-culture-change/classes/171-spans-layers-y-managerial-load",
-        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
-        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
-        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
         "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
-        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
-        "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo",
         "modules/20-founder-venture-creation/classes/241-founder-versus-freelance-versus-empresario",
         "modules/20-founder-venture-creation/classes/243-customer-discovery",
         "modules/20-founder-venture-creation/classes/245-propuesta-de-valor",
@@ -4119,6 +4061,7 @@
       "locator": "https://openlibrary.org/isbn/9781118046616",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
         "modules/17-boards-corporate-governance/classes/206-que-hace-un-directorio",
         "modules/17-boards-corporate-governance/classes/207-rol-del-presidente-y-del-ceo",
@@ -4145,10 +4088,7 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
-        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
-        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
-        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo"
+        "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo"
       ],
       "status": "verificada",
       "authority": "Crown"
@@ -4172,9 +4112,8 @@
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
         "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
         "modules/05-talent-people-management/classes/072-capstone-construir-un-sistema-de-talento",
-        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
-        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
-        "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles"
+        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
+        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo"
       ],
       "status": "verificada",
       "authority": "Jossey-Bass"
@@ -4386,11 +4325,7 @@
         "modules/13-strategy-competition/classes/165-opciones-de-crecimiento",
         "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia",
         "modules/13-strategy-competition/classes/168-capstone-strategy-memo",
-        "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
-        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
-        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
-        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
-        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo"
+        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa"
       ],
       "status": "verificada",
       "authority": "Profile Books"
@@ -4584,7 +4519,8 @@
         "modules/08-management-systems-kpis-okrs/classes/103-ritmo-semanal-mensual-y-trimestral",
         "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
         "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
-        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos"
+        "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
+        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa"
       ],
       "status": "verificada",
       "authority": "Harvard Business School Press"
@@ -5086,17 +5022,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
-        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
-        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
-        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
-        "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
-        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
-        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
-        "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
-        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
-        "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo",
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
         "modules/17-boards-corporate-governance/classes/206-que-hace-un-directorio",
         "modules/17-boards-corporate-governance/classes/207-rol-del-presidente-y-del-ceo",
@@ -5303,6 +5228,8 @@
         "modules/09-managerial-finance-accounting/classes/118-roi-roic-y-decisiones-de-inversion",
         "modules/09-managerial-finance-accounting/classes/119-valoracion-fundamentos",
         "modules/09-managerial-finance-accounting/classes/120-capstone-comite-de-inversion",
+        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
+        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
         "modules/17-boards-corporate-governance/classes/208-comites-de-auditoria-riesgo-y-compensacion",
         "modules/17-boards-corporate-governance/classes/210-informacion-y-transparencia",
@@ -5449,17 +5376,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
-        "modules/16-executive-leadership-ceo-office/classes/194-pensar-a-nivel-empresa",
-        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
-        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
-        "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
-        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
-        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
-        "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
-        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
-        "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo",
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
         "modules/17-boards-corporate-governance/classes/206-que-hace-un-directorio",
         "modules/17-boards-corporate-governance/classes/207-rol-del-presidente-y-del-ceo",
@@ -5671,7 +5587,8 @@
       "locator": "https://openlibrary.org/isbn/9780521151740",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder"
+        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
+        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad"
       ],
       "status": "verificada"
     },
@@ -5931,7 +5848,8 @@
         "modules/08-management-systems-kpis-okrs/classes/104-business-reviews",
         "modules/08-management-systems-kpis-okrs/classes/107-escalamiento-y-gestion-por-excepcion",
         "modules/14-organization-design-culture-change/classes/174-cultura-observable-y-artefactos",
-        "modules/14-organization-design-culture-change/classes/179-reorganizaciones-y-riesgos-humanos"
+        "modules/14-organization-design-culture-change/classes/179-reorganizaciones-y-riesgos-humanos",
+        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team"
       ],
       "status": "verificada"
     },
@@ -6031,7 +5949,8 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
-        "modules/04-team-leadership/classes/053-delegacion-por-resultados"
+        "modules/04-team-leadership/classes/053-delegacion-por-resultados",
+        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline"
       ],
       "status": "verificada"
     },
@@ -6452,7 +6371,8 @@
         "modules/12-product-innovation/classes/152-priorizacion-y-costo-de-oportunidad",
         "modules/12-product-innovation/classes/153-experimentos-y-evidencia",
         "modules/13-strategy-competition/classes/158-diagnostico-estrategico",
-        "modules/13-strategy-competition/classes/164-escenarios-estrategicos"
+        "modules/13-strategy-competition/classes/164-escenarios-estrategicos",
+        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas"
       ],
       "status": "verificada"
     },
@@ -6830,7 +6750,8 @@
       "used_in": [
         "modules/08-management-systems-kpis-okrs/classes/105-priorizacion-y-portfolio",
         "modules/08-management-systems-kpis-okrs/classes/106-asignacion-de-recursos",
-        "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia"
+        "modules/13-strategy-competition/classes/167-ejecucion-y-adaptacion-de-estrategia",
+        "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas"
       ],
       "status": "verificada"
     },
@@ -7655,6 +7576,179 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "donald-c-hambrick-phyllis-a-mason-upper-echelons-the-organization-as-a-reflectio",
+      "type": "paper",
+      "authors": [
+        "Hambrick, Donald C.",
+        "Mason, Phyllis A."
+      ],
+      "title": "Upper Echelons: The Organization as a Reflection of Its Top Managers",
+      "cited_as": "Donald C. Hambrick & Phyllis A. Mason — Upper Echelons: The Organization as a Reflection of Its Top Managers",
+      "authority": "Academy of Management Review",
+      "published": "1984",
+      "doi": "10.2307/258434",
+      "locator": "https://doi.org/10.2307/258434",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "michael-c-jensen-value-maximization-stakeholder-theory-and-the-corporate-objecti",
+      "type": "paper",
+      "authors": [
+        "Jensen, Michael C."
+      ],
+      "title": "Value Maximization, Stakeholder Theory, and the Corporate Objective Function",
+      "cited_as": "Michael C. Jensen — Value Maximization, Stakeholder Theory, and the Corporate Objective Function",
+      "authority": "Business Ethics Quarterly",
+      "published": "2002",
+      "doi": "10.2307/3857812",
+      "locator": "https://doi.org/10.2307/3857812",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "karl-e-weick-the-collapse-of-sensemaking-in-organizations-the-mann-gulch-disaste",
+      "type": "paper",
+      "authors": [
+        "Weick, Karl E."
+      ],
+      "title": "The Collapse of Sensemaking in Organizations: The Mann Gulch Disaster",
+      "cited_as": "Karl E. Weick — The Collapse of Sensemaking in Organizations: The Mann Gulch Disaster",
+      "authority": "Administrative Science Quarterly",
+      "published": "1993",
+      "doi": "10.2307/2393339",
+      "locator": "https://doi.org/10.2307/2393339",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "jim-collins-good-to-great",
+      "type": "book",
+      "authors": [
+        "Collins, Jim"
+      ],
+      "title": "Good to Great",
+      "cited_as": "Jim Collins — Good to Great",
+      "authority": "HarperBusiness",
+      "published": "2001",
+      "isbn13": "9780066620992",
+      "locator": "https://openlibrary.org/isbn/9780066620992",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
+        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "william-n-thorndike-the-outsiders",
+      "type": "book",
+      "authors": [
+        "Thorndike, William N."
+      ],
+      "title": "The Outsiders",
+      "cited_as": "William N. Thorndike — The Outsiders",
+      "authority": "Harvard Business Review Press",
+      "published": "2012",
+      "isbn13": "9781422162675",
+      "locator": "https://openlibrary.org/isbn/9781422162675",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "joseph-l-bower-managing-the-resource-allocation-process",
+      "type": "book",
+      "authors": [
+        "Bower, Joseph L."
+      ],
+      "title": "Managing the Resource Allocation Process",
+      "cited_as": "Joseph L. Bower — Managing the Resource Allocation Process",
+      "authority": "Harvard Business School",
+      "published": "1970",
+      "isbn13": "9780875840833",
+      "locator": "https://openlibrary.org/isbn/9780875840833",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "ruth-wageman-et-al-senior-leadership-teams",
+      "type": "book",
+      "authors": [
+        "Wageman, Ruth",
+        "Nunes, Debra A.",
+        "Burruss, James A.",
+        "Hackman, J. Richard"
+      ],
+      "title": "Senior Leadership Teams",
+      "cited_as": "Ruth Wageman et al. — Senior Leadership Teams",
+      "authority": "Harvard Business School Press",
+      "published": "2008",
+      "isbn13": "9781422103364",
+      "locator": "https://openlibrary.org/isbn/9781422103364",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "john-j-gabarro-the-dynamics-of-taking-charge",
+      "type": "book",
+      "authors": [
+        "Gabarro, John J."
+      ],
+      "title": "The Dynamics of Taking Charge",
+      "cited_as": "John J. Gabarro — The Dynamics of Taking Charge",
+      "authority": "Harvard Business School Press",
+      "published": "1987",
+      "isbn13": "9780875841373",
+      "locator": "https://openlibrary.org/isbn/9780875841373",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
+        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
+        "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "elena-l-botelho-kim-r-powell-tahl-raz-the-ceo-next-door",
+      "type": "book",
+      "authors": [
+        "Botelho, Elena L.",
+        "Powell, Kim R.",
+        "Raz, Tahl"
+      ],
+      "title": "The CEO Next Door",
+      "cited_as": "Elena L. Botelho, Kim R. Powell & Tahl Raz — The CEO Next Door",
+      "authority": "Currency",
+      "published": "2018",
+      "isbn13": "9781101906491",
+      "locator": "https://openlibrary.org/isbn/9781101906491",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
+        "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
+        "modules/16-executive-leadership-ceo-office/classes/204-capstone-primeros-100-dias-como-ceo"
       ],
       "status": "verificada"
     }

@@ -67,18 +67,18 @@ Las clases **202 a 204** cubren la prueba: crisis y decisiones irreversibles, su
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 193 | [Transición de gerente a ejecutivo](classes/193-transicion-de-gerente-a-ejecutivo/README.md) | enterprise perspective, transition, stakeholder map | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 194 | [Pensar a nivel empresa](classes/194-pensar-a-nivel-empresa/README.md) | enterprise value, portfolio view, cross-subsidy | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 195 | [Construir el executive team](classes/195-construir-el-executive-team/README.md) | executive team, functional advocacy, collective accountability | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 196 | [Arquitectura de decisiones ejecutivas](classes/196-arquitectura-de-decisiones-ejecutivas/README.md) | decision architecture, reversibility, decision velocity | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 197 | [Agenda y tiempo del CEO](classes/197-agenda-y-tiempo-del-ceo/README.md) | CEO agenda, high-leverage activity, calendar audit | [board-or-executive-memo](../../templates/board-or-executive-memo.md) | 150 |
-| 198 | [Asignación de capital y talento](classes/198-asignacion-de-capital-y-talento/README.md) | capital allocation, talent allocation, sunk cost | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 199 | [Balance entre clientes, personas, accionistas y sociedad](classes/199-balance-entre-clientes-personas-accionistas-y-sociedad/README.md) | stakeholder, shareholder return, externality | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 193 | [Transición de gerente a ejecutivo](classes/193-transicion-de-gerente-a-ejecutivo/README.md) | Perspectiva de empresa, Mandato, Agenda de aprendizaje | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 194 | [Pensar a nivel empresa](classes/194-pensar-a-nivel-empresa/README.md) | Valor de empresa, ROIC, Restricción | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 195 | [Construir el executive team](classes/195-construir-el-executive-team/README.md) | Equipo ejecutivo, Defensor de función, Mandato colectivo | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 196 | [Arquitectura de decisiones ejecutivas](classes/196-arquitectura-de-decisiones-ejecutivas/README.md) | Arquitectura de decisiones, Reversibilidad, Latencia de decisión | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 197 | [Agenda y tiempo del CEO](classes/197-agenda-y-tiempo-del-ceo/README.md) | Agenda del CEO, Actividad de alto apalancamiento, Auditoría de tiempo | [board-or-executive-memo](../../templates/board-or-executive-memo.md) | 150 |
+| 198 | [Asignación de capital y talento](classes/198-asignacion-de-capital-y-talento/README.md) | Asignación de capital, Asignación de talento, Tasa mínima de retorno | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 199 | [Balance entre clientes, personas, accionistas y sociedad](classes/199-balance-entre-clientes-personas-accionistas-y-sociedad/README.md) | Parte interesada, Materialidad, Externalidad | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
 | 200 | [Comunicación del CEO](classes/200-comunicacion-del-ceo/README.md) | Teoría situacional de comunicación de crisis, Atribución de responsabilidad, Intensificadores | [executive-spokesperson-manual](../../templates/executive-spokesperson-manual.md) | 150 |
-| 201 | [Leadership pipeline](classes/201-leadership-pipeline/README.md) | leadership passage, readiness, succession bench | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
-| 202 | [Crisis y decisiones irreversibles](classes/202-crisis-y-decisiones-irreversibles/README.md) | irreversible decision, pre-mortem, red team | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 203 | [Sucesión y continuidad de liderazgo](classes/203-sucesion-y-continuidad-de-liderazgo/README.md) | CEO succession, emergency succession, successor profile | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
-| 204 | [Capstone: primeros 100 días como CEO](classes/204-capstone-primeros-100-dias-como-ceo/README.md) | transition mandate, learning plan, stakeholder coalition | [integrated-executive-decision-brief](../../templates/integrated-executive-decision-brief.md) | 150 |
+| 201 | [Leadership pipeline](classes/201-leadership-pipeline/README.md) | Pasaje de liderazgo, Cargo crítico, Preparación (readiness) | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 202 | [Crisis y decisiones irreversibles](classes/202-crisis-y-decisiones-irreversibles/README.md) | Decisión irreversible, Reconocimiento de patrones, Colapso del sentido | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 203 | [Sucesión y continuidad de liderazgo](classes/203-sucesion-y-continuidad-de-liderazgo/README.md) | Sucesión planificada, Sucesión de emergencia, Perfil del sucesor | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
+| 204 | [Capstone: primeros 100 días como CEO](classes/204-capstone-primeros-100-dias-como-ceo/README.md) | Mandato de transición, Plan de aprendizaje, Riesgo crítico | [integrated-executive-decision-brief](../../templates/integrated-executive-decision-brief.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -89,73 +89,83 @@ Las clases **202 a 204** cubren la prueba: crisis y decisiones irreversibles, su
 
 ## 🔤 Glosario de la parte
 
-63 conceptos definidos en las clases, con la definición operacional que usa cada una.
+73 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **100-day plan** | secuencia de aprendizaje acciones y revisiones en transición. |
+| **Actividad de alto apalancamiento** | Actividad cuyo efecto se multiplica en la organización. |
+| **Agenda de aprendizaje** | Plan para entender rápido la situación, las personas y los números. |
+| **Agenda del CEO** | Distribución deliberada de tiempo y atención según las prioridades de la empresa. |
+| **Arquitectura de decisiones** | Diseño de quién decide qué, dónde, con qué información y con qué revisión. |
+| **Asignación de capital** | Decisión de a qué proyectos, negocios o usos se destinan los recursos financieros. |
+| **Asignación de talento** | Decisión de dónde se ubican las personas más capaces. |
 | **Atribución de responsabilidad** | Grado en que los interesados creen que la organización causó la crisis; se agrupa en víctima, accidental y evitable. |
-| **attention residue** | costo cognitivo de cambiar continuamente de contexto. |
-| **calendar audit** | análisis de cómo tiempo real se compara con prioridades. |
-| **capital allocation** | distribución de recursos financieros entre usos alternativos. |
-| **CEO agenda** | distribución deliberada de tiempo y atención ejecutiva. |
-| **CEO succession** | proceso para asegurar continuidad del máximo liderazgo. |
-| **collective accountability** | responsabilidad compartida por decisiones de empresa. |
-| **constructive conflict** | desacuerdo sustantivo que mejora decisión sin dañar relación. |
-| **critical role** | posición cuya vacancia crea riesgo material. |
-| **cross-subsidy** | uso deliberado de recursos de una unidad para apoyar otra. |
-| **decision architecture** | mapa de decisiones derechos foros e información. |
-| **decision velocity** | tiempo desde necesidad hasta decisión ejecutable. |
-| **delegation boundary** | límite explícito de autoridad transferida. |
-| **development assignment** | experiencia diseñada para cerrar una brecha de liderazgo. |
-| **early decision** | elección temprana que reduce riesgo o crea dirección. |
-| **early win** | resultado temprano que crea credibilidad sin hipotecar estrategia. |
-| **emergency succession** | plan para reemplazo inmediato no planificado. |
-| **enterprise perspective** | lente que prioriza resultado total sobre función propia. |
-| **enterprise trade-off** | elección donde mejorar una parte puede empeorar otra. |
-| **enterprise value** | valor económico y estratégico del sistema completo. |
+| **Auditoría de tiempo** | Registro y clasificación de cómo se usó el tiempo. |
+| **Banco de talento** | Visión de personas y su preparación para cargos críticos. |
+| **Cadencia operativa** | Ritmo de reuniones, revisiones y comunicación. |
+| **Candidato listo ahora** | Persona que podría asumir de inmediato con alta probabilidad de éxito. |
+| **Cargo crítico** | Rol cuya vacancia o mal desempeño afecta gravemente a la empresa. |
+| **Cartera de decisiones pendientes** | Decisiones esperando al CEO. |
+| **CEO interino** | Persona que dirige de forma transitoria mientras se decide el relevo. |
+| **Colapso del sentido** | Pérdida de la capacidad de interpretar una situación durante una crisis. |
+| **Compromiso** | Adhesión visible a una decisión, incluso con desacuerdo previo. |
+| **Confianza** | Disposición a mostrarse vulnerable ante los demás. |
+| **Confianza en la transición** | Credibilidad que se construye con conducta y coherencia. |
+| **Conflicto sobre ideas** | Discusión franca sobre asuntos, sin ataque personal. |
+| **Decisión de empresa** | Decisión cuyo efecto cruza varias funciones o afecta la estrategia. |
+| **Decisión irreversible** | Decisión difícil o imposible de deshacer a costo razonable. |
+| **Defensor de función** | Ejecutivo que actúa principalmente para proteger su área. |
+| **Desafío independiente** | Revisión por alguien sin interés en el resultado, cuyo rol es buscar fallas. |
+| **Equipo ejecutivo** | Grupo pequeño que responde en conjunto por la empresa. |
 | **Estrategias de respuesta** | Negación, disminución, reconstrucción y refuerzo, con variantes en cada grupo. |
-| **exception** | caso fuera de políticas o tolerancias. |
-| **executive team** | grupo colectivo accountable por resultados enterprise. |
-| **externality** | costo o beneficio impuesto a terceros no reflejado completamente en precio. |
-| **functional advocacy** | defensa legítima de una función que no debe dominar interés total. |
-| **high-leverage activity** | actividad cuyo efecto multiplica resultados de otros. |
-| **hurdle rate** | retorno mínimo requerido para una inversión. |
+| **Externalidad** | Costo o beneficio que la empresa causa a terceros sin pagarlo ni cobrarlo. |
 | **Información de ajuste** | Reconocimiento del daño y apoyo para afrontarlo emocionalmente. |
 | **Información de instrucción** | Qué ocurrió y qué debe hacer quien está en riesgo para protegerse. |
 | **Intensificadores** | Historial de crisis similares y reputación previa: aumentan la responsabilidad atribuida. |
-| **internal candidate** | persona desarrollada dentro de la organización. |
-| **irreversible decision** | elección cuyo costo de deshacer es alto o imposible. |
-| **leadership passage** | transición a un nivel con nuevas responsabilidades y valores. |
-| **learning agenda** | preguntas prioritarias que guían diagnóstico inicial. |
-| **learning plan** | agenda estructurada de preguntas y fuentes. |
-| **license to operate** | aceptación social regulatoria y reputacional para operar. |
-| **long-term value** | valor creado considerando efectos y riesgos más allá del trimestre. |
+| **Latencia de decisión** | Tiempo desde que surge la decisión hasta que se toma. |
+| **Mandato** | Lo que se espera que el nuevo ejecutivo logre y bajo qué condiciones. |
+| **Mandato colectivo** | Asuntos que solo el equipo puede resolver juntos. |
+| **Mandato de transición** | Lo que el directorio y la empresa esperan lograr con el nuevo CEO. |
 | **Manual de vocería** | Documento previo que define quién habla, qué dice, qué no dirá y cómo se corrige un error. |
+| **Margen** | Tiempo no comprometido para lo imprevisto. |
+| **Materialidad** | Importancia de una parte o un tema para el valor y los riesgos de la empresa. |
+| **Maximización ilustrada** | Maximizar el valor de largo plazo atendiendo a todas las partes que lo sostienen. |
 | **Mensaje central** | Una frase verificable que sostiene toda la comunicación; todo lo demás la respalda. |
-| **operating rhythm** | cadencia que agrupa decisiones y revisiones recurrentes. |
-| **portfolio view** | perspectiva comparativa de negocios productos o capacidades. |
-| **pre-mortem** | ejercicio que imagina fracaso futuro para revelar riesgos. |
-| **readiness** | grado de preparación para ejecutar trabajo del siguiente nivel. |
-| **red team** | grupo que desafía supuestos y plan. |
-| **reversibility** | grado en que una decisión puede deshacerse a costo razonable. |
-| **shareholder return** | valor económico entregado a propietarios. |
-| **staged commitment** | desembolso o compromiso por etapas ligado a evidencia. |
-| **stakeholder** | parte afectada o capaz de afectar la organización. |
-| **stakeholder coalition** | red de actores necesarios para ejecutar. |
-| **stakeholder map** | mapa de actores cuyo apoyo o información es crítico. |
-| **stop rule** | condición predefinida para detener o reevaluar. |
-| **strategic capacity** | capacidad reservada para prioridades y opciones futuras. |
-| **succession bench** | conjunto de candidatos internos con potencial y preparación. |
-| **successor profile** | criterios de capacidades y contexto requeridos. |
-| **sunk cost** | costo pasado irrecuperable que no debería determinar decisión futura. |
-| **system constraint** | cuello que limita desempeño total. |
-| **talent allocation** | asignación de personas escasas a prioridades. |
-| **team charter** | acuerdo sobre propósito decisiones y normas del equipo. |
+| **Parte interesada** | Persona o grupo que afecta a la empresa o es afectado por ella. |
+| **Pasaje de liderazgo** | Transición a un nivel que exige cambiar de trabajo, de uso del tiempo y de valores. |
+| **Perfil del sucesor** | Conjunto de capacidades que la empresa necesitará. |
+| **Perspectiva de empresa** | Mirada que subordina la función a los objetivos del conjunto. |
+| **Plan de aprendizaje** | Estrategia para entender rápido mercado, clientes, números, personas y riesgos. |
+| **Potencial** | Capacidad de crecer hasta niveles superiores en el tiempo. |
+| **Pre-lectura** | Documento breve que prepara una decisión. |
+| **Preparación (readiness)** | Capacidad actual de asumir el nivel siguiente. |
+| **Prioridad** | Objetivo de alto impacto con dueño, recursos y métrica. |
+| **Reconocimiento de patrones** | Uso de la experiencia para ver una situación como familiar y actuar. |
+| **Registro de decisión** | Documento con contexto, supuestos, alternativas y razones. |
+| **Regla de parada** | Condición pactada de antemano que obliga a detenerse o revisar. |
+| **Rendición de cuentas** | Responder por decisiones con datos y responsables. |
+| **Restricción** | Elemento que limita el desempeño del sistema completo. |
+| **Retorno marginal** | Retorno de cada peso adicional invertido. |
+| **Reversibilidad** | Facilidad y costo de deshacer una decisión. |
+| **Riesgo crítico** | Amenaza grave que no puede esperar. |
+| **ROIC** | Retorno sobre el capital invertido: utilidad operativa después de impuestos dividida por el capital invertido. |
+| **Ruido** | Variabilidad no deseada en juicios que deberían ser iguales. |
+| **Subóptimo local** | Optimizar una parte perjudicando al conjunto. |
+| **Sucesión de emergencia** | Plan para cubrir la salida repentina del CEO. |
+| **Sucesión planificada** | Relevo organizado del CEO con tiempo y proceso. |
+| **Sucesor listo ahora** | Persona que podría asumir el cargo de inmediato. |
+| **Talento en prioridades** | Proporción de líderes clave asignados a las prioridades de la empresa. |
+| **Tasa de anulación** | Proporción de decisiones delegadas que el CEO revierte. |
+| **Tasa de reasignación** | Proporción del capital que cambia de uso en un período. |
+| **Tasa mínima de retorno** | Retorno mínimo que debe superar una inversión para aprobarse. |
 | **Teoría situacional de comunicación de crisis** | Marco de Coombs (2007) que relaciona la responsabilidad que el público atribuye a la organización con las respuestas más adecuadas. |
-| **transition** | periodo en que expectativas relaciones y capacidades cambian. |
-| **transition mandate** | expectativas explícitas del rol y contexto. |
-| **transition plan** | secuencia para transferir relaciones información y autoridad. |
+| **Trabajo profundo** | Trabajo de concentración sin interrupciones. |
+| **Trade-off** | Elección en la que se gana algo y se pierde algo. |
+| **Transición** | Período de traspaso de la información, relaciones y decisiones. |
+| **Valor compartido** | Valor económico que se crea resolviendo necesidades de la sociedad. |
+| **Valor de empresa** | Valor presente de la caja futura que genera la empresa. |
+| **Victoria temprana** | Resultado visible y creíble en los primeros meses. |
+| **Índice de rentabilidad** | Valor presente neto por unidad de capital invertido. |
 
 ## 📦 Qué queda como evidencia
 

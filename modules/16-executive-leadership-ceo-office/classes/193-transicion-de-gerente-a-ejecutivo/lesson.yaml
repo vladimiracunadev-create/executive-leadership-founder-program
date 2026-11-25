@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir enterprise perspective de transition mediante evidencia observable."
-  - "Aplicar la secuencia: diagnosticar mandato y contexto → construir learning agenda → mapear stakeholders y equipo → distinguir decisiones enterprise → secuenciar early wins y cambios estructurales."
-  - "Interpretar cross-functional outcomes, stakeholder trust, decision scope sin atribuir causalidad automática."
-  - "Resolver el caso de transición de gerente a ejecutivo con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Diagnosticar el mandato, la situación y las expectativas del nuevo rol."
+  - "Construir una agenda de aprendizaje con preguntas, personas y datos."
+  - "Mapear a las partes interesadas y a los pares con los que se decide."
+  - "Distinguir las decisiones de la empresa de las de la función y reasignar tu tiempo."
+  - "Secuenciar victorias tempranas y cambios estructurales sin dañar la confianza."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Ben Horowitz — *The Hard Thing About Hard Things*"
-  - "Matt Mochary — *The Great CEO Within*"
-  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
+  - "John J. Gabarro — *The Dynamics of Taking Charge*"
+  - "Michael D. Watkins — *The First 90 Days*"
+  - "Donald C. Hambrick & Phyllis A. Mason — *Upper Echelons: The Organization as a Reflection of Its Top Managers*"
   - "Ram Charan — *What the CEO Wants You to Know*"
-  - "Richard Rumelt — *Good Strategy/Bad Strategy*"
-  - "Larry Bossidy & Ram Charan — *Execution*"
+  - "Ben Horowitz — *The Hard Thing About Hard Things*"
 limits:
-  - "Abandonar experiencia funcional por completo también es un error. El ejecutivo conserva criterio técnico, pero lo usa para hacer mejores preguntas y diseñar accountability, no para apropiarse del trabajo."
+  - "Los modelos de etapas son descriptivos y no predicen plazos."
 evidence_signals:
-  - "cross-functional outcomes"
-  - "stakeholder trust"
-  - "decision scope"
-  - "time allocation"
-  - "early-win quality"
+  - "mandato y situación diagnosticados"
+  - "agenda de aprendizaje con fuentes"
+  - "decisiones de empresa y de función separadas"
+  - "victorias tempranas y cambios secuenciados"

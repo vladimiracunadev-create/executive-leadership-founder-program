@@ -10,217 +10,197 @@
 
 ## 🎯 Propósito
 
-Pensar a nivel empresa requiere comprender cómo clientes, ingresos, costos, capital, talento, riesgo y capacidades interactúan. El CEO optimiza valor sostenible del sistema, aunque eso implique sacrificar el KPI de una función o negocio en el corto plazo.
+Ventas quiere más inventario para no perder pedidos; operaciones quiere menos para liberar caja; finanzas quiere recortar gastos; tecnología quiere invertir en una plataforma que dará frutos en tres años; recursos humanos quiere retener talento con aumentos. Cada petición es razonable desde su función, y todas compiten por los mismos recursos y por la misma atención. Pensar a nivel empresa significa decidir entre ellas con una mirada que ninguna función tiene por sí sola: **qué genera valor para la empresa completa, qué restringe su desempeño y qué se sacrifica a corto o largo plazo**. La mayoría de los ejecutivos aprende esta mirada tarde, y a menudo a un costo alto: optimizaron su área y empeoraron el conjunto.
 
-La salida de esta parte es **pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **pensar a nivel empresa** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la distinción de Rumelt entre una estrategia y una lista de metas, en la teoría de las restricciones de Goldratt, en el cuadro de mando y los mapas estratégicos de Kaplan y Norton, en la valoración de empresas de Koller y colaboradores y en el pensamiento sistémico de Meadows. Al terminar sabrás mapear los motores de valor de la empresa, encontrar la restricción que gobierna el sistema, comparar impactos entre funciones, equilibrar corto y largo plazo y comunicar un trade-off con honestidad.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `enterprise value`, `portfolio view`, `cross-subsidy`, `system constraint`, `enterprise trade-off` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. mapear value drivers → 2. identificar restricciones del sistema → 3. comparar impactos interfuncionales → 4. modelar corto y largo plazo → 5. decidir y comunicar trade-off** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** enterprise cash, ROIC, customer value sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Mapear** los motores de valor de la empresa: caja, retorno sobre el capital y ventaja.
+2. **Identificar** la restricción que limita el desempeño del sistema completo.
+3. **Comparar** el impacto de una decisión sobre varias funciones con números.
+4. **Equilibrar** resultados de corto plazo y capacidades de largo plazo.
+5. **Comunicar** el trade-off elegido, incluyendo lo que se sacrifica.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define enterprise value y portfolio view sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con enterprise cash y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué decisión de tu función mejoró tu métrica y empeoró a otra área? |
+| 20–60 min | Motores de valor, restricciones, impactos cruzados, plazos y comunicación. |
+| 60–105 min | Ejemplo trabajado: cuánto inventario adicional conviene tener. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **enterprise value** | valor económico y estratégico del sistema completo | Distingue un hecho compatible y otro que lo refute. |
-| **portfolio view** | perspectiva comparativa de negocios productos o capacidades | Distingue un hecho compatible y otro que lo refute. |
-| **cross-subsidy** | uso deliberado de recursos de una unidad para apoyar otra | Distingue un hecho compatible y otro que lo refute. |
-| **system constraint** | cuello que limita desempeño total | Distingue un hecho compatible y otro que lo refute. |
-| **enterprise trade-off** | elección donde mejorar una parte puede empeorar otra | Distingue un hecho compatible y otro que lo refute. |
+| **Valor de empresa** | Valor presente de la caja futura que genera la empresa. | Se relaciona con flujos, riesgo y horizonte. |
+| **ROIC** | Retorno sobre el capital invertido: utilidad operativa después de impuestos dividida por el capital invertido. | Compara retorno con el costo del capital. |
+| **Restricción** | Elemento que limita el desempeño del sistema completo. | Mejorarlo mejora el sistema; mejorar otro, no. |
+| **Subóptimo local** | Optimizar una parte perjudicando al conjunto. | Todas las áreas cumplen y la empresa no mejora. |
+| **Trade-off** | Elección en la que se gana algo y se pierde algo. | Se explicita lo sacrificado. |
+| **Retorno marginal** | Retorno de cada peso adicional invertido. | Decrece a medida que se invierte más. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 194: 1. mapear value drivers → 2. identificar restricciones del sistema → 3. comparar impactos interfuncionales → 4. modelar corto y largo plazo → 5. decidir y comunicar trade-off](modelo-mental.svg)
+![Pensar a nivel empresa en cinco movimientos: motores de valor, restricciones, impactos cruzados, corto y largo plazo, decidir y explicar.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear value drivers → 2. identificar restricciones del sistema → 3. comparar impactos interfuncionales → 4. modelar corto y largo plazo → 5. decidir y comunicar trade-off
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Pensar a nivel empresa requiere comprender cómo clientes, ingresos, costos, capital, talento, riesgo y capacidades interactúan. El CEO optimiza valor sostenible del sistema, aunque eso implique sacrificar el KPI de una función o negocio en el corto plazo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La perspectiva enterprise no justifica ignorar accountability local. Las funciones necesitan métricas propias, pero su optimización queda subordinada a objetivos y límites del sistema.**
+**Cómo leer el diagrama.** Una cadena de cinco movimientos con retorno. **Motores de valor**: qué genera caja, retorno y ventaja. **Restricciones**: dónde se limita el sistema completo. **Impactos cruzados**: qué ganan y qué pierden las demás funciones. **Corto y largo plazo**: resultados de hoy y capacidades de mañana. **Decidir y explicar**: elegir el trade-off y comunicar por qué. La flecha indica que los resultados reabren los supuestos. La nota advierte que una función optimizada por separado puede empeorar el conjunto; el pie aclara que las funciones conservan metas propias.
 
 ## 📖 Desarrollo
 
-### 1. enterprise value: mecanismo central
+### 1. Qué hace valiosa a una empresa
 
-**enterprise value** se entiende aquí como **valor económico y estratégico del sistema completo**. Esta es la pieza causal o estructural desde la que se inicia **pensar a nivel empresa**: antes de mapear value drivers, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Koller y sus colegas muestran que el valor de una empresa depende de dos cosas: el **retorno sobre el capital invertido** y la **tasa de crecimiento**, siempre que el retorno supere el costo del capital. Crecer con un retorno menor que ese costo destruye valor. De ahí que el ejecutivo piense en **motores de valor**: márgenes, rotación del capital, crecimiento y riesgo. Cada decisión se traduce a su efecto en ellos: un descuento reduce margen y puede aumentar volumen; un inventario mayor reduce faltantes y aumenta capital; una inversión en tecnología reduce costos futuros y aumenta capital presente. Sin esa traducción, las funciones hablan idiomas distintos y las discusiones se vuelven de preferencias.
 
-La lectura rectora de este bloque es Ben Horowitz — *The Hard Thing About Hard Things*. Su aporte se usa para examinar **decisiones difíciles de CEO, organización, personas y ejecución bajo presión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **enterprise cash**; regístrala con periodo, unidad, población y baseline.
+### 2. Estrategia: lo que se elige y lo que se renuncia
 
-Relaciona el mecanismo con **portfolio view**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Rumelt distingue una buena estrategia de una lista de metas: la primera parte de un **diagnóstico** del desafío crítico, define una **política guía** que elige un enfoque y renuncia a otros, y organiza **acciones coherentes**. Pensar a nivel empresa es aplicar esa lógica a decisiones concretas: ¿cuál es el desafío crítico que limita a la empresa hoy?, ¿qué políticas y asignaciones lo atacan?, ¿qué se renuncia? Una función que pide recursos para «ser mejor» no está haciendo estrategia; la que muestra cómo su iniciativa resuelve el desafío crítico, sí. Kaplan y Norton ofrecen un instrumento complementario: los **mapas estratégicos**, que conectan objetivos financieros, de clientes, de procesos y de aprendizaje en relaciones de causa y efecto.
 
-### 2. portfolio view: frontera conceptual y error de clasificación
+### 3. La restricción del sistema
 
-**Definición operacional:** perspectiva comparativa de negocios productos o capacidades. Su valor está en distinguirlo de **enterprise value** y **cross-subsidy**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Goldratt, en su teoría de las restricciones, sostiene que todo sistema tiene al menos una **restricción** que limita su rendimiento; mejorar cualquier otra parte no mejora el sistema, y a veces lo empeora. En una empresa, la restricción puede ser la capacidad de una planta, la velocidad de aprobación de crédito, el número de ingenieros senior, el capital disponible o la confianza de los clientes. El ejecutivo se pregunta: ¿qué limita hoy el crecimiento o la rentabilidad?, ¿estamos invirtiendo atención y recursos en eso o en áreas que no son la restricción? Aplicar esfuerzos a lo que no limita produce métricas locales buenas y resultados globales iguales. La restricción se mueve: al resolverla aparece otra, y la mirada se actualiza.
 
-Contrasta el problema con Matt Mochary — *The Great CEO Within*, que aporta una mirada sobre **sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo**. Formula dos mini-casos: uno que sí satisface la definición de **portfolio view** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **ROIC** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Comparar impactos entre funciones
 
-Antes de identificar restricciones del sistema, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Antes de decidir, se estima el efecto sobre cada función y sobre el conjunto con la misma moneda: **caja**, **margen**, **capital** y **riesgo**. Meadows recuerda que los sistemas tienen **retardos** y **ciclos de realimentación**: una medida que ayuda a ventas este trimestre puede perjudicar a operaciones el próximo y a clientes el año siguiente. Una tabla de impacto simple, con una fila por función y columnas de efecto de corto y largo plazo, evita sorpresas. Se incluyen los efectos **no cuantificables** (reputación, moral, dependencia), señalándolos, no ocultándolos. Y se identifican **quién gana y quién pierde** para anticipar la resistencia y diseñar compensaciones.
 
-### 3. cross-subsidy: operacionalización y medición
+### 5. Corto y largo plazo
 
-**cross-subsidy** significa **uso deliberado de recursos de una unidad para apoyar otra**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La presión por los resultados del período es real: el directorio, los bancos y los inversionistas miran los trimestres. Pero una empresa que sacrifica sistemáticamente sus capacidades (talento, tecnología, marca, relaciones) para cumplir cifras erosiona su futuro. Un buen ejecutivo **protege un portafolio de horizontes**: lo que financia el hoy, lo que construye el próximo año y lo que prepara los siguientes cinco. Se pregunta qué porcentaje del capital y del tiempo se destina a cada uno y qué señales muestran que el largo plazo avanza. Evita tanto el cortoplacismo como la inversión sin disciplina «para el futuro»: todo compromiso de largo plazo tiene hitos y criterios de revisión.
 
-Michael D. Watkins — *The First 90 Days* orienta este bloque mediante **perspectiva de Transiciones aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **customer value**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Decidir y comunicar el trade-off
 
-Al llegar a comparar impactos interfuncionales, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Una decisión de empresa sacrifica algo para alguien. Comunicarla con honestidad exige decir: **qué se decidió**, **por qué** (la lógica y los números), **qué se renuncia** y **quién lo siente**, **cuándo se revisa** y **qué evidencia cambiaría la decisión**. Ocultar el costo para evitar conflictos solo lo traslada a la ejecución, donde reaparece como resistencia. Además, se acompaña a quienes pierden: recursos de transición, reconocimiento o una ruta de recuperación. La métrica de éxito de la comunicación no es la aprobación general, sino que las personas entiendan la decisión, la sientan justa en su proceso y sepan qué se espera de ellas.
 
-### 4. system constraint: trade-offs y efectos de segundo orden
+### 7. Trampas del pensamiento funcional
 
-**Definición:** cuello que limita desempeño total. Este concepto obliga a abandonar la idea de que **pensar a nivel empresa** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de modelar corto y largo plazo, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* aporta una lente sobre **impacto emocional del liderazgo y estilos de conducción**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **talent capacity** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **pensar a nivel empresa**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **system constraint** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. enterprise trade-off: gobernanza, límites e integración
-
-**enterprise trade-off** se define como **elección donde mejorar una parte puede empeorar otra** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Larry Bossidy & Ram Charan — *Execution* se utiliza para estudiar **disciplina de ejecución, personas, estrategia y operaciones** y contrastar la recomendación final. Al ejecutar decidir y comunicar trade-off, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **La perspectiva enterprise no justifica ignorar accountability local. Las funciones necesitan métricas propias, pero su optimización queda subordinada a objetivos y límites del sistema.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **enterprise value**, **portfolio view**, **cross-subsidy**, **system constraint** y **enterprise trade-off** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **pensar a nivel empresa** no consiste en sumar cinco definiciones. Empieza por **enterprise value**, contrasta **portfolio view** con **cross-subsidy**, incorpora **system constraint** como restricción o mecanismo y usa **enterprise trade-off** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear value drivers → 2. identificar restricciones del sistema → 3. comparar impactos interfuncionales → 4. modelar corto y largo plazo → 5. decidir y comunicar trade-off**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Las trampas más comunes: **defender las propias métricas** aun cuando perjudiquen a otros; **negociar recursos** por antigüedad o tamaño en lugar de por retorno; **promediar** entre áreas para evitar el conflicto («un poco para cada uno»); **confundir actividad con valor**; **ignorar la restricción** y financiar lo visible; y **cambiar métricas** cuando los resultados no acompañan. Un antídoto es un **tablero de empresa** con pocos indicadores que todas las funciones comparten, y rituales en los que las funciones expongan cómo su plan se conecta con el conjunto.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **pensar a nivel empresa** ayuda a desafiar? |
-| Matt Mochary — *The Great CEO Within* | sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo | ¿Qué supuesto de **pensar a nivel empresa** ayuda a desafiar? |
-| Michael D. Watkins — *The First 90 Days* | perspectiva de Transiciones aplicada al problema de la clase | ¿Qué supuesto de **pensar a nivel empresa** ayuda a desafiar? |
-| Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* | impacto emocional del liderazgo y estilos de conducción | ¿Qué supuesto de **pensar a nivel empresa** ayuda a desafiar? |
-| Larry Bossidy & Ram Charan — *Execution* | disciplina de ejecución, personas, estrategia y operaciones | ¿Qué supuesto de **pensar a nivel empresa** ayuda a desafiar? |
-
-En **pensar a nivel empresa**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **enterprise value**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Rumelt | Diagnóstico, política guía y acciones coherentes. | No entrega métodos de cálculo. | ¿Cuál es el desafío crítico? |
+| Goldratt | Restricción del sistema y enfoque de mejora. | Nació en manufactura; se adapta a otros contextos. | ¿Qué limita hoy a la empresa? |
+| Kaplan y Norton | Mapas estratégicos con relaciones de causa y efecto. | Puede volverse burocrático. | ¿Cómo se conecta este objetivo con el resultado? |
+| Koller y otros | Valor, ROIC y crecimiento. | Los supuestos de pronóstico son inciertos. | ¿El retorno supera el costo del capital? |
+| Meadows | Retardos, ciclos y puntos de apoyo en sistemas. | Es conceptual. | ¿Qué efecto aparece más tarde? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Ventas quiere descuentos para volumen, producto quiere más inversión y finanzas exige margen. Cada función demuestra con sus KPI que su opción es correcta.
+**Situación (hipotética).** Una empresa de distribución tiene ventas de 60.000 millones de pesos, costo de ventas de 42.000 millones (margen bruto de 30 %), una utilidad operativa después de impuestos (NOPAT) de 3.000 millones y un capital invertido de 25.000 millones. Su ROIC es 3.000 ÷ 25.000 = 12 %; el costo del capital es 10 % y el retorno mínimo que exige el comité para nuevas inversiones es 15 %. Los quiebres de stock hacen perder el 2 % de las ventas.
 
-**Paso 1 — mapear value drivers.** La gerencia escribe primero el supuesto asociado a **enterprise value** y evita convertirlo en hecho. Luego busca **enterprise cash** para contrastarlo en el caso de **pensar a nivel empresa**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Posiciones.** Ventas pide inventario para eliminar los quiebres. Operaciones, que se mide por días de inventario, se opone. Finanzas teme inmovilizar caja.
 
-**Paso 2 — identificar restricciones del sistema.** La gerencia escribe primero el supuesto asociado a **portfolio view** y evita convertirlo en hecho. Luego busca **ROIC** para contrastarlo en el caso de **pensar a nivel empresa**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Pérdida por quiebres.** 2 % × 60.000 = 1.200 millones de ventas; con margen de 30 %, 360 millones de margen perdido por año.
 
-**Paso 3 — comparar impactos interfuncionales.** La gerencia escribe primero el supuesto asociado a **cross-subsidy** y evita convertirlo en hecho. Luego busca **customer value** para contrastarlo en el caso de **pensar a nivel empresa**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Análisis por tramos.** El 20 % de los productos (los de mayor rotación) explica el 70 % del margen perdido: 0,70 × 360 = 252 millones. El 30 % restante (108 millones) está en productos de cola larga.
 
-**Paso 4 — modelar corto y largo plazo.** La gerencia escribe primero el supuesto asociado a **system constraint** y evita convertirlo en hecho. Luego busca **talent capacity** para contrastarlo en el caso de **pensar a nivel empresa**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Tramo | Inventario adicional | Margen recuperado | Costo operativo (5 % del inventario) | Utilidad antes de impuestos | Después de impuestos (27 %) | ROIC marginal | Valor económico agregado |
+|---|---|---|---|---|---|---|---|
+| 1. Productos de alta rotación | 300 millones | 252 | 15 | 237 | 173,0 | 57,7 % | 173,0 − 30 = 143,0 |
+| 2. Cola larga | 500 millones | 108 | 25 | 83 | 60,6 | 12,1 % | 60,6 − 50 = 10,6 |
 
-**Paso 5 — decidir y comunicar trade-off.** La gerencia escribe primero el supuesto asociado a **enterprise trade-off** y evita convertirlo en hecho. Luego busca **risk-adjusted return** para contrastarlo en el caso de **pensar a nivel empresa**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+(El valor económico agregado resta el cargo de capital: 10 % del inventario adicional.)
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **pensar a nivel empresa**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Lectura.** El tramo 1 tiene un retorno marginal muy superior al mínimo de 15 %: se aprueba. El tramo 2 supera el costo del capital (12,1 % > 10 %) pero no el mínimo de 15 % que exige el comité para otras inversiones; no se financia ahora, y se revisa cuando el costo del capital o las alternativas cambien.
+
+**Efecto en métricas locales.** Con un costo de ventas de 42.000 millones, el inventario base de 48 días equivale a 42.000 × 48 ÷ 365 ≈ 5.523 millones. Con el tramo 1 (+300): 5.823 millones, es decir 5.823 ÷ 42.000 × 365 ≈ 50,6 días. La métrica de operaciones empeora 2,6 días, pero la empresa gana. Se ajusta la meta de inventario de operaciones para reflejarlo y se agrega la **tasa de cumplimiento** como indicador compartido.
+
+**Impacto resumido.** Ventas gana disponibilidad; operaciones gana claridad de meta y pierde 2,6 días; finanzas inmoviliza 300 millones, con retorno marginal de 57,7 %. Corto plazo: mejora de margen de 237 millones antes de impuestos. Largo plazo: mejor servicio al cliente y datos para decidir el tramo 2.
+
+**Comunicación.** «Aprobamos 300 millones de inventario para los productos de mayor rotación; no financiamos la cola larga por ahora porque su retorno no supera nuestro mínimo. Operaciones ajusta su meta. Revisamos en seis meses con datos de cumplimiento.»
+
+**Cuidados.** Las estimaciones de pérdida y de efecto dependen de datos de ventas perdidas que pueden estar subestimados; las cifras son ilustrativas.
+
+**Qué muestra.** (1) Las tres funciones se compararon con la misma moneda. (2) La decisión fue por tramos y no «un poco para cada uno». (3) Se comunicó lo que se gana y lo que se sacrifica.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **enterprise value** | valor económico y estratégico del sistema completo | Cuando enterprise cash es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **portfolio view** | perspectiva comparativa de negocios productos o capacidades | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Perspectiva de empresa frente a centralización.** Pensar a nivel empresa no significa que el centro decida todo; significa que las decisiones locales se toman dentro de objetivos y límites del conjunto.
 
-**Frontera de aplicación:** La perspectiva enterprise no justifica ignorar accountability local. Las funciones necesitan métricas propias, pero su optimización queda subordinada a objetivos y límites del sistema.
+**Límites.** La perspectiva de empresa no justifica ignorar la rendición de cuentas local: las funciones necesitan métricas propias, subordinadas a los objetivos del sistema. Los datos sobre ventas perdidas y sus efectos son estimaciones. La teoría de las restricciones simplifica sistemas complejos. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre pensar a nivel empresa |
+| Nivel | Cómo piensa a nivel empresa |
 |---|---|
-| **Profesional** | usa **pensar a nivel empresa** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **enterprise value** y **portfolio view** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta enterprise cash con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si pensar a nivel empresa cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de pensar a nivel empresa reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **pensar a nivel empresa** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende cómo su trabajo afecta a otras áreas. |
+| **Jefe / Team Lead** | Conecta las metas del equipo con las de la empresa. |
+| **Gerente** | Optimiza su función con atención a los límites del sistema. |
+| **CEO / Director** | Decide entre funciones con una moneda común y comunica los trade-offs. |
+| **Founder / Owner** | Equilibra caja, crecimiento y riesgo con su visión personal. |
 
 ## 🏢 Caso ejecutivo
 
-Ventas quiere descuentos para volumen, producto quiere más inversión y finanzas exige margen. Cada función demuestra con sus KPI que su opción es correcta.
+Una empresa de servicios de ingeniería con 1.800 personas y ventas de 90.000 millones de pesos enfrenta cuatro peticiones en el comité: comercial quiere ampliar la fuerza de ventas en 20 personas (1.400 millones al año) para captar nuevos contratos; operaciones pide contratar 35 ingenieros senior (3.800 millones al año) porque los proyectos se atrasan por falta de capacidad; tecnología solicita 2.500 millones para una plataforma de gestión de proyectos; finanzas propone reducir gastos en 1.800 millones. El margen operativo es 8 %; el ROIC, 11 %; el costo del capital, 9 %. El 62 % de los atrasos de proyectos se debe a la falta de ingenieros senior (restricción); las ventas ya superan la capacidad de ejecución en 15 %; la rotación de ingenieros senior es de 22 %. El gerente general quiere «un poco para cada uno».
 
-Entrega un **decision brief de pensar a nivel empresa** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **análisis de empresa** que contenga: (a) los motores de valor y el desafío crítico; (b) la restricción del sistema, con datos; (c) la tabla de impacto de cada petición en las funciones, con efectos de corto y largo plazo; (d) la decisión recomendada con alternativas y la secuencia; (e) el tablero compartido y los ajustes de metas por función; (f) la comunicación del trade-off, con lo que se renuncia y quién lo siente, y las verificaciones laborales de contrataciones o cambios.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **pensar a nivel empresa** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear value drivers → 2. identificar restricciones del sistema → 3. comparar impactos interfuncionales → 4. modelar corto y largo plazo → 5. decidir y comunicar trade-off** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta enterprise cash, ROIC; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula el ROIC de tu empresa o unidad y compáralo con el costo del capital.
+2. Identifica la restricción actual del sistema con tres datos que la respalden.
+3. Elabora una tabla de impacto de una decisión sobre cinco funciones, corto y largo plazo.
+4. Redacta la comunicación de un trade-off con lo que se gana, lo que se pierde y cuándo se revisa.
+5. Propone un tablero de seis indicadores compartidos por todas las funciones.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar enterprise value y portfolio view como sinónimos | Se pierde la distinción entre “valor económico y estratégico del sistema completo” y “perspectiva comparativa de negocios productos o capacidades” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “decidir y comunicar trade-off” | Se saltó “mapear value drivers” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear value drivers → 2. identificar restricciones del sistema → 3. comparar impactos interfuncionales → 4. modelar corto y largo plazo → 5. decidir y comunicar trade-off y marca el primer supuesto no demostrado. |
-| Optimizar solo enterprise cash | La métrica local sustituyó al resultado del sistema | Contrástala con ROIC y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre pensar a nivel empresa | La perspectiva enterprise no justifica ignorar accountability local. Las funciones necesitan métricas propias, pero su optimización queda subordinada a objetivos y límites del sistema. |
-| No fijar revisión | Una decisión sobre pensar a nivel empresa se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| «Un poco para cada uno» | Se evita el conflicto | Decidir por retorno y restricción. |
+| Mejorar lo que no limita | Es visible o fácil | Identificar y atacar la restricción. |
+| Optimizar la métrica local | Los incentivos son por función | Metas subordinadas al sistema y tablero común. |
+| Ignorar efectos tardíos | Se mira el trimestre | Considerar retardos y ciclos. |
+| Esconder el costo | Se teme la resistencia | Comunicar lo que se sacrifica y a quién. |
+| Cortoplacismo o inversión sin disciplina | Presión o entusiasmo | Portafolio de horizontes con hitos. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **enterprise value** y **portfolio view** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **cross-subsidy** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear value drivers → identificar restricciones del sistema** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **enterprise cash** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **pensar a nivel empresa**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **La perspectiva enterprise no justifica ignorar accountability local. Las funciones necesitan métricas propias, pero su optimización queda subordinada a objetivos y límites del sistema.**?
+1. ¿De qué dos factores depende el valor de una empresa según Koller y otros?
+2. ¿Qué elementos tiene una buena estrategia según Rumelt?
+3. ¿Qué es la restricción de un sistema y por qué importa?
+4. ¿Por qué conviene comparar impactos entre funciones con la misma moneda?
+5. ¿Cómo se equilibran corto y largo plazo?
+6. ¿Qué debe contener la comunicación de un trade-off?
+7. ¿Qué límites tiene la perspectiva de empresa?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Del retorno sobre el capital invertido y de la tasa de crecimiento, siempre que el retorno supere el costo del capital.
+2. Un diagnóstico del desafío crítico, una política guía que elige y renuncia, y acciones coherentes.
+3. El elemento que limita el desempeño del conjunto; mejorar otras partes no mejora el sistema.
+4. Para que las funciones hablen el mismo idioma y se vea el efecto sobre el conjunto, incluidos los retardos.
+5. Con un portafolio de horizontes y señales de avance de cada uno, evitando tanto el cortoplacismo como la inversión sin disciplina.
+6. Qué se decidió, por qué, qué se renuncia, quién lo siente, cuándo se revisa y qué evidencia lo cambiaría.
+7. No elimina la rendición de cuentas local, depende de estimaciones y simplifica sistemas complejos.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/194-pensar-a-nivel-empresa/`:
 
-- `leadership-decision-brief.md` con el problema específico de **pensar a nivel empresa**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **pensar a nivel empresa** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **enterprise value**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Ventas quiere descuentos para volumen, producto quiere más inversión y finanzas exige margen. Cada función demuestra con sus KPI que su opción es correcta.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el análisis de empresa del caso ejecutivo;
+- `ceo-dashboard.md` (plantilla [CEO dashboard](../../../../templates/ceo-dashboard.md)) con el tablero compartido de indicadores;
+- `decision-journal.md` con la tabla de impacto, los supuestos y la comunicación del trade-off.
 
 ## 📗 Fuentes y verificación
 
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **pensar a nivel empresa**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Matt Mochary — *The Great CEO Within* (Mochary Films, 2019). **Uso en esta clase:** sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo. Lectura selectiva sobre **pensar a nivel empresa**. **Localizador:** [ISBN-13 9780578599281](https://openlibrary.org/isbn/9780578599281).
-- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** perspectiva de Transiciones aplicada al problema de la clase. Lectura selectiva sobre **pensar a nivel empresa**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
-- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** impacto emocional del liderazgo y estilos de conducción. Lectura selectiva sobre **pensar a nivel empresa**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
-- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva sobre **pensar a nivel empresa**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
-- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **pensar a nivel empresa**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **pensar a nivel empresa** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **pensar a nivel empresa**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **pensar a nivel empresa** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **pensar a nivel empresa** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **pensar a nivel empresa** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **pensar a nivel empresa**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
+- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** restricción del sistema y enfoque de mejora. Lectura selectiva sobre **pensar a nivel empresa**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
+- Robert S. Kaplan & David P. Norton — *Strategy Maps* (Harvard Business School Press, 2004). **Uso en esta clase:** mapas estratégicos con relaciones de causa y efecto. Lectura selectiva sobre **pensar a nivel empresa**. **Localizador:** [ISBN-13 9781591391340](https://openlibrary.org/isbn/9781591391340).
+- Tim Koller, Marc Goedhart & David Wessels — *Valuation: Measuring and Managing the Value of Companies* (Wiley, 2005). **Uso en esta clase:** valor de empresa, retorno sobre el capital y crecimiento. Lectura selectiva sobre **pensar a nivel empresa**. **Localizador:** [ISBN-13 9780471702191](https://openlibrary.org/isbn/9780471702191).
+- Donella H. Meadows — *Thinking in Systems* (Earthscan, 2009). **Uso en esta clase:** retardos, ciclos y puntos de apoyo en sistemas. Lectura selectiva sobre **pensar a nivel empresa**. **Localizador:** [ISBN-13 9781849773386](https://openlibrary.org/isbn/9781849773386).
 
-> **Regla de fuentes para Pensar a nivel empresa:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **pensar a nivel empresa** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Pensar a nivel empresa:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las condiciones laborales de contrataciones o cambios organizacionales. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

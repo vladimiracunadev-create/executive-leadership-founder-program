@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **stakeholder** de **shareholder return** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **externality** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **license to operate** con **long-term value**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué proponen Freeman y Jensen y dónde coinciden?
+2. ¿Qué diferencia hay entre obligaciones, compromisos y preferencias?
+3. ¿Qué es una externalidad y por qué importa?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Para alcanzar margen trimestral, una empresa reduce soporte y terceriza atención. EBITDA mejora, pero churn sube y un segmento vulnerable queda sin canal efectivo de reclamo.
+**Caso:** Una empresa de salud privada con 4.000 personas, 12 clínicas y ventas de 180.000 millones de pesos enfrenta una decisión: una clínica en una ciudad mediana pierde 2.300 millones al año y la empresa evalúa cerrarla. Hay 320 trabajadores en esa sede, que es el principal centro de salud privado de la zona; el 35 % de sus pacientes son de un convenio con una entidad pública. La alternativa es reconvertirla en un centro ambulatorio con 110 personas, o venderla a un competidor. Los accionistas piden recortar pérdidas; el sindicato anuncia movilizaciones; las autoridades locales piden mantener el servicio; los clínicos temen perder a los pacientes derivados; los clientes del convenio dependen de contratos con fecha de término. La CEO escucha que «hay que cuidar a todos».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **mapear stakeholders materiales → identificar obligaciones y externalidades → cuantificar trade-offs cuando sea posible → definir principios y límites → decidir y explicar horizonte y compensaciones**. Debes utilizar o diseñar cómo obtener **customer trust, employee retention, ROIC**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **memo de balance** que contenga: (a) el mapa de partes interesadas materiales y su poder; (b) la distinción entre obligaciones legales y contractuales, compromisos y preferencias; (c) la cuantificación de las tres alternativas, con efectos económicos y con efectos cualitativos; (d) los principios, límites y reglas de decisión, incluido el costo que se acepta asumir; (e) el plan de comunicación y de acompañamiento a cada parte; (f) los indicadores de revisión y las verificaciones laborales, sanitarias, contractuales y regulatorias pendientes. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **La retórica stakeholder puede justificar decisiones sin accountability. Mantén objetivos, responsables y economics claros; no uses balance para evitar elegir.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: La retórica de las partes interesadas puede encubrir la falta de rendición de cuentas; se mantienen objetivos, responsables y cifras claros.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

@@ -10,236 +10,195 @@
 
 ## 🎯 Propósito
 
-La arquitectura de decisiones ejecutivas define qué decisiones existen, su frecuencia, nivel, información, owner y foro. El CEO reduce cuellos al distinguir decisiones reversibles, irreversibles, rutinarias y excepcionales, y al empujar autoridad al nivel más bajo competente.
+En una empresa mediana se toman miles de decisiones por semana, pero unas pocas determinan el rumbo: dónde invertir, a quién nombrar, qué cliente aceptar o rechazar, cuándo lanzar, cuándo detener. Cuando esas decisiones no tienen un diseño, ocurren cosas predecibles: todo sube al CEO, que se convierte en cuello de botella; o nadie decide y los temas circulan por comités; o se decide en cualquier parte y se corrige después a un costo alto; o decide quien grita más fuerte. Una **arquitectura de decisiones** es el diseño explícito de qué decisiones importan, quién las toma, en qué foro, con qué información, con cuánta velocidad y con qué revisión posterior.
 
-La salida de esta parte es **pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **arquitectura de decisiones ejecutivas** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el estudio de Mankins y Garton sobre cómo las organizaciones gastan su tiempo, talento y energía, en el análisis de Kahneman, Sibony y Sunstein sobre el **ruido** en los juicios, en la guía de Duke para decidir con incertidumbre y en el trabajo de Eisenhardt sobre decisiones rápidas en entornos cambiantes. Al terminar sabrás inventariar decisiones materiales, clasificarlas por reversibilidad y materialidad, asignar dueño y foro, preparar y desafiar una pre-lectura y medir la calidad de la arquitectura con indicadores de latencia, escalamientos y reversiones.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `decision architecture`, `reversibility`, `decision velocity`, `exception`, `delegation boundary` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. inventariar decisiones materiales → 2. clasificar reversibilidad y frecuencia → 3. asignar owner y autoridad → 4. diseñar pre-read y foro → 5. medir latencia overrides y calidad** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** decision latency, CEO escalations, override rate sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
-7. **Interrogar** cualquier pre-read mediante afirmación, evidencia, supuesto, downside, faltantes, riesgo, owner y revisión.
+1. **Inventariar** las decisiones materiales de una empresa y clasificarlas por reversibilidad.
+2. **Asignar** dueño, autoridad y foro a cada tipo de decisión.
+3. **Preparar y desafiar** una pre-lectura con afirmación, evidencia, supuestos y riesgos.
+4. **Reducir** el ruido y los sesgos con una higiene de decisión.
+5. **Medir** latencia, escalamientos, reversiones y calidad.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define decision architecture y reversibility sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con decision latency y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué decisión se tomó en tu empresa por la persona o en el foro equivocados y qué costó? |
+| 20–60 min | Inventario, clasificación, dueños, pre-lectura, ruido, velocidad y medición. |
+| 60–105 min | Ejemplo trabajado: rediseño de las decisiones que llegan al CEO. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **decision architecture** | mapa de decisiones derechos foros e información | Distingue un hecho compatible y otro que lo refute. |
-| **reversibility** | grado en que una decisión puede deshacerse a costo razonable | Distingue un hecho compatible y otro que lo refute. |
-| **decision velocity** | tiempo desde necesidad hasta decisión ejecutable | Distingue un hecho compatible y otro que lo refute. |
-| **exception** | caso fuera de políticas o tolerancias | Distingue un hecho compatible y otro que lo refute. |
-| **delegation boundary** | límite explícito de autoridad transferida | Distingue un hecho compatible y otro que lo refute. |
+| **Arquitectura de decisiones** | Diseño de quién decide qué, dónde, con qué información y con qué revisión. | Reglas, foros y registros. |
+| **Reversibilidad** | Facilidad y costo de deshacer una decisión. | Se clasifica antes de decidir. |
+| **Latencia de decisión** | Tiempo desde que surge la decisión hasta que se toma. | Se mide en días. |
+| **Pre-lectura** | Documento breve que prepara una decisión. | Contiene afirmación, evidencia y riesgos. |
+| **Ruido** | Variabilidad no deseada en juicios que deberían ser iguales. | Dos decisores resuelven el mismo caso de forma distinta. |
+| **Tasa de anulación** | Proporción de decisiones delegadas que el CEO revierte. | Indica que la delegación carece de contexto o de límites. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 196: 1. inventariar decisiones materiales → 2. clasificar reversibilidad y frecuencia → 3. asignar owner y autoridad → 4. diseñar pre-read y foro → 5. medir latencia overrides y calidad](modelo-mental.svg)
+![Qué foro y qué autoridad según reversibilidad y materialidad: decidir rápido y revisar, foro ejecutivo con desafío, delegar con límites, regla y revisión del dueño.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. inventariar decisiones materiales → 2. clasificar reversibilidad y frecuencia → 3. asignar owner y autoridad → 4. diseñar pre-read y foro → 5. medir latencia overrides y calidad
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **La arquitectura de decisiones ejecutivas define qué decisiones existen, su frecuencia, nivel, información, owner y foro. El CEO reduce cuellos al distinguir decisiones reversibles, irreversibles, rutinarias y excepcionales, y al empujar autoridad al nivel más bajo competente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Descentralizar decisiones sin capacidades, datos o límites puede aumentar riesgo. Delegación requiere contexto, controles y feedback, no solo permiso.**
+**Cómo leer el diagrama.** Un cuadrante con la reversibilidad en el eje horizontal y la materialidad en el vertical. **Alta materialidad y reversible**: un dueño decide pronto y se corrige con datos. **Alta materialidad e irreversible**: foro ejecutivo con pre-lectura, desafío independiente y registro. **Baja materialidad y reversible**: se delega con límites. **Baja materialidad e irreversible**: una regla clara y revisión periódica del dueño. La nota dice que la arquitectura asigna a cada decisión un dueño, un foro y un criterio de revisión; el pie, que delegar exige contexto, datos y límites.
 
 ## 📖 Desarrollo
 
-### 1. decision architecture: mecanismo central
+### 1. Dónde se va el tiempo ejecutivo
 
-**decision architecture** se entiende aquí como **mapa de decisiones derechos foros e información**. Esta es la pieza causal o estructural desde la que se inicia **arquitectura de decisiones ejecutivas**: antes de inventariar decisiones materiales, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Mankins y Garton estudiaron miles de empresas y concluyeron que el recurso más escaso de las organizaciones no es el capital sino el **tiempo de sus líderes**, y que se invierte con poca intención: reuniones sin decisión, procesos duplicados, informes sin lectores y capas innecesarias. De ahí la idea de **productividad organizacional**: hacer más con la misma atención. Una arquitectura de decisiones es la herramienta principal para ello, porque evita que las decisiones circulen sin dueño o suban sin necesidad. Cada decisión que sube al CEO sin ser de empresa le quita tiempo a las que sí lo son; cada decisión de empresa que se toma sin foro adecuado produce errores caros.
 
-La lectura rectora de este bloque es Ben Horowitz — *The Hard Thing About Hard Things*. Su aporte se usa para examinar **decisiones difíciles de CEO, organización, personas y ejecución bajo presión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **decision latency**; regístrala con periodo, unidad, población y baseline.
+### 2. Inventario y clasificación
 
-Relaciona el mecanismo con **reversibility**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El primer paso es un **inventario** de decisiones materiales en un período: las que movieron capital, personas, clientes, riesgos o la estrategia. Para cada una se anotan: quién la tomó, quién participó, cuánto tardó, si se revirtió y cuánto costó el error o el retraso. Luego se **clasifican** por dos ejes: **reversibilidad** (¿se puede deshacer a bajo costo?) y **materialidad** (¿cuánto valor o riesgo mueve?). Las decisiones reversibles y de bajo impacto se delegan con límites; las irreversibles y de alto impacto reciben el máximo rigor. Duke recomienda además distinguir la **calidad de la decisión** de la **calidad del resultado**: un buen proceso puede dar un mal resultado y viceversa, y juzgar solo por resultados (*resulting*) distorsiona el aprendizaje.
 
-### 2. reversibility: frontera conceptual y error de clasificación
+### 3. Dueño, autoridad y foro
 
-**Definición operacional:** grado en que una decisión puede deshacerse a costo razonable. Su valor está en distinguirlo de **decision architecture** y **decision velocity**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Cada tipo de decisión tiene un **dueño** con nombre, que la toma y responde por ella; **quién debe ser consultado** (aporta información o veto legítimo); y **quién se informa**. Es la lógica de los marcos de derechos de decisión (clase 173). Se define el **foro**: individual (el dueño decide tras consultar), comité de decisión (para las que cruzan funciones) o el equipo ejecutivo con el CEO (para las de empresa e irreversibles). Y se fijan **límites de autoridad**: montos, tipos de contrato, contrataciones, desviaciones de política. Delegar exige **contexto** (estrategia y prioridades), **datos**, **límites** claros y **retroalimentación**: el permiso por sí solo no produce buenas decisiones.
 
-Contrasta el problema con Matt Mochary — *The Great CEO Within*, que aporta una mirada sobre **sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo**. Formula dos mini-casos: uno que sí satisface la definición de **reversibility** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **CEO escalations** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. La pre-lectura que se puede desafiar
 
-Antes de clasificar reversibilidad y frecuencia, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Una decisión de empresa se prepara con un documento corto, enviado con antelación, que responde: ¿cuál es la **afirmación** o recomendación?, ¿qué **evidencia** la respalda?, ¿cuáles son los **supuestos** críticos y cómo se podrían comprobar?, ¿cuál es el **peor caso razonable** (*downside*)?, ¿qué **falta** saber?, ¿qué **riesgo** se acepta y quién lo acepta?, ¿quién es el **dueño** y cuál es el **disparador de revisión** que reabriría la decisión? Quien lee interroga con esas ocho preguntas. Esto evita la presentación persuasiva y obliga a mostrar incertidumbre. Un buen foro dedica el tiempo a discutir el documento y no a presentarlo.
 
-### 3. decision velocity: operacionalización y medición
+### 5. Ruido y sesgos: higiene de decisión
 
-**decision velocity** significa **tiempo desde necesidad hasta decisión ejecutable**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Kahneman, Sibony y Sunstein distinguen el **sesgo** (error sistemático en una dirección) del **ruido** (variabilidad no deseada). Mostraron que profesionales cualificados, como jueces, médicos o suscriptores de seguros, dan juicios muy distintos ante el mismo caso, con costos significativos. La **auditoría de ruido** consiste en dar los mismos casos a varios decisores y comparar. Para reducirlo proponen una **higiene de decisión**: descomponer el juicio en dimensiones, evaluar cada una de forma **independiente** antes de integrar, usar **criterios** y escalas comunes, y **agregar** juicios independientes. En decisiones ejecutivas esto significa pedir las opiniones por escrito y por separado antes de la discusión, y fijar guías para decisiones recurrentes (precios, descuentos, contrataciones, crédito).
 
-Ram Charan — *What the CEO Wants You to Know* orienta este bloque mediante **perspectiva de Visión empresarial aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **override rate**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Velocidad: decidir a tiempo
 
-Al llegar a asignar owner y autoridad, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Eisenhardt estudió empresas en entornos de cambio rápido y encontró que las más veloces **no decidían con menos información, sino con información distinta**: datos en tiempo real, más alternativas consideradas en paralelo, consejeros de confianza con experiencia, y un proceso para resolver conflictos que no paralizaba. La velocidad se mejora con **plazos** para decidir, un dueño claro, reglas de escalamiento y la **reversibilidad**: si la decisión es reversible, se decide con información razonable y se corrige. El costo de decidir tarde, en ventanas de mercado o en incertidumbre del equipo, suele estar subestimado frente al de decidir con imperfección.
 
-### 4. exception: trade-offs y efectos de segundo orden
+### 7. Medir y mejorar la arquitectura
 
-**Definición:** caso fuera de políticas o tolerancias. Este concepto obliga a abandonar la idea de que **arquitectura de decisiones ejecutivas** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de diseñar pre-read y foro, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Larry Bossidy & Ram Charan — *Execution* aporta una lente sobre **disciplina de ejecución, personas, estrategia y operaciones**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **reopened decisions** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **arquitectura de decisiones ejecutivas**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **exception** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. delegation boundary: gobernanza, límites e integración
-
-**delegation boundary** se define como **límite explícito de autoridad transferida** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* se utiliza para estudiar **responsabilidad gerencial, propósito, organización y resultados** y contrastar la recomendación final. Al ejecutar medir latencia overrides y calidad, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Descentralizar decisiones sin capacidades, datos o límites puede aumentar riesgo. Delegación requiere contexto, controles y feedback, no solo permiso.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **decision architecture**, **reversibility**, **decision velocity**, **exception** y **delegation boundary** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **arquitectura de decisiones ejecutivas** no consiste en sumar cinco definiciones. Empieza por **decision architecture**, contrasta **reversibility** con **decision velocity**, incorpora **exception** como restricción o mecanismo y usa **delegation boundary** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. inventariar decisiones materiales → 2. clasificar reversibilidad y frecuencia → 3. asignar owner y autoridad → 4. diseñar pre-read y foro → 5. medir latencia overrides y calidad**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Protocolo para interrogar cualquier pre-read
-
-Sea un estudio de mercado, una síntesis de clientes, un Canvas, un modelo financiero o una propuesta de alianza, el foro ejecutivo responde en orden:
-
-1. ¿Qué afirma el equipo?
-2. ¿Qué evidencia lo respalda?
-3. ¿Qué supuesto sostiene la conclusión?
-4. ¿Qué ocurriría si el supuesto es falso?
-5. ¿Qué información falta para decidir?
-6. ¿Qué riesgo se acepta y quién soporta la consecuencia?
-7. ¿Quién responde con autoridad y capacidad?
-8. ¿Cuándo o bajo qué condición se revisa?
-
-El foro puede avanzar por etapas, limitar exposición, pedir una prueba, cambiar la secuencia o no comprometer todavía. Reducir esas opciones a “aprobar/rechazar” empobrece la arquitectura de decisión.
+Algunos indicadores: **latencia** de decisión por tipo, **número de escalamientos** al CEO, **tasa de anulación** de decisiones delegadas, **decisiones reabiertas**, **reversiones** costosas, **calidad** evaluada a posteriori (¿se cumplieron los supuestos?) y **tiempo del equipo ejecutivo** dedicado a decidir. Se lleva un **registro de decisiones** con fecha, dueño, supuestos, alternativas y disparador de revisión; se revisa trimestralmente para aprender. Si la tasa de anulación es alta, falta contexto o límites; si la latencia es alta, sobran capas o falta autoridad; si hay muchas reversiones, falta rigor en las irreversibles.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **arquitectura de decisiones ejecutivas** ayuda a desafiar? |
-| Matt Mochary — *The Great CEO Within* | sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo | ¿Qué supuesto de **arquitectura de decisiones ejecutivas** ayuda a desafiar? |
-| Ram Charan — *What the CEO Wants You to Know* | perspectiva de Visión empresarial aplicada al problema de la clase | ¿Qué supuesto de **arquitectura de decisiones ejecutivas** ayuda a desafiar? |
-| Larry Bossidy & Ram Charan — *Execution* | disciplina de ejecución, personas, estrategia y operaciones | ¿Qué supuesto de **arquitectura de decisiones ejecutivas** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **arquitectura de decisiones ejecutivas** ayuda a desafiar? |
-
-En **arquitectura de decisiones ejecutivas**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **decision architecture**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Mankins y Garton | El tiempo y la atención de los líderes como recurso escaso. | Se centra en productividad organizacional. | ¿Dónde se pierde el tiempo del equipo? |
+| Kahneman, Sibony y Sunstein | Ruido, sesgo e higiene de decisión. | Requiere datos de casos comparables. | ¿Decidirían igual dos personas? |
+| Duke | Distinguir decisión y resultado; apostar con incertidumbre. | No define foros ni autoridades. | ¿Evaluamos el proceso o el resultado? |
+| Eisenhardt | Decisiones rápidas con información en tiempo real y alternativas. | Estudio en un sector de cambio rápido. | ¿Qué información usamos para decidir pronto? |
+| Bazerman y Moore | Sesgos de juicio frecuentes en los gerentes. | No fija una arquitectura. | ¿Qué sesgo opera aquí? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** El CEO aprueba toda contratación sobre cierto salario, cada descuento enterprise y cada nueva herramienta. La empresa crece a 600 personas y el tiempo de espera supera dos semanas.
+**Situación (hipotética).** Una empresa de 1.500 personas tiene un CEO que recibe 74 decisiones por trimestre. El tiempo medio de decisión es 19 días y el CEO modificó 18 de ellas (24,3 %).
 
-**Paso 1 — inventariar decisiones materiales.** La gerencia escribe primero el supuesto asociado a **decision architecture** y evita convertirlo en hecho. Luego busca **decision latency** para contrastarlo en el caso de **arquitectura de decisiones ejecutivas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Inventario y clasificación (120 decisiones materiales del trimestre).**
 
-**Paso 2 — clasificar reversibilidad y frecuencia.** La gerencia escribe primero el supuesto asociado a **reversibility** y evita convertirlo en hecho. Luego busca **CEO escalations** para contrastarlo en el caso de **arquitectura de decisiones ejecutivas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Clase | Cantidad | Tratamiento propuesto |
+|---|---|---|
+| Alta materialidad y reversible | 30 | Dueño decide en 5 días con consulta |
+| Alta materialidad e irreversible | 12 | Foro ejecutivo con pre-lectura y desafío |
+| Baja materialidad y reversible | 58 | Delegada con límites |
+| Baja materialidad e irreversible | 20 | Regla escrita y revisión trimestral del dueño |
 
-**Paso 3 — asignar owner y autoridad.** La gerencia escribe primero el supuesto asociado a **decision velocity** y evita convertirlo en hecho. Luego busca **override rate** para contrastarlo en el caso de **arquitectura de decisiones ejecutivas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Escalamientos al CEO.** Antes: 74 decisiones. Después: solo las 12 irreversibles y de alta materialidad, más las 9 en las que hay conflicto entre funciones: 21. Con 1,5 horas de tiempo promedio del CEO por decisión, el uso baja de 74 × 1,5 = 111 horas a 21 × 1,5 = 31,5 horas por trimestre: se liberan 79,5 horas.
 
-**Paso 4 — diseñar pre-read y foro.** La gerencia escribe primero el supuesto asociado a **exception** y evita convertirlo en hecho. Luego busca **reopened decisions** para contrastarlo en el caso de **arquitectura de decisiones ejecutivas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Tasa de anulación.** De 18 a 6 modificaciones en las delegadas tras definir límites: 6 ÷ 53 delegadas con seguimiento = 11,3 % (antes 24,3 %). El resto se debe a falta de contexto; se agrega una página de prioridades del año y límites de autoridad.
 
-**Paso 5 — medir latencia overrides y calidad.** La gerencia escribe primero el supuesto asociado a **delegation boundary** y evita convertirlo en hecho. Luego busca **decision outcome** para contrastarlo en el caso de **arquitectura de decisiones ejecutivas**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Auditoría de ruido.** Se da el mismo caso de descuento para un contrato de 2.000 millones de pesos a cinco ejecutivos: proponen descuentos entre 4 % y 19 % (amplitud de 15 puntos). La diferencia entre los extremos es 15 % × 2.000 = 300 millones. Se introduce una guía con criterios y se pide la evaluación independiente por escrito; en la repetición con otro caso similar, el rango es de 8 % a 12 % (4 puntos): 4 % × 2.000 = 80 millones de diferencia posible.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **arquitectura de decisiones ejecutivas**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Pre-lectura.** Una decisión irreversible (adquirir una empresa pequeña por 6.000 millones) se discute con el formato de ocho preguntas. La revisión muestra que dos supuestos de ingresos no están respaldados; el foro pide una verificación y exige un tope de pago contingente. Se registra el disparador: «si la retención de clientes de la empresa adquirida baja de 85 % a seis meses, se revisa el plan de integración».
+
+**Resultados a un trimestre (hipotéticos).** Latencia promedio: de 19 a 9 días en las reversibles; 14 días en las irreversibles; escalamientos al CEO: 21; tasa de anulación: 11,3 %.
+
+**Cuidados.** Las delegaciones de autoridad deben ser coherentes con los estatutos, el gobierno corporativo y las políticas de control; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La clasificación redujo escalamientos. (2) La auditoría de ruido cuantificó el costo de la variabilidad. (3) El registro y los disparadores permiten aprender.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **decision architecture** | mapa de decisiones derechos foros e información | Cuando decision latency es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **reversibility** | grado en que una decisión puede deshacerse a costo razonable | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Arquitectura frente a burocracia.** La arquitectura reduce las decisiones que se toman mal por exceso de capas; la burocracia las aumenta. La diferencia está en si hay dueños claros, límites y velocidad.
 
-**Frontera de aplicación:** Descentralizar decisiones sin capacidades, datos o límites puede aumentar riesgo. Delegación requiere contexto, controles y feedback, no solo permiso.
+**Límites.** Descentralizar sin capacidades, datos o límites puede aumentar el riesgo. Las clasificaciones por reversibilidad son juicios que se discuten. La auditoría de ruido requiere casos comparables. Las medidas de latencia no capturan la calidad. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre arquitectura de decisiones ejecutivas |
+| Nivel | Cómo participa en la arquitectura |
 |---|---|
-| **Profesional** | usa **arquitectura de decisiones ejecutivas** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **decision architecture** y **reversibility** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta decision latency con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si arquitectura de decisiones ejecutivas cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de arquitectura de decisiones ejecutivas reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **arquitectura de decisiones ejecutivas** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Prepara decisiones con evidencia y supuestos visibles. |
+| **Jefe / Team Lead** | Decide dentro de límites y escala lo que corresponde. |
+| **Gerente** | Es dueño de decisiones de su ámbito y mide su latencia. |
+| **CEO / Director** | Diseña la arquitectura, delega con límites y se reserva lo irreversible. |
+| **Founder / Owner** | Acepta cambiar su rol de decisor único a diseñador de decisiones. |
 
 ## 🏢 Caso ejecutivo
 
-El CEO aprueba toda contratación sobre cierto salario, cada descuento enterprise y cada nueva herramienta. La empresa crece a 600 personas y el tiempo de espera supera dos semanas.
+Una empresa de retail con 3.000 personas y 90 tiendas tiene un CEO que aprueba personalmente todo gasto sobre 5 millones de pesos, toda contratación de gerentes, todo cambio de precios de más de 50 productos y toda excepción comercial. Recibe 140 solicitudes por mes; responde en promedio en 11 días; el 30 % de las decisiones se revierte; los gerentes de tienda dicen que «no se atreven» a decidir; y en las reuniones se presentan diapositivas sin documentos previos. Una decisión de abrir 12 tiendas nuevas por 8.400 millones de pesos fue tomada en una reunión de una hora con una presentación del director de expansión y sin desafío alguno; seis meses después, 4 de las 12 tiendas están por debajo del punto de equilibrio. Otra decisión, cambiar de proveedor logístico, tardó 90 días porque pasó por cinco comités. El directorio pide un diseño de decisiones antes de aprobar el plan del próximo año.
 
-Entrega un **decision brief de arquitectura de decisiones ejecutivas** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega una **arquitectura de decisiones** que contenga: (a) el inventario y la clasificación de decisiones por reversibilidad y materialidad; (b) la asignación de dueños, consultados, foros y límites de autoridad; (c) el formato de pre-lectura con las ocho preguntas y su aplicación a la apertura de tiendas; (d) la higiene de decisión contra el ruido y los sesgos; (e) los indicadores, el registro y la revisión trimestral; (f) las coherencias con el gobierno corporativo y las verificaciones pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **arquitectura de decisiones ejecutivas** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. inventariar decisiones materiales → 2. clasificar reversibilidad y frecuencia → 3. asignar owner y autoridad → 4. diseñar pre-read y foro → 5. medir latencia overrides y calidad** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta decision latency, CEO escalations; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
-7. Interroga el pre-read con las ocho preguntas y comprueba autoridad del owner y observabilidad del trigger.
+1. Inventaria quince decisiones materiales de tu área y clasifícalas por reversibilidad y materialidad.
+2. Define dueño, consultados, foro y límite de autoridad para cinco de ellas.
+3. Redacta una pre-lectura de una página con las ocho preguntas para una decisión real.
+4. Diseña una auditoría de ruido con un caso y cinco decisores.
+5. Calcula la latencia y la tasa de anulación de las decisiones de tu equipo en un trimestre.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar decision architecture y reversibility como sinónimos | Se pierde la distinción entre “mapa de decisiones derechos foros e información” y “grado en que una decisión puede deshacerse a costo razonable” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “medir latencia overrides y calidad” | Se saltó “inventariar decisiones materiales” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. inventariar decisiones materiales → 2. clasificar reversibilidad y frecuencia → 3. asignar owner y autoridad → 4. diseñar pre-read y foro → 5. medir latencia overrides y calidad y marca el primer supuesto no demostrado. |
-| Optimizar solo decision latency | La métrica local sustituyó al resultado del sistema | Contrástala con CEO escalations y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre arquitectura de decisiones ejecutivas | Descentralizar decisiones sin capacidades, datos o límites puede aumentar riesgo. Delegación requiere contexto, controles y feedback, no solo permiso. |
-| No fijar revisión | Una decisión sobre arquitectura de decisiones ejecutivas se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Todo sube al CEO | No hay límites ni confianza | Clasificar y delegar con límites. |
+| Nadie decide | Dueños difusos | Asignar un dueño con nombre. |
+| Presentaciones en lugar de documentos | Costumbre | Pre-lectura enviada con antelación. |
+| Juzgar solo por resultados | Sesgo de resultado | Evaluar proceso y supuestos. |
+| Ignorar el ruido | Se cree que juzgan igual | Auditar y usar guías. |
+| Delegar sin contexto | Se confía en el permiso | Entregar prioridades, datos y límites. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **decision architecture** y **reversibility** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **decision velocity** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **inventariar decisiones materiales → clasificar reversibilidad y frecuencia** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **decision latency** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **arquitectura de decisiones ejecutivas**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Descentralizar decisiones sin capacidades, datos o límites puede aumentar riesgo. Delegación requiere contexto, controles y feedback, no solo permiso.**?
+1. ¿Qué es una arquitectura de decisiones?
+2. ¿Qué ejes sirven para clasificar las decisiones y qué tratamiento corresponde?
+3. ¿Qué preguntas contiene una pre-lectura que se puede desafiar?
+4. ¿Qué diferencia hay entre sesgo y ruido?
+5. ¿Qué enseña Eisenhardt sobre la velocidad de decisión?
+6. ¿Qué indicadores miden la arquitectura?
+7. ¿Qué requiere una delegación efectiva?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El diseño de quién decide qué, en qué foro, con qué información y con qué revisión.
+2. Reversibilidad y materialidad; las reversibles y de bajo impacto se delegan, las irreversibles y de alto impacto reciben foro ejecutivo con desafío.
+3. Afirmación, evidencia, supuestos, peor caso, lo que falta, riesgo aceptado, dueño y disparador de revisión.
+4. El sesgo es un error sistemático en una dirección; el ruido es variabilidad no deseada entre juicios que deberían coincidir.
+5. Que las empresas rápidas usan información en tiempo real, más alternativas, consejeros de confianza y un proceso de resolución de conflictos.
+6. Latencia, escalamientos, tasa de anulación, decisiones reabiertas, reversiones costosas y calidad posterior.
+7. Contexto, datos, límites y retroalimentación, no solo el permiso.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/196-arquitectura-de-decisiones-ejecutivas/`:
 
-- `leadership-decision-brief.md` con el problema específico de **arquitectura de decisiones ejecutivas**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **arquitectura de decisiones ejecutivas** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **decision architecture**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **El CEO aprueba toda contratación sobre cierto salario, cada descuento enterprise y cada nueva herramienta. La empresa crece a 600 personas y el tiempo de espera supera dos semanas.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con la arquitectura del caso ejecutivo;
+- `decision-brief.md` (plantilla [Decision Brief](../../../../templates/decision-brief.md)) con la pre-lectura de la decisión de apertura de tiendas;
+- `decision-journal.md` con el registro de decisiones, los indicadores y las revisiones.
 
 ## 📗 Fuentes y verificación
 
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **arquitectura de decisiones ejecutivas**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Matt Mochary — *The Great CEO Within* (Mochary Films, 2019). **Uso en esta clase:** sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo. Lectura selectiva sobre **arquitectura de decisiones ejecutivas**. **Localizador:** [ISBN-13 9780578599281](https://openlibrary.org/isbn/9780578599281).
-- Ram Charan — *What the CEO Wants You to Know* (Crown, 2001). **Uso en esta clase:** perspectiva de Visión empresarial aplicada al problema de la clase. Lectura selectiva sobre **arquitectura de decisiones ejecutivas**. **Localizador:** [ISBN-13 9780609504239](https://openlibrary.org/isbn/9780609504239).
-- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva sobre **arquitectura de decisiones ejecutivas**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **arquitectura de decisiones ejecutivas**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **arquitectura de decisiones ejecutivas**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **arquitectura de decisiones ejecutivas** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **arquitectura de decisiones ejecutivas**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **arquitectura de decisiones ejecutivas** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **arquitectura de decisiones ejecutivas** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **arquitectura de decisiones ejecutivas** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** tiempo, talento y energía como recursos de la organización. Lectura selectiva sobre **arquitectura de decisiones ejecutivas**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
+- Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise* (Little, Brown Spark, 2021). **Uso en esta clase:** ruido, sesgo e higiene de decisión. Lectura selectiva sobre **arquitectura de decisiones ejecutivas**. **Localizador:** [ISBN-13 9780316451383](https://openlibrary.org/isbn/9780316451383).
+- Annie Duke — *How to Decide* (Portfolio, 2020). **Uso en esta clase:** distinguir decisión y resultado. Lectura selectiva sobre **arquitectura de decisiones ejecutivas**. **Localizador:** [ISBN-13 9780593418482](https://openlibrary.org/isbn/9780593418482).
+- Kathleen M. Eisenhardt — *Making Fast Strategic Decisions in High-Velocity Environments* (Academy of Management Journal, 1989). **Uso en esta clase:** decisiones rápidas en entornos cambiantes. Lectura selectiva sobre **arquitectura de decisiones ejecutivas**. **Localizador:** [DOI 10.2307/256434](https://doi.org/10.2307/256434).
+- Max H. Bazerman & Don A. Moore — *Judgment in Managerial Decision Making* (John Wiley & Sons Inc). **Uso en esta clase:** sesgos de juicio frecuentes en los gerentes. Lectura selectiva sobre **arquitectura de decisiones ejecutivas**. **Localizador:** [ISBN-13 9781119427384](https://openlibrary.org/isbn/9781119427384).
 
-> **Regla de fuentes para Arquitectura de decisiones ejecutivas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **arquitectura de decisiones ejecutivas** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Arquitectura de decisiones ejecutivas:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los estatutos y el gobierno corporativo que limitan la delegación de autoridad. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

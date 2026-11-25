@@ -10,217 +10,195 @@
 
 ## 🎯 Propósito
 
-Un CEO equilibra intereses de clientes, personas, accionistas y sociedad dentro de obligaciones legales y una lógica sostenible de creación de valor. Stakeholder management no significa satisfacer a todos; exige reconocer externalidades, horizontes y trade-offs explícitos.
+Un CEO decide a diario entre intereses que no coinciden. Subir precios mejora el margen y perjudica a los clientes; invertir en capacitación mejora el desempeño futuro y reduce el dividendo de este año; cerrar una planta ineficiente protege a la empresa y daña a una comunidad; ahorrar en seguridad mejora el trimestre y arriesga a las personas. El debate público suele formularse como una disyuntiva moral: ¿la empresa existe para sus accionistas o para todos? En la práctica, la pregunta del CEO es más concreta y más difícil: **¿cómo decido cuando mis obligaciones con varias partes entran en conflicto, con qué criterios, con qué costo y con qué rendición de cuentas?**
 
-La salida de esta parte es **pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **balance entre clientes, personas, accionistas y sociedad** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la teoría de las partes interesadas de Freeman, en la propuesta de Jensen de una «maximización ilustrada del valor» con un solo objetivo de largo plazo, en la creación de valor compartido de Porter y Kramer, en la visión de impacto positivo de Polman y Winston y en los principios de gobierno corporativo de la OCDE sobre el papel de las partes interesadas. Al terminar sabrás mapear a las partes materiales, identificar obligaciones y externalidades, cuantificar los trade-offs cuando sea posible, definir principios y límites y decidir y explicar con honestidad, sin usar el equilibrio como excusa para no elegir.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `stakeholder`, `shareholder return`, `externality`, `license to operate`, `long-term value` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. mapear stakeholders materiales → 2. identificar obligaciones y externalidades → 3. cuantificar trade-offs cuando sea posible → 4. definir principios y límites → 5. decidir y explicar horizonte y compensaciones** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** customer trust, employee retention, ROIC sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Mapear** las partes interesadas materiales de una decisión.
+2. **Distinguir** obligaciones legales, compromisos y preferencias.
+3. **Cuantificar** trade-offs entre partes cuando sea posible y señalar lo que no se puede cuantificar.
+4. **Definir** principios, límites y reglas de decisión explícitas.
+5. **Comunicar** la decisión con sus costos y rendir cuentas.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define stakeholder y shareholder return sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con customer trust y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué decisión reciente benefició a una parte a costa de otra y cómo se explicó? |
+| 20–60 min | Teorías, partes materiales, obligaciones, valor compartido, principios y rendición de cuentas. |
+| 60–105 min | Ejemplo trabajado: pasar a envases reciclados con efectos en las cuatro partes. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **stakeholder** | parte afectada o capaz de afectar la organización | Distingue un hecho compatible y otro que lo refute. |
-| **shareholder return** | valor económico entregado a propietarios | Distingue un hecho compatible y otro que lo refute. |
-| **externality** | costo o beneficio impuesto a terceros no reflejado completamente en precio | Distingue un hecho compatible y otro que lo refute. |
-| **license to operate** | aceptación social regulatoria y reputacional para operar | Distingue un hecho compatible y otro que lo refute. |
-| **long-term value** | valor creado considerando efectos y riesgos más allá del trimestre | Distingue un hecho compatible y otro que lo refute. |
+| **Parte interesada** | Persona o grupo que afecta a la empresa o es afectado por ella. | Clientes, personas, accionistas, proveedores, comunidades, autoridades. |
+| **Materialidad** | Importancia de una parte o un tema para el valor y los riesgos de la empresa. | Cambia con la decisión y el contexto. |
+| **Externalidad** | Costo o beneficio que la empresa causa a terceros sin pagarlo ni cobrarlo. | Contaminación, empleo, bienestar de una comunidad. |
+| **Valor compartido** | Valor económico que se crea resolviendo necesidades de la sociedad. | Reconcibe productos, productividad o entorno. |
+| **Maximización ilustrada** | Maximizar el valor de largo plazo atendiendo a todas las partes que lo sostienen. | Un solo objetivo con restricciones y criterios de partes. |
+| **Rendición de cuentas** | Responder por decisiones con datos y responsables. | Objetivos, responsables y revisión. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 199: 1. mapear stakeholders materiales → 2. identificar obligaciones y externalidades → 3. cuantificar trade-offs cuando sea posible → 4. definir principios y límites → 5. decidir y explicar horizonte y compensaciones](modelo-mental.svg)
+![Cuatro partes que la empresa debe equilibrar: clientes, personas, accionistas y sociedad, con lo que necesita, lo que aporta y una señal de alerta.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear stakeholders materiales → 2. identificar obligaciones y externalidades → 3. cuantificar trade-offs cuando sea posible → 4. definir principios y límites → 5. decidir y explicar horizonte y compensaciones
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un CEO equilibra intereses de clientes, personas, accionistas y sociedad dentro de obligaciones legales y una lógica sostenible de creación de valor. Stakeholder management no significa satisfacer a todos; exige reconocer externalidades, horizontes y trade-offs explícitos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La retórica stakeholder puede justificar decisiones sin accountability. Mantén objetivos, responsables y economics claros; no uses balance para evitar elegir.**
+**Cómo leer el diagrama.** Una tabla con cuatro filas. **Clientes**: necesitan valor, confianza y trato justo; aportan ingresos y recomendación; la señal de alerta son reclamos y bajas crecientes. **Personas**: necesitan trabajo con sentido, seguridad y desarrollo; aportan capacidad y compromiso; la señal es la rotación de talento clave. **Accionistas**: necesitan retorno ajustado por riesgo y claridad; aportan capital y paciencia; la señal es un costo de capital que sube. **Sociedad**: necesita impacto acotado y cumplimiento; aporta licencia para operar; la señal son conflictos con comunidades o autoridades. La nota aclara que equilibrar no es evitar elegir.
 
 ## 📖 Desarrollo
 
-### 1. stakeholder: mecanismo central
+### 1. Dos grandes visiones y su punto de encuentro
 
-**stakeholder** se entiende aquí como **parte afectada o capaz de afectar la organización**. Esta es la pieza causal o estructural desde la que se inicia **balance entre clientes, personas, accionistas y sociedad**: antes de mapear stakeholders materiales, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Freeman propuso que la gestión estratégica debe considerar a todas las **partes interesadas**: grupos que pueden afectar el logro de los objetivos de la empresa o ser afectados por él. Jensen, desde la economía, argumentó que una empresa necesita un **objetivo único** (si tiene varios, los gerentes no pueden decidir ni rendir cuentas) y que ese objetivo debe ser maximizar el **valor de largo plazo**; a diferencia de la versión estrecha de la maximización de utilidades del período, su «maximización ilustrada» reconoce que no se crea valor duradero maltratando a clientes, empleados, proveedores o la sociedad. Ambos coinciden en lo esencial para el CEO: las partes importan porque sostienen el valor, y un criterio único de decisión ayuda a ordenar, siempre que se defina con horizonte largo y no excluya obligaciones.
 
-La lectura rectora de este bloque es Ben Horowitz — *The Hard Thing About Hard Things*. Su aporte se usa para examinar **decisiones difíciles de CEO, organización, personas y ejecución bajo presión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **customer trust**; regístrala con periodo, unidad, población y baseline.
+### 2. Obligaciones, compromisos y preferencias
 
-Relaciona el mecanismo con **shareholder return**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+No todo lo que una parte desea tiene el mismo estatus. Conviene distinguir: **obligaciones** (legales, contractuales, regulatorias: no se negocian); **compromisos** (promesas, políticas y valores asumidos públicamente: se cumplen salvo causa mayor y con explicación); y **preferencias** (cosas deseables que pueden ponderarse). La confusión entre ellas lleva a dos errores: tratar como negociable lo que es obligatorio, o tratar como obligatorio lo que es solo preferencia. Los principios de gobierno corporativo de la OCDE reconocen que los derechos de las partes establecidos por ley o por acuerdos deben respetarse, y que el marco debe permitir cooperar con ellas para crear riqueza y empleo y sostener empresas sólidas. Los textos vigentes se consultan en la fuente.
 
-### 2. shareholder return: frontera conceptual y error de clasificación
+### 3. Mapear partes y materialidad
 
-**Definición operacional:** valor económico entregado a propietarios. Su valor está en distinguirlo de **stakeholder** y **externality**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Para cada decisión se identifican las partes **materiales**: las que, según su reacción, podrían alterar el valor o los riesgos, y aquellas sobre las cuales la decisión tiene un efecto significativo. Se anota, para cada una: qué gana, qué pierde, con qué probabilidad, qué poder tiene, qué alternativas tiene y cómo reaccionará. Se distinguen los **efectos directos** (precio para el cliente) de los **indirectos** (menos recursos para proveedores) y las **externalidades** (efectos sobre quienes no participan en la transacción). Las comunidades locales, los reguladores, los proveedores y las generaciones futuras suelen ser invisibles en las decisiones internas; hacerlos visibles es parte de pensar a nivel empresa.
 
-Contrasta el problema con Matt Mochary — *The Great CEO Within*, que aporta una mirada sobre **sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo**. Formula dos mini-casos: uno que sí satisface la definición de **shareholder return** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **employee retention** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Cuantificar lo que se puede, nombrar lo que no
 
-Antes de identificar obligaciones y externalidades, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Muchos trade-offs se pueden expresar en la **moneda común** de la empresa: caja, margen, capital y riesgo. Un cambio de precio afecta ingresos y retención; una inversión en seguridad reduce probabilidad de accidentes y costos; una política salarial afecta rotación y costos de reemplazo. Se estiman con rangos. Otros efectos no son monetizables sin forzar: la dignidad en el trabajo, la confianza de una comunidad, el impacto ambiental. Estos se **nombran** y se incluyen como criterios explícitos, no se disfrazan de cifras ficticias ni se omiten porque no caben en el modelo. Una buena práctica es presentar tres columnas: **efectos cuantificados**, **efectos estimados con rango** y **efectos cualitativos**, y evitar mezclar.
 
-### 3. externality: operacionalización y medición
+### 5. Valor compartido y oportunidades de no sacrificio
 
-**externality** significa **costo o beneficio impuesto a terceros no reflejado completamente en precio**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Porter y Kramer sostienen que muchas veces el conflicto aparente entre desempeño económico y social puede reducirse si la empresa **redefine** su negocio: **reconcebir productos y mercados** (atender necesidades sociales no cubiertas), **redefinir la productividad en la cadena de valor** (usar menos energía, reducir desperdicios, mejorar la salud de los empleados) y **construir clústeres locales** (fortalecer proveedores e instituciones del entorno). Polman y Winston describen la idea de ser «positivo neto»: crear más valor para la sociedad que el que se toma. Estas ideas son útiles como **búsqueda de soluciones**, pero no eliminan los conflictos reales ni sustituyen la contabilidad de costos; un CEO se pregunta primero si existe una opción que no sacrifique a nadie, y luego decide el trade-off que queda.
 
-Peter F. Drucker — *The Effective Executive* orienta este bloque mediante **efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **ROIC**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Principios, límites y reglas de decisión
 
-Al llegar a cuantificar trade-offs cuando sea posible, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Un conjunto breve de **principios** orienta decisiones difíciles: por ejemplo, «no se transgrede la ley ni la seguridad de las personas por rendimiento»; «los cambios que afectan a las personas se informan con anticipación y se acompañan»; «se acepta un costo de hasta cierto monto por año para evitar riesgos de reputación o de salud». También se fijan **límites cuantitativos** (por ejemplo, rotación máxima tolerada, nivel de precios relativo a la competencia) y **reglas de desempate**: qué prevalece cuando dos principios chocan, y quién decide. Escribir de antemano el «precio» que se está dispuesto a pagar por un principio evita improvisar bajo presión y facilita la rendición de cuentas.
 
-### 4. license to operate: trade-offs y efectos de segundo orden
+### 7. Decidir, comunicar y rendir cuentas
 
-**Definición:** aceptación social regulatoria y reputacional para operar. Este concepto obliga a abandonar la idea de que **balance entre clientes, personas, accionistas y sociedad** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de definir principios y límites, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Michael D. Watkins — *The First 90 Days* aporta una lente sobre **perspectiva de Transiciones aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **regulatory incidents** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **balance entre clientes, personas, accionistas y sociedad**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **license to operate** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. long-term value: gobernanza, límites e integración
-
-**long-term value** se define como **valor creado considerando efectos y riesgos más allá del trimestre** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Ram Charan — *What the CEO Wants You to Know* se utiliza para estudiar **perspectiva de Visión empresarial aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar decidir y explicar horizonte y compensaciones, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **La retórica stakeholder puede justificar decisiones sin accountability. Mantén objetivos, responsables y economics claros; no uses balance para evitar elegir.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **stakeholder**, **shareholder return**, **externality**, **license to operate** y **long-term value** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **balance entre clientes, personas, accionistas y sociedad** no consiste en sumar cinco definiciones. Empieza por **stakeholder**, contrasta **shareholder return** con **externality**, incorpora **license to operate** como restricción o mecanismo y usa **long-term value** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear stakeholders materiales → 2. identificar obligaciones y externalidades → 3. cuantificar trade-offs cuando sea posible → 4. definir principios y límites → 5. decidir y explicar horizonte y compensaciones**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Una decisión de balance se comunica a cada parte con **honestidad sobre lo que cambia para ella**, el **motivo**, el **criterio** y el **plazo de revisión**. Se evita el lenguaje que oculta el costo («optimización», «ajustes»). La retórica de las partes interesadas puede usarse para justificar decisiones sin responsabilidad; por eso se mantienen **objetivos**, **responsables** y **cifras** claros, y se informa periódicamente (por ejemplo, al directorio) qué se prometió y qué se logró con cada parte. Y se reconoce que algunas decisiones tienen perdedores: se compensan en lo posible, se explican, y se aprende. El balance no es un acuerdo con todos, sino un proceso justo con criterios conocidos.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **balance entre clientes, personas, accionistas y sociedad** ayuda a desafiar? |
-| Matt Mochary — *The Great CEO Within* | sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo | ¿Qué supuesto de **balance entre clientes, personas, accionistas y sociedad** ayuda a desafiar? |
-| Peter F. Drucker — *The Effective Executive* | efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo | ¿Qué supuesto de **balance entre clientes, personas, accionistas y sociedad** ayuda a desafiar? |
-| Michael D. Watkins — *The First 90 Days* | perspectiva de Transiciones aplicada al problema de la clase | ¿Qué supuesto de **balance entre clientes, personas, accionistas y sociedad** ayuda a desafiar? |
-| Ram Charan — *What the CEO Wants You to Know* | perspectiva de Visión empresarial aplicada al problema de la clase | ¿Qué supuesto de **balance entre clientes, personas, accionistas y sociedad** ayuda a desafiar? |
-
-En **balance entre clientes, personas, accionistas y sociedad**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **stakeholder**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Freeman | Gestión con foco en las partes interesadas. | No fija criterios de desempate. | ¿Qué partes son materiales aquí? |
+| Jensen (2002) | Objetivo único de valor de largo plazo con partes como sostén. | Debate sobre su aplicación práctica. | ¿Cuál es el criterio único de decisión? |
+| Porter y Kramer | Valor compartido: productos, cadena de valor y clústeres. | No elimina todos los conflictos. | ¿Existe una opción que no sacrifique a nadie? |
+| Polman y Winston | Visión de empresa de impacto positivo. | Ejemplos de empresas con recursos particulares. | ¿Qué valor creamos más allá del que tomamos? |
+| OCDE, principios de gobierno corporativo | Papel de las partes interesadas en el gobierno de la empresa. | Principios de alto nivel. | ¿Qué derechos están establecidos y se respetan? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Para alcanzar margen trimestral, una empresa reduce soporte y terceriza atención. EBITDA mejora, pero churn sube y un segmento vulnerable queda sin canal efectivo de reclamo.
+**Situación (hipotética).** Una empresa de envases con ventas de 40.000 millones de pesos y un EBITDA de 4.800 millones (12 %) enfrenta la exigencia de dos grandes clientes (que suman 6.000 millones de ventas, con un margen de 15 %, es decir 900 millones) de usar material reciclado en un plazo de 18 meses. Debe decidir entre mantener su línea actual o invertir en una línea con material reciclado.
 
-**Paso 1 — mapear stakeholders materiales.** La gerencia escribe primero el supuesto asociado a **stakeholder** y evita convertirlo en hecho. Luego busca **customer trust** para contrastarlo en el caso de **balance entre clientes, personas, accionistas y sociedad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Partes y obligaciones.** Obligaciones: cumplir la regulación ambiental y laboral vigentes, que se verifican en fuentes oficiales. Compromisos: la empresa se comprometió públicamente a reducir residuos. Preferencias: dos clientes quieren reciclado; el sindicato pide estabilidad; el directorio quiere retorno.
 
-**Paso 2 — identificar obligaciones y externalidades.** La gerencia escribe primero el supuesto asociado a **shareholder return** y evita convertirlo en hecho. Luego busca **employee retention** para contrastarlo en el caso de **balance entre clientes, personas, accionistas y sociedad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Opción A: mantener.** EBITDA actual 4.800. Probabilidad de que los dos clientes se retiren: 40 %. Pérdida esperada: 0,40 × 900 = 360 millones. EBITDA esperado: 4.800 − 360 = 4.440 millones. Sin cargo de capital.
 
-**Paso 3 — cuantificar trade-offs cuando sea posible.** La gerencia escribe primero el supuesto asociado a **externality** y evita convertirlo en hecho. Luego busca **ROIC** para contrastarlo en el caso de **balance entre clientes, personas, accionistas y sociedad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Opción B: línea reciclada.** Inversión de 3.000 millones; el costo de operación sube 600 millones al año; el precio sube 1,0 % para cubrir parte (1,0 % × 40.000 = 400 millones): efecto neto de −200 millones. Nuevos clientes atraídos por el producto reciclado: +1.500 millones de ventas con 15 % de margen: +225 millones. Efecto neto: −200 + 225 = +25 millones. Probabilidad de perder a los dos clientes: 10 %: pérdida esperada de 0,10 × 900 = 90 millones. EBITDA esperado: 4.800 + 25 − 90 = 4.735 millones. Cargo de capital (9 % × 3.000): 270 millones. Resultado después del cargo: 4.735 − 270 = 4.465 millones.
 
-**Paso 4 — definir principios y límites.** La gerencia escribe primero el supuesto asociado a **license to operate** y evita convertirlo en hecho. Luego busca **regulatory incidents** para contrastarlo en el caso de **balance entre clientes, personas, accionistas y sociedad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Comparación.** B − A = 4.465 − 4.440 = 25 millones al año a favor de B: una diferencia pequeña, dentro del error de las estimaciones. La decisión no se cierra por el cálculo; se miran las demás partes.
 
-**Paso 5 — decidir y explicar horizonte y compensaciones.** La gerencia escribe primero el supuesto asociado a **long-term value** y evita convertirlo en hecho. Luego busca **reputation indicators** para contrastarlo en el caso de **balance entre clientes, personas, accionistas y sociedad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Parte | Opción A | Opción B |
+|---|---|---|
+| Clientes | Sin cambio de precio; riesgo de no cumplir sus exigencias | Precio +1,0 %; producto con material reciclado |
+| Personas | Estabilidad a corto plazo; riesgo si se pierden clientes (empleo de 85 personas en esa línea) | Capacitación de 85 personas (40 millones) y nuevos puestos |
+| Accionistas | Mayor pérdida esperada concentrada en dos clientes | Retorno similar, menor concentración de riesgo |
+| Sociedad | Sin cambios | Unas 6.500 toneladas anuales de residuo desviado (estimación) |
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **balance entre clientes, personas, accionistas y sociedad**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Principios y regla.** Principio: se acepta un costo de hasta 100 millones al año frente al mejor caso económico para reducir riesgo de concentración y cumplir compromisos ambientales. Como B cuesta menos que ese umbral (es incluso +25 millones), se aprueba. Reglas: si el precio sube más de 2 %, se revisa; si la rotación de la línea supera el 15 %, se revisa el plan de personas; si el costo supera lo estimado en 20 %, vuelve al comité.
+
+**Comunicación.** A los clientes: qué ajuste de precio, desde cuándo y con qué beneficio. A las personas: qué cambia, con qué capacitación y cómo se protege su empleo. Al directorio: las cifras, el riesgo y los indicadores de revisión. A la comunidad: el compromiso de residuos y su medición.
+
+**Cuidados.** Las cifras de impacto ambiental deben medirse con metodologías reconocidas y verificarse; las obligaciones legales laborales, ambientales y de competencia se consultan en fuentes oficiales y con asesoría; los números son ilustrativos.
+
+**Qué muestra.** (1) Se distinguieron obligaciones, compromisos y preferencias. (2) Se cuantificó lo cuantificable y se nombró lo demás. (3) Se fijó un criterio explícito de cuánto se paga por un principio.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **stakeholder** | parte afectada o capaz de afectar la organización | Cuando customer trust es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **shareholder return** | valor económico entregado a propietarios | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Balance frente a neutralidad.** Equilibrar partes no es dar un poco a cada una: es decidir con un criterio conocido a quién se favorece, por qué y con qué compensación.
 
-**Frontera de aplicación:** La retórica stakeholder puede justificar decisiones sin accountability. Mantén objetivos, responsables y economics claros; no uses balance para evitar elegir.
+**Límites.** La retórica de las partes interesadas puede encubrir la falta de rendición de cuentas; se mantienen objetivos, responsables y cifras claros. Las estimaciones de efectos sobre clientes, personas y sociedad son inciertas. Las teorías de Freeman y Jensen son debatidas. El valor compartido no elimina todos los conflictos. Las obligaciones legales no se negocian. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre balance entre clientes, personas, accionistas y sociedad |
+| Nivel | Cómo participa en el balance |
 |---|---|
-| **Profesional** | usa **balance entre clientes, personas, accionistas y sociedad** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **stakeholder** y **shareholder return** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta customer trust con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si balance entre clientes, personas, accionistas y sociedad cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de balance entre clientes, personas, accionistas y sociedad reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **balance entre clientes, personas, accionistas y sociedad** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Señala efectos sobre clientes o personas que otros no ven. |
+| **Jefe / Team Lead** | Cuida a su equipo y a los clientes internos al decidir. |
+| **Gerente** | Presenta efectos de sus propuestas en todas las partes. |
+| **CEO / Director** | Fija principios y límites, decide los trade-offs y rinde cuentas. |
+| **Founder / Owner** | Equilibra su patrimonio, su propósito y la confianza de las partes. |
 
 ## 🏢 Caso ejecutivo
 
-Para alcanzar margen trimestral, una empresa reduce soporte y terceriza atención. EBITDA mejora, pero churn sube y un segmento vulnerable queda sin canal efectivo de reclamo.
+Una empresa de salud privada con 4.000 personas, 12 clínicas y ventas de 180.000 millones de pesos enfrenta una decisión: una clínica en una ciudad mediana pierde 2.300 millones al año y la empresa evalúa cerrarla. Hay 320 trabajadores en esa sede, que es el principal centro de salud privado de la zona; el 35 % de sus pacientes son de un convenio con una entidad pública. La alternativa es reconvertirla en un centro ambulatorio con 110 personas, o venderla a un competidor. Los accionistas piden recortar pérdidas; el sindicato anuncia movilizaciones; las autoridades locales piden mantener el servicio; los clínicos temen perder a los pacientes derivados; los clientes del convenio dependen de contratos con fecha de término. La CEO escucha que «hay que cuidar a todos».
 
-Entrega un **decision brief de balance entre clientes, personas, accionistas y sociedad** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **memo de balance** que contenga: (a) el mapa de partes interesadas materiales y su poder; (b) la distinción entre obligaciones legales y contractuales, compromisos y preferencias; (c) la cuantificación de las tres alternativas, con efectos económicos y con efectos cualitativos; (d) los principios, límites y reglas de decisión, incluido el costo que se acepta asumir; (e) el plan de comunicación y de acompañamiento a cada parte; (f) los indicadores de revisión y las verificaciones laborales, sanitarias, contractuales y regulatorias pendientes.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **balance entre clientes, personas, accionistas y sociedad** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear stakeholders materiales → 2. identificar obligaciones y externalidades → 3. cuantificar trade-offs cuando sea posible → 4. definir principios y límites → 5. decidir y explicar horizonte y compensaciones** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta customer trust, employee retention; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Elige una decisión reciente y lista las partes materiales con lo que ganan y pierden.
+2. Clasifica cinco demandas de partes como obligación, compromiso o preferencia.
+3. Calcula el efecto económico de una decisión en tres escenarios y lista tres efectos que no se pueden cuantificar.
+4. Redacta tres principios con el «precio» que la empresa está dispuesta a pagar por cada uno.
+5. Escribe la comunicación de una decisión difícil para dos partes que salen perdiendo.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar stakeholder y shareholder return como sinónimos | Se pierde la distinción entre “parte afectada o capaz de afectar la organización” y “valor económico entregado a propietarios” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “decidir y explicar horizonte y compensaciones” | Se saltó “mapear stakeholders materiales” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear stakeholders materiales → 2. identificar obligaciones y externalidades → 3. cuantificar trade-offs cuando sea posible → 4. definir principios y límites → 5. decidir y explicar horizonte y compensaciones y marca el primer supuesto no demostrado. |
-| Optimizar solo customer trust | La métrica local sustituyó al resultado del sistema | Contrástala con employee retention y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre balance entre clientes, personas, accionistas y sociedad | La retórica stakeholder puede justificar decisiones sin accountability. Mantén objetivos, responsables y economics claros; no uses balance para evitar elegir. |
-| No fijar revisión | Una decisión sobre balance entre clientes, personas, accionistas y sociedad se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| «Cuidar a todos» sin elegir | Se evita el conflicto | Criterio único de decisión y reglas de desempate. |
+| Tratar lo obligatorio como negociable | Se prioriza el costo | Distinguir obligaciones, compromisos y preferencias. |
+| Cifras ficticias para lo cualitativo | Se busca precisión | Nombrar lo no cuantificable por separado. |
+| Olvidar a las partes invisibles | Solo se mira a quien reclama | Mapear materialidad y externalidades. |
+| Usar el valor compartido como excusa | Se evita pagar un costo | Revisar la contabilidad y los compromisos. |
+| No rendir cuentas | La retórica reemplaza a los datos | Objetivos, responsables e informes periódicos. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **stakeholder** y **shareholder return** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **externality** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear stakeholders materiales → identificar obligaciones y externalidades** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **customer trust** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **balance entre clientes, personas, accionistas y sociedad**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **La retórica stakeholder puede justificar decisiones sin accountability. Mantén objetivos, responsables y economics claros; no uses balance para evitar elegir.**?
+1. ¿Qué proponen Freeman y Jensen y dónde coinciden?
+2. ¿Qué diferencia hay entre obligaciones, compromisos y preferencias?
+3. ¿Qué es una externalidad y por qué importa?
+4. ¿Cómo se tratan los efectos que no se pueden cuantificar?
+5. ¿Qué tres vías de valor compartido describen Porter y Kramer?
+6. ¿Para qué sirve definir de antemano cuánto se paga por un principio?
+7. ¿Qué límites tiene el enfoque de partes interesadas?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Freeman propone gestionar considerando a todas las partes; Jensen propone un objetivo único de valor de largo plazo; coinciden en que las partes sostienen el valor y en que se necesita un criterio de decisión claro.
+2. Las obligaciones son legales o contractuales y no se negocian; los compromisos son promesas asumidas; las preferencias son deseos que se ponderan.
+3. Un costo o beneficio causado a terceros sin que la empresa lo pague o cobre; importa porque afecta a comunidades y a la licencia para operar.
+4. Se nombran como criterios cualitativos separados, sin disfrazarlos de cifras.
+5. Reconcebir productos y mercados, redefinir la productividad en la cadena de valor y construir clústeres locales.
+6. Para evitar improvisar bajo presión, facilitar desempates y la rendición de cuentas.
+7. Puede encubrir falta de responsabilidad, las estimaciones son inciertas, las teorías son debatidas y las obligaciones legales no se negocian.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/199-balance-entre-clientes-personas-accionistas-y-sociedad/`:
 
-- `commercial-decision-brief.md` con el problema específico de **balance entre clientes, personas, accionistas y sociedad**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **balance entre clientes, personas, accionistas y sociedad** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **stakeholder**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Para alcanzar margen trimestral, una empresa reduce soporte y terceriza atención. EBITDA mejora, pero churn sube y un segmento vulnerable queda sin canal efectivo de reclamo.** y el dato que podría invalidar la recomendación.
+- `commercial-decision-brief.md` (plantilla [Commercial decision brief](../../../../templates/commercial-decision-brief.md)) con el memo de balance del caso ejecutivo;
+- `stakeholder-legitimacy-map.md` (plantilla [Stakeholder legitimacy map](../../../../templates/stakeholder-legitimacy-map.md)) con el mapa de partes, poder y legitimidad;
+- `decision-journal.md` con los principios, los efectos cuantificados y los indicadores de revisión.
 
 ## 📗 Fuentes y verificación
 
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **balance entre clientes, personas, accionistas y sociedad**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Matt Mochary — *The Great CEO Within* (Mochary Films, 2019). **Uso en esta clase:** sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo. Lectura selectiva sobre **balance entre clientes, personas, accionistas y sociedad**. **Localizador:** [ISBN-13 9780578599281](https://openlibrary.org/isbn/9780578599281).
-- Peter F. Drucker — *The Effective Executive* (Collins, 2002). **Uso en esta clase:** efectividad ejecutiva, contribución, prioridades y uso consciente del tiempo. Lectura selectiva sobre **balance entre clientes, personas, accionistas y sociedad**. **Localizador:** [ISBN-13 9780060516079](https://openlibrary.org/isbn/9780060516079).
-- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** perspectiva de Transiciones aplicada al problema de la clase. Lectura selectiva sobre **balance entre clientes, personas, accionistas y sociedad**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
-- Ram Charan — *What the CEO Wants You to Know* (Crown, 2001). **Uso en esta clase:** perspectiva de Visión empresarial aplicada al problema de la clase. Lectura selectiva sobre **balance entre clientes, personas, accionistas y sociedad**. **Localizador:** [ISBN-13 9780609504239](https://openlibrary.org/isbn/9780609504239).
-- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva sobre **balance entre clientes, personas, accionistas y sociedad**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **balance entre clientes, personas, accionistas y sociedad** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **balance entre clientes, personas, accionistas y sociedad**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **balance entre clientes, personas, accionistas y sociedad** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **balance entre clientes, personas, accionistas y sociedad** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **balance entre clientes, personas, accionistas y sociedad** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- R. Edward Freeman — *Strategic Management: A Stakeholder Approach* (Cambridge University Press, 2010). **Uso en esta clase:** gestión estratégica con foco en las partes interesadas. Lectura selectiva sobre **balance entre clientes, personas, accionistas y sociedad**. **Localizador:** [ISBN-13 9780521151740](https://openlibrary.org/isbn/9780521151740).
+- Michael C. Jensen — *Value Maximization, Stakeholder Theory, and the Corporate Objective Function* (Business Ethics Quarterly, 2002). **Uso en esta clase:** objetivo único de valor de largo plazo con partes interesadas como sostén. Lectura selectiva sobre **balance entre clientes, personas, accionistas y sociedad**. **Localizador:** [DOI 10.2307/3857812](https://doi.org/10.2307/3857812).
+- Michael E. Porter & Mark R. Kramer — *Creating Shared Value* (Managing Sustainable Business, 2018). **Uso en esta clase:** valor compartido en productos, cadena de valor y clústeres. Lectura selectiva sobre **balance entre clientes, personas, accionistas y sociedad**. **Localizador:** [DOI 10.1007/978-94-024-1144-7_16](https://doi.org/10.1007/978-94-024-1144-7_16).
+- Paul Polman & Andrew Winston — *Net Positive* (Harvard Business Review Press, 2021). **Uso en esta clase:** empresa de impacto positivo. Lectura selectiva sobre **balance entre clientes, personas, accionistas y sociedad**. **Localizador:** [ISBN-13 9781647821302](https://openlibrary.org/isbn/9781647821302).
+- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** papel de las partes interesadas en el gobierno corporativo. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
 
-> **Regla de fuentes para Balance entre clientes, personas, accionistas y sociedad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **balance entre clientes, personas, accionistas y sociedad** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Balance entre clientes, personas, accionistas y sociedad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las obligaciones laborales, ambientales, sanitarias y de competencia. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -5,27 +5,27 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir CEO agenda de high-leverage activity mediante evidencia observable."
-  - "Aplicar la secuencia: auditar calendario y decisiones → definir categorías de alto apalancamiento → eliminar o delegar status → bloquear pensamiento y stakeholders → revisar mensualmente agenda versus estrategia."
-  - "Interpretar time by priority, decision backlog, meeting decision ratio sin atribuir causalidad automática."
-  - "Resolver el caso de agenda y tiempo del CEO con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Auditar el uso del tiempo con datos de calendario y de decisiones."
+  - "Definir categorías de alto apalancamiento acordes con las prioridades de la empresa."
+  - "Eliminar o delegar reuniones y decisiones que no requieren al CEO."
+  - "Diseñar bloques estructurales de pensamiento, de personas y de partes interesadas."
+  - "Revisar la agenda con indicadores y conservar margen para lo imprevisto."
 deliverable: "board-or-executive-memo.md"
 references:
-  - "Ben Horowitz — *The Hard Thing About Hard Things*"
-  - "Matt Mochary — *The Great CEO Within*"
-  - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
   - "Peter F. Drucker — *The Effective Executive*"
-  - "Michael D. Watkins — *The First 90 Days*"
-  - "Larry Bossidy & Ram Charan — *Execution*"
+  - "Andrew S. Grove — *High Output Management*"
+  - "Cal Newport — *Deep Work*"
+  - "Michael C. Mankins & Eric Garton — *Time, Talent, Energy*"
+  - "Greg McKeown — *Essentialism*"
+  - "Matt Mochary — *The Great CEO Within*"
 limits:
-  - "Una agenda rígida falla en crisis y transiciones. Protege bloques estructurales, pero conserva capacidad de reordenar atención cuando cambia el riesgo o la oportunidad."
+  - "Una agenda rígida falla en crisis y en transiciones; se protegen los bloques estructurales, pero se conserva capacidad de reordenar."
 evidence_signals:
-  - "time by priority"
-  - "decision backlog"
-  - "meeting decision ratio"
-  - "deep-work blocks"
-  - "stakeholder coverage"
+  - "auditoría de tiempo con datos"
+  - "categorías de alto apalancamiento"
+  - "eliminar, delegar o automatizar"
+  - "margen y revisión mensual"

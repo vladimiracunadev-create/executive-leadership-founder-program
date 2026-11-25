@@ -10,217 +10,195 @@
 
 ## 🎯 Propósito
 
-Leadership Pipeline describe transiciones donde cambia el trabajo, uso del tiempo y valores profesionales esperados. La sucesión no consiste en promover al mejor especialista; requiere preparar a personas para responsabilidades cualitativamente distintas y evaluar readiness para el siguiente passage.
+Cuando se abre un cargo crítico, muchas empresas descubren que no tienen a nadie listo. Entonces contratan afuera, a un costo alto y con un riesgo mayor de fracaso, o ascienden a la persona más cercana con la esperanza de que «crezca en el cargo». Lo primero ocurre en el nivel de directores; lo segundo, en todos los niveles, y produce los líderes que hacen el trabajo del nivel anterior porque nadie les enseñó el del nuevo. Un **pipeline de liderazgo** es el sistema que evita esa sorpresa: define qué cambia en cada nivel, identifica quién está listo y quién no, ofrece asignaciones y acompañamiento para crecer y mantiene una visión del banco de talento para los cargos críticos.
 
-La salida de esta parte es **pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **leadership pipeline** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en el modelo de pasajes de liderazgo de Charan, Drotter y Noel, en el estudio de Gabarro sobre la toma de mando, en el análisis de Botelho, Powell y Raz sobre las conductas de CEO exitosos, en la mirada de Kegan y Lahey sobre cómo las personas cambian (o no) y en el trabajo de Mankins y Garton sobre asignación de talento. Al terminar sabrás mapear niveles y cargos críticos, definir qué cambia en cada pasaje, calibrar potencial y preparación, diseñar asignaciones de desarrollo, medir la cobertura de sucesores y evitar que el pipeline se convierta en una jerarquía rígida.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `leadership passage`, `readiness`, `succession bench`, `critical role`, `development assignment` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. mapear niveles y critical roles → 2. definir work y values por passage → 3. calibrar potencial y readiness → 4. crear assignments y coaching → 5. revisar bench y sucesión periódicamente** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** critical-role coverage, ready-now successors, time-to-fill sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Mapear** los niveles de liderazgo y los cargos críticos de la empresa.
+2. **Definir** qué cambia en cada pasaje: trabajo, uso del tiempo y valores.
+3. **Calibrar** potencial y preparación con evidencia y sin sesgos evidentes.
+4. **Diseñar** asignaciones de desarrollo y acompañamiento.
+5. **Medir** cobertura de sucesores, tiempo de cobertura y calidad de las promociones.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define leadership passage y readiness sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con critical-role coverage y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿a quién promoviste por su desempeño técnico y cómo le fue en el nuevo cargo? |
+| 20–60 min | Pasajes, cargos críticos, potencial y preparación, asignaciones, cobertura y límites. |
+| 60–105 min | Ejemplo trabajado: caso de negocio de un pipeline para 48 cargos críticos. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **leadership passage** | transición a un nivel con nuevas responsabilidades y valores | Distingue un hecho compatible y otro que lo refute. |
-| **readiness** | grado de preparación para ejecutar trabajo del siguiente nivel | Distingue un hecho compatible y otro que lo refute. |
-| **succession bench** | conjunto de candidatos internos con potencial y preparación | Distingue un hecho compatible y otro que lo refute. |
-| **critical role** | posición cuya vacancia crea riesgo material | Distingue un hecho compatible y otro que lo refute. |
-| **development assignment** | experiencia diseñada para cerrar una brecha de liderazgo | Distingue un hecho compatible y otro que lo refute. |
+| **Pasaje de liderazgo** | Transición a un nivel que exige cambiar de trabajo, de uso del tiempo y de valores. | De líder de uno mismo a líder de otros, etc. |
+| **Cargo crítico** | Rol cuya vacancia o mal desempeño afecta gravemente a la empresa. | Alto impacto y difícil de reemplazar. |
+| **Preparación (readiness)** | Capacidad actual de asumir el nivel siguiente. | Se evidencia en conductas y resultados. |
+| **Potencial** | Capacidad de crecer hasta niveles superiores en el tiempo. | Se estima con evidencia y no con simpatía. |
+| **Sucesor listo ahora** | Persona que podría asumir el cargo de inmediato. | Hay evidencia de que ya hace partes del trabajo. |
+| **Banco de talento** | Visión de personas y su preparación para cargos críticos. | Se revisa periódicamente. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 201: 1. mapear niveles y critical roles → 2. definir work y values por passage → 3. calibrar potencial y readiness → 4. crear assignments y coaching → 5. revisar bench y sucesión periódicamente](modelo-mental.svg)
+![Los pasajes del liderazgo: gestionar a otros, gestionar gerentes, gestionar una función, gestionar un negocio y gestionar la empresa.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear niveles y critical roles → 2. definir work y values por passage → 3. calibrar potencial y readiness → 4. crear assignments y coaching → 5. revisar bench y sucesión periódicamente
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Leadership Pipeline describe transiciones donde cambia el trabajo, uso del tiempo y valores profesionales esperados. La sucesión no consiste en promover al mejor especialista; requiere preparar a personas para responsabilidades cualitativamente distintas y evaluar readiness para el siguiente passage.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Pipeline no debe convertirse en jerarquía rígida ni sesgar contra carreras expertas. Diseña rutas IC y management con valor comparable cuando el trabajo lo permita.**
+**Cómo leer el diagrama.** Una escalera de cinco pasajes. **Gestionar a otros**: pasar de hacer el trabajo a lograrlo con personas. **Gestionar gerentes**: seleccionar, evaluar y desarrollar a líderes. **Gestionar una función**: integrar la especialidad con la estrategia. **Gestionar un negocio**: responder por resultados y por el equilibrio entre funciones. **Gestionar la empresa**: asignar capital, talento y atención entre negocios. La nota afirma que cada pasaje exige cambiar de trabajo, de uso del tiempo y de valores, y no solo de título; el pie, que el pipeline no debe volverse una jerarquía rígida.
 
 ## 📖 Desarrollo
 
-### 1. leadership passage: mecanismo central
+### 1. Pasajes, no solo ascensos
 
-**leadership passage** se entiende aquí como **transición a un nivel con nuevas responsabilidades y valores**. Esta es la pieza causal o estructural desde la que se inicia **leadership pipeline**: antes de mapear niveles y critical roles, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Charan, Drotter y Noel describen el desarrollo de liderazgo como una serie de **pasajes** (en su modelo original son seis; aquí se agrupan los dos últimos): de gestionarse a sí mismo a gestionar a otros; de gestionar a otros a gestionar gerentes; de gestionar gerentes a gestionar una función; de gestionar una función a gestionar un negocio; y hasta gestionar la empresa. En cada pasaje cambian tres cosas: las **habilidades** (qué hay que saber hacer), la **asignación del tiempo** (en qué se gasta la jornada) y los **valores de trabajo** (qué se considera importante). La tesis central es que muchos fracasos de liderazgo se deben a que la persona no hizo el cambio de valores: sigue valorando el trabajo del nivel anterior. El ascenso concede el título; el pasaje exige abandonar hábitos que antes se premiaron.
 
-La lectura rectora de este bloque es Ben Horowitz — *The Hard Thing About Hard Things*. Su aporte se usa para examinar **decisiones difíciles de CEO, organización, personas y ejecución bajo presión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **critical-role coverage**; regístrala con periodo, unidad, población y baseline.
+### 2. Qué cambia en cada nivel
 
-Relaciona el mecanismo con **readiness**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Para cada pasaje, la empresa define con claridad: **qué trabajo se hace** (por ejemplo, el gerente de gerentes selecciona y evalúa a sus gerentes, asigna recursos entre ellos y se preocupa por la capacidad de la unidad); **cómo se usa el tiempo** (más planificación, coordinación y coaching; menos ejecución directa); y **qué valores sostienen el nuevo nivel** (por ejemplo, valorar el éxito de otros más que el propio). Estas descripciones se convierten en **perfiles** de cada nivel, que sirven para seleccionar, evaluar y desarrollar. También permiten detectar el **estancamiento**: el líder que, en un nivel, sigue haciendo trabajo del nivel anterior porque le gusta o porque no confía en su gente.
 
-### 2. readiness: frontera conceptual y error de clasificación
+### 3. Cargos críticos y cobertura
 
-**Definición operacional:** grado de preparación para ejecutar trabajo del siguiente nivel. Su valor está en distinguirlo de **leadership passage** y **succession bench**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+No todos los cargos exigen el mismo nivel de planificación de sucesión. Se identifican los **cargos críticos**: los que, si se vacan o se desempeñan mal, afectan gravemente los resultados, los clientes, los riesgos o la estrategia. Para cada uno se mantienen: el **perfil** (qué se necesita en el contexto actual y futuro), los **sucesores** (internos con su nivel de preparación: listos ahora, listos en uno o dos años, en desarrollo), el **plan de contingencia** si el titular se va de forma imprevista y el **riesgo de pérdida** del titular. La **cobertura** se mide por la proporción de cargos críticos con al menos un sucesor listo ahora y con al menos dos preparados en dos años.
 
-Contrasta el problema con Matt Mochary — *The Great CEO Within*, que aporta una mirada sobre **sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo**. Formula dos mini-casos: uno que sí satisface la definición de **readiness** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **ready-now successors** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Potencial y preparación: evaluar con evidencia
 
-Antes de definir work y values por passage, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Se separan dos preguntas: ¿está **lista** esta persona para el nivel siguiente? (evidencia de que ya hace parte del trabajo y con los valores correctos) y ¿tiene **potencial** de llegar más alto? (capacidad de aprender rápido, de adaptarse y de asumir más complejidad). Se evita juzgar por simpatía, por visibilidad o por parecido con el jefe. Botelho y colaboradores, a partir de evaluaciones de miles de ejecutivos, informan que las conductas que mejor se asociaron con el éxito de los CEO (decidir con rapidez y convicción, comprometerse con las partes interesadas para adaptarse, entregar de manera confiable y adaptarse con audacia) no coincidían con varios estereotipos populares sobre el CEO ideal. La enseñanza para el pipeline es evaluar **conductas y resultados observables** y desafiar los prejuicios sobre quién «tiene aspecto» de líder.
 
-### 3. succession bench: operacionalización y medición
+### 5. Asignaciones que hacen crecer
 
-**succession bench** significa **conjunto de candidatos internos con potencial y preparación**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Las personas crecen sobre todo por **experiencia**: asignaciones con más complejidad, ambigüedad, alcance o riesgo. Se diseñan **asignaciones de desarrollo**: liderar un proyecto interfuncional, asumir una unidad en problemas, abrir un mercado, pasar por otra función, dirigir un cambio. Se acompañan con **coaching**, **mentores** y retroalimentación basada en conductas. Kegan y Lahey muestran que las personas, aun deseando cambiar, tienen «compromisos ocultos» que las protegen de hacerlo (por ejemplo, el deseo de no mostrar vulnerabilidad), y que el desarrollo requiere sacarlos a la luz. Se evalúa si cada asignación tiene objetivos de aprendizaje además de resultados, y si el sistema permite que la persona se equivoque sin que sea el final de su carrera. Mankins y Garton recuerdan que se necesita **atención** sobre estos temas: el comité de dirección dedica tiempo regular al talento, no solo una vez al año.
 
-Larry Bossidy & Ram Charan — *Execution* orienta este bloque mediante **disciplina de ejecución, personas, estrategia y operaciones**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **time-to-fill**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Revisiones periódicas y diseño del proceso
 
-Al llegar a calibrar potencial y readiness, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El pipeline se mantiene con **revisiones periódicas** (semestrales o anuales) en las que el CEO y el equipo directivo discuten cargo por cargo: cobertura, sucesores, riesgos de pérdida, planes de desarrollo y decisiones de asignación. Se usa información **comparable** (perfiles, evidencias, evaluaciones calibradas entre áreas para reducir el ruido de cada jefe) y se registran decisiones con responsables. La función de personas facilita el proceso; los líderes de línea son los dueños de su talento. Se cuida la **confidencialidad**: la información sobre potencial se maneja con cuidado y con transparencia proporcional con las personas sobre su desarrollo, y se cumple la normativa de protección de datos y laboral aplicable, que se verifica con asesoría.
 
-### 4. critical role: trade-offs y efectos de segundo orden
+### 7. Evitar los defectos del pipeline
 
-**Definición:** posición cuya vacancia crea riesgo material. Este concepto obliga a abandonar la idea de que **leadership pipeline** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de crear assignments y coaching, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Michael D. Watkins — *The First 90 Days* aporta una lente sobre **perspectiva de Transiciones aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **promotion success** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **leadership pipeline**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **critical role** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. development assignment: gobernanza, límites e integración
-
-**development assignment** se define como **experiencia diseñada para cerrar una brecha de liderazgo** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Ram Charan — *What the CEO Wants You to Know* se utiliza para estudiar **perspectiva de Visión empresarial aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar revisar bench y sucesión periódicamente, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Pipeline no debe convertirse en jerarquía rígida ni sesgar contra carreras expertas. Diseña rutas IC y management con valor comparable cuando el trabajo lo permita.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **leadership passage**, **readiness**, **succession bench**, **critical role** y **development assignment** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **leadership pipeline** no consiste en sumar cinco definiciones. Empieza por **leadership passage**, contrasta **readiness** con **succession bench**, incorpora **critical role** como restricción o mecanismo y usa **development assignment** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear niveles y critical roles → 2. definir work y values por passage → 3. calibrar potencial y readiness → 4. crear assignments y coaching → 5. revisar bench y sucesión periódicamente**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un pipeline mal diseñado produce: **jerarquía rígida** (solo se asciende por una vía), **sesgos** (se favorece a quienes se parecen a los jefes), **inflación de potencial** (todos son «alto potencial»), **desatención de los especialistas** (no hay carrera técnica con valor comparable) y **desánimo** de quienes no están en el banco de talento. Soluciones: rutas **técnicas y gerenciales** de valor comparable cuando el trabajo lo permita, criterios explícitos y calibraciones cruzadas, comunicación honesta sobre desarrollo para todos y reglas para que las personas puedan **postular** a oportunidades. Y se mide la **calidad de las promociones**: porcentaje de promovidos que logran el desempeño esperado a los 12 y 24 meses.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **leadership pipeline** ayuda a desafiar? |
-| Matt Mochary — *The Great CEO Within* | sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo | ¿Qué supuesto de **leadership pipeline** ayuda a desafiar? |
-| Larry Bossidy & Ram Charan — *Execution* | disciplina de ejecución, personas, estrategia y operaciones | ¿Qué supuesto de **leadership pipeline** ayuda a desafiar? |
-| Michael D. Watkins — *The First 90 Days* | perspectiva de Transiciones aplicada al problema de la clase | ¿Qué supuesto de **leadership pipeline** ayuda a desafiar? |
-| Ram Charan — *What the CEO Wants You to Know* | perspectiva de Visión empresarial aplicada al problema de la clase | ¿Qué supuesto de **leadership pipeline** ayuda a desafiar? |
-
-En **leadership pipeline**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **leadership passage**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Charan, Drotter y Noel | Pasajes de liderazgo con habilidades, tiempo y valores. | Modelo general; hay que adaptarlo a cada empresa. | ¿Qué cambia en este pasaje? |
+| Gabarro | Cómo toman el mando los ejecutivos y qué aprenden. | Casos de su época. | ¿Qué tiempo necesita esta persona para aprender? |
+| Botelho, Powell y Raz | Conductas asociadas al éxito de los CEO y mitos sobre el perfil. | Estudio de una consultora con sus propios datos. | ¿Evaluamos conductas o estereotipos? |
+| Kegan y Lahey | Compromisos ocultos que frenan el cambio personal. | Exige tiempo y apertura. | ¿Qué le impide a esta persona cambiar? |
+| Mankins y Garton | Atención del equipo directivo al talento. | Estudios agregados. | ¿Cuánto tiempo dedicamos al talento? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** La empresa promueve a su mejor vendedor a gerente. Continúa cerrando deals personalmente, evita coaching y su equipo pierde a dos ejecutivos fuertes.
+**Situación (hipotética).** Una empresa de 3.500 personas tiene 48 cargos críticos. Su rotación en esos cargos es del 12 % anual: 48 × 0,12 = 5,76 vacantes por año. El diagnóstico muestra: 14 cargos (29,2 %) tienen al menos un sucesor listo ahora; 31 (64,6 %) tienen al menos un sucesor listo en dos años; el tiempo medio para cubrir un cargo crítico con un candidato externo es 5,2 meses y con uno interno 1,8 meses; el costo de una vacante crítica es de unos 2,1 millones de pesos por mes; la búsqueda externa cuesta 36 millones por cargo; la tasa de fracaso de las contrataciones externas en cargos críticos es 30 % y la de las internas 15 %; y el costo de un fracaso en un cargo crítico se estima en 180 millones.
 
-**Paso 1 — mapear niveles y critical roles.** La gerencia escribe primero el supuesto asociado a **leadership passage** y evita convertirlo en hecho. Luego busca **critical-role coverage** para contrastarlo en el caso de **leadership pipeline**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Meta del programa.** Pasar la cobertura de sucesores listos ahora de 29,2 % a 70 % en dos años, con un costo de 120 millones al año (asignaciones, coaching y gestión).
 
-**Paso 2 — definir work y values por passage.** La gerencia escribe primero el supuesto asociado a **readiness** y evita convertirlo en hecho. Luego busca **ready-now successors** para contrastarlo en el caso de **leadership pipeline**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cálculo.**
 
-**Paso 3 — calibrar potencial y readiness.** La gerencia escribe primero el supuesto asociado a **succession bench** y evita convertirlo en hecho. Luego busca **time-to-fill** para contrastarlo en el caso de **leadership pipeline**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+1. Vacantes anuales: 5,76. Con 29,2 % de cobertura, cubiertas internamente: 5,76 × 0,292 ≈ 1,68. Con 70 %: 5,76 × 0,70 ≈ 4,03. Vacantes adicionales cubiertas de forma interna: 5,76 × (0,70 − 0,2917) ≈ 2,35.
+2. Ahorro por cada cobertura interna adicional:
+   - tiempo de vacancia: (5,2 − 1,8) × 2,1 = 3,4 × 2,1 = 7,14 millones;
+   - costo de búsqueda evitado: 36 millones;
+   - menor costo esperado de fracaso: (0,30 − 0,15) × 180 = 27 millones.
+   - Total por cobertura: 7,14 + 36 + 27 = 70,14 millones.
+3. Beneficio anual: 2,35 × 70,14 ≈ 165 millones.
+4. Relación beneficio/costo: 165 ÷ 120 ≈ 1,4.
 
-**Paso 4 — crear assignments y coaching.** La gerencia escribe primero el supuesto asociado a **critical role** y evita convertirlo en hecho. Luego busca **promotion success** para contrastarlo en el caso de **leadership pipeline**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** El programa se justifica con holgura moderada, y no incluye beneficios no cuantificados (retención, conocimiento de la cultura, motivación). La conclusión depende de supuestos inciertos, como la tasa de fracaso; se prueba con sensibilidad: si el costo de fracaso fuera 100 millones, el ahorro por cobertura sería 7,14 + 36 + 15 = 58,14 millones y el beneficio 2,35 × 58,14 ≈ 136,6 millones (relación 1,1).
 
-**Paso 5 — revisar bench y sucesión periódicamente.** La gerencia escribe primero el supuesto asociado a **development assignment** y evita convertirlo en hecho. Luego busca **development progress** para contrastarlo en el caso de **leadership pipeline**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Diseño del pipeline.** Perfiles por pasaje (con trabajo, tiempo y valores); inventario de 48 cargos críticos; calibración entre áreas de potencial y preparación con evidencias; 20 asignaciones de desarrollo al año con objetivos de aprendizaje; revisión semestral del equipo directivo; rutas técnica y gerencial de valor comparable para especialistas; y reglas de postulación abierta.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **leadership pipeline**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Indicadores.** Cobertura con sucesor listo ahora; cargos críticos con dos sucesores a dos años; tiempo medio de cobertura; porcentaje de promovidos con buen desempeño a 12 y 24 meses; rotación voluntaria de personas en el banco; diversidad del banco frente a la de la población.
+
+**Cuidados.** La información sobre potencial se trata con confidencialidad; las decisiones de promoción, traslado o salida respetan la normativa laboral y de protección de datos, que se verifica con asesoría; las cifras son ilustrativas.
+
+**Qué muestra.** (1) La cobertura se midió por cargos críticos. (2) El caso de negocio se calculó y se probó con sensibilidad. (3) El diseño cuidó la ruta técnica y las revisiones.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **leadership passage** | transición a un nivel con nuevas responsabilidades y valores | Cuando critical-role coverage es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **readiness** | grado de preparación para ejecutar trabajo del siguiente nivel | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Pipeline frente a plan de sucesión del CEO.** El pipeline atiende a todos los niveles y cargos críticos; la sucesión del CEO es un proceso del directorio (clase 203). El primero alimenta al segundo.
 
-**Frontera de aplicación:** Pipeline no debe convertirse en jerarquía rígida ni sesgar contra carreras expertas. Diseña rutas IC y management con valor comparable cuando el trabajo lo permita.
+**Límites.** El pipeline no debe convertirse en una jerarquía rígida ni sesgar contra carreras expertas. Los modelos de pasajes son generales; las empresas con estructuras planas necesitan adaptarlos. Los estudios sobre CEO provienen de datos de una consultora. Las estimaciones de costos de vacancia y de fracaso son aproximadas. Las cifras del ejemplo son ilustrativas.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre leadership pipeline |
+| Nivel | Cómo participa en el pipeline |
 |---|---|
-| **Profesional** | usa **leadership pipeline** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **leadership passage** y **readiness** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta critical-role coverage con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si leadership pipeline cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de leadership pipeline reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **leadership pipeline** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Pide retroalimentación y asignaciones que amplíen su alcance. |
+| **Jefe / Team Lead** | Aprende a lograr resultados con otros y desarrolla a su gente. |
+| **Gerente** | Selecciona y evalúa líderes; mantiene sucesores en su equipo. |
+| **CEO / Director** | Dedica tiempo al talento, decide asignaciones y vigila la cobertura. |
+| **Founder / Owner** | Acepta que otros lideren y prepara el relevo de la empresa. |
 
 ## 🏢 Caso ejecutivo
 
-La empresa promueve a su mejor vendedor a gerente. Continúa cerrando deals personalmente, evita coaching y su equipo pierde a dos ejecutivos fuertes.
+Una empresa de servicios con 2.800 personas tiene 36 cargos críticos y un historial de promociones por desempeño técnico. En dos años: 9 gerentes promovidos recientemente, 4 han tenido un desempeño inferior al esperado y 3 dejaron la empresa; dos directores se retiran en seis meses sin sucesores listos; para cubrir uno de ellos se contrató a un externo que se fue a los ocho meses. La evaluación de potencial se hace por cada jefe sin calibración: el 41 % de las personas están clasificadas como «alto potencial», con una mayoría de hombres de las mismas áreas. Los especialistas técnicos de alto valor se quejan de que «para ganar más hay que dirigir gente». Una gerente de datos, con excelente desempeño y poco interés en gestionar equipos, está pensando en irse. El directorio pregunta cuál es la cobertura de sucesores y el gerente de personas no puede responder con datos.
 
-Entrega un **decision brief de leadership pipeline** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diseño del pipeline** que contenga: (a) los perfiles de pasajes con trabajo, tiempo y valores; (b) el inventario de cargos críticos con cobertura y riesgos; (c) el proceso de evaluación de potencial y preparación con calibración y control de sesgos; (d) las asignaciones de desarrollo, el acompañamiento y la ruta técnica; (e) el caso de negocio con cálculos y sensibilidad; (f) los indicadores, las revisiones y las verificaciones laborales y de protección de datos.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **leadership pipeline** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear niveles y critical roles → 2. definir work y values por passage → 3. calibrar potencial y readiness → 4. crear assignments y coaching → 5. revisar bench y sucesión periódicamente** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta critical-role coverage, ready-now successors; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Describe el cambio de trabajo, de uso del tiempo y de valores en un pasaje de tu empresa.
+2. Lista tus diez cargos más críticos y señala la cobertura de sucesores de cada uno.
+3. Diseña una escala de preparación con evidencias observables.
+4. Propone tres asignaciones de desarrollo con objetivos de aprendizaje para una persona.
+5. Diseña una ruta técnica con valor comparable para un especialista.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar leadership passage y readiness como sinónimos | Se pierde la distinción entre “transición a un nivel con nuevas responsabilidades y valores” y “grado de preparación para ejecutar trabajo del siguiente nivel” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar bench y sucesión periódicamente” | Se saltó “mapear niveles y critical roles” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear niveles y critical roles → 2. definir work y values por passage → 3. calibrar potencial y readiness → 4. crear assignments y coaching → 5. revisar bench y sucesión periódicamente y marca el primer supuesto no demostrado. |
-| Optimizar solo critical-role coverage | La métrica local sustituyó al resultado del sistema | Contrástala con ready-now successors y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre leadership pipeline | Pipeline no debe convertirse en jerarquía rígida ni sesgar contra carreras expertas. Diseña rutas IC y management con valor comparable cuando el trabajo lo permita. |
-| No fijar revisión | Una decisión sobre leadership pipeline se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Promover por pericia técnica | Es la señal más visible | Evaluar preparación para el nuevo trabajo y valores. |
+| Todos son «alto potencial» | Cada jefe evalúa por sí solo | Calibración entre áreas y criterios explícitos. |
+| Pipeline como jerarquía rígida | Se busca orden | Rutas técnicas y reglas de postulación. |
+| Sin sucesores listos | No se mira el banco | Cobertura de cargos críticos y planes. |
+| Asignaciones sin aprendizaje | Se mide solo el resultado | Objetivos de aprendizaje y acompañamiento. |
+| Información sin cuidado | Se comparte con ligereza | Confidencialidad y verificación normativa. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **leadership passage** y **readiness** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **succession bench** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear niveles y critical roles → definir work y values por passage** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **critical-role coverage** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **leadership pipeline**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Pipeline no debe convertirse en jerarquía rígida ni sesgar contra carreras expertas. Diseña rutas IC y management con valor comparable cuando el trabajo lo permita.**?
+1. ¿Qué cambia en un pasaje de liderazgo según Charan, Drotter y Noel?
+2. ¿Qué es un cargo crítico y cómo se mide la cobertura?
+3. ¿Qué diferencia hay entre preparación y potencial?
+4. ¿Qué conductas destacan Botelho y colaboradores en CEO exitosos?
+5. ¿Qué papel tienen las asignaciones de desarrollo?
+6. ¿Qué defectos suelen tener los pipelines?
+7. ¿Qué límites tiene el pipeline como modelo?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Las habilidades, la asignación del tiempo y los valores de trabajo.
+2. Un cargo cuya vacancia o mal desempeño afecta gravemente a la empresa; se mide por la proporción con sucesores listos ahora y con sucesores preparados a dos años.
+3. La preparación es la capacidad actual de asumir el nivel siguiente; el potencial es la capacidad de crecer hasta niveles superiores en el tiempo.
+4. Decidir con rapidez y convicción, comprometerse con las partes interesadas para adaptarse, entregar de forma confiable y adaptarse con audacia.
+5. Hacen crecer a las personas por experiencia de mayor complejidad, con objetivos de aprendizaje y acompañamiento.
+6. Jerarquía rígida, sesgos, inflación de potencial, desatención de especialistas y desánimo de quienes no están en el banco.
+7. Los modelos son generales; los estudios provienen de datos específicos; las estimaciones de costos son aproximadas; no debe sesgar contra carreras expertas.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/201-leadership-pipeline/`:
 
-- `commercial-decision-brief.md` con el problema específico de **leadership pipeline**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **leadership pipeline** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **leadership passage**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **La empresa promueve a su mejor vendedor a gerente. Continúa cerrando deals personalmente, evita coaching y su equipo pierde a dos ejecutivos fuertes.** y el dato que podría invalidar la recomendación.
+- `commercial-decision-brief.md` (plantilla [Commercial decision brief](../../../../templates/commercial-decision-brief.md)) con el caso de negocio del pipeline;
+- `role-scorecard.md` (plantilla [Role scorecard](../../../../templates/role-scorecard.md)) con los perfiles de pasajes y de cargos críticos;
+- `decision-journal.md` con el inventario de cobertura, la calibración y las revisiones.
 
 ## 📗 Fuentes y verificación
 
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **leadership pipeline**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Matt Mochary — *The Great CEO Within* (Mochary Films, 2019). **Uso en esta clase:** sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo. Lectura selectiva sobre **leadership pipeline**. **Localizador:** [ISBN-13 9780578599281](https://openlibrary.org/isbn/9780578599281).
-- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva sobre **leadership pipeline**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
-- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** perspectiva de Transiciones aplicada al problema de la clase. Lectura selectiva sobre **leadership pipeline**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
-- Ram Charan — *What the CEO Wants You to Know* (Crown, 2001). **Uso en esta clase:** perspectiva de Visión empresarial aplicada al problema de la clase. Lectura selectiva sobre **leadership pipeline**. **Localizador:** [ISBN-13 9780609504239](https://openlibrary.org/isbn/9780609504239).
-- Richard Rumelt — *Good Strategy/Bad Strategy* (Profile Books, 2011). **Uso en esta clase:** diagnóstico, política guía y acciones coherentes. Lectura selectiva sobre **leadership pipeline**. **Localizador:** [ISBN-13 9781846684807](https://openlibrary.org/isbn/9781846684807).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **leadership pipeline** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **leadership pipeline**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **leadership pipeline** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **leadership pipeline** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **leadership pipeline** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* (Jossey-Bass, 2000). **Uso en esta clase:** pasajes de liderazgo con habilidades, tiempo y valores. Lectura selectiva sobre **leadership pipeline**. **Localizador:** [ISBN-13 9780787951726](https://openlibrary.org/isbn/9780787951726).
+- John J. Gabarro — *The Dynamics of Taking Charge* (Harvard Business School Press, 1987). **Uso en esta clase:** cómo toman el mando los ejecutivos. Lectura selectiva sobre **leadership pipeline**. **Localizador:** [ISBN-13 9780875841373](https://openlibrary.org/isbn/9780875841373).
+- Elena L. Botelho, Kim R. Powell & Tahl Raz — *The CEO Next Door* (Currency, 2018). **Uso en esta clase:** conductas asociadas al éxito de los CEO. Lectura selectiva sobre **leadership pipeline**. **Localizador:** [ISBN-13 9781101906491](https://openlibrary.org/isbn/9781101906491).
+- Robert Kegan & Lisa Laskow Lahey — *Immunity to Change* (Harvard Business Press, 2009). **Uso en esta clase:** compromisos ocultos que frenan el cambio personal. Lectura selectiva sobre **leadership pipeline**. **Localizador:** [ISBN-13 9781422117361](https://openlibrary.org/isbn/9781422117361).
+- Michael C. Mankins & Eric Garton — *Time, Talent, Energy* (Harvard Business Review Press, 2017). **Uso en esta clase:** atención del equipo directivo al talento. Lectura selectiva sobre **leadership pipeline**. **Localizador:** [ISBN-13 9781633691766](https://openlibrary.org/isbn/9781633691766).
 
-> **Regla de fuentes para Leadership pipeline:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **leadership pipeline** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Leadership pipeline:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las normas laborales y de protección de datos aplicables a la evaluación de personas. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

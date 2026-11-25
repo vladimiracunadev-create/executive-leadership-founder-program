@@ -5,222 +5,190 @@
 <!-- nav:fin -->
 
 **Parte:** 06 — Proyectos, Agile y entrega  
-**Nivel:** Etapa 2 — Jefe → Manager  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-La gobernanza de proyecto define quién decide alcance, presupuesto, riesgos y excepciones. Stakeholders no necesitan el mismo nivel de participación; el diseño debe reservar decisiones a roles legítimos y crear escalamiento antes de que el proyecto dependa de influencia informal.
+Un proyecto técnicamente bien ejecutado puede fracasar por razones que no están en el cronograma: un interesado influyente que no fue consultado, una decisión que nadie sabía a quién correspondía, un comité que se reúne cuando el problema ya es irreversible. **Gobernar un proyecto** es decidir quién decide qué, con qué información, con qué frecuencia y con qué límites; y **gestionar a los interesados** es entender quiénes pueden afectar o ser afectados y relacionarse con ellos según su poder, legitimidad y urgencia.
 
-La salida de esta parte es **entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **stakeholders y gobernanza de proyecto** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase integra el mapa de interesados de la clase 034 (Mitchell, Agle y Wood) con los procesos del PMBOK sobre interesados y la exposición de Kerzner sobre gobernanza. Al terminar sabrás diseñar la estructura de decisión de un proyecto, definir tolerancias que determinen cuándo escalar, planificar el compromiso con los interesados y mantener informados a quienes deciden.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `sponsor`, `steering committee`, `change authority`, `escalation path`, `stakeholder engagement` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. mapear decisiones críticas → 2. asignar sponsor y autoridades → 3. definir tolerancias de costo, alcance y tiempo → 4. establecer foros y pre-reads → 5. escalar solo excepciones** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** decisiones sin owner, tiempo de escalamiento, changes aprobados sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Identificar** y clasificar a los interesados de un proyecto con poder, legitimidad y urgencia.
+2. **Diseñar** una estructura de gobernanza con roles, foros y frecuencias.
+3. **Definir** tolerancias de plazo, costo y alcance que determinen cuándo se escala.
+4. **Planificar** el compromiso y la comunicación con cada interesado.
+5. **Preparar** informes que permitan decidir y no solo informar.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define sponsor y steering committee sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con decisiones sin owner y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda una decisión de un proyecto que se demoró porque «no se sabía a quién le tocaba». |
+| 20–60 min | Gobernanza, tolerancias, interesados e informes. |
+| 60–105 min | Ejemplo trabajado: la estructura de decisión de un proyecto de 12 meses. |
+| 105–140 min | Caso ejecutivo: un comité que bloquea. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **sponsor** | ejecutivo accountable por propósito, apoyo y decisiones de alto nivel | Distingue un hecho compatible y otro que lo refute. |
-| **steering committee** | foro de gobernanza para decisiones y excepciones | Distingue un hecho compatible y otro que lo refute. |
-| **change authority** | rol autorizado para aceptar cambios | Distingue un hecho compatible y otro que lo refute. |
-| **escalation path** | ruta predefinida para decisiones fuera de tolerancia | Distingue un hecho compatible y otro que lo refute. |
-| **stakeholder engagement** | participación proporcional a poder e impacto | Distingue un hecho compatible y otro que lo refute. |
+| **Gobernanza de proyecto** | Marco de roles, decisiones, foros e información con que se dirige y controla un proyecto (Kerzner, 2017). | Se sabe quién decide qué. |
+| **Patrocinador** | Quien justifica el proyecto, provee los recursos y decide sobre su continuidad. | Tiene autoridad sobre el caso de negocio. |
+| **Comité de dirección** | Foro de decisión sobre cambios que superan la autoridad del jefe de proyecto. | Se reúne con frecuencia definida y decide. |
+| **Tolerancia** | Margen de plazo, costo o alcance dentro del cual el jefe de proyecto puede decidir sin escalar. | Está escrita al inicio. |
+| **Interesado (stakeholder)** | Persona o grupo que puede afectar o ser afectado por el proyecto (PMI, PMBOK). | Se puede nombrar qué le ocurre o qué puede hacer. |
+| **Prominencia** | Grado de prioridad que los directivos dan a un interesado según su poder, legitimidad y urgencia (Mitchell et al., 1997). | Determina la atención. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 081: 1. mapear decisiones críticas → 2. asignar sponsor y autoridades → 3. definir tolerancias de costo, alcance y tiempo → 4. establecer foros y pre-reads → 5. escalar solo excepciones](modelo-mental.svg)
+![Quién decide qué en un proyecto según el tamaño del cambio: el equipo, el jefe de proyecto, el comité de dirección y el patrocinador.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear decisiones críticas → 2. asignar sponsor y autoridades → 3. definir tolerancias de costo, alcance y tiempo → 4. establecer foros y pre-reads → 5. escalar solo excepciones
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **La gobernanza de proyecto define quién decide alcance, presupuesto, riesgos y excepciones. Stakeholders no necesitan el mismo nivel de participación; el diseño debe reservar decisiones a roles legítimos y crear escalamiento antes de que el proyecto dependa de influencia informal.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Governance excesivo ralentiza decisiones y transfiere responsabilidad al comité. Diseña niveles proporcionales al tamaño, riesgo e irreversibilidad.**
+**Cómo leer el diagrama.** Cuatro niveles de decisión, de abajo hacia arriba. Cada uno decide lo que cabe en su **tolerancia** y escala lo que la excede: el equipo decide el cómo; el jefe de proyecto, los cambios menores; el comité, los que afectan a otros proyectos o superan las tolerancias; el patrocinador, el caso de negocio y la continuidad. Sin tolerancias escritas, todo se escala o nada se escala.
 
 ## 📖 Desarrollo
 
-### 1. sponsor: mecanismo central
+### 1. Gobernanza: quién decide qué
 
-**sponsor** se entiende aquí como **ejecutivo accountable por propósito, apoyo y decisiones de alto nivel**. Esta es la pieza causal o estructural desde la que se inicia **stakeholders y gobernanza de proyecto**: antes de mapear decisiones críticas, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La gobernanza no es burocracia: es la respuesta a la pregunta «¿quién decide esto?». Un proyecto sin gobernanza clara decide lento, por los pasillos o por quien presiona más. Una estructura mínima: un **patrocinador** que responde por el beneficio; un **comité de dirección** de pocas personas con autoridad; un **jefe de proyecto** responsable de la ejecución; y el **equipo**. Se define por escrito qué decide cada uno y con qué información. Kerzner subraya que la gobernanza efectiva requiere roles claros, criterios de decisión y revisiones regulares.
 
-La lectura rectora de este bloque es Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*. Su aporte se usa para examinar **gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **decisiones sin owner**; regístrala con periodo, unidad, población y baseline.
+### 2. Tolerancias y escalamiento
 
-Relaciona el mecanismo con **steering committee**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Una **tolerancia** es el margen dentro del cual un nivel puede decidir sin consultar: «el jefe de proyecto puede aprobar cambios de hasta 5 días o USD 5.000; más allá, lo decide el comité». Con tolerancias, el escalamiento es predecible: no se consulta por todo, y lo grave llega a quien corresponde. Se definen al inicio, con el patrocinador, para plazo, costo, alcance, calidad y riesgo. Si el proyecto cambia de contexto, se renegocian.
 
-### 2. steering committee: frontera conceptual y error de clasificación
+### 3. Foros y frecuencia
 
-**Definición operacional:** foro de gobernanza para decisiones y excepciones. Su valor está en distinguirlo de **sponsor** y **change authority**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La frecuencia se ajusta al ritmo del proyecto: el **equipo** se coordina a diario o semanalmente; el **jefe de proyecto** informa al patrocinador cada dos semanas; el **comité** se reúne mensualmente o en hitos. Las reuniones de gobierno deben ser **reuniones de decisión** (clase 056): con una agenda de decisiones, materiales previos y registro. Un comité que solo escucha informes de avance no gobierna.
 
-Contrasta el problema con Harold Kerzner — *Project Management*, que aporta una mirada sobre **integración de proyectos, control, madurez y alineación organizacional**. Formula dos mini-casos: uno que sí satisface la definición de **steering committee** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **tiempo de escalamiento** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Identificar interesados
 
-Antes de asignar sponsor y autoridades, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+El PMBOK propone identificar a todas las personas y grupos que pueden afectar o ser afectados por el proyecto: patrocinador, usuarios, áreas que dependen del resultado, proveedores, reguladores, equipos que prestan recursos, y quienes serán afectados negativamente. Una técnica: preguntar a cada persona «¿a quién más deberíamos considerar?». Se registran con su interés, su influencia y su posición actual frente al proyecto (apoyo, neutralidad, resistencia).
 
-### 3. change authority: operacionalización y medición
+### 5. Clasificar y relacionarse
 
-**change authority** significa **rol autorizado para aceptar cambios**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Mitchell, Agle y Wood (clase 034) ofrecen un criterio para clasificar: **poder**, **legitimidad** y **urgencia**. Un interesado definitivo (los tres atributos) exige atención inmediata; uno dominante, un cauce regular; uno dependiente necesita que se proteja su voz. Para cada interesado importante se planifica el **compromiso**: qué necesita saber, qué se necesita de él, quién se relaciona, con qué frecuencia y por qué canal. La relación con las autoridades y reguladores sigue la regla de coherencia entre lo que se les dice y lo que se dice a los demás.
 
-Ken Schwaber & Jeff Sutherland — *The Scrum Guide* orienta este bloque mediante **empirismo, transparencia, inspección y adaptación**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **changes aprobados**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Informar para decidir
 
-Al llegar a definir tolerancias de costo, alcance y tiempo, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Un informe de gobierno útil responde cuatro preguntas: **¿dónde estamos?** (avance contra plan y resultados), **¿qué cambió?** (riesgos, cambios, supuestos), **¿qué decisión se necesita y de quién?** y **¿qué ocurrirá si no se decide?** Se usan pocos indicadores con semáforos con **criterio** definido (verde dentro de tolerancia, ámbar en riesgo, rojo fuera). Los informes ocultan la verdad cuando todo es verde hasta que de pronto es rojo: se premia la transparencia temprana (clase 042).
 
-### 4. escalation path: trade-offs y efectos de segundo orden
+### 7. Cambios de patrocinador y cierre
 
-**Definición:** ruta predefinida para decisiones fuera de tolerancia. Este concepto obliga a abandonar la idea de que **stakeholders y gobernanza de proyecto** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de establecer foros y pre-reads, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Eliyahu M. Goldratt & Jeff Cox — *The Goal* aporta una lente sobre **restricciones, throughput, inventario y pensamiento de flujo**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **reuniones sin decisión** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **stakeholders y gobernanza de proyecto**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **escalation path** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. stakeholder engagement: gobernanza, límites e integración
-
-**stakeholder engagement** se define como **participación proporcional a poder e impacto** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Gene Kim et al. — *The Phoenix Project* se utiliza para estudiar **perspectiva de Operaciones tecnológicas aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar escalar solo excepciones, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Governance excesivo ralentiza decisiones y transfiere responsabilidad al comité. Diseña niveles proporcionales al tamaño, riesgo e irreversibilidad.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **sponsor**, **steering committee**, **change authority**, **escalation path** y **stakeholder engagement** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **stakeholders y gobernanza de proyecto** no consiste en sumar cinco definiciones. Empieza por **sponsor**, contrasta **steering committee** con **change authority**, incorpora **escalation path** como restricción o mecanismo y usa **stakeholder engagement** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear decisiones críticas → 2. asignar sponsor y autoridades → 3. definir tolerancias de costo, alcance y tiempo → 4. establecer foros y pre-reads → 5. escalar solo excepciones**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Los proyectos largos enfrentan cambios de patrocinador, de prioridades o de contexto. La gobernanza debe prever cómo se **revalida el caso de negocio**: periódicamente se pregunta si el beneficio sigue justificando el costo, y se está dispuesto a detenerlo si no (clase 083). Al cierre, se verifica la **aceptación**, se transfiere a la operación, se libera al equipo y se hace una revisión sin culpas. Un cierre formal evita proyectos zombi que consumen recursos sin decisión.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* | gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor | ¿Qué supuesto de **stakeholders y gobernanza de proyecto** ayuda a desafiar? |
-| Harold Kerzner — *Project Management* | integración de proyectos, control, madurez y alineación organizacional | ¿Qué supuesto de **stakeholders y gobernanza de proyecto** ayuda a desafiar? |
-| Ken Schwaber & Jeff Sutherland — *The Scrum Guide* | empirismo, transparencia, inspección y adaptación | ¿Qué supuesto de **stakeholders y gobernanza de proyecto** ayuda a desafiar? |
-| Eliyahu M. Goldratt & Jeff Cox — *The Goal* | restricciones, throughput, inventario y pensamiento de flujo | ¿Qué supuesto de **stakeholders y gobernanza de proyecto** ayuda a desafiar? |
-| Gene Kim et al. — *The Phoenix Project* | perspectiva de Operaciones tecnológicas aplicada al problema de la clase | ¿Qué supuesto de **stakeholders y gobernanza de proyecto** ayuda a desafiar? |
-
-En **stakeholders y gobernanza de proyecto**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **sponsor**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Kerzner (2017) | Gobernanza, roles y control de proyectos. | Escrita para grandes organizaciones. | ¿Quién decide cada cosa en tu proyecto? |
+| PMI, PMBOK | Procesos de identificar y gestionar a los interesados. | Su enfoque es de proyectos planificados. | ¿Qué interesados faltan en tu registro? |
+| Mitchell, Agle y Wood (1997) | Clasificación por poder, legitimidad y urgencia. | No dice qué decir a cada uno. | ¿Quién es dependiente y puede quedar sin voz? |
+| Edmondson (2018) | Seguridad para reportar problemas a tiempo. | No trata de estructuras de decisión. | ¿Qué cuesta reportar un riesgo? |
+| Flyvbjerg y Gardner (2023) | Fallas de gobernanza en grandes proyectos. | Se centra en gran escala. | ¿Se revalida el caso de negocio? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un proyecto cruza cinco áreas. Todos pueden pedir cambios, nadie puede rechazarlos y el PM intenta negociar individualmente cada solicitud.
+**Situación (hipotética).** Un proyecto de implantación de un sistema, de 12 meses y USD 1,2 millones.
 
-**Paso 1 — mapear decisiones críticas.** La gerencia escribe primero el supuesto asociado a **sponsor** y evita convertirlo en hecho. Luego busca **decisiones sin owner** para contrastarlo en el caso de **stakeholders y gobernanza de proyecto**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Nivel | Decide | Tolerancia / foro |
+|---|---|---|
+| **Patrocinador** (director general) | Continuidad, cambios en el caso de negocio, recursos adicionales. | Reunión trimestral de revalidación. |
+| **Comité de dirección** (cuatro directores) | Cambios que superan las tolerancias o afectan a otras áreas. | Mensual, reunión de decisión con agenda y registro. |
+| **Jefa de proyecto** | Cambios hasta 5 días o USD 15.000, sin afectar el alcance acordado. | Informe quincenal con semáforos. |
+| **Equipo** | Cómo se hace el trabajo. | Coordinación semanal. |
 
-**Paso 2 — asignar sponsor y autoridades.** La gerencia escribe primero el supuesto asociado a **steering committee** y evita convertirlo en hecho. Luego busca **tiempo de escalamiento** para contrastarlo en el caso de **stakeholders y gobernanza de proyecto**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Interesados.** Patrocinador (definitivo); directores de áreas usuarias (dominantes: tienen poder y legitimidad); el regulador (dominante); los usuarios finales (dependientes: legitimidad y urgencia, sin poder, por lo que se prevé un grupo de usuarios con voz); el proveedor (dominante sobre los plazos).
 
-**Paso 3 — definir tolerancias de costo, alcance y tiempo.** La gerencia escribe primero el supuesto asociado a **change authority** y evita convertirlo en hecho. Luego busca **changes aprobados** para contrastarlo en el caso de **stakeholders y gobernanza de proyecto**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Informe quincenal.** Avance 38 % (plan 40 %, ámbar), riesgos nuevos (retraso del proveedor), una decisión pedida al comité (aprobar 8 días más para la integración) y qué ocurre si no se decide (impacto en la fecha de capacitación).
 
-**Paso 4 — establecer foros y pre-reads.** La gerencia escribe primero el supuesto asociado a **escalation path** y evita convertirlo en hecho. Luego busca **reuniones sin decisión** para contrastarlo en el caso de **stakeholders y gobernanza de proyecto**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — escalar solo excepciones.** La gerencia escribe primero el supuesto asociado a **stakeholder engagement** y evita convertirlo en hecho. Luego busca **stakeholder surprises** para contrastarlo en el caso de **stakeholders y gobernanza de proyecto**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **stakeholders y gobernanza de proyecto**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La estructura distingue niveles y tolerancias. (2) Los interesados se clasificaron y se previó la voz de los dependientes. (3) El informe pide una decisión.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **sponsor** | ejecutivo accountable por propósito, apoyo y decisiones de alto nivel | Cuando decisiones sin owner es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **steering committee** | foro de gobernanza para decisiones y excepciones | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Gobernanza frente a control.** La gobernanza distribuye decisiones; el control las concentra. Un exceso de comités ralentiza y desmotiva.
 
-**Frontera de aplicación:** Governance excesivo ralentiza decisiones y transfiere responsabilidad al comité. Diseña niveles proporcionales al tamaño, riesgo e irreversibilidad.
+**Límites.** Las estructuras formales no reemplazan las relaciones con los interesados: se necesita confianza y comunicación informal. La clasificación de interesados es una percepción de quien la hace (clase 034). Un exceso de gobernanza en proyectos pequeños o ágiles es costoso. Y las obligaciones de gobierno de proyectos públicos o regulados pueden estar fijadas por norma, que debe verificarse.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre stakeholders y gobernanza de proyecto |
+| Nivel | Cómo participa en la gobernanza |
 |---|---|
-| **Profesional** | usa **stakeholders y gobernanza de proyecto** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **sponsor** y **steering committee** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta decisiones sin owner con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si stakeholders y gobernanza de proyecto cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de stakeholders y gobernanza de proyecto reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **stakeholders y gobernanza de proyecto** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Reporta riesgos y pide decisiones a quien corresponde. |
+| **Jefe / Team Lead** | Conoce sus tolerancias y escala a tiempo. |
+| **Gerente** | Define estructuras de decisión y evita comités sin autoridad. |
+| **CEO / Director** | Patrocina con criterio y revalida el caso de negocio. |
+| **Founder / Owner** | Decide con pocos foros y deja claro quién decide qué entre socios. |
 
 ## 🏢 Caso ejecutivo
 
-Un proyecto cruza cinco áreas. Todos pueden pedir cambios, nadie puede rechazarlos y el PM intenta negociar individualmente cada solicitud.
+Un proyecto de reestructuración de procesos tiene un comité de 11 personas que se reúne cada dos semanas. Las decisiones se posponen porque «falta alguien»; cada director vota según su área; se reabren decisiones anteriores. El jefe de proyecto no sabe qué puede decidir solo y consulta todo, con lo que el equipo espera. Un regulador pidió información que nadie sabe a quién corresponde responder. El patrocinador está de viaje frecuente.
 
-Entrega un **decision brief de stakeholders y gobernanza de proyecto** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diseño de gobernanza** que contenga: (a) la estructura de decisión con roles y tolerancias; (b) la composición y el reglamento del comité; (c) el mapa de interesados con su clasificación y el plan de compromiso; (d) el formato del informe de gobierno; (e) cómo atenderás al regulador y quién responde; (f) cómo revalidarás el caso de negocio.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **stakeholders y gobernanza de proyecto** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear decisiones críticas → 2. asignar sponsor y autoridades → 3. definir tolerancias de costo, alcance y tiempo → 4. establecer foros y pre-reads → 5. escalar solo excepciones** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta decisiones sin owner, tiempo de escalamiento; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe tres decisiones de tu proyecto y quién las toma.
+2. Define las tolerancias de plazo y costo para el jefe de proyecto.
+3. Lista tus interesados y clasifícalos con poder, legitimidad y urgencia.
+4. Redacta un informe de una página con las cuatro preguntas.
+5. Define qué evidencia te haría pedir detener el proyecto.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar sponsor y steering committee como sinónimos | Se pierde la distinción entre “ejecutivo accountable por propósito, apoyo y decisiones de alto nivel” y “foro de gobernanza para decisiones y excepciones” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “escalar solo excepciones” | Se saltó “mapear decisiones críticas” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear decisiones críticas → 2. asignar sponsor y autoridades → 3. definir tolerancias de costo, alcance y tiempo → 4. establecer foros y pre-reads → 5. escalar solo excepciones y marca el primer supuesto no demostrado. |
-| Optimizar solo decisiones sin owner | La métrica local sustituyó al resultado del sistema | Contrástala con tiempo de escalamiento y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre stakeholders y gobernanza de proyecto | Governance excesivo ralentiza decisiones y transfiere responsabilidad al comité. Diseña niveles proporcionales al tamaño, riesgo e irreversibilidad. |
-| No fijar revisión | Una decisión sobre stakeholders y gobernanza de proyecto se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Comité grande sin autoridad | Se quiere incluir a todos | Pocas personas con poder de decisión. |
+| Sin tolerancias | No se negocian al inicio | Escribirlas con el patrocinador. |
+| Informes que no piden decisiones | Se informa por costumbre | Pedir una decisión y su consecuencia. |
+| Semáforo siempre verde | Se teme reportar | Criterios claros y cultura de transparencia. |
+| Olvidar a los dependientes | No tienen poder | Dar voz a quienes tienen legitimidad y urgencia. |
+| No revalidar el caso | Se sigue por inercia | Revisión periódica del beneficio. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **sponsor** y **steering committee** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **change authority** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear decisiones críticas → asignar sponsor y autoridades** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **decisiones sin owner** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **stakeholders y gobernanza de proyecto**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Governance excesivo ralentiza decisiones y transfiere responsabilidad al comité. Diseña niveles proporcionales al tamaño, riesgo e irreversibilidad.**?
+1. ¿Qué responde la gobernanza de un proyecto?
+2. ¿Qué es una tolerancia y para qué sirve?
+3. ¿Qué cuatro niveles de decisión describe la clase?
+4. ¿Cómo se clasifica a un interesado?
+5. ¿Qué cuatro preguntas responde un informe de gobierno?
+6. ¿Por qué se revalida el caso de negocio?
+7. ¿Qué límite tiene la gobernanza formal?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Quién decide qué, con qué información, con qué frecuencia y con qué límites.
+2. Un margen de plazo, costo o alcance dentro del cual un nivel decide sin escalar; hace predecible el escalamiento.
+3. El equipo, el jefe de proyecto, el comité de dirección y el patrocinador.
+4. Por poder, legitimidad y urgencia.
+5. Dónde estamos, qué cambió, qué decisión se necesita y qué ocurre si no se decide.
+6. Para comprobar que el beneficio sigue justificando el costo y detener el proyecto si no.
+7. No reemplaza la confianza y las relaciones, y en exceso ralentiza.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/081-stakeholders-y-gobernanza-de-proyecto/`:
 
-- `leadership-decision-brief.md` con el problema específico de **stakeholders y gobernanza de proyecto**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **stakeholders y gobernanza de proyecto** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **sponsor**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un proyecto cruza cinco áreas. Todos pueden pedir cambios, nadie puede rechazarlos y el PM intenta negociar individualmente cada solicitud.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el diseño del caso ejecutivo;
+- `stakeholder-legitimacy-map.md` (plantilla [mapa de interesados y legitimidad](../../../../templates/stakeholder-legitimacy-map.md)) con los interesados del proyecto;
+- `decision-journal.md` con las tolerancias y las decisiones escaladas.
 
 ## 📗 Fuentes y verificación
 
-- Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* (1996). **Uso en esta clase:** gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor. Lectura selectiva sobre **stakeholders y gobernanza de proyecto**. **Localizador:** [ISBN-13 9781880410127](https://openlibrary.org/isbn/9781880410127).
-- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** integración de proyectos, control, madurez y alineación organizacional. Lectura selectiva sobre **stakeholders y gobernanza de proyecto**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
-- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** empirismo, transparencia, inspección y adaptación. **Fuente primaria:** <https://scrumguides.org/>.
-- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** restricciones, throughput, inventario y pensamiento de flujo. Lectura selectiva sobre **stakeholders y gobernanza de proyecto**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
-- Gene Kim et al. — *The Phoenix Project* (IT Revolution Press, 2018). **Uso en esta clase:** perspectiva de Operaciones tecnológicas aplicada al problema de la clase. Lectura selectiva sobre **stakeholders y gobernanza de proyecto**. **Localizador:** [ISBN-13 9781942788294](https://openlibrary.org/isbn/9781942788294).
-- Michael Hammer & James Champy — *Reengineering the Corporation* (HarperBusiness, 2001). **Uso en esta clase:** perspectiva de Procesos aplicada al problema de la clase. Lectura selectiva sobre **stakeholders y gobernanza de proyecto**. **Localizador:** [ISBN-13 9780066621128](https://openlibrary.org/isbn/9780066621128).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **stakeholders y gobernanza de proyecto** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **stakeholders y gobernanza de proyecto**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **stakeholders y gobernanza de proyecto** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **stakeholders y gobernanza de proyecto** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **stakeholders y gobernanza de proyecto** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** gobernanza, roles y control de proyectos. Lectura selectiva sobre **stakeholders y gobernanza de proyecto**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
+- Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* (1996). **Uso en esta clase:** procesos de identificar y gestionar a los interesados. Lectura selectiva sobre **stakeholders y gobernanza de proyecto**. **Localizador:** [ISBN-13 9781880410127](https://openlibrary.org/isbn/9781880410127).
+- Ronald K. Mitchell, Bradley R. Agle & Donna J. Wood — *Toward a Theory of Stakeholder Identification and Salience: Defining the Principle of Who and What Really Counts* (Academy of Management Review, 1997). **Uso en esta clase:** clasificación de interesados por poder, legitimidad y urgencia. Lectura selectiva sobre **stakeholders y gobernanza de proyecto**. **Localizador:** [DOI 10.2307/259247](https://doi.org/10.2307/259247).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad para reportar problemas a tiempo. Lectura selectiva sobre **stakeholders y gobernanza de proyecto**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
+- Bent Flyvbjerg & Dan Gardner — *How Big Things Get Done* (Currency, 2023). **Uso en esta clase:** fallas de gobernanza en grandes proyectos. Lectura selectiva sobre **stakeholders y gobernanza de proyecto**. **Localizador:** [ISBN-13 9780593239513](https://openlibrary.org/isbn/9780593239513).
 
-> **Regla de fuentes para Stakeholders y gobernanza de proyecto:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **stakeholders y gobernanza de proyecto** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Stakeholders y gobernanza de proyecto:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las exigencias de gobierno de proyectos públicos o regulados. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

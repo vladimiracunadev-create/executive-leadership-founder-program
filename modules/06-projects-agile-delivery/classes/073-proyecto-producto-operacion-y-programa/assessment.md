@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **proyecto** de **producto** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **operación** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **programa** con **portfolio**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué dos rasgos definen un proyecto?
+2. ¿Qué diferencia hay entre un proyecto y un producto?
+3. ¿Por qué la operación no se gestiona con un plan de proyecto?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una compañía financia una plataforma digital como proyecto de nueve meses. Al lanzar, disuelve el equipo aunque el producto necesita aprendizaje, soporte y roadmap continuo.
+**Caso:** Una empresa de servicios lanzó hace dos años el «proyecto de transformación digital» con 14 sub-iniciativas, un presupuesto de USD 3 millones y un director de proyecto. Nunca se cerró: cada trimestre se agregan nuevas iniciativas y el equipo se queja de estar «siempre en modo proyecto». El comité pregunta si «ya terminó» y nadie sabe qué beneficios se lograron. Algunas iniciativas ya operan; otras no se usan.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **clasificar naturaleza del trabajo → definir horizonte y outcome → seleccionar funding y governance → diseñar transición a operación o producto → revisar si la categoría sigue siendo válida**. Debes utilizar o diseñar cómo obtener **proyectos sin cierre, productos financiados como proyectos, handoffs a operación**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **diagnóstico de clasificación** que contenga: (a) la clasificación de cada una de las 14 iniciativas con criterio; (b) qué agruparás en programas y con qué beneficio; (c) qué se cierra, qué pasa a operación y qué se convierte en producto; (d) el gobierno y la medida de éxito de cada grupo; (e) cómo medirás los beneficios; (f) cómo comunicarás el cambio al equipo. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Las categorías pueden coexistir: un producto puede contener proyectos y operar servicios. La clave es no confundir el mecanismo de entrega con el objeto de gestión.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las definiciones del PMI son convenciones útiles, pero las fronteras en la práctica son borrosas y las organizaciones usan los términos de maneras distintas.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

@@ -19,6 +19,7 @@ mismo registro y el resumen del [README](../README.md#-registro-de-fuentes).
 | Organismo | Recurso | URL | Consultado | Estado |
 |---|---|---|---|---|
 | AFC Chile | Seguro de Cesantía: información y operación oficial | <https://www.afc.cl/> | 2026-08-19 | verificada |
+| agilemanifesto.org | Manifesto for Agile Software Development | <https://agilemanifesto.org/> | 2026-11-25 | verificada |
 | Biblioteca del Congreso Nacional de Chile | LeyChile: Código del Trabajo (texto vigente) | <https://www.bcn.cl/leychile/navegar?idNorma=207436> | 2026-08-19 | verificada |
 | Biblioteca del Congreso Nacional de Chile | LeyChile: Código del Trabajo y legislación laboral vigente | <https://www.bcn.cl/leychile/> | 2026-08-19 | verificada |
 | Biblioteca del Congreso Nacional de Chile | LeyChile: Código Tributario y Ley sobre Impuesto a las Ventas y Servicios | <https://www.bcn.cl/leychile/> | 2026-08-19 | verificada |

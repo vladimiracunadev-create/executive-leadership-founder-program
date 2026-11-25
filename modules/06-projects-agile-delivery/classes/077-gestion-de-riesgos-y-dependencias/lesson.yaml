@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Jefe → Manager"
 outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir risk de issue mediante evidencia observable."
-  - "Aplicar la secuencia: identificar riesgos por objetivo → priorizar exposición material → asignar mitigación y contingency → mapear dependencias con fechas y owners → revisar triggers semanalmente."
-  - "Interpretar riesgos vencidos, issues que antes eran riesgos, dependencias sin compromiso sin atribuir causalidad automática."
-  - "Resolver el caso de gestión de riesgos y dependencias con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-deliverable: "risk-governance-brief.md"
+  - "Distinguir riesgo, problema, supuesto y dependencia."
+  - "Identificar riesgos con técnicas simples y en grupo."
+  - "Priorizar por probabilidad e impacto y elegir una respuesta."
+  - "Gestionar dependencias como riesgos con dueño, fecha y consecuencia."
+  - "Mantener el registro vivo con señales de alerta y revisiones."
+deliverable: "risk-register.md"
 references:
+  - "ISO — *ISO 31000 Risk management*"
+  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
   - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
-  - "Harold Kerzner — *Project Management*"
-  - "Gene Kim — *The Unicorn Project*"
-  - "David J. Anderson — *Kanban*"
-  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
-  - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
+  - "Atul Gawande — *The Checklist Manifesto*"
+  - "Bent Flyvbjerg & Dan Gardner — *How Big Things Get Done*"
 limits:
-  - "Un risk register enorme puede ocultar lo material. Distingue riesgos de proyecto de incertidumbre normal y escala los que afectan estrategia, seguridad o compliance."
+  - "Las probabilidades de un registro son juicios y a menudo infravaloran los eventos extremos."
 evidence_signals:
-  - "riesgos vencidos"
-  - "issues que antes eran riesgos"
-  - "dependencias sin compromiso"
-  - "exposición residual"
-  - "contingencias activadas"
+  - "riesgos con probabilidad e impacto"
+  - "dependencias con dueño"
+  - "respuesta definida"
+  - "revisión periódica"

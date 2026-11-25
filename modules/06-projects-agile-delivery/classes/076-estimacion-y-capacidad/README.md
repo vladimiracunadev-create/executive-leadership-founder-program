@@ -5,222 +5,187 @@
 <!-- nav:fin -->
 
 **Parte:** 06 — Proyectos, Agile y entrega  
-**Nivel:** Etapa 2 — Jefe → Manager  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Estimar combina incertidumbre de trabajo, capacidad y variabilidad. Una estimación es una distribución o rango, no una promesa automática. Equipos maduros distinguen effort, duration y throughput, calibran con historia y actualizan forecast a medida que aparece evidencia.
+Las estimaciones de duración y costo fallan con una regularidad que no se explica por mala suerte: casi siempre son **demasiado optimistas**. La investigación psicológica llama a este fenómeno «falacia de la planificación», y los datos de proyectos grandes muestran que el exceso de costo y de plazo no es la excepción sino la regla. Quien estima con la mejor intención hará lo mismo mientras no cambie el método.
 
-La salida de esta parte es **entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **estimación y capacidad** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase usa el estudio de Buehler, Griffin y Ross sobre la falacia de la planificación, el trabajo de Flyvbjerg sobre cómo acertar con los riesgos mediante la visión desde afuera y las propuestas de Mike Cohn sobre estimar y planificar con velocidad en entornos ágiles. Al terminar sabrás estimar en rangos, usar datos de proyectos parecidos, medir la capacidad real de un equipo y comunicar incertidumbre sin que parezca falta de rigor.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `effort`, `duration`, `capacity`, `throughput`, `forecast` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. definir unidad de trabajo → 2. usar datos históricos comparables → 3. estimar rango y confianza → 4. modelar capacidad, dependencias y buffers → 5. actualizar forecast con throughput real** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** error de forecast, throughput, cycle time sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Explicar** la falacia de la planificación y por qué afecta a quienes estiman.
+2. **Aplicar** la visión desde afuera con una clase de referencia.
+3. **Estimar** en rangos con una razón explícita.
+4. **Medir** la capacidad de un equipo y usarla para planificar.
+5. **Comunicar** una estimación con su incertidumbre y sus supuestos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define effort y duration sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con error de forecast y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: estima cuánto te tomará una tarea de la semana y compara luego con lo real. |
+| 20–60 min | Falacia de la planificación, visión desde afuera y capacidad. |
+| 60–105 min | Ejemplo trabajado: estimar un proyecto con tres métodos. |
+| 105–140 min | Caso ejecutivo: una fecha comprometida antes de estimar. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **effort** | trabajo necesario medido en unidades de esfuerzo | Distingue un hecho compatible y otro que lo refute. |
-| **duration** | tiempo calendario desde inicio a fin | Distingue un hecho compatible y otro que lo refute. |
-| **capacity** | trabajo disponible de personas o sistemas por periodo | Distingue un hecho compatible y otro que lo refute. |
-| **throughput** | unidades terminadas por periodo | Distingue un hecho compatible y otro que lo refute. |
-| **forecast** | proyección actualizada basada en datos y supuestos | Distingue un hecho compatible y otro que lo refute. |
+| **Falacia de la planificación** | Tendencia a subestimar el tiempo que tomará una tarea aun sabiendo que tareas similares tomaron más (Buehler et al., 1994). | Las estimaciones suponen que todo saldrá bien. |
+| **Visión desde adentro** | Estimar a partir de los detalles del caso y del plan propio. | Se piensa en los pasos y no en los antecedentes. |
+| **Visión desde afuera** | Estimar a partir de los resultados de proyectos similares (Flyvbjerg, 2006). | Se usa una distribución histórica. |
+| **Clase de referencia** | Conjunto de proyectos comparables usados para estimar el nuevo. | Hay datos de costo y plazo. |
+| **Estimación en rango** | Estimación con un valor mínimo, uno probable y uno máximo. | Expresa incertidumbre. |
+| **Velocidad / rendimiento** | Cantidad de trabajo que un equipo completa por período, medida en la práctica (Cohn, 2005). | Se calcula con datos reales. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 076: 1. definir unidad de trabajo → 2. usar datos históricos comparables → 3. estimar rango y confianza → 4. modelar capacidad, dependencias y buffers → 5. actualizar forecast con throughput real](modelo-mental.svg)
+![Por qué se subestima y cómo corregirlo: a la izquierda la falacia de la planificación, la visión desde adentro y la presión por un número; a la derecha la visión desde afuera, los rangos y la capacidad medida.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir unidad de trabajo → 2. usar datos históricos comparables → 3. estimar rango y confianza → 4. modelar capacidad, dependencias y buffers → 5. actualizar forecast con throughput real
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Estimar combina incertidumbre de trabajo, capacidad y variabilidad. Una estimación es una distribución o rango, no una promesa automática. Equipos maduros distinguen effort, duration y throughput, calibran con historia y actualizan forecast a medida que aparece evidencia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No persigas precisión costosa para trabajo exploratorio. El objetivo de estimar es mejorar decisiones de alcance y fecha, no producir un número aparentemente exacto.**
+**Cómo leer el diagrama.** A la izquierda, las causas de la subestimación; a la derecha, las correcciones que se corresponden. La pareja principal: la **visión desde adentro** (pensar en los pasos del plan) se corrige con la **visión desde afuera** (mirar cómo les fue a otros). La presión por un número y el uso de capacidad deseada, no real, se corrigen con rangos y datos medidos.
 
 ## 📖 Desarrollo
 
-### 1. effort: mecanismo central
+### 1. La falacia de la planificación
 
-**effort** se entiende aquí como **trabajo necesario medido en unidades de esfuerzo**. Esta es la pieza causal o estructural desde la que se inicia **estimación y capacidad**: antes de definir unidad de trabajo, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Buehler, Griffin y Ross estudiaron por qué las personas subestiman cuánto les tomarán tareas, incluso las que ya han hecho. Hallaron que se centran en un **plan** que imaginan sin interrupciones, y que **descartan** la información de experiencias pasadas que contradice ese plan. El optimismo no es ignorancia: es un modo de razonar. Por eso pedir «más cuidado» no basta; se necesita un método distinto.
 
-La lectura rectora de este bloque es Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*. Su aporte se usa para examinar **gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **error de forecast**; regístrala con periodo, unidad, población y baseline.
+### 2. Visión desde adentro y desde afuera
 
-Relaciona el mecanismo con **duration**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Flyvbjerg recoge de Kahneman y Tversky la distinción entre dos vistas. La **visión desde adentro** estima a partir de los detalles del proyecto: sus tareas, su equipo, su plan. La **visión desde afuera** parte de una **clase de referencia**: proyectos similares ya terminados, con su distribución de costos y plazos, y ubica el proyecto nuevo en esa distribución. Flyvbjerg muestra que la segunda reduce el optimismo sistemático y propone ajustar con las características propias solo después.
 
-### 2. duration: frontera conceptual y error de clasificación
+### 3. Cómo usar una clase de referencia
 
-**Definición operacional:** tiempo calendario desde inicio a fin. Su valor está en distinguirlo de **effort** y **capacity**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Pasos: **1)** identificar proyectos comparables, de la propia organización o públicos; **2)** reunir sus datos de plazo y costo reales frente a lo estimado; **3)** calcular la distribución del sobrecosto o retraso; **4)** estimar el proyecto con el método habitual y **5)** ajustar con la distribución: si en proyectos parecidos el plazo real fue en mediana 1,4 veces el estimado, esa es una referencia. Si no hay datos externos, se usan los propios proyectos pasados.
 
-Contrasta el problema con Harold Kerzner — *Project Management*, que aporta una mirada sobre **integración de proyectos, control, madurez y alineación organizacional**. Formula dos mini-casos: uno que sí satisface la definición de **duration** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **throughput** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Estimar en rangos
 
-Antes de usar datos históricos comparables, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Un solo número da una falsa precisión. Una estimación en **rango** expresa tres valores: **mínimo** (si todo sale bien), **probable** y **máximo** (si ocurren los riesgos conocidos), con la razón de cada uno. Facilita la conversación: «lo más probable es seis semanas, con riesgo de diez si la integración con el proveedor se retrasa». Un **compromiso** es otra cosa: es la fecha que se promete, tomada con un margen, y requiere decidir cuánto riesgo se acepta.
 
-### 3. capacity: operacionalización y medición
+### 5. Capacidad y velocidad
 
-**capacity** significa **trabajo disponible de personas o sistemas por periodo**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Cohn propone planificar con la **velocidad** del equipo, la cantidad de trabajo (medida en una unidad relativa) que completa por ciclo, **observada** en ciclos anteriores. Con ella se proyecta cuándo terminará el trabajo restante, usando rangos (la mejor y la peor velocidad reciente). La idea general vale más allá de Agile: planificar con el **rendimiento medido** y no con el deseado, y descontar interrupciones, reuniones, soporte y vacaciones.
 
-Gene Kim et al. — *The Phoenix Project* orienta este bloque mediante **perspectiva de Operaciones tecnológicas aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **cycle time**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Estimar de forma relativa
 
-Al llegar a estimar rango y confianza, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Para trabajo incierto, Cohn recomienda **estimaciones relativas**: comparar elementos entre sí («esto es el doble que aquello») en lugar de predecir horas. Las personas son mejores comparando que prediciendo valores absolutos. Se pueden usar categorías (pequeño, mediano, grande) o una escala de puntos. Las estimaciones las hacen **quienes harán el trabajo**, con discusión de los supuestos, y se calibran con la velocidad real.
 
-### 4. throughput: trade-offs y efectos de segundo orden
+### 7. Comunicar la estimación
 
-**Definición:** unidades terminadas por periodo. Este concepto obliga a abandonar la idea de que **estimación y capacidad** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de modelar capacidad, dependencias y buffers, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Ken Schwaber & Jeff Sutherland — *The Scrum Guide* aporta una lente sobre **empirismo, transparencia, inspección y adaptación**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **capacity utilization** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **estimación y capacidad**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **throughput** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. forecast: gobernanza, límites e integración
-
-**forecast** se define como **proyección actualizada basada en datos y supuestos** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* se utiliza para estudiar **métricas de entrega, capacidades técnicas y desempeño organizacional** y contrastar la recomendación final. Al ejecutar actualizar forecast con throughput real, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No persigas precisión costosa para trabajo exploratorio. El objetivo de estimar es mejorar decisiones de alcance y fecha, no producir un número aparentemente exacto.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **effort**, **duration**, **capacity**, **throughput** y **forecast** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **estimación y capacidad** no consiste en sumar cinco definiciones. Empieza por **effort**, contrasta **duration** con **capacity**, incorpora **throughput** como restricción o mecanismo y usa **forecast** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir unidad de trabajo → 2. usar datos históricos comparables → 3. estimar rango y confianza → 4. modelar capacidad, dependencias y buffers → 5. actualizar forecast con throughput real**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Una estimación sin contexto se convierte en promesa. Al comunicarla, se dicen: el **rango**, los **supuestos** principales, los **riesgos** que podrían cambiarla y **cuándo se actualizará**. Quien decide puede elegir un **nivel de confianza**: «con 80 % de confianza, antes del 15 de octubre». Presionar para obtener un número menor transfiere el riesgo a los demás. Una cultura donde estimar con honestidad es seguro (clase 042) produce mejores planes.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* | gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor | ¿Qué supuesto de **estimación y capacidad** ayuda a desafiar? |
-| Harold Kerzner — *Project Management* | integración de proyectos, control, madurez y alineación organizacional | ¿Qué supuesto de **estimación y capacidad** ayuda a desafiar? |
-| Gene Kim et al. — *The Phoenix Project* | perspectiva de Operaciones tecnológicas aplicada al problema de la clase | ¿Qué supuesto de **estimación y capacidad** ayuda a desafiar? |
-| Ken Schwaber & Jeff Sutherland — *The Scrum Guide* | empirismo, transparencia, inspección y adaptación | ¿Qué supuesto de **estimación y capacidad** ayuda a desafiar? |
-| Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* | métricas de entrega, capacidades técnicas y desempeño organizacional | ¿Qué supuesto de **estimación y capacidad** ayuda a desafiar? |
-
-En **estimación y capacidad**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **effort**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Buehler, Griffin y Ross (1994) | Por qué se subestima la duración de las tareas. | Son estudios de laboratorio y de campo con personas, no con equipos. | ¿Qué experiencias pasadas ignoras al estimar? |
+| Flyvbjerg (2006) | Visión desde afuera y clases de referencia. | Requiere datos comparables. | ¿Qué proyectos parecidos hay para tu clase de referencia? |
+| Cohn (2005) | Estimación relativa y planificación por velocidad. | Nace del desarrollo de software. | ¿Cuál es tu velocidad real? |
+| Flyvbjerg y Gardner (2023) | Datos de grandes proyectos sobre sobrecostos. | Su enfoque es de gran escala. | ¿Qué parte de tu proyecto es de «cola larga»? |
+| Kahneman, Sibony y Sunstein (2021) | Ruido y sesgo en los juicios de estimación. | No es un manual de gestión de proyectos. | ¿Cuánto varían las estimaciones de distintos miembros? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un backlog de 120 ítems se estima en 12 semanas porque diez personas 'harán un ítem por semana'. Los datos históricos muestran variabilidad 2–8 días y trabajo bloqueado por QA.
+**Situación (hipotética).** Un equipo debe estimar un proyecto de migración de un sistema. Su estimación inicial, de tres personas, es de 12 semanas.
 
-**Paso 1 — definir unidad de trabajo.** La gerencia escribe primero el supuesto asociado a **effort** y evita convertirlo en hecho. Luego busca **error de forecast** para contrastarlo en el caso de **estimación y capacidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Método | Resultado |
+|---|---|
+| **Visión desde adentro** | 12 semanas: suma de paquetes de trabajo con confianza. |
+| **Visión desde afuera** | En los últimos seis proyectos de migración de la empresa, el plazo real fue en mediana 1,5 veces el estimado (rango de 1,1 a 2,4). Ajuste: 18 semanas (mediana); 13 a 29 semanas (rango). |
+| **Capacidad medida** | El equipo suele dedicar el 60 % de su tiempo al proyecto, no el 100 % que se asumió. Con 60 %, 12 semanas de trabajo = 20 semanas de calendario. |
 
-**Paso 2 — usar datos históricos comparables.** La gerencia escribe primero el supuesto asociado a **duration** y evita convertirlo en hecho. Luego busca **throughput** para contrastarlo en el caso de **estimación y capacidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Estimación comunicada.** «Más probable: 18 semanas. Con riesgo razonable: hasta 24. El rango depende de la calidad de los datos del sistema antiguo y de la disponibilidad del especialista; se actualizará al terminar las dos primeras semanas.» El patrocinador acepta 18 semanas con un margen y revisión a la semana 2.
 
-**Paso 3 — estimar rango y confianza.** La gerencia escribe primero el supuesto asociado a **capacity** y evita convertirlo en hecho. Luego busca **cycle time** para contrastarlo en el caso de **estimación y capacidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — modelar capacidad, dependencias y buffers.** La gerencia escribe primero el supuesto asociado a **throughput** y evita convertirlo en hecho. Luego busca **capacity utilization** para contrastarlo en el caso de **estimación y capacidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — actualizar forecast con throughput real.** La gerencia escribe primero el supuesto asociado a **forecast** y evita convertirlo en hecho. Luego busca **variance** para contrastarlo en el caso de **estimación y capacidad**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **estimación y capacidad**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La visión desde adentro fue la más optimista. (2) La clase de referencia y la capacidad real convergieron en un plazo más realista. (3) La comunicación incluyó rango, supuestos y actualización.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **effort** | trabajo necesario medido en unidades de esfuerzo | Cuando error de forecast es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **duration** | tiempo calendario desde inicio a fin | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Estimación frente a compromiso.** La estimación describe lo que se espera; el compromiso es una decisión sobre qué prometer. Mezclarlos produce promesas que nadie puede cumplir.
 
-**Frontera de aplicación:** No persigas precisión costosa para trabajo exploratorio. El objetivo de estimar es mejorar decisiones de alcance y fecha, no producir un número aparentemente exacto.
+**Límites.** Las clases de referencia requieren proyectos comparables y datos fiables; si no existen, la visión desde afuera es débil. La estimación relativa y la velocidad dependen de equipos estables y de trabajo comparable, y se pueden manipular cuando se usan como meta. Los estudios sobre la falacia de la planificación describen una tendencia, no una ley. Y ninguna estimación elimina la incertidumbre.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre estimación y capacidad |
+| Nivel | Cómo estima |
 |---|---|
-| **Profesional** | usa **estimación y capacidad** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **effort** y **duration** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta error de forecast con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si estimación y capacidad cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de estimación y capacidad reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **estimación y capacidad** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Estima en rangos, con razón, y registra lo real. |
+| **Jefe / Team Lead** | Usa la velocidad del equipo y comunica supuestos. |
+| **Gerente** | Construye clases de referencia con los proyectos de su área. |
+| **CEO / Director** | Pide la visión desde afuera ante inversiones grandes. |
+| **Founder / Owner** | Multiplica sus estimaciones optimistas y protege la caja. |
 
 ## 🏢 Caso ejecutivo
 
-Un backlog de 120 ítems se estima en 12 semanas porque diez personas 'harán un ítem por semana'. Los datos históricos muestran variabilidad 2–8 días y trabajo bloqueado por QA.
+El director comercial prometió a un cliente importante la entrega de una nueva funcionalidad para el 30 de junio, sin consultar al equipo técnico. El equipo la estima en cuatro meses, no en dos. El director dice que «es una fecha política» y que «ellos siempre exageran». En los últimos tres proyectos parecidos, el plazo real superó al estimado en un 40 a 80 %. Hoy es 15 de abril.
 
-Entrega un **decision brief de estimación y capacidad** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de estimación y respuesta** que contenga: (a) la estimación desde adentro, desde afuera y con capacidad real; (b) el rango con supuestos y riesgos; (c) las opciones (recortar alcance, mover fecha, aumentar recursos) con sus efectos; (d) cómo conversarás con el director y con el cliente; (e) qué compromiso tomarás con qué confianza; (f) cómo evitarás repetir el problema.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **estimación y capacidad** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir unidad de trabajo → 2. usar datos históricos comparables → 3. estimar rango y confianza → 4. modelar capacidad, dependencias y buffers → 5. actualizar forecast con throughput real** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta error de forecast, throughput; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Estima una tarea en rango y registra el resultado real.
+2. Reúne datos de tres proyectos parecidos y calcula la razón plazo real a plazo estimado.
+3. Calcula el porcentaje de tiempo real que tu equipo dedica al trabajo del proyecto.
+4. Reescribe una estimación de un número como rango con razones.
+5. Define cuándo y cómo actualizarás una estimación.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar effort y duration como sinónimos | Se pierde la distinción entre “trabajo necesario medido en unidades de esfuerzo” y “tiempo calendario desde inicio a fin” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “actualizar forecast con throughput real” | Se saltó “definir unidad de trabajo” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir unidad de trabajo → 2. usar datos históricos comparables → 3. estimar rango y confianza → 4. modelar capacidad, dependencias y buffers → 5. actualizar forecast con throughput real y marca el primer supuesto no demostrado. |
-| Optimizar solo error de forecast | La métrica local sustituyó al resultado del sistema | Contrástala con throughput y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre estimación y capacidad | No persigas precisión costosa para trabajo exploratorio. El objetivo de estimar es mejorar decisiones de alcance y fecha, no producir un número aparentemente exacto. |
-| No fijar revisión | Una decisión sobre estimación y capacidad se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Un solo número | Se busca precisión | Rango con razones. |
+| Estimar solo desde adentro | Se conoce el plan | Añadir visión desde afuera. |
+| Capacidad al 100 % | Se ignoran interrupciones | Medir la capacidad real. |
+| Confundir estimación y compromiso | Se presiona por una fecha | Separar y decidir el riesgo aceptado. |
+| Estimar sin quienes harán el trabajo | Se delega a un experto | Estimación hecha por el equipo. |
+| No registrar lo real | No hay tiempo | Mantener datos para calibrar. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **effort** y **duration** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **capacity** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir unidad de trabajo → usar datos históricos comparables** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **error de forecast** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **estimación y capacidad**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No persigas precisión costosa para trabajo exploratorio. El objetivo de estimar es mejorar decisiones de alcance y fecha, no producir un número aparentemente exacto.**?
+1. ¿Qué es la falacia de la planificación?
+2. ¿Qué diferencia hay entre la visión desde adentro y desde afuera?
+3. ¿Qué es una clase de referencia?
+4. ¿Qué tres valores tiene una estimación en rango?
+5. ¿Qué es la velocidad de un equipo y cómo se usa?
+6. ¿Qué diferencia hay entre estimación y compromiso?
+7. ¿Qué límite tienen las clases de referencia?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La tendencia a subestimar el tiempo de una tarea aun sabiendo que tareas similares tomaron más.
+2. Desde adentro se estima con los detalles del proyecto; desde afuera, con los resultados de proyectos similares.
+3. Un conjunto de proyectos comparables usados para estimar el nuevo.
+4. Mínimo, probable y máximo.
+5. La cantidad de trabajo que completa por ciclo, observada en ciclos anteriores; se usa para proyectar el trabajo restante.
+6. La estimación describe lo esperado; el compromiso es una decisión sobre qué prometer, con un nivel de riesgo.
+7. Requieren proyectos comparables y datos fiables; sin ellos la visión desde afuera es débil.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/076-estimacion-y-capacidad/`:
 
-- `operating-improvement-brief.md` con el problema específico de **estimación y capacidad**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **estimación y capacidad** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **effort**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un backlog de 120 ítems se estima en 12 semanas porque diez personas 'harán un ítem por semana'. Los datos históricos muestran variabilidad 2–8 días y trabajo bloqueado por QA.** y el dato que podría invalidar la recomendación.
+- `operating-improvement-brief.md` (plantilla [Operating Improvement Brief](../../../../templates/operating-improvement-brief.md)) con el plan del caso ejecutivo;
+- `reading-note.md` con una tensión entre Buehler et al. y Flyvbjerg;
+- `decision-journal.md` con las estimaciones, los supuestos y la comparación con lo real.
 
 ## 📗 Fuentes y verificación
 
-- Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* (1996). **Uso en esta clase:** gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor. Lectura selectiva sobre **estimación y capacidad**. **Localizador:** [ISBN-13 9781880410127](https://openlibrary.org/isbn/9781880410127).
-- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** integración de proyectos, control, madurez y alineación organizacional. Lectura selectiva sobre **estimación y capacidad**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
-- Gene Kim et al. — *The Phoenix Project* (IT Revolution Press, 2018). **Uso en esta clase:** perspectiva de Operaciones tecnológicas aplicada al problema de la clase. Lectura selectiva sobre **estimación y capacidad**. **Localizador:** [ISBN-13 9781942788294](https://openlibrary.org/isbn/9781942788294).
-- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** empirismo, transparencia, inspección y adaptación. **Fuente primaria:** <https://scrumguides.org/>.
-- Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* (IT Revolution Press, 2018). **Uso en esta clase:** métricas de entrega, capacidades técnicas y desempeño organizacional. Lectura selectiva sobre **estimación y capacidad**. **Localizador:** [ISBN-13 9781942788379](https://openlibrary.org/isbn/9781942788379).
-- David J. Anderson — *Kanban* (Blue hole press, 2010). **Uso en esta clase:** flujo, trabajo en proceso, políticas explícitas y evolución del sistema. Lectura selectiva sobre **estimación y capacidad**. **Localizador:** [ISBN-13 9780984521401](https://openlibrary.org/isbn/9780984521401).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **estimación y capacidad** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **estimación y capacidad**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **estimación y capacidad** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **estimación y capacidad** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **estimación y capacidad** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Roger Buehler, Dale Griffin & Michael Ross — *Exploring the "planning fallacy": Why people underestimate their task completion times* (Journal of Personality and Social Psychology, 1994). **Uso en esta clase:** por qué se subestima la duración de las tareas. Lectura selectiva sobre **estimación y capacidad**. **Localizador:** [DOI 10.1037/0022-3514.67.3.366](https://doi.org/10.1037/0022-3514.67.3.366).
+- Bent Flyvbjerg — *From Nobel Prize to Project Management: Getting Risks Right* (Project Management Journal, 2006). **Uso en esta clase:** visión desde afuera y clases de referencia. Lectura selectiva sobre **estimación y capacidad**. **Localizador:** [DOI 10.1177/875697280603700302](https://doi.org/10.1177/875697280603700302).
+- Mike Cohn — *Agile Estimating and Planning* (Prentice Hall, 2005). **Uso en esta clase:** estimación relativa y planificación por velocidad. Lectura selectiva sobre **estimación y capacidad**. **Localizador:** [ISBN-13 9780131479418](https://openlibrary.org/isbn/9780131479418).
+- Bent Flyvbjerg & Dan Gardner — *How Big Things Get Done* (Currency, 2023). **Uso en esta clase:** datos de grandes proyectos sobre sobrecostos. Lectura selectiva sobre **estimación y capacidad**. **Localizador:** [ISBN-13 9780593239513](https://openlibrary.org/isbn/9780593239513).
+- Daniel Kahneman, Olivier Sibony & Cass R. Sunstein — *Noise* (Little, Brown Spark, 2021). **Uso en esta clase:** ruido y sesgo en los juicios de estimación. Lectura selectiva sobre **estimación y capacidad**. **Localizador:** [ISBN-13 9780316451383](https://openlibrary.org/isbn/9780316451383).
 
-> **Regla de fuentes para Estimación y capacidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **estimación y capacidad** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Estimación y capacidad:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

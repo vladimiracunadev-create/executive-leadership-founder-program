@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **rebaseline** de **critical path** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **scope cut** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **crashing** con **fast tracking**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Cuál es el primer paso para recuperar un proyecto?
+2. ¿Qué se diagnostica?
+3. ¿Qué efecto tiene agregar recursos a un proyecto atrasado?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Faltan seis semanas para una fecha contractual y el plan indica 80% completo desde hace un mes. La integración y pruebas, sin embargo, concentran casi todo el riesgo restante.
+**Caso:** Una empresa lleva 18 meses con un proyecto de modernización que debía durar 9. Los informes semanales siempre dicen «en ámbar»; el 80 % del presupuesto está gastado y se estima que falta el 50 % del trabajo. El director de tecnología propone «sumar un equipo externo de diez personas»; el gerente financiero, «cancelar»; el patrocinador, «terminarlo porque ya gastamos mucho». Hay dos clientes importantes esperando una funcionalidad parcial.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **detener nuevas promesas → medir avance real y trabajo restante → reconstruir critical path y capacidad → comparar recorte, resecuencia y recursos → comunicar nuevo baseline con riesgos**. Debes utilizar o diseñar cómo obtener **schedule variance, remaining work, critical path duration**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de recuperación o cierre** que contenga: (a) el diagnóstico con hechos y las causas; (b) la replanificación con rangos; (c) las opciones —recortar, mover, agregar, cerrar— con costo, plazo y riesgo; (d) la revalidación del beneficio con el costo futuro y no el pasado; (e) la comunicación al patrocinador y a los clientes; (f) el seguimiento y qué señales activarían un cierre. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Más personas pueden retrasar trabajo altamente acoplado por onboarding y coordinación. Recuperación no es sinónimo de horas extra; prueba si la intervención cambia el critical path.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Los datos de Flyvbjerg y Gardner son de grandes proyectos y su traducción a iniciativas pequeñas es parcial.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

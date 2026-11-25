@@ -5,222 +5,189 @@
 <!-- nav:fin -->
 
 **Parte:** 06 — Proyectos, Agile y entrega  
-**Nivel:** Etapa 2 — Jefe → Manager  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Calidad y Definition of Done convierten 'terminado' en un estándar verificable. La calidad no se inspecciona únicamente al final; se diseña en criterios, pruebas y controles del proceso. Una DoD común evita que cada persona declare completo un trabajo con deuda oculta distinta.
+«Terminado» es la palabra más ambigua de un proyecto. Para el desarrollador, significa que escribió el código; para quien prueba, que ya lo revisó; para el usuario, que le sirve; para el director, que está en producción. Cuando no hay una definición compartida, el trabajo se declara terminado sin estarlo, la calidad se difiere al final y la **deuda** se acumula hasta que el producto es lento de cambiar y caro de mantener. La **definición de hecho** convierte «terminado» en una lista de criterios comprobables que todos acuerdan.
 
-La salida de esta parte es **entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **calidad y Definition of Done** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase usa la Guía de Scrum, que define la definición de hecho como un compromiso del incremento, la investigación de Forsgren, Humble y Kim sobre las prácticas asociadas con entrega de alta calidad y la defensa de las listas de verificación de Atul Gawande. También conecta con los enfoques de calidad de Deming y con la norma ISO 9001. Al terminar sabrás redactar una definición de hecho, distinguirla de los criterios de aceptación y construir un sistema que prevenga defectos en lugar de buscarlos al final.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `quality`, `Definition of Done`, `acceptance criteria`, `defect`, `quality debt` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. definir calidad relevante al usuario y riesgo → 2. crear DoD común → 3. automatizar controles repetibles → 4. detectar defectos cerca de origen → 5. medir defect escape y rework** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** defect escape rate, rework, automated checks sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** criterios de aceptación, definición de hecho y definición de listo.
+2. **Redactar** una definición de hecho verificable.
+3. **Explicar** por qué la calidad se construye en el proceso y no se inspecciona al final.
+4. **Reconocer** la deuda de calidad y sus costos.
+5. **Usar** listas de verificación y automatización para sostener la calidad.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define quality y Definition of Done sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con defect escape rate y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: pregunta a tres colegas qué significa «terminado» en tu proyecto y compara. |
+| 20–60 min | Definición de hecho, criterios de aceptación y calidad en el proceso. |
+| 60–105 min | Ejemplo trabajado: construir la definición de hecho de un equipo. |
+| 105–140 min | Caso ejecutivo: entregas «terminadas» con defectos. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **quality** | grado en que un resultado cumple requisitos y es apto para uso | Distingue un hecho compatible y otro que lo refute. |
-| **Definition of Done** | criterios comunes que un incremento debe cumplir para considerarse terminado | Distingue un hecho compatible y otro que lo refute. |
-| **acceptance criteria** | condiciones específicas de una historia o deliverable | Distingue un hecho compatible y otro que lo refute. |
-| **defect** | desviación de requisito o expectativa verificable | Distingue un hecho compatible y otro que lo refute. |
-| **quality debt** | trabajo futuro creado al aceptar calidad insuficiente | Distingue un hecho compatible y otro que lo refute. |
+| **Definición de hecho** | Descripción formal del estado del incremento cuando cumple las medidas de calidad requeridas (Schwaber y Sutherland, 2020). | Es una lista compartida y verificable. |
+| **Criterio de aceptación** | Condición que un elemento concreto debe cumplir para ser aceptado por quien lo pidió. | Es específico de cada elemento. |
+| **Calidad integrada** | Prevención de defectos en el proceso en lugar de su inspección al final (Deming, 1986). | Las pruebas y revisiones ocurren durante el trabajo. |
+| **Deuda de calidad** | Costo futuro acumulado por haber diferido trabajo de calidad. | Cada cambio cuesta más que el anterior. |
+| **Lista de verificación** | Instrumento que recuerda los pasos esenciales a cumplir (Gawande, 2009). | Se usa en cada entrega. |
+| **Automatización** | Ejecución automática de verificaciones repetibles (Forsgren et al., 2018). | Las pruebas corren sin intervención manual. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 082: 1. definir calidad relevante al usuario y riesgo → 2. crear DoD común → 3. automatizar controles repetibles → 4. detectar defectos cerca de origen → 5. medir defect escape y rework](modelo-mental.svg)
+![Una definición de hecho que se puede comprobar: una tabla con criterios, forma de verificación y responsable, para un incremento de software.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir calidad relevante al usuario y riesgo → 2. crear DoD común → 3. automatizar controles repetibles → 4. detectar defectos cerca de origen → 5. medir defect escape y rework
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Calidad y Definition of Done convierten 'terminado' en un estándar verificable. La calidad no se inspecciona únicamente al final; se diseña en criterios, pruebas y controles del proceso. Una DoD común evita que cada persona declare completo un trabajo con deuda oculta distinta.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una DoD maximalista puede bloquear aprendizaje temprano. Diferencia prototipo experimental de incremento de producción y aplica estándares acordes al propósito.**
+**Cómo leer el diagrama.** Cada fila de la definición de hecho tiene tres partes: el **criterio** (qué debe cumplirse), **cómo se verifica** (con qué evidencia) y **quién** lo verifica. Una definición sin forma de verificación es una intención; con ella, es un compromiso que se puede comprobar. Los criterios de aceptación de cada elemento se suman a esta definición, que es común a todos.
 
 ## 📖 Desarrollo
 
-### 1. quality: mecanismo central
+### 1. Tres definiciones distintas
 
-**quality** se entiende aquí como **grado en que un resultado cumple requisitos y es apto para uso**. Esta es la pieza causal o estructural desde la que se inicia **calidad y Definition of Done**: antes de definir calidad relevante al usuario y riesgo, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Tres conceptos se confunden. Los **criterios de aceptación** son específicos de un elemento («el cliente puede reordenar con dos toques»). La **definición de hecho** es común a todos los elementos y describe la calidad mínima («revisado, probado, documentado, desplegable»). La **definición de listo** (más usada en la práctica que en la Guía de Scrum) indica cuándo un elemento está suficientemente claro para empezar. Un elemento está terminado cuando cumple **ambos**: los criterios de aceptación y la definición de hecho.
 
-La lectura rectora de este bloque es Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*. Su aporte se usa para examinar **gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **defect escape rate**; regístrala con periodo, unidad, población y baseline.
+### 2. Qué dice la Guía de Scrum
 
-Relaciona el mecanismo con **Definition of Done**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La Guía de Scrum 2020 define el **incremento** como un paso concreto hacia el objetivo del producto y exige que cumpla la **definición de hecho**. Si el trabajo no cumple, no puede lanzarse ni presentarse en la revisión: vuelve al backlog. Si hay una definición de hecho organizacional, todos los equipos la siguen como mínimo; si no, el equipo crea la propia. El compromiso da transparencia: todos saben qué significa terminado y la calidad se puede inspeccionar.
 
-### 2. Definition of Done: frontera conceptual y error de clasificación
+### 3. Construir la calidad en el proceso
 
-**Definición operacional:** criterios comunes que un incremento debe cumplir para considerarse terminado. Su valor está en distinguirlo de **quality** y **acceptance criteria**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Deming sostuvo que no se puede inspeccionar la calidad en un producto: hay que **construirla** en el proceso, y que depender de la inspección masiva al final es ineficiente porque llega tarde. Para el trabajo de proyectos, esto significa integrar revisiones, pruebas y verificaciones **durante** el trabajo, no en una fase final. Las defectos detectados cerca de su origen cuestan menos que los detectados tarde. Una definición de hecho que incluya estas verificaciones desplaza la calidad hacia el inicio.
 
-Contrasta el problema con Harold Kerzner — *Project Management*, que aporta una mirada sobre **integración de proyectos, control, madurez y alineación organizacional**. Formula dos mini-casos: uno que sí satisface la definición de **Definition of Done** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **rework** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. La deuda de calidad
 
-Antes de crear dod común, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Diferir pruebas, documentación o limpieza para «cumplir la fecha» es tomar un préstamo: el costo reaparece con intereses. Cada cambio posterior es más lento y riesgoso, y los defectos se acumulan. Forsgren, Humble y Kim encuentran que los equipos con alto desempeño de entrega combinan **rapidez y estabilidad** y no las intercambian: invierten en automatización de pruebas, integración continua y arquitectura que permite cambiar con seguridad, y obtienen entregas más frecuentes y menos fallas. La deuda se paga o se vive con ella, pero se hace visible.
 
-### 3. acceptance criteria: operacionalización y medición
+### 5. Listas de verificación
 
-**acceptance criteria** significa **condiciones específicas de una historia o deliverable**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Gawande documentó cómo las listas de verificación reducen errores en cirugía y aviación, no porque los profesionales no sepan, sino porque en entornos complejos se olvidan pasos simples. Una buena lista es **breve**, **concreta**, usa el lenguaje de quien la usa y se prueba en la práctica. Se aplica en puntos de pausa definidos. Para la definición de hecho, una lista de cinco a diez ítems verificables es más útil que un documento largo que nadie lee.
 
-David J. Anderson — *Kanban* orienta este bloque mediante **flujo, trabajo en proceso, políticas explícitas y evolución del sistema**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **automated checks**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Automatizar lo repetible
 
-Al llegar a automatizar controles repetibles, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Las verificaciones repetibles —pruebas, análisis de código, controles de seguridad, validaciones de formato— se **automatizan**: corren siempre, con el mismo criterio, sin depender de la memoria. Forsgren et al. asocian la automatización de pruebas y de despliegues con mejor desempeño de entrega. Lo que no es automatizable —juicio de usabilidad, revisión de un diseño, aceptación por el usuario— se mantiene como paso humano explícito. Y se vigila que los controles no se vuelvan un ritual sin sentido.
 
-### 4. defect: trade-offs y efectos de segundo orden
+### 7. Gestionar la definición
 
-**Definición:** desviación de requisito o expectativa verificable. Este concepto obliga a abandonar la idea de que **calidad y Definition of Done** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de detectar defectos cerca de origen, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Atul Gawande — *The Checklist Manifesto* aporta una lente sobre **perspectiva de Ejecución aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **DoD compliance** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **calidad y Definition of Done**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **defect** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. quality debt: gobernanza, límites e integración
-
-**quality debt** se define como **trabajo futuro creado al aceptar calidad insuficiente** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Gene Kim — *The Unicorn Project* se utiliza para estudiar **perspectiva de Operaciones tecnológicas aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar medir defect escape y rework, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Una DoD maximalista puede bloquear aprendizaje temprano. Diferencia prototipo experimental de incremento de producción y aplica estándares acordes al propósito.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **quality**, **Definition of Done**, **acceptance criteria**, **defect** y **quality debt** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **calidad y Definition of Done** no consiste en sumar cinco definiciones. Empieza por **quality**, contrasta **Definition of Done** con **acceptance criteria**, incorpora **defect** como restricción o mecanismo y usa **quality debt** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir calidad relevante al usuario y riesgo → 2. crear DoD común → 3. automatizar controles repetibles → 4. detectar defectos cerca de origen → 5. medir defect escape y rework**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La definición de hecho **evoluciona**: se empieza con lo que el equipo puede cumplir y se endurece con la madurez; se revisa en las retrospectivas (clase 079) y cuando falla algo en producción («¿qué criterio nos habría protegido?»). Se publica, se aplica a todo y no admite excepciones silenciosas: si se hace una excepción, se registra como deuda con responsable y fecha. En entornos regulados, algunos criterios —de seguridad, trazabilidad, documentación— son obligatorios y están en la norma, que se verifica.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* | gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor | ¿Qué supuesto de **calidad y Definition of Done** ayuda a desafiar? |
-| Harold Kerzner — *Project Management* | integración de proyectos, control, madurez y alineación organizacional | ¿Qué supuesto de **calidad y Definition of Done** ayuda a desafiar? |
-| David J. Anderson — *Kanban* | flujo, trabajo en proceso, políticas explícitas y evolución del sistema | ¿Qué supuesto de **calidad y Definition of Done** ayuda a desafiar? |
-| Atul Gawande — *The Checklist Manifesto* | perspectiva de Ejecución aplicada al problema de la clase | ¿Qué supuesto de **calidad y Definition of Done** ayuda a desafiar? |
-| Gene Kim — *The Unicorn Project* | perspectiva de Operaciones tecnológicas aplicada al problema de la clase | ¿Qué supuesto de **calidad y Definition of Done** ayuda a desafiar? |
-
-En **calidad y Definition of Done**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **quality**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Schwaber y Sutherland (2020) | La definición de hecho como compromiso del incremento. | No dice qué incluir. | ¿Qué incluye la definición de tu equipo? |
+| Forsgren, Humble y Kim (2018) | Prácticas de calidad y entrega que van juntas. | Estudios por encuesta. | ¿Qué verificaciones están automatizadas? |
+| Gawande (2009) | Listas de verificación para evitar omisiones. | No trata de proyectos. | ¿Qué pasos esenciales olvidas? |
+| Deming (1986) | Construir la calidad en el proceso y no inspeccionarla al final. | Es un tratado de gestión general. | ¿Dónde se detectan tus defectos? |
+| ISO 9001 | Requisitos de un sistema de gestión de la calidad. | Es una norma general. | ¿Cómo se demuestra la conformidad? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un equipo marca historias 'Done' cuando termina desarrollo, aunque pruebas de seguridad y documentación ocurren semanas después. El sprint parece exitoso y el release acumula cola invisible.
+**Situación (hipotética).** Un equipo de seis personas desarrolla una aplicación. Cada Sprint, los elementos se declaran «terminados» pero aparecen defectos en producción y la prueba final lleva dos semanas.
 
-**Paso 1 — definir calidad relevante al usuario y riesgo.** La gerencia escribe primero el supuesto asociado a **quality** y evita convertirlo en hecho. Luego busca **defect escape rate** para contrastarlo en el caso de **calidad y Definition of Done**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Criterio de la definición de hecho | Verificación | Quién |
+|---|---|---|
+| El código se revisó por otra persona. | Registro de la revisión en la herramienta. | Desarrolladores |
+| Las pruebas automáticas pasan. | Resultado de la integración continua. | Sistema |
+| Cumple los criterios de aceptación del elemento. | Demostración al dueño del producto. | Dueño del producto |
+| La documentación mínima está actualizada. | Lista de verificación de cinco puntos. | Desarrolladores |
+| Se puede desplegar sin intervención manual. | Despliegue en un entorno de prueba. | Operación |
 
-**Paso 2 — crear DoD común.** La gerencia escribe primero el supuesto asociado a **Definition of Done** y evita convertirlo en hecho. Luego busca **rework** para contrastarlo en el caso de **calidad y Definition of Done**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Efecto.** En dos Sprints, el trabajo «terminado» disminuye (porque ya no se declara hasta cumplir todo), pero los defectos en producción bajan de 14 a 4 por mes y el tiempo de prueba final se reduce de dos semanas a tres días. Se registra una excepción: un elemento se entrega sin documentación por urgencia, con fecha de pago de la deuda.
 
-**Paso 3 — automatizar controles repetibles.** La gerencia escribe primero el supuesto asociado a **acceptance criteria** y evita convertirlo en hecho. Luego busca **automated checks** para contrastarlo en el caso de **calidad y Definition of Done**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — detectar defectos cerca de origen.** La gerencia escribe primero el supuesto asociado a **defect** y evita convertirlo en hecho. Luego busca **DoD compliance** para contrastarlo en el caso de **calidad y Definition of Done**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — medir defect escape y rework.** La gerencia escribe primero el supuesto asociado a **quality debt** y evita convertirlo en hecho. Luego busca **customer incidents** para contrastarlo en el caso de **calidad y Definition of Done**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **calidad y Definition of Done**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La definición hizo explícita la calidad. (2) Pareció más lenta al inicio y fue más rápida después. (3) Las excepciones se registraron como deuda.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **quality** | grado en que un resultado cumple requisitos y es apto para uso | Cuando defect escape rate es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **Definition of Done** | criterios comunes que un incremento debe cumplir para considerarse terminado | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Calidad frente a velocidad.** No se intercambian a mediano plazo: la calidad baja ralentiza. A corto plazo puede haber compromisos conscientes que se registran.
 
-**Frontera de aplicación:** Una DoD maximalista puede bloquear aprendizaje temprano. Diferencia prototipo experimental de incremento de producción y aplica estándares acordes al propósito.
+**Límites.** Una definición de hecho no garantiza calidad si los criterios son superficiales o si se cumplen de manera formal. Las listas de verificación en contextos de baja complejidad pueden ser un ritual. La investigación de Forsgren et al. se basa en encuestas y muestra asociaciones. Y en trabajo que no es de software, los criterios cambian: la lógica de un incremento verificable vale igual, pero sus contenidos se adaptan.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre calidad y Definition of Done |
+| Nivel | Cómo trabaja la calidad |
 |---|---|
-| **Profesional** | usa **calidad y Definition of Done** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **quality** y **Definition of Done** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta defect escape rate con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si calidad y Definition of Done cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de calidad y Definition of Done reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **calidad y Definition of Done** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | No declara terminado lo que no cumple los criterios. |
+| **Jefe / Team Lead** | Facilita la definición y protege su cumplimiento. |
+| **Gerente** | Evita presionar para cumplir fechas a costa de la calidad. |
+| **CEO / Director** | Entiende que la deuda de calidad es un pasivo del negocio. |
+| **Founder / Owner** | Equilibra rapidez y calidad según su etapa y paga su deuda de manera deliberada. |
 
 ## 🏢 Caso ejecutivo
 
-Un equipo marca historias 'Done' cuando termina desarrollo, aunque pruebas de seguridad y documentación ocurren semanas después. El sprint parece exitoso y el release acumula cola invisible.
+Una empresa de servicios financieros entrega un módulo de pagos «terminado» a fin de mes para cumplir una fecha del directorio. Dos semanas después aparecen errores de cálculo en el 2 % de las transacciones, y el área de cumplimiento halla que faltan registros de auditoría. El equipo dice que «no había tiempo»; el director técnico, que «la fecha era inamovible»; el cliente interno, que «nos entregaron algo que no funciona». Hay cinco entregas más programadas.
 
-Entrega un **decision brief de calidad y Definition of Done** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de calidad** que contenga: (a) la definición de hecho con criterios, verificación y responsable; (b) cómo la distinguirás de los criterios de aceptación; (c) la política de excepciones y deuda; (d) qué automatizarás y qué lista de verificación usarás; (e) cómo corregirás el módulo entregado y comunicarás al cliente; (f) cómo evitarás que una fecha vuelva a primar sobre la calidad.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **calidad y Definition of Done** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir calidad relevante al usuario y riesgo → 2. crear DoD común → 3. automatizar controles repetibles → 4. detectar defectos cerca de origen → 5. medir defect escape y rework** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta defect escape rate, rework; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe una definición de hecho de cinco criterios para tu trabajo.
+2. Agrega para cada criterio cómo se verifica y quién.
+3. Identifica una deuda de calidad en tu entorno y su costo.
+4. Diseña una lista de verificación de diez pasos esenciales.
+5. Define qué verificación automatizarías primero y por qué.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar quality y Definition of Done como sinónimos | Se pierde la distinción entre “grado en que un resultado cumple requisitos y es apto para uso” y “criterios comunes que un incremento debe cumplir para considerarse terminado” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “medir defect escape y rework” | Se saltó “definir calidad relevante al usuario y riesgo” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir calidad relevante al usuario y riesgo → 2. crear DoD común → 3. automatizar controles repetibles → 4. detectar defectos cerca de origen → 5. medir defect escape y rework y marca el primer supuesto no demostrado. |
-| Optimizar solo defect escape rate | La métrica local sustituyó al resultado del sistema | Contrástala con rework y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre calidad y Definition of Done | Una DoD maximalista puede bloquear aprendizaje temprano. Diferencia prototipo experimental de incremento de producción y aplica estándares acordes al propósito. |
-| No fijar revisión | Una decisión sobre calidad y Definition of Done se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| «Terminado» sin definición | Cada uno entiende algo | Definición compartida y verificable. |
+| Calidad al final | Se hace al terminar | Verificaciones durante el trabajo. |
+| Excepciones silenciosas | Se cede ante la fecha | Registrarlas como deuda con fecha. |
+| Lista larga que nadie usa | Se quiere cubrirlo todo | Breve y probada. |
+| Todo manual | No se invierte | Automatizar lo repetible. |
+| Confundir aceptación con hecho | Se usa un solo concepto | Cumplir ambos. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **quality** y **Definition of Done** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **acceptance criteria** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir calidad relevante al usuario y riesgo → crear DoD común** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **defect escape rate** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **calidad y Definition of Done**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Una DoD maximalista puede bloquear aprendizaje temprano. Diferencia prototipo experimental de incremento de producción y aplica estándares acordes al propósito.**?
+1. ¿Qué diferencia hay entre criterios de aceptación y definición de hecho?
+2. ¿Qué dice la Guía de Scrum cuando un elemento no cumple la definición de hecho?
+3. ¿Por qué Deming recomienda construir la calidad en el proceso?
+4. ¿Qué es la deuda de calidad?
+5. ¿Para qué sirven las listas de verificación según Gawande?
+6. ¿Qué conviene automatizar?
+7. ¿Qué límite tiene la definición de hecho?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Los criterios de aceptación son específicos de un elemento; la definición de hecho es común y describe la calidad mínima de todo incremento.
+2. No puede lanzarse ni presentarse en la revisión: vuelve al backlog.
+3. Porque la inspección al final llega tarde y es ineficiente; los defectos cuestan menos cerca de su origen.
+4. El costo futuro acumulado por haber diferido trabajo de calidad.
+5. Para evitar olvidar pasos esenciales en entornos complejos.
+6. Las verificaciones repetibles, como pruebas, análisis de código y controles.
+7. No garantiza calidad si los criterios son superficiales o se cumplen de manera formal.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/082-calidad-y-definition-of-done/`:
 
-- `operating-improvement-brief.md` con el problema específico de **calidad y Definition of Done**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **calidad y Definition of Done** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **quality**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un equipo marca historias 'Done' cuando termina desarrollo, aunque pruebas de seguridad y documentación ocurren semanas después. El sprint parece exitoso y el release acumula cola invisible.** y el dato que podría invalidar la recomendación.
+- `operating-improvement-brief.md` (plantilla [Operating Improvement Brief](../../../../templates/operating-improvement-brief.md)) con el plan del caso ejecutivo;
+- `decision-journal.md` con la definición de hecho, las excepciones y la deuda registrada;
+- `reading-note.md` con una tensión entre Deming y Forsgren et al.
 
 ## 📗 Fuentes y verificación
 
-- Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* (1996). **Uso en esta clase:** gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor. Lectura selectiva sobre **calidad y definition of done**. **Localizador:** [ISBN-13 9781880410127](https://openlibrary.org/isbn/9781880410127).
-- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** integración de proyectos, control, madurez y alineación organizacional. Lectura selectiva sobre **calidad y definition of done**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
-- David J. Anderson — *Kanban* (Blue hole press, 2010). **Uso en esta clase:** flujo, trabajo en proceso, políticas explícitas y evolución del sistema. Lectura selectiva sobre **calidad y definition of done**. **Localizador:** [ISBN-13 9780984521401](https://openlibrary.org/isbn/9780984521401).
-- Atul Gawande — *The Checklist Manifesto* (Penguin Random House, 2014). **Uso en esta clase:** perspectiva de Ejecución aplicada al problema de la clase. Lectura selectiva sobre **calidad y definition of done**. **Localizador:** [ISBN-13 9780143423225](https://openlibrary.org/isbn/9780143423225).
-- Gene Kim — *The Unicorn Project* (IT Revolution Press, 2019). **Uso en esta clase:** perspectiva de Operaciones tecnológicas aplicada al problema de la clase. Lectura selectiva sobre **calidad y definition of done**. **Localizador:** [ISBN-13 9781942788768](https://openlibrary.org/isbn/9781942788768).
-- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** empirismo, transparencia, inspección y adaptación. **Fuente primaria:** <https://scrumguides.org/>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **calidad y definition of done** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **calidad y definition of done**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **calidad y definition of done** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **calidad y definition of done** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **calidad y definition of done** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** la definición de hecho como compromiso del incremento. **Fuente primaria:** <https://scrumguides.org/>.
+- Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* (IT Revolution Press, 2018). **Uso en esta clase:** prácticas de calidad y entrega asociadas con mejor desempeño. Lectura selectiva sobre **calidad y definition of done**. **Localizador:** [ISBN-13 9781942788379](https://openlibrary.org/isbn/9781942788379).
+- Atul Gawande — *The Checklist Manifesto* (Penguin Random House, 2014). **Uso en esta clase:** listas de verificación para evitar omisiones. Lectura selectiva sobre **calidad y definition of done**. **Localizador:** [ISBN-13 9780143423225](https://openlibrary.org/isbn/9780143423225).
+- W. Edwards Deming — *Out of the Crisis* (The MIT Press, 2000). **Uso en esta clase:** construir la calidad en el proceso. Lectura selectiva sobre **calidad y definition of done**. **Localizador:** [ISBN-13 9780262541152](https://openlibrary.org/isbn/9780262541152).
+- ISO — *ISO 9001 Quality management systems*. **Uso en esta clase:** requisitos de un sistema de gestión de la calidad. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
 
-> **Regla de fuentes para Calidad y Definition of Done:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **calidad y Definition of Done** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Calidad y Definition of Done:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidos los requisitos de calidad, seguridad y auditoría de entornos regulados. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

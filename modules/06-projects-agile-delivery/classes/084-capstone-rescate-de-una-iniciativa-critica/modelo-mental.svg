@@ -1,67 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 602.36" width="1040" role="img" aria-labelledby="t-g84 d-g84" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g84">Ficha visual de la clase 084: Capstone: rescate de una iniciativa crítica</title>
-<desc id="d-g84">Conceptos: recovery plan; minimum viable scope; decision gate; confidence level; risk burn-down. Método: hacer health check independiente → rebaselinear alcance, fecha y costo → construir tres opciones → obtener decisión sponsor → gestionar risk burn-down semanal.</desc>
-<defs><marker id="p-g84" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="602.36" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 084 · Capstone: rescate de una iniciativa crítica</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 06 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >recovery plan</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >plan explícito para estabilizar y volver a una</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >trayectoria defendible</text>
-<circle cx="38" cy="184.12" r="5" fill="#0969da"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >minimum viable scope</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >alcance mínimo que conserva valor contractual o de</text>
-<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >negocio</text>
-<circle cx="38" cy="256.24" r="5" fill="#0969da"/>
-<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >decision gate</text>
-<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >punto donde sponsor debe elegir entre opciones</text>
-<circle cx="38" cy="314.24" r="5" fill="#0969da"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >confidence level</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grado de confianza en fecha/costo basado en evidencia</text>
-<circle cx="38" cy="372.24" r="5" fill="#0969da"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >risk burn-down</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >reducción de exposición a medida que se resuelven</text>
-<text x="54" y="411.8" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >incertidumbres</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#0969da" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#0969da"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >hacer health check independiente</text>
-<circle cx="485" cy="176" r="14" fill="#0969da"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >rebaselinear alcance, fecha y costo</text>
-<circle cx="485" cy="230" r="14" fill="#0969da"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >construir tres opciones</text>
-<circle cx="485" cy="284" r="14" fill="#0969da"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >obtener decisión sponsor</text>
-<circle cx="485" cy="338" r="14" fill="#0969da"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >gestionar risk burn-down semanal</text>
-<text x="28" y="458.36" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="470.36" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="483.36" r="3.5" fill="#0969da"/>
-<text x="52" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >forecast confidence</text>
-<rect x="195.1" y="470.36" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="208.1" cy="483.36" r="3.5" fill="#0969da"/>
-<text x="219.1" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >critical risks</text>
-<rect x="327.7" y="470.36" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="340.7" cy="483.36" r="3.5" fill="#0969da"/>
-<text x="351.7" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >scope protected</text>
-<rect x="467.2" y="470.36" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="480.2" cy="483.36" r="3.5" fill="#0969da"/>
-<text x="491.2" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >stakeholder commitment</text>
-<rect x="655" y="470.36" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="668" cy="483.36" r="3.5" fill="#0969da"/>
-<text x="679" y="487.86" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >recovery milestones</text>
-<rect x="28" y="516.36" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="516.36" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="536.36" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="554.36" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un rescate puede concluir que detener el proyecto es la opción racional. Sunk cost no justifica continuar una iniciativa cuyo valor o</text>
-<text x="48" y="571.61" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >factibilidad desapareció.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 419.31" width="1040" role="img" aria-labelledby="t-s84 d-s84" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s84">Clase 084 · Rescate de una iniciativa crítica en 90 días</title>
+<desc id="d-s84">Tres tramos de un rescate: estabilizar en la primera semana, replanificar durante el primer mes y entregar y sostener hasta los noventa días.</desc>
+<defs><marker id="p-s84" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="419.31" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 084 · Rescate de una iniciativa crítica en 90 días</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Integración de la parte 06</text>
+<rect x="28" y="96" width="314.667" height="180.25" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<path d="M28.0,136 V108 a12,12 0 0 1 12,-12 H330.6666666666667 a12,12 0 0 1 12,12 V136 Z" fill="#cf222e"/>
+<text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Días 1–7: estabilizar</text>
+<circle cx="50.0" cy="154" r="4" fill="#cf222e"/>
+<text x="64" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Congelar alcance y cambios.</text>
+<circle cx="50.0" cy="181.25" r="4" fill="#cf222e"/>
+<text x="64" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Reunir hechos: avance, riesgos,</text>
+<text x="64" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >capacidad.</text>
+<circle cx="50.0" cy="225.75" r="4" fill="#cf222e"/>
+<text x="64" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Nombrar un responsable único.</text>
+<rect x="362.667" y="96" width="314.667" height="180.25" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M362.6666666666667,136 V108 a12,12 0 0 1 12,-12 H665.3333333333334 a12,12 0 0 1 12,12 V136 Z" fill="#bc4c00"/>
+<text x="378.667" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Días 8–30: replanificar</text>
+<circle cx="384.6666666666667" cy="154" r="4" fill="#bc4c00"/>
+<text x="398.667" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Descomponer lo que falta por</text>
+<text x="398.667" y="175.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >entregables.</text>
+<circle cx="384.6666666666667" cy="198.5" r="4" fill="#bc4c00"/>
+<text x="398.667" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Estimar en rangos con capacidad real.</text>
+<circle cx="384.6666666666667" cy="225.75" r="4" fill="#bc4c00"/>
+<text x="398.667" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Acordar con el patrocinador la</text>
+<text x="398.667" y="247" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decisión de alcance y fecha.</text>
+<rect x="697.333" y="96" width="314.667" height="180.25" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<path d="M697.3333333333334,136 V108 a12,12 0 0 1 12,-12 H1000.0 a12,12 0 0 1 12,12 V136 Z" fill="#1a7f37"/>
+<text x="713.333" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Días 31–90: entregar y sostener</text>
+<circle cx="719.3333333333334" cy="154" r="4" fill="#1a7f37"/>
+<text x="733.333" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Ciclos cortos con entregables</text>
+<text x="733.333" y="175.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >funcionando.</text>
+<circle cx="719.3333333333334" cy="198.5" r="4" fill="#1a7f37"/>
+<text x="733.333" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Gobierno ligero y frecuente.</text>
+<circle cx="719.3333333333334" cy="225.75" r="4" fill="#1a7f37"/>
+<text x="733.333" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Revisión sin culpas y cierre.</text>
+<rect x="28" y="292.25" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="314.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Un rescate combina las herramientas de la parte: tipo de trabajo (073), alcance (074), plan (075), estimación (076), riesgos (077),</text>
+<text x="44" y="331.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >método (078–080), gobierno (081) y calidad (082).</text>
+<text x="28" y="378.75" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Los plazos del rescate son orientativos; cada iniciativa necesita su propio ritmo y sus propias decisiones.</text>
 </svg>

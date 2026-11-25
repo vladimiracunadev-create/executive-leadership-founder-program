@@ -39,6 +39,9 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 06 completa** (073–084): tipos de trabajo, alcance y éxito, descomposición, estimación con visión
+  desde afuera (Buehler, Flyvbjerg), riesgos, Agile, Scrum, Kanban y ley de Little, gobernanza, calidad y
+  recuperación de proyectos; cada clase con fuentes verificadas y un diagrama a medida.
 - **La parte 05 completa** (061–072): diseño de cargos (Hackman y Oldham), dotación (Cappelli),
   selección (Schmidt y Hunter; Sackett et al.), entrevistas estructuradas (Levashina et
   al.), onboarding (Bauer et al.), desempeño, plan de mejora, compensación (Adams; Deci et

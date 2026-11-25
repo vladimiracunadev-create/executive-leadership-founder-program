@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Jefe → Manager"
 outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir WIP de cycle time mediante evidencia observable."
-  - "Aplicar la secuencia: mapear flujo real → visualizar estados y bloqueos → establecer límites WIP → definir políticas de pull y clases → medir cycle time y mejorar cuello."
-  - "Interpretar WIP, cycle time percentiles, throughput sin atribuir causalidad automática."
-  - "Resolver el caso de kanban y flujo con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Explicar las prácticas centrales del método Kanban."
+  - "Construir un tablero que refleje el flujo real y sus políticas."
+  - "Definir límites de trabajo en curso y justificar su efecto con la ley de Little."
+  - "Medir tiempo de ciclo, rendimiento y trabajo en curso."
+  - "Decidir cuándo conviene Kanban y cuándo Scrum o ambos."
 deliverable: "modelo-financiero-y-memo-de-decision.md"
 references:
-  - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
-  - "Harold Kerzner — *Project Management*"
-  - "Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*"
-  - "Atul Gawande — *The Checklist Manifesto*"
-  - "Gene Kim — *The Unicorn Project*"
+  - "David J. Anderson — *Kanban*"
+  - "John D. C. Little — *A Proof for the Queuing Formula: L = λW*"
+  - "Donald G. Reinertsen — *The Principles of Product Development Flow*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
   - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
 limits:
-  - "Límites WIP no deben impedir respuesta a incidentes críticos. Define clases de servicio y políticas de expedite con costo visible para evitar que la excepción destruya el sistema."
+  - "La ley de Little describe promedios en sistemas estables y puede distorsionarse con cambios fuertes de demanda."
 evidence_signals:
-  - "WIP"
-  - "cycle time percentiles"
-  - "throughput"
-  - "blocked time"
-  - "aging WIP"
+  - "flujo visible"
+  - "límites de trabajo en curso"
+  - "tiempo de ciclo medido"
+  - "cuellos de botella atendidos"

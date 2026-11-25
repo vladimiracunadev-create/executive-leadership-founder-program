@@ -1,65 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g79 d-g79" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g79">Ficha visual de la clase 079: Scrum con criterio</title>
-<desc id="d-g79">Conceptos: Product Goal; Sprint Goal; Increment; Product Owner; Developers. Método: definir Product Goal → ordenar backlog por valor y riesgo → seleccionar Sprint Goal y trabajo → construir Increment Done → inspeccionar producto y proceso antes de adaptar.</desc>
-<defs><marker id="p-g79" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 079 · Scrum con criterio</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 06 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Product Goal</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >estado futuro del producto que orienta backlog</text>
-<circle cx="38" cy="170" r="5" fill="#0969da"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Sprint Goal</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >objetivo coherente que da flexibilidad al trabajo del</text>
-<text x="54" y="209.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >sprint</text>
-<circle cx="38" cy="242.12" r="5" fill="#0969da"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Increment</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >resultado usable que cumple Definition of Done</text>
-<circle cx="38" cy="300.12" r="5" fill="#0969da"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Product Owner</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >responsabilidad por maximizar valor y gestionar Product</text>
-<text x="54" y="339.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Backlog</text>
-<circle cx="38" cy="372.24" r="5" fill="#0969da"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Developers</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >personas responsables de crear Increment usable</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir Product Goal</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >ordenar backlog por valor y riesgo</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >seleccionar Sprint Goal y trabajo</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >construir Increment Done</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >inspeccionar producto y proceso antes de adaptar</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Sprint Goal success</text>
-<rect x="195.1" y="456.24" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="208.1" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="219.1" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Done versus carryover</text>
-<rect x="376" y="456.24" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="389" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="400" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >release frequency</text>
-<rect x="529.3" y="456.24" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="542.3" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="553.3" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >backlog age</text>
-<rect x="641.2" y="456.24" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="654.2" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="665.2" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >review feedback</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Scrum no es universal ni una metodología contractual rígida. Equipos de flujo continuo, operaciones o trabajo altamente interruptivo</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >pueden requerir Kanban u otro sistema.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 392.06" width="1040" role="img" aria-labelledby="t-s79 d-s79" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s79">Clase 079 · El ciclo de Scrum y sus compromisos</title>
+<desc id="d-s79">Eventos de Scrum dentro de un Sprint: planificación, Scrum diario, revisión y retrospectiva, con los compromisos de objetivo del producto, objetivo del Sprint y definición de hecho.</desc>
+<defs><marker id="p-s79" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="392.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 079 · El ciclo de Scrum y sus compromisos</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Schwaber &amp; Sutherland (2020)</text>
+<rect x="28" y="96" width="229.5" height="131" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<circle cx="52.0" cy="122.0" r="13" fill="#0969da"/>
+<text x="52" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Planificación del</text>
+<text x="72" y="138.63" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Sprint</text>
+<text x="44" y="159.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Por qué, qué y cómo: se</text>
+<text x="44" y="176.51" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >acuerda un objetivo del</text>
+<text x="44" y="193.76" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Sprint.</text>
+<path d="M260.5,161.5 L276.5,161.5" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s79)"/>
+<rect x="279.5" y="96" width="229.5" height="131" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<circle cx="303.5" cy="122.0" r="13" fill="#1a7f37"/>
+<text x="303.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Scrum diario</text>
+<text x="295.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Los desarrolladores</text>
+<text x="295.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >inspeccionan el avance hacia</text>
+<text x="295.5" y="186.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >el objetivo y ajustan el</text>
+<text x="295.5" y="203.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >plan.</text>
+<path d="M512,161.5 L528,161.5" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s79)"/>
+<rect x="531" y="96" width="229.5" height="131" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<circle cx="555.0" cy="122.0" r="13" fill="#bc4c00"/>
+<text x="555" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Revisión del Sprint</text>
+<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >El equipo y los interesados</text>
+<text x="547" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >inspeccionan el incremento y</text>
+<text x="547" y="186.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >adaptan el trabajo.</text>
+<path d="M763.5,161.5 L779.5,161.5" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s79)"/>
+<rect x="782.5" y="96" width="229.5" height="131" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<circle cx="806.5" cy="122.0" r="13" fill="#8250df"/>
+<text x="806.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Retrospectiva</text>
+<text x="798.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >El equipo inspecciona cómo</text>
+<text x="798.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >trabajó y acuerda mejoras.</text>
+<path d="M897.25,229.0 V249.0 H142.75 V231.0" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="7 6" marker-end="url(#p-s79)"/>
+<text x="520" y="243" font-size="11.5" font-weight="600" fill="#59636e" text-anchor="middle" >el siguiente Sprint empieza al terminar el anterior</text>
+<rect x="28" y="265" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="287" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Tres roles: dueño del producto, desarrolladores y Scrum Master. Tres artefactos con su compromiso: backlog del producto (objetivo del</text>
+<text x="44" y="304.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >producto), backlog del Sprint (objetivo del Sprint) e incremento (definición de hecho).</text>
+<text x="28" y="351.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Scrum es un marco, no una metodología completa: deja sin definir muchas prácticas, que cada equipo debe decidir.</text>
 </svg>

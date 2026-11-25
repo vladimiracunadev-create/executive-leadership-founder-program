@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Jefe → Manager"
 outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir quality de Definition of Done mediante evidencia observable."
-  - "Aplicar la secuencia: definir calidad relevante al usuario y riesgo → crear DoD común → automatizar controles repetibles → detectar defectos cerca de origen → medir defect escape y rework."
-  - "Interpretar defect escape rate, rework, automated checks sin atribuir causalidad automática."
-  - "Resolver el caso de calidad y Definition of Done con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir criterios de aceptación, definición de hecho y definición de listo."
+  - "Redactar una definición de hecho verificable."
+  - "Explicar por qué la calidad se construye en el proceso y no se inspecciona al final."
+  - "Reconocer la deuda de calidad y sus costos."
+  - "Usar listas de verificación y automatización para sostener la calidad."
 deliverable: "operating-improvement-brief.md"
 references:
-  - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
-  - "Harold Kerzner — *Project Management*"
-  - "David J. Anderson — *Kanban*"
-  - "Atul Gawande — *The Checklist Manifesto*"
-  - "Gene Kim — *The Unicorn Project*"
   - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
+  - "Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*"
+  - "Atul Gawande — *The Checklist Manifesto*"
+  - "W. Edwards Deming — *Out of the Crisis*"
+  - "ISO — *ISO 9001 Quality management systems*"
 limits:
-  - "Una DoD maximalista puede bloquear aprendizaje temprano. Diferencia prototipo experimental de incremento de producción y aplica estándares acordes al propósito."
+  - "Una definición de hecho no garantiza calidad si los criterios son superficiales o si se cumplen de manera formal."
 evidence_signals:
-  - "defect escape rate"
-  - "rework"
-  - "automated checks"
-  - "DoD compliance"
-  - "customer incidents"
+  - "definición de hecho acordada"
+  - "verificaciones automatizadas"
+  - "deuda registrada"
+  - "calidad como criterio de decisión"

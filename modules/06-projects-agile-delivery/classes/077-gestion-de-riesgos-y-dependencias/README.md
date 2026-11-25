@@ -5,222 +5,190 @@
 <!-- nav:fin -->
 
 **Parte:** 06 — Proyectos, Agile y entrega  
-**Nivel:** Etapa 2 — Jefe → Manager  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Gestionar riesgos y dependencias es hacer visible lo que puede alterar el plan antes de que sea incidente. Riesgo combina probabilidad e impacto; dependencia condiciona secuencia o autonomía. Ambos requieren owner, respuesta, trigger y fecha, no una celda roja olvidada en una planilla.
+Casi todos los proyectos tienen un registro de riesgos. Muy pocos lo usan. Se llena al inicio, con riesgos genéricos («falta de recursos», «cambios de alcance»), se archiva y nadie lo vuelve a mirar hasta que ocurre el problema. Un riesgo gestionado es otra cosa: tiene un **dueño**, una **respuesta** acordada, una **señal de alerta** y una fecha de revisión. Y una parte importante de los riesgos de un proyecto son **dependencias**: algo que necesita de otro y que no controla.
 
-La salida de esta parte es **entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **gestión de riesgos y dependencias** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase usa el proceso de gestión de riesgos de la norma ISO 31000 y el marco de COSO para la gestión de riesgos empresariales, el análisis del PMBOK y la defensa de las listas de verificación de Atul Gawande, que mostró su valor en entornos de alta complejidad. Al terminar sabrás identificar riesgos y dependencias, priorizarlos, definir respuestas y mantenerlos vivos durante el proyecto.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `risk`, `issue`, `dependency`, `mitigation`, `contingency` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. identificar riesgos por objetivo → 2. priorizar exposición material → 3. asignar mitigación y contingency → 4. mapear dependencias con fechas y owners → 5. revisar triggers semanalmente** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** riesgos vencidos, issues que antes eran riesgos, dependencias sin compromiso sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** riesgo, problema, supuesto y dependencia.
+2. **Identificar** riesgos con técnicas simples y en grupo.
+3. **Priorizar** por probabilidad e impacto y elegir una respuesta.
+4. **Gestionar** dependencias como riesgos con dueño, fecha y consecuencia.
+5. **Mantener** el registro vivo con señales de alerta y revisiones.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define risk y issue sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con riesgos vencidos y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda un problema de un proyecto que alguien «había advertido»; ¿qué ocurrió con la advertencia? |
+| 20–60 min | Proceso de riesgos, priorización y respuestas. |
+| 60–105 min | Ejemplo trabajado: el registro de riesgos de un lanzamiento. |
+| 105–140 min | Caso ejecutivo: una dependencia externa que nadie vigiló. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **risk** | evento incierto que puede afectar objetivos | Distingue un hecho compatible y otro que lo refute. |
-| **issue** | problema que ya ocurrió | Distingue un hecho compatible y otro que lo refute. |
-| **dependency** | condición donde un deliverable depende de otro actor o trabajo | Distingue un hecho compatible y otro que lo refute. |
-| **mitigation** | acción que reduce probabilidad o impacto | Distingue un hecho compatible y otro que lo refute. |
-| **contingency** | respuesta preparada si el evento ocurre | Distingue un hecho compatible y otro que lo refute. |
+| **Riesgo** | Efecto de la incertidumbre sobre los objetivos (ISO 31000). | Es un evento posible, no ocurrido. |
+| **Problema** | Riesgo que ya ocurrió. | Hay que resolverlo, no gestionarlo. |
+| **Supuesto** | Condición que se da por cierta al planificar y que, si falla, afecta al plan. | Se puede verificar. |
+| **Dependencia** | Necesidad de que algo o alguien externo al control del equipo entregue algo a tiempo. | Tiene un proveedor y una fecha. |
+| **Respuesta al riesgo** | Decisión sobre cómo tratarlo: evitar, mitigar, transferir o aceptar (ISO 31000; PMI, PMBOK). | Está acordada y asignada. |
+| **Señal de alerta** | Indicio observable de que un riesgo se está materializando. | Se vigila con una medida. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 077: 1. identificar riesgos por objetivo → 2. priorizar exposición material → 3. asignar mitigación y contingency → 4. mapear dependencias con fechas y owners → 5. revisar triggers semanalmente](modelo-mental.svg)
+![Qué hacer con cada riesgo según probabilidad e impacto: un cuadrante con atender primero, mitigar ya, aceptar y vigilar, y reducir con rutina.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. identificar riesgos por objetivo → 2. priorizar exposición material → 3. asignar mitigación y contingency → 4. mapear dependencias con fechas y owners → 5. revisar triggers semanalmente
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Gestionar riesgos y dependencias es hacer visible lo que puede alterar el plan antes de que sea incidente. Riesgo combina probabilidad e impacto; dependencia condiciona secuencia o autonomía. Ambos requieren owner, respuesta, trigger y fecha, no una celda roja olvidada en una planilla.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un risk register enorme puede ocultar lo material. Distingue riesgos de proyecto de incertidumbre normal y escala los que afectan estrategia, seguridad o compliance.**
+**Cómo leer el diagrama.** El cuadrante ordena el esfuerzo: arriba a la derecha (muy probable y de alto impacto) se **mitiga ya**. Arriba a la izquierda (poco probable pero grave) requiere un **plan de contingencia** y un dueño. Abajo, lo de bajo impacto se acepta, se vigila o se reduce con rutina y listas de verificación. El orden nunca es perfecto: es un criterio para decidir dónde mirar.
 
 ## 📖 Desarrollo
 
-### 1. risk: mecanismo central
+### 1. Qué es un riesgo
 
-**risk** se entiende aquí como **evento incierto que puede afectar objetivos**. Esta es la pieza causal o estructural desde la que se inicia **gestión de riesgos y dependencias**: antes de identificar riesgos por objetivo, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La norma ISO 31000 define riesgo como el **efecto de la incertidumbre sobre los objetivos**: puede ser negativo (amenaza) o positivo (oportunidad). Un riesgo no es un problema: es algo que **podría** ocurrir. Si ya ocurrió, es un problema, y se gestiona como tal. Un buen enunciado tiene la forma «si [causa], entonces [evento], con efecto en [objetivo]»: «si el proveedor retrasa la entrega, el lanzamiento se atrasaría tres semanas».
 
-La lectura rectora de este bloque es Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*. Su aporte se usa para examinar **gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **riesgos vencidos**; regístrala con periodo, unidad, población y baseline.
+### 2. El proceso
 
-Relaciona el mecanismo con **issue**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+ISO 31000 describe un proceso general: establecer el **alcance, el contexto y los criterios**; **evaluar el riesgo** (identificar, analizar y valorar); **tratar el riesgo**; y **monitorear y revisar**, con **comunicación y consulta** en todo el ciclo y **registro e informe**. COSO propone integrar la gestión de riesgos con la estrategia y el desempeño de la organización. Para un proyecto, el proceso se simplifica: identificar, priorizar, responder, vigilar.
 
-### 2. issue: frontera conceptual y error de clasificación
+### 3. Identificar
 
-**Definición operacional:** problema que ya ocurrió. Su valor está en distinguirlo de **risk** y **dependency**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Se identifican riesgos con quienes conocen el trabajo: una reunión con el equipo y los interesados, revisión de **proyectos anteriores** (qué falló antes), listas de verificación, análisis de supuestos y de dependencias. Una técnica útil: el *pre-mortem* (clase 018): imaginar que el proyecto fracasó y escribir las causas. Gawande defiende las **listas de verificación** para riesgos conocidos y repetitivos: no sustituyen el juicio, pero evitan olvidar pasos esenciales cuando la complejidad es alta.
 
-Contrasta el problema con Harold Kerzner — *Project Management*, que aporta una mirada sobre **integración de proyectos, control, madurez y alineación organizacional**. Formula dos mini-casos: uno que sí satisface la definición de **issue** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **issues que antes eran riesgos** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Priorizar
 
-Antes de priorizar exposición material, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Se estima para cada riesgo la **probabilidad** (baja, media, alta) y el **impacto** (en plazo, costo, calidad y reputación), y se ubica en el cuadrante. Se priorizan los de mayor combinación y los de impacto muy alto aunque sean improbables. Las estimaciones son juicios: se explicitan los criterios y se revisan. Flyvbjerg y Gardner advierten que, en proyectos grandes, los resultados tienen «colas largas»: unos pocos eventos extremos explican gran parte del exceso de costo, de modo que los riesgos improbables y graves merecen atención.
 
-### 3. dependency: operacionalización y medición
+### 5. Responder
 
-**dependency** significa **condición donde un deliverable depende de otro actor o trabajo**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Cuatro respuestas clásicas ante una amenaza: **evitar** (cambiar el plan para eliminarla), **mitigar** (reducir probabilidad o impacto), **transferir** (pasar el riesgo a otro: seguro, contrato) y **aceptar** (con o sin plan de contingencia). Para cada riesgo importante se acuerda una respuesta, un **dueño**, una **acción** con fecha y, si corresponde, una **reserva** de tiempo o dinero. Un riesgo sin dueño no se gestiona.
 
-Gene Kim — *The Unicorn Project* orienta este bloque mediante **perspectiva de Operaciones tecnológicas aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **dependencias sin compromiso**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Dependencias
 
-Al llegar a asignar mitigación y contingency, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Una dependencia es un riesgo con nombre: **de quién**, **qué**, **para cuándo** y **qué pasa si no llega**. Se gestionan con: un **pedido formal** con fecha límite, confirmación de la contraparte, **seguimiento** periódico, una **fecha de decisión** para activar un plan B y escalamiento acordado. Muchas demoras de proyectos vienen de dependencias que se supusieron. Y el equipo que depende de otro debe decir con claridad qué necesita y para cuándo (clase 075).
 
-### 4. mitigation: trade-offs y efectos de segundo orden
+### 7. Mantenerlo vivo
 
-**Definición:** acción que reduce probabilidad o impacto. Este concepto obliga a abandonar la idea de que **gestión de riesgos y dependencias** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de mapear dependencias con fechas y owners, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-David J. Anderson — *Kanban* aporta una lente sobre **flujo, trabajo en proceso, políticas explícitas y evolución del sistema**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **exposición residual** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **gestión de riesgos y dependencias**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **mitigation** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. contingency: gobernanza, límites e integración
-
-**contingency** se define como **respuesta preparada si el evento ocurre** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Eliyahu M. Goldratt & Jeff Cox — *The Goal* se utiliza para estudiar **restricciones, throughput, inventario y pensamiento de flujo** y contrastar la recomendación final. Al ejecutar revisar triggers semanalmente, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un risk register enorme puede ocultar lo material. Distingue riesgos de proyecto de incertidumbre normal y escala los que afectan estrategia, seguridad o compliance.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **risk**, **issue**, **dependency**, **mitigation** y **contingency** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **gestión de riesgos y dependencias** no consiste en sumar cinco definiciones. Empieza por **risk**, contrasta **issue** con **dependency**, incorpora **mitigation** como restricción o mecanismo y usa **contingency** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. identificar riesgos por objetivo → 2. priorizar exposición material → 3. asignar mitigación y contingency → 4. mapear dependencias con fechas y owners → 5. revisar triggers semanalmente**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El registro se **revisa** en cada reunión de seguimiento: ¿cambió la probabilidad?, ¿apareció un riesgo nuevo?, ¿se activó una señal de alerta?, ¿se cumplieron las acciones? Los riesgos que ocurren pasan a problemas; los que pasaron se cierran. Se comunica a los interesados los riesgos principales y las decisiones que necesitan. Y se evita un registro enorme: es mejor diez riesgos bien gestionados que cien en una planilla.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* | gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor | ¿Qué supuesto de **gestión de riesgos y dependencias** ayuda a desafiar? |
-| Harold Kerzner — *Project Management* | integración de proyectos, control, madurez y alineación organizacional | ¿Qué supuesto de **gestión de riesgos y dependencias** ayuda a desafiar? |
-| Gene Kim — *The Unicorn Project* | perspectiva de Operaciones tecnológicas aplicada al problema de la clase | ¿Qué supuesto de **gestión de riesgos y dependencias** ayuda a desafiar? |
-| David J. Anderson — *Kanban* | flujo, trabajo en proceso, políticas explícitas y evolución del sistema | ¿Qué supuesto de **gestión de riesgos y dependencias** ayuda a desafiar? |
-| Eliyahu M. Goldratt & Jeff Cox — *The Goal* | restricciones, throughput, inventario y pensamiento de flujo | ¿Qué supuesto de **gestión de riesgos y dependencias** ayuda a desafiar? |
-
-En **gestión de riesgos y dependencias**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **risk**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| ISO 31000 | Proceso general de gestión de riesgos. | Es general, no específico de proyectos. | ¿Qué criterios usas para valorar? |
+| COSO ERM | Integración del riesgo con la estrategia. | Su enfoque es empresarial. | ¿Cómo se relaciona tu riesgo con un objetivo? |
+| PMI, PMBOK | Identificación, análisis cualitativo y respuestas en proyectos. | Supone un plan estable. | ¿Quién es dueño de cada riesgo? |
+| Gawande (2009) | Listas de verificación para riesgos conocidos. | No trata de riesgos nuevos. | ¿Qué pasos esenciales no deberías olvidar? |
+| Flyvbjerg y Gardner (2023) | Colas largas y eventos extremos en proyectos. | Se centra en gran escala. | ¿Qué riesgo improbable y grave no estás mirando? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una integración depende de un proveedor que aún no firmó API SLA. El proyecto la marca 'verde' porque el equipo interno está en fecha.
+**Situación (hipotética).** Un equipo prepara el lanzamiento de un servicio. Reúne a ocho personas para identificar riesgos y obtiene este registro resumido.
 
-**Paso 1 — identificar riesgos por objetivo.** La gerencia escribe primero el supuesto asociado a **risk** y evita convertirlo en hecho. Luego busca **riesgos vencidos** para contrastarlo en el caso de **gestión de riesgos y dependencias**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Riesgo | Prob. | Impacto | Respuesta | Dueño | Señal de alerta |
+|---|---|---|---|---|---|
+| Si el proveedor de pagos retrasa la aprobación, el lanzamiento se atrasa 3 semanas. | Media | Alto | Mitigar: pedir la aprobación el día 1, con seguimiento semanal; plan B: pasarela alternativa. | Jefa de proyecto | Sin confirmación al día 15. |
+| Si el especialista clave renuncia, se pierde el conocimiento del sistema. | Baja | Alto | Mitigar: documentar y capacitar a un segundo; contingencia: contrato con consultor. | Gerente técnico | Cambios en su desempeño o clima. |
+| Si la carga inicial supera lo previsto, el servicio se degrada. | Alta | Medio | Mitigar: pruebas de carga y escalamiento automático. | Líder de plataforma | Pruebas con latencia > 2 s. |
+| Si los usuarios no adoptan el servicio, el beneficio no se logra. | Media | Alto | Mitigar: piloto con cinco clientes y capacitación. | Producto | Menos del 50 % de uso en 30 días. |
 
-**Paso 2 — priorizar exposición material.** La gerencia escribe primero el supuesto asociado a **issue** y evita convertirlo en hecho. Luego busca **issues que antes eran riesgos** para contrastarlo en el caso de **gestión de riesgos y dependencias**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Dependencias registradas.** Aprobación del proveedor de pagos (pedida el 3 de marzo, confirmada el 14); revisión legal de términos (fecha límite 20 de marzo; escala al director si no hay respuesta).
 
-**Paso 3 — asignar mitigación y contingency.** La gerencia escribe primero el supuesto asociado a **dependency** y evita convertirlo en hecho. Luego busca **dependencias sin compromiso** para contrastarlo en el caso de **gestión de riesgos y dependencias**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Revisión.** Cada semana, 15 minutos: señales, acciones y riesgos nuevos. A los 15 días, la señal del proveedor se activó y el equipo pasó al plan B.
 
-**Paso 4 — mapear dependencias con fechas y owners.** La gerencia escribe primero el supuesto asociado a **mitigation** y evita convertirlo en hecho. Luego busca **exposición residual** para contrastarlo en el caso de **gestión de riesgos y dependencias**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — revisar triggers semanalmente.** La gerencia escribe primero el supuesto asociado a **contingency** y evita convertirlo en hecho. Luego busca **contingencias activadas** para contrastarlo en el caso de **gestión de riesgos y dependencias**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **gestión de riesgos y dependencias**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Los riesgos se enunciaron con causa, evento y efecto. (2) Cada uno tiene respuesta, dueño y señal. (3) La revisión semanal permitió reaccionar a tiempo.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **risk** | evento incierto que puede afectar objetivos | Cuando riesgos vencidos es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **issue** | problema que ya ocurrió | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Riesgo frente a incertidumbre.** Un riesgo supone que se pueden estimar probabilidades; la incertidumbre profunda, no. Ante esta, conviene reducir la exposición y mantener opciones (clase 044).
 
-**Frontera de aplicación:** Un risk register enorme puede ocultar lo material. Distingue riesgos de proyecto de incertidumbre normal y escala los que afectan estrategia, seguridad o compliance.
+**Límites.** Las probabilidades de un registro son juicios y a menudo infravaloran los eventos extremos. Un registro puede crear una falsa sensación de control. Los marcos como ISO 31000 y COSO son generales y requieren adaptación. Y la gestión de riesgos tiene costo: gestionar de más consume el tiempo que debería dedicarse a trabajar.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre gestión de riesgos y dependencias |
+| Nivel | Cómo gestiona el riesgo |
 |---|---|
-| **Profesional** | usa **gestión de riesgos y dependencias** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **risk** y **issue** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta riesgos vencidos con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si gestión de riesgos y dependencias cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de gestión de riesgos y dependencias reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **gestión de riesgos y dependencias** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Señala riesgos y dependencias de su trabajo a tiempo. |
+| **Jefe / Team Lead** | Mantiene el registro vivo y asigna dueños. |
+| **Gerente** | Escala los riesgos que superan su autoridad y vigila las dependencias entre proyectos. |
+| **CEO / Director** | Define el apetito de riesgo y revisa los riesgos principales del portafolio. |
+| **Founder / Owner** | Decide qué riesgo asumir con su patrimonio y qué transferir. |
 
 ## 🏢 Caso ejecutivo
 
-Una integración depende de un proveedor que aún no firmó API SLA. El proyecto la marca 'verde' porque el equipo interno está en fecha.
+Una empresa de servicios lanza una plataforma nueva en seis semanas. El equipo depende de tres terceros: un proveedor de identificación de clientes, un banco para pagos y una consultora de integración. Nadie tiene confirmaciones por escrito; el registro de riesgos fue elaborado hace tres meses y no se ha tocado. A cuatro semanas del lanzamiento, el banco informa que su proceso de certificación tarda ocho semanas. El patrocinador pregunta: «¿por qué no se avisó?».
 
-Entrega un **decision brief de gestión de riesgos y dependencias** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de gestión de riesgos y dependencias** que contenga: (a) el inventario de dependencias con fecha límite y estado; (b) el registro de los diez riesgos principales con respuesta, dueño y señal; (c) la respuesta al problema del banco con opciones y costos; (d) el ritmo de revisión; (e) qué comunicarás al patrocinador; (f) cómo evitarás que se repita.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **gestión de riesgos y dependencias** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. identificar riesgos por objetivo → 2. priorizar exposición material → 3. asignar mitigación y contingency → 4. mapear dependencias con fechas y owners → 5. revisar triggers semanalmente** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta riesgos vencidos, issues que antes eran riesgos; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Redacta cinco riesgos de un proyecto tuyo con la forma «si… entonces… con efecto en…».
+2. Ubícalos en el cuadrante y elige una respuesta para los tres principales.
+3. Lista tus dependencias externas con fecha límite y quién las confirma.
+4. Define una señal de alerta medible para dos riesgos.
+5. Haz un *pre-mortem* de 15 minutos con tu equipo y registra tres hallazgos.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar risk y issue como sinónimos | Se pierde la distinción entre “evento incierto que puede afectar objetivos” y “problema que ya ocurrió” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “revisar triggers semanalmente” | Se saltó “identificar riesgos por objetivo” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. identificar riesgos por objetivo → 2. priorizar exposición material → 3. asignar mitigación y contingency → 4. mapear dependencias con fechas y owners → 5. revisar triggers semanalmente y marca el primer supuesto no demostrado. |
-| Optimizar solo riesgos vencidos | La métrica local sustituyó al resultado del sistema | Contrástala con issues que antes eran riesgos y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre gestión de riesgos y dependencias | Un risk register enorme puede ocultar lo material. Distingue riesgos de proyecto de incertidumbre normal y escala los que afectan estrategia, seguridad o compliance. |
-| No fijar revisión | Una decisión sobre gestión de riesgos y dependencias se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Riesgos genéricos | Se llena por cumplir | Causa, evento y efecto específicos. |
+| Sin dueño | Se supone que lo vigila todos | Un responsable por riesgo. |
+| Registro que no se revisa | Se archiva | Revisión en cada reunión. |
+| Dependencias supuestas | Se confía | Pedido formal, confirmación y seguimiento. |
+| Ignorar lo improbable y grave | Son poco probables | Plan de contingencia y vigilancia de señales. |
+| Cien riesgos | Se quiere ser exhaustivo | Diez bien gestionados. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **risk** y **issue** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **dependency** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **identificar riesgos por objetivo → priorizar exposición material** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **riesgos vencidos** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **gestión de riesgos y dependencias**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un risk register enorme puede ocultar lo material. Distingue riesgos de proyecto de incertidumbre normal y escala los que afectan estrategia, seguridad o compliance.**?
+1. ¿Qué diferencia hay entre riesgo y problema?
+2. ¿Qué cuatro respuestas hay ante una amenaza?
+3. ¿Cómo se enuncia bien un riesgo?
+4. ¿Por qué una dependencia es un riesgo?
+5. ¿Qué es una señal de alerta?
+6. ¿Para qué sirven las listas de verificación según Gawande?
+7. ¿Qué límite tiene un registro de riesgos?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El riesgo es un evento posible; el problema, un riesgo que ya ocurrió.
+2. Evitar, mitigar, transferir y aceptar.
+3. Con causa, evento y efecto: «si… entonces… con efecto en…».
+4. Porque el equipo necesita algo que no controla y puede no llegar a tiempo.
+5. Un indicio observable de que el riesgo se está materializando.
+6. Para evitar olvidar pasos esenciales en riesgos conocidos y repetitivos cuando la complejidad es alta.
+7. Las probabilidades son juicios que infravaloran extremos, puede dar falsa sensación de control y gestionar de más consume tiempo.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/077-gestion-de-riesgos-y-dependencias/`:
 
-- `risk-governance-brief.md` con el problema específico de **gestión de riesgos y dependencias**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **gestión de riesgos y dependencias** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **risk**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una integración depende de un proveedor que aún no firmó API SLA. El proyecto la marca 'verde' porque el equipo interno está en fecha.** y el dato que podría invalidar la recomendación.
+- `risk-register.md` (plantilla [Risk register](../../../../templates/risk-register.md)) con el registro del caso ejecutivo;
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con la respuesta al problema del banco;
+- `decision-journal.md` con las revisiones y las señales activadas.
 
 ## 📗 Fuentes y verificación
 
-- Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* (1996). **Uso en esta clase:** gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor. Lectura selectiva sobre **gestión de riesgos y dependencias**. **Localizador:** [ISBN-13 9781880410127](https://openlibrary.org/isbn/9781880410127).
-- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** integración de proyectos, control, madurez y alineación organizacional. Lectura selectiva sobre **gestión de riesgos y dependencias**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
-- Gene Kim — *The Unicorn Project* (IT Revolution Press, 2019). **Uso en esta clase:** perspectiva de Operaciones tecnológicas aplicada al problema de la clase. Lectura selectiva sobre **gestión de riesgos y dependencias**. **Localizador:** [ISBN-13 9781942788768](https://openlibrary.org/isbn/9781942788768).
-- David J. Anderson — *Kanban* (Blue hole press, 2010). **Uso en esta clase:** flujo, trabajo en proceso, políticas explícitas y evolución del sistema. Lectura selectiva sobre **gestión de riesgos y dependencias**. **Localizador:** [ISBN-13 9780984521401](https://openlibrary.org/isbn/9780984521401).
-- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** restricciones, throughput, inventario y pensamiento de flujo. Lectura selectiva sobre **gestión de riesgos y dependencias**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
-- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** empirismo, transparencia, inspección y adaptación. **Fuente primaria:** <https://scrumguides.org/>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **gestión de riesgos y dependencias** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **gestión de riesgos y dependencias**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **gestión de riesgos y dependencias** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **gestión de riesgos y dependencias** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **gestión de riesgos y dependencias** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- ISO — *ISO 31000 Risk management*. **Uso en esta clase:** proceso general de gestión de riesgos. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
+- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** integración de la gestión de riesgos con la estrategia. **Fuente primaria:** <https://www.coso.org/>.
+- Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* (1996). **Uso en esta clase:** identificación, análisis y respuestas a riesgos en proyectos. Lectura selectiva sobre **gestión de riesgos y dependencias**. **Localizador:** [ISBN-13 9781880410127](https://openlibrary.org/isbn/9781880410127).
+- Atul Gawande — *The Checklist Manifesto* (Penguin Random House, 2014). **Uso en esta clase:** listas de verificación para riesgos conocidos. Lectura selectiva sobre **gestión de riesgos y dependencias**. **Localizador:** [ISBN-13 9780143423225](https://openlibrary.org/isbn/9780143423225).
+- Bent Flyvbjerg & Dan Gardner — *How Big Things Get Done* (Currency, 2023). **Uso en esta clase:** colas largas y eventos extremos en proyectos. Lectura selectiva sobre **gestión de riesgos y dependencias**. **Localizador:** [ISBN-13 9780593239513](https://openlibrary.org/isbn/9780593239513).
 
-> **Regla de fuentes para Gestión de riesgos y dependencias:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **gestión de riesgos y dependencias** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Gestión de riesgos y dependencias:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

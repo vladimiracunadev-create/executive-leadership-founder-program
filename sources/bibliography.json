@@ -320,6 +320,8 @@
         "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
         "modules/05-talent-people-management/classes/070-sucesion-y-liderazgo-interno",
         "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion",
+        "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio",
+        "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
         "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
       ],
@@ -365,18 +367,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
-        "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
-        "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
-        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
-        "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
-        "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
-        "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio",
-        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
-        "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
-        "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
-        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
-        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica",
         "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
         "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
         "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
@@ -795,9 +785,7 @@
       "locator": "https://openlibrary.org/isbn/9780143423225",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
-        "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
-        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
+        "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
         "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done"
       ],
       "status": "verificada",
@@ -1141,6 +1129,7 @@
       "locator": "https://www.coso.org/",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
@@ -1628,12 +1617,7 @@
       "locator": "https://openlibrary.org/isbn/9780984521401",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
-        "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
-        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
-        "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
-        "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio",
-        "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
+        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
         "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica"
       ],
       "status": "verificada",
@@ -1939,7 +1923,8 @@
         "modules/01-critical-thinking-and-decisions/classes/020-efectos-de-segundo-orden",
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
+        "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa"
       ],
       "status": "verificada",
       "authority": "Earthscan"
@@ -2060,11 +2045,7 @@
       "locator": "https://openlibrary.org/isbn/9781622313945",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
-        "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
-        "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio",
-        "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
-        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica",
+        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
         "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
         "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
         "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
@@ -2262,51 +2243,6 @@
       "status": "verificada"
     },
     {
-      "id": "gene-kim-et-al-the-phoenix-project",
-      "type": "book",
-      "authors": [
-        "Kim, Gene",
-        "et al."
-      ],
-      "title": "The Phoenix Project",
-      "cited_as": "Gene Kim et al. — The Phoenix Project",
-      "published": "2018",
-      "isbn13": "9781942788294",
-      "locator": "https://openlibrary.org/isbn/9781942788294",
-      "accessed": "2026-08-19",
-      "used_in": [
-        "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
-        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
-        "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio",
-        "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
-        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados"
-      ],
-      "status": "verificada",
-      "authority": "IT Revolution Press"
-    },
-    {
-      "id": "gene-kim-the-unicorn-project",
-      "type": "book",
-      "authors": [
-        "Kim, Gene"
-      ],
-      "title": "The Unicorn Project",
-      "cited_as": "Gene Kim — The Unicorn Project",
-      "published": "2019",
-      "isbn13": "9781942788768",
-      "locator": "https://openlibrary.org/isbn/9781942788768",
-      "accessed": "2026-08-19",
-      "used_in": [
-        "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
-        "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
-        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
-        "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
-        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica"
-      ],
-      "status": "verificada",
-      "authority": "IT Revolution Press"
-    },
-    {
       "id": "geoffrey-a-moore-crossing-the-chasm",
       "type": "book",
       "authors": [
@@ -2398,18 +2334,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
-        "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
-        "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
-        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
-        "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
-        "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
-        "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio",
-        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
-        "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
-        "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
-        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
-        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica",
         "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
         "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
         "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
@@ -2679,13 +2603,7 @@
         "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
         "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
         "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
-        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
-        "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
-        "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
-        "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio",
-        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
         "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
-        "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
         "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
         "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica"
       ],
@@ -2837,6 +2755,7 @@
       "note": "iso.org responde HTTP 403 a cualquier cliente automatizado, así que el verificador no puede comprobar la página de la norma; consultar el catálogo oficial de ISO a mano",
       "accessed": "",
       "used_in": [
+        "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
@@ -2858,6 +2777,7 @@
       "note": "iso.org responde HTTP 403 a cualquier cliente automatizado, así que el verificador no puede comprobar la página de la norma; consultar el catálogo oficial de ISO a mano",
       "accessed": "",
       "used_in": [
+        "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
         "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
         "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones",
         "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
@@ -3232,15 +3152,10 @@
       "used_in": [
         "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
         "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
-        "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
-        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
-        "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
         "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
         "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio",
         "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
-        "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
         "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
-        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
         "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica"
       ],
       "status": "verificada"
@@ -3825,11 +3740,6 @@
       "locator": "https://openlibrary.org/isbn/9780066621128",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
-        "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
-        "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
-        "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
-        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
         "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
         "modules/07-operations-process-quality/classes/088-capacidad-y-demanda",
         "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
@@ -4015,11 +3925,9 @@
       "locator": "https://openlibrary.org/isbn/9781942788379",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
-        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
         "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
-        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
-        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
+        "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio",
+        "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
         "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
         "modules/19-technology-data-ai-digital-transformation/classes/233-portafolio-de-ia-y-casos-de-negocio",
         "modules/19-technology-data-ai-digital-transformation/classes/236-build-buy-partner-o-retire",
@@ -4279,18 +4187,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
-        "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
-        "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
-        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
-        "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
-        "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
-        "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio",
-        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
-        "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
-        "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
-        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
-        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica",
         "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
         "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
         "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
@@ -4732,15 +4628,8 @@
         "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
         "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
         "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
-        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
         "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
-        "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
-        "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio",
-        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
-        "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
-        "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
-        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
-        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica"
+        "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto"
       ],
       "status": "verificada",
       "authority": "Project Management Institute"
@@ -5753,18 +5642,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
-        "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
-        "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
-        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
-        "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
-        "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
-        "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio",
-        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
-        "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
-        "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
-        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
-        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica",
         "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
         "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
         "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
@@ -6189,6 +6066,7 @@
       "locator": "https://openlibrary.org/isbn/9780262541152",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
         "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
         "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
         "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
@@ -6239,18 +6117,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
-        "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
-        "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
-        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
-        "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
-        "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
-        "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio",
-        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
-        "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
-        "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
-        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
-        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica",
         "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
         "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
         "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
@@ -6473,7 +6339,8 @@
       "accessed": "2026-11-25",
       "used_in": [
         "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
-        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular"
+        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
+        "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto"
       ],
       "status": "verificada"
     },
@@ -6827,7 +6694,10 @@
         "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
         "modules/04-team-leadership/classes/052-confianza-y-vulnerabilidad-profesional",
         "modules/04-team-leadership/classes/059-equipos-hibridos-y-distribuidos",
-        "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional"
+        "modules/04-team-leadership/classes/060-capstone-recuperar-un-equipo-disfuncional",
+        "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
+        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
+        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica"
       ],
       "status": "verificada"
     },
@@ -7005,7 +6875,8 @@
         "modules/04-team-leadership/classes/050-proposito-objetivos-y-team-charter",
         "modules/04-team-leadership/classes/058-accountability-sin-microgestion",
         "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
-        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora"
+        "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
+        "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito"
       ],
       "status": "verificada"
     },
@@ -7329,7 +7200,167 @@
       "used_in": [
         "modules/05-talent-people-management/classes/063-atraccion-y-seleccion",
         "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
-        "modules/05-talent-people-management/classes/066-gestion-de-desempeno"
+        "modules/05-talent-people-management/classes/066-gestion-de-desempeno",
+        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "roger-buehler-dale-griffin-michael-ross-exploring-the-planning-fallacy-why-peopl",
+      "type": "paper",
+      "authors": [
+        "Buehler, Roger",
+        "Griffin, Dale",
+        "Ross, Michael"
+      ],
+      "title": "Exploring the \"planning fallacy\": Why people underestimate their task completion times",
+      "cited_as": "Roger Buehler, Dale Griffin & Michael Ross — Exploring the \"planning fallacy\": Why people underestimate their task completion times",
+      "authority": "Journal of Personality and Social Psychology",
+      "published": "1994",
+      "doi": "10.1037/0022-3514.67.3.366",
+      "locator": "https://doi.org/10.1037/0022-3514.67.3.366",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
+        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "bent-flyvbjerg-from-nobel-prize-to-project-management-getting-risks-right",
+      "type": "paper",
+      "authors": [
+        "Flyvbjerg, Bent"
+      ],
+      "title": "From Nobel Prize to Project Management: Getting Risks Right",
+      "cited_as": "Bent Flyvbjerg — From Nobel Prize to Project Management: Getting Risks Right",
+      "authority": "Project Management Journal",
+      "published": "2006",
+      "doi": "10.1177/875697280603700302",
+      "locator": "https://doi.org/10.1177/875697280603700302",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "john-d-c-little-a-proof-for-the-queuing-formula-l-w",
+      "type": "paper",
+      "authors": [
+        "Little, John D. C."
+      ],
+      "title": "A Proof for the Queuing Formula: L = λW",
+      "cited_as": "John D. C. Little — A Proof for the Queuing Formula: L = λW",
+      "authority": "Operations Research",
+      "published": "1961",
+      "doi": "10.1287/opre.9.3.383",
+      "locator": "https://doi.org/10.1287/opre.9.3.383",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "bent-flyvbjerg-dan-gardner-how-big-things-get-done",
+      "type": "book",
+      "authors": [
+        "Flyvbjerg, Bent",
+        "Gardner, Dan"
+      ],
+      "title": "How Big Things Get Done",
+      "cited_as": "Bent Flyvbjerg & Dan Gardner — How Big Things Get Done",
+      "authority": "Currency",
+      "published": "2023",
+      "isbn13": "9780593239513",
+      "locator": "https://openlibrary.org/isbn/9780593239513",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/06-projects-agile-delivery/classes/073-proyecto-producto-operacion-y-programa",
+        "modules/06-projects-agile-delivery/classes/074-definicion-de-alcance-y-exito",
+        "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
+        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
+        "modules/06-projects-agile-delivery/classes/077-gestion-de-riesgos-y-dependencias",
+        "modules/06-projects-agile-delivery/classes/081-stakeholders-y-gobernanza-de-proyecto",
+        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados",
+        "modules/06-projects-agile-delivery/classes/084-capstone-rescate-de-una-iniciativa-critica"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "mike-cohn-agile-estimating-and-planning",
+      "type": "book",
+      "authors": [
+        "Cohn, Mike"
+      ],
+      "title": "Agile Estimating and Planning",
+      "cited_as": "Mike Cohn — Agile Estimating and Planning",
+      "authority": "Prentice Hall",
+      "published": "2005",
+      "isbn13": "9780131479418",
+      "locator": "https://openlibrary.org/isbn/9780131479418",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/06-projects-agile-delivery/classes/076-estimacion-y-capacidad",
+        "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "donald-g-reinertsen-the-principles-of-product-development-flow",
+      "type": "book",
+      "authors": [
+        "Reinertsen, Donald G."
+      ],
+      "title": "The Principles of Product Development Flow",
+      "cited_as": "Donald G. Reinertsen — The Principles of Product Development Flow",
+      "authority": "Celeritas Publishing",
+      "published": "2009",
+      "isbn13": "9781935401001",
+      "locator": "https://openlibrary.org/isbn/9781935401001",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
+        "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
+        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "eliyahu-m-goldratt-critical-chain",
+      "type": "book",
+      "authors": [
+        "Goldratt, Eliyahu M."
+      ],
+      "title": "Critical Chain",
+      "cited_as": "Eliyahu M. Goldratt — Critical Chain",
+      "authority": "North River Press",
+      "published": "1997",
+      "isbn13": "9780884271536",
+      "locator": "https://openlibrary.org/isbn/9780884271536",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/06-projects-agile-delivery/classes/075-work-breakdown-y-planificacion",
+        "modules/06-projects-agile-delivery/classes/083-recuperacion-de-proyectos-atrasados"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "kent-beck-et-al-manifesto-for-agile-software-development",
+      "type": "standard",
+      "authors": [
+        "Beck, Kent et al."
+      ],
+      "title": "Manifesto for Agile Software Development",
+      "cited_as": "Kent Beck et al. — Manifesto for Agile Software Development",
+      "authority": "agilemanifesto.org",
+      "url": "https://agilemanifesto.org/",
+      "locator": "https://agilemanifesto.org/",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
+        "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio"
       ],
       "status": "verificada"
     }

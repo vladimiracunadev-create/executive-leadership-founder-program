@@ -5,222 +5,189 @@
 <!-- nav:fin -->
 
 **Parte:** 06 — Proyectos, Agile y entrega  
-**Nivel:** Etapa 2 — Jefe → Manager  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Recuperar un proyecto atrasado comienza por obtener una fecha y alcance honestos, no por exigir más optimismo. Se reconstruye critical path, capacidad, work in progress, riesgos y calidad; luego se recorta, resecuencia o añade capacidad solo donde realmente cambia el cuello.
+Un proyecto atrasado despierta dos reflejos opuestos y casi siempre equivocados: **más presión** («trabajen horas extra») y **más gente** («sumemos personas»). Ambos tratan el atraso como un problema de esfuerzo cuando suele ser un problema de **información, de decisiones y de alcance**: se sabe tarde cuánto falta, se decide sin datos y se pretende entregar todo lo prometido con menos tiempo del necesario. Recuperar un proyecto exige cambiar el orden de las decisiones.
 
-La salida de esta parte es **entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **recuperación de proyectos atrasados** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase usa los datos de Flyvbjerg y Gardner sobre cómo los grandes proyectos se desvían, la exposición de Kerzner sobre control y recuperación de proyectos y las herramientas de estimación, riesgo y gobernanza de las clases anteriores. Al terminar sabrás **diagnosticar** el estado real de un proyecto, **replanificar con una base honesta**, decidir entre recortar alcance, mover la fecha o agregar recursos y comunicarlo sin perder la confianza de los interesados.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `rebaseline`, `critical path`, `scope cut`, `crashing`, `fast tracking` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. detener nuevas promesas → 2. medir avance real y trabajo restante → 3. reconstruir critical path y capacidad → 4. comparar recorte, resecuencia y recursos → 5. comunicar nuevo baseline con riesgos** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** schedule variance, remaining work, critical path duration sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Diagnosticar** el estado real de un proyecto: avance, capacidad, causas del atraso.
+2. **Detener** el deterioro: congelar alcance y frenar lo no esencial.
+3. **Replanificar** con estimaciones en rango y capacidad medida.
+4. **Decidir** entre recortar alcance, mover fecha o agregar recursos, con sus efectos.
+5. **Decidir** cuándo conviene detener el proyecto y cerrarlo de forma ordenada.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define rebaseline y critical path sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con schedule variance y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda un proyecto que se atrasó; ¿cuándo supo realmente quien decidía que estaba atrasado? |
+| 20–60 min | Diagnóstico, replanificación y decisión. |
+| 60–105 min | Ejemplo trabajado: un proyecto atrasado cuatro meses. |
+| 105–140 min | Caso ejecutivo: «sumemos gente». |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **rebaseline** | establecimiento de un plan realista basado en estado actual | Distingue un hecho compatible y otro que lo refute. |
-| **critical path** | secuencia que controla fecha final | Distingue un hecho compatible y otro que lo refute. |
-| **scope cut** | eliminación deliberada de alcance para proteger outcome principal | Distingue un hecho compatible y otro que lo refute. |
-| **crashing** | aumento de recursos para reducir duración de actividades críticas | Distingue un hecho compatible y otro que lo refute. |
-| **fast tracking** | solapar trabajo antes secuencial aumentando riesgo | Distingue un hecho compatible y otro que lo refute. |
+| **Atraso** | Diferencia entre el avance real y el esperado según el plan vigente. | Se mide con hechos. |
+| **Diagnóstico de causas** | Análisis de por qué ocurrió: estimación, alcance, capacidad, dependencias o decisiones. | Se separan los síntomas de las causas. |
+| **Triple restricción** | Relación entre alcance, plazo y costo: cambiar uno afecta a los otros (Kerzner, 2017). | Se ve el efecto de cada decisión. |
+| **Línea base nueva** | Plan revisado, con una base realista, aprobado por quien decide. | Reemplaza a la anterior. |
+| **Compromiso creciente (escalada)** | Tendencia a continuar con un proyecto fallido por lo ya invertido. | Se invoca «lo que ya gastamos». |
+| **Cierre ordenado** | Detener un proyecto de modo que se rescate valor y se aprenda. | Hay decisión, registro y traspaso. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 083: 1. detener nuevas promesas → 2. medir avance real y trabajo restante → 3. reconstruir critical path y capacidad → 4. comparar recorte, resecuencia y recursos → 5. comunicar nuevo baseline con riesgos](modelo-mental.svg)
+![Recuperar un proyecto atrasado: detener la hemorragia, diagnosticar, replanificar, decidir sobre el triple vínculo y comunicar y seguir.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. detener nuevas promesas → 2. medir avance real y trabajo restante → 3. reconstruir critical path y capacidad → 4. comparar recorte, resecuencia y recursos → 5. comunicar nuevo baseline con riesgos
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Recuperar un proyecto atrasado comienza por obtener una fecha y alcance honestos, no por exigir más optimismo. Se reconstruye critical path, capacidad, work in progress, riesgos y calidad; luego se recorta, resecuencia o añade capacidad solo donde realmente cambia el cuello.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Más personas pueden retrasar trabajo altamente acoplado por onboarding y coordinación. Recuperación no es sinónimo de horas extra; prueba si la intervención cambia el critical path.**
+**Cómo leer el diagrama.** Cinco pasos con orden deliberado. Primero, **detener** lo que empeora el atraso (el alcance que sigue creciendo). Luego, **diagnosticar** con hechos y capacidad medida. Después, **replanificar** con base realista. Solo entonces se **decide** qué mover: alcance, fecha o recursos. Por último, **comunicar** con honestidad y dar seguimiento frecuente. La decisión llega tras el diagnóstico, no antes.
 
 ## 📖 Desarrollo
 
-### 1. rebaseline: mecanismo central
+### 1. Por qué se atrasan los proyectos
 
-**rebaseline** se entiende aquí como **establecimiento de un plan realista basado en estado actual**. Esta es la pieza causal o estructural desde la que se inicia **recuperación de proyectos atrasados**: antes de detener nuevas promesas, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Flyvbjerg y Gardner reúnen una base de datos de miles de proyectos y concluyen que los excesos de costo y de plazo son frecuentes, y que muchos nacen **antes** de la ejecución: estimaciones optimistas, decisiones apresuradas y planificación insuficiente. Entre las causas en la ejecución: cambios de alcance sin decisión, dependencias que se retrasan, capacidad menor a la supuesta y problemas conocidos que nadie reportó a tiempo. Reconocerlo ayuda a recuperar sin buscar culpables.
 
-La lectura rectora de este bloque es Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*. Su aporte se usa para examinar **gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **schedule variance**; regístrala con periodo, unidad, población y baseline.
+### 2. Detener la hemorragia
 
-Relaciona el mecanismo con **critical path**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El primer paso es evitar que el atraso crezca: **congelar** el alcance y los cambios no esenciales, detener iniciativas paralelas que consumen al equipo y fijar un **responsable único** de la recuperación. También se suspende, por unos días, la presión por fechas que ya no son realistas, para obtener información veraz. Una persona que teme represalias oculta lo que pasa (clase 042).
 
-### 2. critical path: frontera conceptual y error de clasificación
+### 3. Diagnosticar con hechos
 
-**Definición operacional:** secuencia que controla fecha final. Su valor está en distinguirlo de **rebaseline** y **scope cut**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El diagnóstico responde: **¿cuánto trabajo queda realmente?** (se descompone lo que falta, clase 075); **¿cuál es la capacidad real?** (el rendimiento medido de las últimas semanas, clase 076); **¿qué dependencias están en riesgo?** (clase 077); **¿qué decisiones se postergaron?** y **¿qué causas se repiten?** Se evita el diagnóstico por opinión: se usan datos del avance, del rendimiento y de los defectos. El resultado es un cuadro honesto: «faltan 14 semanas con la capacidad actual».
 
-Contrasta el problema con Harold Kerzner — *Project Management*, que aporta una mirada sobre **integración de proyectos, control, madurez y alineación organizacional**. Formula dos mini-casos: uno que sí satisface la definición de **critical path** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **remaining work** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Replanificar
 
-Antes de medir avance real y trabajo restante, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Con el diagnóstico, se construye un nuevo plan: **estimaciones en rangos**, con la visión desde afuera (clase 076); **ruta crítica** y dependencias; **márgenes** visibles; y **hitos cortos** que permitan comprobar el avance cada una o dos semanas. El plan anterior se archiva: seguir con el original es mantener una ficción. Se evita comprometer una fecha única; se informa el rango y se actualiza con frecuencia.
 
-### 3. scope cut: operacionalización y medición
+### 5. Decidir sobre el triple vínculo
 
-**scope cut** significa **eliminación deliberada de alcance para proteger outcome principal**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Con el plan realista, se decide qué mover, y siempre hay un costo. **Recortar alcance**: entregar lo esencial primero y diferir lo demás; suele ser la mejor palanca. **Mover la fecha**: aceptar el plazo real, con sus consecuencias. **Agregar recursos**: puede ayudar si el trabajo es separable y los recursos llegan pronto, pero **suma costos de coordinación y de aprendizaje** y a menudo no recupera plazo; se usa con cautela. **Reducir calidad** es una opción disfrazada que genera deuda (clase 082). La decisión corresponde a quien tiene autoridad (clase 081), con las consecuencias a la vista.
 
-Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* orienta este bloque mediante **métricas de entrega, capacidades técnicas y desempeño organizacional**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **critical path duration**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Comunicar y sostener
 
-Al llegar a reconstruir critical path y capacidad, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Se comunica con **honestidad** a patrocinador y interesados: dónde está el proyecto, qué se hizo para entender el atraso, el nuevo plan con sus rangos, las decisiones tomadas y los riesgos. Se evita culpar y se evita ocultar. Después, se da **seguimiento frecuente**: avance contra el nuevo plan cada semana, señales de alerta y revisión de supuestos. Una recuperación sin transparencia pierde la confianza, que es más difícil de recuperar que el plazo.
 
-### 4. crashing: trade-offs y efectos de segundo orden
+### 7. Cuándo detener el proyecto
 
-**Definición:** aumento de recursos para reducir duración de actividades críticas. Este concepto obliga a abandonar la idea de que **recuperación de proyectos atrasados** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de comparar recorte, resecuencia y recursos, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Gene Kim et al. — *The Phoenix Project* aporta una lente sobre **perspectiva de Operaciones tecnológicas aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **scope removed** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **recuperación de proyectos atrasados**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **crashing** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. fast tracking: gobernanza, límites e integración
-
-**fast tracking** se define como **solapar trabajo antes secuencial aumentando riesgo** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael Hammer & James Champy — *Reengineering the Corporation* se utiliza para estudiar **perspectiva de Procesos aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar comunicar nuevo baseline con riesgos, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Más personas pueden retrasar trabajo altamente acoplado por onboarding y coordinación. Recuperación no es sinónimo de horas extra; prueba si la intervención cambia el critical path.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **rebaseline**, **critical path**, **scope cut**, **crashing** y **fast tracking** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **recuperación de proyectos atrasados** no consiste en sumar cinco definiciones. Empieza por **rebaseline**, contrasta **critical path** con **scope cut**, incorpora **crashing** como restricción o mecanismo y usa **fast tracking** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. detener nuevas promesas → 2. medir avance real y trabajo restante → 3. reconstruir critical path y capacidad → 4. comparar recorte, resecuencia y recursos → 5. comunicar nuevo baseline con riesgos**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+No todo proyecto debe recuperarse. Pregunta: si empezáramos hoy, sabiendo lo que sabemos, ¿lo aprobaríamos? Los **costos hundidos** no deben pesar: lo ya gastado no se recupera continuando. Se compara el **costo y el beneficio futuros**. Si el beneficio ya no justifica el costo restante, se **cierra de forma ordenada**: se rescata lo reutilizable, se comunica con claridad y se hace una revisión sin culpas. La tendencia a continuar por inercia, la **escalada del compromiso**, es una de las causas de los proyectos zombi.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* | gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor | ¿Qué supuesto de **recuperación de proyectos atrasados** ayuda a desafiar? |
-| Harold Kerzner — *Project Management* | integración de proyectos, control, madurez y alineación organizacional | ¿Qué supuesto de **recuperación de proyectos atrasados** ayuda a desafiar? |
-| Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* | métricas de entrega, capacidades técnicas y desempeño organizacional | ¿Qué supuesto de **recuperación de proyectos atrasados** ayuda a desafiar? |
-| Gene Kim et al. — *The Phoenix Project* | perspectiva de Operaciones tecnológicas aplicada al problema de la clase | ¿Qué supuesto de **recuperación de proyectos atrasados** ayuda a desafiar? |
-| Michael Hammer & James Champy — *Reengineering the Corporation* | perspectiva de Procesos aplicada al problema de la clase | ¿Qué supuesto de **recuperación de proyectos atrasados** ayuda a desafiar? |
-
-En **recuperación de proyectos atrasados**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **rebaseline**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Flyvbjerg y Gardner (2023) | Datos y causas de los excesos de costo y plazo. | Se centra en grandes proyectos. | ¿Qué decisión previa a la ejecución causó el atraso? |
+| Kerzner (2017) | Control de proyectos y triple restricción. | Escrita para organizaciones grandes. | ¿Qué efecto tiene cada palanca? |
+| Buehler, Griffin y Ross (1994) | Por qué se subestima y se mantiene el optimismo. | Es sobre estimación, no sobre recuperación. | ¿Qué optimismo mantienes? |
+| Edmondson (1999) | Seguridad para reportar problemas. | No trata de recuperación. | ¿Se reportó a tiempo? |
+| Goldratt (1997) | Protección del plazo y consumo del margen. | Requiere cambios de cultura. | ¿Cuánto margen queda? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Faltan seis semanas para una fecha contractual y el plan indica 80% completo desde hace un mes. La integración y pruebas, sin embargo, concentran casi todo el riesgo restante.
+**Situación (hipotética).** Un proyecto de implantación de un sistema, de 10 meses y USD 800.000, lleva 12 meses y ha consumido USD 950.000. El equipo dice que «falta poco»; el patrocinador exige fecha; el director sugiere sumar cinco consultores.
 
-**Paso 1 — detener nuevas promesas.** La gerencia escribe primero el supuesto asociado a **rebaseline** y evita convertirlo en hecho. Luego busca **schedule variance** para contrastarlo en el caso de **recuperación de proyectos atrasados**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Paso | Qué ocurre |
+|---|---|
+| **Detener** | Se congela el alcance; se suspende una funcionalidad secundaria; el jefe de proyecto es la persona responsable. |
+| **Diagnóstico** | Se descompone lo que falta: 46 paquetes de trabajo; rendimiento medido: 3 por semana; tiempo restante estimado con esa capacidad: 15 semanas (rango 12 a 22). Causas: 30 % de los cambios no pasaron por aprobación; la integración con el sistema de facturación se subestimó; dos dependencias externas sin confirmar. |
+| **Replanificación** | Nueva línea base: 16 semanas con margen de 4; hitos cada dos semanas. |
+| **Decisión** | Opciones: (a) recortar tres funciones no esenciales (ahorra 5 semanas); (b) agregar cinco consultores (el equipo estima que solo recortaría 2 semanas por el aprendizaje necesario y costaría USD 120.000); (c) mover la fecha 15 semanas. El patrocinador decide (a) más 2 consultores para la integración, con fecha en 11 semanas. |
+| **Comunicación** | Informe con diagnóstico, rango, decisiones y riesgos; seguimiento semanal. |
 
-**Paso 2 — medir avance real y trabajo restante.** La gerencia escribe primero el supuesto asociado a **critical path** y evita convertirlo en hecho. Luego busca **remaining work** para contrastarlo en el caso de **recuperación de proyectos atrasados**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Revalidación del caso.** Se comprueba que el beneficio previsto (USD 1,5 millones en tres años) sigue justificando el costo restante estimado (USD 260.000).
 
-**Paso 3 — reconstruir critical path y capacidad.** La gerencia escribe primero el supuesto asociado a **scope cut** y evita convertirlo en hecho. Luego busca **critical path duration** para contrastarlo en el caso de **recuperación de proyectos atrasados**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — comparar recorte, resecuencia y recursos.** La gerencia escribe primero el supuesto asociado a **crashing** y evita convertirlo en hecho. Luego busca **scope removed** para contrastarlo en el caso de **recuperación de proyectos atrasados**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — comunicar nuevo baseline con riesgos.** La gerencia escribe primero el supuesto asociado a **fast tracking** y evita convertirlo en hecho. Luego busca **defects por aceleración** para contrastarlo en el caso de **recuperación de proyectos atrasados**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **recuperación de proyectos atrasados**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Primero se detuvo y se diagnosticó. (2) La opción de agregar gente se evaluó con su efecto real. (3) Se revalidó el beneficio antes de seguir.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **rebaseline** | establecimiento de un plan realista basado en estado actual | Cuando schedule variance es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **critical path** | secuencia que controla fecha final | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Recuperar frente a reiniciar.** Reiniciar descarta lo hecho y puede ser más rápido si el trabajo es de poco valor reutilizable. Se decide con datos, no con frustración.
 
-**Frontera de aplicación:** Más personas pueden retrasar trabajo altamente acoplado por onboarding y coordinación. Recuperación no es sinónimo de horas extra; prueba si la intervención cambia el critical path.
+**Límites.** Los datos de Flyvbjerg y Gardner son de grandes proyectos y su traducción a iniciativas pequeñas es parcial. La recuperación depende de la autoridad de quien decide y de la honestidad de la información; sin ellas, el plan es otra ficción. No hay un método que garantice el éxito, y algunas decisiones —cerrar un proyecto— tienen costos de reputación y de personas. Y los contratos con proveedores pueden condicionar las opciones.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre recuperación de proyectos atrasados |
+| Nivel | Cómo participa en una recuperación |
 |---|---|
-| **Profesional** | usa **recuperación de proyectos atrasados** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **rebaseline** y **critical path** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta schedule variance con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si recuperación de proyectos atrasados cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de recuperación de proyectos atrasados reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **recuperación de proyectos atrasados** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Dice con honestidad cuánto falta y qué le impide avanzar. |
+| **Jefe / Team Lead** | Lidera el diagnóstico y la replanificación de su equipo. |
+| **Gerente** | Respalda decisiones de alcance y protege al equipo de la presión. |
+| **CEO / Director** | Decide con el costo futuro, no con el costo hundido, y acepta cerrar. |
+| **Founder / Owner** | Corta pronto una apuesta que no funciona antes de agotar su caja. |
 
 ## 🏢 Caso ejecutivo
 
-Faltan seis semanas para una fecha contractual y el plan indica 80% completo desde hace un mes. La integración y pruebas, sin embargo, concentran casi todo el riesgo restante.
+Una empresa lleva 18 meses con un proyecto de modernización que debía durar 9. Los informes semanales siempre dicen «en ámbar»; el 80 % del presupuesto está gastado y se estima que falta el 50 % del trabajo. El director de tecnología propone «sumar un equipo externo de diez personas»; el gerente financiero, «cancelar»; el patrocinador, «terminarlo porque ya gastamos mucho». Hay dos clientes importantes esperando una funcionalidad parcial.
 
-Entrega un **decision brief de recuperación de proyectos atrasados** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de recuperación o cierre** que contenga: (a) el diagnóstico con hechos y las causas; (b) la replanificación con rangos; (c) las opciones —recortar, mover, agregar, cerrar— con costo, plazo y riesgo; (d) la revalidación del beneficio con el costo futuro y no el pasado; (e) la comunicación al patrocinador y a los clientes; (f) el seguimiento y qué señales activarían un cierre.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **recuperación de proyectos atrasados** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. detener nuevas promesas → 2. medir avance real y trabajo restante → 3. reconstruir critical path y capacidad → 4. comparar recorte, resecuencia y recursos → 5. comunicar nuevo baseline con riesgos** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta schedule variance, remaining work; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula el rendimiento real de tu equipo en las últimas semanas y lo que falta.
+2. Lista las causas del atraso de un proyecto y clasifícalas: estimación, alcance, capacidad, dependencias, decisiones.
+3. Compara tres opciones para un proyecto atrasado con sus costos.
+4. Responde: «si empezáramos hoy, ¿aprobaríamos este proyecto?».
+5. Redacta el mensaje al patrocinador con diagnóstico, rango y decisión.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar rebaseline y critical path como sinónimos | Se pierde la distinción entre “establecimiento de un plan realista basado en estado actual” y “secuencia que controla fecha final” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “comunicar nuevo baseline con riesgos” | Se saltó “detener nuevas promesas” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. detener nuevas promesas → 2. medir avance real y trabajo restante → 3. reconstruir critical path y capacidad → 4. comparar recorte, resecuencia y recursos → 5. comunicar nuevo baseline con riesgos y marca el primer supuesto no demostrado. |
-| Optimizar solo schedule variance | La métrica local sustituyó al resultado del sistema | Contrástala con remaining work y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre recuperación de proyectos atrasados | Más personas pueden retrasar trabajo altamente acoplado por onboarding y coordinación. Recuperación no es sinónimo de horas extra; prueba si la intervención cambia el critical path. |
-| No fijar revisión | Una decisión sobre recuperación de proyectos atrasados se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Presionar al equipo | Se quiere acelerar | Diagnosticar y recortar alcance. |
+| Sumar gente tarde | Parece la solución rápida | Evaluar el efecto de coordinación y aprendizaje. |
+| Mantener el plan original | Se teme admitir el atraso | Nueva línea base realista. |
+| Decidir por costo hundido | Se quiere justificar lo gastado | Mirar el costo y el beneficio futuros. |
+| Ocultar la verdad | Se teme la reacción | Transparencia y seguimiento. |
+| No cerrar un proyecto fallido | Escalada del compromiso | Cierre ordenado. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **rebaseline** y **critical path** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **scope cut** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **detener nuevas promesas → medir avance real y trabajo restante** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **schedule variance** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **recuperación de proyectos atrasados**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Más personas pueden retrasar trabajo altamente acoplado por onboarding y coordinación. Recuperación no es sinónimo de horas extra; prueba si la intervención cambia el critical path.**?
+1. ¿Cuál es el primer paso para recuperar un proyecto?
+2. ¿Qué se diagnostica?
+3. ¿Qué efecto tiene agregar recursos a un proyecto atrasado?
+4. ¿Por qué suele ser mejor recortar alcance?
+5. ¿Qué es el costo hundido y por qué no debe pesar?
+6. ¿Qué es la escalada del compromiso?
+7. ¿Qué límite tienen los datos de Flyvbjerg y Gardner?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Detener la hemorragia: congelar el alcance, frenar lo no esencial y nombrar un responsable único.
+2. Cuánto trabajo queda, la capacidad real, las dependencias en riesgo, las decisiones postergadas y las causas.
+3. Puede ayudar si el trabajo es separable, pero suma costos de coordinación y aprendizaje y a menudo no recupera plazo.
+4. Porque entrega lo esencial pronto y evita los costos de coordinación y de deuda de calidad.
+5. Lo ya gastado y no recuperable; no debe pesar porque no se recupera continuando.
+6. La tendencia a continuar con un proyecto fallido por lo ya invertido.
+7. Son de grandes proyectos; su traslado a iniciativas pequeñas es parcial.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/083-recuperacion-de-proyectos-atrasados/`:
 
-- `leadership-decision-brief.md` con el problema específico de **recuperación de proyectos atrasados**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **recuperación de proyectos atrasados** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **rebaseline**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Faltan seis semanas para una fecha contractual y el plan indica 80% completo desde hace un mes. La integración y pruebas, sin embargo, concentran casi todo el riesgo restante.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan del caso ejecutivo;
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con las opciones y la revalidación;
+- `decision-journal.md` con el diagnóstico, la decisión y el seguimiento.
 
 ## 📗 Fuentes y verificación
 
-- Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* (1996). **Uso en esta clase:** gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor. Lectura selectiva sobre **recuperación de proyectos atrasados**. **Localizador:** [ISBN-13 9781880410127](https://openlibrary.org/isbn/9781880410127).
-- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** integración de proyectos, control, madurez y alineación organizacional. Lectura selectiva sobre **recuperación de proyectos atrasados**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
-- Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* (IT Revolution Press, 2018). **Uso en esta clase:** métricas de entrega, capacidades técnicas y desempeño organizacional. Lectura selectiva sobre **recuperación de proyectos atrasados**. **Localizador:** [ISBN-13 9781942788379](https://openlibrary.org/isbn/9781942788379).
-- Gene Kim et al. — *The Phoenix Project* (IT Revolution Press, 2018). **Uso en esta clase:** perspectiva de Operaciones tecnológicas aplicada al problema de la clase. Lectura selectiva sobre **recuperación de proyectos atrasados**. **Localizador:** [ISBN-13 9781942788294](https://openlibrary.org/isbn/9781942788294).
-- Michael Hammer & James Champy — *Reengineering the Corporation* (HarperBusiness, 2001). **Uso en esta clase:** perspectiva de Procesos aplicada al problema de la clase. Lectura selectiva sobre **recuperación de proyectos atrasados**. **Localizador:** [ISBN-13 9780066621128](https://openlibrary.org/isbn/9780066621128).
-- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** empirismo, transparencia, inspección y adaptación. **Fuente primaria:** <https://scrumguides.org/>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **recuperación de proyectos atrasados** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **recuperación de proyectos atrasados**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **recuperación de proyectos atrasados** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **recuperación de proyectos atrasados** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **recuperación de proyectos atrasados** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Bent Flyvbjerg & Dan Gardner — *How Big Things Get Done* (Currency, 2023). **Uso en esta clase:** datos y causas de los excesos de costo y de plazo. Lectura selectiva sobre **recuperación de proyectos atrasados**. **Localizador:** [ISBN-13 9780593239513](https://openlibrary.org/isbn/9780593239513).
+- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** control de proyectos y triple restricción. Lectura selectiva sobre **recuperación de proyectos atrasados**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
+- Roger Buehler, Dale Griffin & Michael Ross — *Exploring the "planning fallacy": Why people underestimate their task completion times* (Journal of Personality and Social Psychology, 1994). **Uso en esta clase:** por qué se subestima y se mantiene el optimismo. Lectura selectiva sobre **recuperación de proyectos atrasados**. **Localizador:** [DOI 10.1037/0022-3514.67.3.366](https://doi.org/10.1037/0022-3514.67.3.366).
+- Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams* (Administrative Science Quarterly, 1999). **Uso en esta clase:** seguridad para reportar problemas. Lectura selectiva sobre **recuperación de proyectos atrasados**. **Localizador:** [DOI 10.2307/2666999](https://doi.org/10.2307/2666999).
+- Eliyahu M. Goldratt — *Critical Chain* (North River Press, 1997). **Uso en esta clase:** protección del plazo y consumo del margen. Lectura selectiva sobre **recuperación de proyectos atrasados**. **Localizador:** [ISBN-13 9780884271536](https://openlibrary.org/isbn/9780884271536).
 
-> **Regla de fuentes para Recuperación de proyectos atrasados:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **recuperación de proyectos atrasados** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Recuperación de proyectos atrasados:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las cláusulas contractuales aplicables. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

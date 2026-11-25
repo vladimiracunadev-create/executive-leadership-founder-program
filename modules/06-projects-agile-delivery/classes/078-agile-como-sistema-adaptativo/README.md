@@ -5,222 +5,191 @@
 <!-- nav:fin -->
 
 **Parte:** 06 — Proyectos, Agile y entrega  
-**Nivel:** Etapa 2 — Jefe → Manager  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Agile es una respuesta a incertidumbre y aprendizaje, no un conjunto obligatorio de ceremonias. Reduce tamaño de lote, acorta feedback y permite reordenar trabajo según evidencia. Donde requisitos y tecnología son estables, un enfoque más predictivo puede ser más eficiente.
+«Agile» se ha vuelto una palabra que significa cualquier cosa: un conjunto de ceremonias, una herramienta de tableros, una promesa de ir más rápido, una etiqueta para reuniones diarias. Esa confusión hace que muchas organizaciones adopten los rituales y no el fondo, y obtengan los costos —reuniones, cambios de organigrama— sin los beneficios. El fondo es una idea simple: **cuando no se sabe de antemano qué hay que hacer, conviene trabajar en ciclos cortos, mostrar resultados reales, aprender de ellos y ajustar**.
 
-La salida de esta parte es **entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **agile como sistema adaptativo** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase parte del Manifiesto Ágil y sus cuatro valores, apoya la idea de un equipo que aprende en la investigación de Edmondson y revisa la evidencia sobre qué prácticas se asocian con un buen desempeño de entrega, de Forsgren, Humble y Kim. Al terminar sabrás explicar qué es y qué no es Agile, cuándo conviene y cuándo no, y qué condiciones lo hacen funcionar.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `iteración`, `feedback loop`, `batch size`, `adaptación`, `empiricism` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. evaluar incertidumbre de problema y solución → 2. reducir batch de trabajo → 3. entregar incremento verificable → 4. inspeccionar outcome y proceso → 5. adaptar backlog y plan** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** lead time, frecuencia de feedback, rework sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Explicar** los cuatro valores del Manifiesto Ágil y su sentido.
+2. **Distinguir** Agile como forma de trabajar de las ceremonias y las herramientas.
+3. **Decidir** cuándo un enfoque iterativo conviene y cuándo no.
+4. **Identificar** las condiciones que lo hacen funcionar: equipo, cliente, seguridad y entrega frecuente.
+5. **Reconocer** los síntomas de una adopción vacía.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define iteración y feedback loop sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con lead time y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué significa «ser ágil» en tu organización? Escribe tres características observables. |
+| 20–60 min | Valores del manifiesto, condiciones y evidencia. |
+| 60–105 min | Ejemplo trabajado: una adopción «ágil» sin cambios de fondo. |
+| 105–140 min | Caso ejecutivo: ¿conviene Agile en un proyecto regulado? |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **iteración** | ciclo corto que produce una versión evaluable | Distingue un hecho compatible y otro que lo refute. |
-| **feedback loop** | secuencia que convierte uso o revisión en adaptación | Distingue un hecho compatible y otro que lo refute. |
-| **batch size** | cantidad de trabajo comprometido antes de obtener feedback | Distingue un hecho compatible y otro que lo refute. |
-| **adaptación** | cambio de plan basado en evidencia | Distingue un hecho compatible y otro que lo refute. |
-| **empiricism** | gestión mediante transparencia, inspección y adaptación | Distingue un hecho compatible y otro que lo refute. |
+| **Manifiesto Ágil** | Declaración de valores y principios para el desarrollo de software, de 2001 (Beck et al.). | Cuatro valores y doce principios. |
+| **Trabajo iterativo e incremental** | Entregar en ciclos cortos versiones que funcionan y se mejoran. | Hay resultados reales al final de cada ciclo. |
+| **Retroalimentación frecuente** | Información del cliente y del entorno obtenida pronto y de manera regular. | Se ajusta el rumbo con datos. |
+| **Equipo autoorganizado** | Equipo que decide cómo hacer su trabajo dentro de límites. | Sus decisiones técnicas son suyas. |
+| **Seguridad psicológica** | Creencia compartida de que el equipo es seguro para asumir riesgos interpersonales (Edmondson, 1999). | Se puede hablar de errores. |
+| **Desempeño de entrega** | Medidas como frecuencia de despliegue, tiempo de entrega, fallas y tiempo de recuperación (Forsgren et al., 2018). | Se miden con datos. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 078: 1. evaluar incertidumbre de problema y solución → 2. reducir batch de trabajo → 3. entregar incremento verificable → 4. inspeccionar outcome y proceso → 5. adaptar backlog y plan](modelo-mental.svg)
+![Los cuatro valores del Manifiesto Ágil: lo que se valora más a la izquierda —individuos e interacciones, software funcionando, colaboración con el cliente, responder al cambio— y a la derecha lo que, aunque tiene valor, se valora menos.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. evaluar incertidumbre de problema y solución → 2. reducir batch de trabajo → 3. entregar incremento verificable → 4. inspeccionar outcome y proceso → 5. adaptar backlog y plan
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Agile es una respuesta a incertidumbre y aprendizaje, no un conjunto obligatorio de ceremonias. Reduce tamaño de lote, acorta feedback y permite reordenar trabajo según evidencia. Donde requisitos y tecnología son estables, un enfoque más predictivo puede ser más eficiente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Agile no elimina planificación, arquitectura, compliance ni compromisos. Significa planificar de manera adaptativa donde el costo de aprender tarde es alto.**
+**Cómo leer el diagrama.** Cada fila une un valor con su contraparte: el manifiesto dice «aunque hay valor en los elementos de la derecha, valoramos más los de la izquierda». No elimina procesos, documentación, contratos ni planes: cambia la **prioridad** cuando hay conflicto. Quien lee que Agile «no documenta» o «no planifica» lee mal.
 
 ## 📖 Desarrollo
 
-### 1. iteración: mecanismo central
+### 1. De dónde viene
 
-**iteración** se entiende aquí como **ciclo corto que produce una versión evaluable**. Esta es la pieza causal o estructural desde la que se inicia **agile como sistema adaptativo**: antes de evaluar incertidumbre de problema y solución, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+El Manifiesto Ágil fue firmado en 2001 por un grupo de profesionales del software insatisfechos con los métodos pesados y centrados en planes extensos y documentos. Propone cuatro **valores**: individuos e interacciones sobre procesos y herramientas; software funcionando sobre documentación exhaustiva; colaboración con el cliente sobre negociación contractual; y respuesta al cambio sobre seguir un plan. Está acompañado de doce principios, entre ellos entregar valor con frecuencia, aceptar cambios aun tarde y mantener un ritmo sostenible.
 
-La lectura rectora de este bloque es Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*. Su aporte se usa para examinar **gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **lead time**; regístrala con periodo, unidad, población y baseline.
+### 2. Una respuesta a la incertidumbre
 
-Relaciona el mecanismo con **feedback loop**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Agile es útil porque muchos trabajos —desarrollo de productos, servicios nuevos, cambios organizacionales— tienen una **incertidumbre** alta: no se sabe del todo qué quiere el cliente ni qué funcionará. Planificar todo de antemano en ese contexto produce un plan preciso y equivocado. La alternativa es trabajar en **ciclos cortos**: se decide lo próximo, se entrega algo real, se observa la reacción y se ajusta. El aprendizaje pasa a ser el producto principal de cada ciclo (clase 044).
 
-### 2. feedback loop: frontera conceptual y error de clasificación
+### 3. Qué no es
 
-**Definición operacional:** secuencia que convierte uso o revisión en adaptación. Su valor está en distinguirlo de **iteración** y **batch size**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Agile **no** es ausencia de planificación, ni de documentación, ni de disciplina; no es «ir más rápido»; no es una herramienta ni un conjunto de reuniones. Un equipo puede tener tableros, reuniones diarias y «sprints» y no ser ágil si entrega lo mismo que antes, con el mismo control y sin aprender de los clientes. Y puede ser ágil sin usar la etiqueta. La prueba está en la conducta: ¿entregan valor pronto?, ¿cambian de rumbo con datos?, ¿el equipo decide cómo trabaja?
 
-Contrasta el problema con Harold Kerzner — *Project Management*, que aporta una mirada sobre **integración de proyectos, control, madurez y alineación organizacional**. Formula dos mini-casos: uno que sí satisface la definición de **feedback loop** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **frecuencia de feedback** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Cuándo conviene
 
-Antes de reducir batch de trabajo, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Conviene cuando hay **alta incertidumbre**, requisitos que cambian, un cliente accesible y la posibilidad de entregar partes **útiles** de manera frecuente. Conviene menos cuando el trabajo es **bien conocido y repetitivo** (operación), cuando existen requisitos fijos y regulaciones que exigen documentación y aprobaciones antes de cada paso, o cuando no se puede entregar por partes (una obra civil). En muchos casos, un enfoque **híbrido** combina un plan global con ciclos iterativos en el trabajo incierto.
 
-### 3. batch size: operacionalización y medición
+### 5. Condiciones para que funcione
 
-**batch size** significa **cantidad de trabajo comprometido antes de obtener feedback**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Agile se apoya en condiciones que no son solo técnicas. **Equipos estables y multifuncionales**, con las habilidades para entregar. Un **cliente o dueño del producto** disponible que decide prioridades. **Seguridad psicológica** (clase 042): Edmondson muestra que sin ella el equipo no aprende de sus errores. **Autonomía**: si cada decisión pasa por un comité, los ciclos cortos son una ficción. Y **prácticas técnicas** y de entrega que permitan cambiar con seguridad.
 
-Michael Hammer & James Champy — *Reengineering the Corporation* orienta este bloque mediante **perspectiva de Procesos aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **rework**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Qué dice la evidencia
 
-Al llegar a entregar incremento verificable, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Forsgren, Humble y Kim estudiaron miles de organizaciones y hallaron que un conjunto de prácticas técnicas y culturales —entrega continua, automatización de pruebas, arquitectura que permite cambios, colaboración y cultura de aprendizaje— se asocia con un mejor **desempeño de entrega** (frecuencia, rapidez, estabilidad) y con mejores resultados del negocio. No concluyen que una etiqueta sea mejor, sino que ciertas **capacidades** importan. Los resultados provienen de encuestas y deben interpretarse como asociaciones.
 
-### 4. adaptación: trade-offs y efectos de segundo orden
+### 7. Síntomas de una adopción vacía
 
-**Definición:** cambio de plan basado en evidencia. Este concepto obliga a abandonar la idea de que **agile como sistema adaptativo** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de inspeccionar outcome y proceso, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Ken Schwaber & Jeff Sutherland — *The Scrum Guide* aporta una lente sobre **empirismo, transparencia, inspección y adaptación**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **release cadence** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **agile como sistema adaptativo**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **adaptación** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. empiricism: gobernanza, límites e integración
-
-**empiricism** se define como **gestión mediante transparencia, inspección y adaptación** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* se utiliza para estudiar **métricas de entrega, capacidades técnicas y desempeño organizacional** y contrastar la recomendación final. Al ejecutar adaptar backlog y plan, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Agile no elimina planificación, arquitectura, compliance ni compromisos. Significa planificar de manera adaptativa donde el costo de aprender tarde es alto.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **iteración**, **feedback loop**, **batch size**, **adaptación** y **empiricism** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **agile como sistema adaptativo** no consiste en sumar cinco definiciones. Empieza por **iteración**, contrasta **feedback loop** con **batch size**, incorpora **adaptación** como restricción o mecanismo y usa **empiricism** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. evaluar incertidumbre de problema y solución → 2. reducir batch de trabajo → 3. entregar incremento verificable → 4. inspeccionar outcome y proceso → 5. adaptar backlog y plan**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Señales de que se adoptaron rituales sin fondo: los «sprints» son mini cascadas con requisitos cerrados; el equipo no puede cambiar el alcance; el dueño del producto no decide; las retrospectivas no cambian nada; se miden «puntos» como meta de productividad; el avance se juzga por cumplimiento del plan y no por valor entregado; y hay una burocracia de reportes que ocupa más tiempo que el trabajo. Corregirlo exige cambiar decisiones, no el vocabulario.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* | gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor | ¿Qué supuesto de **agile como sistema adaptativo** ayuda a desafiar? |
-| Harold Kerzner — *Project Management* | integración de proyectos, control, madurez y alineación organizacional | ¿Qué supuesto de **agile como sistema adaptativo** ayuda a desafiar? |
-| Michael Hammer & James Champy — *Reengineering the Corporation* | perspectiva de Procesos aplicada al problema de la clase | ¿Qué supuesto de **agile como sistema adaptativo** ayuda a desafiar? |
-| Ken Schwaber & Jeff Sutherland — *The Scrum Guide* | empirismo, transparencia, inspección y adaptación | ¿Qué supuesto de **agile como sistema adaptativo** ayuda a desafiar? |
-| Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* | métricas de entrega, capacidades técnicas y desempeño organizacional | ¿Qué supuesto de **agile como sistema adaptativo** ayuda a desafiar? |
-
-En **agile como sistema adaptativo**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **iteración**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Beck et al. (2001) | Valores y principios del manifiesto. | Fue escrito para el software y es breve. | ¿Qué valor practica tu equipo y cuál no? |
+| Schwaber y Sutherland (2020) | Un marco concreto que aplica estos valores. | Es un marco entre varios. | ¿Qué parte del marco usas y para qué? |
+| Edmondson (1999) | Seguridad psicológica y aprendizaje del equipo. | No trata de Agile. | ¿Puede tu equipo discutir un error? |
+| Forsgren, Humble y Kim (2018) | Capacidades asociadas con mejor desempeño de entrega. | Estudios por encuesta; son asociaciones. | ¿Qué capacidades tiene tu equipo? |
+| Reinertsen (2009) | Flujo, colas y tamaños de lote en el desarrollo. | Es un tratado técnico. | ¿Qué tamaño tienen tus entregas? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un programa de dos años especifica todas las pantallas al inicio pese a que usuarios y regulación cambiarán. Cada cambio se trata como desviación en vez de aprendizaje.
+**Situación (hipotética).** Una empresa «adoptó Agile»: contrató coaches, creó equipos con nombres como «squads», usa tableros y reuniones diarias. Seis meses después, el director comercial pregunta: «¿Por qué entregamos igual de tarde?».
 
-**Paso 1 — evaluar incertidumbre de problema y solución.** La gerencia escribe primero el supuesto asociado a **iteración** y evita convertirlo en hecho. Luego busca **lead time** para contrastarlo en el caso de **agile como sistema adaptativo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Elemento observado | Diagnóstico |
+|---|---|
+| Los requisitos de cada ciclo los define un comité al inicio del trimestre. | No hay respuesta al cambio: el plan sigue siendo fijo. |
+| El dueño del producto es una persona con 30 % de su tiempo, que debe consultar con tres directores. | No hay decisión rápida sobre prioridades. |
+| Las pruebas se hacen al final, en un equipo aparte. | No hay entrega de software funcionando en cada ciclo. |
+| Las retrospectivas terminan con «mejorar la comunicación». | No hay aprendizaje accionable. |
+| Se mide la «velocidad» y se compara entre equipos. | La métrica se usa como meta y se manipula. |
 
-**Paso 2 — reducir batch de trabajo.** La gerencia escribe primero el supuesto asociado a **feedback loop** y evita convertirlo en hecho. Luego busca **frecuencia de feedback** para contrastarlo en el caso de **agile como sistema adaptativo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Intervención.** (1) Un dueño de producto con decisión y dedicación. (2) Pruebas automáticas dentro del equipo. (3) Entregar a un grupo de clientes cada dos semanas y ajustar con su feedback. (4) Retrospectivas con una mejora concreta por ciclo. (5) Dejar de comparar velocidades y medir tiempo de entrega y satisfacción.
 
-**Paso 3 — entregar incremento verificable.** La gerencia escribe primero el supuesto asociado a **batch size** y evita convertirlo en hecho. Luego busca **rework** para contrastarlo en el caso de **agile como sistema adaptativo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** En seis meses, el tiempo desde la idea hasta el cliente baja de 14 a 6 semanas y el 70 % de las funcionalidades se modifica según el feedback.
 
-**Paso 4 — inspeccionar outcome y proceso.** La gerencia escribe primero el supuesto asociado a **adaptación** y evita convertirlo en hecho. Luego busca **release cadence** para contrastarlo en el caso de **agile como sistema adaptativo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — adaptar backlog y plan.** La gerencia escribe primero el supuesto asociado a **empiricism** y evita convertirlo en hecho. Luego busca **outcome por iteración** para contrastarlo en el caso de **agile como sistema adaptativo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **agile como sistema adaptativo**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Los rituales no bastaban. (2) El cambio fue de decisiones y prácticas. (3) Las métricas cambiaron para medir valor, no actividad.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **iteración** | ciclo corto que produce una versión evaluable | Cuando lead time es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **feedback loop** | secuencia que convierte uso o revisión en adaptación | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Agile frente a cascada.** La cascada planifica y ejecuta por fases; Agile itera y adapta. No son opuestos absolutos: muchos proyectos combinan una planificación general con ejecución iterativa.
 
-**Frontera de aplicación:** Agile no elimina planificación, arquitectura, compliance ni compromisos. Significa planificar de manera adaptativa donde el costo de aprender tarde es alto.
+**Límites.** El manifiesto surgió en el software y su traslado a otros ámbitos requiere adaptar los principios, no solo los nombres. La evidencia de Forsgren et al. se basa en encuestas y mide asociaciones. Hay contextos regulados en que las aprobaciones por fase son obligatorias y deben respetarse. Y Agile puede usarse mal como excusa para no planificar o para presionar al equipo con ciclos cortos sin recursos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre agile como sistema adaptativo |
+| Nivel | Cómo practica Agile |
 |---|---|
-| **Profesional** | usa **agile como sistema adaptativo** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **iteración** y **feedback loop** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta lead time con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si agile como sistema adaptativo cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de agile como sistema adaptativo reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **agile como sistema adaptativo** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entrega partes útiles pronto y pide feedback. |
+| **Jefe / Team Lead** | Protege al equipo, facilita sus decisiones y elimina obstáculos. |
+| **Gerente** | Da autonomía real y cambia los controles que la impiden. |
+| **CEO / Director** | Fija la dirección y cambia la gobernanza para sostener ciclos cortos. |
+| **Founder / Owner** | Aprende con clientes de forma temprana y limita las apuestas largas. |
 
 ## 🏢 Caso ejecutivo
 
-Un programa de dos años especifica todas las pantallas al inicio pese a que usuarios y regulación cambiarán. Cada cambio se trata como desviación en vez de aprendizaje.
+Una aseguradora debe construir una plataforma de reclamos en un entorno regulado: la autoridad exige documentación y aprobaciones antes de cambiar procesos que afecten a clientes. El equipo de tecnología propone «hacerlo ágil»; el área de cumplimiento teme que se salten controles. El gerente general quiere resultados en nueve meses. Hay incertidumbre sobre qué quieren los clientes y certeza sobre qué exige la norma.
 
-Entrega un **decision brief de agile como sistema adaptativo** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de enfoque de trabajo** que contenga: (a) el análisis de qué parte del trabajo es incierta y cuál es fija; (b) qué se hará con planificación global y qué en ciclos cortos; (c) cómo se integrarán los controles regulatorios sin frenar el aprendizaje; (d) las condiciones que necesita el equipo —dueño del producto, autonomía, seguridad—; (e) cómo medirás el desempeño de entrega y el valor; (f) las señales de adopción vacía que vigilarás.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **agile como sistema adaptativo** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. evaluar incertidumbre de problema y solución → 2. reducir batch de trabajo → 3. entregar incremento verificable → 4. inspeccionar outcome y proceso → 5. adaptar backlog y plan** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta lead time, frecuencia de feedback; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe tres señales observables de que tu equipo trabaja con ciclos cortos y aprende.
+2. Evalúa tu trabajo actual: ¿incertidumbre alta o baja?, ¿cliente accesible?, ¿entrega por partes?
+3. Identifica una ceremonia que existe sin cambiar ninguna decisión.
+4. Define dos medidas de valor y dos de desempeño de entrega.
+5. Escribe qué decisión te gustaría delegar al equipo para que el ciclo corto tenga sentido.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar iteración y feedback loop como sinónimos | Se pierde la distinción entre “ciclo corto que produce una versión evaluable” y “secuencia que convierte uso o revisión en adaptación” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “adaptar backlog y plan” | Se saltó “evaluar incertidumbre de problema y solución” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. evaluar incertidumbre de problema y solución → 2. reducir batch de trabajo → 3. entregar incremento verificable → 4. inspeccionar outcome y proceso → 5. adaptar backlog y plan y marca el primer supuesto no demostrado. |
-| Optimizar solo lead time | La métrica local sustituyó al resultado del sistema | Contrástala con frecuencia de feedback y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre agile como sistema adaptativo | Agile no elimina planificación, arquitectura, compliance ni compromisos. Significa planificar de manera adaptativa donde el costo de aprender tarde es alto. |
-| No fijar revisión | Una decisión sobre agile como sistema adaptativo se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Adoptar rituales sin cambiar decisiones | Es visible y rápido | Cambiar autonomía, prioridades y entrega. |
+| Creer que «ágil» es no planificar | Se lee mal el manifiesto | Planificar lo necesario y adaptar. |
+| Usar la velocidad como meta | Se mide actividad | Medir valor y tiempo de entrega. |
+| Dueño de producto sin autoridad | Se nombra sin poder | Decisión y dedicación reales. |
+| Ciclos cortos sin seguridad | Se castiga el error | Cultura de aprendizaje. |
+| Agile en trabajo repetitivo | Se aplica a todo | Elegir el enfoque según el trabajo. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **iteración** y **feedback loop** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **batch size** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **evaluar incertidumbre de problema y solución → reducir batch de trabajo** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **lead time** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **agile como sistema adaptativo**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Agile no elimina planificación, arquitectura, compliance ni compromisos. Significa planificar de manera adaptativa donde el costo de aprender tarde es alto.**?
+1. ¿Cuáles son los cuatro valores del Manifiesto Ágil?
+2. ¿Qué significa «valoramos más» y qué no significa?
+3. ¿Cuándo conviene un enfoque iterativo?
+4. ¿Qué condiciones necesita para funcionar?
+5. ¿Qué capacidades asocian Forsgren et al. con mejor desempeño de entrega?
+6. Nombra tres síntomas de una adopción vacía.
+7. ¿Qué límite tiene la evidencia disponible?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Individuos e interacciones, software funcionando, colaboración con el cliente y respuesta al cambio, valorados más que sus contrapartes.
+2. Cambia la prioridad cuando hay conflicto; no elimina procesos, documentación, contratos ni planes.
+3. Con alta incertidumbre, requisitos cambiantes, cliente accesible y posibilidad de entregar partes útiles con frecuencia.
+4. Equipos estables y multifuncionales, dueño del producto con decisión, seguridad psicológica, autonomía y prácticas técnicas.
+5. Entrega continua, automatización de pruebas, arquitectura que permite cambios, colaboración y cultura de aprendizaje.
+6. Por ejemplo: requisitos cerrados por ciclo, dueño del producto sin decisión, retrospectivas sin cambios o velocidad como meta.
+7. Proviene de encuestas y muestra asociaciones, no causas.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/078-agile-como-sistema-adaptativo/`:
 
-- `leadership-decision-brief.md` con el problema específico de **agile como sistema adaptativo**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **agile como sistema adaptativo** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **iteración**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un programa de dos años especifica todas las pantallas al inicio pese a que usuarios y regulación cambiarán. Cada cambio se trata como desviación en vez de aprendizaje.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan del caso ejecutivo;
+- `reading-note.md` con una tensión entre el manifiesto y la evidencia de Forsgren et al.;
+- `decision-journal.md` con las señales de adopción vacía y las medidas de valor.
 
 ## 📗 Fuentes y verificación
 
-- Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* (1996). **Uso en esta clase:** gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor. Lectura selectiva sobre **agile como sistema adaptativo**. **Localizador:** [ISBN-13 9781880410127](https://openlibrary.org/isbn/9781880410127).
-- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** integración de proyectos, control, madurez y alineación organizacional. Lectura selectiva sobre **agile como sistema adaptativo**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
-- Michael Hammer & James Champy — *Reengineering the Corporation* (HarperBusiness, 2001). **Uso en esta clase:** perspectiva de Procesos aplicada al problema de la clase. Lectura selectiva sobre **agile como sistema adaptativo**. **Localizador:** [ISBN-13 9780066621128](https://openlibrary.org/isbn/9780066621128).
-- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** empirismo, transparencia, inspección y adaptación. **Fuente primaria:** <https://scrumguides.org/>.
-- Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* (IT Revolution Press, 2018). **Uso en esta clase:** métricas de entrega, capacidades técnicas y desempeño organizacional. Lectura selectiva sobre **agile como sistema adaptativo**. **Localizador:** [ISBN-13 9781942788379](https://openlibrary.org/isbn/9781942788379).
-- Atul Gawande — *The Checklist Manifesto* (Penguin Random House, 2014). **Uso en esta clase:** perspectiva de Ejecución aplicada al problema de la clase. Lectura selectiva sobre **agile como sistema adaptativo**. **Localizador:** [ISBN-13 9780143423225](https://openlibrary.org/isbn/9780143423225).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **agile como sistema adaptativo** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **agile como sistema adaptativo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **agile como sistema adaptativo** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **agile como sistema adaptativo** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **agile como sistema adaptativo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Kent Beck et al. — *Manifesto for Agile Software Development* (agilemanifesto.org). **Uso en esta clase:** valores y principios del manifiesto ágil. **Fuente primaria:** <https://agilemanifesto.org/>.
+- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** un marco concreto que aplica los valores del manifiesto. **Fuente primaria:** <https://scrumguides.org/>.
+- Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams* (Administrative Science Quarterly, 1999). **Uso en esta clase:** seguridad psicológica y aprendizaje del equipo. Lectura selectiva sobre **agile como sistema adaptativo**. **Localizador:** [DOI 10.2307/2666999](https://doi.org/10.2307/2666999).
+- Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* (IT Revolution Press, 2018). **Uso en esta clase:** capacidades asociadas con mejor desempeño de entrega. Lectura selectiva sobre **agile como sistema adaptativo**. **Localizador:** [ISBN-13 9781942788379](https://openlibrary.org/isbn/9781942788379).
+- Donald G. Reinertsen — *The Principles of Product Development Flow* (Celeritas Publishing, 2009). **Uso en esta clase:** flujo, colas y tamaños de lote. Lectura selectiva sobre **agile como sistema adaptativo**. **Localizador:** [ISBN-13 9781935401001](https://openlibrary.org/isbn/9781935401001).
 
-> **Regla de fuentes para Agile como sistema adaptativo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **agile como sistema adaptativo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Agile como sistema adaptativo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las exigencias regulatorias de documentación y aprobación. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

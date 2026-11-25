@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Jefe → Manager"
 outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir WBS de work package mediante evidencia observable."
-  - "Aplicar la secuencia: partir de entregables → descomponer hasta paquetes gestionables → mapear dependencias → estimar secuencia y recursos → identificar critical path y hitos."
-  - "Interpretar paquetes sin owner, dependencias tardías, critical path changes sin atribuir causalidad automática."
-  - "Resolver el caso de work breakdown y planificación con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Descomponer un resultado en entregables y paquetes de trabajo."
+  - "Verificar la completitud de la descomposición con la regla del cien por ciento."
+  - "Identificar dependencias entre tareas y entre equipos."
+  - "Calcular la ruta crítica y entender qué fija el plazo total."
+  - "Proteger el plazo con márgenes agregados y no con márgenes en cada tarea."
 deliverable: "leadership-decision-brief.md"
 references:
   - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
+  - "Eliyahu M. Goldratt — *Critical Chain*"
   - "Harold Kerzner — *Project Management*"
-  - "Atul Gawande — *The Checklist Manifesto*"
-  - "Michael Hammer & James Champy — *Reengineering the Corporation*"
-  - "David J. Anderson — *Kanban*"
-  - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
+  - "Bent Flyvbjerg & Dan Gardner — *How Big Things Get Done*"
+  - "Donald G. Reinertsen — *The Principles of Product Development Flow*"
 limits:
-  - "Descomponer en exceso produce falsa precisión y alto mantenimiento. El horizonte cercano necesita más detalle que el lejano; usa rolling-wave planning."
+  - "La WBS y la ruta crítica suponen que el trabajo es descomponible y que las dependencias son conocidas; en trabajo de descubrimiento o muy incierto, funcionan peor y conviene un enfoque iterativo."
 evidence_signals:
-  - "paquetes sin owner"
-  - "dependencias tardías"
-  - "critical path changes"
-  - "milestones cumplidos"
-  - "replanificaciones"
+  - "entregables descompuestos"
+  - "paquetes con dueño"
+  - "ruta crítica identificada"
+  - "márgenes visibles"

@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Jefe → Manager"
 outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir proyecto de producto mediante evidencia observable."
-  - "Aplicar la secuencia: clasificar naturaleza del trabajo → definir horizonte y outcome → seleccionar funding y governance → diseñar transición a operación o producto → revisar si la categoría sigue siendo válida."
-  - "Interpretar proyectos sin cierre, productos financiados como proyectos, handoffs a operación sin atribuir causalidad automática."
-  - "Resolver el caso de proyecto, producto, operación y programa con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Definir proyecto, producto, operación y programa con sus criterios."
+  - "Clasificar una iniciativa en uno de los tipos o en una combinación declarada."
+  - "Elegir el método, el gobierno y la medida de éxito según el tipo."
+  - "Reconocer los errores de gestión que nacen de una clasificación equivocada."
+  - "Decidir cuándo agrupar proyectos en un programa y cuándo no."
 deliverable: "operating-improvement-brief.md"
 references:
   - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
   - "Harold Kerzner — *Project Management*"
-  - "Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*"
-  - "Gene Kim et al. — *The Phoenix Project*"
-  - "Michael Hammer & James Champy — *Reengineering the Corporation*"
   - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
+  - "Bent Flyvbjerg & Dan Gardner — *How Big Things Get Done*"
+  - "Donella H. Meadows — *Thinking in Systems*"
 limits:
-  - "Las categorías pueden coexistir: un producto puede contener proyectos y operar servicios. La clave es no confundir el mecanismo de entrega con el objeto de gestión."
+  - "Las definiciones del PMI son convenciones útiles, pero las fronteras en la práctica son borrosas y las organizaciones usan los términos de maneras distintas."
 evidence_signals:
-  - "proyectos sin cierre"
-  - "productos financiados como proyectos"
-  - "handoffs a operación"
-  - "beneficios realizados"
-  - "WIP de portfolio"
+  - "tipo de trabajo clasificado"
+  - "resultado y dueño definidos"
+  - "método acorde al tipo"
+  - "ciclo de vida con cierre"

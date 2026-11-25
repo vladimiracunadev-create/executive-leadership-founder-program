@@ -5,222 +5,188 @@
 <!-- nav:fin -->
 
 **Parte:** 06 — Proyectos, Agile y entrega  
-**Nivel:** Etapa 2 — Jefe → Manager  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Scrum es un marco ligero para problemas complejos basado en Product Goal, Product Backlog, Sprint Goal, Increment y responsabilidades definidas. Su valor está en crear un ciclo de inspección y adaptación; copiar Daily, Review y Retro sin producto usable produce teatro Scrum.
+Scrum es el marco ágil más extendido y también el más mal usado. Se adopta por moda, se aplica por completo a trabajos que no lo necesitan, o se aplica a medias dejando fuera lo que lo hace funcionar. La Guía de Scrum lo describe como un marco **deliberadamente incompleto**: define unos pocos roles, eventos y artefactos, y deja a cada equipo decidir el resto. Usarlo con criterio significa entender para qué sirve cada pieza y cuándo conviene.
 
-La salida de esta parte es **entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **scrum con criterio** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se basa en la Guía de Scrum de Schwaber y Sutherland (versión de 2020), en el Manifiesto Ágil y en la noción de ciclos cortos de aprendizaje. Al terminar sabrás describir los roles, eventos y artefactos de Scrum, distinguir sus compromisos, evaluar si Scrum conviene a un trabajo y reconocer cuándo se está aplicando solo en su forma.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `Product Goal`, `Sprint Goal`, `Increment`, `Product Owner`, `Developers` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. definir Product Goal → 2. ordenar backlog por valor y riesgo → 3. seleccionar Sprint Goal y trabajo → 4. construir Increment Done → 5. inspeccionar producto y proceso antes de adaptar** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** Sprint Goal success, Done versus carryover, release frequency sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** los tres roles, los cinco eventos y los tres artefactos de Scrum con su propósito.
+2. **Explicar** los compromisos: objetivo del producto, objetivo del Sprint y definición de hecho.
+3. **Conducir** una planificación de Sprint orientada a un objetivo.
+4. **Decidir** si Scrum conviene a un trabajo y qué adaptar.
+5. **Detectar** malos usos frecuentes: «Scrum de papel», mini cascada, comités disfrazados.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define Product Goal y Sprint Goal sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con Sprint Goal success y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: si usas Scrum, describe tu último Sprint con tus palabras; si no, describe cómo organizas ciclos de trabajo. |
+| 20–60 min | Roles, eventos, artefactos y compromisos. |
+| 60–105 min | Ejemplo trabajado: un Sprint de dos semanas con objetivo. |
+| 105–140 min | Caso ejecutivo: un equipo con Scrum «de papel». |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **Product Goal** | estado futuro del producto que orienta backlog | Distingue un hecho compatible y otro que lo refute. |
-| **Sprint Goal** | objetivo coherente que da flexibilidad al trabajo del sprint | Distingue un hecho compatible y otro que lo refute. |
-| **Increment** | resultado usable que cumple Definition of Done | Distingue un hecho compatible y otro que lo refute. |
-| **Product Owner** | responsabilidad por maximizar valor y gestionar Product Backlog | Distingue un hecho compatible y otro que lo refute. |
-| **Developers** | personas responsables de crear Increment usable | Distingue un hecho compatible y otro que lo refute. |
+| **Scrum** | Marco ligero que ayuda a las personas, equipos y organizaciones a generar valor mediante soluciones adaptativas a problemas complejos (Schwaber y Sutherland, 2020). | Empírico: se basa en transparencia, inspección y adaptación. |
+| **Sprint** | Evento contenedor de duración fija, de un mes o menos, en el que se crea un incremento de valor (Schwaber y Sutherland, 2020). | Hay un comienzo y un fin fijos. |
+| **Backlog del producto** | Lista ordenada de lo que se necesita para mejorar el producto (Schwaber y Sutherland, 2020). | Una sola lista, ordenada por valor. |
+| **Objetivo del Sprint** | Propósito único del Sprint que da coherencia al trabajo (Schwaber y Sutherland, 2020). | Explica por qué el Sprint vale la pena. |
+| **Incremento** | Paso concreto hacia el objetivo del producto, utilizable y que cumple la definición de hecho (Schwaber y Sutherland, 2020). | Funciona y se puede entregar. |
+| **Definición de hecho** | Descripción formal del estado del incremento cuando cumple las medidas de calidad requeridas (Schwaber y Sutherland, 2020). | Es un compromiso compartido. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 079: 1. definir Product Goal → 2. ordenar backlog por valor y riesgo → 3. seleccionar Sprint Goal y trabajo → 4. construir Increment Done → 5. inspeccionar producto y proceso antes de adaptar](modelo-mental.svg)
+![El ciclo de Scrum y sus compromisos: planificación del Sprint, Scrum diario, revisión del Sprint y retrospectiva, y el comienzo del siguiente Sprint.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir Product Goal → 2. ordenar backlog por valor y riesgo → 3. seleccionar Sprint Goal y trabajo → 4. construir Increment Done → 5. inspeccionar producto y proceso antes de adaptar
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Scrum es un marco ligero para problemas complejos basado en Product Goal, Product Backlog, Sprint Goal, Increment y responsabilidades definidas. Su valor está en crear un ciclo de inspección y adaptación; copiar Daily, Review y Retro sin producto usable produce teatro Scrum.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Scrum no es universal ni una metodología contractual rígida. Equipos de flujo continuo, operaciones o trabajo altamente interruptivo pueden requerir Kanban u otro sistema.**
+**Cómo leer el diagrama.** Cuatro eventos dentro de cada Sprint: se planifica, se inspecciona el avance cada día, se revisa el incremento con los interesados y se mejora la forma de trabajar. Al terminar empieza otro Sprint. La nota inferior resume lo que sostiene el ciclo: tres roles y tres artefactos, cada uno con un compromiso (objetivo del producto, objetivo del Sprint y definición de hecho).
 
 ## 📖 Desarrollo
 
-### 1. Product Goal: mecanismo central
+### 1. Qué es y qué supone
 
-**Product Goal** se entiende aquí como **estado futuro del producto que orienta backlog**. Esta es la pieza causal o estructural desde la que se inicia **scrum con criterio**: antes de definir product goal, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La Guía de Scrum define Scrum como un marco ligero para generar valor mediante soluciones adaptativas a problemas complejos. Se funda en el **empirismo**: se aprende de la experiencia y se toman decisiones con lo observado, según tres pilares: **transparencia** (lo importante es visible), **inspección** (se revisa con frecuencia) y **adaptación** (se ajusta cuando algo se desvía). Y en valores como el compromiso, el enfoque, la apertura, el respeto y el coraje. No es un método de gestión de proyectos ni una receta: es un marco que exige completar lo que deja abierto.
 
-La lectura rectora de este bloque es Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*. Su aporte se usa para examinar **gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **Sprint Goal success**; regístrala con periodo, unidad, población y baseline.
+### 2. El equipo y sus roles
 
-Relaciona el mecanismo con **Sprint Goal**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El **equipo Scrum** es pequeño y reúne todas las habilidades para crear valor en cada Sprint, con tres responsabilidades. El **dueño del producto** maximiza el valor del producto y gestiona el backlog; es una persona, no un comité. Los **desarrolladores** crean cualquier aspecto de un incremento utilizable en cada Sprint. El **Scrum Master** es responsable de que Scrum se entienda y se aplique, y de la eficacia del equipo; es un líder servidor, no un jefe. Todos responden por el producto y por mejorar su forma de trabajar.
 
-### 2. Sprint Goal: frontera conceptual y error de clasificación
+### 3. Los eventos
 
-**Definición operacional:** objetivo coherente que da flexibilidad al trabajo del sprint. Su valor está en distinguirlo de **Product Goal** y **Increment**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El **Sprint** contiene los demás eventos y dura un mes o menos; tiene un objetivo, no cambia en su duración y sirve para crear un incremento. La **planificación del Sprint** responde tres preguntas: *por qué* es valioso este Sprint, *qué* se puede hacer y *cómo* se hará. El **Scrum diario** es un evento breve, de unos quince minutos, para que los desarrolladores inspeccionen el avance hacia el objetivo y ajusten el plan. La **revisión del Sprint** inspecciona el resultado con los interesados y adapta el backlog. La **retrospectiva** inspecciona cómo trabajó el equipo y acuerda mejoras.
 
-Contrasta el problema con Harold Kerzner — *Project Management*, que aporta una mirada sobre **integración de proyectos, control, madurez y alineación organizacional**. Formula dos mini-casos: uno que sí satisface la definición de **Sprint Goal** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **Done versus carryover** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Los artefactos y sus compromisos
 
-Antes de ordenar backlog por valor y riesgo, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Cada artefacto tiene un compromiso que da foco. El **backlog del producto**, una lista ordenada de lo que se necesita, se vincula con el **objetivo del producto**. El **backlog del Sprint**, que reúne lo seleccionado y un plan, se vincula con el **objetivo del Sprint**. El **incremento**, un paso concreto hacia el objetivo del producto, se vincula con la **definición de hecho** (clase 082). Los compromisos protegen la transparencia: si todos saben qué se persigue y qué significa «terminado», el trabajo se puede inspeccionar.
 
-### 3. Increment: operacionalización y medición
+### 5. Un Sprint con criterio
 
-**Increment** significa **resultado usable que cumple Definition of Done**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El error más frecuente es llenar el Sprint con una lista de tareas sin objetivo. Un buen Sprint tiene **un objetivo** que une el trabajo: «permitir que un cliente nuevo complete su registro sin ayuda». El equipo selecciona lo que cree que puede terminar, según su capacidad medida (clase 076). Durante el Sprint no se agregan cambios que pongan en riesgo el objetivo; el dueño del producto puede negociar el alcance con los desarrolladores, y si el objetivo deja de tener sentido, puede cancelarse el Sprint. Al final hay un incremento utilizable.
 
-David J. Anderson — *Kanban* orienta este bloque mediante **flujo, trabajo en proceso, políticas explícitas y evolución del sistema**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **release frequency**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Cuándo conviene y cuándo no
 
-Al llegar a seleccionar sprint goal y trabajo, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Scrum conviene a **trabajo complejo**, donde no se sabe de antemano qué funcionará, hay un cliente o usuario al que se le puede mostrar avance y el equipo puede entregar un incremento utilizable en pocas semanas. Conviene menos a trabajo **repetitivo** o de flujo continuo (clase 080), a equipos que no pueden dedicarse a un producto o a contextos donde nadie puede decidir sobre prioridades. A veces conviene tomar partes de Scrum (por ejemplo, la revisión y la retrospectiva) sin adoptar todo el marco; si se adopta, se hace de manera completa, porque las partes se sostienen entre sí.
 
-### 4. Product Owner: trade-offs y efectos de segundo orden
+### 7. Malos usos frecuentes
 
-**Definición:** responsabilidad por maximizar valor y gestionar Product Backlog. Este concepto obliga a abandonar la idea de que **scrum con criterio** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de construir increment done, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Eliyahu M. Goldratt & Jeff Cox — *The Goal* aporta una lente sobre **restricciones, throughput, inventario y pensamiento de flujo**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **backlog age** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **scrum con criterio**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **Product Owner** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. Developers: gobernanza, límites e integración
-
-**Developers** se define como **personas responsables de crear Increment usable** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Gene Kim et al. — *The Phoenix Project* se utiliza para estudiar **perspectiva de Operaciones tecnológicas aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar inspeccionar producto y proceso antes de adaptar, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Scrum no es universal ni una metodología contractual rígida. Equipos de flujo continuo, operaciones o trabajo altamente interruptivo pueden requerir Kanban u otro sistema.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **Product Goal**, **Sprint Goal**, **Increment**, **Product Owner** y **Developers** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **scrum con criterio** no consiste en sumar cinco definiciones. Empieza por **Product Goal**, contrasta **Sprint Goal** con **Increment**, incorpora **Product Owner** como restricción o mecanismo y usa **Developers** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir Product Goal → 2. ordenar backlog por valor y riesgo → 3. seleccionar Sprint Goal y trabajo → 4. construir Increment Done → 5. inspeccionar producto y proceso antes de adaptar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+**Scrum de papel**: se usan los nombres sin cambiar decisiones. **Mini cascada**: dentro del Sprint se hace análisis, desarrollo y pruebas por separado, y el incremento no está listo. **Comité del producto**: no hay una persona con autoridad que decida. **Scrum Master como jefe de proyecto** que asigna tareas. **Retrospectivas sin cambios**. **Sprint como contrato**: el equipo es presionado a comprometerse con un alcance fijo y se castiga la desviación. Todos ellos vacían el aprendizaje, que es lo que el marco busca.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* | gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor | ¿Qué supuesto de **scrum con criterio** ayuda a desafiar? |
-| Harold Kerzner — *Project Management* | integración de proyectos, control, madurez y alineación organizacional | ¿Qué supuesto de **scrum con criterio** ayuda a desafiar? |
-| David J. Anderson — *Kanban* | flujo, trabajo en proceso, políticas explícitas y evolución del sistema | ¿Qué supuesto de **scrum con criterio** ayuda a desafiar? |
-| Eliyahu M. Goldratt & Jeff Cox — *The Goal* | restricciones, throughput, inventario y pensamiento de flujo | ¿Qué supuesto de **scrum con criterio** ayuda a desafiar? |
-| Gene Kim et al. — *The Phoenix Project* | perspectiva de Operaciones tecnológicas aplicada al problema de la clase | ¿Qué supuesto de **scrum con criterio** ayuda a desafiar? |
-
-En **scrum con criterio**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **Product Goal**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Schwaber y Sutherland (2020) | Definición oficial de roles, eventos y artefactos. | Es deliberadamente incompleta. | ¿Qué decide tu equipo donde la guía no dice? |
+| Beck et al. (2001) | Valores y principios que sustentan el marco. | No define prácticas. | ¿Qué valor sostiene cada evento? |
+| Cohn (2005) | Estimación y planificación en equipos ágiles. | No es el marco oficial. | ¿Cómo estima tu equipo? |
+| Forsgren, Humble y Kim (2018) | Capacidades técnicas que facilitan entregar incrementos. | No se centra en Scrum. | ¿Puede tu equipo entregar un incremento utilizable? |
+| Edmondson (2018) | Seguridad psicológica, necesaria para las retrospectivas. | No trata del marco. | ¿Qué se dice realmente en tu retrospectiva? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un equipo hace sprints de dos semanas, pero cada área asigna tareas directamente durante el sprint y el Product Owner no puede ordenar prioridades. Casi nada queda Done.
+**Situación (hipotética).** Un equipo de seis personas trabaja en la aplicación de una cadena de tiendas. Sprints de dos semanas. Objetivo del producto: «que los clientes recurrentes reordenen en menos de un minuto».
 
-**Paso 1 — definir Product Goal.** La gerencia escribe primero el supuesto asociado a **Product Goal** y evita convertirlo en hecho. Luego busca **Sprint Goal success** para contrastarlo en el caso de **scrum con criterio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Evento | Qué ocurre |
+|---|---|
+| **Planificación** | Por qué: reducir pasos para reordenar es el mayor freno a la recompra. Objetivo del Sprint: «un cliente puede reordenar su último pedido con dos toques». Qué: el equipo selecciona cuatro elementos y descarta dos por capacidad. Cómo: define un plan técnico y de pruebas. |
+| **Scrum diario** | Quince minutos cada mañana: avance hacia el objetivo, obstáculos y ajustes. Un obstáculo: la API de pagos devuelve errores intermitentes; se decide probar con una alternativa. |
+| **Revisión** | Se muestra la función a dos tiendas piloto; el feedback revela que quieren cambiar la dirección de entrega antes de confirmar. El dueño del producto ajusta el backlog. |
+| **Retrospectiva** | Se identifica que las pruebas manuales retrasan la integración; se acuerda automatizar las tres pruebas más repetidas. |
 
-**Paso 2 — ordenar backlog por valor y riesgo.** La gerencia escribe primero el supuesto asociado a **Sprint Goal** y evita convertirlo en hecho. Luego busca **Done versus carryover** para contrastarlo en el caso de **scrum con criterio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** El incremento cumple la definición de hecho (revisado, probado, desplegable). El tiempo de reordenamiento baja de 90 a 40 segundos.
 
-**Paso 3 — seleccionar Sprint Goal y trabajo.** La gerencia escribe primero el supuesto asociado a **Increment** y evita convertirlo en hecho. Luego busca **release frequency** para contrastarlo en el caso de **scrum con criterio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — construir Increment Done.** La gerencia escribe primero el supuesto asociado a **Product Owner** y evita convertirlo en hecho. Luego busca **backlog age** para contrastarlo en el caso de **scrum con criterio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — inspeccionar producto y proceso antes de adaptar.** La gerencia escribe primero el supuesto asociado a **Developers** y evita convertirlo en hecho. Luego busca **review feedback** para contrastarlo en el caso de **scrum con criterio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **scrum con criterio**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Hubo un objetivo, no una lista de tareas. (2) La revisión cambió el backlog. (3) La retrospectiva produjo una mejora concreta.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **Product Goal** | estado futuro del producto que orienta backlog | Cuando Sprint Goal success es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **Sprint Goal** | objetivo coherente que da flexibilidad al trabajo del sprint | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Scrum frente a Kanban.** Scrum trabaja con ciclos de duración fija; Kanban, con flujo continuo y límites de trabajo en curso. Pueden combinarse.
 
-**Frontera de aplicación:** Scrum no es universal ni una metodología contractual rígida. Equipos de flujo continuo, operaciones o trabajo altamente interruptivo pueden requerir Kanban u otro sistema.
+**Límites.** Scrum es un marco para trabajo complejo; no resuelve por sí solo problemas de estrategia, de calidad técnica o de cultura. La Guía misma reconoce que es incompleta. Su evidencia de eficacia es heterogénea y depende de cómo se aplique. Y su adopción en toda una organización requiere cambios en presupuestos, contratos y gobernanza que exceden al equipo.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre scrum con criterio |
+| Nivel | Cómo trabaja con Scrum |
 |---|---|
-| **Profesional** | usa **scrum con criterio** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **Product Goal** y **Sprint Goal** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta Sprint Goal success con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si scrum con criterio cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de scrum con criterio reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **scrum con criterio** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Participa con transparencia y respeta el objetivo del Sprint. |
+| **Jefe / Team Lead** | Actúa como líder servidor o protege el espacio del equipo. |
+| **Gerente** | Provee dueños de producto con autoridad y evita interferir en los Sprints. |
+| **CEO / Director** | Gobierna por objetivos de producto y no por lista de tareas. |
+| **Founder / Owner** | Es el dueño de producto inicial y entrega para aprender. |
 
 ## 🏢 Caso ejecutivo
 
-Un equipo hace sprints de dos semanas, pero cada área asigna tareas directamente durante el sprint y el Product Owner no puede ordenar prioridades. Casi nada queda Done.
+Una empresa de servicios financieros «implementó Scrum» hace un año. El dueño del producto es un comité de cinco directores que se reúne mensualmente; los Sprints se llenan con tareas asignadas por el jefe; las pruebas se hacen en un equipo separado al final; las retrospectivas «no sirven porque nada cambia»; el equipo está desmotivado. La dirección dice que «Scrum no funciona acá».
 
-Entrega un **decision brief de scrum con criterio** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diagnóstico y plan de ajuste** que contenga: (a) la comparación entre lo que hace el equipo y lo que dice la Guía de Scrum; (b) qué es Scrum de papel y qué es adaptación legítima; (c) qué cambios de decisión se necesitan: dueño, objetivo, capacidad, definición de hecho; (d) qué partes conservarías y cuáles dejarías; (e) cómo medirás el efecto; (f) cuándo concluirías que Scrum no conviene a este trabajo.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **scrum con criterio** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir Product Goal → 2. ordenar backlog por valor y riesgo → 3. seleccionar Sprint Goal y trabajo → 4. construir Increment Done → 5. inspeccionar producto y proceso antes de adaptar** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta Sprint Goal success, Done versus carryover; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Escribe un objetivo de Sprint para tu trabajo actual en una frase.
+2. Describe a tu equipo con los tres roles de Scrum y qué falta.
+3. Identifica un mal uso en tu entorno y qué decisión lo causa.
+4. Define una definición de hecho de tres criterios para tu incremento.
+5. Escribe cómo decidirías si Scrum conviene o no a un trabajo.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar Product Goal y Sprint Goal como sinónimos | Se pierde la distinción entre “estado futuro del producto que orienta backlog” y “objetivo coherente que da flexibilidad al trabajo del sprint” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “inspeccionar producto y proceso antes de adaptar” | Se saltó “definir Product Goal” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir Product Goal → 2. ordenar backlog por valor y riesgo → 3. seleccionar Sprint Goal y trabajo → 4. construir Increment Done → 5. inspeccionar producto y proceso antes de adaptar y marca el primer supuesto no demostrado. |
-| Optimizar solo Sprint Goal success | La métrica local sustituyó al resultado del sistema | Contrástala con Done versus carryover y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre scrum con criterio | Scrum no es universal ni una metodología contractual rígida. Equipos de flujo continuo, operaciones o trabajo altamente interruptivo pueden requerir Kanban u otro sistema. |
-| No fijar revisión | Una decisión sobre scrum con criterio se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Sprint sin objetivo | Se llena de tareas | Un objetivo que dé coherencia. |
+| Dueño del producto colegiado | Se quiere compartir la decisión | Una persona con autoridad. |
+| Mini cascada | Se separa por especialidad | Equipo multifuncional que entrega un incremento. |
+| Retrospectiva sin cambios | No hay seguridad | Una mejora acordada por ciclo. |
+| Scrum Master como jefe | Se asignan tareas | Líder servidor. |
+| Aplicarlo a todo | Es la moda | Elegir según la naturaleza del trabajo. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **Product Goal** y **Sprint Goal** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **Increment** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir Product Goal → ordenar backlog por valor y riesgo** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **Sprint Goal success** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **scrum con criterio**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Scrum no es universal ni una metodología contractual rígida. Equipos de flujo continuo, operaciones o trabajo altamente interruptivo pueden requerir Kanban u otro sistema.**?
+1. ¿Cuáles son los tres roles de Scrum?
+2. ¿Cuáles son los cinco eventos?
+3. ¿Qué tres preguntas responde la planificación del Sprint?
+4. ¿Qué compromiso se asocia a cada artefacto?
+5. ¿Cuándo conviene Scrum?
+6. Nombra tres malos usos.
+7. ¿Qué límite reconoce la Guía sobre sí misma?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Dueño del producto, desarrolladores y Scrum Master.
+2. El Sprint, la planificación, el Scrum diario, la revisión y la retrospectiva.
+3. Por qué es valioso el Sprint, qué se puede hacer y cómo se hará.
+4. Backlog del producto con el objetivo del producto, backlog del Sprint con el objetivo del Sprint e incremento con la definición de hecho.
+5. En trabajo complejo, con un usuario al que mostrar avances y un equipo que pueda entregar un incremento utilizable en pocas semanas.
+6. Por ejemplo: Scrum de papel, mini cascada, dueño del producto colegiado, retrospectivas sin cambios.
+7. Que es deliberadamente incompleto: cada equipo debe decidir el resto.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/079-scrum-con-criterio/`:
 
-- `leadership-decision-brief.md` con el problema específico de **scrum con criterio**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **scrum con criterio** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **Product Goal**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un equipo hace sprints de dos semanas, pero cada área asigna tareas directamente durante el sprint y el Product Owner no puede ordenar prioridades. Casi nada queda Done.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan del caso ejecutivo;
+- `reading-note.md` con una tensión entre la Guía de Scrum y el Manifiesto Ágil;
+- `decision-journal.md` con el objetivo del Sprint, la definición de hecho y la mejora acordada.
 
 ## 📗 Fuentes y verificación
 
-- Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* (1996). **Uso en esta clase:** gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor. Lectura selectiva sobre **scrum con criterio**. **Localizador:** [ISBN-13 9781880410127](https://openlibrary.org/isbn/9781880410127).
-- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** integración de proyectos, control, madurez y alineación organizacional. Lectura selectiva sobre **scrum con criterio**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
-- David J. Anderson — *Kanban* (Blue hole press, 2010). **Uso en esta clase:** flujo, trabajo en proceso, políticas explícitas y evolución del sistema. Lectura selectiva sobre **scrum con criterio**. **Localizador:** [ISBN-13 9780984521401](https://openlibrary.org/isbn/9780984521401).
-- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** restricciones, throughput, inventario y pensamiento de flujo. Lectura selectiva sobre **scrum con criterio**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
-- Gene Kim et al. — *The Phoenix Project* (IT Revolution Press, 2018). **Uso en esta clase:** perspectiva de Operaciones tecnológicas aplicada al problema de la clase. Lectura selectiva sobre **scrum con criterio**. **Localizador:** [ISBN-13 9781942788294](https://openlibrary.org/isbn/9781942788294).
-- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** empirismo, transparencia, inspección y adaptación. **Fuente primaria:** <https://scrumguides.org/>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **scrum con criterio** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **scrum con criterio**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **scrum con criterio** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **scrum con criterio** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **scrum con criterio** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** roles, eventos, artefactos y compromisos de Scrum. **Fuente primaria:** <https://scrumguides.org/>.
+- Kent Beck et al. — *Manifesto for Agile Software Development* (agilemanifesto.org). **Uso en esta clase:** valores y principios que sustentan el marco. **Fuente primaria:** <https://agilemanifesto.org/>.
+- Mike Cohn — *Agile Estimating and Planning* (Prentice Hall, 2005). **Uso en esta clase:** estimación y planificación en equipos ágiles. Lectura selectiva sobre **scrum con criterio**. **Localizador:** [ISBN-13 9780131479418](https://openlibrary.org/isbn/9780131479418).
+- Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* (IT Revolution Press, 2018). **Uso en esta clase:** capacidades técnicas que facilitan entregar incrementos. Lectura selectiva sobre **scrum con criterio**. **Localizador:** [ISBN-13 9781942788379](https://openlibrary.org/isbn/9781942788379).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica para las retrospectivas. Lectura selectiva sobre **scrum con criterio**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
 
-> **Regla de fuentes para Scrum con criterio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **scrum con criterio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Scrum con criterio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente; en particular, la Guía de Scrum se revisa en su versión vigente. Los ejemplos y casos son hipotéticos. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

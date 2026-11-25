@@ -5,222 +5,193 @@
 <!-- nav:fin -->
 
 **Parte:** 06 — Proyectos, Agile y entrega  
-**Nivel:** Etapa 2 — Jefe → Manager  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Work Breakdown Structure descompone entregables en trabajo manejable; no es una lista de tareas cronológica. La planificación conecta alcance, dependencias, recursos y hitos, permitiendo ver qué trabajo controla el camino y qué paquetes requieren detalle posterior.
+Un plan de proyecto es una hipótesis sobre cómo se llegará de un resultado deseado a un resultado entregado. Casi todos los planes fallan por una de dos razones: **olvidan partes del trabajo** (lo que no estaba en la lista tarda en aparecer, y aparece tarde) o **ignoran cómo se encadenan las tareas** (el plazo no es la suma de las partes sino la secuencia de las que no pueden esperar). Dos herramientas corrigen ambos errores: la estructura de desglose del trabajo y la ruta crítica.
 
-La salida de esta parte es **entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **work breakdown y planificación** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase usa el PMBOK para la descomposición y el cronograma, y las ideas de Eliyahu Goldratt sobre la **cadena crítica** y la protección del plazo del proyecto. Al terminar sabrás descomponer un resultado por entregables, definir paquetes de trabajo, identificar dependencias y construir un cronograma con la secuencia que fija el plazo.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `WBS`, `work package`, `dependency`, `milestone`, `critical path` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. partir de entregables → 2. descomponer hasta paquetes gestionables → 3. mapear dependencias → 4. estimar secuencia y recursos → 5. identificar critical path y hitos** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** paquetes sin owner, dependencias tardías, critical path changes sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Descomponer** un resultado en entregables y paquetes de trabajo.
+2. **Verificar** la completitud de la descomposición con la regla del cien por ciento.
+3. **Identificar** dependencias entre tareas y entre equipos.
+4. **Calcular** la ruta crítica y entender qué fija el plazo total.
+5. **Proteger** el plazo con márgenes agregados y no con márgenes en cada tarea.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define WBS y work package sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con paquetes sin owner y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: toma un proyecto reciente; ¿qué tareas no estaban en el plan inicial? |
+| 20–60 min | Descomposición, dependencias y ruta crítica. |
+| 60–105 min | Ejemplo trabajado: un lanzamiento con seis entregables. |
+| 105–140 min | Caso ejecutivo: un plan que olvidó la migración. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **WBS** | descomposición jerárquica orientada a entregables | Distingue un hecho compatible y otro que lo refute. |
-| **work package** | unidad gestionable con resultado y estimación | Distingue un hecho compatible y otro que lo refute. |
-| **dependency** | relación donde un trabajo condiciona otro | Distingue un hecho compatible y otro que lo refute. |
-| **milestone** | evento sin duración que marca un punto verificable | Distingue un hecho compatible y otro que lo refute. |
-| **critical path** | secuencia cuya demora afecta fecha final | Distingue un hecho compatible y otro que lo refute. |
+| **Estructura de desglose del trabajo (WBS)** | Descomposición jerárquica del alcance total en entregables y paquetes de trabajo (PMI, PMBOK). | Cada nivel agrupa al inferior. |
+| **Regla del 100 %** | La descomposición debe incluir todo el trabajo del alcance, y solo ese (PMI, PMBOK). | La suma de las partes es el todo. |
+| **Paquete de trabajo** | Unidad más pequeña de la descomposición, con responsable y criterio de aceptación. | Se puede estimar y asignar. |
+| **Dependencia** | Relación por la cual una tarea no puede comenzar o terminar antes que otra. | Hay un «antes de». |
+| **Ruta crítica** | Secuencia de tareas que determina el plazo mínimo del proyecto (PMI, PMBOK). | Un retraso en ella retrasa todo. |
+| **Cadena crítica** | Ruta crítica que además considera la disponibilidad de recursos y protege el plazo con un margen agregado (Goldratt, 1997). | Se gestiona el consumo del margen del proyecto. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 075: 1. partir de entregables → 2. descomponer hasta paquetes gestionables → 3. mapear dependencias → 4. estimar secuencia y recursos → 5. identificar critical path y hitos](modelo-mental.svg)
+![De un resultado a un plan: resultado final, descomposición por entregables, paquetes de trabajo, dependencias y cronograma con ruta crítica, con vuelta a planificar al conocer más.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. partir de entregables → 2. descomponer hasta paquetes gestionables → 3. mapear dependencias → 4. estimar secuencia y recursos → 5. identificar critical path y hitos
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Work Breakdown Structure descompone entregables en trabajo manejable; no es una lista de tareas cronológica. La planificación conecta alcance, dependencias, recursos y hitos, permitiendo ver qué trabajo controla el camino y qué paquetes requieren detalle posterior.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Descomponer en exceso produce falsa precisión y alto mantenimiento. El horizonte cercano necesita más detalle que el lejano; usa rolling-wave planning.**
+**Cómo leer el diagrama.** Se parte del resultado, se descompone por **entregables** y no por actividades, se llega a paquetes de trabajo pequeños, se ordenan por dependencias y se obtiene el cronograma con la secuencia que fija el plazo. El retorno indica que el plan se rehace al saber más: no es un documento sino un proceso.
 
 ## 📖 Desarrollo
 
-### 1. WBS: mecanismo central
+### 1. Descomponer por entregables
 
-**WBS** se entiende aquí como **descomposición jerárquica orientada a entregables**. Esta es la pieza causal o estructural desde la que se inicia **work breakdown y planificación**: antes de partir de entregables, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La descomposición parte del entregable final y lo divide en **entregables** más pequeños, hasta llegar a **paquetes de trabajo**. Se descompone por **cosas que existirán** (el manual, el sistema, la capacitación) y no por actividades (diseñar, programar, probar), porque las cosas son más fáciles de verificar y evitan olvidar partes. Un buen desglose tiene de tres a cuatro niveles; más detalle se deja para cuando el trabajo se acerque.
 
-La lectura rectora de este bloque es Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*. Su aporte se usa para examinar **gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **paquetes sin owner**; regístrala con periodo, unidad, población y baseline.
+### 2. La regla del cien por ciento
 
-Relaciona el mecanismo con **work package**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El PMBOK propone que la WBS contenga el **100 % del trabajo** del alcance, y nada más: si se suman las partes, se obtiene el todo. Para verificarlo, se pregunta de cada nivel: «si se entregan estos subentregables, ¿está completo el padre?». También se verifica con el alcance: cada requisito debe aparecer en algún entregable. Las tareas olvidadas más frecuentes son las de **gestión**, **migración**, **capacitación**, **pruebas**, **documentación** y **cierre**.
 
-### 2. work package: frontera conceptual y error de clasificación
+### 3. Paquetes de trabajo
 
-**Definición operacional:** unidad gestionable con resultado y estimación. Su valor está en distinguirlo de **WBS** y **dependency**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Un paquete de trabajo es lo bastante pequeño para **estimarse con confianza** y asignarse a **un responsable**, con un criterio de **aceptación**. Un tamaño razonable: entre uno y diez días de trabajo. Si es mucho más grande, se descompone; si es mucho más pequeño, se agrupa. Los paquetes pequeños permiten ver el avance con claridad y limitar el daño de una mala estimación (clase 076).
 
-Contrasta el problema con Harold Kerzner — *Project Management*, que aporta una mirada sobre **integración de proyectos, control, madurez y alineación organizacional**. Formula dos mini-casos: uno que sí satisface la definición de **work package** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **dependencias tardías** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Dependencias
 
-Antes de descomponer hasta paquetes gestionables, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Las tareas se relacionan: una no puede empezar hasta que otra termina (la más común), o ambas deben terminar juntas. También hay dependencias **entre equipos** y con **terceros**: el proveedor que debe entregar, la aprobación de otra área. Se registran con un nombre y una fecha y se tratan como riesgos (clase 077). Muchas demoras no vienen del trabajo propio sino de lo que se esperaba de otros y no se pidió a tiempo.
 
-### 3. dependency: operacionalización y medición
+### 5. La ruta crítica
 
-**dependency** significa **relación donde un trabajo condiciona otro**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La **ruta crítica** es la secuencia de tareas dependientes más larga: determina el plazo mínimo del proyecto. Un retraso en una tarea de la ruta crítica retrasa todo; en una tarea con **holgura**, no. Conocerla permite concentrar la atención donde importa. Se calcula sumando las duraciones a lo largo de cada secuencia: la mayor es la ruta crítica. Cambia a medida que el proyecto avanza.
 
-Atul Gawande — *The Checklist Manifesto* orienta este bloque mediante **perspectiva de Ejecución aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **critical path changes**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Proteger el plazo
 
-Al llegar a mapear dependencias, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Goldratt observó que, cuando cada persona agrega un margen a su estimación, el margen se consume: se trabaja hasta el último momento (síndrome del estudiante) o el trabajo se expande para llenar el tiempo. Propone **estimar cada tarea sin margen oculto** y agregar un **margen único al final de la cadena crítica**, que se consume si las tareas se atrasan y se vigila como indicador de salud. Considerar la disponibilidad de **recursos** también cambia la cadena crítica: una persona no puede hacer dos tareas a la vez.
 
-### 4. milestone: trade-offs y efectos de segundo orden
+### 7. Planificar por olas
 
-**Definición:** evento sin duración que marca un punto verificable. Este concepto obliga a abandonar la idea de que **work breakdown y planificación** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de estimar secuencia y recursos, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Michael Hammer & James Champy — *Reengineering the Corporation* aporta una lente sobre **perspectiva de Procesos aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **milestones cumplidos** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **work breakdown y planificación**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **milestone** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. critical path: gobernanza, límites e integración
-
-**critical path** se define como **secuencia cuya demora afecta fecha final** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-David J. Anderson — *Kanban* se utiliza para estudiar **flujo, trabajo en proceso, políticas explícitas y evolución del sistema** y contrastar la recomendación final. Al ejecutar identificar critical path y hitos, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Descomponer en exceso produce falsa precisión y alto mantenimiento. El horizonte cercano necesita más detalle que el lejano; usa rolling-wave planning.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **WBS**, **work package**, **dependency**, **milestone** y **critical path** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **work breakdown y planificación** no consiste en sumar cinco definiciones. Empieza por **WBS**, contrasta **work package** con **dependency**, incorpora **milestone** como restricción o mecanismo y usa **critical path** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. partir de entregables → 2. descomponer hasta paquetes gestionables → 3. mapear dependencias → 4. estimar secuencia y recursos → 5. identificar critical path y hitos**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Planificar todo en detalle desde el inicio produce una ilusión de control, porque lo que está lejos se conoce poco. Una práctica sensata es la **planificación por olas**: detalle alto para el trabajo próximo (semanas), nivel medio para el siguiente y alto nivel para lo lejano, que se refina al acercarse. El plan se **revisa** a intervalos regulares y cuando cambian los supuestos. En entornos ágiles (clases 078 a 080), las olas son los ciclos cortos.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* | gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor | ¿Qué supuesto de **work breakdown y planificación** ayuda a desafiar? |
-| Harold Kerzner — *Project Management* | integración de proyectos, control, madurez y alineación organizacional | ¿Qué supuesto de **work breakdown y planificación** ayuda a desafiar? |
-| Atul Gawande — *The Checklist Manifesto* | perspectiva de Ejecución aplicada al problema de la clase | ¿Qué supuesto de **work breakdown y planificación** ayuda a desafiar? |
-| Michael Hammer & James Champy — *Reengineering the Corporation* | perspectiva de Procesos aplicada al problema de la clase | ¿Qué supuesto de **work breakdown y planificación** ayuda a desafiar? |
-| David J. Anderson — *Kanban* | flujo, trabajo en proceso, políticas explícitas y evolución del sistema | ¿Qué supuesto de **work breakdown y planificación** ayuda a desafiar? |
-
-En **work breakdown y planificación**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **WBS**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| PMI, PMBOK | WBS, dependencias, cronograma y ruta crítica. | Supone un alcance relativamente estable. | ¿Qué trabajo no está en tu WBS? |
+| Goldratt (1997) | Cadena crítica y protección del plazo. | Su método ha sido discutido y requiere cambios de cultura. | ¿Dónde se esconden los márgenes de tu plan? |
+| Kerzner (2017) | Planificación y control de proyectos. | Escrito para grandes organizaciones. | ¿Cómo se monitorea el avance? |
+| Flyvbjerg y Gardner (2023) | Planificar con cuidado antes de ejecutar. | Se centra en grandes proyectos. | ¿Cuánto tiempo dedicaste a planificar? |
+| Reinertsen (2009) | Cómo la cola y la variabilidad afectan el desarrollo. | Es un texto técnico. | ¿Qué esperas entre tareas? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un equipo planifica 'analizar, desarrollar, probar, lanzar' sin descomponer integraciones externas. A mitad del proyecto descubre una certificación de seis semanas que controla la fecha.
+**Situación (hipotética).** Un equipo planifica el lanzamiento de un servicio nuevo. El resultado: «servicio lanzado y operando con 50 clientes».
 
-**Paso 1 — partir de entregables.** La gerencia escribe primero el supuesto asociado a **WBS** y evita convertirlo en hecho. Luego busca **paquetes sin owner** para contrastarlo en el caso de **work breakdown y planificación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Nivel | Entregable |
+|---|---|
+| 1 | Servicio lanzado y operando |
+| 1.1 | Producto: plataforma configurada y probada |
+| 1.2 | Operación: procedimientos, soporte y monitoreo |
+| 1.3 | Comercial: oferta, precios, materiales |
+| 1.4 | Personas: equipo capacitado |
+| 1.5 | Clientes: 50 clientes incorporados y migrados |
+| 1.6 | Gestión: plan, riesgos, informes y cierre |
 
-**Paso 2 — descomponer hasta paquetes gestionables.** La gerencia escribe primero el supuesto asociado a **work package** y evita convertirlo en hecho. Luego busca **dependencias tardías** para contrastarlo en el caso de **work breakdown y planificación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Dependencias y ruta crítica (en días hábiles).** Configuración (15) → pruebas (10) → capacitación (5) → incorporación de clientes (10) = 40 días. Procedimientos (12) y materiales (10) corren en paralelo y no son críticos. Pero la **dependencia externa**: la aprobación del proveedor de pagos tarda 25 días y debe estar antes de las pruebas: pasa a la ruta crítica (25 + 10 + 5 + 10 = 50 días).
 
-**Paso 3 — mapear dependencias.** La gerencia escribe primero el supuesto asociado a **dependency** y evita convertirlo en hecho. Luego busca **critical path changes** para contrastarlo en el caso de **work breakdown y planificación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisión.** El equipo pide la aprobación del proveedor el primer día y agrega un margen de 8 días al final de la cadena crítica; la fecha comprometida es el día 58 y se monitorea el consumo del margen.
 
-**Paso 4 — estimar secuencia y recursos.** La gerencia escribe primero el supuesto asociado a **milestone** y evita convertirlo en hecho. Luego busca **milestones cumplidos** para contrastarlo en el caso de **work breakdown y planificación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — identificar critical path y hitos.** La gerencia escribe primero el supuesto asociado a **critical path** y evita convertirlo en hecho. Luego busca **replanificaciones** para contrastarlo en el caso de **work breakdown y planificación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **work breakdown y planificación**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La WBS por entregables incluyó operación, personas y gestión. (2) La dependencia externa cambió la ruta crítica. (3) El margen es único y visible.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **WBS** | descomposición jerárquica orientada a entregables | Cuando paquetes sin owner es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **work package** | unidad gestionable con resultado y estimación | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Plan frente a calendario.** El calendario ordena fechas; el plan incluye el alcance, las dependencias, los recursos y los supuestos. Un calendario sin WBS es una promesa sin contenido.
 
-**Frontera de aplicación:** Descomponer en exceso produce falsa precisión y alto mantenimiento. El horizonte cercano necesita más detalle que el lejano; usa rolling-wave planning.
+**Límites.** La WBS y la ruta crítica suponen que el trabajo es descomponible y que las dependencias son conocidas; en trabajo de descubrimiento o muy incierto, funcionan peor y conviene un enfoque iterativo. El método de la cadena crítica ha tenido resultados variables y requiere que las personas acepten estimaciones sin margen. Y planificar con exceso de detalle consume tiempo que podría dedicarse a hacer.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre work breakdown y planificación |
+| Nivel | Cómo planifica |
 |---|---|
-| **Profesional** | usa **work breakdown y planificación** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **WBS** y **work package** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta paquetes sin owner con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si work breakdown y planificación cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de work breakdown y planificación reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **work breakdown y planificación** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Descompone su tarea y avisa de dependencias. |
+| **Jefe / Team Lead** | Construye la WBS y el cronograma con el equipo. |
+| **Gerente** | Revisa planes de varios equipos y sus dependencias. |
+| **CEO / Director** | Pide planes con ruta crítica y margen visible para las iniciativas clave. |
+| **Founder / Owner** | Planifica por olas con recursos limitados y revisa con frecuencia. |
 
 ## 🏢 Caso ejecutivo
 
-Un equipo planifica 'analizar, desarrollar, probar, lanzar' sin descomponer integraciones externas. A mitad del proyecto descubre una certificación de seis semanas que controla la fecha.
+Una empresa planificó el cambio a un nuevo sistema de gestión en cuatro meses. El plan tenía 60 actividades, pero omitió la migración de datos históricos, la capacitación de 120 usuarios y las pruebas con clientes. A seis semanas del lanzamiento, se descubre que el proveedor necesita 8 semanas para preparar la migración. El gerente del proyecto dice que «la fecha no se puede mover».
 
-Entrega un **decision brief de work breakdown y planificación** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan reconstruido** que contenga: (a) una WBS por entregables que verifique la regla del cien por ciento; (b) los paquetes de trabajo con responsable y criterio de aceptación; (c) el mapa de dependencias internas y externas; (d) la ruta crítica con su duración; (e) el margen que proteges y cómo lo monitorearás; (f) las opciones ante la dependencia del proveedor y su efecto en plazo.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **work breakdown y planificación** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. partir de entregables → 2. descomponer hasta paquetes gestionables → 3. mapear dependencias → 4. estimar secuencia y recursos → 5. identificar critical path y hitos** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta paquetes sin owner, dependencias tardías; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Descompón un proyecto tuyo por entregables en tres niveles.
+2. Verifica la regla del 100 % contra el alcance.
+3. Lista las dependencias externas y su fecha límite para pedirlas.
+4. Calcula la ruta crítica de tu proyecto.
+5. Decide dónde pondrías el margen y cómo lo vigilarías.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar WBS y work package como sinónimos | Se pierde la distinción entre “descomposición jerárquica orientada a entregables” y “unidad gestionable con resultado y estimación” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “identificar critical path y hitos” | Se saltó “partir de entregables” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. partir de entregables → 2. descomponer hasta paquetes gestionables → 3. mapear dependencias → 4. estimar secuencia y recursos → 5. identificar critical path y hitos y marca el primer supuesto no demostrado. |
-| Optimizar solo paquetes sin owner | La métrica local sustituyó al resultado del sistema | Contrástala con dependencias tardías y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre work breakdown y planificación | Descomponer en exceso produce falsa precisión y alto mantenimiento. El horizonte cercano necesita más detalle que el lejano; usa rolling-wave planning. |
-| No fijar revisión | Una decisión sobre work breakdown y planificación se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Descomponer por actividades | Es lo natural | Descomponer por entregables. |
+| Olvidar migración, capacitación o cierre | Son poco visibles | Revisar con la regla del 100 %. |
+| Ignorar dependencias externas | Se supone que llegarán | Pedirlas a tiempo y tratarlas como riesgos. |
+| Márgenes ocultos en cada tarea | Cada uno se protege | Margen único en la cadena crítica. |
+| Planificar todo al detalle | Se busca certeza | Planificar por olas. |
+| No revisar el plan | Se archiva | Revisión regular. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **WBS** y **work package** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **dependency** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **partir de entregables → descomponer hasta paquetes gestionables** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **paquetes sin owner** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **work breakdown y planificación**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Descomponer en exceso produce falsa precisión y alto mantenimiento. El horizonte cercano necesita más detalle que el lejano; usa rolling-wave planning.**?
+1. ¿Qué es una WBS y qué dice la regla del cien por ciento?
+2. ¿Por qué se descompone por entregables y no por actividades?
+3. ¿Qué es un paquete de trabajo?
+4. ¿Qué es la ruta crítica y cómo se calcula?
+5. ¿Qué propone Goldratt sobre los márgenes?
+6. ¿Qué es la planificación por olas?
+7. ¿Qué límite tienen la WBS y la ruta crítica?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Una descomposición jerárquica del alcance; debe incluir todo el trabajo del alcance y solo ese.
+2. Porque las cosas se verifican y evitan olvidar partes, mientras que las actividades pueden dejar huecos.
+3. La unidad más pequeña de la descomposición, con responsable, estimación y criterio de aceptación.
+4. La secuencia de tareas dependientes más larga, que fija el plazo mínimo; se calcula sumando las duraciones por cada secuencia.
+5. Estimar sin margen oculto en cada tarea y agregar un margen único al final de la cadena crítica.
+6. Planificar con detalle lo próximo y a alto nivel lo lejano, refinando al acercarse.
+7. Suponen trabajo descomponible y dependencias conocidas; en trabajo muy incierto conviene un enfoque iterativo.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/075-work-breakdown-y-planificacion/`:
 
-- `leadership-decision-brief.md` con el problema específico de **work breakdown y planificación**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **work breakdown y planificación** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **WBS**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un equipo planifica 'analizar, desarrollar, probar, lanzar' sin descomponer integraciones externas. A mitad del proyecto descubre una certificación de seis semanas que controla la fecha.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan del caso ejecutivo;
+- `project-charter.md` (plantilla [Project charter](../../../../templates/project-charter.md)) con la WBS y el cronograma;
+- `decision-journal.md` con la ruta crítica y el consumo del margen.
 
 ## 📗 Fuentes y verificación
 
-- Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* (1996). **Uso en esta clase:** gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor. Lectura selectiva sobre **work breakdown y planificación**. **Localizador:** [ISBN-13 9781880410127](https://openlibrary.org/isbn/9781880410127).
-- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** integración de proyectos, control, madurez y alineación organizacional. Lectura selectiva sobre **work breakdown y planificación**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
-- Atul Gawande — *The Checklist Manifesto* (Penguin Random House, 2014). **Uso en esta clase:** perspectiva de Ejecución aplicada al problema de la clase. Lectura selectiva sobre **work breakdown y planificación**. **Localizador:** [ISBN-13 9780143423225](https://openlibrary.org/isbn/9780143423225).
-- Michael Hammer & James Champy — *Reengineering the Corporation* (HarperBusiness, 2001). **Uso en esta clase:** perspectiva de Procesos aplicada al problema de la clase. Lectura selectiva sobre **work breakdown y planificación**. **Localizador:** [ISBN-13 9780066621128](https://openlibrary.org/isbn/9780066621128).
-- David J. Anderson — *Kanban* (Blue hole press, 2010). **Uso en esta clase:** flujo, trabajo en proceso, políticas explícitas y evolución del sistema. Lectura selectiva sobre **work breakdown y planificación**. **Localizador:** [ISBN-13 9780984521401](https://openlibrary.org/isbn/9780984521401).
-- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** empirismo, transparencia, inspección y adaptación. **Fuente primaria:** <https://scrumguides.org/>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **work breakdown y planificación** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **work breakdown y planificación**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **work breakdown y planificación** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **work breakdown y planificación** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **work breakdown y planificación** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* (1996). **Uso en esta clase:** WBS, dependencias, cronograma y ruta crítica. Lectura selectiva sobre **work breakdown y planificación**. **Localizador:** [ISBN-13 9781880410127](https://openlibrary.org/isbn/9781880410127).
+- Eliyahu M. Goldratt — *Critical Chain* (North River Press, 1997). **Uso en esta clase:** cadena crítica y protección del plazo del proyecto. Lectura selectiva sobre **work breakdown y planificación**. **Localizador:** [ISBN-13 9780884271536](https://openlibrary.org/isbn/9780884271536).
+- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** planificación y control de proyectos. Lectura selectiva sobre **work breakdown y planificación**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
+- Bent Flyvbjerg & Dan Gardner — *How Big Things Get Done* (Currency, 2023). **Uso en esta clase:** planificar con cuidado antes de ejecutar. Lectura selectiva sobre **work breakdown y planificación**. **Localizador:** [ISBN-13 9780593239513](https://openlibrary.org/isbn/9780593239513).
+- Donald G. Reinertsen — *The Principles of Product Development Flow* (Celeritas Publishing, 2009). **Uso en esta clase:** cola y variabilidad en el desarrollo. Lectura selectiva sobre **work breakdown y planificación**. **Localizador:** [ISBN-13 9781935401001](https://openlibrary.org/isbn/9781935401001).
 
-> **Regla de fuentes para Work breakdown y planificación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **work breakdown y planificación** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Work breakdown y planificación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con duraciones ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

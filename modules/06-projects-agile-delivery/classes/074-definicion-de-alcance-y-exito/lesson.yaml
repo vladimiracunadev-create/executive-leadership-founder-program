@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Jefe → Manager"
 outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir scope de deliverable mediante evidencia observable."
-  - "Aplicar la secuencia: definir problema y outcome → traducir a entregables mínimos → documentar inclusiones y exclusiones → acordar acceptance criteria → asignar owner de beneficios post-entrega."
-  - "Interpretar scope changes, acceptance defects, benefit realization sin atribuir causalidad automática."
-  - "Resolver el caso de definición de alcance y éxito con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir problema, resultado de negocio, requisito y entregable."
+  - "Redactar criterios de éxito medibles con línea base y fecha."
+  - "Delimitar el alcance con inclusiones y exclusiones explícitas."
+  - "Gobernar los cambios con un proceso de aprobación y su efecto en plazo y costo."
+  - "Detectar y frenar la ampliación silenciosa del alcance."
 deliverable: "leadership-decision-brief.md"
 references:
   - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
   - "Harold Kerzner — *Project Management*"
-  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
-  - "Gene Kim — *The Unicorn Project*"
+  - "Edwin A. Locke & Gary P. Latham — *Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey*"
   - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
-  - "David J. Anderson — *Kanban*"
+  - "Bent Flyvbjerg & Dan Gardner — *How Big Things Get Done*"
 limits:
-  - "Fijar alcance demasiado pronto puede bloquear aprendizaje. En trabajo incierto, fija outcomes y guardrails mientras permites que solución y backlog evolucionen."
+  - "Definir el alcance por completo al inicio es imposible cuando hay mucha incertidumbre; en esos casos se define por objetivos y se detalla por etapas."
 evidence_signals:
-  - "scope changes"
-  - "acceptance defects"
-  - "benefit realization"
-  - "rework"
-  - "stakeholder satisfaction"
+  - "resultado de negocio explícito"
+  - "criterios de éxito medibles"
+  - "exclusiones escritas"
+  - "cambios con decisión"

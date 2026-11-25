@@ -5,222 +5,189 @@
 <!-- nav:fin -->
 
 **Parte:** 06 — Proyectos, Agile y entrega  
-**Nivel:** Etapa 2 — Jefe → Manager  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Kanban gestiona flujo visualizando trabajo, limitando WIP y midiendo tiempo de ciclo. Su lógica central es que iniciar menos puede terminar más. Las políticas explícitas y clases de servicio permiten coordinar sin convertir cada urgencia en bypass.
+Un equipo con diez cosas en curso y ninguna terminada está ocupado, no es productivo. Cada elemento que empieza y espera consume atención, genera cambios de contexto y alarga el tiempo que tarda el cliente en recibir algo. Kanban parte de una observación simple: el **flujo** de trabajo importa más que la actividad. Se mejora haciendo visible lo que está en curso, limitando cuánto se empieza y gestionando por dónde y a qué ritmo avanza el trabajo.
 
-La salida de esta parte es **entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **kanban y flujo** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase usa el método Kanban de David Anderson, la ley de Little —una relación matemática entre trabajo en curso, rendimiento y tiempo de ciclo— y el análisis de Donald Reinertsen sobre colas y variabilidad en el desarrollo. Al terminar sabrás construir un tablero con las etapas reales, definir límites de trabajo en curso, medir el flujo y mejorar con datos.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `WIP`, `cycle time`, `lead time`, `throughput`, `pull` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. mapear flujo real → 2. visualizar estados y bloqueos → 3. establecer límites WIP → 4. definir políticas de pull y clases → 5. medir cycle time y mejorar cuello** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** WIP, cycle time percentiles, throughput sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Explicar** las prácticas centrales del método Kanban.
+2. **Construir** un tablero que refleje el flujo real y sus políticas.
+3. **Definir** límites de trabajo en curso y justificar su efecto con la ley de Little.
+4. **Medir** tiempo de ciclo, rendimiento y trabajo en curso.
+5. **Decidir** cuándo conviene Kanban y cuándo Scrum o ambos.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define WIP y cycle time sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con WIP y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: cuenta cuántas cosas tienes «en curso» hoy y cuánto tarda en terminar la última. |
+| 20–60 min | Prácticas, ley de Little y colas. |
+| 60–105 min | Ejemplo trabajado: reducir el tiempo de ciclo de un equipo de soporte. |
+| 105–140 min | Caso ejecutivo: un equipo sobrecargado de trabajo urgente. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **WIP** | trabajo iniciado pero no terminado | Distingue un hecho compatible y otro que lo refute. |
-| **cycle time** | tiempo desde inicio hasta finalización | Distingue un hecho compatible y otro que lo refute. |
-| **lead time** | tiempo desde solicitud hasta entrega | Distingue un hecho compatible y otro que lo refute. |
-| **throughput** | items terminados por periodo | Distingue un hecho compatible y otro que lo refute. |
-| **pull** | principio de iniciar trabajo cuando existe capacidad en la etapa siguiente | Distingue un hecho compatible y otro que lo refute. |
+| **Kanban (método)** | Método para gestionar el trabajo de conocimiento que visualiza el flujo, limita el trabajo en curso y mejora de manera evolutiva (Anderson, 2010). | Hay un tablero, límites y medidas de flujo. |
+| **Trabajo en curso (WIP)** | Cantidad de elementos que se han comenzado y aún no terminado. | Se cuenta en el tablero. |
+| **Tiempo de ciclo** | Tiempo que tarda un elemento desde que comienza hasta que termina. | Se mide por elemento. |
+| **Rendimiento (throughput)** | Cantidad de elementos terminados por unidad de tiempo. | Se mide por período. |
+| **Ley de Little** | En un sistema estable, el trabajo en curso promedio es igual al rendimiento por el tiempo de ciclo promedio (Little, 1961). | Relaciona las tres medidas. |
+| **Cola** | Elementos que esperan para ser atendidos; la espera es parte del tiempo de ciclo (Reinertsen, 2009). | Hay elementos detenidos esperando. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 080: 1. mapear flujo real → 2. visualizar estados y bloqueos → 3. establecer límites WIP → 4. definir políticas de pull y clases → 5. medir cycle time y mejorar cuello](modelo-mental.svg)
+![Kanban en tres prácticas: visualizar el trabajo, limitar el trabajo en curso y gestionar el flujo, con la ley de Little que relaciona trabajo en curso, rendimiento y tiempo de ciclo.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear flujo real → 2. visualizar estados y bloqueos → 3. establecer límites WIP → 4. definir políticas de pull y clases → 5. medir cycle time y mejorar cuello
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Kanban gestiona flujo visualizando trabajo, limitando WIP y midiendo tiempo de ciclo. Su lógica central es que iniciar menos puede terminar más. Las políticas explícitas y clases de servicio permiten coordinar sin convertir cada urgencia en bypass.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Límites WIP no deben impedir respuesta a incidentes críticos. Define clases de servicio y políticas de expedite con costo visible para evitar que la excepción destruya el sistema.**
+**Cómo leer el diagrama.** Tres columnas: se **visualiza** para saber qué hay; se **limita** para terminar antes de empezar; se **gestiona el flujo** con medidas y políticas explícitas. La nota inferior muestra por qué limitar sirve: con un rendimiento dado, **menos trabajo en curso significa menor tiempo de ciclo**. La relación no es una opinión: es una ley matemática para sistemas estables.
 
 ## 📖 Desarrollo
 
-### 1. WIP: mecanismo central
+### 1. Qué propone Kanban
 
-**WIP** se entiende aquí como **trabajo iniciado pero no terminado**. Esta es la pieza causal o estructural desde la que se inicia **kanban y flujo**: antes de mapear flujo real, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Anderson presenta el método Kanban como una forma de introducir **mejoras evolutivas** en el trabajo de conocimiento, partiendo del proceso actual y sin imponer roles ni ceremonias nuevas. Sus prácticas generales: **visualizar** el flujo de trabajo, **limitar** el trabajo en curso, **gestionar** el flujo, hacer **explícitas** las políticas, implementar **ciclos de retroalimentación** y **mejorar** de manera colaborativa y con experimentos. Empieza donde se está y cambia poco a poco.
 
-La lectura rectora de este bloque es Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*. Su aporte se usa para examinar **gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **WIP**; regístrala con periodo, unidad, población y baseline.
+### 2. Visualizar
 
-Relaciona el mecanismo con **cycle time**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El primer paso es un **tablero** que muestre cada elemento de trabajo y las **etapas reales** por las que pasa (no las ideales): por ejemplo, «por hacer, en análisis, en desarrollo, en pruebas, listo». Se hacen visibles los **bloqueos** y las **esperas**. Un tablero honesto suele sorprender: se ve que la mayor parte del tiempo los elementos están esperando, no siendo trabajados. La visualización es la base para decidir.
 
-### 2. cycle time: frontera conceptual y error de clasificación
+### 3. Limitar el trabajo en curso
 
-**Definición operacional:** tiempo desde inicio hasta finalización. Su valor está en distinguirlo de **WIP** y **lead time**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Se fija un **límite** de elementos por etapa o en total: «máximo tres en desarrollo». Cuando se alcanza, no se empieza otro: se ayuda a terminar. Limitar el WIP obliga a ver los cuellos de botella (clase 089), reduce los cambios de contexto y acorta el tiempo de ciclo. Es incómodo al principio, porque obliga a decir que no y a enfrentar los bloqueos en vez de «avanzar» en otra cosa. El límite se ajusta con datos.
 
-Contrasta el problema con Harold Kerzner — *Project Management*, que aporta una mirada sobre **integración de proyectos, control, madurez y alineación organizacional**. Formula dos mini-casos: uno que sí satisface la definición de **cycle time** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **cycle time percentiles** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. La ley de Little
 
-Antes de visualizar estados y bloqueos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+John Little demostró que, en un sistema estable, **WIP = rendimiento × tiempo de ciclo**. Con un ejemplo: si un equipo termina cinco elementos por semana y tiene veinte en curso, el tiempo promedio de ciclo es de cuatro semanas. Si reduce el WIP a diez, manteniendo el rendimiento, el tiempo promedio baja a dos semanas. La implicancia: **para entregar más rápido, empezar menos**. La ley es una relación entre promedios y exige que el sistema sea aproximadamente estable.
 
-### 3. lead time: operacionalización y medición
+### 5. Colas y variabilidad
 
-**lead time** significa **tiempo desde solicitud hasta entrega**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Reinertsen observa que, en el desarrollo de productos, la mayor parte del tiempo de ciclo es **espera** en colas, y que las colas crecen de manera no lineal cuando la utilización de un recurso se acerca al máximo. Un equipo al 100 % de utilización tiene colas enormes y poca capacidad de reaccionar. Una implicancia práctica: dejar **holgura** en los recursos críticos y trabajar con lotes pequeños reduce las esperas y aumenta la rapidez.
 
-Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* orienta este bloque mediante **métricas de entrega, capacidades técnicas y desempeño organizacional**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **throughput**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Gestionar el flujo
 
-Al llegar a establecer límites wip, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Se miden el **tiempo de ciclo**, el **rendimiento** y el **WIP**, y se usan para tomar decisiones: ¿dónde se acumula el trabajo?, ¿qué elementos llevan mucho tiempo bloqueados?, ¿qué porcentaje cumple el plazo prometido? Con la distribución del tiempo de ciclo se pueden dar **compromisos probabilísticos** («el 85 % de los casos se resuelve en seis días o menos»). Se hacen **explícitas las políticas**: qué significa «listo», cómo se priorizan los urgentes, cuántos expeditos se admiten.
 
-### 4. throughput: trade-offs y efectos de segundo orden
+### 7. Kanban y Scrum
 
-**Definición:** items terminados por periodo. Este concepto obliga a abandonar la idea de que **kanban y flujo** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de definir políticas de pull y clases, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Atul Gawande — *The Checklist Manifesto* aporta una lente sobre **perspectiva de Ejecución aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **blocked time** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **kanban y flujo**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **throughput** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. pull: gobernanza, límites e integración
-
-**pull** se define como **principio de iniciar trabajo cuando existe capacidad en la etapa siguiente** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Gene Kim — *The Unicorn Project* se utiliza para estudiar **perspectiva de Operaciones tecnológicas aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar medir cycle time y mejorar cuello, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Límites WIP no deben impedir respuesta a incidentes críticos. Define clases de servicio y políticas de expedite con costo visible para evitar que la excepción destruya el sistema.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **WIP**, **cycle time**, **lead time**, **throughput** y **pull** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **kanban y flujo** no consiste en sumar cinco definiciones. Empieza por **WIP**, contrasta **cycle time** con **lead time**, incorpora **throughput** como restricción o mecanismo y usa **pull** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear flujo real → 2. visualizar estados y bloqueos → 3. establecer límites WIP → 4. definir políticas de pull y clases → 5. medir cycle time y mejorar cuello**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+No son excluyentes. Scrum organiza el trabajo en ciclos de duración fija con un objetivo; Kanban, en un flujo continuo con límites. Kanban conviene al trabajo **continuo e impredecible**, como soporte, operaciones o mantenimiento, donde las prioridades cambian a diario; Scrum, al trabajo de producto con objetivos por ciclo. Muchos equipos combinan: ciclos con un tablero con límites de WIP. Se elige por la naturaleza del trabajo y se mide el flujo en ambos.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* | gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor | ¿Qué supuesto de **kanban y flujo** ayuda a desafiar? |
-| Harold Kerzner — *Project Management* | integración de proyectos, control, madurez y alineación organizacional | ¿Qué supuesto de **kanban y flujo** ayuda a desafiar? |
-| Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* | métricas de entrega, capacidades técnicas y desempeño organizacional | ¿Qué supuesto de **kanban y flujo** ayuda a desafiar? |
-| Atul Gawande — *The Checklist Manifesto* | perspectiva de Ejecución aplicada al problema de la clase | ¿Qué supuesto de **kanban y flujo** ayuda a desafiar? |
-| Gene Kim — *The Unicorn Project* | perspectiva de Operaciones tecnológicas aplicada al problema de la clase | ¿Qué supuesto de **kanban y flujo** ayuda a desafiar? |
-
-En **kanban y flujo**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **WIP**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Anderson (2010) | El método Kanban y sus prácticas. | Un texto de práctica profesional. | ¿Qué política de tu equipo no es explícita? |
+| Little (1961) | La relación entre WIP, rendimiento y tiempo de ciclo. | Requiere sistemas estables y es sobre promedios. | ¿Cuál es tu WIP y tu tiempo de ciclo? |
+| Reinertsen (2009) | Colas, variabilidad y tamaños de lote. | Es un tratado técnico. | ¿Dónde esperan tus elementos? |
+| Goldratt y Cox (2014) | Cuellos de botella y flujo. | Es una novela de gestión. | ¿Dónde está tu restricción? |
+| Schwaber y Sutherland (2020) | Un marco alternativo de ciclos fijos. | No se centra en flujo continuo. | ¿Qué parte de tu trabajo es flujo continuo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un equipo tiene 32 tareas 'en progreso' para seis personas. Cada nueva urgencia se inicia inmediatamente y el trabajo más antiguo lleva 47 días abierto.
+**Situación (hipotética).** Un equipo de soporte de seis personas atiende solicitudes de clientes. Tiene unas 60 solicitudes abiertas, termina 20 por semana y tarda en promedio tres semanas en resolver cada una. Los clientes se quejan, y los agentes dicen que «están desbordados».
 
-**Paso 1 — mapear flujo real.** La gerencia escribe primero el supuesto asociado a **WIP** y evita convertirlo en hecho. Luego busca **WIP** para contrastarlo en el caso de **kanban y flujo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Medida | Antes | Después |
+|---|---|---|
+| **WIP** | 60 | 24 (límite de 4 por persona) |
+| **Rendimiento** | 20 por semana | 20 por semana (sin cambio) |
+| **Tiempo de ciclo promedio (WIP ÷ rendimiento)** | 3 semanas | 1,2 semanas |
 
-**Paso 2 — visualizar estados y bloqueos.** La gerencia escribe primero el supuesto asociado a **cycle time** y evita convertirlo en hecho. Luego busca **cycle time percentiles** para contrastarlo en el caso de **kanban y flujo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Acciones.** (1) Tablero con etapas reales: nueva, en análisis, esperando al cliente, en solución, en prueba, cerrada. (2) Límite de WIP por persona y por etapa. (3) Política: no se acepta una nueva si se alcanzó el límite; se prioriza terminar. (4) Una vía rápida para urgentes, limitada a dos a la vez. (5) Revisión semanal del tablero: tiempo de ciclo, bloqueos y elementos de más de cinco días.
 
-**Paso 3 — establecer límites WIP.** La gerencia escribe primero el supuesto asociado a **lead time** y evita convertirlo en hecho. Luego busca **throughput** para contrastarlo en el caso de **kanban y flujo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** El tiempo de ciclo promedio baja a 1,3 semanas, el 85 % de las solicitudes se resuelve en tres semanas o menos y la satisfacción sube.
 
-**Paso 4 — definir políticas de pull y clases.** La gerencia escribe primero el supuesto asociado a **throughput** y evita convertirlo en hecho. Luego busca **blocked time** para contrastarlo en el caso de **kanban y flujo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — medir cycle time y mejorar cuello.** La gerencia escribe primero el supuesto asociado a **pull** y evita convertirlo en hecho. Luego busca **aging WIP** para contrastarlo en el caso de **kanban y flujo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **kanban y flujo**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Sin cambiar el rendimiento, el tiempo de ciclo cayó al reducir el WIP. (2) El tablero reveló que la espera al cliente era el mayor bloqueo. (3) Las políticas se hicieron explícitas.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **WIP** | trabajo iniciado pero no terminado | Cuando WIP es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **cycle time** | tiempo desde inicio hasta finalización | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Kanban método frente a tablero.** Un tablero de tareas no es Kanban: sin límites de WIP ni gestión del flujo, es una lista visual.
 
-**Frontera de aplicación:** Límites WIP no deben impedir respuesta a incidentes críticos. Define clases de servicio y políticas de expedite con costo visible para evitar que la excepción destruya el sistema.
+**Límites.** La ley de Little describe promedios en sistemas estables y puede distorsionarse con cambios fuertes de demanda. Limitar el WIP sin atender las causas de los bloqueos solo los hace visibles. Kanban no define un rol de dueño de producto ni cadencia de aprendizaje con interesados: si hace falta, hay que agregarlos. Y el método se ha desarrollado sobre todo en trabajo de conocimiento, con evidencia de casos más que de estudios controlados.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre kanban y flujo |
+| Nivel | Cómo practica el flujo |
 |---|---|
-| **Profesional** | usa **kanban y flujo** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **WIP** y **cycle time** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta WIP con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si kanban y flujo cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de kanban y flujo reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **kanban y flujo** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Termina antes de empezar y hace visibles sus bloqueos. |
+| **Jefe / Team Lead** | Facilita el tablero, los límites y la revisión del flujo. |
+| **Gerente** | Protege al equipo de pedidos que rompen el límite y gestiona las colas entre áreas. |
+| **CEO / Director** | Pide menos iniciativas en paralelo y mide el flujo del portafolio. |
+| **Founder / Owner** | Limita lo que empieza a la capacidad real del equipo. |
 
 ## 🏢 Caso ejecutivo
 
-Un equipo tiene 32 tareas 'en progreso' para seis personas. Cada nueva urgencia se inicia inmediatamente y el trabajo más antiguo lleva 47 días abierto.
+Un equipo de ocho personas de operaciones recibe pedidos de seis directores, todos «urgentes». Tiene 45 elementos en curso, ninguno terminado a tiempo; cada director llama para preguntar por el suyo. Los agentes cambian de tarea varias veces al día. El gerente de operaciones dice que «el problema es la falta de gente»; el equipo, que «no se puede priorizar porque todo es de alguien importante».
 
-Entrega un **decision brief de kanban y flujo** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de flujo** que contenga: (a) el tablero con las etapas reales y qué se verá en él; (b) los límites de trabajo en curso y su justificación con la ley de Little; (c) las políticas de priorización y de urgentes; (d) las medidas de flujo que seguirás; (e) cómo negociarás con los seis directores; (f) qué evidencia te haría concluir que sí hace falta más gente.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **kanban y flujo** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear flujo real → 2. visualizar estados y bloqueos → 3. establecer límites WIP → 4. definir políticas de pull y clases → 5. medir cycle time y mejorar cuello** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta WIP, cycle time percentiles; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Dibuja el tablero de tu equipo con las etapas reales y cuenta el WIP.
+2. Calcula tu rendimiento semanal y tu tiempo de ciclo y verifica la ley de Little.
+3. Propón un límite de WIP y qué harás al alcanzarlo.
+4. Escribe tres políticas explícitas que hoy no están escritas.
+5. Identifica dónde esperan más tus elementos y qué harías.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar WIP y cycle time como sinónimos | Se pierde la distinción entre “trabajo iniciado pero no terminado” y “tiempo desde inicio hasta finalización” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “medir cycle time y mejorar cuello” | Se saltó “mapear flujo real” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear flujo real → 2. visualizar estados y bloqueos → 3. establecer límites WIP → 4. definir políticas de pull y clases → 5. medir cycle time y mejorar cuello y marca el primer supuesto no demostrado. |
-| Optimizar solo WIP | La métrica local sustituyó al resultado del sistema | Contrástala con cycle time percentiles y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre kanban y flujo | Límites WIP no deben impedir respuesta a incidentes críticos. Define clases de servicio y políticas de expedite con costo visible para evitar que la excepción destruya el sistema. |
-| No fijar revisión | Una decisión sobre kanban y flujo se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Tablero sin límites | Es lo fácil | Fijar límites de WIP. |
+| Empezar todo | Se quiere ser receptivo | Terminar antes de empezar. |
+| Tablero con etapas ideales | No se mira el proceso real | Reflejar el flujo actual. |
+| Utilización al 100 % | Se busca eficiencia | Dejar holgura para reducir colas. |
+| Medir actividad | Es lo visible | Medir tiempo de ciclo y rendimiento. |
+| Políticas implícitas | Se supone que todos saben | Hacerlas explícitas. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **WIP** y **cycle time** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **lead time** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear flujo real → visualizar estados y bloqueos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **WIP** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **kanban y flujo**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Límites WIP no deben impedir respuesta a incidentes críticos. Define clases de servicio y políticas de expedite con costo visible para evitar que la excepción destruya el sistema.**?
+1. ¿Cuáles son las prácticas generales del método Kanban?
+2. ¿Qué es el trabajo en curso y por qué se limita?
+3. ¿Qué dice la ley de Little?
+4. Con rendimiento de 10 por semana y WIP de 30, ¿cuál es el tiempo de ciclo promedio?
+5. ¿Por qué las colas crecen cuando la utilización se acerca al 100 %?
+6. ¿Cuándo conviene Kanban frente a Scrum?
+7. ¿Qué límite tiene la ley de Little?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Visualizar el flujo, limitar el trabajo en curso, gestionar el flujo, hacer explícitas las políticas, implementar ciclos de retroalimentación y mejorar de manera colaborativa.
+2. La cantidad de elementos comenzados y no terminados; se limita para terminar antes de empezar y reducir el tiempo de ciclo.
+3. En un sistema estable, WIP promedio = rendimiento × tiempo de ciclo promedio.
+4. Tres semanas (30 ÷ 10).
+5. Porque cualquier variación genera esperas que no se pueden absorber sin holgura.
+6. Cuando el trabajo es continuo e impredecible, como soporte u operaciones; Scrum, cuando hay objetivos por ciclo de producto.
+7. Describe promedios en sistemas aproximadamente estables y se distorsiona con cambios fuertes de demanda.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/080-kanban-y-flujo/`:
 
-- `modelo-financiero-y-memo-de-decision.md` con el problema específico de **kanban y flujo**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **kanban y flujo** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **WIP**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un equipo tiene 32 tareas 'en progreso' para seis personas. Cada nueva urgencia se inicia inmediatamente y el trabajo más antiguo lleva 47 días abierto.** y el dato que podría invalidar la recomendación.
+- `modelo-financiero-y-memo-de-decision.md` (plantilla [Modelo financiero y memo de decisión](../../../../templates/modelo-financiero-y-memo-de-decision.md)) con el costo de las esperas y el efecto de limitar el WIP del caso ejecutivo;
+- `operating-improvement-brief.md` (plantilla [Operating Improvement Brief](../../../../templates/operating-improvement-brief.md)) con el plan de flujo;
+- `decision-journal.md` con las medidas antes y después.
 
 ## 📗 Fuentes y verificación
 
-- Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* (1996). **Uso en esta clase:** gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor. Lectura selectiva sobre **kanban y flujo**. **Localizador:** [ISBN-13 9781880410127](https://openlibrary.org/isbn/9781880410127).
-- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** integración de proyectos, control, madurez y alineación organizacional. Lectura selectiva sobre **kanban y flujo**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
-- Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate* (IT Revolution Press, 2018). **Uso en esta clase:** métricas de entrega, capacidades técnicas y desempeño organizacional. Lectura selectiva sobre **kanban y flujo**. **Localizador:** [ISBN-13 9781942788379](https://openlibrary.org/isbn/9781942788379).
-- Atul Gawande — *The Checklist Manifesto* (Penguin Random House, 2014). **Uso en esta clase:** perspectiva de Ejecución aplicada al problema de la clase. Lectura selectiva sobre **kanban y flujo**. **Localizador:** [ISBN-13 9780143423225](https://openlibrary.org/isbn/9780143423225).
-- Gene Kim — *The Unicorn Project* (IT Revolution Press, 2019). **Uso en esta clase:** perspectiva de Operaciones tecnológicas aplicada al problema de la clase. Lectura selectiva sobre **kanban y flujo**. **Localizador:** [ISBN-13 9781942788768](https://openlibrary.org/isbn/9781942788768).
-- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** empirismo, transparencia, inspección y adaptación. **Fuente primaria:** <https://scrumguides.org/>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **kanban y flujo** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **kanban y flujo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **kanban y flujo** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **kanban y flujo** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **kanban y flujo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- David J. Anderson — *Kanban* (Blue hole press, 2010). **Uso en esta clase:** el método Kanban y sus prácticas. Lectura selectiva sobre **kanban y flujo**. **Localizador:** [ISBN-13 9780984521401](https://openlibrary.org/isbn/9780984521401).
+- John D. C. Little — *A Proof for the Queuing Formula: L = λW* (Operations Research, 1961). **Uso en esta clase:** la relación entre trabajo en curso, rendimiento y tiempo de ciclo. Lectura selectiva sobre **kanban y flujo**. **Localizador:** [DOI 10.1287/opre.9.3.383](https://doi.org/10.1287/opre.9.3.383).
+- Donald G. Reinertsen — *The Principles of Product Development Flow* (Celeritas Publishing, 2009). **Uso en esta clase:** colas, variabilidad y tamaños de lote. Lectura selectiva sobre **kanban y flujo**. **Localizador:** [ISBN-13 9781935401001](https://openlibrary.org/isbn/9781935401001).
+- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** cuellos de botella y flujo. Lectura selectiva sobre **kanban y flujo**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
+- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** un marco alternativo de ciclos fijos. **Fuente primaria:** <https://scrumguides.org/>.
 
-> **Regla de fuentes para Kanban y flujo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **kanban y flujo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Kanban y flujo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

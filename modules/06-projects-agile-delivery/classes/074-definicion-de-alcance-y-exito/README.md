@@ -5,222 +5,190 @@
 <!-- nav:fin -->
 
 **Parte:** 06 — Proyectos, Agile y entrega  
-**Nivel:** Etapa 2 — Jefe → Manager  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-Definir alcance y éxito exige separar entregables de outcomes y acordar criterios de aceptación. El alcance delimita lo que se compromete ahora; la gestión de beneficios pregunta si el cambio creó el valor esperado. Un proyecto puede terminar a tiempo y fracasar en outcome.
+«Necesitamos un sistema nuevo», «hay que mejorar la experiencia del cliente», «lancemos la aplicación»: son deseos, no alcances. Un proyecto empieza mal cuando nadie sabe exactamente qué entregará, qué queda fuera ni cómo se sabrá que sirvió. Esa vaguedad se paga después con discusiones sobre qué se prometió, ampliaciones silenciosas del trabajo —el famoso *scope creep*— y entregas que cumplen la lista pero no resuelven el problema.
 
-La salida de esta parte es **entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **definición de alcance y éxito** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase usa la exposición del PMBOK y de Kerzner sobre el alcance y los requisitos, y la investigación de Locke y Latham sobre metas específicas. Al terminar sabrás pasar de un problema a un resultado de negocio, escribir criterios de éxito medibles, delimitar lo que está dentro y fuera del alcance y gobernar los cambios.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `scope`, `deliverable`, `outcome`, `acceptance criteria`, `benefit` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. definir problema y outcome → 2. traducir a entregables mínimos → 3. documentar inclusiones y exclusiones → 4. acordar acceptance criteria → 5. asignar owner de beneficios post-entrega** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** scope changes, acceptance defects, benefit realization sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** problema, resultado de negocio, requisito y entregable.
+2. **Redactar** criterios de éxito medibles con línea base y fecha.
+3. **Delimitar** el alcance con inclusiones y exclusiones explícitas.
+4. **Gobernar** los cambios con un proceso de aprobación y su efecto en plazo y costo.
+5. **Detectar** y frenar la ampliación silenciosa del alcance.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define scope y deliverable sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con scope changes y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: toma un proyecto reciente; ¿cómo se definió su éxito y quién lo aceptó? |
+| 20–60 min | De la necesidad al alcance y el control de cambios. |
+| 60–105 min | Ejemplo trabajado: acotar un proyecto de «mejorar la atención». |
+| 105–140 min | Caso ejecutivo: un alcance que crece cada semana. |
+| 140–170 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **scope** | frontera del trabajo incluido y excluido | Distingue un hecho compatible y otro que lo refute. |
-| **deliverable** | producto verificable creado por el proyecto | Distingue un hecho compatible y otro que lo refute. |
-| **outcome** | cambio en desempeño o comportamiento habilitado por entregables | Distingue un hecho compatible y otro que lo refute. |
-| **acceptance criteria** | condiciones observables para aceptar un entregable | Distingue un hecho compatible y otro que lo refute. |
-| **benefit** | valor realizado después de usar el resultado | Distingue un hecho compatible y otro que lo refute. |
+| **Alcance** | Trabajo necesario para entregar el resultado con las características acordadas (PMI, PMBOK). | Está escrito y delimitado. |
+| **Resultado de negocio** | Cambio medible en el negocio que justifica el proyecto. | «Reducir el tiempo de respuesta de 48 a 24 horas.» |
+| **Criterio de éxito** | Condición medible que permite decir que el proyecto sirvió. | Tiene línea base, meta y fecha. |
+| **Requisito** | Condición o capacidad que debe cumplir el resultado. | Se puede verificar. |
+| **Exclusión** | Lo que, de manera explícita, no se hará. | Está escrita para evitar supuestos. |
+| **Ampliación silenciosa del alcance** | Crecimiento del trabajo sin decisión formal sobre plazo y costo. | «Ya que estamos, agreguemos…» |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 074: 1. definir problema y outcome → 2. traducir a entregables mínimos → 3. documentar inclusiones y exclusiones → 4. acordar acceptance criteria → 5. asignar owner de beneficios post-entrega](modelo-mental.svg)
+![Del problema al alcance: cinco pasos —problema, resultado de negocio, criterios de éxito, alcance dentro y fuera y control de cambios— que fijan qué entra, qué no y cómo se sabrá que funcionó.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir problema y outcome → 2. traducir a entregables mínimos → 3. documentar inclusiones y exclusiones → 4. acordar acceptance criteria → 5. asignar owner de beneficios post-entrega
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Definir alcance y éxito exige separar entregables de outcomes y acordar criterios de aceptación. El alcance delimita lo que se compromete ahora; la gestión de beneficios pregunta si el cambio creó el valor esperado. Un proyecto puede terminar a tiempo y fracasar en outcome.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Fijar alcance demasiado pronto puede bloquear aprendizaje. En trabajo incierto, fija outcomes y guardrails mientras permites que solución y backlog evolucionen.**
+**Cómo leer el diagrama.** Los cinco pasos van de lo general a lo concreto. Los dos primeros justifican el proyecto; el tercero define cómo se sabrá si sirvió; el cuarto delimita el trabajo; el quinto protege el acuerdo en el tiempo. Una lista de funcionalidades sin los tres primeros pasos define un trabajo, no un proyecto.
 
 ## 📖 Desarrollo
 
-### 1. scope: mecanismo central
+### 1. Empezar por el problema
 
-**scope** se entiende aquí como **frontera del trabajo incluido y excluido**. Esta es la pieza causal o estructural desde la que se inicia **definición de alcance y éxito**: antes de definir problema y outcome, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Antes de definir qué construir, se define **qué problema se resuelve y para quién**, con hechos: cuántos clientes se pierden, cuánto cuesta, cuánto tarda. Un problema bien descrito permite considerar alternativas distintas de la solución que ya se tiene en mente. Si el proyecto se justifica con «necesitamos modernizarnos», aún no hay problema; hay una intención.
 
-La lectura rectora de este bloque es Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*. Su aporte se usa para examinar **gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **scope changes**; regístrala con periodo, unidad, población y baseline.
+### 2. El resultado de negocio
 
-Relaciona el mecanismo con **deliverable**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+El resultado de negocio es el **cambio** que se espera en el negocio: más ingresos, menos costos, menor riesgo, mejor servicio. Se expresa en una medida: «reducir de 48 a 24 horas el tiempo de respuesta». Es lo que justifica el costo (clase 073). Locke y Latham muestran que las metas **específicas y exigentes** orientan mejor que las vagas: un resultado medible permite decidir entre alternativas y comprobar al final si valió la pena.
 
-### 2. deliverable: frontera conceptual y error de clasificación
+### 3. Criterios de éxito
 
-**Definición operacional:** producto verificable creado por el proyecto. Su valor está en distinguirlo de **scope** y **outcome**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Un criterio de éxito responde: ¿cómo sabremos que funcionó? Tiene cuatro partes: la **medida**, la **línea base** actual, la **meta** y la **fecha** (por ejemplo, «a tres meses del lanzamiento»). Conviene definir pocos, de distinto tipo: uno de resultado (el tiempo de respuesta), uno de uso (adopción), uno de calidad (errores) y, si corresponde, uno de costo. Se acuerdan con quien recibirá el resultado antes de empezar, no al final.
 
-Contrasta el problema con Harold Kerzner — *Project Management*, que aporta una mirada sobre **integración de proyectos, control, madurez y alineación organizacional**. Formula dos mini-casos: uno que sí satisface la definición de **deliverable** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **acceptance defects** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Requisitos y entregables
 
-Antes de traducir a entregables mínimos, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Los **requisitos** son las condiciones que el resultado debe cumplir; se escriben de manera que se puedan verificar («el sistema permite que un cliente consulte el estado de su pedido sin llamar»). Los **entregables** son las cosas concretas que se producirán. El PMBOK recomienda recoger requisitos con quienes los usarán, documentarlos, priorizarlos y trazarlos hasta los entregables. Priorizar es indispensable: no todo es igual de importante, y la lista completa nunca cabe.
 
-### 3. outcome: operacionalización y medición
+### 5. Dentro y fuera
 
-**outcome** significa **cambio en desempeño o comportamiento habilitado por entregables**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El alcance se delimita en dos direcciones: lo que **está** (los entregables y sus características) y lo que **no está** (las exclusiones). Las exclusiones evitan supuestos: «no incluye migrar datos anteriores a 2020», «no incluye la versión en inglés». Un alcance sin exclusiones deja abierta la puerta a que cada interesado entienda lo que le conviene. Las exclusiones se firman igual que las inclusiones.
 
-Eliyahu M. Goldratt & Jeff Cox — *The Goal* orienta este bloque mediante **restricciones, throughput, inventario y pensamiento de flujo**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **benefit realization**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Control de cambios
 
-Al llegar a documentar inclusiones y exclusiones, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Todo proyecto cambia: surge información nueva o una necesidad. El problema no es el cambio sino el cambio **sin decisión**. Un proceso simple: el cambio se registra; se evalúa su efecto en alcance, plazo, costo y riesgo; lo aprueba quien tiene la autoridad (clase 081); y se actualiza el plan. A veces la respuesta es «sí, con esta fecha y este costo»; a veces, «no ahora». En entornos ágiles, el alcance se gestiona con un backlog ordenado por valor, y los cambios entran por priorización, no por ampliación.
 
-### 4. acceptance criteria: trade-offs y efectos de segundo orden
+### 7. Aceptación
 
-**Definición:** condiciones observables para aceptar un entregable. Este concepto obliga a abandonar la idea de que **definición de alcance y éxito** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de acordar acceptance criteria, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Gene Kim — *The Unicorn Project* aporta una lente sobre **perspectiva de Operaciones tecnológicas aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **rework** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **definición de alcance y éxito**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **acceptance criteria** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. benefit: gobernanza, límites e integración
-
-**benefit** se define como **valor realizado después de usar el resultado** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Ken Schwaber & Jeff Sutherland — *The Scrum Guide* se utiliza para estudiar **empirismo, transparencia, inspección y adaptación** y contrastar la recomendación final. Al ejecutar asignar owner de beneficios post-entrega, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Fijar alcance demasiado pronto puede bloquear aprendizaje. En trabajo incierto, fija outcomes y guardrails mientras permites que solución y backlog evolucionen.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **scope**, **deliverable**, **outcome**, **acceptance criteria** y **benefit** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **definición de alcance y éxito** no consiste en sumar cinco definiciones. Empieza por **scope**, contrasta **deliverable** con **outcome**, incorpora **acceptance criteria** como restricción o mecanismo y usa **benefit** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir problema y outcome → 2. traducir a entregables mínimos → 3. documentar inclusiones y exclusiones → 4. acordar acceptance criteria → 5. asignar owner de beneficios post-entrega**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+El éxito se verifica contra los criterios acordados, no contra la impresión. La **aceptación** es un acto: quien recibe confirma que el resultado cumple lo acordado. Conviene definir cómo y quién acepta antes de empezar. Y se mide el beneficio **después** de entregar, cuando el uso real muestra si el resultado de negocio se logró (clase 073). Un proyecto aceptado y sin beneficio es una advertencia sobre la definición del alcance.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* | gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor | ¿Qué supuesto de **definición de alcance y éxito** ayuda a desafiar? |
-| Harold Kerzner — *Project Management* | integración de proyectos, control, madurez y alineación organizacional | ¿Qué supuesto de **definición de alcance y éxito** ayuda a desafiar? |
-| Eliyahu M. Goldratt & Jeff Cox — *The Goal* | restricciones, throughput, inventario y pensamiento de flujo | ¿Qué supuesto de **definición de alcance y éxito** ayuda a desafiar? |
-| Gene Kim — *The Unicorn Project* | perspectiva de Operaciones tecnológicas aplicada al problema de la clase | ¿Qué supuesto de **definición de alcance y éxito** ayuda a desafiar? |
-| Ken Schwaber & Jeff Sutherland — *The Scrum Guide* | empirismo, transparencia, inspección y adaptación | ¿Qué supuesto de **definición de alcance y éxito** ayuda a desafiar? |
-
-En **definición de alcance y éxito**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **scope**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| PMI, PMBOK | Procesos de recopilar requisitos, definir y controlar el alcance. | Su enfoque es el de proyectos planificados. | ¿Qué exclusiones tiene tu alcance? |
+| Kerzner (2017) | Alcance, objetivos y control de cambios en la gestión de proyectos. | Escrita para grandes organizaciones. | ¿Quién aprueba los cambios? |
+| Locke y Latham (2002) | Efecto de metas específicas y exigentes. | No trata del alcance técnico. | ¿Tu resultado es medible? |
+| Schwaber y Sutherland (2020) | Backlog ordenado por valor y objetivo del producto. | No define el alcance de un proyecto con fecha. | ¿Qué entra a tu backlog y por qué? |
+| Flyvbjerg y Gardner (2023) | Pensar despacio al inicio reduce costos posteriores. | Se centra en grandes proyectos. | ¿Cuánto tiempo dedicaste a definir? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un proyecto entrega un CRM según contrato y dentro de presupuesto, pero seis meses después solo 30% de vendedores lo usa y el forecast sigue en planillas.
+**Situación (hipotética).** La directora de atención pide «un proyecto para mejorar la atención al cliente». Se reúne con tres personas para acotarlo.
 
-**Paso 1 — definir problema y outcome.** La gerencia escribe primero el supuesto asociado a **scope** y evita convertirlo en hecho. Luego busca **scope changes** para contrastarlo en el caso de **definición de alcance y éxito**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Paso | Resultado |
+|---|---|
+| **Problema** | El 22 % de los clientes espera más de 48 horas una respuesta; la satisfacción de atención es 3,4 sobre 5; se pierden unos 15 clientes por mes. |
+| **Resultado de negocio** | Reducir la espera a menos de 24 horas para el 90 % de los casos y recuperar la retención. |
+| **Criterios de éxito** | Respuesta < 24 h en el 90 % de los casos (línea base: 52 %), a 3 meses del lanzamiento; satisfacción ≥ 4,0; adopción: 80 % de los agentes usa el sistema. |
+| **Dentro** | Sistema de gestión de casos con clasificación, plantillas de respuesta y tablero; capacitación de los 40 agentes. |
+| **Fuera** | Atención por redes sociales; integración con el sistema de facturación; migración de casos anteriores a 2024. |
+| **Cambios** | Los pedidos de cambio los evalúa el jefe del proyecto y los aprueba la directora si superan 5 días o USD 5.000. |
 
-**Paso 2 — traducir a entregables mínimos.** La gerencia escribe primero el supuesto asociado a **deliverable** y evita convertirlo en hecho. Luego busca **acceptance defects** para contrastarlo en el caso de **definición de alcance y éxito**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Después.** Ventas pide incluir redes sociales. El jefe de proyecto registra el cambio, estima 6 semanas y USD 18.000 y lo presenta a la directora, que decide posponerlo a una segunda fase.
 
-**Paso 3 — documentar inclusiones y exclusiones.** La gerencia escribe primero el supuesto asociado a **outcome** y evita convertirlo en hecho. Luego busca **benefit realization** para contrastarlo en el caso de **definición de alcance y éxito**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — acordar acceptance criteria.** La gerencia escribe primero el supuesto asociado a **acceptance criteria** y evita convertirlo en hecho. Luego busca **rework** para contrastarlo en el caso de **definición de alcance y éxito**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — asignar owner de beneficios post-entrega.** La gerencia escribe primero el supuesto asociado a **benefit** y evita convertirlo en hecho. Luego busca **stakeholder satisfaction** para contrastarlo en el caso de **definición de alcance y éxito**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **definición de alcance y éxito**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Del deseo se llegó a un resultado medible. (2) Las exclusiones frenaron una ampliación. (3) El cambio se decidió con su costo a la vista.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **scope** | frontera del trabajo incluido y excluido | Cuando scope changes es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **deliverable** | producto verificable creado por el proyecto | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Alcance fijo frente a alcance variable.** En proyectos con requisitos estables, se fija el alcance y se gestiona el plazo y el costo; en entornos inciertos, se fija el plazo y el costo y se gestiona el alcance por prioridad. Es una decisión de gestión.
 
-**Frontera de aplicación:** Fijar alcance demasiado pronto puede bloquear aprendizaje. En trabajo incierto, fija outcomes y guardrails mientras permites que solución y backlog evolucionen.
+**Límites.** Definir el alcance por completo al inicio es imposible cuando hay mucha incertidumbre; en esos casos se define por objetivos y se detalla por etapas. Los criterios de éxito pueden manipularse si se eligen después de ver los resultados. Y los requisitos recogidos son declaraciones de interesados, que pueden no reflejar lo que realmente necesitan (parte 12).
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre definición de alcance y éxito |
+| Nivel | Cómo define el alcance |
 |---|---|
-| **Profesional** | usa **definición de alcance y éxito** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **scope** y **deliverable** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta scope changes con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si definición de alcance y éxito cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de definición de alcance y éxito reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **definición de alcance y éxito** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Pregunta por el resultado esperado y el criterio de aceptación de lo que se le pide. |
+| **Jefe / Team Lead** | Define el alcance de las iniciativas de su equipo y gobierna los cambios. |
+| **Gerente** | Exige criterios de éxito antes de aprobar un proyecto. |
+| **CEO / Director** | Decide qué problemas justifican inversión y revisa los beneficios. |
+| **Founder / Owner** | Limita el alcance de un primer lanzamiento para aprender pronto. |
 
 ## 🏢 Caso ejecutivo
 
-Un proyecto entrega un CRM según contrato y dentro de presupuesto, pero seis meses después solo 30% de vendedores lo usa y el forecast sigue en planillas.
+Una empresa de logística lanzó un proyecto para «renovar el portal de clientes». Cada semana, un área distinta pide algo adicional: reportes, un chat, integración con un nuevo transportista. El plazo original de cuatro meses ya llegó a ocho; el presupuesto subió 60 %; nadie recuerda qué se aprobó y qué no. El patrocinador dice que «el proyecto va bien, porque entrega mucho».
 
-Entrega un **decision brief de definición de alcance y éxito** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **acta de alcance y éxito** que contenga: (a) el problema con hechos y el resultado de negocio; (b) los criterios de éxito con línea base, meta y fecha; (c) lo que está dentro y fuera del alcance; (d) el proceso de control de cambios con umbrales; (e) cómo reordenarás lo pedido hasta ahora; (f) cómo medirás el beneficio después de entregar.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **definición de alcance y éxito** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir problema y outcome → 2. traducir a entregables mínimos → 3. documentar inclusiones y exclusiones → 4. acordar acceptance criteria → 5. asignar owner de beneficios post-entrega** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta scope changes, acceptance defects; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Convierte un deseo de tu trabajo en un resultado de negocio medible.
+2. Escribe tres criterios de éxito con línea base, meta y fecha.
+3. Redacta tres exclusiones que evitarían un malentendido.
+4. Define quién aprueba un cambio y con qué umbral.
+5. Identifica una ampliación silenciosa de un proyecto actual y cómo la regularizarías.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar scope y deliverable como sinónimos | Se pierde la distinción entre “frontera del trabajo incluido y excluido” y “producto verificable creado por el proyecto” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “asignar owner de beneficios post-entrega” | Se saltó “definir problema y outcome” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir problema y outcome → 2. traducir a entregables mínimos → 3. documentar inclusiones y exclusiones → 4. acordar acceptance criteria → 5. asignar owner de beneficios post-entrega y marca el primer supuesto no demostrado. |
-| Optimizar solo scope changes | La métrica local sustituyó al resultado del sistema | Contrástala con acceptance defects y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre definición de alcance y éxito | Fijar alcance demasiado pronto puede bloquear aprendizaje. En trabajo incierto, fija outcomes y guardrails mientras permites que solución y backlog evolucionen. |
-| No fijar revisión | Una decisión sobre definición de alcance y éxito se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Alcance como lista de funciones | Se parte de la solución | Empezar por problema y resultado. |
+| Sin criterios de éxito | Es incómodo medir | Medida, línea base, meta y fecha. |
+| Sin exclusiones | Se supone que se entiende | Escribirlas y firmarlas. |
+| Cambios por pasillo | Se quiere complacer | Registro, evaluación y aprobación. |
+| Éxito = entregar | Se mide lo fácil | Medir el beneficio después. |
+| Alcance cerrado en alta incertidumbre | Se quiere certeza | Definir por objetivos y detallar por etapas. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **scope** y **deliverable** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **outcome** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir problema y outcome → traducir a entregables mínimos** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **scope changes** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **definición de alcance y éxito**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Fijar alcance demasiado pronto puede bloquear aprendizaje. En trabajo incierto, fija outcomes y guardrails mientras permites que solución y backlog evolucionen.**?
+1. ¿Qué diferencia hay entre problema, resultado de negocio y requisito?
+2. ¿Qué cuatro partes tiene un criterio de éxito?
+3. ¿Por qué se escriben las exclusiones?
+4. ¿Qué es la ampliación silenciosa del alcance y cómo se evita?
+5. ¿Qué pasos tiene un control de cambios?
+6. ¿Cuándo se mide el beneficio?
+7. ¿Qué límite tiene definir el alcance al inicio?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. El problema es lo que se resuelve; el resultado de negocio, el cambio medible esperado; el requisito, una condición que el resultado debe cumplir.
+2. La medida, la línea base, la meta y la fecha.
+3. Para evitar supuestos distintos entre los interesados sobre lo que se entregará.
+4. Es el crecimiento del trabajo sin decisión sobre plazo y costo; se evita con un proceso de cambios aprobado por quien tiene autoridad.
+5. Registrar, evaluar el efecto en alcance, plazo, costo y riesgo, aprobar o rechazar y actualizar el plan.
+6. Después de entregar, cuando el uso real muestra si se logró el resultado de negocio.
+7. Con mucha incertidumbre es imposible definirlo por completo; se define por objetivos y se detalla por etapas.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/074-definicion-de-alcance-y-exito/`:
 
-- `leadership-decision-brief.md` con el problema específico de **definición de alcance y éxito**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **definición de alcance y éxito** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **scope**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un proyecto entrega un CRM según contrato y dentro de presupuesto, pero seis meses después solo 30% de vendedores lo usa y el forecast sigue en planillas.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el acta del caso ejecutivo;
+- `project-charter.md` (plantilla [Project charter](../../../../templates/project-charter.md)) con el alcance y los criterios de éxito;
+- `decision-journal.md` con los cambios solicitados y las decisiones.
 
 ## 📗 Fuentes y verificación
 
-- Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* (1996). **Uso en esta clase:** gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor. Lectura selectiva sobre **definición de alcance y éxito**. **Localizador:** [ISBN-13 9781880410127](https://openlibrary.org/isbn/9781880410127).
-- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** integración de proyectos, control, madurez y alineación organizacional. Lectura selectiva sobre **definición de alcance y éxito**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
-- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** restricciones, throughput, inventario y pensamiento de flujo. Lectura selectiva sobre **definición de alcance y éxito**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
-- Gene Kim — *The Unicorn Project* (IT Revolution Press, 2019). **Uso en esta clase:** perspectiva de Operaciones tecnológicas aplicada al problema de la clase. Lectura selectiva sobre **definición de alcance y éxito**. **Localizador:** [ISBN-13 9781942788768](https://openlibrary.org/isbn/9781942788768).
-- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** empirismo, transparencia, inspección y adaptación. **Fuente primaria:** <https://scrumguides.org/>.
-- David J. Anderson — *Kanban* (Blue hole press, 2010). **Uso en esta clase:** flujo, trabajo en proceso, políticas explícitas y evolución del sistema. Lectura selectiva sobre **definición de alcance y éxito**. **Localizador:** [ISBN-13 9780984521401](https://openlibrary.org/isbn/9780984521401).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **definición de alcance y éxito** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **definición de alcance y éxito**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **definición de alcance y éxito** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **definición de alcance y éxito** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **definición de alcance y éxito** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* (1996). **Uso en esta clase:** procesos de recopilar requisitos, definir y controlar el alcance. Lectura selectiva sobre **definición de alcance y éxito**. **Localizador:** [ISBN-13 9781880410127](https://openlibrary.org/isbn/9781880410127).
+- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** alcance, objetivos y control de cambios. Lectura selectiva sobre **definición de alcance y éxito**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
+- Edwin A. Locke & Gary P. Latham — *Building a Practically Useful Theory of Goal Setting and Task Motivation: A 35-Year Odyssey* (American Psychologist, 2002). **Uso en esta clase:** efecto de las metas específicas y exigentes. Lectura selectiva sobre **definición de alcance y éxito**. **Localizador:** [DOI 10.1037/0003-066X.57.9.705](https://doi.org/10.1037/0003-066X.57.9.705).
+- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** backlog ordenado por valor y objetivo del producto. **Fuente primaria:** <https://scrumguides.org/>.
+- Bent Flyvbjerg & Dan Gardner — *How Big Things Get Done* (Currency, 2023). **Uso en esta clase:** pensar despacio al inicio reduce costos posteriores. Lectura selectiva sobre **definición de alcance y éxito**. **Localizador:** [ISBN-13 9780593239513](https://openlibrary.org/isbn/9780593239513).
 
-> **Regla de fuentes para Definición de alcance y éxito:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **definición de alcance y éxito** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Definición de alcance y éxito:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

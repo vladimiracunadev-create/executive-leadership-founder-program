@@ -1,65 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g80 d-g80" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g80">Ficha visual de la clase 080: Kanban y flujo</title>
-<desc id="d-g80">Conceptos: WIP; cycle time; lead time; throughput; pull. Método: mapear flujo real → visualizar estados y bloqueos → establecer límites WIP → definir políticas de pull y clases → medir cycle time y mejorar cuello.</desc>
-<defs><marker id="p-g80" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 080 · Kanban y flujo</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 06 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >WIP</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >trabajo iniciado pero no terminado</text>
-<circle cx="38" cy="170" r="5" fill="#0969da"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >cycle time</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >tiempo desde inicio hasta finalización</text>
-<circle cx="38" cy="228" r="5" fill="#0969da"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >lead time</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >tiempo desde solicitud hasta entrega</text>
-<circle cx="38" cy="286" r="5" fill="#0969da"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >throughput</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >items terminados por periodo</text>
-<circle cx="38" cy="344" r="5" fill="#0969da"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >pull</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >principio de iniciar trabajo cuando existe capacidad en</text>
-<text x="54" y="383.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >la etapa siguiente</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#0969da" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#0969da"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >mapear flujo real</text>
-<circle cx="485" cy="176" r="14" fill="#0969da"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >visualizar estados y bloqueos</text>
-<circle cx="485" cy="230" r="14" fill="#0969da"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >establecer límites WIP</text>
-<circle cx="485" cy="284" r="14" fill="#0969da"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >definir políticas de pull y clases</text>
-<circle cx="485" cy="338" r="14" fill="#0969da"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >medir cycle time y mejorar cuello</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="46.7" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >WIP</text>
-<rect x="84.7" y="442.12" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="97.7" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="108.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cycle time percentiles</text>
-<rect x="272.5" y="442.12" width="95" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="285.5" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="296.5" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >throughput</text>
-<rect x="377.5" y="442.12" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="390.5" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="401.5" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >blocked time</text>
-<rect x="496.3" y="442.12" width="88.1" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="509.3" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="520.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >aging WIP</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Límites WIP no deben impedir respuesta a incidentes críticos. Define clases de servicio y políticas de expedite con costo visible para</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >evitar que la excepción destruya el sistema.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 384.81" width="1040" role="img" aria-labelledby="t-s80 d-s80" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s80">Clase 080 · Kanban: visualizar, limitar y gestionar el flujo</title>
+<desc id="d-s80">Tres prácticas centrales de Kanban y la ley de Little que relaciona trabajo en curso, rendimiento y tiempo de ciclo.</desc>
+<defs><marker id="p-s80" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="384.81" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 080 · Kanban: visualizar, limitar y gestionar el flujo</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Anderson (2010) · Little (1961) · Reinertsen (2009)</text>
+<rect x="28" y="96" width="314.667" height="145.75" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M28.0,136 V108 a12,12 0 0 1 12,-12 H330.6666666666667 a12,12 0 0 1 12,12 V136 Z" fill="#0969da"/>
+<text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Visualizar el trabajo</text>
+<circle cx="50.0" cy="154" r="4" fill="#0969da"/>
+<text x="64" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un tablero con las etapas reales.</text>
+<circle cx="50.0" cy="181.25" r="4" fill="#0969da"/>
+<text x="64" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Cada elemento de trabajo, visible.</text>
+<circle cx="50.0" cy="208.5" r="4" fill="#0969da"/>
+<text x="64" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Bloqueos y esperas a la vista.</text>
+<rect x="362.667" y="96" width="314.667" height="145.75" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M362.6666666666667,136 V108 a12,12 0 0 1 12,-12 H665.3333333333334 a12,12 0 0 1 12,12 V136 Z" fill="#bc4c00"/>
+<text x="378.667" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Limitar el trabajo en curso</text>
+<circle cx="384.6666666666667" cy="154" r="4" fill="#bc4c00"/>
+<text x="398.667" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Un máximo de elementos por etapa.</text>
+<circle cx="384.6666666666667" cy="181.25" r="4" fill="#bc4c00"/>
+<text x="398.667" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Terminar antes de empezar.</text>
+<circle cx="384.6666666666667" cy="208.5" r="4" fill="#bc4c00"/>
+<text x="398.667" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Menos cambio de contexto.</text>
+<rect x="697.333" y="96" width="314.667" height="145.75" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<path d="M697.3333333333334,136 V108 a12,12 0 0 1 12,-12 H1000.0 a12,12 0 0 1 12,12 V136 Z" fill="#1a7f37"/>
+<text x="713.333" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Gestionar el flujo</text>
+<circle cx="719.3333333333334" cy="154" r="4" fill="#1a7f37"/>
+<text x="733.333" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Medir tiempo de ciclo y rendimiento.</text>
+<circle cx="719.3333333333334" cy="181.25" r="4" fill="#1a7f37"/>
+<text x="733.333" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Hacer explícitas las políticas.</text>
+<circle cx="719.3333333333334" cy="208.5" r="4" fill="#1a7f37"/>
+<text x="733.333" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Mejorar de forma colaborativa.</text>
+<rect x="28" y="257.75" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="279.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Ley de Little: el trabajo en curso es igual al rendimiento por el tiempo de ciclo promedio. Con el mismo rendimiento, menos trabajo en</text>
+<text x="44" y="297" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >curso implica menor tiempo de ciclo.</text>
+<text x="28" y="344.25" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >La ley de Little es una relación matemática para sistemas estables; en la práctica se usa como guía y no como cálculo exacto.</text>
 </svg>

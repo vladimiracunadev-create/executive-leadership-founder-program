@@ -5,222 +5,187 @@
 <!-- nav:fin -->
 
 **Parte:** 06 — Proyectos, Agile y entrega  
-**Nivel:** Etapa 2 — Jefe → Manager  
+**Nivel:** Etapa 2 — Líder → Jefe / Team Lead  
 **Duración sugerida:** 150–180 minutos · **Estándar:** deep-class-v2
 
 ## 🎯 Propósito
 
-El capstone de rescate exige diagnosticar un proyecto crítico sin maquillar estado, proteger el outcome y reconstruir gobierno. Se evalúa la capacidad de decir qué ya no es posible, qué se puede salvar y qué decisión necesita el sponsor hoy.
+Una iniciativa crítica atrasada, sobrecargada y con interesados impacientes es la prueba más exigente de la gestión de proyectos, porque reúne todos los problemas a la vez: alcance difuso, estimaciones optimistas, dependencias en riesgo, equipo agotado, gobernanza confusa y calidad cuestionable. El rescate no se resuelve con una herramienta: exige **ordenar las decisiones**, **decir la verdad** y **entregar valor pronto**.
 
-La salida de esta parte es **entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: rescate de una iniciativa crítica** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Este capstone integra la parte 06: tipo de trabajo (073), alcance y éxito (074), descomposición y plan (075), estimación y capacidad (076), riesgos y dependencias (077), enfoque ágil (078), Scrum (079), Kanban y flujo (080), gobernanza (081), calidad (082) y recuperación (083). Se apoya en Flyvbjerg y Gardner, Kerzner, la Guía de Scrum y en los marcos de cada clase. Al terminar sabrás construir un plan de rescate de 90 días con decisiones, gobierno, ciclos de entrega y criterios de cierre.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `recovery plan`, `minimum viable scope`, `decision gate`, `confidence level`, `risk burn-down` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. hacer health check independiente → 2. rebaselinear alcance, fecha y costo → 3. construir tres opciones → 4. obtener decisión sponsor → 5. gestionar risk burn-down semanal** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** forecast confidence, critical risks, scope protected sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Diagnosticar** una iniciativa crítica con los marcos de la parte.
+2. **Secuenciar** un rescate en estabilización, replanificación y entrega.
+3. **Elegir** el enfoque de trabajo —plan, ciclos o flujo— según la naturaleza del trabajo.
+4. **Diseñar** la gobernanza, la comunicación y los criterios de calidad del rescate.
+5. **Decidir** con el patrocinador entre continuar, redefinir o cerrar, con evidencia.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define recovery plan y minimum viable scope sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con forecast confidence y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ordena las diez primeras preguntas que harías al asumir una iniciativa atrasada. |
+| 20–60 min | Secuencia del rescate y selección de enfoque. |
+| 60–105 min | Ejemplo trabajado: un rescate de 90 días. |
+| 105–150 min | Caso ejecutivo integrado. |
+| 150–170 min | Rúbrica, límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **recovery plan** | plan explícito para estabilizar y volver a una trayectoria defendible | Distingue un hecho compatible y otro que lo refute. |
-| **minimum viable scope** | alcance mínimo que conserva valor contractual o de negocio | Distingue un hecho compatible y otro que lo refute. |
-| **decision gate** | punto donde sponsor debe elegir entre opciones | Distingue un hecho compatible y otro que lo refute. |
-| **confidence level** | grado de confianza en fecha/costo basado en evidencia | Distingue un hecho compatible y otro que lo refute. |
-| **risk burn-down** | reducción de exposición a medida que se resuelven incertidumbres | Distingue un hecho compatible y otro que lo refute. |
+| **Iniciativa crítica** | Iniciativa cuyo éxito o fracaso afecta de manera material a la estrategia o a la continuidad. | Tiene patrocinio alto y consecuencias grandes. |
+| **Estabilización** | Conjunto de medidas iniciales para frenar el deterioro. | Se congela alcance y se nombra un responsable. |
+| **Rescate** | Intervención para devolver una iniciativa a una trayectoria viable o cerrarla de forma ordenada. | Hay diagnóstico, plan y decisión. |
+| **Incremento valioso** | Entrega funcional que da valor al usuario antes de terminar todo. | Se puede usar. |
+| **Revalidación del caso de negocio** | Comprobación de que el beneficio sigue justificando el costo restante. | Se hace con costos futuros. |
+| **Cierre ordenado** | Detención planificada que rescata valor y aprendizaje. | Hay decisión, registro y traspaso. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 084: 1. hacer health check independiente → 2. rebaselinear alcance, fecha y costo → 3. construir tres opciones → 4. obtener decisión sponsor → 5. gestionar risk burn-down semanal](modelo-mental.svg)
+![Rescate de una iniciativa crítica en tres tramos: estabilizar en los primeros siete días, replanificar durante el primer mes y entregar y sostener hasta los noventa días.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. hacer health check independiente → 2. rebaselinear alcance, fecha y costo → 3. construir tres opciones → 4. obtener decisión sponsor → 5. gestionar risk burn-down semanal
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **El capstone de rescate exige diagnosticar un proyecto crítico sin maquillar estado, proteger el outcome y reconstruir gobierno. Se evalúa la capacidad de decir qué ya no es posible, qué se puede salvar y qué decisión necesita el sponsor hoy.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un rescate puede concluir que detener el proyecto es la opción racional. Sunk cost no justifica continuar una iniciativa cuyo valor o factibilidad desapareció.**
+**Cómo leer el diagrama.** Tres tramos con acciones distintas. En los **primeros siete días** se detiene el deterioro y se reúnen hechos. Durante el **primer mes** se descompone lo que falta, se estima con rangos y se acuerda con el patrocinador la decisión de alcance y fecha. Hasta los **noventa días** se entrega en ciclos cortos con un gobierno ligero y frecuente. La nota recuerda qué clases aporta cada paso.
 
 ## 📖 Desarrollo
 
-### 1. recovery plan: mecanismo central
+### 1. Los primeros siete días: estabilizar
 
-**recovery plan** se entiende aquí como **plan explícito para estabilizar y volver a una trayectoria defendible**. Esta es la pieza causal o estructural desde la que se inicia **capstone: rescate de una iniciativa crítica**: antes de hacer health check independiente, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Se **congela** el alcance y los cambios; se **nombra** un responsable único con autoridad delegada; se **reúnen hechos**: avance real, backlog restante, riesgos y dependencias, gasto, estado de la calidad, estado del equipo; y se **escucha** a las personas con seguridad (clase 042). Se evita anunciar una fecha. Se informa al patrocinador, con franqueza: «estamos reuniendo los hechos y en dos semanas presentaremos un plan». El objetivo de la primera semana es la **claridad**, no el avance.
 
-La lectura rectora de este bloque es Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*. Su aporte se usa para examinar **gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **forecast confidence**; regístrala con periodo, unidad, población y baseline.
+### 2. Días 8 a 30: replanificar
 
-Relaciona el mecanismo con **minimum viable scope**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Con los hechos, se **clasifica** el trabajo (clase 073): qué es proyecto, qué producto, qué operación. Se **redefine el alcance** con el resultado de negocio y los criterios de éxito (074) y se descompone lo que falta (075). Se **estima** con rangos, visión desde afuera y capacidad medida (076) y se registran los riesgos y dependencias (077). Se elige el **enfoque**: ciclos cortos para lo incierto (078–079), flujo para lo continuo (080), plan para lo cierto. Se acuerda con el patrocinador la **decisión**: recortar, mover fecha o cerrar.
 
-### 2. minimum viable scope: frontera conceptual y error de clasificación
+### 3. Días 31 a 90: entregar y sostener
 
-**Definición operacional:** alcance mínimo que conserva valor contractual o de negocio. Su valor está en distinguirlo de **recovery plan** y **decision gate**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Se trabaja en **ciclos cortos** que producen **incrementos valiosos**, con una definición de hecho exigente (082). El gobierno es **ligero y frecuente**: una revisión semanal con el patrocinador, un comité mensual de decisiones, tolerancias claras (081). Se mide el avance con **entregas funcionales**, no con porcentajes. Se vigilan señales de alerta y se actualiza la estimación. Se protege al equipo de la presión y se reconoce el avance (clase 057). Las ganancias tempranas restauran la confianza.
 
-Contrasta el problema con Harold Kerzner — *Project Management*, que aporta una mirada sobre **integración de proyectos, control, madurez y alineación organizacional**. Formula dos mini-casos: uno que sí satisface la definición de **minimum viable scope** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **critical risks** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Decidir con el patrocinador
 
-Antes de rebaselinear alcance, fecha y costo, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La decisión más importante es entre **continuar**, **redefinir** o **cerrar**. Se usa el costo y el beneficio **futuros**, no los pasados: si hoy no se aprobaría el proyecto, se cierra. Para **continuar**, el plan debe ser creíble, con una fecha en rango y un alcance priorizado. Para **redefinir**, se cambia el problema o la solución. Para **cerrar**, se rescata lo reutilizable. Cualquier decisión se registra con su razón; ocultar la decisión es lo único que no se admite.
 
-### 3. decision gate: operacionalización y medición
+### 5. Comunicación y liderazgo
 
-**decision gate** significa **punto donde sponsor debe elegir entre opciones**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El líder del rescate comunica **hacia arriba** con franqueza y con decisiones pedidas (clase 081), **hacia el equipo** con claridad, reconocimiento y protección (clases 025 y 036), y **hacia los clientes y usuarios** con honestidad sobre qué recibirán y cuándo. Se evita prometer lo que no se controla. Se cuida la sostenibilidad del equipo (clase 047): un rescate con horas extra permanentes fracasa. Y se conduce con autoridad pero sin culpas: el objetivo es recuperar, no juzgar.
 
-Eliyahu M. Goldratt & Jeff Cox — *The Goal* orienta este bloque mediante **restricciones, throughput, inventario y pensamiento de flujo**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **scope protected**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Calidad y deuda
 
-Al llegar a construir tres opciones, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La tentación en un rescate es sacrificar la calidad para llegar. Se acuerda una definición de hecho **mínima pero firme**, y toda excepción se registra como deuda con fecha de pago. Las verificaciones repetibles se automatizan donde sea posible. Un rescate que entrega a tiempo un producto con defectos crea el próximo rescate. La calidad también es un criterio de decisión: «mover la fecha» puede ser mejor que «entregar algo roto».
 
-### 4. confidence level: trade-offs y efectos de segundo orden
+### 7. Cierre y aprendizaje
 
-**Definición:** grado de confianza en fecha/costo basado en evidencia. Este concepto obliga a abandonar la idea de que **capstone: rescate de una iniciativa crítica** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de obtener decisión sponsor, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Gene Kim — *The Unicorn Project* aporta una lente sobre **perspectiva de Operaciones tecnológicas aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **stakeholder commitment** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capstone: rescate de una iniciativa crítica**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **confidence level** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. risk burn-down: gobernanza, límites e integración
-
-**risk burn-down** se define como **reducción de exposición a medida que se resuelven incertidumbres** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Ken Schwaber & Jeff Sutherland — *The Scrum Guide* se utiliza para estudiar **empirismo, transparencia, inspección y adaptación** y contrastar la recomendación final. Al ejecutar gestionar risk burn-down semanal, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un rescate puede concluir que detener el proyecto es la opción racional. Sunk cost no justifica continuar una iniciativa cuyo valor o factibilidad desapareció.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **recovery plan**, **minimum viable scope**, **decision gate**, **confidence level** y **risk burn-down** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: rescate de una iniciativa crítica** no consiste en sumar cinco definiciones. Empieza por **recovery plan**, contrasta **minimum viable scope** con **decision gate**, incorpora **confidence level** como restricción o mecanismo y usa **risk burn-down** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. hacer health check independiente → 2. rebaselinear alcance, fecha y costo → 3. construir tres opciones → 4. obtener decisión sponsor → 5. gestionar risk burn-down semanal**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Al final de los noventa días, se evalúa: ¿se logró el resultado de negocio definido?, ¿el plan fue creíble?, ¿qué decisiones previas causaron el atraso?, ¿qué aprendió la organización? Se realiza una **revisión sin culpas** con hechos y se documentan las lecciones. Se traspasa a la operación o al equipo de producto, se libera al equipo y se reconoce el trabajo. Y se revisa el sistema que permitió el problema: criterios de aprobación de proyectos, estimación, gobernanza y cultura de reporte.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* | gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor | ¿Qué supuesto de **capstone: rescate de una iniciativa crítica** ayuda a desafiar? |
-| Harold Kerzner — *Project Management* | integración de proyectos, control, madurez y alineación organizacional | ¿Qué supuesto de **capstone: rescate de una iniciativa crítica** ayuda a desafiar? |
-| Eliyahu M. Goldratt & Jeff Cox — *The Goal* | restricciones, throughput, inventario y pensamiento de flujo | ¿Qué supuesto de **capstone: rescate de una iniciativa crítica** ayuda a desafiar? |
-| Gene Kim — *The Unicorn Project* | perspectiva de Operaciones tecnológicas aplicada al problema de la clase | ¿Qué supuesto de **capstone: rescate de una iniciativa crítica** ayuda a desafiar? |
-| Ken Schwaber & Jeff Sutherland — *The Scrum Guide* | empirismo, transparencia, inspección y adaptación | ¿Qué supuesto de **capstone: rescate de una iniciativa crítica** ayuda a desafiar? |
-
-En **capstone: rescate de una iniciativa crítica**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **recovery plan**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Flyvbjerg y Gardner (2023) | Causas de las desviaciones y principios de planificación. | Se centra en grandes proyectos. | ¿Qué decisión previa causó el atraso? |
+| Kerzner (2017) | Control, gobernanza y triple restricción. | Escrita para grandes organizaciones. | ¿Qué palanca moverás? |
+| Schwaber y Sutherland (2020) | Ciclos con objetivo e incremento verificable. | No trata de rescate. | ¿Cuál es el objetivo del primer ciclo? |
+| Anderson (2010) | Flujo y límites de trabajo en curso. | No es un marco de proyecto. | ¿Qué parte del trabajo es flujo continuo? |
+| Edmondson (1999) | Seguridad para decir la verdad. | No cubre planificación. | ¿Pueden las personas decir que estamos atrasados? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un programa estratégico tiene seis meses de atraso, 30% de sobrecosto y una fecha pública. Nadie quiere cambiar la fecha y cada equipo reporta porcentajes incompatibles de avance.
+**Situación (hipotética).** Una empresa de servicios tiene un proyecto de plataforma de clientes atrasado 7 meses, con USD 1,8 millones gastados de USD 2 millones. Un nuevo líder, Camila, asume el rescate.
 
-**Paso 1 — hacer health check independiente.** La gerencia escribe primero el supuesto asociado a **recovery plan** y evita convertirlo en hecho. Luego busca **forecast confidence** para contrastarlo en el caso de **capstone: rescate de una iniciativa crítica**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Tramo | Acciones | Resultado |
+|---|---|---|
+| **Días 1–7** | Congela el alcance; nombra a un arquitecto responsable de las decisiones técnicas; entrevista a todas las personas; reúne datos: 112 elementos pendientes; rendimiento real de 4 por semana; 9 defectos graves abiertos. | Cuadro claro: con la capacidad actual faltan 28 semanas. |
+| **Días 8–30** | Revalida el beneficio con el patrocinador (USD 3 millones en tres años, necesita USD 700.000 más); redefine el alcance: 5 funciones esenciales de 14; estima en rango (12 a 18 semanas); riesgos: dos dependencias externas; elige Scrum con ciclos de dos semanas para lo incierto y un tablero de flujo para soporte. | Decisión: continuar con alcance recortado y fecha en rango; se difieren 9 funciones. |
+| **Días 31–90** | Seis ciclos de dos semanas con objetivo e incremento funcional; definición de hecho con pruebas automáticas; reunión semanal con el patrocinador y comité mensual; tolerancias definidas; reconocimiento del avance. | Tres incrementos entregados a usuarios piloto; 9 defectos graves cerrados; satisfacción de piloto 4,1/5. |
+| **Cierre del tramo** | Revisión sin culpas: las estimaciones iniciales no usaron datos de proyectos similares y el comité no tenía tolerancias. | Se ajustan los criterios de aprobación de proyectos. |
 
-**Paso 2 — rebaselinear alcance, fecha y costo.** La gerencia escribe primero el supuesto asociado a **minimum viable scope** y evita convertirlo en hecho. Luego busca **critical risks** para contrastarlo en el caso de **capstone: rescate de una iniciativa crítica**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 3 — construir tres opciones.** La gerencia escribe primero el supuesto asociado a **decision gate** y evita convertirlo en hecho. Luego busca **scope protected** para contrastarlo en el caso de **capstone: rescate de una iniciativa crítica**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — obtener decisión sponsor.** La gerencia escribe primero el supuesto asociado a **confidence level** y evita convertirlo en hecho. Luego busca **stakeholder commitment** para contrastarlo en el caso de **capstone: rescate de una iniciativa crítica**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — gestionar risk burn-down semanal.** La gerencia escribe primero el supuesto asociado a **risk burn-down** y evita convertirlo en hecho. Luego busca **recovery milestones** para contrastarlo en el caso de **capstone: rescate de una iniciativa crítica**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: rescate de una iniciativa crítica**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Se estabilizó y se diagnosticó antes de decidir. (2) Se revalidó el beneficio con costos futuros. (3) Se entregaron incrementos con calidad. (4) Se corrigió el sistema que permitió el atraso.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **recovery plan** | plan explícito para estabilizar y volver a una trayectoria defendible | Cuando forecast confidence es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **minimum viable scope** | alcance mínimo que conserva valor contractual o de negocio | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Rescate frente a gestión normal.** El rescate concentra decisiones, información y autoridad en un lapso corto. Cuando se estabiliza, se vuelve a una gestión normal con mejores condiciones.
 
-**Frontera de aplicación:** Un rescate puede concluir que detener el proyecto es la opción racional. Sunk cost no justifica continuar una iniciativa cuyo valor o factibilidad desapareció.
+**Límites.** El plan de noventa días es una guía; el tiempo real depende del tamaño y de la complejidad. Un rescate no compensa un proyecto sin beneficio o un equipo agotado. Los datos de grandes proyectos orientan, pero cada caso tiene su contexto. Y las decisiones de cierre, de contratos con proveedores y de personas se verifican con asesoría y con las cláusulas aplicables.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: rescate de una iniciativa crítica |
+| Nivel | Cómo participa en un rescate |
 |---|---|
-| **Profesional** | usa **capstone: rescate de una iniciativa crítica** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **recovery plan** y **minimum viable scope** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta forecast confidence con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: rescate de una iniciativa crítica cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: rescate de una iniciativa crítica reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: rescate de una iniciativa crítica** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Dice la verdad sobre su avance y colabora con el nuevo plan. |
+| **Jefe / Team Lead** | Conduce a su equipo en ciclos cortos con calidad. |
+| **Gerente** | Lidera el rescate, decide con el patrocinador y protege al equipo. |
+| **CEO / Director** | Revalida el beneficio, acepta cerrar y corrige el sistema. |
+| **Founder / Owner** | Decide con su caja y no sigue invirtiendo en lo que ya no justifica el costo. |
 
 ## 🏢 Caso ejecutivo
 
-Un programa estratégico tiene seis meses de atraso, 30% de sobrecosto y una fecha pública. Nadie quiere cambiar la fecha y cada equipo reporta porcentajes incompatibles de avance.
+Una aseguradora lleva 20 meses en un proyecto para renovar su plataforma de reclamos. Debía durar 12 meses; el presupuesto de USD 5 millones está gastado al 90 % y se estima que falta casi la mitad del alcance. El equipo de 25 personas está agotado y ha perdido a tres personas clave. La autoridad reguladora espera un cambio en seis meses. Dos proveedores se retrasaron; el comité de 9 personas se reúne cada dos semanas y reabre decisiones. Un cliente importante amenaza con salir. Tú eres la nueva líder del rescate. El patrocinador te da 90 días.
 
-Entrega un **decision brief de capstone: rescate de una iniciativa crítica** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan integrado de rescate** que contenga: (a) el diagnóstico con los marcos de la parte y los hechos que reunirás; (b) la secuencia de 90 días con acciones por tramo; (c) la clasificación del trabajo y el enfoque elegido; (d) el alcance redefinido, los criterios de éxito y la estimación en rangos; (e) la gobernanza con tolerancias y la comunicación a cada interesado; (f) la definición de hecho y la política de deuda; (g) la decisión continuar, redefinir o cerrar con sus criterios; (h) cómo cuidarás al equipo y qué aprenderá la organización.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: rescate de una iniciativa crítica** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. hacer health check independiente → 2. rebaselinear alcance, fecha y costo → 3. construir tres opciones → 4. obtener decisión sponsor → 5. gestionar risk burn-down semanal** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta forecast confidence, critical risks; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Elige una iniciativa atrasada real o simulada y escribe sus hechos en una página.
+2. Define las tres decisiones que tomarías en la primera semana.
+3. Redefine su alcance con resultado, criterios de éxito y exclusiones.
+4. Diseña la gobernanza con una tolerancia de plazo y de costo.
+5. Define el criterio con que decidirías cerrarla.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar recovery plan y minimum viable scope como sinónimos | Se pierde la distinción entre “plan explícito para estabilizar y volver a una trayectoria defendible” y “alcance mínimo que conserva valor contractual o de negocio” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “gestionar risk burn-down semanal” | Se saltó “hacer health check independiente” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. hacer health check independiente → 2. rebaselinear alcance, fecha y costo → 3. construir tres opciones → 4. obtener decisión sponsor → 5. gestionar risk burn-down semanal y marca el primer supuesto no demostrado. |
-| Optimizar solo forecast confidence | La métrica local sustituyó al resultado del sistema | Contrástala con critical risks y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: rescate de una iniciativa crítica | Un rescate puede concluir que detener el proyecto es la opción racional. Sunk cost no justifica continuar una iniciativa cuyo valor o factibilidad desapareció. |
-| No fijar revisión | Una decisión sobre capstone: rescate de una iniciativa crítica se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Decidir antes de diagnosticar | Presión por actuar | Estabilizar y reunir hechos. |
+| Prometer una fecha en la primera semana | Se quiere calmar | Dar un rango tras el diagnóstico. |
+| Entregar «todo» | No se prioriza | Alcance esencial primero. |
+| Gobierno pesado | Se busca control | Ligero y frecuente, con tolerancias. |
+| Sacrificar calidad | Se quiere llegar | Definición de hecho firme y deuda registrada. |
+| No cerrar a tiempo | Escalada del compromiso | Revalidar con costos futuros. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **recovery plan** y **minimum viable scope** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **decision gate** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **hacer health check independiente → rebaselinear alcance, fecha y costo** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **forecast confidence** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: rescate de una iniciativa crítica**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un rescate puede concluir que detener el proyecto es la opción racional. Sunk cost no justifica continuar una iniciativa cuyo valor o factibilidad desapareció.**?
+1. ¿Cuáles son los tres tramos del rescate de 90 días?
+2. ¿Qué se hace en los primeros siete días?
+3. ¿Por qué no se promete una fecha en la primera semana?
+4. ¿Qué criterio se usa para continuar o cerrar?
+5. ¿Por qué se entregan incrementos en ciclos cortos?
+6. ¿Qué hace un cierre ordenado?
+7. ¿Qué límite tiene el plan de 90 días?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Estabilizar (días 1–7), replanificar (8–30), entregar y sostener (31–90).
+2. Congelar el alcance, nombrar un responsable único, reunir hechos y escuchar al equipo.
+3. Porque aún no hay un diagnóstico honesto; una fecha prematura repite el error original.
+4. El costo y el beneficio futuros, no el gasto pasado: si hoy no se aprobaría, se cierra.
+5. Porque producen valor y evidencia de avance real, restauran la confianza y permiten ajustar.
+6. Rescata lo reutilizable, registra la decisión, traspasa y aprende.
+7. Es una guía; el tiempo real depende del tamaño y la complejidad de la iniciativa.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/084-capstone-rescate-de-una-iniciativa-critica/`:
 
-- `risk-governance-brief.md` con el problema específico de **capstone: rescate de una iniciativa crítica**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: rescate de una iniciativa crítica** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **recovery plan**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un programa estratégico tiene seis meses de atraso, 30% de sobrecosto y una fecha pública. Nadie quiere cambiar la fecha y cada equipo reporta porcentajes incompatibles de avance.** y el dato que podría invalidar la recomendación.
+- `risk-governance-brief.md` (plantilla [Risk & Governance Brief](../../../../templates/risk-governance-brief.md)) con el plan integrado del caso ejecutivo;
+- `project-charter.md` (plantilla [Project charter](../../../../templates/project-charter.md)) con el alcance redefinido y la gobernanza;
+- `risk-register.md` (plantilla [Risk register](../../../../templates/risk-register.md)) con los riesgos y dependencias;
+- `decision-journal.md` con las decisiones, el seguimiento y la revisión sin culpas.
 
 ## 📗 Fuentes y verificación
 
-- Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)* (1996). **Uso en esta clase:** gobernanza, dominios de desempeño, riesgo, stakeholders y entrega de valor. Lectura selectiva sobre **capstone: rescate de una iniciativa crítica**. **Localizador:** [ISBN-13 9781880410127](https://openlibrary.org/isbn/9781880410127).
-- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** integración de proyectos, control, madurez y alineación organizacional. Lectura selectiva sobre **capstone: rescate de una iniciativa crítica**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
-- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** restricciones, throughput, inventario y pensamiento de flujo. Lectura selectiva sobre **capstone: rescate de una iniciativa crítica**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
-- Gene Kim — *The Unicorn Project* (IT Revolution Press, 2019). **Uso en esta clase:** perspectiva de Operaciones tecnológicas aplicada al problema de la clase. Lectura selectiva sobre **capstone: rescate de una iniciativa crítica**. **Localizador:** [ISBN-13 9781942788768](https://openlibrary.org/isbn/9781942788768).
-- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** empirismo, transparencia, inspección y adaptación. **Fuente primaria:** <https://scrumguides.org/>.
-- David J. Anderson — *Kanban* (Blue hole press, 2010). **Uso en esta clase:** flujo, trabajo en proceso, políticas explícitas y evolución del sistema. Lectura selectiva sobre **capstone: rescate de una iniciativa crítica**. **Localizador:** [ISBN-13 9780984521401](https://openlibrary.org/isbn/9780984521401).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: rescate de una iniciativa crítica** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: rescate de una iniciativa crítica**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: rescate de una iniciativa crítica** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: rescate de una iniciativa crítica** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: rescate de una iniciativa crítica** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Bent Flyvbjerg & Dan Gardner — *How Big Things Get Done* (Currency, 2023). **Uso en esta clase:** causas de las desviaciones y principios de planificación. Lectura selectiva sobre **capstone: rescate de una iniciativa crítica**. **Localizador:** [ISBN-13 9780593239513](https://openlibrary.org/isbn/9780593239513).
+- Harold Kerzner — *Project Management* (John Wiley & Sons Inc, 2003). **Uso en esta clase:** control, gobernanza y triple restricción. Lectura selectiva sobre **capstone: rescate de una iniciativa crítica**. **Localizador:** [ISBN-13 9780471281580](https://openlibrary.org/isbn/9780471281580).
+- Ken Schwaber & Jeff Sutherland — *The Scrum Guide* (Scrum.org / Scrum Alliance). **Uso en esta clase:** ciclos con objetivo e incremento verificable. **Fuente primaria:** <https://scrumguides.org/>.
+- David J. Anderson — *Kanban* (Blue hole press, 2010). **Uso en esta clase:** flujo y límites de trabajo en curso. Lectura selectiva sobre **capstone: rescate de una iniciativa crítica**. **Localizador:** [ISBN-13 9780984521401](https://openlibrary.org/isbn/9780984521401).
+- Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams* (Administrative Science Quarterly, 1999). **Uso en esta clase:** seguridad para decir la verdad. Lectura selectiva sobre **capstone: rescate de una iniciativa crítica**. **Localizador:** [DOI 10.2307/2666999](https://doi.org/10.2307/2666999).
 
-> **Regla de fuentes para Capstone: rescate de una iniciativa crítica:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: rescate de una iniciativa crítica** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capstone: rescate de una iniciativa crítica:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las cláusulas contractuales y las exigencias regulatorias aplicables. Los ejemplos y casos son hipotéticos y no describen a ninguna empresa real. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **risk** de **issue** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **dependency** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **mitigation** con **contingency**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre riesgo y problema?
+2. ¿Qué cuatro respuestas hay ante una amenaza?
+3. ¿Cómo se enuncia bien un riesgo?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una integración depende de un proveedor que aún no firmó API SLA. El proyecto la marca 'verde' porque el equipo interno está en fecha.
+**Caso:** Una empresa de servicios lanza una plataforma nueva en seis semanas. El equipo depende de tres terceros: un proveedor de identificación de clientes, un banco para pagos y una consultora de integración. Nadie tiene confirmaciones por escrito; el registro de riesgos fue elaborado hace tres meses y no se ha tocado. A cuatro semanas del lanzamiento, el banco informa que su proceso de certificación tarda ocho semanas. El patrocinador pregunta: «¿por qué no se avisó?».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **identificar riesgos por objetivo → priorizar exposición material → asignar mitigación y contingency → mapear dependencias con fechas y owners → revisar triggers semanalmente**. Debes utilizar o diseñar cómo obtener **riesgos vencidos, issues que antes eran riesgos, dependencias sin compromiso**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de gestión de riesgos y dependencias** que contenga: (a) el inventario de dependencias con fecha límite y estado; (b) el registro de los diez riesgos principales con respuesta, dueño y señal; (c) la respuesta al problema del banco con opciones y costos; (d) el ritmo de revisión; (e) qué comunicarás al patrocinador; (f) cómo evitarás que se repita. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Un risk register enorme puede ocultar lo material. Distingue riesgos de proyecto de incertidumbre normal y escala los que afectan estrategia, seguridad o compliance.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las probabilidades de un registro son juicios y a menudo infravaloran los eventos extremos.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

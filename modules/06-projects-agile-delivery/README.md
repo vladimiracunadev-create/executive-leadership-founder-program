@@ -65,18 +65,18 @@ Las clases **83 y 84** enseñan a recuperar: proyectos atrasados y el capstone d
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 073 | [Proyecto, producto, operación y programa](classes/073-proyecto-producto-operacion-y-programa/README.md) | proyecto, producto, operación | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
-| 074 | [Definición de alcance y éxito](classes/074-definicion-de-alcance-y-exito/README.md) | scope, deliverable, outcome | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 075 | [Work breakdown y planificación](classes/075-work-breakdown-y-planificacion/README.md) | WBS, work package, dependency | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 076 | [Estimación y capacidad](classes/076-estimacion-y-capacidad/README.md) | effort, duration, capacity | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
-| 077 | [Gestión de riesgos y dependencias](classes/077-gestion-de-riesgos-y-dependencias/README.md) | risk, issue, dependency | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 078 | [Agile como sistema adaptativo](classes/078-agile-como-sistema-adaptativo/README.md) | iteración, feedback loop, batch size | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 079 | [Scrum con criterio](classes/079-scrum-con-criterio/README.md) | Product Goal, Sprint Goal, Increment | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 080 | [Kanban y flujo](classes/080-kanban-y-flujo/README.md) | WIP, cycle time, lead time | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
-| 081 | [Stakeholders y gobernanza de proyecto](classes/081-stakeholders-y-gobernanza-de-proyecto/README.md) | sponsor, steering committee, change authority | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 082 | [Calidad y Definition of Done](classes/082-calidad-y-definition-of-done/README.md) | quality, Definition of Done, acceptance criteria | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
-| 083 | [Recuperación de proyectos atrasados](classes/083-recuperacion-de-proyectos-atrasados/README.md) | rebaseline, critical path, scope cut | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 084 | [Capstone: rescate de una iniciativa crítica](classes/084-capstone-rescate-de-una-iniciativa-critica/README.md) | recovery plan, minimum viable scope, decision gate | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 073 | [Proyecto, producto, operación y programa](classes/073-proyecto-producto-operacion-y-programa/README.md) | Proyecto, Producto, Operación | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
+| 074 | [Definición de alcance y éxito](classes/074-definicion-de-alcance-y-exito/README.md) | Alcance, Resultado de negocio, Criterio de éxito | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 075 | [Work breakdown y planificación](classes/075-work-breakdown-y-planificacion/README.md) | Estructura de desglose del trabajo (WBS), Regla del 100 %, Paquete de trabajo | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 076 | [Estimación y capacidad](classes/076-estimacion-y-capacidad/README.md) | Falacia de la planificación, Visión desde adentro, Visión desde afuera | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
+| 077 | [Gestión de riesgos y dependencias](classes/077-gestion-de-riesgos-y-dependencias/README.md) | Riesgo, Problema, Supuesto | [risk-register](../../templates/risk-register.md) | 150 |
+| 078 | [Agile como sistema adaptativo](classes/078-agile-como-sistema-adaptativo/README.md) | Manifiesto Ágil, Trabajo iterativo e incremental, Retroalimentación frecuente | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 079 | [Scrum con criterio](classes/079-scrum-con-criterio/README.md) | Scrum, Sprint, Backlog del producto | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 080 | [Kanban y flujo](classes/080-kanban-y-flujo/README.md) | Kanban (método), Trabajo en curso (WIP), Tiempo de ciclo | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
+| 081 | [Stakeholders y gobernanza de proyecto](classes/081-stakeholders-y-gobernanza-de-proyecto/README.md) | Gobernanza de proyecto, Patrocinador, Comité de dirección | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 082 | [Calidad y Definition of Done](classes/082-calidad-y-definition-of-done/README.md) | Definición de hecho, Criterio de aceptación, Calidad integrada | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
+| 083 | [Recuperación de proyectos atrasados](classes/083-recuperacion-de-proyectos-atrasados/README.md) | Atraso, Diagnóstico de causas, Triple restricción | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 084 | [Capstone: rescate de una iniciativa crítica](classes/084-capstone-rescate-de-una-iniciativa-critica/README.md) | Iniciativa crítica, Estabilización, Rescate | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -87,66 +87,79 @@ Las clases **83 y 84** enseñan a recuperar: proyectos atrasados y el capstone d
 
 ## 🔤 Glosario de la parte
 
-56 conceptos definidos en las clases, con la definición operacional que usa cada una.
+69 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **acceptance criteria** | condiciones observables para aceptar un entregable. |
-| **adaptación** | cambio de plan basado en evidencia. |
-| **batch size** | cantidad de trabajo comprometido antes de obtener feedback. |
-| **benefit** | valor realizado después de usar el resultado. |
-| **capacity** | trabajo disponible de personas o sistemas por periodo. |
-| **change authority** | rol autorizado para aceptar cambios. |
-| **confidence level** | grado de confianza en fecha/costo basado en evidencia. |
-| **contingency** | respuesta preparada si el evento ocurre. |
-| **crashing** | aumento de recursos para reducir duración de actividades críticas. |
-| **critical path** | secuencia cuya demora afecta fecha final. |
-| **cycle time** | tiempo desde inicio hasta finalización. |
-| **decision gate** | punto donde sponsor debe elegir entre opciones. |
-| **defect** | desviación de requisito o expectativa verificable. |
-| **Definition of Done** | criterios comunes que un incremento debe cumplir para considerarse terminado. |
-| **deliverable** | producto verificable creado por el proyecto. |
-| **dependency** | relación donde un trabajo condiciona otro. |
-| **Developers** | personas responsables de crear Increment usable. |
-| **duration** | tiempo calendario desde inicio a fin. |
-| **effort** | trabajo necesario medido en unidades de esfuerzo. |
-| **empiricism** | gestión mediante transparencia, inspección y adaptación. |
-| **escalation path** | ruta predefinida para decisiones fuera de tolerancia. |
-| **fast tracking** | solapar trabajo antes secuencial aumentando riesgo. |
-| **feedback loop** | secuencia que convierte uso o revisión en adaptación. |
-| **forecast** | proyección actualizada basada en datos y supuestos. |
-| **Increment** | resultado usable que cumple Definition of Done. |
-| **issue** | problema que ya ocurrió. |
-| **iteración** | ciclo corto que produce una versión evaluable. |
-| **lead time** | tiempo desde solicitud hasta entrega. |
-| **milestone** | evento sin duración que marca un punto verificable. |
-| **minimum viable scope** | alcance mínimo que conserva valor contractual o de negocio. |
-| **mitigation** | acción que reduce probabilidad o impacto. |
-| **operación** | trabajo recurrente que mantiene una capacidad. |
-| **outcome** | cambio en desempeño o comportamiento habilitado por entregables. |
-| **portfolio** | conjunto de inversiones priorizadas por estrategia y recursos. |
-| **Product Goal** | estado futuro del producto que orienta backlog. |
-| **Product Owner** | responsabilidad por maximizar valor y gestionar Product Backlog. |
-| **producto** | activo o servicio gestionado durante un ciclo de valor. |
-| **programa** | coordinación de proyectos y actividades relacionadas para beneficios conjuntos. |
-| **proyecto** | esfuerzo temporal para crear un resultado definido. |
-| **pull** | principio de iniciar trabajo cuando existe capacidad en la etapa siguiente. |
-| **quality** | grado en que un resultado cumple requisitos y es apto para uso. |
-| **quality debt** | trabajo futuro creado al aceptar calidad insuficiente. |
-| **rebaseline** | establecimiento de un plan realista basado en estado actual. |
-| **recovery plan** | plan explícito para estabilizar y volver a una trayectoria defendible. |
-| **risk** | evento incierto que puede afectar objetivos. |
-| **risk burn-down** | reducción de exposición a medida que se resuelven incertidumbres. |
-| **scope** | frontera del trabajo incluido y excluido. |
-| **scope cut** | eliminación deliberada de alcance para proteger outcome principal. |
-| **sponsor** | ejecutivo accountable por propósito, apoyo y decisiones de alto nivel. |
-| **Sprint Goal** | objetivo coherente que da flexibilidad al trabajo del sprint. |
-| **stakeholder engagement** | participación proporcional a poder e impacto. |
-| **steering committee** | foro de gobernanza para decisiones y excepciones. |
-| **throughput** | unidades terminadas por periodo. |
-| **WBS** | descomposición jerárquica orientada a entregables. |
-| **WIP** | trabajo iniciado pero no terminado. |
-| **work package** | unidad gestionable con resultado y estimación. |
+| **Alcance** | Trabajo necesario para entregar el resultado con las características acordadas (PMI, PMBOK). |
+| **Ampliación silenciosa del alcance** | Crecimiento del trabajo sin decisión formal sobre plazo y costo. |
+| **Atraso** | Diferencia entre el avance real y el esperado según el plan vigente. |
+| **Automatización** | Ejecución automática de verificaciones repetibles (Forsgren et al., 2018). |
+| **Backlog del producto** | Lista ordenada de lo que se necesita para mejorar el producto (Schwaber y Sutherland, 2020). |
+| **Beneficio** | Resultado de valor que justifica la inversión. |
+| **Cadena crítica** | Ruta crítica que además considera la disponibilidad de recursos y protege el plazo con un margen agregado (Goldratt, 1997). |
+| **Calidad integrada** | Prevención de defectos en el proceso en lugar de su inspección al final (Deming, 1986). |
+| **Cierre ordenado** | Detener un proyecto de modo que se rescate valor y se aprenda. |
+| **Clase de referencia** | Conjunto de proyectos comparables usados para estimar el nuevo. |
+| **Cola** | Elementos que esperan para ser atendidos; la espera es parte del tiempo de ciclo (Reinertsen, 2009). |
+| **Comité de dirección** | Foro de decisión sobre cambios que superan la autoridad del jefe de proyecto. |
+| **Compromiso creciente (escalada)** | Tendencia a continuar con un proyecto fallido por lo ya invertido. |
+| **Criterio de aceptación** | Condición que un elemento concreto debe cumplir para ser aceptado por quien lo pidió. |
+| **Criterio de éxito** | Condición medible que permite decir que el proyecto sirvió. |
+| **Definición de hecho** | Descripción formal del estado del incremento cuando cumple las medidas de calidad requeridas (Schwaber y Sutherland, 2020). |
+| **Dependencia** | Relación por la cual una tarea no puede comenzar o terminar antes que otra. |
+| **Desempeño de entrega** | Medidas como frecuencia de despliegue, tiempo de entrega, fallas y tiempo de recuperación (Forsgren et al., 2018). |
+| **Deuda de calidad** | Costo futuro acumulado por haber diferido trabajo de calidad. |
+| **Diagnóstico de causas** | Análisis de por qué ocurrió: estimación, alcance, capacidad, dependencias o decisiones. |
+| **Equipo autoorganizado** | Equipo que decide cómo hacer su trabajo dentro de límites. |
+| **Estabilización** | Conjunto de medidas iniciales para frenar el deterioro. |
+| **Estimación en rango** | Estimación con un valor mínimo, uno probable y uno máximo. |
+| **Estructura de desglose del trabajo (WBS)** | Descomposición jerárquica del alcance total en entregables y paquetes de trabajo (PMI, PMBOK). |
+| **Exclusión** | Lo que, de manera explícita, no se hará. |
+| **Falacia de la planificación** | Tendencia a subestimar el tiempo que tomará una tarea aun sabiendo que tareas similares tomaron más (Buehler et al., 1994). |
+| **Gobernanza de proyecto** | Marco de roles, decisiones, foros e información con que se dirige y controla un proyecto (Kerzner, 2017). |
+| **Incremento** | Paso concreto hacia el objetivo del producto, utilizable y que cumple la definición de hecho (Schwaber y Sutherland, 2020). |
+| **Incremento valioso** | Entrega funcional que da valor al usuario antes de terminar todo. |
+| **Iniciativa crítica** | Iniciativa cuyo éxito o fracaso afecta de manera material a la estrategia o a la continuidad. |
+| **Interesado (stakeholder)** | Persona o grupo que puede afectar o ser afectado por el proyecto (PMI, PMBOK). |
+| **Kanban (método)** | Método para gestionar el trabajo de conocimiento que visualiza el flujo, limita el trabajo en curso y mejora de manera evolutiva (Anderson, 2010). |
+| **Ley de Little** | En un sistema estable, el trabajo en curso promedio es igual al rendimiento por el tiempo de ciclo promedio (Little, 1961). |
+| **Lista de verificación** | Instrumento que recuerda los pasos esenciales a cumplir (Gawande, 2009). |
+| **Línea base nueva** | Plan revisado, con una base realista, aprobado por quien decide. |
+| **Manifiesto Ágil** | Declaración de valores y principios para el desarrollo de software, de 2001 (Beck et al.). |
+| **Objetivo del Sprint** | Propósito único del Sprint que da coherencia al trabajo (Schwaber y Sutherland, 2020). |
+| **Operación** | Trabajo continuo y repetitivo que sostiene el funcionamiento del negocio. |
+| **Paquete de trabajo** | Unidad más pequeña de la descomposición, con responsable y criterio de aceptación. |
+| **Patrocinador** | Quien justifica el proyecto, provee los recursos y decide sobre su continuidad. |
+| **Portafolio** | Conjunto de proyectos, programas y operaciones que se gestionan para lograr objetivos estratégicos (PMI, PMBOK). |
+| **Problema** | Riesgo que ya ocurrió. |
+| **Producto** | Algo que se desarrolla, lanza y evoluciona mientras entregue valor; se orienta por un objetivo (Schwaber y Sutherland, 2020). |
+| **Programa** | Conjunto de proyectos y actividades relacionados que se gestionan de manera coordinada para obtener beneficios que no lograrían por separado (PMI, PMBOK). |
+| **Prominencia** | Grado de prioridad que los directivos dan a un interesado según su poder, legitimidad y urgencia (Mitchell et al., 1997). |
+| **Proyecto** | Esfuerzo temporal emprendido para crear un producto, servicio o resultado único (PMI, PMBOK). |
+| **Regla del 100 %** | La descomposición debe incluir todo el trabajo del alcance, y solo ese (PMI, PMBOK). |
+| **Rendimiento (throughput)** | Cantidad de elementos terminados por unidad de tiempo. |
+| **Requisito** | Condición o capacidad que debe cumplir el resultado. |
+| **Rescate** | Intervención para devolver una iniciativa a una trayectoria viable o cerrarla de forma ordenada. |
+| **Respuesta al riesgo** | Decisión sobre cómo tratarlo: evitar, mitigar, transferir o aceptar (ISO 31000; PMI, PMBOK). |
+| **Resultado de negocio** | Cambio medible en el negocio que justifica el proyecto. |
+| **Retroalimentación frecuente** | Información del cliente y del entorno obtenida pronto y de manera regular. |
+| **Revalidación del caso de negocio** | Comprobación de que el beneficio sigue justificando el costo restante. |
+| **Riesgo** | Efecto de la incertidumbre sobre los objetivos (ISO 31000). |
+| **Ruta crítica** | Secuencia de tareas que determina el plazo mínimo del proyecto (PMI, PMBOK). |
+| **Scrum** | Marco ligero que ayuda a las personas, equipos y organizaciones a generar valor mediante soluciones adaptativas a problemas complejos (Schwaber y Sutherland, 2020). |
+| **Seguridad psicológica** | Creencia compartida de que el equipo es seguro para asumir riesgos interpersonales (Edmondson, 1999). |
+| **Señal de alerta** | Indicio observable de que un riesgo se está materializando. |
+| **Sprint** | Evento contenedor de duración fija, de un mes o menos, en el que se crea un incremento de valor (Schwaber y Sutherland, 2020). |
+| **Supuesto** | Condición que se da por cierta al planificar y que, si falla, afecta al plan. |
+| **Tiempo de ciclo** | Tiempo que tarda un elemento desde que comienza hasta que termina. |
+| **Tolerancia** | Margen de plazo, costo o alcance dentro del cual el jefe de proyecto puede decidir sin escalar. |
+| **Trabajo en curso (WIP)** | Cantidad de elementos que se han comenzado y aún no terminado. |
+| **Trabajo iterativo e incremental** | Entregar en ciclos cortos versiones que funcionan y se mejoran. |
+| **Triple restricción** | Relación entre alcance, plazo y costo: cambiar uno afecta a los otros (Kerzner, 2017). |
+| **Velocidad / rendimiento** | Cantidad de trabajo que un equipo completa por período, medida en la práctica (Cohn, 2005). |
+| **Visión desde adentro** | Estimar a partir de los detalles del caso y del plan propio. |
+| **Visión desde afuera** | Estimar a partir de los resultados de proyectos similares (Flyvbjerg, 2006). |
 
 ## 📦 Qué queda como evidencia
 

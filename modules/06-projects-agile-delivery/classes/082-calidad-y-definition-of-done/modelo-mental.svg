@@ -1,82 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 588.24" width="1040" role="img" aria-labelledby="t-g82 d-g82" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g82">Ficha visual de la clase 082: Calidad y Definition of Done</title>
-<desc id="d-g82">Conceptos: quality; Definition of Done; acceptance criteria; defect; quality debt. Método: definir calidad relevante al usuario y riesgo → crear DoD común → automatizar controles repetibles → detectar defectos cerca de origen → medir defect escape y rework.</desc>
-<defs><marker id="p-g82" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="588.24" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 082 · Calidad y Definition of Done</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 06 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >quality</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grado en que un resultado cumple requisitos y es apto</text>
-<text x="54" y="151.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >para uso</text>
-<circle cx="38" cy="184.12" r="5" fill="#0969da"/>
-<text x="54" y="189.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Definition of Done</text>
-<text x="54" y="207.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >criterios comunes que un incremento debe cumplir para</text>
-<text x="54" y="223.68" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >considerarse terminado</text>
-<circle cx="38" cy="256.24" r="5" fill="#0969da"/>
-<text x="54" y="261.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >acceptance criteria</text>
-<text x="54" y="279.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >condiciones específicas de una historia o deliverable</text>
-<circle cx="38" cy="314.24" r="5" fill="#0969da"/>
-<text x="54" y="319.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >defect</text>
-<text x="54" y="337.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >desviación de requisito o expectativa verificable</text>
-<circle cx="38" cy="372.24" r="5" fill="#0969da"/>
-<text x="54" y="377.24" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >quality debt</text>
-<text x="54" y="395.24" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >trabajo futuro creado al aceptar calidad insuficiente</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<circle cx="486.0" cy="120" r="11" fill="#0969da"/>
-<text x="486" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="504" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >definir calidad</text>
-<text x="504" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >relevante al</text>
-<text x="504" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >usuario y riesgo</text>
-<rect x="658" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<circle cx="674.0" cy="120" r="11" fill="#0969da"/>
-<text x="674" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="692" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >crear DoD común</text>
-<rect x="846" y="104" width="166" height="70" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<circle cx="862.0" cy="120" r="11" fill="#0969da"/>
-<text x="862" y="124.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="880" y="123" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >automatizar</text>
-<text x="880" y="139.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >controles</text>
-<text x="880" y="156.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >repetibles</text>
-<rect x="846" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<circle cx="862.0" cy="240" r="11" fill="#0969da"/>
-<text x="862" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="880" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >detectar defectos</text>
-<text x="880" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >cerca de origen</text>
-<rect x="658" y="224" width="166" height="70" rx="9" fill="#ffffff" stroke="#0969da" stroke-width="1.6" />
-<circle cx="674.0" cy="240" r="11" fill="#0969da"/>
-<text x="674" y="244.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="692" y="243" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >medir defect</text>
-<text x="692" y="259.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >escape y rework</text>
-<path d="M638,139 L656,139" stroke="#0969da" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g82)"/>
-<path d="M826,139 L844,139" stroke="#0969da" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g82)"/>
-<path d="M929,176 L929,222" stroke="#0969da" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g82)"/>
-<path d="M844,259 L826,259" stroke="#0969da" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-g82)"/>
-<path d="M656.0,259.0 H563.0 a10,10 0 0 0 -10,-10 V178" stroke="#0969da" stroke-width="2" fill="none" stroke-dasharray="6 5" stroke-linecap="round" marker-end="url(#p-g82)"/>
-<text x="571" y="251" font-size="11" font-weight="600" fill="#59636e" text-anchor="start" >revisar y volver a empezar</text>
-<text x="28" y="444.24" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="456.24" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="52" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >defect escape rate</text>
-<rect x="188.2" y="456.24" width="67.4" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="201.2" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="212.2" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >rework</text>
-<rect x="265.6" y="456.24" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="278.6" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="289.6" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >automated checks</text>
-<rect x="412" y="456.24" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="425" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="436" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >DoD compliance</text>
-<rect x="544.6" y="456.24" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="557.6" cy="469.24" r="3.5" fill="#0969da"/>
-<text x="568.6" y="473.74" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >customer incidents</text>
-<rect x="28" y="502.24" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="502.24" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="522.24" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="540.24" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Una DoD maximalista puede bloquear aprendizaje temprano. Diferencia prototipo experimental de incremento de producción y aplica</text>
-<text x="48" y="557.49" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >estándares acordes al propósito.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 461.86" width="1040" role="img" aria-labelledby="t-s82 d-s82" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s82">Clase 082 · Una definición de hecho que se puede comprobar</title>
+<desc id="d-s82">Ejemplo de definición de hecho con criterio y forma de verificación.</desc>
+<defs><marker id="p-s82" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="461.86" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 082 · Una definición de hecho que se puede comprobar</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Schwaber &amp; Sutherland (2020) · Forsgren et al. (2018) · Gawande (2009)</text>
+<rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Criterio</text>
+<text x="391.429" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Cómo se verifica</text>
+<text x="813.143" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Quién</text>
+<rect x="28" y="136" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >El código se revisó por otra persona.</text>
+<text x="391.429" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Registro de la revisión en la herramienta.</text>
+<text x="813.143" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Desarrollo</text>
+<rect x="28" y="172.56" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Las pruebas automáticas pasan.</text>
+<text x="391.429" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Resultado del sistema de integración continua.</text>
+<text x="813.143" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Sistema</text>
+<rect x="28" y="209.12" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="229.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Cumple los criterios de aceptación del elemento.</text>
+<text x="391.429" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Demostración al dueño del producto.</text>
+<text x="813.143" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Dueño del producto</text>
+<rect x="28" y="245.68" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="265.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >La documentación mínima está actualizada.</text>
+<text x="391.429" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Lista de verificación acordada.</text>
+<text x="813.143" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Desarrollo</text>
+<rect x="28" y="282.24" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="302.24" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Se puede desplegar sin intervención manual.</text>
+<text x="391.429" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Despliegue en un entorno de prueba.</text>
+<text x="813.143" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Operación</text>
+<rect x="28" y="334.8" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="356.8" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Sin una definición compartida, «terminado» significa cosas distintas y la deuda de calidad se acumula. Las listas de verificación</text>
+<text x="44" y="374.05" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >ayudan a no omitir pasos que se conocen.</text>
+<text x="28" y="421.3" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >La definición se ajusta a la madurez del equipo y se endurece con el tiempo; no es un trámite sino una promesa de calidad.</text>
 </svg>

@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Jefe → Manager"
 outcome: "entregar proyectos con alcance, flujo, riesgo, calidad y gobernanza adaptativa"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir iteración de feedback loop mediante evidencia observable."
-  - "Aplicar la secuencia: evaluar incertidumbre de problema y solución → reducir batch de trabajo → entregar incremento verificable → inspeccionar outcome y proceso → adaptar backlog y plan."
-  - "Interpretar lead time, frecuencia de feedback, rework sin atribuir causalidad automática."
-  - "Resolver el caso de agile como sistema adaptativo con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Explicar los cuatro valores del Manifiesto Ágil y su sentido."
+  - "Distinguir Agile como forma de trabajar de las ceremonias y las herramientas."
+  - "Decidir cuándo un enfoque iterativo conviene y cuándo no."
+  - "Identificar las condiciones que lo hacen funcionar: equipo, cliente, seguridad y entrega frecuente."
+  - "Reconocer los síntomas de una adopción vacía."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Project Management Institute — *A Guide to the Project Management Body of Knowledge (PMBOK Guide)*"
-  - "Harold Kerzner — *Project Management*"
-  - "Michael Hammer & James Champy — *Reengineering the Corporation*"
+  - "Kent Beck et al. — *Manifesto for Agile Software Development*"
   - "Ken Schwaber & Jeff Sutherland — *The Scrum Guide*"
+  - "Amy C. Edmondson — *Psychological Safety and Learning Behavior in Work Teams*"
   - "Nicole Forsgren, Jez Humble & Gene Kim — *Accelerate*"
-  - "Atul Gawande — *The Checklist Manifesto*"
+  - "Donald G. Reinertsen — *The Principles of Product Development Flow*"
 limits:
-  - "Agile no elimina planificación, arquitectura, compliance ni compromisos. Significa planificar de manera adaptativa donde el costo de aprender tarde es alto."
+  - "El manifiesto surgió en el software y su traslado a otros ámbitos requiere adaptar los principios, no solo los nombres."
 evidence_signals:
-  - "lead time"
-  - "frecuencia de feedback"
-  - "rework"
-  - "release cadence"
-  - "outcome por iteración"
+  - "valores del manifiesto aplicados"
+  - "ciclos cortos con feedback"
+  - "adaptación sin caos"
+  - "incremento verificable"

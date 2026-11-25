@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **effort** de **duration** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **capacity** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **throughput** con **forecast**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué es la falacia de la planificación?
+2. ¿Qué diferencia hay entre la visión desde adentro y desde afuera?
+3. ¿Qué es una clase de referencia?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un backlog de 120 ítems se estima en 12 semanas porque diez personas 'harán un ítem por semana'. Los datos históricos muestran variabilidad 2–8 días y trabajo bloqueado por QA.
+**Caso:** El director comercial prometió a un cliente importante la entrega de una nueva funcionalidad para el 30 de junio, sin consultar al equipo técnico. El equipo la estima en cuatro meses, no en dos. El director dice que «es una fecha política» y que «ellos siempre exageran». En los últimos tres proyectos parecidos, el plazo real superó al estimado en un 40 a 80 %. Hoy es 15 de abril.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir unidad de trabajo → usar datos históricos comparables → estimar rango y confianza → modelar capacidad, dependencias y buffers → actualizar forecast con throughput real**. Debes utilizar o diseñar cómo obtener **error de forecast, throughput, cycle time**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de estimación y respuesta** que contenga: (a) la estimación desde adentro, desde afuera y con capacidad real; (b) el rango con supuestos y riesgos; (c) las opciones (recortar alcance, mover fecha, aumentar recursos) con sus efectos; (d) cómo conversarás con el director y con el cliente; (e) qué compromiso tomarás con qué confianza; (f) cómo evitarás repetir el problema. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **No persigas precisión costosa para trabajo exploratorio. El objetivo de estimar es mejorar decisiones de alcance y fecha, no producir un número aparentemente exacto.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las clases de referencia requieren proyectos comparables y datos fiables; si no existen, la visión desde afuera es débil.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

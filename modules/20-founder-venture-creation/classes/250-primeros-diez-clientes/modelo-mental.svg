@@ -1,53 +1,62 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 488.06" width="1040" role="img" aria-labelledby="t-s250 d-s250" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
 <title id="t-s250">Clase 250 · Conseguir los primeros diez clientes</title>
-<desc id="d-s250">Cinco pasos para las primeras ventas lideradas por el fundador: perfil provisional, lista de cuentas, contacto y descubrimiento, cierre con alcance y criterio de éxito, y documentar aprendizajes.</desc>
+<desc id="d-s250">Siete pasos de las primeras ventas: perfil ideal, lista, mensaje, conversación, cierre, incorporación y patrón.</desc>
 <defs><marker id="p-s250" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
 <rect width="1040" height="488.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
 <rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
 <text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
 <text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 250 · Conseguir los primeros diez clientes</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Blank · Ross &amp; Tyler · Moore</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Moore · Ross · Rackham · Dixon · Skok</text>
 <rect x="28" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
 <circle cx="52.0" cy="122.0" r="13" fill="#0969da"/>
 <text x="52" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Perfil provisional</text>
-<text x="72" y="138.63" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >(ICP)</text>
-<text x="44" y="159.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Quién debería comprar</text>
-<text x="44" y="176.51" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >primero.</text>
+<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Perfil ideal</text>
+<text x="44" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Nicho con criterios</text>
+<text x="44" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >observables.</text>
 <path d="M260.5,144.25 L276.5,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s250)"/>
 <rect x="279.5" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
 <circle cx="303.5" cy="122.0" r="13" fill="#1a7f37"/>
 <text x="303.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Lista de cuentas</text>
-<text x="295.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Nombres concretos, no</text>
-<text x="295.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >segmentos.</text>
+<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Lista</text>
+<text x="295.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Nombres reales y motivo de</text>
+<text x="295.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >contacto.</text>
 <path d="M512,144.25 L528,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s250)"/>
 <rect x="531" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
 <circle cx="555.0" cy="122.0" r="13" fill="#bc4c00"/>
 <text x="555" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Contacto y</text>
-<text x="575" y="138.63" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >descubrimiento</text>
-<text x="547" y="159.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Conversaciones antes de</text>
-<text x="547" y="176.51" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >vender.</text>
+<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Mensaje</text>
+<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Breve y centrado en su</text>
+<text x="547" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >problema.</text>
 <path d="M763.5,144.25 L779.5,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s250)"/>
 <rect x="782.5" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
 <circle cx="806.5" cy="122.0" r="13" fill="#8250df"/>
 <text x="806.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Cierre con criterio de</text>
-<text x="826.5" y="138.63" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >éxito</text>
-<text x="798.5" y="159.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Alcance, precio y resultado</text>
-<text x="798.5" y="176.51" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >esperado.</text>
+<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Conversación</text>
+<text x="798.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Preguntas y calificación.</text>
 <path d="M897.25,194.5 V206.5 H142.75 V224.5" stroke="#59636e" stroke-width="2" fill="none" marker-end="url(#p-s250)"/>
 <rect x="28" y="226.5" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
 <circle cx="52.0" cy="252.5" r="13" fill="#cf222e"/>
 <text x="52" y="257.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="72" y="250.5" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Documentar</text>
-<text x="44" y="282.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Qué se aprendió de cada</text>
-<text x="44" y="299.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >cuenta.</text>
-<path d="M142.75,325.0 V345.0 H142.75 V196.5" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="7 6" marker-end="url(#p-s250)"/>
-<text x="142.75" y="339" font-size="11.5" font-weight="600" fill="#59636e" text-anchor="middle" >cada cliente ajusta el perfil</text>
+<text x="72" y="250.5" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Cierre</text>
+<text x="44" y="282.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Alcance, precio y plazo por</text>
+<text x="44" y="299.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >escrito.</text>
+<path d="M260.5,274.75 L276.5,274.75" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s250)"/>
+<rect x="279.5" y="226.5" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<circle cx="303.5" cy="252.5" r="13" fill="#0969da"/>
+<text x="303.5" y="257.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >6</text>
+<text x="323.5" y="250.5" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Incorporación</text>
+<text x="295.5" y="282.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Primer valor en pocos días.</text>
+<path d="M512,274.75 L528,274.75" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s250)"/>
+<rect x="531" y="226.5" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<circle cx="555.0" cy="252.5" r="13" fill="#1a7f37"/>
+<text x="555" y="257.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >7</text>
+<text x="575" y="250.5" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Patrón</text>
+<text x="547" y="282.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Qué se repite y qué se</text>
+<text x="547" y="299.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >rechaza.</text>
+<path d="M645.75,325.0 V345.0 H142.75 V196.5" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="7 6" marker-end="url(#p-s250)"/>
+<text x="394.25" y="339" font-size="11.5" font-weight="600" fill="#59636e" text-anchor="middle" >cada cliente ajusta el perfil</text>
 <rect x="28" y="361" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
-<text x="44" y="383" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >No se fuerza la homogeneidad demasiado pronto: algunas excepciones enseñan oportunidades. Pero se distingue el aprendizaje deliberado</text>
-<text x="44" y="400.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >de aceptar cualquier ingreso por necesidad.</text>
-<text x="28" y="447.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Cada cliente inicial se cierra con un alcance claro que la empresa pueda cumplir.</text>
+<text x="44" y="383" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Cada cliente enseña antes de aportar ingreso. Se rechazan encargos a medida que desvían el producto y se registra por qué compró cada</text>
+<text x="44" y="400.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >uno.</text>
+<text x="28" y="447.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Se decide qué repetir y qué rechazar antes de contratar vendedores.</text>
 </svg>

@@ -1,35 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 441.86" width="1040" role="img" aria-labelledby="t-s249 d-s249" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 461.86" width="1040" role="img" aria-labelledby="t-s249 d-s249" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
 <title id="t-s249">Clase 249 · Fijar un precio temprano con evidencia</title>
-<desc id="d-s249">Preguntas para fijar un precio temprano, cómo se responden y el cuidado que requieren.</desc>
+<desc id="d-s249">Cinco factores de la decisión de precio: valor para el cliente, costo de servir, alternativas, sensibilidad del segmento y estructura de cobro.</desc>
 <defs><marker id="p-s249" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="441.86" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect width="1040" height="461.86" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
 <rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
 <text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
 <text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 249 · Fijar un precio temprano con evidencia</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Nagle et al. · Thaler (1985) · Ariely et al.</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Nagle et al. · Thaler (1985) · Ariely · Kohavi et al.</text>
 <rect x="28" y="96" width="984" height="34" rx="10" fill="#1a7f37"/>
-<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Pregunta</text>
-<text x="267.077" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Cómo se responde</text>
-<text x="683.385" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Cuidado</text>
+<text x="40" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Factor</text>
+<text x="279.692" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Qué mirar</text>
+<text x="683.385" y="118" font-size="12.5" font-weight="700" fill="#ffffff" text-anchor="start" >Qué decide</text>
 <rect x="28" y="136" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
-<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >¿Qué valor genera?</text>
-<text x="267.077" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Costo de la alternativa actual y beneficio medible.</text>
-<text x="683.385" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >No inflar el beneficio sin evidencia.</text>
-<rect x="28" y="172.56" width="984" height="53.12" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
-<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >¿Qué se cobra?</text>
-<text x="267.077" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Una métrica de valor: por usuario, por uso o por</text>
-<text x="267.077" y="209.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >resultado.</text>
-<text x="683.385" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Que el cliente la entienda y la controle.</text>
-<rect x="28" y="225.68" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
-<text x="40" y="245.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >¿Cuánto?</text>
-<text x="267.077" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Dos o tres puntos de precio probados con compra real.</text>
-<text x="683.385" y="245.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Muestras pequeñas y sesgadas.</text>
-<rect x="28" y="262.24" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
-<text x="40" y="282.24" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >¿Qué objeciones?</text>
-<text x="267.077" y="282.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Registrar por segmento por qué compran o no.</text>
-<text x="683.385" y="282.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >No generalizar con pocos casos.</text>
-<rect x="28" y="314.8" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
-<text x="44" y="336.8" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Los precios tempranos tienen muestras pequeñas y sesgo. No se extrapola la elasticidad: se usan experimentos éticos y coherencia</text>
-<text x="44" y="354.05" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >contractual entre clientes.</text>
-<text x="28" y="401.3" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Los precios y descuentos tienen reglas de información y de competencia que se verifican con asesoría.</text>
+<text x="40" y="156" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Valor para el cliente</text>
+<text x="279.692" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Cuánto ahorra o gana con el producto.</text>
+<text x="683.385" y="156" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >El techo del precio.</text>
+<rect x="28" y="172.56" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="192.56" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Costo de servir</text>
+<text x="279.692" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Costos variables y de adquisición por cliente.</text>
+<text x="683.385" y="192.56" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >El piso del precio.</text>
+<rect x="28" y="209.12" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="229.12" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Alternativas</text>
+<text x="279.692" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Lo que usa hoy, incluso hacerlo a mano o no hacer nada.</text>
+<text x="683.385" y="229.12" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >La referencia de comparación.</text>
+<rect x="28" y="245.68" width="984" height="36.56" rx="0" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="265.68" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Sensibilidad del segmento</text>
+<text x="279.692" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Quién compra y cómo reacciona a distintos precios.</text>
+<text x="683.385" y="265.68" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >El rango que se prueba.</text>
+<rect x="28" y="282.24" width="984" height="36.56" rx="0" fill="#ffffff" stroke="#d0d7de" stroke-width="1" />
+<text x="40" y="302.24" font-size="12" font-weight="700" fill="#1f2328" text-anchor="start" >Estructura de cobro</text>
+<text x="279.692" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Por usuario, uso, plana o por niveles.</text>
+<text x="683.385" y="302.24" font-size="12" font-weight="400" fill="#1f2328" text-anchor="start" >Si el cobro crece con el valor.</text>
+<rect x="28" y="334.8" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="356.8" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El precio es una hipótesis que se prueba con grupos comparables y criterios previos. Las muestras pequeñas son orientativas: se repite</text>
+<text x="44" y="374.05" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >la prueba al crecer.</text>
+<text x="28" y="421.3" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >El rango va entre el piso y el techo y se decide con datos; consumo y competencia se verifican con asesoría.</text>
 </svg>

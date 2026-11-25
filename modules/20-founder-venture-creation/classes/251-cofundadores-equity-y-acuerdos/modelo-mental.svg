@@ -1,46 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 436.56" width="1040" role="img" aria-labelledby="t-s251 d-s251" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-s251">Clase 251 · Cofundadores: acuerdos antes del dinero</title>
-<desc id="d-s251">Tres bloques de un acuerdo de cofundadores: visión y roles, equity y vesting, y propiedad intelectual y salida.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 402.06" width="1040" role="img" aria-labelledby="t-s251 d-s251" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s251">Clase 251 · Cofundadores: quién, cuánto y cómo</title>
+<desc id="d-s251">Tres columnas de la relación entre cofundadores: quién (complementariedad y compromiso), cuánto (reparto, adquisición gradual y dilución) y cómo (roles, acuerdo y salida).</desc>
 <defs><marker id="p-s251" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="436.56" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect width="1040" height="402.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
 <rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
 <text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
-<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 251 · Cofundadores: acuerdos antes del dinero</text>
-<text x="1012" y="43" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="end" >Wasserman · Hellmann &amp; Wasserman (2017) · Ruef et al. (2003)</text>
-<rect x="28" y="96" width="314.667" height="197.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 251 · Cofundadores: quién, cuánto y cómo</text>
+<text x="1012" y="43" font-size="11" font-weight="400" fill="#59636e" text-anchor="end" >Wasserman · Hellmann &amp; Wasserman (2017) · Ruef et al. (2003) · Katzenbach</text>
+<rect x="28" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
 <path d="M28.0,136 V108 a12,12 0 0 1 12,-12 H330.6666666666667 a12,12 0 0 1 12,12 V136 Z" fill="#0969da"/>
-<text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Visión y roles</text>
+<text x="44" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Quién</text>
 <circle cx="50.0" cy="154" r="4" fill="#0969da"/>
-<text x="64" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Metas, dedicación y estilo de</text>
-<text x="64" y="175.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decisión.</text>
-<circle cx="50.0" cy="198.5" r="4" fill="#0969da"/>
-<text x="64" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Quién decide qué.</text>
-<circle cx="50.0" cy="225.75" r="4" fill="#0969da"/>
-<text x="64" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Qué pasa si no hay acuerdo.</text>
-<rect x="362.667" y="96" width="314.667" height="197.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<text x="64" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Habilidades complementarias.</text>
+<circle cx="50.0" cy="181.25" r="4" fill="#0969da"/>
+<text x="64" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Historia de trabajo conjunto.</text>
+<circle cx="50.0" cy="208.5" r="4" fill="#0969da"/>
+<text x="64" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Compromiso de tiempo y confianza.</text>
+<rect x="362.667" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
 <path d="M362.6666666666667,136 V108 a12,12 0 0 1 12,-12 H665.3333333333334 a12,12 0 0 1 12,12 V136 Z" fill="#1a7f37"/>
-<text x="378.667" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Equity y vesting</text>
+<text x="378.667" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Cuánto</text>
 <circle cx="384.6666666666667" cy="154" r="4" fill="#1a7f37"/>
-<text x="398.667" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Reparto según aportes y riesgo.</text>
+<text x="398.667" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Reparto según aportes y riesgos.</text>
 <circle cx="384.6666666666667" cy="181.25" r="4" fill="#1a7f37"/>
-<text x="398.667" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Consolidación de derechos en el</text>
-<text x="398.667" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >tiempo.</text>
+<text x="398.667" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Adquisición gradual con período</text>
+<text x="398.667" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >inicial.</text>
 <circle cx="384.6666666666667" cy="225.75" r="4" fill="#1a7f37"/>
-<text x="398.667" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Revisión si cambian los roles.</text>
-<rect x="697.333" y="96" width="314.667" height="197.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<text x="398.667" y="229.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Dilución en rondas futuras.</text>
+<rect x="697.333" y="96" width="314.667" height="163" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
 <path d="M697.3333333333334,136 V108 a12,12 0 0 1 12,-12 H1000.0 a12,12 0 0 1 12,12 V136 Z" fill="#bc4c00"/>
-<text x="713.333" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Propiedad intelectual y salida</text>
+<text x="713.333" y="122" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" >Cómo</text>
 <circle cx="719.3333333333334" cy="154" r="4" fill="#bc4c00"/>
-<text x="733.333" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >La propiedad intelectual pertenece a</text>
-<text x="733.333" y="175.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >la empresa.</text>
-<circle cx="719.3333333333334" cy="198.5" r="4" fill="#bc4c00"/>
-<text x="733.333" y="202.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Confidencialidad y no competencia</text>
-<text x="733.333" y="219.75" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >según la ley.</text>
-<circle cx="719.3333333333334" cy="243.0" r="4" fill="#bc4c00"/>
-<text x="733.333" y="247" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Condiciones de salida de un</text>
-<text x="733.333" y="264.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >cofundador.</text>
-<rect x="28" y="309.5" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
-<text x="44" y="331.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >No existe una fórmula universal de equity: se consideran aportes, riesgo futuro y compromiso, y se formaliza con asesoría jurídica</text>
-<text x="44" y="348.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >según la jurisdicción.</text>
-<text x="28" y="396" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Los acuerdos entre socios y sus efectos legales y tributarios se verifican con asesoría.</text>
+<text x="733.333" y="158" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Roles y decisiones.</text>
+<circle cx="719.3333333333334" cy="181.25" r="4" fill="#bc4c00"/>
+<text x="733.333" y="185.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Acuerdo escrito entre socios.</text>
+<circle cx="719.3333333333334" cy="208.5" r="4" fill="#bc4c00"/>
+<text x="733.333" y="212.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Salida ordenada y conflictos.</text>
+<rect x="28" y="275" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="297" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Se habla de dinero, poder y salida antes de necesitarlo. No existe una fórmula universal de reparto: se decide con criterios y se</text>
+<text x="44" y="314.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >formaliza con asesoría.</text>
+<text x="28" y="361.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Las normas societarias y tributarias se consultan en fuentes oficiales vigentes y con asesoría.</text>
 </svg>

@@ -1,50 +1,50 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 488.06" width="1040" role="img" aria-labelledby="t-s248 d-s248" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-s248">Clase 248 · Aprender operando a mano antes de automatizar</title>
-<desc id="d-s248">Cinco pasos de una prueba concierge: definir el resultado, operar a mano para pocos clientes, registrar pasos y excepciones, medir valor y disposición a pagar, y decidir cuánto automatizar.</desc>
+<title id="t-s248">Clase 248 · Un MVP es una pregunta con medida</title>
+<desc id="d-s248">Cinco pasos del MVP y del concierge test: hipótesis, versión mínima, entrega a mano, medida y decisión de automatizar o descartar.</desc>
 <defs><marker id="p-s248" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
 <rect width="1040" height="488.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
 <rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
 <text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
-<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 248 · Aprender operando a mano antes de automatizar</text>
-<text x="1012" y="43" font-size="11.5" font-weight="400" fill="#59636e" text-anchor="end" >Ries · Maurya (Running Lean) · Bland &amp; Osterwalder</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 248 · Un MVP es una pregunta con medida</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Ries · Blank · Olsen · Maurya</text>
 <rect x="28" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
 <circle cx="52.0" cy="122.0" r="13" fill="#0969da"/>
 <text x="52" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Resultado a entregar</text>
-<text x="44" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Qué logra el cliente al</text>
-<text x="44" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >final.</text>
+<text x="72" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Hipótesis</text>
+<text x="44" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Qué se quiere aprender,</text>
+<text x="44" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >escrito para poder fallar.</text>
 <path d="M260.5,144.25 L276.5,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s248)"/>
 <rect x="279.5" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
 <circle cx="303.5" cy="122.0" r="13" fill="#1a7f37"/>
 <text x="303.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Operar a mano</text>
-<text x="295.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Con pocos clientes y mucho</text>
-<text x="295.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >contacto.</text>
+<text x="323.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Versión mínima</text>
+<text x="295.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Lo más pequeño que la</text>
+<text x="295.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >prueba.</text>
 <path d="M512,144.25 L528,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s248)"/>
 <rect x="531" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
 <circle cx="555.0" cy="122.0" r="13" fill="#bc4c00"/>
 <text x="555" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Registrar</text>
-<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Pasos, tiempos y</text>
-<text x="547" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >excepciones.</text>
+<text x="575" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Entrega a mano</text>
+<text x="547" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >El fundador presta el</text>
+<text x="547" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >servicio a pocos clientes.</text>
 <path d="M763.5,144.25 L779.5,144.25" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-s248)"/>
 <rect x="782.5" y="96" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
 <circle cx="806.5" cy="122.0" r="13" fill="#8250df"/>
 <text x="806.5" y="127" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Medir</text>
-<text x="798.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Valor percibido y</text>
-<text x="798.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >disposición a pagar.</text>
+<text x="826.5" y="120" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Medida</text>
+<text x="798.5" y="152" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Uso, repetición, pago y</text>
+<text x="798.5" y="169.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >horas por cliente.</text>
 <path d="M897.25,194.5 V206.5 H142.75 V224.5" stroke="#59636e" stroke-width="2" fill="none" marker-end="url(#p-s248)"/>
 <rect x="28" y="226.5" width="229.5" height="96.5" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
 <circle cx="52.0" cy="252.5" r="13" fill="#cf222e"/>
 <text x="52" y="257.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="72" y="250.5" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Decidir</text>
-<text x="44" y="282.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Qué automatizar, qué cambiar</text>
-<text x="44" y="299.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >y qué parar.</text>
+<text x="72" y="250.5" font-size="13.5" font-weight="700" fill="#1f2328" text-anchor="start" >Decisión</text>
+<text x="44" y="282.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Automatizar, ajustar o</text>
+<text x="44" y="299.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >descartar.</text>
 <path d="M142.75,325.0 V345.0 H142.75 V196.5" stroke="#59636e" stroke-width="2" fill="none" stroke-dasharray="7 6" marker-end="url(#p-s248)"/>
-<text x="142.75" y="339" font-size="11.5" font-weight="600" fill="#59636e" text-anchor="middle" >las excepciones guían el diseño</text>
+<text x="142.75" y="339" font-size="11.5" font-weight="600" fill="#59636e" text-anchor="middle" >lo medido corrige la hipótesis</text>
 <rect x="28" y="361" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
-<text x="44" y="383" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Una prueba concierge enseña sobre la demanda y el flujo de trabajo, pero no prueba la escalabilidad: antes de crecer hay que modelar</text>
-<text x="44" y="400.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >costos y la automatización necesaria.</text>
-<text x="28" y="447.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Si el servicio manual no genera valor ni pago, automatizarlo solo lo hace más caro.</text>
+<text x="44" y="383" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Mínimo no es incompleto: debe resolver el problema a unos pocos clientes. Un concierge no escala; se automatiza solo lo que ya demostró</text>
+<text x="44" y="400.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >valor y se repite.</text>
+<text x="28" y="447.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Si no puedes decir qué aprenderás, aún no tienes un MVP.</text>
 </svg>

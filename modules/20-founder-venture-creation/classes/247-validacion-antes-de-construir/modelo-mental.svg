@@ -1,38 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 522.06" width="1040" role="img" aria-labelledby="t-s247 d-s247" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 595.31" width="1040" role="img" aria-labelledby="t-s247 d-s247" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
 <title id="t-s247">Clase 247 · Cuánto compromiso demuestra un cliente</title>
-<desc id="d-s247">Cuatro niveles de compromiso observable: opinión, tiempo, reputación o datos, y dinero o preventa.</desc>
+<desc id="d-s247">Cinco peldaños de compromiso observable: opinión, tiempo, datos o acceso, reputación y dinero.</desc>
 <defs><marker id="p-s247" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="522.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect width="1040" height="595.31" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
 <rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
 <text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
 <text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 247 · Cuánto compromiso demuestra un cliente</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Fitzpatrick · Bland &amp; Osterwalder · Kohavi et al.</text>
-<rect x="130" y="96" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
-<rect x="130" y="96" width="6" height="63.25" rx="3" fill="#1a7f37"/>
-<circle cx="162" cy="127.625" r="15" fill="#1a7f37"/>
-<text x="162" y="132.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="190" y="120" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Dinero o preventa</text>
-<text x="190" y="138" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Paga, firma un acuerdo o adelanta una compra.</text>
-<rect x="96" y="169.25" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
-<rect x="96" y="169.25" width="6" height="63.25" rx="3" fill="#bc4c00"/>
-<circle cx="128" cy="200.875" r="15" fill="#bc4c00"/>
-<text x="128" y="205.875" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="156" y="193.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Reputación o datos</text>
-<text x="156" y="211.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Hace una presentación interna o entrega datos reales.</text>
-<rect x="62" y="242.5" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
-<rect x="62" y="242.5" width="6" height="63.25" rx="3" fill="#0969da"/>
-<circle cx="94" cy="274.125" r="15" fill="#0969da"/>
-<text x="94" y="279.125" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="122" y="266.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Tiempo</text>
-<text x="122" y="284.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Acepta otra reunión, prueba o entrevista.</text>
-<rect x="28" y="315.75" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
-<rect x="28" y="315.75" width="6" height="63.25" rx="3" fill="#59636e"/>
-<circle cx="60" cy="347.375" r="15" fill="#59636e"/>
-<text x="60" y="352.375" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="88" y="339.75" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Opinión</text>
-<text x="88" y="357.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >«Suena interesante»: el nivel más barato y menos confiable.</text>
-<rect x="28" y="395" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
-<text x="44" y="417" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >La demanda se valida con compromisos observables, no con opiniones. Los experimentos deben ser éticos: no se vende lo que no se puede</text>
-<text x="44" y="434.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >entregar ni se engaña con pruebas sin transparencia.</text>
-<text x="28" y="481.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Cuanto más cuesta el compromiso al cliente, más informativo es.</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Fitzpatrick · Bland &amp; Osterwalder · Ries</text>
+<rect x="164" y="96" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="164" y="96" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<circle cx="196" cy="127.625" r="15" fill="#1a7f37"/>
+<text x="196" y="132.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
+<text x="224" y="120" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Dinero</text>
+<text x="224" y="138" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Pre-venta, anticipo o contrato.</text>
+<rect x="130" y="169.25" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="130" y="169.25" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<circle cx="162" cy="200.875" r="15" fill="#bc4c00"/>
+<text x="162" y="205.875" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="190" y="193.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Reputación</text>
+<text x="190" y="211.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Presenta a un colega o firma una carta de intención.</text>
+<rect x="96" y="242.5" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<rect x="96" y="242.5" width="6" height="63.25" rx="3" fill="#8250df"/>
+<circle cx="128" cy="274.125" r="15" fill="#8250df"/>
+<text x="128" y="279.125" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="156" y="266.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Datos y acceso</text>
+<text x="156" y="284.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Entrega información o abre un piloto.</text>
+<rect x="62" y="315.75" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="62" y="315.75" width="6" height="63.25" rx="3" fill="#0969da"/>
+<circle cx="94" cy="347.375" r="15" fill="#0969da"/>
+<text x="94" y="352.375" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="122" y="339.75" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Tiempo</text>
+<text x="122" y="357.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Dedica una hora, acepta una demostración.</text>
+<rect x="28" y="389" width="848" height="63.25" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<rect x="28" y="389.0" width="6" height="63.25" rx="3" fill="#59636e"/>
+<circle cx="60" cy="420.625" r="15" fill="#59636e"/>
+<text x="60" y="425.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="88" y="413" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Opinión</text>
+<text x="88" y="431" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Entrevistas y encuestas: lo más barato y menos fiable.</text>
+<rect x="28" y="468.25" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="490.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Un peldaño se sube solo cuando el anterior se sostiene con datos. Las pruebas deben ser honestas: no se vende lo que no se puede</text>
+<text x="44" y="507.5" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >entregar y se informan las condiciones de devolución.</text>
+<text x="28" y="554.75" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >El criterio de éxito se fija antes de mirar el resultado.</text>
 </svg>

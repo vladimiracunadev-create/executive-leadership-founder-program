@@ -764,3 +764,231 @@ CLASS_EXTENSIONS.update({
         'extra_practice': ['Mapea personas clave de una organización y define para cada una declaración, diseño de acceso y protocolo de viaje.'],
     },
 })
+
+# Capa de reputación, comunicación ejecutiva y liderazgo en crisis. Amplía clases
+# existentes (010, 025, 034, 048, 137, 190, 200, 202, 286) sin crear una ruta
+# paralela ni replicar el currículo de marketing: marca y confianza comercial se
+# enlazan por referencia cruzada con la clase 137 y con la parte 11.
+
+note(10, r'''
+### De la marca personal a la reputación profesional: cómo cambia al subir de rol
+
+La **marca profesional** es lo que decides mostrar; la **reputación** es lo que otros concluyen, con o sin tu intervención, a partir de tu conducta, tus decisiones y tus resultados. Esta ampliación mueve el foco de la primera a la segunda: la reputación no se declara, se **acumula como evidencia** y se pierde con más rapidez de lo que se construye.
+
+| Rol | Qué evidencia sostiene la reputación | Qué la daña con más facilidad | Quién la juzga |
+|---|---|---|---|
+| **Profesional individual** | Entregas cumplidas, calidad, honestidad al informar un error. | Promesas no cumplidas, atribuirse el trabajo ajeno. | Pares y jefatura directa. |
+| **Directivo o gerente** | Decisiones explicadas, equipos que mejoran, trato en conflicto. | Decidir sin escuchar, trasladar la culpa hacia abajo. | Equipo, pares de gerencia, dirección. |
+| **CEO** | Coherencia entre lo que dice, lo que decide y lo que asigna. | Una declaración que los hechos internos contradicen. | Directorio, empleados, clientes, reguladores, medios. |
+| **Fundador** | Cumplir con inversionistas, socios y primeros clientes cuando es costoso. | Confundir la empresa con el patrimonio propio; ocultar malas noticias a socios. | Socios, inversionistas, mercado, comunidad. |
+
+**Registro de evidencia reputacional:** lleva una bitácora con `hecho observable + fecha + quién lo puede corroborar + qué prometí y qué cumplí`. Una reputación defendible se apoya en registros, no en recuerdos favorables.
+
+Tres desigualdades guían la clase: `marca ≠ reputación`, `visibilidad ≠ credibilidad` y `ausencia de queja ≠ confianza`. Para la dimensión comercial de la marca y las señales de confianza ante clientes remite a la clase 137 y al programa de marketing; aquí se trata la reputación **de la persona** y la responsabilidad que crece con el cargo.
+''')
+
+note(25, r'''
+### Comunicación ejecutiva interna y externa: un mismo hecho, dos audiencias
+
+Un directivo comunica en dos sentidos que se confunden con facilidad. **Interna**: equipos, pares, directorio; busca alinear, decidir y sostener ejecución. **Externa**: clientes, medios, reguladores, inversionistas, comunidad; busca informar, responder y proteger la legitimidad. La regla común es que **los hechos no cambian entre audiencias; cambian el nivel de detalle, el orden y el lenguaje**.
+
+| Situación | Interna | Externa | Error típico |
+|---|---|---|---|
+| Un incidente con clientes | Qué ocurrió, quién decide, qué se pide a cada área. | Qué pasó, a quién afecta, qué se hace y cuándo habrá novedades. | Que empleados se enteren por la prensa. |
+| Un cambio organizacional | Razones, criterios, cronograma y apoyo. | Impacto para clientes y continuidad del servicio. | Mensajes que se contradicen entre canales. |
+| Una mala noticia | Qué sabemos, qué no, quién investiga. | La misma estructura con menos detalle operativo. | Optimismo externo que la realidad interna desmiente. |
+
+**Estructura para declaraciones y preguntas difíciles:** `1) Qué sabemos. 2) Qué no sabemos todavía. 3) Qué estamos haciendo. 4) Cuándo informaremos de nuevo.` Una pregunta difícil rara vez se responde con una frase de relaciones públicas: se responde con un hecho, un límite honesto de lo que se conoce y un compromiso verificable. Evita las tres evasiones corrientes: negar sin evidencia, desviar hacia otro tema y adelantar conclusiones que la investigación no ha alcanzado.
+
+**Incertidumbre sin ocultar:** decir «aún no lo sabemos» con una fecha de actualización es más creíble que una certeza que luego se corrige. Un dato relevante que existe y se retiene pasa de error a ocultamiento en cuanto se descubre.
+''')
+
+note(34, r'''
+### Interesados, legitimidad y asuntos corporativos desde la dirección
+
+Un mapa de interesados responde a quién puede afectar a la organización o ser afectado por ella. Esta ampliación añade una pregunta que el poder no contesta: **¿con qué legitimidad actúa quien reclama?** Un actor puede tener **poder** (capacidad de imponer), **legitimidad** (reclamo reconocido como apropiado) y **urgencia** (el asunto no admite espera). La combinación de los tres decide cuánta atención exige.
+
+| Actor | Poder | Legitimidad | Urgencia | Qué cambia en la gestión |
+|---|---|---|---|---|
+| **Regulador o autoridad** | Alto | Alta, por mandato | Variable | Relación preventiva, registro de contactos, vocería única. |
+| **Trabajadores y sindicatos** | Medio | Alta | A menudo alta | Diálogo formal y verificable; sin represalias. |
+| **Socios e inversionistas** | Alto | Alta | Media | Información simétrica; sin mensajes distintos por socio. |
+| **Medios y comunidad** | Variable | Variable | Alta | Respuesta factual y canal definido. |
+| **Clientes** | Medio | Alta | Variable | Reparación y comunicación directa. |
+
+**Asuntos corporativos y relaciones institucionales** son la función que sostiene la relación con autoridades, gremios y comunidades **antes** de que haya una crisis. Desde un cargo directivo implican: un responsable nombrado, un registro de reuniones y solicitudes, coherencia entre lo que se dice a la autoridad y al mercado, y una regla de **no gestionar a un regulador como si fuera un adversario**. La confianza institucional se construye en tiempos normales; en una investigación ya no hay tiempo de empezar.
+
+**Dos casos para razonar.** *Conflicto con una autoridad:* se recibe un requerimiento que la empresa cree desproporcionado. Opciones defendibles: cumplir y reservar observaciones, cumplir y solicitar aclaración formal, o impugnar por la vía correspondiente; en las tres se conserva la cooperación y se evita el mensaje público hostil. *Crisis de confianza entre socios:* uno sospecha que el otro ocultó información. Se separa lo verificable de lo supuesto, se pide una revisión independiente de los registros y se acuerda por escrito quién informa a quién y cuándo, antes de discutir culpas.
+''')
+
+note(48, r'''
+### Liderar una crisis humana: el conflicto público con trabajadores
+
+En una crisis humana el activo en riesgo son las personas, y la reputación se juega en cómo se las trata cuando hay conflicto visible. Esta ampliación aplica el capstone a un **conflicto público con trabajadores** (paro, denuncia colectiva, publicación de reclamos).
+
+`1) Reconocer el reclamo sin aceptar ni rechazar de inmediato su contenido. 2) Abrir un canal de diálogo con interlocutores definidos. 3) Separar lo que es negociable de lo que es obligación legal. 4) Cuidar a quienes no participan y a quienes lideran el reclamo, sin represalia. 5) Comunicar con el mismo hecho hacia dentro y hacia fuera. 6) Registrar compromisos y fecha de seguimiento.`
+
+| Decisión defendible | Qué protege | Qué arriesga | Cuándo conviene |
+|---|---|---|---|
+| **Reunirse de inmediato con representantes** | Confianza y desescalada. | Parecer que se cede bajo presión. | El reclamo es verificable y hay interlocutor legítimo. |
+| **Pedir primero una revisión de hechos y responder en 48 horas** | Precisión de lo que se promete. | Silencio percibido como desprecio. | Los datos son confusos o discutidos. |
+| **Responder públicamente con hechos y abrir mesa** | Narrativa propia y transparencia. | Que el mensaje público endurezca posiciones. | Ya hay cobertura y el silencio se leerá como evasión. |
+
+Dos criterios guían la elección: **proporcionalidad** (la respuesta debe corresponder a la gravedad del reclamo, no a su visibilidad) y **ausencia de represalia** (cualquier medida posterior contra quienes reclamaron será leída como castigo aunque tenga otra causa; documenta el motivo distinto antes de actuar). La norma laboral aplicable debe verificarse con asesoría; esta clase no la reemplaza.
+''')
+
+note(137, r'''
+### Confianza, legitimidad y reparación: cuando la señal falla
+
+Una señal de confianza (certificación, garantía, transparencia de datos, cumplimiento sostenido) vale mientras sea **cierta**. Esta ampliación pasa de construir señales a **repararlas**, desde la responsabilidad de quien dirige. La referencia comercial de marca y posicionamiento está en el programa de marketing; aquí se trabaja la confianza como obligación del liderazgo.
+
+| Componente | Pregunta | Evidencia que la sostiene |
+|---|---|---|
+| **Confianza** | ¿Pueden contar con que haré lo que digo? | Cumplimiento repetido, también cuando cuesta. |
+| **Legitimidad** | ¿Se reconoce mi derecho a decidir y la forma en que decido? | Proceso transparente, rendición de cuentas. |
+| **Responsabilidad** | ¿Respondo por lo ocurrido sin trasladar la culpa? | Reconocimiento, corrección, consecuencias. |
+
+**Plan de reparación de confianza**, en cinco pasos: `1) Reconocer lo ocurrido con hechos, sin eufemismos. 2) Corregir la causa, no solo el síntoma. 3) Reparar a quienes sufrieron daño, proporcional y verificable. 4) Exponer a verificación independiente el cambio. 5) Sostener el cumplimiento en el tiempo y medirlo.` Una disculpa sin corrección es una frase; una corrección sin reconocimiento parece ocultamiento.
+
+**Error frecuente:** reparar la imagen antes que el hecho. La recuperación reputacional sólida se basa en **hechos y correcciones demostrables**: lo que se anuncia debe poder auditarse por un tercero.
+''')
+
+TOPIC_NOTES[190] = TOPIC_NOTES[190] + r'''
+
+### Comité de crisis: composición, autoridad y matriz de responsabilidades
+
+Un comité de crisis es útil solo si su **autoridad está definida antes** del incidente. Decide quién lo preside, quién puede activar, qué decisiones toma sin consultar y cuáles escalan al directorio.
+
+| Rol | Responsabilidad | Autoridad |
+|---|---|---|
+| **Presidencia del comité (CEO o delegado)** | Decide y responde por la decisión. | Aprobar acciones de alto impacto y mensajes principales. |
+| **Operación / técnico** | Contener y diagnosticar. | Ejecutar medidas técnicas preaprobadas. |
+| **Legal y cumplimiento** | Obligaciones de notificación y preservación. | Vetar un mensaje que cree un riesgo legal indebido; no decidir por el comité. |
+| **Personas** | Protección de trabajadores y trato laboral. | Proponer medidas de personas. |
+| **Comunicaciones y vocería** | Mensaje único y calendario. | Publicar solo lo aprobado. |
+| **Secretaría** | Registro de decisiones y hechos. | Custodiar la bitácora. |
+
+**Matriz de responsabilidades:** para cada decisión, un solo **responsable que decide**, los que **deben ser consultados**, los que **solo se informan** y quién **ejecuta**. Evita dos decisores y evita que el área jurídica o la de comunicaciones sustituyan el juicio ejecutivo.
+
+**Protocolo de escalamiento** por niveles: `Nivel 1 (operación) → Nivel 2 (gerencia) → Nivel 3 (comité de crisis) → Nivel 4 (directorio)`, con criterio de paso explícito (afectación a clientes, datos personales, regulador, riesgo para personas, exposición pública). Caso de práctica: **filtración de datos de clientes** — decide qué activa el Nivel 3, qué se comunica a clientes y a la autoridad según la norma aplicable que debes verificar, y quién firma cada mensaje.'''
+
+note(200, r'''
+### Vocería ejecutiva: entrevistas, declaraciones y el reemplazo de un vocero
+
+La comunicación del CEO se somete a su prueba más dura cuando hay una **declaración controvertida** o una pregunta que el CEO no quiere responder. Esta ampliación entrena el oficio, no el espectáculo.
+
+**Manual de vocería ejecutiva (contenido mínimo):** `1) Quién habla y por qué. 2) Mensaje central en una frase verificable. 3) Tres hechos que lo sostienen. 4) Lo que aún no se sabe. 5) Preguntas difíciles anticipadas con respuesta. 6) Lo que no se dirá y por qué. 7) Cómo se corrige un error propio en público.`
+
+| Pregunta difícil | Respuesta débil | Respuesta defendible |
+|---|---|---|
+| «¿Sabía de esto antes?» | Evasiva o negación sin respaldo. | Hecho comprobable, fecha, y qué se revisa. |
+| «¿Renunciará?» | Desvío. | Responder qué decide y quién, sin prometer lo que no controla. |
+| «¿Cuántos afectados?» | Una cifra no verificada. | La cifra confirmada, el rango probable y cuándo se actualizará. |
+
+**Caso: el CEO realiza una declaración controvertida.** Opciones defendibles: mantener la postura y explicarla; aclarar el sentido y corregir lo inexacto; retractarse y disculparse. La elección depende de si la declaración fue **inexacta**, **mal expresada** o **correcta pero discutida**. Retractar lo que es cierto daña la credibilidad tanto como sostener lo que es falso. Registra la fecha en que se corrigió un dato erróneo: quien corrige a tiempo, conserva autoridad.
+
+**Caso: renuncia o reemplazo de un vocero.** Un vocero que se va se lleva la relación con los medios y el conocimiento de los hechos. Prepara: traspaso de mensajes y relaciones, sucesor entrenado, un solo vocero provisional y explicación honesta del cambio sin sugerir causas que no se conocen. **Ejercicio de entrevista:** graba una respuesta de dos minutos a una pregunta hostil; evalúa con la rúbrica de la clase 202 si separaste hecho, límite de información y compromiso.
+''')
+
+TOPIC_NOTES[202] = TOPIC_NOTES[202] + r'''
+
+### Decidir entre intereses que chocan: comercial, legal, laboral, ético y reputacional
+
+En una crisis, los intereses legítimos rara vez coinciden. Lo comercial prefiere continuidad, lo legal prefiere cautela en lo que se dice, lo laboral exige trato justo, lo ético exige verdad y lo reputacional exige rapidez. El error es **resolver el conflicto eliminando una de las voces**.
+
+| Interés | Pregunta que plantea | Riesgo si manda solo |
+|---|---|---|
+| **Comercial** | ¿Qué protege ingresos y contratos? | Minimizar el daño a clientes. |
+| **Legal** | ¿Qué obligación nos vincula y qué puede usarse en contra? | Silencio que parece ocultamiento. |
+| **Laboral** | ¿Qué debemos a las personas? | Medidas que luego se leen como represalia. |
+| **Ético** | ¿Qué es correcto aunque sea costoso? | Decidir sin medir consecuencias legales. |
+| **Reputacional** | ¿Cómo lo leerán los grupos de interés? | Declarar antes de saber. |
+
+**Regla de decisión:** exige a cada voz una **recomendación con su sustento y su costo**; el decisor elige, y registra **qué interés cedió y por qué**. Una decisión defendible puede equivocarse; una no explicada no puede defenderse.
+
+**IA y liderazgo humano:** cuando un sistema de IA propone, clasifica o ejecuta, la responsabilidad **no se delega**. Define quién supervisa, qué decisiones nunca se automatizan, cómo se detecta un error y quién responde ante el afectado. *Caso: un agente de IA comete un error que afecta a clientes.* Pasos: detener o limitar el agente, preservar registros, identificar a los afectados, informar con hechos y con el límite de lo que se conoce, corregir y revisar la supervisión. Decir «fue el sistema» no es una respuesta; el cargo responde.
+
+**Simulación de directorio:** presenta tres decisiones defendibles (A, B, C) ante un directorio; el estudiante elige, expone **sustento y consecuencias esperadas**, y responde a una objeción que contradiga su preferencia. Se evalúa con la rúbrica de decisiones bajo presión del documento `docs/REPUTATION_AND_CRISIS_LEADERSHIP.md`.'''
+
+note(286, r'''
+### Capstone de reputación: sostener la integridad cuando la decisión sale cara
+
+El cierre del programa pide una decisión de riesgo, ética y reputación **bajo presión y con información incompleta**. Esta ampliación convierte el capstone en una simulación integrada y exige una **recuperación reputacional basada en hechos**.
+
+`1) Hechos confirmados, alegaciones e incertidumbre. 2) Interesados afectados y su legitimidad. 3) Opciones defendibles con costo para cada una. 4) Decisión, sustento y quién responde. 5) Comunicación interna y externa coherentes. 6) Corrección y reparación. 7) Revisión: qué evidencia cambiaría la decisión.`
+
+| Dimensión | Pregunta de control |
+|---|---|
+| **Hechos** | ¿Qué sabemos con fuente y qué solo suponemos? |
+| **Responsabilidad** | ¿Quién responde, y lo dijimos sin trasladar la culpa? |
+| **Legitimidad** | ¿Se reconoce la forma en que decidimos? |
+| **Error** | ¿Qué se corrigió, con qué evidencia y con qué fecha? |
+| **Límites** | ¿Qué no sabemos y cuándo lo sabremos? |
+
+**Recuperación de reputación:** una organización recupera confianza cuando **lo que anuncia coincide con lo que verifica un tercero**. Mide con señales observables: cumplimiento de compromisos, tiempo de respuesta a afectados, hallazgos corregidos, rotación de personas clave y calidad de la relación con la autoridad. La reputación recuperada es más lenta que la perdida; planifica en meses, no en días. Cada decisión del capstone debe poder explicarse a un directorio, a un regulador y a una persona afectada con el mismo hecho.
+''')
+
+def _fusionar(cid, **nuevo):
+    base = CLASS_EXTENSIONS.setdefault(cid, {})
+    for clave, valor in nuevo.items():
+        if clave not in base:
+            base[clave] = valor
+        elif isinstance(valor, list):
+            base[clave] = base[clave] + valor
+        else:
+            base[clave] = base[clave] + valor
+
+_fusionar(10,
+    extra_evidence=['reputation evidence log', 'promise-kept ratio'],
+    extra_objectives=['**Distinguir** marca de reputación y construir un registro de evidencia reputacional que evolucione con el rol.'],
+    lesson_objectives=['Distinguir marca de reputación y construir un registro de evidencia reputacional que evolucione con el rol.'],
+    assessment_method_addendum='Muestra el registro de evidencia reputacional y cómo cambia la reputación defendible entre profesional, directivo, CEO y fundador. ',
+    extra_practice=['Construye tu registro de evidencia reputacional con diez hechos corroborables y señala cuál se debilitaría al asumir un rol mayor.'])
+_fusionar(25,
+    extra_evidence=['message consistency across channels', 'uncertainty disclosure'],
+    extra_objectives=['**Estructurar** una declaración y la respuesta a una pregunta difícil con lo que sabemos, lo que no, lo que hacemos y cuándo informaremos.'],
+    lesson_objectives=['Estructurar una declaración y la respuesta a una pregunta difícil con lo que sabemos, lo que no, lo que hacemos y cuándo informaremos.'],
+    assessment_method_addendum='Adapta el mismo hecho a una audiencia interna y otra externa y declara explícitamente la incertidumbre y la fecha de actualización. ',
+    extra_practice=['Redacta el mismo anuncio para empleados y para clientes sin cambiar un solo hecho y marca qué cambió en el detalle.'])
+_fusionar(34,
+    extra_evidence=['legitimacy assessment', 'regulator contact log'],
+    extra_objectives=['**Evaluar** poder, legitimidad y urgencia de cada interesado y diseñar la relación institucional previa a una crisis.'],
+    lesson_objectives=['Evaluar poder, legitimidad y urgencia de cada interesado y diseñar la relación institucional previa a una crisis.'],
+    assessment_method_addendum='Califica poder, legitimidad y urgencia de cada interesado y propone la gestión de una relación con una autoridad o con un socio en tensión. ',
+    extra_practice=['Mapea cinco interesados con poder, legitimidad y urgencia y define cuál relación institucional debe existir antes de una crisis.'])
+_fusionar(48,
+    extra_evidence=['grievance response time', 'non-retaliation record'],
+    extra_objectives=['**Conducir** un conflicto público con trabajadores con diálogo, proporcionalidad y ausencia de represalia.'],
+    lesson_objectives=['Conducir un conflicto público con trabajadores con diálogo, proporcionalidad y ausencia de represalia.'],
+    assessment_method_addendum='Elige entre las tres respuestas defendibles al conflicto con trabajadores, sustenta la elección y explica sus consecuencias. ',
+    extra_practice=['Resuelve un conflicto público con trabajadores eligiendo una de tres respuestas defendibles y defiende por qué no eligió las otras.'])
+_fusionar(137,
+    extra_evidence=['trust repair milestones', 'third-party verification'],
+    extra_objectives=['**Diseñar** un plan de reparación de confianza con reconocimiento, corrección, reparación y verificación independiente.'],
+    lesson_objectives=['Diseñar un plan de reparación de confianza con reconocimiento, corrección, reparación y verificación independiente.'],
+    assessment_method_addendum='Entrega un plan de reparación de confianza con hitos, evidencia verificable por un tercero y métrica de sostenimiento. ',
+    extra_practice=['Toma una señal de confianza que falló y escribe los cinco pasos de reparación con quién verifica cada uno.'])
+_fusionar(190,
+    extra_evidence=['escalation criteria clarity', 'decision-rights coverage'],
+    extra_objectives=['**Constituir** un comité de crisis con autoridad, matriz de responsabilidades y protocolo de escalamiento por niveles.'],
+    lesson_objectives=['Constituir un comité de crisis con autoridad, matriz de responsabilidades y protocolo de escalamiento por niveles.'],
+    assessment_method_addendum='Define composición, autoridad, matriz de responsabilidades y criterios de escalamiento del comité de crisis. ',
+    extra_practice=['Diseña un comité de crisis para una filtración de datos con matriz de responsabilidades y criterio para pasar de nivel.'])
+_fusionar(200,
+    extra_evidence=['spokesperson readiness', 'correction timeliness'],
+    extra_objectives=['**Preparar** un manual de vocería, responder preguntas difíciles sin ocultar incertidumbre y planificar el reemplazo de un vocero.'],
+    lesson_objectives=['Preparar un manual de vocería, responder preguntas difíciles sin ocultar incertidumbre y planificar el reemplazo de un vocero.'],
+    assessment_method_addendum='Entrega manual de vocería, respuestas a tres preguntas difíciles y plan de traspaso de la vocería. ',
+    extra_practice=['Responde en dos minutos a una pregunta hostil separando hecho, límite de información y compromiso, y evalúa la respuesta.'])
+_fusionar(202,
+    extra_evidence=['interest-conflict record', 'AI-supervision accountability'],
+    extra_objectives=['**Decidir** entre intereses comerciales, legales, laborales, éticos y reputacionales y asignar responsabilidad humana cuando interviene IA.'],
+    lesson_objectives=['Decidir entre intereses comerciales, legales, laborales, éticos y reputacionales y asignar responsabilidad humana cuando interviene IA.'],
+    assessment_method_addendum='Registra qué interés cedió y por qué, y define supervisión humana y responsable ante el afectado cuando un sistema de IA participa en la decisión. ',
+    extra_practice=['Presenta tres decisiones defendibles ante un directorio simulado, elige una y responde a la objeción más fuerte.'])
+_fusionar(286,
+    extra_evidence=['verified-correction rate', 'commitment follow-through'],
+    extra_objectives=['**Integrar** hechos, interesados, decisión, comunicación y reparación en una recuperación reputacional basada en evidencia.'],
+    lesson_objectives=['Integrar hechos, interesados, decisión, comunicación y reparación en una recuperación reputacional basada en evidencia.'],
+    assessment_method_addendum='Entrega la simulación integrada con hechos, decisión, comunicación y plan de reparación verificable, y explica qué evidencia reabriría la decisión. ',
+    extra_practice=['Ejecuta la simulación integrada de crisis y defiende cada decisión ante tres audiencias con el mismo hecho.'])

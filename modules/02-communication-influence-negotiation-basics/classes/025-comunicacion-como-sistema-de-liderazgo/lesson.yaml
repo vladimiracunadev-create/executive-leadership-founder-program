@@ -13,6 +13,7 @@ objectives:
   - "Interpretar preguntas aclaratorias, retrabajo por malentendido, tiempo de decisión sin atribuir causalidad automática."
   - "Resolver el caso de comunicación como sistema de liderazgo con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Estructurar una declaración y la respuesta a una pregunta difícil con lo que sabemos, lo que no, lo que hacemos y cuándo informaremos."
 deliverable: "leadership-decision-brief.md"
 references:
   - "Chip Heath & Dan Heath — *Made to Stick*"
@@ -29,3 +30,5 @@ evidence_signals:
   - "tiempo de decisión"
   - "acciones sin owner"
   - "mensajes que requieren corrección"
+  - "message consistency across channels"
+  - "uncertainty disclosure"

@@ -21,6 +21,7 @@ Al finalizar podrás:
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
 7. **Comparar** mantener, reasignar, apartar y separar a una persona clave con criterio de reversibilidad y evidencia que reabra la decisión.
+8. **Decidir** entre intereses comerciales, legales, laborales, éticos y reputacionales y asignar responsabilidad humana cuando interviene IA.
 
 ## 🧭 Agenda
 
@@ -113,6 +114,24 @@ Mantener, apartar temporalmente o reemplazar a una persona clave tiene costos as
 
 Elige el menor paso que contenga el riesgo y preserve la opción de moverte en ambos sentidos cuando lleguen datos. Fija **qué evidencia** y **qué fecha** reabren la decisión.
 
+### Decidir entre intereses que chocan: comercial, legal, laboral, ético y reputacional
+
+En una crisis, los intereses legítimos rara vez coinciden. Lo comercial prefiere continuidad, lo legal prefiere cautela en lo que se dice, lo laboral exige trato justo, lo ético exige verdad y lo reputacional exige rapidez. El error es **resolver el conflicto eliminando una de las voces**.
+
+| Interés | Pregunta que plantea | Riesgo si manda solo |
+|---|---|---|
+| **Comercial** | ¿Qué protege ingresos y contratos? | Minimizar el daño a clientes. |
+| **Legal** | ¿Qué obligación nos vincula y qué puede usarse en contra? | Silencio que parece ocultamiento. |
+| **Laboral** | ¿Qué debemos a las personas? | Medidas que luego se leen como represalia. |
+| **Ético** | ¿Qué es correcto aunque sea costoso? | Decidir sin medir consecuencias legales. |
+| **Reputacional** | ¿Cómo lo leerán los grupos de interés? | Declarar antes de saber. |
+
+**Regla de decisión:** exige a cada voz una **recomendación con su sustento y su costo**; el decisor elige, y registra **qué interés cedió y por qué**. Una decisión defendible puede equivocarse; una no explicada no puede defenderse.
+
+**IA y liderazgo humano:** cuando un sistema de IA propone, clasifica o ejecuta, la responsabilidad **no se delega**. Define quién supervisa, qué decisiones nunca se automatizan, cómo se detecta un error y quién responde ante el afectado. *Caso: un agente de IA comete un error que afecta a clientes.* Pasos: detener o limitar el agente, preservar registros, identificar a los afectados, informar con hechos y con el límite de lo que se conoce, corregir y revisar la supervisión. Decir «fue el sistema» no es una respuesta; el cargo responde.
+
+**Simulación de directorio:** presenta tres decisiones defendibles (A, B, C) ante un directorio; el estudiante elige, expone **sustento y consecuencias esperadas**, y responde a una objeción que contradiga su preferencia. Se evalúa con la rúbrica de decisiones bajo presión del documento `docs/REPUTATION_AND_CRISIS_LEADERSHIP.md`.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -181,6 +200,7 @@ Entrega un **decision brief de crisis y decisiones irreversibles** que contenga:
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
 7. Completa la tabla de escenarios para una crisis de persona clave y elige el menor paso que contenga el riesgo.
+8. Presenta tres decisiones defendibles ante un directorio simulado, elige una y responde a la objeción más fuerte.
 
 ## ⚠️ Errores frecuentes
 

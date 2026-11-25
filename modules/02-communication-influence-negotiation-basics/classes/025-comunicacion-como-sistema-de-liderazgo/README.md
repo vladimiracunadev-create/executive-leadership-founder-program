@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** preguntas aclaratorias, retrabajo por malentendido, tiempo de decisión sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Estructurar** una declaración y la respuesta a una pregunta difícil con lo que sabemos, lo que no, lo que hacemos y cuándo informaremos.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,22 @@ La síntesis de **comunicación como sistema de liderazgo** no consiste en sumar
 
 Aplica ahora la secuencia **1. definir propósito y audiencia → 2. seleccionar canal según ambigüedad y sensibilidad → 3. estructurar mensaje y contexto → 4. confirmar comprensión y decisión → 5. cerrar con owner, acción y registro**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Comunicación ejecutiva interna y externa: un mismo hecho, dos audiencias
+
+Un directivo comunica en dos sentidos que se confunden con facilidad. **Interna**: equipos, pares, directorio; busca alinear, decidir y sostener ejecución. **Externa**: clientes, medios, reguladores, inversionistas, comunidad; busca informar, responder y proteger la legitimidad. La regla común es que **los hechos no cambian entre audiencias; cambian el nivel de detalle, el orden y el lenguaje**.
+
+| Situación | Interna | Externa | Error típico |
+|---|---|---|---|
+| Un incidente con clientes | Qué ocurrió, quién decide, qué se pide a cada área. | Qué pasó, a quién afecta, qué se hace y cuándo habrá novedades. | Que empleados se enteren por la prensa. |
+| Un cambio organizacional | Razones, criterios, cronograma y apoyo. | Impacto para clientes y continuidad del servicio. | Mensajes que se contradicen entre canales. |
+| Una mala noticia | Qué sabemos, qué no, quién investiga. | La misma estructura con menos detalle operativo. | Optimismo externo que la realidad interna desmiente. |
+
+**Estructura para declaraciones y preguntas difíciles:** `1) Qué sabemos. 2) Qué no sabemos todavía. 3) Qué estamos haciendo. 4) Cuándo informaremos de nuevo.` Una pregunta difícil rara vez se responde con una frase de relaciones públicas: se responde con un hecho, un límite honesto de lo que se conoce y un compromiso verificable. Evita las tres evasiones corrientes: negar sin evidencia, desviar hacia otro tema y adelantar conclusiones que la investigación no ha alcanzado.
+
+**Incertidumbre sin ocultar:** decir «aún no lo sabemos» con una fecha de actualización es más creíble que una certeza que luego se corrige. Un dato relevante que existe y se retiene pasa de error a ocultamiento en cuanto se descubre.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +181,7 @@ Entrega un **decision brief de comunicación como sistema de liderazgo** que con
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Redacta el mismo anuncio para empleados y para clientes sin cambiar un solo hecho y marca qué cambió en el detalle.
 
 ## ⚠️ Errores frecuentes
 

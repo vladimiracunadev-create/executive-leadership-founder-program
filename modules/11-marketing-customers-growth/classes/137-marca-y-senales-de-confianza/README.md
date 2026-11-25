@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** brand awareness, share of search, direct traffic sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Diseñar** un plan de reparación de confianza con reconocimiento, corrección, reparación y verificación independiente.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,22 @@ La síntesis de **marca y señales de confianza** no consiste en sumar cinco def
 
 Aplica ahora la secuencia **1. definir situaciones de compra → 2. construir activos consistentes → 3. añadir pruebas y señales → 4. alinear experiencia con promesa → 5. medir recuerdo, confianza y conversión**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Confianza, legitimidad y reparación: cuando la señal falla
+
+Una señal de confianza (certificación, garantía, transparencia de datos, cumplimiento sostenido) vale mientras sea **cierta**. Esta ampliación pasa de construir señales a **repararlas**, desde la responsabilidad de quien dirige. La referencia comercial de marca y posicionamiento está en el programa de marketing; aquí se trabaja la confianza como obligación del liderazgo.
+
+| Componente | Pregunta | Evidencia que la sostiene |
+|---|---|---|
+| **Confianza** | ¿Pueden contar con que haré lo que digo? | Cumplimiento repetido, también cuando cuesta. |
+| **Legitimidad** | ¿Se reconoce mi derecho a decidir y la forma en que decido? | Proceso transparente, rendición de cuentas. |
+| **Responsabilidad** | ¿Respondo por lo ocurrido sin trasladar la culpa? | Reconocimiento, corrección, consecuencias. |
+
+**Plan de reparación de confianza**, en cinco pasos: `1) Reconocer lo ocurrido con hechos, sin eufemismos. 2) Corregir la causa, no solo el síntoma. 3) Reparar a quienes sufrieron daño, proporcional y verificable. 4) Exponer a verificación independiente el cambio. 5) Sostener el cumplimiento en el tiempo y medirlo.` Una disculpa sin corrección es una frase; una corrección sin reconocimiento parece ocultamiento.
+
+**Error frecuente:** reparar la imagen antes que el hecho. La recuperación reputacional sólida se basa en **hechos y correcciones demostrables**: lo que se anuncia debe poder auditarse por un tercero.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +181,7 @@ Entrega un **decision brief de marca y señales de confianza** que contenga: (a)
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Toma una señal de confianza que falló y escribe los cinco pasos de reparación con quién verifica cada uno.
 
 ## ⚠️ Errores frecuentes
 

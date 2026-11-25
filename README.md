@@ -395,7 +395,7 @@ python apps/executive_simulator.py --random
 ```text
 modules/      24 partes · 288 clases · 96 laboratorios · 24 proyectos
 cases/        24 casos integradores, uno por parte
-templates/    39 plantillas de trabajo ejecutivo listas para usar
+templates/    45 plantillas de trabajo ejecutivo listas para usar
 docs/         ruta de aprendizaje, evaluación, bibliografía y material chileno
 data/         escenarios del simulador, bibliografía y mapa normativo laboral
 apps/         simulador ejecutivo de decisiones
@@ -464,7 +464,7 @@ Qué garantiza —y qué **no** garantiza— cada comprobación, en
 ### ✅ Lo que sí es
 
 - 📚 un currículo **secuencial y completo** de 288 clases, de asumir un resultado propio a dirigir y crear una empresa;
-- 🏢 un curso con **práctica real**: 96 laboratorios, 24 casos integradores con información incompleta y 39 plantillas que se usan tal cual en el trabajo;
+- 🏢 un curso con **práctica real**: 96 laboratorios, 24 casos integradores con información incompleta y 45 plantillas que se usan tal cual en el trabajo;
 - 🇨🇱 una **ruta de creación de empresa en Chile** apoyada en fuentes oficiales, con su fecha de verificación a la vista;
 - 🔍 material **honesto sobre sus límites**: dice explícitamente qué verifica una máquina y qué no;
 - 📖 material **públicamente visible y gratuito para uso no comercial**, en español, legible en GitHub o en un portal instalable que funciona sin conexión.

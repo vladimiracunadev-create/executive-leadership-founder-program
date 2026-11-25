@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir objetivo y audiencia → estructurar situación elección evidencia → anticipar preguntas y objeciones → alinear mensajes entre canales → cerrar con acción y seguimiento**. Debes utilizar o diseñar cómo obtener **message recall, employee understanding, investor questions**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **definir objetivo y audiencia → estructurar situación elección evidencia → anticipar preguntas y objeciones → alinear mensajes entre canales → cerrar con acción y seguimiento**. Debes utilizar o diseñar cómo obtener **message recall, employee understanding, investor questions**. Entrega manual de vocería, respuestas a tres preguntas difíciles y plan de traspaso de la vocería. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

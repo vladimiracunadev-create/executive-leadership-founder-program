@@ -13,6 +13,7 @@ objectives:
   - "Interpretar complaints, conflict disclosures, security incidents sin atribuir causalidad automática."
   - "Resolver el caso de riesgo, ética y reputación con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Integrar hechos, interesados, decisión, comunicación y reparación en una recuperación reputacional basada en evidencia."
 deliverable: "risk-governance-brief.md"
 references:
   - "Peter F. Drucker — *The Effective Executive*"
@@ -29,3 +30,5 @@ evidence_signals:
   - "security incidents"
   - "claim substantiation"
   - "repeat referrals"
+  - "verified-correction rate"
+  - "commitment follow-through"

@@ -13,6 +13,7 @@ objectives:
   - "Interpretar stakeholders omitidos, decisiones bloqueadas tarde, tiempo de aprobación sin atribuir causalidad automática."
   - "Resolver el caso de mapa de stakeholders y poder con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Evaluar poder, legitimidad y urgencia de cada interesado y diseñar la relación institucional previa a una crisis."
 deliverable: "leadership-decision-brief.md"
 references:
   - "Chip Heath & Dan Heath — *Made to Stick*"
@@ -29,3 +30,5 @@ evidence_signals:
   - "tiempo de aprobación"
   - "conflictos por falta de consulta"
   - "confianza después de cambios"
+  - "legitimacy assessment"
+  - "regulator contact log"

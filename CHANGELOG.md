@@ -20,6 +20,20 @@
 
 ## Sin publicar
 
+### Reputación, comunicación ejecutiva y liderazgo en crisis
+
+- **Nueve clases existentes se amplían** (010, 025, 034, 048, 137, 190, 200, 202,
+  286): reputación y su evolución por rol, comunicación interna y externa,
+  legitimidad y asuntos corporativos, conflicto con trabajadores, reparación de
+  confianza, comité de crisis, vocería, intereses en conflicto, IA con
+  responsabilidad humana y recuperación reputacional.
+- **Cuatro plantillas nuevas**: acta del comité de crisis, manual de vocería,
+  mapa de interesados y legitimidad, plan de reparación de confianza.
+- **Nuevo documento** `docs/REPUTATION_AND_CRISIS_LEADERSHIP.md`: diagnóstico,
+  matriz de brechas, ocho simulaciones con tres decisiones defendibles y
+  rúbrica de decisiones bajo presión.
+- Sin clases nuevas: sigue en 288 clases, 24 partes y 96 laboratorios.
+
 ### Inteligencia humana, influencia y protección del liderazgo
 
 - **Siete clases existentes se amplían** (016, 045, 189, 190, 202, 209, 213):

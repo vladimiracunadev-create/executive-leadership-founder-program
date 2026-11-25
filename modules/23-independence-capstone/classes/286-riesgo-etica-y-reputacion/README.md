@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** complaints, conflict disclosures, security incidents sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Integrar** hechos, interesados, decisión, comunicación y reparación en una recuperación reputacional basada en evidencia.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,24 @@ La síntesis de **riesgo, ética y reputación** no consiste en sumar cinco defi
 
 Aplica ahora la secuencia **1. identificar stakeholders y deberes → 2. declarar conflictos y límites → 3. proteger datos e IP → 4. hacer claims verificables → 5. crear incident y escalation process**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Capstone de reputación: sostener la integridad cuando la decisión sale cara
+
+El cierre del programa pide una decisión de riesgo, ética y reputación **bajo presión y con información incompleta**. Esta ampliación convierte el capstone en una simulación integrada y exige una **recuperación reputacional basada en hechos**.
+
+`1) Hechos confirmados, alegaciones e incertidumbre. 2) Interesados afectados y su legitimidad. 3) Opciones defendibles con costo para cada una. 4) Decisión, sustento y quién responde. 5) Comunicación interna y externa coherentes. 6) Corrección y reparación. 7) Revisión: qué evidencia cambiaría la decisión.`
+
+| Dimensión | Pregunta de control |
+|---|---|
+| **Hechos** | ¿Qué sabemos con fuente y qué solo suponemos? |
+| **Responsabilidad** | ¿Quién responde, y lo dijimos sin trasladar la culpa? |
+| **Legitimidad** | ¿Se reconoce la forma en que decidimos? |
+| **Error** | ¿Qué se corrigió, con qué evidencia y con qué fecha? |
+| **Límites** | ¿Qué no sabemos y cuándo lo sabremos? |
+
+**Recuperación de reputación:** una organización recupera confianza cuando **lo que anuncia coincide con lo que verifica un tercero**. Mide con señales observables: cumplimiento de compromisos, tiempo de respuesta a afectados, hallazgos corregidos, rotación de personas clave y calidad de la relación con la autoridad. La reputación recuperada es más lenta que la perdida; planifica en meses, no en días. Cada decisión del capstone debe poder explicarse a un directorio, a un regulador y a una persona afectada con el mismo hecho.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +183,7 @@ Entrega un **decision brief de riesgo, ética y reputación** que contenga: (a) 
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Ejecuta la simulación integrada de crisis y defiende cada decisión ante tres audiencias con el mismo hecho.
 
 ## ⚠️ Errores frecuentes
 

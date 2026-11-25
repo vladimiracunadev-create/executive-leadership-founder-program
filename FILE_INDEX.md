@@ -5,7 +5,7 @@
 
 **Todo el texto versionado del repositorio, en un listado plano y ordenado.**
 
-[![Archivos](https://img.shields.io/badge/archivos-1160-7c5cff?style=flat-square)](FILE_INDEX.md)
+[![Archivos](https://img.shields.io/badge/archivos-1165-7c5cff?style=flat-square)](FILE_INDEX.md)
 [![Generado por](https://img.shields.io/badge/generado%20por-build__file__index.py-007c83?style=flat-square)](tools/build_file_index.py)
 [![Se edita](https://img.shields.io/badge/se%20edita-nunca%20a%20mano-8b0000?style=flat-square)](MANIFEST.md)
 
@@ -23,7 +23,7 @@
 
 | Extensión | Archivos |
 |---|---:|
-| `.md` | 826 |
+| `.md` | 831 |
 | `.yaml` | 289 |
 | `.py` | 22 |
 | `.yml` | 8 |
@@ -152,6 +152,7 @@
 - `READING_PATH.md`
 - `README.md`
 - `REFERENCE_MAP.md`
+- `REPUTATION_AND_CRISIS_LEADERSHIP.md`
 
 ### `modules/00-professional-to-leader/`
 
@@ -2194,9 +2195,11 @@
 - `chile-compliance-calendar.md`
 - `commercial-decision-brief.md`
 - `contract-type-selection-checklist.md`
+- `crisis-committee-charter.md`
 - `decision-brief.md`
 - `employment-contract-review-checklist.md`
 - `enterprise-risk.md`
+- `executive-spokesperson-manual.md`
 - `founder-owner-decision-brief.md`
 - `gtm-plan.md`
 - `independence-plan.md`
@@ -2222,9 +2225,11 @@
 - `risk-register.md`
 - `role-scorecard.md`
 - `sales-pipeline.md`
+- `stakeholder-legitimacy-map.md`
 - `strategy-memo.md`
 - `team-charter.md`
 - `termination-risk-checklist.md`
+- `trust-repair-plan.md`
 - `venture-validation.md`
 
 ### `tests/`

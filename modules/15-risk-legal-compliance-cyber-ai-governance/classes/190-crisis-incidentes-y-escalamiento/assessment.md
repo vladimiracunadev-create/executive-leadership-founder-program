@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **detectar y clasificar → activar roles y war room → proteger personas y contener impacto → comunicar hechos y decisiones → recuperar investigar y aprender**. Debes utilizar o diseñar cómo obtener **time-to-escalate, MTTR, stakeholder update latency**. Entrega tabla hecho/alegación/fuente/verificación, quién investiga, medidas proporcionales, mensaje y fecha de revisión. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **detectar y clasificar → activar roles y war room → proteger personas y contener impacto → comunicar hechos y decisiones → recuperar investigar y aprender**. Debes utilizar o diseñar cómo obtener **time-to-escalate, MTTR, stakeholder update latency**. Entrega tabla hecho/alegación/fuente/verificación, quién investiga, medidas proporcionales, mensaje y fecha de revisión. Define composición, autoridad, matriz de responsabilidades y criterios de escalamiento del comité de crisis. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

@@ -21,6 +21,7 @@ Al finalizar podrás:
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
 7. **Separar** hechos, alegaciones y juicios privados y aplicar el protocolo de las primeras 72 horas con presunción de inocencia.
+8. **Constituir** un comité de crisis con autoridad, matriz de responsabilidades y protocolo de escalamiento por niveles.
 
 ## 🧭 Agenda
 
@@ -108,6 +109,23 @@ Cuando aparece una alegación sobre una persona clave, el error habitual es mezc
 
 **Presunción de inocencia y proporcionalidad:** las medidas cautelares (limitar acceso, reasignar funciones) no son sanciones. **Reputación:** callar y sobreexplicar dañan por igual; la regla es decir lo que se sabe, lo que no se sabe y qué se está haciendo. La conducta íntima de una persona no justifica por sí sola una sanción laboral; la justifica, en su caso, un **riesgo concreto para el cargo, la información o la organización**, evaluado con proceso y evidencia.
 
+### Comité de crisis: composición, autoridad y matriz de responsabilidades
+
+Un comité de crisis es útil solo si su **autoridad está definida antes** del incidente. Decide quién lo preside, quién puede activar, qué decisiones toma sin consultar y cuáles escalan al directorio.
+
+| Rol | Responsabilidad | Autoridad |
+|---|---|---|
+| **Presidencia del comité (CEO o delegado)** | Decide y responde por la decisión. | Aprobar acciones de alto impacto y mensajes principales. |
+| **Operación / técnico** | Contener y diagnosticar. | Ejecutar medidas técnicas preaprobadas. |
+| **Legal y cumplimiento** | Obligaciones de notificación y preservación. | Vetar un mensaje que cree un riesgo legal indebido; no decidir por el comité. |
+| **Personas** | Protección de trabajadores y trato laboral. | Proponer medidas de personas. |
+| **Comunicaciones y vocería** | Mensaje único y calendario. | Publicar solo lo aprobado. |
+| **Secretaría** | Registro de decisiones y hechos. | Custodiar la bitácora. |
+
+**Matriz de responsabilidades:** para cada decisión, un solo **responsable que decide**, los que **deben ser consultados**, los que **solo se informan** y quién **ejecuta**. Evita dos decisores y evita que el área jurídica o la de comunicaciones sustituyan el juicio ejecutivo.
+
+**Protocolo de escalamiento** por niveles: `Nivel 1 (operación) → Nivel 2 (gerencia) → Nivel 3 (comité de crisis) → Nivel 4 (directorio)`, con criterio de paso explícito (afectación a clientes, datos personales, regulador, riesgo para personas, exposición pública). Caso de práctica: **filtración de datos de clientes** — decide qué activa el Nivel 3, qué se comunica a clientes y a la autoridad según la norma aplicable que debes verificar, y quién firma cada mensaje.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -176,6 +194,7 @@ Entrega un **decision brief de crisis, incidentes y escalamiento** que contenga:
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
 7. Redacta la tabla de hechos y alegaciones de un caso público y un mensaje que no adelante conclusiones.
+8. Diseña un comité de crisis para una filtración de datos con matriz de responsabilidades y criterio para pasar de nivel.
 
 ## ⚠️ Errores frecuentes
 

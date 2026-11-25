@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **clasificar reversibilidad → buscar downside y alternativas → activar challenge independiente → fraccionar compromiso si es posible → definir stop rule y decision log**. Debes utilizar o diseñar cómo obtener **downside exposure, option value, red-team findings**. Compara los cuatro escenarios con protección, riesgo y condición de cambio; fija qué evidencia y fecha reabren la decisión. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **clasificar reversibilidad → buscar downside y alternativas → activar challenge independiente → fraccionar compromiso si es posible → definir stop rule y decision log**. Debes utilizar o diseñar cómo obtener **downside exposure, option value, red-team findings**. Compara los cuatro escenarios con protección, riesgo y condición de cambio; fija qué evidencia y fecha reabren la decisión. Registra qué interés cedió y por qué, y define supervisión humana y responsable ante el afectado cuando un sistema de IA participa en la decisión. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

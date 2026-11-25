@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** referencias recibidas, consultas entrantes por tema, portafolio actualizado sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Distinguir** marca de reputación y construir un registro de evidencia reputacional que evolucione con el rol.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,23 @@ La síntesis de **marca profesional basada en evidencia** no consiste en sumar c
 
 Aplica ahora la secuencia **1. definir qué problema quieres que te asocien → 2. inventariar resultados y artefactos verificables → 3. crear pruebas públicas sin violar confidencialidad → 4. pedir referencias específicas sobre contribución → 5. alinear canales y mensajes con la evidencia**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### De la marca personal a la reputación profesional: cómo cambia al subir de rol
+
+La **marca profesional** es lo que decides mostrar; la **reputación** es lo que otros concluyen, con o sin tu intervención, a partir de tu conducta, tus decisiones y tus resultados. Esta ampliación mueve el foco de la primera a la segunda: la reputación no se declara, se **acumula como evidencia** y se pierde con más rapidez de lo que se construye.
+
+| Rol | Qué evidencia sostiene la reputación | Qué la daña con más facilidad | Quién la juzga |
+|---|---|---|---|
+| **Profesional individual** | Entregas cumplidas, calidad, honestidad al informar un error. | Promesas no cumplidas, atribuirse el trabajo ajeno. | Pares y jefatura directa. |
+| **Directivo o gerente** | Decisiones explicadas, equipos que mejoran, trato en conflicto. | Decidir sin escuchar, trasladar la culpa hacia abajo. | Equipo, pares de gerencia, dirección. |
+| **CEO** | Coherencia entre lo que dice, lo que decide y lo que asigna. | Una declaración que los hechos internos contradicen. | Directorio, empleados, clientes, reguladores, medios. |
+| **Fundador** | Cumplir con inversionistas, socios y primeros clientes cuando es costoso. | Confundir la empresa con el patrimonio propio; ocultar malas noticias a socios. | Socios, inversionistas, mercado, comunidad. |
+
+**Registro de evidencia reputacional:** lleva una bitácora con `hecho observable + fecha + quién lo puede corroborar + qué prometí y qué cumplí`. Una reputación defendible se apoya en registros, no en recuerdos favorables.
+
+Tres desigualdades guían la clase: `marca ≠ reputación`, `visibilidad ≠ credibilidad` y `ausencia de queja ≠ confianza`. Para la dimensión comercial de la marca y las señales de confianza ante clientes remite a la clase 137 y al programa de marketing; aquí se trata la reputación **de la persona** y la responsabilidad que crece con el cargo.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +182,7 @@ Entrega un **decision brief de marca profesional basada en evidencia** que conte
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Construye tu registro de evidencia reputacional con diez hechos corroborables y señala cuál se debilitaría al asumir un rol mayor.
 
 ## ⚠️ Errores frecuentes
 

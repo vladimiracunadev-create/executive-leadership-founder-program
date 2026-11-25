@@ -13,6 +13,7 @@ objectives:
   - "Interpretar referencias recibidas, consultas entrantes por tema, portafolio actualizado sin atribuir causalidad automática."
   - "Resolver el caso de marca profesional basada en evidencia con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir marca de reputación y construir un registro de evidencia reputacional que evolucione con el rol."
 deliverable: "commercial-decision-brief.md"
 references:
   - "Peter F. Drucker — *The Effective Executive*"
@@ -29,3 +30,5 @@ evidence_signals:
   - "portafolio actualizado"
   - "conversión de conversaciones a oportunidades"
   - "consistencia entre relato y evidencia"
+  - "reputation evidence log"
+  - "promise-kept ratio"

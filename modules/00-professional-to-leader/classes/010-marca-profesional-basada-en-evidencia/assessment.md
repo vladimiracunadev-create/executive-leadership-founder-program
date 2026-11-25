@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir qué problema quieres que te asocien → inventariar resultados y artefactos verificables → crear pruebas públicas sin violar confidencialidad → pedir referencias específicas sobre contribución → alinear canales y mensajes con la evidencia**. Debes utilizar o diseñar cómo obtener **referencias recibidas, consultas entrantes por tema, portafolio actualizado**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **definir qué problema quieres que te asocien → inventariar resultados y artefactos verificables → crear pruebas públicas sin violar confidencialidad → pedir referencias específicas sobre contribución → alinear canales y mensajes con la evidencia**. Debes utilizar o diseñar cómo obtener **referencias recibidas, consultas entrantes por tema, portafolio actualizado**. Muestra el registro de evidencia reputacional y cómo cambia la reputación defendible entre profesional, directivo, CEO y fundador. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

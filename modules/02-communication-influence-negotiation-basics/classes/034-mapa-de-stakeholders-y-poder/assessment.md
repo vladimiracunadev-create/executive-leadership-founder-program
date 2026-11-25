@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **identificar afectados y decisores → mapear poder, interés y legitimidad → entender objetivos y temores → definir engagement por segmento → actualizar mapa cuando cambien coaliciones**. Debes utilizar o diseñar cómo obtener **stakeholders omitidos, decisiones bloqueadas tarde, tiempo de aprobación**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **identificar afectados y decisores → mapear poder, interés y legitimidad → entender objetivos y temores → definir engagement por segmento → actualizar mapa cuando cambien coaliciones**. Debes utilizar o diseñar cómo obtener **stakeholders omitidos, decisiones bloqueadas tarde, tiempo de aprobación**. Califica poder, legitimidad y urgencia de cada interesado y propone la gestión de una relación con una autoridad o con un socio en tensión. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

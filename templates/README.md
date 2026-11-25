@@ -1,6 +1,6 @@
 # 🧰 Plantillas de trabajo ejecutivo
 
-Las **39 plantillas** que el programa usa como entregable. No son formularios
+Las **45 plantillas** que el programa usa como entregable. No son formularios
 para rellenar y archivar: son la forma en que una decisión queda trazable y
 puede defenderse meses después ante quien pregunte por qué se hizo así.
 
@@ -54,6 +54,17 @@ Herramientas de trabajo continuo, no de una decisión puntual.
 - [Auditoría del protocolo Ley Karin](law-karin-protocol-audit.md)
 - [Gobernanza de seguridad y salud ocupacional](occupational-safety-governance.md)
 - [Checklist de riesgo en término de contrato](termination-risk-checklist.md)
+
+## 🛡️ Reputación y crisis
+
+Se usan con las clases 034, 137, 190 y 200 y con
+[docs/REPUTATION_AND_CRISIS_LEADERSHIP.md](../docs/REPUTATION_AND_CRISIS_LEADERSHIP.md).
+
+- [Acta del comité de crisis](crisis-committee-charter.md)
+- [Manual de vocería ejecutiva](executive-spokesperson-manual.md)
+- [Mapa de interesados y legitimidad](stakeholder-legitimacy-map.md)
+- [Plan de reparación de confianza](trust-repair-plan.md)
+- [Ficha de influencia y conflictos](influence-and-conflict-disclosure-brief.md)
 
 ## 🔒 Antes de guardar una plantilla rellenada
 

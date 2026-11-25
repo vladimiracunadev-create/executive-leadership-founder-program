@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **proteger seguridad inmediata → activar protocolo y responsables → separar hechos de rumores → comunicar lo necesario con empatía → hacer seguimiento y aprender sin revictimizar**. Debes utilizar o diseñar cómo obtener **tiempo de respuesta, personas protegidas, rumores**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **proteger seguridad inmediata → activar protocolo y responsables → separar hechos de rumores → comunicar lo necesario con empatía → hacer seguimiento y aprender sin revictimizar**. Debes utilizar o diseñar cómo obtener **tiempo de respuesta, personas protegidas, rumores**. Elige entre las tres respuestas defendibles al conflicto con trabajadores, sustenta la elección y explica sus consecuencias. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

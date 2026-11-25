@@ -35,16 +35,16 @@
 | Evaluaciones de clase | 288 |
 | Proyectos de parte | 24 |
 | Casos integradores | 24 |
-| Plantillas de trabajo | 41 |
+| Plantillas de trabajo | 45 |
 | Escenarios del simulador | 48 |
-| Documentos Markdown | 825 |
+| Documentos Markdown | 830 |
 
 ## 📚 Densidad del material
 
 | Métrica | Valor |
 |---|---:|
-| Palabras en las clases | 1.027.796 |
-| Palabras por clase | 3.315–5.222 (mediana 3.546) |
+| Palabras en las clases | 1.030.505 |
+| Palabras por clase | 3.315–5.222 (mediana 3.550) |
 | Subsecciones de desarrollo por clase | 6–14 |
 | Referencias citadas al cierre de clase | 3.203 |
 | Referencias por clase | 11–17 (mediana 11) |

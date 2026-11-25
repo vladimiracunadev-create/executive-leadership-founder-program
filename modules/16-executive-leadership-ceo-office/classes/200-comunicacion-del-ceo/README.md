@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** message recall, employee understanding, investor questions sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Preparar** un manual de vocería, responder preguntas difíciles sin ocultar incertidumbre y planificar el reemplazo de un vocero.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,24 @@ La síntesis de **comunicación del CEO** no consiste en sumar cinco definicione
 
 Aplica ahora la secuencia **1. definir objetivo y audiencia → 2. estructurar situación elección evidencia → 3. anticipar preguntas y objeciones → 4. alinear mensajes entre canales → 5. cerrar con acción y seguimiento**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Vocería ejecutiva: entrevistas, declaraciones y el reemplazo de un vocero
+
+La comunicación del CEO se somete a su prueba más dura cuando hay una **declaración controvertida** o una pregunta que el CEO no quiere responder. Esta ampliación entrena el oficio, no el espectáculo.
+
+**Manual de vocería ejecutiva (contenido mínimo):** `1) Quién habla y por qué. 2) Mensaje central en una frase verificable. 3) Tres hechos que lo sostienen. 4) Lo que aún no se sabe. 5) Preguntas difíciles anticipadas con respuesta. 6) Lo que no se dirá y por qué. 7) Cómo se corrige un error propio en público.`
+
+| Pregunta difícil | Respuesta débil | Respuesta defendible |
+|---|---|---|
+| «¿Sabía de esto antes?» | Evasiva o negación sin respaldo. | Hecho comprobable, fecha, y qué se revisa. |
+| «¿Renunciará?» | Desvío. | Responder qué decide y quién, sin prometer lo que no controla. |
+| «¿Cuántos afectados?» | Una cifra no verificada. | La cifra confirmada, el rango probable y cuándo se actualizará. |
+
+**Caso: el CEO realiza una declaración controvertida.** Opciones defendibles: mantener la postura y explicarla; aclarar el sentido y corregir lo inexacto; retractarse y disculparse. La elección depende de si la declaración fue **inexacta**, **mal expresada** o **correcta pero discutida**. Retractar lo que es cierto daña la credibilidad tanto como sostener lo que es falso. Registra la fecha en que se corrigió un dato erróneo: quien corrige a tiempo, conserva autoridad.
+
+**Caso: renuncia o reemplazo de un vocero.** Un vocero que se va se lleva la relación con los medios y el conocimiento de los hechos. Prepara: traspaso de mensajes y relaciones, sucesor entrenado, un solo vocero provisional y explicación honesta del cambio sin sugerir causas que no se conocen. **Ejercicio de entrevista:** graba una respuesta de dos minutos a una pregunta hostil; evalúa con la rúbrica de la clase 202 si separaste hecho, límite de información y compromiso.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +183,7 @@ Entrega un **decision brief de comunicación del CEO** que contenga: (a) hechos 
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Responde en dos minutos a una pregunta hostil separando hecho, límite de información y compromiso, y evalúa la respuesta.
 
 ## ⚠️ Errores frecuentes
 

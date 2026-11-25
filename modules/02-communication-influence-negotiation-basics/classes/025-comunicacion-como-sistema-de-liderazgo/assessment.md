@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir propósito y audiencia → seleccionar canal según ambigüedad y sensibilidad → estructurar mensaje y contexto → confirmar comprensión y decisión → cerrar con owner, acción y registro**. Debes utilizar o diseñar cómo obtener **preguntas aclaratorias, retrabajo por malentendido, tiempo de decisión**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **definir propósito y audiencia → seleccionar canal según ambigüedad y sensibilidad → estructurar mensaje y contexto → confirmar comprensión y decisión → cerrar con owner, acción y registro**. Debes utilizar o diseñar cómo obtener **preguntas aclaratorias, retrabajo por malentendido, tiempo de decisión**. Adapta el mismo hecho a una audiencia interna y otra externa y declara explícitamente la incertidumbre y la fecha de actualización. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

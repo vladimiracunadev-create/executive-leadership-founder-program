@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir situaciones de compra → construir activos consistentes → añadir pruebas y señales → alinear experiencia con promesa → medir recuerdo, confianza y conversión**. Debes utilizar o diseñar cómo obtener **brand awareness, share of search, direct traffic**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **definir situaciones de compra → construir activos consistentes → añadir pruebas y señales → alinear experiencia con promesa → medir recuerdo, confianza y conversión**. Debes utilizar o diseñar cómo obtener **brand awareness, share of search, direct traffic**. Entrega un plan de reparación de confianza con hitos, evidencia verificable por un tercero y métrica de sostenimiento. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

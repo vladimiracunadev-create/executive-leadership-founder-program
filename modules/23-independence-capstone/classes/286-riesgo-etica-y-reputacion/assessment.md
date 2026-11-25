@@ -16,7 +16,7 @@ Construye dos alternativas plausibles. Para cada una indica beneficio esperado, 
 
 ## C. Método y evidencia — 30 %
 
-Aplica **identificar stakeholders y deberes → declarar conflictos y límites → proteger datos e IP → hacer claims verificables → crear incident y escalation process**. Debes utilizar o diseñar cómo obtener **complaints, conflict disclosures, security incidents**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Aplica **identificar stakeholders y deberes → declarar conflictos y límites → proteger datos e IP → hacer claims verificables → crear incident y escalation process**. Debes utilizar o diseñar cómo obtener **complaints, conflict disclosures, security incidents**. Entrega la simulación integrada con hechos, decisión, comunicación y plan de reparación verificable, y explica qué evidencia reabriría la decisión. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
 
 ## D. Fuentes, límites y red team — 15 %
 

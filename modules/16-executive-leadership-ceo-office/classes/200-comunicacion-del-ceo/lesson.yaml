@@ -13,6 +13,7 @@ objectives:
   - "Interpretar message recall, employee understanding, investor questions sin atribuir causalidad automática."
   - "Resolver el caso de comunicación del CEO con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Preparar un manual de vocería, responder preguntas difíciles sin ocultar incertidumbre y planificar el reemplazo de un vocero."
 deliverable: "board-or-executive-memo.md"
 references:
   - "Ben Horowitz — *The Hard Thing About Hard Things*"
@@ -29,3 +30,5 @@ evidence_signals:
   - "investor questions"
   - "trust"
   - "commitment follow-through"
+  - "spokesperson readiness"
+  - "correction timeliness"

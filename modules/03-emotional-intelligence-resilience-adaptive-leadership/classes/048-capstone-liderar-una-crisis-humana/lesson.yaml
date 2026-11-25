@@ -13,6 +13,7 @@ objectives:
   - "Interpretar tiempo de respuesta, personas protegidas, rumores sin atribuir causalidad automática."
   - "Resolver el caso de capstone: liderar una crisis humana con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Conducir un conflicto público con trabajadores con diálogo, proporcionalidad y ausencia de represalia."
 deliverable: "leadership-decision-brief.md"
 references:
   - "Daniel Goleman — *Emotional Intelligence*"
@@ -29,3 +30,5 @@ evidence_signals:
   - "rumores"
   - "cumplimiento de protocolo"
   - "acciones de seguimiento"
+  - "grievance response time"
+  - "non-retaliation record"

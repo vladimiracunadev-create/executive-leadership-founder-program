@@ -13,6 +13,7 @@ objectives:
   - "Interpretar brand awareness, share of search, direct traffic sin atribuir causalidad automática."
   - "Resolver el caso de marca y señales de confianza con dos alternativas y trade-offs."
   - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Diseñar un plan de reparación de confianza con reconocimiento, corrección, reparación y verificación independiente."
 deliverable: "commercial-decision-brief.md"
 references:
   - "Philip Kotler & Kevin Lane Keller — *Marketing Management*"
@@ -29,3 +30,5 @@ evidence_signals:
   - "direct traffic"
   - "trust conversion"
   - "promise failures"
+  - "trust repair milestones"
+  - "third-party verification"

@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** tiempo de respuesta, personas protegidas, rumores sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Conducir** un conflicto público con trabajadores con diálogo, proporcionalidad y ausencia de represalia.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,22 @@ La síntesis de **capstone: liderar una crisis humana** no consiste en sumar cin
 
 Aplica ahora la secuencia **1. proteger seguridad inmediata → 2. activar protocolo y responsables → 3. separar hechos de rumores → 4. comunicar lo necesario con empatía → 5. hacer seguimiento y aprender sin revictimizar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Liderar una crisis humana: el conflicto público con trabajadores
+
+En una crisis humana el activo en riesgo son las personas, y la reputación se juega en cómo se las trata cuando hay conflicto visible. Esta ampliación aplica el capstone a un **conflicto público con trabajadores** (paro, denuncia colectiva, publicación de reclamos).
+
+`1) Reconocer el reclamo sin aceptar ni rechazar de inmediato su contenido. 2) Abrir un canal de diálogo con interlocutores definidos. 3) Separar lo que es negociable de lo que es obligación legal. 4) Cuidar a quienes no participan y a quienes lideran el reclamo, sin represalia. 5) Comunicar con el mismo hecho hacia dentro y hacia fuera. 6) Registrar compromisos y fecha de seguimiento.`
+
+| Decisión defendible | Qué protege | Qué arriesga | Cuándo conviene |
+|---|---|---|---|
+| **Reunirse de inmediato con representantes** | Confianza y desescalada. | Parecer que se cede bajo presión. | El reclamo es verificable y hay interlocutor legítimo. |
+| **Pedir primero una revisión de hechos y responder en 48 horas** | Precisión de lo que se promete. | Silencio percibido como desprecio. | Los datos son confusos o discutidos. |
+| **Responder públicamente con hechos y abrir mesa** | Narrativa propia y transparencia. | Que el mensaje público endurezca posiciones. | Ya hay cobertura y el silencio se leerá como evasión. |
+
+Dos criterios guían la elección: **proporcionalidad** (la respuesta debe corresponder a la gravedad del reclamo, no a su visibilidad) y **ausencia de represalia** (cualquier medida posterior contra quienes reclamaron será leída como castigo aunque tenga otra causa; documenta el motivo distinto antes de actuar). La norma laboral aplicable debe verificarse con asesoría; esta clase no la reemplaza.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +181,7 @@ Entrega un **decision brief de capstone: liderar una crisis humana** que conteng
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Resuelve un conflicto público con trabajadores eligiendo una de tres respuestas defendibles y defiende por qué no eligió las otras.
 
 ## ⚠️ Errores frecuentes
 

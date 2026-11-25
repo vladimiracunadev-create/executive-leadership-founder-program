@@ -20,6 +20,7 @@ Al finalizar podrás:
 4. **Interpretar** stakeholders omitidos, decisiones bloqueadas tarde, tiempo de aprobación sin confundir señal, explicación y causalidad.
 5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
 6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+7. **Evaluar** poder, legitimidad y urgencia de cada interesado y diseñar la relación institucional previa a una crisis.
 
 ## 🧭 Agenda
 
@@ -97,6 +98,24 @@ La síntesis de **mapa de stakeholders y poder** no consiste en sumar cinco defi
 
 Aplica ahora la secuencia **1. identificar afectados y decisores → 2. mapear poder, interés y legitimidad → 3. entender objetivos y temores → 4. definir engagement por segmento → 5. actualizar mapa cuando cambien coaliciones**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
 
+## 🔧 Profundización específica
+
+### Interesados, legitimidad y asuntos corporativos desde la dirección
+
+Un mapa de interesados responde a quién puede afectar a la organización o ser afectado por ella. Esta ampliación añade una pregunta que el poder no contesta: **¿con qué legitimidad actúa quien reclama?** Un actor puede tener **poder** (capacidad de imponer), **legitimidad** (reclamo reconocido como apropiado) y **urgencia** (el asunto no admite espera). La combinación de los tres decide cuánta atención exige.
+
+| Actor | Poder | Legitimidad | Urgencia | Qué cambia en la gestión |
+|---|---|---|---|---|
+| **Regulador o autoridad** | Alto | Alta, por mandato | Variable | Relación preventiva, registro de contactos, vocería única. |
+| **Trabajadores y sindicatos** | Medio | Alta | A menudo alta | Diálogo formal y verificable; sin represalias. |
+| **Socios e inversionistas** | Alto | Alta | Media | Información simétrica; sin mensajes distintos por socio. |
+| **Medios y comunidad** | Variable | Variable | Alta | Respuesta factual y canal definido. |
+| **Clientes** | Medio | Alta | Variable | Reparación y comunicación directa. |
+
+**Asuntos corporativos y relaciones institucionales** son la función que sostiene la relación con autoridades, gremios y comunidades **antes** de que haya una crisis. Desde un cargo directivo implican: un responsable nombrado, un registro de reuniones y solicitudes, coherencia entre lo que se dice a la autoridad y al mercado, y una regla de **no gestionar a un regulador como si fuera un adversario**. La confianza institucional se construye en tiempos normales; en una investigación ya no hay tiempo de empezar.
+
+**Dos casos para razonar.** *Conflicto con una autoridad:* se recibe un requerimiento que la empresa cree desproporcionado. Opciones defendibles: cumplir y reservar observaciones, cumplir y solicitar aclaración formal, o impugnar por la vía correspondiente; en las tres se conserva la cooperación y se evita el mensaje público hostil. *Crisis de confianza entre socios:* uno sospecha que el otro ocultó información. Se separa lo verificable de lo supuesto, se pide una revisión independiente de los registros y se acuerda por escrito quién informa a quién y cuándo, antes de discutir culpas.
+
 ## 📚 Lectura comparada
 
 Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
@@ -164,6 +183,7 @@ Entrega un **decision brief de mapa de stakeholders y poder** que contenga: (a) 
 4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
 5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
 6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+7. Mapea cinco interesados con poder, legitimidad y urgencia y define cuál relación institucional debe existir antes de una crisis.
 
 ## ⚠️ Errores frecuentes
 

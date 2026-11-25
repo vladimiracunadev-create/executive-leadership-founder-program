@@ -1,64 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g91 d-g91" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g91">Ficha visual de la clase 091: Calidad y variabilidad</title>
-<desc id="d-g91">Conceptos: quality; variation; common cause; special cause; first-pass yield. Método: definir características críticas → medir proceso en el tiempo → distinguir causas comunes y especiales → corregir causa adecuada → estandarizar mejora y monitorear.</desc>
-<defs><marker id="p-g91" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 091 · Calidad y variabilidad</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 07 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >quality</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >grado de conformidad con requisitos y aptitud para uso</text>
-<circle cx="38" cy="170" r="5" fill="#0969da"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >variation</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >diferencia natural o especial entre resultados del</text>
-<text x="54" y="209.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >proceso</text>
-<circle cx="38" cy="242.12" r="5" fill="#0969da"/>
-<text x="54" y="247.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >common cause</text>
-<text x="54" y="265.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >variación inherente al sistema actual</text>
-<circle cx="38" cy="300.12" r="5" fill="#0969da"/>
-<text x="54" y="305.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >special cause</text>
-<text x="54" y="323.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >evento identificable fuera del patrón estable</text>
-<circle cx="38" cy="358.12" r="5" fill="#0969da"/>
-<text x="54" y="363.12" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >first-pass yield</text>
-<text x="54" y="381.12" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >porcentaje que cumple sin rework</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<rect x="470" y="104" width="542" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.98"/>
-<text x="484" y="124" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >1</text>
-<text x="504" y="124" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >definir características críticas</text>
-<rect x="487" y="160" width="508" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.9099999999999999"/>
-<text x="501" y="180" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >2</text>
-<text x="521" y="180" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >medir proceso en el tiempo</text>
-<rect x="504" y="216" width="474" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.84"/>
-<text x="518" y="236" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >3</text>
-<text x="538" y="236" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >distinguir causas comunes y especiales</text>
-<rect x="521" y="272" width="440" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.77"/>
-<text x="535" y="292" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >4</text>
-<text x="555" y="292" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >corregir causa adecuada</text>
-<rect x="538" y="328" width="406" height="50" rx="9" fill="#0969da" stroke="#0969da" stroke-width="0" fill-opacity="0.7"/>
-<text x="552" y="348" font-size="13" font-weight="800" fill="#ffffff" text-anchor="start" >5</text>
-<text x="572" y="348" font-size="12.5" font-weight="600" fill="#ffffff" text-anchor="start" >estandarizar mejora y monitorear</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="101.9" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >defect rate</text>
-<rect x="139.9" y="442.12" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="152.9" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="163.9" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >first-pass yield</text>
-<rect x="286.3" y="442.12" width="67.4" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="299.3" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="310.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >rework</text>
-<rect x="363.7" y="442.12" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="376.7" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="387.7" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >control limits</text>
-<rect x="496.3" y="442.12" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="509.3" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="520.3" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >customer complaints</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >No conviertas calidad en solo conformidad interna. Un proceso estable puede producir consistentemente algo que el cliente no necesita;</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >conecta control con valor y outcome.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 456.81" width="1040" role="img" aria-labelledby="t-s91 d-s91" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s91">Clase 091 · Dos clases de variación que se tratan de forma distinta</title>
+<desc id="d-s91">Variación por causas comunes, propia del sistema, frente a variación por causas especiales, que viene de un hecho identificable.</desc>
+<defs><marker id="p-s91" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="456.81" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 091 · Dos clases de variación que se tratan de forma distinta</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Deming (1986) · Wheeler &amp; Chambers (1992)</text>
+<text x="28" y="90" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CAUSAS COMUNES</text>
+<rect x="28" y="104" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.7" />
+<rect x="28.0" y="104" width="6" height="63.25" rx="3" fill="#0969da"/>
+<text x="46" y="126" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Naturaleza</text>
+<text x="46" y="144" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Variación inherente al sistema; siempre está presente.</text>
+<rect x="28" y="177.25" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.7" />
+<rect x="28.0" y="177.25" width="6" height="63.25" rx="3" fill="#0969da"/>
+<text x="46" y="199.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Señal en el gráfico</text>
+<text x="46" y="217.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Los puntos se mueven dentro de los límites de control.</text>
+<rect x="28" y="250.5" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.7" />
+<rect x="28.0" y="250.5" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<text x="46" y="272.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Respuesta</text>
+<text x="46" y="290.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Cambiar el sistema; reaccionar a cada punto empeora.</text>
+<text x="532" y="90" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CAUSAS ESPECIALES</text>
+<rect x="532" y="104" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.7" />
+<rect x="532.0" y="104" width="6" height="63.25" rx="3" fill="#cf222e"/>
+<text x="550" y="126" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Naturaleza</text>
+<text x="550" y="144" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Un hecho concreto que no es parte normal del proceso.</text>
+<rect x="532" y="177.25" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.7" />
+<rect x="532.0" y="177.25" width="6" height="63.25" rx="3" fill="#cf222e"/>
+<text x="550" y="199.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Señal en el gráfico</text>
+<text x="550" y="217.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Un punto fuera de límites o un patrón anómalo.</text>
+<rect x="532" y="250.5" width="480" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.7" />
+<rect x="532.0" y="250.5" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<text x="550" y="272.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Respuesta</text>
+<text x="550" y="290.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Investigar y eliminar o incorporar la causa.</text>
+<rect x="28" y="329.75" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="351.75" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Confundir ambas lleva a culpar a personas por la variación del sistema o a no investigar un hecho real. El gráfico de control sirve</text>
+<text x="44" y="369" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >para distinguirlas.</text>
+<text x="28" y="416.25" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Un proceso estable puede ser malo: estable significa predecible, no aceptable. La capacidad se compara luego con la exigencia del cliente.</text>
 </svg>

@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **demand rate** de **capacity rate** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **utilization** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **queue** con **buffer**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué diferencia hay entre capacidad nominal y útil?
+2. ¿Por qué se mide la demanda con llegadas y no con ventas?
+3. ¿Qué ocurre con las esperas cuando la utilización se acerca al 100 %?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un equipo procesa en promedio 100 solicitudes semanales y recibe 98. Dirección concluye que hay capacidad suficiente, pero la llegada varía entre 70 y 140 y la cola crece cada fin de mes.
+**Caso:** Una empresa de reparto de comida a domicilio crece 15 % mensual. En horas pico (almuerzo y cena) los repartidores no alcanzan; el tiempo de entrega pasa de 30 a 55 minutos y los pedidos cancelados suben. En horas valle hay repartidores ociosos. Operaciones propone contratar el doble; finanzas, no contratar y subir precios; marketing quiere lanzar promociones para llenar los valles. Los repartidores piden turnos más estables.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **medir demanda por tipo y periodo → medir capacidad efectiva → segmentar variabilidad y picos → diseñar buffer o flex capacity → regular ingreso cuando supera sistema**. Debes utilizar o diseñar cómo obtener **utilization, queue length, wait time**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de capacidad y demanda** que incluya: (a) la capacidad útil y la demanda por franja con escenarios; (b) la brecha en cada franja; (c) las estrategias de ajuste evaluadas con su costo y su efecto en el tiempo de entrega; (d) cómo se decide la holgura según el costo de una entrega tardía; (e) el efecto en las personas y las condiciones legales a verificar; (f) las señales que dispararían una revisión. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Más buffer cuesta dinero. La meta no es baja utilización universal, sino equilibrar costo de capacidad con costo de espera, pérdida de demanda y criticidad.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Las cifras de capacidad útil dependen del período medido y de la mezcla de trabajo.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

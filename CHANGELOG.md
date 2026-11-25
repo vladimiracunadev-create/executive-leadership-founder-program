@@ -39,6 +39,10 @@
   diagrama a medida (riqueza del canal, tipos de pregunta, pirámide, lámina de
   decisión, SUCCES, niveles de feedback, camino a la acción, conflicto de tarea y
   relación, persuasión y coerción, ajuste de contexto, cuatro justicias).
+- **La parte 07 completa** (085–096): la empresa como sistema, mapeo de procesos, SOP, capacidad y demanda,
+  teoría de restricciones, lean, variabilidad y control estadístico, niveles de servicio (SLI, SLO, SLA),
+  proveedores y terceros, continuidad, automatización y capstone de rediseño; cada clase con fuentes
+  verificadas y un diagrama a medida.
 - **La parte 06 completa** (073–084): tipos de trabajo, alcance y éxito, descomposición, estimación con visión
   desde afuera (Buehler, Flyvbjerg), riesgos, Agile, Scrum, Kanban y ley de Little, gobernanza, calidad y
   recuperación de proyectos; cada clase con fuentes verificadas y un diagrama a medida.

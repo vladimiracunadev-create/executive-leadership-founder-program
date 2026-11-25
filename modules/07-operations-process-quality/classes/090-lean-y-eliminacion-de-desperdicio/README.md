@@ -10,217 +10,188 @@
 
 ## 🎯 Propósito
 
-Lean entiende desperdicio como consumo de recursos que no crea valor para el cliente y puede reducirse sin dañar seguridad o calidad. Mejora flujo, calidad en origen y aprendizaje continuo. El objetivo no es recortar personas sino eliminar trabajo inútil y usar capacidad liberada para más valor.
+Lean suele resumirse como «eliminar desperdicio», y esa frase ha servido tanto para mejorar operaciones como para justificar recortes ciegos. Su idea original es más exigente: **definir valor desde el cliente, ver el flujo completo que lo produce, hacer que el trabajo fluya sin interrupciones, producir solo lo que se necesita cuando se necesita y mejorar de forma continua**. El desperdicio es todo lo que consume recursos sin agregar algo que el cliente valore, y casi siempre vive en la espera y los traspasos más que en el esfuerzo de las personas.
 
-La salida de esta parte es **operar procesos end-to-end con capacidad, calidad, continuidad y mejora**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **lean y eliminación de desperdicio** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en *Lean Thinking* de Womack y Jones, en el sistema de producción de Toyota descrito por Ohno, en la guía de mapeo de flujo de valor de Rother y Shook y en la lectura crítica de Liker. Al terminar sabrás identificar formas de desperdicio con señales observables, construir un mapa de flujo de valor simple, proponer mejoras que no dañen calidad ni seguridad y distinguir lean de austeridad.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `valor`, `waste`, `flow`, `pull`, `kaizen` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. definir valor desde cliente → 2. mapear value stream → 3. identificar espera, defectos y exceso → 4. reducir lotes y crear pull → 5. estandarizar mejora y repetir** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** lead time, first-pass yield, WIP sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Distinguir** valor, trabajo necesario sin valor y desperdicio según el cliente.
+2. **Reconocer** las formas de desperdicio con señales observables.
+3. **Aplicar** la secuencia: valor, flujo de valor, flujo, tracción y mejora continua.
+4. **Interpretar** tiempo de entrega, rendimiento a la primera y trabajo en curso sin atribuir causalidad automática.
+5. **Diferenciar** lean de recorte de costos y evitar eliminar capacidad protectora.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define valor y waste sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con lead time y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué paso de tu proceso haces solo porque «siempre se ha hecho»? |
+| 20–60 min | Valor, desperdicios, flujo y tracción. |
+| 60–105 min | Ejemplo trabajado: un proceso de aprobación de facturas. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **valor** | resultado por el que el cliente reconoce utilidad | Distingue un hecho compatible y otro que lo refute. |
-| **waste** | actividad que consume recursos sin crear valor necesario | Distingue un hecho compatible y otro que lo refute. |
-| **flow** | movimiento continuo con mínimas esperas y lotes | Distingue un hecho compatible y otro que lo refute. |
-| **pull** | producción disparada por demanda real | Distingue un hecho compatible y otro que lo refute. |
-| **kaizen** | mejora continua mediante cambios pequeños basados en observación | Distingue un hecho compatible y otro que lo refute. |
+| **Valor** | Lo que el cliente reconocería y pagaría. | Se define desde afuera del proceso. |
+| **Desperdicio (muda)** | Actividad que consume recursos sin agregar valor para el cliente. | Espera, retrabajo, exceso, traspasos. |
+| **Mapa de flujo de valor** | Diagrama del flujo con tiempos de trabajo y de espera. | Muestra la proporción de tiempo con valor. |
+| **Tracción (pull)** | Se produce lo que el siguiente paso o el cliente pide. | Se evita producir por pronóstico. |
+| **Rendimiento a la primera (first-pass yield)** | Proporción de unidades que salen bien sin retrabajo. | Se mide por etapa. |
+| **Mejora continua (kaizen)** | Cambios pequeños y constantes hechos por quienes trabajan en el proceso. | Hay un ritmo regular de propuestas probadas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 090: 1. definir valor desde cliente → 2. mapear value stream → 3. identificar espera, defectos y exceso → 4. reducir lotes y crear pull → 5. estandarizar mejora y repetir](modelo-mental.svg)
+![Seis formas de desperdicio, con la señal observable de cada una y un ejemplo de oficina o servicio.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir valor desde cliente → 2. mapear value stream → 3. identificar espera, defectos y exceso → 4. reducir lotes y crear pull → 5. estandarizar mejora y repetir
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Lean entiende desperdicio como consumo de recursos que no crea valor para el cliente y puede reducirse sin dañar seguridad o calidad. Mejora flujo, calidad en origen y aprendizaje continuo. El objetivo no es recortar personas sino eliminar trabajo inútil y usar capacidad liberada para más valor.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Lean no es austeridad. Eliminar capacidad protectora sin comprender variabilidad puede hacer el sistema frágil; seguridad y calidad no son desperdicio.**
+**Cómo leer el diagrama.** Cada fila es una forma de desperdicio con la señal que permite verla y un ejemplo de servicio u oficina, donde casi todo el desperdicio está en el papeleo, las colas y las revisiones. El diagrama no sirve para repartir culpas, sino para entrenar la mirada: se busca dónde espera el trabajo, no dónde trabaja la gente.
 
 ## 📖 Desarrollo
 
-### 1. valor: mecanismo central
+### 1. Valor desde el cliente
 
-**valor** se entiende aquí como **resultado por el que el cliente reconoce utilidad**. Esta es la pieza causal o estructural desde la que se inicia **lean y eliminación de desperdicio**: antes de definir valor desde cliente, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Womack y Jones proponen cinco principios: especificar el **valor** desde el cliente, identificar el **flujo de valor**, hacer que el trabajo **fluya**, dejar que el cliente **tire** del producto y buscar la **perfección** mediante mejora continua. El primer principio es el más difícil: exige distinguir lo que el cliente valora de lo que la organización necesita para operar. Hay tres categorías: actividades que agregan valor, actividades que no agregan valor pero son necesarias hoy (por regulación o por limitaciones del proceso) y actividades que son puro desperdicio.
 
-La lectura rectora de este bloque es Nigel Slack & Alistair Brandon-Jones — *Operations Management*. Su aporte se usa para examinar **capacidad, procesos, variabilidad, calidad y estrategia de operaciones**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **lead time**; regístrala con periodo, unidad, población y baseline.
+### 2. Formas de desperdicio
 
-Relaciona el mecanismo con **waste**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Ohno describió siete formas en manufactura; adaptadas, las más frecuentes son: **espera** (trabajo detenido), **defectos y retrabajo**, **sobreproducción** (hacer más de lo pedido), **inventario** (trabajo acumulado entre pasos), **movimiento y transporte** (idas y vueltas, traspasos) y **sobreprocesamiento** (más pasos de los que el cliente valora). Una octava forma que suele añadirse es **no usar el talento de las personas**. En oficinas, la espera es el desperdicio dominante: solicitudes en una bandeja, aprobaciones pendientes, datos que faltan.
 
-### 2. waste: frontera conceptual y error de clasificación
+### 3. Mapa de flujo de valor
 
-**Definición operacional:** actividad que consume recursos sin crear valor necesario. Su valor está en distinguirlo de **valor** y **flow**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Rother y Shook enseñan a dibujar a mano el recorrido de un producto o servicio con **tiempo de proceso** y **tiempo de espera** en cada paso, el inventario entre pasos y el flujo de información. El mapa actual muestra cuánto del tiempo total agrega valor; el mapa futuro propone un flujo mejorado. Se dibuja en el lugar de trabajo, con quienes participan, y se fija un horizonte de mejora de pocos meses. Esta técnica conecta con el mapeo de la clase 086, con un énfasis en los tiempos y las colas.
 
-Contrasta el problema con Eliyahu M. Goldratt & Jeff Cox — *The Goal*, que aporta una mirada sobre **restricciones, throughput, inventario y pensamiento de flujo**. Formula dos mini-casos: uno que sí satisface la definición de **waste** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **first-pass yield** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Flujo, lotes y tracción
 
-Antes de mapear value stream, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Los **lotes grandes** (procesar muchas unidades juntas) generan espera y ocultan defectos: si un lote tiene un error, se descubre al final, cuando ya se repitió muchas veces. Reducir el tamaño del lote acorta el tiempo total y permite detectar problemas pronto. La **tracción** significa que cada paso produce solo cuando el siguiente lo necesita, normalmente con una señal visible (tarjeta, tablero, límite de trabajo en curso como en Kanban, clase 080). Se evita producir por pronóstico y acumular inventario que luego se vuelve obsoleto.
 
-### 3. flow: operacionalización y medición
+### 5. Calidad en la fuente
 
-**flow** significa **movimiento continuo con mínimas esperas y lotes**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Lean considera el defecto como el desperdicio más caro porque se acumula: trabajo agregado sobre algo ya defectuoso. De ahí la práctica de detectar el problema donde se origina: puntos de control en cada paso, la posibilidad de detener el trabajo cuando algo falla y a prueba de errores en el diseño (mecanismos que impiden hacerlo mal). Liker subraya que esto exige una cultura donde reportar un problema no se castiga. Medir el **rendimiento a la primera** por etapa muestra dónde nace el retrabajo.
 
-Geary A. Rummler & Alan P. Brache — *Improving Performance* orienta este bloque mediante **perspectiva de Procesos aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **WIP**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Respeto por las personas y mejora continua
 
-Al llegar a identificar espera, defectos y exceso, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+El sistema de Toyota descansa en dos pilares: mejora continua y respeto por las personas. La mejora la hacen quienes conocen el trabajo, con experimentos pequeños y rápidos (planificar, hacer, verificar, actuar). Aplicar lean como un programa de reducción de personal destruye la confianza que la mejora necesita: nadie propone una mejora que le costará su empleo. Las empresas que sostienen lean suelen acordar que las mejoras liberan capacidad para crecer o para otras tareas, no para despidos inmediatos.
 
-### 4. pull: trade-offs y efectos de segundo orden
+### 7. Lean no es austeridad
 
-**Definición:** producción disparada por demanda real. Este concepto obliga a abandonar la idea de que **lean y eliminación de desperdicio** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de reducir lotes y crear pull, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World* aporta una lente sobre **perspectiva de Lean aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **rework** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **lean y eliminación de desperdicio**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **pull** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. kaizen: gobernanza, límites e integración
-
-**kaizen** se define como **mejora continua mediante cambios pequeños basados en observación** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-ISO — *ISO 22301 Business continuity management systems* se utiliza para estudiar **sistema de gestión de continuidad y preparación ante disrupciones** y contrastar la recomendación final. Al ejecutar estandarizar mejora y repetir, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Lean no es austeridad. Eliminar capacidad protectora sin comprender variabilidad puede hacer el sistema frágil; seguridad y calidad no son desperdicio.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **valor**, **waste**, **flow**, **pull** y **kaizen** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **lean y eliminación de desperdicio** no consiste en sumar cinco definiciones. Empieza por **valor**, contrasta **waste** con **flow**, incorpora **pull** como restricción o mecanismo y usa **kaizen** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir valor desde cliente → 2. mapear value stream → 3. identificar espera, defectos y exceso → 4. reducir lotes y crear pull → 5. estandarizar mejora y repetir**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Eliminar «holgura» sin entender la variabilidad vuelve frágil al sistema: un inventario de seguridad, una capacidad de reserva o una verificación de seguridad no son desperdicio, aunque no agreguen valor visible. La pregunta correcta ante cada elemento es: ¿qué riesgo cubre y cuánto cuesta cubrirlo de otra manera? Un hospital sin camas libres, una línea sin repuestos o una operación sin respaldo pueden verse eficientes hasta que ocurre un imprevisto (clase 094). Lean busca eliminar el desperdicio, no la protección deliberada.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Nigel Slack & Alistair Brandon-Jones — *Operations Management* | capacidad, procesos, variabilidad, calidad y estrategia de operaciones | ¿Qué supuesto de **lean y eliminación de desperdicio** ayuda a desafiar? |
-| Eliyahu M. Goldratt & Jeff Cox — *The Goal* | restricciones, throughput, inventario y pensamiento de flujo | ¿Qué supuesto de **lean y eliminación de desperdicio** ayuda a desafiar? |
-| Geary A. Rummler & Alan P. Brache — *Improving Performance* | perspectiva de Procesos aplicada al problema de la clase | ¿Qué supuesto de **lean y eliminación de desperdicio** ayuda a desafiar? |
-| James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World* | perspectiva de Lean aplicada al problema de la clase | ¿Qué supuesto de **lean y eliminación de desperdicio** ayuda a desafiar? |
-| ISO — *ISO 22301 Business continuity management systems* | sistema de gestión de continuidad y preparación ante disrupciones | ¿Qué supuesto de **lean y eliminación de desperdicio** ayuda a desafiar? |
-
-En **lean y eliminación de desperdicio**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **valor**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Womack y Jones (*Lean Thinking*) | Cinco principios y casos de aplicación. | Casos de éxito seleccionados; no muestra fracasos. | ¿Qué valor reconoce tu cliente? |
+| Womack, Jones y Roos | Comparación de sistemas de producción. | Datos de un sector y época. | ¿Qué diferencias de flujo explican el resultado? |
+| Ohno | Origen del sistema y las formas de desperdicio. | Contexto japonés de posguerra. | ¿Cuál es tu desperdicio dominante? |
+| Rother y Shook | Técnica de mapeo con tiempos. | Requiere trabajo de campo. | ¿Cuál es tu proporción de tiempo con valor? |
+| Liker | Principios culturales del sistema. | Describe un caso difícil de replicar. | ¿Qué hace seguro reportar un problema? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una organización 'lean' elimina buffer y headcount sin rediseñar flujo. La utilización sube, pero incidentes y espera empeoran porque cualquier variación paraliza el proceso.
+**Situación (hipotética).** En una empresa de 500 personas, el proceso de aprobación de facturas de proveedores tarda 14 días hábiles desde la recepción hasta el pago. Los proveedores reclaman y la empresa pierde descuentos por pronto pago.
 
-**Paso 1 — definir valor desde cliente.** La gerencia escribe primero el supuesto asociado a **valor** y evita convertirlo en hecho. Luego busca **lead time** para contrastarlo en el caso de **lean y eliminación de desperdicio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Paso | Tiempo de trabajo | Espera previa | Observación |
+|---|---|---|---|
+| Recepción y registro | 10 min | 1 día | Se registra en lote al final del día |
+| Verificación contra orden | 15 min | 3 días | 22 % de las facturas tienen diferencias |
+| Aprobación del jefe | 5 min | 4 días | Se aprueba en bloque los jueves; casi el 100 % se aprueba |
+| Contabilización | 10 min | 2 días | Duplica el registro hecho en recepción |
+| Programación de pago | 5 min | 3 días | Se paga solo los miércoles |
 
-**Paso 2 — mapear value stream.** La gerencia escribe primero el supuesto asociado a **waste** y evita convertirlo en hecho. Luego busca **first-pass yield** para contrastarlo en el caso de **lean y eliminación de desperdicio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cálculo.** Tiempo de trabajo: 45 minutos; espera: 13 días. Menos del 1 % del tiempo agrega valor.
 
-**Paso 3 — identificar espera, defectos y exceso.** La gerencia escribe primero el supuesto asociado a **flow** y evita convertirlo en hecho. Luego busca **WIP** para contrastarlo en el caso de **lean y eliminación de desperdicio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Mejoras propuestas.** (1) Registrar al recibir, sin lote. (2) Evitar el 22 % de diferencias: pedir al proveedor la orden de compra en la factura y rechazar de inmediato lo que no coincida. (3) Aprobar solo por excepción: facturas con orden coincidente y bajo un monto no necesitan aprobación individual. (4) Eliminar el doble registro. (5) Pagar diariamente en vez de solo los miércoles.
 
-**Paso 4 — reducir lotes y crear pull.** La gerencia escribe primero el supuesto asociado a **pull** y evita convertirlo en hecho. Luego busca **rework** para contrastarlo en el caso de **lean y eliminación de desperdicio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado esperado y revalidación.** El tiempo total baja a 5 días en un piloto de dos meses y el rendimiento a la primera sube de 78 % a 94 %. Antes de generalizar, control interno revisa que el umbral de aprobación no abra riesgo de fraude: se mantiene una auditoría por muestreo.
 
-**Paso 5 — estandarizar mejora y repetir.** La gerencia escribe primero el supuesto asociado a **kaizen** y evita convertirlo en hecho. Luego busca **porcentaje de valor agregado** para contrastarlo en el caso de **lean y eliminación de desperdicio**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **lean y eliminación de desperdicio**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) El desperdicio estaba en la espera, no en las personas. (2) Cada mejora tuvo un riesgo que se revisó. (3) La mejora se midió en tiempo y calidad, no solo en costo.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **valor** | resultado por el que el cliente reconoce utilidad | Cuando lead time es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **waste** | actividad que consume recursos sin crear valor necesario | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Lean frente a teoría de restricciones.** Lean busca reducir el desperdicio en todo el flujo; la teoría de restricciones se concentra en el recurso que limita. Se complementan: primero se ve dónde está la restricción y se eliminan desperdicios que la afectan.
 
-**Frontera de aplicación:** Lean no es austeridad. Eliminar capacidad protectora sin comprender variabilidad puede hacer el sistema frágil; seguridad y calidad no son desperdicio.
+**Límites.** Lean nació en manufactura repetitiva; en trabajo creativo o de alta variabilidad se adapta, no se copia. Las cifras de resultados de los casos publicados no garantizan los mismos efectos en otro contexto. Medir tiempo de entrega o rendimiento a la primera describe asociaciones; no prueba por sí solo qué cambio produjo la mejora. Y recortar capacidad protectora, seguridad o calidad en nombre de lean puede hacer frágil al sistema.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre lean y eliminación de desperdicio |
+| Nivel | Cómo participa en lean |
 |---|---|
-| **Profesional** | usa **lean y eliminación de desperdicio** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **valor** y **waste** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta lead time con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si lean y eliminación de desperdicio cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de lean y eliminación de desperdicio reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **lean y eliminación de desperdicio** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Señala pasos que no agregan valor y prueba mejoras pequeñas. |
+| **Jefe / Team Lead** | Dirige sesiones de mejora y protege el tiempo para hacerlas. |
+| **Gerente** | Prioriza flujos de valor y evita metas que premian el exceso. |
+| **CEO / Director** | Sostiene la cultura de reportar problemas y de mejora sin miedo. |
+| **Founder / Owner** | Diseña desde el inicio flujos simples y evita acumular pasos por costumbre. |
 
 ## 🏢 Caso ejecutivo
 
-Una organización 'lean' elimina buffer y headcount sin rediseñar flujo. La utilización sube, pero incidentes y espera empeoran porque cualquier variación paraliza el proceso.
+Un hospital privado tiene un tiempo de espera de 4,5 horas en urgencias. La dirección, presionada por costos, propone reducir personal administrativo y camas de observación por «eficiencia lean». El jefe de urgencias muestra que los pacientes esperan principalmente resultados de exámenes, traslados internos y la disponibilidad de camas en hospitalización, y que 18 % de las órdenes de examen se rehacen por datos incompletos.
 
-Entrega un **decision brief de lean y eliminación de desperdicio** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan lean** que contenga: (a) el valor para el paciente y el mapa de flujo con tiempos de trabajo y de espera; (b) los desperdicios identificados con su señal observable; (c) las mejoras propuestas y el riesgo de cada una; (d) qué elementos que parecen holgura son protección y no se eliminan; (e) las medidas (tiempo de entrega, rendimiento a la primera, trabajo en curso) y su límite interpretativo; (f) cómo involucrarás al personal y qué compromiso se asumirá sobre las mejoras.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **lean y eliminación de desperdicio** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir valor desde cliente → 2. mapear value stream → 3. identificar espera, defectos y exceso → 4. reducir lotes y crear pull → 5. estandarizar mejora y repetir** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta lead time, first-pass yield; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Define qué valoraría el cliente de un proceso que conoces.
+2. Dibuja un mapa de flujo de valor con tiempos de trabajo y de espera.
+3. Clasifica cada paso: agrega valor, necesario sin valor o desperdicio.
+4. Propón tres mejoras y el riesgo de cada una.
+5. Identifica una «holgura» que sea protección y justifica por qué se conserva.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar valor y waste como sinónimos | Se pierde la distinción entre “resultado por el que el cliente reconoce utilidad” y “actividad que consume recursos sin crear valor necesario” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “estandarizar mejora y repetir” | Se saltó “definir valor desde cliente” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir valor desde cliente → 2. mapear value stream → 3. identificar espera, defectos y exceso → 4. reducir lotes y crear pull → 5. estandarizar mejora y repetir y marca el primer supuesto no demostrado. |
-| Optimizar solo lead time | La métrica local sustituyó al resultado del sistema | Contrástala con first-pass yield y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre lean y eliminación de desperdicio | Lean no es austeridad. Eliminar capacidad protectora sin comprender variabilidad puede hacer el sistema frágil; seguridad y calidad no son desperdicio. |
-| No fijar revisión | Una decisión sobre lean y eliminación de desperdicio se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Equiparar lean con recorte | Presión de costos | Definir valor y proteger capacidad crítica. |
+| Culpar a las personas del desperdicio | Se ve el esfuerzo, no el flujo | Buscar dónde espera el trabajo. |
+| Mapear desde la oficina | Es más rápido | Mapear en el lugar de trabajo. |
+| Lotes grandes por costumbre | Parecen eficientes | Reducir el tamaño del lote. |
+| Eliminar controles de seguridad | Se ven como desperdicio | Preguntar qué riesgo cubren. |
+| Medir solo costo | Es lo que se reporta | Medir tiempo, calidad y flujo. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **valor** y **waste** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **flow** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir valor desde cliente → mapear value stream** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **lead time** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **lean y eliminación de desperdicio**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Lean no es austeridad. Eliminar capacidad protectora sin comprender variabilidad puede hacer el sistema frágil; seguridad y calidad no son desperdicio.**?
+1. ¿Qué cinco principios plantean Womack y Jones?
+2. ¿Qué distingue el valor del trabajo necesario sin valor?
+3. Menciona cuatro formas de desperdicio y su señal observable.
+4. ¿Qué es un mapa de flujo de valor y qué muestra?
+5. ¿Por qué los lotes grandes ocultan defectos?
+6. ¿Por qué lean no es austeridad?
+7. ¿Qué límite tiene interpretar el tiempo de entrega o el rendimiento a la primera?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Especificar el valor, identificar el flujo de valor, hacer que fluya, dejar que el cliente tire y buscar la perfección.
+2. El valor es lo que el cliente reconocería; el trabajo necesario sin valor se hace por regulación o por limitaciones actuales del proceso.
+3. Por ejemplo: espera (trabajo detenido), defectos (se repite lo hecho), sobreproducción (más de lo necesario) e inventario (trabajo acumulado entre pasos).
+4. Un diagrama del flujo con tiempos de trabajo y de espera por paso; muestra qué proporción del tiempo agrega valor.
+5. Porque el error se descubre al final, cuando ya se repitió en todo el lote.
+6. Porque eliminar protección, seguridad o capacidad de reserva sin entender la variabilidad vuelve frágil el sistema.
+7. Describe asociaciones y no prueba por sí solo qué cambio causó la mejora.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/090-lean-y-eliminacion-de-desperdicio/`:
 
-- `leadership-decision-brief.md` con el problema específico de **lean y eliminación de desperdicio**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **lean y eliminación de desperdicio** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **valor**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una organización 'lean' elimina buffer y headcount sin rediseñar flujo. La utilización sube, pero incidentes y espera empeoran porque cualquier variación paraliza el proceso.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan lean del caso ejecutivo;
+- `process-map.md` (plantilla [Process map](../../../../templates/process-map.md)) con el mapa de flujo de valor actual y futuro;
+- `decision-journal.md` con las mejoras probadas, su riesgo y su resultado.
 
 ## 📗 Fuentes y verificación
 
-- Nigel Slack & Alistair Brandon-Jones — *Operations Management* (Pearson Education, Limited, 2019). **Uso en esta clase:** capacidad, procesos, variabilidad, calidad y estrategia de operaciones. Lectura selectiva sobre **lean y eliminación de desperdicio**. **Localizador:** [ISBN-13 9781292254036](https://openlibrary.org/isbn/9781292254036).
-- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** restricciones, throughput, inventario y pensamiento de flujo. Lectura selectiva sobre **lean y eliminación de desperdicio**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
-- Geary A. Rummler & Alan P. Brache — *Improving Performance* (Jossey-Bass, 1995). **Uso en esta clase:** perspectiva de Procesos aplicada al problema de la clase. Lectura selectiva sobre **lean y eliminación de desperdicio**. **Localizador:** [ISBN-13 9780787900908](https://openlibrary.org/isbn/9780787900908).
-- James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World* (Free Press, 2007). **Uso en esta clase:** perspectiva de Lean aplicada al problema de la clase. Lectura selectiva sobre **lean y eliminación de desperdicio**. **Localizador:** [ISBN-13 9780743299794](https://openlibrary.org/isbn/9780743299794).
-- ISO — *ISO 22301 Business continuity management systems*. **Uso en esta clase:** sistema de gestión de continuidad y preparación ante disrupciones. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
-- James P. Womack & Daniel T. Jones — *Lean Thinking* (Free Press, 2003). **Uso en esta clase:** valor, flujo, pull, desperdicio y mejora continua. Lectura selectiva sobre **lean y eliminación de desperdicio**. **Localizador:** [ISBN-13 9780743231640](https://openlibrary.org/isbn/9780743231640).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **lean y eliminación de desperdicio** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **lean y eliminación de desperdicio**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **lean y eliminación de desperdicio** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **lean y eliminación de desperdicio** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **lean y eliminación de desperdicio** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- James P. Womack & Daniel T. Jones — *Lean Thinking* (Free Press, 2003). **Uso en esta clase:** valor, flujo, tracción y perfección. Lectura selectiva sobre **lean y eliminación de desperdicio**. **Localizador:** [ISBN-13 9780743231640](https://openlibrary.org/isbn/9780743231640).
+- James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World* (Free Press, 2007). **Uso en esta clase:** comparación de sistemas de producción. Lectura selectiva sobre **lean y eliminación de desperdicio**. **Localizador:** [ISBN-13 9780743299794](https://openlibrary.org/isbn/9780743299794).
+- Taiichi Ohno — *Toyota Production System* (Productivity Press, 1988). **Uso en esta clase:** origen del sistema y las formas de desperdicio. Lectura selectiva sobre **lean y eliminación de desperdicio**. **Localizador:** [ISBN-13 9780915299140](https://openlibrary.org/isbn/9780915299140).
+- Mike Rother & John Shook — *Learning to See* (Lean Enterprise Institute, 1999). **Uso en esta clase:** técnica de mapeo con tiempos de trabajo y de espera. Lectura selectiva sobre **lean y eliminación de desperdicio**. **Localizador:** [ISBN-13 9780966784305](https://openlibrary.org/isbn/9780966784305).
+- Jeffrey K. Liker — *The Toyota Way* (American Media International, 2005). **Uso en esta clase:** principios culturales del sistema Toyota. Lectura selectiva sobre **lean y eliminación de desperdicio**. **Localizador:** [ISBN-13 9781932378702](https://openlibrary.org/isbn/9781932378702).
 
-> **Regla de fuentes para Lean y eliminación de desperdicio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **lean y eliminación de desperdicio** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Lean y eliminación de desperdicio:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

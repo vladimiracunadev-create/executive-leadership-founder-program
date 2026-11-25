@@ -367,18 +367,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
-        "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
-        "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
-        "modules/07-operations-process-quality/classes/088-capacidad-y-demanda",
-        "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones",
-        "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio",
-        "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
-        "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
-        "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
-        "modules/07-operations-process-quality/classes/094-continuidad-operacional",
-        "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos",
-        "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion",
         "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
         "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
         "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
@@ -2047,16 +2035,8 @@
       "used_in": [
         "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
         "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
-        "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
-        "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
         "modules/07-operations-process-quality/classes/088-capacidad-y-demanda",
         "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones",
-        "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio",
-        "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
-        "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
-        "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
-        "modules/07-operations-process-quality/classes/094-continuidad-operacional",
-        "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos",
         "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion"
       ],
       "status": "verificada",
@@ -2235,9 +2215,6 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
-        "modules/07-operations-process-quality/classes/088-capacidad-y-demanda",
-        "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio",
-        "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
         "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion"
       ],
       "status": "verificada"
@@ -2334,18 +2311,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
-        "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
-        "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
-        "modules/07-operations-process-quality/classes/088-capacidad-y-demanda",
-        "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones",
-        "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio",
-        "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
-        "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
-        "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
-        "modules/07-operations-process-quality/classes/094-continuidad-operacional",
-        "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos",
-        "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion",
         "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
         "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
         "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
@@ -2735,9 +2700,7 @@
       "note": "iso.org responde HTTP 403 a cualquier cliente automatizado, así que el verificador no puede comprobar la página de la norma; consultar el catálogo oficial de ISO a mano",
       "accessed": "",
       "used_in": [
-        "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
-        "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio",
-        "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
+        "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
         "modules/07-operations-process-quality/classes/094-continuidad-operacional"
       ],
       "status": "pendiente",
@@ -2779,10 +2742,10 @@
       "used_in": [
         "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
         "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
-        "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones",
+        "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
         "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
-        "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
-        "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion"
+        "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
+        "modules/07-operations-process-quality/classes/093-proveedores-y-terceros"
       ],
       "status": "pendiente",
       "last_error": "iso.org responde HTTP 403 a cualquier cliente automatizado, así que el verificador no puede comprobar la página de la norma; consultar el catálogo oficial de ISO a mano"
@@ -2850,14 +2813,11 @@
       "used_in": [
         "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
         "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
-        "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
         "modules/07-operations-process-quality/classes/088-capacidad-y-demanda",
         "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones",
         "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio",
         "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
         "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
-        "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
-        "modules/07-operations-process-quality/classes/094-continuidad-operacional",
         "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos",
         "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion"
       ],
@@ -2879,11 +2839,7 @@
       "locator": "https://openlibrary.org/isbn/9780743299794",
       "accessed": "2026-08-19",
       "used_in": [
-        "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
-        "modules/07-operations-process-quality/classes/088-capacidad-y-demanda",
-        "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio",
-        "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
-        "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos"
+        "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio"
       ],
       "status": "verificada",
       "authority": "Free Press"
@@ -2936,8 +2892,7 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
-        "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones",
-        "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
+        "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio",
         "modules/07-operations-process-quality/classes/094-continuidad-operacional"
       ],
       "status": "verificada",
@@ -3742,7 +3697,6 @@
       "used_in": [
         "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
         "modules/07-operations-process-quality/classes/088-capacidad-y-demanda",
-        "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
         "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
         "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos"
       ],
@@ -3956,7 +3910,6 @@
         "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
         "modules/07-operations-process-quality/classes/088-capacidad-y-demanda",
         "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones",
-        "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio",
         "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
         "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
         "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
@@ -4187,18 +4140,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
-        "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
-        "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
-        "modules/07-operations-process-quality/classes/088-capacidad-y-demanda",
-        "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones",
-        "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio",
-        "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
-        "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
-        "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
-        "modules/07-operations-process-quality/classes/094-continuidad-operacional",
-        "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos",
-        "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion",
         "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
         "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
         "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
@@ -5642,18 +5583,6 @@
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
         "modules/05-talent-people-management/classes/069-aprendizaje-y-upskilling",
-        "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
-        "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
-        "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
-        "modules/07-operations-process-quality/classes/088-capacidad-y-demanda",
-        "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones",
-        "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio",
-        "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
-        "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
-        "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
-        "modules/07-operations-process-quality/classes/094-continuidad-operacional",
-        "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos",
-        "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion",
         "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
         "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
         "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
@@ -6068,12 +5997,11 @@
       "used_in": [
         "modules/06-projects-agile-delivery/classes/082-calidad-y-definition-of-done",
         "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
-        "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
         "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
         "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones",
+        "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
         "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
         "modules/07-operations-process-quality/classes/094-continuidad-operacional",
-        "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos",
         "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion"
       ],
       "status": "verificada",
@@ -6117,18 +6045,6 @@
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
         "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
-        "modules/07-operations-process-quality/classes/085-pensar-la-empresa-como-sistema-operativo",
-        "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
-        "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
-        "modules/07-operations-process-quality/classes/088-capacidad-y-demanda",
-        "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones",
-        "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio",
-        "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad",
-        "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
-        "modules/07-operations-process-quality/classes/093-proveedores-y-terceros",
-        "modules/07-operations-process-quality/classes/094-continuidad-operacional",
-        "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos",
-        "modules/07-operations-process-quality/classes/096-capstone-redisenar-una-operacion",
         "modules/08-management-systems-kpis-okrs/classes/097-de-actividad-a-outcome",
         "modules/08-management-systems-kpis-okrs/classes/098-diseno-de-objetivos",
         "modules/08-management-systems-kpis-okrs/classes/099-okr-cuando-sirven-y-cuando-no",
@@ -6466,6 +6382,8 @@
       "locator": "https://openlibrary.org/isbn/9781491929124",
       "accessed": "2026-11-25",
       "used_in": [
+        "modules/07-operations-process-quality/classes/092-sla-slo-y-niveles-de-servicio",
+        "modules/07-operations-process-quality/classes/094-continuidad-operacional",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
       ],
       "status": "verificada"
@@ -7258,7 +7176,9 @@
       "locator": "https://doi.org/10.1287/opre.9.3.383",
       "accessed": "2026-11-25",
       "used_in": [
-        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo"
+        "modules/06-projects-agile-delivery/classes/080-kanban-y-flujo",
+        "modules/07-operations-process-quality/classes/088-capacidad-y-demanda",
+        "modules/07-operations-process-quality/classes/089-cuellos-de-botella-y-teoria-de-restricciones"
       ],
       "status": "verificada"
     },
@@ -7361,6 +7281,119 @@
       "used_in": [
         "modules/06-projects-agile-delivery/classes/078-agile-como-sistema-adaptativo",
         "modules/06-projects-agile-delivery/classes/079-scrum-con-criterio"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "mike-rother-john-shook-learning-to-see",
+      "type": "book",
+      "authors": [
+        "Rother, Mike",
+        "Shook, John"
+      ],
+      "title": "Learning to See",
+      "cited_as": "Mike Rother & John Shook — Learning to See",
+      "authority": "Lean Enterprise Institute",
+      "published": "1999",
+      "isbn13": "9780966784305",
+      "locator": "https://openlibrary.org/isbn/9780966784305",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/07-operations-process-quality/classes/086-mapeo-de-procesos-end-to-end",
+        "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "taiichi-ohno-toyota-production-system",
+      "type": "book",
+      "authors": [
+        "Ohno, Taiichi"
+      ],
+      "title": "Toyota Production System",
+      "cited_as": "Taiichi Ohno — Toyota Production System",
+      "authority": "Productivity Press",
+      "published": "1988",
+      "isbn13": "9780915299140",
+      "locator": "https://openlibrary.org/isbn/9780915299140",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/07-operations-process-quality/classes/087-sop-y-trabajo-estandarizado",
+        "modules/07-operations-process-quality/classes/090-lean-y-eliminacion-de-desperdicio"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "donald-j-wheeler-david-s-chambers-understanding-statistical-process-control",
+      "type": "book",
+      "authors": [
+        "Wheeler, Donald J.",
+        "Chambers, David S."
+      ],
+      "title": "Understanding Statistical Process Control",
+      "cited_as": "Donald J. Wheeler & David S. Chambers — Understanding Statistical Process Control",
+      "authority": "SPC Press",
+      "published": "1992",
+      "isbn13": "9780945320135",
+      "locator": "https://openlibrary.org/isbn/9780945320135",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/07-operations-process-quality/classes/091-calidad-y-variabilidad"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "lisanne-bainbridge-ironies-of-automation",
+      "type": "paper",
+      "authors": [
+        "Bainbridge, Lisanne"
+      ],
+      "title": "Ironies of automation",
+      "cited_as": "Lisanne Bainbridge — Ironies of automation",
+      "authority": "Automatica",
+      "published": "1983",
+      "doi": "10.1016/0005-1098(83)90046-8",
+      "locator": "https://doi.org/10.1016/0005-1098(83)90046-8",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "raja-parasuraman-victor-riley-humans-and-automation-use-misuse-disuse-abuse",
+      "type": "paper",
+      "authors": [
+        "Parasuraman, Raja",
+        "Riley, Victor"
+      ],
+      "title": "Humans and Automation: Use, Misuse, Disuse, Abuse",
+      "cited_as": "Raja Parasuraman & Victor Riley — Humans and Automation: Use, Misuse, Disuse, Abuse",
+      "authority": "Human Factors",
+      "published": "1997",
+      "doi": "10.1518/001872097778543886",
+      "locator": "https://doi.org/10.1518/001872097778543886",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/07-operations-process-quality/classes/095-automatizacion-de-procesos"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "oliver-e-williamson-transaction-cost-economics-the-governance-of-contractual-rel",
+      "type": "paper",
+      "authors": [
+        "Williamson, Oliver E."
+      ],
+      "title": "Transaction-Cost Economics: The Governance of Contractual Relations",
+      "cited_as": "Oliver E. Williamson — Transaction-Cost Economics: The Governance of Contractual Relations",
+      "authority": "The Journal of Law and Economics",
+      "published": "1979",
+      "doi": "10.1086/466942",
+      "locator": "https://doi.org/10.1086/466942",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/07-operations-process-quality/classes/093-proveedores-y-terceros"
       ],
       "status": "verificada"
     }

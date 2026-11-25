@@ -10,217 +10,187 @@
 
 ## 🎯 Propósito
 
-Capacidad y demanda deben compararse en la misma unidad y horizonte. Cuando utilización se acerca continuamente al 100%, la variabilidad crea colas y tiempos de espera desproporcionados. Operaciones saludables mantienen buffers y gestionan picos, mix y restricciones.
+Casi todo problema de plazos, esperas y sobrecarga se reduce a una pregunta: ¿cuánto trabajo llega y cuánto puede hacer el sistema? Cuando la demanda supera la capacidad, se forman colas, suben los plazos y la calidad cae; cuando la capacidad excede la demanda, se paga por recursos ociosos. Gestionar capacidad y demanda no es «tener más gente», sino conocer ambas con datos, decidir cuánta holgura conviene y elegir cómo ajustar cuando varían.
 
-La salida de esta parte es **operar procesos end-to-end con capacidad, calidad, continuidad y mejora**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capacidad y demanda** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la dirección de operaciones de Slack y Brandon-Jones, en la ley de Little ya vista y en la observación de Womack y Jones sobre los costos de los lotes y las esperas. Al terminar sabrás calcular la capacidad útil de un proceso, estimar la demanda con escenarios, calcular la brecha y comparar estrategias de ajuste con su costo y su efecto en el cliente.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `demand rate`, `capacity rate`, `utilization`, `queue`, `buffer` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. medir demanda por tipo y periodo → 2. medir capacidad efectiva → 3. segmentar variabilidad y picos → 4. diseñar buffer o flex capacity → 5. regular ingreso cuando supera sistema** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** utilization, queue length, wait time sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Calcular** la capacidad nominal y la capacidad útil de un proceso.
+2. **Estimar** la demanda con un patrón base y escenarios.
+3. **Calcular** la utilización y entender su efecto en las esperas.
+4. **Comparar** estrategias de ajuste: perseguir, nivelar y gestionar la demanda.
+5. **Decidir** cuánta holgura mantener según el costo de esperar frente al costo de capacidad ociosa.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define demand rate y capacity rate sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con utilization y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿en qué semana o mes tu equipo se desborda y qué se hace entonces? |
+| 20–60 min | Capacidad, demanda, utilización y estrategias. |
+| 60–105 min | Ejemplo trabajado: un centro de atención con picos. |
+| 105–150 min | Caso ejecutivo y práctica de cálculo. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **demand rate** | ritmo de llegada de trabajo | Distingue un hecho compatible y otro que lo refute. |
-| **capacity rate** | ritmo máximo sostenible de procesamiento | Distingue un hecho compatible y otro que lo refute. |
-| **utilization** | porcentaje de capacidad ocupado | Distingue un hecho compatible y otro que lo refute. |
-| **queue** | trabajo esperando servicio | Distingue un hecho compatible y otro que lo refute. |
-| **buffer** | reserva de capacidad, inventario o tiempo para absorber variabilidad | Distingue un hecho compatible y otro que lo refute. |
+| **Capacidad nominal** | Máximo teórico que produce el sistema en condiciones ideales. | Es la cifra de diseño. |
+| **Capacidad útil** | Capacidad real tras paradas, defectos, ausencias y variabilidad. | Es menor que la nominal. |
+| **Demanda** | Trabajo que llega al sistema por unidad de tiempo. | Se mide con datos de llegada, no con intuición. |
+| **Utilización** | Proporción de la capacidad usada: demanda dividida por capacidad. | A alta utilización, las esperas crecen mucho. |
+| **Brecha** | Diferencia entre capacidad y demanda proyectada. | Positiva sobra; negativa genera cola. |
+| **Holgura** | Capacidad deliberada para absorber variación. | Se decide, no se descubre. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 088: 1. medir demanda por tipo y periodo → 2. medir capacidad efectiva → 3. segmentar variabilidad y picos → 4. diseñar buffer o flex capacity → 5. regular ingreso cuando supera sistema](modelo-mental.svg)
+![Tres estrategias para ajustar capacidad y demanda: perseguir la demanda, nivelar la capacidad y gestionar la demanda.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. medir demanda por tipo y periodo → 2. medir capacidad efectiva → 3. segmentar variabilidad y picos → 4. diseñar buffer o flex capacity → 5. regular ingreso cuando supera sistema
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Capacidad y demanda deben compararse en la misma unidad y horizonte. Cuando utilización se acerca continuamente al 100%, la variabilidad crea colas y tiempos de espera desproporcionados. Operaciones saludables mantienen buffers y gestionan picos, mix y restricciones.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Más buffer cuesta dinero. La meta no es baja utilización universal, sino equilibrar costo de capacidad con costo de espera, pérdida de demanda y criticidad.**
+**Cómo leer el diagrama.** Tres columnas, tres formas de enfrentar una demanda que varía. En **perseguir**, la capacidad sube y baja con la demanda; en **nivelar**, la capacidad es estable y la espera o el inventario absorben la variación; en **gestionar la demanda**, se desplaza la demanda hacia donde sobra capacidad. Cada columna muestra su beneficio y su costo: ninguna es gratis, y la elección depende de cuánto tolera esperar el cliente.
 
 ## 📖 Desarrollo
 
-### 1. demand rate: mecanismo central
+### 1. Capacidad nominal y útil
 
-**demand rate** se entiende aquí como **ritmo de llegada de trabajo**. Esta es la pieza causal o estructural desde la que se inicia **capacidad y demanda**: antes de medir demanda por tipo y periodo, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La capacidad nominal es una cifra de ficha técnica: cuántas llamadas por hora atiende un agente, cuántas unidades produce una máquina. La **capacidad útil** descuenta lo que ocurre en la vida real: pausas, ausencias, mantenimiento, tiempo de preparación, defectos que se rehacen y trabajo que no es de la tarea principal. Planificar con la nominal es una fuente típica de incumplimientos. Se mide con datos de un período representativo: unidades efectivamente terminadas por persona o por máquina, no las que «deberían» terminar.
 
-La lectura rectora de este bloque es Nigel Slack & Alistair Brandon-Jones — *Operations Management*. Su aporte se usa para examinar **capacidad, procesos, variabilidad, calidad y estrategia de operaciones**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **utilization**; regístrala con periodo, unidad, población y baseline.
+### 2. Medir la demanda
 
-Relaciona el mecanismo con **capacity rate**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La demanda no es un número, es un patrón: varía por hora, día, semana y estación, y tiene eventos extraordinarios (campañas, cierres de mes, crisis). Se parte de datos históricos de **llegadas** —no de ventas ni de pedidos atendidos, que ya están limitados por la capacidad— y se identifica un patrón base, la variabilidad y los picos. Para el futuro se usan **escenarios** (bajo, esperado, alto) con sus supuestos, no un único pronóstico. Una demanda que se pierde porque nadie pudo atenderla no aparece en las cifras de ventas y subestima la real.
 
-### 2. capacity rate: frontera conceptual y error de clasificación
+### 3. Utilización y esperas
 
-**Definición operacional:** ritmo máximo sostenible de procesamiento. Su valor está en distinguirlo de **demand rate** y **utilization**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Una intuición equivocada es que usar el 100 % de la capacidad es lo ideal. En sistemas con llegadas variables, **las esperas crecen de forma no lineal al acercarse al 100 % de utilización**: a 70 % la cola es manejable, a 90 % se alarga mucho y a 95 % se vuelve inestable. Por eso las operaciones con tiempos de respuesta críticos (urgencias, soporte, mantenimiento) planifican con holgura deliberada. La ley de Little (clase 080) relaciona el trabajo en curso con el tiempo en el sistema: más cola implica más espera.
 
-Contrasta el problema con Eliyahu M. Goldratt & Jeff Cox — *The Goal*, que aporta una mirada sobre **restricciones, throughput, inventario y pensamiento de flujo**. Formula dos mini-casos: uno que sí satisface la definición de **capacity rate** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **queue length** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Calcular la brecha
 
-Antes de medir capacidad efectiva, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Con capacidad útil y demanda proyectada se calcula la brecha por período: capacidad menos demanda. Se hace por escenario y por tipo de trabajo, porque promediar oculta los picos, y los picos son los que producen incumplimientos. También se distingue **capacidad por tipo de habilidad**: tener horas de sobra en un perfil no resuelve la falta en otro. El resultado es un mapa de períodos y habilidades con sobrecarga o con holgura.
 
-### 3. utilization: operacionalización y medición
+### 5. Estrategias de ajuste
 
-**utilization** significa **porcentaje de capacidad ocupado**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Slack y Brandon-Jones describen tres: **perseguir la demanda** (ajustar capacidad con horas extra, turnos, personal temporal), **nivelar la capacidad** (capacidad estable, con inventario o esperas que absorben la variación) y **gestionar la demanda** (precios, reservas, promociones, horarios para desplazar la demanda). En servicios no se puede almacenar, por lo que la nivelación se traduce en esperas, y gestionar la demanda gana peso. Las estrategias se combinan, y cada una tiene un costo: el de contratar, el de esperar o el de no vender.
 
-Michael Hammer & James Champy — *Reengineering the Corporation* orienta este bloque mediante **perspectiva de Procesos aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **wait time**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Costo de esperar frente a costo de capacidad
 
-Al llegar a segmentar variabilidad y picos, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+La decisión de holgura es económica. Si esperar cuesta poco (el cliente tolera días), se puede operar con alta utilización. Si esperar es muy costoso (pérdida de clientes, riesgos de seguridad), conviene capacidad ociosa. Se compara el **costo de la capacidad adicional** con el **costo esperado de la espera y de las ventas perdidas**. Este cálculo, aunque aproximado, ordena la conversación: en lugar de discutir si «sobra o falta gente», se discute cuánto vale evitar la espera.
 
-### 4. queue: trade-offs y efectos de segundo orden
+### 7. Capacidad, calidad y personas
 
-**Definición:** trabajo esperando servicio. Este concepto obliga a abandonar la idea de que **capacidad y demanda** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de diseñar buffer o flex capacity, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-James P. Womack & Daniel T. Jones — *Lean Thinking* aporta una lente sobre **valor, flujo, pull, desperdicio y mejora continua**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **lost demand** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capacidad y demanda**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **queue** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. buffer: gobernanza, límites e integración
-
-**buffer** se define como **reserva de capacidad, inventario o tiempo para absorber variabilidad** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Geary A. Rummler & Alan P. Brache — *Improving Performance* se utiliza para estudiar **perspectiva de Procesos aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar regular ingreso cuando supera sistema, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Más buffer cuesta dinero. La meta no es baja utilización universal, sino equilibrar costo de capacidad con costo de espera, pérdida de demanda y criticidad.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **demand rate**, **capacity rate**, **utilization**, **queue** y **buffer** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capacidad y demanda** no consiste en sumar cinco definiciones. Empieza por **demand rate**, contrasta **capacity rate** con **utilization**, incorpora **queue** como restricción o mecanismo y usa **buffer** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. medir demanda por tipo y periodo → 2. medir capacidad efectiva → 3. segmentar variabilidad y picos → 4. diseñar buffer o flex capacity → 5. regular ingreso cuando supera sistema**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Operar al límite de la capacidad durante mucho tiempo degrada la calidad, aumenta los errores y desgasta a las personas, lo que reduce la capacidad útil futura. La sobrecarga sostenida es una deuda que se paga con rotación y retrabajo. Womack y Jones advierten sobre los lotes grandes y las esperas que ocultan problemas; la capacidad aparente puede esconder trabajo inútil. Antes de ampliar, conviene revisar cuánta capacidad se pierde en defectos, esperas y tareas que no agregan valor (clase 090).
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Nigel Slack & Alistair Brandon-Jones — *Operations Management* | capacidad, procesos, variabilidad, calidad y estrategia de operaciones | ¿Qué supuesto de **capacidad y demanda** ayuda a desafiar? |
-| Eliyahu M. Goldratt & Jeff Cox — *The Goal* | restricciones, throughput, inventario y pensamiento de flujo | ¿Qué supuesto de **capacidad y demanda** ayuda a desafiar? |
-| Michael Hammer & James Champy — *Reengineering the Corporation* | perspectiva de Procesos aplicada al problema de la clase | ¿Qué supuesto de **capacidad y demanda** ayuda a desafiar? |
-| James P. Womack & Daniel T. Jones — *Lean Thinking* | valor, flujo, pull, desperdicio y mejora continua | ¿Qué supuesto de **capacidad y demanda** ayuda a desafiar? |
-| Geary A. Rummler & Alan P. Brache — *Improving Performance* | perspectiva de Procesos aplicada al problema de la clase | ¿Qué supuesto de **capacidad y demanda** ayuda a desafiar? |
-
-En **capacidad y demanda**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **demand rate**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Slack y Brandon-Jones | Planificación de capacidad y estrategias de ajuste. | Es general; los costos son propios de cada caso. | ¿Qué estrategia usas hoy? |
+| Womack y Jones | Esperas, lotes y flujo continuo. | Pensado para manufactura. | ¿Cuánta capacidad se pierde en esperas? |
+| Hammer y Champy | Eliminar traspasos que consumen capacidad. | Su alcance radical tiene costos. | ¿Qué traspasos puedes eliminar? |
+| Goldratt y Cox | La capacidad que importa es la del cuello de botella. | Se verá en la clase 089. | ¿Dónde está la capacidad que limita? |
+| Little (1961) | Relación entre trabajo en curso, rendimiento y tiempo. | Supone sistema estable. | ¿Cuánto trabajo tienes en curso? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Un equipo procesa en promedio 100 solicitudes semanales y recibe 98. Dirección concluye que hay capacidad suficiente, pero la llegada varía entre 70 y 140 y la cola crece cada fin de mes.
+**Situación (hipotética).** Un centro de atención a clientes tiene 20 agentes. Cada uno atiende, en promedio, 9 contactos por hora mientras está disponible. La jornada es de 8 horas; las pausas, la capacitación y el trabajo administrativo reducen la disponibilidad a 6 horas efectivas. Llegan 1.200 contactos por día en un día normal y hasta 1.800 en días de facturación.
 
-**Paso 1 — medir demanda por tipo y periodo.** La gerencia escribe primero el supuesto asociado a **demand rate** y evita convertirlo en hecho. Luego busca **utilization** para contrastarlo en el caso de **capacidad y demanda**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Cálculo | Valor |
+|---|---|
+| Capacidad nominal | 20 × 8 × 9 = 1.440 contactos por día |
+| Capacidad útil | 20 × 6 × 9 = 1.080 contactos por día |
+| Demanda día normal | 1.200 |
+| Brecha día normal | 1.080 − 1.200 = −120 |
+| Demanda día alto | 1.800; brecha −720 |
+| Utilización en día normal | 1.200 / 1.080 = 111 % |
 
-**Paso 2 — medir capacidad efectiva.** La gerencia escribe primero el supuesto asociado a **capacity rate** y evita convertirlo en hecho. Luego busca **queue length** para contrastarlo en el caso de **capacidad y demanda**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Lectura.** La cifra de capacidad nominal sugería que sobraba gente (1.440 frente a 1.200). La capacidad útil muestra que el centro ya está sobrecargado: la cola crece cada día y el tiempo de espera promedio sube. Los reclamos suben, lo que genera más contactos de seguimiento.
 
-**Paso 3 — segmentar variabilidad y picos.** La gerencia escribe primero el supuesto asociado a **utilization** y evita convertirlo en hecho. Luego busca **wait time** para contrastarlo en el caso de **capacidad y demanda**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Opciones.** (a) **Perseguir**: contratar temporales en días de facturación (costo variable, curva de aprendizaje). (b) **Gestionar la demanda**: enviar la factura de forma escalonada durante el mes, con lo que el pico baja de 1.800 a 1.350. (c) **Reducir contactos evitables**: 22 % de los contactos preguntan por un estado que podría mostrarse en la página; resolver eso baja la demanda en 264 por día. La opción (c) más (b) cierra casi toda la brecha con costo menor que contratar; se prueba en piloto antes de reducir dotación o contratar.
 
-**Paso 4 — diseñar buffer o flex capacity.** La gerencia escribe primero el supuesto asociado a **queue** y evita convertirlo en hecho. Luego busca **lost demand** para contrastarlo en el caso de **capacidad y demanda**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — regular ingreso cuando supera sistema.** La gerencia escribe primero el supuesto asociado a **buffer** y evita convertirlo en hecho. Luego busca **overtime** para contrastarlo en el caso de **capacidad y demanda**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capacidad y demanda**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La capacidad nominal engañaba. (2) La brecha por escenario reveló el pico. (3) Reducir demanda evitable fue más barato que sumar capacidad.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **demand rate** | ritmo de llegada de trabajo | Cuando utilization es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **capacity rate** | ritmo máximo sostenible de procesamiento | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Capacidad frente a productividad.** La capacidad es cuánto se puede producir; la productividad, cuánto se produce por recurso usado. Aumentar horas aumenta capacidad pero puede bajar productividad si crece la fatiga y el retrabajo.
 
-**Frontera de aplicación:** Más buffer cuesta dinero. La meta no es baja utilización universal, sino equilibrar costo de capacidad con costo de espera, pérdida de demanda y criticidad.
+**Límites.** Las cifras de capacidad útil dependen del período medido y de la mezcla de trabajo. Los pronósticos de demanda fallan ante cambios del mercado; por eso se usan escenarios y señales de revisión. El modelo simple de utilización y espera supone llegadas aleatorias estables, y en la práctica existen picos y correlaciones. Y los ajustes de personal (horas extra, contrataciones, cambios de jornada) tienen condiciones legales y contractuales que se comprueban con asesoría laboral.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capacidad y demanda |
+| Nivel | Cómo participa en capacidad y demanda |
 |---|---|
-| **Profesional** | usa **capacidad y demanda** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **demand rate** y **capacity rate** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta utilization con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capacidad y demanda cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capacidad y demanda reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capacidad y demanda** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Señala sobrecarga con datos y propone qué se puede postergar. |
+| **Jefe / Team Lead** | Mide la capacidad útil de su equipo y la demanda que recibe. |
+| **Gerente** | Planifica con escenarios y decide la estrategia de ajuste. |
+| **CEO / Director** | Decide la holgura según el valor de no hacer esperar al cliente. |
+| **Founder / Owner** | Evita crecer ventas más rápido de lo que la operación puede entregar. |
 
 ## 🏢 Caso ejecutivo
 
-Un equipo procesa en promedio 100 solicitudes semanales y recibe 98. Dirección concluye que hay capacidad suficiente, pero la llegada varía entre 70 y 140 y la cola crece cada fin de mes.
+Una empresa de reparto de comida a domicilio crece 15 % mensual. En horas pico (almuerzo y cena) los repartidores no alcanzan; el tiempo de entrega pasa de 30 a 55 minutos y los pedidos cancelados suben. En horas valle hay repartidores ociosos. Operaciones propone contratar el doble; finanzas, no contratar y subir precios; marketing quiere lanzar promociones para llenar los valles. Los repartidores piden turnos más estables.
 
-Entrega un **decision brief de capacidad y demanda** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de capacidad y demanda** que incluya: (a) la capacidad útil y la demanda por franja con escenarios; (b) la brecha en cada franja; (c) las estrategias de ajuste evaluadas con su costo y su efecto en el tiempo de entrega; (d) cómo se decide la holgura según el costo de una entrega tardía; (e) el efecto en las personas y las condiciones legales a verificar; (f) las señales que dispararían una revisión.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capacidad y demanda** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. medir demanda por tipo y periodo → 2. medir capacidad efectiva → 3. segmentar variabilidad y picos → 4. diseñar buffer o flex capacity → 5. regular ingreso cuando supera sistema** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta utilization, queue length; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Calcula la capacidad nominal y la útil de tu equipo para una semana.
+2. Reúne la demanda por día de las últimas ocho semanas y dibuja el patrón.
+3. Calcula la brecha para un escenario esperado y uno alto.
+4. Compara dos estrategias de ajuste con su costo estimado.
+5. Define un umbral de utilización a partir del cual activas un ajuste.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar demand rate y capacity rate como sinónimos | Se pierde la distinción entre “ritmo de llegada de trabajo” y “ritmo máximo sostenible de procesamiento” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “regular ingreso cuando supera sistema” | Se saltó “medir demanda por tipo y periodo” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. medir demanda por tipo y periodo → 2. medir capacidad efectiva → 3. segmentar variabilidad y picos → 4. diseñar buffer o flex capacity → 5. regular ingreso cuando supera sistema y marca el primer supuesto no demostrado. |
-| Optimizar solo utilization | La métrica local sustituyó al resultado del sistema | Contrástala con queue length y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capacidad y demanda | Más buffer cuesta dinero. La meta no es baja utilización universal, sino equilibrar costo de capacidad con costo de espera, pérdida de demanda y criticidad. |
-| No fijar revisión | Una decisión sobre capacidad y demanda se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Planificar con capacidad nominal | Es la cifra disponible | Medir capacidad útil. |
+| Usar ventas como demanda | Es lo que se ve | Medir llegadas, incluida la demanda perdida. |
+| Buscar 100 % de utilización | Se cree que es eficiencia | Mantener holgura deliberada. |
+| Promediar la demanda | Es más simple | Planificar por franja y por escenario. |
+| Contratar sin revisar desperdicio | Se cree que falta gente | Revisar defectos, esperas y demanda evitable. |
+| Sobrecarga sostenida | Se tolera por urgencia | Reconocerla como deuda y corregirla. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **demand rate** y **capacity rate** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **utilization** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **medir demanda por tipo y periodo → medir capacidad efectiva** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **utilization** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capacidad y demanda**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Más buffer cuesta dinero. La meta no es baja utilización universal, sino equilibrar costo de capacidad con costo de espera, pérdida de demanda y criticidad.**?
+1. ¿Qué diferencia hay entre capacidad nominal y útil?
+2. ¿Por qué se mide la demanda con llegadas y no con ventas?
+3. ¿Qué ocurre con las esperas cuando la utilización se acerca al 100 %?
+4. ¿Qué tres estrategias de ajuste existen?
+5. ¿Por qué se calcula la brecha por escenario y por habilidad?
+6. ¿Cómo se decide cuánta holgura mantener?
+7. ¿Qué límite tiene el pronóstico de demanda?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. La nominal es el máximo teórico; la útil descuenta pausas, ausencias, defectos y variabilidad.
+2. Porque las ventas ya están limitadas por la capacidad y subestiman la demanda real.
+3. Crecen de forma no lineal: a utilización muy alta las colas se alargan mucho y se vuelven inestables.
+4. Perseguir la demanda, nivelar la capacidad y gestionar la demanda.
+5. Porque el promedio oculta los picos y la holgura en una habilidad no cubre la falta en otra.
+6. Comparando el costo de la capacidad adicional con el costo esperado de la espera y de las ventas perdidas.
+7. Falla ante cambios del mercado; por eso se usan escenarios y señales de revisión.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/088-capacidad-y-demanda/`:
 
-- `operating-improvement-brief.md` con el problema específico de **capacidad y demanda**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capacidad y demanda** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **demand rate**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Un equipo procesa en promedio 100 solicitudes semanales y recibe 98. Dirección concluye que hay capacidad suficiente, pero la llegada varía entre 70 y 140 y la cola crece cada fin de mes.** y el dato que podría invalidar la recomendación.
+- `operating-improvement-brief.md` (plantilla [Operating Improvement Brief](../../../../templates/operating-improvement-brief.md)) con el plan de capacidad y demanda del caso ejecutivo;
+- `process-map.md` (plantilla [Process map](../../../../templates/process-map.md)) con el cálculo de brecha por franja y escenario;
+- `decision-journal.md` con la estrategia elegida, la holgura decidida y las señales de revisión.
 
 ## 📗 Fuentes y verificación
 
-- Nigel Slack & Alistair Brandon-Jones — *Operations Management* (Pearson Education, Limited, 2019). **Uso en esta clase:** capacidad, procesos, variabilidad, calidad y estrategia de operaciones. Lectura selectiva sobre **capacidad y demanda**. **Localizador:** [ISBN-13 9781292254036](https://openlibrary.org/isbn/9781292254036).
-- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** restricciones, throughput, inventario y pensamiento de flujo. Lectura selectiva sobre **capacidad y demanda**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
-- Michael Hammer & James Champy — *Reengineering the Corporation* (HarperBusiness, 2001). **Uso en esta clase:** perspectiva de Procesos aplicada al problema de la clase. Lectura selectiva sobre **capacidad y demanda**. **Localizador:** [ISBN-13 9780066621128](https://openlibrary.org/isbn/9780066621128).
-- James P. Womack & Daniel T. Jones — *Lean Thinking* (Free Press, 2003). **Uso en esta clase:** valor, flujo, pull, desperdicio y mejora continua. Lectura selectiva sobre **capacidad y demanda**. **Localizador:** [ISBN-13 9780743231640](https://openlibrary.org/isbn/9780743231640).
-- Geary A. Rummler & Alan P. Brache — *Improving Performance* (Jossey-Bass, 1995). **Uso en esta clase:** perspectiva de Procesos aplicada al problema de la clase. Lectura selectiva sobre **capacidad y demanda**. **Localizador:** [ISBN-13 9780787900908](https://openlibrary.org/isbn/9780787900908).
-- James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World* (Free Press, 2007). **Uso en esta clase:** perspectiva de Lean aplicada al problema de la clase. Lectura selectiva sobre **capacidad y demanda**. **Localizador:** [ISBN-13 9780743299794](https://openlibrary.org/isbn/9780743299794).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capacidad y demanda** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capacidad y demanda**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capacidad y demanda** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capacidad y demanda** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capacidad y demanda** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Nigel Slack & Alistair Brandon-Jones — *Operations Management* (Pearson Education, Limited, 2019). **Uso en esta clase:** planificación de capacidad y estrategias de ajuste. Lectura selectiva sobre **capacidad y demanda**. **Localizador:** [ISBN-13 9781292254036](https://openlibrary.org/isbn/9781292254036).
+- James P. Womack & Daniel T. Jones — *Lean Thinking* (Free Press, 2003). **Uso en esta clase:** esperas, lotes y flujo continuo. Lectura selectiva sobre **capacidad y demanda**. **Localizador:** [ISBN-13 9780743231640](https://openlibrary.org/isbn/9780743231640).
+- Michael Hammer & James Champy — *Reengineering the Corporation* (HarperBusiness, 2001). **Uso en esta clase:** eliminar traspasos que consumen capacidad. Lectura selectiva sobre **capacidad y demanda**. **Localizador:** [ISBN-13 9780066621128](https://openlibrary.org/isbn/9780066621128).
+- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** la capacidad que importa es la del cuello de botella. Lectura selectiva sobre **capacidad y demanda**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
+- John D. C. Little — *A Proof for the Queuing Formula: L = λW* (Operations Research, 1961). **Uso en esta clase:** relación entre trabajo en curso, rendimiento y tiempo de ciclo. Lectura selectiva sobre **capacidad y demanda**. **Localizador:** [DOI 10.1287/opre.9.3.383](https://doi.org/10.1287/opre.9.3.383).
 
-> **Regla de fuentes para Capacidad y demanda:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capacidad y demanda** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capacidad y demanda:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las condiciones laborales aplicables a los ajustes de personal. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

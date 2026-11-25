@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Jefe → Manager"
 outcome: "operar procesos end-to-end con capacidad, calidad, continuidad y mejora"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir operating system de flow mediante evidencia observable."
-  - "Aplicar la secuencia: mapear demanda a outcome → identificar flujos end-to-end → medir capacidad y cuellos → definir controles y decision rights → instalar cadencias de revisión."
-  - "Interpretar throughput, cycle time, backlog sin atribuir causalidad automática."
-  - "Resolver el caso de pensar la empresa como sistema operativo con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Describir un negocio como sistema: entradas, transformación, salidas, cliente y retroalimentación."
+  - "Distinguir procesos centrales, de apoyo y de gestión, y su dueño."
+  - "Detectar una optimización local que perjudica el resultado global."
+  - "Identificar dónde se decide, dónde se espera y dónde se corrige el trabajo."
+  - "Formular una pregunta de diagnóstico operativo antes de proponer una solución."
 deliverable: "leadership-decision-brief.md"
 references:
   - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
-  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
-  - "James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World*"
-  - "Michael Hammer & James Champy — *Reengineering the Corporation*"
-  - "W. Edwards Deming — *Out of the Crisis*"
   - "James P. Womack & Daniel T. Jones — *Lean Thinking*"
+  - "Michael Hammer & James Champy — *Reengineering the Corporation*"
+  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
+  - "W. Edwards Deming — *Out of the Crisis*"
 limits:
-  - "Un operating model no debe petrificar una empresa. Mantén procesos estables donde la repetición crea valor y espacios adaptativos donde todavía existe aprendizaje."
+  - "El modelo de entradas y salidas simplifica: deja fuera poder, cultura, incentivos y emociones, que afectan el funcionamiento real."
 evidence_signals:
-  - "throughput"
-  - "cycle time"
-  - "backlog"
-  - "quality"
-  - "service reliability"
+  - "proceso seguido de punta a punta"
+  - "medida común con dueño"
+  - "metas locales contrastadas"
+  - "diagnóstico antes de solución"

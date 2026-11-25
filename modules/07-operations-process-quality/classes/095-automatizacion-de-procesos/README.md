@@ -10,217 +10,185 @@
 
 ## 🎯 Propósito
 
-Automatizar procesos crea valor cuando elimina trabajo repetitivo, reduce error o acelera flujo sin automatizar defectos y excepciones mal entendidas. Antes de escoger tecnología, se simplifica el proceso y se distinguen reglas estables de decisiones que requieren juicio.
+Automatizar parece la salida natural a la lentitud y al error humano: si una máquina o un programa hace la tarea, será más rápido, más barato y más consistente. A veces es cierto, y a veces se descubre tarde que se automatizó un proceso defectuoso, que las excepciones quedaron para las personas en su versión más difícil o que el equipo perdió la habilidad para intervenir cuando el sistema falla. Automatizar bien es una decisión de diseño de procesos y de personas, no solo de tecnología.
 
-La salida de esta parte es **operar procesos end-to-end con capacidad, calidad, continuidad y mejora**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **automatización de procesos** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase integra la advertencia clásica de Bainbridge sobre las «ironías de la automatización», el análisis de uso, mal uso y abandono de Parasuraman y Riley, la crítica de Hammer y Champy a automatizar procesos heredados en lugar de rediseñarlos y los principios de simplificación de Womack y Jones. Al terminar sabrás decidir qué automatizar y en qué orden, cómo diseñar la relación entre persona y sistema, qué riesgos nuevos aparecen y cómo medir el beneficio real.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `automation`, `straight-through processing`, `exception`, `control`, `human-in-the-loop` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. mapear proceso y eliminar desperdicio → 2. segmentar casos estándar y excepciones → 3. cuantificar costo, volumen y error → 4. automatizar con controles y fallback → 5. medir beneficio y nuevos riesgos** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** horas manuales, error rate, STP rate sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Decidir** si un proceso conviene simplificarlo, estandarizarlo, automatizarlo o dejarlo manual.
+2. **Evaluar** el beneficio con costo total, calidad y riesgo.
+3. **Diseñar** la interacción entre persona y sistema, incluidas las excepciones.
+4. **Reconocer** los efectos de la automatización en habilidades, vigilancia y confianza.
+5. **Planificar** la implantación con pruebas, plan manual y revisión posterior.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define automation y straight-through processing sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con horas manuales y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué tarea de tu área hace una persona que «debería» hacer un sistema, y qué podría salir mal si lo hiciera? |
+| 20–60 min | Orden, beneficios, riesgos y diseño persona-sistema. |
+| 60–105 min | Ejemplo trabajado: automatizar la conciliación de pagos. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **automation** | ejecución de tareas por sistema con menor intervención humana | Distingue un hecho compatible y otro que lo refute. |
-| **straight-through processing** | flujo automatizado de extremo a extremo para casos estándar | Distingue un hecho compatible y otro que lo refute. |
-| **exception** | caso que sale de reglas y requiere ruta distinta | Distingue un hecho compatible y otro que lo refute. |
-| **control** | verificación diseñada para prevenir o detectar error | Distingue un hecho compatible y otro que lo refute. |
-| **human-in-the-loop** | intervención humana intencional en decisiones o excepciones | Distingue un hecho compatible y otro que lo refute. |
+| **Automatización** | Uso de sistemas para ejecutar tareas con poca o ninguna intervención humana. | Reglas, robots de software, integraciones, máquinas. |
+| **Excepción** | Caso que no sigue el flujo normal y requiere juicio. | Es lo que queda para las personas. |
+| **Supervisión humana** | Persona que vigila, interviene y decide cuando el sistema falla o duda. | Requiere habilidad y atención sostenidas. |
+| **Ironías de la automatización** | Efectos paradójicos: lo automatizado deja a las personas las tareas más difíciles con menos práctica. | Se observan tras la implantación. |
+| **Confianza calibrada** | Nivel de confianza en el sistema que corresponde a su fiabilidad real. | Ni exceso ni rechazo. |
+| **Costo total** | Costo de construir, operar, mantener y corregir la automatización. | Incluye cambios y fallas. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 095: 1. mapear proceso y eliminar desperdicio → 2. segmentar casos estándar y excepciones → 3. cuantificar costo, volumen y error → 4. automatizar con controles y fallback → 5. medir beneficio y nuevos riesgos](modelo-mental.svg)
+![Lo que aporta automatizar frente a lo que se degrada en las personas que supervisan.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear proceso y eliminar desperdicio → 2. segmentar casos estándar y excepciones → 3. cuantificar costo, volumen y error → 4. automatizar con controles y fallback → 5. medir beneficio y nuevos riesgos
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Automatizar procesos crea valor cuando elimina trabajo repetitivo, reduce error o acelera flujo sin automatizar defectos y excepciones mal entendidas. Antes de escoger tecnología, se simplifica el proceso y se distinguen reglas estables de decisiones que requieren juicio.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No automatices decisiones sensibles solo porque son posibles. Privacidad, sesgo, seguridad y responsabilidad pueden exigir revisión humana y gobernanza especial.**
+**Cómo leer el diagrama.** Dos paneles. A la izquierda, lo que aporta automatizar: **consistencia**, **velocidad y escala** y **trazabilidad**. A la derecha, lo que puede degradarse en quienes supervisan: **habilidad** (se pierde práctica), **vigilancia** (es difícil atender lo que casi nunca falla) y **confianza mal calibrada** (se confía de más o se descarta el sistema). La decisión no es automatizar o no, sino cómo hacerlo conservando la capacidad humana para intervenir.
 
 ## 📖 Desarrollo
 
-### 1. automation: mecanismo central
+### 1. Primero simplificar, luego estandarizar, luego automatizar
 
-**automation** se entiende aquí como **ejecución de tareas por sistema con menor intervención humana**. Esta es la pieza causal o estructural desde la que se inicia **automatización de procesos**: antes de mapear proceso y eliminar desperdicio, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Hammer y Champy criticaron que muchas empresas usaban la tecnología para **pavimentar caminos de vacas**: automatizar el proceso heredado con todos sus rodeos en lugar de rediseñarlo. El orden recomendado es: eliminar lo que no agrega valor (clase 090), estandarizar lo que queda (clase 087) y recién entonces automatizar. Automatizar un proceso malo produce errores más rápido y con más difusión. Un proceso simple y estable es mucho más fácil —y barato— de automatizar y mantener.
 
-La lectura rectora de este bloque es Nigel Slack & Alistair Brandon-Jones — *Operations Management*. Su aporte se usa para examinar **capacidad, procesos, variabilidad, calidad y estrategia de operaciones**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **horas manuales**; regístrala con periodo, unidad, población y baseline.
+### 2. Qué conviene automatizar
 
-Relaciona el mecanismo con **straight-through processing**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Las candidatas son tareas **frecuentes**, **basadas en reglas claras**, **con datos estructurados**, **propensas a error humano por repetición** y **de volumen suficiente** para justificar el esfuerzo. Los candidatos débiles son tareas con muchas excepciones, con reglas que cambian, con juicio ético o relacional o con poco volumen. Una prueba práctica: ¿se puede escribir la regla? Si los expertos no logran explicar cómo deciden, la automatización total probablemente fallará; se puede automatizar la parte estructurada y dejar el juicio a la persona, con ayudas.
 
-### 2. straight-through processing: frontera conceptual y error de clasificación
+### 3. Beneficio y costo reales
 
-**Definición operacional:** flujo automatizado de extremo a extremo para casos estándar. Su valor está en distinguirlo de **automation** y **exception**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El beneficio nominal (horas ahorradas) no es el real. Hay que contar: horas **efectivamente liberadas** y qué se hace con ellas, **reducción de errores y retrabajo**, **velocidad percibida por el cliente**, y por el lado de los costos, **construcción, licencias, integración, mantenimiento, monitoreo, cambios de reglas** y **tratamiento de excepciones**. Muchas automatizaciones se justifican con la primera línea y se descubren caras por la segunda. Se estima el caso con rangos y se contrasta tras la implantación, no solo antes.
 
-Contrasta el problema con Eliyahu M. Goldratt & Jeff Cox — *The Goal*, que aporta una mirada sobre **restricciones, throughput, inventario y pensamiento de flujo**. Formula dos mini-casos: uno que sí satisface la definición de **straight-through processing** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **error rate** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Las ironías de la automatización
 
-Antes de segmentar casos estándar y excepciones, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Bainbridge describió en 1983 varias paradojas. Quien diseña automatización suele considerar a la persona como fuente de error, pero la deja encargada de lo que el sistema no puede hacer: **excepciones y fallas**, que son lo más difícil. Y al reducir la práctica, **deteriora la habilidad** necesaria para intervenir cuando se la necesita. Además, vigilar un sistema que casi nunca falla es una tarea que los humanos hacen mal por períodos largos. Las implicancias: planificar entrenamiento y ejercicios, diseñar alertas útiles y mantener alguna práctica manual en lo crítico.
 
-### 3. exception: operacionalización y medición
+### 5. Uso, mal uso y abandono
 
-**exception** significa **caso que sale de reglas y requiere ruta distinta**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Parasuraman y Riley clasificaron los comportamientos hacia la automatización: **uso** apropiado, **mal uso** (confiar de más y dejar de vigilar), **desuso** (desconfiar y desactivar un sistema que funciona) y **abuso** (automatizar sin considerar sus efectos en las personas). La confianza depende de la fiabilidad percibida, del historial de errores y de la transparencia: si el sistema no explica lo que hizo, las personas no saben cuándo dudar. Diseñar buenas interfaces, mostrar el estado y las razones y reportar los errores abiertamente ayuda a calibrar la confianza.
 
-James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World* orienta este bloque mediante **perspectiva de Lean aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **STP rate**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Diseñar la relación persona-sistema
 
-Al llegar a cuantificar costo, volumen y error, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Se decide qué hace el sistema, qué hace la persona y cómo se pasan el control. Preguntas: ¿qué se muestra a la persona y cuándo?, ¿qué decisiones requieren aprobación humana?, ¿qué pasa si el sistema se detiene?, ¿cómo se detecta un error silencioso? Un sistema que falla de forma visible es manejable; el peligroso es el que falla sin que nadie lo note. Se establecen **controles independientes** (conciliaciones, muestreos) para detectar errores y un **plan manual** probado para continuar si el sistema cae (clase 094).
 
-### 4. control: trade-offs y efectos de segundo orden
+### 7. Implantar con cuidado
 
-**Definición:** verificación diseñada para prevenir o detectar error. Este concepto obliga a abandonar la idea de que **automatización de procesos** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de automatizar con controles y fallback, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Michael Hammer & James Champy — *Reengineering the Corporation* aporta una lente sobre **perspectiva de Procesos aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **exception rate** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **automatización de procesos**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **control** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. human-in-the-loop: gobernanza, límites e integración
-
-**human-in-the-loop** se define como **intervención humana intencional en decisiones o excepciones** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-W. Edwards Deming — *Out of the Crisis* se utiliza para estudiar **variación, sistemas, aprendizaje y responsabilidad gerencial por la calidad** y contrastar la recomendación final. Al ejecutar medir beneficio y nuevos riesgos, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **No automatices decisiones sensibles solo porque son posibles. Privacidad, sesgo, seguridad y responsabilidad pueden exigir revisión humana y gobernanza especial.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **automation**, **straight-through processing**, **exception**, **control** y **human-in-the-loop** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **automatización de procesos** no consiste en sumar cinco definiciones. Empieza por **automation**, contrasta **straight-through processing** con **exception**, incorpora **control** como restricción o mecanismo y usa **human-in-the-loop** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear proceso y eliminar desperdicio → 2. segmentar casos estándar y excepciones → 3. cuantificar costo, volumen y error → 4. automatizar con controles y fallback → 5. medir beneficio y nuevos riesgos**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+La implantación se hace por etapas: un **piloto** con un subconjunto, **ejecución en paralelo** con el proceso manual para comparar resultados, **métricas de calidad y excepciones**, **capacitación** y **comunicación** con el equipo sobre su rol. Si el personal teme perder su empleo, no reportará los errores del sistema. Tras la implantación, se hace una **revisión** a los tres y seis meses: ¿se lograron los beneficios?, ¿qué excepciones aparecieron?, ¿qué habilidades se están perdiendo? El mantenimiento de las reglas es parte del costo permanente.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Nigel Slack & Alistair Brandon-Jones — *Operations Management* | capacidad, procesos, variabilidad, calidad y estrategia de operaciones | ¿Qué supuesto de **automatización de procesos** ayuda a desafiar? |
-| Eliyahu M. Goldratt & Jeff Cox — *The Goal* | restricciones, throughput, inventario y pensamiento de flujo | ¿Qué supuesto de **automatización de procesos** ayuda a desafiar? |
-| James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World* | perspectiva de Lean aplicada al problema de la clase | ¿Qué supuesto de **automatización de procesos** ayuda a desafiar? |
-| Michael Hammer & James Champy — *Reengineering the Corporation* | perspectiva de Procesos aplicada al problema de la clase | ¿Qué supuesto de **automatización de procesos** ayuda a desafiar? |
-| W. Edwards Deming — *Out of the Crisis* | variación, sistemas, aprendizaje y responsabilidad gerencial por la calidad | ¿Qué supuesto de **automatización de procesos** ayuda a desafiar? |
-
-En **automatización de procesos**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **automation**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Bainbridge (1983) | Ironías de la automatización y efectos en la supervisión. | Contexto de control de procesos industriales. | ¿Qué queda para las personas? |
+| Parasuraman y Riley (1997) | Uso, mal uso, desuso y abuso; confianza. | Se basa en entornos como aviación. | ¿Cuánta confianza merece el sistema? |
+| Hammer y Champy | Rediseñar antes de automatizar. | Su enfoque radical tiene costos. | ¿Estás automatizando un camino de vacas? |
+| Womack y Jones | Simplificar y eliminar desperdicio antes. | Contexto lean. | ¿Qué paso eliminarías antes? |
+| Slack y Brandon-Jones | Tecnología de proceso y decisiones de operaciones. | Es general. | ¿Qué cuesta mantenerlo? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa automatiza aprobaciones de gastos replicando 14 pasos manuales. El bot acelera una burocracia cuyo 60% de controles no agrega valor ni responde a riesgo vigente.
+**Situación (hipotética).** El área de finanzas de una empresa concilia pagos de clientes con facturas: 4 personas, 2.500 pagos al mes, 6 minutos por pago de media; 8 % de errores que generan reclamos. Se propone automatizar con un sistema de reglas.
 
-**Paso 1 — mapear proceso y eliminar desperdicio.** La gerencia escribe primero el supuesto asociado a **automation** y evita convertirlo en hecho. Luego busca **horas manuales** para contrastarlo en el caso de **automatización de procesos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Paso | Qué ocurre |
+|---|---|
+| **Simplificar** | Se descubre que el 40 % del tiempo se pierde buscando referencias de factura que los clientes omiten; se agrega un campo obligatorio en el cobro. |
+| **Estandarizar** | Se acuerdan reglas de imputación para pagos parciales y múltiples. |
+| **Estimar** | 2.500 × 6 minutos = 250 horas al mes; con el cambio de referencias bajan a 160 horas; automatizar el 75 % de los pagos más simples libera unas 100 horas. |
+| **Costos** | Construcción USD 18.000; mantenimiento USD 400 al mes; revisión de excepciones: 60 horas al mes. |
+| **Diseño persona-sistema** | El sistema concilia los pagos con coincidencia exacta; el resto va a una cola de excepciones para una analista; un muestreo de 5 % de los conciliados automáticamente se revisa a mano. |
+| **Implantación** | Dos meses en paralelo; se comparan resultados; se ajustan reglas. |
 
-**Paso 2 — segmentar casos estándar y excepciones.** La gerencia escribe primero el supuesto asociado a **straight-through processing** y evita convertirlo en hecho. Luego busca **error rate** para contrastarlo en el caso de **automatización de procesos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado a los seis meses.** Las horas efectivamente liberadas fueron 90, no 100; los errores bajaron de 8 % a 2,5 %; un cambio de formato del banco rompió una regla durante tres días y se detectó gracias al muestreo. Las analistas redestinan tiempo a cobranza.
 
-**Paso 3 — cuantificar costo, volumen y error.** La gerencia escribe primero el supuesto asociado a **exception** y evita convertirlo en hecho. Luego busca **STP rate** para contrastarlo en el caso de **automatización de procesos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — automatizar con controles y fallback.** La gerencia escribe primero el supuesto asociado a **control** y evita convertirlo en hecho. Luego busca **exception rate** para contrastarlo en el caso de **automatización de procesos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — medir beneficio y nuevos riesgos.** La gerencia escribe primero el supuesto asociado a **human-in-the-loop** y evita convertirlo en hecho. Luego busca **payback** para contrastarlo en el caso de **automatización de procesos**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **automatización de procesos**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Simplificar antes ahorró más que automatizar. (2) El beneficio real fue menor que el nominal. (3) El control independiente detectó una falla silenciosa.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **automation** | ejecución de tareas por sistema con menor intervención humana | Cuando horas manuales es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **straight-through processing** | flujo automatizado de extremo a extremo para casos estándar | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Automatizar frente a rediseñar.** Rediseñar cambia el proceso para que haga falta menos trabajo; automatizar hace el trabajo existente con una máquina. Lo primero suele ser más barato y más duradero.
 
-**Frontera de aplicación:** No automatices decisiones sensibles solo porque son posibles. Privacidad, sesgo, seguridad y responsabilidad pueden exigir revisión humana y gobernanza especial.
+**Límites.** Los hallazgos de factores humanos provienen sobre todo de aviación y plantas de control; su traslado a procesos administrativos es razonable pero no automático. Las estimaciones de ahorro tienen incertidumbre grande. La inteligencia artificial introduce errores distintos (resultados plausibles pero incorrectos) que exigen controles específicos (parte 19). Y automatizar decisiones sobre personas o clientes puede tener implicancias legales de protección de datos y no discriminación que se verifican con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre automatización de procesos |
+| Nivel | Cómo participa en la automatización |
 |---|---|
-| **Profesional** | usa **automatización de procesos** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **automation** y **straight-through processing** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta horas manuales con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si automatización de procesos cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de automatización de procesos reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **automatización de procesos** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Documenta cómo hace la tarea y las excepciones que conoce. |
+| **Jefe / Team Lead** | Lidera el rediseño con su equipo y vigila la calidad tras implantar. |
+| **Gerente** | Prioriza por beneficio real, costo total y riesgo. |
+| **CEO / Director** | Decide cuánta autonomía se da al sistema en procesos críticos. |
+| **Founder / Owner** | Automatiza lo repetitivo temprano, pero mantiene el entendimiento del proceso. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa automatiza aprobaciones de gastos replicando 14 pasos manuales. El bot acelera una burocracia cuyo 60% de controles no agrega valor ni responde a riesgo vigente.
+Un banco regional automatizó la evaluación de solicitudes de crédito de consumo con un modelo que aprueba o rechaza en segundos. El tiempo de respuesta bajó de tres días a diez minutos y el volumen creció 40 %. A los seis meses se detecta que el modelo rechaza con más frecuencia a solicitantes de ciertas comunas, que los analistas ya no revisan las alertas por exceso de falsos positivos y que, cuando el sistema cayó un día, nadie recordaba cómo evaluar manualmente. Los clientes rechazados reclaman sin que el banco pueda explicar la razón.
 
-Entrega un **decision brief de automatización de procesos** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de gobierno de la automatización** que contenga: (a) el diagnóstico de qué se simplificó, qué se estandarizó y qué se automatizó; (b) los riesgos de supervisión, habilidad y confianza; (c) los controles independientes y el plan manual; (d) cómo se explicará a los clientes y qué aspectos legales de datos y no discriminación se derivarán a asesoría; (e) las métricas de beneficio real y de calidad; (f) el calendario de revisión y entrenamiento.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **automatización de procesos** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear proceso y eliminar desperdicio → 2. segmentar casos estándar y excepciones → 3. cuantificar costo, volumen y error → 4. automatizar con controles y fallback → 5. medir beneficio y nuevos riesgos** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta horas manuales, error rate; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Elige un proceso y marca qué se puede eliminar, qué estandarizar y qué automatizar.
+2. Estima el beneficio nominal y el real, y el costo total de dos años.
+3. Lista las excepciones y define quién las atiende y con qué información.
+4. Diseña un control independiente que detecte errores silenciosos.
+5. Escribe el plan manual para un día sin sistema.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar automation y straight-through processing como sinónimos | Se pierde la distinción entre “ejecución de tareas por sistema con menor intervención humana” y “flujo automatizado de extremo a extremo para casos estándar” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “medir beneficio y nuevos riesgos” | Se saltó “mapear proceso y eliminar desperdicio” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear proceso y eliminar desperdicio → 2. segmentar casos estándar y excepciones → 3. cuantificar costo, volumen y error → 4. automatizar con controles y fallback → 5. medir beneficio y nuevos riesgos y marca el primer supuesto no demostrado. |
-| Optimizar solo horas manuales | La métrica local sustituyó al resultado del sistema | Contrástala con error rate y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre automatización de procesos | No automatices decisiones sensibles solo porque son posibles. Privacidad, sesgo, seguridad y responsabilidad pueden exigir revisión humana y gobernanza especial. |
-| No fijar revisión | Una decisión sobre automatización de procesos se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Automatizar un proceso defectuoso | Se quiere resultado rápido | Simplificar y estandarizar primero. |
+| Contar solo horas ahorradas | Es la cifra visible | Costo total y beneficio efectivo. |
+| Dejar las excepciones sin diseño | Se piensa en el caso normal | Cola de excepciones con información y dueño. |
+| Confiar de más en el sistema | Rara vez falla | Controles independientes y muestreo. |
+| Perder la habilidad manual | No se practica | Entrenamiento y ejercicios. |
+| No mantener las reglas | Se considera terminado | Mantenimiento y revisión periódica. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **automation** y **straight-through processing** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **exception** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear proceso y eliminar desperdicio → segmentar casos estándar y excepciones** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **horas manuales** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **automatización de procesos**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No automatices decisiones sensibles solo porque son posibles. Privacidad, sesgo, seguridad y responsabilidad pueden exigir revisión humana y gobernanza especial.**?
+1. ¿En qué orden se simplifica, estandariza y automatiza, y por qué?
+2. ¿Qué tareas son buenas candidatas a automatizar?
+3. ¿Qué son las ironías de la automatización?
+4. ¿Qué diferencia hay entre mal uso y desuso?
+5. ¿Qué costos se olvidan al justificar una automatización?
+6. ¿Por qué se necesita un control independiente?
+7. ¿Qué límite tienen los hallazgos de factores humanos en este contexto?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Primero simplificar, luego estandarizar y al final automatizar, porque automatizar un proceso malo produce errores más rápido.
+2. Frecuentes, con reglas claras, datos estructurados, propensas a error por repetición y de volumen suficiente.
+3. Efectos paradójicos: la persona queda con las excepciones más difíciles y con menos práctica, y debe vigilar algo que casi nunca falla.
+4. Mal uso es confiar de más y dejar de vigilar; desuso es desconfiar y desactivar un sistema que funciona.
+5. Mantenimiento, monitoreo, cambios de reglas, tratamiento de excepciones y fallas.
+6. Para detectar errores silenciosos que el propio sistema no reporta.
+7. Provienen sobre todo de aviación y plantas de control; su traslado a otros procesos exige verificación caso a caso.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/095-automatizacion-de-procesos/`:
 
-- `operating-improvement-brief.md` con el problema específico de **automatización de procesos**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **automatización de procesos** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **automation**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa automatiza aprobaciones de gastos replicando 14 pasos manuales. El bot acelera una burocracia cuyo 60% de controles no agrega valor ni responde a riesgo vigente.** y el dato que podría invalidar la recomendación.
+- `operating-improvement-brief.md` (plantilla [Operating Improvement Brief](../../../../templates/operating-improvement-brief.md)) con el plan de gobierno de la automatización del caso ejecutivo;
+- `process-map.md` (plantilla [Process map](../../../../templates/process-map.md)) con el proceso simplificado, las excepciones y el plan manual;
+- `decision-journal.md` con el beneficio estimado, el beneficio medido y las revisiones.
 
 ## 📗 Fuentes y verificación
 
-- Nigel Slack & Alistair Brandon-Jones — *Operations Management* (Pearson Education, Limited, 2019). **Uso en esta clase:** capacidad, procesos, variabilidad, calidad y estrategia de operaciones. Lectura selectiva sobre **automatización de procesos**. **Localizador:** [ISBN-13 9781292254036](https://openlibrary.org/isbn/9781292254036).
-- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** restricciones, throughput, inventario y pensamiento de flujo. Lectura selectiva sobre **automatización de procesos**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
-- James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World* (Free Press, 2007). **Uso en esta clase:** perspectiva de Lean aplicada al problema de la clase. Lectura selectiva sobre **automatización de procesos**. **Localizador:** [ISBN-13 9780743299794](https://openlibrary.org/isbn/9780743299794).
-- Michael Hammer & James Champy — *Reengineering the Corporation* (HarperBusiness, 2001). **Uso en esta clase:** perspectiva de Procesos aplicada al problema de la clase. Lectura selectiva sobre **automatización de procesos**. **Localizador:** [ISBN-13 9780066621128](https://openlibrary.org/isbn/9780066621128).
-- W. Edwards Deming — *Out of the Crisis* (The MIT Press, 2000). **Uso en esta clase:** variación, sistemas, aprendizaje y responsabilidad gerencial por la calidad. Lectura selectiva sobre **automatización de procesos**. **Localizador:** [ISBN-13 9780262541152](https://openlibrary.org/isbn/9780262541152).
-- James P. Womack & Daniel T. Jones — *Lean Thinking* (Free Press, 2003). **Uso en esta clase:** valor, flujo, pull, desperdicio y mejora continua. Lectura selectiva sobre **automatización de procesos**. **Localizador:** [ISBN-13 9780743231640](https://openlibrary.org/isbn/9780743231640).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **automatización de procesos** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **automatización de procesos**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **automatización de procesos** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **automatización de procesos** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **automatización de procesos** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Lisanne Bainbridge — *Ironies of automation* (Automatica, 1983). **Uso en esta clase:** ironías de la automatización y efectos en la supervisión. Lectura selectiva sobre **automatización de procesos**. **Localizador:** [DOI 10.1016/0005-1098(83)90046-8](https://doi.org/10.1016/0005-1098(83)90046-8).
+- Raja Parasuraman & Victor Riley — *Humans and Automation: Use, Misuse, Disuse, Abuse* (Human Factors, 1997). **Uso en esta clase:** uso, mal uso, desuso y abuso de la automatización. Lectura selectiva sobre **automatización de procesos**. **Localizador:** [DOI 10.1518/001872097778543886](https://doi.org/10.1518/001872097778543886).
+- Michael Hammer & James Champy — *Reengineering the Corporation* (HarperBusiness, 2001). **Uso en esta clase:** rediseñar antes de automatizar. Lectura selectiva sobre **automatización de procesos**. **Localizador:** [ISBN-13 9780066621128](https://openlibrary.org/isbn/9780066621128).
+- James P. Womack & Daniel T. Jones — *Lean Thinking* (Free Press, 2003). **Uso en esta clase:** simplificar y eliminar desperdicio antes de automatizar. Lectura selectiva sobre **automatización de procesos**. **Localizador:** [ISBN-13 9780743231640](https://openlibrary.org/isbn/9780743231640).
+- Nigel Slack & Alistair Brandon-Jones — *Operations Management* (Pearson Education, Limited, 2019). **Uso en esta clase:** tecnología de proceso y decisiones de operaciones. Lectura selectiva sobre **automatización de procesos**. **Localizador:** [ISBN-13 9781292254036](https://openlibrary.org/isbn/9781292254036).
 
-> **Regla de fuentes para Automatización de procesos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **automatización de procesos** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Automatización de procesos:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas la protección de datos y la no discriminación en decisiones automatizadas. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

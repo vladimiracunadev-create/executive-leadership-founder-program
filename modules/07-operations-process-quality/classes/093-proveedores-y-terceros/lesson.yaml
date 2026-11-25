@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Jefe → Manager"
 outcome: "operar procesos end-to-end con capacidad, calidad, continuidad y mejora"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir third-party risk de criticality mediante evidencia observable."
-  - "Aplicar la secuencia: clasificar terceros por criticidad → hacer due diligence proporcional → definir contratos y controles → monitorear performance y riesgo → probar exit y continuidad."
-  - "Interpretar SLA breaches, concentración de gasto, incidentes de terceros sin atribuir causalidad automática."
-  - "Resolver el caso de proveedores y terceros con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Decidir de forma razonada qué hacer internamente y qué comprar a terceros."
+  - "Clasificar proveedores por impacto en el negocio y dificultad de sustitución."
+  - "Evaluar proveedores con criterios más amplios que el precio."
+  - "Estructurar acuerdos de servicio, seguimiento y plan de salida."
+  - "Identificar la dependencia de proveedores de proveedores y concentración."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
-  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
-  - "Geary A. Rummler & Alan P. Brache — *Improving Performance*"
+  - "Oliver E. Williamson — *Transaction-Cost Economics: The Governance of Contractual Relations*"
   - "ISO — *ISO 9001 Quality management systems*"
+  - "ISO — *ISO 22301 Business continuity management systems*"
+  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
   - "Michael Hammer & James Champy — *Reengineering the Corporation*"
-  - "James P. Womack & Daniel T. Jones — *Lean Thinking*"
 limits:
-  - "Duplicar proveedores no siempre es económico ni reduce riesgo si comparten la misma infraestructura. Analiza concentración real y costo de salida, no solo número de contratos."
+  - "El cuadrante simplifica; algunos proveedores caen en el límite entre zonas y requieren juicio."
 evidence_signals:
-  - "SLA breaches"
-  - "concentración de gasto"
-  - "incidentes de terceros"
-  - "tiempo de reemplazo"
-  - "controles pendientes"
+  - "proveedores clasificados"
+  - "criterios más allá del precio"
+  - "dependencias ocultas mapeadas"
+  - "plan de salida probado"

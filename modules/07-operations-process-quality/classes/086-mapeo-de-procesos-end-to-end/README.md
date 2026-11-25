@@ -10,217 +10,187 @@
 
 ## 🎯 Propósito
 
-Mapear procesos end-to-end sigue el resultado desde la demanda del cliente hasta su cierre, atravesando silos. El mapa debe mostrar handoffs, esperas, decisiones, rework y sistemas, porque la mayoría de demoras vive entre funciones más que dentro de una tarea individual.
+Un mapa de proceso es útil solo si se parece a lo que realmente ocurre. Los mapas hechos en una sala, con la versión oficial de cómo «debería» fluir el trabajo, esconden justo lo que importa: los rodeos, las esperas, los traspasos informales y las excepciones. Mapear de punta a punta significa seguir un caso real desde el disparador hasta la entrega al cliente, con tiempos medidos, y distinguir el trabajo activo del tiempo de espera.
 
-La salida de esta parte es **operar procesos end-to-end con capacidad, calidad, continuidad y mejora**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **mapeo de procesos end-to-end** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase usa los tres niveles de desempeño de Rummler y Brache, la distinción entre tiempo de trabajo y tiempo de espera de la dirección de operaciones y la técnica de mapeo de flujo de valor de Rother y Shook. Al terminar sabrás construir un mapa verificado en el lugar de trabajo, calcular qué proporción del tiempo agrega valor y señalar los traspasos que concentran la espera.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `end-to-end process`, `handoff`, `touch time`, `wait time`, `rework` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. definir inicio, fin y cliente → 2. recorrer casos reales → 3. registrar pasos, handoffs y tiempos → 4. marcar rework y decisiones → 5. calcular lead time versus touch time** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** lead time, touch-time ratio, handoffs sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Delimitar** un proceso con disparador, salida, cliente y dueño.
+2. **Construir** un mapa con pasos, responsables, traspasos y tiempos.
+3. **Distinguir** tiempo activo, tiempo de espera y tiempo total del proceso.
+4. **Validar** el mapa observando el trabajo real y no solo la versión oficial.
+5. **Priorizar** oportunidades de mejora a partir del mapa.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define end-to-end process y handoff sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con lead time y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué paso de tu proceso principal sabes que ocurre «de otra manera» a lo documentado? |
+| 20–60 min | Niveles, delimitación, tiempos y traspasos. |
+| 60–105 min | Ejemplo trabajado: mapa de una solicitud de crédito interno de 18 días. |
+| 105–150 min | Caso ejecutivo y práctica de mapeo. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **end-to-end process** | flujo completo que produce un outcome para un cliente interno o externo | Distingue un hecho compatible y otro que lo refute. |
-| **handoff** | transferencia entre roles o sistemas | Distingue un hecho compatible y otro que lo refute. |
-| **touch time** | tiempo de trabajo activo | Distingue un hecho compatible y otro que lo refute. |
-| **wait time** | tiempo sin procesamiento | Distingue un hecho compatible y otro que lo refute. |
-| **rework** | trabajo repetido por error, cambio o criterio incumplido | Distingue un hecho compatible y otro que lo refute. |
+| **Proceso de punta a punta** | Flujo completo que produce un resultado para un cliente interno o externo. | Va del disparador a la entrega, atravesando áreas. |
+| **Traspaso (handoff)** | Transferencia de trabajo entre personas, áreas o sistemas. | Cada traspaso añade espera y riesgo de pérdida de información. |
+| **Tiempo activo** | Tiempo en que alguien trabaja sobre el caso. | Se cuenta sin esperas. |
+| **Tiempo de espera** | Tiempo en que el caso no avanza. | Cola, falta de información, aprobación pendiente. |
+| **Tiempo total (lead time)** | Duración entre el disparador y la entrega. | Es lo que percibe el cliente. |
+| **Mapa de flujo de valor** | Representación del flujo de materiales o información con tiempos y esperas (Rother y Shook). | Muestra dónde se acumula el trabajo. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 086: 1. definir inicio, fin y cliente → 2. recorrer casos reales → 3. registrar pasos, handoffs y tiempos → 4. marcar rework y decisiones → 5. calcular lead time versus touch time](modelo-mental.svg)
+![Tres niveles de desempeño: organización, proceso y puesto de trabajo, con la pregunta y la medida de cada uno.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir inicio, fin y cliente → 2. recorrer casos reales → 3. registrar pasos, handoffs y tiempos → 4. marcar rework y decisiones → 5. calcular lead time versus touch time
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Mapear procesos end-to-end sigue el resultado desde la demanda del cliente hasta su cierre, atravesando silos. El mapa debe mostrar handoffs, esperas, decisiones, rework y sistemas, porque la mayoría de demoras vive entre funciones más que dentro de una tarea individual.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un mapa detallado no cambia nada por sí mismo. Debe terminar en hipótesis de mejora y owner; evita documentar cada excepción antes de entender el flujo dominante.**
+**Cómo leer el diagrama.** Rummler y Brache distinguen tres niveles. Una **organización** entrega algo a sus clientes; un **proceso** es cómo fluye el trabajo de punta a punta; un **puesto** es lo que hace cada persona con sus metas y apoyos. Un mapa de proceso se ubica en el nivel central y conecta los otros dos: muestra cómo el diseño del flujo condiciona lo que cada persona puede lograr.
 
 ## 📖 Desarrollo
 
-### 1. end-to-end process: mecanismo central
+### 1. Delimitar antes de dibujar
 
-**end-to-end process** se entiende aquí como **flujo completo que produce un outcome para un cliente interno o externo**. Esta es la pieza causal o estructural desde la que se inicia **mapeo de procesos end-to-end**: antes de definir inicio, fin y cliente, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un mapa útil parte de cuatro definiciones: el **disparador** (qué hecho inicia el proceso), la **salida** (qué se entrega y a quién), el **cliente** (interno o externo) y el **dueño**. Sin ellos, el mapa crece sin límite o se corta donde le conviene al área que lo dibuja. También se acuerda qué variante se mapea: el caso típico, el caso con excepción y el caso urgente suelen seguir caminos distintos.
 
-La lectura rectora de este bloque es Nigel Slack & Alistair Brandon-Jones — *Operations Management*. Su aporte se usa para examinar **capacidad, procesos, variabilidad, calidad y estrategia de operaciones**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **lead time**; regístrala con periodo, unidad, población y baseline.
+### 2. Seguir un caso real
 
-Relaciona el mecanismo con **handoff**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+La técnica más confiable es **seguir casos reales**: tomar tres a cinco solicitudes ya cerradas y reconstruir sus pasos con fechas y horas desde los registros, y después observar uno en curso. Los registros revelan los tiempos; la observación revela lo que no queda escrito: llamadas, mensajes por canales informales, hojas de cálculo paralelas. La versión oficial del proceso y la real casi nunca coinciden, y la diferencia es información, no un error de nadie.
 
-### 2. handoff: frontera conceptual y error de clasificación
+### 3. Tiempo activo, espera y total
 
-**Definición operacional:** transferencia entre roles o sistemas. Su valor está en distinguirlo de **end-to-end process** y **touch time**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+En muchos procesos administrativos el tiempo activo es una fracción pequeña del total, a menudo menos del 20 %. El resto es **espera**: el caso está en una cola, aguarda una aprobación o falta un dato. Medir ambos tiempos cambia el diagnóstico: acelerar a las personas mejora el tiempo activo, pero el cliente percibe el total, que casi siempre se reduce eliminando esperas y traspasos. La relación entre trabajo en curso, rendimiento y tiempo total (ley de Little, clase 080) explica por qué las colas alargan los plazos.
 
-Contrasta el problema con Eliyahu M. Goldratt & Jeff Cox — *The Goal*, que aporta una mirada sobre **restricciones, throughput, inventario y pensamiento de flujo**. Formula dos mini-casos: uno que sí satisface la definición de **handoff** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **touch-time ratio** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Traspasos y pérdida de información
 
-Antes de recorrer casos reales, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Cada traspaso introduce tres riesgos: **espera** (la cola del siguiente), **pérdida** (información que no se transmite) y **ambigüedad** (nadie responde del resultado completo). Rummler y Brache sostienen que gran parte de los problemas de desempeño se esconde en los «espacios en blanco» entre cuadros del organigrama. Por eso el mapa debe mostrar quién entrega a quién y qué información viaja, no solo qué hace cada área.
 
-### 3. touch time: operacionalización y medición
+### 5. Niveles de detalle
 
-**touch time** significa **tiempo de trabajo activo**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Se mapea en capas: primero un nivel alto (cinco a nueve pasos) para acordar el alcance; luego un nivel medio de la parte que concentra la espera; y solo si hace falta, un detalle de tareas para estandarizar (clase 087). Mapear todo al máximo detalle consume tiempo y esconde lo importante. Rother y Shook usan el mapa de flujo de valor para ver el conjunto antes de tocar una parte, y recomiendan dibujarlo a mano en el lugar de trabajo.
 
-ISO — *ISO 9001 Quality management systems* orienta este bloque mediante **gestión de calidad basada en procesos, evidencia y mejora**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **handoffs**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. De mapa a oportunidades
 
-Al llegar a registrar pasos, handoffs y tiempos, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Con el mapa se buscan señales: **colas largas**, **retrabajos** (flechas que vuelven), **aprobaciones que casi siempre se conceden**, **información que se pide dos veces**, **pasos que solo existen por un control antiguo**. Las oportunidades se priorizan por efecto en el tiempo total y en la calidad percibida, y por facilidad de cambio. No todo lo detectado se corrige: algunas esperas protegen contra riesgos reales y se conservan con conciencia de su costo.
 
-### 4. wait time: trade-offs y efectos de segundo orden
+### 7. Mantener el mapa vivo
 
-**Definición:** tiempo sin procesamiento. Este concepto obliga a abandonar la idea de que **mapeo de procesos end-to-end** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de marcar rework y decisiones, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-James P. Womack & Daniel T. Jones — *Lean Thinking* aporta una lente sobre **valor, flujo, pull, desperdicio y mejora continua**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **rework** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **mapeo de procesos end-to-end**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **wait time** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. rework: gobernanza, límites e integración
-
-**rework** se define como **trabajo repetido por error, cambio o criterio incumplido** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Geary A. Rummler & Alan P. Brache — *Improving Performance* se utiliza para estudiar **perspectiva de Procesos aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar calcular lead time versus touch time, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un mapa detallado no cambia nada por sí mismo. Debe terminar en hipótesis de mejora y owner; evita documentar cada excepción antes de entender el flujo dominante.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **end-to-end process**, **handoff**, **touch time**, **wait time** y **rework** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **mapeo de procesos end-to-end** no consiste en sumar cinco definiciones. Empieza por **end-to-end process**, contrasta **handoff** con **touch time**, incorpora **wait time** como restricción o mecanismo y usa **rework** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir inicio, fin y cliente → 2. recorrer casos reales → 3. registrar pasos, handoffs y tiempos → 4. marcar rework y decisiones → 5. calcular lead time versus touch time**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Un mapa que nadie actualiza se vuelve ficción. Se asigna un dueño, se revisa cuando cambia el proceso o se detectan desvíos, y se usa como base para el entrenamiento y las auditorías. El mapa no es un entregable de una sola vez: es un instrumento de gestión que acompaña la mejora.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Nigel Slack & Alistair Brandon-Jones — *Operations Management* | capacidad, procesos, variabilidad, calidad y estrategia de operaciones | ¿Qué supuesto de **mapeo de procesos end-to-end** ayuda a desafiar? |
-| Eliyahu M. Goldratt & Jeff Cox — *The Goal* | restricciones, throughput, inventario y pensamiento de flujo | ¿Qué supuesto de **mapeo de procesos end-to-end** ayuda a desafiar? |
-| ISO — *ISO 9001 Quality management systems* | gestión de calidad basada en procesos, evidencia y mejora | ¿Qué supuesto de **mapeo de procesos end-to-end** ayuda a desafiar? |
-| James P. Womack & Daniel T. Jones — *Lean Thinking* | valor, flujo, pull, desperdicio y mejora continua | ¿Qué supuesto de **mapeo de procesos end-to-end** ayuda a desafiar? |
-| Geary A. Rummler & Alan P. Brache — *Improving Performance* | perspectiva de Procesos aplicada al problema de la clase | ¿Qué supuesto de **mapeo de procesos end-to-end** ayuda a desafiar? |
-
-En **mapeo de procesos end-to-end**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **end-to-end process**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Rummler y Brache | Tres niveles de desempeño y análisis de traspasos. | Es una guía general; su aplicación exige juicio. | ¿Dónde están los espacios en blanco de tu organigrama? |
+| Rother y Shook | Mapeo de flujo de valor con tiempos y esperas. | Pensado para manufactura; en servicios se adapta. | ¿Qué fracción del tiempo es espera? |
+| Slack y Brandon-Jones | Medidas de proceso y diseño de operaciones. | No da una técnica de mapeo única. | ¿Qué medida usarás de punta a punta? |
+| Womack y Jones | Valor desde el cliente. | No indica cómo medir en cada sector. | ¿Qué pasos reconocería el cliente? |
+| ISO 9001 | Enfoque de procesos en un sistema de gestión de calidad. | Es un requisito de sistema, no una técnica. | ¿Qué exige documentar y qué no? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Emitir una propuesta tarda nueve días aunque el trabajo activo suma tres horas. La solicitud cruza ventas, legal, finanzas y dirección con esperas no visibles.
+**Situación (hipotética).** En una empresa de 300 personas, una solicitud de crédito interno para capital de trabajo de una unidad demora 18 días hábiles. Finanzas dice que «su parte tarda dos días».
 
-**Paso 1 — definir inicio, fin y cliente.** La gerencia escribe primero el supuesto asociado a **end-to-end process** y evita convertirlo en hecho. Luego busca **lead time** para contrastarlo en el caso de **mapeo de procesos end-to-end**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Paso | Quién | Tiempo activo | Espera previa |
+|---|---|---|---|
+| Solicitud con formulario | Unidad solicitante | 1 h | 0 |
+| Revisión de completitud | Asistente de finanzas | 30 min | 3 días |
+| Análisis financiero | Analista | 4 h | 4 días |
+| Visto bueno del gerente de área | Gerente | 15 min | 5 días |
+| Aprobación del comité | Comité | 45 min | 4 días |
+| Desembolso | Tesorería | 20 min | 2 días |
 
-**Paso 2 — recorrer casos reales.** La gerencia escribe primero el supuesto asociado a **handoff** y evita convertirlo en hecho. Luego busca **touch-time ratio** para contrastarlo en el caso de **mapeo de procesos end-to-end**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Cálculo.** Tiempo activo total: aproximadamente 7 horas y 20 minutos, es decir, menos de un día hábil; espera: 18 días. El 95 % del tiempo es espera. Además, en 4 de 5 casos revisados, el formulario volvió a la unidad una vez por datos faltantes.
 
-**Paso 3 — registrar pasos, handoffs y tiempos.** La gerencia escribe primero el supuesto asociado a **touch time** y evita convertirlo en hecho. Luego busca **handoffs** para contrastarlo en el caso de **mapeo de procesos end-to-end**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Oportunidades.** (1) El comité se reúne cada 14 días y aprueba el 98 % de las solicitudes: se propone un umbral por monto bajo el cual no se requiere. (2) Un formulario con campos obligatorios evita el retorno. (3) El visto bueno del gerente se hace en paralelo con el análisis.
 
-**Paso 4 — marcar rework y decisiones.** La gerencia escribe primero el supuesto asociado a **wait time** y evita convertirlo en hecho. Luego busca **rework** para contrastarlo en el caso de **mapeo de procesos end-to-end**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — calcular lead time versus touch time.** La gerencia escribe primero el supuesto asociado a **rework** y evita convertirlo en hecho. Luego busca **queue time** para contrastarlo en el caso de **mapeo de procesos end-to-end**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **mapeo de procesos end-to-end**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) «Mi parte tarda dos días» era cierto y no explicaba nada. (2) La espera, no el trabajo, dominaba el plazo. (3) Cada mejora debe revisarse en su riesgo: el umbral requiere acordar con control interno.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **end-to-end process** | flujo completo que produce un outcome para un cliente interno o externo | Cuando lead time es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **handoff** | transferencia entre roles o sistemas | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Mapa de proceso frente a procedimiento.** El mapa muestra el flujo y sus esperas; el procedimiento detalla cómo hacer cada tarea (clase 087). Se necesita primero entender el flujo y luego estandarizar su mejor versión.
 
-**Frontera de aplicación:** Un mapa detallado no cambia nada por sí mismo. Debe terminar en hipótesis de mejora y owner; evita documentar cada excepción antes de entender el flujo dominante.
+**Límites.** Un mapa fija el proceso en un momento y puede quedar obsoleto. Los tiempos de pocos casos pueden no representar la variación real; con pocos datos se declara la incertidumbre. En trabajo creativo o de alta variabilidad un único mapa no basta; se mapean familias de casos. Y los umbrales de aprobación o los controles pueden tener razones legales o de auditoría que deben conocerse antes de eliminarlos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre mapeo de procesos end-to-end |
+| Nivel | Cómo participa en el mapeo |
 |---|---|
-| **Profesional** | usa **mapeo de procesos end-to-end** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **end-to-end process** y **handoff** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta lead time con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si mapeo de procesos end-to-end cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de mapeo de procesos end-to-end reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **mapeo de procesos end-to-end** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Describe cómo hace realmente su trabajo y qué le llega incompleto. |
+| **Jefe / Team Lead** | Mapea el flujo de su equipo y sus traspasos. |
+| **Gerente** | Convoca el mapeo entre áreas y prioriza mejoras. |
+| **CEO / Director** | Pide mapas de los procesos centrales y decide dónde invertir. |
+| **Founder / Owner** | Mapea su proceso clave antes de que el crecimiento lo vuelva ingobernable. |
 
 ## 🏢 Caso ejecutivo
 
-Emitir una propuesta tarda nueve días aunque el trabajo activo suma tres horas. La solicitud cruza ventas, legal, finanzas y dirección con esperas no visibles.
+Una empresa de telecomunicaciones tarda en promedio 27 días en dar de alta un servicio para clientes corporativos, frente a 12 que prometió su competidor. El proceso atraviesa ventas, factibilidad técnica, contratos, instalación y facturación. Cada área informa un buen tiempo propio, y la dirección piensa en contratar más gente. El gerente de operaciones propone mapear el proceso antes de decidir.
 
-Entrega un **decision brief de mapeo de procesos end-to-end** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **mapa verificado y un plan de mejora** que incluya: (a) delimitación con disparador, salida, cliente y dueño; (b) un mapa de nivel alto y uno de la parte con más espera; (c) tiempos activos, de espera y total con la fuente de cada dato; (d) los traspasos críticos y la información que se pierde; (e) tres oportunidades priorizadas con efecto esperado y riesgo; (f) cómo validarás el mapa en el lugar de trabajo y quién lo mantendrá.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **mapeo de procesos end-to-end** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir inicio, fin y cliente → 2. recorrer casos reales → 3. registrar pasos, handoffs y tiempos → 4. marcar rework y decisiones → 5. calcular lead time versus touch time** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta lead time, touch-time ratio; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Elige un proceso y define su disparador, salida, cliente y dueño.
+2. Reconstruye tres casos cerrados con fechas y calcula su tiempo total.
+3. Separa tiempo activo y de espera, y calcula qué porcentaje es espera.
+4. Marca los traspasos y anota qué información se pierde en cada uno.
+5. Valida el mapa con quienes hacen el trabajo y corrige lo que difiera.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar end-to-end process y handoff como sinónimos | Se pierde la distinción entre “flujo completo que produce un outcome para un cliente interno o externo” y “transferencia entre roles o sistemas” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “calcular lead time versus touch time” | Se saltó “definir inicio, fin y cliente” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir inicio, fin y cliente → 2. recorrer casos reales → 3. registrar pasos, handoffs y tiempos → 4. marcar rework y decisiones → 5. calcular lead time versus touch time y marca el primer supuesto no demostrado. |
-| Optimizar solo lead time | La métrica local sustituyó al resultado del sistema | Contrástala con touch-time ratio y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre mapeo de procesos end-to-end | Un mapa detallado no cambia nada por sí mismo. Debe terminar en hipótesis de mejora y owner; evita documentar cada excepción antes de entender el flujo dominante. |
-| No fijar revisión | Una decisión sobre mapeo de procesos end-to-end se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Mapear la versión oficial | Se parte del manual | Seguir casos reales. |
+| Medir solo tiempo activo | Es lo que cada área controla | Medir también la espera y el total. |
+| Mapa sin dueño ni límites | Se quiere abarcar todo | Delimitar con disparador y salida. |
+| Detalle excesivo | Se cree que más es mejor | Capas: alto nivel y luego detalle donde duele. |
+| Eliminar controles sin entenderlos | Se ven como burocracia | Verificar su razón antes de quitarlos. |
+| Mapa que envejece | Nadie lo actualiza | Dueño y revisión periódica. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **end-to-end process** y **handoff** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **touch time** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir inicio, fin y cliente → recorrer casos reales** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **lead time** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **mapeo de procesos end-to-end**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un mapa detallado no cambia nada por sí mismo. Debe terminar en hipótesis de mejora y owner; evita documentar cada excepción antes de entender el flujo dominante.**?
+1. ¿Qué cuatro definiciones se acuerdan antes de dibujar un mapa?
+2. ¿Por qué se siguen casos reales en vez de usar el procedimiento escrito?
+3. ¿Qué diferencia hay entre tiempo activo, espera y tiempo total?
+4. ¿Qué tres riesgos introduce cada traspaso?
+5. ¿Qué niveles de detalle conviene usar y por qué?
+6. ¿Qué señales de oportunidad se buscan en un mapa?
+7. ¿Qué cuidado se tiene antes de eliminar un control?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Disparador, salida, cliente y dueño.
+2. Porque la versión oficial y la real casi nunca coinciden, y los casos revelan rodeos y esperas.
+3. Activo es el tiempo en que alguien trabaja el caso; espera es el tiempo en que no avanza; total es lo que percibe el cliente.
+4. Espera, pérdida de información y ambigüedad de responsabilidad.
+5. Alto nivel para acordar alcance, medio donde hay espera y detalle solo para estandarizar, porque más detalle esconde lo importante.
+6. Colas largas, retrabajos, aprobaciones casi siempre concedidas, información pedida dos veces y controles antiguos.
+7. Verificar su razón legal, de auditoría o de riesgo antes de quitarlo.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/086-mapeo-de-procesos-end-to-end/`:
 
-- `operating-improvement-brief.md` con el problema específico de **mapeo de procesos end-to-end**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **mapeo de procesos end-to-end** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **end-to-end process**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Emitir una propuesta tarda nueve días aunque el trabajo activo suma tres horas. La solicitud cruza ventas, legal, finanzas y dirección con esperas no visibles.** y el dato que podría invalidar la recomendación.
+- `process-map.md` (plantilla [Process map](../../../../templates/process-map.md)) con el mapa del caso ejecutivo;
+- `operating-improvement-brief.md` (plantilla [Operating Improvement Brief](../../../../templates/operating-improvement-brief.md)) con las tres oportunidades priorizadas;
+- `decision-journal.md` con los casos usados, los tiempos y las validaciones en terreno.
 
 ## 📗 Fuentes y verificación
 
-- Nigel Slack & Alistair Brandon-Jones — *Operations Management* (Pearson Education, Limited, 2019). **Uso en esta clase:** capacidad, procesos, variabilidad, calidad y estrategia de operaciones. Lectura selectiva sobre **mapeo de procesos end-to-end**. **Localizador:** [ISBN-13 9781292254036](https://openlibrary.org/isbn/9781292254036).
-- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** restricciones, throughput, inventario y pensamiento de flujo. Lectura selectiva sobre **mapeo de procesos end-to-end**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
-- ISO — *ISO 9001 Quality management systems*. **Uso en esta clase:** gestión de calidad basada en procesos, evidencia y mejora. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
-- James P. Womack & Daniel T. Jones — *Lean Thinking* (Free Press, 2003). **Uso en esta clase:** valor, flujo, pull, desperdicio y mejora continua. Lectura selectiva sobre **mapeo de procesos end-to-end**. **Localizador:** [ISBN-13 9780743231640](https://openlibrary.org/isbn/9780743231640).
-- Geary A. Rummler & Alan P. Brache — *Improving Performance* (Jossey-Bass, 1995). **Uso en esta clase:** perspectiva de Procesos aplicada al problema de la clase. Lectura selectiva sobre **mapeo de procesos end-to-end**. **Localizador:** [ISBN-13 9780787900908](https://openlibrary.org/isbn/9780787900908).
-- W. Edwards Deming — *Out of the Crisis* (The MIT Press, 2000). **Uso en esta clase:** variación, sistemas, aprendizaje y responsabilidad gerencial por la calidad. Lectura selectiva sobre **mapeo de procesos end-to-end**. **Localizador:** [ISBN-13 9780262541152](https://openlibrary.org/isbn/9780262541152).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **mapeo de procesos end-to-end** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **mapeo de procesos end-to-end**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **mapeo de procesos end-to-end** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **mapeo de procesos end-to-end** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **mapeo de procesos end-to-end** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Geary A. Rummler & Alan P. Brache — *Improving Performance* (Jossey-Bass, 1995). **Uso en esta clase:** tres niveles de desempeño y análisis de traspasos. Lectura selectiva sobre **mapeo de procesos end-to-end**. **Localizador:** [ISBN-13 9780787900908](https://openlibrary.org/isbn/9780787900908).
+- Mike Rother & John Shook — *Learning to See* (Lean Enterprise Institute, 1999). **Uso en esta clase:** mapeo de flujo de valor con tiempos y esperas. Lectura selectiva sobre **mapeo de procesos end-to-end**. **Localizador:** [ISBN-13 9780966784305](https://openlibrary.org/isbn/9780966784305).
+- Nigel Slack & Alistair Brandon-Jones — *Operations Management* (Pearson Education, Limited, 2019). **Uso en esta clase:** medidas de proceso y diseño de operaciones. Lectura selectiva sobre **mapeo de procesos end-to-end**. **Localizador:** [ISBN-13 9781292254036](https://openlibrary.org/isbn/9781292254036).
+- James P. Womack & Daniel T. Jones — *Lean Thinking* (Free Press, 2003). **Uso en esta clase:** valor definido desde el cliente. Lectura selectiva sobre **mapeo de procesos end-to-end**. **Localizador:** [ISBN-13 9780743231640](https://openlibrary.org/isbn/9780743231640).
+- ISO — *ISO 9001 Quality management systems*. **Uso en esta clase:** enfoque de procesos en un sistema de gestión de calidad. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
 
-> **Regla de fuentes para Mapeo de procesos end-to-end:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **mapeo de procesos end-to-end** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Mapeo de procesos end-to-end:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

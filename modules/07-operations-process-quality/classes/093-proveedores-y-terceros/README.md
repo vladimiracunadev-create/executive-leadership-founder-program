@@ -10,217 +10,186 @@
 
 ## 🎯 Propósito
 
-Gestionar proveedores y terceros extiende responsabilidad más allá de la frontera legal de la empresa. Debe evaluar criticidad, concentración, contratos, niveles de servicio, seguridad, continuidad y salida. El proveedor ejecuta; la organización sigue siendo responsable de su propia promesa al cliente.
+Ninguna empresa hace todo sola. Proveedores, subcontratistas, plataformas, distribuidores y socios forman parte de la operación, y cuando uno falla, el cliente no distingue a quién culpar: la falla es de quien le vendió. Gestionar terceros no es solo negociar precio, sino decidir **qué se hace dentro y qué se compra fuera**, cuánto depender de cada proveedor y qué plan existe si dejan de cumplir. La dependencia no declarada es un riesgo operativo y estratégico.
 
-La salida de esta parte es **operar procesos end-to-end con capacidad, calidad, continuidad y mejora**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **proveedores y terceros** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la economía de costos de transacción de Williamson para entender cuándo conviene hacer o comprar y cuándo aparece dependencia, en los requisitos de ISO 9001 sobre control de procesos suministrados externamente, en ISO 22301 sobre continuidad y en la gestión de operaciones de Slack y Brandon-Jones. Al terminar sabrás clasificar proveedores por impacto y facilidad de sustitución, estructurar la relación según esa clasificación, evaluarlos y preparar salidas.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `third-party risk`, `criticality`, `concentration risk`, `exit plan`, `SLA` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. clasificar terceros por criticidad → 2. hacer due diligence proporcional → 3. definir contratos y controles → 4. monitorear performance y riesgo → 5. probar exit y continuidad** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** SLA breaches, concentración de gasto, incidentes de terceros sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Decidir** de forma razonada qué hacer internamente y qué comprar a terceros.
+2. **Clasificar** proveedores por impacto en el negocio y dificultad de sustitución.
+3. **Evaluar** proveedores con criterios más amplios que el precio.
+4. **Estructurar** acuerdos de servicio, seguimiento y plan de salida.
+5. **Identificar** la dependencia de proveedores de proveedores y concentración.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define third-party risk y criticality sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con SLA breaches y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ¿qué proveedor, si desaparece mañana, detendría tu operación? |
+| 20–60 min | Hacer o comprar, clasificación, evaluación y salida. |
+| 60–105 min | Ejemplo trabajado: un proveedor de plataforma de pagos. |
+| 105–150 min | Caso ejecutivo y práctica. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **third-party risk** | riesgo introducido por dependencia de un proveedor o socio | Distingue un hecho compatible y otro que lo refute. |
-| **criticality** | impacto si el tercero falla | Distingue un hecho compatible y otro que lo refute. |
-| **concentration risk** | dependencia excesiva de un proveedor, región o tecnología | Distingue un hecho compatible y otro que lo refute. |
-| **exit plan** | capacidad práctica de terminar o migrar la relación | Distingue un hecho compatible y otro que lo refute. |
-| **SLA** | compromiso de nivel de servicio con medición y remedios | Distingue un hecho compatible y otro que lo refute. |
+| **Hacer o comprar** | Decisión de producir internamente o adquirir a un tercero. | Se compara costo, control, riesgo y capacidades. |
+| **Proveedor crítico** | Tercero cuya falla detiene o degrada una operación esencial. | No tiene reemplazo rápido. |
+| **Costo de transacción** | Costo de buscar, negociar, vigilar y hacer cumplir un acuerdo. | Aumenta con la incertidumbre y la inversión específica. |
+| **Activo específico** | Inversión que vale mucho en una relación y poco fuera de ella. | Crea dependencia mutua o unilateral. |
+| **Concentración** | Dependencia de un solo proveedor, región o tecnología. | Un solo punto de falla. |
+| **Plan de salida** | Preparación para terminar la relación o cambiar de proveedor. | Datos, conocimiento y alternativa identificados. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 093: 1. clasificar terceros por criticidad → 2. hacer due diligence proporcional → 3. definir contratos y controles → 4. monitorear performance y riesgo → 5. probar exit y continuidad](modelo-mental.svg)
+![Cuadrante de impacto en el negocio y dificultad de sustituir al proveedor, con la gestión que corresponde en cada zona.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. clasificar terceros por criticidad → 2. hacer due diligence proporcional → 3. definir contratos y controles → 4. monitorear performance y riesgo → 5. probar exit y continuidad
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Gestionar proveedores y terceros extiende responsabilidad más allá de la frontera legal de la empresa. Debe evaluar criticidad, concentración, contratos, niveles de servicio, seguridad, continuidad y salida. El proveedor ejecuta; la organización sigue siendo responsable de su propia promesa al cliente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Duplicar proveedores no siempre es económico ni reduce riesgo si comparten la misma infraestructura. Analiza concentración real y costo de salida, no solo número de contratos.**
+**Cómo leer el diagrama.** Dos ejes: cuánto afecta el proveedor al negocio y cuán difícil es reemplazarlo. En la zona de **alto impacto y difícil sustitución** se necesita relación cercana, contrato claro y plan de salida; donde el impacto es alto pero la sustitución es fácil basta con **tener una alternativa probada**; donde el impacto es bajo se **simplifica la compra**, pero se vigila que la dependencia no crezca sin que se note.
 
 ## 📖 Desarrollo
 
-### 1. third-party risk: mecanismo central
+### 1. Hacer o comprar
 
-**third-party risk** se entiende aquí como **riesgo introducido por dependencia de un proveedor o socio**. Esta es la pieza causal o estructural desde la que se inicia **proveedores y terceros**: antes de clasificar terceros por criticidad, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La pregunta de fondo es qué actividades debe controlar la empresa y cuáles puede adquirir. Williamson explica que el mercado es eficiente cuando los bienes son estándar y fáciles de comparar, pero que, cuando la relación exige inversiones específicas, hay incertidumbre y se repite, aparecen costos de transacción y riesgo de dependencia que pueden favorecer integrar la actividad o pactar contratos más elaborados. En términos prácticos: se produce internamente lo que **es central a la ventaja competitiva** o **es demasiado riesgoso de depender**, y se compra lo que es estándar y tiene mercado competitivo.
 
-La lectura rectora de este bloque es Nigel Slack & Alistair Brandon-Jones — *Operations Management*. Su aporte se usa para examinar **capacidad, procesos, variabilidad, calidad y estrategia de operaciones**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **SLA breaches**; regístrala con periodo, unidad, población y baseline.
+### 2. Clasificar a los proveedores
 
-Relaciona el mecanismo con **criticality**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+No todos requieren la misma atención. Una clasificación simple usa dos preguntas: **¿cuánto afecta al negocio si falla?** y **¿qué tan difícil es reemplazarlo?** Esto da cuatro grupos: críticos y difíciles de sustituir (alianza y plan de salida), críticos pero sustituibles (alternativa probada), poco críticos y sustituibles (compra simple) y poco críticos pero difíciles de sustituir (vigilar). La clasificación se revisa cuando cambia el negocio: un proveedor que era marginal puede volverse crítico sin que nadie lo note.
 
-### 2. criticality: frontera conceptual y error de clasificación
+### 3. Evaluar más allá del precio
 
-**Definición operacional:** impacto si el tercero falla. Su valor está en distinguirlo de **third-party risk** y **concentration risk**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+El precio es un criterio, no el único. Se evalúan **capacidad y estabilidad** (¿puede crecer con nosotros?, ¿está financieramente sano?), **calidad y desempeño** (historial, indicadores), **riesgos** (concentración geográfica, dependencias propias, seguridad de la información, continuidad), **cumplimiento** (normativa, ética, protección de datos) y **relación** (flexibilidad, transparencia). ISO 9001 exige determinar los controles de procesos y servicios suministrados externamente en proporción a su impacto y a la capacidad del proveedor. El costo total de propiedad incluye gestión, fallas y salida.
 
-Contrasta el problema con Eliyahu M. Goldratt & Jeff Cox — *The Goal*, que aporta una mirada sobre **restricciones, throughput, inventario y pensamiento de flujo**. Formula dos mini-casos: uno que sí satisface la definición de **criticality** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **concentración de gasto** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Estructurar la relación
 
-Antes de hacer due diligence proporcional, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Los acuerdos se ajustan a la clasificación. Con un proveedor crítico: **niveles de servicio medibles** (clase 092), derechos de auditoría, obligaciones de aviso de incidentes, planes de continuidad, responsabilidades y remedios, propiedad y portabilidad de datos y condiciones de terminación y transición. Con uno estándar: términos simples y comparables. La redacción y las cláusulas jurídicas se preparan con asesoría legal; lo operativo se define con quien usa el servicio. Un contrato sin seguimiento es un papel: se acuerda una frecuencia de reuniones, informes y revisión.
 
-### 3. concentration risk: operacionalización y medición
+### 5. Concentración y dependencias ocultas
 
-**concentration risk** significa **dependencia excesiva de un proveedor, región o tecnología**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+La concentración aparece en varias formas: un único proveedor para una función esencial, varios proveedores que dependen de la misma infraestructura o región, o una tecnología sin alternativas viables. Los proveedores de proveedores (la cuarta parte) también importan: si el servicio de pagos depende de una nube específica, una falla de esa nube te afecta aunque el contrato sea con otro. Se mapea la cadena de dependencias para los procesos críticos y se decide dónde diversificar, dónde mantener un respaldo mínimo y dónde aceptar el riesgo con conciencia.
 
-Geary A. Rummler & Alan P. Brache — *Improving Performance* orienta este bloque mediante **perspectiva de Procesos aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **incidentes de terceros**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Seguimiento y desempeño
 
-Al llegar a definir contratos y controles, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Se mide el desempeño del proveedor con indicadores acordados, se registran incidentes y se revisa periódicamente con él. La conversación no es solo de reclamo: los proveedores que comprenden el negocio del cliente pueden aportar mejoras. Se evita la relación puramente adversarial con quienes son críticos, porque la transparencia en los problemas es la que permite reaccionar a tiempo. Y se registran las decisiones: por qué se eligió, qué se esperaba y qué cambió, para aprender del historial.
 
-### 4. exit plan: trade-offs y efectos de segundo orden
+### 7. Plan de salida
 
-**Definición:** capacidad práctica de terminar o migrar la relación. Este concepto obliga a abandonar la idea de que **proveedores y terceros** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de monitorear performance y riesgo, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-ISO — *ISO 9001 Quality management systems* aporta una lente sobre **gestión de calidad basada en procesos, evidencia y mejora**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **tiempo de reemplazo** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **proveedores y terceros**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **exit plan** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. SLA: gobernanza, límites e integración
-
-**SLA** se define como **compromiso de nivel de servicio con medición y remedios** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Michael Hammer & James Champy — *Reengineering the Corporation* se utiliza para estudiar **perspectiva de Procesos aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar probar exit y continuidad, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Duplicar proveedores no siempre es económico ni reduce riesgo si comparten la misma infraestructura. Analiza concentración real y costo de salida, no solo número de contratos.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **third-party risk**, **criticality**, **concentration risk**, **exit plan** y **SLA** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **proveedores y terceros** no consiste en sumar cinco definiciones. Empieza por **third-party risk**, contrasta **criticality** con **concentration risk**, incorpora **exit plan** como restricción o mecanismo y usa **SLA** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. clasificar terceros por criticidad → 2. hacer due diligence proporcional → 3. definir contratos y controles → 4. monitorear performance y riesgo → 5. probar exit y continuidad**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Todo contrato crítico debería tener un plan de salida **antes** de necesitarlo: qué datos y conocimiento se pueden recuperar y en qué formato, qué alternativas existen y cuánto tardaría cambiar, qué costos tiene y qué obligaciones de transición asume el proveedor. En algunos casos conviene mantener un segundo proveedor activo con un volumen pequeño para conservar la capacidad de cambiar. Un plan de salida nunca ejercido es una hipótesis: se prueba con un ejercicio parcial (por ejemplo, restaurar datos exportados) para comprobar que funciona.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Nigel Slack & Alistair Brandon-Jones — *Operations Management* | capacidad, procesos, variabilidad, calidad y estrategia de operaciones | ¿Qué supuesto de **proveedores y terceros** ayuda a desafiar? |
-| Eliyahu M. Goldratt & Jeff Cox — *The Goal* | restricciones, throughput, inventario y pensamiento de flujo | ¿Qué supuesto de **proveedores y terceros** ayuda a desafiar? |
-| Geary A. Rummler & Alan P. Brache — *Improving Performance* | perspectiva de Procesos aplicada al problema de la clase | ¿Qué supuesto de **proveedores y terceros** ayuda a desafiar? |
-| ISO — *ISO 9001 Quality management systems* | gestión de calidad basada en procesos, evidencia y mejora | ¿Qué supuesto de **proveedores y terceros** ayuda a desafiar? |
-| Michael Hammer & James Champy — *Reengineering the Corporation* | perspectiva de Procesos aplicada al problema de la clase | ¿Qué supuesto de **proveedores y terceros** ayuda a desafiar? |
-
-En **proveedores y terceros**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **third-party risk**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Williamson (1979) | Costos de transacción, activos específicos y dependencia. | Marco teórico; no da una lista de verificación. | ¿Qué inversión específica ata tu relación? |
+| ISO 9001 | Control de procesos y servicios suministrados externamente. | Exige determinar controles, no los define. | ¿Qué control aplicas a cada proveedor? |
+| ISO 22301 | Continuidad que incluye dependencias de terceros. | Es un estándar de sistema, no un contrato. | ¿Qué ocurre si cae tu proveedor? |
+| Slack y Brandon-Jones | Gestión de la cadena de suministro y relaciones. | Es general. | ¿Qué relación necesita cada proveedor? |
+| Hammer y Champy | Reducir fronteras que añaden traspasos. | Su enfoque radical tiene costos. | ¿Qué traspasos con terceros añaden espera? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** El core de pagos depende de un único SaaS sin plan de exportación de datos. El precio sube 80% y la empresa descubre que migrar requiere nueve meses.
+**Situación (hipotética).** Una tienda en línea con ventas anuales de USD 20 millones usa un único proveedor de plataforma de pagos, que procesa el 100 % de las transacciones. El proveedor sube su comisión de 2,4 % a 2,9 % con aviso de 30 días. Migrar costaría unas 8 semanas de trabajo técnico y riesgo de interrupción.
 
-**Paso 1 — clasificar terceros por criticidad.** La gerencia escribe primero el supuesto asociado a **third-party risk** y evita convertirlo en hecho. Luego busca **SLA breaches** para contrastarlo en el caso de **proveedores y terceros**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Pregunta | Respuesta |
+|---|---|
+| Impacto si falla | Alto: sin pagos no hay ventas. |
+| Dificultad de sustitución | Alta: integración propia, historial de clientes y tarjetas guardadas dentro del proveedor. |
+| Zona del cuadrante | Alto impacto y difícil de sustituir: alianza y plan de salida. |
+| Costo del alza | 0,5 puntos × USD 20 millones = USD 100.000 al año. |
+| Costo de migrar | Estimado entre USD 60.000 y USD 120.000 más riesgo de interrupción. |
 
-**Paso 2 — hacer due diligence proporcional.** La gerencia escribe primero el supuesto asociado a **criticality** y evita convertirlo en hecho. Luego busca **concentración de gasto** para contrastarlo en el caso de **proveedores y terceros**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Decisión.** La empresa no migra de inmediato, pero (a) negocia con el proveedor usando una cotización de un segundo proveedor como referencia, (b) integra al segundo proveedor para el 10 % de las transacciones, (c) exige portabilidad de las tarjetas guardadas con un procedimiento documentado y (d) incorpora en el contrato un aviso de 90 días para cambios de precio.
 
-**Paso 3 — definir contratos y controles.** La gerencia escribe primero el supuesto asociado a **concentration risk** y evita convertirlo en hecho. Luego busca **incidentes de terceros** para contrastarlo en el caso de **proveedores y terceros**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Resultado.** El proveedor acepta 2,6 % y los 90 días de aviso; la empresa mantiene el segundo proveedor como respaldo. El costo se evalúa trimestralmente contra el de migrar completamente.
 
-**Paso 4 — monitorear performance y riesgo.** La gerencia escribe primero el supuesto asociado a **exit plan** y evita convertirlo en hecho. Luego busca **tiempo de reemplazo** para contrastarlo en el caso de **proveedores y terceros**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — probar exit y continuidad.** La gerencia escribe primero el supuesto asociado a **SLA** y evita convertirlo en hecho. Luego busca **controles pendientes** para contrastarlo en el caso de **proveedores y terceros**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **proveedores y terceros**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La dependencia estaba escondida en la comodidad. (2) El segundo proveedor fue una herramienta de negociación y de continuidad. (3) El plan de salida se hizo antes de necesitarlo.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **third-party risk** | riesgo introducido por dependencia de un proveedor o socio | Cuando SLA breaches es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **criticality** | impacto si el tercero falla | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Tercerizar frente a integrar.** Tercerizar baja la inversión y da flexibilidad; integrar da control y protege conocimiento. La decisión cambia con el tiempo: lo que era marginal puede volverse central.
 
-**Frontera de aplicación:** Duplicar proveedores no siempre es económico ni reduce riesgo si comparten la misma infraestructura. Analiza concentración real y costo de salida, no solo número de contratos.
+**Límites.** El cuadrante simplifica; algunos proveedores caen en el límite entre zonas y requieren juicio. Evaluar proveedores exige datos que no siempre se obtienen (finanzas, subcontratistas). Los aspectos contractuales —responsabilidad, protección de datos, cláusulas de salida— son jurídicos y se resuelven con asesoría y la normativa aplicable, incluyendo la de datos personales y la sectorial. Y la diversificación tiene costo: dos proveedores duplican parte de la gestión.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre proveedores y terceros |
+| Nivel | Cómo participa con terceros |
 |---|---|
-| **Profesional** | usa **proveedores y terceros** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **third-party risk** y **criticality** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta SLA breaches con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si proveedores y terceros cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de proveedores y terceros reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **proveedores y terceros** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Usa el servicio y reporta fallas con evidencia. |
+| **Jefe / Team Lead** | Hace seguimiento operativo del proveedor de su área. |
+| **Gerente** | Clasifica proveedores, negocia acuerdos y vigila la concentración. |
+| **CEO / Director** | Decide qué actividades se controlan internamente y qué dependencias se aceptan. |
+| **Founder / Owner** | Evita depender de un solo proveedor para lo esencial sin un respaldo mínimo. |
 
 ## 🏢 Caso ejecutivo
 
-El core de pagos depende de un único SaaS sin plan de exportación de datos. El precio sube 80% y la empresa descubre que migrar requiere nueve meses.
+Una fintech en crecimiento depende de una empresa que le entrega los datos de identificación de clientes, de otra que aloja su plataforma y de una tercera que envía las notificaciones. La empresa de identificación ha sufrido dos caídas en tres meses y está en conversaciones para ser adquirida por un competidor. El proveedor de alojamiento tiene el 100 % de la infraestructura en una sola región. El equipo de compras propone cambiar a quien ofrezca menor precio.
 
-Entrega un **decision brief de proveedores y terceros** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan de gestión de terceros** que contenga: (a) la decisión de hacer o comprar para cada función; (b) la clasificación de los tres proveedores; (c) los criterios de evaluación más allá del precio; (d) las condiciones contractuales que se pedirán, señalando qué se derivará a asesoría legal; (e) los riesgos de concentración y dependencias ocultas; (f) el plan de salida y el ejercicio para probarlo.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **proveedores y terceros** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. clasificar terceros por criticidad → 2. hacer due diligence proporcional → 3. definir contratos y controles → 4. monitorear performance y riesgo → 5. probar exit y continuidad** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta SLA breaches, concentración de gasto; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Lista tus diez proveedores principales y clasifícalos en el cuadrante.
+2. Elige uno crítico y mapea de qué depende él.
+3. Define cinco criterios de evaluación con su evidencia.
+4. Escribe qué contendría un plan de salida para ese proveedor.
+5. Propón un ejercicio parcial para probar el plan.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar third-party risk y criticality como sinónimos | Se pierde la distinción entre “riesgo introducido por dependencia de un proveedor o socio” y “impacto si el tercero falla” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “probar exit y continuidad” | Se saltó “clasificar terceros por criticidad” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. clasificar terceros por criticidad → 2. hacer due diligence proporcional → 3. definir contratos y controles → 4. monitorear performance y riesgo → 5. probar exit y continuidad y marca el primer supuesto no demostrado. |
-| Optimizar solo SLA breaches | La métrica local sustituyó al resultado del sistema | Contrástala con concentración de gasto y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre proveedores y terceros | Duplicar proveedores no siempre es económico ni reduce riesgo si comparten la misma infraestructura. Analiza concentración real y costo de salida, no solo número de contratos. |
-| No fijar revisión | Una decisión sobre proveedores y terceros se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Decidir solo por precio | Es lo comparable | Evaluar riesgo, capacidad y costo total. |
+| No clasificar proveedores | Todos se tratan igual | Usar impacto y sustituibilidad. |
+| Dependencia oculta | Nadie la mapea | Mapear la cadena de dependencias. |
+| Contrato sin seguimiento | Se firma y se archiva | Reuniones, indicadores y revisión. |
+| Sin plan de salida | Parece pesimista | Prepararlo antes y probarlo. |
+| Relación solo adversarial | Se busca presión | Transparencia con los críticos. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **third-party risk** y **criticality** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **concentration risk** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **clasificar terceros por criticidad → hacer due diligence proporcional** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **SLA breaches** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **proveedores y terceros**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Duplicar proveedores no siempre es económico ni reduce riesgo si comparten la misma infraestructura. Analiza concentración real y costo de salida, no solo número de contratos.**?
+1. ¿Qué criterio práctico decide hacer o comprar?
+2. ¿Qué dos ejes clasifican a los proveedores?
+3. ¿Qué es un activo específico y por qué crea dependencia?
+4. ¿Qué se evalúa de un proveedor además del precio?
+5. ¿Qué incluye un acuerdo con un proveedor crítico?
+6. ¿Por qué importan los proveedores de los proveedores?
+7. ¿Por qué se prueba el plan de salida?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Se produce lo central a la ventaja competitiva o demasiado riesgoso de depender, y se compra lo estándar con mercado competitivo.
+2. Impacto en el negocio si falla y dificultad de sustituirlo.
+3. Una inversión que vale mucho en esa relación y poco fuera de ella; ata a quien la hizo.
+4. Capacidad y estabilidad, calidad, riesgos, cumplimiento y relación.
+5. Niveles de servicio, derechos de auditoría, aviso de incidentes, continuidad, portabilidad de datos, remedios y transición; redactado con asesoría legal.
+6. Porque su falla puede afectar tu servicio aunque no tengas contrato con ellos.
+7. Porque un plan no ejercitado es una hipótesis; probarlo revela lo que no funcionaría.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/093-proveedores-y-terceros/`:
 
-- `leadership-decision-brief.md` con el problema específico de **proveedores y terceros**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **proveedores y terceros** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **third-party risk**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **El core de pagos depende de un único SaaS sin plan de exportación de datos. El precio sube 80% y la empresa descubre que migrar requiere nueve meses.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el plan de gestión de terceros del caso ejecutivo;
+- `risk-register.md` (plantilla [Risk register](../../../../templates/risk-register.md)) con la concentración y las dependencias ocultas;
+- `decision-journal.md` con la clasificación, los criterios de evaluación y el plan de salida.
 
 ## 📗 Fuentes y verificación
 
-- Nigel Slack & Alistair Brandon-Jones — *Operations Management* (Pearson Education, Limited, 2019). **Uso en esta clase:** capacidad, procesos, variabilidad, calidad y estrategia de operaciones. Lectura selectiva sobre **proveedores y terceros**. **Localizador:** [ISBN-13 9781292254036](https://openlibrary.org/isbn/9781292254036).
-- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** restricciones, throughput, inventario y pensamiento de flujo. Lectura selectiva sobre **proveedores y terceros**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
-- Geary A. Rummler & Alan P. Brache — *Improving Performance* (Jossey-Bass, 1995). **Uso en esta clase:** perspectiva de Procesos aplicada al problema de la clase. Lectura selectiva sobre **proveedores y terceros**. **Localizador:** [ISBN-13 9780787900908](https://openlibrary.org/isbn/9780787900908).
-- ISO — *ISO 9001 Quality management systems*. **Uso en esta clase:** gestión de calidad basada en procesos, evidencia y mejora. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
-- Michael Hammer & James Champy — *Reengineering the Corporation* (HarperBusiness, 2001). **Uso en esta clase:** perspectiva de Procesos aplicada al problema de la clase. Lectura selectiva sobre **proveedores y terceros**. **Localizador:** [ISBN-13 9780066621128](https://openlibrary.org/isbn/9780066621128).
-- James P. Womack & Daniel T. Jones — *Lean Thinking* (Free Press, 2003). **Uso en esta clase:** valor, flujo, pull, desperdicio y mejora continua. Lectura selectiva sobre **proveedores y terceros**. **Localizador:** [ISBN-13 9780743231640](https://openlibrary.org/isbn/9780743231640).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **proveedores y terceros** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **proveedores y terceros**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **proveedores y terceros** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **proveedores y terceros** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **proveedores y terceros** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Oliver E. Williamson — *Transaction-Cost Economics: The Governance of Contractual Relations* (The Journal of Law and Economics, 1979). **Uso en esta clase:** costos de transacción, activos específicos y dependencia. Lectura selectiva sobre **proveedores y terceros**. **Localizador:** [DOI 10.1086/466942](https://doi.org/10.1086/466942).
+- ISO — *ISO 9001 Quality management systems*. **Uso en esta clase:** control de procesos y servicios suministrados externamente. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
+- ISO — *ISO 22301 Business continuity management systems*. **Uso en esta clase:** continuidad que incluye dependencias de terceros. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
+- Nigel Slack & Alistair Brandon-Jones — *Operations Management* (Pearson Education, Limited, 2019). **Uso en esta clase:** gestión de la cadena de suministro y relaciones. Lectura selectiva sobre **proveedores y terceros**. **Localizador:** [ISBN-13 9781292254036](https://openlibrary.org/isbn/9781292254036).
+- Michael Hammer & James Champy — *Reengineering the Corporation* (HarperBusiness, 2001). **Uso en esta clase:** reducir fronteras que añaden traspasos. Lectura selectiva sobre **proveedores y terceros**. **Localizador:** [ISBN-13 9780066621128](https://openlibrary.org/isbn/9780066621128).
 
-> **Regla de fuentes para Proveedores y terceros:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **proveedores y terceros** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Proveedores y terceros:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, y los contratos, la protección de datos y la normativa sectorial se revisan con asesoría legal. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

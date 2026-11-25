@@ -1,65 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 574.12" width="1040" role="img" aria-labelledby="t-g92 d-g92" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t-g92">Ficha visual de la clase 092: SLA, SLO y niveles de servicio</title>
-<desc id="d-g92">Conceptos: SLI; SLO; SLA; error budget; availability. Método: seleccionar experiencia crítica y SLI → definir SLO según usuario y costo → crear buffer antes del SLA → medir error budget → tocar capacidad o cambios cuando se consume.</desc>
-<defs><marker id="p-g92" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
-<rect width="1040" height="574.12" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="120.67" height="24" rx="12" fill="#0969da"/>
-<text x="88.335" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MODELO MENTAL</text>
-<text x="164.67" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 092 · SLA, SLO y niveles de servicio</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 07 · Liderazgo de equipos y ejecución</text>
-<text x="28" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ HAY QUE DISTINGUIR</text>
-<circle cx="38" cy="112" r="5" fill="#0969da"/>
-<text x="54" y="117" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >SLI</text>
-<text x="54" y="135" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >indicador medido de un aspecto del servicio</text>
-<circle cx="38" cy="170" r="5" fill="#0969da"/>
-<text x="54" y="175" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >SLO</text>
-<text x="54" y="193" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >objetivo de confiabilidad o desempeño para un SLI</text>
-<circle cx="38" cy="228" r="5" fill="#0969da"/>
-<text x="54" y="233" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >SLA</text>
-<text x="54" y="251" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >acuerdo externo que especifica nivel y consecuencia</text>
-<circle cx="38" cy="286" r="5" fill="#0969da"/>
-<text x="54" y="291" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >error budget</text>
-<text x="54" y="309" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >margen de incumplimiento tolerado respecto del SLO</text>
-<circle cx="38" cy="344" r="5" fill="#0969da"/>
-<text x="54" y="349" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >availability</text>
-<text x="54" y="367" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >proporción de tiempo o solicitudes en que el servicio</text>
-<text x="54" y="383.56" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >está utilizable</text>
-<text x="470" y="88" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">CÓMO SE RAZONA, EN ORDEN</text>
-<path d="M485,122 V338" stroke="#0969da" stroke-width="2.5" stroke-opacity="0.35"/>
-<circle cx="485" cy="122" r="14" fill="#0969da"/>
-<text x="485" y="127.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
-<text x="512" y="118" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >seleccionar experiencia crítica y SLI</text>
-<circle cx="485" cy="176" r="14" fill="#0969da"/>
-<text x="485" y="181.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
-<text x="512" y="172" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >definir SLO según usuario y costo</text>
-<circle cx="485" cy="230" r="14" fill="#0969da"/>
-<text x="485" y="235.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
-<text x="512" y="226" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >crear buffer antes del SLA</text>
-<circle cx="485" cy="284" r="14" fill="#0969da"/>
-<text x="485" y="289.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
-<text x="512" y="280" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >medir error budget</text>
-<circle cx="485" cy="338" r="14" fill="#0969da"/>
-<text x="485" y="343.5" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >5</text>
-<text x="512" y="334" font-size="13.5" font-weight="500" fill="#1f2328" text-anchor="start" >tocar capacidad o cambios cuando se consume</text>
-<text x="28" y="430.12" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="442.12" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="41" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="52" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >availability</text>
-<rect x="146.8" y="442.12" width="157.1" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="159.8" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="170.8" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >latency percentiles</text>
-<rect x="313.9" y="442.12" width="143.3" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="326.9" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="337.9" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >error budget burn</text>
-<rect x="467.2" y="442.12" width="108.8" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="480.2" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="491.2" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >SLA breaches</text>
-<rect x="586" y="442.12" width="129.5" height="26" rx="13" fill="#ffffff" stroke="#0969da" stroke-width="1.2" />
-<circle cx="599" cy="455.12" r="3.5" fill="#0969da"/>
-<text x="610" y="459.62" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >customer impact</text>
-<rect x="28" y="488.12" width="984" height="62" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.4" />
-<rect x="28" y="488.12" width="6" height="62" rx="3" fill="#cf222e"/>
-<text x="48" y="508.12" font-size="11.5" font-weight="700" fill="#cf222e" text-anchor="start" letter-spacing="1.4">LÍMITE</text>
-<text x="48" y="526.12" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Más nueves cuestan mucho y pueden no crear valor. La confiabilidad objetivo debe responder al impacto del usuario, no al deseo</text>
-<text x="48" y="543.37" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >abstracto de perfección.</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 522.06" width="1040" role="img" aria-labelledby="t-s92 d-s92" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-s92">Clase 092 · De lo que se mide a lo que se promete</title>
+<desc id="d-s92">Cuatro peldaños para ordenar un nivel de servicio: indicador, objetivo interno, acuerdo con el cliente y presupuesto de error.</desc>
+<defs><marker id="p-s92" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="522.06" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#1a7f37"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 092 · De lo que se mide a lo que se promete</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Beyer et al. (2016) · Slack &amp; Brandon-Jones</text>
+<rect x="130" y="96" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<rect x="130" y="96" width="6" height="63.25" rx="3" fill="#1a7f37"/>
+<circle cx="162" cy="127.625" r="15" fill="#1a7f37"/>
+<text x="162" y="132.625" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="190" y="120" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Presupuesto de error</text>
+<text x="190" y="138" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >La falla tolerable que permite decidir entre estabilidad y cambio.</text>
+<rect x="96" y="169.25" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<rect x="96" y="169.25" width="6" height="63.25" rx="3" fill="#bc4c00"/>
+<circle cx="128" cy="200.875" r="15" fill="#bc4c00"/>
+<text x="128" y="205.875" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="156" y="193.25" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Acuerdo (SLA)</text>
+<text x="156" y="211.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Lo que se promete al cliente, con consecuencias si no se cumple.</text>
+<rect x="62" y="242.5" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<rect x="62" y="242.5" width="6" height="63.25" rx="3" fill="#0969da"/>
+<circle cx="94" cy="274.125" r="15" fill="#0969da"/>
+<text x="94" y="279.125" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="122" y="266.5" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Objetivo (SLO)</text>
+<text x="122" y="284.5" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >El valor interno que se quiere lograr con ese indicador.</text>
+<rect x="28" y="315.75" width="882" height="63.25" rx="10" fill="#ffffff" stroke="#59636e" stroke-width="1.8" />
+<rect x="28" y="315.75" width="6" height="63.25" rx="3" fill="#59636e"/>
+<circle cx="60" cy="347.375" r="15" fill="#59636e"/>
+<text x="60" y="352.375" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="88" y="339.75" font-size="14" font-weight="700" fill="#1f2328" text-anchor="start" >Indicador (SLI)</text>
+<text x="88" y="357.75" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Una medida del servicio que importa al usuario: latencia, disponibilidad, tiempo de respuesta.</text>
+<rect x="28" y="395" width="984" height="60.5" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1" />
+<text x="44" y="417" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >El objetivo interno suele ser más exigente que el acuerdo, para dejar margen. Prometer más de lo que el sistema puede sostener</text>
+<text x="44" y="434.25" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >convierte el servicio en deuda.</text>
+<text x="28" y="481.5" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Las prácticas de SLI y SLO nacen en ingeniería de confiabilidad; en otros servicios se adaptan al tipo de promesa.</text>
 </svg>

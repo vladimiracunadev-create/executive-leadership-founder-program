@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Jefe → Manager"
 outcome: "operar procesos end-to-end con capacidad, calidad, continuidad y mejora"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir SLI de SLO mediante evidencia observable."
-  - "Aplicar la secuencia: seleccionar experiencia crítica y SLI → definir SLO según usuario y costo → crear buffer antes del SLA → medir error budget → tocar capacidad o cambios cuando se consume."
-  - "Interpretar availability, latency percentiles, error budget burn sin atribuir causalidad automática."
-  - "Resolver el caso de sLA, SLO y niveles de servicio con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir indicador (SLI), objetivo (SLO) y acuerdo (SLA)."
+  - "Elegir indicadores que reflejen lo que el usuario percibe."
+  - "Fijar objetivos con base en datos y en lo que el cliente necesita."
+  - "Calcular un presupuesto de error y usarlo en decisiones."
+  - "Redactar un acuerdo de servicio con medición, exclusiones y consecuencias claras."
 deliverable: "operating-improvement-brief.md"
 references:
+  - "Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy — *Site Reliability Engineering*"
   - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
-  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
-  - "W. Edwards Deming — *Out of the Crisis*"
-  - "James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World*"
-  - "ISO — *ISO 22301 Business continuity management systems*"
+  - "ISO — *ISO 9001 Quality management systems*"
   - "James P. Womack & Daniel T. Jones — *Lean Thinking*"
+  - "W. Edwards Deming — *Out of the Crisis*"
 limits:
-  - "Más nueves cuestan mucho y pueden no crear valor. La confiabilidad objetivo debe responder al impacto del usuario, no al deseo abstracto de perfección."
+  - "Los objetivos altos tienen costos crecientes y no siempre vale la pena pagarlos."
 evidence_signals:
-  - "availability"
-  - "latency percentiles"
-  - "error budget burn"
-  - "SLA breaches"
-  - "customer impact"
+  - "indicador desde el usuario"
+  - "objetivo con margen sobre el acuerdo"
+  - "presupuesto de error calculado"
+  - "medición y fuente acordadas"

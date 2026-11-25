@@ -50,7 +50,7 @@
 | Plantillas de trabajo | 45 |
 | Escenarios del simulador | 48 |
 | Obras catalogadas | 229 |
-| Referencias citadas al cierre de clase | 2.831 |
+| Referencias citadas al cierre de clase | 2.759 |
 | Documentos Markdown | 831 |
 
 ## 🧱 Contrato de una clase

@@ -65,18 +65,18 @@ Las clases **93 a 96** la protegen y la rediseñan: terceros, continuidad, autom
 
 | # | Clase | Qué se trabaja | Entregable | Min |
 |---:|---|---|---|---:|
-| 085 | [Pensar la empresa como sistema operativo](classes/085-pensar-la-empresa-como-sistema-operativo/README.md) | operating system, flow, capacity | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 086 | [Mapeo de procesos end-to-end](classes/086-mapeo-de-procesos-end-to-end/README.md) | end-to-end process, handoff, touch time | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
-| 087 | [SOP y trabajo estandarizado](classes/087-sop-y-trabajo-estandarizado/README.md) | SOP, standard work, control point | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 088 | [Capacidad y demanda](classes/088-capacidad-y-demanda/README.md) | demand rate, capacity rate, utilization | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
-| 089 | [Cuellos de botella y teoría de restricciones](classes/089-cuellos-de-botella-y-teoria-de-restricciones/README.md) | constraint, bottleneck, throughput | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 090 | [Lean y eliminación de desperdicio](classes/090-lean-y-eliminacion-de-desperdicio/README.md) | valor, waste, flow | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 091 | [Calidad y variabilidad](classes/091-calidad-y-variabilidad/README.md) | quality, variation, common cause | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
-| 092 | [SLA, SLO y niveles de servicio](classes/092-sla-slo-y-niveles-de-servicio/README.md) | SLI, SLO, SLA | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
-| 093 | [Proveedores y terceros](classes/093-proveedores-y-terceros/README.md) | third-party risk, criticality, concentration risk | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 094 | [Continuidad operacional](classes/094-continuidad-operacional/README.md) | BIA, RTO, RPO | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
-| 095 | [Automatización de procesos](classes/095-automatizacion-de-procesos/README.md) | automation, straight-through processing, exception | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
-| 096 | [Capstone: rediseñar una operación](classes/096-capstone-redisenar-una-operacion/README.md) | target operating model, baseline, future state | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
+| 085 | [Pensar la empresa como sistema operativo](classes/085-pensar-la-empresa-como-sistema-operativo/README.md) | Sistema operativo de la empresa, Proceso, Procesos centrales, de apoyo y de gestión | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 086 | [Mapeo de procesos end-to-end](classes/086-mapeo-de-procesos-end-to-end/README.md) | Proceso de punta a punta, Traspaso (handoff), Tiempo activo | [process-map](../../templates/process-map.md) | 150 |
+| 087 | [SOP y trabajo estandarizado](classes/087-sop-y-trabajo-estandarizado/README.md) | SOP, Trabajo estandarizado, Punto de control | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 088 | [Capacidad y demanda](classes/088-capacidad-y-demanda/README.md) | Capacidad nominal, Capacidad útil, Demanda | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
+| 089 | [Cuellos de botella y teoría de restricciones](classes/089-cuellos-de-botella-y-teoria-de-restricciones/README.md) | Restricción, Cuello de botella, Rendimiento del sistema (throughput) | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
+| 090 | [Lean y eliminación de desperdicio](classes/090-lean-y-eliminacion-de-desperdicio/README.md) | Valor, Desperdicio (muda), Mapa de flujo de valor | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 091 | [Calidad y variabilidad](classes/091-calidad-y-variabilidad/README.md) | Calidad, Variación, Causas comunes | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
+| 092 | [SLA, SLO y niveles de servicio](classes/092-sla-slo-y-niveles-de-servicio/README.md) | SLI (indicador de nivel de servicio), SLO (objetivo de nivel de servicio), SLA (acuerdo de nivel de servicio) | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
+| 093 | [Proveedores y terceros](classes/093-proveedores-y-terceros/README.md) | Hacer o comprar, Proveedor crítico, Costo de transacción | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 094 | [Continuidad operacional](classes/094-continuidad-operacional/README.md) | Continuidad del negocio, Análisis de impacto (BIA), Tiempo objetivo de recuperación (RTO) | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
+| 095 | [Automatización de procesos](classes/095-automatizacion-de-procesos/README.md) | Automatización, Excepción, Supervisión humana | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
+| 096 | [Capstone: rediseñar una operación](classes/096-capstone-redisenar-una-operacion/README.md) | Rediseño de operación, Línea base, Piloto | [operating-improvement-brief](../../templates/operating-improvement-brief.md) | 150 |
 
 ## ⚠️ Riesgos característicos
 
@@ -87,67 +87,80 @@ Las clases **93 a 96** la protegen y la rediseñan: terceros, continuidad, autom
 
 ## 🔤 Glosario de la parte
 
-57 conceptos definidos en las clases, con la definición operacional que usa cada una.
+70 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
-| **automation** | ejecución de tareas por sistema con menor intervención humana. |
-| **availability** | proporción de tiempo o solicitudes en que el servicio está utilizable. |
-| **baseline** | medición del sistema antes de intervenir. |
-| **BCP** | plan de continuidad de negocio. |
-| **benefit case** | valor esperado versus costo y riesgo. |
-| **BIA** | análisis de impacto que prioriza procesos y tiempos críticos. |
-| **bottleneck** | etapa cuya capacidad efectiva restringe el flujo. |
-| **buffer** | reserva de capacidad, inventario o tiempo para absorber variabilidad. |
-| **capacity** | ritmo sostenible de producción. |
-| **capacity rate** | ritmo máximo sostenible de procesamiento. |
-| **common cause** | variación inherente al sistema actual. |
-| **concentration risk** | dependencia excesiva de un proveedor, región o tecnología. |
-| **constraint** | recurso o política que limita throughput global. |
-| **control** | verificación diseñada para prevenir o detectar error. |
-| **control loop** | mecanismo que compara resultado con estándar y corrige. |
-| **control point** | paso donde se verifica condición crítica. |
-| **criticality** | impacto si el tercero falla. |
-| **demand rate** | ritmo de llegada de trabajo. |
-| **DR** | recuperación de tecnología e infraestructura después de incidente. |
-| **end-to-end process** | flujo completo que produce un outcome para un cliente interno o externo. |
-| **error budget** | margen de incumplimiento tolerado respecto del SLO. |
-| **exception** | caso que sale de reglas y requiere ruta distinta. |
-| **exception path** | ruta para casos fuera del estándar. |
-| **exit plan** | capacidad práctica de terminar o migrar la relación. |
-| **first-pass yield** | porcentaje que cumple sin rework. |
-| **flow** | movimiento de trabajo o valor a través del sistema. |
-| **future state** | flujo objetivo con hipótesis de mejora. |
-| **handoff** | transferencia entre roles o sistemas. |
-| **human-in-the-loop** | intervención humana intencional en decisiones o excepciones. |
-| **kaizen** | mejora continua mediante cambios pequeños basados en observación. |
-| **operating rhythm** | cadencia de coordinación y revisión. |
-| **operating system** | conjunto de procesos, cadencias, roles y controles que ejecutan la estrategia. |
-| **pull** | producción disparada por demanda real. |
-| **quality** | grado de conformidad con requisitos y aptitud para uso. |
-| **queue** | trabajo esperando servicio. |
-| **rework** | trabajo repetido por error, cambio o criterio incumplido. |
-| **RPO** | pérdida máxima de datos tolerada medida en tiempo. |
-| **RTO** | tiempo objetivo para restaurar una capacidad. |
-| **SLA** | acuerdo externo que especifica nivel y consecuencia. |
-| **SLI** | indicador medido de un aspecto del servicio. |
-| **SLO** | objetivo de confiabilidad o desempeño para un SLI. |
-| **SOP** | procedimiento operativo estándar para trabajo repetible. |
-| **special cause** | evento identificable fuera del patrón estable. |
-| **standard work** | secuencia acordada que representa la mejor práctica actual. |
-| **straight-through processing** | flujo automatizado de extremo a extremo para casos estándar. |
-| **subordination** | alinear otras etapas para no sobrecargar ni dejar ociosa la restricción. |
-| **target operating model** | diseño futuro de procesos, roles, tecnología y controles. |
-| **third-party risk** | riesgo introducido por dependencia de un proveedor o socio. |
-| **throughput** | ritmo al que el sistema genera unidades de valor. |
-| **touch time** | tiempo de trabajo activo. |
-| **transition plan** | secuencia para migrar sin interrumpir servicio. |
-| **utilization** | porcentaje de capacidad ocupado. |
-| **valor** | resultado por el que el cliente reconoce utilidad. |
-| **variation** | diferencia natural o especial entre resultados del proceso. |
-| **version control** | gestión de cambios y vigencia documental. |
-| **wait time** | tiempo sin procesamiento. |
-| **waste** | actividad que consume recursos sin crear valor necesario. |
+| **Activo específico** | Inversión que vale mucho en una relación y poco fuera de ella. |
+| **Análisis de impacto (BIA)** | Estudio de los efectos de detener cada proceso a lo largo del tiempo. |
+| **Auditoría en el puesto** | Observación del trabajo real contra el estándar. |
+| **Automatización** | Uso de sistemas para ejecutar tareas con poca o ninguna intervención humana. |
+| **Brecha** | Diferencia entre capacidad y demanda proyectada. |
+| **Calidad** | Grado en que el resultado cumple lo que el cliente necesita y espera. |
+| **Capacidad del proceso** | Relación entre la variación del proceso y la tolerancia exigida. |
+| **Capacidad nominal** | Máximo teórico que produce el sistema en condiciones ideales. |
+| **Capacidad útil** | Capacidad real tras paradas, defectos, ausencias y variabilidad. |
+| **Causas comunes** | Fuentes de variación propias del sistema, siempre presentes. |
+| **Causas especiales** | Fuentes de variación ajenas al funcionamiento normal. |
+| **Concentración** | Dependencia de un solo proveedor, región o tecnología. |
+| **Confianza calibrada** | Nivel de confianza en el sistema que corresponde a su fiabilidad real. |
+| **Continuidad del negocio** | Capacidad de seguir entregando productos o servicios, a un nivel aceptable, tras una interrupción. |
+| **Control documental** | Gestión de versiones, responsables y vigencia de los documentos. |
+| **Costo de transacción** | Costo de buscar, negociar, vigilar y hacer cumplir un acuerdo. |
+| **Costo total** | Costo de construir, operar, mantener y corregir la automatización. |
+| **Cuello de botella** | Recurso cuya capacidad es menor o igual a la demanda que recibe. |
+| **Demanda** | Trabajo que llega al sistema por unidad de tiempo. |
+| **Desperdicio (muda)** | Actividad que consume recursos sin agregar valor para el cliente. |
+| **Deuda operativa** | Atajos o parches que acumulan costo futuro. |
+| **Dueño de proceso** | Persona responsable del resultado de punta a punta, no de una función. |
+| **Ejercicio** | Simulación o prueba del plan. |
+| **Excepción** | Caso que no sigue el flujo normal y requiere juicio. |
+| **Exclusión** | Condición que no cuenta contra el nivel (mantenimiento acordado, fuerza mayor). |
+| **Explotar** | Sacar el máximo de la restricción con lo que ya existe. |
+| **Gráfico de control** | Gráfico en el tiempo con límites calculados desde el propio proceso. |
+| **Hacer o comprar** | Decisión de producir internamente o adquirir a un tercero. |
+| **Holgura** | Capacidad deliberada para absorber variación. |
+| **Ironías de la automatización** | Efectos paradójicos: lo automatizado deja a las personas las tareas más difíciles con menos práctica. |
+| **Línea base** | Medición del desempeño antes del cambio. |
+| **Mapa de flujo de valor** | Representación del flujo de materiales o información con tiempos y esperas (Rother y Shook). |
+| **Mejora continua (kaizen)** | Cambios pequeños y constantes hechos por quienes trabajan en el proceso. |
+| **Optimización local** | Mejora de una medida de un área que no mejora —o empeora— el resultado del conjunto. |
+| **Piloto** | Prueba acotada del cambio antes de generalizarlo. |
+| **Plan de continuidad** | Instrucciones para operar y recuperar durante una interrupción. |
+| **Plan de salida** | Preparación para terminar la relación o cambiar de proveedor. |
+| **Presupuesto de error** | Diferencia entre 100 % y el SLO: falla tolerable en el período. |
+| **Proceso** | Secuencia de actividades que transforma entradas en una salida de valor para un cliente interno o externo. |
+| **Proceso de punta a punta** | Flujo completo que produce un resultado para un cliente interno o externo. |
+| **Procesos centrales, de apoyo y de gestión** | Los centrales entregan valor al cliente; los de apoyo los sostienen; los de gestión los dirigen y corrigen. |
+| **Proveedor crítico** | Tercero cuya falla detiene o degrada una operación esencial. |
+| **Punto de control** | Momento en que se verifica algo antes de continuar. |
+| **Punto objetivo de recuperación (RPO)** | Cantidad máxima de información que se tolera perder, medida en tiempo. |
+| **Rediseño de operación** | Cambio planificado del flujo, las reglas y los recursos para mejorar el servicio al cliente. |
+| **Rendimiento a la primera (first-pass yield)** | Proporción de unidades que salen bien sin retrabajo. |
+| **Rendimiento del sistema (throughput)** | Ritmo al que el sistema genera valor, en general ventas, no producción. |
+| **Restricción** | Elemento que limita el rendimiento del sistema. |
+| **Restricción de política** | Regla o práctica que limita el sistema, no un recurso físico. |
+| **Retroalimentación** | Información del resultado que vuelve para corregir entradas o proceso. |
+| **Rutina de revisión** | Reunión periódica para revisar indicadores y decidir acciones. |
+| **Sistema operativo de la empresa** | Conjunto de procesos, decisiones, información y roles que convierten demanda en entregas repetibles. |
+| **SLA (acuerdo de nivel de servicio)** | Compromiso con el cliente, con consecuencias si no se cumple. |
+| **SLI (indicador de nivel de servicio)** | Medida cuantitativa de un aspecto del servicio que importa al usuario. |
+| **SLO (objetivo de nivel de servicio)** | Valor o rango que se busca lograr para un SLI en un período. |
+| **SOP** | Documento breve que describe cómo ejecutar una tarea de forma repetible. |
+| **Subordinar** | Ajustar el resto del sistema al ritmo de la restricción. |
+| **Supervisión humana** | Persona que vigila, interviene y decide cuando el sistema falla o duda. |
+| **Tiempo activo** | Tiempo en que alguien trabaja sobre el caso. |
+| **Tiempo de espera** | Tiempo en que el caso no avanza. |
+| **Tiempo objetivo de recuperación (RTO)** | Tiempo máximo tolerable para restablecer un proceso. |
+| **Tiempo total (lead time)** | Duración entre el disparador y la entrega. |
+| **Trabajo estandarizado** | Mejor secuencia conocida de tareas, con tiempos y puntos de control. |
+| **Tracción (pull)** | Se produce lo que el siguiente paso o el cliente pide. |
+| **Traspaso (handoff)** | Transferencia de trabajo entre personas, áreas o sistemas. |
+| **Utilización** | Proporción de la capacidad usada: demanda dividida por capacidad. |
+| **Valor** | Lo que el cliente reconocería y pagaría. |
+| **Variación** | Diferencia entre resultados del mismo proceso. |
+| **Variación entre ejecutores** | Diferencia de resultado según quién hace la tarea. |
+| **Ventana de medición** | Período sobre el que se calcula el indicador. |
 
 ## 📦 Qué queda como evidencia
 

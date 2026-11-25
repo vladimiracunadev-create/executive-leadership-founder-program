@@ -10,217 +10,184 @@
 
 ## 🎯 Propósito
 
-Pensar la empresa como sistema operativo significa observar cómo demanda, capacidad, procesos, información, controles y personas convierten inputs en valor repetible. Una estrategia sin sistema operativo es una aspiración; el operating system muestra dónde se decide, fluye y corrige el trabajo.
+Una estrategia sin operación es una aspiración: lo que la empresa promete depende de que demanda, capacidad, procesos, información y personas se coordinen para entregar lo mismo, a tiempo y con la calidad prometida, una y otra vez. Pensar la empresa como **sistema operativo** significa dejar de ver áreas aisladas (ventas, producción, soporte, finanzas) y mirar cómo el trabajo fluye de la necesidad del cliente hasta su resolución, dónde se decide, dónde espera y dónde se pierde.
 
-La salida de esta parte es **operar procesos end-to-end con capacidad, calidad, continuidad y mejora**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **pensar la empresa como sistema operativo** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+La clase se apoya en la dirección de operaciones (Slack y Brandon-Jones), en la visión de flujo de valor de Womack y Jones y en la crítica de Hammer y Champy a organizar el trabajo por funciones. Al terminar sabrás describir una empresa como un sistema de entradas, transformación, salidas y retroalimentación, ubicar sus puntos de decisión y reconocer por qué mejorar un área aislada puede empeorar el conjunto.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `operating system`, `flow`, `capacity`, `control loop`, `operating rhythm` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. mapear demanda a outcome → 2. identificar flujos end-to-end → 3. medir capacidad y cuellos → 4. definir controles y decision rights → 5. instalar cadencias de revisión** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** throughput, cycle time, backlog sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Describir** un negocio como sistema: entradas, transformación, salidas, cliente y retroalimentación.
+2. **Distinguir** procesos centrales, de apoyo y de gestión, y su dueño.
+3. **Detectar** una optimización local que perjudica el resultado global.
+4. **Identificar** dónde se decide, dónde se espera y dónde se corrige el trabajo.
+5. **Formular** una pregunta de diagnóstico operativo antes de proponer una solución.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define operating system y flow sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con throughput y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: sigue un pedido, una solicitud o un caso real desde que llega hasta que se cierra y anota cuántas áreas toca. |
+| 20–60 min | Sistema, procesos, flujo y retroalimentación. |
+| 60–105 min | Ejemplo trabajado: una empresa de servicios con cuatro áreas que mejoran por separado. |
+| 105–150 min | Caso ejecutivo y rediseño de un flujo. |
+| 150–175 min | Límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **operating system** | conjunto de procesos, cadencias, roles y controles que ejecutan la estrategia | Distingue un hecho compatible y otro que lo refute. |
-| **flow** | movimiento de trabajo o valor a través del sistema | Distingue un hecho compatible y otro que lo refute. |
-| **capacity** | ritmo sostenible de producción | Distingue un hecho compatible y otro que lo refute. |
-| **control loop** | mecanismo que compara resultado con estándar y corrige | Distingue un hecho compatible y otro que lo refute. |
-| **operating rhythm** | cadencia de coordinación y revisión | Distingue un hecho compatible y otro que lo refute. |
+| **Sistema operativo de la empresa** | Conjunto de procesos, decisiones, información y roles que convierten demanda en entregas repetibles. | Se puede dibujar el camino de un cliente y quién decide en cada paso. |
+| **Proceso** | Secuencia de actividades que transforma entradas en una salida de valor para un cliente interno o externo. | Tiene inicio, fin, dueño y medida. |
+| **Procesos centrales, de apoyo y de gestión** | Los centrales entregan valor al cliente; los de apoyo los sostienen; los de gestión los dirigen y corrigen. | La clasificación decide dónde se prioriza la mejora. |
+| **Optimización local** | Mejora de una medida de un área que no mejora —o empeora— el resultado del conjunto. | Un área cumple su meta mientras el cliente espera más. |
+| **Retroalimentación** | Información del resultado que vuelve para corregir entradas o proceso. | Existe un canal por el que el error llega a quien puede corregirlo. |
+| **Dueño de proceso** | Persona responsable del resultado de punta a punta, no de una función. | Alguien responde por el tiempo total y la calidad final. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 085: 1. mapear demanda a outcome → 2. identificar flujos end-to-end → 3. medir capacidad y cuellos → 4. definir controles y decision rights → 5. instalar cadencias de revisión](modelo-mental.svg)
+![La empresa como sistema: entradas, transformación, salidas, cliente y retroalimentación que corrige el conjunto.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. mapear demanda a outcome → 2. identificar flujos end-to-end → 3. medir capacidad y cuellos → 4. definir controles y decision rights → 5. instalar cadencias de revisión
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Pensar la empresa como sistema operativo significa observar cómo demanda, capacidad, procesos, información, controles y personas convierten inputs en valor repetible. Una estrategia sin sistema operativo es una aspiración; el operating system muestra dónde se decide, fluye y corrige el trabajo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un operating model no debe petrificar una empresa. Mantén procesos estables donde la repetición crea valor y espacios adaptativos donde todavía existe aprendizaje.**
+**Cómo leer el diagrama.** Cinco elementos encadenados. Las **entradas** (recursos, información, demanda) ingresan a la **transformación**, donde los procesos las convierten en **salidas**; el **cliente** juzga si eso fue valor, y su respuesta vuelve como **retroalimentación** para corregir entradas y proceso. La flecha de retorno es lo que distingue un sistema que aprende de una cadena de áreas que solo se pasan trabajo.
 
 ## 📖 Desarrollo
 
-### 1. operating system: mecanismo central
+### 1. La empresa como sistema
 
-**operating system** se entiende aquí como **conjunto de procesos, cadencias, roles y controles que ejecutan la estrategia**. Esta es la pieza causal o estructural desde la que se inicia **pensar la empresa como sistema operativo**: antes de mapear demanda a outcome, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Slack y Brandon-Jones describen toda operación como un modelo de **entradas, transformación y salidas**: se transforman recursos (materiales, información, personas, instalaciones) en bienes o servicios. La utilidad del modelo no es su sofisticación, sino que obliga a preguntar qué entra, qué se transforma, qué sale y quién lo recibe. En servicios, el propio cliente suele ser parte de la entrada: su información, su tiempo y su paciencia son recursos que el proceso consume.
 
-La lectura rectora de este bloque es Nigel Slack & Alistair Brandon-Jones — *Operations Management*. Su aporte se usa para examinar **capacidad, procesos, variabilidad, calidad y estrategia de operaciones**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **throughput**; regístrala con periodo, unidad, población y baseline.
+### 2. Procesos centrales, de apoyo y de gestión
 
-Relaciona el mecanismo con **flow**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Una empresa tiene pocos procesos que entregan valor directamente (captar un pedido, producir o prestar el servicio, cobrar, atender el postventa), varios que los sostienen (compras, personas, tecnología, finanzas) y otros que dirigen y corrigen (planificación, control, mejora). La distinción ayuda a decidir dónde invertir atención: mejorar un proceso de apoyo que no toca al cliente rara vez mueve el resultado, mientras que un proceso central lento afecta todo lo demás. También ayuda a asignar **dueño**: sin alguien responsable del proceso completo, cada área protege su parte.
 
-### 2. flow: frontera conceptual y error de clasificación
+### 3. El valor lo define el cliente
 
-**Definición operacional:** movimiento de trabajo o valor a través del sistema. Su valor está en distinguirlo de **operating system** y **capacity**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Womack y Jones proponen partir de una pregunta incómoda: ¿qué valor reconocería el cliente? Todo lo demás, desde su punto de vista, es costo. Esta pregunta reorganiza el análisis: en lugar de preguntar qué hace cada área, se pregunta qué pasos agregan algo que el cliente notaría y cuáles son espera, revisión o traspaso. Sirve para orientar la mejora hacia el flujo completo, no hacia la actividad de cada función.
 
-Contrasta el problema con Eliyahu M. Goldratt & Jeff Cox — *The Goal*, que aporta una mirada sobre **restricciones, throughput, inventario y pensamiento de flujo**. Formula dos mini-casos: uno que sí satisface la definición de **flow** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **cycle time** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. Optimización local y resultado global
 
-Antes de identificar flujos end-to-end, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+Hammer y Champy sostuvieron que muchas organizaciones fragmentan procesos que atraviesan varias funciones, con traspasos, controles duplicados y medidas contradictorias. Un ejemplo habitual: ventas cierra rápido con promesas que operaciones no puede cumplir; operaciones minimiza su costo por lote y retrasa pedidos urgentes; finanzas exige aprobaciones que alargan el tiempo total. Cada área cumple su meta y el cliente espera más. La lección no es eliminar las áreas, sino **medir el proceso de punta a punta** y alinear las metas con ese resultado.
 
-### 3. capacity: operacionalización y medición
+### 5. Retroalimentación y puntos de decisión
 
-**capacity** significa **ritmo sostenible de producción**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un sistema que no recibe información de su resultado repite sus errores. Conviene mapear tres cosas: **dónde se decide** (quién autoriza, prioriza o excepciona), **dónde se espera** (colas, aprobaciones, información que falta) y **dónde se corrige** (qué señal llega a quién y cuánto tarda). Muchas empresas descubren que la decisión que más retrasa el proceso es una aprobación que casi siempre se concede, o que el error se detecta tres pasos después de producirse, cuando corregirlo cuesta diez veces más.
 
-James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World* orienta este bloque mediante **perspectiva de Lean aplicada al problema de la clase**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **backlog**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Variabilidad, demanda y capacidad como condiciones del sistema
 
-Al llegar a medir capacidad y cuellos, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Un sistema operativo debe funcionar con demanda que sube y baja, personas que se ausentan y pedidos que no son estándar. La dirección de operaciones trata la **variabilidad** como una condición permanente: se diseñan colchones, reglas de prioridad y mecanismos de ajuste. Ignorarla produce planes que funcionan solo en el día promedio, que casi nunca ocurre. Las clases siguientes desarrollan capacidad, restricciones, calidad y continuidad; esta ofrece el marco para ubicarlas.
 
-### 4. control loop: trade-offs y efectos de segundo orden
+### 7. Diagnóstico antes de solución
 
-**Definición:** mecanismo que compara resultado con estándar y corrige. Este concepto obliga a abandonar la idea de que **pensar la empresa como sistema operativo** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de definir controles y decision rights, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-Michael Hammer & James Champy — *Reengineering the Corporation* aporta una lente sobre **perspectiva de Procesos aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **quality** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **pensar la empresa como sistema operativo**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **control loop** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. operating rhythm: gobernanza, límites e integración
-
-**operating rhythm** se define como **cadencia de coordinación y revisión** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-W. Edwards Deming — *Out of the Crisis* se utiliza para estudiar **variación, sistemas, aprendizaje y responsabilidad gerencial por la calidad** y contrastar la recomendación final. Al ejecutar instalar cadencias de revisión, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un operating model no debe petrificar una empresa. Mantén procesos estables donde la repetición crea valor y espacios adaptativos donde todavía existe aprendizaje.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **operating system**, **flow**, **capacity**, **control loop** y **operating rhythm** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **pensar la empresa como sistema operativo** no consiste en sumar cinco definiciones. Empieza por **operating system**, contrasta **flow** con **capacity**, incorpora **control loop** como restricción o mecanismo y usa **operating rhythm** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. mapear demanda a outcome → 2. identificar flujos end-to-end → 3. medir capacidad y cuellos → 4. definir controles y decision rights → 5. instalar cadencias de revisión**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Ante un problema operativo, el reflejo es proponer una herramienta o una reorganización. El diagnóstico sistémico exige antes tres preguntas: ¿qué ve el cliente?, ¿qué dicen los datos de tiempo, defectos y espera?, ¿qué medida local está incentivando el comportamiento? Con esas respuestas se decide si la causa está en la demanda, en el diseño del proceso, en la capacidad, en la información o en los incentivos. Mejorar sin diagnosticar suele trasladar el problema a otra área.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Nigel Slack & Alistair Brandon-Jones — *Operations Management* | capacidad, procesos, variabilidad, calidad y estrategia de operaciones | ¿Qué supuesto de **pensar la empresa como sistema operativo** ayuda a desafiar? |
-| Eliyahu M. Goldratt & Jeff Cox — *The Goal* | restricciones, throughput, inventario y pensamiento de flujo | ¿Qué supuesto de **pensar la empresa como sistema operativo** ayuda a desafiar? |
-| James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World* | perspectiva de Lean aplicada al problema de la clase | ¿Qué supuesto de **pensar la empresa como sistema operativo** ayuda a desafiar? |
-| Michael Hammer & James Champy — *Reengineering the Corporation* | perspectiva de Procesos aplicada al problema de la clase | ¿Qué supuesto de **pensar la empresa como sistema operativo** ayuda a desafiar? |
-| W. Edwards Deming — *Out of the Crisis* | variación, sistemas, aprendizaje y responsabilidad gerencial por la calidad | ¿Qué supuesto de **pensar la empresa como sistema operativo** ayuda a desafiar? |
-
-En **pensar la empresa como sistema operativo**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **operating system**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Slack y Brandon-Jones | Modelo de entradas, transformación y salidas y su aplicación a la dirección de operaciones. | Es general; requiere adaptarse a cada sector. | ¿Qué entra y qué sale en tu operación? |
+| Womack y Jones | Valor definido por el cliente y flujo de valor. | Su origen es manufacturero; en servicios exige traducción. | ¿Qué pasos reconocería el cliente? |
+| Hammer y Champy | Crítica a la fragmentación funcional y rediseño de procesos. | La reingeniería radical tiene costos humanos altos. | ¿Qué traspasos añaden tiempo sin valor? |
+| Goldratt y Cox | Mirar el sistema por su restricción. | Se verá en la clase 089. | ¿Qué parte limita el resultado total? |
+| Deming | El sistema explica la mayor parte de la variación del resultado. | No entrega un método único. | ¿Qué parte del problema es del sistema y no de las personas? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una empresa crece 40% en ventas, pero facturación, soporte y cobranza siguen diseñados para la mitad del volumen. Cada área optimiza localmente y el cliente experimenta retrasos acumulados.
+**Situación (hipotética).** Una empresa de instalación de equipos tiene cuatro áreas con metas propias. Ventas se mide por contratos cerrados; programación, por ocupación de técnicos; instalación, por visitas por día; cobranza, por días de pago. Los clientes reclaman que la instalación tarda 41 días desde la firma, cuando se prometieron 20.
 
-**Paso 1 — mapear demanda a outcome.** La gerencia escribe primero el supuesto asociado a **operating system** y evita convertirlo en hecho. Luego busca **throughput** para contrastarlo en el caso de **pensar la empresa como sistema operativo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Paso | Qué se observa |
+|---|---|
+| **Seguir un caso** | Se sigue un pedido: 2 días en ventas, 12 esperando programación, 3 de instalación activa, 9 esperando documentos para cobranza, 15 en espera de una segunda visita. |
+| **Medir el proceso** | De 41 días, solo 5 agregan valor visible al cliente: 12 % del tiempo. |
+| **Descubrir incentivos** | Programación agrupa pedidos por zona para maximizar ocupación, lo que retrasa a los de otras zonas; ventas promete 20 días sin consultar. |
+| **Diagnóstico** | Cada área cumple su meta; el problema vive en los traspasos y en la meta de ocupación. |
+| **Rediseño inicial** | Un dueño de proceso con una medida común (días de firma a instalación terminada); ventas consulta disponibilidad real antes de prometer; programación prioriza por antigüedad con límite de agrupación. |
 
-**Paso 2 — identificar flujos end-to-end.** La gerencia escribe primero el supuesto asociado a **flow** y evita convertirlo en hecho. Luego busca **cycle time** para contrastarlo en el caso de **pensar la empresa como sistema operativo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Revalidación.** Tras un mes de prueba piloto en una zona, el tiempo baja de 41 a 29 días y la ocupación cae 6 puntos. La dirección decide si ese costo de ocupación compensa el beneficio al cliente; no se asume que sea así.
 
-**Paso 3 — medir capacidad y cuellos.** La gerencia escribe primero el supuesto asociado a **capacity** y evita convertirlo en hecho. Luego busca **backlog** para contrastarlo en el caso de **pensar la empresa como sistema operativo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — definir controles y decision rights.** La gerencia escribe primero el supuesto asociado a **control loop** y evita convertirlo en hecho. Luego busca **quality** para contrastarlo en el caso de **pensar la empresa como sistema operativo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — instalar cadencias de revisión.** La gerencia escribe primero el supuesto asociado a **operating rhythm** y evita convertirlo en hecho. Luego busca **service reliability** para contrastarlo en el caso de **pensar la empresa como sistema operativo**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **pensar la empresa como sistema operativo**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Cada área optimizaba su medida y el cliente pagaba el costo. (2) Seguir un caso reveló más que preguntar a las áreas. (3) La mejora tuvo un costo local que debe decidirse con datos.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **operating system** | conjunto de procesos, cadencias, roles y controles que ejecutan la estrategia | Cuando throughput es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **flow** | movimiento de trabajo o valor a través del sistema | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Sistema frente a organigrama.** El organigrama muestra quién manda; el sistema muestra cómo fluye el trabajo. Ambos importan, pero los problemas operativos suelen vivir en las líneas que el organigrama no dibuja.
 
-**Frontera de aplicación:** Un operating model no debe petrificar una empresa. Mantén procesos estables donde la repetición crea valor y espacios adaptativos donde todavía existe aprendizaje.
+**Límites.** El modelo de entradas y salidas simplifica: deja fuera poder, cultura, incentivos y emociones, que afectan el funcionamiento real. El pensamiento en procesos puede volverse burocrático si se mapea sin decidir. La reingeniería radical descrita por Hammer y Champy tuvo resultados desiguales y costos humanos grandes; la mejora gradual suele ser más sostenible. Y los datos del ejemplo son ilustrativos: cada empresa debe medir los suyos.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre pensar la empresa como sistema operativo |
+| Nivel | Cómo piensa el sistema |
 |---|---|
-| **Profesional** | usa **pensar la empresa como sistema operativo** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **operating system** y **flow** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta throughput con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si pensar la empresa como sistema operativo cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de pensar la empresa como sistema operativo reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **pensar la empresa como sistema operativo** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Entiende a quién entrega su trabajo y qué necesita esa persona. |
+| **Jefe / Team Lead** | Mide el flujo de su equipo y los traspasos que lo afectan. |
+| **Gerente** | Alinea metas entre áreas con una medida de proceso. |
+| **CEO / Director** | Decide la estructura y los incentivos según el flujo de valor. |
+| **Founder / Owner** | Diseña desde el inicio un sistema que pueda crecer sin depender de su presencia. |
 
 ## 🏢 Caso ejecutivo
 
-Una empresa crece 40% en ventas, pero facturación, soporte y cobranza siguen diseñados para la mitad del volumen. Cada área optimiza localmente y el cliente experimenta retrasos acumulados.
+Una distribuidora de insumos médicos recibe pedidos por tres canales. Los clientes se quejan de plazos inconsistentes: unos reciben en dos días y otros en doce. Comercial exige que no se rechace ningún pedido; logística minimiza el costo por ruta; compras negocia por volumen y mantiene stock alto de algunos productos y quiebres en otros; finanzas bloquea despachos a clientes con facturas vencidas, sin avisar a ventas. La dirección quiere «mejorar la operación» y pide soluciones a cada gerente.
 
-Entrega un **decision brief de pensar la empresa como sistema operativo** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **diagnóstico sistémico** con: (a) el mapa de punta a punta de un pedido; (b) las medidas locales de cada área y cómo se contradicen; (c) los puntos de decisión, espera y corrección; (d) una medida común de proceso; (e) un rediseño con su costo local y la forma de decidir si compensa; (f) las preguntas que harías antes de proponer una herramienta.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **pensar la empresa como sistema operativo** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. mapear demanda a outcome → 2. identificar flujos end-to-end → 3. medir capacidad y cuellos → 4. definir controles y decision rights → 5. instalar cadencias de revisión** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta throughput, cycle time; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Sigue un caso real de tu empresa de inicio a fin y anota los traspasos y las esperas.
+2. Clasifica cinco procesos en centrales, de apoyo y de gestión.
+3. Identifica una meta local que perjudica el resultado del conjunto.
+4. Define una medida de proceso de punta a punta y su dueño.
+5. Redacta tres preguntas de diagnóstico para un problema operativo que conozcas.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar operating system y flow como sinónimos | Se pierde la distinción entre “conjunto de procesos, cadencias, roles y controles que ejecutan la estrategia” y “movimiento de trabajo o valor a través del sistema” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “instalar cadencias de revisión” | Se saltó “mapear demanda a outcome” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. mapear demanda a outcome → 2. identificar flujos end-to-end → 3. medir capacidad y cuellos → 4. definir controles y decision rights → 5. instalar cadencias de revisión y marca el primer supuesto no demostrado. |
-| Optimizar solo throughput | La métrica local sustituyó al resultado del sistema | Contrástala con cycle time y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre pensar la empresa como sistema operativo | Un operating model no debe petrificar una empresa. Mantén procesos estables donde la repetición crea valor y espacios adaptativos donde todavía existe aprendizaje. |
-| No fijar revisión | Una decisión sobre pensar la empresa como sistema operativo se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Mejorar áreas por separado | Cada una responde por su meta | Medir de punta a punta con dueño de proceso. |
+| Preguntar a las áreas, no seguir el caso | Es más cómodo | Seguir un caso real. |
+| Proponer herramientas antes de diagnosticar | Presión por actuar | Responder primero tres preguntas de diagnóstico. |
+| Culpar a las personas | Se ve el error, no el sistema | Preguntar qué en el sistema lo hizo probable. |
+| Rediseñar de golpe | Se busca un cambio rápido | Pilotos acotados con medición. |
+| Ignorar la variabilidad | Se planifica con el promedio | Diseñar colchones y reglas de prioridad. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **operating system** y **flow** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **capacity** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **mapear demanda a outcome → identificar flujos end-to-end** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **throughput** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **pensar la empresa como sistema operativo**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un operating model no debe petrificar una empresa. Mantén procesos estables donde la repetición crea valor y espacios adaptativos donde todavía existe aprendizaje.**?
+1. ¿Qué elementos componen el modelo de sistema operativo de la empresa?
+2. ¿Qué diferencia hay entre procesos centrales, de apoyo y de gestión?
+3. ¿Qué es una optimización local? Da un ejemplo.
+4. ¿Por qué se sigue un caso real en lugar de preguntar a cada área?
+5. ¿Qué tres cosas conviene mapear: decisión, espera y corrección?
+6. ¿Qué papel cumple el dueño de proceso?
+7. ¿Qué límite tiene el modelo de entradas y salidas?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Entradas, transformación, salidas, cliente y retroalimentación.
+2. Los centrales entregan valor al cliente, los de apoyo los sostienen y los de gestión los dirigen y corrigen.
+3. Mejorar una medida de un área que no mejora el conjunto; por ejemplo, maximizar la ocupación de técnicos y retrasar pedidos de otras zonas.
+4. Porque el caso muestra traspasos y esperas que las áreas no ven o no declaran.
+5. Dónde se decide, dónde se espera y dónde se corrige el trabajo.
+6. Responde por el resultado de punta a punta, con una medida común.
+7. Simplifica: deja fuera poder, cultura, incentivos y emociones, que afectan el funcionamiento real.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/085-pensar-la-empresa-como-sistema-operativo/`:
 
-- `leadership-decision-brief.md` con el problema específico de **pensar la empresa como sistema operativo**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **pensar la empresa como sistema operativo** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **operating system**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una empresa crece 40% en ventas, pero facturación, soporte y cobranza siguen diseñados para la mitad del volumen. Cada área optimiza localmente y el cliente experimenta retrasos acumulados.** y el dato que podría invalidar la recomendación.
+- `leadership-decision-brief.md` (plantilla [Leadership Decision Brief](../../../../templates/leadership-decision-brief.md)) con el diagnóstico sistémico del caso ejecutivo;
+- `process-map.md` (plantilla [Process map](../../../../templates/process-map.md)) con el mapa de punta a punta;
+- `decision-journal.md` con la medida común elegida y el criterio para decidir si compensa su costo local.
 
 ## 📗 Fuentes y verificación
 
-- Nigel Slack & Alistair Brandon-Jones — *Operations Management* (Pearson Education, Limited, 2019). **Uso en esta clase:** capacidad, procesos, variabilidad, calidad y estrategia de operaciones. Lectura selectiva sobre **pensar la empresa como sistema operativo**. **Localizador:** [ISBN-13 9781292254036](https://openlibrary.org/isbn/9781292254036).
-- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** restricciones, throughput, inventario y pensamiento de flujo. Lectura selectiva sobre **pensar la empresa como sistema operativo**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
-- James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World* (Free Press, 2007). **Uso en esta clase:** perspectiva de Lean aplicada al problema de la clase. Lectura selectiva sobre **pensar la empresa como sistema operativo**. **Localizador:** [ISBN-13 9780743299794](https://openlibrary.org/isbn/9780743299794).
-- Michael Hammer & James Champy — *Reengineering the Corporation* (HarperBusiness, 2001). **Uso en esta clase:** perspectiva de Procesos aplicada al problema de la clase. Lectura selectiva sobre **pensar la empresa como sistema operativo**. **Localizador:** [ISBN-13 9780066621128](https://openlibrary.org/isbn/9780066621128).
-- W. Edwards Deming — *Out of the Crisis* (The MIT Press, 2000). **Uso en esta clase:** variación, sistemas, aprendizaje y responsabilidad gerencial por la calidad. Lectura selectiva sobre **pensar la empresa como sistema operativo**. **Localizador:** [ISBN-13 9780262541152](https://openlibrary.org/isbn/9780262541152).
-- James P. Womack & Daniel T. Jones — *Lean Thinking* (Free Press, 2003). **Uso en esta clase:** valor, flujo, pull, desperdicio y mejora continua. Lectura selectiva sobre **pensar la empresa como sistema operativo**. **Localizador:** [ISBN-13 9780743231640](https://openlibrary.org/isbn/9780743231640).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **pensar la empresa como sistema operativo** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **pensar la empresa como sistema operativo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **pensar la empresa como sistema operativo** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **pensar la empresa como sistema operativo** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **pensar la empresa como sistema operativo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Nigel Slack & Alistair Brandon-Jones — *Operations Management* (Pearson Education, Limited, 2019). **Uso en esta clase:** modelo de entradas, transformación y salidas y dirección de operaciones. Lectura selectiva sobre **pensar la empresa como sistema operativo**. **Localizador:** [ISBN-13 9781292254036](https://openlibrary.org/isbn/9781292254036).
+- James P. Womack & Daniel T. Jones — *Lean Thinking* (Free Press, 2003). **Uso en esta clase:** valor definido por el cliente y flujo de valor. Lectura selectiva sobre **pensar la empresa como sistema operativo**. **Localizador:** [ISBN-13 9780743231640](https://openlibrary.org/isbn/9780743231640).
+- Michael Hammer & James Champy — *Reengineering the Corporation* (HarperBusiness, 2001). **Uso en esta clase:** crítica a la fragmentación funcional y rediseño de procesos. Lectura selectiva sobre **pensar la empresa como sistema operativo**. **Localizador:** [ISBN-13 9780066621128](https://openlibrary.org/isbn/9780066621128).
+- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** mirar el sistema por su restricción. Lectura selectiva sobre **pensar la empresa como sistema operativo**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
+- W. Edwards Deming — *Out of the Crisis* (The MIT Press, 2000). **Uso en esta clase:** el sistema explica la mayor parte de la variación. Lectura selectiva sobre **pensar la empresa como sistema operativo**. **Localizador:** [ISBN-13 9780262541152](https://openlibrary.org/isbn/9780262541152).
 
-> **Regla de fuentes para Pensar la empresa como sistema operativo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **pensar la empresa como sistema operativo** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Pensar la empresa como sistema operativo:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. Los ejemplos y casos son hipotéticos, con cifras ilustrativas. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

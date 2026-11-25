@@ -10,217 +10,187 @@
 
 ## 🎯 Propósito
 
-Rediseñar una operación integra flujo, capacidad, cuello, calidad, nivel de servicio, terceros, continuidad y automatización. El capstone exige demostrar que la mejora global no solo desplaza espera o costo a otra área.
+Rediseñar una operación exige usar las herramientas de la parte en el orden correcto y con la humildad de quien sabe que cada una resuelve un tipo de problema. Se entiende el sistema (085), se mapea el flujo real (086), se mide la demanda y la capacidad (088), se encuentra la restricción (089), se elimina desperdicio (090), se mide la variación (091), se estandariza el flujo resultante (087), se fijan niveles de servicio (092), se decide sobre proveedores (093), se protege con continuidad (094) y, solo al final, se automatiza (095).
 
-La salida de esta parte es **operar procesos end-to-end con capacidad, calidad, continuidad y mejora**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **capstone: rediseñar una operación** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Este capstone integra la parte 07 y se apoya en Slack y Brandon-Jones, Goldratt y Cox, Womack y Jones, Rummler y Brache y Deming. Al terminar sabrás conducir un rediseño de punta a punta: diagnosticar con datos, decidir dónde intervenir, probar el cambio en pequeño, medir el efecto y dejar la operación sostenida por un estándar, un dueño y una rutina de revisión.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `target operating model`, `baseline`, `future state`, `benefit case`, `transition plan` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de jefe → manager.
-3. **Aplicar** la secuencia **1. medir baseline end-to-end → 2. identificar constraint y causas → 3. diseñar future state → 4. calcular beneficio y riesgos → 5. pilotear, migrar y estabilizar** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** lead time, throughput, quality sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
+1. **Diagnosticar** una operación con mapa, tiempos, capacidad y variación.
+2. **Priorizar** las intervenciones según la restricción y el efecto en el cliente.
+3. **Secuenciar** simplificación, estandarización, niveles de servicio y automatización.
+4. **Diseñar** el cambio con piloto, métricas y plan de continuidad.
+5. **Sostener** la mejora con un dueño, un estándar y una revisión periódica.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define target operating model y baseline sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con lead time y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: ordena las herramientas de la parte según cuál usarías primero ante una operación lenta y qué dato pedirías. |
+| 20–60 min | Secuencia de diagnóstico, rediseño y sostenimiento. |
+| 60–105 min | Ejemplo trabajado: rediseño de la operación de reclamos de una aseguradora. |
+| 105–150 min | Caso ejecutivo integrado. |
+| 150–175 min | Rúbrica, límites y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **target operating model** | diseño futuro de procesos, roles, tecnología y controles | Distingue un hecho compatible y otro que lo refute. |
-| **baseline** | medición del sistema antes de intervenir | Distingue un hecho compatible y otro que lo refute. |
-| **future state** | flujo objetivo con hipótesis de mejora | Distingue un hecho compatible y otro que lo refute. |
-| **benefit case** | valor esperado versus costo y riesgo | Distingue un hecho compatible y otro que lo refute. |
-| **transition plan** | secuencia para migrar sin interrumpir servicio | Distingue un hecho compatible y otro que lo refute. |
+| **Rediseño de operación** | Cambio planificado del flujo, las reglas y los recursos para mejorar el servicio al cliente. | Hay diagnóstico, hipótesis, piloto y medición. |
+| **Línea base** | Medición del desempeño antes del cambio. | Permite saber si hubo mejora. |
+| **Piloto** | Prueba acotada del cambio antes de generalizarlo. | Tiene alcance, plazo y criterio de éxito. |
+| **Dueño de proceso** | Persona responsable del resultado de punta a punta. | Responde por la medida común. |
+| **Rutina de revisión** | Reunión periódica para revisar indicadores y decidir acciones. | Tiene calendario, datos y acuerdos registrados. |
+| **Deuda operativa** | Atajos o parches que acumulan costo futuro. | Se registran con fecha de pago. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 096: 1. medir baseline end-to-end → 2. identificar constraint y causas → 3. diseñar future state → 4. calcular beneficio y riesgos → 5. pilotear, migrar y estabilizar](modelo-mental.svg)
+![Rediseño de una operación en tres tramos: diagnosticar con datos, rediseñar con prioridades y sostener con medición, estándar y revisión.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. medir baseline end-to-end → 2. identificar constraint y causas → 3. diseñar future state → 4. calcular beneficio y riesgos → 5. pilotear, migrar y estabilizar
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Rediseñar una operación integra flujo, capacidad, cuello, calidad, nivel de servicio, terceros, continuidad y automatización. El capstone exige demostrar que la mejora global no solo desplaza espera o costo a otra área.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Rediseño puede fallar por perseguir un diagrama ideal sin capacidad de transición. Protege servicio durante migración y valida con pilotos antes de cambios irreversibles.**
+**Cómo leer el diagrama.** Tres columnas con las herramientas de la parte en el orden de uso. **Diagnosticar** apoya las decisiones en datos: mapa, demanda, capacidad, restricción, variación y nivel de servicio. **Rediseñar** elimina desperdicio, estandariza y recién entonces decide qué automatizar y qué comprar fuera. **Sostener** deja una operación que se mide, tiene plan de continuidad y se revisa. Las cifras entre paréntesis remiten a las clases donde se desarrolla cada herramienta.
 
 ## 📖 Desarrollo
 
-### 1. target operating model: mecanismo central
+### 1. Empezar por el cliente y el dato
 
-**target operating model** se entiende aquí como **diseño futuro de procesos, roles, tecnología y controles**. Esta es la pieza causal o estructural desde la que se inicia **capstone: rediseñar una operación**: antes de medir baseline end-to-end, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un rediseño comienza con una definición de qué espera el cliente (plazo, calidad, trato) y una **línea base** medida: tiempo total, tiempo de espera, tasa de retrabajo, nivel de servicio actual, satisfacción. Sin línea base, cualquier mejora es una opinión. Se acuerda con el patrocinador qué problema se resuelve y qué se considerará éxito, de forma que el rediseño no se convierta en reorganización permanente. Aquí se usan las clases 085 (sistema), 086 (mapa) y 092 (nivel de servicio).
 
-La lectura rectora de este bloque es Nigel Slack & Alistair Brandon-Jones — *Operations Management*. Su aporte se usa para examinar **capacidad, procesos, variabilidad, calidad y estrategia de operaciones**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **lead time**; regístrala con periodo, unidad, población y baseline.
+### 2. Diagnosticar de punta a punta
 
-Relaciona el mecanismo con **baseline**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Se sigue una muestra de casos reales y se calcula qué proporción del tiempo es espera. Se estima la demanda con su patrón y la capacidad útil (088). Se identifica la restricción con colas y utilización (089). Se mide el retrabajo y la variación del tiempo y de la calidad, distinguiendo causas comunes y especiales (091). Se mapean los proveedores y las dependencias críticas (093). El resultado es un diagnóstico con tres o cuatro hallazgos que explican la mayor parte del problema, no una lista de cuarenta observaciones.
 
-### 2. baseline: frontera conceptual y error de clasificación
+### 3. Priorizar con criterio
 
-**Definición operacional:** medición del sistema antes de intervenir. Su valor está en distinguirlo de **target operating model** y **future state**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+Con el diagnóstico se priorizan intervenciones según su **efecto en el cliente**, su **efecto sobre la restricción**, su **costo y facilidad** y su **riesgo**. Un cambio sobre la restricción vale más que diez mejoras en otras partes. Se descartan conscientemente mejoras atractivas que no mueven el resultado, y se dejan registradas por si la restricción cambia. Se resiste la tentación de comenzar por la herramienta de moda: la tecnología es un medio, no un objetivo.
 
-Contrasta el problema con Eliyahu M. Goldratt & Jeff Cox — *The Goal*, que aporta una mirada sobre **restricciones, throughput, inventario y pensamiento de flujo**. Formula dos mini-casos: uno que sí satisface la definición de **baseline** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **throughput** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 4. El orden del rediseño
 
-Antes de identificar constraint y causas, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+La secuencia sugerida es: **eliminar** pasos y esperas que el cliente no valora (090); **estandarizar** el flujo resultante con SOP y puntos de control (087); **fijar niveles de servicio** con indicadores del cliente (092); **decidir** sobre proveedores (hacer o comprar) y concentración (093); **asegurar la continuidad** del proceso crítico (094); y solo después **automatizar** lo estructurado y estable (095). Alterar el orden duplica el costo: automatizar antes de estandarizar fija los defectos en el sistema.
 
-### 3. future state: operacionalización y medición
+### 5. Probar en pequeño
 
-**future state** significa **flujo objetivo con hipótesis de mejora**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+El cambio se prueba en un **piloto**: una sede, un equipo, un segmento de casos. Se define de antemano qué se medirá y qué resultado justificaría generalizarlo, y qué resultado lo detendría. Se compara con la línea base y, cuando es posible, con un grupo que siga como antes. Se vigilan efectos laterales: el tiempo baja pero sube el retrabajo, o la mejora se logra con horas extra que no son sostenibles. El piloto es una forma de aprender barato antes de comprometer a toda la organización.
 
-ISO — *ISO 9001 Quality management systems* orienta este bloque mediante **gestión de calidad basada en procesos, evidencia y mejora**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **quality**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 6. Personas y cambio
 
-Al llegar a diseñar future state, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Los rediseños fallan por falta de adhesión más que por mala técnica. Se involucra desde el inicio a quienes hacen el trabajo, se explica el porqué y se aclara qué ocurrirá con los roles. Se capacita, se escucha y se ajusta. Las mejoras que liberan capacidad requieren una decisión explícita de qué se hará con ella: crecer, mejorar la calidad o reasignar. Si el equipo teme que cada mejora le cueste su empleo, dejará de proponerlas. Los cambios de estructura, jornada o funciones tienen condiciones laborales que se verifican con asesoría.
 
-### 4. benefit case: trade-offs y efectos de segundo orden
+### 7. Sostener
 
-**Definición:** valor esperado versus costo y riesgo. Este concepto obliga a abandonar la idea de que **capstone: rediseñar una operación** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de calcular beneficio y riesgos, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
-
-James P. Womack & Daniel T. Jones — *Lean Thinking* aporta una lente sobre **valor, flujo, pull, desperdicio y mejora continua**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **cost-to-serve** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
-
-Haz un *pre-mortem* de **capstone: rediseñar una operación**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **benefit case** y otro de una hipótesis del caso que nunca fue validada.
-
-### 5. transition plan: gobernanza, límites e integración
-
-**transition plan** se define como **secuencia para migrar sin interrumpir servicio** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Geary A. Rummler & Alan P. Brache — *Improving Performance* se utiliza para estudiar **perspectiva de Procesos aplicada al problema de la clase** y contrastar la recomendación final. Al ejecutar pilotear, migrar y estabilizar, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Rediseño puede fallar por perseguir un diagrama ideal sin capacidad de transición. Protege servicio durante migración y valida con pilotos antes de cambios irreversibles.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **target operating model**, **baseline**, **future state**, **benefit case** y **transition plan** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **capstone: rediseñar una operación** no consiste en sumar cinco definiciones. Empieza por **target operating model**, contrasta **baseline** con **future state**, incorpora **benefit case** como restricción o mecanismo y usa **transition plan** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. medir baseline end-to-end → 2. identificar constraint y causas → 3. diseñar future state → 4. calcular beneficio y riesgos → 5. pilotear, migrar y estabilizar**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
+Una mejora que no se sostiene se pierde en meses. Se asegura con un **dueño de proceso** con medida común, un **estándar** vivo, **indicadores visibles** con límites de control, una **rutina de revisión** (semanal o mensual) con decisiones registradas y un **plan de continuidad** probado. Se documenta la deuda operativa y se programa su pago. Y se cierra el rediseño con una revisión: qué resultado se logró frente a la línea base, qué se aprendió y qué viene después. La mejora continua es el estado normal, no un proyecto.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Nigel Slack & Alistair Brandon-Jones — *Operations Management* | capacidad, procesos, variabilidad, calidad y estrategia de operaciones | ¿Qué supuesto de **capstone: rediseñar una operación** ayuda a desafiar? |
-| Eliyahu M. Goldratt & Jeff Cox — *The Goal* | restricciones, throughput, inventario y pensamiento de flujo | ¿Qué supuesto de **capstone: rediseñar una operación** ayuda a desafiar? |
-| ISO — *ISO 9001 Quality management systems* | gestión de calidad basada en procesos, evidencia y mejora | ¿Qué supuesto de **capstone: rediseñar una operación** ayuda a desafiar? |
-| James P. Womack & Daniel T. Jones — *Lean Thinking* | valor, flujo, pull, desperdicio y mejora continua | ¿Qué supuesto de **capstone: rediseñar una operación** ayuda a desafiar? |
-| Geary A. Rummler & Alan P. Brache — *Improving Performance* | perspectiva de Procesos aplicada al problema de la clase | ¿Qué supuesto de **capstone: rediseñar una operación** ayuda a desafiar? |
-
-En **capstone: rediseñar una operación**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **target operating model**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Slack y Brandon-Jones | Marco de dirección de operaciones y decisiones de diseño. | Es general. | ¿Qué decisión de diseño tomaste? |
+| Goldratt y Cox | Foco en la restricción. | Requiere medir bien el flujo. | ¿Qué cambio mueve la restricción? |
+| Womack y Jones | Valor, flujo y eliminación de desperdicio. | Contexto lean. | ¿Qué desperdicio dominante eliminas? |
+| Rummler y Brache | Niveles y traspasos. | Es una guía general. | ¿Dónde están los espacios en blanco? |
+| Deming | Mejora del sistema y variación. | Es una filosofía de gestión. | ¿Qué es ruido y qué señal? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una operación de soporte tarda 11 días, tiene 18 handoffs y 22% de retrabajo. Dirección pide reducir costo 20% sin empeorar experiencia ni riesgo.
+**Situación (hipotética).** Una aseguradora de seguros de vehículos liquida reclamos en 22 días hábiles promedio, con un compromiso de 10. La satisfacción es baja y hay 9 % de reclamos que vuelven a abrirse. Tiene 36 personas en la operación, con una demanda de 1.100 reclamos al mes.
 
-**Paso 1 — medir baseline end-to-end.** La gerencia escribe primero el supuesto asociado a **target operating model** y evita convertirlo en hecho. Luego busca **lead time** para contrastarlo en el caso de **capstone: rediseñar una operación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Etapa | Hallazgo |
+|---|---|
+| **Línea base** | Tiempo total de 22 días; solo 2 días de trabajo activo; 9 % de reaperturas; cumplimiento del compromiso de 10 días: 24 %. |
+| **Mapa** | Cinco traspasos: recepción, peritaje, evaluación, aprobación y pago. La mayor espera (8 días) es antes del peritaje. |
+| **Capacidad y restricción** | Hay 6 peritos con capacidad útil de 4 casos por día cada uno: 24 por día frente a una demanda de 50 por día laborable; la restricción es el peritaje. |
+| **Variación** | El tiempo de evaluación es estable (causa común); hay semanas de pico por tormentas (causa especial). |
+| **Desperdicio** | 31 % de los casos faltan documentos y vuelven al cliente; se revisan tres veces antes de aprobar. |
 
-**Paso 2 — identificar constraint y causas.** La gerencia escribe primero el supuesto asociado a **baseline** y evita convertirlo en hecho. Luego busca **throughput** para contrastarlo en el caso de **capstone: rediseñar una operación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Intervenciones, en orden.** (1) **Eliminar**: formulario con documentos obligatorios para evitar que los casos vuelvan; peritaje remoto por fotografías para el 55 % de los casos de bajo monto. (2) **Estandarizar**: lista de verificación del peritaje y criterios de aprobación por monto, con aprobación solo por excepción. (3) **Nivel de servicio**: indicador de «días de recepción a pago»; objetivo interno de 8 días y compromiso al cliente de 10. (4) **Proveedores**: red de talleres con convenio para presupuesto rápido y un proveedor adicional de peritaje en picos. (5) **Continuidad**: plan para peritaje manual si falla la aplicación de fotos. (6) **Automatizar** el cotejo de pólizas y la verificación de documentos.
 
-**Paso 3 — diseñar future state.** La gerencia escribe primero el supuesto asociado a **future state** y evita convertirlo en hecho. Luego busca **quality** para contrastarlo en el caso de **capstone: rediseñar una operación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Piloto y resultado.** En una sede durante tres meses: tiempo total de 22 a 11 días; reaperturas de 9 % a 5 %; cumplimiento del compromiso de 24 % a 71 %. Se detecta que el peritaje remoto aumenta los pagos en casos de bajo monto en 3 %: se revisa el criterio con el área de riesgo antes de generalizar.
 
-**Paso 4 — calcular beneficio y riesgos.** La gerencia escribe primero el supuesto asociado a **benefit case** y evita convertirlo en hecho. Luego busca **cost-to-serve** para contrastarlo en el caso de **capstone: rediseñar una operación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — pilotear, migrar y estabilizar.** La gerencia escribe primero el supuesto asociado a **transition plan** y evita convertirlo en hecho. Luego busca **resilience** para contrastarlo en el caso de **capstone: rediseñar una operación**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **capstone: rediseñar una operación**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) La restricción estaba en peritaje y no donde la dirección pensaba (evaluación). (2) El orden eliminar-estandarizar-medir-automatizar redujo el tiempo a la mitad con poca tecnología. (3) El piloto reveló un efecto lateral a vigilar.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **target operating model** | diseño futuro de procesos, roles, tecnología y controles | Cuando lead time es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **baseline** | medición del sistema antes de intervenir | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Rediseño frente a mejora continua.** El rediseño es un cambio mayor, con diagnóstico y piloto; la mejora continua son ajustes pequeños y permanentes. Un rediseño sin mejora continua se erosiona; la mejora continua sin rediseño no corrige problemas estructurales.
 
-**Frontera de aplicación:** Rediseño puede fallar por perseguir un diagrama ideal sin capacidad de transición. Protege servicio durante migración y valida con pilotos antes de cambios irreversibles.
+**Límites.** Los resultados de un piloto pueden no replicarse a escala. Las cifras de ejemplo son ilustrativas. El diagnóstico depende de la calidad de los datos disponibles. Los cambios que afectan a personas, contratos o datos requieren verificación laboral y legal, y cualquier decisión regulada se comprueba en la normativa vigente. Y ninguna herramienta reemplaza el juicio sobre qué conviene a este cliente, en este contexto.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre capstone: rediseñar una operación |
+| Nivel | Cómo participa en un rediseño |
 |---|---|
-| **Profesional** | usa **capstone: rediseñar una operación** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **target operating model** y **baseline** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta lead time con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si capstone: rediseñar una operación cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de capstone: rediseñar una operación reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **capstone: rediseñar una operación** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Aporta cómo se hace realmente el trabajo y prueba el cambio. |
+| **Jefe / Team Lead** | Lidera el piloto con su equipo y mide su efecto. |
+| **Gerente** | Conduce el rediseño, prioriza y sostiene la rutina de revisión. |
+| **CEO / Director** | Patrocina, decide inversiones y corrige incentivos que lo impiden. |
+| **Founder / Owner** | Diseña la operación para que pueda crecer sin depender de él. |
 
 ## 🏢 Caso ejecutivo
 
-Una operación de soporte tarda 11 días, tiene 18 handoffs y 22% de retrabajo. Dirección pide reducir costo 20% sin empeorar experiencia ni riesgo.
+Una empresa de distribución de productos de consumo masivo atiende 4.000 clientes (almacenes y supermercados). El 18 % de los pedidos llega incompleto o tarde; el tiempo desde el pedido hasta la entrega varía entre 1 y 9 días; el costo logístico sube 11 % anual. La bodega opera al 95 % de su capacidad en horas pico; compras mantiene inventario alto de algunos productos y quiebres en otros; el proveedor de transporte concentra el 70 % de las rutas y subió tarifas. Los sistemas fallaron dos veces el último año. La dirección quiere «digitalizar todo» con un nuevo sistema de gestión.
 
-Entrega un **decision brief de capstone: rediseñar una operación** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **plan integrado de rediseño operativo** que contenga: (a) la línea base y el diagnóstico con las herramientas de la parte; (b) la restricción identificada y las intervenciones priorizadas; (c) la secuencia eliminar–estandarizar–medir–decidir proveedores–asegurar continuidad–automatizar, con la razón de cada paso; (d) los niveles de servicio propuestos; (e) el piloto, sus métricas y el criterio para generalizar; (f) cómo involucrarás a las personas y qué verificaciones laborales y legales corresponden; (g) cómo se sostendrá la mejora y qué deuda operativa se asume.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **capstone: rediseñar una operación** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. medir baseline end-to-end → 2. identificar constraint y causas → 3. diseñar future state → 4. calcular beneficio y riesgos → 5. pilotear, migrar y estabilizar** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta lead time, throughput; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
+1. Define la línea base de una operación con cuatro indicadores.
+2. Identifica su restricción con datos de cola y capacidad.
+3. Prioriza cinco intervenciones por efecto, costo y riesgo.
+4. Diseña un piloto con alcance, plazo, métricas y criterio de decisión.
+5. Define el dueño, la rutina de revisión y los indicadores visibles.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar target operating model y baseline como sinónimos | Se pierde la distinción entre “diseño futuro de procesos, roles, tecnología y controles” y “medición del sistema antes de intervenir” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “pilotear, migrar y estabilizar” | Se saltó “medir baseline end-to-end” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. medir baseline end-to-end → 2. identificar constraint y causas → 3. diseñar future state → 4. calcular beneficio y riesgos → 5. pilotear, migrar y estabilizar y marca el primer supuesto no demostrado. |
-| Optimizar solo lead time | La métrica local sustituyó al resultado del sistema | Contrástala con throughput y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre capstone: rediseñar una operación | Rediseño puede fallar por perseguir un diagrama ideal sin capacidad de transición. Protege servicio durante migración y valida con pilotos antes de cambios irreversibles. |
-| No fijar revisión | Una decisión sobre capstone: rediseñar una operación se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Comenzar por la tecnología | Presión por una solución visible | Diagnosticar primero. |
+| Mejorar sin línea base | Falta de medición previa | Medir antes de cambiar. |
+| Intervenir fuera de la restricción | Se atiende la queja más fuerte | Priorizar por efecto en el flujo. |
+| Saltarse el piloto | Se quiere rapidez | Probar en pequeño. |
+| No cuidar a las personas | Se ve la mejora como técnica | Involucrar, comunicar y verificar condiciones. |
+| No sostener | Se da por terminado el proyecto | Dueño, estándar y revisión. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **target operating model** y **baseline** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **future state** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **medir baseline end-to-end → identificar constraint y causas** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **lead time** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **capstone: rediseñar una operación**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Rediseño puede fallar por perseguir un diagrama ideal sin capacidad de transición. Protege servicio durante migración y valida con pilotos antes de cambios irreversibles.**?
+1. ¿Por qué se mide una línea base antes de rediseñar?
+2. ¿Qué herramientas componen el diagnóstico?
+3. ¿Por qué priorizar según la restricción?
+4. ¿Cuál es el orden de rediseño y por qué se automatiza al final?
+5. ¿Qué define un buen piloto?
+6. ¿Qué elementos sostienen una mejora?
+7. ¿Qué límites tiene un rediseño basado en un piloto?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Para poder saber si hubo mejora; sin ella, el resultado es una opinión.
+2. Mapa y tiempos, demanda y capacidad, restricción, variación, desperdicio, nivel de servicio y dependencias de terceros.
+3. Porque un cambio sobre la restricción mueve el resultado del sistema, mientras que otras mejoras solo acumulan trabajo.
+4. Eliminar, estandarizar, medir con niveles de servicio, decidir proveedores, asegurar continuidad y automatizar al final, porque automatizar antes fija los defectos.
+5. Alcance, plazo, métricas acordadas y criterio de generalizar o detener, comparado con la línea base.
+6. Dueño de proceso, estándar vivo, indicadores visibles, rutina de revisión y plan de continuidad.
+7. Los resultados pueden no replicarse a escala, y los datos y cambios que afectan a personas requieren verificación.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/096-capstone-redisenar-una-operacion/`:
 
-- `operating-improvement-brief.md` con el problema específico de **capstone: rediseñar una operación**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **capstone: rediseñar una operación** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **target operating model**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una operación de soporte tarda 11 días, tiene 18 handoffs y 22% de retrabajo. Dirección pide reducir costo 20% sin empeorar experiencia ni riesgo.** y el dato que podría invalidar la recomendación.
+- `operating-improvement-brief.md` (plantilla [Operating Improvement Brief](../../../../templates/operating-improvement-brief.md)) con el plan integrado del caso ejecutivo;
+- `process-map.md` (plantilla [Process map](../../../../templates/process-map.md)) con el mapa actual, el rediseñado y los puntos de control;
+- `risk-register.md` (plantilla [Risk register](../../../../templates/risk-register.md)) con los riesgos del piloto y la deuda operativa;
+- `decision-journal.md` con la línea base, las decisiones y la rutina de revisión.
 
 ## 📗 Fuentes y verificación
 
-- Nigel Slack & Alistair Brandon-Jones — *Operations Management* (Pearson Education, Limited, 2019). **Uso en esta clase:** capacidad, procesos, variabilidad, calidad y estrategia de operaciones. Lectura selectiva sobre **capstone: rediseñar una operación**. **Localizador:** [ISBN-13 9781292254036](https://openlibrary.org/isbn/9781292254036).
-- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** restricciones, throughput, inventario y pensamiento de flujo. Lectura selectiva sobre **capstone: rediseñar una operación**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
-- ISO — *ISO 9001 Quality management systems*. **Uso en esta clase:** gestión de calidad basada en procesos, evidencia y mejora. **Localizador pendiente:** ver [el registro de fuentes](../../../../docs/FUENTES.md).
-- James P. Womack & Daniel T. Jones — *Lean Thinking* (Free Press, 2003). **Uso en esta clase:** valor, flujo, pull, desperdicio y mejora continua. Lectura selectiva sobre **capstone: rediseñar una operación**. **Localizador:** [ISBN-13 9780743231640](https://openlibrary.org/isbn/9780743231640).
-- Geary A. Rummler & Alan P. Brache — *Improving Performance* (Jossey-Bass, 1995). **Uso en esta clase:** perspectiva de Procesos aplicada al problema de la clase. Lectura selectiva sobre **capstone: rediseñar una operación**. **Localizador:** [ISBN-13 9780787900908](https://openlibrary.org/isbn/9780787900908).
-- W. Edwards Deming — *Out of the Crisis* (The MIT Press, 2000). **Uso en esta clase:** variación, sistemas, aprendizaje y responsabilidad gerencial por la calidad. Lectura selectiva sobre **capstone: rediseñar una operación**. **Localizador:** [ISBN-13 9780262541152](https://openlibrary.org/isbn/9780262541152).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **capstone: rediseñar una operación** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **capstone: rediseñar una operación**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **capstone: rediseñar una operación** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **capstone: rediseñar una operación** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **capstone: rediseñar una operación** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Nigel Slack & Alistair Brandon-Jones — *Operations Management* (Pearson Education, Limited, 2019). **Uso en esta clase:** marco de dirección de operaciones y decisiones de diseño. Lectura selectiva sobre **capstone: rediseñar una operación**. **Localizador:** [ISBN-13 9781292254036](https://openlibrary.org/isbn/9781292254036).
+- Eliyahu M. Goldratt & Jeff Cox — *The Goal* (HighBridge Audio, 2014). **Uso en esta clase:** foco en la restricción. Lectura selectiva sobre **capstone: rediseñar una operación**. **Localizador:** [ISBN-13 9781622313945](https://openlibrary.org/isbn/9781622313945).
+- James P. Womack & Daniel T. Jones — *Lean Thinking* (Free Press, 2003). **Uso en esta clase:** valor, flujo y eliminación de desperdicio. Lectura selectiva sobre **capstone: rediseñar una operación**. **Localizador:** [ISBN-13 9780743231640](https://openlibrary.org/isbn/9780743231640).
+- Geary A. Rummler & Alan P. Brache — *Improving Performance* (Jossey-Bass, 1995). **Uso en esta clase:** niveles de desempeño y traspasos. Lectura selectiva sobre **capstone: rediseñar una operación**. **Localizador:** [ISBN-13 9780787900908](https://openlibrary.org/isbn/9780787900908).
+- W. Edwards Deming — *Out of the Crisis* (The MIT Press, 2000). **Uso en esta clase:** mejora del sistema y distinción de la variación. Lectura selectiva sobre **capstone: rediseñar una operación**. **Localizador:** [ISBN-13 9780262541152](https://openlibrary.org/isbn/9780262541152).
 
-> **Regla de fuentes para Capstone: rediseñar una operación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **capstone: rediseñar una operación** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Capstone: rediseñar una operación:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las condiciones laborales y regulatorias aplicables a los cambios. Los ejemplos y casos son hipotéticos y no describen a ninguna empresa real. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Jefe → Manager"
 outcome: "operar procesos end-to-end con capacidad, calidad, continuidad y mejora"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir BIA de RTO mediante evidencia observable."
-  - "Aplicar la secuencia: identificar servicios críticos → hacer BIA y dependencias → definir RTO/RPO → diseñar estrategias y playbooks → ejercitar y corregir brechas."
-  - "Interpretar RTO alcanzado, RPO alcanzado, servicios sin plan sin atribuir causalidad automática."
-  - "Resolver el caso de continuidad operacional con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Identificar procesos críticos con un análisis de impacto."
+  - "Fijar tiempos máximos de interrupción y de pérdida de información tolerables."
+  - "Comparar estrategias de continuidad con su costo y su cobertura."
+  - "Escribir un plan que otra persona pueda ejecutar bajo presión."
+  - "Ejercitar y mejorar el plan con simulaciones y lecciones de incidentes."
 deliverable: "operating-improvement-brief.md"
 references:
-  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
-  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
-  - "Jeffrey K. Liker — *The Toyota Way*"
   - "ISO — *ISO 22301 Business continuity management systems*"
-  - "James P. Womack & Daniel T. Jones — *Lean Thinking*"
   - "W. Edwards Deming — *Out of the Crisis*"
+  - "Jeffrey K. Liker — *The Toyota Way*"
+  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
+  - "Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy — *Site Reliability Engineering*"
 limits:
-  - "Continuidad total es imposible y costosa. Prioriza por impacto y tiempos; los objetivos deben estar aprobados por negocio, no elegidos solo por tecnología."
+  - "No se pueden prever todos los escenarios; los planes basados en causas concretas fallan ante sorpresas, por lo que se diseñan por **consecuencias** (sin sistema, sin instalaciones, sin personas, sin proveedor)."
 evidence_signals:
-  - "RTO alcanzado"
-  - "RPO alcanzado"
-  - "servicios sin plan"
-  - "ejercicios"
-  - "dependencias no documentadas"
+  - "procesos críticos priorizados"
+  - "RTO y RPO por proceso"
+  - "plan ejecutable por otra persona"
+  - "ejercicio con lecciones incorporadas"

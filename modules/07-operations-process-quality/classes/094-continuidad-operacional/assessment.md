@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **BIA** de **RTO** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **RPO** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **BCP** con **DR**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué es un análisis de impacto y qué produce?
+2. ¿Qué diferencia hay entre RTO y RPO?
+3. ¿Por qué los tiempos tolerables nacen del negocio y no de la tecnología?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un incendio deja inaccesible una oficina. Sistemas están en cloud, pero el proceso crítico depende de dos personas y firmas físicas guardadas en el lugar.
+**Caso:** Una cadena de farmacias depende de un sistema central de inventario y recetas. Un fin de semana, una falla en el proveedor de alojamiento deja los locales sin sistema por 14 horas. Algunos locales venden «a mano», otros cierran; no se pueden verificar las recetas controladas; las redes sociales se llenan de reclamos. El directorio pide explicaciones el lunes. El plan de continuidad existe desde hace tres años, pero nadie lo había leído y los teléfonos de contacto estaban desactualizados.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **identificar servicios críticos → hacer BIA y dependencias → definir RTO/RPO → diseñar estrategias y playbooks → ejercitar y corregir brechas**. Debes utilizar o diseñar cómo obtener **RTO alcanzado, RPO alcanzado, servicios sin plan**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de continuidad operacional** con: (a) el análisis de impacto de los procesos críticos; (b) RTO y RPO por proceso, con la brecha frente a la situación actual; (c) las estrategias comparadas con costo y cobertura; (d) el plan de activación y los pasos para los locales sin sistema; (e) la comunicación a clientes, personal y autoridades; (f) el programa de ejercicios y cómo se incorporarán las lecciones del incidente. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Continuidad total es imposible y costosa. Prioriza por impacto y tiempos; los objetivos deben estar aprobados por negocio, no elegidos solo por tecnología.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: No se pueden prever todos los escenarios; los planes basados en causas concretas fallan ante sorpresas, por lo que se diseñan por **consecuencias** (sin sistema, sin instalaciones, sin personas, sin proveedor).
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

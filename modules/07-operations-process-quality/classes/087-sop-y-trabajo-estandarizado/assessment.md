@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **SOP** de **standard work** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **control point** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **exception path** con **version control**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué cuatro funciones cumple estandarizar?
+2. ¿Qué criterios indican que una tarea merece estándar?
+3. ¿Por qué deben escribirlo quienes hacen el trabajo?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Un cierre mensual depende de notas personales de una analista. Cuando está de vacaciones, el reemplazo omite dos conciliaciones y retrasa reportes.
+**Caso:** Una cadena de clínicas dentales tiene doce sedes. El proceso de esterilización de instrumental se hace con variaciones entre sedes; en una auditoría interna se hallaron tres sedes con registros incompletos y una con un paso omitido. La directora clínica quiere un «manual único» redactado por la oficina central y exigir su cumplimiento. Los técnicos advierten que algunas sedes tienen equipos distintos y que el manual propuesto es de 40 páginas.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **seleccionar proceso estable y crítico → observar cómo se ejecuta realmente → documentar pasos y controles mínimos → probar con una persona nueva → versionar y revisar tras incidentes**. Debes utilizar o diseñar cómo obtener **adherencia, errores de ejecución, tiempo de entrenamiento**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **plan de estandarización** que incluya: (a) qué se estandariza y qué se deja a criterio, con su razón; (b) cómo involucrarás a los técnicos en escribirlo; (c) el SOP resumido en una página con puntos de control; (d) el plan de entrenamiento y la auditoría en el puesto; (e) el control de versiones y el camino para proponer cambios; (f) cómo tratarás las diferencias de equipos y qué normas sanitarias vigentes deberás comprobar en su fuente. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Estandarizar trabajo exploratorio o creativo en exceso reduce aprendizaje. Un SOP debe concentrarse en lo repetible, regulado o riesgoso y dejar claro dónde se requiere criterio.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: Estandarizar en exceso mata la iniciativa y el juicio; estandarizar pocas cosas deja errores costosos sin control.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **constraint** de **bottleneck** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **throughput** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **buffer** con **subordination**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. ¿Qué es una restricción y cómo se reconoce?
+2. ¿Por qué mejorar un recurso que no es restricción no aumenta el resultado?
+3. ¿Cuáles son los cinco pasos de enfoque?
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una línea tiene cinco etapas. Cuatro producen 120 unidades/día y una 70. El director financia automatización de una etapa que ya produce 120 porque es la más visible.
+**Caso:** Una agencia de diseño tiene cuatro etapas: ventas, diseño, revisión del director creativo y entrega al cliente. Los diseñadores trabajan sobrecargados; el director creativo revisa todo y tiene la agenda llena; los proyectos esperan entre tres y diez días su visto bueno. La gerencia piensa contratar más diseñadores. El director creativo dice que no puede delegar la revisión porque «la calidad depende de él».
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **medir flujo y localizar restricción → explotar capacidad sin inversión → subordinar upstream y downstream → elevar restricción si el valor lo justifica → repetir cuando migra el cuello**. Debes utilizar o diseñar cómo obtener **throughput de restricción, idle time del cuello, buffer penetration**. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega un **análisis de restricción** que incluya: (a) los datos para localizar la restricción (colas, utilización, tiempos de espera); (b) la aplicación de los cinco pasos; (c) qué se explotaría sin invertir (criterios previos de revisión, lotes, bloques de agenda); (d) cuándo y cómo elevar la capacidad de revisión; (e) la medida global (rendimiento, inventario, gasto) que reemplazará a las medidas locales; (f) los riesgos de calidad y las señales de que la restricción se movió. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **No todos los sistemas tienen un único cuello estable; mix, demanda y políticas pueden moverlo. Observa datos y horizonte antes de convertir TOC en dogma.**
+Contrasta dos de las fuentes de la clase: qué aporta cada una, qué tensión hay entre ellas y cómo cambia tu recomendación. Luego responde al límite de la clase: La teoría supone que el resultado depende de un punto dominante; con muchas restricciones interactuando o con variabilidad extrema, el análisis es más complejo.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

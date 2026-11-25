@@ -5,27 +5,26 @@ duration_minutes: 150
 level: "Etapa 2 — Jefe → Manager"
 outcome: "operar procesos end-to-end con capacidad, calidad, continuidad y mejora"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir valor de waste mediante evidencia observable."
-  - "Aplicar la secuencia: definir valor desde cliente → mapear value stream → identificar espera, defectos y exceso → reducir lotes y crear pull → estandarizar mejora y repetir."
-  - "Interpretar lead time, first-pass yield, WIP sin atribuir causalidad automática."
-  - "Resolver el caso de lean y eliminación de desperdicio con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
+  - "Distinguir valor, trabajo necesario sin valor y desperdicio según el cliente."
+  - "Reconocer las formas de desperdicio con señales observables."
+  - "Aplicar la secuencia: valor, flujo de valor, flujo, tracción y mejora continua."
+  - "Interpretar tiempo de entrega, rendimiento a la primera y trabajo en curso sin atribuir causalidad automática."
+  - "Diferenciar lean de recorte de costos y evitar eliminar capacidad protectora."
 deliverable: "leadership-decision-brief.md"
 references:
-  - "Nigel Slack & Alistair Brandon-Jones — *Operations Management*"
-  - "Eliyahu M. Goldratt & Jeff Cox — *The Goal*"
-  - "Geary A. Rummler & Alan P. Brache — *Improving Performance*"
-  - "James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World*"
-  - "ISO — *ISO 22301 Business continuity management systems*"
   - "James P. Womack & Daniel T. Jones — *Lean Thinking*"
+  - "James P. Womack, Daniel T. Jones & Daniel Roos — *The Machine That Changed the World*"
+  - "Taiichi Ohno — *Toyota Production System*"
+  - "Mike Rother & John Shook — *Learning to See*"
+  - "Jeffrey K. Liker — *The Toyota Way*"
 limits:
-  - "Lean no es austeridad. Eliminar capacidad protectora sin comprender variabilidad puede hacer el sistema frágil; seguridad y calidad no son desperdicio."
+  - "Lean nació en manufactura repetitiva; en trabajo creativo o de alta variabilidad se adapta, no se copia."
 evidence_signals:
-  - "lead time"
-  - "first-pass yield"
-  - "WIP"
-  - "rework"
-  - "porcentaje de valor agregado"
+  - "valor definido desde el cliente"
+  - "tiempo de espera frente a trabajo"
+  - "riesgo de cada mejora revisado"
+  - "protección distinguida de desperdicio"

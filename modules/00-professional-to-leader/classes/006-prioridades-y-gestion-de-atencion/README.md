@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 006: 1. capturar todas las demandas relevantes → 2. clasificar impacto, urgencia y dependencia → 3. limitar WIP y reservar bloques de atención → 4. negociar explícitamente lo que se posterga → 5. revisar prioridades cuando cambian supuestos](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. capturar todas las demandas relevantes → 2. clasificar impacto, urgencia y dependencia → 3. limitar WIP y reservar bloques de atención → 4. negociar explícitamente lo que se posterga → 5. revisar prioridades cuando cambian supuestos
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Gestionar prioridades y atención es decidir explícitamente qué no recibirá tiempo ahora. La atención ejecutiva es un recurso escaso y su fragmentación tiene costo de cambio, retraso y calidad. Priorizar bien combina impacto, urgencia real, dependencia, reversibilidad y costo de oportunidad, en lugar de ordenar una lista por quién presiona más.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Priorizar no significa ignorar incidentes ni rigidez absoluta. Debe existir capacidad reservada para variabilidad; el sistema falla tanto por sobreplanificación como por ausencia de límites.**
 

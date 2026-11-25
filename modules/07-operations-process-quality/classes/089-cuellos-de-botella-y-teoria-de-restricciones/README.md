@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 089: 1. medir flujo y localizar restricción → 2. explotar capacidad sin inversión → 3. subordinar upstream y downstream → 4. elevar restricción si el valor lo justifica → 5. repetir cuando migra el cuello](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. medir flujo y localizar restricción → 2. explotar capacidad sin inversión → 3. subordinar upstream y downstream → 4. elevar restricción si el valor lo justifica → 5. repetir cuando migra el cuello
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La Teoría de Restricciones sostiene que el throughput del sistema está limitado por una restricción dominante. Mejorar etapas no limitantes puede crear más WIP sin aumentar output. La secuencia es identificar, explotar, subordinar, elevar y luego buscar la nueva restricción.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todos los sistemas tienen un único cuello estable; mix, demanda y políticas pueden moverlo. Observa datos y horizonte antes de convertir TOC en dogma.**
 

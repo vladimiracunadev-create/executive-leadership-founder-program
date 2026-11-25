@@ -20,12 +20,23 @@
 
 ## Sin publicar
 
-### Modelos mentales en SVG
+### Clases escritas como conocimiento, con fuente y diagrama a medida
 
-- Cada una de las 288 clases muestra su modelo mental como diagrama SVG
-  autónomo (pasos numerados, flechas, bucle de revisión y señales a observar),
-  con la misma secuencia en texto plegable para quien no ve imágenes.
-- Nuevo `tools/build_diagrams.py` (con `--check` en la CI).
+- **Cuatro clases se reescriben a mano** (034, 137, 190, 200): definiciones con su
+  autor, un marco real por clase (prominencia de interesados de Mitchell, Agle y
+  Wood; confianza de Mayer, Davis y Schoorman y reparación de Kim et al.; mando de
+  incidentes de Beyer et al. y comunicación de crisis de Coombs), ejemplo con
+  datos, claves de respuesta y límites declarados.
+- **Cada una lleva un diagrama SVG propio** que dibuja ese marco (diagrama de Venn
+  de tres atributos, escalera de escalamiento con roles, modelo causal de
+  confianza, matriz de atribución de responsabilidad). Las demás clases **no
+  llevan diagrama** hasta tener uno que ayude a entender: se retiran los 288
+  esquemas idénticos anteriores.
+- **Nueve fuentes verificadas** (DOI e ISBN comprobados) entran al registro.
+- Una clase con `authoring: manual` en su `lesson.yaml` no la regenera
+  `deep_curriculum_builder.py`.
+- Nuevos `tools/diagramas_clase.py` y `tools/build_diagrams.py` (con `--check` en
+  la CI).
 
 ### Navegación y portadas de parte
 

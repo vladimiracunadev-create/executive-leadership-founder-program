@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 218: 1. definir flujo y riesgo → 2. estimar costo de deuda after-tax → 3. estimar costo de equity → 4. ponderar capital a valores económicos → 5. ajustar hurdle si riesgo difiere](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir flujo y riesgo → 2. estimar costo de deuda after-tax → 3. estimar costo de equity → 4. ponderar capital a valores económicos → 5. ajustar hurdle si riesgo difiere
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Costo de capital es la tasa de retorno requerida por quienes financian una empresa según riesgo; WACC combina costo de deuda y equity ponderados por valor de mercado. Se usa como hurdle para flujos con riesgo comparable, no como tasa universal para todo proyecto.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **WACC parece preciso pero depende de supuestos y mercado. Usa rangos y sensibilidad; no inventes decimales que superen calidad de inputs.**
 

@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 266: 1. identificar procesos críticos → 2. capturar standard y exceptions → 3. asignar process owners → 4. instrumentar métricas y controls → 5. mejorar desde incidentes y feedback](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. identificar procesos críticos → 2. capturar standard y exceptions → 3. asignar process owners → 4. instrumentar métricas y controls → 5. mejorar desde incidentes y feedback
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Sistemas reemplazan heroicidad cuando procesos, estándares, datos y responsabilidades permiten resultados repetibles sin rescates constantes. E-Myth y disciplinas operativas ayudan a documentar el cómo, pero el objetivo es capacidad adaptable, no manuales que nadie usa.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No sistematices trabajo exploratorio prematuramente. Estandariza lo repetible y conserva autonomía donde el valor depende de judgment o innovación.**
 

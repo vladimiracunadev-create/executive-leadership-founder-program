@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 258: 1. separar cuentas personales y empresa → 2. capturar soporte de cada transacción → 3. reconciliar banco y documentos → 4. aprobar pagos con controles → 5. cerrar mes con estados e issues](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. separar cuentas personales y empresa → 2. capturar soporte de cada transacción → 3. reconciliar banco y documentos → 4. aprobar pagos con controles → 5. cerrar mes con estados e issues
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Contabilidad, tesorería y control documental convierten transacciones en información confiable y protegen caja. Incluso con contador externo, el founder conserva responsabilidad de entregar antecedentes, aprobar pagos, separar fondos y revisar estados; externalizar no equivale a abdicar control.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Procesos complejos deben ser proporcionales al tamaño. La pyme necesita control básico fuerte, no burocracia de multinacional; aumenta segregación y reporting al crecer.**
 

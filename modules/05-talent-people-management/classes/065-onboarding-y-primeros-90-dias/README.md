@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 065: 1. preparar accesos y contexto antes del ingreso → 2. acordar 30-60-90 outcomes → 3. construir mapa de stakeholders → 4. combinar aprendizaje con entregas pequeñas → 5. revisar ajuste y soporte cada etapa](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. preparar accesos y contexto antes del ingreso → 2. acordar 30-60-90 outcomes → 3. construir mapa de stakeholders → 4. combinar aprendizaje con entregas pequeñas → 5. revisar ajuste y soporte cada etapa
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Onboarding reduce el tiempo entre firma y contribución segura. Los primeros 90 días deben cubrir contexto, relaciones, herramientas, expectativas, quick wins y aprendizaje del sistema. El error habitual es confundir onboarding con trámites de la primera semana.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Onboarding no debe imponer velocidad artificial ni ocultar problemas de rol. Si el cargo o prioridades cambian durante la incorporación, el plan se renegocia explícitamente.**
 

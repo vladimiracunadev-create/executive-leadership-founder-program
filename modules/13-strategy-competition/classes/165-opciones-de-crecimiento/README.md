@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 165: 1. definir objetivo de crecimiento → 2. mapear opciones y sinergias → 3. estimar TAM economics y capacidades → 4. comparar riesgo y reversibilidad → 5. secuenciar prueba antes de escalar](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir objetivo de crecimiento → 2. mapear opciones y sinergias → 3. estimar TAM economics y capacidades → 4. comparar riesgo y reversibilidad → 5. secuenciar prueba antes de escalar
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Crecer puede significar profundizar mercado, entrar en nuevos segmentos o geografías, ampliar producto, integrar cadena o adquirir. Cada opción cambia riesgo, capital, capacidades y tiempo. La matriz de Ansoff es un inicio, no una recomendación automática.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Crecimiento no equivale a creación de valor. Una expansión que destruye margen, foco o retorno sobre capital puede hacer la empresa mayor y peor.**
 

@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 122: 1. analizar clientes ganados y perdidos → 2. identificar atributos de éxito → 3. definir ICP y disqualifiers → 4. priorizar segmentos por valor y acceso → 5. probar messaging y win rate](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. analizar clientes ganados y perdidos → 2. identificar atributos de éxito → 3. definir ICP y disqualifiers → 4. priorizar segmentos por valor y acceso → 5. probar messaging y win rate
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **ICP y segmentación comercial concentran esfuerzo donde el problema, capacidad de pago, urgencia y fit permiten una venta rentable. Un ICP no es una persona ficticia: describe organizaciones o clientes con características observables que correlacionan con valor y éxito.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un ICP demasiado estrecho puede ocultar mercados emergentes. Reserva experimentos fuera del core y actualiza con datos, sin diluir el foco principal.**
 

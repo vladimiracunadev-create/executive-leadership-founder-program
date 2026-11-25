@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 251: 1. alinear visión y compromiso → 2. definir roles y decision rights → 3. negociar equity y vesting → 4. establecer IP y confidentiality → 5. planificar departure deadlock y dispute](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. alinear visión y compromiso → 2. definir roles y decision rights → 3. negociar equity y vesting → 4. establecer IP y confidentiality → 5. planificar departure deadlock y dispute
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Cofundadores deben alinear roles, equity, vesting, propiedad intelectual, decisiones, salida y escenarios difíciles antes de que el valor crezca. Repartir 50/50 por amistad sin proceso de deadlock o vesting puede crear riesgo existencial.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No existe fórmula universal de equity. Considera aportes, riesgo futuro y compromiso, y formaliza con asesoría jurídica según jurisdicción.**
 

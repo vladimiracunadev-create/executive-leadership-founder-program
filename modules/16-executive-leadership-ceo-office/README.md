@@ -74,7 +74,7 @@ Las clases **202 a 204** cubren la prueba: crisis y decisiones irreversibles, su
 | 197 | [Agenda y tiempo del CEO](classes/197-agenda-y-tiempo-del-ceo/README.md) | CEO agenda, high-leverage activity, calendar audit | [board-or-executive-memo](../../templates/board-or-executive-memo.md) | 150 |
 | 198 | [Asignación de capital y talento](classes/198-asignacion-de-capital-y-talento/README.md) | capital allocation, talent allocation, sunk cost | [modelo-financiero-y-memo-de-decision](../../templates/modelo-financiero-y-memo-de-decision.md) | 150 |
 | 199 | [Balance entre clientes, personas, accionistas y sociedad](classes/199-balance-entre-clientes-personas-accionistas-y-sociedad/README.md) | stakeholder, shareholder return, externality | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
-| 200 | [Comunicación del CEO](classes/200-comunicacion-del-ceo/README.md) | CEO narrative, message architecture, audience adaptation | [board-or-executive-memo](../../templates/board-or-executive-memo.md) | 150 |
+| 200 | [Comunicación del CEO](classes/200-comunicacion-del-ceo/README.md) | Teoría situacional de comunicación de crisis, Atribución de responsabilidad, Intensificadores | [executive-spokesperson-manual](../../templates/executive-spokesperson-manual.md) | 150 |
 | 201 | [Leadership pipeline](classes/201-leadership-pipeline/README.md) | leadership passage, readiness, succession bench | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
 | 202 | [Crisis y decisiones irreversibles](classes/202-crisis-y-decisiones-irreversibles/README.md) | irreversible decision, pre-mortem, red team | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
 | 203 | [Sucesión y continuidad de liderazgo](classes/203-sucesion-y-continuidad-de-liderazgo/README.md) | CEO succession, emergency succession, successor profile | [people-decision-brief](../../templates/people-decision-brief.md) | 150 |
@@ -89,21 +89,19 @@ Las clases **202 a 204** cubren la prueba: crisis y decisiones irreversibles, su
 
 ## 🔤 Glosario de la parte
 
-60 conceptos definidos en las clases, con la definición operacional que usa cada una.
+63 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
 | **100-day plan** | secuencia de aprendizaje acciones y revisiones en transición. |
+| **Atribución de responsabilidad** | Grado en que los interesados creen que la organización causó la crisis; se agrupa en víctima, accidental y evitable. |
 | **attention residue** | costo cognitivo de cambiar continuamente de contexto. |
-| **audience adaptation** | ajuste de lenguaje y detalle sin cambiar hechos. |
 | **calendar audit** | análisis de cómo tiempo real se compara con prioridades. |
 | **capital allocation** | distribución de recursos financieros entre usos alternativos. |
 | **CEO agenda** | distribución deliberada de tiempo y atención ejecutiva. |
-| **CEO narrative** | explicación coherente de situación dirección y lógica. |
 | **CEO succession** | proceso para asegurar continuidad del máximo liderazgo. |
 | **collective accountability** | responsabilidad compartida por decisiones de empresa. |
 | **constructive conflict** | desacuerdo sustantivo que mejora decisión sin dañar relación. |
-| **credibility** | confianza basada en consistencia evidencia y cumplimiento. |
 | **critical role** | posición cuya vacancia crea riesgo material. |
 | **cross-subsidy** | uso deliberado de recursos de una unidad para apoyar otra. |
 | **decision architecture** | mapa de decisiones derechos foros e información. |
@@ -116,13 +114,16 @@ Las clases **202 a 204** cubren la prueba: crisis y decisiones irreversibles, su
 | **enterprise perspective** | lente que prioriza resultado total sobre función propia. |
 | **enterprise trade-off** | elección donde mejorar una parte puede empeorar otra. |
 | **enterprise value** | valor económico y estratégico del sistema completo. |
+| **Estrategias de respuesta** | Negación, disminución, reconstrucción y refuerzo, con variantes en cada grupo. |
 | **exception** | caso fuera de políticas o tolerancias. |
 | **executive team** | grupo colectivo accountable por resultados enterprise. |
 | **externality** | costo o beneficio impuesto a terceros no reflejado completamente en precio. |
-| **forward-looking statement** | afirmación sobre futuro que requiere cautela y contexto. |
 | **functional advocacy** | defensa legítima de una función que no debe dominar interés total. |
 | **high-leverage activity** | actividad cuyo efecto multiplica resultados de otros. |
 | **hurdle rate** | retorno mínimo requerido para una inversión. |
+| **Información de ajuste** | Reconocimiento del daño y apoyo para afrontarlo emocionalmente. |
+| **Información de instrucción** | Qué ocurrió y qué debe hacer quien está en riesgo para protegerse. |
+| **Intensificadores** | Historial de crisis similares y reputación previa: aumentan la responsabilidad atribuida. |
 | **internal candidate** | persona desarrollada dentro de la organización. |
 | **irreversible decision** | elección cuyo costo de deshacer es alto o imposible. |
 | **leadership passage** | transición a un nivel con nuevas responsabilidades y valores. |
@@ -130,7 +131,8 @@ Las clases **202 a 204** cubren la prueba: crisis y decisiones irreversibles, su
 | **learning plan** | agenda estructurada de preguntas y fuentes. |
 | **license to operate** | aceptación social regulatoria y reputacional para operar. |
 | **long-term value** | valor creado considerando efectos y riesgos más allá del trimestre. |
-| **message architecture** | jerarquía de mensajes principales y evidencia. |
+| **Manual de vocería** | Documento previo que define quién habla, qué dice, qué no dirá y cómo se corrige un error. |
+| **Mensaje central** | Una frase verificable que sostiene toda la comunicación; todo lo demás la respalda. |
 | **operating rhythm** | cadencia que agrupa decisiones y revisiones recurrentes. |
 | **portfolio view** | perspectiva comparativa de negocios productos o capacidades. |
 | **pre-mortem** | ejercicio que imagina fracaso futuro para revelar riesgos. |
@@ -150,6 +152,7 @@ Las clases **202 a 204** cubren la prueba: crisis y decisiones irreversibles, su
 | **system constraint** | cuello que limita desempeño total. |
 | **talent allocation** | asignación de personas escasas a prioridades. |
 | **team charter** | acuerdo sobre propósito decisiones y normas del equipo. |
+| **Teoría situacional de comunicación de crisis** | Marco de Coombs (2007) que relaciona la responsabilidad que el público atribuye a la organización con las respuestas más adecuadas. |
 | **transition** | periodo en que expectativas relaciones y capacidades cambian. |
 | **transition mandate** | expectativas explícitas del rol y contexto. |
 | **transition plan** | secuencia para transferir relaciones información y autoridad. |

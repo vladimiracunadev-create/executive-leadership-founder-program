@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 170: 1. mapear variedad e interdependencia → 2. identificar unidad primaria de accountability → 3. evaluar economías de escala → 4. diseñar interfaces entre ejes → 5. probar decisiones críticas en el modelo](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mapear variedad e interdependencia → 2. identificar unidad primaria de accountability → 3. evaluar economías de escala → 4. diseñar interfaces entre ejes → 5. probar decisiones críticas en el modelo
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Estructuras funcionales, divisionales y matriciales resuelven problemas distintos de especialización y coordinación. La elección depende de diversidad de productos, geografías, clientes, escala y necesidad de compartir capacidades. Una matriz agrega ejes de accountability, pero también costo de negociación.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una matriz no corrige falta de confianza o derechos de decisión ambiguos; puede amplificarlos. Úsala solo cuando los beneficios de dos dimensiones justifican el costo de coordinación.**
 

@@ -5,7 +5,7 @@
 
 **Todo el texto versionado del repositorio, en un listado plano y ordenado.**
 
-[![Archivos](https://img.shields.io/badge/archivos-1457-7c5cff?style=flat-square)](FILE_INDEX.md)
+[![Archivos](https://img.shields.io/badge/archivos-1458-7c5cff?style=flat-square)](FILE_INDEX.md)
 [![Generado por](https://img.shields.io/badge/generado%20por-build__file__index.py-007c83?style=flat-square)](tools/build_file_index.py)
 [![Se edita](https://img.shields.io/badge/se%20edita-nunca%20a%20mano-8b0000?style=flat-square)](MANIFEST.md)
 
@@ -26,7 +26,7 @@
 | `.md` | 832 |
 | `.yaml` | 289 |
 | `.svg` | 288 |
-| `.py` | 25 |
+| `.py` | 26 |
 | `.yml` | 8 |
 | `(sin extensión)` | 6 |
 | `.json` | 4 |
@@ -2544,6 +2544,7 @@
 - `deep_curriculum_builder.py`
 - `detect_pii.py`
 - `detect_secrets.py`
+- `diagramas_clase.py`
 - `inventario.py`
 - `portal_extra.py`
 - `sources_registry.py`

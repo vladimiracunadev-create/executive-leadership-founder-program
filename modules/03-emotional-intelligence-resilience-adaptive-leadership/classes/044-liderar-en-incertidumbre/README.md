@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 044: 1. declarar qué se sabe y no → 2. definir norte y no microplan falso → 3. establecer decisiones reversibles → 4. crear triggers y cadencia → 5. actualizar narrativa cuando cambia evidencia](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. declarar qué se sabe y no → 2. definir norte y no microplan falso → 3. establecer decisiones reversibles → 4. crear triggers y cadencia → 5. actualizar narrativa cuando cambia evidencia
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Liderar en incertidumbre requiere proporcionar orientación suficiente sin inventar certezas. Se trabaja con hipótesis, horizontes cortos, señales y cadencias de actualización. La confianza aumenta cuando el líder distingue lo conocido, lo desconocido y lo que se está haciendo para aprender.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Demasiada provisionalidad también desgasta. Aunque el futuro sea incierto, algunas prioridades y límites deben permanecer estables para que la organización pueda coordinar.**
 

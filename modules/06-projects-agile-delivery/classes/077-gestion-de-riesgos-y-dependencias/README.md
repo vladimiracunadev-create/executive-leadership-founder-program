@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 077: 1. identificar riesgos por objetivo → 2. priorizar exposición material → 3. asignar mitigación y contingency → 4. mapear dependencias con fechas y owners → 5. revisar triggers semanalmente](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. identificar riesgos por objetivo → 2. priorizar exposición material → 3. asignar mitigación y contingency → 4. mapear dependencias con fechas y owners → 5. revisar triggers semanalmente
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Gestionar riesgos y dependencias es hacer visible lo que puede alterar el plan antes de que sea incidente. Riesgo combina probabilidad e impacto; dependencia condiciona secuencia o autonomía. Ambos requieren owner, respuesta, trigger y fecha, no una celda roja olvidada en una planilla.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un risk register enorme puede ocultar lo material. Distingue riesgos de proyecto de incertidumbre normal y escala los que afectan estrategia, seguridad o compliance.**
 

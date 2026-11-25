@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 237: 1. traducir estrategia a quality attributes → 2. mapear bottlenecks y dependencies → 3. cuantificar debt impact → 4. priorizar remediation por value y risk → 5. crear guardrails y evolución incremental](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. traducir estrategia a quality attributes → 2. mapear bottlenecks y dependencies → 3. cuantificar debt impact → 4. priorizar remediation por value y risk → 5. crear guardrails y evolución incremental
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Arquitectura y deuda técnica importan al ejecutivo cuando afectan velocidad, disponibilidad, costo, seguridad o capacidad de cambiar. La deuda es un trade-off deliberado o acumulado, no código feo; debe gestionarse como riesgo y capital maintenance.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No toda deuda debe pagarse. Si un sistema está cerca de retiro o el costo de cambio supera beneficio, gestionar el riesgo puede ser mejor que reescribir.**
 

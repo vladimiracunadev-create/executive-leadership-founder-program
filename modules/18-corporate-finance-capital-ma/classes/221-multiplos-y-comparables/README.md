@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 221: 1. elegir métrica consistente → 2. definir peer set por economics → 3. normalizar estados → 4. comparar growth margin y risk → 5. aplicar rango y reconciliar con DCF](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. elegir métrica consistente → 2. definir peer set por economics → 3. normalizar estados → 4. comparar growth margin y risk → 5. aplicar rango y reconciliar con DCF
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Los múltiplos comparan valor relativo usando métricas como EV/Revenue, EV/EBITDA o P/E. Solo son útiles si comparables tienen riesgo, crecimiento, margen, accounting y capital structure suficientemente semejantes; la selección del peer set suele importar más que la fórmula.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Múltiplos reflejan humor del mercado y pueden trasladar sobrevaloración. Úsalos como referencia cruzada, no sustituto de análisis económico.**
 

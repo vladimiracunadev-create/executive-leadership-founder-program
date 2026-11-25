@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 055: 1. mantener cadencia estable → 2. recoger temas antes de la reunión → 3. escuchar antes de convertirlo en status → 4. tratar un tema de desarrollo → 5. registrar compromisos y volver a ellos](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mantener cadencia estable → 2. recoger temas antes de la reunión → 3. escuchar antes de convertirlo en status → 4. tratar un tema de desarrollo → 5. registrar compromisos y volver a ellos
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un one-on-one eficaz es una infraestructura de información y desarrollo, no un reporte de estado. Debe permitir discutir prioridades, bloqueos, relaciones, feedback, carrera y señales que no emergen en reuniones grupales. La agenda pertenece parcialmente al colaborador y se sostiene con cadencia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Los one-on-ones no deben ser canales secretos para decisiones que afectan a otros. Mantén privacidad personal, pero documenta acuerdos operativos y usa procesos formales cuando corresponda.**
 

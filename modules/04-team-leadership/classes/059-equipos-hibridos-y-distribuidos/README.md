@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 059: 1. clasificar trabajo síncrono y asíncrono → 2. definir fuente de verdad documental → 3. establecer overlap y tiempos de respuesta → 4. diseñar reuniones inclusivas → 5. medir acceso y oportunidades sin proximity bias](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. clasificar trabajo síncrono y asíncrono → 2. definir fuente de verdad documental → 3. establecer overlap y tiempos de respuesta → 4. diseñar reuniones inclusivas → 5. medir acceso y oportunidades sin proximity bias
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Los equipos híbridos y distribuidos necesitan hacer explícito lo que una oficina resuelve de manera informal: documentación, disponibilidad, decisiones, socialización y acceso a información. Diseñar remote-first evita que quienes están fuera se conviertan en participantes de segunda clase.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Remote-first no implica que toda interacción deba ser asíncrona. Conflictos, creatividad compleja y vínculos pueden beneficiarse de alta riqueza; el diseño elige intencionalmente.**
 

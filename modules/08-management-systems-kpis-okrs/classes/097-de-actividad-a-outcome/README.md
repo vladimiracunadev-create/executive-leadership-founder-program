@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 097: 1. nombrar outcome y stakeholder → 2. mapear outputs que plausiblemente lo habilitan → 3. explicitar mecanismo causal → 4. seleccionar métricas de outcome y driver → 5. revisar si los outputs realmente mueven la señal](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. nombrar outcome y stakeholder → 2. mapear outputs que plausiblemente lo habilitan → 3. explicitar mecanismo causal → 4. seleccionar métricas de outcome y driver → 5. revisar si los outputs realmente mueven la señal
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Pasar de actividad a outcome exige distinguir cuánto trabajo hicimos de qué cambio produjo ese trabajo. Los outputs son necesarios para operar; los outcomes permiten saber si la estrategia funciona. Un sistema gerencial saludable conecta ambos mediante una teoría causal explícita y evita premiar volumen que no crea valor.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un outcome puede estar influido por factores fuera del equipo. No lo conviertas en evaluación simplista de una persona; combina controlabilidad, contribución y contexto.**
 

@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 003: 1. hacer compromisos explícitos y realistas → 2. cumplir o renegociar antes del vencimiento → 3. mostrar evidencia y separar hechos de opiniones → 4. admitir límites y errores sin ocultarlos → 5. reparar confianza con conducta verificable sostenida](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. hacer compromisos explícitos y realistas → 2. cumplir o renegociar antes del vencimiento → 3. mostrar evidencia y separar hechos de opiniones → 4. admitir límites y errores sin ocultarlos → 5. reparar confianza con conducta verificable sostenida
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La credibilidad profesional se construye cuando las personas pueden predecir que tu palabra, tus datos y tu conducta convergen. No depende de parecer seguro, sino de combinar competencia, consistencia, transparencia sobre límites y cumplimiento de compromisos. La confianza se acumula lentamente y puede perderse por pequeños incumplimientos repetidos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La confianza no exige revelar todo ni ser siempre agradable. Existen datos confidenciales, deberes fiduciarios y conversaciones que requieren discreción; transparencia no es indiscreción.**
 

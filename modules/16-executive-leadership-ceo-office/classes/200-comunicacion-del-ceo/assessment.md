@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **CEO narrative** de **message architecture** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **audience adaptation** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **credibility** con **forward-looking statement**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. Explica qué se comunica primero según Coombs y por qué precede a la reputación.
+2. Distingue una crisis de tipo víctima de una de tipo evitable y cómo cambia la postura de respuesta.
+3. Distingue aclarar de retractarse y explica cuándo cada uno es una evasión.
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Tras una adquisición, el CEO dice a empleados nada cambiará y a inversionistas promete USD 20M en sinergias de personal. La contradicción se filtra el mismo día.
+**Caso:** Tras una adquisición, el CEO dice a los empleados que nada cambiará y a los inversionistas promete USD 20 millones en sinergias de personal. La contradicción se filtra el mismo día.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir objetivo y audiencia → estructurar situación elección evidencia → anticipar preguntas y objeciones → alinear mensajes entre canales → cerrar con acción y seguimiento**. Debes utilizar o diseñar cómo obtener **message recall, employee understanding, investor questions**. Entrega manual de vocería, respuestas a tres preguntas difíciles y plan de traspaso de la vocería. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Clasifica la crisis por responsabilidad atribuida; compara tres opciones defendibles con lo que protegen y arriesgan; identifica el dato que cambiaría la decisión; redacta tres respuestas con la estructura hecho → límite → compromiso y el plan de traspaso de la vocería. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **No conviertas comunicación en spin. La reputación de largo plazo depende de no prometer aquello que los hechos o decisiones internas contradicen.**
+Contrasta Coombs con Kim et al.: qué aporta cada uno a una disculpa o a una negación, qué tensión hay y cómo cambia tu decisión. Responde al límite: ninguna técnica salva un mensaje que los hechos internos contradicen.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

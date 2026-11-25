@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 203: 1. definir escenarios de sucesión → 2. construir profile por estrategia futura → 3. evaluar candidatos internos o externos → 4. crear emergency plan y desarrollo → 5. ensayar transición y comunicaciones](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir escenarios de sucesión → 2. construir profile por estrategia futura → 3. evaluar candidatos internos o externos → 4. crear emergency plan y desarrollo → 5. ensayar transición y comunicaciones
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La sucesión del CEO y liderazgo crítico es un proceso continuo de continuidad, no un evento cuando alguien renuncia. El directorio y CEO deben definir perfiles futuros, construir candidatos, planes de emergencia y transición, separando sucesión de favoritismo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un plan de sucesión no debe anunciar un heredero prematuramente ni congelar estrategia. Mantén opciones, criterios y desarrollo, con confidencialidad proporcional.**
 

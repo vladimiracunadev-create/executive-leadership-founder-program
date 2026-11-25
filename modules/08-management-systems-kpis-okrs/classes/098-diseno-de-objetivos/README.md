@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 098: 1. partir de prioridad estratégica → 2. definir outcome y horizonte → 3. seleccionar 1–3 medidas → 4. declarar constraints y trade-offs → 5. alinear recursos y revisión](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. partir de prioridad estratégica → 2. definir outcome y horizonte → 3. seleccionar 1–3 medidas → 4. declarar constraints y trade-offs → 5. alinear recursos y revisión
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Diseñar objetivos significa elegir un estado futuro, un horizonte y una medida suficiente de logro. Un objetivo útil crea foco y trade-offs; si solo enumera trabajo, no ayuda a decidir. Debe ser lo bastante estable para coordinar y lo bastante revisable para responder a evidencia nueva.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un objetivo agresivo puede inducir gaming o riesgo si no incluye límites. Ambición sin guardrails no es liderazgo de desempeño.**
 

@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 035: 1. preparar tres mensajes y datos clave → 2. regular ritmo, respiración y lenguaje → 3. responder primero a la pregunta central → 4. declarar incertidumbre y compromiso de seguimiento → 5. solicitar feedback sobre impacto real](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. preparar tres mensajes y datos clave → 2. regular ritmo, respiración y lenguaje → 3. responder primero a la pregunta central → 4. declarar incertidumbre y compromiso de seguimiento → 5. solicitar feedback sobre impacto real
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Presencia ejecutiva es la capacidad de transmitir claridad, estabilidad y criterio en situaciones de alta atención. No equivale a extroversión, voz grave, estilo dominante, apariencia costosa ni vestimenta formal. Se construye preparando contenido, regulando reactividad, respondiendo con estructura, admitiendo lo que no se sabe y adaptando comunicación, comportamiento e imagen profesional al contexto. La imagen es una dimensión subordinada a la competencia, el criterio, la credibilidad y los resultados: apariencia no equivale a competencia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Trabajar presencia no debe imponer un molde cultural o físico único ni penalizar introversión, neurodiversidad, discapacidad, edad, género, origen cultural, rasgos físicos o estilos de comunicación no dominantes. Evalúa claridad, criterio, comportamiento y adaptación; no belleza, precio, conformidad estética ni teatralidad.**
 

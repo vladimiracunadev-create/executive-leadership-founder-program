@@ -58,10 +58,11 @@ La navegación **se genera**; no se edita a mano.
   `<!-- parte:inicio -->` y `<!-- parte:fin -->`), la miga y el pie de cada clase,
   y el pie de los laboratorios y proyectos. Con `--check` falla si algo está
   desfasado, y la CI lo ejecuta.
-- `tools/build_diagrams.py` dibuja el **modelo mental** de cada clase como SVG
-  (`modelo-mental.svg`, junto a su README) a partir de la secuencia de pasos y de
-  las `evidence_signals` de `lesson.yaml`. Con `--check` falla si algo está
-  desfasado.
+- `tools/build_diagrams.py` escribe el diagrama SVG de las clases que tienen uno a
+  medida (`tools/diagramas_clase.py`). Un diagrama solo existe si ayuda a entender
+  el marco de esa clase: no se generan esquemas iguales para todas.
+- Una clase escrita a mano lleva `authoring: manual` en su `lesson.yaml`; el
+  generador de clases la conserva tal cual.
 - El contenido pedagógico propio de cada parte (de qué trata, qué se necesita,
   resultados, riesgos y evidencia) está en `curriculum/part_pedagogy.py`.
 - Títulos, duraciones, entregables y conceptos salen de cada clase: se cambian

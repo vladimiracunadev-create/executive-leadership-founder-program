@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 232: 1. identificar decisiones y productos de datos → 2. definir dominios y owners → 3. establecer calidad y contracts → 4. habilitar acceso con governance → 5. medir uso incidents y value](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. identificar decisiones y productos de datos → 2. definir dominios y owners → 3. establecer calidad y contracts → 4. habilitar acceso con governance → 5. medir uso incidents y value
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Tratar datos como activo operativo requiere calidad, ownership, arquitectura, semántica, acceso y lineage. Su valor aparece cuando reducen incertidumbre o habilitan decisiones y productos; acumular datos sin propósito aumenta costo, privacidad y superficie de ataque.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una única fuente física no siempre es necesaria; lo crítico es semántica y governance. Evita centralización total si destruye velocidad sin mejorar consistencia.**
 

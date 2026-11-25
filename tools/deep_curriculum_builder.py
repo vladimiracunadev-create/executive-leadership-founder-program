@@ -732,6 +732,10 @@ def main():
             if not d.is_dir(): continue
             cid=int(d.name[:3])
             if args.class_id is not None and cid != args.class_id: continue
+            # Las clases escritas a mano (`authoring: manual`) no se regeneran: su fuente es el propio README.
+            lesson=d/'lesson.yaml'
+            if lesson.exists() and re.search(r'^authoring:\s*manual\s*$',lesson.read_text(encoding='utf-8'),re.M):
+                print('Clase',cid,'escrita a mano: se conserva'); written+=1; continue
             if cid not in SPECS:
                 missing.append((cid,d.name)); continue
             (d/'README.md').write_text(build(cid,d,part),encoding='utf-8',newline='\n')

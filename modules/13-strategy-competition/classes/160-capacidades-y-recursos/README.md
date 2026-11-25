@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 160: 1. mapear actividades críticas → 2. inventariar recursos y capacidades → 3. aplicar VRIO con evidencia → 4. identificar gaps frente a estrategia → 5. decidir build buy partner o exit](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mapear actividades críticas → 2. inventariar recursos y capacidades → 3. aplicar VRIO con evidencia → 4. identificar gaps frente a estrategia → 5. decidir build buy partner o exit
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Recursos son activos que una organización posee o controla; capacidades son patrones repetibles para combinar recursos y lograr resultados. La ventaja no proviene de inventariar fortalezas, sino de identificar cuáles son valiosas, escasas, difíciles de imitar y organizadas para capturar valor.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **VRIO puede ser estático. Una capacidad valiosa hoy puede commoditizarse; analiza velocidad de erosión y capacidad dinámica además de rareza actual.**
 

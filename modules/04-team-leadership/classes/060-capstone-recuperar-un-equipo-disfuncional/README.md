@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 060: 1. observar síntomas y segmentar causas → 2. proteger seguridad y continuidad → 3. resetear propósito, roles y normas → 4. intervenir capacidades o personas necesarias → 5. medir 30-60-90 días](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. observar síntomas y segmentar causas → 2. proteger seguridad y continuidad → 3. resetear propósito, roles y normas → 4. intervenir capacidades o personas necesarias → 5. medir 30-60-90 días
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Recuperar un equipo disfuncional exige diagnosticar antes de intervenir. Bajo desempeño puede venir de propósito confuso, composición, capacidades, confianza, procesos, incentivos o liderazgo. El capstone obliga a construir una secuencia de 30–60–90 días que estabilice, aclare y luego desarrolle.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todos los equipos se recuperan solo con coaching. Puede ser necesario cambiar estructura, prioridades, staffing o conductas incompatibles; evitar decisiones difíciles también es una decisión.**
 

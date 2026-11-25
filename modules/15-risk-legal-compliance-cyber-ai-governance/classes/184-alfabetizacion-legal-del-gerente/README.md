@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 184: 1. identificar decisión y jurisdicción → 2. mapear partes derechos y obligaciones → 3. separar hechos de interpretación → 4. documentar y preservar evidencia → 5. escalar antes de comprometer o incumplir](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. identificar decisión y jurisdicción → 2. mapear partes derechos y obligaciones → 3. separar hechos de interpretación → 4. documentar y preservar evidencia → 5. escalar antes de comprometer o incumplir
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La alfabetización legal del gerente consiste en reconocer cuándo una decisión crea derechos, obligaciones o exposición y cuándo debe involucrar asesoría competente. No convierte al gerente en abogado; mejora issue spotting, documentación, escalamiento y prevención.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Issue spotting no autoriza interpretar casos complejos ni dar asesoría. La ley depende de hechos, jurisdicción y fecha; escala asuntos materiales a profesionales habilitados.**
 

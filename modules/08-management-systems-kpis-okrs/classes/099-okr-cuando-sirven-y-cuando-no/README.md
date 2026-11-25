@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 099: 1. seleccionar pocos Objectives → 2. escribir KRs de outcome o driver → 3. separar iniciativas → 4. etiquetar commitments → 5. hacer check-ins y cambiar iniciativas según evidencia](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. seleccionar pocos Objectives → 2. escribir KRs de outcome o driver → 3. separar iniciativas → 4. etiquetar commitments → 5. hacer check-ins y cambiar iniciativas según evidencia
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Los OKR funcionan como sistema de foco y aprendizaje cuando un Objective expresa dirección y los Key Results miden resultados, no tareas. No son apropiados para cada proceso regulado o compromiso contractual. Separar OKR aspiracionales de commitments evita convertir incumplimiento planificado en normalidad.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **OKR no reemplaza presupuestos, SLA, compliance ni gestión operativa. Úsalo donde foco y aprendizaje agreguen valor, no como lenguaje obligatorio para toda tarea.**
 

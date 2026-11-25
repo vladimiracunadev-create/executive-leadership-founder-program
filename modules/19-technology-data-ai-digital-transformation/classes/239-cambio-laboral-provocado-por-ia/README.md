@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 239: 1. mapear tareas y exposure → 2. evaluar value y risk por tarea → 3. diseñar target roles y controls → 4. crear reskilling y transition plan → 5. medir productivity quality y workforce outcomes](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mapear tareas y exposure → 2. evaluar value y risk por tarea → 3. diseñar target roles y controls → 4. crear reskilling y transition plan → 5. medir productivity quality y workforce outcomes
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **IA cambia tareas antes que profesiones completas. Liderar transición exige mapear tareas, capacidades que aumentan o disminuyen, redesign de roles, reskilling, controles y participación de trabajadores. El WEF y otros observatorios muestran simultáneamente desplazamiento y creación de trabajo, por lo que la respuesta debe ser dinámica.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Predicciones laborales cambian rápido y dependen del sector. No uses porcentajes globales para decisiones individuales; mide trabajo real y cumple obligaciones laborales.**
 

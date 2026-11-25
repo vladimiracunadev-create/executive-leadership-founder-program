@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 057: 1. observar contribución específica → 2. explicar impacto y valor relacionado → 3. adaptar forma a la persona y contexto → 4. separar reconocimiento de favoritismo → 5. revisar incentivos por conductas no deseadas](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. observar contribución específica → 2. explicar impacto y valor relacionado → 3. adaptar forma a la persona y contexto → 4. separar reconocimiento de favoritismo → 5. revisar incentivos por conductas no deseadas
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Motivación y reconocimiento funcionan cuando conectan conductas o contribuciones reales con significado y justicia. El reconocimiento genérico pierde información; el reconocimiento específico enseña qué vale la organización. Incentivos mal diseñados pueden desplazar motivación intrínseca o producir gaming.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Reconocer no debe crear competencia tóxica ni exponer a personas que prefieren privacidad. Y el reconocimiento nunca sustituye compensación justa o condiciones de trabajo adecuadas.**
 

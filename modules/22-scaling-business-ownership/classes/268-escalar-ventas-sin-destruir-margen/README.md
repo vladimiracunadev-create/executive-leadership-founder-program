@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 268: 1. segmentar revenue y margin → 2. identificar sales motion repetible → 3. estandarizar pricing y discounts → 4. reducir custom delivery → 5. escalar capacity según unit economics](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. segmentar revenue y margin → 2. identificar sales motion repetible → 3. estandarizar pricing y discounts → 4. reducir custom delivery → 5. escalar capacity según unit economics
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Escalar ventas sin destruir margen exige que acquisition, pricing, delivery y support crezcan con economics sostenibles. Revenue puede ocultar descuentos, custom work y cost-to-serve; el owner necesita contribution margin y cohort economics por segmento.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Estandarizar demasiado pronto puede perder clientes estratégicos. Acepta custom work cuando compra aprendizaje o ventaja, pero cuantifica costo y criterio de salida.**
 

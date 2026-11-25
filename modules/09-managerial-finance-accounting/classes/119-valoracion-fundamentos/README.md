@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 119: 1. normalizar histórico → 2. proyectar drivers y free cash flow → 3. estimar tasa de descuento → 4. calcular terminal y valor presente → 5. contrastar con múltiplos y sensibilidad](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. normalizar histórico → 2. proyectar drivers y free cash flow → 3. estimar tasa de descuento → 4. calcular terminal y valor presente → 5. contrastar con múltiplos y sensibilidad
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Valorar una empresa o activo es convertir expectativas futuras y riesgo en un valor presente, no buscar un número 'correcto'. DCF exige forecast de free cash flow, tasa de descuento y terminal value; comparables sirven como contraste, no sustituto de entender drivers.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La valoración es particularmente sensible a supuestos lejanos. No presentes una cifra puntual sin rango, escenarios y explicación de drivers.**
 

@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 287: 1. definir 12-month outcomes → 2. seleccionar 90-day bets → 3. traducir a weekly activities → 4. crear metrics y checkpoints → 5. review monthly y reallocate](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir 12-month outcomes → 2. seleccionar 90-day bets → 3. traducir a weekly activities → 4. crear metrics y checkpoints → 5. review monthly y reallocate
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un plan de 90 días convierte independencia en experimentos de corto plazo; el plan anual organiza capacidad, ingresos, aprendizaje y capital. Ambos deben basarse en outcomes y cadencias, con checkpoints que permitan abandonar ofertas sin demanda.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Planificar no garantiza demanda. Mantén bets pequeños hasta obtener evidencia y protege runway; evita llenar un año con tareas antes de validar canal.**
 

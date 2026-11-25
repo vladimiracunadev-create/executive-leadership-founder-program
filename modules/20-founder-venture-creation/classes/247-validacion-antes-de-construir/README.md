@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 247: 1. priorizar riesgo de demanda → 2. diseñar test mínimo → 3. definir commitment observable → 4. ejecutar con segmento real → 5. decidir build change o stop](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. priorizar riesgo de demanda → 2. diseñar test mínimo → 3. definir commitment observable → 4. ejecutar con segmento real → 5. decidir build change o stop
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Validar antes de construir significa buscar evidencia barata sobre demanda, pago, canal y workflow antes de invertir en software completo. Landing pages, pre-sales, entrevistas, manual service y prototypes permiten subir una evidence ladder desde interés hasta comportamiento y dinero.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No vendas algo que no puedes entregar ni engañes con fake doors sin transparencia adecuada. Diseña experimentos éticos y cumple compromisos.**
 

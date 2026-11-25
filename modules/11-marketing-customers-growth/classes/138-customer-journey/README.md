@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 138: 1. definir persona/job y alcance → 2. reconstruir journey con evidencia → 3. mapear touchpoints y emociones → 4. priorizar moments of truth → 5. asignar owner end-to-end](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir persona/job y alcance → 2. reconstruir journey con evidencia → 3. mapear touchpoints y emociones → 4. priorizar moments of truth → 5. asignar owner end-to-end
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Customer journey representa etapas, tareas, emociones, canales y fricciones desde que surge una necesidad hasta uso y renovación. Su valor aparece al conectar puntos entre áreas: el cliente vive un viaje, no organigramas. Debe basarse en investigación y datos, no en workshop imaginativo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un journey map puede simplificar trayectorias distintas. Segmenta casos relevantes y evita convertir una línea ideal en verdad universal.**
 

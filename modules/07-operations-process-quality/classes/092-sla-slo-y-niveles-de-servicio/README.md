@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 092: 1. seleccionar experiencia crítica y SLI → 2. definir SLO según usuario y costo → 3. crear buffer antes del SLA → 4. medir error budget → 5. tocar capacidad o cambios cuando se consume](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. seleccionar experiencia crítica y SLI → 2. definir SLO según usuario y costo → 3. crear buffer antes del SLA → 4. medir error budget → 5. tocar capacidad o cambios cuando se consume
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **SLA y SLO traducen confiabilidad en expectativas medibles. Un SLI observa desempeño; un SLO fija objetivo interno o de diseño; un SLA es un compromiso contractual o externo con consecuencias definidas. Mezclarlos lleva a prometer al cliente el mismo umbral con el que opera internamente, sin buffer.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Más nueves cuestan mucho y pueden no crear valor. La confiabilidad objetivo debe responder al impacto del usuario, no al deseo abstracto de perfección.**
 

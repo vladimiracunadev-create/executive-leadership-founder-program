@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 205: 1. mapear propietarios y derechos → 2. definir materias reservadas → 3. separar board de management → 4. diseñar información y accountability → 5. revisar conflictos y evolución del gobierno](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mapear propietarios y derechos → 2. definir materias reservadas → 3. separar board de management → 4. diseñar información y accountability → 5. revisar conflictos y evolución del gobierno
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Gobierno corporativo separa propiedad, dirección y supervisión para manejar agencia, accountability y creación de valor sostenible. Los accionistas poseen derechos; el directorio supervisa y decide materias reservadas; management ejecuta dentro del mandato. Confundir roles genera interferencia o vacío.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La separación formal no elimina relaciones de poder. En empresas cerradas y startups, roles pueden coincidir; documenta sombreros, conflictos y proceso de decisión.**
 

@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 139: 1. mapear comportamiento de compra → 2. listar canales plausibles → 3. modelar economics y control → 4. pilotear uno o dos → 5. escalar donde existe repetibilidad](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mapear comportamiento de compra → 2. listar canales plausibles → 3. modelar economics y control → 4. pilotear uno o dos → 5. escalar donde existe repetibilidad
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Los canales conectan oferta y demanda mediante adquisición, venta o distribución. Cada canal tiene economía, control, velocidad y tipo de cliente distinto. Una estrategia de distribución pregunta dónde descubre, evalúa, compra y recibe valor el cliente, y qué dependencia crea cada intermediario.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Canal barato puede crear dependencia o acceso limitado a datos del cliente. Evalúa poder de negociación y salida, no solo CAC inicial.**
 

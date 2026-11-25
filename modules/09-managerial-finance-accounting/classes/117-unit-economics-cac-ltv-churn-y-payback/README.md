@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 117: 1. definir unidad y cohortes → 2. calcular CAC completo y marginal → 3. medir retention/churn por cohorte → 4. estimar LTV con margen y cautela → 5. calcular payback y sensibilidad](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir unidad y cohortes → 2. calcular CAC completo y marginal → 3. medir retention/churn por cohorte → 4. estimar LTV con margen y cautela → 5. calcular payback y sensibilidad
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Unit economics prueba si adquirir y servir un cliente crea valor antes de gastos corporativos. CAC, LTV, churn y payback deben definirse por cohorte y margen, no como promedios vistosos. Un LTV alto basado en churn inestable puede justificar gasto que nunca se recupera.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **LTV/CAC no es verdad física. Pequeños cambios de churn cambian mucho LTV; usa cohortes observadas, horizontes limitados y escenarios antes de escalar gasto.**
 

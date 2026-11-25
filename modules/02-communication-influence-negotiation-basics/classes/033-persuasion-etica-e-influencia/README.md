@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 033: 1. definir interés legítimo de la audiencia → 2. seleccionar evidencia relevante → 3. hacer visibles costos y alternativas → 4. usar influencia sin ocultar información material → 5. dejar espacio real para disentir o rechazar](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir interés legítimo de la audiencia → 2. seleccionar evidencia relevante → 3. hacer visibles costos y alternativas → 4. usar influencia sin ocultar información material → 5. dejar espacio real para disentir o rechazar
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La persuasión ética cambia creencias o decisiones mediante relevancia, evidencia, reciprocidad y diseño de opciones sin engaño ni coerción. Comprender principios de influencia sirve también para defenderse de ellos. La frontera ética está en la transparencia material, la libertad de elección y la ausencia de explotación de vulnerabilidades.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La influencia deja de ser ética cuando usa falsedad, urgencia fabricada, amenaza impropia o vulnerabilidad. El resultado comercial no justifica deteriorar autonomía o confianza.**
 

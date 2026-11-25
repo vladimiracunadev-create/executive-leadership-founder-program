@@ -158,7 +158,6 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
-        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
         "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
         "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market"
@@ -226,7 +225,6 @@
       "accessed": "2026-08-19",
       "used_in": [
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
-        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/11-marketing-customers-growth/classes/141-funnel-y-conversion",
         "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market"
@@ -312,7 +310,9 @@
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/040-motivacion-y-proposito",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/043-problemas-tecnicos-versus-adaptativos",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/046-cambio-personal-y-resistencia",
-        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana"
+        "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/048-capstone-liderar-una-crisis-humana",
+        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
       ],
       "status": "verificada",
       "authority": "Wiley"
@@ -364,7 +364,6 @@
         "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
         "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
         "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
@@ -467,7 +466,6 @@
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
         "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/11-marketing-customers-growth/classes/138-customer-journey",
         "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
@@ -520,7 +518,6 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
@@ -530,7 +527,6 @@
         "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
         "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
         "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
@@ -784,7 +780,6 @@
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
         "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/11-marketing-customers-growth/classes/138-customer-journey",
         "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
@@ -886,7 +881,6 @@
         "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
         "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial",
         "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
-        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
         "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva"
       ],
       "status": "verificada",
@@ -912,7 +906,6 @@
         "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
         "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
         "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
@@ -1082,6 +1075,7 @@
       "locator": "https://openlibrary.org/isbn/9780198809869",
       "accessed": "2026-08-19",
       "used_in": [
+        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/181-enterprise-risk-management",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
@@ -1165,7 +1159,6 @@
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
         "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/11-marketing-customers-growth/classes/138-customer-journey",
         "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
@@ -1198,7 +1191,6 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/17-boards-corporate-governance/classes/207-rol-del-presidente-y-del-ceo",
@@ -1299,7 +1291,6 @@
         "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
         "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
         "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular"
       ],
@@ -1503,8 +1494,7 @@
       "used_in": [
         "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
         "modules/02-communication-influence-negotiation-basics/classes/030-feedback-util-y-accionable",
-        "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
-        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder"
+        "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo"
       ],
       "status": "verificada",
       "authority": "Min zhu yu jian she chu ban she"
@@ -2038,9 +2028,9 @@
         "modules/02-communication-influence-negotiation-basics/classes/027-escritura-ejecutiva-claridad-y-sintesis",
         "modules/02-communication-influence-negotiation-basics/classes/029-storytelling-empresarial",
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
-        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
         "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
-        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular"
+        "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
+        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo"
       ],
       "status": "verificada",
       "authority": "Random House Audio"
@@ -2277,7 +2267,8 @@
         "modules/01-critical-thinking-and-decisions/classes/021-escenarios-y-decisiones-reversibles",
         "modules/01-critical-thinking-and-decisions/classes/022-decision-journal-y-trazabilidad",
         "modules/01-critical-thinking-and-decisions/classes/023-after-action-review-y-aprendizaje",
-        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre"
+        "modules/01-critical-thinking-and-decisions/classes/024-capstone-comite-de-decision-bajo-incertidumbre",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
       ],
       "status": "verificada",
       "authority": "The MIT Press"
@@ -2299,7 +2290,8 @@
         "modules/00-professional-to-leader/classes/003-credibilidad-y-confianza-profesional",
         "modules/00-professional-to-leader/classes/005-de-tareas-a-resultados-pensar-en-contribucion",
         "modules/00-professional-to-leader/classes/008-gestion-de-energia-y-sostenibilidad-personal",
-        "modules/00-professional-to-leader/classes/011-mapa-de-fortalezas-brechas-y-riesgos-personales"
+        "modules/00-professional-to-leader/classes/011-mapa-de-fortalezas-brechas-y-riesgos-personales",
+        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder"
       ],
       "status": "verificada",
       "authority": "Prentice Hall"
@@ -2389,7 +2381,6 @@
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
         "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/11-marketing-customers-growth/classes/142-retencion-lealtad-y-customer-success",
         "modules/11-marketing-customers-growth/classes/144-capstone-go-to-market"
@@ -2474,7 +2465,6 @@
         "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
         "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
         "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
@@ -2577,7 +2567,6 @@
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
         "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/11-marketing-customers-growth/classes/138-customer-journey",
         "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
@@ -2630,7 +2619,6 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
@@ -2640,7 +2628,6 @@
         "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
         "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
         "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
@@ -3190,7 +3177,6 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos"
       ],
@@ -3484,7 +3470,6 @@
         "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
         "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
         "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
@@ -3665,7 +3650,6 @@
         "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
         "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
         "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
@@ -3845,6 +3829,7 @@
         "modules/00-professional-to-leader/classes/006-prioridades-y-gestion-de-atencion",
         "modules/00-professional-to-leader/classes/008-gestion-de-energia-y-sostenibilidad-personal",
         "modules/00-professional-to-leader/classes/010-marca-profesional-basada-en-evidencia",
+        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
         "modules/05-talent-people-management/classes/062-planificacion-de-dotacion",
         "modules/05-talent-people-management/classes/064-entrevistas-estructuradas",
         "modules/05-talent-people-management/classes/067-feedback-coaching-y-planes-de-mejora",
@@ -4068,7 +4053,6 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/19-technology-data-ai-digital-transformation/classes/230-estrategia-digital",
@@ -4286,7 +4270,6 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/184-alfabetizacion-legal-del-gerente",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
         "modules/17-boards-corporate-governance/classes/206-que-hace-un-directorio",
@@ -4330,8 +4313,7 @@
       "used_in": [
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/183-controles-internos-y-segregacion",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/186-privacidad-y-gobierno-de-datos",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia"
       ],
       "status": "verificada"
     },
@@ -4478,7 +4460,6 @@
         "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
         "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
         "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
@@ -4581,7 +4562,6 @@
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
         "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/11-marketing-customers-growth/classes/138-customer-journey",
         "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
@@ -4634,7 +4614,6 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
@@ -4644,7 +4623,6 @@
         "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
         "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
         "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
@@ -4770,7 +4748,6 @@
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
         "modules/16-executive-leadership-ceo-office/classes/196-arquitectura-de-decisiones-ejecutivas",
         "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
-        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
         "modules/17-boards-corporate-governance/classes/205-propiedad-administracion-y-gobierno",
         "modules/17-boards-corporate-governance/classes/208-comites-de-auditoria-riesgo-y-compensacion",
@@ -4922,7 +4899,6 @@
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
         "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/11-marketing-customers-growth/classes/138-customer-journey",
         "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
@@ -5053,7 +5029,6 @@
         "modules/05-talent-people-management/classes/071-desvinculacion-responsable-y-documentacion",
         "modules/16-executive-leadership-ceo-office/classes/195-construir-el-executive-team",
         "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
-        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles"
       ],
       "status": "verificada",
@@ -5410,7 +5385,6 @@
         "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
         "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
         "modules/10-sales-commercial-negotiation/classes/123-prospeccion-y-generacion-de-oportunidades",
@@ -5557,7 +5531,6 @@
         "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
         "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/10-sales-commercial-negotiation/classes/121-ventas-como-sistema-no-como-improvisacion",
         "modules/10-sales-commercial-negotiation/classes/122-icp-y-segmentacion-comercial",
@@ -5645,7 +5618,6 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/182-apetito-tolerancia-y-limites-de-riesgo",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/185-contratos-riesgos-que-un-ejecutivo-debe-detectar",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos"
       ],
       "status": "verificada",
@@ -6054,7 +6026,6 @@
         "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
         "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
         "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
@@ -6157,7 +6128,6 @@
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
         "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/11-marketing-customers-growth/classes/138-customer-journey",
         "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
@@ -6210,7 +6180,6 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
@@ -6220,7 +6189,6 @@
         "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
         "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
         "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
@@ -6591,7 +6559,6 @@
         "modules/02-communication-influence-negotiation-basics/classes/031-conversaciones-dificiles",
         "modules/02-communication-influence-negotiation-basics/classes/032-conflicto-productivo",
         "modules/02-communication-influence-negotiation-basics/classes/033-persuasion-etica-e-influencia",
-        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder",
         "modules/02-communication-influence-negotiation-basics/classes/035-presencia-ejecutiva",
         "modules/02-communication-influence-negotiation-basics/classes/036-capstone-comunicar-una-decision-impopular",
         "modules/03-emotional-intelligence-resilience-adaptive-leadership/classes/037-autoconciencia-ejecutiva",
@@ -6694,7 +6661,6 @@
         "modules/11-marketing-customers-growth/classes/134-investigacion-de-mercado",
         "modules/11-marketing-customers-growth/classes/135-segmentacion-y-cliente-ideal",
         "modules/11-marketing-customers-growth/classes/136-posicionamiento",
-        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
         "modules/11-marketing-customers-growth/classes/138-customer-journey",
         "modules/11-marketing-customers-growth/classes/139-canales-y-distribucion",
         "modules/11-marketing-customers-growth/classes/140-adquisicion-digital-y-contenido",
@@ -6747,7 +6713,6 @@
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/187-gobierno-de-ciberseguridad",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/188-gobierno-responsable-de-ia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/189-compliance-y-cultura-etica",
-        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/191-business-continuity-y-resiliencia",
         "modules/15-risk-legal-compliance-cyber-ai-governance/classes/192-capstone-comite-integrado-de-riesgos",
         "modules/16-executive-leadership-ceo-office/classes/193-transicion-de-gerente-a-ejecutivo",
@@ -6757,7 +6722,6 @@
         "modules/16-executive-leadership-ceo-office/classes/197-agenda-y-tiempo-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/198-asignacion-de-capital-y-talento",
         "modules/16-executive-leadership-ceo-office/classes/199-balance-entre-clientes-personas-accionistas-y-sociedad",
-        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo",
         "modules/16-executive-leadership-ceo-office/classes/201-leadership-pipeline",
         "modules/16-executive-leadership-ceo-office/classes/202-crisis-y-decisiones-irreversibles",
         "modules/16-executive-leadership-ceo-office/classes/203-sucesion-y-continuidad-de-liderazgo",
@@ -6849,6 +6813,168 @@
       ],
       "status": "verificada",
       "authority": "Harvard Business Review Press"
+    },
+    {
+      "id": "ronald-k-mitchell-bradley-r-agle-donna-j-wood-toward-a-theory-of-stakeholder-ide",
+      "type": "paper",
+      "authors": [
+        "Mitchell, Ronald K.",
+        "Agle, Bradley R.",
+        "Wood, Donna J."
+      ],
+      "title": "Toward a Theory of Stakeholder Identification and Salience: Defining the Principle of Who and What Really Counts",
+      "cited_as": "Ronald K. Mitchell, Bradley R. Agle & Donna J. Wood — Toward a Theory of Stakeholder Identification and Salience: Defining the Principle of Who and What Really Counts",
+      "authority": "Academy of Management Review",
+      "published": "1997",
+      "doi": "10.2307/259247",
+      "locator": "https://doi.org/10.2307/259247",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "roger-c-mayer-james-h-davis-f-david-schoorman-an-integrative-model-of-organizati",
+      "type": "paper",
+      "authors": [
+        "Mayer, Roger C.",
+        "Davis, James H.",
+        "Schoorman, F. David"
+      ],
+      "title": "An Integrative Model of Organizational Trust",
+      "cited_as": "Roger C. Mayer, James H. Davis & F. David Schoorman — An Integrative Model of Organizational Trust",
+      "authority": "Academy of Management Review",
+      "published": "1995",
+      "doi": "10.2307/258792",
+      "locator": "https://doi.org/10.2307/258792",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
+        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "peter-h-kim-donald-l-ferrin-cecily-d-cooper-kurt-t-dirks-removing-the-shadow-of",
+      "type": "paper",
+      "authors": [
+        "Kim, Peter H.",
+        "Ferrin, Donald L.",
+        "Cooper, Cecily D.",
+        "Dirks, Kurt T."
+      ],
+      "title": "Removing the Shadow of Suspicion: The Effects of Apology Versus Denial for Repairing Competence- Versus Integrity-Based Trust Violations",
+      "cited_as": "Peter H. Kim, Donald L. Ferrin, Cecily D. Cooper & Kurt T. Dirks — Removing the Shadow of Suspicion: The Effects of Apology Versus Denial for Repairing Competence- Versus Integrity-Based Trust Violations",
+      "authority": "Journal of Applied Psychology",
+      "published": "2004",
+      "doi": "10.1037/0021-9010.89.1.104",
+      "locator": "https://doi.org/10.1037/0021-9010.89.1.104",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
+        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "w-timothy-coombs-protecting-organization-reputations-during-a-crisis-the-develop",
+      "type": "paper",
+      "authors": [
+        "Coombs, W. Timothy"
+      ],
+      "title": "Protecting Organization Reputations During a Crisis: The Development and Application of Situational Crisis Communication Theory",
+      "cited_as": "W. Timothy Coombs — Protecting Organization Reputations During a Crisis: The Development and Application of Situational Crisis Communication Theory",
+      "authority": "Corporate Reputation Review",
+      "published": "2007",
+      "doi": "10.1057/palgrave.crr.1550049",
+      "locator": "https://doi.org/10.1057/palgrave.crr.1550049",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza",
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento",
+        "modules/16-executive-leadership-ceo-office/classes/200-comunicacion-del-ceo"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "denise-m-rousseau-sim-b-sitkin-ronald-s-burt-colin-camerer-not-so-different-afte",
+      "type": "paper",
+      "authors": [
+        "Rousseau, Denise M.",
+        "Sitkin, Sim B.",
+        "Burt, Ronald S.",
+        "Camerer, Colin"
+      ],
+      "title": "Not So Different After All: A Cross-Discipline View of Trust",
+      "cited_as": "Denise M. Rousseau, Sim B. Sitkin, Ronald S. Burt & Colin Camerer — Not So Different After All: A Cross-Discipline View of Trust",
+      "authority": "Academy of Management Review",
+      "published": "1998",
+      "doi": "10.5465/amr.1998.926617",
+      "locator": "https://doi.org/10.5465/amr.1998.926617",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/11-marketing-customers-growth/classes/137-marca-y-senales-de-confianza"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "r-edward-freeman-strategic-management-a-stakeholder-approach",
+      "type": "book",
+      "authors": [
+        "Freeman, R. Edward"
+      ],
+      "title": "Strategic Management: A Stakeholder Approach",
+      "cited_as": "R. Edward Freeman — Strategic Management: A Stakeholder Approach",
+      "authority": "Cambridge University Press",
+      "published": "2010",
+      "isbn13": "9780521151740",
+      "locator": "https://openlibrary.org/isbn/9780521151740",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/02-communication-influence-negotiation-basics/classes/034-mapa-de-stakeholders-y-poder"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "betsy-beyer-chris-jones-jennifer-petoff-niall-richard-murphy-site-reliability-en",
+      "type": "book",
+      "authors": [
+        "Beyer, Betsy",
+        "Jones, Chris",
+        "Petoff, Jennifer",
+        "Murphy, Niall Richard"
+      ],
+      "title": "Site Reliability Engineering",
+      "cited_as": "Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy — Site Reliability Engineering",
+      "authority": "O'Reilly Media",
+      "published": "2016",
+      "isbn13": "9781491929124",
+      "locator": "https://openlibrary.org/isbn/9781491929124",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
+      ],
+      "status": "verificada"
+    },
+    {
+      "id": "karl-e-weick-kathleen-m-sutcliffe-managing-the-unexpected",
+      "type": "book",
+      "authors": [
+        "Weick, Karl E.",
+        "Sutcliffe, Kathleen M."
+      ],
+      "title": "Managing the Unexpected",
+      "cited_as": "Karl E. Weick & Kathleen M. Sutcliffe — Managing the Unexpected",
+      "authority": "Jossey-Bass",
+      "published": "2015",
+      "isbn13": "9781118862414",
+      "locator": "https://openlibrary.org/isbn/9781118862414",
+      "accessed": "2026-11-25",
+      "used_in": [
+        "modules/15-risk-legal-compliance-cyber-ai-governance/classes/190-crisis-incidentes-y-escalamiento"
+      ],
+      "status": "verificada"
     }
   ]
 }

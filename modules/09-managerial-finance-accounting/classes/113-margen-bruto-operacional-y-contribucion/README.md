@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 113: 1. definir clasificación consistente → 2. calcular márgenes por producto o segmento → 3. comparar tendencia → 4. identificar driver precio-volumen-mix-costo → 5. usar contribución para decisiones incrementales](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir clasificación consistente → 2. calcular márgenes por producto o segmento → 3. comparar tendencia → 4. identificar driver precio-volumen-mix-costo → 5. usar contribución para decisiones incrementales
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Margen bruto, operacional y de contribución responden preguntas distintas. El margen bruto muestra economía después del costo de ventas; el operacional incorpora estructura; el de contribución observa cuánto aporta una unidad adicional después de costos variables para cubrir fijos y beneficio.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El margen de contribución sirve en el rango relevante y horizonte apropiado. A largo plazo muchos costos 'fijos' cambian; no uses análisis incremental para justificar precios estructuralmente insuficientes.**
 

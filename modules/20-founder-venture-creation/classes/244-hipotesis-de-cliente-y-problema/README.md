@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 244: 1. especificar segmento y contexto → 2. redactar problema y consecuencia → 3. listar evidencia esperada y contraria → 4. priorizar supuesto de mayor riesgo → 5. diseñar test y actualizar](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. especificar segmento y contexto → 2. redactar problema y consecuencia → 3. listar evidencia esperada y contraria → 4. priorizar supuesto de mayor riesgo → 5. diseñar test y actualizar
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Una hipótesis de cliente y problema debe ser específica y falsable: quién, en qué contexto, qué problema, qué consecuencia y cómo lo resuelve hoy. Pymes necesitan IA no es hipótesis; una afirmación precisa permite elegir muestra y evidencia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Falsar una hipótesis no invalida todo el emprendimiento. Permite pivotar segmento, problema o propuesta; evita apego a formulación inicial.**
 

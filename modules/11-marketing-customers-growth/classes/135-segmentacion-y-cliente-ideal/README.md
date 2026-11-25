@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 135: 1. analizar jobs y comportamiento → 2. crear segmentos accionables → 3. medir tamaño y economics → 4. seleccionar target → 5. definir no-targets y testear mensajes](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. analizar jobs y comportamiento → 2. crear segmentos accionables → 3. medir tamaño y economics → 4. seleccionar target → 5. definir no-targets y testear mensajes
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Segmentar agrupa clientes por necesidades o comportamientos que justifican decisiones diferentes. Un cliente ideal agrega economía y fit: problema, valor, accesibilidad, retención y costo de servir. Segmentos demográficos sin diferencias de necesidad rara vez mejoran estrategia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El segmento ideal de hoy puede limitar crecimiento futuro. Mantén exploración controlada y evita excluir mercados por proxies discriminatorios o irrelevantes.**
 

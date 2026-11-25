@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 145: 1. identificar problema y usuario persistente → 2. separar outputs de outcomes → 3. definir ownership continuo → 4. alinear funding y métricas al ciclo de vida → 5. decidir continuar, pivotar o retirar según evidencia](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. identificar problema y usuario persistente → 2. separar outputs de outcomes → 3. definir ownership continuo → 4. alinear funding y métricas al ciclo de vida → 5. decidir continuar, pivotar o retirar según evidencia
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Producto y proyecto responden preguntas distintas. Un proyecto organiza trabajo temporal para producir un entregable; producto administra de forma continua un problema, una propuesta de valor y outcomes a lo largo de su ciclo de vida. La diferencia cambia financiamiento, métricas, roles y cuándo se considera que el trabajo realmente terminó.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo trabajo debe convertirse en producto permanente. Migraciones, cumplimiento puntual o infraestructura con final claro pueden gestionarse mejor como proyectos; evita productizar por moda.**
 

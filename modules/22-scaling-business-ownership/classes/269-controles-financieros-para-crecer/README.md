@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 269: 1. cerrar información mensual → 2. crear 13-week cash forecast → 3. definir approval matrix → 4. gestionar AR AP e inventory → 5. revisar variances y control exceptions](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. cerrar información mensual → 2. crear 13-week cash forecast → 3. definir approval matrix → 4. gestionar AR AP e inventory → 5. revisar variances y control exceptions
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Los controles financieros para crecer protegen caja y calidad de información mientras aumenta volumen: presupuesto, forecast, approvals, reconciliaciones, límites, working capital y reporting. La meta es permitir delegación con visibilidad, no que el owner apruebe cada gasto.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Controles demasiado centralizados frenan operación. Diseña límites y monitoreo por riesgo, permitiendo decisiones locales dentro de presupuesto.**
 

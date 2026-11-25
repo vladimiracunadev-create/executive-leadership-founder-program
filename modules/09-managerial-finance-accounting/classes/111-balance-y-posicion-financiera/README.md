@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 111: 1. clasificar corriente y no corriente → 2. revisar calidad y concentración de activos → 3. medir liquidez → 4. analizar deuda y vencimientos → 5. conciliar cambios con resultado y caja](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. clasificar corriente y no corriente → 2. revisar calidad y concentración de activos → 3. medir liquidez → 4. analizar deuda y vencimientos → 5. conciliar cambios con resultado y caja
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El balance muestra recursos, obligaciones y patrimonio en una fecha. Leerlo gerencialmente exige observar liquidez, capital de trabajo, endeudamiento, composición de activos y calidad de cuentas. La ecuación activo = pasivo + patrimonio es identidad contable; el análisis pregunta qué riesgos y opciones contiene esa estructura.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Ratios sin contexto sectorial engañan. Un negocio de suscripción y uno industrial requieren estructuras diferentes; analiza tendencia, comparables y condiciones contractuales.**
 

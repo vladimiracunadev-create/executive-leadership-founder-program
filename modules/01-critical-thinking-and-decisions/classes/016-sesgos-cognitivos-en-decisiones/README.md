@@ -48,18 +48,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 016: 1. identificar decisión y sesgos plausibles → 2. obtener estimaciones independientes → 3. usar tasas base antes de historias particulares → 4. crear una voz de desacuerdo o premortem → 5. comparar predicción con resultado sin hindsight](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. identificar decisión y sesgos plausibles → 2. obtener estimaciones independientes → 3. usar tasas base antes de historias particulares → 4. crear una voz de desacuerdo o premortem → 5. comparar predicción con resultado sin hindsight
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Los sesgos cognitivos son patrones sistemáticos de juicio que pueden afectar decisiones sin que la persona sea incompetente o deshonesta. La respuesta madura no es memorizar una lista de sesgos, sino diseñar procesos que reduzcan su impacto: premortem, independencia de estimaciones, datos base, desacuerdo estructurado y revisión posterior.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Debiasing no elimina sesgos ni convierte decisiones en matemática pura. Algunos atajos son útiles bajo presión; la inversión en proceso debe ser proporcional al costo e irreversibilidad de la decisión.**
 

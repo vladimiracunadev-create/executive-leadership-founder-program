@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 185: 1. identificar business deal real → 2. mapear obligaciones y acceptance → 3. cuantificar exposición económica → 4. revisar IP datos seguridad y termination → 5. escalar desviaciones y registrar aprobación](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. identificar business deal real → 2. mapear obligaciones y acceptance → 3. cuantificar exposición económica → 4. revisar IP datos seguridad y termination → 5. escalar desviaciones y registrar aprobación
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El ejecutivo debe detectar cláusulas que cambian economía, control y riesgo de un contrato: alcance, aceptación, precio, responsabilidad, indemnidades, propiedad intelectual, datos, seguridad, terminación, renovación y resolución de disputas. Leer solo precio y plazo es insuficiente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No uses checklists para negociar sin contexto legal. Cláusulas interactúan y su efecto depende de ley aplicable; el ejecutivo identifica y cuantifica, el abogado interpreta y redacta cuando corresponde.**
 

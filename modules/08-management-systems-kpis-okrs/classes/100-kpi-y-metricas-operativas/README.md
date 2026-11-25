@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 100: 1. empezar por decisión → 2. definir métrica y fórmula → 3. validar fuente y población → 4. establecer baseline, target y frecuencia → 5. documentar qué acción activa cada rango](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. empezar por decisión → 2. definir métrica y fórmula → 3. validar fuente y población → 4. establecer baseline, target y frecuencia → 5. documentar qué acción activa cada rango
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un KPI es una métrica seleccionada porque informa sobre un aspecto material del desempeño. El problema no es tener pocos o muchos datos, sino confundir indicador con objetivo, causalidad o explicación. Cada KPI necesita definición, owner, fuente, frecuencia, segmentación y acción asociada.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un KPI que se convierte en objetivo puede dejar de ser buen indicador por gaming. Mantén métricas de control y señales complementarias.**
 

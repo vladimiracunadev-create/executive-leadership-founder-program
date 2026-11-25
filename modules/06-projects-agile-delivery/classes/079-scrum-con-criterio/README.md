@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 079: 1. definir Product Goal → 2. ordenar backlog por valor y riesgo → 3. seleccionar Sprint Goal y trabajo → 4. construir Increment Done → 5. inspeccionar producto y proceso antes de adaptar](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir Product Goal → 2. ordenar backlog por valor y riesgo → 3. seleccionar Sprint Goal y trabajo → 4. construir Increment Done → 5. inspeccionar producto y proceso antes de adaptar
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Scrum es un marco ligero para problemas complejos basado en Product Goal, Product Backlog, Sprint Goal, Increment y responsabilidades definidas. Su valor está en crear un ciclo de inspección y adaptación; copiar Daily, Review y Retro sin producto usable produce teatro Scrum.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Scrum no es universal ni una metodología contractual rígida. Equipos de flujo continuo, operaciones o trabajo altamente interruptivo pueden requerir Kanban u otro sistema.**
 

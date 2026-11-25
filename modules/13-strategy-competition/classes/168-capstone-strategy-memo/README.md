@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 168: 1. redactar diagnóstico basado en evidencia → 2. proponer choices y no-opciones → 3. explicar mecanismo de ventaja → 4. asignar recursos y acciones → 5. definir riesgos signposts y revisión](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. redactar diagnóstico basado en evidencia → 2. proponer choices y no-opciones → 3. explicar mecanismo de ventaja → 4. asignar recursos y acciones → 5. definir riesgos signposts y revisión
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un strategy memo obliga a sintetizar diagnóstico, elecciones, lógica económica, capacidades, riesgos y acciones coherentes en un documento que pueda ser cuestionado. El capstone evalúa coherencia y evidencia, no cantidad de marcos aplicados.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un memo convincente puede ocultar datos débiles. Evalúa explícitamente calidad de evidencia y escenarios adversos; la claridad narrativa no sustituye incertidumbre real.**
 

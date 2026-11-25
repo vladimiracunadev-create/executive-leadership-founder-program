@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 007: 1. capturar en un inbox confiable → 2. clarificar resultado y próxima acción → 3. calendarizar solo lo realmente temporal → 4. seleccionar trabajo según prioridad y capacidad → 5. hacer revisión semanal de compromisos y backlog](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. capturar en un inbox confiable → 2. clarificar resultado y próxima acción → 3. calendarizar solo lo realmente temporal → 4. seleccionar trabajo según prioridad y capacidad → 5. hacer revisión semanal de compromisos y backlog
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un sistema personal de ejecución convierte compromisos dispersos en un circuito confiable de captura, decisión, calendario, trabajo profundo y revisión. Su función no es llenar una aplicación de tareas, sino liberar memoria de trabajo y hacer visible cuándo la demanda supera la capacidad disponible.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El sistema debe ser más barato que el problema que resuelve. Una arquitectura personal demasiado compleja convierte la administración de tareas en otra forma de procrastinación.**
 

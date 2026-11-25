@@ -48,18 +48,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 045: 1. nombrar valores y deberes en conflicto → 2. identificar stakeholders y daños → 3. separar obligación legal de preferencia → 4. comparar opciones y precedentes → 5. consultar instancia independiente cuando corresponda](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. nombrar valores y deberes en conflicto → 2. identificar stakeholders y daños → 3. separar obligación legal de preferencia → 4. comparar opciones y precedentes → 5. consultar instancia independiente cuando corresponda
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Los dilemas de valores aparecen cuando principios legítimos compiten: transparencia versus confidencialidad, velocidad versus seguridad, lealtad versus deber de denunciar. Resolverlos exige explicitar valores, afectados, deberes y precedentes, no buscar una fórmula que elimine la tensión.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo desacuerdo es un dilema de valores. A veces una opción es simplemente ilegal o engañosa; llamarla 'trade-off' puede relativizar obligaciones claras.**
 

@@ -49,18 +49,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 202: 1. clasificar reversibilidad → 2. buscar downside y alternativas → 3. activar challenge independiente → 4. fraccionar compromiso si es posible → 5. definir stop rule y decision log](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. clasificar reversibilidad → 2. buscar downside y alternativas → 3. activar challenge independiente → 4. fraccionar compromiso si es posible → 5. definir stop rule y decision log
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **En crisis y decisiones irreversibles, el CEO debe elevar calidad de información sin paralizarse. Pre-mortems, red teams, staged commitments y criterios de stop reducen riesgo; cuando una decisión no es reversible, aumenta la necesidad de alternativas y challenge independiente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **En una crisis real no siempre hay tiempo para análisis completo. El objetivo es adaptar rigor a irreversibilidad y daño potencial, no exigir un proceso idéntico para todo.**
 

@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 030: 1. preparar hechos y propósito → 2. describir conducta concreta → 3. explicar impacto sin leer mente → 4. escuchar contexto y comprobar comprensión → 5. acordar conducta futura y seguimiento](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. preparar hechos y propósito → 2. describir conducta concreta → 3. explicar impacto sin leer mente → 4. escuchar contexto y comprobar comprensión → 5. acordar conducta futura y seguimiento
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Feedback accionable describe una conducta o resultado observable, su impacto y la expectativa futura. Evita etiquetas sobre identidad y llega cerca del evento. El buen feedback puede ser positivo o correctivo; en ambos casos busca aumentar información útil para que la persona pueda elegir una conducta diferente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Feedback informal no reemplaza procesos formales cuando existen riesgos de desempeño, acoso, discriminación o consecuencias laborales. La documentación y asesoría apropiada importan.**
 

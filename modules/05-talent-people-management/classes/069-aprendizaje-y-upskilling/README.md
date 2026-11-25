@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 069: 1. mapear capacidades críticas futuras → 2. diagnosticar nivel actual → 3. priorizar brechas por impacto → 4. combinar estudio, práctica y coaching → 5. validar transferencia con evidencia laboral](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mapear capacidades críticas futuras → 2. diagnosticar nivel actual → 3. priorizar brechas por impacto → 4. combinar estudio, práctica y coaching → 5. validar transferencia con evidencia laboral
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Upskilling efectivo parte de brechas estratégicas y oportunidades de práctica, no de catálogo de cursos. La organización debe decidir qué capacidades construir internamente, quién necesita nivel básico o experto y cómo se demostrará transferencia al trabajo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todas las capacidades deben construirse. Skills raras o temporales pueden adquirirse mediante socios; también hay que evitar entrenar personas en tecnología que no tendrán oportunidad real de usar.**
 

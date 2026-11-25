@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 186: 1. inventariar datos y finalidades → 2. clasificar sensibilidad y bases → 3. definir acceso retención y sharing → 4. implementar derechos y controles → 5. monitorear incidentes y cambios de uso](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. inventariar datos y finalidades → 2. clasificar sensibilidad y bases → 3. definir acceso retención y sharing → 4. implementar derechos y controles → 5. monitorear incidentes y cambios de uso
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Gobierno de datos define quién puede recopilar, usar, compartir, retener y eliminar datos, con qué propósito y controles. Privacidad exige principios como finalidad, minimización, seguridad y derechos; una empresa debe mapear datos y decisiones, no solo publicar una política.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Las obligaciones varían por jurisdicción y cambian. En Chile la Ley 21.719 entra en vigor el 1 de diciembre de 2026; verifica siempre fuente oficial vigente antes de operar.**
 

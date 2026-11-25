@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 182: 1. derivar apetito desde estrategia y capacidad → 2. traducirlo a tolerancias → 3. establecer límites y owners → 4. definir breach y escalamiento → 5. revisar apetito ante cambios de estrategia](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. derivar apetito desde estrategia y capacidad → 2. traducirlo a tolerancias → 3. establecer límites y owners → 4. definir breach y escalamiento → 5. revisar apetito ante cambios de estrategia
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Apetito de riesgo expresa cuánto y qué tipo de riesgo una organización está dispuesta a aceptar para perseguir objetivos; tolerancias y límites lo traducen a operación. Sin esa jerarquía, cada área interpreta prudencia de forma distinta y escala demasiado o demasiado poco.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Apetito no elimina incertidumbre y no debe disfrazar restricciones legales como preferencias. Riesgos prohibidos por ley o ética no son negociables por apetito.**
 

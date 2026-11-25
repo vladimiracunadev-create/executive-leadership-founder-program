@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 155: 1. definir segmento específico → 2. examinar retención y uso repetido → 3. analizar demanda y referencias → 4. validar unit economics iniciales → 5. decidir escalar profundizar o seguir buscando fit](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir segmento específico → 2. examinar retención y uso repetido → 3. analizar demanda y referencias → 4. validar unit economics iniciales → 5. decidir escalar profundizar o seguir buscando fit
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Product-market fit es una condición de fuerte ajuste entre un segmento, un problema y una propuesta que genera demanda y retención sostenibles; no es una certificación binaria ni una encuesta aislada. Debe leerse mediante comportamiento, crecimiento, retención, economics y presión del mercado.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **PMF puede existir en un nicho y no transferirse a otro. Escalar canales o equipo antes de entender qué segmento retiene puede amplificar churn y costos.**
 

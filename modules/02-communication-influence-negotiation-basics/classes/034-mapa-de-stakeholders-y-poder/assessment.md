@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **stakeholder** de **poder** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **interés** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **legitimidad** con **estrategia de engagement**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. Define poder, legitimidad y urgencia según Mitchell, Agle y Wood y explica en qué se diferencian de tener razón y de importar.
+2. Explica por qué los vecinos con un reclamo legítimo y apremiante, sin poder, son un actor dependiente y qué los puede cambiar de clase.
+3. Distingue un interesado según Freeman de uno prominente según el modelo y explica qué decisión cambia esa distinción.
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una transformación tecnológica consulta a ejecutivos y usuarios, pero omite al equipo de soporte que deberá operar el nuevo sistema 24/7 y termina bloqueando el go-live por riesgos no resueltos.
+**Caso:** Una empresa de servicios prepara el cierre de una oficina regional. Los trabajadores sospechan; el sindicato nacional pide una reunión; la autoridad laboral tiene una fiscalización pendiente en esa región; un medio local preguntó por rumores; los clientes de la zona dependen de esa oficina y no saben nada.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **identificar afectados y decisores → mapear poder, interés y legitimidad → entender objetivos y temores → definir engagement por segmento → actualizar mapa cuando cambien coaliciones**. Debes utilizar o diseñar cómo obtener **stakeholders omitidos, decisiones bloqueadas tarde, tiempo de aprobación**. Califica poder, legitimidad y urgencia de cada interesado y propone la gestión de una relación con una autoridad o con un socio en tensión. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Clasifica a cada actor con los tres atributos **y el hecho que respalda cada uno**; ordena la atención de las próximas 72 horas; define quién habla con cada actor y con qué mensaje. Añade a quién afecta la decisión sin que pueda reclamar y qué harás por esos actores. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Un mapa de poder puede volverse cínico si reduce personas a obstáculos. La participación no debe depender solo de poder formal; quienes absorben riesgos o daños merecen consideración aunque tengan poca influencia.**
+Contrasta Freeman con Mitchell, Agle y Wood: qué aporta cada uno, qué tensión hay y cómo cambia tu mapa. Responde al límite: el modelo describe atención, no deberes morales.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

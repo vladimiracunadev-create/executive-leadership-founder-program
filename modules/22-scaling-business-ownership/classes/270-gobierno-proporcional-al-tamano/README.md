@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 270: 1. mapear owners y riesgos → 2. definir reserved matters → 3. crear reporting y cadence mínima → 4. añadir independientes y committees al umbral → 5. revisar governance anualmente](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mapear owners y riesgos → 2. definir reserved matters → 3. crear reporting y cadence mínima → 4. añadir independientes y committees al umbral → 5. revisar governance anualmente
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Gobierno proporcional al tamaño evoluciona desde founders y advisors hacia board más formal, políticas, committees y reporting cuando aumentan owners, deuda, regulación y complejidad. Copiar governance de una cotizada en una pyme puede ser costoso; no tenerlo puede concentrar riesgos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Formalidad no es efectividad. Añade mecanismos cuando resuelvan agency, información o risk; elimina rituales que no mejoran decisiones.**
 

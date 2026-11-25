@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 156: 1. presentar tesis y evidencia → 2. comparar outcomes y economics → 3. examinar riesgos y dependencias → 4. asignar capacidad con kill criteria → 5. registrar decisiones y próximas pruebas](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. presentar tesis y evidencia → 2. comparar outcomes y economics → 3. examinar riesgos y dependencias → 4. asignar capacidad con kill criteria → 5. registrar decisiones y próximas pruebas
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un comité de producto integra estrategia, evidencia de cliente, métricas, riesgos, capacidad y economía para decidir una cartera de apuestas. El capstone exige defender no solo qué construir, sino qué problema priorizar, qué abandonar y qué aprendizaje precede a un compromiso mayor.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un comité no debe convertirse en microgestión semanal. La gobernanza define tesis, límites y recursos; los equipos conservan autonomía sobre aprendizaje y solución dentro de esos límites.**
 

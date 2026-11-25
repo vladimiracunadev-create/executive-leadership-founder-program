@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 264: 1. mapear modelo y actividades → 2. validar sociedad SII y permisos → 3. validar laboral IP y contratos → 4. crear calendario y controls → 5. hacer mock due diligence y cerrar gaps](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mapear modelo y actividades → 2. validar sociedad SII y permisos → 3. validar laboral IP y contratos → 4. crear calendario y controls → 5. hacer mock due diligence y cerrar gaps
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El capstone Chile exige demostrar que una empresa puede operar, cobrar, contratar y cumplir: estructura, SII, documentos, contabilidad, banco, laboral, IP, permisos y calendario. La meta no es llenar formularios ficticios, sino construir un due-diligence pack con fuentes y owners.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una checklist completa hoy puede quedar obsoleta mañana. El entregable debe registrar fuente, fecha de verificación y responsable de actualización.**
 

@@ -48,18 +48,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 209: 1. identificar interés y deber → 2. verificar ley o política aplicable → 3. revelar conflicto oportunamente → 4. definir recusal y proceso independiente → 5. documentar fundamento y aprobación](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. identificar interés y deber → 2. verificar ley o política aplicable → 3. revelar conflicto oportunamente → 4. definir recusal y proceso independiente → 5. documentar fundamento y aprobación
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Deberes fiduciarios, conflictos e independencia dependen de jurisdicción, pero el principio gerencial es reconocer interés personal, revelar, abstenerse cuando corresponde y asegurar proceso informado. Independencia no significa ausencia de opinión; significa capacidad de ejercer juicio sin dependencia impropia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No memorices reglas universales: deberes, umbrales e independencia tienen definición legal específica. Usa esta clase para issue spotting y verifica legislación o estatutos con asesoría.**
 

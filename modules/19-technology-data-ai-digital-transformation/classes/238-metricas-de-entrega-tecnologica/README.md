@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 238: 1. definir flujo de valor de software → 2. instrumentar velocidad y estabilidad → 3. segmentar por producto y contexto → 4. identificar constraint → 5. experimentar mejora y medir outcome](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir flujo de valor de software → 2. instrumentar velocidad y estabilidad → 3. segmentar por producto y contexto → 4. identificar constraint → 5. experimentar mejora y medir outcome
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Métricas de entrega tecnológica deben conectar velocidad y estabilidad. DORA popularizó deployment frequency, lead time, change failure rate y recovery; ninguna métrica aislada define productividad y comparaciones entre contextos distintos requieren cautela.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No conviertas DORA en cuota individual. Son señales de sistema y deben interpretarse con calidad, seguridad, customer outcomes y contexto.**
 

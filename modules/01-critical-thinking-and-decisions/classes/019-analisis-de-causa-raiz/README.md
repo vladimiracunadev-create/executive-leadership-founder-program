@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 019: 1. definir evento y alcance → 2. reconstruir línea de tiempo → 3. generar causas potenciales sin culpabilizar → 4. buscar evidencia y contrafactuales → 5. diseñar acciones sobre sistema y verificar recurrencia](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir evento y alcance → 2. reconstruir línea de tiempo → 3. generar causas potenciales sin culpabilizar → 4. buscar evidencia y contrafactuales → 5. diseñar acciones sobre sistema y verificar recurrencia
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El análisis de causa raíz busca mecanismos que, al cambiar, reduzcan la recurrencia del problema. No es una cacería de culpables ni una ceremonia de 'cinco porqués'. Una causa útil debe tener relación plausible con el evento, evidencia y una intervención asociada; en sistemas complejos suele existir una combinación de condiciones.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todos los problemas justifican root-cause analysis profundo. En eventos pequeños y aislados puede costar más que el riesgo evitado; usa proporcionalidad y reserva análisis exhaustivo para recurrencia o severidad material.**
 

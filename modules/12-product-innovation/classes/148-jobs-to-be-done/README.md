@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 148: 1. reconstruir evento de cambio → 2. identificar circunstancia y progreso buscado → 3. mapear push pull ansiedad y hábito → 4. identificar soluciones competidoras → 5. diseñar mensaje y producto alrededor del progreso](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. reconstruir evento de cambio → 2. identificar circunstancia y progreso buscado → 3. mapear push pull ansiedad y hábito → 4. identificar soluciones competidoras → 5. diseñar mensaje y producto alrededor del progreso
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Jobs to Be Done analiza el progreso que una persona intenta realizar en una situación y las fuerzas que empujan o frenan el cambio. El job no es una demografía ni una funcionalidad; permite entender por qué soluciones de categorías distintas compiten por la misma decisión del cliente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **JTBD es una lente, no una taxonomía universal. Puede complementar segmentación, necesidades y analítica; forzar toda decisión a un job puede ocultar restricciones organizacionales, regulación o economía.**
 

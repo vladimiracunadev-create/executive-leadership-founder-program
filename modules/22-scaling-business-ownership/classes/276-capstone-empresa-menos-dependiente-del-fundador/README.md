@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 276: 1. mapear dependencies → 2. instalar leaders y process owners → 3. definir guardrails y dashboard → 4. ejecutar 2 a 4 week absence simulation → 5. analizar failures y remediar](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mapear dependencies → 2. instalar leaders y process owners → 3. definir guardrails y dashboard → 4. ejecutar 2 a 4 week absence simulation → 5. analizar failures y remediar
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El capstone prueba si una empresa puede sostenerse con intervención significativamente menor del fundador durante un periodo. Requiere succession y leadership, process owners, controls, dashboard y protocolos de excepción; el test real es qué se rompe cuando el founder se retira.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La meta no siempre es ausencia total: algunas empresas se benefician de founder en producto o relaciones. Define qué rol agrega valor versus dependencia involuntaria.**
 

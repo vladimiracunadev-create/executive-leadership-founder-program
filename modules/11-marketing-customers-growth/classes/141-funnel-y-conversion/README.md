@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 141: 1. definir etapas por comportamiento → 2. medir base y conversiones → 3. segmentar por cohortes/canales → 4. priorizar cuello por impacto → 5. experimentar y medir incremento](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir etapas por comportamiento → 2. medir base y conversiones → 3. segmentar por cohortes/canales → 4. priorizar cuello por impacto → 5. experimentar y medir incremento
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El funnel modela cómo una población avanza por etapas hasta una acción. La conversión global es producto de conversiones parciales; por eso encontrar el cuello es más útil que optimizar una etapa visible. Segmentación y cohortes evitan que promedios oculten deterioro.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un funnel supone progresión; productos con loops, referrals o múltiples jobs no siempre encajan linealmente. Usa el modelo donde simplifica una decisión.**
 

@@ -75,7 +75,7 @@ Las clases **189 a 192** cubren la cultura y la respuesta: ética, crisis y esca
 | 187 | [Gobierno de ciberseguridad](classes/187-gobierno-de-ciberseguridad/README.md) | cyber risk, NIST CSF, critical asset | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
 | 188 | [Gobierno responsable de IA](classes/188-gobierno-responsable-de-ia/README.md) | AI governance, AI risk, human oversight | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
 | 189 | [Compliance y cultura ética](classes/189-compliance-y-cultura-etica/README.md) | compliance, code of conduct, speak-up | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 190 | [Crisis, incidentes y escalamiento](classes/190-crisis-incidentes-y-escalamiento/README.md) | incident, crisis, incident commander | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 190 | [Crisis, incidentes y escalamiento](classes/190-crisis-incidentes-y-escalamiento/README.md) | Incidente, Crisis, Declarar un incidente | [crisis-committee-charter](../../templates/crisis-committee-charter.md) | 150 |
 | 191 | [Business continuity y resiliencia](classes/191-business-continuity-y-resiliencia/README.md) | BIA, RTO, RPO | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
 | 192 | [Capstone: comité integrado de riesgos](classes/192-capstone-comite-integrado-de-riesgos/README.md) | risk portfolio, risk aggregation, KRI | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
 
@@ -88,7 +88,7 @@ Las clases **189 a 192** cubren la cultura y la respuesta: ética, crisis y esca
 
 ## 🔤 Glosario de la parte
 
-60 conceptos definidos en las clases, con la definición operacional que usa cada una.
+62 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
@@ -100,22 +100,23 @@ Las clases **189 a 192** cubren la cultura y la respuesta: ética, crisis y esca
 | **business continuity plan** | procedimientos para sostener o recuperar operación. |
 | **capacity** | máxima pérdida o exposición que la organización puede soportar. |
 | **code of conduct** | marco de comportamientos y principios esperados. |
+| **Comité de crisis** | Grupo ejecutivo con autoridad definida para decidir las acciones de mayor impacto durante la crisis. |
 | **compliance** | adhesión a obligaciones legales regulatorias y políticas internas. |
 | **contractual duty** | obligación nacida de un acuerdo. |
 | **control assurance** | evidencia independiente sobre diseño y operación de controles. |
 | **control owner** | rol responsable de diseño y operación del control. |
-| **crisis** | evento que amenaza objetivos críticos y requiere coordinación ejecutiva. |
+| **Crisis** | Evento percibido como impredecible que amenaza expectativas importantes de los interesados y puede afectar seriamente a la organización (Coombs, 2007). |
 | **critical asset** | activo cuya afectación causa impacto material. |
 | **cyber risk** | posible pérdida derivada de amenazas sobre sistemas datos y operación. |
 | **data governance** | roles políticas y controles sobre ciclo de vida de datos. |
 | **data lineage** | rastreo de origen transformación y uso de datos. |
 | **data minimization** | recopilar solo datos necesarios para propósito legítimo. |
-| **decision log** | registro de decisiones supuestos y responsables durante respuesta. |
+| **Declarar un incidente** | Decisión formal de activar la respuesta coordinada, con su mando y su registro. |
 | **detective control** | control que identifica después de ocurrir. |
+| **Escalamiento** | Paso de un asunto a un nivel con más autoridad, según criterios fijados de antemano y no según el rango de quien lo sabe. |
 | **human oversight** | intervención humana con autoridad y capacidad real de revisar. |
-| **incident** | evento gestionable dentro de capacidades operativas normales. |
-| **incident commander** | rol que coordina respuesta y prioridades. |
 | **incident response** | capacidad organizada para contener erradicar y recuperar. |
+| **Incidente** | Evento que interrumpe o degrada una operación, o pone en riesgo a personas, datos o activos, y que exige una respuesta coordinada. |
 | **indemnity** | obligación de cubrir determinadas pérdidas o reclamaciones. |
 | **internal control** | proceso diseñado para dar seguridad razonable sobre objetivos. |
 | **IP ownership** | regla sobre titularidad o licencia de propiedad intelectual. |
@@ -126,6 +127,7 @@ Las clases **189 a 192** cubren la cultura y la respuesta: ética, crisis y esca
 | **legal privilege** | protección que puede aplicar a ciertas comunicaciones jurídicas según jurisdicción. |
 | **limit** | umbral cuantitativo u operativo que restringe exposición. |
 | **limitation of liability** | tope o exclusión de responsabilidad contractual. |
+| **Mando del incidente** | Rol único que decide y responde por la respuesta, mientras otros roles ejecutan partes separadas del trabajo (Beyer et al., 2016). |
 | **model evaluation** | medición de desempeño robustez y riesgos en contexto. |
 | **NIST CSF** | marco de funciones Govern Identify Protect Detect Respond y Recover. |
 | **preventive control** | control que evita ocurrencia. |
@@ -135,6 +137,7 @@ Las clases **189 a 192** cubren la cultura y la respuesta: ética, crisis y esca
 | **residual risk** | exposición restante después de controles. |
 | **resilience** | capacidad de resistir adaptarse y recuperarse de disrupción. |
 | **retaliation** | consecuencia adversa por denunciar o participar de buena fe. |
+| **Revisión sin culpas** | Análisis posterior que busca causas del sistema y acciones correctivas, no responsables individuales (Beyer et al., 2016). |
 | **risk** | efecto de incertidumbre sobre objetivos. |
 | **risk aggregation** | análisis de cómo riesgos interactúan o se concentran. |
 | **risk appetite** | nivel y tipo de riesgo aceptable en busca de objetivos. |
@@ -149,7 +152,6 @@ Las clases **189 a 192** cubren la cultura y la respuesta: ética, crisis y esca
 | **scope** | definición de prestaciones y límites del acuerdo. |
 | **security control** | salvaguarda técnica administrativa o física. |
 | **segregation of duties** | separación de funciones incompatibles para reducir fraude o error. |
-| **situation report** | resumen periódico de hechos impacto acciones y necesidades. |
 | **speak-up** | capacidad segura de reportar inquietudes. |
 | **termination right** | facultad de poner fin al contrato bajo condiciones definidas. |
 

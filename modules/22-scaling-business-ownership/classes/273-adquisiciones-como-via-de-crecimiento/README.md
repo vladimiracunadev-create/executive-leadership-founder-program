@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 273: 1. definir acquisition thesis → 2. filtrar targets → 3. analizar normalized earnings y dependency → 4. estructurar financing y terms → 5. planificar 100-day integration](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir acquisition thesis → 2. filtrar targets → 3. analizar normalized earnings y dependency → 4. estructurar financing y terms → 5. planificar 100-day integration
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Adquirir empresas puede acelerar crecimiento, capacidad o market access, pero para un owner pequeño añade riesgos de financiación, diligence e integración. Search, valuation, seller dependency y transition plan son tan importantes como encontrar un negocio rentable.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Comprar flujo histórico no garantiza que sobreviva al cambio de propietario. Ajusta valoración y terms por key-person, clientes y transición.**
 

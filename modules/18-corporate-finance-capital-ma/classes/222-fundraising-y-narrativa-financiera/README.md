@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 222: 1. definir por qué y cuánto capital → 2. ligar use of proceeds a milestones → 3. preparar evidence room → 4. segmentar investors y pipeline → 5. negociar términos cerrar y comunicar](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir por qué y cuánto capital → 2. ligar use of proceeds a milestones → 3. preparar evidence room → 4. segmentar investors y pipeline → 5. negociar términos cerrar y comunicar
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Fundraising combina necesidad de capital, hitos, narrativa, evidencia y elección del inversor. Una ronda debería financiar suficiente runway para alcanzar un punto de mayor valor o sostenibilidad; levantar porque el mercado está abierto puede diluir sin estrategia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Más capital puede aumentar burn y presión de retorno. Levanta una cantidad coherente con estrategia, escenarios y capacidad de desplegarla productivamente.**
 

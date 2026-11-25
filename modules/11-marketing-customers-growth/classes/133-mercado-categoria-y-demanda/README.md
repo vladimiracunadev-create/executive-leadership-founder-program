@@ -48,18 +48,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 133: 1. definir job y compradores → 2. mapear alternativas y sustitutos → 3. estimar demanda accesible → 4. decidir categoría existente versus nueva → 5. probar lenguaje con clientes](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir job y compradores → 2. mapear alternativas y sustitutos → 3. estimar demanda accesible → 4. decidir categoría existente versus nueva → 5. probar lenguaje con clientes
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Mercado, categoría y demanda son marcos distintos. El mercado reúne compradores y alternativas; la categoría organiza cómo el cliente entiende una solución; la demanda expresa disposición y capacidad de comprar. Crear categoría puede reducir comparación directa, pero exige educar y tiene costo alto.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Crear una categoría por branding no crea demanda. Si el problema no es urgente o el lenguaje no conecta con cómo compra el mercado, la novedad aumenta fricción.**
 

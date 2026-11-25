@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 253: 1. definir actividad y riesgos → 2. seleccionar estructura y constituir → 3. iniciar ciclo tributario → 4. resolver permisos y registro sectorial → 5. crear calendario laboral tributario y corporativo](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir actividad y riesgos → 2. seleccionar estructura y constituir → 3. iniciar ciclo tributario → 4. resolver permisos y registro sectorial → 5. crear calendario laboral tributario y corporativo
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El ciclo empresarial chileno conecta decisión societaria, constitución, inicio de actividades, tributación, permisos, contratación, protección de marca, facturación y obligaciones recurrentes. La habilidad del founder es construir un mapa de dependencias y verificar cada paso en la fuente oficial vigente antes de actuar.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Los requisitos cambian por actividad, comuna y fecha. Este mapa enseña secuencia y preguntas; no sustituye revisión oficial ni asesoría contable o legal para el caso real.**
 

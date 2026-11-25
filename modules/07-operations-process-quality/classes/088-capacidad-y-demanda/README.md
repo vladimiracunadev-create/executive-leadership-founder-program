@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 088: 1. medir demanda por tipo y periodo → 2. medir capacidad efectiva → 3. segmentar variabilidad y picos → 4. diseñar buffer o flex capacity → 5. regular ingreso cuando supera sistema](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. medir demanda por tipo y periodo → 2. medir capacidad efectiva → 3. segmentar variabilidad y picos → 4. diseñar buffer o flex capacity → 5. regular ingreso cuando supera sistema
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Capacidad y demanda deben compararse en la misma unidad y horizonte. Cuando utilización se acerca continuamente al 100%, la variabilidad crea colas y tiempos de espera desproporcionados. Operaciones saludables mantienen buffers y gestionan picos, mix y restricciones.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Más buffer cuesta dinero. La meta no es baja utilización universal, sino equilibrar costo de capacidad con costo de espera, pérdida de demanda y criticidad.**
 

@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **brand** de **distinctive asset** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **trust signal** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **salience** con **brand promise**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. Define confianza según Mayer, Davis y Schoorman y explica por qué solo importa donde hay riesgo y donde no se puede verificar.
+2. Describe cómo se observa cada uno de los tres factores de la confiabilidad percibida en una empresa de servicios.
+3. Explica por qué una señal de confianza que falla alguna de las tres pruebas puede convertir un error en un problema de integridad.
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** Una empresa promete 'soporte humano en minutos' en campañas, pero obliga al cliente a pasar por cuatro bots antes de hablar con alguien. El marketing aumenta expectativas que operación no cumple.
+**Caso:** Una empresa de software para clínicas descubre que un error mostró durante tres semanas horarios de citas equivocados a pacientes. El equipo comercial había asegurado a las clínicas que nunca habían tenido una falla de este tipo. Dos clínicas amenazan con terminar el contrato.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **definir situaciones de compra → construir activos consistentes → añadir pruebas y señales → alinear experiencia con promesa → medir recuerdo, confianza y conversión**. Debes utilizar o diseñar cómo obtener **brand awareness, share of search, direct traffic**. Entrega un plan de reparación de confianza con hitos, evidencia verificable por un tercero y métrica de sostenimiento. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Diagnostica la falla (competencia, integridad o ambas) con la evidencia que la ubica ahí; escribe los cinco pasos con la evidencia verificable de cada uno; define tres métricas de recuperación con línea base y fecha de revisión; fija qué se dirá a las clínicas y qué no se negará. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Invertir en marca no reemplaza distribución ni producto. Tampoco todo atributo necesita diferenciación; algunos activos sirven para ser recordado más que para justificar superioridad.**
+Contrasta Mayer et al. con Kim et al.: qué aporta cada uno, qué tensión hay y cómo cambia tu plan. Responde al límite: los experimentos no sustituyen el juicio ante hechos reales.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

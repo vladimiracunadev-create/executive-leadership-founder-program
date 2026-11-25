@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 028: 1. definir quién decide y qué necesita decidir → 2. construir storyline de cinco a siete mensajes → 3. usar headlines que expresen conclusiones → 4. mostrar evidencia mínima suficiente → 5. ensayar objeciones y cerrar con ask](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir quién decide y qué necesita decidir → 2. construir storyline de cinco a siete mensajes → 3. usar headlines que expresen conclusiones → 4. mostrar evidencia mínima suficiente → 5. ensayar objeciones y cerrar con ask
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Una presentación para decisiones no es una exposición de todo el trabajo realizado. Diseña una secuencia que lleve a una decisión: contexto, tensión, evidencia, opciones, recomendación, riesgos y pedido. Las diapositivas son soporte visual; el razonamiento debe sobrevivir si se leen sin narrador.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todas las decisiones requieren slides. Un memo puede ser superior cuando se necesita precisión, lectura asincrónica o discusión detallada; el medio debe servir al problema.**
 

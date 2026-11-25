@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 233: 1. inventariar workflows y pain → 2. estimar value y baseline → 3. evaluar data y technical feasibility → 4. evaluar impact y risk → 5. pilotear con economics y guardrails antes de escalar](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. inventariar workflows y pain → 2. estimar value y baseline → 3. evaluar data y technical feasibility → 4. evaluar impact y risk → 5. pilotear con economics y guardrails antes de escalar
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un portafolio de IA debe priorizar problemas donde automatización o predicción mejoran economics y donde datos, workflow y riesgo permiten implementación. Empezar por qué podemos hacer con LLM produce demos sin adopción; el business case debe incluir calidad, humanos, integración y costo recurrente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Horas ahorradas no equivalen a cash o value si no cambia capacidad o output. Define cómo el tiempo liberado se convierte en outcome empresarial.**
 

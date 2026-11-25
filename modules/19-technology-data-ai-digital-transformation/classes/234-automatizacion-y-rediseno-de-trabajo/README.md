@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 234: 1. mapear workflow end-to-end → 2. clasificar tareas por repetición judgment y risk → 3. diseñar target workflow y exceptions → 4. redefinir roles y controles → 5. pilotear y medir productivity y quality](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mapear workflow end-to-end → 2. clasificar tareas por repetición judgment y risk → 3. diseñar target workflow y exceptions → 4. redefinir roles y controles → 5. pilotear y medir productivity y quality
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Automatizar cambia trabajo, roles y controles; el mayor valor suele venir de rediseñar workflow, no de sustituir cada tarea 1:1. Task decomposition, exception handling y human judgment ayudan a decidir qué automatizar, augmentar o mantener humano.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Automatización de alto riesgo necesita controles y fallback. No uses capacidad técnica como justificación para eliminar juicio humano donde daño potencial es material.**
 

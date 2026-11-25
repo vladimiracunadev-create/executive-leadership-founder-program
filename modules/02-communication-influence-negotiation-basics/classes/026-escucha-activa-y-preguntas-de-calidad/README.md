@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 026: 1. suspender consejo inmediato → 2. pedir hechos y perspectiva → 3. parafrasear y comprobar → 4. explorar inferencias y emociones relevantes → 5. resumir acuerdos, desacuerdos y siguiente paso](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. suspender consejo inmediato → 2. pedir hechos y perspectiva → 3. parafrasear y comprobar → 4. explorar inferencias y emociones relevantes → 5. resumir acuerdos, desacuerdos y siguiente paso
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Escuchar activamente significa obtener una representación suficientemente fiel de la perspectiva del otro antes de responder. Incluye preguntas abiertas, paráfrasis, silencios, test de inferencias y resumen. Su objetivo no es estar de acuerdo, sino reducir errores de interpretación y descubrir información que una defensa prematura ocultaría.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Escuchar no implica convertir cada conversación en terapia ni renunciar a decidir. En incidentes urgentes puede ser necesario actuar primero; luego se recupera contexto.**
 

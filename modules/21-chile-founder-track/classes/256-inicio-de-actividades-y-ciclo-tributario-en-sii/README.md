@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 256: 1. confirmar entidad y RUT → 2. definir giros y domicilio → 3. reunir antecedentes exigidos → 4. realizar inicio y verificar estado → 5. configurar documentos y calendario tributario](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. confirmar entidad y RUT → 2. definir giros y domicilio → 3. reunir antecedentes exigidos → 4. realizar inicio y verificar estado → 5. configurar documentos y calendario tributario
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El inicio de actividades ante SII ubica al contribuyente dentro del ciclo tributario y debe reflejar actividades económicas reales, domicilio y antecedentes requeridos. El founder necesita comprender hitos, documentación y diferencia entre constituir sociedad e iniciar correctamente operación tributaria.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Los pasos y antecedentes SII pueden cambiar y depender del caso. Verifica siempre requisitos actuales en sii.cl; el programa no reemplaza asesoría tributaria.**
 

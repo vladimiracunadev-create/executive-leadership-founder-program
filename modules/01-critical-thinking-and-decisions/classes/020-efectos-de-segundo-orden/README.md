@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 020: 1. describir efecto directo esperado → 2. preguntar cómo responderán stakeholders → 3. proyectar repetición de la política → 4. identificar externalidades y dependencia → 5. definir límites o salvaguardas](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. describir efecto directo esperado → 2. preguntar cómo responderán stakeholders → 3. proyectar repetición de la política → 4. identificar externalidades y dependencia → 5. definir límites o salvaguardas
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Los efectos de segundo orden son consecuencias que aparecen después de la reacción inmediata y pueden invertir el valor de una decisión. Incentivos, reputación, aprendizaje y capacidad suelen responder con demora. Pensar en segundo orden obliga a preguntar qué harán otros después de que nosotros actuemos y qué patrón se crea si repetimos la política.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El análisis de segundo orden puede convertirse en especulación infinita. Limita la cadena a consecuencias plausibles, materiales y con mecanismo defendible; no uses posibilidades remotas para bloquear toda decisión.**
 

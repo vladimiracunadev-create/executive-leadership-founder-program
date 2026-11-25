@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 056: 1. clasificar propósito antes de convocar → 2. enviar pre-read con pregunta → 3. definir decisor y participantes → 4. facilitar discusión y cerrar → 5. registrar decisión y acciones](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. clasificar propósito antes de convocar → 2. enviar pre-read con pregunta → 3. definir decisor y participantes → 4. facilitar discusión y cerrar → 5. registrar decisión y acciones
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Una reunión que decide tiene propósito, preparación, roles, regla de decisión y cierre. Si el objetivo es informar, puede existir un medio asincrónico mejor; si es debatir, debe llegar con material previo. La disciplina central es separar discusión de decisión y registrar quién hace qué después.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todas las reuniones deben producir una decisión. Creatividad, aprendizaje y construcción de relaciones son fines legítimos; el problema es no declarar qué tipo de reunión se está diseñando.**
 

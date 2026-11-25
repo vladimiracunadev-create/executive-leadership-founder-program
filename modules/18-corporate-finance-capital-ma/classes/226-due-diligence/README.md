@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 226: 1. partir de deal thesis → 2. convertir supuestos en questions → 3. asignar workstreams y materiality → 4. analizar findings y cuantificar → 5. actualizar price terms o walk-away](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. partir de deal thesis → 2. convertir supuestos en questions → 3. asignar workstreams y materiality → 4. analizar findings y cuantificar → 5. actualizar price terms o walk-away
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Due diligence verifica supuestos del deal y busca riesgos que cambian precio, estructura o decisión. Debe ser hypothesis-driven: comercial, financiera, legal, fiscal, tecnológica, cyber, talento y operaciones según tesis; recopilar documentos sin preguntas de decisión genera data room tourism.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Diligence nunca elimina toda incertidumbre y tiene tiempo limitado. Prioriza supuestos que pueden cambiar decisión o terms, no exhaustividad imposible.**
 

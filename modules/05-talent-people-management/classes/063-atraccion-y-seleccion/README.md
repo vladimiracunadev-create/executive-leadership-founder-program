@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 063: 1. definir scorecard y criterios antes de publicar → 2. atraer en canales adecuados → 3. usar screening consistente → 4. combinar entrevistas y muestras de trabajo → 5. registrar decisión y revisar calidad de contratación](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir scorecard y criterios antes de publicar → 2. atraer en canales adecuados → 3. usar screening consistente → 4. combinar entrevistas y muestras de trabajo → 5. registrar decisión y revisar calidad de contratación
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Atracción y selección forman un funnel donde cada etapa debe reducir incertidumbre sobre requisitos reales del rol. La marca empleadora atrae; el scorecard filtra; evaluaciones estructuradas comparan; referencias y evidencia de trabajo complementan. El proceso debe ser consistente, inclusivo y legalmente defendible.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Ningún instrumento debe preguntar o discriminar por información protegida o irrelevante. Los métodos deben relacionarse con el trabajo y cumplir normativa local de igualdad y datos personales.**
 

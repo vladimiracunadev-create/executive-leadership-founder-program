@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 101: 1. definir outcome lagging → 2. formular drivers plausibles → 3. buscar evidencia histórica o experimental → 4. seleccionar leading controllable → 5. revisar si la relación se sostiene](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir outcome lagging → 2. formular drivers plausibles → 3. buscar evidencia histórica o experimental → 4. seleccionar leading controllable → 5. revisar si la relación se sostiene
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Leading indicators aparecen antes y están más cerca de acciones; lagging indicators confirman resultados después. La gestión necesita ambos: drivers sin outcome pueden optimizar actividad inútil, y outcomes tardíos llegan demasiado tarde para corregir. La relación entre ambos debe tratarse como hipótesis causal.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un leading indicator fácil de mover es especialmente vulnerable a gaming. Nunca confíes en proxy sin volver periódicamente al outcome que pretende anticipar.**
 

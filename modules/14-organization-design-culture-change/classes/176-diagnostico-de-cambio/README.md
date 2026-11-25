@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 176: 1. definir conducta futura observable → 2. mapear stakeholders y pérdidas → 3. diagnosticar conocimiento motivación y capacidad → 4. identificar barreras de sistema → 5. diseñar intervención segmentada y feedback](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir conducta futura observable → 2. mapear stakeholders y pérdidas → 3. diagnosticar conocimiento motivación y capacidad → 4. identificar barreras de sistema → 5. diseñar intervención segmentada y feedback
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Diagnosticar cambio significa entender por qué el estado actual se sostiene: intereses, hábitos, capacidades, identidad, sistemas y restricciones. Modelos como Kotter o ADKAR ayudan a estructurar, pero el diagnóstico debe distinguir falta de comprensión, voluntad, capacidad y refuerzo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Etiquetar toda resistencia como problema humano es peligroso; a veces revela mal diseño. Distingue oposición a perder privilegios de feedback legítimo sobre el sistema.**
 

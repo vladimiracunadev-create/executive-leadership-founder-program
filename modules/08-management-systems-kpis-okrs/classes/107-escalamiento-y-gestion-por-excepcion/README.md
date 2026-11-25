@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 107: 1. definir tolerancias por objetivo → 2. asignar derechos de decisión → 3. instrumentar early warnings → 4. escalar con opciones y recomendación → 5. revisar umbrales según aprendizaje](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir tolerancias por objetivo → 2. asignar derechos de decisión → 3. instrumentar early warnings → 4. escalar con opciones y recomendación → 5. revisar umbrales según aprendizaje
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Escalar por excepción permite que niveles superiores se ocupen de decisiones que exceden tolerancias, no de toda operación. Requiere límites claros de costo, tiempo, riesgo o calidad y una cultura donde escalar temprano no sea castigo. Sin límites, se microgestiona o se ocultan problemas hasta ser crisis.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Tolerancias demasiado amplias pueden esconder deterioro; demasiado estrechas destruyen autonomía. Ajusta al riesgo, madurez y capacidad de corrección.**
 

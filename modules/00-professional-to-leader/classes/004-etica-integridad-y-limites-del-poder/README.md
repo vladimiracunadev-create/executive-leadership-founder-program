@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 004: 1. identificar stakeholders afectados y poder relativo → 2. separar obligación, incentivo personal y presión del entorno → 3. formular opciones que respeten líneas rojas → 4. consultar cuando exista conflicto o duda jurídica → 5. documentar la decisión y sus salvaguardas](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. identificar stakeholders afectados y poder relativo → 2. separar obligación, incentivo personal y presión del entorno → 3. formular opciones que respeten líneas rojas → 4. consultar cuando exista conflicto o duda jurídica → 5. documentar la decisión y sus salvaguardas
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Ética e integridad delimitan qué resultados no son aceptables aunque sean rentables o aceleren una meta. El poder amplifica consecuencias: quien controla información, evaluaciones, presupuesto o acceso puede influir en la vida de otros. Liderar exige reconocer conflictos de interés, asimetrías de poder y decisiones donde lo legal es un piso, no necesariamente el criterio completo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un marco ético no elimina dilemas reales. A veces dos obligaciones legítimas compiten; la calidad está en hacer visibles los afectados, justificar prioridades y usar revisión independiente cuando el poder propio puede sesgar.**
 

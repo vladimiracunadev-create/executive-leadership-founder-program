@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 248: 1. definir outcome a entregar → 2. operar manualmente para pocos clientes → 3. registrar steps y exceptions → 4. medir value y willingness → 5. automatizar solo patrón estable](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir outcome a entregar → 2. operar manualmente para pocos clientes → 3. registrar steps y exceptions → 4. medir value y willingness → 5. automatizar solo patrón estable
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **MVP y concierge tests permiten aprender el flujo de valor manualmente antes de automatizar. El founder actúa como sistema para descubrir excepciones, lenguaje, datos y willingness to pay; luego automatiza las partes repetibles con mejor evidencia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Concierge no prueba escalabilidad. Sirve para aprender demanda y workflow; antes de escalar, modela costos y automatización necesaria.**
 

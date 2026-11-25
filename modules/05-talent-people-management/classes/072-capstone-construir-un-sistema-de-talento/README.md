@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 072: 1. definir capacidades que exige estrategia → 2. diseñar lifecycle coherente → 3. asignar governance y datos → 4. probar fairness y experiencia → 5. instalar revisión trimestral del sistema](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir capacidades que exige estrategia → 2. diseñar lifecycle coherente → 3. asignar governance y datos → 4. probar fairness y experiencia → 5. instalar revisión trimestral del sistema
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El capstone de talento integra job design, workforce planning, selección, onboarding, desempeño, desarrollo, compensación, sucesión y salida en un sistema coherente. Si cada práctica optimiza una cosa distinta, el sistema envía señales contradictorias a las personas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un sistema de talento no debe burocratizar una empresa joven prematuramente. Instala controles proporcionales a escala y riesgo, priorizando claridad y legalidad antes que ceremonias complejas.**
 

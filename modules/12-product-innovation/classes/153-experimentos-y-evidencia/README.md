@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 153: 1. formular hipótesis causal o conductual → 2. elegir diseño proporcional → 3. predefinir métrica y guardrails → 4. ejecutar sin cambiar reglas a mitad → 5. interpretar efecto incertidumbre y transferencia](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. formular hipótesis causal o conductual → 2. elegir diseño proporcional → 3. predefinir métrica y guardrails → 4. ejecutar sin cambiar reglas a mitad → 5. interpretar efecto incertidumbre y transferencia
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Los experimentos de producto convierten incertidumbre en evidencia mediante hipótesis, tratamiento, comparación y criterio de decisión. Un A/B test es solo una forma; smoke tests, fake doors, concierge, prototipos y pilotos responden preguntas distintas. El diseño debe evitar confundir correlación con efecto causal.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo puede o debe randomizarse. Experimentos pequeños, B2B enterprise o cambios irreversibles requieren métodos alternativos y mucha cautela al atribuir causalidad.**
 

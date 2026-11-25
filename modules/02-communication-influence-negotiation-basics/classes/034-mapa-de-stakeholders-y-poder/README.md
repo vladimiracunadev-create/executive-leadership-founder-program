@@ -10,237 +10,209 @@
 
 ## 🎯 Propósito
 
-Un mapa de stakeholders muestra quién puede afectar o ser afectado por una decisión, qué le importa, qué poder posee y qué relación necesita. No es un ranking para manipular; permite anticipar bloqueos, impactos invisibles y necesidades de participación diferentes.
+Una organización se relaciona con decenas de grupos: clientes, trabajadores, socios, proveedores, autoridades, vecinos, medios. Nadie puede atenderlos a todos con la misma intensidad, y equivocarse al elegir tiene dos costos opuestos: **ignorar a quien podía detener la decisión**, o **gastar la agenda en quien hacía ruido y no tenía ni poder ni derecho a ser atendido**.
 
-La salida de esta parte es **convertir comunicación, influencia y negociación en sistemas de decisión y relación**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **mapa de stakeholders y poder** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase enseña un criterio para decidir a quién se atiende primero y con qué tipo de relación: el **modelo de prominencia** de Mitchell, Agle y Wood (1997), que clasifica a cada interesado por tres atributos —poder, legitimidad y urgencia— y de esa clasificación deriva qué hacer. Al terminar podrás construir un mapa donde cada ubicación esté respaldada por evidencia, y rehacerlo cuando la situación cambie.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `stakeholder`, `poder`, `interés`, `legitimidad`, `estrategia de engagement` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de profesional → líder.
-3. **Aplicar** la secuencia **1. identificar afectados y decisores → 2. mapear poder, interés y legitimidad → 3. entender objetivos y temores → 4. definir engagement por segmento → 5. actualizar mapa cuando cambien coaliciones** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** stakeholders omitidos, decisiones bloqueadas tarde, tiempo de aprobación sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
-7. **Evaluar** poder, legitimidad y urgencia de cada interesado y diseñar la relación institucional previa a una crisis.
+1. **Definir** interesado, poder, legitimidad, urgencia y prominencia con las palabras de la teoría, no con sinónimos.
+2. **Clasificar** a un actor en una de las siete clases del modelo, justificando cada atributo con un hecho observable.
+3. **Explicar** por qué un mismo actor cambia de clase cuando cambia uno de sus atributos, y anticipar ese cambio.
+4. **Traducir** la clase a una conducta de relación: monitorear, institucionalizar, dialogar, proteger la voz o atender de inmediato.
+5. **Reconocer** el límite del modelo: describe a quién prestan atención los directivos, no a quién se le debe consideración moral.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define stakeholder y poder sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con stakeholders omitidos y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: lista los grupos que afectarían tu última decisión importante y ordénalos por intuición; guarda la lista. |
+| 20–60 min | Los tres atributos y las siete clases, con el diagrama de la clase. |
+| 60–95 min | Ejemplo trabajado: se clasifican seis actores y se rehace el mapa cuando uno cambia. |
+| 95–130 min | Caso ejecutivo: mapa, prioridad de atención y primer contacto con cada actor. |
+| 130–150 min | Contraste con tu intuición inicial, límites del modelo y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce en un caso |
 |---|---|---|
-| **stakeholder** | persona o grupo afectado o con capacidad de afectar la decisión | Distingue un hecho compatible y otro que lo refute. |
-| **poder** | capacidad de habilitar, bloquear o alterar recursos y legitimidad | Distingue un hecho compatible y otro que lo refute. |
-| **interés** | grado en que el resultado importa al stakeholder | Distingue un hecho compatible y otro que lo refute. |
-| **legitimidad** | validez reconocida de su reclamo o rol | Distingue un hecho compatible y otro que lo refute. |
-| **estrategia de engagement** | forma y frecuencia de involucramiento proporcional | Distingue un hecho compatible y otro que lo refute. |
+| **Interesado (stakeholder)** | Según Freeman (1984), cualquier grupo o individuo que puede afectar o ser afectado por el logro de los objetivos de la organización. | Se puede nombrar qué hace o qué le ocurre a causa de la decisión. |
+| **Poder** | Capacidad de un actor de lograr que otro haga algo que de otro modo no haría, mediante recursos coercitivos, utilitarios o normativos. | Puede bloquear, retrasar, sancionar, retirar un recurso o mover la opinión. |
+| **Legitimidad** | Percepción generalizada de que las acciones de un actor son deseables o apropiadas dentro de un sistema socialmente construido de normas, valores y creencias. | Su reclamo se apoya en un contrato, una ley, un derecho o una norma aceptada. |
+| **Urgencia** | Grado en que el reclamo exige atención inmediata: sensibilidad al tiempo y criticidad para el actor. | Hay un plazo cercano y un daño relevante si se espera. |
+| **Prominencia (salience)** | Grado en que los directivos dan prioridad a los reclamos de un actor. | Mide dónde va la atención real, no dónde debería ir. |
+| **Latente, expectante, definitivo** | Según tenga uno, dos o los tres atributos. Cada grupo tiene subtipos con nombre propio. | Se cuenta cuántos de los tres atributos se pueden respaldar con evidencia. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 034: 1. identificar afectados y decisores → 2. mapear poder, interés y legitimidad → 3. entender objetivos y temores → 4. definir engagement por segmento → 5. actualizar mapa cuando cambien coaliciones](modelo-mental.svg)
+![Prominencia de un interesado según poder, legitimidad y urgencia: tres círculos que se solapan y definen siete clases de interesado.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. identificar afectados y decisores → 2. mapear poder, interés y legitimidad → 3. entender objetivos y temores → 4. definir engagement por segmento → 5. actualizar mapa cuando cambien coaliciones
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Un mapa de stakeholders muestra quién puede afectar o ser afectado por una decisión, qué le importa, qué poder posee y qué relación necesita. No es un ranking para manipular; permite anticipar bloqueos, impactos invisibles y necesidades de participación diferentes.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un mapa de poder puede volverse cínico si reduce personas a obstáculos. La participación no debe depender solo de poder formal; quienes absorben riesgos o daños merecen consideración aunque tengan poca influencia.**
+**Cómo leer el diagrama.** Cada círculo es un atributo. Un actor con **un** atributo es latente: puede esperar. Con **dos** es expectante: ya hay una expectativa de atención. Con **los tres** es definitivo: la atención es inmediata. Lo útil no es el nombre de la región sino la pregunta que obliga a hacer sobre cada atributo: *¿qué hecho lo demuestra?*
 
 ## 📖 Desarrollo
 
-### 1. stakeholder: mecanismo central
+### 1. Por qué no todos los interesados cuentan igual
 
-**stakeholder** se entiende aquí como **persona o grupo afectado o con capacidad de afectar la decisión**. Esta es la pieza causal o estructural desde la que se inicia **mapa de stakeholders y poder**: antes de identificar afectados y decisores, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+La definición de Freeman es deliberadamente amplia: cualquiera que pueda afectar o ser afectado es un interesado. Esa amplitud tiene un costo práctico: si todos cuentan, el directivo no tiene criterio para priorizar. Mitchell, Agle y Wood plantean la pregunta que Freeman deja abierta: **quién y qué realmente cuenta** para quienes dirigen. Su respuesta no es moral sino descriptiva: cuenta para el directivo quien reúne atributos que lo hacen difícil de ignorar.
 
-La lectura rectora de este bloque es Chip Heath & Dan Heath — *Made to Stick*. Su aporte se usa para examinar **diseño de mensajes memorables, concretos y accionables**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **stakeholders omitidos**; regístrala con periodo, unidad, población y baseline.
+La consecuencia pedagógica es doble. Primero, el mapa es una herramienta de **gestión de la atención**, no un registro de derechos. Segundo, el mapa se puede equivocar: un atributo mal evaluado produce un actor mal ubicado.
 
-Relaciona el mecanismo con **poder**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+### 2. Los tres atributos, uno por uno
 
-### 2. poder: frontera conceptual y error de clasificación
+**Poder.** Los autores distinguen tres fuentes: **coercitiva** (fuerza o amenaza: un paro, una sanción), **utilitaria** (recursos materiales: dinero, suministro, contratos) y **normativa** (recursos simbólicos: prestigio, capacidad de mover la opinión). Poder no es posición en el organigrama: un proveedor único tiene poder utilitario sobre una planta aunque nadie lo haya tratado como "alto".
 
-**Definición operacional:** capacidad de habilitar, bloquear o alterar recursos y legitimidad. Su valor está en distinguirlo de **stakeholder** y **interés**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+**Legitimidad.** Es la percepción de que el reclamo es apropiado dentro de un sistema de normas. No es lo mismo que tener razón ni que tener poder: se apoya en un contrato, una ley, un derecho reconocido o una expectativa social aceptada. Un actor puede tener un reclamo legítimo y ningún poder (los vecinos de una planta), o mucho poder y ningún reclamo legítimo (quien amenaza con filtrar información privada).
 
-Contrasta el problema con Robert B. Cialdini — *Influence*, que aporta una mirada sobre **mecanismos de influencia y sus límites éticos**. Formula dos mini-casos: uno que sí satisface la definición de **poder** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **decisiones bloqueadas tarde** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+**Urgencia.** Combina dos condiciones: que el asunto **no admita espera** (sensibilidad al tiempo) y que sea **crítico** para el actor. Un reclamo con plazo pero sin importancia no es urgente; uno importante sin plazo tampoco. La urgencia es el atributo que más cambia con los días.
 
-Antes de mapear poder, interés y legitimidad, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+### 3. Las siete clases y lo que implican
 
-### 3. interés: operacionalización y medición
+| Clase | Atributos | Qué significa para quien dirige | Conducta que sugiere la clase |
+|---|---|---|---|
+| **Durmiente** | Poder | Puede actuar, pero hoy no tiene reclamo legítimo ni urgente. | Monitorear: ¿puede ganar legitimidad o urgencia? |
+| **Discrecional** | Legitimidad | Tiene un reclamo apropiado, pero ni poder ni urgencia. | Atender por decisión propia; no hay presión externa. |
+| **Demandante** | Urgencia | Insiste, pero sin poder ni derecho reconocido. | Escuchar sin reaccionar; es más ruido que riesgo. |
+| **Dominante** | Poder + legitimidad | Su influencia está respaldada por un derecho; recibe atención casi segura. | Institucionalizar: un cauce regular y un responsable. |
+| **Peligroso** | Poder + urgencia | Puede usar el poder con prisa y sin derecho que lo limite. | Contener con diálogo antes de que actúe; evitar la escalada. |
+| **Dependiente** | Legitimidad + urgencia | Tiene un reclamo legítimo y apremiante, pero necesita a otro para ser oído. | Proteger su acceso y su voz; es quien más se pierde en un mapa de poder. |
+| **Definitivo** | Los tres | Todo coincide: la atención es inmediata. | Atender ya, registrar los compromisos y revisar a menudo. |
 
-**interés** significa **grado en que el resultado importa al stakeholder**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+### 4. Los atributos cambian, y a veces sin que el actor lo sepa
 
-Barbara Minto — *The Pyramid Principle* orienta este bloque mediante **estructura piramidal para razonamiento y comunicación ejecutiva**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **tiempo de aprobación**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+Los autores subrayan que los atributos son **variables, no permanentes**: un actor puede ganar o perder uno según el contexto. También son **construidos socialmente**: la legitimidad y la urgencia dependen de cómo otros perciben la situación, no de una propiedad objetiva. Y existe la posibilidad de que un actor **tenga** un atributo y no lo **ejerza**, o ni siquiera sepa que lo tiene.
 
-Al llegar a entender objetivos y temores, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Para la práctica esto significa que el mapa tiene fecha y se rehace ante cada cambio relevante: un anuncio, un plazo, una alianza, una denuncia. El actor dependiente es el caso típico de cambio: suele adquirir poder **aliándose** con otro actor que lo tiene.
 
-### 4. legitimidad: trade-offs y efectos de segundo orden
+### 5. De la clasificación a la relación institucional
 
-**Definición:** validez reconocida de su reclamo o rol. Este concepto obliga a abandonar la idea de que **mapa de stakeholders y poder** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de definir engagement por segmento, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
+El mapa solo vale si cambia lo que se hace. Para cada actor importante, define cuatro cosas: **quién lo atiende** (un responsable con nombre), **por qué cauce** (reunión periódica, mesa, canal), **qué se le comunica** y **qué se registra**. En el caso de autoridades, gremios y comunidades, esa tarea la sostiene la función de **asuntos corporativos**: construir la relación *antes* de la crisis, de modo que en una fiscalización o un conflicto ya exista confianza y un interlocutor conocido.
 
-Dale Carnegie — *How to Win Friends and Influence People* aporta una lente sobre **perspectiva de Comunicación aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **conflictos por falta de consulta** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
+Regla de coherencia: lo que se dice a la autoridad no puede contradecir lo que se dice al mercado, a los trabajadores o a los vecinos. Los actores se hablan entre sí.
 
-Haz un *pre-mortem* de **mapa de stakeholders y poder**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **legitimidad** y otro de una hipótesis del caso que nunca fue validada.
+### 6. Límites del modelo
 
-### 5. estrategia de engagement: gobernanza, límites e integración
+El modelo **describe** la prominencia percibida por los directivos; no afirma a quién se le debe consideración. Un actor sin poder, legitimidad reconocida ni urgencia —por ejemplo, quienes serán afectados en el futuro— quedaría fuera del mapa aunque la decisión lo perjudique. Quien usa el modelo para decidir **solo** a quién atiende comete un error ético y también práctico: los actores olvidados suelen ser los que mañana adquieren poder.
 
-**estrategia de engagement** se define como **forma y frecuencia de involucramiento proporcional** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
-
-Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* se utiliza para estudiar **negociación basada en intereses, opciones y criterios objetivos** y contrastar la recomendación final. Al ejecutar actualizar mapa cuando cambien coaliciones, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
-
-La frontera de esta clase es explícita: **Un mapa de poder puede volverse cínico si reduce personas a obstáculos. La participación no debe depender solo de poder formal; quienes absorben riesgos o daños merecen consideración aunque tengan poca influencia.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **stakeholder**, **poder**, **interés**, **legitimidad** y **estrategia de engagement** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **mapa de stakeholders y poder** no consiste en sumar cinco definiciones. Empieza por **stakeholder**, contrasta **poder** con **interés**, incorpora **legitimidad** como restricción o mecanismo y usa **estrategia de engagement** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. identificar afectados y decisores → 2. mapear poder, interés y legitimidad → 3. entender objetivos y temores → 4. definir engagement por segmento → 5. actualizar mapa cuando cambien coaliciones**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Interesados, legitimidad y asuntos corporativos desde la dirección
-
-Un mapa de interesados responde a quién puede afectar a la organización o ser afectado por ella. Esta ampliación añade una pregunta que el poder no contesta: **¿con qué legitimidad actúa quien reclama?** Un actor puede tener **poder** (capacidad de imponer), **legitimidad** (reclamo reconocido como apropiado) y **urgencia** (el asunto no admite espera). La combinación de los tres decide cuánta atención exige.
-
-| Actor | Poder | Legitimidad | Urgencia | Qué cambia en la gestión |
-|---|---|---|---|---|
-| **Regulador o autoridad** | Alto | Alta, por mandato | Variable | Relación preventiva, registro de contactos, vocería única. |
-| **Trabajadores y sindicatos** | Medio | Alta | A menudo alta | Diálogo formal y verificable; sin represalias. |
-| **Socios e inversionistas** | Alto | Alta | Media | Información simétrica; sin mensajes distintos por socio. |
-| **Medios y comunidad** | Variable | Variable | Alta | Respuesta factual y canal definido. |
-| **Clientes** | Medio | Alta | Variable | Reparación y comunicación directa. |
-
-**Asuntos corporativos y relaciones institucionales** son la función que sostiene la relación con autoridades, gremios y comunidades **antes** de que haya una crisis. Desde un cargo directivo implican: un responsable nombrado, un registro de reuniones y solicitudes, coherencia entre lo que se dice a la autoridad y al mercado, y una regla de **no gestionar a un regulador como si fuera un adversario**. La confianza institucional se construye en tiempos normales; en una investigación ya no hay tiempo de empezar.
-
-**Dos casos para razonar.** *Conflicto con una autoridad:* se recibe un requerimiento que la empresa cree desproporcionado. Opciones defendibles: cumplir y reservar observaciones, cumplir y solicitar aclaración formal, o impugnar por la vía correspondiente; en las tres se conserva la cooperación y se evita el mensaje público hostil. *Crisis de confianza entre socios:* uno sospecha que el otro ocultó información. Se separa lo verificable de lo supuesto, se pide una revisión independiente de los registros y se acuerda por escrito quién informa a quién y cuándo, antes de discutir culpas.
+Por eso la clase pide siempre una segunda pasada con una pregunta distinta: *¿a quién afecta esta decisión, aunque no pueda reclamar?* Es la pregunta amplia de Freeman, y complementa —no sustituye— la clasificación.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
+| Obra | Qué aporta a esta clase | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Freeman (1984/2010) | La definición amplia de interesado y el enfoque de gestión por relaciones. | No dice cómo priorizar. | ¿Quién queda en tu mapa solo por esta definición? |
+| Mitchell, Agle y Wood (1997) | Los tres atributos, las siete clases y su dinámica. | No juzga qué es justo atender. | ¿Qué hecho respalda cada atributo que asignaste? |
+| Tricker (2019) | El contexto del gobierno corporativo: ante quién rinde cuentas la empresa. | No es una guía de mapeo. | ¿Qué interesados tienen un cauce formal de reclamo? |
+| Yukl (2010) | Fuentes y uso del poder y la influencia en las organizaciones. | No clasifica interesados externos. | ¿De qué tipo es el poder del actor que clasificaste? |
+| Watkins (2003) | Construir alianzas y relaciones en una transición de cargo. | Trata del nuevo líder, no del mapa. | ¿A quién tendrías que escuchar primero en un cargo nuevo? |
 
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Chip Heath & Dan Heath — *Made to Stick* | diseño de mensajes memorables, concretos y accionables | ¿Qué supuesto de **mapa de stakeholders y poder** ayuda a desafiar? |
-| Robert B. Cialdini — *Influence* | mecanismos de influencia y sus límites éticos | ¿Qué supuesto de **mapa de stakeholders y poder** ayuda a desafiar? |
-| Barbara Minto — *The Pyramid Principle* | estructura piramidal para razonamiento y comunicación ejecutiva | ¿Qué supuesto de **mapa de stakeholders y poder** ayuda a desafiar? |
-| Dale Carnegie — *How to Win Friends and Influence People* | perspectiva de Comunicación aplicada al problema de la clase | ¿Qué supuesto de **mapa de stakeholders y poder** ayuda a desafiar? |
-| Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* | negociación basada en intereses, opciones y criterios objetivos | ¿Qué supuesto de **mapa de stakeholders y poder** ayuda a desafiar? |
-
-En **mapa de stakeholders y poder**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **stakeholder**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+Después de leer, escribe una discrepancia real entre dos fuentes y qué cambia en tu mapa por ella.
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Una transformación tecnológica consulta a ejecutivos y usuarios, pero omite al equipo de soporte que deberá operar el nuevo sistema 24/7 y termina bloqueando el go-live por riesgos no resueltos.
+**Situación (hipotética, para practicar).** *Distribuidora Andina* tiene una bodega en un barrio residencial. Los vecinos reclaman por el ruido de los camiones nocturnos. Debe decidir si amplía el turno de noche. Clasifiquemos seis actores con el método: asignar o no cada atributo y **escribir el hecho que lo respalda**.
 
-**Paso 1 — identificar afectados y decisores.** La gerencia escribe primero el supuesto asociado a **stakeholder** y evita convertirlo en hecho. Luego busca **stakeholders omitidos** para contrastarlo en el caso de **mapa de stakeholders y poder**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Actor | Poder | Legitimidad | Urgencia | Clase | Respaldo |
+|---|:-:|:-:|:-:|---|---|
+| Autoridad sanitaria municipal | Sí | Sí | No | Dominante | Puede sancionar y fiscalizar por ley; hoy no hay plazo abierto. |
+| Sindicato de choferes | Sí | Sí | Sí | **Definitivo** | Puede paralizar el reparto, tiene derecho a negociar y anunció un paro para el viernes. |
+| Vecinos de la bodega | No | Sí | Sí | Dependiente | Su reclamo por descanso es aceptado socialmente y ocurre cada noche; no pueden sancionar. |
+| Ex socio que amenaza con denunciar en medios | Sí | No | Sí | Peligroso | Puede dañar la reputación; su reclamo contractual ya fue resuelto; amenaza para esta semana. |
+| Proveedor de pallets con contrato vigente | No | Sí | No | Discrecional | Tiene contrato y reclamos válidos, sin presión ni plazo. |
+| Cuenta anónima que critica en redes | No | No | Sí | Demandante | Insiste a diario, sin respaldo de hechos ni capacidad de sanción. |
 
-**Paso 2 — mapear poder, interés y legitimidad.** La gerencia escribe primero el supuesto asociado a **poder** y evita convertirlo en hecho. Luego busca **decisiones bloqueadas tarde** para contrastarlo en el caso de **mapa de stakeholders y poder**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Primera lectura.** La atención inmediata es del sindicato (definitivo). Después, contener al ex socio con una conversación formal y asesoría legal, y proteger la voz de los vecinos, que no tienen poder pero sí un reclamo legítimo.
 
-**Paso 3 — entender objetivos y temores.** La gerencia escribe primero el supuesto asociado a **interés** y evita convertirlo en hecho. Luego busca **tiempo de aprobación** para contrastarlo en el caso de **mapa de stakeholders y poder**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**El mapa cambia.** La autoridad municipal recibe los reclamos de los vecinos y abre una fiscalización. Los vecinos, antes dependientes, **ganan poder por alianza** con la autoridad: pasan a definitivos. Si el mapa no se rehace, la empresa seguiría tratándolos como actores sin poder, y la decisión de ampliar el turno nocturno sería la más cara.
 
-**Paso 4 — definir engagement por segmento.** La gerencia escribe primero el supuesto asociado a **legitimidad** y evita convertirlo en hecho. Luego busca **conflictos por falta de consulta** para contrastarlo en el caso de **mapa de stakeholders y poder**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — actualizar mapa cuando cambien coaliciones.** La gerencia escribe primero el supuesto asociado a **estrategia de engagement** y evita convertirlo en hecho. Luego busca **confianza después de cambios** para contrastarlo en el caso de **mapa de stakeholders y poder**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **mapa de stakeholders y poder**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra el ejemplo.** (1) Cada celda necesita un hecho, no una impresión. (2) La clase determina la conducta. (3) El mapa tiene fecha: un evento externo reordena las prioridades sin que ningún actor haya cambiado en sí mismo.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **stakeholder** | persona o grupo afectado o con capacidad de afectar la decisión | Cuando stakeholders omitidos es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **poder** | capacidad de habilitar, bloquear o alterar recursos y legitimidad | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Frente a una matriz de dos ejes (poder × interés).** La matriz de dos ejes, de uso muy extendido, ordena rápido, pero no distingue si el poder está respaldado por un derecho, ni si el reclamo apremia, ni cómo cambia. Pierde justamente al dependiente y confunde al peligroso con el dominante. El modelo de tres atributos cuesta más y es más preciso.
 
-**Frontera de aplicación:** Un mapa de poder puede volverse cínico si reduce personas a obstáculos. La participación no debe depender solo de poder formal; quienes absorben riesgos o daños merecen consideración aunque tengan poca influencia.
+**Límites que debes declarar al presentar un mapa.**
+
+- Los atributos son **percepciones** de quien mapea; otra persona podría puntuar distinto. Registra quién lo evaluó y con qué evidencia.
+- El mapa es **fotografía**: pierde vigencia con el primer cambio relevante.
+- No decide qué es justo. Sirve para ordenar la atención y debe acompañarse de la pregunta sobre quién resulta afectado sin poder reclamar.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre mapa de stakeholders y poder |
+| Nivel | Cómo usa el mapa |
 |---|---|
-| **Profesional** | usa **mapa de stakeholders y poder** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **stakeholder** y **poder** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta stakeholders omitidos con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si mapa de stakeholders y poder cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de mapa de stakeholders y poder reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
+| **Profesional** | Antes de proponer un cambio, identifica quién lo implementa y quién lo sufre, y los consulta. |
+| **Jefe / Team Lead** | Mapea a quienes dependen de su equipo y a quienes su equipo necesita para entregar. |
+| **Gerente** | Gestiona el cauce con otras áreas, proveedores y clientes clave, con responsables y cadencia. |
+| **CEO / Director** | Decide la relación con autoridades, trabajadores, inversionistas y medios, y qué llega al directorio. |
+| **Founder / Owner** | Cuida a los socios, primeros clientes y reguladores; su legitimidad es su activo y la asimetría de información es su riesgo. |
 
-El cambio de nivel en **mapa de stakeholders y poder** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+El alcance crece, y con él el costo de dejar a un actor sin mapear.
 
 ## 🏢 Caso ejecutivo
 
-Una transformación tecnológica consulta a ejecutivos y usuarios, pero omite al equipo de soporte que deberá operar el nuevo sistema 24/7 y termina bloqueando el go-live por riesgos no resueltos.
+Una empresa de servicios prepara el cierre de una oficina regional. Ya se conoce la decisión en la gerencia general, pero no se ha comunicado. Los trabajadores de la oficina sospechan; el sindicato nacional pide una reunión; la autoridad laboral tiene una fiscalización pendiente en esa región; un medio local preguntó por rumores; los clientes de la zona dependen de esa oficina y no saben nada.
 
-Entrega un **decision brief de mapa de stakeholders y poder** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **mapa de interesados y legitimidad** que contenga: (a) los actores y su clasificación con el hecho que respalda cada atributo; (b) el orden de atención en las próximas 72 horas; (c) quién habla con cada actor, por qué cauce y con qué mensaje (el mismo hecho para todos); (d) a quién afecta la decisión sin que pueda reclamar y qué harás por ellos; (e) qué evento cambiaría el mapa y cuándo lo revisarás.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **mapa de stakeholders y poder** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. identificar afectados y decisores → 2. mapear poder, interés y legitimidad → 3. entender objetivos y temores → 4. definir engagement por segmento → 5. actualizar mapa cuando cambien coaliciones** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta stakeholders omitidos, decisiones bloqueadas tarde; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
-7. Mapea cinco interesados con poder, legitimidad y urgencia y define cuál relación institucional debe existir antes de una crisis.
+1. Rehace la lista de la recuperación inicial con el método: asigna cada atributo y escribe el hecho que lo respalda. ¿Cuántos actores cambiaron de lugar?
+2. Elige un actor que hoy sea dependiente en tu entorno. ¿Con quién podría aliarse para ganar poder? ¿Qué te conviene hacer antes de que ocurra?
+3. Identifica un actor que clasificaste como demandante. Escribe el hecho que lo ubica ahí y la conducta que seguirías para escucharlo sin reaccionar.
+4. Escribe la respuesta a esta pregunta: *¿quién resulta afectado por mi decisión y no puede reclamar?*
+5. Define un evento que obligaría a rehacer tu mapa y fija una fecha de revisión.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar stakeholder y poder como sinónimos | Se pierde la distinción entre “persona o grupo afectado o con capacidad de afectar la decisión” y “capacidad de habilitar, bloquear o alterar recursos y legitimidad” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “actualizar mapa cuando cambien coaliciones” | Se saltó “identificar afectados y decisores” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. identificar afectados y decisores → 2. mapear poder, interés y legitimidad → 3. entender objetivos y temores → 4. definir engagement por segmento → 5. actualizar mapa cuando cambien coaliciones y marca el primer supuesto no demostrado. |
-| Optimizar solo stakeholders omitidos | La métrica local sustituyó al resultado del sistema | Contrástala con decisiones bloqueadas tarde y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre mapa de stakeholders y poder | Un mapa de poder puede volverse cínico si reduce personas a obstáculos. La participación no debe depender solo de poder formal; quienes absorben riesgos o daños merecen consideración aunque tengan poca influencia. |
-| No fijar revisión | Una decisión sobre mapa de stakeholders y poder se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Asignar atributos por impresión | Se mapea de memoria o por simpatía | Exigir un hecho para cada atributo. |
+| Confundir poder con legitimidad | Quien puede imponer parece tener razón | Preguntar en qué contrato, norma o derecho se apoya el reclamo. |
+| Tratar la urgencia como importancia | El que grita parece más grave | Verificar el plazo y el daño crítico. |
+| Ignorar al dependiente | No tiene poder, así que no aparece en el mapa de poder | Reservar un espacio para quienes tienen reclamo legítimo sin voz. |
+| Dejar el mapa fijo | Se hizo una vez y se archivó | Fechar el mapa y rehacerlo ante cada evento. |
+| Usar el mapa como filtro moral | Se confunde atención con deber | Añadir la pregunta de Freeman: a quién afecta, aunque no pueda reclamar. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **stakeholder** y **poder** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **interés** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **identificar afectados y decisores → mapear poder, interés y legitimidad** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **stakeholders omitidos** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **mapa de stakeholders y poder**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Un mapa de poder puede volverse cínico si reduce personas a obstáculos. La participación no debe depender solo de poder formal; quienes absorben riesgos o daños merecen consideración aunque tengan poca influencia.**?
+1. ¿Cuáles son los tres atributos del modelo de Mitchell, Agle y Wood y qué distingue a un interesado latente de uno definitivo?
+2. Un grupo de vecinos tiene un reclamo legítimo y apremiante, pero ninguna capacidad de presión. ¿En qué clase cae y por qué es el más fácil de perder?
+3. Un actor amenaza con una acción dañina esta semana, y no tiene ningún derecho que lo respalde. ¿Qué clase es y qué conducta sugiere?
+4. ¿Por qué decimos que los atributos son «construidos socialmente»? Da un ejemplo en que la legitimidad cambie sin que el actor haga nada.
+5. ¿Qué diferencia práctica hay entre institucionalizar la relación con un dominante y atender de inmediato a un definitivo?
+6. ¿Qué limita el modelo y qué pregunta de Freeman lo complementa?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Poder, legitimidad y urgencia. El latente tiene uno solo; el definitivo tiene los tres.
+2. Dependiente. Se pierde porque no genera presión: necesita que otro actor lo respalde.
+3. Peligroso (poder + urgencia, sin legitimidad). Contener con diálogo formal antes de que actúe.
+4. Porque dependen de cómo otros perciben el sistema de normas. Ejemplo: una regulación nueva convierte en legítimo un reclamo que antes era solo una queja.
+5. Con el dominante se construye un cauce regular y sostenido; con el definitivo se actúa ya y se revisa con frecuencia.
+6. Describe a quién prestan atención los directivos, no a quién se le debe consideración. La pregunta de Freeman: quién puede afectar o ser afectado, aunque no pueda reclamar.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/034-mapa-de-stakeholders-y-poder/`:
 
-- `leadership-decision-brief.md` con el problema específico de **mapa de stakeholders y poder**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **mapa de stakeholders y poder** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **stakeholder**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Una transformación tecnológica consulta a ejecutivos y usuarios, pero omite al equipo de soporte que deberá operar el nuevo sistema 24/7 y termina bloqueando el go-live por riesgos no resueltos.** y el dato que podría invalidar la recomendación.
+- `stakeholder-legitimacy-map.md` (plantilla [mapa de interesados y legitimidad](../../../../templates/stakeholder-legitimacy-map.md)) con el caso ejecutivo resuelto;
+- `reading-note.md` con una discrepancia entre dos de las fuentes y su efecto en el mapa;
+- `decision-journal.md` con la fecha del mapa, quién evaluó cada atributo y el evento que obligaría a rehacerlo.
 
 ## 📗 Fuentes y verificación
 
-- Chip Heath & Dan Heath — *Made to Stick* (Penguin Random House, 2007). **Uso en esta clase:** diseño de mensajes memorables, concretos y accionables. Lectura selectiva sobre **mapa de stakeholders y poder**. **Localizador:** [ISBN-13 9781905211562](https://openlibrary.org/isbn/9781905211562).
-- Robert B. Cialdini — *Influence* (HarperCollins Publishers and Blackstone Audio, 2016). **Uso en esta clase:** mecanismos de influencia y sus límites éticos. Lectura selectiva sobre **mapa de stakeholders y poder**. **Localizador:** [ISBN-13 9781624608049](https://openlibrary.org/isbn/9781624608049).
-- Barbara Minto — *The Pyramid Principle* (Financial Times/ Prentice Hall, 2005). **Uso en esta clase:** estructura piramidal para razonamiento y comunicación ejecutiva. Lectura selectiva sobre **mapa de stakeholders y poder**. **Localizador:** [ISBN-13 9781405822145](https://openlibrary.org/isbn/9781405822145).
-- Dale Carnegie — *How to Win Friends and Influence People* (Min zhu yu jian she chu ban she, 2004). **Uso en esta clase:** perspectiva de Comunicación aplicada al problema de la clase. Lectura selectiva sobre **mapa de stakeholders y poder**. **Localizador:** [ISBN-13 9787801121820](https://openlibrary.org/isbn/9787801121820).
-- Roger Fisher, William Ury & Bruce Patton — *Getting to Yes* (Hutchinson, 1983). **Uso en esta clase:** negociación basada en intereses, opciones y criterios objetivos. Lectura selectiva sobre **mapa de stakeholders y poder**. **Localizador:** [ISBN-13 9780091493714](https://openlibrary.org/isbn/9780091493714).
-- Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* (Random House Audio, 1999). **Uso en esta clase:** perspectiva de Comunicación aplicada al problema de la clase. Lectura selectiva sobre **mapa de stakeholders y poder**. **Localizador:** [ISBN-13 9780553525687](https://openlibrary.org/isbn/9780553525687).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **mapa de stakeholders y poder** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **mapa de stakeholders y poder**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **mapa de stakeholders y poder** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **mapa de stakeholders y poder** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **mapa de stakeholders y poder** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- R. Edward Freeman — *Strategic Management: A Stakeholder Approach* (Cambridge University Press, 2010). **Uso en esta clase:** la definición amplia de interesado y la pregunta de a quién afecta la decisión. Lectura selectiva sobre **mapa de stakeholders y poder**. **Localizador:** [ISBN-13 9780521151740](https://openlibrary.org/isbn/9780521151740).
+- Ronald K. Mitchell, Bradley R. Agle & Donna J. Wood — *Toward a Theory of Stakeholder Identification and Salience: Defining the Principle of Who and What Really Counts* (Academy of Management Review, 1997). **Uso en esta clase:** los tres atributos, las siete clases y su dinámica, que organizan toda la clase. Lectura selectiva sobre **mapa de stakeholders y poder**. **Localizador:** [DOI 10.2307/259247](https://doi.org/10.2307/259247).
+- Bob Tricker — *Corporate Governance* (Oxford University Press, 2019). **Uso en esta clase:** ante quién rinde cuentas una empresa y por qué cauces se expresa cada interesado. Lectura selectiva sobre **mapa de stakeholders y poder**. **Localizador:** [ISBN-13 9780198809869](https://openlibrary.org/isbn/9780198809869).
+- Gary Yukl — *Leadership in Organizations* (Prentice Hall, 2010). **Uso en esta clase:** fuentes de poder e influencia y sus límites. Lectura selectiva sobre **mapa de stakeholders y poder**. **Localizador:** [ISBN-13 9780132424318](https://openlibrary.org/isbn/9780132424318).
+- Michael D. Watkins — *The First 90 Days* (Harvard Business School Press, 2003). **Uso en esta clase:** construir alianzas y relaciones al asumir una responsabilidad nueva. Lectura selectiva sobre **mapa de stakeholders y poder**. **Localizador:** [ISBN-13 9781591391104](https://openlibrary.org/isbn/9781591391104).
 
-> **Regla de fuentes para Mapa de stakeholders y poder:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **mapa de stakeholders y poder** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Mapa de stakeholders y poder:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente. El ejemplo de *Distribuidora Andina* es hipotético y no describe a ninguna empresa real. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

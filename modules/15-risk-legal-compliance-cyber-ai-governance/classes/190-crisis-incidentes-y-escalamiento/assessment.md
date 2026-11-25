@@ -4,31 +4,31 @@ Esta evaluación exige haber estudiado la clase y sus fuentes; respuestas genér
 
 ## A. Comprensión conceptual — 25 %
 
-1. Distingue **incident** de **crisis** y crea un ejemplo donde confundirlos cambie la acción gerencial.
-2. Explica **incident commander** a partir de su definición operacional y señala una observación que la refutaría.
-3. Relaciona **situation report** con **decision log**: ¿son causa, restricción, resultado o lentes distintos? Justifica.
+1. Distingue incidente de crisis y explica qué criterios sirven para declarar un incidente.
+2. Explica por qué el mando de un incidente no debería ser quien repara el sistema y qué roles se separan.
+3. Justifica el orden de las prioridades de las primeras horas y por qué preservar la evidencia precede a restablecer.
 
 ## B. Caso de decisión — 30 %
 
-**Caso:** A las 09:00 se filtran datos de clientes. Seguridad, legal y comunicaciones trabajan por separado; a las 13:00 tres ejecutivos entregan cifras distintas a prensa y clientes.
+**Caso:** Un proveedor de nube deja sin servicio por seis horas a clientes de una empresa de logística. Durante la falla, un investigador externo escribe diciendo haber accedido a datos de rutas y contactos de clientes. El director de operaciones quiere restablecer el servicio de inmediato; el jefe de seguridad pide preservar los registros.
 
 Construye dos alternativas plausibles. Para cada una indica beneficio esperado, costo de oportunidad, riesgo, reversibilidad y qué actor asume la consecuencia. Después recomienda una y declara qué nueva información cambiaría tu decisión.
 
 ## C. Método y evidencia — 30 %
 
-Aplica **detectar y clasificar → activar roles y war room → proteger personas y contener impacto → comunicar hechos y decisiones → recuperar investigar y aprender**. Debes utilizar o diseñar cómo obtener **time-to-escalate, MTTR, stakeholder update latency**. Entrega tabla hecho/alegación/fuente/verificación, quién investiga, medidas proporcionales, mensaje y fecha de revisión. Define composición, autoridad, matriz de responsabilidades y criterios de escalamiento del comité de crisis. Separa hechos, inferencias y supuestos; una métrica sin baseline o periodo no cuenta como evidencia suficiente.
+Entrega el acta del comité con criterios de declaración y de escalamiento, composición, mando y matriz de responsabilidades; resuelve la tensión entre restablecer y preservar; redacta el primer mensaje a clientes con lo que se sabe y lo que no; define a quién se consulta sobre las obligaciones legales y la fecha de la revisión sin culpas. Separa hechos, inferencias y supuestos.
 
 ## D. Fuentes, límites y red team — 15 %
 
-Contrasta dos referencias de la clase. Resume con tus palabras qué lente aporta cada una, identifica una tensión y explica cómo modifica tu recomendación. Luego responde al límite: **Centralizar crisis no significa que el CEO decida cada acción. Define incident command y delegación; reserva nivel ejecutivo para trade-offs, stakeholders y decisiones materiales.**
+Contrasta Beyer et al. con Coombs: qué aporta cada uno a las primeras horas, qué tensión hay y cómo cambia tu acta. Responde al límite: el marco nace de la ingeniería de software.
 
 ## Criterios de aprobación
 
 | Criterio | Peso | Evidencia esperada |
 |---|---:|---|
-| Precisión conceptual | 25 % | Distinciones correctas y observables; no definiciones memorizadas. |
-| Diagnóstico y evidencia | 30 % | Datos/señales pertinentes, baseline, alternativas causales y supuestos explícitos. |
+| Precisión conceptual | 25 % | Definiciones correctas, con la fuente y con un ejemplo propio. |
+| Diagnóstico y evidencia | 30 % | Cada afirmación del caso respaldada por un hecho y separada de la suposición. |
 | Decisión y trade-offs | 30 % | Dos opciones defendibles, costo de oportunidad, riesgo y condición de revisión. |
-| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento ejecutivo claro. |
+| Fuentes y comunicación | 15 % | Dos lecturas realmente utilizadas, trazabilidad y argumento claro. |
 
 **Aprobación sugerida:** 80/100 y ningún criterio bajo 60 %. Una respuesta que podría copiarse sin cambiar nada a otra clase se considera insuficiente.

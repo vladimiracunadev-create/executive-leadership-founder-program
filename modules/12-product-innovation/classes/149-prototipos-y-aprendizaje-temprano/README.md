@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 149: 1. formular pregunta de aprendizaje → 2. elegir incertidumbre dominante → 3. seleccionar fidelidad mínima → 4. observar conducta durante prueba → 5. registrar evidencia y decidir siguiente incremento](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. formular pregunta de aprendizaje → 2. elegir incertidumbre dominante → 3. seleccionar fidelidad mínima → 4. observar conducta durante prueba → 5. registrar evidencia y decidir siguiente incremento
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un prototipo sirve para aprender antes de incurrir en el costo completo de construcción. Su fidelidad debe ser la mínima necesaria para probar la pregunta específica: desirability, comprensión, flujo, factibilidad o integración. Confundir prototipo con producto lleva a sobreinvertir antes de resolver la incertidumbre principal.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Prototipos de baja fidelidad no responden bien preguntas de performance, seguridad o confianza visual. El tipo de prototipo debe corresponder al riesgo que se intenta reducir.**
 

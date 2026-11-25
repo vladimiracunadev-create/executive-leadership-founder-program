@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 037: 1. identificar momentos de alta reactividad → 2. registrar conducta e impacto → 3. comparar autoevaluación con feedback externo → 4. detectar patrones y fortalezas sobreutilizadas → 5. seleccionar una conducta para experimentar](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. identificar momentos de alta reactividad → 2. registrar conducta e impacto → 3. comparar autoevaluación con feedback externo → 4. detectar patrones y fortalezas sobreutilizadas → 5. seleccionar una conducta para experimentar
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La autoconciencia ejecutiva consiste en observar patrones propios de pensamiento, emoción e impacto antes de que otros paguen su costo. Incluye reconocer triggers, fortalezas sobreutilizadas, sesgos y diferencias entre intención e impacto. Se apoya en feedback, reflexión y datos conductuales, no solo en autoimagen.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La introspección puede convertirse en rumia. El objetivo es producir hipótesis de conducta y experimentos, no explicar infinitamente la personalidad.**
 

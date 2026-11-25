@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 252: 1. revisar customer y value evidence → 2. validar product ops y security → 3. confirmar pricing channel y support → 4. definir cohort y success-stop metrics → 5. decidir go limited-go o no-go](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. revisar customer y value evidence → 2. validar product ops y security → 3. confirmar pricing channel y support → 4. definir cohort y success-stop metrics → 5. decidir go limited-go o no-go
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Launch readiness no significa producto perfecto; significa que hipótesis críticas, operación, soporte, pricing, adquisición, seguridad y cash están suficientemente preparadas para aprender sin causar daño. El capstone obliga a declarar no-go conditions además de checklist de lanzamiento.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un checklist puede crear falsa seguridad. Prioriza riesgos que pueden dañar clientes, caja o reputación y limita rollout cuando incertidumbre sigue alta.**
 

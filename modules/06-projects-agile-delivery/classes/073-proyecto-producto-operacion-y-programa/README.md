@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 073: 1. clasificar naturaleza del trabajo → 2. definir horizonte y outcome → 3. seleccionar funding y governance → 4. diseñar transición a operación o producto → 5. revisar si la categoría sigue siendo válida](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. clasificar naturaleza del trabajo → 2. definir horizonte y outcome → 3. seleccionar funding y governance → 4. diseñar transición a operación o producto → 5. revisar si la categoría sigue siendo válida
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Proyecto, producto, operación y programa son sistemas de trabajo distintos. Un proyecto busca un resultado temporal; un producto gestiona valor durante su ciclo de vida; una operación sostiene capacidad recurrente; un programa coordina componentes relacionados. Usar gobierno de proyecto para todo produce handoffs y fechas que ignoran aprendizaje o continuidad.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Las categorías pueden coexistir: un producto puede contener proyectos y operar servicios. La clave es no confundir el mecanismo de entrega con el objeto de gestión.**
 

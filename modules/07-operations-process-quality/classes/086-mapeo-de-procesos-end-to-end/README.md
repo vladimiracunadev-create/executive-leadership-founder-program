@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 086: 1. definir inicio, fin y cliente → 2. recorrer casos reales → 3. registrar pasos, handoffs y tiempos → 4. marcar rework y decisiones → 5. calcular lead time versus touch time](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir inicio, fin y cliente → 2. recorrer casos reales → 3. registrar pasos, handoffs y tiempos → 4. marcar rework y decisiones → 5. calcular lead time versus touch time
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Mapear procesos end-to-end sigue el resultado desde la demanda del cliente hasta su cierre, atravesando silos. El mapa debe mostrar handoffs, esperas, decisiones, rework y sistemas, porque la mayoría de demoras vive entre funciones más que dentro de una tarea individual.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un mapa detallado no cambia nada por sí mismo. Debe terminar en hipótesis de mejora y owner; evita documentar cada excepción antes de entender el flujo dominante.**
 

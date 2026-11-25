@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 197: 1. auditar calendario y decisiones → 2. definir categorías de alto apalancamiento → 3. eliminar o delegar status → 4. bloquear pensamiento y stakeholders → 5. revisar mensualmente agenda versus estrategia](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. auditar calendario y decisiones → 2. definir categorías de alto apalancamiento → 3. eliminar o delegar status → 4. bloquear pensamiento y stakeholders → 5. revisar mensualmente agenda versus estrategia
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El tiempo del CEO revela su estrategia real. Gestionar agenda implica reservar atención para decisiones de alto apalancamiento, talento, clientes, capital y aprendizaje, evitando que urgencias y reuniones de status absorban el recurso más escaso de la empresa.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una agenda rígida falla en crisis y transiciones. Protege bloques estructurales, pero conserva capacidad de reordenar atención cuando cambia el riesgo o la oportunidad.**
 

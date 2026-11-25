@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 116: 1. clasificar costos por comportamiento → 2. calcular contribución unitaria → 3. obtener break-even → 4. hacer sensibilidad de precio-volumen-costo → 5. comparar capacidad y rango relevante](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. clasificar costos por comportamiento → 2. calcular contribución unitaria → 3. obtener break-even → 4. hacer sensibilidad de precio-volumen-costo → 5. comparar capacidad y rango relevante
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Costos fijos, variables y break-even permiten entender cuántas unidades o cuánto revenue se necesitan para cubrir estructura. El análisis depende del rango relevante y del margen de contribución; también permite calcular margen de seguridad y sensibilidad a precio o mix.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La clasificación fija/variable cambia con horizonte y escala. Un contrato anual puede ser fijo este mes y evitable el próximo año; modela según la decisión concreta.**
 

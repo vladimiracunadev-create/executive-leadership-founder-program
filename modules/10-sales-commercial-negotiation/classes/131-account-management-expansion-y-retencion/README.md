@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 131: 1. definir outcomes post-venta → 2. medir adopción y valor → 3. mapear stakeholders y riesgos → 4. hacer executive reviews → 5. expandir desde problemas nuevos y éxito demostrado](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir outcomes post-venta → 2. medir adopción y valor → 3. mapear stakeholders y riesgos → 4. hacer executive reviews → 5. expandir desde problemas nuevos y éxito demostrado
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Account management protege valor después de la venta y busca expansión cuando el cliente logra outcomes. Retención, adopción, relación ejecutiva y riesgo deben preceder al upsell. Una cuenta grande no es sana si depende de un único champion o de descuentos crecientes.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Expansion sin valor realizado puede parecer venta oportunista y aumentar churn. También controla concentración: crecer demasiado en una cuenta puede elevar riesgo de cartera.**
 

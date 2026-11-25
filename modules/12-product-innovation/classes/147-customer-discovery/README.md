@@ -48,18 +48,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 147: 1. definir hipótesis y segmento → 2. reclutar muestra relevante → 3. preguntar por episodios pasados y conducta → 4. capturar patrones y contradicciones → 5. sintetizar evidencia y decidir siguiente experimento](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir hipótesis y segmento → 2. reclutar muestra relevante → 3. preguntar por episodios pasados y conducta → 4. capturar patrones y contradicciones → 5. sintetizar evidencia y decidir siguiente experimento
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Customer discovery reduce riesgo antes de construir al investigar clientes, contexto, comportamiento actual, alternativas y disposición a cambiar. No busca que el entrevistado valide una idea; busca evidencia sobre cómo vive hoy el problema y qué costos asume para resolverlo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Discovery no produce verdad estadística por sí solo. Entrevistas pequeñas sirven para descubrir mecanismos e hipótesis; la prevalencia y tamaño de mercado requieren triangulación cuantitativa.**
 

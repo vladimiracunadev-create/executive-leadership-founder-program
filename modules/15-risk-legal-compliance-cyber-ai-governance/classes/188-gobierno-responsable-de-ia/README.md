@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 188: 1. inventariar casos de IA → 2. clasificar impacto y contexto → 3. definir evaluación y guardrails → 4. asignar accountability y human oversight → 5. monitorizar drift incidentes y cambios](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. inventariar casos de IA → 2. clasificar impacto y contexto → 3. definir evaluación y guardrails → 4. asignar accountability y human oversight → 5. monitorizar drift incidentes y cambios
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Gobernanza responsable de IA aborda valor, riesgo, accountability, datos, evaluación, supervisión humana y monitoreo a lo largo del ciclo de vida. NIST AI RMF organiza Govern, Map, Measure y Manage; el desafío ejecutivo es decidir dónde IA es apropiada y bajo qué controles.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo uso de IA requiere el mismo control. Ajusta rigor a impacto y reversibilidad, pero no trates una herramienta de bajo costo como excusa para ignorar privacidad, discriminación o seguridad.**
 

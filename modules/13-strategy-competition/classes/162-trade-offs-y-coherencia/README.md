@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 162: 1. declarar posición deseada → 2. listar actividades necesarias → 3. identificar incompatibilidades → 4. mapear refuerzos y dependencias → 5. eliminar iniciativas que erosionan fit](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. declarar posición deseada → 2. listar actividades necesarias → 3. identificar incompatibilidades → 4. mapear refuerzos y dependencias → 5. eliminar iniciativas que erosionan fit
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Los trade-offs protegen una posición al obligar a elegir qué no hacer. El fit estratégico aparece cuando actividades se refuerzan mutuamente, haciendo más difícil copiar una sola pieza. Decir sí a todos los segmentos, canales y features suele destruir coherencia y economía.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Trade-offs excesivos pueden impedir experimentación o atender cambios del mercado. La coherencia debe revisarse cuando la hipótesis estratégica cambia, no protegerse por identidad.**
 

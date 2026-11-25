@@ -5,30 +5,27 @@ duration_minutes: 150
 level: "Etapa 5 — Director → CEO"
 outcome: "pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir CEO narrative de message architecture mediante evidencia observable."
-  - "Aplicar la secuencia: definir objetivo y audiencia → estructurar situación elección evidencia → anticipar preguntas y objeciones → alinear mensajes entre canales → cerrar con acción y seguimiento."
-  - "Interpretar message recall, employee understanding, investor questions sin atribuir causalidad automática."
-  - "Resolver el caso de comunicación del CEO con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-  - "Preparar un manual de vocería, responder preguntas difíciles sin ocultar incertidumbre y planificar el reemplazo de un vocero."
-deliverable: "board-or-executive-memo.md"
+  - "Estructurar un mensaje ejecutivo con lo que se sabe, lo que no se sabe, lo que se hace y cuándo habrá novedades."
+  - "Clasificar una situación según la responsabilidad que el público atribuye y elegir la postura de respuesta que le corresponde."
+  - "Decidir entre mantener, aclarar o retractarse tras una declaración controvertida, según si fue inexacta, mal expresada o correcta pero discutida."
+  - "Responder una pregunta difícil separando hecho, límite de la información y compromiso."
+  - "Preparar un manual de vocería y el traspaso cuando el vocero se va."
+  - "Reconocer errores y límites de la información sin ocultar hechos relevantes."
+deliverable: "executive-spokesperson-manual.md"
 references:
-  - "Ben Horowitz — *The Hard Thing About Hard Things*"
-  - "Matt Mochary — *The Great CEO Within*"
-  - "Peter F. Drucker — *Management: Tasks, Responsibilities, Practices*"
-  - "Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline*"
+  - "W. Timothy Coombs — *Protecting Organization Reputations During a Crisis: The Development and Application of Situational Crisis Communication Theory*"
+  - "Peter H. Kim, Donald L. Ferrin, Cecily D. Cooper & Kurt T. Dirks — *Removing the Shadow of Suspicion: The Effects of Apology Versus Denial for Repairing Competence- Versus Integrity-Based Trust Violations*"
+  - "Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations*"
   - "Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership*"
-  - "Larry Bossidy & Ram Charan — *Execution*"
+  - "Roger C. Mayer, James H. Davis & F. David Schoorman — *An Integrative Model of Organizational Trust*"
 limits:
-  - "No conviertas comunicación en spin. La reputación de largo plazo depende de no prometer aquello que los hechos o decisiones internas contradicen."
+  - "La teoría situacional se apoya en estudios experimentales y de casos y en percepciones que varían entre culturas. La disculpa tiene consecuencias legales según la jurisdicción, pero el asesor legal no decide el mensaje por el CEO. Ninguna técnica salva un mensaje que los hechos internos contradicen."
 evidence_signals:
-  - "message recall"
-  - "employee understanding"
-  - "investor questions"
-  - "trust"
-  - "commitment follow-through"
-  - "spokesperson readiness"
-  - "correction timeliness"
+  - "coincidencia entre mensaje externo y hechos internos"
+  - "hora en que se supo y en que se comunicó cada hecho"
+  - "tiempo de corrección de un dato erróneo"
+  - "vocero provisional entrenado"

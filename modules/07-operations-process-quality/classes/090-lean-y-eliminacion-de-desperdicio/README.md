@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 090: 1. definir valor desde cliente → 2. mapear value stream → 3. identificar espera, defectos y exceso → 4. reducir lotes y crear pull → 5. estandarizar mejora y repetir](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir valor desde cliente → 2. mapear value stream → 3. identificar espera, defectos y exceso → 4. reducir lotes y crear pull → 5. estandarizar mejora y repetir
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Lean entiende desperdicio como consumo de recursos que no crea valor para el cliente y puede reducirse sin dañar seguridad o calidad. Mejora flujo, calidad en origen y aprendizaje continuo. El objetivo no es recortar personas sino eliminar trabajo inútil y usar capacidad liberada para más valor.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Lean no es austeridad. Eliminar capacidad protectora sin comprender variabilidad puede hacer el sistema frágil; seguridad y calidad no son desperdicio.**
 

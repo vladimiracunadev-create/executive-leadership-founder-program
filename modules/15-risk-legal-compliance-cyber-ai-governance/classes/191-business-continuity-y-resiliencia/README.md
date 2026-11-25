@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 191: 1. realizar BIA → 2. priorizar servicios y dependencias → 3. definir RTO y RPO → 4. diseñar estrategias y planes → 5. ejercitar medir brechas y mejorar](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. realizar BIA → 2. priorizar servicios y dependencias → 3. definir RTO y RPO → 4. diseñar estrategias y planes → 5. ejercitar medir brechas y mejorar
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Business continuity busca mantener o recuperar actividades críticas dentro de objetivos de tiempo y pérdida aceptables. BIA, RTO, RPO, estrategias de continuidad y ejercicios conectan dependencia operativa con inversiones de resiliencia.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **RTO y RPO no deben inventarse por tecnología; derivan de impacto del negocio. Una continuidad demasiado costosa puede ser irracional para procesos no críticos.**
 

@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 257: 1. mapear transacciones y documentos → 2. configurar emisión y recepción → 3. reconciliar ventas compras y caja → 4. revisar tratamiento IVA con contador → 5. cerrar periodo y conservar soporte](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mapear transacciones y documentos → 2. configurar emisión y recepción → 3. reconciliar ventas compras y caja → 4. revisar tratamiento IVA con contador → 5. cerrar periodo y conservar soporte
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Documentos tributarios, IVA y registros forman parte del sistema de evidencia y cumplimiento de una empresa. El gerente debe saber qué evento genera documento, cómo se reconcilia con ventas y compras y qué excepciones requieren revisión, sin intentar memorizar tasas o formularios cambiantes.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El tratamiento de IVA depende del hecho y norma vigente. No uses esta clase para determinar un impuesto específico sin revisar SII y asesoría contable.**
 

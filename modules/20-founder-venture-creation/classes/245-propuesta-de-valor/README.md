@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 245: 1. priorizar job o pain → 2. mapear alternativas actuales → 3. diseñar beneficio y mecanismo → 4. probar mensaje y proof → 5. cuantificar value y trade-offs](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. priorizar job o pain → 2. mapear alternativas actuales → 3. diseñar beneficio y mecanismo → 4. probar mensaje y proof → 5. cuantificar value y trade-offs
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La propuesta de valor conecta un segmento y job o problem con beneficios diferenciados, evidencia y razones para elegir frente a alternativas. Debe poder demostrarse en lenguaje del cliente y en economics; slogans como simple e innovador no constituyen propuesta.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una promesa demasiado agresiva puede crear riesgo reputacional o legal. No cuantifiques beneficios sin evidencia y explicita condiciones de aplicación.**
 

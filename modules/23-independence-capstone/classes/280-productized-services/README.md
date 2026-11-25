@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 280: 1. identificar servicio repetido → 2. definir ICP y outcome → 3. estandarizar scope y process → 4. fijar price y capacity → 5. medir margin y exceptions](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. identificar servicio repetido → 2. definir ICP y outcome → 3. estandarizar scope y process → 4. fijar price y capacity → 5. medir margin y exceptions
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Productized service estandariza un servicio alrededor de cliente, alcance, proceso, precio y entrega repetible. Reduce variabilidad comercial y dependencia de custom proposals, pero requiere suficiente patrón de demanda y un sistema de exceptions.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Estandarizar un problema complejo puede reducir calidad si clientes difieren demasiado. Mantén qualification fuerte y rechaza casos fuera del envelope.**
 

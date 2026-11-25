@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 220: 1. proyectar drivers operativos → 2. convertir beneficio a FCF → 3. estimar discount rate → 4. calcular terminal value → 5. hacer sensibilidad y sanity checks](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. proyectar drivers operativos → 2. convertir beneficio a FCF → 3. estimar discount rate → 4. calcular terminal value → 5. hacer sensibilidad y sanity checks
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Valoración por DCF convierte flujos libres futuros en valor presente mediante una tasa consistente con su riesgo. La mayor parte del valor suele depender de pocos supuestos —crecimiento, margen, reinversión, WACC y terminal—, por lo que sensibilidad y coherencia económica son centrales.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **DCF no crea información que no existe. Para startups o negocios en transición, escenarios y unit economics pueden ser más informativos que un punto de valoración.**
 

@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 039: 1. escuchar contexto antes de concluir → 2. validar experiencia sin confirmar toda interpretación → 3. reafirmar estándar y propósito → 4. co-diseñar apoyo proporcional → 5. seguir desempeño y ajustar](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. escuchar contexto antes de concluir → 2. validar experiencia sin confirmar toda interpretación → 3. reafirmar estándar y propósito → 4. co-diseñar apoyo proporcional → 5. seguir desempeño y ajustar
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Empatía ejecutiva es comprender experiencia y perspectiva ajenas sin abandonar estándares ni responsabilidad. Diferencia empatía de acuerdo y de indulgencia. Un líder puede reconocer una dificultad, adaptar apoyo y seguir exigiendo un resultado explícito.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **La empatía sin límites puede producir inequidad y dependencia; la exigencia sin comprensión puede perder talento y humanidad. La solución requiere criterios transparentes y ajustes temporales proporcionales.**
 

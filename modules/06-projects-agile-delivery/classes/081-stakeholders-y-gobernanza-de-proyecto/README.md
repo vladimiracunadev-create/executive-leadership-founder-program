@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 081: 1. mapear decisiones críticas → 2. asignar sponsor y autoridades → 3. definir tolerancias de costo, alcance y tiempo → 4. establecer foros y pre-reads → 5. escalar solo excepciones](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mapear decisiones críticas → 2. asignar sponsor y autoridades → 3. definir tolerancias de costo, alcance y tiempo → 4. establecer foros y pre-reads → 5. escalar solo excepciones
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La gobernanza de proyecto define quién decide alcance, presupuesto, riesgos y excepciones. Stakeholders no necesitan el mismo nivel de participación; el diseño debe reservar decisiones a roles legítimos y crear escalamiento antes de que el proyecto dependa de influencia informal.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Governance excesivo ralentiza decisiones y transfiere responsabilidad al comité. Diseña niveles proporcionales al tamaño, riesgo e irreversibilidad.**
 

@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 050: 1. formular propósito externo → 2. definir 3–5 outcomes y métricas → 3. asignar roles y derechos de decisión → 4. acordar normas observables → 5. revisar charter después de 30–60 días](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. formular propósito externo → 2. definir 3–5 outcomes y métricas → 3. asignar roles y derechos de decisión → 4. acordar normas observables → 5. revisar charter después de 30–60 días
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un team charter convierte propósito, objetivos, roles, normas y derechos de decisión en acuerdos visibles. Su valor no está en el documento inicial, sino en reducir ambigüedad cuando llega presión. Un charter debe ser corto, observable y revisable después de cambios relevantes en misión o composición.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un charter excesivamente detallado se vuelve burocracia y envejece rápido. Documenta las ambigüedades que generan costo, no cada comportamiento imaginable.**
 

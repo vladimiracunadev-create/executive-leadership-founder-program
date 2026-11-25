@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 282: 1. definir recurring job → 2. modelar pricing y unit economics → 3. construir minimal reliable service → 4. medir cohort retention → 5. optimizar acquisition y expansion después de fit](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir recurring job → 2. modelar pricing y unit economics → 3. construir minimal reliable service → 4. medir cohort retention → 5. optimizar acquisition y expansion después de fit
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **SaaS convierte software en servicio recurrente, pero la recurrencia depende de valor continuo, retención, soporte y economics. MRR no es suficiente: churn, gross margin, CAC payback, expansion y reliability determinan calidad del modelo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No todo problema necesita suscripción. Si uso es episódico, pricing recurrente puede crear churn y desconfianza; el modelo debe seguir valor entregado.**
 

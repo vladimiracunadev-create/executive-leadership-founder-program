@@ -69,7 +69,7 @@ Las clases **142 a 144** definen cómo se mantiene y crece: retención, loops de
 | 134 | [Investigación de mercado](classes/134-investigacion-de-mercado/README.md) | secondary research, qualitative research, quantitative research | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
 | 135 | [Segmentación y cliente ideal](classes/135-segmentacion-y-cliente-ideal/README.md) | segmentation, needs-based segment, behavioral segment | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
 | 136 | [Posicionamiento](classes/136-posicionamiento/README.md) | competitive alternative, unique attribute, value | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
-| 137 | [Marca y señales de confianza](classes/137-marca-y-senales-de-confianza/README.md) | brand, distinctive asset, trust signal | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
+| 137 | [Marca y señales de confianza](classes/137-marca-y-senales-de-confianza/README.md) | Confianza, Capacidad, Benevolencia | [trust-repair-plan](../../templates/trust-repair-plan.md) | 150 |
 | 138 | [Customer journey](classes/138-customer-journey/README.md) | journey, touchpoint, moment of truth | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
 | 139 | [Canales y distribución](classes/139-canales-y-distribucion/README.md) | channel, direct channel, partner channel | [commercial-decision-brief](../../templates/commercial-decision-brief.md) | 150 |
 | 140 | [Adquisición digital y contenido](classes/140-adquisicion-digital-y-contenido/README.md) | intent, organic acquisition, paid acquisition | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
@@ -87,17 +87,17 @@ Las clases **142 a 144** definen cómo se mantiene y crece: retención, loops de
 
 ## 🔤 Glosario de la parte
 
-60 conceptos definidos en las clases, con la definición operacional que usa cada una.
+62 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
 | **attribution** | regla para asignar crédito de una conversión a interacciones. |
 | **beachhead** | segmento inicial elegido para concentrar aprendizaje y distribución. |
 | **behavioral segment** | grupo definido por comportamiento observable. |
+| **Benevolencia** | Medida en que se cree que la otra parte quiere hacer el bien al que confía, aparte de un motivo de beneficio propio (Mayer et al., 1995). |
 | **bias** | distorsión sistemática introducida por pregunta, muestra o análisis. |
 | **bottleneck** | etapa cuya mejora tiene mayor efecto sobre outcome. |
-| **brand** | conjunto de asociaciones y expectativas ligadas a una oferta u organización. |
-| **brand promise** | expectativa explícita o implícita que la experiencia debe sostener. |
+| **Capacidad** | Habilidades, competencias y características que permiten a una parte tener influencia en un dominio específico (Mayer et al., 1995). |
 | **category** | marco mental usado para agrupar soluciones comparables. |
 | **category creation** | esfuerzo por instalar un nuevo marco competitivo. |
 | **channel** | medio por el que se alcanza, vende o entrega a un cliente. |
@@ -105,13 +105,13 @@ Las clases **142 a 144** definen cómo se mantiene y crece: retención, loops de
 | **churn** | pérdida de clientes o revenue. |
 | **cohort** | grupo comparable por fecha o característica. |
 | **competitive alternative** | qué usaría el cliente si tu solución no existiera. |
+| **Confianza** | Estado psicológico que incluye la intención de aceptar vulnerabilidad basada en expectativas positivas sobre la conducta de otro (Rousseau et al., 1998); en Mayer et al. (1995), disposición a ser vulnerable ante las acciones de otro sin poder vigilarlo ni controlarlo. |
 | **content asset** | pieza diseñada para informar, atraer o convertir. |
 | **content loop** | contenido generado o financiado por uso que atrae nueva demanda. |
 | **conversion rate** | porcentaje que avanza entre etapas. |
 | **customer success** | función/práctica que ayuda al cliente a alcanzar outcomes. |
 | **demand** | cantidad de compra posible a distintos precios y condiciones. |
 | **direct channel** | relación comercial controlada directamente. |
-| **distinctive asset** | señal reconocible que facilita memoria sin depender del nombre. |
 | **distribution advantage** | capacidad difícil de replicar para llegar al mercado. |
 | **drop-off** | pérdida entre dos etapas. |
 | **experiment** | prueba con hipótesis, métrica y comparación. |
@@ -123,6 +123,7 @@ Las clases **142 a 144** definen cómo se mantiene y crece: retención, loops de
 | **handoff** | transferencia interna que puede hacerse visible como ruptura externa. |
 | **ideal customer** | cliente cuyo fit y economía son especialmente atractivos. |
 | **incrementality** | crecimiento causado por intervención más allá de lo que habría ocurrido. |
+| **Integridad** | Percepción de que la otra parte se rige por principios que el que confía considera aceptables (Mayer et al., 1995). |
 | **intent** | señal de que una persona está explorando o acercándose a compra. |
 | **journey** | secuencia de interacciones y tareas desde perspectiva del cliente. |
 | **market** | conjunto de compradores, problemas y alternativas con intercambio potencial. |
@@ -134,22 +135,23 @@ Las clases **142 a 144** definen cómo se mantiene y crece: retención, loops de
 | **organic acquisition** | demanda obtenida sin pago directo por cada click o impresión. |
 | **paid acquisition** | demanda comprada mediante medios pagados. |
 | **partner channel** | intermediario que aporta alcance o capacidad. |
+| **Propensión a confiar** | Rasgo de quien confía: su tendencia general a hacerlo. |
 | **qualitative research** | entrevistas u observación para explorar significados y mecanismos. |
 | **quantitative research** | medición estructurada para estimar prevalencia o relaciones. |
 | **retention** | proporción de clientes o revenue que permanece. |
 | **sales motion** | forma de vender, desde self-service a enterprise. |
-| **salience** | probabilidad de que una marca venga a mente en una situación de compra. |
 | **sample** | muestra seleccionada de una población. |
 | **secondary research** | datos ya existentes de fuentes públicas o privadas. |
 | **segmentation** | división de mercado en grupos accionables con respuesta distinta. |
 | **serviceability** | capacidad real de alcanzar y servir un segmento. |
+| **Señal de confianza** | Evidencia observable de que la promesa se cumple. Criterio de la clase: es creíble si es verificable por un tercero, costosa de fingir y sostenida en el tiempo. |
 | **substitute** | alternativa que resuelve el mismo job de modo diferente. |
 | **target segment** | grupo para el que ese valor es especialmente importante. |
 | **time-to-value** | tiempo hasta obtener primer valor significativo. |
 | **touchpoint** | punto de interacción con organización o ecosistema. |
-| **trust signal** | evidencia que reduce riesgo percibido. |
 | **unique attribute** | capacidad difícil de encontrar en alternativas. |
 | **value** | beneficio que el atributo habilita para el cliente. |
+| **Violación de confianza** | Hecho que contradice la expectativa. Puede ser de **competencia** (se equivocó) o de **integridad** (se duda de su honestidad) (Kim et al., 2004). |
 | **viral loop** | crecimiento impulsado por exposición o invitación entre usuarios. |
 
 ## 📦 Qué queda como evidencia

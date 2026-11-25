@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 214: 1. definir expectativas ex ante → 2. equilibrar outcomes y behaviors → 3. reunir evidencia y contexto → 4. discutir en sesión independiente → 5. dar feedback compensation y development actions](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir expectativas ex ante → 2. equilibrar outcomes y behaviors → 3. reunir evidencia y contexto → 4. discutir en sesión independiente → 5. dar feedback compensation y development actions
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Evaluar al CEO conecta estrategia, resultados, liderazgo, sucesión y conducta. El board debe acordar expectativas antes del periodo, combinar indicadores cuantitativos y cualitativos, recoger evidencia y distinguir resultados externos de decisiones bajo control.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Evita cambiar criterios retroactivamente para justificar una opinión. La evaluación requiere juicio, pero debe estar anclada en objetivos, contexto y evidencia acordados.**
 

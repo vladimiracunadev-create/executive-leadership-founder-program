@@ -48,18 +48,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 213: 1. alinear risk appetite con estrategia → 2. seleccionar top risks y scenarios → 3. identificar critical controls → 4. obtener assurance independiente → 5. seguir breaches y remediation](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. alinear risk appetite con estrategia → 2. seleccionar top risks y scenarios → 3. identificar critical controls → 4. obtener assurance independiente → 5. seguir breaches y remediation
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Supervisar riesgo y controles significa comprender top risks, apetito, exposición residual, controles críticos y assurance. El board necesita tendencias y escenarios, no una lista exhaustiva; también debe verificar que cultura e incentivos no contradigan el framework.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El board no puede garantizar ausencia de fallas. Su estándar es supervisión razonable y evidencia de governance, no certificar controles técnicos individuales.**
 

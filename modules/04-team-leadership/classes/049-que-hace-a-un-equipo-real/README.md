@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 049: 1. definir resultado común → 2. mapear interdependencias reales → 3. decidir qué trabajo requiere coordinación colectiva → 4. establecer normas y decisiones de equipo → 5. medir outcome común además de outputs individuales](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir resultado común → 2. mapear interdependencias reales → 3. decidir qué trabajo requiere coordinación colectiva → 4. establecer normas y decisiones de equipo → 5. medir outcome común además de outputs individuales
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Un equipo real no es un conjunto de personas que reportan al mismo jefe. Existe cuando hay un propósito común, resultados interdependientes, normas de coordinación y accountability mutuo. La interdependencia cambia el diseño: si cada persona puede ganar sin colaborar, probablemente tienes un grupo de trabajo, no un equipo.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Crear equipo donde no hay interdependencia puede agregar reuniones y conflicto sin valor. Algunas tareas funcionan mejor como grupo coordinado o comunidad de práctica.**
 

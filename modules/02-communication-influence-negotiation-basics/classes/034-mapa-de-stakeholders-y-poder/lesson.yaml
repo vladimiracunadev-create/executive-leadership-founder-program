@@ -5,30 +5,26 @@ duration_minutes: 150
 level: "Etapa 1 — Profesional → Líder"
 outcome: "convertir comunicación, influencia y negociación en sistemas de decisión y relación"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir stakeholder de poder mediante evidencia observable."
-  - "Aplicar la secuencia: identificar afectados y decisores → mapear poder, interés y legitimidad → entender objetivos y temores → definir engagement por segmento → actualizar mapa cuando cambien coaliciones."
-  - "Interpretar stakeholders omitidos, decisiones bloqueadas tarde, tiempo de aprobación sin atribuir causalidad automática."
-  - "Resolver el caso de mapa de stakeholders y poder con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-  - "Evaluar poder, legitimidad y urgencia de cada interesado y diseñar la relación institucional previa a una crisis."
-deliverable: "leadership-decision-brief.md"
+  - "Definir interesado, poder, legitimidad, urgencia y prominencia con las palabras de la teoría."
+  - "Clasificar a un actor en una de las siete clases del modelo, justificando cada atributo con un hecho observable."
+  - "Explicar por qué un actor cambia de clase cuando cambia uno de sus atributos y anticipar ese cambio."
+  - "Traducir la clase a una conducta de relación: monitorear, institucionalizar, dialogar, proteger la voz o atender de inmediato."
+  - "Reconocer el límite del modelo: describe a quién prestan atención los directivos, no a quién se le debe consideración."
+deliverable: "stakeholder-legitimacy-map.md"
 references:
-  - "Chip Heath & Dan Heath — *Made to Stick*"
-  - "Robert B. Cialdini — *Influence*"
-  - "Barbara Minto — *The Pyramid Principle*"
-  - "Dale Carnegie — *How to Win Friends and Influence People*"
-  - "Roger Fisher, William Ury & Bruce Patton — *Getting to Yes*"
-  - "Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations*"
+  - "R. Edward Freeman — *Strategic Management: A Stakeholder Approach*"
+  - "Ronald K. Mitchell, Bradley R. Agle & Donna J. Wood — *Toward a Theory of Stakeholder Identification and Salience: Defining the Principle of Who and What Really Counts*"
+  - "Bob Tricker — *Corporate Governance*"
+  - "Gary Yukl — *Leadership in Organizations*"
+  - "Michael D. Watkins — *The First 90 Days*"
 limits:
-  - "Un mapa de poder puede volverse cínico si reduce personas a obstáculos. La participación no debe depender solo de poder formal; quienes absorben riesgos o daños merecen consideración aunque tengan poca influencia."
+  - "El modelo describe la prominencia percibida por los directivos; no decide a quién se le debe consideración. Los atributos son percepciones de quien mapea y el mapa pierde vigencia con el primer cambio relevante."
 evidence_signals:
-  - "stakeholders omitidos"
-  - "decisiones bloqueadas tarde"
-  - "tiempo de aprobación"
-  - "conflictos por falta de consulta"
-  - "confianza después de cambios"
-  - "legitimacy assessment"
-  - "regulator contact log"
+  - "hecho que respalda cada atributo"
+  - "clase asignada y fecha del mapa"
+  - "evento que obligaría a rehacerlo"
+  - "afectados que no pueden reclamar"

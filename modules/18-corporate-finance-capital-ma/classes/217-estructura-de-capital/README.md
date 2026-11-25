@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 217: 1. modelar cash flows y downside → 2. estimar debt capacity → 3. comparar costo y control → 4. stress-test covenants y liquidez → 5. definir rango objetivo y contingencias](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. modelar cash flows y downside → 2. estimar debt capacity → 3. comparar costo y control → 4. stress-test covenants y liquidez → 5. definir rango objetivo y contingencias
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La estructura de capital combina deuda, equity y otras fuentes para financiar activos y crecimiento. La elección afecta costo, flexibilidad, control, impuestos, covenant risk y resiliencia; no existe un ratio óptimo universal separado del riesgo operativo y ciclo de caja.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Ratios sectoriales son referencia, no respuesta. Deuda tolerable depende de volatilidad, activos, moneda, vencimientos, regulación y acceso a capital.**
 

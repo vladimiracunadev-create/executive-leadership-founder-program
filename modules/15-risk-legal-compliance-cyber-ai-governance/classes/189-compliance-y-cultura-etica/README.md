@@ -48,18 +48,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 189: 1. mapear obligaciones y conductas → 2. diseñar políticas y training por riesgo → 3. crear canales y protección → 4. investigar con debido proceso → 5. remediar causa y monitorear recurrencia](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mapear obligaciones y conductas → 2. diseñar políticas y training por riesgo → 3. crear canales y protección → 4. investigar con debido proceso → 5. remediar causa y monitorear recurrencia
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Compliance efectivo combina reglas, incentivos, liderazgo, speak-up, investigación y remediación. Una política no es cultura ética si empleados perciben que cumplir cuesta carrera o ventas. El gerente crea o destruye compliance mediante decisiones cotidianas y excepciones.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Más reportes no implican peor cultura y menos reportes no implican cumplimiento. Interpreta speak-up con confianza, calidad de investigación y contexto.**
 

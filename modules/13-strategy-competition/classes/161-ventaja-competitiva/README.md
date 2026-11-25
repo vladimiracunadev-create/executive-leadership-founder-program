@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 161: 1. definir valor creado para segmento → 2. medir precio y costo relativos → 3. identificar mecanismo de defensa → 4. testear imitabilidad y sustitución → 5. invertir en reforzar o abandonar ventaja](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir valor creado para segmento → 2. medir precio y costo relativos → 3. identificar mecanismo de defensa → 4. testear imitabilidad y sustitución → 5. invertir en reforzar o abandonar ventaja
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Ventaja competitiva es la capacidad de crear y capturar valor de forma superior y defendible, no simplemente ser bueno. Puede provenir de costo, diferenciación, efectos de red, switching costs, escala, datos, marca, regulación o combinaciones; debe observarse en economics y comportamiento.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un moat no es eterno y puede encerrar a la empresa en un modelo que pierde relevancia. Distingue defensa de capacidad para adaptarse.**
 

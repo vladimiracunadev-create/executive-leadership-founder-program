@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 084: 1. hacer health check independiente → 2. rebaselinear alcance, fecha y costo → 3. construir tres opciones → 4. obtener decisión sponsor → 5. gestionar risk burn-down semanal](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. hacer health check independiente → 2. rebaselinear alcance, fecha y costo → 3. construir tres opciones → 4. obtener decisión sponsor → 5. gestionar risk burn-down semanal
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El capstone de rescate exige diagnosticar un proyecto crítico sin maquillar estado, proteger el outcome y reconstruir gobierno. Se evalúa la capacidad de decir qué ya no es posible, qué se puede salvar y qué decisión necesita el sponsor hoy.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un rescate puede concluir que detener el proyecto es la opción racional. Sunk cost no justifica continuar una iniciativa cuyo valor o factibilidad desapareció.**
 

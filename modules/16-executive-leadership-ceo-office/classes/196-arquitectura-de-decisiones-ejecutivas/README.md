@@ -48,18 +48,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 196: 1. inventariar decisiones materiales → 2. clasificar reversibilidad y frecuencia → 3. asignar owner y autoridad → 4. diseñar pre-read y foro → 5. medir latencia overrides y calidad](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. inventariar decisiones materiales → 2. clasificar reversibilidad y frecuencia → 3. asignar owner y autoridad → 4. diseñar pre-read y foro → 5. medir latencia overrides y calidad
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La arquitectura de decisiones ejecutivas define qué decisiones existen, su frecuencia, nivel, información, owner y foro. El CEO reduce cuellos al distinguir decisiones reversibles, irreversibles, rutinarias y excepcionales, y al empujar autoridad al nivel más bajo competente.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Descentralizar decisiones sin capacidades, datos o límites puede aumentar riesgo. Delegación requiere contexto, controles y feedback, no solo permiso.**
 

@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 212: 1. revisar diagnóstico y choices → 2. challenge supuestos y escenarios → 3. verificar capital y capabilities → 4. definir milestones y signposts → 5. revisar aprendizaje y reallocation](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. revisar diagnóstico y choices → 2. challenge supuestos y escenarios → 3. verificar capital y capabilities → 4. definir milestones y signposts → 5. revisar aprendizaje y reallocation
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El directorio supervisa estrategia asegurando que exista diagnóstico, choices, recursos, riesgos y capacidad de adaptación. No debe redactar la estrategia ni aprobar cada iniciativa; su función es challenge de supuestos, coherencia y creación de valor.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **El board puede sobrepasar su rol si convierte challenge en diseño operativo. Formula preguntas y límites; deja al CEO accountable por ejecución y opciones detalladas.**
 

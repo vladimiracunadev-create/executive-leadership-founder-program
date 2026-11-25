@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 075: 1. partir de entregables → 2. descomponer hasta paquetes gestionables → 3. mapear dependencias → 4. estimar secuencia y recursos → 5. identificar critical path y hitos](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. partir de entregables → 2. descomponer hasta paquetes gestionables → 3. mapear dependencias → 4. estimar secuencia y recursos → 5. identificar critical path y hitos
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Work Breakdown Structure descompone entregables en trabajo manejable; no es una lista de tareas cronológica. La planificación conecta alcance, dependencias, recursos y hitos, permitiendo ver qué trabajo controla el camino y qué paquetes requieren detalle posterior.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Descomponer en exceso produce falsa precisión y alto mantenimiento. El horizonte cercano necesita más detalle que el lejano; usa rolling-wave planning.**
 

@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 201: 1. mapear niveles y critical roles → 2. definir work y values por passage → 3. calibrar potencial y readiness → 4. crear assignments y coaching → 5. revisar bench y sucesión periódicamente](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mapear niveles y critical roles → 2. definir work y values por passage → 3. calibrar potencial y readiness → 4. crear assignments y coaching → 5. revisar bench y sucesión periódicamente
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Leadership Pipeline describe transiciones donde cambia el trabajo, uso del tiempo y valores profesionales esperados. La sucesión no consiste en promover al mejor especialista; requiere preparar a personas para responsabilidades cualitativamente distintas y evaluar readiness para el siguiente passage.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Pipeline no debe convertirse en jerarquía rígida ni sesgar contra carreras expertas. Diseña rutas IC y management con valor comparable cuando el trabajo lo permita.**
 

@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 180: 1. formular design principles → 2. diseñar estructura e interfaces → 3. probar decisiones críticas → 4. alinear incentives y people systems → 5. crear transición con riesgos y métricas](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. formular design principles → 2. diseñar estructura e interfaces → 3. probar decisiones críticas → 4. alinear incentives y people systems → 5. crear transición con riesgos y métricas
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El capstone de diseño organizacional exige rediseñar una empresa desde estrategia hasta estructura, decisiones, procesos, cultura, incentivos y transición. Se evalúa coherencia sistémica y riesgos de implementación, no estética del organigrama.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un diseño de papel no demuestra viabilidad. Somételo a casos de prueba reales —contratar, lanzar, fijar precio, resolver incidente— y revisa dónde la autoridad o información se rompen.**
 

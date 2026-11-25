@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 285: 1. definir ICP y oferta → 2. crear target list semanal → 3. ejecutar outreach y referrals → 4. hacer discovery y proposals → 5. revisar pipeline y conversion cada semana](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir ICP y oferta → 2. crear target list semanal → 3. ejecutar outreach y referrals → 4. hacer discovery y proposals → 5. revisar pipeline y conversion cada semana
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **La independencia necesita un sistema semanal de ventas: target accounts, outreach, referrals, contenido, discovery, proposals y follow-up con métricas. Esperar inbound crea dependencia de suerte; un sistema pequeño y constante genera pipeline observable.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Volumen sin targeting puede dañar reputación y producir spam. Prioriza relevancia, consentimiento y relación; adapta canales a normativa y contexto.**
 

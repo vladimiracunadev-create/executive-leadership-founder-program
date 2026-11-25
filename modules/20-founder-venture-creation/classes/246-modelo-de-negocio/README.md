@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 246: 1. dibujar hipótesis de modelo → 2. identificar riskiest links → 3. estimar revenue y cost → 4. probar canal y delivery → 5. actualizar con evidencia de clientes](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. dibujar hipótesis de modelo → 2. identificar riskiest links → 3. estimar revenue y cost → 4. probar canal y delivery → 5. actualizar con evidencia de clientes
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El modelo de negocio de una startup integra cliente, propuesta, canal, relación, revenue, cost, resources, activities y partners. La pregunta no es completar Canvas sino demostrar que el sistema puede adquirir, servir y retener clientes con economics sostenibles.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un modelo temprano cambia rápido; no lo conviertas en plan fijo. Mantén hipótesis y fechas de verificación, especialmente sobre canal y costos ocultos.**
 

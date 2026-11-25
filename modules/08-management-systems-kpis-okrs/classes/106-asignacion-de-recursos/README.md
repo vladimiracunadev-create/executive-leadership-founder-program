@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 106: 1. mapear recursos actuales → 2. comparar con prioridades → 3. clasificar compromiso fijo y movible → 4. estimar costo de reasignación → 5. decidir y seguir transición](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. mapear recursos actuales → 2. comparar con prioridades → 3. clasificar compromiso fijo y movible → 4. estimar costo de reasignación → 5. decidir y seguir transición
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Asignar recursos convierte estrategia en realidad. Presupuesto, personas y atención ejecutiva deben moverse hacia prioridades declaradas; si la estrategia cambia y los recursos no, la organización recibe dos mensajes. La reasignación tiene costos de transición que deben incluirse.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Reasignar personas como fichas puede destruir conocimiento, compromiso y productividad. Incluye skill, equipos estables y costos humanos, no solo headcount.**
 

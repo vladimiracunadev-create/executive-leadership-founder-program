@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 158: 1. definir gap respecto a objetivo → 2. descomponer hipótesis causales → 3. triangular datos internos y externos → 4. priorizar mecanismo material y controlable → 5. redactar diagnóstico que explique y delimite](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir gap respecto a objetivo → 2. descomponer hipótesis causales → 3. triangular datos internos y externos → 4. priorizar mecanismo material y controlable → 5. redactar diagnóstico que explique y delimite
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El diagnóstico estratégico reduce complejidad para identificar el mecanismo que explica la situación competitiva. Debe separar síntomas de causas y conectar mercado, cliente, capacidades, economía y restricciones. Sin diagnóstico, la estrategia se vuelve un portafolio de soluciones favoritas.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Un diagnóstico siempre simplifica. Evita tratarlo como verdad definitiva; registra explicaciones alternativas y qué señal obligaría a revisarlo.**
 

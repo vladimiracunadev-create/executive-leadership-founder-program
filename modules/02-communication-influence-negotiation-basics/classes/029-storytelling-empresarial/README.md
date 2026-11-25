@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 029: 1. elegir stakeholder y resultado → 2. describir estado actual con evidencia → 3. hacer visible la tensión y el costo de no actuar → 4. presentar opciones y decisión → 5. cerrar mostrando resultado esperado y cómo se medirá](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. elegir stakeholder y resultado → 2. describir estado actual con evidencia → 3. hacer visible la tensión y el costo de no actuar → 4. presentar opciones y decisión → 5. cerrar mostrando resultado esperado y cómo se medirá
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Storytelling empresarial organiza hechos alrededor de una tensión y una transformación sin sacrificar precisión. Una narrativa útil explica por qué la situación actual importa, qué cambia si no actuamos y cómo la recomendación crea una trayectoria distinta. No debe convertir anécdotas emotivas en sustituto de datos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Una historia convincente puede manipular. Evita seleccionar un caso extremo como representativo, exagerar causalidad o borrar incertidumbre para aumentar impacto emocional.**
 

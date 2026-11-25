@@ -48,18 +48,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 204: 1. clarificar mandato y situación → 2. diseñar learning agenda 30 días → 3. evaluar equipo y riesgos → 4. definir 3 a 5 prioridades y early wins → 5. establecer operating cadence y revisión 100 días](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. clarificar mandato y situación → 2. diseñar learning agenda 30 días → 3. evaluar equipo y riesgos → 4. definir 3 a 5 prioridades y early wins → 5. establecer operating cadence y revisión 100 días
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El capstone de primeros 100 días exige entrar a una empresa nueva, diagnosticar antes de imponer soluciones, asegurar continuidad, evaluar equipo, construir relaciones y elegir pocas prioridades. El plan debe combinar aprendizaje, decisiones tempranas y ventanas de cambio.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Los 100 días son una convención, no una frontera mágica. En crisis se decide antes; en negocios complejos algunas conclusiones requieren más tiempo. El plan debe seguir evidencia.**
 

@@ -74,7 +74,7 @@ Las clases **34 a 36** amplían al entorno: interesados y legitimidad, presencia
 | 031 | [Conversaciones difíciles](classes/031-conversaciones-dificiles/README.md) | hechos, intención atribuida, contribución | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
 | 032 | [Conflicto productivo](classes/032-conflicto-productivo/README.md) | conflicto de tarea, conflicto relacional, disenso | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
 | 033 | [Persuasión ética e influencia](classes/033-persuasion-etica-e-influencia/README.md) | reciprocidad, prueba social, autoridad | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
-| 034 | [Mapa de stakeholders y poder](classes/034-mapa-de-stakeholders-y-poder/README.md) | stakeholder, poder, interés | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
+| 034 | [Mapa de stakeholders y poder](classes/034-mapa-de-stakeholders-y-poder/README.md) | Interesado (stakeholder), Poder, Legitimidad | [stakeholder-legitimacy-map](../../templates/stakeholder-legitimacy-map.md) | 150 |
 | 035 | [Presencia ejecutiva](classes/035-presencia-ejecutiva/README.md) | gravitas, claridad, composure | [risk-governance-brief](../../templates/risk-governance-brief.md) | 150 |
 | 036 | [Capstone: comunicar una decisión impopular](classes/036-capstone-comunicar-una-decision-impopular/README.md) | decisión impopular, criterio, impacto humano | [leadership-decision-brief](../../templates/leadership-decision-brief.md) | 150 |
 
@@ -87,7 +87,7 @@ Las clases **34 a 36** amplían al entorno: interesados y legitimidad, presencia
 
 ## 🔤 Glosario de la parte
 
-59 conceptos definidos en las clases, con la definición operacional que usa cada una.
+60 conceptos definidos en las clases, con la definición operacional que usa cada una.
 
 | Concepto | Definición operacional |
 |---|---|
@@ -115,7 +115,6 @@ Las clases **34 a 36** amplían al entorno: interesados y legitimidad, presencia
 | **disenso** | expresión explícita de una alternativa o objeción. |
 | **escasez** | mayor valor percibido cuando una opción parece limitada. |
 | **especificidad** | nivel de detalle que permite reconocer y reproducir/corregir. |
-| **estrategia de engagement** | forma y frecuencia de involucramiento proporcional. |
 | **feedforward** | orientación sobre conducta futura. |
 | **gravitas** | percepción de juicio y estabilidad bajo presión. |
 | **hechos** | eventos observables que las partes pueden verificar. |
@@ -125,8 +124,9 @@ Las clases **34 a 36** amplían al entorno: interesados y legitimidad, presencia
 | **impacto humano** | efecto sobre carga, seguridad, rol, identidad o confianza. |
 | **inferencia** | significado añadido por el oyente más allá de lo dicho. |
 | **intención atribuida** | explicación sobre motivos ajenos que puede ser incorrecta. |
-| **interés** | grado en que el resultado importa al stakeholder. |
-| **legitimidad** | validez reconocida de su reclamo o rol. |
+| **Interesado (stakeholder)** | Según Freeman (1984), cualquier grupo o individuo que puede afectar o ser afectado por el logro de los objetivos de la organización. |
+| **Latente, expectante, definitivo** | Según tenga uno, dos o los tres atributos. Cada grupo tiene subtipos con nombre propio. |
+| **Legitimidad** | Percepción generalizada de que las acciones de un actor son deseables o apropiadas dentro de un sistema socialmente construido de normas, valores y creencias. |
 | **MECE** | agrupación razonablemente no solapada y colectivamente suficiente. |
 | **mensaje** | contenido que intenta modificar comprensión o acción. |
 | **narrativa** | secuencia causal que da sentido a hechos dispersos. |
@@ -135,8 +135,9 @@ Las clases **34 a 36** amplían al entorno: interesados y legitimidad, presencia
 | **observación** | descripción de conducta o resultado sin atribuir intención. |
 | **paráfrasis** | reexpresión del contenido para comprobar comprensión. |
 | **pirámide** | estructura jerárquica de idea principal, argumentos y evidencia. |
-| **poder** | capacidad de habilitar, bloquear o alterar recursos y legitimidad. |
+| **Poder** | Capacidad de un actor de lograr que otro haga algo que de otro modo no haría, mediante recursos coercitivos, utilitarios o normativos. |
 | **pregunta abierta** | invita explicación sin restringir a sí/no. |
+| **Prominencia (salience)** | Grado en que los directivos dan prioridad a los reclamos de un actor. |
 | **protagonista** | stakeholder cuya situación permite comprender el problema. |
 | **prueba** | datos o evidencia que impiden que la historia sea solo persuasión. |
 | **prueba social** | uso de conducta de otros como señal de qué es apropiado. |
@@ -147,8 +148,8 @@ Las clases **34 a 36** amplían al entorno: interesados y legitimidad, presencia
 | **severidad** | grado de riesgo o daño que determina urgencia y formalidad. |
 | **silencio** | espacio que permite elaboración y reduce respuesta automática. |
 | **slide headline** | título que expresa el punto, no solo el tema. |
-| **stakeholder** | persona o grupo afectado o con capacidad de afectar la decisión. |
 | **storyline** | secuencia lógica que conecta problema con recomendación. |
+| **Urgencia** | Grado en que el reclamo exige atención inmediata: sensibilidad al tiempo y criticidad para el actor. |
 | **visual evidence** | gráfico o tabla elegido para sostener una afirmación. |
 
 ## 📦 Qué queda como evidencia

@@ -10,249 +10,201 @@
 
 ## 🎯 Propósito
 
-Gestionar una crisis exige distinguir incidente, crisis y emergencia, activar estructura de comando, proteger personas, estabilizar operación, comunicar hechos confirmados y tomar decisiones reversibles cuando la información es incompleta. La preparación previa reduce improvisación bajo presión.
+La mayoría de las crisis empieza como un incidente pequeño que alguien conoció primero y tardó en contar. Cuando por fin llega a quien decide, ya hay clientes afectados, información dispersa y varias personas dando órdenes distintas. Esta clase trata de evitarlo con tres decisiones que se toman **antes** de que ocurra el problema: **cuándo se declara un incidente, quién manda y cuándo y a quién se sube.**
 
-La salida de esta parte es **gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **crisis, incidentes y escalamiento** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Al terminar sabrás diseñar un sistema de escalamiento por niveles con criterios de paso, constituir un comité de crisis con autoridad escrita y conducir las primeras horas de un incidente con roles separados, prioridades en orden y un registro que permita reconstruir las decisiones después.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `incident`, `crisis`, `incident commander`, `situation report`, `decision log` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de gerente → director.
-3. **Aplicar** la secuencia **1. detectar y clasificar → 2. activar roles y war room → 3. proteger personas y contener impacto → 4. comunicar hechos y decisiones → 5. recuperar investigar y aprender** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** time-to-escalate, MTTR, stakeholder update latency sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
-7. **Separar** hechos, alegaciones y juicios privados y aplicar el protocolo de las primeras 72 horas con presunción de inocencia.
-8. **Constituir** un comité de crisis con autoridad, matriz de responsabilidades y protocolo de escalamiento por niveles.
+1. **Distinguir** incidente, crisis y escalamiento, y decidir cuándo corresponde declarar un incidente.
+2. **Asignar** el mando único y los roles separados de un incidente, y explicar por qué quien repara no habla por la empresa.
+3. **Ordenar** las prioridades de las primeras horas y justificar ese orden.
+4. **Diseñar** niveles de escalamiento con criterios de paso y un comité de crisis con matriz de responsabilidades.
+5. **Separar** hechos, alegaciones y juicios cuando el incidente involucra a una persona clave, y comunicar sin adelantar conclusiones.
+6. **Convocar** una revisión posterior sin búsqueda de culpables que produzca cambios verificables.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define incident y crisis sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con time-to-escalate y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: describe el último incidente que conociste; ¿quién mandaba?, ¿cuándo se supo arriba?, ¿qué se registró? |
+| 20–60 min | Declarar, mandar y escalar: el diagrama de la clase y las fuentes. |
+| 60–100 min | Ejemplo trabajado: las primeras 24 horas de una filtración de datos de clientes. |
+| 100–135 min | Caso ejecutivo: niveles, comité y primer comunicado. |
+| 135–150 min | Revisión sin culpas, límites del enfoque y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **incident** | evento gestionable dentro de capacidades operativas normales | Distingue un hecho compatible y otro que lo refute. |
-| **crisis** | evento que amenaza objetivos críticos y requiere coordinación ejecutiva | Distingue un hecho compatible y otro que lo refute. |
-| **incident commander** | rol que coordina respuesta y prioridades | Distingue un hecho compatible y otro que lo refute. |
-| **situation report** | resumen periódico de hechos impacto acciones y necesidades | Distingue un hecho compatible y otro que lo refute. |
-| **decision log** | registro de decisiones supuestos y responsables durante respuesta | Distingue un hecho compatible y otro que lo refute. |
+| **Incidente** | Evento que interrumpe o degrada una operación, o pone en riesgo a personas, datos o activos, y que exige una respuesta coordinada. | Hay un impacto observable y alguien debe actuar ya. |
+| **Crisis** | Evento percibido como impredecible que amenaza expectativas importantes de los interesados y puede afectar seriamente a la organización (Coombs, 2007). | Hay incertidumbre, presión de tiempo y atención externa. |
+| **Declarar un incidente** | Decisión formal de activar la respuesta coordinada, con su mando y su registro. | Existe una hora de inicio y un responsable nombrado. |
+| **Mando del incidente** | Rol único que decide y responde por la respuesta, mientras otros roles ejecutan partes separadas del trabajo (Beyer et al., 2016). | Todos saben a quién preguntar y quién decide. |
+| **Escalamiento** | Paso de un asunto a un nivel con más autoridad, según criterios fijados de antemano y no según el rango de quien lo sabe. | Hay un criterio escrito que dice cuándo se sube. |
+| **Comité de crisis** | Grupo ejecutivo con autoridad definida para decidir las acciones de mayor impacto durante la crisis. | Su composición, sus facultades y sus decisiones están escritas. |
+| **Revisión sin culpas** | Análisis posterior que busca causas del sistema y acciones correctivas, no responsables individuales (Beyer et al., 2016). | Termina en acciones con dueño y fecha. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 190: 1. detectar y clasificar → 2. activar roles y war room → 3. proteger personas y contener impacto → 4. comunicar hechos y decisiones → 5. recuperar investigar y aprender](modelo-mental.svg)
+![Escalamiento por niveles y roles de un incidente: una escalera de cuatro niveles con su criterio de paso, un mando único con roles separados y cuatro prioridades en orden.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. detectar y clasificar → 2. activar roles y war room → 3. proteger personas y contener impacto → 4. comunicar hechos y decisiones → 5. recuperar investigar y aprender
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **Gestionar una crisis exige distinguir incidente, crisis y emergencia, activar estructura de comando, proteger personas, estabilizar operación, comunicar hechos confirmados y tomar decisiones reversibles cuando la información es incompleta. La preparación previa reduce improvisación bajo presión.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Centralizar crisis no significa que el CEO decida cada acción. Define incident command y delegación; reserva nivel ejecutivo para trade-offs, stakeholders y decisiones materiales.**
+**Cómo leer el diagrama.** A la izquierda, la escalera dice *cuándo* sube un asunto: cada peldaño tiene un criterio, no un nombre de persona. A la derecha, el mando dice *quién* decide, y los roles separados evitan que la misma persona repare, comunique y registre a la vez. Abajo, las prioridades dicen *en qué orden* se actúa cuando todo parece urgente.
 
 ## 📖 Desarrollo
 
-### 1. incident: mecanismo central
+### 1. Incidente, crisis y la decisión de declarar
 
-**incident** se entiende aquí como **evento gestionable dentro de capacidades operativas normales**. Esta es la pieza causal o estructural desde la que se inicia **crisis, incidentes y escalamiento**: antes de detectar y clasificar, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un incidente es un problema que exige respuesta coordinada; una crisis es la lectura que hacen los interesados cuando ese problema amenaza algo que esperaban de la organización. La misma falla técnica puede ser un incidente interno o una crisis pública según quién se entere y cuánto tarde la empresa en hablar.
 
-La lectura rectora de este bloque es COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. Su aporte se usa para examinar **riesgo integrado con estrategia, desempeño, revisión e información**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **time-to-escalate**; regístrala con periodo, unidad, población y baseline.
+La decisión clave es **declarar**. El libro de ingeniería de confiabilidad de Google propone criterios simples para hacerlo, y sirven como ejemplo: declarar si se necesita un segundo equipo, si el problema es visible para los clientes o si sigue sin resolverse tras una hora de análisis concentrado. Declarar es barato —se activa un mando y un registro— y no declarar es caro: se pierde tiempo hasta que la situación se impone sola. La regla pedagógica es *ante la duda, declara y baja el nivel después*.
 
-Relaciona el mecanismo con **crisis**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+### 2. Mando único y roles separados
 
-### 2. crisis: frontera conceptual y error de clasificación
+Beyer y sus colegas describen la respuesta organizada de un incidente a partir de los sistemas de mando usados en emergencias: **una persona manda**, y las demás funciones se separan. En su descripción, el mando coordina y delega; las operaciones ejecutan los cambios técnicos; la comunicación entrega información al exterior y a los interesados; y la planificación sostiene el registro y los relevos. Quien manda puede delegar roles pero no se queda con la tarea de reparar.
 
-**Definición operacional:** evento que amenaza objetivos críticos y requiere coordinación ejecutiva. Su valor está en distinguirlo de **incident** y **incident commander**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La razón es práctica: cuando una misma persona intenta resolver, informar y decidir, hace mal las tres cosas. Y cuando hay dos mandos, el equipo recibe órdenes contradictorias. Legal, personas y comunicaciones **asesoran** al mando; no lo reemplazan.
 
-Contrasta el problema con John C. Hull — *Risk Management and Financial Institutions*, que aporta una mirada sobre **identificación y medición de riesgos financieros y no financieros**. Formula dos mini-casos: uno que sí satisface la definición de **crisis** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **MTTR** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+### 3. Prioridades en orden
 
-Antes de activar roles y war room, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+En el incidente lo urgente compite con lo importante. La clase propone un orden fijo para no improvisarlo con estrés: **1) proteger a las personas, 2) detener el daño, 3) preservar la evidencia y 4) restablecer.** El libro de confiabilidad enuncia como prioridades detener el daño, restablecer el servicio y preservar la evidencia; la clase añade la protección de las personas como primera por una razón de responsabilidad directiva, no técnica. Restablecer antes de preservar puede destruir la prueba necesaria para entender qué ocurrió y para cumplir deberes de notificación.
 
-### 3. incident commander: operacionalización y medición
+### 4. Escalar por criterio, no por rango
 
-**incident commander** significa **rol que coordina respuesta y prioridades**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Un sistema de escalamiento define niveles y **criterios de paso**: la operación resuelve lo que puede contener con su autoridad; la gerencia interviene si hace falta otro equipo o no hay avance; el comité de crisis, si hay clientes, datos personales, un regulador, personas en riesgo o exposición pública; el directorio, si compromete la continuidad o la licencia para operar. Escalar no es admitir fracaso ni trasladar la culpa; es poner la decisión donde está la autoridad para tomarla.
 
-OECD — *OECD AI Principles* orienta este bloque mediante **principios para IA confiable, responsable y centrada en las personas**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **stakeholder update latency**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+El error habitual es escalar por jerarquía —solo sube lo que el jefe decide que sube— y producir un silencio que se descubre tarde. Los criterios escritos protegen a quien sube un asunto.
 
-Al llegar a proteger personas y contener impacto, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+### 5. El comité de crisis y su autoridad
 
-### 4. situation report: trade-offs y efectos de segundo orden
+El comité es útil si su **autoridad está definida antes** del evento: quién lo preside, quién puede activarlo, qué decide sin consultar y qué debe elevar al directorio. Su matriz de responsabilidades asigna, para cada decisión, **una sola** persona que decide, quién ejecuta, a quién se consulta y a quién solo se informa. Una comisión sin responsable único discute en lugar de decidir.
 
-**Definición:** resumen periódico de hechos impacto acciones y necesidades. Este concepto obliga a abandonar la idea de que **crisis, incidentes y escalamiento** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de comunicar hechos y decisiones, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
+Composición habitual: presidencia (quien responde por la decisión), operaciones, legal y cumplimiento, personas, comunicaciones y una secretaría que registra hechos y decisiones. Cada organización la adapta; lo que no debe faltar es un acta firmada de sus facultades.
 
-Ross Anderson — *Security Engineering* aporta una lente sobre **perspectiva de Ciberseguridad aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **decision reversals** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
+### 6. Cuando el incidente involucra a una persona clave
 
-Haz un *pre-mortem* de **crisis, incidentes y escalamiento**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **situation report** y otro de una hipótesis del caso que nunca fue validada.
+Si surge una alegación contra un directivo, se mezclan con facilidad tres capas: **hechos confirmados, alegaciones y juicios sobre la vida privada**. El protocolo de las primeras 72 horas de la clase las separa: 1) **preservar** registros relevantes; 2) **separar** en una tabla hecho / alegación / fuente / estado de verificación; 3) **gobernar**: designar a quien investiga y asegurar su independencia respecto del investigado; 4) **proteger**: limitar accesos que puedan afectar la investigación, sin presumir culpa; 5) **comunicar** un mensaje breve y verificable que no adelante conclusiones; 6) **revisar** en una fecha fijada.
 
-### 5. decision log: gobernanza, límites e integración
+Las medidas cautelares no son sanciones, y la conducta privada solo importa en la medida en que genere un riesgo concreto para el cargo o la organización, evaluado con proceso y evidencia. Este protocolo es un método docente de la clase, no un estándar de una fuente.
 
-**decision log** se define como **registro de decisiones supuestos y responsables durante respuesta** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
+### 7. Comunicar en la crisis y aprender después
 
-OECD — *G20/OECD Principles of Corporate Governance 2023* se utiliza para estudiar **derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno** y contrastar la recomendación final. Al ejecutar recuperar investigar y aprender, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
+Coombs sostiene que, ante una crisis, la primera respuesta es **informar e instruir**: decir qué ocurrió, qué debe hacer quien está en riesgo y reconocer el daño humano, antes de ocuparse de la reputación. La clase 200 desarrolla las posturas posteriores. Aquí basta con la regla de que la comunicación declara lo que se sabe, lo que no se sabe, lo que se está haciendo y cuándo habrá novedades, y que habla **una sola** voz.
 
-La frontera de esta clase es explícita: **Centralizar crisis no significa que el CEO decida cada acción. Define incident command y delegación; reserva nivel ejecutivo para trade-offs, stakeholders y decisiones materiales.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **incident**, **crisis**, **incident commander**, **situation report** y **decision log** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **crisis, incidentes y escalamiento** no consiste en sumar cinco definiciones. Empieza por **incident**, contrasta **crisis** con **incident commander**, incorpora **situation report** como restricción o mecanismo y usa **decision log** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. detectar y clasificar → 2. activar roles y war room → 3. proteger personas y contener impacto → 4. comunicar hechos y decisiones → 5. recuperar investigar y aprender**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Primeras 72 horas ante una alegación sobre un ejecutivo
-
-Cuando aparece una alegación sobre una persona clave, el error habitual es mezclar tres capas: **hechos confirmados, alegaciones y juicios sobre la vida privada**. Esta ampliación entrena un protocolo que las separa.
-
-`1) Preservar: resguardar registros relevantes. 2) Separar: tabla hecho / alegación / fuente / estado de verificación. 3) Gobernar: designar quién investiga y asegurar su independencia del investigado. 4) Proteger: limitar el acceso del investigado a lo que pueda afectar la investigación, sin presumir culpa. 5) Comunicar: mensaje breve, verificable, sin juzgar ni adelantar conclusiones. 6) Revisar: fecha de reevaluación.`
-
-**Presunción de inocencia y proporcionalidad:** las medidas cautelares (limitar acceso, reasignar funciones) no son sanciones. **Reputación:** callar y sobreexplicar dañan por igual; la regla es decir lo que se sabe, lo que no se sabe y qué se está haciendo. La conducta íntima de una persona no justifica por sí sola una sanción laboral; la justifica, en su caso, un **riesgo concreto para el cargo, la información o la organización**, evaluado con proceso y evidencia.
-
-### Comité de crisis: composición, autoridad y matriz de responsabilidades
-
-Un comité de crisis es útil solo si su **autoridad está definida antes** del incidente. Decide quién lo preside, quién puede activar, qué decisiones toma sin consultar y cuáles escalan al directorio.
-
-| Rol | Responsabilidad | Autoridad |
-|---|---|---|
-| **Presidencia del comité (CEO o delegado)** | Decide y responde por la decisión. | Aprobar acciones de alto impacto y mensajes principales. |
-| **Operación / técnico** | Contener y diagnosticar. | Ejecutar medidas técnicas preaprobadas. |
-| **Legal y cumplimiento** | Obligaciones de notificación y preservación. | Vetar un mensaje que cree un riesgo legal indebido; no decidir por el comité. |
-| **Personas** | Protección de trabajadores y trato laboral. | Proponer medidas de personas. |
-| **Comunicaciones y vocería** | Mensaje único y calendario. | Publicar solo lo aprobado. |
-| **Secretaría** | Registro de decisiones y hechos. | Custodiar la bitácora. |
-
-**Matriz de responsabilidades:** para cada decisión, un solo **responsable que decide**, los que **deben ser consultados**, los que **solo se informan** y quién **ejecuta**. Evita dos decisores y evita que el área jurídica o la de comunicaciones sustituyan el juicio ejecutivo.
-
-**Protocolo de escalamiento** por niveles: `Nivel 1 (operación) → Nivel 2 (gerencia) → Nivel 3 (comité de crisis) → Nivel 4 (directorio)`, con criterio de paso explícito (afectación a clientes, datos personales, regulador, riesgo para personas, exposición pública). Caso de práctica: **filtración de datos de clientes** — decide qué activa el Nivel 3, qué se comunica a clientes y a la autoridad según la norma aplicable que debes verificar, y quién firma cada mensaje.
+Después, la **revisión sin culpas**: se reconstruye la secuencia con el registro, se buscan causas del sistema y se acuerdan acciones con dueño y fecha. Edmondson muestra por qué: si equivocarse se castiga, la próxima vez el aviso llega más tarde. Weick y Sutcliffe describen en las organizaciones de alta confiabilidad una **preocupación por el fallo** y una **deferencia a la experticia**: durante el incidente, la autoridad para decidir un detalle técnico migra hacia quien más sabe, sin perder la claridad de quién manda.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| COSO — *Enterprise Risk Management—Integrating with Strategy and Performance* | riesgo integrado con estrategia, desempeño, revisión e información | ¿Qué supuesto de **crisis, incidentes y escalamiento** ayuda a desafiar? |
-| John C. Hull — *Risk Management and Financial Institutions* | identificación y medición de riesgos financieros y no financieros | ¿Qué supuesto de **crisis, incidentes y escalamiento** ayuda a desafiar? |
-| OECD — *OECD AI Principles* | principios para IA confiable, responsable y centrada en las personas | ¿Qué supuesto de **crisis, incidentes y escalamiento** ayuda a desafiar? |
-| Ross Anderson — *Security Engineering* | perspectiva de Ciberseguridad aplicada al problema de la clase | ¿Qué supuesto de **crisis, incidentes y escalamiento** ayuda a desafiar? |
-| OECD — *G20/OECD Principles of Corporate Governance 2023* | derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno | ¿Qué supuesto de **crisis, incidentes y escalamiento** ayuda a desafiar? |
-
-En **crisis, incidentes y escalamiento**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **incident**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Beyer et al. (2016) | Mando único, roles separados, criterios para declarar y revisión sin culpas. | Nace de la ingeniería de software; no trata de crisis de reputación. | ¿Qué parte se transfiere a una crisis no técnica? |
+| Coombs (2007) | Qué comunicar primero y cómo la responsabilidad atribuida condiciona la respuesta. | No dice cómo operar el incidente. | ¿Qué diría tu comunicado de los primeros 60 minutos? |
+| Weick y Sutcliffe (2015) | Cómo organizaciones de alta confiabilidad atienden señales débiles y resisten simplificar. | No fija un procedimiento. | ¿Qué señal débil se ignoró en el último incidente? |
+| Klein (1999) | Cómo decide la experiencia bajo presión de tiempo. | No asegura que la intuición acierte. | ¿Cuándo conviene frenar una decisión intuitiva? |
+| Edmondson (2018) | Seguridad psicológica y aprendizaje del error. | No define niveles ni roles. | ¿Qué cuesta hoy avisar de un problema? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** A las 09:00 se filtran datos de clientes. Seguridad, legal y comunicaciones trabajan por separado; a las 13:00 tres ejecutivos entregan cifras distintas a prensa y clientes.
+**Situación (hipotética, con cifras ilustrativas).** Una analista de seguridad de una empresa de servicios detecta un acceso inusual a una base de clientes. A las 09:10 lo informa por el canal de operación. Veamos cómo se aplican el diagrama y la matriz.
 
-**Paso 1 — detectar y clasificar.** La gerencia escribe primero el supuesto asociado a **incident** y evita convertirlo en hecho. Luego busca **time-to-escalate** para contrastarlo en el caso de **crisis, incidentes y escalamiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Hora | Hecho o decisión | Quién decide | Por qué |
+|---|---|---|---|
+| 09:10 | Detección y primer aviso | Operación (nivel 1) | Alcanza para contener credenciales sospechosas. |
+| 09:50 | Se declara el incidente: hay datos personales posiblemente comprometidos | Gerente de seguridad | Cumple el criterio de paso al nivel 3. |
+| 10:30 | Se constituye el comité; el director general preside | Presidencia | La acta de facultades ya existe. |
+| 10:40 | Se revocan accesos y se preservan registros antes de reiniciar sistemas | Mando del incidente | Prioridades: detener el daño y preservar evidencia. |
+| 11:30 | Primer mensaje interno: qué se sabe, qué no, cuándo habrá novedades | Comunicación, aprobado por la presidencia | Una sola voz; los hechos coinciden hacia dentro y fuera. |
+| 14:00 | Se evalúan obligaciones de notificación a la autoridad y a los afectados | Presidencia, con asesoría legal | Verificar la norma vigente y sus plazos con el asesor; no se improvisa. |
+| 17:00 | Informe de estado y nueva hora de actualización | Secretaría | Registro continuo y relevo ordenado. |
 
-**Paso 2 — activar roles y war room.** La gerencia escribe primero el supuesto asociado a **crisis** y evita convertirlo en hecho. Luego busca **MTTR** para contrastarlo en el caso de **crisis, incidentes y escalamiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 3 — proteger personas y contener impacto.** La gerencia escribe primero el supuesto asociado a **incident commander** y evita convertirlo en hecho. Luego busca **stakeholder update latency** para contrastarlo en el caso de **crisis, incidentes y escalamiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 4 — comunicar hechos y decisiones.** La gerencia escribe primero el supuesto asociado a **situation report** y evita convertirlo en hecho. Luego busca **decision reversals** para contrastarlo en el caso de **crisis, incidentes y escalamiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Paso 5 — recuperar investigar y aprender.** La gerencia escribe primero el supuesto asociado a **decision log** y evita convertirlo en hecho. Luego busca **recovery objective** para contrastarlo en el caso de **crisis, incidentes y escalamiento**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
-
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **crisis, incidentes y escalamiento**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** (1) Cada decisión tiene **un** responsable. (2) Preservar evidencia ocurre *antes* de restablecer. (3) El comunicado no promete lo que no se sabe. (4) Si el alcance se amplía, se declara un nivel más alto, no se cambia al responsable.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **incident** | evento gestionable dentro de capacidades operativas normales | Cuando time-to-escalate es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **crisis** | evento que amenaza objetivos críticos y requiere coordinación ejecutiva | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Incidente técnico frente a crisis de reputación.** Un incidente puede cerrarse en horas; una crisis de reputación puede durar meses porque depende de percepciones. El comité de crisis integra ambos, pero cada uno tiene su ritmo.
 
-**Frontera de aplicación:** Centralizar crisis no significa que el CEO decida cada acción. Define incident command y delegación; reserva nivel ejecutivo para trade-offs, stakeholders y decisiones materiales.
+**Mando del incidente frente a comité.** El mando decide la operación minuto a minuto; el comité decide lo de mayor impacto. Si el comité se mete en los detalles, la respuesta se paraliza.
+
+**Límites.** El marco de mando y roles viene de la ingeniería de confiabilidad y de los sistemas de emergencia; su transferencia a otras industrias requiere adaptación. La teoría de comunicación de crisis se apoya en estudios experimentales y de casos, y la percepción del público varía según la cultura y el momento. Las obligaciones legales de notificación dependen de la jurisdicción y deben verificarse con asesoría.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre crisis, incidentes y escalamiento |
+| Nivel | Responsabilidad en un incidente |
 |---|---|
-| **Profesional** | usa **crisis, incidentes y escalamiento** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **incident** y **crisis** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta time-to-escalate con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si crisis, incidentes y escalamiento cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de crisis, incidentes y escalamiento reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **crisis, incidentes y escalamiento** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Avisa de inmediato lo que detecta, sin esperar certeza, y conserva evidencia. |
+| **Jefe / Team Lead** | Ejerce el mando de un incidente de su equipo y registra las decisiones. |
+| **Gerente** | Declara el incidente cuando cumple el criterio y sube al comité sin demora. |
+| **CEO / Director** | Preside el comité, decide lo de alto impacto y responde ante clientes, autoridad y directorio. |
+| **Founder / Owner** | Responde con su patrimonio: define el acta antes, y garantiza que la mala noticia le llegue rápido. |
 
 ## 🏢 Caso ejecutivo
 
-A las 09:00 se filtran datos de clientes. Seguridad, legal y comunicaciones trabajan por separado; a las 13:00 tres ejecutivos entregan cifras distintas a prensa y clientes.
+Un proveedor de nube deja sin servicio por seis horas a clientes de una empresa de logística. Durante la falla, un investigador externo escribe al correo de soporte diciendo haber accedido a datos de rutas y contactos de clientes. La gerencia comercial duda si se trata de un reclamo extorsivo. El director de operaciones quiere restablecer el servicio de inmediato; el jefe de seguridad pide preservar los registros.
 
-Entrega un **decision brief de crisis, incidentes y escalamiento** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **acta de comité de crisis** con: (a) criterios que declaran el incidente y el nivel de escalamiento; (b) composición, mando y matriz de responsabilidades; (c) el orden de prioridades aplicado a la tensión entre restablecer y preservar; (d) un mensaje inicial a clientes que separe lo que se sabe de lo que no; (e) a quién se consulta sobre las obligaciones legales; (f) fecha y condiciones de la revisión sin culpas.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **crisis, incidentes y escalamiento** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. detectar y clasificar → 2. activar roles y war room → 3. proteger personas y contener impacto → 4. comunicar hechos y decisiones → 5. recuperar investigar y aprender** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta time-to-escalate, MTTR; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
-7. Redacta la tabla de hechos y alegaciones de un caso público y un mensaje que no adelante conclusiones.
-8. Diseña un comité de crisis para una filtración de datos con matriz de responsabilidades y criterio para pasar de nivel.
+1. Escribe los criterios con los que tu organización declararía un incidente. ¿Quién puede declararlo?
+2. Dibuja los niveles de escalamiento de tu entorno y marca en qué punto el criterio depende hoy de «lo que decida el jefe».
+3. Redacta la matriz de responsabilidades para tres decisiones: restablecer un servicio, notificar a clientes y suspender a un directivo investigado.
+4. Escribe el mensaje de los primeros 60 minutos con la estructura *qué sabemos, qué no sabemos, qué hacemos, cuándo informaremos*.
+5. Escribe una revisión sin culpas de un incidente pasado: causa del sistema, tres acciones, dueño y fecha.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar incident y crisis como sinónimos | Se pierde la distinción entre “evento gestionable dentro de capacidades operativas normales” y “evento que amenaza objetivos críticos y requiere coordinación ejecutiva” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “recuperar investigar y aprender” | Se saltó “detectar y clasificar” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. detectar y clasificar → 2. activar roles y war room → 3. proteger personas y contener impacto → 4. comunicar hechos y decisiones → 5. recuperar investigar y aprender y marca el primer supuesto no demostrado. |
-| Optimizar solo time-to-escalate | La métrica local sustituyó al resultado del sistema | Contrástala con MTTR y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre crisis, incidentes y escalamiento | Centralizar crisis no significa que el CEO decida cada acción. Define incident command y delegación; reserva nivel ejecutivo para trade-offs, stakeholders y decisiones materiales. |
-| No fijar revisión | Una decisión sobre crisis, incidentes y escalamiento se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
-| Juzgar por la intimidad | Se sustituyó el análisis de riesgo por una opinión moral | Exige un riesgo concreto para el cargo y evidencia. |
+| Esperar certeza para avisar | Se teme alarmar | Declarar ante la duda y bajar el nivel después. |
+| Dos mandos | Ambos cargos creen que les corresponde | Un solo mando nombrado en el acta. |
+| Que el técnico hable por la empresa | Es quien más sabe | Separar reparación y comunicación. |
+| Restablecer antes de preservar | La presión por volver a operar | Fijar el orden de prioridades de antemano. |
+| Escalar por rango | Solo sube lo que el jefe decide | Criterios de paso escritos. |
+| Buscar culpables | Se quiere cerrar el caso rápido | Revisión sin culpas, con acciones y dueño. |
+| Prometer lo que no se sabe | Se quiere tranquilizar | Decir lo que se sabe, lo que no, y cuándo habrá novedades. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **incident** y **crisis** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **incident commander** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **detectar y clasificar → activar roles y war room** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **time-to-escalate** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **crisis, incidentes y escalamiento**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **Centralizar crisis no significa que el CEO decida cada acción. Define incident command y delegación; reserva nivel ejecutivo para trade-offs, stakeholders y decisiones materiales.**?
+1. ¿Qué criterios sirven para decidir que un asunto es un incidente y no una molestia?
+2. ¿Por qué el mando de un incidente no debería ser quien repara el sistema?
+3. ¿En qué orden se ubican las prioridades de las primeras horas y por qué preservar la evidencia precede a restablecer?
+4. ¿Qué diferencia hay entre escalar por criterio y escalar por rango? Da un ejemplo.
+5. ¿Qué debe contener el acta de un comité de crisis para que tenga autoridad?
+6. ¿Qué dice Coombs que se debe comunicar primero en una crisis, y qué agrega la clase?
+7. ¿Qué es una revisión sin culpas y qué resultado concreto debe producir?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Que se necesite un segundo equipo, que sea visible para clientes o que siga sin resolverse tras un análisis concentrado de una hora (ejemplos del libro de confiabilidad); cada organización fija los suyos.
+2. Porque quien repara no puede decidir, informar y registrar a la vez; y el mando debe conservar la visión de conjunto.
+3. Personas, detener el daño, preservar evidencia, restablecer. Reiniciar antes de preservar puede destruir la prueba necesaria para entender y notificar.
+4. Por criterio: sube cuando se cumple una condición escrita (datos personales, cliente afectado). Por rango: sube si el jefe decide; produce silencios.
+5. Composición, quién preside, quién puede activarla, facultades, matriz de decisiones y criterios de escalamiento.
+6. Informar e instruir: qué ocurrió, qué debe hacer quien está en riesgo y reconocer el daño. La clase agrega separar lo que se sabe de lo que no y hablar con una sola voz.
+7. Análisis posterior centrado en causas del sistema, no en responsables; debe terminar en acciones con dueño y fecha.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/190-crisis-incidentes-y-escalamiento/`:
 
-- `leadership-decision-brief.md` con el problema específico de **crisis, incidentes y escalamiento**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **crisis, incidentes y escalamiento** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **incident**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **A las 09:00 se filtran datos de clientes. Seguridad, legal y comunicaciones trabajan por separado; a las 13:00 tres ejecutivos entregan cifras distintas a prensa y clientes.** y el dato que podría invalidar la recomendación.
+- `crisis-committee-charter.md` (plantilla [acta del comité de crisis](../../../../templates/crisis-committee-charter.md)) con el caso ejecutivo resuelto;
+- `reading-note.md` con una tensión entre dos de las fuentes y su efecto en tu acta;
+- `decision-journal.md` con las decisiones del ejemplo y la revisión sin culpas.
 
 ## 📗 Fuentes y verificación
 
-- COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*. **Uso en esta clase:** riesgo integrado con estrategia, desempeño, revisión e información. **Fuente primaria:** <https://www.coso.org/>.
-- John C. Hull — *Risk Management and Financial Institutions* (John Wiley & Sons, Incorporated, 2006). **Uso en esta clase:** identificación y medición de riesgos financieros y no financieros. Lectura selectiva sobre **crisis, incidentes y escalamiento**. **Localizador:** [ISBN-13 9781118286388](https://openlibrary.org/isbn/9781118286388).
-- OECD — *OECD AI Principles*. **Uso en esta clase:** principios para IA confiable, responsable y centrada en las personas. **Fuente primaria:** <https://oecd.ai/en/ai-principles>.
-- Ross Anderson — *Security Engineering* (John Wiley & Sons, Incorporated, 2001). **Uso en esta clase:** perspectiva de Ciberseguridad aplicada al problema de la clase. Lectura selectiva sobre **crisis, incidentes y escalamiento**. **Localizador:** [ISBN-13 9781119642831](https://openlibrary.org/isbn/9781119642831).
-- OECD — *G20/OECD Principles of Corporate Governance 2023*. **Uso en esta clase:** derechos de accionistas, directorio, disclosure, sostenibilidad y buen gobierno. **Fuente primaria:** <https://www.oecd.org/en/publications/2023/09/g20-oecd-principles-of-corporate-governance-2023_60836fcb.html>.
-- NIST — *Cybersecurity Framework (CSF) 2.0*. **Uso en esta clase:** gobierno, identificación, protección, detección, respuesta y recuperación en ciberseguridad. **Fuente primaria:** <https://www.nist.gov/cyberframework>.
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **crisis, incidentes y escalamiento** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **crisis, incidentes y escalamiento**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **crisis, incidentes y escalamiento** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **crisis, incidentes y escalamiento** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **crisis, incidentes y escalamiento** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy — *Site Reliability Engineering* (O'Reilly Media, 2016). **Uso en esta clase:** mando único, roles separados, criterios para declarar un incidente y revisión sin culpas. Lectura selectiva sobre **crisis, incidentes y escalamiento**. **Localizador:** [ISBN-13 9781491929124](https://openlibrary.org/isbn/9781491929124).
+- W. Timothy Coombs — *Protecting Organization Reputations During a Crisis: The Development and Application of Situational Crisis Communication Theory* (Corporate Reputation Review, 2007). **Uso en esta clase:** qué comunicar primero y cómo la responsabilidad atribuida condiciona la respuesta. Lectura selectiva sobre **crisis, incidentes y escalamiento**. **Localizador:** [DOI 10.1057/palgrave.crr.1550049](https://doi.org/10.1057/palgrave.crr.1550049).
+- Karl E. Weick & Kathleen M. Sutcliffe — *Managing the Unexpected* (Jossey-Bass, 2015). **Uso en esta clase:** preocupación por el fallo y deferencia a la experticia en organizaciones de alta confiabilidad. Lectura selectiva sobre **crisis, incidentes y escalamiento**. **Localizador:** [ISBN-13 9781118862414](https://openlibrary.org/isbn/9781118862414).
+- Gary Klein — *Sources of Power* (The MIT Press, 1999). **Uso en esta clase:** cómo decide la experiencia bajo presión de tiempo y cuándo conviene frenar. Lectura selectiva sobre **crisis, incidentes y escalamiento**. **Localizador:** [ISBN-13 9780262611466](https://openlibrary.org/isbn/9780262611466).
+- Amy C. Edmondson — *The Fearless Organization* (Wiley, 2018). **Uso en esta clase:** seguridad psicológica y aprendizaje del error. Lectura selectiva sobre **crisis, incidentes y escalamiento**. **Localizador:** [ISBN-13 9781119477242](https://openlibrary.org/isbn/9781119477242).
 
-> **Regla de fuentes para Crisis, incidentes y escalamiento:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **crisis, incidentes y escalamiento** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Crisis, incidentes y escalamiento:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, en particular los plazos de notificación. El ejemplo y el caso son hipotéticos y no describen a ninguna empresa real. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

@@ -48,18 +48,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 286: 1. identificar stakeholders y deberes → 2. declarar conflictos y límites → 3. proteger datos e IP → 4. hacer claims verificables → 5. crear incident y escalation process](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. identificar stakeholders y deberes → 2. declarar conflictos y límites → 3. proteger datos e IP → 4. hacer claims verificables → 5. crear incident y escalation process
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Independencia aumenta responsabilidad sobre ética y reputación porque nombre personal y negocio se superponen. Conflictos de interés, confidencialidad, publicidad, IP, seguridad y promesas comerciales deben gestionarse explícitamente; una ganancia corta puede destruir confianza acumulada.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Ser independiente no elimina obligaciones legales ni profesionales. Cuando un encargo excede competencia o habilitación, deriva o trabaja con especialista.**
 

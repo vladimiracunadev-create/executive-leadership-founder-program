@@ -1,68 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 418" width="1040" role="img" aria-labelledby="t d" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t">Modelo mental de la clase 200: Comunicación del CEO</title>
-<desc id="d">1. definir objetivo y audiencia → 2. estructurar situación elección evidencia → 3. anticipar preguntas y objeciones → 4. alinear mensajes entre canales → 5. cerrar con acción y seguimiento</desc>
-<defs><marker id="punta" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#cf222e"/></marker></defs>
-<rect width="1040" height="418" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="132" height="26" rx="13" fill="#cf222e"/>
-<text x="94" y="41.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.2">MODELO MENTAL</text>
-<text x="176" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 200 · Comunicación del CEO</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 16 · Alta dirección y gobierno</text>
-<rect x="28" y="92" width="169.6" height="148" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
-<path d="M28,126 V104 a12,12 0 0 1 12,-12 H185.6 a12,12 0 0 1 12,12 V126 Z" fill="#cf222e"/>
-<text x="44" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 1</text>
-<text x="42" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >definir objetivo</text>
-<text x="42" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >y audiencia</text>
-<path d="M203.6,183 H223.6" stroke="#cf222e" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
-<rect x="231.6" y="92" width="169.6" height="148" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
-<path d="M231.6,126 V104 a12,12 0 0 1 12,-12 H389.2 a12,12 0 0 1 12,12 V126 Z" fill="#cf222e"/>
-<text x="247.6" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 2</text>
-<text x="245.6" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >estructurar</text>
-<text x="245.6" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >situación</text>
-<text x="245.6" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >elección</text>
-<text x="245.6" y="214" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >evidencia</text>
-<path d="M407.2,183 H427.2" stroke="#cf222e" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
-<rect x="435.2" y="92" width="169.6" height="148" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
-<path d="M435.2,126 V104 a12,12 0 0 1 12,-12 H592.8 a12,12 0 0 1 12,12 V126 Z" fill="#cf222e"/>
-<text x="451.2" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 3</text>
-<text x="449.2" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >anticipar</text>
-<text x="449.2" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >preguntas y</text>
-<text x="449.2" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >objeciones</text>
-<path d="M610.8,183 H630.8" stroke="#cf222e" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
-<rect x="638.8" y="92" width="169.6" height="148" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
-<path d="M638.8,126 V104 a12,12 0 0 1 12,-12 H796.4 a12,12 0 0 1 12,12 V126 Z" fill="#cf222e"/>
-<text x="654.8" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 4</text>
-<text x="652.8" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >alinear mensajes</text>
-<text x="652.8" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >entre canales</text>
-<path d="M814.4,183 H834.4" stroke="#cf222e" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
-<rect x="842.4" y="92" width="169.6" height="148" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
-<path d="M842.4,126 V104 a12,12 0 0 1 12,-12 H1000 a12,12 0 0 1 12,12 V126 Z" fill="#cf222e"/>
-<text x="858.4" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 5</text>
-<text x="856.4" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >cerrar con</text>
-<text x="856.4" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >acción y</text>
-<text x="856.4" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >seguimiento</text>
-<path d="M927.2,242 V264 a10,10 0 0 1 -10,10 H122.8 a10,10 0 0 1 -10,-10 V244" fill="none" stroke="#cf222e" stroke-width="2" stroke-dasharray="7 6" stroke-linecap="round" marker-end="url(#punta)"/>
-<rect x="358.6" y="262" width="322.8" height="24" rx="12" fill="#f6f8fa" stroke="#cf222e" stroke-width="1.2"/>
-<text x="520" y="278.5" font-size="12.5" font-weight="600" fill="#cf222e" text-anchor="middle" >revisar y ajustar cuando la evidencia cambie</text>
-<text x="28" y="320" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="334" width="122.6" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2"/>
-<circle cx="41" cy="347" r="3.5" fill="#cf222e"/>
-<text x="52" y="351.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >message recall</text>
-<rect x="160.6" y="334" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2"/>
-<circle cx="173.6" cy="347" r="3.5" fill="#cf222e"/>
-<text x="184.6" y="351.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >employee understanding</text>
-<rect x="348.4" y="334" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2"/>
-<circle cx="361.4" cy="347" r="3.5" fill="#cf222e"/>
-<text x="372.4" y="351.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >investor questions</text>
-<rect x="508.6" y="334" width="60.5" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2"/>
-<circle cx="521.6" cy="347" r="3.5" fill="#cf222e"/>
-<text x="532.6" y="351.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >trust</text>
-<rect x="579.1" y="334" width="198.5" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2"/>
-<circle cx="592.1" cy="347" r="3.5" fill="#cf222e"/>
-<text x="603.1" y="351.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >commitment follow-through</text>
-<rect x="787.6" y="334" width="177.8" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2"/>
-<circle cx="800.6" cy="347" r="3.5" fill="#cf222e"/>
-<text x="811.6" y="351.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >spokesperson readiness</text>
-<rect x="28" y="368" width="170.9" height="26" rx="13" fill="#ffffff" stroke="#cf222e" stroke-width="1.2"/>
-<circle cx="41" cy="381" r="3.5" fill="#cf222e"/>
-<text x="52" y="385.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >correction timeliness</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 600" width="1040" role="img" aria-labelledby="t-200 d-200" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-200">Cómo la responsabilidad atribuida decide la respuesta pública</title>
+<desc id="d-200">Matriz de la teoría situacional de comunicación de crisis: tres grupos de crisis según la responsabilidad que el público atribuye (víctima, accidental, evitable) y la postura de respuesta que corresponde, siempre precedida de información e instrucción.</desc>
+<defs><marker id="p-200" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="600" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#cf222e"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 200 · La respuesta del CEO sigue a la responsabilidad atribuida</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Coombs (2007), teoría situacional</text>
+<rect x="28" y="76" width="984" height="62" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="2" />
+<text x="48" y="100" font-size="11.5" font-weight="700" fill="#1a7f37" text-anchor="start" letter-spacing="1.4">SIEMPRE PRIMERO</text>
+<text x="48" y="124" font-size="14" font-weight="600" fill="#1f2328" text-anchor="start" >Informar e instruir: qué pasó, qué debe hacer quien está en riesgo, y reconocer el daño humano antes de hablar de la imagen.</text>
+<rect x="28" y="160" width="320" height="330" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<path d="M28,194 V172 a12,12 0 0 1 12,-12 H336 a12,12 0 0 1 12,12 V194 Z" fill="#0969da"/>
+<text x="44" y="182" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" letter-spacing="1.2">VÍCTIMA</text>
+<text x="44" y="216" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >responsabilidad atribuida mínima</text>
+<text x="44" y="246" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" >Ejemplos del grupo</text>
+<text x="44" y="264" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Desastre natural, rumor, violencia ajena,</text>
+<text x="44" y="281.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >manipulación maliciosa del producto.</text>
+<text x="44" y="312.5" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" >Postura</text>
+<text x="44" y="330.5" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >Informar y mostrar apoyo. Reafirmar lo</text>
+<text x="44" y="349.13" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >que la organización sí hace bien.</text>
+<text x="44" y="379.76" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" >Cuidado</text>
+<text x="44" y="397.76" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Bastan información y cuidado; no hace</text>
+<text x="44" y="415.01" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >falta disculparse por lo que no se hizo.</text>
+<path d="M351,325 L365,325" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-200)"/>
+<rect x="368" y="160" width="320" height="330" rx="12" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<path d="M368,194 V172 a12,12 0 0 1 12,-12 H676 a12,12 0 0 1 12,12 V194 Z" fill="#bc4c00"/>
+<text x="384" y="182" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" letter-spacing="1.2">ACCIDENTAL</text>
+<text x="384" y="216" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >responsabilidad atribuida moderada</text>
+<text x="384" y="246" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" >Ejemplos del grupo</text>
+<text x="384" y="264" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Falla técnica o error no deliberado, un</text>
+<text x="384" y="281.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >reto de terceros, un accidente.</text>
+<text x="384" y="312.5" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" >Postura</text>
+<text x="384" y="330.5" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >Informar y explicar el contexto con</text>
+<text x="384" y="349.13" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >evidencia. Disminuir: justificar solo</text>
+<text x="384" y="367.76" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >lo que se pruebe.</text>
+<text x="384" y="398.39" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" >Cuidado</text>
+<text x="384" y="416.39" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >La explicación vale solo si es</text>
+<text x="384" y="433.64" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >verificable; una excusa que cae agrava.</text>
+<path d="M691,325 L705,325" stroke="#59636e" stroke-width="2" fill="none" stroke-linecap="round"  marker-end="url(#p-200)"/>
+<rect x="708" y="160" width="320" height="330" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<path d="M708,194 V172 a12,12 0 0 1 12,-12 H1016 a12,12 0 0 1 12,12 V194 Z" fill="#cf222e"/>
+<text x="724" y="182" font-size="13.5" font-weight="800" fill="#ffffff" text-anchor="start" letter-spacing="1.2">EVITABLE</text>
+<text x="724" y="216" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >responsabilidad atribuida fuerte</text>
+<text x="724" y="246" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" >Ejemplos del grupo</text>
+<text x="724" y="264" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >Error humano evitable, falta de</text>
+<text x="724" y="281.25" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >supervisión, conducta indebida de la</text>
+<text x="724" y="298.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >organización.</text>
+<text x="724" y="329.75" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" >Postura</text>
+<text x="724" y="347.75" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >Reconstruir: asumir responsabilidad,</text>
+<text x="724" y="366.38" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >disculparse, reparar y compensar.</text>
+<text x="724" y="397.01" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" >Cuidado</text>
+<text x="724" y="415.01" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Negar o minimizar aquí es la peor opción:</text>
+<text x="724" y="432.26" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >el público ya atribuye culpa.</text>
+<text x="28" y="514" font-size="12.5" font-weight="600" fill="#1f2328" text-anchor="start" >Sube un escalón cuando hay crisis previas similares o una reputación ya dañada.</text>
+<path d="M28,526 H1012" stroke="#59636e" stroke-width="2" marker-end="url(#p-200)"/>
+<text x="28" y="548" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >más responsabilidad atribuida  →  respuesta más cercana a asumir y reparar</text>
+<text x="28" y="580" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Antes de elegir la postura, el CEO comprueba que lo que dirá coincide con lo que la empresa sabe y hace por dentro.</text>
 </svg>

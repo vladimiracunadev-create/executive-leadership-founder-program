@@ -5,33 +5,27 @@ duration_minutes: 150
 level: "Etapa 4 — Gerente → Director"
 outcome: "gobernar riesgo, legal, cumplimiento, ciberseguridad, datos e IA de forma integrada"
 depth_standard: deep-class-v2
-source_mode: books-plus-primary
+source_mode: primary-literature
 pedagogy: retrieval-case-deliberate-practice
+authoring: manual
 objectives:
-  - "Distinguir incident de crisis mediante evidencia observable."
-  - "Aplicar la secuencia: detectar y clasificar → activar roles y war room → proteger personas y contener impacto → comunicar hechos y decisiones → recuperar investigar y aprender."
-  - "Interpretar time-to-escalate, MTTR, stakeholder update latency sin atribuir causalidad automática."
-  - "Resolver el caso de crisis, incidentes y escalamiento con dos alternativas y trade-offs."
-  - "Contrastar dos fuentes y modificar la decisión cuando la evidencia lo exija."
-  - "Separar hechos, alegaciones y juicios privados y aplicar el protocolo de las primeras 72 horas con presunción de inocencia."
-  - "Constituir un comité de crisis con autoridad, matriz de responsabilidades y protocolo de escalamiento por niveles."
-deliverable: "leadership-decision-brief.md"
+  - "Distinguir incidente, crisis y escalamiento, y decidir cuándo corresponde declarar un incidente."
+  - "Asignar el mando único y los roles separados de un incidente y explicar por qué quien repara no habla por la empresa."
+  - "Ordenar las prioridades de las primeras horas y justificar ese orden."
+  - "Diseñar niveles de escalamiento con criterios de paso y un comité de crisis con matriz de responsabilidades."
+  - "Separar hechos, alegaciones y juicios cuando el incidente involucra a una persona clave y comunicar sin adelantar conclusiones."
+  - "Convocar una revisión posterior sin búsqueda de culpables que produzca cambios verificables."
+deliverable: "crisis-committee-charter.md"
 references:
-  - "COSO — *Enterprise Risk Management—Integrating with Strategy and Performance*"
-  - "John C. Hull — *Risk Management and Financial Institutions*"
-  - "OECD — *OECD AI Principles*"
-  - "Ross Anderson — *Security Engineering*"
-  - "OECD — *G20/OECD Principles of Corporate Governance 2023*"
-  - "NIST — *Cybersecurity Framework (CSF) 2.0*"
+  - "Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy — *Site Reliability Engineering*"
+  - "W. Timothy Coombs — *Protecting Organization Reputations During a Crisis: The Development and Application of Situational Crisis Communication Theory*"
+  - "Karl E. Weick & Kathleen M. Sutcliffe — *Managing the Unexpected*"
+  - "Gary Klein — *Sources of Power*"
+  - "Amy C. Edmondson — *The Fearless Organization*"
 limits:
-  - "Centralizar crisis no significa que el CEO decida cada acción. Define incident command y delegación; reserva nivel ejecutivo para trade-offs, stakeholders y decisiones materiales."
+  - "El marco de mando y roles viene de la ingeniería de confiabilidad y requiere adaptación fuera de ella. Las obligaciones legales de notificación dependen de la jurisdicción y se verifican con asesoría."
 evidence_signals:
-  - "time-to-escalate"
-  - "MTTR"
-  - "stakeholder update latency"
-  - "decision reversals"
-  - "recovery objective"
-  - "fact-vs-allegation separation"
-  - "investigator independence"
-  - "escalation criteria clarity"
-  - "decision-rights coverage"
+  - "criterio de declaración escrito"
+  - "un solo responsable por decisión"
+  - "evidencia preservada antes de restablecer"
+  - "acciones de la revisión con dueño y fecha"

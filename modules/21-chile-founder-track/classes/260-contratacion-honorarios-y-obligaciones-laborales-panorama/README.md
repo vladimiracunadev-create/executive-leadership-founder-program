@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 260: 1. clasificar hechos de la relación → 2. elegir contrato y modalidad → 3. redactar cláusulas y anexos → 4. registrar y operar jornada cotizaciones y prevención → 5. gestionar cambios y término con evidencia](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. clasificar hechos de la relación → 2. elegir contrato y modalidad → 3. redactar cláusulas y anexos → 4. registrar y operar jornada cotizaciones y prevención → 5. gestionar cambios y término con evidencia
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Contratar en Chile exige distinguir relación laboral de prestación independiente, seleccionar contrato y modalidad correctos, documentar cláusulas, registrar cuando corresponda y cumplir jornada, remuneraciones, cotizaciones, seguridad, prevención y término. La realidad de subordinación prima sobre la etiqueta honorarios.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Derecho laboral es sensible a hechos y cambia. A agosto de 2026 la jornada máxima general ya está en 42 horas; Ley Karin y DS 44 requieren controles específicos. Verifica DT y BCN y usa asesoría laboral para casos reales.**
 

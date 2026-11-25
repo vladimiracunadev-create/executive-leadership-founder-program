@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 175: 1. definir outcome real → 2. mapear conductas deseadas y no deseadas → 3. identificar métricas manipulables → 4. diseñar recompensa y guardrails → 5. monitorear efectos y corregir](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir outcome real → 2. mapear conductas deseadas y no deseadas → 3. identificar métricas manipulables → 4. diseñar recompensa y guardrails → 5. monitorear efectos y corregir
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Los incentivos moldean atención y conducta, pero las personas responden al sistema completo: metas, recompensas, status, seguridad, carga y normas. Goodhart advierte que una medida usada como target puede dejar de medir lo que importa; diseñar incentivos exige anticipar gaming y efectos secundarios.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No toda motivación responde a dinero y recompensas externas pueden desplazar motivación intrínseca. Usa compensación como parte de un sistema, no como única palanca.**
 

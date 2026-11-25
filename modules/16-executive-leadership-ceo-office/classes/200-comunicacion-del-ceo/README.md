@@ -10,237 +10,209 @@
 
 ## 🎯 Propósito
 
-La comunicación del CEO reduce incertidumbre y alinea interpretación. Debe adaptar mensaje a empleados, directorio, clientes, inversionistas y medios sin contradecir hechos. En crisis o cambio, claridad sobre lo conocido, lo desconocido y la próxima decisión es más valiosa que falsa certeza.
+Lo que dice un CEO se lee a la vez como información, como señal de lo que viene y como prueba de su carácter. Habla ante empleados, directorio, clientes, inversionistas, autoridades y medios, y cada uno compara lo que oye con lo que ve. Por eso la comunicación del CEO tiene una exigencia que otras comunicaciones no tienen: **el mensaje externo debe coincidir con la realidad interna**, porque basta una contradicción para que todo lo demás pierda credibilidad.
 
-La salida de esta parte es **pensar y decidir a nivel empresa, construir el equipo ejecutivo y asignar capital y talento**. En esta clase, esa progresión se concreta al exigir que cada afirmación sobre **comunicación del CEO** termine en una definición operacional, una señal observable, una decisión y una condición de revisión.
+Esta clase da un método para tres momentos difíciles: una **declaración controvertida**, una **pregunta que el CEO no quiere responder** y la **pérdida del vocero** que sostenía la relación con el exterior. Se apoya en la teoría situacional de comunicación de crisis de Coombs, en la evidencia experimental sobre disculpa y negación de Kim y colegas, y en el análisis de las conversaciones difíciles de Stone, Patton y Heen.
 
 ## 📚 Resultados de aprendizaje
 
 Al finalizar podrás:
 
-1. **Distinguir** `CEO narrative`, `message architecture`, `audience adaptation`, `credibility`, `forward-looking statement` mediante observables, no por memoria verbal.
-2. **Explicar** por qué esas distinciones cambian una decisión de director → ceo.
-3. **Aplicar** la secuencia **1. definir objetivo y audiencia → 2. estructurar situación elección evidencia → 3. anticipar preguntas y objeciones → 4. alinear mensajes entre canales → 5. cerrar con acción y seguimiento** conservando supuestos, alternativas y trazabilidad.
-4. **Interpretar** message recall, employee understanding, investor questions sin confundir señal, explicación y causalidad.
-5. **Resolver** el caso ejecutivo con al menos dos opciones plausibles y un criterio explícito de stop/revisión.
-6. **Contrastar** dos obras de referencia y explicar dónde sus lentes son complementarias o entran en tensión.
-7. **Preparar** un manual de vocería, responder preguntas difíciles sin ocultar incertidumbre y planificar el reemplazo de un vocero.
+1. **Estructurar** un mensaje ejecutivo con lo que se sabe, lo que no se sabe, lo que se hace y cuándo habrá novedades.
+2. **Clasificar** una situación según la responsabilidad que el público atribuye y elegir la postura de respuesta que le corresponde.
+3. **Decidir** entre mantener, aclarar o retractarse tras una declaración controvertida, según si fue inexacta, mal expresada o correcta pero discutida.
+4. **Responder** una pregunta difícil separando hecho, límite de la información y compromiso.
+5. **Preparar** un manual de vocería y el traspaso cuando el vocero se va.
+6. **Reconocer** errores y límites de la información sin ocultar hechos relevantes.
 
 ## 🧭 Agenda
 
-| Tramo | Evidencia de aprendizaje |
+| Tramo | Qué se hace |
 |---|---|
-| 0–20 min | Recuperación: define CEO narrative y message architecture sin mirar la tabla; corrige con la fuente. |
-| 20–70 min | Lectura guiada de conceptos + contraste de dos referencias. |
-| 70–115 min | Ejemplo trabajado con message recall y trazabilidad de supuestos. |
-| 115–155 min | Caso ejecutivo: dos alternativas, trade-offs y decisión provisional. |
-| 155–180 min | Entregable, preguntas de comprobación y registro de lo que aún no sabes. |
+| 0–20 min | Recuperación: recuerda una declaración pública de un directivo que te pareció poco creíble; ¿qué la contradecía? |
+| 20–65 min | Responsabilidad atribuida y posturas de respuesta, con el diagrama de la clase. |
+| 65–105 min | Ejemplo trabajado: el CEO que dice a empleados e inversionistas cosas incompatibles. |
+| 105–140 min | Caso ejecutivo: declaración, preguntas y traspaso del vocero. |
+| 140–170 min | Límites del modelo y entregable. |
 
 ## 🧩 Conceptos centrales
 
-| Concepto | Definición operacional | Cómo demostrar comprensión |
+| Concepto | Definición | Cómo se reconoce |
 |---|---|---|
-| **CEO narrative** | explicación coherente de situación dirección y lógica | Distingue un hecho compatible y otro que lo refute. |
-| **message architecture** | jerarquía de mensajes principales y evidencia | Distingue un hecho compatible y otro que lo refute. |
-| **audience adaptation** | ajuste de lenguaje y detalle sin cambiar hechos | Distingue un hecho compatible y otro que lo refute. |
-| **credibility** | confianza basada en consistencia evidencia y cumplimiento | Distingue un hecho compatible y otro que lo refute. |
-| **forward-looking statement** | afirmación sobre futuro que requiere cautela y contexto | Distingue un hecho compatible y otro que lo refute. |
+| **Teoría situacional de comunicación de crisis** | Marco de Coombs (2007) que relaciona la responsabilidad que el público atribuye a la organización con las respuestas más adecuadas. | Se pregunta primero «¿quién cree el público que es responsable?» y después «¿qué decimos?». |
+| **Atribución de responsabilidad** | Grado en que los interesados creen que la organización causó la crisis; se agrupa en víctima, accidental y evitable. | Se observa en qué dicen los medios, los clientes y los empleados sobre la causa. |
+| **Intensificadores** | Historial de crisis similares y reputación previa: aumentan la responsabilidad atribuida. | Una empresa con fallas repetidas es leída más severamente. |
+| **Información de instrucción** | Qué ocurrió y qué debe hacer quien está en riesgo para protegerse. | Es lo primero que se comunica. |
+| **Información de ajuste** | Reconocimiento del daño y apoyo para afrontarlo emocionalmente. | Expresa cuidado por los afectados antes de hablar de la imagen. |
+| **Estrategias de respuesta** | Negación, disminución, reconstrucción y refuerzo, con variantes en cada grupo. | Se identifican por lo que el mensaje hace con la culpa. |
+| **Mensaje central** | Una frase verificable que sostiene toda la comunicación; todo lo demás la respalda. | Se puede comprobar con hechos. |
+| **Manual de vocería** | Documento previo que define quién habla, qué dice, qué no dirá y cómo se corrige un error. | Existe antes de la crisis y se ensaya. |
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 200: 1. definir objetivo y audiencia → 2. estructurar situación elección evidencia → 3. anticipar preguntas y objeciones → 4. alinear mensajes entre canales → 5. cerrar con acción y seguimiento](modelo-mental.svg)
+![Cómo la responsabilidad atribuida decide la respuesta pública: tres grupos de crisis (víctima, accidental, evitable) con la postura que corresponde a cada uno, siempre precedida de información e instrucción.](modelo-mental.svg)
 
-<details>
-<summary>La misma secuencia, en texto</summary>
-
-```text
-1. definir objetivo y audiencia → 2. estructurar situación elección evidencia → 3. anticipar preguntas y objeciones → 4. alinear mensajes entre canales → 5. cerrar con acción y seguimiento
-```
-
-</details>
-<!-- modelo:fin -->
-
-La secuencia nace del problema de esta clase: **La comunicación del CEO reduce incertidumbre y alinea interpretación. Debe adaptar mensaje a empleados, directorio, clientes, inversionistas y medios sin contradecir hechos. En crisis o cambio, claridad sobre lo conocido, lo desconocido y la próxima decisión es más valiosa que falsa certeza.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **No conviertas comunicación en spin. La reputación de largo plazo depende de no prometer aquello que los hechos o decisiones internas contradicen.**
+**Cómo leer el diagrama.** Primero, siempre, se informa e instruye. Después se mira cuánta responsabilidad atribuye el público: cuanto más, más cerca debe estar la respuesta de **asumir y reparar**, y más peligrosa es una negación o una excusa que los hechos no sostienen. Los intensificadores desplazan la lectura un escalón hacia la derecha.
 
 ## 📖 Desarrollo
 
-### 1. CEO narrative: mecanismo central
+### 1. Un hecho, varios públicos
 
-**CEO narrative** se entiende aquí como **explicación coherente de situación dirección y lógica**. Esta es la pieza causal o estructural desde la que se inicia **comunicación del CEO**: antes de definir objetivo y audiencia, el gerente debe poder señalar qué cambia en el sistema si el concepto está presente y qué debería observar si no lo está. Una definición que no produce predicciones observables todavía es demasiado vaga para dirigir.
+Un CEO no tiene mensajes distintos para cada audiencia; tiene **un hecho** y lo adapta en profundidad, orden y lenguaje. Los empleados necesitan saber qué cambia para ellos; los inversionistas, qué cambia para el negocio; los clientes, qué cambia para el servicio; la autoridad, qué cumple la empresa. Pero el hecho de fondo es el mismo, porque los públicos se comunican entre sí y comparan. La regla práctica: antes de hablar, escribir el hecho en una frase y comprobar que no contradice nada de lo que se dirá a otra audiencia.
 
-La lectura rectora de este bloque es Ben Horowitz — *The Hard Thing About Hard Things*. Su aporte se usa para examinar **decisiones difíciles de CEO, organización, personas y ejecución bajo presión**. Aplica esa lente al caso sin convertirla en dogma: escribe una proposición de la obra que apoye tu diagnóstico, una condición del caso que la limite y una consecuencia práctica. La evidencia mínima es **message recall**; regístrala con periodo, unidad, población y baseline.
+### 2. Qué comunicar primero
 
-Relaciona el mecanismo con **message architecture**. Si ambos cambian juntos, no concluyas causalidad automáticamente: identifica una tercera variable o mecanismo alternativo que también pueda explicar el patrón. El resultado de este bloque debe ser una hipótesis refutable, no una recomendación anticipada.
+Coombs propone una **respuesta base** que precede a cualquier tratamiento de la reputación: **información de instrucción** —qué ocurrió y qué debe hacer quien está en riesgo— e **información de ajuste** —reconocer el daño y expresar cuidado por los afectados—. Solo después se decide cuánto asumir. Esto invierte el orden que tienta a muchos directivos: primero proteger a las personas, luego la imagen.
 
-### 2. message architecture: frontera conceptual y error de clasificación
+### 3. Responsabilidad atribuida: tres grupos
 
-**Definición operacional:** jerarquía de mensajes principales y evidencia. Su valor está en distinguirlo de **CEO narrative** y **audience adaptation**. En una decisión real, clasificar una situación en la categoría equivocada cambia la intervención: puedes asignar autoridad donde faltaba información, medir un output cuando debías observar un proceso o tratar una restricción como si fuera una preferencia.
+La teoría agrupa las crisis según cuánta responsabilidad **percibe** el público en la organización. En el grupo **víctima** (desastre natural, rumor, violencia ajena, manipulación maliciosa del producto) la atribución es mínima. En el **accidental** (fallas técnicas no deliberadas, retos de terceros) es moderada. En el **evitable** (error humano evitable, falta de supervisión, conducta indebida) es fuerte. Dos factores la intensifican: haber tenido **crisis similares antes** y una **reputación previa deteriorada**.
 
-Contrasta el problema con Matt Mochary — *The Great CEO Within*, que aporta una mirada sobre **sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo**. Formula dos mini-casos: uno que sí satisface la definición de **message architecture** y otro que solo se parece superficialmente. Luego pregunta qué señal distinguiría ambos; para esta clase, **employee understanding** es una candidata, pero debe combinarse con evidencia cualitativa o documental cuando el fenómeno no sea directamente medible.
+El punto clave es que importa lo que el público *percibe*, no lo que la empresa cree. Si la empresa se ve a sí misma como víctima y el público la ve como responsable, usará una postura equivocada.
 
-Antes de estructurar situación elección evidencia, registra explícitamente qué decisión sería errónea si esta frontera conceptual se ignora. Esa frase convierte el vocabulario en criterio gerencial.
+### 4. Elegir la postura
 
-### 3. audience adaptation: operacionalización y medición
+Coombs organiza las respuestas en cuatro familias: **negación** (negar, atacar al acusador o culpar a otro), **disminución** (excusa o justificación), **reconstrucción** (compensación y disculpa) y **refuerzo** (recordar lo positivo, congraciarse, presentarse como víctima). La teoría propone ajustarlas a la responsabilidad atribuida: cuando es mínima, bastan información y apoyo; cuando es moderada, se suma una explicación con evidencia; cuando es fuerte, la respuesta apropiada es reconstruir.
 
-**audience adaptation** significa **ajuste de lenguaje y detalle sin cambiar hechos**. El problema ya no es definirlo, sino **operacionalizarlo**: qué contar, durante qué ventana, con qué denominador, contra qué baseline y con qué segmentación. Una métrica útil conserva suficiente contexto para no confundir mejora local con mejora del sistema.
+Dos precauciones. Primera, la **disminución** solo funciona con evidencia: una excusa que se desmiente empeora la situación. Segunda, la **negación** es una estrategia legítima únicamente cuando los hechos la respaldan, por ejemplo ante un rumor falso; como principio de esta clase, **nunca se niega lo que se sabe cierto**.
 
-Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* orienta este bloque mediante **responsabilidad gerencial, propósito, organización y resultados**. Usa esa perspectiva para diseñar una ficha de medición: `señal → fórmula/criterio → fuente → frecuencia → owner → interpretación permitida → interpretación prohibida`. La señal asignada es **investor questions**. Si no existe un dato confiable, la salida correcta no es inventar precisión: diseña el mecanismo de captura y declara la incertidumbre.
+### 5. La declaración controvertida
 
-Al llegar a anticipar preguntas y objeciones, compara tendencia, distribución y casos atípicos. Pregunta además si el indicador es *leading* o *lagging* y si puede ser manipulado por quienes son evaluados con él. La medición debe informar una decisión; nunca convertirse en el objetivo que reemplaza al fenómeno.
+Cuando una declaración del CEO genera polémica, la primera pregunta es de hecho: ¿fue **inexacta** (dijo algo falso), **mal expresada** (quiso decir otra cosa) o **correcta pero discutida** (los hechos la respaldan, aunque incomoda)? De la respuesta depende la estrategia: si fue inexacta, **corregir** de inmediato y explicar el error; si fue mal expresada, **aclarar** el sentido sin cambiar los hechos; si fue correcta, **mantenerla y explicar** su base. Retractarse de lo cierto daña la credibilidad tanto como sostener lo falso.
 
-### 4. credibility: trade-offs y efectos de segundo orden
+Las investigaciones de Kim y colegas sobre reparación de confianza muestran que, cuando la falla es de competencia —una equivocación—, una disculpa suele funcionar mejor que negarla. Como esos resultados vienen de experimentos, sirven para orientar el diagnóstico y no para decidir sin conocer los hechos.
 
-**Definición:** confianza basada en consistencia evidencia y cumplimiento. Este concepto obliga a abandonar la idea de que **comunicación del CEO** tiene una solución gratuita. Toda intervención consume autonomía, tiempo, caja, capacidad, atención, reputación o tolerancia al riesgo. Por eso, antes de alinear mensajes entre canales, se comparan al menos dos alternativas plausibles y se explicita qué se sacrifica en cada una.
+### 6. La pregunta difícil
 
-Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* aporta una lente sobre **perspectiva de Sucesión aplicada al problema de la clase**. Úsala para construir una matriz `beneficio / costo / reversibilidad / stakeholder afectado / señal temprana`. La evidencia **trust** ayuda a detectar si el trade-off está ocurriendo como se esperaba, pero no elimina la necesidad de observar efectos laterales fuera del KPI principal.
+Stone, Patton y Heen proponen que toda conversación difícil contiene tres conversaciones a la vez: **qué ocurrió** (hechos y atribución de culpa), **los sentimientos** involucrados y **la identidad** (qué dice esto de quien responde). La pregunta hostil de un periodista suele apuntar a la tercera, y el CEO, sin darse cuenta, responde a la tercera cuando debería responder a la primera.
 
-Haz un *pre-mortem* de **comunicación del CEO**: supone que la opción recomendada fracasó seis meses después y enumera tres mecanismos que podrían explicarlo. Al menos uno debe provenir de un efecto de segundo orden asociado a **credibility** y otro de una hipótesis del caso que nunca fue validada.
+Una estructura útil: **hecho confirmado → límite de lo que se sabe → compromiso verificable**. Por ejemplo: «Confirmamos que 3.200 clientes recibieron el mensaje equivocado. Aún no sabemos si alguien accedió a sus datos. Informaremos el jueves a las 12:00, haya o no novedades.» Evita tres evasiones: negar sin respaldo, desviar hacia otro tema y adelantar conclusiones que la investigación aún no alcanza.
 
-### 5. forward-looking statement: gobernanza, límites e integración
+### 7. Incertidumbre y errores sin ocultar hechos
 
-**forward-looking statement** se define como **afirmación sobre futuro que requiere cautela y contexto** y cierra el circuito porque traduce análisis en responsabilidad. La pregunta ejecutiva es quién decide, quién ejecuta, quién debe ser consultado, qué evidencia queda registrada y qué condición obliga a detener, corregir o escalar.
+Decir «aún no lo sabemos» con una fecha de actualización es más creíble que una certeza que luego se corrige. Lo que convierte un error en un problema mayor es **retener un dato relevante que ya se conoce**: cuando se descubre, la lectura pasa de falla de competencia a duda de integridad (clase 137). La regla del manual: registrar la hora en que se supo cada hecho y el momento en que se comunicó, y corregir un dato erróneo apenas se detecta, con la misma visibilidad con que se dijo.
 
-Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* se utiliza para estudiar **impacto emocional del liderazgo y estilos de conducción** y contrastar la recomendación final. Al ejecutar cerrar con acción y seguimiento, deja una traza que permita a otra persona reconstruir por qué la decisión parecía razonable con la información disponible en ese momento. Esa trazabilidad protege contra el sesgo retrospectivo y mejora las revisiones posteriores.
+### 8. El manual de vocería y el reemplazo del vocero
 
-La frontera de esta clase es explícita: **No conviertas comunicación en spin. La reputación de largo plazo depende de no prometer aquello que los hechos o decisiones internas contradicen.**. Conviértela en una regla operativa: `si ocurre X → no aplicar automáticamente → consultar/escalar/revalidar`. Integrar **CEO narrative**, **message architecture**, **audience adaptation**, **credibility** y **forward-looking statement** significa poder explicar qué parte del diagnóstico sostiene la decisión y cuál sigue siendo una apuesta.
-
-### 6. Integración: de conceptos a una decisión defendible
-
-La síntesis de **comunicación del CEO** no consiste en sumar cinco definiciones. Empieza por **CEO narrative**, contrasta **message architecture** con **audience adaptation**, incorpora **credibility** como restricción o mecanismo y usa **forward-looking statement** para cerrar el ciclo. Si el análisis no puede explicar cuál de esas piezas cambió la recomendación, todavía no hay comprensión transferible.
-
-Aplica ahora la secuencia **1. definir objetivo y audiencia → 2. estructurar situación elección evidencia → 3. anticipar preguntas y objeciones → 4. alinear mensajes entre canales → 5. cerrar con acción y seguimiento**. Para cada paso conserva tres columnas: evidencia utilizada, alternativa descartada y razón. Esa disciplina permite que una revisión posterior distinga una mala decisión de un mal resultado y evita reescribir la historia después de conocer el desenlace.
-
-## 🔧 Profundización específica
-
-### Vocería ejecutiva: entrevistas, declaraciones y el reemplazo de un vocero
-
-La comunicación del CEO se somete a su prueba más dura cuando hay una **declaración controvertida** o una pregunta que el CEO no quiere responder. Esta ampliación entrena el oficio, no el espectáculo.
-
-**Manual de vocería ejecutiva (contenido mínimo):** `1) Quién habla y por qué. 2) Mensaje central en una frase verificable. 3) Tres hechos que lo sostienen. 4) Lo que aún no se sabe. 5) Preguntas difíciles anticipadas con respuesta. 6) Lo que no se dirá y por qué. 7) Cómo se corrige un error propio en público.`
-
-| Pregunta difícil | Respuesta débil | Respuesta defendible |
-|---|---|---|
-| «¿Sabía de esto antes?» | Evasiva o negación sin respaldo. | Hecho comprobable, fecha, y qué se revisa. |
-| «¿Renunciará?» | Desvío. | Responder qué decide y quién, sin prometer lo que no controla. |
-| «¿Cuántos afectados?» | Una cifra no verificada. | La cifra confirmada, el rango probable y cuándo se actualizará. |
-
-**Caso: el CEO realiza una declaración controvertida.** Opciones defendibles: mantener la postura y explicarla; aclarar el sentido y corregir lo inexacto; retractarse y disculparse. La elección depende de si la declaración fue **inexacta**, **mal expresada** o **correcta pero discutida**. Retractar lo que es cierto daña la credibilidad tanto como sostener lo que es falso. Registra la fecha en que se corrigió un dato erróneo: quien corrige a tiempo, conserva autoridad.
-
-**Caso: renuncia o reemplazo de un vocero.** Un vocero que se va se lleva la relación con los medios y el conocimiento de los hechos. Prepara: traspaso de mensajes y relaciones, sucesor entrenado, un solo vocero provisional y explicación honesta del cambio sin sugerir causas que no se conocen. **Ejercicio de entrevista:** graba una respuesta de dos minutos a una pregunta hostil; evalúa con la rúbrica de la clase 202 si separaste hecho, límite de información y compromiso.
+El manual define: quién habla y sobre qué; el mensaje central en una frase verificable; tres hechos que lo sostienen; lo que aún no se sabe; las preguntas difíciles anticipadas; lo que no se dirá y por qué (reserva legal, privacidad de personas, investigación en curso); y cómo se corrige un error propio. Cuando un vocero **renuncia o es reemplazado**, se pierde la relación con los medios y el conocimiento de los hechos. Se prepara de antemano: traspaso de relaciones y mensajes vigentes, un sucesor entrenado, un solo vocero provisional y una explicación honesta del cambio que no sugiera causas que no se conocen.
 
 ## 📚 Lectura comparada
 
-Las obras no cumplen el mismo papel. Esta tabla señala el lente que debes buscar; después de leer, escribe una discrepancia real entre al menos dos fuentes.
-
-| Fuente | Lente que aporta | Pregunta crítica |
-|---|---|---|
-| Ben Horowitz — *The Hard Thing About Hard Things* | decisiones difíciles de CEO, organización, personas y ejecución bajo presión | ¿Qué supuesto de **comunicación del CEO** ayuda a desafiar? |
-| Matt Mochary — *The Great CEO Within* | sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo | ¿Qué supuesto de **comunicación del CEO** ayuda a desafiar? |
-| Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* | responsabilidad gerencial, propósito, organización y resultados | ¿Qué supuesto de **comunicación del CEO** ayuda a desafiar? |
-| Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* | perspectiva de Sucesión aplicada al problema de la clase | ¿Qué supuesto de **comunicación del CEO** ayuda a desafiar? |
-| Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* | impacto emocional del liderazgo y estilos de conducción | ¿Qué supuesto de **comunicación del CEO** ayuda a desafiar? |
-
-En **comunicación del CEO**, la lectura se evalúa por **uso**, no por cantidad de páginas. La nota debe indicar qué tesis de las fuentes modifica tu lectura de **CEO narrative**, qué evidencia del caso tensiona esa tesis y qué decisión concreta cambiarías después del contraste.
+| Obra | Qué aporta | Qué no resuelve | Pregunta para contrastar |
+|---|---|---|---|
+| Coombs (2007) | Responsabilidad atribuida, respuesta base y posturas. | No cubre la vocería cotidiana. | ¿Qué responsabilidad te atribuye el público y qué postura corresponde? |
+| Kim et al. (2004) | Disculpa o negación según la falla sea de competencia o de integridad. | Experimentos de laboratorio. | ¿Qué diagnóstico harías antes de disculparte? |
+| Stone, Patton y Heen (1999) | Las tres conversaciones dentro de una conversación difícil. | No es específico de medios. | ¿A qué conversación respondiste la última vez? |
+| Goleman, Boyatzis y McKee (2002) | El estado emocional del líder se contagia y condiciona la recepción del mensaje. | No da una estructura de mensaje. | ¿Qué tono transmite tu comunicado antes de que alguien lea el contenido? |
+| Mayer, Davis y Schoorman (1995) | Qué factores observa quien decide confiar. | No habla de vocería. | ¿Qué factor de confianza afecta tu declaración? |
 
 ## 🧮 Ejemplo trabajado
 
-**Situación:** Tras una adquisición, el CEO dice a empleados nada cambiará y a inversionistas promete USD 20M en sinergias de personal. La contradicción se filtra el mismo día.
+**Situación (hipotética).** Tras la adquisición de una empresa, el CEO dice a los empleados que *nada cambiará* y, al mismo tiempo, promete a los inversionistas **USD 20 millones en sinergias de personal**. La contradicción se filtra el mismo día.
 
-**Paso 1 — definir objetivo y audiencia.** La gerencia escribe primero el supuesto asociado a **CEO narrative** y evita convertirlo en hecho. Luego busca **message recall** para contrastarlo en el caso de **comunicación del CEO**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Paso 1: hecho.** Una sinergia de personal significa menos puestos; por lo tanto, «nada cambiará» y «sinergias de personal» no pueden ser ciertas a la vez para los mismos cargos.
 
-**Paso 2 — estructurar situación elección evidencia.** La gerencia escribe primero el supuesto asociado a **message architecture** y evita convertirlo en hecho. Luego busca **employee understanding** para contrastarlo en el caso de **comunicación del CEO**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Paso 2: atribución.** El público lo leerá como engaño deliberado: grupo **evitable**, con intensificador si la empresa ya tuvo reestructuraciones. La respuesta adecuada está en **reconstruir**.
 
-**Paso 3 — anticipar preguntas y objeciones.** La gerencia escribe primero el supuesto asociado a **audience adaptation** y evita convertirlo en hecho. Luego busca **investor questions** para contrastarlo en el caso de **comunicación del CEO**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Paso 3: tres opciones defendibles.**
 
-**Paso 4 — alinear mensajes entre canales.** La gerencia escribe primero el supuesto asociado a **credibility** y evita convertirlo en hecho. Luego busca **trust** para contrastarlo en el caso de **comunicación del CEO**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+| Opción | Qué hace | Qué protege | Qué arriesga | Cuándo conviene |
+|---|---|---|---|---|
+| **A. Mantener y explicar** | Sostiene que «nada cambiará» se refería a los próximos 12 meses y que las sinergias son futuras. | Evita admitir un error. | Parece una excusa; si el plan real ya existe, es la peor. | Solo si el plan real efectivamente no contempla recortes antes de 12 meses. |
+| **B. Aclarar y corregir** | Reconoce que el mensaje a los empleados fue impreciso, informa qué se sabe del plan y cuándo se informará el detalle. | Credibilidad interna y externa. | Reacción inmediata de los empleados. | Si el plan es real y aún no está definido en detalle. |
+| **C. Retractarse y disculparse** | Reconoce que se dio un mensaje incompatible, se disculpa con los empleados y fija un proceso de información. | Confianza a largo plazo. | Costo de reputación inmediato y presión sobre el CEO. | Si se ocultó información que ya se conocía. |
 
-**Paso 5 — cerrar con acción y seguimiento.** La gerencia escribe primero el supuesto asociado a **forward-looking statement** y evita convertirlo en hecho. Luego busca **commitment follow-through** para contrastarlo en el caso de **comunicación del CEO**. El resultado del paso debe ser un artefacto revisable —dato, mapa, cálculo, registro o decisión— y una frase explícita: “cambiaríamos de rumbo si…”.
+**Paso 4: decisión.** Depende de **un hecho que aún no sabemos**: si el plan de recortes ya estaba definido al hablar con los empleados. Si estaba definido, la opción es C; si no, B. En cualquier caso se informa **primero a los empleados**, antes de que se enteren por la prensa.
 
-**Síntesis del caso.** La recomendación debe terminar con responsable, fecha, evidencia de éxito y señal de stop. En **comunicación del CEO**, omitir cualquiera de esas cuatro piezas convierte el análisis en opinión difícil de auditar.
+**Qué muestra.** El método no elige por intuición: elige la postura según la responsabilidad atribuida y declara qué dato cambiaría la decisión. Y deja claro por qué no se elige A sin evidencia.
 
 ## 🔀 Comparación y límites
 
-| Camino | Qué privilegia | Cuándo elegirlo | Riesgo |
-|---|---|---|---|
-| **CEO narrative** | explicación coherente de situación dirección y lógica | Cuando message recall es observable y accionable. | Sobrerreaccionar a una señal parcial. |
-| **message architecture** | jerarquía de mensajes principales y evidencia | Cuando la primera explicación no distingue mecanismo o responsabilidad. | Convertir el concepto en etiqueta. |
-| **Experimento/revisión** | Aprender antes de comprometer recursos mayores | Cuando la decisión es reversible y la incertidumbre es alta. | Experimentar eternamente y no decidir. |
-| **Escalamiento** | Elevar autoridad o especialidad | Cuando hay derechos, capital material, regulación o irreversibilidad. | Delegar hacia arriba lo que sí corresponde decidir. |
+**Aclarar frente a retractarse.** Aclarar mantiene los hechos y corrige el significado; retractarse retira lo dicho. Aclarar lo falso es una forma de evasión; retractarse de lo cierto es una forma de cobardía comunicacional.
 
-**Frontera de aplicación:** No conviertas comunicación en spin. La reputación de largo plazo depende de no prometer aquello que los hechos o decisiones internas contradicen.
+**Respuesta defensiva frente a reconstructiva.** La defensiva (negar, disminuir) protege la imagen en el corto plazo, y exige que los hechos la sostengan; la reconstructiva (disculpa, compensación, corrección) cuesta más en el corto plazo y repara en el largo.
+
+**Límites.** La teoría de Coombs se apoya en estudios experimentales y de casos y en percepciones que varían entre culturas y momentos. Una disculpa tiene consecuencias legales según la jurisdicción: se coordina con asesoría legal, pero **el asesor legal no decide el mensaje por el CEO**. Ningún método reemplaza la veracidad: si el mensaje no coincide con los hechos internos, ninguna técnica lo salva.
 
 ## 🪜 De profesional a owner
 
-| Nivel | Responsabilidad sobre comunicación del CEO |
+| Nivel | Comunicación |
 |---|---|
-| **Profesional** | usa **comunicación del CEO** para mejorar una contribución propia y explicar sus supuestos con evidencia. |
-| **Jefe / Team Lead** | aplica **CEO narrative** y **message architecture** para coordinar personas sin sustituir conversación por métricas. |
-| **Manager / Gerente** | conecta message recall con capacidad, presupuesto, dependencias y riesgo interáreas. |
-| **CEO / Director** | decide si comunicación del CEO cambia estrategia, economía o riesgo de empresa y qué debe llegar al comité o directorio. |
-| **Founder / Owner** | pregunta si la solución de comunicación del CEO reduce dependencia del fundador, preserva caja y puede operar como sistema repetible. |
-
-El cambio de nivel en **comunicación del CEO** aumenta el número de personas, dinero, dependencias y consecuencias que quedan dentro de la decisión. Por eso la misma herramienta debe volverse más explícita en evidencia, gobernanza y revisión a medida que crece el alcance.
+| **Profesional** | Informa de un error propio apenas lo detecta y propone cómo corregirlo. |
+| **Jefe / Team Lead** | Comunica un cambio al equipo con lo que se sabe, lo que no y cuándo habrá más información. |
+| **Gerente** | Alinea los mensajes de su área con el resto de la empresa y prepara respuestas difíciles. |
+| **CEO / Director** | Habla ante todos los públicos con un solo hecho, elige la postura según la responsabilidad atribuida y responde por la coherencia. |
+| **Founder / Owner** | Su declaración compromete su patrimonio y su palabra ante socios y clientes: la honestidad es una decisión de supervivencia. |
 
 ## 🏢 Caso ejecutivo
 
-Tras una adquisición, el CEO dice a empleados nada cambiará y a inversionistas promete USD 20M en sinergias de personal. La contradicción se filtra el mismo día.
+La vocera de una empresa de transporte renuncia un día antes de la presentación trimestral. En la presentación se esperan preguntas sobre un accidente ocurrido hace un mes y sobre la causa judicial en curso. Dos días antes, el CEO dijo en una entrevista que «el accidente no tuvo relación con mantenimiento», aunque la investigación interna aún no concluye.
 
-Entrega un **decision brief de comunicación del CEO** que contenga: (a) hechos y fuentes; (b) hipótesis; (c) dos opciones realmente defendibles; (d) efecto sobre personas, cliente, operación, caja y riesgo; (e) recomendación; (f) condición que haría cambiarla; (g) dueño y fecha de revisión. Utiliza al menos **dos** fuentes de la lectura comparada para desafiar tu primera respuesta.
+Entrega un **manual de vocería** que contenga: (a) la clasificación de la crisis por responsabilidad atribuida y la postura elegida; (b) el mensaje central y tres hechos que lo sostienen; (c) qué se hará con la afirmación del CEO si resulta inexacta, mal expresada o correcta; (d) las tres preguntas más difíciles con respuesta en la estructura *hecho → límite → compromiso*; (e) el plan de traspaso de la vocería, con vocero provisional; (f) qué dato cambiaría tu recomendación.
 
 ## 🧪 Práctica
 
-1. Reconstruye el caso de **comunicación del CEO** con una tabla `hecho / interpretación / hipótesis / decisión`.
-2. Ejecuta **1. definir objetivo y audiencia → 2. estructurar situación elección evidencia → 3. anticipar preguntas y objeciones → 4. alinear mensajes entre canales → 5. cerrar con acción y seguimiento** y adjunta evidencia para cada transición entre pasos.
-3. Calcula o documenta message recall, employee understanding; si no existe dato, diseña cómo obtenerlo.
-4. Escribe una alternativa que contradiga tu preferencia inicial y haz un *pre-mortem* específico del caso.
-5. Lee dos referencias, registra una coincidencia y una tensión, y modifica el brief si corresponde.
-6. Repite la decisión desde el rol de CEO/owner: identifica qué cambia al aumentar el alcance y la irreversibilidad.
-7. Responde en dos minutos a una pregunta hostil separando hecho, límite de información y compromiso, y evalúa la respuesta.
+1. Escribe en una frase el hecho central de una situación de tu organización y comprueba que no contradice nada de lo que dirías a empleados, clientes e inversionistas.
+2. Clasifica una crisis real o simulada en víctima, accidental o evitable y justifica con lo que percibe el público.
+3. Responde en dos minutos a una pregunta hostil y evalúa si respondiste a la conversación sobre los hechos o a la de la identidad.
+4. Redacta el mensaje de corrección de un dato inexacto, con la misma visibilidad con que se dijo.
+5. Escribe el plan de traspaso de la vocería si tu vocero se va mañana.
 
 ## ⚠️ Errores frecuentes
 
-| Síntoma | Causa probable | Corrección |
+| Error | Por qué ocurre | Cómo corregirlo |
 |---|---|---|
-| Usar CEO narrative y message architecture como sinónimos | Se pierde la distinción entre “explicación coherente de situación dirección y lógica” y “jerarquía de mensajes principales y evidencia” | Vuelve a los observables y exige una señal distinta para cada concepto. |
-| Empezar por “cerrar con acción y seguimiento” | Se saltó “definir objetivo y audiencia” y la solución llegó antes que el diagnóstico | Reconstruye la cadena 1. definir objetivo y audiencia → 2. estructurar situación elección evidencia → 3. anticipar preguntas y objeciones → 4. alinear mensajes entre canales → 5. cerrar con acción y seguimiento y marca el primer supuesto no demostrado. |
-| Optimizar solo message recall | La métrica local sustituyó al resultado del sistema | Contrástala con employee understanding y explicita el costo de oportunidad. |
-| Generalizar desde un caso favorable | Se confundió evidencia local con una regla universal sobre comunicación del CEO | No conviertas comunicación en spin. La reputación de largo plazo depende de no prometer aquello que los hechos o decisiones internas contradicen. |
-| No fijar revisión | Una decisión sobre comunicación del CEO se vuelve permanente por inercia | Define responsable, fecha, señal de éxito y condición de stop. |
+| Hablar de imagen antes que de personas | Se prioriza la reputación | Informar e instruir primero; reconocer el daño. |
+| Mensajes distintos por audiencia | Cada área comunica por su cuenta | Un hecho escrito y un vocero coordinador. |
+| Excusa sin evidencia | Se quiere atenuar la responsabilidad | Disminuir solo con hechos comprobables. |
+| Negar lo cierto | Se teme el costo de admitir | Nunca negar lo que se sabe; corregir pronto. |
+| Retractarse de lo correcto | Se cede a la presión | Mantener y explicar lo que los hechos sostienen. |
+| Responder a la identidad | La pregunta toca el orgullo | Volver al hecho: confirmado, límite, compromiso. |
+| Dejar al vocero sin sucesor | Nadie imagina que se irá | Un traspaso escrito y un provisional. |
 
 ## ❓ Preguntas de comprobación
 
-1. Explica la diferencia entre **CEO narrative** y **message architecture** usando un ejemplo donde elegir mal cambie la decisión.
-2. ¿Qué observarías para validar **audience adaptation** y qué observación obligaría a rechazar tu interpretación?
-3. Aplica **definir objetivo y audiencia → estructurar situación elección evidencia** al caso de la clase. ¿Qué dato todavía falta?
-4. ¿Por qué **message recall** no basta por sí sola para atribuir causalidad?
-5. Compara dos fuentes de la tabla de lectura. ¿Dónde podrían llevar a recomendaciones distintas para **comunicación del CEO**?
-6. ¿Qué decisión equivocada podría producirse si se ignora este límite: **No conviertas comunicación en spin. La reputación de largo plazo depende de no prometer aquello que los hechos o decisiones internas contradicen.**?
+1. ¿Qué dos tipos de información propone Coombs comunicar primero y por qué preceden a la reputación?
+2. ¿Qué diferencia hay entre una crisis de tipo víctima y una de tipo evitable, y cómo cambia la postura?
+3. ¿Cuándo es defendible una estrategia de negación y qué límite fija la clase?
+4. Una declaración del CEO fue inexacta. ¿Qué debe hacer y qué diferencia hay con una declaración correcta pero discutida?
+5. ¿Qué tres conversaciones contiene una conversación difícil según Stone, Patton y Heen?
+6. Escribe la estructura *hecho → límite → compromiso* para una pregunta sobre la cantidad de afectados.
+7. ¿Qué pierde una organización cuando retiene un dato relevante que ya conoce?
+8. ¿Qué debe incluir el traspaso de la vocería?
+
+<details>
+<summary>Claves de respuesta</summary>
+
+1. Información de instrucción (qué ocurrió y qué debe hacer quien está en riesgo) e información de ajuste (reconocer el daño y apoyar). Preceden a la reputación porque protegen a las personas primero.
+2. En víctima la atribución es mínima y bastan información y apoyo; en evitable es fuerte y corresponde reconstruir: asumir, disculparse y reparar.
+3. Cuando los hechos la respaldan, por ejemplo un rumor falso. Nunca se niega lo que se sabe cierto.
+4. Corregir de inmediato y explicar el error, con la misma visibilidad. Si es correcta, se mantiene y se explica su base.
+5. Qué ocurrió, los sentimientos y la identidad.
+6. Por ejemplo: «Confirmamos 3.200 afectados; aún no sabemos si hubo acceso a sus datos; informaremos el jueves a las 12:00.»
+7. Pasa de falla de competencia a duda de integridad; la confianza se daña más que con el error mismo.
+8. Mensajes vigentes y relaciones con medios, un sucesor entrenado, un vocero provisional único y una explicación honesta del cambio.
+
+</details>
 
 ## 📥 Entregable
 
 Guarda en `portfolio/200-comunicacion-del-ceo/`:
 
-- `board-or-executive-memo.md` con el problema específico de **comunicación del CEO**, evidencia, alternativas, decisión y gobernanza;
-- `reading-note.md` contrastando las fuentes de **comunicación del CEO** con edición/páginas consultadas;
-- `decision-journal.md` registrando los supuestos de **CEO narrative**, confianza, responsable y revisión;
-- `red-team.md` con la objeción más fuerte al caso **Tras una adquisición, el CEO dice a empleados nada cambiará y a inversionistas promete USD 20M en sinergias de personal. La contradicción se filtra el mismo día.** y el dato que podría invalidar la recomendación.
+- `executive-spokesperson-manual.md` (plantilla [manual de vocería ejecutiva](../../../../templates/executive-spokesperson-manual.md)) con el caso ejecutivo resuelto;
+- `reading-note.md` contrastando dos fuentes y su efecto en la postura elegida;
+- `decision-journal.md` con la clasificación de la crisis, la decisión y el dato que la cambiaría;
+- `red-team.md` con la objeción más fuerte a tu postura y la respuesta.
 
 ## 📗 Fuentes y verificación
 
-- Ben Horowitz — *The Hard Thing About Hard Things* (HarperCollins Publishers, 2014). **Uso en esta clase:** decisiones difíciles de CEO, organización, personas y ejecución bajo presión. Lectura selectiva sobre **comunicación del ceo**. **Localizador:** [ISBN-13 9780062273215](https://openlibrary.org/isbn/9780062273215).
-- Matt Mochary — *The Great CEO Within* (Mochary Films, 2019). **Uso en esta clase:** sistemas operativos del CEO, comunicación, accountability y equipo ejecutivo. Lectura selectiva sobre **comunicación del ceo**. **Localizador:** [ISBN-13 9780578599281](https://openlibrary.org/isbn/9780578599281).
-- Peter F. Drucker — *Management: Tasks, Responsibilities, Practices* (Harper & Row, 1974). **Uso en esta clase:** responsabilidad gerencial, propósito, organización y resultados. Lectura selectiva sobre **comunicación del ceo**. **Localizador:** [ISBN-13 9780060110925](https://openlibrary.org/isbn/9780060110925).
-- Ram Charan, Stephen Drotter & James Noel — *The Leadership Pipeline* (Jossey-Bass, 2000). **Uso en esta clase:** perspectiva de Sucesión aplicada al problema de la clase. Lectura selectiva sobre **comunicación del ceo**. **Localizador:** [ISBN-13 9780787951726](https://openlibrary.org/isbn/9780787951726).
-- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** impacto emocional del liderazgo y estilos de conducción. Lectura selectiva sobre **comunicación del ceo**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
-- Larry Bossidy & Ram Charan — *Execution* (2002). **Uso en esta clase:** disciplina de ejecución, personas, estrategia y operaciones. Lectura selectiva sobre **comunicación del ceo**. **Localizador:** [ISBN-13 9781598954838](https://openlibrary.org/isbn/9781598954838).
-- Susan A. Ambrose et al. — *How Learning Works* (John Wiley & Sons, Incorporated, 2010). **Uso en esta clase:** diseñar los objetivos, la práctica y el feedback de **comunicación del ceo** sobre conocimiento previo verificable. **Localizador:** [ISBN-13 9780470617601](https://openlibrary.org/isbn/9780470617601).
-- Peter C. Brown, Henry L. Roediger III & Mark A. McDaniel — *Make It Stick* (Harvard University Press, 2014). **Uso en esta clase:** justificar la recuperación inicial y las preguntas de comprobación de **comunicación del ceo**. **Localizador:** [ISBN-13 9780674986572](https://openlibrary.org/isbn/9780674986572).
-- Grant Wiggins & Jay McTighe — *Understanding by Design* (Pearson Education, Inc., 2006). **Uso en esta clase:** derivar el entregable de **comunicación del ceo** desde el desempeño observable y no desde el temario. **Localizador:** [ISBN-13 9780131950849](https://openlibrary.org/isbn/9780131950849).
-- Anders Ericsson & Robert Pool — *Peak* (Penguin Random House, 2016). **Uso en esta clase:** convertir la práctica de **comunicación del ceo** en práctica deliberada con criterios explícitos. **Localizador:** [ISBN-13 9781473513143](https://openlibrary.org/isbn/9781473513143).
-- William Ellet — *The Case Study Handbook* (Harvard Business Review Press, 2018). **Uso en esta clase:** estructurar el caso ejecutivo de **comunicación del ceo** como problema, evidencia, alternativas y recomendación. **Localizador:** [ISBN-13 9781633696150](https://openlibrary.org/isbn/9781633696150).
+- W. Timothy Coombs — *Protecting Organization Reputations During a Crisis: The Development and Application of Situational Crisis Communication Theory* (Corporate Reputation Review, 2007). **Uso en esta clase:** responsabilidad atribuida, respuesta base y posturas de respuesta. Lectura selectiva sobre **comunicación del ceo**. **Localizador:** [DOI 10.1057/palgrave.crr.1550049](https://doi.org/10.1057/palgrave.crr.1550049).
+- Peter H. Kim, Donald L. Ferrin, Cecily D. Cooper & Kurt T. Dirks — *Removing the Shadow of Suspicion: The Effects of Apology Versus Denial for Repairing Competence- Versus Integrity-Based Trust Violations* (Journal of Applied Psychology, 2004). **Uso en esta clase:** disculpa o negación según el tipo de falla. Lectura selectiva sobre **comunicación del ceo**. **Localizador:** [DOI 10.1037/0021-9010.89.1.104](https://doi.org/10.1037/0021-9010.89.1.104).
+- Douglas Stone, Bruce Patton & Sheila Heen — *Difficult Conversations* (Random House Audio, 1999). **Uso en esta clase:** las tres conversaciones de una pregunta difícil. Lectura selectiva sobre **comunicación del ceo**. **Localizador:** [ISBN-13 9780553525687](https://openlibrary.org/isbn/9780553525687).
+- Daniel Goleman, Richard Boyatzis & Annie McKee — *Primal Leadership* (Harvard Business School Press, 2002). **Uso en esta clase:** el estado emocional del líder y su efecto en la recepción del mensaje. Lectura selectiva sobre **comunicación del ceo**. **Localizador:** [ISBN-13 9781578514861](https://openlibrary.org/isbn/9781578514861).
+- Roger C. Mayer, James H. Davis & F. David Schoorman — *An Integrative Model of Organizational Trust* (Academy of Management Review, 1995). **Uso en esta clase:** qué factores observa quien decide confiar en una declaración. Lectura selectiva sobre **comunicación del ceo**. **Localizador:** [DOI 10.2307/258792](https://doi.org/10.2307/258792).
 
-> **Regla de fuentes para Comunicación del CEO:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley, impuesto o estándar vivo mencionado en **comunicación del CEO** debe comprobarse nuevamente en su fuente primaria vigente. El desarrollo es original y no reproduce capítulos protegidos.
+> **Regla de fuentes para Comunicación del CEO:** las obras anteriores estructuran las perspectivas de esta materia; cualquier norma, ley o estándar vivo mencionado debe comprobarse nuevamente en su fuente primaria vigente, incluidas las implicancias legales de una disculpa. Los casos y ejemplos son hipotéticos y no describen a ninguna empresa real. El desarrollo es original y no reproduce capítulos protegidos.
 
 <!-- pie:inicio -->
 ---

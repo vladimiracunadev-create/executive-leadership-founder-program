@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 126: 1. limpiar stages por exit criteria → 2. segmentar commit/best case/pipeline → 3. usar historia y deal evidence → 4. revisar aging y slippage → 5. actualizar forecast sin proteger ego](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. limpiar stages por exit criteria → 2. segmentar commit/best case/pipeline → 3. usar historia y deal evidence → 4. revisar aging y slippage → 5. actualizar forecast sin proteger ego
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **Pipeline y forecast comercial son distintos: pipeline representa oportunidades abiertas; forecast estima qué revenue ocurrirá y cuándo. La calidad depende de criterios de etapa, probabilidad basada en evidencia, aging y close dates creíbles. Multiplicar monto por probabilidad arbitraria no corrige datos malos.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Coverage no es universal: varía por win rate, ciclo y mix. No copies un ratio de otra empresa sin backtest de tu propio funnel.**
 

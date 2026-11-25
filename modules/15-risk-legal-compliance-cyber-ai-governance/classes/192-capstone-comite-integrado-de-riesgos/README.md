@@ -47,18 +47,9 @@ Al finalizar podrás:
 
 ## 🧠 Modelo mental
 
-<!-- modelo:inicio -->
-![Modelo mental de la clase 192: 1. definir top risks por objetivo → 2. analizar concentración y escenarios → 3. comparar residual con apetito → 4. decidir tratamientos y capital → 5. asignar assurance y seguimiento](modelo-mental.svg)
-
-<details>
-<summary>La misma secuencia, en texto</summary>
-
 ```text
 1. definir top risks por objetivo → 2. analizar concentración y escenarios → 3. comparar residual con apetito → 4. decidir tratamientos y capital → 5. asignar assurance y seguimiento
 ```
-
-</details>
-<!-- modelo:fin -->
 
 La secuencia nace del problema de esta clase: **El comité integrado de riesgos debe priorizar exposición agregada y decisiones, no escuchar reportes aislados de legal, cyber, operaciones y compliance. El capstone conecta objetivos, escenarios, apetito, controles, indicadores, incidentes y capital requerido.** El método es útil mientras las condiciones permitan observar las señales requeridas. No elimina incertidumbre; la hace visible y obliga a decidir proporcionalmente a la evidencia. Límite principal: **Agregar scores numéricos puede ocultar dependencia no lineal. Usa escenarios conjuntos y juicio experto para concentraciones que una suma simple no captura.**
 

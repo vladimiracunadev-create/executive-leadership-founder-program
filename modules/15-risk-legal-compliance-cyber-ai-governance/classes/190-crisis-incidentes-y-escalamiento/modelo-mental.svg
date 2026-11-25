@@ -1,69 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 398" width="1040" role="img" aria-labelledby="t d" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
-<title id="t">Modelo mental de la clase 190: Crisis, incidentes y escalamiento</title>
-<desc id="d">1. detectar y clasificar → 2. activar roles y war room → 3. proteger personas y contener impacto → 4. comunicar hechos y decisiones → 5. recuperar investigar y aprender</desc>
-<defs><marker id="punta" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M1,1 L9,5 L1,9 Z" fill="#bc4c00"/></marker></defs>
-<rect width="1040" height="398" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
-<rect x="28" y="24" width="132" height="26" rx="13" fill="#bc4c00"/>
-<text x="94" y="41.5" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.2">MODELO MENTAL</text>
-<text x="176" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 190 · Crisis, incidentes y escalamiento</text>
-<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Parte 15 · Dirección, estrategia y organización</text>
-<rect x="28" y="92" width="169.6" height="128" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
-<path d="M28,126 V104 a12,12 0 0 1 12,-12 H185.6 a12,12 0 0 1 12,12 V126 Z" fill="#bc4c00"/>
-<text x="44" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 1</text>
-<text x="42" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >detectar y</text>
-<text x="42" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >clasificar</text>
-<path d="M203.6,173 H223.6" stroke="#bc4c00" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
-<rect x="231.6" y="92" width="169.6" height="128" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
-<path d="M231.6,126 V104 a12,12 0 0 1 12,-12 H389.2 a12,12 0 0 1 12,12 V126 Z" fill="#bc4c00"/>
-<text x="247.6" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 2</text>
-<text x="245.6" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >activar roles y</text>
-<text x="245.6" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >war room</text>
-<path d="M407.2,173 H427.2" stroke="#bc4c00" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
-<rect x="435.2" y="92" width="169.6" height="128" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
-<path d="M435.2,126 V104 a12,12 0 0 1 12,-12 H592.8 a12,12 0 0 1 12,12 V126 Z" fill="#bc4c00"/>
-<text x="451.2" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 3</text>
-<text x="449.2" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >proteger</text>
-<text x="449.2" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >personas y</text>
-<text x="449.2" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >contener impacto</text>
-<path d="M610.8,173 H630.8" stroke="#bc4c00" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
-<rect x="638.8" y="92" width="169.6" height="128" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
-<path d="M638.8,126 V104 a12,12 0 0 1 12,-12 H796.4 a12,12 0 0 1 12,12 V126 Z" fill="#bc4c00"/>
-<text x="654.8" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 4</text>
-<text x="652.8" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >comunicar hechos</text>
-<text x="652.8" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >y decisiones</text>
-<path d="M814.4,173 H834.4" stroke="#bc4c00" stroke-width="2.4" stroke-linecap="round" marker-end="url(#punta)"/>
-<rect x="842.4" y="92" width="169.6" height="128" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2"/>
-<path d="M842.4,126 V104 a12,12 0 0 1 12,-12 H1000 a12,12 0 0 1 12,12 V126 Z" fill="#bc4c00"/>
-<text x="858.4" y="114.5" font-size="12" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.4">PASO 5</text>
-<text x="856.4" y="154" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >recuperar</text>
-<text x="856.4" y="174" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >investigar y</text>
-<text x="856.4" y="194" font-size="15.5" font-weight="400" fill="#1f2328" text-anchor="start" >aprender</text>
-<path d="M927.2,222 V244 a10,10 0 0 1 -10,10 H122.8 a10,10 0 0 1 -10,-10 V224" fill="none" stroke="#bc4c00" stroke-width="2" stroke-dasharray="7 6" stroke-linecap="round" marker-end="url(#punta)"/>
-<rect x="358.6" y="242" width="322.8" height="24" rx="12" fill="#f6f8fa" stroke="#bc4c00" stroke-width="1.2"/>
-<text x="520" y="258.5" font-size="12.5" font-weight="600" fill="#bc4c00" text-anchor="middle" >revisar y ajustar cuando la evidencia cambie</text>
-<text x="28" y="300" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">QUÉ OBSERVAR</text>
-<rect x="28" y="314" width="136.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2"/>
-<circle cx="41" cy="327" r="3.5" fill="#bc4c00"/>
-<text x="52" y="331.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >time-to-escalate</text>
-<rect x="174.4" y="314" width="53.6" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2"/>
-<circle cx="187.4" cy="327" r="3.5" fill="#bc4c00"/>
-<text x="198.4" y="331.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >MTTR</text>
-<rect x="238" y="314" width="205.4" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2"/>
-<circle cx="251" cy="327" r="3.5" fill="#bc4c00"/>
-<text x="262" y="331.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >stakeholder update latency</text>
-<rect x="453.4" y="314" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2"/>
-<circle cx="466.4" cy="327" r="3.5" fill="#bc4c00"/>
-<text x="477.4" y="331.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >decision reversals</text>
-<rect x="613.6" y="314" width="150.2" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2"/>
-<circle cx="626.6" cy="327" r="3.5" fill="#bc4c00"/>
-<text x="637.6" y="331.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >recovery objective</text>
-<rect x="773.8" y="314" width="226.1" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2"/>
-<circle cx="786.8" cy="327" r="3.5" fill="#bc4c00"/>
-<text x="797.8" y="331.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >fact-vs-allegation separation</text>
-<rect x="28" y="348" width="198.5" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2"/>
-<circle cx="41" cy="361" r="3.5" fill="#bc4c00"/>
-<text x="52" y="365.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >investigator independence</text>
-<rect x="236.5" y="348" width="212.3" height="26" rx="13" fill="#ffffff" stroke="#bc4c00" stroke-width="1.2"/>
-<circle cx="249.5" cy="361" r="3.5" fill="#bc4c00"/>
-<text x="260.5" y="365.5" font-size="12.5" font-weight="400" fill="#1f2328" text-anchor="start" >escalation criteria clarity</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 620" width="1040" role="img" aria-labelledby="t-190 d-190" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="t-190">Escalamiento por niveles y roles de un incidente</title>
+<desc id="d-190">Una escalera de cuatro niveles (operación, gerencia, comité de crisis, directorio) con su criterio de paso, cuatro roles separados bajo un mando único y cuatro prioridades en orden.</desc>
+<defs><marker id="p-190" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M1,1 L9,5 L1,9 Z" fill="#59636e"/></marker></defs>
+<rect width="1040" height="620" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<rect x="28" y="24" width="59.95" height="24" rx="12" fill="#0969da"/>
+<text x="57.975" y="40" font-size="11.5" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">MARCO</text>
+<text x="103.95" y="43" font-size="19" font-weight="700" fill="#1f2328" text-anchor="start" >Clase 190 · Quién actúa, cuándo sube y en qué orden</text>
+<text x="1012" y="43" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="end" >Beyer et al. (2016) · Coombs (2007)</text>
+<rect x="112" y="82" width="386" height="86" rx="10" fill="#ffffff" stroke="#cf222e" stroke-width="1.8" />
+<circle cx="140" cy="125" r="17" fill="#cf222e"/>
+<text x="140" y="131" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="168" y="110" font-size="15" font-weight="700" fill="#1f2328" text-anchor="start" >Directorio</text>
+<text x="168" y="129" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >La decisión excede al comité o compromete la</text>
+<text x="168" y="146.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >continuidad o la licencia para operar.</text>
+<path d="M112,176 L112,182" stroke="#59636e" stroke-width="1.6" fill="none" stroke-linecap="round"  marker-end="url(#p-190)"/>
+<rect x="84" y="180" width="414" height="86" rx="10" fill="#ffffff" stroke="#bc4c00" stroke-width="1.8" />
+<circle cx="112" cy="223" r="17" fill="#bc4c00"/>
+<text x="112" y="229" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="140" y="208" font-size="15" font-weight="700" fill="#1f2328" text-anchor="start" >Comité de crisis</text>
+<text x="140" y="227" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Afecta a clientes, datos personales, un</text>
+<text x="140" y="244.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >regulador, a personas o es público.</text>
+<path d="M84,274 L84,280" stroke="#59636e" stroke-width="1.6" fill="none" stroke-linecap="round"  marker-end="url(#p-190)"/>
+<rect x="56" y="278" width="442" height="86" rx="10" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<circle cx="84" cy="321" r="17" fill="#0969da"/>
+<text x="84" y="327" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="112" y="306" font-size="15" font-weight="700" fill="#1f2328" text-anchor="start" >Gerencia</text>
+<text x="112" y="325" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Necesita un segundo equipo o no se resuelve tras una</text>
+<text x="112" y="342.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >hora de análisis concentrado.</text>
+<path d="M56,372 L56,378" stroke="#59636e" stroke-width="1.6" fill="none" stroke-linecap="round"  marker-end="url(#p-190)"/>
+<rect x="28" y="376" width="470" height="86" rx="10" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<circle cx="56" cy="419" r="17" fill="#1a7f37"/>
+<text x="56" y="425" font-size="17" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="84" y="404" font-size="15" font-weight="700" fill="#1f2328" text-anchor="start" >Operación</text>
+<text x="84" y="423" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Un equipo lo detecta, lo contiene y lo registra con su</text>
+<text x="84" y="440.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >propia autoridad.</text>
+<text x="28" y="482" font-size="12.5" font-weight="600" fill="#59636e" text-anchor="start" >Declarar un incidente es una decisión barata; no declararlo, la cara.</text>
+<text x="540" y="80" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">UN SOLO MANDO, ROLES SEPARADOS</text>
+<rect x="670" y="94" width="230" height="62" rx="12" fill="#ffffff" stroke="#cf222e" stroke-width="2" />
+<text x="785" y="120" font-size="15" font-weight="700" fill="#1f2328" text-anchor="middle" >Mando del incidente</text>
+<text x="785" y="139" font-size="12" font-weight="400" fill="#59636e" text-anchor="middle" >decide y responde por la decisión</text>
+<rect x="540" y="196" width="230" height="58" rx="12" fill="#ffffff" stroke="#0969da" stroke-width="1.8" />
+<text x="655" y="220" font-size="14.5" font-weight="700" fill="#1f2328" text-anchor="middle" >Operaciones</text>
+<text x="655" y="239" font-size="12" font-weight="400" fill="#59636e" text-anchor="middle" >contiene y repara</text>
+<path d="M785,156 L655,194" stroke="#0969da" stroke-width="1.8" fill="none" stroke-linecap="round"  marker-end="url(#p-190)"/>
+<rect x="790" y="196" width="230" height="58" rx="12" fill="#ffffff" stroke="#1a7f37" stroke-width="1.8" />
+<text x="905" y="220" font-size="14.5" font-weight="700" fill="#1f2328" text-anchor="middle" >Comunicación</text>
+<text x="905" y="239" font-size="12" font-weight="400" fill="#59636e" text-anchor="middle" >un solo mensaje</text>
+<path d="M785,156 L905,194" stroke="#1a7f37" stroke-width="1.8" fill="none" stroke-linecap="round"  marker-end="url(#p-190)"/>
+<rect x="670" y="292" width="230" height="58" rx="12" fill="#ffffff" stroke="#8250df" stroke-width="1.8" />
+<text x="785" y="316" font-size="14.5" font-weight="700" fill="#1f2328" text-anchor="middle" >Registro y planificación</text>
+<text x="785" y="335" font-size="12" font-weight="400" fill="#59636e" text-anchor="middle" >hechos, decisiones y relevos</text>
+<path d="M785,156 L785,290" stroke="#8250df" stroke-width="1.8" fill="none" stroke-linecap="round" stroke-dasharray="6 5" marker-end="url(#p-190)"/>
+<text x="540" y="386" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >Quien opera no habla por la empresa, y quien habla no repara. Legal</text>
+<text x="540" y="403.25" font-size="12.5" font-weight="400" fill="#59636e" text-anchor="start" >y personas asesoran al mando; no lo sustituyen.</text>
+<text x="540" y="450" font-size="11.5" font-weight="700" fill="#59636e" text-anchor="start" letter-spacing="1.4">PRIORIDADES, EN ESTE ORDEN</text>
+<circle cx="554" cy="480" r="13" fill="#0969da"/>
+<text x="554" y="485" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >1</text>
+<text x="576" y="485" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >Proteger a las personas</text>
+<circle cx="804" cy="480" r="13" fill="#0969da"/>
+<text x="804" y="485" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >2</text>
+<text x="826" y="485" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >Detener el daño</text>
+<circle cx="554" cy="524" r="13" fill="#0969da"/>
+<text x="554" y="529" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >3</text>
+<text x="576" y="529" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >Preservar la evidencia</text>
+<circle cx="804" cy="524" r="13" fill="#0969da"/>
+<text x="804" y="529" font-size="13" font-weight="700" fill="#ffffff" text-anchor="middle" >4</text>
+<text x="826" y="529" font-size="13.5" font-weight="600" fill="#1f2328" text-anchor="start" >Restablecer</text>
+<text x="28" y="594" font-size="12" font-weight="400" fill="#59636e" text-anchor="start" >Niveles y criterios: adaptación docente de Beyer et al. (2016) y Coombs (2007); cada organización fija los suyos por escrito.</text>
 </svg>
